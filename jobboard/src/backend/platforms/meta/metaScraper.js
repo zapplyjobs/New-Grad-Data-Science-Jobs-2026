@@ -12,7 +12,7 @@ async function scrapeMetaJobs(specificJobTitle = null) {
     }
 
     const browser = await Puppeteer.launch({
-        headless: false,
+        headless: true,
          args: [
       "--no-sandbox", 
       "--disable-setuid-sandbox",
