@@ -1,42 +1,42 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Small Medium Enterprises and Channel Azure",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
+    "job_title": "Principal TPM Manager",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: Senior Finance Manager. Level: All Levels. Posted: Recently. Full Title: Senior Finance Manager - Small Medium Enterprises and Channel Azure",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1842087/Senior-Finance-Manager---Small-Medium-Enterprises-and-Channel-Azure",
-    "id": "microsoft-small-medium-enterprises-and-channel-azure-multiple-locations"
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal TPM Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859874/Principal-TPM-Manager",
+    "id": "microsoft-principal-tpm-manager-redmond"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Intern - Industrial Engineer (SIC)",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "Posted 21 hours ago",
+    "job_description": "Data Science job for the role Intern - Industrial Engineer (SIC) at Manassas, Virginia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30781344",
+    "id": "micron-intern-industrial-engineer-sic-manassas"
   },
   {
     "employer_name": "CISCO",
-    "job_title": "Software Engineer",
-    "job_city": "RTP",
-    "job_state": "North Carolina",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineer at RTP, North Carolina, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer/1446847",
-    "id": "cisco-software-engineer-rtp"
-  },
-  {
-    "employer_name": "CISCO",
-    "job_title": "Integrations Technical Leader",
+    "job_title": "Product Marketing Manager- Multicloud Infrastructure",
     "job_city": "Offsite",
     "job_state": "San Jose",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Integrations Technical Leader at Offsite, San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Integrations-Technical-Leader/1442471",
-    "id": "cisco-integrations-technical-leader-offsite"
+    "job_description": "Data Science job for the role Senior Product Marketing Manager- Multicloud Infrastructure at Offsite, San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-Product-Marketing-Manager-Multicloud-Infrastructure/1447115",
+    "id": "cisco-product-marketing-manager-multicloud-infrastructure-offsite"
   },
   {
-    "employer_name": "CISCO",
-    "job_title": "Technical Marketing Engineer - Optics",
-    "job_city": "San Jose",
-    "job_state": "California",
+    "employer_name": "SIEMENS",
+    "job_title": "Building Automation Service Senior Sales Executive",
+    "job_city": "Houston",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Technical Marketing Engineer - Optics at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Technical-Marketing-Engineer-Optics/1440682",
-    "id": "cisco-technical-marketing-engineer-optics-san-jose"
+    "job_description": "Data Science job for the role Building Automation Service Senior Sales Executive at Houston, Texas, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-building-automation-service-senior-sales-executive-houston"
   }
 ]
