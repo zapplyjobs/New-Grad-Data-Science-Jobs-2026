@@ -50,7 +50,7 @@ function parseLocation(locationText) {
 
 async function genomicsScraper(searchQuery, maxPages = 10, usOnly = true) {
   const browser = await puppeteer.launch({
-    headless: true, // Set to false for debugging
+    headless: true,
     args: ['--no-sandbox', '--disable-setuid-sandbox']
   });
 
@@ -84,10 +84,6 @@ async function genomicsScraper(searchQuery, maxPages = 10, usOnly = true) {
       try {
         await page.goto(baseUrl, { waitUntil: 'networkidle2', timeout: 30000 });
         await new Promise(resolve => setTimeout(resolve, 3000));
-
-        // Take screenshot for debugging
-        await page.screenshot({ path: 'genomics_page.png', fullPage: true });
-        console.log('Screenshot saved as genomics_page.png');
 
         // Check if we're on the right page and if there are jobs
         const pageInfo = await page.evaluate(() => {
@@ -396,7 +392,6 @@ async function main() {
     console.log(`\nNo ${usOnly ? 'US ' : ''}jobs found for "${searchQuery}".`);
     console.log('\nTips:');
     console.log('- Try broader search terms like "Data" instead of "Data Science"');
-    console.log('- Check the screenshot (genomics_page.png) to see what the page looks like');
     if (usOnly) {
       console.log('- Use --all-locations flag to include international jobs');
     }

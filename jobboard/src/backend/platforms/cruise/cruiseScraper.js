@@ -50,7 +50,7 @@ function parseLocation(locationText) {
 
 async function cruiseJobsScraper(searchQuery, maxPages = 10, usOnly = true) {
   const browser = await puppeteer.launch({
-    headless: true, // Set to false for debugging
+    headless: true,
     args: ['--no-sandbox', '--disable-setuid-sandbox']
   });
 
@@ -82,10 +82,6 @@ async function cruiseJobsScraper(searchQuery, maxPages = 10, usOnly = true) {
       try {
         await page.goto(baseUrl, { waitUntil: 'networkidle2', timeout: 30000 });
         await new Promise(resolve => setTimeout(resolve, 3000));
-
-        // Take screenshot for debugging
-        await page.screenshot({ path: 'cruise_jobs_page.png', fullPage: true });
-        console.log('Screenshot saved as cruise_jobs_page.png');
 
         // Check if we're on the right page
         const pageText = await page.evaluate(() => document.body.textContent);
@@ -360,7 +356,6 @@ async function main() {
     console.log(`\nNo ${usOnly ? 'US-accessible ' : ''}jobs found for "${searchQuery}".`);
     console.log('\nTips:');
     console.log('- Try broader search terms like "Data" instead of "Data Science"');
-    console.log('- Check the screenshot (cruise_jobs_page.png) to see what the page looks like');
     if (usOnly) {
       console.log('- Use --all-locations flag to include international cruise jobs');
     }
