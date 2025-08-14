@@ -1,42 +1,122 @@
 [
   {
     "employer_name": "Microsoft",
-    "job_title": "Senior Data Scientist",
+    "job_title": "Treasury Compliance",
     "job_city": "Redmond",
     "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Senior Data Scientist",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854516/Senior-Data-Scientist",
-    "id": "microsoft-senior-data-scientist-redmond"
+    "job_description": "Category: Senior Finance Manager. Level: All Levels. Posted: Recently. Full Title: Senior Finance Manager - Treasury Compliance",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857534/Senior-Finance-Manager---Treasury-Compliance",
+    "id": "microsoft-treasury-compliance-redmond"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Data Scientist II",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "employer_name": "Arm",
+    "job_title": "Software Performance Analysis Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Data Scientist II",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854527/Data-Scientist-II",
-    "id": "microsoft-data-scientist-ii-redmond"
+    "job_description": "Data Science job for the role Senior Software Performance Analysis Engineer at Cambridge, United Kingdom, Manchester, United Kingdom, Budapest, Hungary",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-software-performance-analysis-engineer/33099/74720022336",
+    "id": "arm-software-performance-analysis-engineer-cambridge"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Business Analyst Manager",
-    "job_city": "San Bruno",
-    "job_state": "CA",
+    "employer_name": "CISCO",
+    "job_title": "Distributed Golang Software Engineer, Isovalent Tetragon Team (US)",
+    "job_city": "Offsite",
+    "job_state": "San Jose",
     "job_posted_at": "Recently",
-    "job_description": "20 Category: Data Science. Level: corporate_fareYouTube. Posted: Recently. Full Title: Business Analyst Manager, Trust and Safety, YouTube",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/110475110489432774-business-analyst-manager-trust-and-safety-youtube?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-business-analyst-manager-san-bruno"
+    "job_description": "Data Science job for the role Senior Distributed Golang Software Engineer, Isovalent Tetragon Team (US) at Offsite, San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-Distributed-Golang-Software-Engineer-Isovalent-Tetragon-Team-US/1444334",
+    "id": "cisco-distributed-golang-software-engineer-isovalent-tetragon-team-us-offsite"
   },
   {
     "employer_name": "SIEMENS",
-    "job_title": "Application Support Engineer – Senior",
+    "job_title": "Cooling Efficiency Portfolio Manager (m/f/d)",
+    "job_city": "Amadora",
+    "job_state": "Portugal",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Cooling Efficiency Portfolio Manager (m/f/d) at Amadora, Lisboa, Portugal",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-cooling-efficiency-portfolio-manager-m-f-d-amadora"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Assurance – Audit Associate (Software & Technology)",
     "job_city": "Plano",
     "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Application Support Engineer – Senior at Plano, Texas, United States of America",
+    "job_description": "Data Science job for the role Assurance – Audit Associate (Software & Technology) at Plano, Texas, United States of America",
     "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-application-support-engineer-senior-plano"
+    "id": "siemens-assurance-audit-associate-software-technology-plano"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Full-Stack SWE, Data Acquisition (Foundations)",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role Full-Stack SWE, Data Acquisition (Foundations) at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/153968795-full-stack-swe-data-acquisition-foundations",
+    "id": "aijobs-full-stack-swe-data-acquisition-foundations-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Storage Production Engineer - DGX Cloud",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Storage Production Engineer - DGX Cloud at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/153966861-senior-storage-production-engineer-dgx-cloud",
+    "id": "aijobs-storage-production-engineer-dgx-cloud-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Software Engineer, Datacenter Modeling",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Software Engineer, Datacenter Modeling at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/153966856-senior-software-engineer-datacenter-modeling",
+    "id": "aijobs-software-engineer-datacenter-modeling-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Center Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Data Center Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/153966849-data-center-engineer",
+    "id": "aijobs-data-center-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Algorithm Engineer, Map-Perception Fusion",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Algorithm Engineer, Map-Perception Fusion at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/153966848-senior-algorithm-engineer-map-perception-fusion",
+    "id": "aijobs-algorithm-engineer-map-perception-fusion-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Director of Public Sector Partner Management, AMER",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role Director of Public Sector Partner Management, AMER at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/153968813-director-of-public-sector-partner-management-amer",
+    "id": "aijobs-director-of-public-sector-partner-management-amer-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Infrastructure Security Engineer - DGX Cloud",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Infrastructure Security Engineer - DGX Cloud at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/153966862-senior-infrastructure-security-engineer-dgx-cloud",
+    "id": "aijobs-infrastructure-security-engineer-dgx-cloud-santa-clara"
   }
 ]
