@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Copilot Measurement & Evaluation",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Senior Product Manager. Level: All Levels. Posted: Recently. Full Title: Senior Product Manager - Copilot Measurement & Evaluation",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1780444/Senior-Product-Manager---Copilot-Measurement-%26-Evaluation",
+    "id": "microsoft-copilot-measurement-evaluation-mountain-view"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate GPU Modelling Engineer",
+    "job_city": "Lund",
+    "job_state": "Sweden",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Graduate GPU Modelling Engineer at Lund, Sweden",
+    "job_apply_link": "https://careers.arm.com/job/lund/graduate-gpu-modelling-engineer/33099/85018656192",
+    "id": "arm-graduate-gpu-modelling-engineer-lund"
+  }
+]
