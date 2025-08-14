@@ -1,74 +1,33 @@
 [
   {
-    "job_title": "Software Development Engineer II, Measurement, Ad Tech, and Data Science (MADS)",
-    "employer_name": "Amazon",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Data Science job for the role Software Development Engineer II, Measurement, Ad Tech, and Data Science (MADS) at New York, NY, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2970207/software-development-engineer-ii-measurement-ad-tech-and-data-science-mads",
-    "job_posted_at": "2025-08-14T14:31:46.961Z",
-    "job_posted_at_datetime_utc": "2025-08-14T14:31:46.961Z",
-    "id": "amazon-software-development-engineer-ii-measurement-ad-tech-and-data-science-mads-new-york"
-  },
-  {
-    "job_title": "Business Intelligence Engineer, AWS Compliance & Security Assurance",
+    "job_title": "Business Intelligence Engineer II, AWS Analytics and Data Solutions (ADS)",
     "employer_name": "Amazon",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_description": "Data Science job for the role Business Intelligence Engineer, AWS Compliance & Security Assurance at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3023132/business-intelligence-engineer-aws-compliance-security-assurance",
-    "job_posted_at": "2025-08-11T16:31:46.962Z",
-    "job_posted_at_datetime_utc": "2025-08-11T16:31:46.962Z",
-    "id": "amazon-business-intelligence-engineer-aws-compliance-security-assurance-seattle"
+    "job_description": "Data Science job for the role Business Intelligence Engineer II, AWS Analytics and Data Solutions (ADS) at Seattle, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2978459/business-intelligence-engineer-ii-aws-analytics-and-data-solutions-ads",
+    "job_posted_at": "2025-08-14T16:21:59.599Z",
+    "job_posted_at_datetime_utc": "2025-08-14T16:21:59.599Z",
+    "id": "amazon-business-intelligence-engineer-ii-aws-analytics-and-data-solutions-ads-seattle"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "Process Control Engineer (Fault Detection)",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 17 hours ago",
-    "job_description": "Data Science job for the role Process Control Engineer (Fault Detection) at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30758693",
-    "id": "micron-process-control-engineer-fault-detection-boise"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "ID1 Equipment Maintenance Technician (Idaho Fab 1)",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 17 hours ago",
-    "job_description": "Data Science job for the role ID1 Equipment Maintenance Technician (Idaho Fab 1) at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/28195899",
-    "id": "micron-id1-equipment-maintenance-technician-idaho-fab-1-boise"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "AI Applied Scientist - Cloud & Industrial AI",
-    "job_city": "Bellevue",
-    "job_state": "United States of America",
+    "employer_name": "CISCO",
+    "job_title": "Engineering Architect - Senior Technical Leader",
+    "job_city": "Offsite",
+    "job_state": "San Jose",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role AI Applied Scientist - Cloud & Industrial AI at Bellevue, Washington, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-ai-applied-scientist-cloud-industrial-ai-bellevue"
+    "job_description": "Data Science job for the role Engineering Architect - Senior Technical Leader at Offsite, San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Engineering-Architect-Senior-Technical-Leader/1445282",
+    "id": "cisco-engineering-architect-senior-technical-leader-offsite"
   },
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Building Automation Service Specialist",
-    "job_city": "Worthington",
-    "job_state": "United States of America",
+    "employer_name": "CISCO",
+    "job_title": "Integrations Technical Leader",
+    "job_city": "Allen",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Building Automation Service Specialist at Worthington, Ohio, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-building-automation-service-specialist-worthington"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Automation Lead",
-    "job_city": "Fort Worth",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Automation Lead at Fort Worth, Texas, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-automation-lead-fort-worth"
+    "job_description": "Data Science job for the role Integrations Technical Leader at Allen, Texas, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Integrations-Technical-Leader/1442471",
+    "id": "cisco-integrations-technical-leader-allen"
   }
 ]
