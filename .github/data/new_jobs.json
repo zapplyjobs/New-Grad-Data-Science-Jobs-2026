@@ -1,62 +1,42 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Machine Learning and Artificial Intelligence Engineer",
-    "job_city": "US",
-    "job_state": "NY",
-    "job_posted_at": "10h ago",
-    "job_description": "data science job for the role Machine Learning and Artificial Intelligence Engineer at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/153975767-machine-learning-and-artificial-intelligence-engineer",
-    "id": "aijobs-machine-learning-and-artificial-intelligence-engineer-us"
+    "employer_name": "Microsoft",
+    "job_title": "Principal Data Science Manager",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal Data Science Manager",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1805089/Principal-Data-Science-Manager",
+    "id": "microsoft-principal-data-science-manager-redmond"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Machine Learning Architect",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "26min ago",
-    "job_description": "data science job for the role Machine Learning Architect at Menlo Park, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/153975769-machine-learning-architect",
-    "id": "aijobs-machine-learning-architect-us"
+    "employer_name": "Microsoft",
+    "job_title": "Data Analytics",
+    "job_city": "Charlotte",
+    "job_state": "North Carolina",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Data Analytics",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1809062/Data-Analytics",
+    "id": "microsoft-data-analytics-charlotte"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Applied Researcher - AI & ML Training | Healthcare Data & Statistical Analysis",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "7h ago",
-    "job_description": "data science job for the role Applied Researcher - AI & ML Training | Healthcare Data & Statistical Analysis at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/153974923-applied-researcher-ai-ml-training-%7C-healthcare-data-statistical-analysis",
-    "id": "aijobs-applied-researcher-ai-ml-training-healthcare-data-statistical-analysis-unknown"
+    "employer_name": "Microsoft",
+    "job_title": "Data and Applied Scientist",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Data and Applied Scientist",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1803545/Data-and-Applied-Scientist",
+    "id": "microsoft-data-and-applied-scientist-redmond"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Machine Learning Engineer I - Windreich Department of Artificial Intelligence & Human Health",
-    "job_city": "US",
-    "job_state": "NY",
-    "job_posted_at": "2h ago",
-    "job_description": "data science job for the role Machine Learning Engineer I - Windreich Department of Artificial Intelligence & Human Health at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/153975768-machine-learning-engineer-i-windreich-department-of-artificial-intelligence-human-health",
-    "id": "aijobs-machine-learning-engineer-i-windreich-department-of-artificial-intelligence-human-health-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Machine Learning Software Engineer",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "22h ago",
-    "job_description": "data science job for the role Machine Learning Software Engineer at San Francisco, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/149398051-machine-learning-software-engineer",
-    "id": "aijobs-machine-learning-software-engineer-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Co-op, UX Research and Design - Crew Resources (Fall, 2025)",
-    "job_city": "US",
-    "job_state": "GA",
-    "job_posted_at": "42min ago",
-    "job_description": "data science job for the role Co-op, UX Research and Design - Crew Resources (Fall, 2025) at Atlanta, GA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/153974922-co-op-ux-research-and-design-crew-resources-fall-2025",
-    "id": "aijobs-co-op-ux-research-and-design-crew-resources-fall-2025-us"
+    "employer_name": "Micron",
+    "job_title": "Sr. Manager, Solutions Architecture",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Posted 14 days ago",
+    "job_description": "Data Science job for the role Sr. Manager, Solutions Architecture at Austin, Texas, United States of America + 2 more",
+    "job_apply_link": "https://careers.micron.com/careers/job/30541054",
+    "id": "micron-sr-manager-solutions-architecture-austin"
   }
 ]
