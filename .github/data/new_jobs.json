@@ -1,42 +1,1112 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Principal Data Science Manager",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "employer_name": "Google",
+    "job_title": "Data Scientist III",
+    "job_city": "San Bruno",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Principal Data Science Manager",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1805089/Principal-Data-Science-Manager",
-    "id": "microsoft-principal-data-science-manager-redmond"
+    "job_description": "12 Category: Data Science. Level: corporate_fareYouTube. Posted: Recently. Full Title: Data Scientist III, Product, YouTube Youth Responsibility",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/143368581382316742-data-scientist-iii-product-youtube-youth-responsibility?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-data-scientist-iii-san-bruno"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Data Analytics",
-    "job_city": "Charlotte",
-    "job_state": "North Carolina",
+    "employer_name": "Google",
+    "job_title": "Engineering Analyst",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Data Analytics",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1809062/Data-Analytics",
-    "id": "microsoft-data-analytics-charlotte"
+    "job_description": "21 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Engineering Analyst, Search, Anti-scraper",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/138853986638668486-engineering-analyst-search-antiscraper?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-engineering-analyst-mountain-view"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Data and Applied Scientist",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "employer_name": "Arm",
+    "job_title": "DFT Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Category: data science. Level: All Levels. Posted: Recently. Full Title: data science - Data and Applied Scientist",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1803545/Data-and-Applied-Scientist",
-    "id": "microsoft-data-and-applied-scientist-redmond"
+    "job_description": "Data Science job for the role Senior DFT Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-dft-engineer/33099/81422540960",
+    "id": "arm-dft-engineer-cambridge"
   },
   {
-    "employer_name": "Micron",
-    "job_title": "Sr. Manager, Solutions Architecture",
+    "employer_name": "Arm",
+    "job_title": "Design Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff Design Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-design-engineer/33099/73937945920",
+    "id": "arm-design-engineer-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Embedded Systems Software Engineer",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Embedded Systems Software Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-embedded-systems-software-engineer/33099/76924461376",
+    "id": "arm-embedded-systems-software-engineer-cambridge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Scientist Apprentice",
+    "job_city": "RESEARCH TRIANGLE PARK",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Junior Data Scientist Apprentice at Entry LevelRESEARCH TRIANGLE PARK, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=19101&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-apprentice-research-triangle-park"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Automation Platform Digital Sales Specialist",
     "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "Posted 14 days ago",
-    "job_description": "Data Science job for the role Sr. Manager, Solutions Architecture at Austin, Texas, United States of America + 2 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/30541054",
-    "id": "micron-sr-manager-solutions-architecture-austin"
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Automation Platform Digital Sales Specialist at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=47795&source=WEB_Search_NA",
+    "id": "ibm-automation-platform-digital-sales-specialist-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Quantum Engagement Lead, Channel Partnerships",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Quantum Engagement Lead, Channel Partnerships at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51935&source=WEB_Search_NA",
+    "id": "ibm-quantum-engagement-lead-channel-partnerships-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Engineer - Data Platform",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technology Sales Engineer - Data Platform at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=42879&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-engineer-data-platform-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Architect Salesforce (Agentforce & Data Cloud)",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technical Architect Salesforce (Agentforce & Data Cloud) at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=33873&source=WEB_Search_NA",
+    "id": "ibm-technical-architect-salesforce-agentforce-data-cloud-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Engineer - Data and AI  - Data Security",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technology Sales Engineer - Data and AI  - Data Security at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51429&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-engineer-data-and-ai-data-security-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "US Industry Market Brand Technical Specialist - Data Platform / Data Intelligence",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role US Industry Market Brand Technical Specialist - Data Platform / Data Intelligence at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=47545&source=WEB_Search_NA",
+    "id": "ibm-us-industry-market-brand-technical-specialist-data-platform-data-intelligence-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data and AI Technical Sales Engineer (Brand Technical Specialist – Data Integration – FSM)",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Data and AI Technical Sales Engineer (Brand Technical Specialist – Data Integration – FSM) at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48264&source=WEB_Search_NA",
+    "id": "ibm-data-and-ai-technical-sales-engineer-brand-technical-specialist-data-integration-fsm-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Sales Specialist, - Industry Market",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Data Sales Specialist, - Industry Market at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=47780&source=WEB_Search_NA",
+    "id": "ibm-data-sales-specialist-industry-market-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Engineer - Data and AI",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technology Sales Engineer - Data and AI at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=45202&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-engineer-data-and-ai-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Specialist - Data and AI",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technology Sales Specialist - Data and AI at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52599&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-specialist-data-and-ai-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Specialist - Data Platform - Midwest",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technology Sales Specialist - Data Platform - Midwest at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50693&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-specialist-data-platform-midwest-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Analyst Apprentice",
+    "job_city": "RESEARCH TRIANGLE PARK",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Junior Data Analyst Apprentice at Entry LevelRESEARCH TRIANGLE PARK, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51717&source=WEB_Search_NA",
+    "id": "ibm-data-analyst-apprentice-research-triangle-park"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Specialist - Data Platform - Xcel & Entergy",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technology Sales Specialist - Data Platform - Xcel & Entergy at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51111&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-specialist-data-platform-xcel-entergy-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Engineer - Data and AI  - AI/MLOps",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technology Sales Engineer - Data and AI  - AI/MLOps at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51420&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-engineer-data-and-ai-ai-mlops-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Specialist - Data Platform - Ford, Honda, Toyota",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technology Sales Specialist - Data Platform - Ford, Honda, Toyota at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51667&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-specialist-data-platform-ford-honda-toyota-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "US Industry Market Brand Technical Specialist - Data Platform / Database",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role US Industry Market Brand Technical Specialist - Data Platform / Database at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=47547&source=WEB_Search_NA",
+    "id": "ibm-us-industry-market-brand-technical-specialist-data-platform-database-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data and AI Technology Sales Engineer - AI Assistants, US Industry",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Data and AI Technology Sales Engineer - AI Assistants, US Industry at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51699&source=WEB_Search_NA",
+    "id": "ibm-data-and-ai-technology-sales-engineer-ai-assistants-us-industry-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Strategy Consultant",
+    "job_city": "Cambridge",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Strategy Consultant at ProfessionalCambridge, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=46152&source=WEB_Search_NA",
+    "id": "ibm-software-strategy-consultant-cambridge"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Brand Sales Specialist Data & AI, Financial Services Market - Visa NY",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Brand Sales Specialist Data & AI, Financial Services Market - Visa NY at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=45862&source=WEB_Search_NA",
+    "id": "ibm-brand-sales-specialist-data-ai-financial-services-market-visa-ny-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Specialist - Data Platform",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technology Sales Specialist - Data Platform at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50731&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-specialist-data-platform-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Product Marketing Manager, Data, IBM Software",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Product Marketing Manager, Data, IBM Software at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=44567&source=WEB_Search_NA",
+    "id": "ibm-product-marketing-manager-data-ibm-software-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technology Field Marketing Professional for DATA & AI",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technology Field Marketing Professional for DATA & AI at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=47031&source=WEB_Search_NA",
+    "id": "ibm-technology-field-marketing-professional-for-data-ai-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Package Application Developer",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Package Application Developer at ProfessionalArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51131&source=WEB_Search_NA",
+    "id": "ibm-package-application-developer-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Package Specialist",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Package Specialist at ProfessionalArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51124&source=WEB_Search_NA",
+    "id": "ibm-package-specialist-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Strategic AE",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Strategic AE at ProfessionalSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=40608&source=WEB_Search_NA",
+    "id": "ibm-strategic-ae-san-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Guardium Delivery Consultant - GQS and G4AI",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Guardium Delivery Consultant - GQS and G4AI at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=41345&source=WEB_Search_NA",
+    "id": "ibm-guardium-delivery-consultant-gqs-and-g4ai-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Guardium Delivery Consultant - IGDC & G4AI",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Guardium Delivery Consultant - IGDC & G4AI at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=41346&source=WEB_Search_NA",
+    "id": "ibm-guardium-delivery-consultant-igdc-g4ai-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sr User Experience Researcher - AI",
+    "job_city": "BELLEVUE",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sr User Experience Researcher - AI at ProfessionalBELLEVUE, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=40926&source=WEB_Search_NA",
+    "id": "ibm-sr-user-experience-researcher-ai-bellevue"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "ETRM Business Analyst & Tester",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior ETRM Business Analyst & Tester at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=45141&source=WEB_Search_NA",
+    "id": "ibm-etrm-business-analyst-tester-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Site Realibility Engineer",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Site Realibility Engineer at Entry LevelAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52140&source=WEB_Search_NA",
+    "id": "ibm-site-realibility-engineer-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "React Frontend Engineer- Kubecost",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior React Frontend Engineer- Kubecost at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51184&source=WEB_Search_NA",
+    "id": "ibm-react-frontend-engineer-kubecost-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "AI Technology Lead Technical Product Manager in Business Automation",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role AI Technology Lead Technical Product Manager in Business Automation at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48256&source=WEB_Search_NA",
+    "id": "ibm-ai-technology-lead-technical-product-manager-in-business-automation-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "SAP S/4HANA Order to Cash Managing Consultant",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role SAP S/4HANA Order to Cash Managing Consultant at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=43715&source=WEB_Search_NA",
+    "id": "ibm-sap-s-4hana-order-to-cash-managing-consultant-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Specialist (SME) - Database",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technology Sales Specialist (SME) - Database at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51195&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-specialist-sme-database-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Maximo Application Technical Architect",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Maximo Application Technical Architect at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=37214&source=WEB_Search_NA",
+    "id": "ibm-maximo-application-technical-architect-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Global Demand Strategy Leader",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Global Demand Strategy Leader at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52333&source=WEB_Search_NA",
+    "id": "ibm-global-demand-strategy-leader-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software QA Engineer - IBM Cloud Networking",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software QA Engineer - IBM Cloud Networking at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50243&source=WEB_Search_NA",
+    "id": "ibm-software-qa-engineer-ibm-cloud-networking-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "2026 Intern Conversion (Federal Consulting)",
+    "job_city": "WASHINGTON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role 2026 Intern Conversion (Federal Consulting) at Entry LevelWASHINGTON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=49058&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-conversion-federal-consulting-washington"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Director, Storage Design",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Director, Storage Design at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=36888&source=WEB_Search_NA",
+    "id": "ibm-director-storage-design-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Consultant - Automotive",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Principal Consultant - Automotive at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52622&source=WEB_Search_NA",
+    "id": "ibm-consultant-automotive-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Spark developer (San Jose/CA)",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Spark developer (San Jose/CA) at ProfessionalSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52150&source=WEB_Search_NA",
+    "id": "ibm-spark-developer-san-jose-ca-san-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Cloud Sales Leader",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Cloud Sales Leader at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48494&source=WEB_Search_NA",
+    "id": "ibm-cloud-sales-leader-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Cybersecurity Risk/Mission Assurance Control Systems Cybersecurity Consultant - Mid",
+    "job_city": "WASHINGTON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Cybersecurity Risk/Mission Assurance Control Systems Cybersecurity Consultant - Mid at ProfessionalWASHINGTON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52120&source=WEB_Search_NA",
+    "id": "ibm-cybersecurity-risk-mission-assurance-control-systems-cybersecurity-consultant-mid-washington"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Global Real Estate TRIRIGA Architect",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Global Real Estate TRIRIGA Architect at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50737&source=WEB_Search_NA",
+    "id": "ibm-global-real-estate-tririga-architect-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Solutions Architect",
+    "job_city": "Chantilly",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Solutions Architect at ProfessionalChantilly, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=18384&source=WEB_Search_NA",
+    "id": "ibm-solutions-architect-chantilly"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Delivery Consultant - Sr. Cloud Consultant",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Delivery Consultant - Sr. Cloud Consultant at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50941&source=WEB_Search_NA",
+    "id": "ibm-delivery-consultant-sr-cloud-consultant-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Lead – Mainframe Applications (Natural/ADABAS)",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technical Lead – Mainframe Applications (Natural/ADABAS) at ProfessionalNo City, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52586&source=WEB_Search_NA",
+    "id": "ibm-technical-lead-mainframe-applications-natural-adabas-no-city"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "HR Pension Benefits Program Manager",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role HR Pension Benefits Program Manager at Entry LevelArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=46639&source=WEB_Search_NA",
+    "id": "ibm-hr-pension-benefits-program-manager-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Digital Leader – Website Form Strategy & Conversion Optimization",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Digital Leader – Website Form Strategy & Conversion Optimization at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51901&source=WEB_Search_NA",
+    "id": "ibm-digital-leader-website-form-strategy-conversion-optimization-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "CSR Manager for Impact Measurement and Engagement",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior CSR Manager for Impact Measurement and Engagement at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48713&source=WEB_Search_NA",
+    "id": "ibm-csr-manager-for-impact-measurement-and-engagement-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Product Marketing Manager, AI, IBM Software",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Product Marketing Manager, AI, IBM Software at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=44573&source=WEB_Search_NA",
+    "id": "ibm-product-marketing-manager-ai-ibm-software-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "International Tax Analyst",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role International Tax Analyst at ProfessionalArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=30025&source=WEB_Search_NA",
+    "id": "ibm-international-tax-analyst-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Researcher - Surface Preparation and Chemical Processing",
+    "job_city": "Yorktown Heights",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Researcher - Surface Preparation and Chemical Processing at ProfessionalYorktown Heights, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=49582&source=WEB_Search_NA",
+    "id": "ibm-researcher-surface-preparation-and-chemical-processing-yorktown-heights"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "watsonx BI - Cognos: Delivery Consultant",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role watsonx BI - Cognos: Delivery Consultant at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=42059&source=WEB_Search_NA",
+    "id": "ibm-watsonx-bi-cognos-delivery-consultant-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Client Sales Leader - MidWest Market Unit",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Client Sales Leader - MidWest Market Unit at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=44613&source=WEB_Search_NA",
+    "id": "ibm-client-sales-leader-midwest-market-unit-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Strategy Consultant",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Strategy Consultant at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51503&source=WEB_Search_NA",
+    "id": "ibm-strategy-consultant-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "IBM CISO - Cybersecurity Forensic Analyst",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role IBM CISO - Cybersecurity Forensic Analyst at ProfessionalArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=44665&source=WEB_Search_NA",
+    "id": "ibm-ibm-ciso-cybersecurity-forensic-analyst-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Web Strategist",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Web Strategist at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48764&source=WEB_Search_NA",
+    "id": "ibm-web-strategist-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "IBM Americas Executive Communications Professional",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role IBM Americas Executive Communications Professional at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=47280&source=WEB_Search_NA",
+    "id": "ibm-ibm-americas-executive-communications-professional-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Consultant",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Principal Consultant at ProfessionalSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=47769&source=WEB_Search_NA",
+    "id": "ibm-consultant-san-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Cybersecurity Assessments/Mitigations Control Systems Cybersecurity Consultant",
+    "job_city": "WASHINGTON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Cybersecurity Assessments/Mitigations Control Systems Cybersecurity Consultant at ProfessionalWASHINGTON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52133&source=WEB_Search_NA",
+    "id": "ibm-cybersecurity-assessments-mitigations-control-systems-cybersecurity-consultant-washington"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Administrator - TS/SCI FS",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role System Administrator - TS/SCI FS at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=41667&source=WEB_Search_NA",
+    "id": "ibm-system-administrator-ts-sci-fs-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Leader - Puerto Rico",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technology Sales Leader - Puerto Rico at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50742&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-leader-puerto-rico-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Americas Consulting Field Marketer, Cybersecurity and Business Applications",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Americas Consulting Field Marketer, Cybersecurity and Business Applications at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50739&source=WEB_Search_NA",
+    "id": "ibm-americas-consulting-field-marketer-cybersecurity-and-business-applications-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Cybersecurity Sensoring-Monitoring Control Systems Cybersecurity Consultant_Mid",
+    "job_city": "WASHINGTON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Cybersecurity Sensoring-Monitoring Control Systems Cybersecurity Consultant_Mid at ProfessionalWASHINGTON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52118&source=WEB_Search_NA",
+    "id": "ibm-cybersecurity-sensoring-monitoring-control-systems-cybersecurity-consultant_mid-washington"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Sales Engineer - Enterprise Storage",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technical Sales Engineer - Enterprise Storage at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=46929&source=WEB_Search_NA",
+    "id": "ibm-technical-sales-engineer-enterprise-storage-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Procurement Specialist Apprentice",
+    "job_city": "RESEARCH TRIANGLE PARK",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Procurement Specialist Apprentice at Entry LevelRESEARCH TRIANGLE PARK, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=47541&source=WEB_Search_NA",
+    "id": "ibm-procurement-specialist-apprentice-research-triangle-park"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Delivery Consultant",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Delivery Consultant at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=39162&source=WEB_Search_NA",
+    "id": "ibm-delivery-consultant-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Procurement Sourcing Professional - Services",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Procurement Sourcing Professional - Services at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=34393&source=WEB_Search_NA",
+    "id": "ibm-procurement-sourcing-professional-services-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Engineer II - Backend",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Engineer II - Backend at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51976&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-ii-backend-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Accounting Apprenticeship",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Accounting Apprenticeship at Entry LevelArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=44283&source=WEB_Search_NA",
+    "id": "ibm-accounting-apprenticeship-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Account Technical Leader",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Account Technical Leader at ProfessionalArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=49891&source=WEB_Search_NA",
+    "id": "ibm-account-technical-leader-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Americas Marketing Events Leader",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Americas Marketing Events Leader at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=43373&source=WEB_Search_NA",
+    "id": "ibm-americas-marketing-events-leader-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Solution Manager",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technical Solution Manager at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52136&source=WEB_Search_NA",
+    "id": "ibm-technical-solution-manager-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Americas TLS US Renewal Sales Specialist",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Americas TLS US Renewal Sales Specialist at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=34743&source=WEB_Search_NA",
+    "id": "ibm-americas-tls-us-renewal-sales-specialist-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Specialist - Storage",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technology Sales Specialist - Storage at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52086&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-specialist-storage-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Infrastructure Product Marketer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Infrastructure Product Marketer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=42072&source=WEB_Search_NA",
+    "id": "ibm-infrastructure-product-marketer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Business Analyst - Veeva Promomats Specialist",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Business Analyst - Veeva Promomats Specialist at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=49059&source=WEB_Search_NA",
+    "id": "ibm-business-analyst-veeva-promomats-specialist-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Digital Sales Specialist - Cloud Platform",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Digital Sales Specialist - Cloud Platform at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=45799&source=WEB_Search_NA",
+    "id": "ibm-digital-sales-specialist-cloud-platform-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Category Manager – Indirect Procurement",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Category Manager – Indirect Procurement at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=42040&source=WEB_Search_NA",
+    "id": "ibm-category-manager-indirect-procurement-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Application Developer-Java & Web Technologies",
+    "job_city": "Tempe",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Application Developer-Java & Web Technologies at ProfessionalTempe, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=41326&source=WEB_Search_NA",
+    "id": "ibm-application-developer-java-web-technologies-tempe"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "FedRAMP Solution Architect",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role FedRAMP Solution Architect at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=35981&source=WEB_Search_NA",
+    "id": "ibm-fedramp-solution-architect-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "AEM Developer – Adobe Forms",
+    "job_city": "Buffalo",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior AEM Developer – Adobe Forms at ProfessionalBuffalo, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48285&source=WEB_Search_NA",
+    "id": "ibm-aem-developer-adobe-forms-buffalo"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Automation Digital Sales Specialist",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Automation Digital Sales Specialist at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52588&source=WEB_Search_NA",
+    "id": "ibm-automation-digital-sales-specialist-austin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Partner Product Marketing Manager",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Partner Product Marketing Manager at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=46630&source=WEB_Search_NA",
+    "id": "ibm-partner-product-marketing-manager-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "IBM Consulting Eminence",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role IBM Consulting Eminence at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52286&source=WEB_Search_NA",
+    "id": "ibm-ibm-consulting-eminence-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Appian Developer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Appian Developer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48260&source=WEB_Search_NA",
+    "id": "ibm-appian-developer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Brand Technical Specialist Storage Hybrid Cloud & AI",
+    "job_city": "New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Brand Technical Specialist Storage Hybrid Cloud & AI at ProfessionalNew York, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=39172&source=WEB_Search_NA",
+    "id": "ibm-brand-technical-specialist-storage-hybrid-cloud-ai-new-york"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sales Acceleration Leader",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sales Acceleration Leader at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=43980&source=WEB_Search_NA",
+    "id": "ibm-sales-acceleration-leader-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Leader",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technology Sales Leader at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52345&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-leader-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sr. Engineer",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sr. Engineer II at ProfessionalSan Francisco, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52304&source=WEB_Search_NA",
+    "id": "ibm-sr-engineer-san-francisco"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Digital Technical Specialist",
+    "job_city": "Brookhaven",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Digital Technical Specialist at ProfessionalBrookhaven, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51110&source=WEB_Search_NA",
+    "id": "ibm-digital-technical-specialist-brookhaven"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Business Value Services Director",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Business Value Services Director at ProfessionalSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48119&source=WEB_Search_NA",
+    "id": "ibm-business-value-services-director-san-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Account Technical Leader- Federal Systems Integrators",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Account Technical Leader- Federal Systems Integrators at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52858&source=WEB_Search_NA",
+    "id": "ibm-account-technical-leader-federal-systems-integrators-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Service Representative - Ashburn, Virginia",
+    "job_city": "ASHBURN",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role System Service Representative - Ashburn, Virginia at Entry LevelASHBURN, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51704&source=WEB_Search_NA",
+    "id": "ibm-system-service-representative-ashburn-virginia-ashburn"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Global Real Estate Portfolio Leader - US MHV",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Global Real Estate Portfolio Leader - US MHV at ProfessionalArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=47777&source=WEB_Search_NA",
+    "id": "ibm-global-real-estate-portfolio-leader-us-mhv-armonk"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technology Sales Leader - Midwest",
+    "job_city": "No City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technology Sales Leader - Midwest at ProfessionalNo City, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=49596&source=WEB_Search_NA",
+    "id": "ibm-technology-sales-leader-midwest-no-city"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Solution Architect for Payments",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Solution Architect for Payments at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=47550&source=WEB_Search_NA",
+    "id": "ibm-solution-architect-for-payments-multiple-cities"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist II, Marketing Science",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "21h ago",
+    "job_description": "data science job for the role Data Scientist II, Marketing Science at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/154070772-data-scientist-ii-marketing-science",
+    "id": "aijobs-data-scientist-ii-marketing-science-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist – Level",
+    "job_city": "US",
+    "job_state": "OH",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Data Scientist – Level 2 at Mason, OH, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/154070767-data-scientist-level-2",
+    "id": "aijobs-data-scientist-level-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI Data Scientist",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Junior AI Data Scientist at Austin, TX, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/154070783-junior-ai-data-scientist",
+    "id": "aijobs-ai-data-scientist-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist - Dragonfly Portfolio",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "15h ago",
+    "job_description": "data science job for the role Data Scientist - Dragonfly Portfolio at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/154070771-data-scientist-dragonfly-portfolio",
+    "id": "aijobs-data-scientist-dragonfly-portfolio-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, Growth",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Data Scientist, Growth at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/154070777-data-scientist-growth",
+    "id": "aijobs-data-scientist-growth-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist/Analyst",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "21h ago",
+    "job_description": "data science job for the role Data Scientist/Analyst at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/154070781-data-scientist-analyst",
+    "id": "aijobs-data-scientist-analyst-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, Entry Level",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "14h ago",
+    "job_description": "data science job for the role Data Scientist, Entry Level at Dallas, TX, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/154070787-data-scientist-entry-level",
+    "id": "aijobs-data-scientist-entry-level-us"
   }
 ]
