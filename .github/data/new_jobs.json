@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Director of Machine Learning",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Director of Machine Learning at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/154389674-director-of-machine-learning",
-    "id": "aijobs-director-of-machine-learning-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Machine Learning Researcher",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "10h ago",
-    "job_description": "data science job for the role Machine Learning Researcher at San Francisco, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/154389675-machine-learning-researcher",
-    "id": "aijobs-machine-learning-researcher-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Computer Vision Engineer",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "5h ago",
-    "job_description": "data science job for the role Computer Vision Engineer at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/154386170-computer-vision-engineer",
-    "id": "aijobs-computer-vision-engineer-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Artificial Intelligence/ Machine Learning Developer",
-    "job_city": "US",
-    "job_state": "VA",
-    "job_posted_at": "7h ago",
-    "job_description": "data science job for the role Artificial Intelligence/ Machine Learning Developer at Ashburn, VA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/154389676-artificial-intelligence-machine-learning-developer",
-    "id": "aijobs-artificial-intelligence-machine-learning-developer-us"
+    "employer_name": "SYNOPSYS",
+    "job_title": "Elastic SIEM Security Architect",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Elastic SIEM Security Architect at Austin, Texas",
+    "job_apply_link": "https://careers.synopsys.com/job/austin/elastic-siem-security-architect/44408/85046808496",
+    "id": "synopsys-elastic-siem-security-architect-austin"
   }
 ]
