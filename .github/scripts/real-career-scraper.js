@@ -610,6 +610,10 @@ async function fetchAllRealJobs() {
       console.error("❌ JPMorgan Chase scraper failed:", err.message);
       return [];
     }),
+    honeywellScraper('Data Science').catch((err) => {
+      console.error("❌ Honeywell scraper failed:", err.message);
+      return [];
+    }),
    
   ]);
 
