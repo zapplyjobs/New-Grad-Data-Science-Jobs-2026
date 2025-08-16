@@ -150,7 +150,7 @@ async function jpmcScraper(searchQuery, maxPages = 10) {
     
     console.log(`Searching for: "${searchQuery}"`);
     console.log(`Navigating to: ${searchUrl}`);
-    await page.goto(searchUrl, { waitUntil: 'networkidle2', timeout: 30000 });
+    await page.goto(searchUrl, { waitUntil: 'networkidle2', timeout: 60000 });
     
     // Wait for job listings to load
     try {

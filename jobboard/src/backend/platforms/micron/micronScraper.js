@@ -61,7 +61,7 @@ async function micronScraper(searchQuery, maxPages = 10) {
       startParam += 10; // Increment for next page
       console.log(`Searching for: "${searchQuery}"`);
       console.log(`Navigating to: ${searchUrl}`);
-      await page.goto(searchUrl, { waitUntil: 'networkidle2', timeout: 30000 });
+      await page.goto(searchUrl, { waitUntil: 'networkidle2', timeout: 60000 });
       
       // Wait for job cards to load
       try {

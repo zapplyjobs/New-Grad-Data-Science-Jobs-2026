@@ -59,7 +59,7 @@ function parseLocation(locationText) {
 
 // Helper function to convert date to relative forma
 
-async function illuminaScraper(searchQuery, maxPages = 10) {
+async function intelScraper(searchQuery, maxPages = 10) {
   const browser = await puppeteer.launch({
     headless: true, // Set to true for production
     args: [
@@ -101,24 +101,24 @@ async function illuminaScraper(searchQuery, maxPages = 10) {
   await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36');
   
   const allJobs = [];
-  const baseUrl = 'https://illumina.wd1.myworkdayjobs.com';
+  const baseUrl = 'https://intel.wd1.myworkdayjobs.com';
   
   try {
     for (let pageNum = 1; pageNum <= maxPages; pageNum++) {
       console.log(`Scraping page ${pageNum}...`);
       
       // Construct URL with search query
-      const searchUrl = `${baseUrl}/illumina-careers?q=${encodeURIComponent(searchQuery)}&locationCountry=bc33aa3152ec42d4995f4791a106ed09`;
+      const searchUrl = `${baseUrl}/External?q=${encodeURIComponent(searchQuery)}&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf`;
       
       if (pageNum === 1) {
         console.log(`Searching for: "${searchQuery}"`);
         console.log(`Navigating to: ${searchUrl}`);
-        await page.goto(searchUrl, { waitUntil: 'networkidle2', timeout: 60000 });
+        await page.goto(searchUrl, { waitUntil: 'networkidle2', timeout: 600000 });
       }
       
       // Wait for job listings to load
       try {
-        await page.waitForSelector('li.css-1q2dra3', { timeout: 10000 });
+        await page.waitForSelector('li.css-1q2dra3', { timeout: 100000 });
       } catch (error) {
         console.log(`No jobs found on page ${pageNum}, stopping...`);
         break;
@@ -185,7 +185,7 @@ async function illuminaScraper(searchQuery, maxPages = 10) {
           
           // Format the job data
           const formattedJob = {
-            employer_name: "ILLUMINA",
+            employer_name: "INTEL",
             job_title: cleanJobTitle(jobData.title),
             job_city: city,
             job_state: state,
@@ -249,7 +249,7 @@ async function illuminaScraper(searchQuery, maxPages = 10) {
     await browser.close();
   }
   
-  console.log(`\nScraping completed! Found ${allJobs.length} total jobs.`);
+  console.log(`\n INTEL Scraping completed! Found ${allJobs.length} total jobs.`);
   return allJobs;
 }
 
@@ -262,16 +262,16 @@ async function main() {
     
     if (!searchQuery) {
       console.log('Please provide a search query!');
-      console.log('Usage: node illuminaScraper.js hardware engineering');
-      console.log('Usage: node illuminaScraper.js software');
-      console.log('Usage: node illuminaScraper.js "data science"');
-      console.log('Or with quotes: node illuminaScraper.js "machine learning"');
+      console.log('Usage: node intelScraper.js hardware engineering');
+      console.log('Usage: node intelScraper.js software');
+      console.log('Usage: node intelScraper.js "data science"');
+      console.log('Or with quotes: node intelScraper.js "machine learning"');
       console.log('Note: maxPages parameter controls number of pages to scrape');
       return;
     }
     
-    console.log(`=== Scraping Marvel Careers for: "${searchQuery}" (10 pages max) ===`);
-    const jobs = await illuminaScraper(searchQuery, 10);
+    console.log(`=== Scraping INTEL Careers for: "${searchQuery}" (10 pages max) ===`);
+    const jobs = await intelScraper(searchQuery, 10);
     console.log(`\n🎉 Scraping completed! Found ${jobs.length} jobs for "${searchQuery}"`);
     
     // Display all scraped jobs
@@ -304,7 +304,7 @@ async function main() {
 }
 
 // Export the scraper function
-module.exports = illuminaScraper;
+module.exports = intelScraper;
 
 // Run if this file is executed directly
 if (require.main === module) {
