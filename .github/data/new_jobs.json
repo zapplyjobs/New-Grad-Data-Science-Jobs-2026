@@ -1,52 +1,1642 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Computer Vision Engineer - vLLM",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Computer Vision Engineer - vLLM at Santa Clara, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/154994856-senior-computer-vision-engineer-vllm",
-    "id": "aijobs-computer-vision-engineer-vllm-us"
+    "employer_name": "IBM",
+    "job_title": "Sr. Data Analytics Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sr. Data Analytics Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53116&source=WEB_Search_NA",
+    "id": "ibm-sr-data-analytics-engineer-multiple-cities"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Machine Learning (ML) Applications Engineer",
+    "employer_name": "IBM",
+    "job_title": "Consulting Account Executive - TOLA",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Consulting Account Executive - TOLA at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53217&source=WEB_Search_NA",
+    "id": "ibm-consulting-account-executive-tola-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Head of State and Local",
+    "job_city": "Phoenix",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Head of State and Local at ProfessionalPhoenix, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53244&source=WEB_Search_NA",
+    "id": "ibm-head-of-state-and-local-phoenix"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Ferienhelfer/Aushilfe Logistik (m/w/d)",
+    "job_city": "Heidelberg",
+    "job_state": "Baden-Wurttemberg",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Ferienhelfer/Aushilfe Logistik (m/w/d) at Heidelberg, Baden-Wurttemberg, Germany",
+    "job_apply_link": "https://careers.abb/global/en/job/95899429/Ferienhelfer-Aushilfe-Logistik-m-w-d",
+    "id": "abb-ferienhelfer-aushilfe-logistik-m-w-d-heidelberg"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Motion - Key Account Manager - Data Centers",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Motion - Key Account Manager - Data Centers at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00005653/Motion-Key-Account-Manager-Data-Centers",
+    "id": "abb-motion-key-account-manager-data-centers-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Service Sales Manager",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Service Sales Manager at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00005431/Service-Sales-Manager",
+    "id": "abb-service-sales-manager-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "DCS Application Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role DCS Application Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96186417/DCS-Application-Engineer",
+    "id": "abb-dcs-application-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Planning & Fulfillment Specialist (m/f/d)",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Planning & Fulfillment Specialist (m/f/d) at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96674004/Planning-Fulfillment-Specialist-m-f-d",
+    "id": "abb-planning-fulfillment-specialist-m-f-d-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Operations Manager - Load Centers Unit",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Operations Manager - Load Centers Unit at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96516127/Operations-Manager-Load-Centers-Unit",
+    "id": "abb-operations-manager-load-centers-unit-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Quality Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Quality Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00007764/Quality-Specialist",
+    "id": "abb-quality-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Die Caster - Rotor Cast",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role Die Caster - Rotor Cast at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00003923/Die-Caster-Rotor-Cast",
+    "id": "abb-die-caster-rotor-cast-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Global Technical Support Specialist - Mechanical",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role Global Technical Support Specialist - Mechanical at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00003615/Global-Technical-Support-Specialist-Mechanical",
+    "id": "abb-global-technical-support-specialist-mechanical-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Machine Operator - Direct Hire",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role Machine Operator - Direct Hire at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00007512/Machine-Operator-Direct-Hire",
+    "id": "abb-machine-operator-direct-hire-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "SAP SAC Planning Solution Architect",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role SAP SAC Planning Solution Architect at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/97044605/SAP-SAC-Planning-Solution-Architect",
+    "id": "abb-sap-sac-planning-solution-architect-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "SCM intern",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role SCM intern at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/97020067/SCM-intern",
+    "id": "abb-scm-intern-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Service Manager Data & Analytics Platforms",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Senior Service Manager Data & Analytics Platforms at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96185319/Senior-Service-Manager-Data-Analytics-Platforms",
+    "id": "abb-senior-service-manager-data-analytics-platforms-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Production Engineering Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Production Engineering Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96642552/Production-Engineering-Specialist",
+    "id": "abb-production-engineering-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "SnowFlake Model Builder",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role SnowFlake Model Builder at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96182141/SnowFlake-Model-Builder",
+    "id": "abb-snowflake-model-builder-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Operation Finance Analyst",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "3 days ago",
+    "job_description": "Data Science job for the role Operation Finance Analyst at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00007413/Operation-Finance-Analyst",
+    "id": "abb-operation-finance-analyst-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Functional Architect -FP&A & R2R",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Functional Architect -FP&A & R2R at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95206662/Functional-Architect-FP-A-R2R",
+    "id": "abb-functional-architect-fp-a-r2r-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Application Software Internship",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Application Software Internship at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96635858/Application-Software-Internship",
+    "id": "abb-application-software-internship-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Functional Architect – Tax & Treasury",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Functional Architect – Tax & Treasury at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95206858/Functional-Architect-Tax-Treasury",
+    "id": "abb-functional-architect-tax-treasury-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Specialist(EU)",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role Sales Specialist(EU) at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/97020971/Sales-Specialist-EU",
+    "id": "abb-sales-specialist-eu-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Sales Specialist(OEM)",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role Sales Specialist(OEM) at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96680482/Sales-Specialist-OEM",
+    "id": "abb-sales-specialist-oem-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Sales Specialist(PB)",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role Digital Sales Specialist(PB) at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96955792/Digital-Sales-Specialist-PB",
+    "id": "abb-digital-sales-specialist-pb-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Data Analytics & Power BI Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 days ago",
+    "job_description": "Data Science job for the role Data Analytics & Power BI Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00001309/Data-Analytics-Power-BI-Specialist",
+    "id": "abb-data-analytics-power-bi-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Solution & Proposal Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Digital Solution & Proposal Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96880030/Digital-Solution-Proposal-Engineer",
+    "id": "abb-digital-solution-proposal-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Solution Architect (AI / Gen AI)",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Solution Architect (AI / Gen AI) at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96895687/Solution-Architect-AI-Gen-AI",
+    "id": "abb-solution-architect-ai-gen-ai-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Solution Architect SAP BI",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Solution Architect SAP BI at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96229530/Solution-Architect-SAP-BI",
+    "id": "abb-solution-architect-sap-bi-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "AI/ML Software Engineer - Computer Vision",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role AI/ML Software Engineer - Computer Vision at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00002774/AI-ML-Software-Engineer-Computer-Vision",
+    "id": "abb-ai-ml-software-engineer-computer-vision-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Internship in AMR Navigation",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Internship in AMR Navigation at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00005407/Internship-in-AMR-Navigation",
+    "id": "abb-internship-in-amr-navigation-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "CFIN Data Architect",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role CFIN Data Architect at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95283339/CFIN-Data-Architect",
+    "id": "abb-cfin-data-architect-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "IT Operations Support Analyst",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role IT Operations Support Analyst at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00004589/IT-Operations-Support-Analyst",
+    "id": "abb-it-operations-support-analyst-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Bachelor / Master Thesis in Computer Science Engineering (80-100%)",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Bachelor / Master Thesis in Computer Science Engineering (80-100%) at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96284771/Bachelor-Master-Thesis-in-Computer-Science-Engineering-80-100",
+    "id": "abb-bachelor-master-thesis-in-computer-science-engineering-80-100-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "SAP SAC Planning Solution Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role SAP SAC Planning Solution Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/97044668/SAP-SAC-Planning-Solution-Specialist",
+    "id": "abb-sap-sac-planning-solution-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "sales Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "Data Science job for the role sales Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95988532/sales-Specialist",
+    "id": "abb-sales-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "IS Risk and Compliance Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role IS Risk and Compliance Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95729752/IS-Risk-and-Compliance-Specialist",
+    "id": "abb-is-risk-and-compliance-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Principal Engineer - Sr. Lead Developer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Principal Engineer - Sr. Lead Developer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006324/Principal-Engineer-Sr-Lead-Developer",
+    "id": "abb-principal-engineer-sr-lead-developer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Internship in Computer Vision and AI",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Internship in Computer Vision and AI at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00005413/Internship-in-Computer-Vision-and-AI",
+    "id": "abb-internship-in-computer-vision-and-ai-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Sales Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role Digital Sales Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/97005080/Digital-Sales-Specialist",
+    "id": "abb-digital-sales-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "IS Network SIAM Manager",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role IS Network SIAM Manager at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00001870/IS-Network-SIAM-Manager",
+    "id": "abb-is-network-siam-manager-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "销售工程师（盘厂渠道）",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "Data Science job for the role 销售工程师（盘厂渠道） at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/94819545/销售工程师（盘厂渠道）",
+    "id": "abb--not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "CFIN P2D & Data Solution Lead",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role CFIN P2D & Data Solution Lead at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95282028/CFIN-P2D-Data-Solution-Lead",
+    "id": "abb-cfin-p2d-data-solution-lead-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Service Sales Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "Data Science job for the role Service Sales Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96990568/Service-Sales-Specialist",
+    "id": "abb-service-sales-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D FW Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "Data Science job for the role R&D FW Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96993326/R-D-FW-Engineer",
+    "id": "abb-r-d-fw-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Configurator Solution Lead/Architect",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role Configurator Solution Lead/Architect at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00004018/Configurator-Solution-Lead-Architect",
+    "id": "abb-configurator-solution-lead-architect-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "CFIN P2D Functional Architect",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role CFIN P2D Functional Architect at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95283391/CFIN-P2D-Functional-Architect",
+    "id": "abb-cfin-p2d-functional-architect-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "IS Business Analyst",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "4 days ago",
+    "job_description": "Data Science job for the role IS Business Analyst at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00002567/IS-Business-Analyst",
+    "id": "abb-is-business-analyst-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Intern",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "Data Science job for the role Intern at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96175379/Intern",
+    "id": "abb-intern-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "firmware intern",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "Data Science job for the role firmware intern at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95301725/firmware-intern",
+    "id": "abb-firmware-intern-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior IS Solution Architect for IS Security",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Senior IS Solution Architect for IS Security at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/93175801/Senior-IS-Solution-Architect-for-IS-Security",
+    "id": "abb-senior-is-solution-architect-for-is-security-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "CFIN P2P & Treasury Solution Architect",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role CFIN P2P & Treasury Solution Architect at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95269487/CFIN-P2P-Treasury-Solution-Architect",
+    "id": "abb-cfin-p2p-treasury-solution-architect-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "CFIN O2C Solution Architect",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role CFIN O2C Solution Architect at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95269397/CFIN-O2C-Solution-Architect",
+    "id": "abb-cfin-o2c-solution-architect-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Robotics Intern at Raleigh Research Center - Fall",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Robotics Intern at Raleigh Research Center - Fall 2025 at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96729857/Robotics-Intern-at-Raleigh-Research-Center-Fall-2025",
+    "id": "abb-robotics-intern-at-raleigh-research-center-fall-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Principal Engineer- Data Interfaces",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "4 days ago",
+    "job_description": "Data Science job for the role Principal Engineer- Data Interfaces at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00002200/Principal-Engineer-Data-Interfaces",
+    "id": "abb-principal-engineer-data-interfaces-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Technical Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "6 weeks ago",
+    "job_description": "Data Science job for the role Technical Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00000285/Technical-Specialist",
+    "id": "abb-technical-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Global IS Network Automation SME",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role Global IS Network Automation SME at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00002093/Global-IS-Network-Automation-SME",
+    "id": "abb-global-is-network-automation-sme-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Global IS Network Automation Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role Global IS Network Automation Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00002098/Global-IS-Network-Automation-Engineer",
+    "id": "abb-global-is-network-automation-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Full Stack Developer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Full Stack Developer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95938360/Full-Stack-Developer",
+    "id": "abb-full-stack-developer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "R&D Senior FW Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role R&D Senior FW Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96993554/R-D-Senior-FW-Engineer",
+    "id": "abb-r-d-senior-fw-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Risk and Compliance Manager",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role Risk and Compliance Manager at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95898364/Risk-and-Compliance-Manager",
+    "id": "abb-risk-and-compliance-manager-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "CFIN R2R Solution Architect",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role CFIN R2R Solution Architect at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95269708/CFIN-R2R-Solution-Architect",
+    "id": "abb-cfin-r2r-solution-architect-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "(Senior) Research Scientist (m/f/d) for Software Engineering for Industrial Systems (80 – 100%)",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role (Senior) Research Scientist (m/f/d) for Software Engineering for Industrial Systems (80 – 100%) at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96123360/-Senior-Research-Scientist-m-f-d-for-Software-Engineering-for-Industrial-Systems-80-100",
+    "id": "abb-senior-research-scientist-m-f-d-for-software-engineering-for-industrial-systems-80-100-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Solution Engineering Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Digital Solution Engineering Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95843175/Digital-Solution-Engineering-Specialist",
+    "id": "abb-digital-solution-engineering-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "IS Operations Manager Vulnerability Management (Infra VM)",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role IS Operations Manager Vulnerability Management (Infra VM) at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00005222/IS-Operations-Manager-Vulnerability-Management-Infra-VM",
+    "id": "abb-is-operations-manager-vulnerability-management-infra-vm-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Quality＆Operational Specialist",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 weeks ago",
+    "job_description": "Data Science job for the role Quality＆Operational Specialist at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00000861/Quality＆Operational-Specialist",
+    "id": "abb-quality-operational-specialist-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Solution Engineering Specialist-P&P MES",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Digital Solution Engineering Specialist-P&P MES at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/94372702/Digital-Solution-Engineering-Specialist-P-P-MES",
+    "id": "abb-digital-solution-engineering-specialist-p-p-mes-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Global Digital Product Manager for Motors and Rotating Equipment, Motion Services division (location: Europe or India)",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Global Digital Product Manager for Motors and Rotating Equipment, Motion Services division (location: Europe or India) at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00001365/Global-Digital-Product-Manager-for-Motors-and-Rotating-Equipment-Motion-Services-division-location-Europe-or-India",
+    "id": "abb-global-digital-product-manager-for-motors-and-rotating-equipment-motion-services-division-location-europe-or-india-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Senior Software Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Senior Software Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00003768/Senior-Software-Engineer",
+    "id": "abb-senior-software-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "CFIN O2C Functional Architect",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role CFIN O2C Functional Architect at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95282970/CFIN-O2C-Functional-Architect",
+    "id": "abb-cfin-o2c-functional-architect-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Intern-R&D coding & data analytics",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Intern-R&D coding & data analytics at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006440/Intern-R-D-coding-data-analytics",
+    "id": "abb-intern-r-d-coding-data-analytics-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "IS Solution Architect -SAP Finance, Tax & Audit",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role IS Solution Architect -SAP Finance, Tax & Audit at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/92953410/IS-Solution-Architect-SAP-Finance-Tax-Audit",
+    "id": "abb-is-solution-architect-sap-finance-tax-audit-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Global IS M&A Program Manager - HRIS",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Global IS M&A Program Manager - HRIS at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00001698/Global-IS-M-A-Program-Manager-HRIS",
+    "id": "abb-global-is-m-a-program-manager-hris-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Duales Studium Wirtschaftsinformatik (m/w/d)",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Duales Studium Wirtschaftsinformatik (m/w/d) 2026 at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95904066/Duales-Studium-Wirtschaftsinformatik-m-w-d-2026",
+    "id": "abb-duales-studium-wirtschaftsinformatik-m-w-d-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "QCS Systems Engineer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role QCS Systems Engineer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96186349/QCS-Systems-Engineer",
+    "id": "abb-qcs-systems-engineer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "IS Service Owner - Network Governance",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "2 weeks ago",
+    "job_description": "Data Science job for the role IS Service Owner - Network Governance at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00005195/IS-Service-Owner-Network-Governance",
+    "id": "abb-is-service-owner-network-governance-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "CFIN Tax Solution Lead",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role CFIN Tax Solution Lead at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95266516/CFIN-Tax-Solution-Lead",
+    "id": "abb-cfin-tax-solution-lead-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "CFIN P2P & TREASURY Functional Architect",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role CFIN P2P & TREASURY Functional Architect at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95283288/CFIN-P2P-TREASURY-Functional-Architect",
+    "id": "abb-cfin-p2p-treasury-functional-architect-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "CFIN R2R Functional Architect",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role CFIN R2R Functional Architect at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95283204/CFIN-R2R-Functional-Architect",
+    "id": "abb-cfin-r2r-functional-architect-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Digital Solution Engineering Manager",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role Digital Solution Engineering Manager at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96124723/Digital-Solution-Engineering-Manager",
+    "id": "abb-digital-solution-engineering-manager-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Area Sales Manager",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "4 weeks ago",
+    "job_description": "Data Science job for the role Area Sales Manager at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/97008092/Area-Sales-Manager",
+    "id": "abb-area-sales-manager-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Front End/Full Stack Developer",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "5 days ago",
+    "job_description": "Data Science job for the role Front End/Full Stack Developer at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/93773061/Front-End-Full-Stack-Developer",
+    "id": "abb-front-end-full-stack-developer-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Salesforce Business Analyst Service",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "1 week ago",
+    "job_description": "Data Science job for the role Salesforce Business Analyst Service at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/96629454/Salesforce-Business-Analyst-Service",
+    "id": "abb-salesforce-business-analyst-service-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "CFIN O2C Solution lead",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role CFIN O2C Solution lead at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95266346/CFIN-O2C-Solution-lead",
+    "id": "abb-cfin-o2c-solution-lead-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "IS Department Manager, PMO, North America Countries",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role IS Department Manager, PMO, North America Countries at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00005432/IS-Department-Manager-PMO-North-America-Countries",
+    "id": "abb-is-department-manager-pmo-north-america-countries-not-specific"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "CFIN R2R Solution Lead",
+    "job_city": "Not Specific",
+    "job_state": "Not Specific",
+    "job_posted_at": "7 weeks ago",
+    "job_description": "Data Science job for the role CFIN R2R Solution Lead at Not Specific",
+    "job_apply_link": "https://careers.abb/global/en/job/95266491/CFIN-R2R-Solution-Lead",
+    "id": "abb-cfin-r2r-solution-lead-not-specific"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Building Automation Senior Service Sales Executive",
+    "job_city": "Memphis",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Building Automation Senior Service Sales Executive at Memphis, Tennessee, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-building-automation-senior-service-sales-executive-memphis"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "System Engineer – DGX Cloud Lepton",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "Data Science job for the role Senior System Engineer – DGX Cloud Lepton at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Engineer---DGX-Cloud-Lepton_JR2002324?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-system-engineer-dgx-cloud-lepton-2-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Secure Development Platform Engineer",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "Data Science job for the role Secure Development Platform Engineer at 3 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Secure-Development-Platform-Engineer_JR2001197?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-secure-development-platform-engineer-3-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Software Security Engineer",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "Data Science job for the role Software Security Engineer at 3 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Security-Engineer_JR2001196?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-software-security-engineer-3-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Production Application Engineer",
+    "job_city": "6 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "Data Science job for the role Production Application Engineer at 6 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Production-Application-Engineer_JR2002112?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-production-application-engineer-6-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "System Software Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "Data Science job for the role Senior System Software Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer_JR2002320?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-system-software-engineer-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Software Engineer - Employee Productivity",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "Data Science job for the role Principal Software Engineer - Employee Productivity at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Engineer---Employee-Productivity_JR2001704?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-software-engineer-employee-productivity-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Systems Software Engineer, GoLang",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 2 Days Ago",
+    "job_description": "Data Science job for the role Senior Systems Software Engineer, GoLang at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Senior-Systems-Software-Engineer--GoLang_JR2000897?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-systems-software-engineer-golang-2-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "MLOps Engineer, GenAI Framework",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 2 Days Ago",
+    "job_description": "Data Science job for the role Senior MLOps Engineer, GenAI Framework at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-MLOps-Engineer--GenAI-Framework_JR2000137?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-mlops-engineer-genai-framework-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Engineering Manager – Software Configuration Management",
+    "job_city": "4 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 2 Days Ago",
+    "job_description": "Data Science job for the role Senior Engineering Manager – Software Configuration Management at 4 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Engineering-Manager---Software-Configuration-Management_JR2001860?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-engineering-manager-software-configuration-management-4-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Product Technical Lead, GenAI – Autonomous Vehicles",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 2 Days Ago",
+    "job_description": "Data Science job for the role Product Technical Lead, GenAI – Autonomous Vehicles at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Product-Manager--GenAI---Autonomous-Vehicles_JR2001991?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-product-technical-lead-genai-autonomous-vehicles-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Scientific Program Manager",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 2 Days Ago",
+    "job_description": "Data Science job for the role Scientific Program Manager at US, CA, Remote",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Scientific-Program-Manager_JR2000248?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-scientific-program-manager-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Site Reliability Engineer - DGX Cloud",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 2 Days Ago",
+    "job_description": "Data Science job for the role Senior Site Reliability Engineer - DGX Cloud at 3 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer---DGX-Cloud_JR1994146?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-site-reliability-engineer-dgx-cloud-3-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Software Systems Engineer - Autonomous Vehicles",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 3 Days Ago",
+    "job_description": "Data Science job for the role Senior Software Systems Engineer - Autonomous Vehicles at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Systems-Engineer---Autonomous-Vehicles_JR1999530?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-software-systems-engineer-autonomous-vehicles-2-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Infrastructure Security Engineer - DGX Cloud",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 3 Days Ago",
+    "job_description": "Data Science job for the role Senior Infrastructure Security Engineer - DGX Cloud at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Infrastructure-Security-Engineer---DGX-Cloud_JR2002014-1?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-infrastructure-security-engineer-dgx-cloud-2-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "System Software Engineer - Tegra",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 4 Days Ago",
+    "job_description": "Data Science job for the role Senior System Software Engineer - Tegra at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Tegra_JR2001598?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-system-software-engineer-tegra-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "PCB Design Layout Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 4 Days Ago",
+    "job_description": "Data Science job for the role PCB Design Layout Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PCB-Design-Layout-Engineer_JR2001781?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-pcb-design-layout-engineer-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Enterprise Technical Program Manager",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 4 Days Ago",
+    "job_description": "Data Science job for the role Enterprise Technical Program Manager at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Enterprise-Technical-Program-Manager_JR1998575?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-enterprise-technical-program-manager-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "System Software Engineer",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 5 Days Ago",
+    "job_description": "Data Science job for the role Senior System Software Engineer at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer_JR2001075?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-system-software-engineer-2-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Developer Relations Manager - Robotics",
+    "job_city": "6 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 5 Days Ago",
+    "job_description": "Data Science job for the role Senior Developer Relations Manager - Robotics at 6 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Relations-Manager---Robotics_JR2000757?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-developer-relations-manager-robotics-6-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Technical Program Manager - Silicon Solutions",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 5 Days Ago",
+    "job_description": "Data Science job for the role Senior Technical Program Manager - Silicon Solutions at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager---Silicon-Solutions_JR2001811?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-technical-program-manager-silicon-solutions-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Robotics Systems Software Engineer - ROS",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 5 Days Ago",
+    "job_description": "Data Science job for the role Senior Robotics Systems Software Engineer - ROS at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Robotics-Systems-Software-Engineer---ROS_JR2000889?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-robotics-systems-software-engineer-ros-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "System Software Engineer - Performance",
+    "job_city": "6 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 6 Days Ago",
+    "job_description": "Data Science job for the role Senior System Software Engineer - Performance at 6 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Performance_JR2001796?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-system-software-engineer-performance-6-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "ASIC Design Engineer - New College Grad",
     "job_city": "US",
     "job_state": "MA",
-    "job_posted_at": "8h ago",
-    "job_description": "data science job for the role Machine Learning (ML) Applications Engineer at Somerville, MA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/154995276-machine-learning-ml-applications-engineer",
-    "id": "aijobs-machine-learning-ml-applications-engineer-us"
+    "job_posted_at": "Posted 6 Days Ago",
+    "job_description": "Data Science job for the role ASIC Design Engineer - New College Grad 2025 at US, MA, Westford",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/ASIC-Design-Engineer---New-College-Grad-2025_JR2001682?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-asic-design-engineer-new-college-grad-us"
   },
   {
-    "employer_name": "AiJobs",
-    "job_title": "Sr Machine Learning Engineer",
+    "employer_name": "NVIDIA",
+    "job_title": "AI Infrastructure Engineer - DGX Cloud",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 7 Days Ago",
+    "job_description": "Data Science job for the role Senior AI Infrastructure Engineer - DGX Cloud at 3 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Infrastructure-Engineer---DGX-Cloud_JR2001015?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-ai-infrastructure-engineer-dgx-cloud-3-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Server Firmware Bringup Engineer",
     "job_city": "US",
     "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Sr Machine Learning Engineer at Sunnyvale, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/154995279-sr-machine-learning-engineer",
-    "id": "aijobs-sr-machine-learning-engineer-us"
+    "job_posted_at": "Posted 7 Days Ago",
+    "job_description": "Data Science job for the role Senior Server Firmware Bringup Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Server-Firmware-Bringup-Engineer_JR2001012?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-server-firmware-bringup-engineer-us"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Data Security Engineer, AiDP",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Data Security Engineer, AiDP at Austin",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200607643-0157/data-security-engineer-aidp?team=CORSV",
-    "id": "apple-data-security-engineer-aidp-austin"
+    "employer_name": "NVIDIA",
+    "job_title": "Site Reliability Engineer - Observability and Telemetry Platform",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 7 Days Ago",
+    "job_description": "Data Science job for the role Senior Site Reliability Engineer - Observability and Telemetry Platform at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer---Observability-and-Telemetry-Platform_JR2001361-1?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-site-reliability-engineer-observability-and-telemetry-platform-2-locations"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer - Production Engineering, AiDP",
-    "job_city": "Sunnyvale",
-    "job_state": "US",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Software Engineer - Production Engineering, AiDP at Sunnyvale",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200614445-3956/software-engineer-production-engineering-aidp?team=CORSV",
-    "id": "apple-software-engineer-production-engineering-aidp-sunnyvale"
+    "employer_name": "NVIDIA",
+    "job_title": "Software Architect - Deep Learning and HPC Communications",
+    "job_city": "5 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 7 Days Ago",
+    "job_description": "Data Science job for the role Senior Software Architect - Deep Learning and HPC Communications at 5 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Architect---Deep-Learning-and-HPC-Communications_JR2001099-1?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-software-architect-deep-learning-and-hpc-communications-5-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Distinguished Software Engineer - NVLink Fusion Software",
+    "job_city": "6 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 7 Days Ago",
+    "job_description": "Data Science job for the role Distinguished Software Engineer - NVLink Fusion Software at 6 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Distinguished-Software-Engineer---NVLink-Fusion-Software_JR2000295?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-distinguished-software-engineer-nvlink-fusion-software-6-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Distinguished Engineer - Rack System Software",
+    "job_city": "6 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 7 Days Ago",
+    "job_description": "Data Science job for the role Distinguished Engineer - Rack System Software at 6 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Distinguished-Engineer---Rack-System-Software_JR2000294?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-distinguished-engineer-rack-system-software-6-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Network Security Engineer - DGX Cloud",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 7 Days Ago",
+    "job_description": "Data Science job for the role Senior Network Security Engineer - DGX Cloud at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Network-Security-Engineer---DGX-Cloud_JR2000614?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-network-security-engineer-dgx-cloud-2-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "System Software Engineer Platform - Server Embedded Firmware",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 7 Days Ago",
+    "job_description": "Data Science job for the role Senior System Software Engineer Platform - Server Embedded Firmware at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer-Platform---Server-Embedded-Firmware_JR2001011?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-system-software-engineer-platform-server-embedded-firmware-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "CI/CD Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 8 Days Ago",
+    "job_description": "Data Science job for the role Senior CI/CD Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-CI-CD-Engineer_JR2001371?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-ci-cd-engineer-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Applications Software Engineer - Autonomous Vehicles",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 9 Days Ago",
+    "job_description": "Data Science job for the role Senior Applications Software Engineer - Autonomous Vehicles at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Applications-Software-Engineer---Autonomous-Vehicles_JR2001797-1?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-applications-software-engineer-autonomous-vehicles-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Solutions Architect, NPN",
+    "job_city": "6 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 9 Days Ago",
+    "job_description": "Data Science job for the role Senior Solutions Architect, NPN at 6 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NC-Durham/Senior-Solutions-Architect--NPN_JR1994983?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-solutions-architect-npn-6-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Software Engineer, Cloud-Native Stack – CSP Engagements",
+    "job_city": "4 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 9 Days Ago",
+    "job_description": "Data Science job for the role Senior Software Engineer, Cloud-Native Stack – CSP Engagements at 4 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Cloud-Native-Stack---CSP-Engagements_JR2001098?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-software-engineer-cloud-native-stack-csp-engagements-4-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Software Engineer – Simulation and Virtualization",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 9 Days Ago",
+    "job_description": "Data Science job for the role Senior Software Engineer – Simulation and Virtualization at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Simulation-and-Virtualization_JR2001013?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-software-engineer-simulation-and-virtualization-2-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Pricing Systems Analyst",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 10 Days Ago",
+    "job_description": "Data Science job for the role Pricing Systems Analyst at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Pricing-Systems-Analyst_JR2001563?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-pricing-systems-analyst-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "System Software Engineer, Robotics Simulation",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 10 Days Ago",
+    "job_description": "Data Science job for the role Senior System Software Engineer, Robotics Simulation at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Robotics-Simulation_JR1995554?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-system-software-engineer-robotics-simulation-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Site Reliability Engineer – SAP Basis and Cloud Operations",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 10 Days Ago",
+    "job_description": "Data Science job for the role Senior Site Reliability Engineer – SAP Basis and Cloud Operations at 3 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer---SAP-Basis-and-Cloud-Operations_JR2000498?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-site-reliability-engineer-sap-basis-and-cloud-operations-3-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Product Manager - Omniverse Kit SDK",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 10 Days Ago",
+    "job_description": "Data Science job for the role Senior Product Manager - Omniverse Kit SDK at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Manager---Omniverse-Kit-SDK_JR2001483?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-product-manager-omniverse-kit-sdk-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "System Software Engineer - GPU Server",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 11 Days Ago",
+    "job_description": "Data Science job for the role Senior System Software Engineer - GPU Server at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---GPU-Server_JR2001533?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-system-software-engineer-gpu-server-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Manager, Network Site Reliability - GeForce Now",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 12 Days Ago",
+    "job_description": "Data Science job for the role Senior Manager, Network Site Reliability - GeForce Now at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Network-Site-Reliability---GeForce-Now_JR2000701?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-manager-network-site-reliability-geforce-now-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Solution Engineer, AI Enterprise",
+    "job_city": "4 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 12 Days Ago",
+    "job_description": "Data Science job for the role Senior Solution Engineer, AI Enterprise at 4 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solution-Engineer--AI-Enterprise_JR2001411?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-solution-engineer-ai-enterprise-4-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Test Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 12 Days Ago",
+    "job_description": "Data Science job for the role Senior Test Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Test-Engineer_JR2001141?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-test-engineer-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "GPU Memory System Architect",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 12 Days Ago",
+    "job_description": "Data Science job for the role Senior GPU Memory System Architect at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-GPU-Memory-System-Architect_JR2001389?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-gpu-memory-system-architect-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "ML Storage Engineer - GPU Clusters",
+    "job_city": "4 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 15 Days Ago",
+    "job_description": "Data Science job for the role Senior ML Storage Engineer - GPU Clusters at 4 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Site-Reliability-Storage-Engineer---GPU-Clusters_JR2001053?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-ml-storage-engineer-gpu-clusters-4-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Deep Learning Profiling Tools Engineer",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 15 Days Ago",
+    "job_description": "Data Science job for the role Senior Deep Learning Profiling Tools Engineer at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Profiling-Tools-Engineer_JR2001338?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-deep-learning-profiling-tools-engineer-2-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Systems Software Engineer – GPU Software",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 15 Days Ago",
+    "job_description": "Data Science job for the role Senior Systems Software Engineer – GPU Software at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---GPU-Software_JR1997061?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-systems-software-engineer-gpu-software-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Software Architect – GPU Driver",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 15 Days Ago",
+    "job_description": "Data Science job for the role Principal Software Architect – GPU Driver at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Architect---GPU-Driver_JR1997149?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-software-architect-gpu-driver-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Software Engineer, Machine Learning Inference",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 16 Days Ago",
+    "job_description": "Data Science job for the role Senior Software Engineer, Machine Learning Inference at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--TensorRT-Inference_JR1997459?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-software-engineer-machine-learning-inference-2-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Software QA Test Dev Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 17 Days Ago",
+    "job_description": "Data Science job for the role Software QA Test Dev Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-QA-Test-Dev-Engineer_JR2000178?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-software-qa-test-dev-engineer-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Architect, Site Reliability Engineering - GeForce Now",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 18 Days Ago",
+    "job_description": "Data Science job for the role Principal Architect, Site Reliability Engineering - GeForce Now at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Architect--Site-Reliability-Engineering---GeForce-Now_JR1999812?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-architect-site-reliability-engineering-geforce-now-2-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Software Architect, AI and HPC",
+    "job_city": "5 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 18 Days Ago",
+    "job_description": "Data Science job for the role Senior Software Architect, AI and HPC at 5 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Architect--AI-and-HPC_JR2001025?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-software-architect-ai-and-hpc-5-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Test Infrastructure Development Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 18 Days Ago",
+    "job_description": "Data Science job for the role Test Infrastructure Development Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Test-Infrastructure-Development-Engineer_JR2000686?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-test-infrastructure-development-engineer-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Deep Learning Software Engineer, LLM Performance",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 18 Days Ago",
+    "job_description": "Data Science job for the role Senior Deep Learning Software Engineer, LLM Performance at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Software-Engineer--LLM-Performance_JR1997464?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-deep-learning-software-engineer-llm-performance-2-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Product Manager, Digital Twins - Maintenance and Operations",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 18 Days Ago",
+    "job_description": "Data Science job for the role Senior Product Manager, Digital Twins - Maintenance and Operations at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Manager--Digital-Twins---Maintenance-and-Operations_JR1997723?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-product-manager-digital-twins-maintenance-and-operations-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Architect, C2C",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 18 Days Ago",
+    "job_description": "Data Science job for the role Senior Architect, C2C at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Architect--NVLink-C2C_JR2000103?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-architect-c2c-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Director, Engineering - Power and Performance Software",
+    "job_city": "6 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 19 Days Ago",
+    "job_description": "Data Science job for the role Director, Engineering - Power and Performance Software at 6 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Engineering---Power-and-Performance-Software_JR2001107?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-director-engineering-power-and-performance-software-6-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Firmware PCIe Application Engineer",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 19 Days Ago",
+    "job_description": "Data Science job for the role Senior Firmware PCIe Application Engineer at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Senior-Firmware-PCIe-Application-Engineer_JR2000862?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-firmware-pcie-application-engineer-2-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "System Software Engineer - GPU and SOC",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 20 Days Ago",
+    "job_description": "Data Science job for the role System Software Engineer - GPU and SOC at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---GPU-and-SOC_JR2000891-1?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-system-software-engineer-gpu-and-soc-2-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Diagnostics Software Infrastructure Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 22 Days Ago",
+    "job_description": "Data Science job for the role Diagnostics Software Infrastructure Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Diagnostics-Software-Infrastructure-Engineer_JR2000839?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-diagnostics-software-infrastructure-engineer-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "R&D Software Engineer, VLSI Floorplanning and Optimization",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 22 Days Ago",
+    "job_description": "Data Science job for the role Senior R&D Software Engineer, VLSI Floorplanning and Optimization at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-R-D-Software-Engineer--VLSI-Floorplanning-and-Optimization_JR2000982?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-r-d-software-engineer-vlsi-floorplanning-and-optimization-2-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Software Engineer - GPU",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 22 Days Ago",
+    "job_description": "Data Science job for the role Senior Software Engineer - GPU at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---GPU_JR2000919?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-software-engineer-gpu-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "System Software Engineer - Power and Performance",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 22 Days Ago",
+    "job_description": "Data Science job for the role Senior System Software Engineer - Power and Performance at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Power-and-Performance_JR2000933?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-system-software-engineer-power-and-performance-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "System Software Technical Lead - Power and Performance",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 22 Days Ago",
+    "job_description": "Data Science job for the role Senior System Software Technical Lead - Power and Performance at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Technical-Lead---Power-and-Performance_JR1999204?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-system-software-technical-lead-power-and-performance-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Field Application Engineer",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 22 Days Ago",
+    "job_description": "Data Science job for the role Senior Field Application Engineer at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Remote/Field-Application-Engineer_JR2000609?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-field-application-engineer-2-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Field Applications Engineer",
+    "job_city": "5 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 22 Days Ago",
+    "job_description": "Data Science job for the role Field Applications Engineer at 5 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Remote/Field-Applications-Engineer_JR2000254?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-field-applications-engineer-5-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Field Applications Engineer",
+    "job_city": "6 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 22 Days Ago",
+    "job_description": "Data Science job for the role Field Applications Engineer at 6 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Field-Applications-Engineer_JR2000256?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-field-applications-engineer-6-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Field Application Engineer - Switching",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 22 Days Ago",
+    "job_description": "Data Science job for the role Senior Field Application Engineer - Switching at 3 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Field-Application-Engineer---Switching_JR2000252?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-field-application-engineer-switching-3-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Mixed Signal Design Engineer",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 22 Days Ago",
+    "job_description": "Data Science job for the role Senior Mixed Signal Design Engineer at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Mixed-Signal-Design-Engineer_JR2000424?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-mixed-signal-design-engineer-2-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Software Engineer, CAD Tool Development",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 22 Days Ago",
+    "job_description": "Data Science job for the role Senior Software Engineer, CAD Tool Development at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--CAD-Tool-Development_JR2000621?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-software-engineer-cad-tool-development-2-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Field Application Engineer",
+    "job_city": "US",
+    "job_state": "WI",
+    "job_posted_at": "Posted 22 Days Ago",
+    "job_description": "Data Science job for the role Senior Field Application Engineer at US, WI, Remote",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WI-Remote/Field-Application-Engineer_JR2000292?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-field-application-engineer-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Site Reliability Engineer - Enterprise AI Platform",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 22 Days Ago",
+    "job_description": "Data Science job for the role Principal Site Reliability Engineer - Enterprise AI Platform at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Site-Reliability-Engineer---Enterprise-AI-Platform_JR2000391?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-site-reliability-engineer-enterprise-ai-platform-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "AI Infrastructure Software Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 22 Days Ago",
+    "job_description": "Data Science job for the role Senior AI Infrastructure Software Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Infrastructure-Software-Engineer_JR2000266?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-ai-infrastructure-software-engineer-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "Director, Drive OS Process and Quality",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 22 Days Ago",
+    "job_description": "Data Science job for the role Director, Drive OS Process and Quality at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Drive-OS-Process-and-Quality_JR1999930?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-director-drive-os-process-and-quality-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "System Software Engineer - Cloud Networking",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted 22 Days Ago",
+    "job_description": "Data Science job for the role Senior System Software Engineer - Cloud Networking at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Cloud-Networking_JR1999914?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-system-software-engineer-cloud-networking-2-locations"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "System Software Power Optimization Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted 22 Days Ago",
+    "job_description": "Data Science job for the role Senior System Software Power Optimization Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Power-Optimization-Engineer_JR2000228?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-system-software-power-optimization-engineer-us"
   }
 ]
