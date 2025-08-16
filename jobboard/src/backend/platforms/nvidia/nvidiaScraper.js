@@ -108,7 +108,7 @@ async function nvidiaScraper(searchQuery, maxPages = 10) {
       console.log(`Scraping page ${pageNum}...`);
       
       // Construct URL with search query
-      const searchUrl = `${baseUrl}/NVIDIAExternalCareerSite?q=${encodeURIComponent(searchQuery)}&locationCountry=bc33aa3152ec42d4995f4791a106ed09`;
+      const searchUrl = `${baseUrl}/NVIDIAExternalCareerSite?q=${encodeURIComponent(searchQuery)}&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8`;
       
       if (pageNum === 1) {
         console.log(`Searching for: "${searchQuery}"`);
