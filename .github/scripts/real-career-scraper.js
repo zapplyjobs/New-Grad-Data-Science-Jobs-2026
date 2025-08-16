@@ -24,6 +24,10 @@ const genomicsScraper = require("../../jobboard/src/backend/platforms/genomics/g
 const rivianScraper = require("../../jobboard/src/backend/platforms/rivian/rivianScraper");
 const jpmcScraper = require("../../jobboard/src/backend/platforms/jpmc/jpmcScraper");
 const honeywellScraper = require("../../jobboard/src/backend/platforms/honeywell/honeywellScraper");
+const amdScraper = require("../../jobboard/src/backend/platforms/amd/amdScraper");
+const nvidiaScraper = require("../../jobboard/src/backend/platforms/nvidia/nvidiaScraper");
+const appleScraper = require("../../jobboard/src/backend/platforms/apple/appleScraper");
+const intelScraper = require("../../jobboard/src/backend/platforms/intel/intelScraper");
 // Load company database
 const companies = JSON.parse(
   fs.readFileSync("./.github/scripts/job-fetcher/companies.json", "utf8")
@@ -503,7 +507,10 @@ async function fetchAllRealJobs() {
     rivian_DataScience,
     jpmc_DataScience,
     honeywell_DataScience,
-
+    amd_DataScience,  
+    nvidia_DataScience,
+    apple_DataScience,
+    intel_DataScience,
   ] = await Promise.all([
     scrapeAmazonJobs("Data Science").catch((err) => {
       console.error("❌ Amazon scraper failed:", err.message);
@@ -614,7 +621,22 @@ async function fetchAllRealJobs() {
       console.error("❌ Honeywell scraper failed:", err.message);
       return [];
     }),
-   
+    amdScraper('Data Science').catch((err) => {
+      console.error("❌ AMD scraper failed:", err.message);
+      return [];
+    }),
+    nvidiaScraper('Data Science').catch((err) => {
+      console.error("❌ NVIDIA scraper failed:", err.message);
+      return [];
+    }),
+    appleScraper('Data Science').catch((err) => {
+      console.error("❌ Apple scraper failed:", err.message);
+      return [];
+    }),
+    intelScraper('Data Science').catch((err) => {
+      console.error("❌ Intel scraper failed:", err.message);
+      return [];
+    }),
   ]);
 
   allJobs.push(
@@ -641,7 +663,13 @@ async function fetchAllRealJobs() {
     ...rivian_DataScience,
     ...jpmc_DataScience,
     ...honeywell_DataScience,
+    ...amd_DataScience,
+    ...nvidia_DataScience,
+    ...apple_DataScience,
+    ...intel_DataScience,
   );
+
+  console.log(allJobs);
 
   const companiesWithAPIs = Object.keys(CAREER_APIS);
 
