@@ -40,6 +40,55 @@ const salesforceScraper = require("../../jobboard/src/backend/platforms/salesfor
 const verizonScraper = require("../../jobboard/src/backend/platforms/verizon/verizonScraper");
 const workdayScraper = require("../../jobboard/src/backend/platforms/workday/workdayScraper");
 
+// Batch processing configuration
+const BATCH_CONFIG = {
+  batchSize: 8,                    // Number of scrapers to run concurrently in each batch (8 companies)
+  delayBetweenBatches: 2000,       // Delay in milliseconds between batches (2 seconds)
+  maxRetries: 3,                   // Maximum retry attempts for failed scrapers
+  timeout: 180000,                 // Timeout for individual scrapers (3 minutes)
+  enableProgressBar: true,          // Enable progress tracking
+  enableDetailedLogging: true      // Enable detailed logging for each scraper
+};
+
+// Predefined batch configurations for different scenarios
+const BATCH_PRESETS = {
+  // Fast mode - more concurrent scrapers, shorter delays
+  fast: {
+    ...BATCH_CONFIG,
+    batchSize: 10,
+    delayBetweenBatches: 1500,
+    maxRetries: 2,
+    timeout: 120000
+  },
+  
+  // Conservative mode - fewer concurrent scrapers, longer delays
+  conservative: {
+    ...BATCH_CONFIG,
+    batchSize: 5,
+    delayBetweenBatches: 4000,
+    maxRetries: 4,
+    timeout: 240000
+  },
+  
+  // Debug mode - detailed logging, smaller batches
+  debug: {
+    ...BATCH_CONFIG,
+    batchSize: 3,
+    delayBetweenBatches: 3000,
+    maxRetries: 3,
+    timeout: 300000,
+    enableDetailedLogging: true
+  }
+};
+
+// Function to create custom batch configuration
+function createBatchConfig(options = {}) {
+  return {
+    ...BATCH_CONFIG,
+    ...options
+  };
+}
+
 // Load company database
 const companies = JSON.parse(
   fs.readFileSync("./.github/scripts/job-fetcher/companies.json", "utf8")
@@ -495,6 +544,171 @@ async function fetchAllRealJobs() {
   console.log("🚀 Starting REAL career page scraping...");
 
   const allJobs = [];
+  // Define scraper configurations for batch processing
+  const scraperConfigs = [
+    { name: 'Amazon', scraper: scrapeAmazonJobs, query: 'Data Science' },
+    { name: 'Meta', scraper: scrapeMetaJobs, query: 'Data Science' },
+    { name: 'Microsoft', scraper: microsoftScraper, query: 'data science' },
+    { name: 'Google', scraper: googleScraper, query: 'Data Science' },
+    { name: 'ARM', scraper: armScraper, query: 'Data Science' },
+    { name: 'Micron', scraper: micronScraper, query: 'Data Science' },
+    { name: 'IBM', scraper: ibmScraper, query: 'Data Science' },
+    { name: 'ABB', scraper: abbScraper, query: 'Data Science' },
+    { name: 'Infineon', scraper: infineonScraper, query: 'Data Science' },
+    { name: 'Texas Instruments', scraper: texasScraper, query: 'Data Science' },
+    { name: 'Cisco', scraper: ciscoScraper, query: 'Data Science' },
+    { name: 'Siemens', scraper: siemensScraper, query: 'Data Science' },
+    { name: 'Analog Devices', scraper: analogScraper, query: 'Data Science' },
+    { name: 'Marvel', scraper: MarvelScraper, query: 'Data Science' },
+    { name: 'AI Jobs', scraper: aijobsScraper, query: 'data science' },
+    { name: 'Waymo', scraper: waymoScraper, query: 'Data Science' },
+    { name: 'Applied Materials', scraper: appliedMaterialsScraper, query: 'Data Science' },
+    { name: 'Synopsys', scraper: synopsysScraper, query: 'Data Science' },
+    { name: 'Illumina', scraper: illuminaScraper, query: 'Data Science' },
+    { name: 'Genomics', scraper: genomicsScraper, query: 'Data Science' },
+    { name: 'Rivian', scraper: rivianScraper, query: 'Data Science' },
+    { name: 'JPMorgan Chase', scraper: jpmcScraper, query: 'Data Science' },
+    { name: 'Honeywell', scraper: honeywellScraper, query: 'Data Science' },
+    { name: 'AMD', scraper: amdScraper, query: 'Data Science' },
+    { name: 'NVIDIA', scraper: nvidiaScraper, query: 'Data Science' },
+    { name: 'Apple', scraper: appleScraper, query: 'Data Science' },
+    { name: 'Intel', scraper: intelScraper, query: 'Data Science' },
+    { name: 'Booz Allen Hamilton', scraper: boozallenScraper, query: 'Data Science' },
+    { name: 'Broadcom', scraper: broadcomScraper, query: 'Data Science' },
+    { name: 'Dell', scraper: dellScraper, query: 'Data Science' },
+    { name: 'GDIT', scraper: gditScraper, query: 'Data Science' },
+    { name: 'Guidehouse', scraper: guidehouseScraper, query: 'Data Science' },
+    { name: 'HPE', scraper: hpeScraper, query: 'Data Science' },
+    { name: 'Magna', scraper: magnaScraper, query: 'Data Science' },
+    { name: 'Salesforce', scraper: salesforceScraper, query: 'Data Science' },
+    { name: 'Verizon', scraper: verizonScraper, query: 'Data Science' },
+    { name: 'Workday', scraper: workdayScraper, query: 'Data Science' }
+  ];
+
+  // Enhanced batch processing function with retry logic and configuration
+  async function processScrapersInBatches(configs, config = BATCH_CONFIG) {
+    const results = [];
+    const totalBatches = Math.ceil(configs.length / config.batchSize);
+    
+    console.log(`🚀 Starting optimized batch processing:`);
+    console.log(`   📊 Total scrapers: ${configs.length}`);
+    console.log(`   📦 Batch size: ${config.batchSize} (8 companies per batch)`);
+    console.log(`   ⏱️  Total batches: ${totalBatches}`);
+    console.log(`   ⏳ Delay between batches: ${config.delayBetweenBatches}ms`);
+    console.log(`   🔄 Max retries: ${config.maxRetries}`);
+    
+    // Progress tracking
+    let completedScrapers = 0;
+    let successfulScrapers = 0;
+    let failedScrapers = 0;
+    
+    for (let i = 0; i < configs.length; i += config.batchSize) {
+      const batch = configs.slice(i, i + config.batchSize);
+      const batchNumber = Math.floor(i / config.batchSize) + 1;
+      
+      console.log(`\n📦 Processing Batch ${batchNumber}/${totalBatches}: ${batch.map(c => c.name).join(', ')}`);
+      
+      // Process current batch concurrently with retry logic
+      const batchPromises = batch.map(async (scraperConfig) => {
+        let lastError = null;
+        let startTime = Date.now(); // Declare startTime outside the loop
+        
+        for (let attempt = 1; attempt <= config.maxRetries; attempt++) {
+          try {
+            // Update startTime for each attempt
+            startTime = Date.now();
+            
+            // Create a timeout promise
+            const timeoutPromise = new Promise((_, reject) => {
+              setTimeout(() => reject(new Error('Scraper timeout')), config.timeout);
+            });
+            
+            // Race between scraper and timeout
+            const jobs = await Promise.race([
+              scraperConfig.scraper(scraperConfig.query),
+              timeoutPromise
+            ]);
+            
+            const duration = Date.now() - startTime;
+            completedScrapers++;
+            successfulScrapers++;
+            
+            if (config.enableDetailedLogging) {
+              console.log(`✅ ${scraperConfig.name}: ${jobs.length} jobs in ${duration}ms (Attempt ${attempt})`);
+            }
+            
+            return { 
+              name: scraperConfig.name, 
+              jobs, 
+              duration, 
+              success: true, 
+              attempts: attempt,
+              error: null 
+            };
+            
+          } catch (error) {
+            lastError = error;
+            if (config.enableDetailedLogging) {
+              console.log(`⚠️  ${scraperConfig.name} attempt ${attempt} failed: ${error.message}`);
+            }
+            
+            // If this is the last attempt, mark as failed
+            if (attempt === config.maxRetries) {
+              const duration = Date.now() - startTime;
+              completedScrapers++;
+              failedScrapers++;
+              
+              console.error(`❌ ${scraperConfig.name} failed after ${config.maxRetries} attempts: ${error.message}`);
+              
+              return { 
+                name: scraperConfig.name, 
+                jobs: [], 
+                duration: duration, 
+                success: false, 
+                attempts: attempt,
+                error: error.message 
+              };
+            }
+            
+            // Wait before retry (exponential backoff)
+            const retryDelay = Math.min(1000 * Math.pow(2, attempt - 1), 5000);
+            if (config.enableDetailedLogging) {
+              console.log(`⏳ Retrying ${scraperConfig.name} in ${retryDelay}ms...`);
+              await new Promise(resolve => setTimeout(resolve, retryDelay));
+            }
+          }
+        }
+      });
+      
+      // Wait for current batch to complete
+      const batchResults = await Promise.all(batchPromises);
+      results.push(...batchResults);
+      
+      // Progress update
+      const progress = ((completedScrapers / configs.length) * 100).toFixed(1);
+      console.log(`📈 Progress: ${completedScrapers}/${configs.length} (${progress}%) - Success: ${successfulScrapers}, Failed: ${failedScrapers}`);
+      
+      // Add delay between batches (except for the last batch)
+      if (i + config.batchSize < configs.length) {
+        console.log(`⏳ Waiting ${config.delayBetweenBatches}ms before next batch...`);
+        await new Promise(resolve => setTimeout(resolve, config.delayBetweenBatches));
+      }
+    }
+    
+    return results;
+  }
+
+  // Process all scrapers in optimized batches
+  // You can use different configurations:
+  // - BATCH_CONFIG (default: 8 companies per batch, 2s delay)
+  // - BATCH_PRESETS.fast (10 companies per batch, 1.5s delay)
+  // - BATCH_PRESETS.conservative (5 companies per batch, 4s delay)
+  // - BATCH_PRESETS.debug (3 companies per batch, 3s delay)
+  // - createBatchConfig({ batchSize: 12, delayBetweenBatches: 1000 }) (custom)
+  
+  const batchResults = await processScrapersInBatches(scraperConfigs, BATCH_CONFIG);
+  
+  // Extract individual results for backward compatibility
   const [
     amazon_DataScience,
     meta_DataScience,
@@ -533,174 +747,9 @@ async function fetchAllRealJobs() {
     salesforce_DataScience,
     verizon_DataScience,
     workday_DataScience,
-  ] = await Promise.all([
-    scrapeAmazonJobs("Data Science").catch((err) => {
-      console.error("❌ Amazon scraper failed:", err.message);
-      return [];
-    }),
+  ] = batchResults.map(result => result.jobs);
 
-    scrapeMetaJobs("Data Science").catch((err) => {
-      console.error("❌ Meta scraper failed:", err.message);
-      return [];
-    }),
-
-    microsoftScraper("data science").catch((err) => {
-      console.error("❌ Microsoft scraper failed:", err.message);
-      return [];
-    }),
-
-    googleScraper("Data Science").catch((err) => {
-      console.error("❌ Google scraper failed:", err.message);
-      return [];
-    }),
-
-    armScraper("Data Science").catch((err) => {
-      console.error("❌ ARM scraper failed:", err.message);
-      return [];
-    }),
-
-    micronScraper("Data Science").catch((err) => {
-      console.error("❌ Micron scraper failed:", err.message);
-      return [];
-    }),
-
-    ibmScraper("Data Science").catch((err) => {
-      console.error("❌ IBM scraper failed:", err.message);
-      return [];
-    }),
-
-    abbScraper("Data Science").catch((err) => {
-      console.error("❌ ABB scraper failed:", err.message);
-      return [];
-    }),
-
-    infineonScraper("Data Science").catch((err) => {
-      console.error("❌ Infineon scraper failed:", err.message);
-      return [];
-    }),
-
-    texasScraper("Data Science").catch((err) => {
-      console.error("❌ Texas Instruments scraper failed:", err.message);
-      return [];
-    }),
-
-    ciscoScraper("Data Science").catch((err) => {
-      console.error("❌ Cisco scraper failed:", err.message);
-      return [];
-    }),
-
-    siemensScraper("Data Science").catch((err) => {
-      console.error("❌ Siemens scraper failed:", err.message);
-      return [];
-    }),
-
-    analogScraper("Data Science").catch((err) => {
-      console.error("❌ Analog Devices scraper failed:", err.message);
-      return [];
-    }),
-
-    MarvelScraper("Data Science").catch((err) => {
-      console.error("❌ Marvel scraper failed:", err.message);
-      return [];
-    }),
-
-    aijobsScraper("data science").catch((err) => {
-      console.error("❌ AI Jobs scraper failed:", err.message);
-      return [];
-    }),
-    waymoScraper("Data Science").catch((err) => {
-      console.error("❌ Waymo scraper failed:", err.message);
-      return [];
-    }),
-
-    appliedMaterialsScraper("Data Science").catch((err) => {
-      console.error("❌ Applied Materials scraper failed:", err.message);
-      return [];
-    }),
-    synopsysScraper("Data Science").catch((err) => {
-      console.error("❌ Synopsys scraper failed:", err.message);
-      return [];
-    }),
-
-    illuminaScraper("Data Science").catch((err) => {
-      console.error("❌ Illumina scraper failed:", err.message);
-      return [];
-    }),
-   
-    genomicsScraper('Data Science').catch((err) => {
-      console.error("❌ Genomics scraper failed:", err.message);
-      return [];
-    }),
-    rivianScraper('Data Science').catch((err) => {
-      console.error("❌ Rivian scraper failed:", err.message);
-      return [];
-    }),
-    jpmcScraper('Data Science').catch((err) => {
-      console.error("❌ JPMorgan Chase scraper failed:", err.message);
-      return [];
-    }),
-    honeywellScraper('Data Science').catch((err) => {
-      console.error("❌ Honeywell scraper failed:", err.message);
-      return [];
-    }),
-    amdScraper('Data Science').catch((err) => {
-      console.error("❌ AMD scraper failed:", err.message);
-      return [];
-    }),
-    nvidiaScraper('Data Science').catch((err) => {
-      console.error("❌ NVIDIA scraper failed:", err.message);
-      return [];
-    }),
-    appleScraper('Data Science').catch((err) => {
-      console.error("❌ Apple scraper failed:", err.message);
-      return [];
-    }),
-    intelScraper('Data Science').catch((err) => {
-      console.error("❌ Intel scraper failed:", err.message);
-      return [];
-    }),
-    boozallenScraper('Data Science').catch((err) => {
-      console.error("❌ Booz Allen Hamilton scraper failed:", err.message);
-      return [];
-    }),
-    broadcomScraper('Data Science').catch((err) => {
-      console.error("❌ Broadcom scraper failed:", err.message);
-      return [];
-    }),
-    dellScraper('Data Science').catch((err) => {
-      console.error("❌ Dell scraper failed:", err.message);
-      return [];
-    }),
-    gditScraper('Data Science').catch((err) => {
-      console.error("❌ GDIT scraper failed:", err.message);
-      return [];
-    }),
-    guidehouseScraper('Data Science').catch((err) => {
-      console.error("❌ Guidehouse scraper failed:", err.message);
-      return [];
-    }),
-    hpeScraper('Data Science').catch((err) => {
-      console.error("❌ HPE scraper failed:", err.message);
-      return [];
-    }),
-    magnaScraper('Data Science').catch((err) => {
-      console.error("❌ Magna scraper failed:", err.message);
-      return [];
-    }),
-    salesforceScraper('Data Science').catch((err) => {
-      console.error("❌ Salesforce scraper failed:", err.message);
-      return [];
-    }),
-    verizonScraper('Data Science').catch((err) => {
-      console.error("❌ Verizon scraper failed:", err.message);
-      return [];
-    }),
-    workdayScraper('Data Science').catch((err) => {
-      console.error("❌ Workday scraper failed:", err.message);
-      return [];
-    }),
-  ]);
-
+  // Add all jobs to the results array
   allJobs.push(
     ...amazon_DataScience,
     ...meta_DataScience,

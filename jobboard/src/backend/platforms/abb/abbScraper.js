@@ -241,7 +241,7 @@ async function abbScraper(searchQuery, maxPages = 10) {
     try {
       await page.waitForSelector(
         "li.jobs-list-item.au-target.phw-card-block-nd",
-        { timeout: 15000 }
+        { timeout: 55000 }
       );
       jobItems = await page.$$("li.jobs-list-item.au-target.phw-card-block-nd");
     } catch (error) {
@@ -330,5 +330,38 @@ async function abbScraper(searchQuery, maxPages = 10) {
 }
 
 module.exports = abbScraper;
+
+// Main function to run the scraper
+async function main() {
+  try {
+    console.log('🚀 Starting ABB scraper...');
+    console.log('Searching for data science jobs...');
+    
+    const jobs = await abbScraper('data science', 2); // Search for data science jobs, max 2 pages
+    
+    console.log('\n📊 Scraping Results:');
+    console.log(`Total jobs found: ${jobs.length}`);
+    
+    if (jobs.length > 0) {
+      console.log('\n📋 Job Details:');
+      jobs.forEach((job, index) => {
+        console.log(`\n${index + 1}. ${job.job_title}`);
+        console.log(`   Company: ${job.employer_name}`);
+        console.log(`   Location: ${job.job_city}, ${job.job_state}`);
+        console.log(`   Posted: ${job.job_posted_at}`);
+        console.log(`   Apply: ${job.job_apply_link}`);
+      });
+    }
+    
+    console.log('\n✅ ABB scraper completed successfully!');
+  } catch (error) {
+    console.error('❌ Error running ABB scraper:', error);
+  }
+}
+
+// Run the main function if this file is executed directly
+if (require.main === module) {
+  main();
+}
 
 
