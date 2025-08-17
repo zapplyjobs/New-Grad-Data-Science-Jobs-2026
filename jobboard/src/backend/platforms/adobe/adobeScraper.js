@@ -97,34 +97,34 @@ function parseLocation(locationText) {
 async function applyUSAFilter(page) {
   console.log("=== Applying USA location filter ===");
 
-  const maxRetries = 3;
+  const maxRetries = 5;
   for (let attempt = 1; attempt <= maxRetries; attempt++) {
     try {
       // Click location accordion
-      await page.waitForSelector(
-        "button#Country\\/Territory\\/AreaAccordion.facet-menu.au-target",
-        { timeout: 10000 }
-      );
-      const accordionButton = await page.$(
-        "button#Country\\/Territory\\/AreaAccordion.facet-menu.au-target"
-      );
+      // await page.waitForSelector(
+      //   "button#Country\\/Territory\\/AreaAccordion.facet-menu.au-target",
+      //   { timeout: 10000 }
+      // );
+      // const accordionButton = await page.$(
+      //   "button#Country\\/Territory\\/AreaAccordion.facet-menu.au-target"
+      // );
 
-      if (accordionButton) {
-        console.log(`✓ Clicking location accordion... (Attempt ${attempt})`);
-        await accordionButton.click({ delay: 100 });
-        await new Promise((resolve) => setTimeout(resolve, 2000));
-      } else {
-        console.log(`⚠ Accordion button not found (Attempt ${attempt})`);
-        continue;
-      }
+      // if (accordionButton) {
+      //   console.log(`✓ Clicking location accordion... (Attempt ${attempt})`);
+      //   await accordionButton.click({ delay: 100 });
+      //   await new Promise((resolve) => setTimeout(resolve, 2000));
+      // } else {
+      //   console.log(`⚠ Accordion button not found (Attempt ${attempt})`);
+      //   continue;
+      // }
 
       // Ensure the search input is visible and interactable
       await page.waitForSelector(
-        "input[id='facetInput_5'][data-ps='1c680c5e-input-1']",
-        { visible: true, timeout: 10000 }
+        "input[id='facetInput_1'][data-ps='1c680c5e-input-1']",
+        { visible: true, timeout: 100000 }
       );
       const searchInput = await page.$(
-        "input[id='facetInput_5'][data-ps='1c680c5e-input-1']"
+        "input[id='facetInput_1'][data-ps='1c680c5e-input-1']"
       );
 
       if (searchInput) {
@@ -211,7 +211,7 @@ const baseUrl = 'https://careers.adobe.com/us/en/search-results';
   for (let pageNumber = 1; pageNumber <= maxPages; pageNumber++) {
     const fromPage = (pageNumber - 1) * 10;
 
-   const searchUrl = `${baseUrl}?keywords=${encodeURIComponent(searchQuery)}&from=${fromIndex}&s=1`;
+   const searchUrl = `${baseUrl}?keywords=${encodeURIComponent(searchQuery)}&from=${fromPage}&s=1`;
       console.log(`Navigating to: ${searchUrl}`);
 
    
@@ -236,7 +236,7 @@ const baseUrl = 'https://careers.adobe.com/us/en/search-results';
     try {
       await page.waitForSelector(
         "li.jobs-list-item.au-target.phw-card-block-nd",
-        { timeout: 15000 }
+        { timeout: 55000 }
       );
       jobItems = await page.$$("li.jobs-list-item.au-target.phw-card-block-nd");
     } catch (error) {
@@ -296,7 +296,7 @@ const baseUrl = 'https://careers.adobe.com/us/en/search-results';
           job_state: state,
           job_posted_at: formattedPostedDate,
           job_description:`${searchQuery} job for the role ${jobData.title} at ${jobData.location}`,
-          job_apply_link: jobData.applyLink || searchUrl,
+          job_apply_link: jobData.applyLink ,
         };
 
         allJobs.push(formattedJob);
@@ -326,5 +326,35 @@ const baseUrl = 'https://careers.adobe.com/us/en/search-results';
 
 module.exports = adobeScraper;
 
+// Main function to run the scraper
+async function main() {
+  try {
+    console.log('🚀 Starting Adobe scraper...');
+    console.log('Searching for data science jobs...');
+    
+    const jobs = await adobeScraper('data science', 2); // Search for data science jobs, max 2 pages
+    
+    console.log('\n📊 Scraping Results:');
+    console.log(`Total jobs found: ${jobs.length}`);
+    
+    if (jobs.length > 0) {
+      console.log('\n📋 Job Details:');
+      jobs.forEach((job, index) => {
+        console.log(`\n${index + 1}. ${job.job_title}`);
+        console.log(`   Company: ${job.employer_name}`);
+        console.log(`   Location: ${job.job_city}, ${job.job_state}`);
+        console.log(`   Posted: ${job.job_posted_at}`);
+        console.log(`   Apply: ${job.job_apply_link}`);
+      });
+    }
+    
+    console.log('\n✅ Adobe scraper completed successfully!');
+  } catch (error) {
+    console.error('❌ Error running Adobe scraper:', error);
+  }
+}
 
-//data science
+// Run the main function if this file is executed directly
+if (require.main === module) {
+  main();
+}
