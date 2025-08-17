@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Server Ecosystem Enablement Manager",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Posted 20 days ago",
-    "job_description": "Data Science job for the role Server Ecosystem Enablement Manager at San Jose, California, United States of America + 2 more",
-    "job_apply_link": "https://careers.micron.com/careers/job/30482257",
-    "id": "micron-server-ecosystem-enablement-manager-san-jose"
+    "employer_name": "GDIT",
+    "job_title": "CECS II Field Support Representative (Region 10)",
+    "job_city": "USA AK Joint Base Elmendorf Richardson",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role CECS II Field Support Representative (Region 10) at USA AK Joint Base Elmendorf Richardson",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-AK-Joint-Base-Elmendorf-Richardson/CECS-II-Field-Support-Representative--Region-10-_RQ205464-1?q=Data+Science",
+    "id": "gdit-cecs-ii-field-support-representative-region-10-usa-ak-joint-base-elmendorf-richardson"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Full Stack Software Engineer - Public Cloud",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Full Stack Software Engineer - Public Cloud in Software Engineering. Available in 1 location(s): California - San Francisco",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr290317/full-stack-software-engineer-public-cloud/",
+    "id": "salesforce-full-stack-software-engineer-public-cloud-california-san-francisco"
   }
 ]
