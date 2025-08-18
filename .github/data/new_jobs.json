@@ -1,42 +1,32 @@
 [
   {
     "employer_name": "Arm",
-    "job_title": "CPU Architect",
+    "job_title": "Safety Engineer",
     "job_city": "Sophia Antipolis",
     "job_state": "France",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior CPU Architect at Sophia Antipolis, France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/senior-cpu-architect/33099/76257729200",
-    "id": "arm-cpu-architect-sophia-antipolis"
+    "job_description": "Data Science job for the role Senior Safety Engineer at Sophia Antipolis, France",
+    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/senior-safety-engineer/33099/80099076608",
+    "id": "arm-safety-engineer-sophia-antipolis"
   },
   {
     "employer_name": "Arm",
-    "job_title": "Software Engineer (Automotive SW)",
+    "job_title": "CPU Technology Engineer – Dependability",
+    "job_city": "Cambridge",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior CPU Technology Engineer – Dependability at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-cpu-technology-engineer-dependability/33099/81788236224",
+    "id": "arm-cpu-technology-engineer-dependability-cambridge"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Design Constraints Engineer",
     "job_city": "Bengaluru",
     "job_state": "India",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Principal Software Engineer (Automotive SW) at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/principal-software-engineer-automotive-sw/33099/79556182896",
-    "id": "arm-software-engineer-automotive-sw-bengaluru"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Experienced Hardware Engineer",
-    "job_city": "Lund",
-    "job_state": "Sweden",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Experienced Hardware Engineer at Lund, Sweden",
-    "job_apply_link": "https://careers.arm.com/job/lund/experienced-hardware-engineer/33099/81161101824",
-    "id": "arm-experienced-hardware-engineer-lund"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "AI/ML Product Manager, WW Sales BPR",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "1 month ago",
-    "job_description": "Data Science job for the role AI/ML Product Manager, WW Sales BPR at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200605478-0836/ai-ml-product-manager-ww-sales-bpr?team=SLDEV",
-    "id": "apple-ai-ml-product-manager-ww-sales-bpr-cupertino"
+    "job_description": "Data Science job for the role Staff Design Constraints Engineer at Bengaluru, India",
+    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-design-constraints-engineer/33099/85158417536",
+    "id": "arm-design-constraints-engineer-bengaluru"
   }
 ]
