@@ -1,32 +1,82 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Safety Engineer",
-    "job_city": "Sophia Antipolis",
-    "job_state": "France",
+    "employer_name": "Google",
+    "job_title": "Research Analyst",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Safety Engineer at Sophia Antipolis, France",
-    "job_apply_link": "https://careers.arm.com/job/sophia-antipolis/senior-safety-engineer/33099/80099076608",
-    "id": "arm-safety-engineer-sophia-antipolis"
+    "job_description": "35 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Research Analyst, Future of Work",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/74174938109354694-research-analyst-future-of-work?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-research-analyst-mountain-view"
   },
   {
     "employer_name": "Arm",
-    "job_title": "CPU Technology Engineer – Dependability",
+    "job_title": "Kubernetes Platform Engineer",
     "job_city": "Cambridge",
     "job_state": "United Kingdom",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior CPU Technology Engineer – Dependability at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-cpu-technology-engineer-dependability/33099/81788236224",
-    "id": "arm-cpu-technology-engineer-dependability-cambridge"
+    "job_description": "Data Science job for the role Staff Kubernetes Platform Engineer at Cambridge, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-kubernetes-platform-engineer/33099/83324527776",
+    "id": "arm-kubernetes-platform-engineer-cambridge"
   },
   {
-    "employer_name": "Arm",
-    "job_title": "Design Constraints Engineer",
-    "job_city": "Bengaluru",
-    "job_state": "India",
+    "employer_name": "SIEMENS",
+    "job_title": "Senior Building Automation Service Specialist",
+    "job_city": "Beltsville",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Design Constraints Engineer at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/staff-design-constraints-engineer/33099/85158417536",
-    "id": "arm-design-constraints-engineer-bengaluru"
+    "job_description": "Data Science job for the role Senior Building Automation Service Specialist at Beltsville, Maryland, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-senior-building-automation-service-specialist-beltsville"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Commercial Project Manager - Factory- Rolling Stock- Sacramento, CA",
+    "job_city": "Sacramento",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Commercial Project Manager - Factory- Rolling Stock- Sacramento, CA at Sacramento, California, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-commercial-project-manager-factory-rolling-stock-sacramento-ca-sacramento"
+  },
+  {
+    "employer_name": "GDIT",
+    "job_title": "Chief Engineer- Herndon, VA - TS/SCI with poly",
+    "job_city": "USA VA Herndon",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Chief Engineer- Herndon, VA - TS/SCI with poly at USA VA Herndon",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Herndon/Cheif-Engineer--Herndon--VA---TS-SCI-with-poly_RQ204840-1?q=Data+Science",
+    "id": "gdit-chief-engineer-herndon-va-ts-sci-with-poly-usa-va-herndon"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Fullstack Engineer/Site Reliability Engineer",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Lead Fullstack Engineer/Site Reliability Engineer in Software Engineering. Available in 1 location(s): California - San Francisco",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr300706/lead-fullstack-engineersite-reliability-engineer/",
+    "id": "salesforce-fullstack-engineer-site-reliability-engineer-california-san-francisco"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Director, Agentforce Engineering",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Director, Agentforce Engineering in Customer Success. Available in 3 location(s): California - San Francisco, Washington - Seattle, Illinois - Chicago",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr304303/senior-director-agentforce-engineering/",
+    "id": "salesforce-director-agentforce-engineering-california-san-francisco"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Sr./Lead Backend Software Engineer, Infrastructure",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sr./Lead Backend Software Engineer, Infrastructure in Software Engineering. Available in 1 location(s): California - San Francisco",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr303819/srlead-backend-software-engineer-infrastructure/",
+    "id": "salesforce-sr-lead-backend-software-engineer-infrastructure-california-san-francisco"
   }
 ]
