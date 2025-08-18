@@ -1,112 +1,142 @@
 [
   {
-    "employer_name": "CISCO",
-    "job_title": "Software Engineer, Silicon One Engineering",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineer, Silicon One Engineering at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Silicon-One-Engineering/1441276",
-    "id": "cisco-software-engineer-silicon-one-engineering-san-jose"
+    "employer_name": "MARVELL",
+    "job_title": "Technical Program Manager",
+    "job_city": "5 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Principal Technical Program Manager at 5 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Technical-Program-Manager_2501923?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-technical-program-manager-5-locations"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Principal Verification Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Senior Principal Verification Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Principal-Verification-Engineer_2501500?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-principal-verification-engineer-santa-clara"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Equipment Engineering Manager",
+    "job_city": "US - California - San Diego",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Equipment Engineering Manager at US - California - San Diego",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Equipment-Engineering-Manager_41066-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-equipment-engineering-manager-us-california-san-diego"
   },
   {
     "employer_name": "JP Morgan Chase",
-    "job_title": "Data Management - Data Governance - Sr. Associate",
-    "job_city": "Newark",
-    "job_state": "DE",
+    "job_title": "Data Scientist Lead",
+    "job_city": "Bengaluru",
+    "job_state": "Karnataka",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Data Management - Data Governance - Sr. Associate at Newark, DE, United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210637459/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jp-morgan-chase-data-management-data-governance-sr-associate-newark"
+    "job_description": "Data Science job for the role Data Scientist Lead at Bengaluru, Karnataka, India",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210651615/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-data-scientist-lead-bengaluru"
   },
   {
-    "employer_name": "HONEYWELL",
-    "job_title": "Director Software Engineering",
-    "job_city": "Atlanta",
-    "job_state": "GA",
+    "employer_name": "JP Morgan Chase",
+    "job_title": "Pricing Direct - Corporate and Private Placement Valuation - Analyst",
+    "job_city": "New York",
+    "job_state": "NY",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Director Software Engineering at Atlanta, GA, United States",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/114680/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-director-software-engineering-atlanta"
+    "job_description": "Data Science job for the role Pricing Direct - Corporate and Private Placement Valuation - Analyst at New York, NY, United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210657670/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-pricing-direct-corporate-and-private-placement-valuation-analyst-new-york"
   },
   {
     "employer_name": "AMD",
-    "job_title": "Sr. Product Manager",
+    "job_title": "Design Verification Engineer",
     "job_city": "US",
     "job_state": "TX",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sr. Product Manager at US,TX,Austin\n7171 Southwest Parkway\nAustin, Texas\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/66963/login",
-    "id": "amd-sr-product-manager-us"
+    "job_description": "Data Science job for the role Design Verification Engineer at US,TX,Austin\n7171 Southwest Parkway\nAustin, Texas\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/67993/login",
+    "id": "amd-design-verification-engineer-us"
   },
   {
-    "employer_name": "NVIDIA",
-    "job_title": "Research Scientist - Trustworthy AI",
-    "job_city": "US",
+    "employer_name": "Apple",
+    "job_title": "Camera Machine Learning - Data Scientist",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Camera Machine Learning - Data Scientist at San Diego",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200615897-3543/camera-machine-learning-data-scientist?team=HRDWR",
+    "id": "apple-camera-machine-learning-data-scientist-san-diego"
+  },
+  {
+    "employer_name": "Booz Allen ",
+    "job_title": "5G Linux Systems Administrator",
+    "job_city": "Annapolis Junction",
+    "job_state": "MD",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role 5G Linux Systems Administrator at Annapolis Junction, MD",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/XMLNAME-5G-Linux-Systems-Administrator_R0223041?q=Data+Science",
+    "id": "booz-allen-5g-linux-systems-administrator-annapolis-junction"
+  },
+  {
+    "employer_name": "Booz Allen ",
+    "job_title": "Security Operations Analyst, Mid",
+    "job_city": "Rome",
     "job_state": "NY",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Research Scientist - Trustworthy AI at US, NY, Remote",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NY-Remote/Research-Scientist---Trustworthy-AI_JR2001990-1?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-research-scientist-trustworthy-ai-us"
+    "job_description": "Data Science job for the role Security Operations Analyst, Mid at Rome, NY",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Security-Operations-Analyst--Mid_R0224587?q=Data+Science",
+    "id": "booz-allen-security-operations-analyst-mid-rome"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Product Manager, Apple TV App Experimentation",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Senior Product Manager, Apple TV App Experimentation at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200603698-0836/senior-product-manager-apple-tv-app-experimentation?team=SFTWR",
-    "id": "apple-product-manager-apple-tv-app-experimentation-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Analyst, Process Analytics Reporting & Technology (PART)",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role Senior Analyst, Process Analytics Reporting & Technology (PART) at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200600919-0836/senior-analyst-process-analytics-reporting-technology-part?team=CORSV",
-    "id": "apple-analyst-process-analytics-reporting-technology-part-cupertino"
-  },
-  {
-    "employer_name": "Booz Allen ",
-    "job_title": "Training Research Scientist",
-    "job_city": "Fargo",
-    "job_state": "ND",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Training Research Scientist at Fargo, ND",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fargo-ND/Training-Research-Scientist_R0223424-1?q=Data+Science",
-    "id": "booz-allen-training-research-scientist-fargo"
-  },
-  {
-    "employer_name": "Booz Allen ",
-    "job_title": "Data Engineer",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Data Engineer at Atlanta, GA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Data-Engineer_R0224572?q=Data+Science",
-    "id": "booz-allen-data-engineer-atlanta"
+    "employer_name": " DELL",
+    "job_title": "Finance Undergraduate Intern",
+    "job_city": "Posted Today",
+    "job_state": "",
+    "job_posted_at": "",
+    "job_description": "Data Science job for the role Finance Undergraduate Intern at Posted Today",
+    "job_apply_link": "https://dell.wd1.myworkdayjobs.com/en-US/External/job/Round-Rock-Texas-United-States/Finance-Undergraduate-Intern_R275874-1?q=Data+Science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "dell-finance-undergraduate-intern-posted-today"
   },
   {
     "employer_name": "Salesforce",
-    "job_title": "Sr. Software Engineer, iOS Infrastructure",
+    "job_title": "Director, Product Design- Slack Growth",
     "job_city": "California - San Francisco",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sr. Software Engineer, iOS Infrastructure in Software Engineering. Available in 3 location(s): California - San Francisco, Washington - Seattle, Washington - Bellevue",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr295896/sr-software-engineer-ios-infrastructure/",
-    "id": "salesforce-sr-software-engineer-ios-infrastructure-california-san-francisco"
+    "job_description": "Data Science job for the role Senior Director, Product Design- Slack Growth in User Experience. Available in 1 location(s): California - San Francisco",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr303895/senior-director-product-design-slack-growth/",
+    "id": "salesforce-director-product-design-slack-growth-california-san-francisco"
   },
   {
-    "employer_name": "Verizon",
-    "job_title": "Training Research Scientist",
-    "job_city": "Fargo",
-    "job_state": "ND",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Training Research Scientist at Fargo, ND",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fargo-ND/Training-Research-Scientist_R0223424-1?q=Data+Science",
-    "id": "verizon-training-research-scientist-fargo"
+    "employer_name": "Salesforce",
+    "job_title": "Software Engineer, Backend (Staff & SWE II) - Slack",
+    "job_city": "Georgia - Atlanta",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Engineer, Backend (Staff & SWE II) - Slack in Software Engineering. Available in 3 location(s): Georgia - Atlanta, Washington - Seattle, California - San Francisco",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr290567/software-engineer-backend-staff-swe-ii-slack/",
+    "id": "salesforce-software-engineer-backend-staff-swe-ii-slack-georgia-atlanta"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Analyst, Field Activation",
+    "job_city": "Indiana - Indianapolis",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Analyst, Field Activation in Sales. Available in 2 location(s): Indiana - Indianapolis, Georgia - Atlanta",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308062/senior-analyst-field-activation/",
+    "id": "salesforce-analyst-field-activation-indiana-indianapolis"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Analyst, Headcount Strategy & Operations",
+    "job_city": "New York - New York",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Analyst, Headcount Strategy & Operations in Operations. Available in 1 location(s): New York - New York",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308325/senior-analyst-headcount-strategy-operations/",
+    "id": "salesforce-analyst-headcount-strategy-operations-new-york-new-york"
   }
 ]
