@@ -1,12 +1,42 @@
 [
   {
-    "employer_name": "NVIDIA",
-    "job_title": "Product Manager - Observability and Resilience",
-    "job_city": "2 Locations",
+    "employer_name": "Arm",
+    "job_title": "Quality and Reliability Engineer",
+    "job_city": "Hsinchu",
+    "job_state": "Taiwan",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Principal Quality and Reliability Engineer at Hsinchu, Taiwan",
+    "job_apply_link": "https://careers.arm.com/job/hsinchu/principal-quality-and-reliability-engineer/33099/84729457424",
+    "id": "arm-quality-and-reliability-engineer-hsinchu"
+  },
+  {
+    "employer_name": "JP Morgan Chase",
+    "job_title": "CIB Operations - Documentation Management Analyst - Record Management",
+    "job_city": "Shanghai",
+    "job_state": "China",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role CIB Operations - Documentation Management Analyst - Record Management at Shanghai, China",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210658245/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-cib-operations-documentation-management-analyst-record-management-shanghai"
+  },
+  {
+    "employer_name": "Broadcom",
+    "job_title": "Spice Modeling Engineer",
+    "job_city": "USA-CA Irvine Alton Parkway Bldg 1",
     "job_state": "",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Senior Product Manager - Observability and Resilience at 2 Locations",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Manager---Observability-and-Resilience_JR2001233?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-product-manager-observability-and-resilience-2-locations"
+    "job_posted_at": "Full time",
+    "job_description": "Data Science job for the role Spice Modeling Engineer at USA-CA Irvine Alton Parkway Bldg 1",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-1/Spice-Modeling-Engineer_R023559?q=Data+Science&locations=036f545a07811067fb610630a895b9d1&locations=4a762b79ba9901fbfe4aa39dee017989&locations=877d747df7191002136680bc73dd0000&locations=036f545a07811067fe54543fbf78bf0b&locations=4a762b79ba9901dd1c968d9dee013d89&locations=036f545a07811067fe3102fad18abe98&locations=877d747df71910021366662e2df00000&locations=0dd627624e2e013c1b0b00dadcd9d20c&locations=4d92fd6213b61072a7417474224cdf6f&locations=036f545a07811067f1de98b90bc6a926&locations=0dd627624e2e01ef94cee9d9dcd9be0c&locations=036f545a07811067fe218885c2cfbe7b&locations=4b92da390b9b10b7bbda11b85613cb77&locations=29320def7b02106689d3b1774d23aec8&locations=12a17a8024ab0188b084e8699205dedc&locations=184c736cf3ea101ebb66e6d76e01745d&locations=036f545a07811067fe06ebd34c95be15&locations=0dd627624e2e01adaab9d4d9dcd9aa0c&locations=bc7b9b9faae610013552e580e0050000&locations=036f545a07811067fdde3f0aaa04bddc&locations=036f545a07811067f02d8e8d652ca59a&locations=684d61d26ae81001e56a71a3ea7f0000&locations=092b5fae35ea103936b2cf96c8937ee4&locations=036f545a07811067fdd04465a219bdca&locations=036f545a07811067fdaef047ea16bd84&locations=036f545a07811067fd922a750736bd46&locations=036f545a07811067fd81d424f6f7bd34&locations=bc7b9b9faae6100135a5028075d30000&locations=036f545a07811067f0a87f246cdca66f&locations=9c718cedc47410720f2bf064829fb76b&locations=3fe9c5fb131001012dd089fc94a00000&locations=036f545a07811067fb9e5a23b23bba74&locations=34a3eda408dd1000f53fee68ed950000&locations=0dd627624e2e0140aadb9fd9dcd9780c&locations=036f545a07811067fb8008d4ab6db9fa&locations=877d747df71910021365fa3b7dd40000&locations=036f545a07811067fb6fcb79192fb9db&locations=4a762b79ba990193859f8b9dee013889&locations=0dd627624e2e01ade01e8cd9dcd9640c&locations=288fd69044a1013faf91cae80d12033d&locations=b8b934041f1710a36c7d5f74cb2b8324&locations=4b92da390b9b10b7bb847e8f1b75cac8&locations=f1900192220f010e8b06cc0dfeb6f74e&locations=036f545a07811067ec96c1512ad3a036&locations=036f545a07811067fb4d9a7c1d47b9b8&locations=ac281c4e5ca401ac22de4737f50155b5&locations=3752a56f61f71001315aa3c6ecd50000&locations=44b3a7caf8e6480795125e010f577053&locations=288fd69044a1015bc80b7fb60d12d53c&locations=036f545a07811067f088b65977bba653&locations=092b5fae35ea103935df5e4c2e637d4f&locations=877d747df71910021361ce875ee20000&locations=877d747df71910021363ae79396c0000&locations=877d747df719100213626ffcfae00000&locations=877d747df71910021361d95ffda70000&locations=877d747df71910021363291521ae0000&locations=877d747df719100213623cd467ed0000&locations=877d747df719100213635c7f40d30000&locations=2a204116f85f013c9e832787796b52c8&locations=2a204116f85f0193baeeb7e2796b85c8&locations=3d9f1a0214ac01439ca04708d2465801&locations=877d747df71910021365c0592d6f0000&locations=092b5fae35ea103937177f80adeb7f1f&locations=092b5fae35ea1039363a0cdcb5837e8b&locations=df820e04c9924c84b5214f4d68b50fa9&locations=036f545a07811067ed3afb5b6f6ca09f&locations=877d747df7191002136629d4bc1f0000&locations=bc19fd96cebf1069285cfef83d445107&locations=877d747df719100213665b4fa1470000&locations=877d747df719100213668b996bb60000",
+    "id": "broadcom-spice-modeling-engineer-usa-ca-irvine-alton-parkway-bldg-1"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Manager, Product Marketing, AppExchange & AgentExchange",
+    "job_city": "Washington - Seattle",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Manager, Product Marketing, AppExchange & AgentExchange in Marketing & Communications. Available in 2 location(s): Washington - Seattle, Illinois - Chicago",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr304770/senior-manager-product-marketing-appexchange-agentexchange/",
+    "id": "salesforce-manager-product-marketing-appexchange-agentexchange-washington-seattle"
   }
 ]
