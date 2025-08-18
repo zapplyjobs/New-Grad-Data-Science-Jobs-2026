@@ -1,42 +1,12 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Service Desk Team Lead",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Service Desk Team Lead at Bengaluru, India",
-    "job_apply_link": "https://careers.arm.com/job/bengaluru/service-desk-team-lead/33099/81527238400",
-    "id": "arm-service-desk-team-lead-bengaluru"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Brand Creative Lead, APAC",
-    "job_city": "Taipei",
-    "job_state": "Taiwan",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Brand Creative Lead, APAC at Taipei, Taiwan",
-    "job_apply_link": "https://careers.arm.com/job/taipei/brand-creative-lead-apac/33099/85051958880",
-    "id": "arm-brand-creative-lead-apac-taipei"
-  },
-  {
-    "employer_name": "Hewlett Packard Enterprise",
-    "job_title": "Software Engineer 3 - Cloud Security",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Software Engineer 3 - Cloud Security at San Jose, California, United States of America",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/San-Jose-California-United-States-of-America/Software-Engineer-3---Cloud-Security_1192070-1?q=Data+Science",
-    "id": "hewlett-packard-enterprise-software-engineer-3-cloud-security-san-jose"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Director, Partner Account Management (IBM)",
-    "job_city": "New York - New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Director, Partner Account Management (IBM) in Sales. Available in 3 location(s): New York - New York, Illinois - Chicago, California - San Francisco",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr301564/senior-director-partner-account-management-ibm/",
-    "id": "salesforce-director-partner-account-management-ibm-new-york-new-york"
+    "employer_name": "NVIDIA",
+    "job_title": "Product Manager - Observability and Resilience",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Yesterday",
+    "job_description": "Data Science job for the role Senior Product Manager - Observability and Resilience at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Manager---Observability-and-Resilience_JR2001233?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-product-manager-observability-and-resilience-2-locations"
   }
 ]
