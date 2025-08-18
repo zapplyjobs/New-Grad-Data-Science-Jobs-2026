@@ -1,102 +1,82 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "AI Engineer – SiPhox AI Platform",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "5h ago",
-    "job_description": "data science job for the role AI Engineer – SiPhox AI Platform at Boston, MA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/156147607-ai-engineer-siphox-ai-platform",
-    "id": "aijobs-ai-engineer-siphox-ai-platform-us"
+    "employer_name": "INFINEON",
+    "job_title": "Graduate - Senior Engineer Digital IC Design",
+    "job_city": "San Jose",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Graduate - Senior Engineer Digital IC Design at San Jose",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=Data%20Science&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-graduate-senior-engineer-digital-ic-design-san-jose"
   },
   {
-    "employer_name": "AMD",
-    "job_title": "Sr. Software Verification Engineer",
-    "job_city": "US",
-    "job_state": "CA",
+    "employer_name": "SIEMENS",
+    "job_title": "Security Systems Senior Sales Executive",
+    "job_city": "Cypress",
+    "job_state": "United States of America",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sr. Software Verification Engineer at US,CA,San Jose\n2100 Logic Drive\nSan Jose, California\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/67927/login",
-    "id": "amd-sr-software-verification-engineer-us"
+    "job_description": "Data Science job for the role Security Systems Senior Sales Executive at Cypress, California, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-security-systems-senior-sales-executive-cypress"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Silicon Senior Principal Engineering Program Manager (Cloud Data Center)",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Silicon Senior Principal Engineering Program Manager (Cloud Data Center) at 3 Locations",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Boise-ID/Silicon-Senior-Principal-Engineering-Program-Manager--Cloud-Data-Center-_2501927-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-silicon-senior-principal-engineering-program-manager-cloud-data-center-3-locations"
   },
   {
     "employer_name": "NVIDIA",
-    "job_title": "Director, Enterprise AI Factories Deployment",
+    "job_title": "Software Applications Engineer, Datacenter Products",
     "job_city": "US",
     "job_state": "CA",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior Director, Enterprise AI Factories Deployment at US, CA, Santa Clara",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Director--Enterprise-AI-Factories-Deployment_JR2002303?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-director-enterprise-ai-factories-deployment-us"
+    "job_description": "Data Science job for the role Software Applications Engineer, Datacenter Products at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Applications-Engineer--Datacenter-Products_JR2002203?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-software-applications-engineer-datacenter-products-us"
   },
   {
     "employer_name": "NVIDIA",
-    "job_title": "Staff Software Engineer - Full Stack",
-    "job_city": "US",
-    "job_state": "CA",
+    "job_title": "Solutions Architect, AI Infrastructure",
+    "job_city": "5 Locations",
+    "job_state": "",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior Staff Software Engineer - Full Stack at US, CA, Santa Clara",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Staff-Software-Engineer---Full-Stack_JR2002121?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-staff-software-engineer-full-stack-us"
+    "job_description": "Data Science job for the role Solutions Architect, AI Infrastructure at 5 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Solutions-Architect--AI-Infrastructure_JR2000607?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-solutions-architect-ai-infrastructure-5-locations"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Site Services Supervisor, Data Center",
-    "job_city": "Mesa",
-    "job_state": "US",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Site Services Supervisor, Data Center at Mesa",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200616746-2903/site-services-supervisor-data-center?team=SFTWR",
-    "id": "apple-site-services-supervisor-data-center-mesa"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Manager, M&A Innovation & AI Transformation",
-    "job_city": "California - San Francisco",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Manager, M&A Innovation & AI Transformation in Development & Strategy. Available in 2 location(s): California - San Francisco, New York - New York",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308378/senior-manager-ma-innovation-ai-transformation/",
-    "id": "salesforce-manager-m-a-innovation-ai-transformation-california-san-francisco"
+    "employer_name": "Booz Allen ",
+    "job_title": "Data Scientist",
+    "job_city": "Tampa",
+    "job_state": "FL",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Data Scientist at Tampa, FL",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Tampa-FL/Data-Scientist_R0224579?q=Data+Science",
+    "id": "booz-allen-data-scientist-tampa"
   },
   {
     "employer_name": "Verizon",
-    "job_title": "Data Scientist, Lead",
-    "job_city": "Alexandria",
-    "job_state": "VA",
+    "job_title": "Data Scientist",
+    "job_city": "Tampa",
+    "job_state": "FL",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Data Scientist, Lead at Alexandria, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist--Lead_R0222218-1?q=Data+Science",
-    "id": "verizon-data-scientist-lead-alexandria"
-  },
-  {
-    "employer_name": "Verizon",
-    "job_title": "5G Linux Systems Administrator",
-    "job_city": "Annapolis Junction",
-    "job_state": "MD",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role 5G Linux Systems Administrator at Annapolis Junction, MD",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/XMLNAME-5G-Linux-Systems-Administrator_R0223041?q=Data+Science",
-    "id": "verizon-5g-linux-systems-administrator-annapolis-junction"
-  },
-  {
-    "employer_name": "Verizon",
-    "job_title": "Security Operations Analyst, Mid",
-    "job_city": "Rome",
-    "job_state": "NY",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Security Operations Analyst, Mid at Rome, NY",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Security-Operations-Analyst--Mid_R0224587?q=Data+Science",
-    "id": "verizon-security-operations-analyst-mid-rome"
+    "job_description": "Data Science job for the role Data Scientist at Tampa, FL",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Tampa-FL/Data-Scientist_R0224579?q=Data+Science",
+    "id": "verizon-data-scientist-tampa"
   },
   {
     "employer_name": " workday",
-    "job_title": "Software Development Engineer (Full Stack) - Evisort AI",
-    "job_city": "2 Locations",
+    "job_title": "Machine Learning Engineer/Machine Learning Engineer",
+    "job_city": "7 Locations",
     "job_state": "",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Software Development Engineer (Full Stack) - Evisort AI at 2 Locations",
-    "job_apply_link": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Vancouver/Software-Development-Engineer--Full-Stack----Evisort-AI_JR-0099269-1?q=Data+Science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "workday-software-development-engineer-full-stack-evisort-ai-2-locations"
+    "job_description": "Data Science job for the role Senior Machine Learning Engineer/Machine Learning Engineer III at 7 Locations",
+    "job_apply_link": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Senior-Machine-Learning-Engineer-Machine-Learning-Engineer-III_JR-0098887?q=Data+Science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "workday-machine-learning-engineer-machine-learning-engineer-7-locations"
   }
 ]
