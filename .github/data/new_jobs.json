@@ -1,912 +1,263 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Virtualization Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Virtualization Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/staff-virtualization-engineer/33099/83285894800",
-    "id": "arm-virtualization-engineer-cambridge"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Engineer",
-    "job_city": "Cambridge",
-    "job_state": "United Kingdom",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Engineer at Cambridge, United Kingdom",
-    "job_apply_link": "https://careers.arm.com/job/cambridge/senior-engineer/33099/83377047600",
-    "id": "arm-engineer-cambridge"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist, GivingTuesday",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "12h ago",
-    "job_description": "data science job for the role Data Scientist, GivingTuesday at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/156460945-data-scientist-givingtuesday",
-    "id": "aijobs-data-scientist-givingtuesday-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "AI/ML Platform Engineer",
-    "job_city": "US",
-    "job_state": "DC",
-    "job_posted_at": "8h ago",
-    "job_description": "data science job for the role AI/ML Platform Engineer at Washington, DC, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/156460948-ai-ml-platform-engineer",
-    "id": "aijobs-ai-ml-platform-engineer-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist (Commodity)",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "16h ago",
-    "job_description": "data science job for the role Data Scientist (Commodity) at ",
-    "job_apply_link": "https://www.aijobs.com/jobs/156460954-data-scientist-commodity",
-    "id": "aijobs-data-scientist-commodity-unknown"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist III, Research, Play",
-    "job_city": "US",
+    "job_title": "Machine Learning Research Engineer, WW Sustainability",
+    "employer_name": "Amazon",
+    "job_city": "New York",
     "job_state": "NY",
-    "job_posted_at": "15h ago",
-    "job_description": "data science job for the role Data Scientist III, Research, Play at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/156460950-data-scientist-iii-research-play",
-    "id": "aijobs-data-scientist-iii-research-play-us"
+    "job_description": "Data Science job for the role Machine Learning Research Engineer, WW Sustainability at New York, NY, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3059330/machine-learning-research-engineer-ww-sustainability",
+    "job_posted_at": "2025-08-13T20:25:14.452Z",
+    "job_posted_at_datetime_utc": "2025-08-13T20:25:14.452Z",
+    "id": "amazon-machine-learning-research-engineer-ww-sustainability-new-york"
   },
   {
-    "employer_name": "ADOBE",
-    "job_title": "Data Science Engineer",
+    "employer_name": "Arm",
+    "job_title": "Register Your Interest - Intern",
+    "job_city": "Manchester",
+    "job_state": "United Kingdom",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Register Your Interest - Intern at Manchester, United Kingdom, Sheffield, United Kingdom",
+    "job_apply_link": "https://careers.arm.com/job/manchester/register-your-interest-intern/33099/85210407264",
+    "id": "arm-register-your-interest-intern-manchester"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Semiconductor Quality Assurance Engineer",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "Posted 20 hours ago",
+    "job_description": "Data Science job for the role Semiconductor Quality Assurance Engineer at Manassas, Virginia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30854285",
+    "id": "micron-semiconductor-quality-assurance-engineer-manassas"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Senior Building Automation Service Specialist",
+    "job_city": "Memphis",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Building Automation Service Specialist at Memphis, Tennessee, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-senior-building-automation-service-specialist-memphis"
+  },
+  {
+    "employer_name": "10x Genomics",
+    "job_title": "Account Executive, New England Academic",
     "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Data Science Engineer at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157082/Data-Science-Engineer",
-    "id": "adobe-data-science-engineer-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Senior Manager, Data Science",
-    "job_city": "San Jose",
     "job_state": "California",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Senior Manager, Data Science at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157882/Senior-Manager-Data-Science",
-    "id": "adobe-senior-manager-data-science-san-jose"
+    "job_posted_at": "Recently",
+    "job_description": "Data Science position at 10x Genomics - Account Executive, New England Academic",
+    "job_apply_link": "https://careers.10xgenomics.com/careers/job/171829547152",
+    "id": "10x-genomics-account-executive-new-england-academic-remote"
   },
   {
-    "employer_name": "ADOBE",
-    "job_title": "Senior Data Science Engineer, Adobe Stock",
+    "employer_name": "10x Genomics",
+    "job_title": "Account Executive, Houston",
     "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Senior Data Science Engineer, Adobe Stock at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157489/Senior-Data-Science-Engineer-Adobe-Stock",
-    "id": "adobe-senior-data-science-engineer-adobe-stock-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Data Scientist",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "Data Science job for the role Data Scientist at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R156601/Data-Scientist",
-    "id": "adobe-data-scientist-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Manager, Machine Learning and Applied Science",
-    "job_city": "San Jose",
     "job_state": "California",
-    "job_posted_at": "8 weeks ago",
-    "job_description": "Data Science job for the role Manager, Machine Learning and Applied Science at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R156999/Manager-Machine-Learning-and-Applied-Science",
-    "id": "adobe-manager-machine-learning-and-applied-science-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Sr. Data Scientist",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Sr. Data Scientist at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R156514/Sr-Data-Scientist",
-    "id": "adobe-sr-data-scientist-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Senior Data Scientist",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Senior Data Scientist at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R158154/Senior-Data-Scientist",
-    "id": "adobe-senior-data-scientist-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Staff Data Scientist",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "6 days ago",
-    "job_description": "Data Science job for the role Staff Data Scientist at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157699/Staff-Data-Scientist",
-    "id": "adobe-staff-data-scientist-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Principal Data Scientist",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Principal Data Scientist at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R158181/Principal-Data-Scientist",
-    "id": "adobe-principal-data-scientist-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Senior Data Scientist Engineer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Senior Data Scientist Engineer at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157877/Senior-Data-Scientist-Engineer",
-    "id": "adobe-senior-data-scientist-engineer-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Senior Data Scientist - Forecasting",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Senior Data Scientist - Forecasting at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157796/Senior-Data-Scientist-Forecasting",
-    "id": "adobe-senior-data-scientist-forecasting-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Sr. Engineering Manager, Data Platform, Adobe Express",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Sr. Engineering Manager, Data Platform, Adobe Express at San Francisco, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R156840/Sr-Engineering-Manager-Data-Platform-Adobe-Express",
-    "id": "adobe-sr-engineering-manager-data-platform-adobe-express-san-francisco"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Data Scientist, Adobe.com Testing and Web Analytics",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Data Scientist, Adobe.com Testing and Web Analytics at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157317/Data-Scientist-Adobe-com-Testing-and-Web-Analytics",
-    "id": "adobe-data-scientist-adobe-com-testing-and-web-analytics-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Software Development Engineer - Commerce Data Platform",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Software Development Engineer - Commerce Data Platform at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157622/Software-Development-Engineer-Commerce-Data-Platform",
-    "id": "adobe-software-development-engineer-commerce-data-platform-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Director of Product Management, Real-Time Customer Data Platform",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "Data Science job for the role Director of Product Management, Real-Time Customer Data Platform at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R156851/Director-of-Product-Management-Real-Time-Customer-Data-Platform",
-    "id": "adobe-director-of-product-management-real-time-customer-data-platform-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Sr Applied ML Engineer, Training Data Ecosystem for GenAI",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Sr Applied ML Engineer, Training Data Ecosystem for GenAI at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R158487/Sr-Applied-ML-Engineer-Training-Data-Ecosystem-for-GenAI",
-    "id": "adobe-sr-applied-ml-engineer-training-data-ecosystem-for-genai-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Director, Machine Learning",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Director, Machine Learning at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R156397/Director-Machine-Learning",
-    "id": "adobe-director-machine-learning-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Machine Learning Engineer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role Machine Learning Engineer at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R155715/Machine-Learning-Engineer",
-    "id": "adobe-machine-learning-engineer-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Technical Lead Software Engineer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role Technical Lead Software Engineer at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R147439/Technical-Lead-Software-Engineer",
-    "id": "adobe-technical-lead-software-engineer-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Senior Software Engineer – Generative AI & Search Relevance",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Senior Software Engineer – Generative AI & Search Relevance at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R153830/Senior-Software-Engineer-Generative-AI-Search-Relevance",
-    "id": "adobe-senior-software-engineer-generative-ai-search-relevance-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Sr. Software Development Engineer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Sr. Software Development Engineer 4 at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R156041/Sr-Software-Development-Engineer-4",
-    "id": "adobe-sr-software-development-engineer-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Senior Product Growth Manager – Adobe Express",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "4 weeks ago",
-    "job_description": "Data Science job for the role Senior Product Growth Manager – Adobe Express at San Francisco, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157657/Senior-Product-Growth-Manager-Adobe-Express",
-    "id": "adobe-senior-product-growth-manager-adobe-express-san-francisco"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Sr. Director - Market Research & Insights",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Sr. Director - Market Research & Insights at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157635/Sr-Director-Market-Research-Insights",
-    "id": "adobe-sr-director-market-research-insights-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Product Manager - Global Growth",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Product Manager - Global Growth at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157286/Product-Manager-Global-Growth",
-    "id": "adobe-product-manager-global-growth-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Lead AI Engineer: Fraud",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Lead AI Engineer: Fraud at Austin, Texas, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157780/Lead-AI-Engineer-Fraud",
-    "id": "adobe-lead-ai-engineer-fraud-austin"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Sr. Software Engineer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Sr. Software Engineer at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R155716/Sr-Software-Engineer",
-    "id": "adobe-sr-software-engineer-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Sr. Growth Product Manager - Mobile",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Sr. Growth Product Manager - Mobile at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R156901/Sr-Growth-Product-Manager-Mobile",
-    "id": "adobe-sr-growth-product-manager-mobile-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Principal Engineering Program Manager",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "6 weeks ago",
-    "job_description": "Data Science job for the role Principal Engineering Program Manager at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157163/Principal-Engineering-Program-Manager",
-    "id": "adobe-principal-engineering-program-manager-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Senior Machine Learning Engineer L",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Senior Machine Learning Engineer L 40 at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157090/Senior-Machine-Learning-Engineer-L-40",
-    "id": "adobe-senior-machine-learning-engineer-l-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Senior Software Development Engineer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role Senior Software Development Engineer at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R147764/Senior-Software-Development-Engineer",
-    "id": "adobe-senior-software-development-engineer-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Software Development Engineer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role Software Development Engineer at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R153075/Software-Development-Engineer",
-    "id": "adobe-software-development-engineer-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Senior Product Manager - Mobile Monetization Growth",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Senior Product Manager - Mobile Monetization Growth at San Francisco, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157703/Senior-Product-Manager-Mobile-Monetization-Growth",
-    "id": "adobe-senior-product-manager-mobile-monetization-growth-san-francisco"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "AI Agent Engineer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role AI Agent Engineer at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R158282/AI-Agent-Engineer",
-    "id": "adobe-ai-agent-engineer-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Sr. Machine Learning Engineering Manager",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role Sr. Machine Learning Engineering Manager at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R155567/Sr-Machine-Learning-Engineering-Manager",
-    "id": "adobe-sr-machine-learning-engineering-manager-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Applied Research Scientist",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Applied Research Scientist at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R155319/Applied-Research-Scientist",
-    "id": "adobe-applied-research-scientist-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Sr. Solutions Consultant, Technical Validation Team",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Sr. Solutions Consultant, Technical Validation Team at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157428/Sr-Solutions-Consultant-Technical-Validation-Team",
-    "id": "adobe-sr-solutions-consultant-technical-validation-team-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Senior Product Manager",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Senior Product Manager at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R156716/Senior-Product-Manager",
-    "id": "adobe-senior-product-manager-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Senior Product Manager",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Senior Product Manager at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157971/Senior-Product-Manager",
-    "id": "adobe-senior-product-manager-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Senior Software Engineer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role Senior Software Engineer at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R147125/Senior-Software-Engineer",
-    "id": "adobe-senior-software-engineer-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Firefly Model Architect",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role Firefly Model Architect at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R154728/Firefly-Model-Architect",
-    "id": "adobe-firefly-model-architect-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Sr. AI System Architect",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Sr. AI System Architect at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R158280/Sr-AI-System-Architect",
-    "id": "adobe-sr-ai-system-architect-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Software Engineer",
-    "job_city": "Lehi",
-    "job_state": "Utah",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Software Engineer at Lehi, Utah, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157663/Software-Engineer",
-    "id": "adobe-software-engineer-lehi"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Lead Machine Learning Engineer - Marketing Mix Modeling",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role Lead Machine Learning Engineer - Marketing Mix Modeling at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R154855/Lead-Machine-Learning-Engineer-Marketing-Mix-Modeling",
-    "id": "adobe-lead-machine-learning-engineer-marketing-mix-modeling-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Audio AI Research Engineer",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role Audio AI Research Engineer at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R152966/Audio-AI-Research-Engineer",
-    "id": "adobe-audio-ai-research-engineer-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Information Retrieval Engineer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Information Retrieval Engineer at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R158293/Information-Retrieval-Engineer",
-    "id": "adobe-information-retrieval-engineer-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Category Analytics Lead",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Category Analytics Lead at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R156285/Category-Analytics-Lead",
-    "id": "adobe-category-analytics-lead-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "ML Ops Engineer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role ML Ops Engineer at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R158294/ML-Ops-Engineer",
-    "id": "adobe-ml-ops-engineer-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Senior Software Development Engineer - AI/ML FrontEnd",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Senior Software Development Engineer - AI/ML FrontEnd at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157472/Senior-Software-Development-Engineer-AI-ML-FrontEnd",
-    "id": "adobe-senior-software-development-engineer-ai-ml-frontend-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Talent Strategy & Analytics, Global TA Operations",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Talent Strategy & Analytics, Global TA Operations at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157099/Talent-Strategy-Analytics-Global-TA-Operations",
-    "id": "adobe-talent-strategy-analytics-global-ta-operations-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Software Development Engineer",
-    "job_city": "Lehi",
-    "job_state": "Utah",
-    "job_posted_at": "7 weeks ago",
-    "job_description": "Data Science job for the role Software Development Engineer at Lehi, Utah, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R156756/Software-Development-Engineer",
-    "id": "adobe-software-development-engineer-lehi"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "2026 AI/ML Intern - Machine Learning Engineer",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "4 days ago",
-    "job_description": "Data Science job for the role 2026 AI/ML Intern - Machine Learning Engineer at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R158493/2026-AI-ML-Intern-Machine-Learning-Engineer",
-    "id": "adobe-2026-ai-ml-intern-machine-learning-engineer-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Director of Machine Learning",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "4 days ago",
-    "job_description": "Data Science job for the role Director of Machine Learning at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R155506/Director-of-Machine-Learning",
-    "id": "adobe-director-of-machine-learning-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Sr. Director Product - AI Platform",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Sr. Director Product - AI Platform at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R155999/Sr-Director-Product-AI-Platform",
-    "id": "adobe-sr-director-product-ai-platform-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Sr. Product Manager Engagement & Retention Acrobat Mobile",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Sr. Product Manager Engagement & Retention Acrobat Mobile at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R158153/Sr-Product-Manager-Engagement-Retention-Acrobat-Mobile",
-    "id": "adobe-sr-product-manager-engagement-retention-acrobat-mobile-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Enterprise Architect - Presales Enablement",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "4 days ago",
-    "job_description": "Data Science job for the role Enterprise Architect - Presales Enablement at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R158082/Enterprise-Architect-Presales-Enablement",
-    "id": "adobe-enterprise-architect-presales-enablement-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Senior SQL Developer",
-    "job_city": "Lehi",
-    "job_state": "Utah",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Senior SQL Developer at Lehi, Utah, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157477/Senior-SQL-Developer",
-    "id": "adobe-senior-sql-developer-lehi"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Senior Applied Researcher",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Senior Applied Researcher at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R156806/Senior-Applied-Researcher",
-    "id": "adobe-senior-applied-researcher-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Senior Research Scientist / Engineer",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Senior Research Scientist / Engineer at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R153186/Senior-Research-Scientist-Engineer",
-    "id": "adobe-senior-research-scientist-engineer-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Applied Scientist, AI/ML",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Applied Scientist, AI/ML at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R158404/Applied-Scientist-AI-ML",
-    "id": "adobe-applied-scientist-ai-ml-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Sr Applied Scientist, AI/ML",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Sr Applied Scientist, AI/ML at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R158405/Sr-Applied-Scientist-AI-ML",
-    "id": "adobe-sr-applied-scientist-ai-ml-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Sr Machine Learning Infrastructure Engineer",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Sr Machine Learning Infrastructure Engineer at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R158171/Sr-Machine-Learning-Infrastructure-Engineer",
-    "id": "adobe-sr-machine-learning-infrastructure-engineer-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Sr. Product Manager Acrobat Mobile",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "7 weeks ago",
-    "job_description": "Data Science job for the role Sr. Product Manager Acrobat Mobile at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157157/Sr-Product-Manager-Acrobat-Mobile",
-    "id": "adobe-sr-product-manager-acrobat-mobile-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Senior Marketing Planning and Operations Manager",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "8 weeks ago",
-    "job_description": "Data Science job for the role Senior Marketing Planning and Operations Manager at San Francisco, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R156593/Senior-Marketing-Planning-and-Operations-Manager",
-    "id": "adobe-senior-marketing-planning-and-operations-manager-san-francisco"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Sr. Revenue Systems Analyst",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "3 weeks ago",
-    "job_description": "Data Science job for the role Sr. Revenue Systems Analyst at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157456/Sr-Revenue-Systems-Analyst",
-    "id": "adobe-sr-revenue-systems-analyst-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Senior Machine Learning Engineer - Acrobat",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Senior Machine Learning Engineer - Acrobat at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157452/Senior-Machine-Learning-Engineer-Acrobat",
-    "id": "adobe-senior-machine-learning-engineer-acrobat-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Enterprise Architect",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "6 weeks ago",
-    "job_description": "Data Science job for the role Enterprise Architect at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R154501/Enterprise-Architect",
-    "id": "adobe-enterprise-architect-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Enterprise Architect - Presales",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Enterprise Architect - Presales at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R155415/Enterprise-Architect-Presales",
-    "id": "adobe-enterprise-architect-presales-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Senior Applied Researcher, AI Foundations- Adobe Express",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "Data Science job for the role Senior Applied Researcher, AI Foundations- Adobe Express at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R156463/Senior-Applied-Researcher-AI-Foundations-Adobe-Express",
-    "id": "adobe-senior-applied-researcher-ai-foundations-adobe-express-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Lead Applied Researcher, AI Foundations – Adobe Express",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "Data Science job for the role Lead Applied Researcher, AI Foundations – Adobe Express at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R156462/Lead-Applied-Researcher-AI-Foundations-Adobe-Express",
-    "id": "adobe-lead-applied-researcher-ai-foundations-adobe-express-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Senior Security Platform Engineer - Cloud Application Security",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "6 weeks ago",
-    "job_description": "Data Science job for the role Senior Security Platform Engineer - Cloud Application Security at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157186/Senior-Security-Platform-Engineer-Cloud-Application-Security",
-    "id": "adobe-senior-security-platform-engineer-cloud-application-security-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Senior Software Development Engineer",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role Senior Software Development Engineer at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R149328/Senior-Software-Development-Engineer",
-    "id": "adobe-senior-software-development-engineer-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Senior SEO Front End Engineer",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Senior SEO Front End Engineer at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157220/Senior-SEO-Front-End-Engineer",
-    "id": "adobe-senior-seo-front-end-engineer-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Senior User Experience Designer",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "Data Science job for the role Senior User Experience Designer at San Francisco, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157484/Senior-User-Experience-Designer",
-    "id": "adobe-senior-user-experience-designer-san-francisco"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "AI Platform Operations Manager",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "5 weeks ago",
-    "job_description": "Data Science job for the role AI Platform Operations Manager at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157422/AI-Platform-Operations-Manager",
-    "id": "adobe-ai-platform-operations-manager-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Sr. Full Stack Engineer",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "7 weeks ago",
-    "job_description": "Data Science job for the role Sr. Full Stack Engineer at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157258/Sr-Full-Stack-Engineer",
-    "id": "adobe-sr-full-stack-engineer-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Senior Lifecycle Marketing Manager, Global Planning, Insights and Operations",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Senior Lifecycle Marketing Manager, Global Planning, Insights and Operations at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157320/Senior-Lifecycle-Marketing-Manager-Global-Planning-Insights-and-Operations",
-    "id": "adobe-senior-lifecycle-marketing-manager-global-planning-insights-and-operations-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Sr. Software Development Engineer L40",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "4 days ago",
-    "job_description": "Data Science job for the role Sr. Software Development Engineer L40 at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R156947/Sr-Software-Development-Engineer-L40",
-    "id": "adobe-sr-software-development-engineer-l40-san-jose"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Sr. Product Manager, GenStudio",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "3 months ago",
-    "job_description": "Data Science job for the role Sr. Product Manager, GenStudio at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R156015/Sr-Product-Manager-GenStudio",
-    "id": "adobe-sr-product-manager-genstudio-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Director of Software Engineering & Applied AI (Level 6) – Product Success Engineering, Adobe Experience Platform",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "4 days ago",
-    "job_description": "Data Science job for the role Director of Software Engineering & Applied AI (Level 6) – Product Success Engineering, Adobe Experience Platform at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R154693/Director-of-Software-Engineering-Applied-AI-Level-6-Product-Success-Engineering-Adobe-Experience-Platform",
-    "id": "adobe-director-of-software-engineering-applied-ai-level-6-product-success-engineering-adobe-experience-platform-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Principal, GTM Strategy, Mobile Apps",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Principal, GTM Strategy, Mobile Apps at San Francisco, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R155626/Principal-GTM-Strategy-Mobile-Apps",
-    "id": "adobe-principal-gtm-strategy-mobile-apps-san-francisco"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Principal Product Marketing Manager",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Principal Product Marketing Manager at San Francisco, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R155880/Principal-Product-Marketing-Manager",
-    "id": "adobe-principal-product-marketing-manager-san-francisco"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Mgr, Software Development",
-    "job_city": "Seattle",
-    "job_state": "Washington",
-    "job_posted_at": "5 days ago",
-    "job_description": "Data Science job for the role Mgr, Software Development 4 at Seattle, Washington, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R156338/Mgr-Software-Development-4",
-    "id": "adobe-mgr-software-development-seattle"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "2026 Intern - Software Engineer",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "4 days ago",
-    "job_description": "Data Science job for the role 2026 Intern - Software Engineer at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R158531/2026-Intern-Software-Engineer",
-    "id": "adobe-2026-intern-software-engineer-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Principal Product Manager - Firefly Generative Audio",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Principal Product Manager - Firefly Generative Audio at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157844/Principal-Product-Manager-Firefly-Generative-Audio",
-    "id": "adobe-principal-product-manager-firefly-generative-audio-remote"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Software Development Engineer - Fullstack",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Software Development Engineer - Fullstack at San Jose, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R157671/Software-Development-Engineer-Fullstack",
-    "id": "adobe-software-development-engineer-fullstack-san-jose"
+    "job_posted_at": "Recently",
+    "job_description": "Data Science position at 10x Genomics - Account Executive, Houston",
+    "job_apply_link": "https://careers.10xgenomics.com/careers/job/171829547153",
+    "id": "10x-genomics-account-executive-houston-remote"
+  },
+  {
+    "employer_name": "Guide house",
+    "job_title": "Data Analyst",
+    "job_city": "US - MO",
+    "job_state": "St. Louis",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Senior Data Analyst at US - MO, St. Louis",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MO-St-Louis/Senior-Data-Analyst_31492?q=Data+Science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guide-house-data-analyst-us-mo"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Named Account Executive, Non-Profit: Enterprise",
+    "job_city": "New York - New York City Metro - Remote",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Named Account Executive, Non-Profit: Enterprise in Sales. Available in 1 location(s): New York - New York City Metro - Remote",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308034/named-account-executive-non-profit-enterprise/",
+    "id": "salesforce-named-account-executive-non-profit-enterprise-new-york-new-york-city-metro-remote"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Program Manager, Account Success Programs & Strategy",
+    "job_city": "Indiana - Indianapolis",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Program Manager, Account Success Programs & Strategy in Program & Project Management. Available in 4 location(s): Indiana - Indianapolis, Washington - Seattle, Illinois - Chicago, Georgia - Atlanta",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308136/senior-program-manager-account-success-programs-strategy/",
+    "id": "salesforce-program-manager-account-success-programs-strategy-indiana-indianapolis"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Vice President, Technology Risk and Controls",
+    "job_city": "New Jersey - Remote",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Vice President, Technology Risk and Controls in Enterprise Technology & Infrastructure. Available in 1 location(s): New Jersey - Remote",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308386/vice-president-technology-risk-and-controls/",
+    "id": "salesforce-vice-president-technology-risk-and-controls-new-jersey-remote"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Deal Strategy and Pricing Senior Analyst",
+    "job_city": "Mexico - Mexico City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Deal Strategy and Pricing Senior Analyst in Development & Strategy. Available in 1 location(s): Mexico - Mexico City",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr287013/deal-strategy-and-pricing-senior-analyst/",
+    "id": "salesforce-deal-strategy-and-pricing-senior-analyst-mexico-mexico-city"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Technical Architect Data Cloud and Marketing Cloud",
+    "job_city": "Israel - Tel Aviv",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Technical Architect Data Cloud and Marketing Cloud in Customer Success. Available in 1 location(s): Israel - Tel Aviv",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr301649/technical-architect-data-cloud-and-marketing-cloud/",
+    "id": "salesforce-technical-architect-data-cloud-and-marketing-cloud-israel-tel-aviv"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "AVP Manufacturing and Auto",
+    "job_city": "United Kingdom - London",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role AVP Manufacturing and Auto in Sales. Available in 1 location(s): United Kingdom - London",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr275064/avp-manufacturing-and-auto/",
+    "id": "salesforce-avp-manufacturing-and-auto-united-kingdom-london"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Slack Solution Engineer, Public Sector and Education",
+    "job_city": "United Kingdom - London",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Slack Solution Engineer, Public Sector and Education in Sales. Available in 6 location(s): United Kingdom - London, Spain - Madrid, Denmark - Copenhagen, Italy - Rome, Italy - Milan, Netherlands - Amsterdam",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr303927/slack-solution-engineer-public-sector-and-education/",
+    "id": "salesforce-slack-solution-engineer-public-sector-and-education-united-kingdom-london"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Small, Medium and Growth Business - Account Executive - Denver",
+    "job_city": "Colorado - Denver",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Small, Medium and Growth Business - Account Executive - Denver in Sales. Available in 1 location(s): Colorado - Denver",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr292909/small-medium-and-growth-business-account-executive-denver/",
+    "id": "salesforce-small-medium-and-growth-business-account-executive-denver-colorado-denver"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Product Manager - International Compliance and Regulation",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Product Manager - International Compliance and Regulation in Product. Available in 1 location(s): California - San Francisco",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr305696/senior-product-manager-international-compliance-and-regulation/",
+    "id": "salesforce-product-manager-international-compliance-and-regulation-california-san-francisco"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Content and Social Media Marketing Lead",
+    "job_city": "France - Paris",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Content and Social Media Marketing Lead in Marketing & Communications. Available in 1 location(s): France - Paris",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr292556/content-and-social-media-marketing-lead/",
+    "id": "salesforce-content-and-social-media-marketing-lead-france-paris"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Director of Product Management, Developer Experience and Platform API",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Director of Product Management, Developer Experience and Platform API in Product. Available in 2 location(s): California - San Francisco, Washington - Bellevue",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr305215/director-of-product-management-developer-experience-and-platform-api/",
+    "id": "salesforce-director-of-product-management-developer-experience-and-platform-api-california-san-francisco"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Accounting and Compliance Manager of KSA entities",
+    "job_city": "France - Paris",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Accounting and Compliance Manager of KSA entities in Finance. Available in 1 location(s): France - Paris",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr304034/accounting-and-compliance-manager-of-ksa-entities/",
+    "id": "salesforce-accounting-and-compliance-manager-of-ksa-entities-france-paris"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Sales Development Representative - Arabic and French Speaker",
+    "job_city": "Ireland - Dublin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sales Development Representative - Arabic and French Speaker in Sales. Available in 1 location(s): Ireland - Dublin",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr306205/sales-development-representative-arabic-and-french-speaker/",
+    "id": "salesforce-sales-development-representative-arabic-and-french-speaker-ireland-dublin"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Enterprise Account Executive - Health and Life Sciences",
+    "job_city": "Illinois - Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Enterprise Account Executive - Health and Life Sciences in Sales. Available in 6 location(s): Illinois - Chicago, Georgia - Atlanta, New York - New York City Metro - Remote, Texas - Dallas, California - San Francisco, New Jersey - New York City Metro - Remote",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr293189/enterprise-account-executive-health-and-life-sciences/",
+    "id": "salesforce-enterprise-account-executive-health-and-life-sciences-illinois-chicago"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Enterprise Account Executive - Retail and Consumer Goods",
+    "job_city": "Illinois - Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Enterprise Account Executive - Retail and Consumer Goods in Sales. Available in 18 location(s): Illinois - Chicago, Texas - Remote, Texas - Houston Metro - Remote, California - San Francisco Metro - Remote, Minnesota - Remote, Texas - Austin, Georgia - Atlanta Metro - Remote, Georgia - Atlanta, New York - New York City Metro - Remote, Ohio - Remote, Texas - Austin Metro - Remote, Michigan - Remote, Texas - Dallas, Texas - Dallas Metro - Remote, California - San Francisco, Illinois - Chicago Metro - Remote, Illinois - Remote, New Jersey - New York City Metro - Remote",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr293188/enterprise-account-executive-retail-and-consumer-goods/",
+    "id": "salesforce-enterprise-account-executive-retail-and-consumer-goods-illinois-chicago"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "AVP Service Cloud and Specialist Sales",
+    "job_city": "United Kingdom - London",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role AVP Service Cloud and Specialist Sales in Sales. Available in 1 location(s): United Kingdom - London",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr306315/avp-service-cloud-and-specialist-sales/",
+    "id": "salesforce-avp-service-cloud-and-specialist-sales-united-kingdom-london"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Enterprise Account Executive- Manufacturing and Consumer Goods",
+    "job_city": "Australia - Sydney",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Enterprise Account Executive- Manufacturing and Consumer Goods in Sales. Available in 1 location(s): Australia - Sydney",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr296998/enterprise-account-executive-manufacturing-and-consumer-goods/",
+    "id": "salesforce-enterprise-account-executive-manufacturing-and-consumer-goods-australia-sydney"
+  },
+  {
+    "employer_name": "Verizon",
+    "job_title": "Data Engineer, Lead",
+    "job_city": "Bethesda",
+    "job_state": "MD",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Data Engineer, Lead at Bethesda, MD",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bethesda-MD/Data-Engineer--Lead_R0224682?q=Data+Science",
+    "id": "verizon-data-engineer-lead-bethesda"
+  },
+  {
+    "employer_name": "Verizon",
+    "job_title": "Data Links Systems Engineer, Mid",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Data Links Systems Engineer, Mid at San Diego, CA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Data-Links-Systems-Engineer--Mid_R0224705?q=Data+Science",
+    "id": "verizon-data-links-systems-engineer-mid-san-diego"
   }
 ]
