@@ -1,202 +1,93 @@
 [
   {
-    "employer_name": "CISCO",
-    "job_title": "Software Developer - Business Intelligence (Prism)",
-    "job_city": "RTP",
-    "job_state": "North Carolina",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Developer - Business Intelligence (Prism) at RTP, North Carolina, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Developer-Business-Intelligence-Prism/1441611",
-    "id": "cisco-software-developer-business-intelligence-prism-rtp"
+    "job_title": "Applied Scientist, Kindle Direct Publishing",
+    "employer_name": "Amazon",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_description": "Data Science job for the role Applied Scientist, Kindle Direct Publishing at San Diego, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2874834/applied-scientist-kindle-direct-publishing",
+    "job_posted_at": "2025-08-19T16:20:32.703Z",
+    "job_posted_at_datetime_utc": "2025-08-19T16:20:32.703Z",
+    "id": "amazon-applied-scientist-kindle-direct-publishing-san-diego"
   },
   {
     "employer_name": "ILLUMINA",
-    "job_title": "Clinical Informatics Sales Specialist, Northeast",
-    "job_city": "7 Locations",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior Clinical Informatics Sales Specialist, Northeast at 7 Locations",
-    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---New-York---Remote/Senior-Clinical-Informatics-Sales-Specialist--Northeast_41108-JOB?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "illumina-clinical-informatics-sales-specialist-northeast-7-locations"
-  },
-  {
-    "employer_name": "ILLUMINA",
-    "job_title": "Clinical Informatics Sales Specialist, South",
+    "job_title": "Clinical Informatics Sales Specialist, West",
     "job_city": "6 Locations",
     "job_state": "",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior Clinical Informatics Sales Specialist, South at 6 Locations",
-    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---Washington-DC---Remote/Senior-Clinical-Informatics-Sales-Specialist--South_41148-JOB?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "illumina-clinical-informatics-sales-specialist-south-6-locations"
+    "job_description": "Data Science job for the role Senior Clinical Informatics Sales Specialist, West at 6 Locations",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---Texas---Remote/Senior-Clinical-Informatics-Sales-Specialist--West_41151-JOB?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-clinical-informatics-sales-specialist-west-6-locations"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Informatics Sales Specialist, Northeast",
+    "job_city": "US - Remote",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Senior Informatics Sales Specialist, Northeast at US - Remote",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---Remote/Senior-Informatics-Sales-Specialist--Northeast_41081-JOB?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-informatics-sales-specialist-northeast-us-remote"
+  },
+  {
+    "employer_name": "ILLUMINA",
+    "job_title": "Informatics Sales Specialist, West",
+    "job_city": "6 Locations",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Senior Informatics Sales Specialist, West at 6 Locations",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---Texas---Remote/Senior-Informatics-Sales-Specialist--West_41152-JOB?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-informatics-sales-specialist-west-6-locations"
   },
   {
     "employer_name": "JP Morgan Chase",
-    "job_title": "Risk Management - Wholesale Credit - Generative AI Data Scientist, Senior Associate",
-    "job_city": "Plano",
-    "job_state": "TX",
+    "job_title": "Lead Software Engineer - Lead Java Developer",
+    "job_city": "Jersey City",
+    "job_state": "NJ",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Risk Management - Wholesale Credit - Generative AI Data Scientist, Senior Associate at Plano, TX, United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210658636/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jp-morgan-chase-risk-management-wholesale-credit-generative-ai-data-scientist-senior-associate-plano"
+    "job_description": "Data Science job for the role Senior Lead Software Engineer - Lead Java Developer at Jersey City, NJ, United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210634760/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-lead-software-engineer-lead-java-developer-jersey-city"
   },
   {
     "employer_name": "JP Morgan Chase",
-    "job_title": "Business Data Analyst II - Home Lending Sales Strategy Support",
-    "job_city": "Jacksonville",
-    "job_state": "FL",
+    "job_title": "Product Delivery Manager - Lending - Vice President",
+    "job_city": "Seattle",
+    "job_state": "WA",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Business Data Analyst II - Home Lending Sales Strategy Support at Jacksonville, FL, United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210649860/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jp-morgan-chase-business-data-analyst-ii-home-lending-sales-strategy-support-jacksonville"
+    "job_description": "Data Science job for the role Product Delivery Manager - Lending - Vice President at Seattle, WA, United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210657301/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-product-delivery-manager-lending-vice-president-seattle"
   },
   {
-    "employer_name": "JP Morgan Chase",
-    "job_title": "Risk Management - Wholesale Credit - Generative AI Data Scientist, Vice President",
-    "job_city": "Plano",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Risk Management - Wholesale Credit - Generative AI Data Scientist, Vice President at Plano, TX, United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210658631/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jp-morgan-chase-risk-management-wholesale-credit-generative-ai-data-scientist-vice-president-plano"
-  },
-  {
-    "employer_name": "JP Morgan Chase",
-    "job_title": "Quant Analytics Associate - Consumer and Community Banking - Collections and Recovery",
-    "job_city": "Wilmington",
-    "job_state": "DE",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Quant Analytics Associate - Consumer and Community Banking - Collections and Recovery at Wilmington, DE, United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210657979/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jp-morgan-chase-quant-analytics-associate-consumer-and-community-banking-collections-and-recovery-wilmington"
-  },
-  {
-    "employer_name": "JP Morgan Chase",
-    "job_title": "Software Engineer [Multiple Positions Available]",
-    "job_city": "Palo Alto",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineer [Multiple Positions Available] at Palo Alto, CA, United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210656095/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jp-morgan-chase-software-engineer-multiple-positions-available-palo-alto"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Product Manager, Apple Ads Experimentation",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Product Manager, Apple Ads Experimentation at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200616912-0836/product-manager-apple-ads-experimentation?team=SFTWR",
-    "id": "apple-product-manager-apple-ads-experimentation-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Product Manager, Apple Ads Experimentation",
-    "job_city": "New York City",
-    "job_state": "US",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Product Manager, Apple Ads Experimentation at New York City",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200616912-2459/product-manager-apple-ads-experimentation?team=SFTWR",
-    "id": "apple-product-manager-apple-ads-experimentation-new-york-city"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Product Manager, Apple Ads Auctions",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Product Manager, Apple Ads Auctions at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200610142-0836/product-manager-apple-ads-auctions?team=SFTWR",
-    "id": "apple-product-manager-apple-ads-auctions-cupertino"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Fall 2025 Intern - Strategic Data Science",
-    "job_city": "California - San Francisco",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Fall 2025 Intern - Strategic Data Science in Fixed Term & Temporary. Available in 1 location(s): California - San Francisco",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308066/fall-2025-intern-strategic-data-science/",
-    "id": "salesforce-fall-2025-intern-strategic-data-science-california-san-francisco"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Manager, Sales Operations",
-    "job_city": "Illinois - Chicago",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Manager, Sales Operations in Operations. Available in 7 location(s): Illinois - Chicago, Washington - Seattle, Texas - Austin, Massachusetts - Boston, Georgia - Atlanta, Texas - Dallas, Indiana - Indianapolis",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr307745/senior-manager-sales-operations/",
-    "id": "salesforce-manager-sales-operations-illinois-chicago"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Revenue Accountant",
-    "job_city": "Indiana - Indianapolis",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Revenue Accountant in Finance. Available in 2 location(s): Indiana - Indianapolis, Georgia - Atlanta",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308151/senior-revenue-accountant/",
-    "id": "salesforce-revenue-accountant-indiana-indianapolis"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Director - Software Engineering - Trailhead",
-    "job_city": "Illinois - Chicago",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Director - Software Engineering - Trailhead in Software Engineering. Available in 3 location(s): Illinois - Chicago, Washington - Bellevue, Indiana - Indianapolis",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr307137/director-software-engineering-trailhead/",
-    "id": "salesforce-director-software-engineering-trailhead-illinois-chicago"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Accountant",
-    "job_city": "Indiana - Indianapolis",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Accountant in Finance. Available in 2 location(s): Indiana - Indianapolis, Georgia - Atlanta",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308241/senior-accountant/",
-    "id": "salesforce-accountant-indiana-indianapolis"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Enablement Manager",
-    "job_city": "California - San Francisco",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Enablement Manager in Sales. Available in 7 location(s): California - San Francisco, US, Remote, Washington - Seattle, Illinois - Chicago, Georgia - Atlanta, Texas - Dallas, Indiana - Indianapolis",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr301651/enablement-manager/",
-    "id": "salesforce-enablement-manager-california-san-francisco"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Sr. Director, Marketing Cloud GTM Sales and Partner Success",
-    "job_city": "Washington - Bellevue",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sr. Director, Marketing Cloud GTM Sales and Partner Success in Product. Available in 2 location(s): Washington - Bellevue, California - San Francisco",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr306107/sr-director-marketing-cloud-gtm-sales-and-partner-success/",
-    "id": "salesforce-sr-director-marketing-cloud-gtm-sales-and-partner-success-washington-bellevue"
+    "employer_name": "Booz Allen",
+    "job_title": "Transnational Organized Crime Analyst",
+    "job_city": "Chantilly",
+    "job_state": "VA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Transnational Organized Crime Analyst at Chantilly, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Transnational-Organized-Crime-Analyst_R0223451?q=Data+Science",
+    "id": "booz-allen-transnational-organized-crime-analyst-chantilly"
   },
   {
     "employer_name": "Verizon",
-    "job_title": "Cybersecurity Governance Lead",
-    "job_city": "McLean",
+    "job_title": "Transnational Organized Crime Analyst",
+    "job_city": "Chantilly",
     "job_state": "VA",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Cybersecurity Governance Lead at McLean, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Cybersecurity-Governance-Lead_R0224566-1?q=Data+Science",
-    "id": "verizon-cybersecurity-governance-lead-mclean"
+    "job_description": "Data Science job for the role Transnational Organized Crime Analyst at Chantilly, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Transnational-Organized-Crime-Analyst_R0223451?q=Data+Science",
+    "id": "verizon-transnational-organized-crime-analyst-chantilly"
   },
   {
     "employer_name": "workday",
-    "job_title": "Software Development Engineer - ML Ops",
+    "job_title": "Intermediate MLOps Engineer - US Federal",
     "job_city": "3 Locations",
     "job_state": "",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior Software Development Engineer - ML Ops at 3 Locations",
-    "job_apply_link": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CO-Boulder/Intermediate-or-Senior-Software-Development-Engineer---ML-Ops-US-Federal_JR-0097720?q=Data+Science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "workday-software-development-engineer-ml-ops-3-locations"
+    "job_description": "Data Science job for the role Intermediate MLOps Engineer - US Federal at 3 Locations",
+    "job_apply_link": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CO-Boulder/Intermediate-or-Senior-MLOps-Engineer---US-Federal_JR-0097659?q=Data+Science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "workday-intermediate-mlops-engineer-us-federal-3-locations"
   }
 ]
