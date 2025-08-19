@@ -94,7 +94,7 @@ function generateJobTable(jobs) {
         console.log(`  - ${company}: ${jobsByCompany[company].length} jobs`);
       });
       
-      output += `### ${categoryData.emoji} **${categoryData.title}** (${totalJobs} positions)\n\n`;
+      output += `## ${categoryData.emoji} **${categoryData.title}** (${totalJobs} positions)\n\n`;
 
       // First handle companies with more than 10 jobs - each gets its own table/section
       const bigCompanies = companiesWithJobs.filter(
