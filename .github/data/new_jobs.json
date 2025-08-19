@@ -1,42 +1,62 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Outbound Tech Evangelist Product Manager in Business Automation",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Outbound Tech Evangelist Product Manager in Business Automation at ProfessionalAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48245&source=WEB_Search_NA",
-    "id": "ibm-outbound-tech-evangelist-product-manager-in-business-automation-austin"
+    "employer_name": "Micron",
+    "job_title": "HBM IO Architecture, Principal Engineer",
+    "job_city": "Richardson",
+    "job_state": "Texas",
+    "job_posted_at": "Posted a day ago",
+    "job_description": "Data Science job for the role HBM IO Architecture, Principal Engineer at Richardson, Texas, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/28358562",
+    "id": "micron-hbm-io-architecture-principal-engineer-richardson"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Sr. Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "CISCO",
+    "job_title": "Sr. Systems Engineering Leader- Cloud & AI Specialist Team - Central Area/Region",
+    "job_city": "Offsite",
+    "job_state": "Chicago",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sr. Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53832&source=WEB_Search_NA",
-    "id": "ibm-sr-engineer-multiple-cities"
+    "job_description": "Data Science job for the role Sr. Systems Engineering Leader- Cloud & AI Specialist Team - Central Area/Region 1448879 at Offsite, Chicago, Illinois, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Sr-Systems-Engineering-Leader-Cloud-AI-Specialist-Team-Central-Area-Region-1448879/1448879",
+    "id": "cisco-sr-systems-engineering-leader-cloud-ai-specialist-team-central-area-region-offsite"
   },
   {
-    "employer_name": "AMD",
-    "job_title": "Performance Tools Developer",
+    "employer_name": "AiJobs",
+    "job_title": "AI Engineer, Agentic AI",
     "job_city": "US",
     "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Principal Performance Tools Developer at US,CA,Santa Clara\n2485 Augustine Drive\nSanta Clara, California\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/67003/login",
-    "id": "amd-performance-tools-developer-us"
+    "job_posted_at": "58min ago",
+    "job_description": "data science job for the role Senior AI Engineer, Agentic AI at Mountain View, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/156562340-senior-ai-engineer-agentic-ai",
+    "id": "aijobs-ai-engineer-agentic-ai-us"
   },
   {
-    "employer_name": "workday",
-    "job_title": "Data Scientist",
-    "job_city": "USA",
-    "job_state": "CO",
+    "employer_name": "AiJobs",
+    "job_title": "Artificial Intelligence (AI) Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "12h ago",
+    "job_description": "data science job for the role Artificial Intelligence (AI) Engineer at Milpitas, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/156562343-artificial-intelligence-ai-engineer",
+    "id": "aijobs-artificial-intelligence-ai-engineer-us"
+  },
+  {
+    "employer_name": "SYNOPSYS",
+    "job_title": "R&D Engineer, Sr. Staff",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role R&D Engineer, Sr. Staff at Sunnyvale, California",
+    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/r-and-d-engineer-sr-staff/44408/84148012272",
+    "id": "synopsys-r-d-engineer-sr-staff-sunnyvale"
+  },
+  {
+    "employer_name": "INTEL",
+    "job_title": "Supply Operations Analyst",
+    "job_city": "3 Locations",
+    "job_state": "",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Data Scientist at USA, CO, Boulder",
-    "job_apply_link": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CO-Boulder/Data-Scientist_JR-0099629-1?q=Data+Science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "workday-data-scientist-usa"
+    "job_description": "Data Science job for the role Supply Operations Analyst at 3 Locations",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Supply-Operations-Analyst_JR0276798-1?q=Data+Science&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-supply-operations-analyst-3-locations"
   }
 ]
