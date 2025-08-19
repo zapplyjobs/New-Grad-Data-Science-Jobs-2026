@@ -1,72 +1,42 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "RDA/Metrology Shift Process Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "Data Science job for the role RDA/Metrology Shift Process Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30482683",
-    "id": "micron-rda-metrology-shift-process-engineer-boise"
-  },
-  {
-    "employer_name": "CISCO",
-    "job_title": "AI Researcher",
-    "job_city": "Offsite",
-    "job_state": "San Francisco",
+    "employer_name": "IBM",
+    "job_title": "Outbound Tech Evangelist Product Manager in Business Automation",
+    "job_city": "Austin",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role AI Researcher at Offsite, San Francisco, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/AI-Researcher/1444766",
-    "id": "cisco-ai-researcher-offsite"
+    "job_description": "Data Science job for the role Outbound Tech Evangelist Product Manager in Business Automation at ProfessionalAustin, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=48245&source=WEB_Search_NA",
+    "id": "ibm-outbound-tech-evangelist-product-manager-in-business-automation-austin"
   },
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Warehouse Assistant",
-    "job_city": "Southaven",
-    "job_state": "United States of America",
+    "employer_name": "IBM",
+    "job_title": "Sr. Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Warehouse Assistant at Southaven, Mississippi, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-warehouse-assistant-southaven"
+    "job_description": "Data Science job for the role Sr. Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53832&source=WEB_Search_NA",
+    "id": "ibm-sr-engineer-multiple-cities"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "AI Architect, Apple Data Platform",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Senior AI Architect, Apple Data Platform at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200616673-0836/senior-ai-architect-apple-data-platform?team=SFTWR",
-    "id": "apple-ai-architect-apple-data-platform-cupertino"
-  },
-  {
-    "employer_name": "Booz Allen",
-    "job_title": "Data Links Systems Engineer, Mid",
-    "job_city": "San Diego",
+    "employer_name": "AMD",
+    "job_title": "Performance Tools Developer",
+    "job_city": "US",
     "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Principal Performance Tools Developer at US,CA,Santa Clara\n2485 Augustine Drive\nSanta Clara, California\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/67003/login",
+    "id": "amd-performance-tools-developer-us"
+  },
+  {
+    "employer_name": "workday",
+    "job_title": "Data Scientist",
+    "job_city": "USA",
+    "job_state": "CO",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Data Links Systems Engineer, Mid at San Diego, CA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Data-Links-Systems-Engineer--Mid_R0224705?q=Data+Science",
-    "id": "booz-allen-data-links-systems-engineer-mid-san-diego"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Customer Success M&A Lead, Director",
-    "job_city": "Texas - Austin",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Customer Success M&A Lead, Director in Operations. Available in 3 location(s): Texas - Austin, New York - New York, California - San Francisco",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr307146/customer-success-ma-lead-director/",
-    "id": "salesforce-customer-success-m-a-lead-director-texas-austin"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "PMTS Engineer, Demand Engineering - Slack",
-    "job_city": "California - San Francisco",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role PMTS Engineer, Demand Engineering - Slack in Software Engineering. Available in 4 location(s): California - San Francisco, Washington - Seattle, California - Palo Alto, Washington - Bellevue",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr297544/pmts-engineer-demand-engineering-slack/",
-    "id": "salesforce-pmts-engineer-demand-engineering-slack-california-san-francisco"
+    "job_description": "Data Science job for the role Data Scientist at USA, CO, Boulder",
+    "job_apply_link": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CO-Boulder/Data-Scientist_JR-0099629-1?q=Data+Science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "workday-data-scientist-usa"
   }
 ]
