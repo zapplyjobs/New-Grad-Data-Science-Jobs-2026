@@ -1,72 +1,32 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Software Development Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
+    "employer_name": "Arm",
+    "job_title": "Software Engineer- Onsite:  C++ & Modeling",
+    "job_city": "Waltham",
+    "job_state": "Massachusetts",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Staff Software Development Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=44019&source=WEB_Search_NA",
-    "id": "ibm-software-development-engineer-multiple-cities"
+    "job_description": "Data Science job for the role Software Engineer- Onsite:  C++ & Modeling at Waltham, Massachusetts",
+    "job_apply_link": "https://careers.arm.com/job/waltham/software-engineer-onsite-c-and-modeling/33099/84729455696",
+    "id": "arm-software-engineer-onsite-c-modeling-waltham"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "Staff ASIC Product Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior Staff ASIC Product Engineer at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-ASIC-Product-Engineer_2501566?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-staff-asic-product-engineer-santa-clara"
-  },
-  {
-    "employer_name": "SYNOPSYS",
-    "job_title": "Principal R&D Engineer-3DIC-12508",
-    "job_city": "Sunnyvale",
-    "job_state": "California",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Principal R&D Engineer-3DIC-12508 at Sunnyvale, California",
-    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/principal-r-and-d-engineer-3dic-12508/44408/85187716096",
-    "id": "synopsys-principal-r-d-engineer-3dic-12508-sunnyvale"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Large Language Model Machine Learning Engineer",
-    "job_city": "Seattle",
-    "job_state": "Washington",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Large Language Model Machine Learning Engineer at Seattle",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200581993-3337/large-language-model-machine-learning-engineer?team=MLAI",
-    "id": "apple-large-language-model-machine-learning-engineer-seattle"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineering Architect - Search & Commerce Platform",
-    "job_city": "California - San Francisco",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineering Architect - Search & Commerce Platform in Software Engineering. Available in 3 location(s): California - San Francisco, Massachusetts - Boston, Massachusetts - Burlington",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr285744/software-engineering-architect-search-commerce-platform/",
-    "id": "salesforce-software-engineering-architect-search-commerce-platform-california-san-francisco"
-  },
-  {
-    "employer_name": " workday",
-    "job_title": "Software Development Engineer - AWS, Docker, Terraform, Kotlin, Scala and Python",
-    "job_city": "USA",
-    "job_state": "GA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Software Development Engineer - AWS, Docker, Terraform, Kotlin, Scala and Python at USA, GA, Atlanta",
-    "job_apply_link": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-GA-Atlanta/Software-Development-Engineer----AWS_JR-0098432-1?q=Data+Science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "workday-software-development-engineer-aws-docker-terraform-kotlin-scala-and-python-usa"
-  },
-  {
-    "employer_name": " workday",
-    "job_title": "Cybersecurity Engineer – Cyber Defense (US Federal)",
-    "job_city": "USA",
+    "employer_name": "Booz Allen ",
+    "job_title": "Data Visualization and Qlik Developer, Lead",
+    "job_city": "Alexandria",
     "job_state": "VA",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Principal Cybersecurity Engineer – Cyber Defense (US Federal) at USA, VA, McLean",
-    "job_apply_link": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-VA-McLean/Principal-Cybersecurity-Engineer---Cyber-Defense--US-Federal-_JR-0093109?q=Data+Science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "workday-cybersecurity-engineer-cyber-defense-us-federal-usa"
+    "job_description": "Data Science job for the role Data Visualization and Qlik Developer, Lead at Alexandria, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Visualization-and-Qlik-Developer--Lead_R0222604-1?q=Data+Science",
+    "id": "booz-allen-data-visualization-and-qlik-developer-lead-alexandria"
+  },
+  {
+    "employer_name": "Verizon",
+    "job_title": "Data Visualization and Qlik Developer, Lead",
+    "job_city": "Alexandria",
+    "job_state": "VA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Data Visualization and Qlik Developer, Lead at Alexandria, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Visualization-and-Qlik-Developer--Lead_R0222604-1?q=Data+Science",
+    "id": "verizon-data-visualization-and-qlik-developer-lead-alexandria"
   }
 ]
