@@ -1,32 +1,83 @@
 [
   {
-    "employer_name": "ABB",
-    "job_title": "AMR Mechanical Engineer",
-    "job_city": "Auburn Hills",
-    "job_state": "Michigan",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role AMR Mechanical Engineer at Auburn Hills, Michigan, United States of America",
-    "job_apply_link": "https://careers.abb/global/en/job/95017867/AMR-Mechanical-Engineer",
-    "id": "abb-amr-mechanical-engineer-auburn-hills"
+    "job_title": "Data Science Manager, Software Research and Data Science",
+    "employer_name": "Amazon",
+    "job_city": "North Reading",
+    "job_state": "MA",
+    "job_description": "Data Science job for the role Data Science Manager, Software Research and Data Science at North Reading, MA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3061882/data-science-manager-software-research-and-data-science",
+    "job_posted_at": "2025-08-19T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-08-19T00:00:00.000Z",
+    "id": "amazon-data-science-manager-software-research-and-data-science-north-reading"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Staff/Principal Frontend CAD & Methodology Engineer",
+    "job_city": "San Diego",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff/Principal Frontend CAD & Methodology Engineer at San Diego, California",
+    "job_apply_link": "https://careers.arm.com/job/san-diego/staff-principal-frontend-cad-and-methodology-engineer/33099/77558411648",
+    "id": "arm-staff-principal-frontend-cad-methodology-engineer-san-diego"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Enterprise Sales Development Representative",
+    "job_city": "RESEARCH TRIANGLE PARK",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Enterprise Sales Development Representative at Entry LevelRESEARCH TRIANGLE PARK, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=45074&source=WEB_Search_NA",
+    "id": "ibm-enterprise-sales-development-representative-research-triangle-park"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Component Test Engineer - Rail Traction Components",
+    "job_city": "Alpharetta",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Component Test Engineer - Rail Traction Components at Alpharetta, Georgia, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-component-test-engineer-rail-traction-components-alpharetta"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Optical Module Failure Analysis Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Principal Optical Module Failure Analysis Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Optical-Module-Failure-Analysis-Engineer_2501959?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-optical-module-failure-analysis-engineer-santa-clara"
+  },
+  {
+    "employer_name": "MARVELL",
+    "job_title": "Staff Optical Module Failure Analysis Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Senior Staff Optical Module Failure Analysis Engineer at Santa Clara, CA",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Senior-Staff-Optical-Module-Failure-Analysis-Engineer_2501960?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvell-staff-optical-module-failure-analysis-engineer-santa-clara"
   },
   {
     "employer_name": "AMD",
-    "job_title": "Sr. Staff Software Development Engineer: SW Architecture, C/C++, Embedded Linux",
+    "job_title": "Enterprise Data Center Technician",
     "job_city": "US",
-    "job_state": "CA",
+    "job_state": "TX",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sr. Staff Software Development Engineer: SW Architecture, C/C++, Embedded Linux at US,CA,San Jose\n2100 Logic Drive\nSan Jose, California\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/69102/login",
-    "id": "amd-sr-staff-software-development-engineer-sw-architecture-c-c-embedded-linux-us"
+    "job_description": "Data Science job for the role Enterprise Data Center Technician II at US,TX,Home Office\nTexas\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/68789/login",
+    "id": "amd-enterprise-data-center-technician-us"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Data Center Technician, Data Center",
-    "job_city": "Ashburn",
-    "job_state": "US",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Data Center Technician, Data Center at Ashburn",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200615082-5635/data-center-technician-data-center?team=SFTWR",
-    "id": "apple-data-center-technician-data-center-ashburn"
+    "employer_name": "GDIT",
+    "job_title": "Systems Administrator - Active Top Secret Required",
+    "job_city": "USA DC Washington",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Systems Administrator - Active Top Secret Required at USA DC Washington",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Systems-Administrator---Active-Top-Secret-Required_RQ205788-1?q=Data+Science",
+    "id": "gdit-systems-administrator-active-top-secret-required-usa-dc-washington"
   }
 ]
