@@ -548,7 +548,7 @@ async function fetchAllRealJobs() {
   const scraperConfigs = [
     { name: 'Amazon', scraper: scrapeAmazonJobs, query: 'Data Science' },
     { name: 'Meta', scraper: scrapeMetaJobs, query: 'Data Science' },
-    // { name: 'Microsoft', scraper: microsoftScraper, query: 'data science' },
+    { name: 'Microsoft', scraper: microsoftScraper, query: 'data science' },
     { name: 'Google', scraper: googleScraper, query: 'Data Science' },
     { name: 'ARM', scraper: armScraper, query: 'Data Science' },
     { name: 'Micron', scraper: micronScraper, query: 'Data Science' },
@@ -795,7 +795,6 @@ async function fetchAllRealJobs() {
 
   // console.log(allJobs);
 
-  allJobs.push()
 
   const companiesWithAPIs = Object.keys(CAREER_APIS);
 
