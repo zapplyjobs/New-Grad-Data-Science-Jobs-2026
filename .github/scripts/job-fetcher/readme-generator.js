@@ -107,9 +107,9 @@ function generateJobTable(jobs) {
         
         if (companyJobs.length > 50) {
           output += `<details>\n`;
-          output += `<summary><h4>${emoji} <strong>${companyName}</strong> (${companyJobs.length} positions)</h4></summary>\n\n`;
+          output += `<summary><h3>${emoji} <strong>${companyName}</strong> (${companyJobs.length} positions)</h3></summary>\n\n`;
         } else {
-          output += `#### ${emoji} **${companyName}** (${companyJobs.length} positions)\n\n`;
+          output += `### ${emoji} **${companyName}** (${companyJobs.length} positions)\n\n`;
         }
         
         output += `| Role | Location | Posted | Level | Category | Apply |\n`;
@@ -242,9 +242,9 @@ function generateArchivedSection(archivedJobs, stats) {
 
 ${generateJobTable(archivedJobs)}
 
-
-
 </details>
+
+---
 
 `;
 }
@@ -262,7 +262,7 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
     companies.faang_plus.some((c) => c.name === job.employer_name)
   ).length;
 
-  return `📊 Data Science & Analytics Jobs & Internships 2025-2026 by Zapply
+  return `# 📊 Data Science & Analytics Jobs & Internships 2025-2026 by Zapply
 
 **🚀 Real-time data science and data analysis jobs from ${totalCompanies}+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with ${currentJobs.length}+ fresh opportunities for data analysts, scientists, and entry-level analytics graduates.**
 
@@ -292,30 +292,33 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
 ${internshipData ? generateInternshipSection(internshipData) : ""}
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
+
 ${generateJobTable(currentJobs)}
 
-## Current Job Insights
+---
 
-### 🏢 Top Companies
+# Current Job Insights
 
-#### 🌟 FAANG+ (${companies.faang_plus.length} companies)
+## 🏢 Top Companies
+
+### 🌟 FAANG+ (${companies.faang_plus.length} companies)
 ${companies.faang_plus.map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
 
-#### 🦄 Unicorn Startups (${companies.unicorn_startups.length} companies)
+### 🦄 Unicorn Startups (${companies.unicorn_startups.length} companies)
 ${companies.unicorn_startups.map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
 
-#### 💰 Fintech Leaders (${companies.fintech.length} companies)
+### 💰 Fintech Leaders (${companies.fintech.length} companies)
 ${companies.fintech.map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
 
-#### 🎮 Gaming & Entertainment (${[...companies.gaming, ...companies.media_entertainment].length} companies)
+### 🎮 Gaming & Entertainment (${[...companies.gaming, ...companies.media_entertainment].length} companies)
 ${[...companies.gaming, ...companies.media_entertainment].map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
 
-#### ☁️ Enterprise & Cloud (${[...companies.top_tech, ...companies.enterprise_saas].length} companies)
+### ☁️ Enterprise & Cloud (${[...companies.top_tech, ...companies.enterprise_saas].length} companies)
 ${[...companies.top_tech, ...companies.enterprise_saas].map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
 
 ---
 
-### 📈 Experience Breakdown
+## 📈 Experience Breakdown
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
@@ -325,7 +328,7 @@ ${[...companies.top_tech, ...companies.enterprise_saas].map((c) => `${c.emoji} [
 
 ---
 
-### 🌍 Top Locations
+## 🌍 Top Locations
 ${stats ? Object.entries(stats.byLocation)
   .sort((a, b) => b[1] - a[1])
   .slice(0, 8)
@@ -334,7 +337,7 @@ ${stats ? Object.entries(stats.byLocation)
 
 ---
 
-### 🔍 Filter by Role Category
+## 🔍 Filter by Role Category
 ${stats ? Object.entries(stats.byCategory)
   .sort((a, b) => b[1] - a[1])
   .map(([category, count]) => {
@@ -371,6 +374,7 @@ ${topCompanies
 ---
 
 ## 🔮 Why Data Analysts Choose Our Job Board
+
 - ✅ **100% Real Jobs**: ${currentJobs.length}+ verified roles for data analysts and scientists from ${totalCompanies} elite tech companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
@@ -380,21 +384,21 @@ ${topCompanies
 
 ---
 
-### 🚀 Job Hunt Tips That Actually Work
+## 🚀 **Job Hunt Tips That Actually Work**
 
-#### 🔍 Research Before Applying
+### 🔍 **Research Before Applying**
 - Find the hiring manager: Search "[Company] [Team] engineering manager" on LinkedIn.
 - Check recent tech decisions: Review their engineering blog for stack changes or new initiatives.
 - Verify visa requirements: Look for 🇺🇸 indicators or "US persons only" in the job description.
 - Use this [100% ATS-compliant resume template](#).
 
-#### 📄 Resume Best Practices
+### 📄 **Resume Best Practices**
 - Mirror their tech stack: Use exact keywords from the job post (e.g., SQL, Tableau, Python, R).
 - Lead with business impact: “Reduced churn by 12% with cohort analysis” beats “Used Excel.”
 - Show product familiarity: Example: "Built a Netflix-style recommendation engine."
 - Read this [guide on resume tweaks](#).
 
-#### 🎯 Interview Best Practices
+### 🎯 **Interview Best Practices**
 - Ask domain questions: “How do you ensure model explainability in production?” shows research.
 - Prepare case stories: “Improved forecast accuracy by 20% with time-series analysis.”
 - Reference their products: “As a Slack user, I’ve noticed…” proves interest.
@@ -402,7 +406,8 @@ ${topCompanies
 
 ---
 
-## 📬 Stay Updated
+## 📬 **Stay Updated**
+
 - **⭐ Star this repo** to bookmark for daily checks.
 - **👀 Watch** for notifications on new opportunities.
 - **🔔 Subscribe to our newsletter** for instant updates.
@@ -410,28 +415,28 @@ ${topCompanies
 
 ---
 
-## 🤝 Become a Contributor
+## 🤝 **Become a Contributor**
 Add new jobs! See the [contributing guide](#contributing-guide).
 
-### Contributing Guide
-#### 🎯 Roles We Accept
+## Contributing Guide
+### 🎯 Roles We Accept
 - Located in the US, Canada, or Remote.
 - Not already in our database.
 - Currently accepting applications.
 
-#### 🚀 How to Add Jobs
+### 🚀 How to Add Jobs
 1. Create a new issue.
 2. Select the "New Job" template.
 3. Fill out and submit the form.
    > Submit separate issues for each position, even from the same company.
 
-#### ✏️ How to Update Jobs
+### ✏️ How to Update Jobs
 1. Copy the job URL to edit.
 2. Create a new issue.
 3. Select the "Edit Job" template.
 4. Paste the URL and describe changes.
 
-#### ⚡ What Happens Next
+### ⚡ What Happens Next
 - Our team reviews within 24-48 hours.
 - Approved jobs are added to the main list.
 - The README updates automatically via script.
@@ -441,6 +446,8 @@ Add new jobs! See the [contributing guide](#contributing-guide).
 ---
 
 ${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, stats) : "No archived jobs available."}
+
+---
 
 <div align="center">
 
