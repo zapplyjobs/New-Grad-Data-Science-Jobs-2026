@@ -1,22 +1,32 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Business and Marketing Data Scientist",
+    "employer_name": "JP Morgan Chase",
+    "job_title": "Credit Digital Markets Product Manager [Multiple Positions Available]",
     "job_city": "New York",
     "job_state": "NY",
     "job_posted_at": "Recently",
-    "job_description": "20 Category: Data Science. Level: corporate_fareYouTube. Posted: Recently. Full Title: Business and Marketing Data Scientist, YouTube, Creative Research",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/124900129667719878-business-and-marketing-data-scientist-youtube-creative-research?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-business-and-marketing-data-scientist-new-york"
+    "job_description": "Data Science job for the role Credit Digital Markets Product Manager [Multiple Positions Available] at New York, NY, United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210656091/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-credit-digital-markets-product-manager-multiple-positions-available-new-york"
   },
   {
     "employer_name": "JP Morgan Chase",
-    "job_title": "Salesforce Marketing Cloud Builder-Associate",
-    "job_city": "Wilmington",
-    "job_state": "DE",
+    "job_title": "Product Management [Multiple Positions Available]",
+    "job_city": "Plano",
+    "job_state": "TX",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Salesforce Marketing Cloud Builder-Associate at Wilmington, DE, United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210649468/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jp-morgan-chase-salesforce-marketing-cloud-builder-associate-wilmington"
+    "job_description": "Data Science job for the role Product Management [Multiple Positions Available] at Plano, TX, United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210657128/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-product-management-multiple-positions-available-plano"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Software Engineer, Security Infrastructure",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Software Engineer, Security Infrastructure in Software Engineering. Available in 2 location(s): California - San Francisco, California - Palo Alto",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr307670/senior-software-engineer-security-infrastructure/",
+    "id": "salesforce-software-engineer-security-infrastructure-california-san-francisco"
   }
 ]
