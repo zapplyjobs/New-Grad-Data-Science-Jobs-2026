@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "Booz Allen ",
-    "job_title": "Data Scientist, Lead",
-    "job_city": "Alexandria",
-    "job_state": "VA",
-    "job_posted_at": "Posted Yesterday",
-    "job_description": "Data Science job for the role Data Scientist, Lead at Alexandria, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist--Lead_R0222218-1?q=Data+Science",
-    "id": "booz-allen-data-scientist-lead-alexandria"
-  },
-  {
-    "employer_name": " DELL",
-    "job_title": "Finance Undergraduate Intern",
-    "job_city": "Posted Yesterday",
+    "employer_name": "NVIDIA",
+    "job_title": "Data Scientist - Cloud Gaming",
+    "job_city": "2 Locations",
     "job_state": "",
-    "job_posted_at": "",
-    "job_description": "Data Science job for the role Finance Undergraduate Intern at Posted Yesterday",
-    "job_apply_link": "https://dell.wd1.myworkdayjobs.com/en-US/External/job/Round-Rock-Texas-United-States/Finance-Undergraduate-Intern_R275874-1?q=Data+Science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "dell-finance-undergraduate-intern-posted-yesterday"
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Senior Data Scientist - Cloud Gaming at 2 Locations",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Scientist---Cloud-Gaming_JR2001852?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-data-scientist-cloud-gaming-2-locations"
   }
 ]
