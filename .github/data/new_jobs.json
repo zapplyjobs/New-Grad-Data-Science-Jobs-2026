@@ -1,82 +1,132 @@
 [
   {
-    "employer_name": "AMD",
-    "job_title": "GPU Software Developer",
-    "job_city": "US",
-    "job_state": "TX",
+    "employer_name": "ABB",
+    "job_title": "Data Analyst",
+    "job_city": "Senatobia",
+    "job_state": "Mississippi",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Data Analyst at Senatobia, Mississippi, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00001782/Data-Analyst",
+    "id": "abb-data-analyst-senatobia"
+  },
+  {
+    "employer_name": "JP Morgan Chase",
+    "job_title": "Director of Software Engineering - AI/ML Data Platforms",
+    "job_city": "Seattle",
+    "job_state": "WA",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Principal GPU Software Developer at US,TX,Austin\n7171 Southwest Parkway\nAustin, Texas\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/68379/login",
-    "id": "amd-gpu-software-developer-us"
+    "job_description": "Data Science job for the role Director of Software Engineering - AI/ML Data Platforms at Seattle, WA, United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210635534/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-director-of-software-engineering-ai-ml-data-platforms-seattle"
+  },
+  {
+    "employer_name": "HONEYWELL",
+    "job_title": "Director IT- TMO and Business Partners",
+    "job_city": "Morris Plains",
+    "job_state": "NJ",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Director IT- TMO and Business Partners at Morris Plains, NJ, United States",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/115261/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-director-it-tmo-and-business-partners-morris-plains"
+  },
+  {
+    "employer_name": "HONEYWELL",
+    "job_title": "Test Engr",
+    "job_city": "Raleigh",
+    "job_state": "NC",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Test Engr II at Raleigh, NC, United States",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/114451/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-test-engr-raleigh"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Product Operations Engineer - Printed Circuit Board Assembly/Manufacturing",
+    "job_city": "US",
+    "job_state": "NJ",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Product Operations Engineer - Printed Circuit Board Assembly/Manufacturing at US,NJ,Secaucus_Meadowlands\n333 Meadowlands Parkway 1st FL.\nSecaucus, New Jersey\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/62519/login",
+    "id": "amd-product-operations-engineer-printed-circuit-board-assembly-manufacturing-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Platform Software Engineer (RDMA/Ethernet Driver - Linux/Windows)",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Platform Software Engineer (RDMA/Ethernet Driver - Linux/Windows) at US,CA,Santa Clara\n2485 Augustine Drive\nSanta Clara, California\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/68112/login",
+    "id": "amd-platform-software-engineer-rdma-ethernet-driver-linux-windows-us"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Data Science & Analytics Partner, AppleCare Digital",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "3 weeks ago",
+    "job_description": "Data Science job for the role Data Science & Analytics Partner, AppleCare Digital at Austin",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200613397-0157/data-science-analytics-partner-applecare-digital?team=CUST",
+    "id": "apple-data-science-analytics-partner-applecare-digital-austin"
+  },
+  {
+    "employer_name": "INTEL",
+    "job_title": "Ocotillo Technology Fabrication Module Engineer",
+    "job_city": "US",
+    "job_state": "Arizona",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Ocotillo Technology Fabrication Module Engineer at US, Arizona, Phoenix",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Ocotillo-Technology-Fabrication-Module-Engineer_JR0276802?q=Data+Science&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-ocotillo-technology-fabrication-module-engineer-us"
   },
   {
     "employer_name": "Booz Allen",
-    "job_title": "Data Scientist, Senior",
-    "job_city": "Joint Base Pearl Harbor - Hickam",
-    "job_state": "HI",
+    "job_title": "Cloud Computing Infrastructure Architect",
+    "job_city": "Warner Robins",
+    "job_state": "GA",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Data Scientist, Senior at Joint Base Pearl Harbor - Hickam, HI",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Joint-Base-Pearl-Harbor---Hickam-HI/Data-Scientist--Senior_R0224782-1?q=Data+Science",
-    "id": "booz-allen-data-scientist-senior-joint-base-pearl-harbor-hickam"
-  },
-  {
-    "employer_name": "Guide house",
-    "job_title": "Systems Administrator",
-    "job_city": "US - MD",
-    "job_state": "Bethesda",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Systems Administrator at US - MD, Bethesda",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MD-Bethesda/Systems-Administrator_31644-1?q=Data+Science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guide-house-systems-administrator-us-md"
+    "job_description": "Data Science job for the role Cloud Computing Infrastructure Architect at Warner Robins, GA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Warner-Robins-GA/Cloud-Computing-Infrastructure-Architect_R0224767-1?q=Data+Science",
+    "id": "booz-allen-cloud-computing-infrastructure-architect-warner-robins"
   },
   {
     "employer_name": "Salesforce",
-    "job_title": "Cloud Account Executive, Mid-Market",
-    "job_city": "Brazil - Sao Paulo",
+    "job_title": "Proposal Manager - Life Sciences",
+    "job_city": "Indiana - Indianapolis",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Cloud Account Executive, Mid-Market in Sales. Available in 1 location(s): Brazil - Sao Paulo",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308554/cloud-account-executive-mid-market/",
-    "id": "salesforce-cloud-account-executive-mid-market-brazil-sao-paulo"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Cloud Account Executive - Slack",
-    "job_city": "India - Gurgaon",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Cloud Account Executive - Slack in Sales. Available in 1 location(s): India - Gurgaon",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr293421/cloud-account-executive-slack/",
-    "id": "salesforce-cloud-account-executive-slack-india-gurgaon"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Sr. PMM, Service Cloud Messaging & Positioning",
-    "job_city": "New York - New York",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sr. PMM, Service Cloud Messaging & Positioning in Marketing & Communications. Available in 1 location(s): New York - New York",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308363/sr-pmm-service-cloud-messaging-positioning/",
-    "id": "salesforce-sr-pmm-service-cloud-messaging-positioning-new-york-new-york"
+    "job_description": "Data Science job for the role Senior Proposal Manager - Life Sciences in Finance. Available in 1 location(s): Indiana - Indianapolis",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr304149/senior-proposal-manager-life-sciences/",
+    "id": "salesforce-proposal-manager-life-sciences-indiana-indianapolis"
   },
   {
     "employer_name": "Verizon",
-    "job_title": "Data Scientist, Senior",
-    "job_city": "Joint Base Pearl Harbor - Hickam",
-    "job_state": "HI",
+    "job_title": "Cloud Computing Infrastructure Architect",
+    "job_city": "Warner Robins",
+    "job_state": "GA",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Data Scientist, Senior at Joint Base Pearl Harbor - Hickam, HI",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Joint-Base-Pearl-Harbor---Hickam-HI/Data-Scientist--Senior_R0224782-1?q=Data+Science",
-    "id": "verizon-data-scientist-senior-joint-base-pearl-harbor-hickam"
+    "job_description": "Data Science job for the role Cloud Computing Infrastructure Architect at Warner Robins, GA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Warner-Robins-GA/Cloud-Computing-Infrastructure-Architect_R0224767-1?q=Data+Science",
+    "id": "verizon-cloud-computing-infrastructure-architect-warner-robins"
   },
   {
     "employer_name": "Verizon",
-    "job_title": "Computer Engineer",
-    "job_city": "Huntsville",
-    "job_state": "AL",
+    "job_title": "System Administrator",
+    "job_city": "Dayton",
+    "job_state": "OH",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Computer Engineer at Huntsville, AL",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Computer-Engineer_R0224783?q=Data+Science",
-    "id": "verizon-computer-engineer-huntsville"
+    "job_description": "Data Science job for the role System Administrator at Dayton, OH",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/System-Administrator_R0224776?q=Data+Science",
+    "id": "verizon-system-administrator-dayton"
+  },
+  {
+    "employer_name": "Verizon",
+    "job_title": "System Administrator, Senior",
+    "job_city": "Dayton",
+    "job_state": "OH",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role System Administrator, Senior at Dayton, OH",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/System-Administrator--Senior_R0224777?q=Data+Science",
+    "id": "verizon-system-administrator-senior-dayton"
   }
 ]
