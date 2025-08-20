@@ -99,59 +99,180 @@ function isJobOlderThanWeek(dateString) {
 }
 
 function isUSOnlyJob(job) {
-    const country = (job.job_country || '').toLowerCase().trim();
+    // Note: There's no job_country field, but country info sometimes appears in job_state
     const state = (job.job_state || '').toLowerCase().trim();
     const city = (job.job_city || '').toLowerCase().trim();
     
-    // Exclude jobs explicitly in non-US countries
+    // Normalize location string by removing extra spaces and punctuation
+    const cleanCity = city.replace(/[,\s]+/g, ' ').trim();
+    const cleanState = state.replace(/[,\s]+/g, ' ').trim();
+    
+    // Expanded list of non-US countries (including variations)
     const nonUSCountries = [
-        'estonia', 'canada', 'uk', 'united kingdom', 'germany', 'france', 'netherlands', 
+        'estonia', 'canada', 'uk', 'united kingdom', 'great britain', 'britain',
+        'germany', 'deutschland', 'france', 'netherlands', 'holland',
         'sweden', 'norway', 'denmark', 'finland', 'australia', 'india', 'singapore',
-        'japan', 'south korea', 'brazil', 'mexico', 'spain', 'italy', 'poland',
-        'ireland', 'israel', 'switzerland', 'austria', 'belgium', 'czech republic'
+        'japan', 'south korea', 'korea', 'brazil', 'mexico', 'spain', 'italy', 'poland',
+        'ireland', 'israel', 'switzerland', 'austria', 'belgium', 'czech republic',
+        'russia', 'china', 'ukraine', 'serbia', 'romania', 'bulgaria', 'hungary',
+        'portugal', 'greece', 'turkey', 'croatia', 'slovakia', 'slovenia', 'lithuania',
+        'latvia', 'luxembourg', 'malta', 'cyprus', 'iceland', 'new zealand', 'thailand',
+        'vietnam', 'philippines', 'indonesia', 'malaysia', 'taiwan', 'hong kong'
     ];
     
-    // If country is explicitly non-US, exclude
-    if (nonUSCountries.includes(country)) {
+    // Check if state field contains non-US countries (this is the main filter since country appears in state)
+    if (nonUSCountries.some(nonUSCountry => cleanState.includes(nonUSCountry))) {
         return false;
     }
     
-    // Exclude jobs with non-US cities/locations
+    // Expanded non-US cities (including variations and major cities)
     const nonUSCities = [
-        'toronto', 'vancouver', 'montreal', 'london', 'berlin', 'amsterdam', 'stockholm',
-        'copenhagen', 'helsinki', 'oslo', 'sydney', 'melbourne', 'bangalore', 'mumbai',
-        'delhi', 'hyderabad', 'pune', 'singapore', 'tokyo', 'seoul', 'tel aviv',
-        'zurich', 'geneva', 'dublin', 'tallinn', 'riga', 'vilnius', 'prague', 'budapest'
+        'toronto', 'vancouver', 'montreal', 'ottawa', 'calgary', 'edmonton',
+        'london', 'manchester', 'birmingham', 'glasgow', 'liverpool', 'bristol',
+        'berlin', 'munich', 'hamburg', 'cologne', 'frankfurt',
+        'amsterdam', 'rotterdam', 'the hague',
+        'stockholm', 'gothenburg', 'malmo',
+        'copenhagen', 'aarhus', 'odense',
+        'helsinki', 'espoo', 'tampere',
+        'oslo', 'bergen', 'trondheim',
+        'sydney', 'melbourne', 'brisbane', 'perth', 'adelaide',
+        'bangalore', 'bengaluru', 'mumbai', 'bombay', 'delhi', 'new delhi',
+        'hyderabad', 'pune', 'chennai', 'madras', 'kolkata', 'calcutta',
+        'ahmedabad', 'jaipur', 'surat', 'lucknow', 'kanpur', 'nagpur',
+        'singapore', 'tokyo', 'osaka', 'kyoto', 'yokohama', 'nagoya',
+        'seoul', 'busan', 'incheon', 'daegu', 'daejeon',
+        'tel aviv', 'jerusalem', 'haifa', 'beer sheva',
+        'zurich', 'geneva', 'basel', 'bern',
+        'dublin', 'cork', 'galway', 'limerick',
+        'tallinn', 'tartu', 'riga', 'vilnius', 'kaunas',
+        'prague', 'brno', 'ostrava', 'budapest', 'debrecen',
+        'paris', 'marseille', 'lyon', 'toulouse', 'nice',
+        'madrid', 'barcelona', 'valencia', 'seville', 'bilbao',
+        'rome', 'milan', 'naples', 'turin', 'palermo',
+        'warsaw', 'krakow', 'gdansk', 'wroclaw', 'poznan',
+        'moscow', 'st petersburg', 'novosibirsk', 'yekaterinburg',
+        'beijing', 'shanghai', 'guangzhou', 'shenzhen', 'chengdu',
+        'kyiv', 'kiev', 'kharkiv', 'odesa', 'dnipro',
+        'belgrade', 'novi sad', 'nis'
     ];
     
-    if (nonUSCities.includes(city)) {
+    // Check if city contains any non-US cities
+    if (nonUSCities.some(nonUSCity => cleanCity.includes(nonUSCity))) {
         return false;
     }
     
-    // Include if country is US/USA/United States or empty (assume US)
-    if (country === 'us' || country === 'usa' || country === 'united states' || country === '') {
-        return true;
+    // Handle "Remote - [Country]" patterns
+    if (cleanCity.includes('remote') && nonUSCountries.some(country => cleanCity.includes(country))) {
+        return false;
     }
     
-    // Include if it has US state codes
-    const usStates = [
-        'al', 'ak', 'az', 'ar', 'ca', 'co', 'ct', 'de', 'fl', 'ga', 'hi', 'id', 'il', 'in', 'ia', 
-        'ks', 'ky', 'la', 'me', 'md', 'ma', 'mi', 'mn', 'ms', 'mo', 'mt', 'ne', 'nv', 'nh', 'nj', 
-        'nm', 'ny', 'nc', 'nd', 'oh', 'ok', 'or', 'pa', 'ri', 'sc', 'sd', 'tn', 'tx', 'ut', 'vt', 
-        'va', 'wa', 'wv', 'wi', 'wy', 'dc'
+    if (cleanState.includes('remote') && nonUSCountries.some(country => cleanState.includes(country))) {
+        return false;
+    }
+    
+    // US country indicators in state field (since country info appears in state)
+    const usCountryIndicators = [
+        'us', 'usa', 'united states', 'united states of america', 'america'
     ];
     
-    if (usStates.includes(state)) {
+    // If state contains US indicators
+    if (usCountryIndicators.some(indicator => cleanState.includes(indicator))) {
         return true;
     }
     
-    // Include remote jobs (assume US remote unless stated otherwise)
-    if (city.includes('remote') || state.includes('remote')) {
+    // US state codes and full names
+    const usStates = [
+        // State codes
+        'al', 'ak', 'az', 'ar', 'ca', 'co', 'ct', 'de', 'fl', 'ga', 'hi', 'id', 'il', 'in', 'ia',
+        'ks', 'ky', 'la', 'me', 'md', 'ma', 'mi', 'mn', 'ms', 'mo', 'mt', 'ne', 'nv', 'nh', 'nj',
+        'nm', 'ny', 'nc', 'nd', 'oh', 'ok', 'or', 'pa', 'ri', 'sc', 'sd', 'tn', 'tx', 'ut', 'vt',
+        'va', 'wa', 'wv', 'wi', 'wy', 'dc',
+        // Full state names
+        'alabama', 'alaska', 'arizona', 'arkansas', 'california', 'colorado', 'connecticut',
+        'delaware', 'florida', 'georgia', 'hawaii', 'idaho', 'illinois', 'indiana', 'iowa',
+        'kansas', 'kentucky', 'louisiana', 'maine', 'maryland', 'massachusetts', 'michigan',
+        'minnesota', 'mississippi', 'missouri', 'montana', 'nebraska', 'nevada', 'new hampshire',
+        'new jersey', 'new mexico', 'new york', 'north carolina', 'north dakota', 'ohio',
+        'oklahoma', 'oregon', 'pennsylvania', 'rhode island', 'south carolina', 'south dakota',
+        'tennessee', 'texas', 'utah', 'vermont', 'virginia', 'washington', 'west virginia',
+        'wisconsin', 'wyoming', 'district of columbia'
+    ];
+    
+    // Check if state matches US states
+    if (usStates.some(usState => cleanState === usState || cleanState.includes(usState))) {
         return true;
     }
     
-    // Default to include (better to include than exclude)
-    return true;
+    // Major US cities (to catch cases where state might be missing or incorrect)
+    const majorUSCities = [
+        'new york', 'los angeles', 'chicago', 'houston', 'phoenix', 'philadelphia',
+        'san antonio', 'san diego', 'dallas', 'san jose', 'austin', 'jacksonville',
+        'fort worth', 'columbus', 'charlotte', 'san francisco', 'indianapolis',
+        'seattle', 'denver', 'washington', 'boston', 'el paso', 'detroit', 'nashville',
+        'portland', 'memphis', 'oklahoma city', 'las vegas', 'louisville', 'baltimore',
+        'milwaukee', 'albuquerque', 'tucson', 'fresno', 'sacramento', 'kansas city',
+        'mesa', 'atlanta', 'colorado springs', 'raleigh', 'omaha', 'miami', 'oakland',
+        'tulsa', 'cleveland', 'wichita', 'arlington', 'new orleans', 'bakersfield',
+        'tampa', 'honolulu', 'aurora', 'anaheim', 'santa ana', 'corpus christi',
+        'riverside', 'lexington', 'stockton', 'toledo', 'saint paul', 'newark',
+        'greensboro', 'plano', 'henderson', 'lincoln', 'buffalo', 'jersey city',
+        'chula vista', 'fort wayne', 'orlando', 'st petersburg', 'chandler',
+        'laredo', 'norfolk', 'durham', 'madison', 'lubbock', 'irvine', 'winston salem',
+        'glendale', 'garland', 'hialeah', 'reno', 'chesapeake', 'gilbert', 'baton rouge',
+        'irving', 'scottsdale', 'north las vegas', 'fremont', 'boise', 'richmond',
+        'san bernardino', 'birmingham', 'spokane', 'rochester', 'des moines', 'modesto',
+        'fayetteville', 'tacoma', 'oxnard', 'fontana', 'columbus', 'montgomery',
+        'moreno valley', 'shreveport', 'aurora', 'yonkers', 'akron', 'huntington beach',
+        'little rock', 'augusta', 'amarillo', 'glendale', 'mobile', 'grand rapids',
+        'salt lake city', 'tallahassee', 'huntsville', 'grand prairie', 'knoxville',
+        'worcester', 'newport news', 'brownsville', 'santa clarita', 'providence',
+        'fort lauderdale', 'chattanooga', 'oceanside', 'jackson', 'garden grove',
+        'rancho cucamonga', 'port st lucie', 'tempe', 'ontario', 'vancouver',
+        'cape coral', 'sioux falls', 'springfield', 'peoria', 'pembroke pines',
+        'elk grove', 'salem', 'lancaster', 'corona', 'eugene', 'palmdale', 'salinas',
+        'springfield', 'pasadena', 'fort collins', 'hayward', 'pomona', 'cary',
+        'rockford', 'alexandria', 'escondido', 'mckinney', 'kansas city', 'joliet',
+        'sunnyvale', 'torrance', 'bridgeport', 'lakewood', 'hollywood', 'paterson',
+        'naperville', 'syracuse', 'mesquite', 'dayton', 'savannah', 'clarksville',
+        'orange', 'pasadena', 'fullerton', 'killeen', 'frisco', 'hampton',
+        'mcallen', 'warren', 'bellevue', 'west valley city', 'columbia', 'olathe',
+        'sterling heights', 'new haven', 'miramar', 'waco', 'thousand oaks',
+        'cedar rapids', 'charleston', 'visalia', 'topeka', 'elizabeth', 'gainesville',
+        'thornton', 'roseville', 'carrollton', 'coral springs', 'stamford', 'simi valley',
+        'concord', 'hartford', 'kent', 'lafayette', 'midland', 'surprise', 'denton',
+        'victorville', 'evansville', 'santa clara', 'abilene', 'athens', 'vallejo',
+        'allentown', 'norman', 'beaumont', 'independence', 'murfreesboro', 'ann arbor',
+        'fargo', 'wilmington', 'golden valley', 'pearland', 'richardson', 'broken arrow',
+        'richmond', 'college station', 'league city', 'sugar land', 'lakeland',
+        'duluth', 'woodbridge', 'charleston'
+    ];
+    
+    // Check if city matches major US cities
+    if (majorUSCities.some(usCity => cleanCity.includes(usCity))) {
+        return true;
+    }
+    
+    // Handle remote jobs - assume US remote unless specified otherwise
+    if (cleanCity.includes('remote') && !cleanCity.includes('-') && !cleanState.includes('-')) {
+        return true;
+    }
+    
+    if (cleanState.includes('remote') && !cleanState.includes('-')) {
+        return true;
+    }
+    
+    // Handle "United States" variations in state field (main case since country info is in state)
+    if (cleanState.includes('united states')) {
+        return true;
+    }
+    
+    // If both city and state are empty, can't determine - exclude for safety
+    if (!cleanCity && !cleanState) {
+        return false;
+    }
+    
+    // Default to exclude if we can't determine (changed from include to be more selective)
+    return false;
 }
 
 function getExperienceLevel(title, description = '') {

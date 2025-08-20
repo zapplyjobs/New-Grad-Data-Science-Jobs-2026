@@ -1,5 +1,6 @@
 const fs = require("fs");
 const { generateJobId } = require("./job-fetcher/utils");
+const {isUSOnlyJob } = require("./job-fetcher/utils");
 const scrapeAmazonJobs = require("../../jobboard/src/backend/platforms/amazon/amazonScraper");
 const googleScraper = require("../../jobboard/src/backend/platforms/google/googleScraper");
 const scrapeMetaJobs = require("../../jobboard/src/backend/platforms/meta/metaScraper");
@@ -543,7 +544,7 @@ async function fetchSimplifyJobsData() {
 async function fetchAllRealJobs() {
   console.log("🚀 Starting REAL career page scraping...");
 
-  const allJobs = [];
+  let allJobs = [];
   // Define scraper configurations for batch processing
   const scraperConfigs = [
     { name: 'Amazon', scraper: scrapeAmazonJobs, query: 'Data Science' },
@@ -792,6 +793,21 @@ async function fetchAllRealJobs() {
     ...workday_DataScience,
     ...adobe_DataScience
   );
+
+  const removedJobs = [];
+allJobs = allJobs.filter(job => {
+    const isUSJob = isUSOnlyJob(job);
+    
+    if (!isUSJob) {
+        removedJobs.push(job);
+        return false; // Remove non-US job
+    }
+    
+    return true; // Keep US job
+});
+
+// Console log the removed jobs
+console.log(`Removed ${removedJobs.length} non-US jobs:`, removedJobs);
 
   // console.log(allJobs);
 
