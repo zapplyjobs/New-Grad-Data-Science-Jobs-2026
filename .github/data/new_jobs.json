@@ -1,52 +1,72 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Enterprise Architect, IBM Infrastructure & Data Center Engineering",
-    "job_city": "Multiple Cities",
+    "employer_name": "ABB",
+    "job_title": "R&D Electrical Engineer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role R&D Electrical Engineer at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00008005/R-D-Electrical-Engineer",
+    "id": "abb-r-d-electrical-engineer-multiple"
+  },
+  {
+    "employer_name": "JP Morgan Chase",
+    "job_title": "JP Morgan Chase Institute - Research Associate",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role JP Morgan Chase Institute - Research Associate at Washington, DC, United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210656305/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-jp-morgan-chase-institute-research-associate-washington"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Technical Program Management Director, Security",
+    "job_city": "California - San Francisco",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Enterprise Architect, IBM Infrastructure & Data Center Engineering at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52328&source=WEB_Search_NA",
-    "id": "ibm-enterprise-architect-ibm-infrastructure-data-center-engineering-multiple-cities"
+    "job_description": "Data Science job for the role Technical Program Management Director, Security in Program & Project Management. Available in 1 location(s): California - San Francisco",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr307705/technical-program-management-director-security/",
+    "id": "salesforce-technical-program-management-director-security-california-san-francisco"
   },
   {
-    "employer_name": "CISCO",
-    "job_title": "Software Engineer I (Full Time) United States",
-    "job_city": "San Jose",
-    "job_state": "California",
+    "employer_name": "Salesforce",
+    "job_title": "Success Architect (Portuguese Speaking)",
+    "job_city": "Indiana - Indianapolis",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineer I (Full Time) United States at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1447850",
-    "id": "cisco-software-engineer-i-full-time-united-states-san-jose"
+    "job_description": "Data Science job for the role Success Architect (Portuguese Speaking) in Customer Success. Available in 6 location(s): Indiana - Indianapolis, Washington - Seattle, Illinois - Chicago, Georgia - Atlanta, Massachusetts - Burlington, Washington - Bellevue",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr307716/success-architect-portuguese-speaking/",
+    "id": "salesforce-success-architect-portuguese-speaking-indiana-indianapolis"
   },
   {
-    "employer_name": "CISCO",
-    "job_title": "Software Developer- Full Stack",
-    "job_city": "RTP",
-    "job_state": "North Carolina",
+    "employer_name": "Salesforce",
+    "job_title": "Sales Strategy Manager",
+    "job_city": "New York - New York",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Software Developer- Full Stack at RTP, North Carolina, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Senior-Software-Developer-Full-Stack/1441608",
-    "id": "cisco-software-developer-full-stack-rtp"
+    "job_description": "Data Science job for the role Sales Strategy Manager in Operations. Available in 2 location(s): New York - New York, California - San Francisco",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr307824/sales-strategy-manager/",
+    "id": "salesforce-sales-strategy-manager-new-york-new-york"
   },
   {
-    "employer_name": "Guide house",
-    "job_title": "Data Engineer Architect",
-    "job_city": "US - AL",
-    "job_state": "Huntsville",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Data Engineer Architect at US - AL, Huntsville",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---AL-Huntsville/Data-Engineer-Architect_31270?q=Data+Science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guide-house-data-engineer-architect-us-al"
+    "employer_name": "Salesforce",
+    "job_title": "VP, Campaign Creative",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role VP, Campaign Creative in Marketing & Communications. Available in 1 location(s): California - San Francisco",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr296616/vp-campaign-creative/",
+    "id": "salesforce-vp-campaign-creative-california-san-francisco"
   },
   {
-    "employer_name": "Verizon",
-    "job_title": "Space Systems Engineer",
-    "job_city": "El Segundo",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Space Systems Engineer at El Segundo, CA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/Space-Systems-Engineer_R0224760?q=Data+Science",
-    "id": "verizon-space-systems-engineer-el-segundo"
+    "employer_name": "Salesforce",
+    "job_title": "Product Designer, AppExchange",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Principal Product Designer, AppExchange in User Experience. Available in 2 location(s): California - San Francisco, Washington - Seattle",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr304000/principal-product-designer-appexchange/",
+    "id": "salesforce-product-designer-appexchange-california-san-francisco"
   }
 ]
