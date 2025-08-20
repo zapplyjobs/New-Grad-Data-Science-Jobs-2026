@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Sr. Solutions Engineer",
+    "job_city": "Sandy Springs",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sr. Solutions Engineer at ProfessionalSandy Springs, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53335&source=WEB_Search_NA",
+    "id": "ibm-sr-solutions-engineer-sandy-springs"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Jr. Project Manager",
+    "job_city": "Fort Worth",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Jr. Project Manager at Fort Worth, Texas, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-jr-project-manager-fort-worth"
+  }
+]
