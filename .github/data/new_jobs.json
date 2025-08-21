@@ -1,42 +1,122 @@
 [
   {
-    "employer_name": "SYNOPSYS",
-    "job_title": "Formal Verification Application Engineer",
-    "job_city": "United States Off-site",
-    "job_state": "United States Off-site",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Formal Verification Application Engineer at United States Off-site",
-    "job_apply_link": "https://careers.synopsys.com/job/sunnyvale/formal-verification-application-engineer/44408/85253384736",
-    "id": "synopsys-formal-verification-application-engineer-united-states-off-site"
+    "employer_name": "ABB",
+    "job_title": "Front End Developer",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Front End Developer at Available in one of 2 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00001806/Front-End-Developer",
+    "id": "abb-front-end-developer-multiple"
   },
   {
-    "employer_name": "SYNOPSYS",
-    "job_title": "Software Engineer, Staff -11967",
-    "job_city": "Hillsboro",
-    "job_state": "Oregon",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Software Engineer, Staff -11967 at Hillsboro, Oregon",
-    "job_apply_link": "https://careers.synopsys.com/job/hillsboro/software-engineer-staff-11967/44408/84432060224",
-    "id": "synopsys-software-engineer-staff-11967-hillsboro"
+    "employer_name": "AiJobs",
+    "job_title": "Business Systems Analyst, SAP Manufacturing Supply Chain",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Business Systems Analyst, SAP Manufacturing Supply Chain at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/156867213-senior-business-systems-analyst-sap-manufacturing-supply-chain",
+    "id": "aijobs-business-systems-analyst-sap-manufacturing-supply-chain-santa-clara"
   },
   {
-    "employer_name": "Booz Allen",
-    "job_title": "Technical Product Manager",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior Technical Product Manager at McLean, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Senior-Technical-Product-Manager_R0224811?q=Data+Science",
-    "id": "booz-allen-technical-product-manager-mclean"
+    "employer_name": "AiJobs",
+    "job_title": "Staff Site Reliability Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Principal Staff Site Reliability Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/156867212-principal-staff-site-reliability-engineer",
+    "id": "aijobs-staff-site-reliability-engineer-santa-clara"
   },
   {
-    "employer_name": "Verizon",
-    "job_title": "TECHINT Fusion Analyst",
-    "job_city": "Charlottesville",
-    "job_state": "VA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role TECHINT Fusion Analyst at Charlottesville, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charlottesville-VA/TECHINT-Fusion-Analyst_R0224384?q=Data+Science",
-    "id": "verizon-techint-fusion-analyst-charlottesville"
+    "employer_name": "AiJobs",
+    "job_title": "Technical Recruiter",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "33min ago",
+    "job_description": "data science job for the role Senior Technical Recruiter at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/156868834-senior-technical-recruiter",
+    "id": "aijobs-technical-recruiter-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Product Manager, Safety Systems",
+    "job_city": "United States",
+    "job_state": "California",
+    "job_posted_at": "34min ago",
+    "job_description": "data science job for the role Product Manager, Safety Systems at San Francisco, California, United States",
+    "job_apply_link": "https://www.aijobs.com/jobs/156868830-product-manager-safety-systems",
+    "id": "aijobs-product-manager-safety-systems-united-states"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Engineer, Agentic System Architecture",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Principal Engineer, Agentic System Architecture at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/156867199-principal-engineer-agentic-system-architecture",
+    "id": "aijobs-engineer-agentic-system-architecture-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI System Engineer – New College Grad",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role AI System Engineer – New College Grad 2025 at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/156867208-ai-system-engineer-new-college-grad-2025",
+    "id": "aijobs-ai-system-engineer-new-college-grad-santa-clara"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Software Development Engineer - Debug Tools",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Development Engineer - Debug Tools at US,TX,Austin\n7171 Southwest Parkway\nAustin, Texas\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/65797/login",
+    "id": "amd-software-development-engineer-debug-tools-us"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Director of Product Management, Data Cloud",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Director of Product Management, Data Cloud in Product. Available in 2 location(s): California - San Francisco, Washington - Bellevue",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr299166/director-of-product-management-data-cloud/",
+    "id": "salesforce-director-of-product-management-data-cloud-california-san-francisco"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Customer Success Manager, Data Cloud (Multiple Levels)",
+    "job_city": "Indiana - Indianapolis",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Customer Success Manager, Data Cloud (Multiple Levels) in Customer Success. Available in 5 location(s): Indiana - Indianapolis, Washington - Seattle, Illinois - Chicago, Georgia - Atlanta, Washington - Bellevue",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308584/senior-customer-success-manager-data-cloud-multiple-levels/",
+    "id": "salesforce-customer-success-manager-data-cloud-multiple-levels-indiana-indianapolis"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Director, Global Media Strategy",
+    "job_city": "Washington - Seattle",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Director, Global Media Strategy in Marketing & Communications. Available in 3 location(s): Washington - Seattle, Illinois - Chicago, Indiana - Indianapolis",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308269/director-global-media-strategy/",
+    "id": "salesforce-director-global-media-strategy-washington-seattle"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Director, Customer Success Management",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Director, Customer Success Management in Customer Success. Available in 1 location(s): California - San Francisco",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr306247/director-customer-success-management/",
+    "id": "salesforce-director-customer-success-management-california-san-francisco"
   }
 ]
