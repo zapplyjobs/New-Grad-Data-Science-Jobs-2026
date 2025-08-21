@@ -1,82 +1,113 @@
 [
   {
-    "employer_name": "Arm",
-    "job_title": "Technical Program Manager",
-    "job_city": "San Jose",
+    "job_title": "Fashion & Fitness Data Science, Engineering Analytics Research and Science (EARS)",
+    "employer_name": "Amazon",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Data Science job for the role Fashion & Fitness Data Science, Engineering Analytics Research and Science (EARS) at New York, NY, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3063923/fashion-fitness-data-science-engineering-analytics-research-and-science-ears",
+    "job_posted_at": "2025-08-21T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-08-21T00:00:00.000Z",
+    "id": "amazon-fashion-fitness-data-science-engineering-analytics-research-and-science-ears-new-york"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Software Engineer - Process automation & reporting",
+    "job_city": "Senatobia",
+    "job_state": "Mississippi",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Software Engineer - Process automation & reporting at Senatobia, Mississippi, United States of America",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00006952/Software-Engineer-Process-automation-reporting",
+    "id": "abb-software-engineer-process-automation-reporting-senatobia"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Project Manager - Building Automation - Critical Environments",
+    "job_city": "Raleigh",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Project Manager - Building Automation - Critical Environments at Raleigh, North Carolina, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-project-manager-building-automation-critical-environments-raleigh"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Sr. Data Scientist, Experimentation",
+    "job_city": "Culver City",
+    "job_state": "US",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Sr. Data Scientist, Experimentation at Culver City",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200617039-0670/sr-data-scientist-experimentation?team=SFTWR",
+    "id": "apple-sr-data-scientist-experimentation-culver-city"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Sr. Data Scientist, Experimentation",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "2 days ago",
+    "job_description": "Data Science job for the role Sr. Data Scientist, Experimentation at San Diego",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200617039-3543/sr-data-scientist-experimentation?team=SFTWR",
+    "id": "apple-sr-data-scientist-experimentation-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Sr. Data Scientist, Experimentation",
+    "job_city": "Cupertino",
     "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Principal Technical Program Manager at San Jose, California",
-    "job_apply_link": "https://careers.arm.com/job/san-jose/principal-technical-program-manager/33099/85279595376",
-    "id": "arm-technical-program-manager-san-jose"
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Sr. Data Scientist, Experimentation at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200617039-0836/sr-data-scientist-experimentation?team=SFTWR",
+    "id": "apple-sr-data-scientist-experimentation-cupertino"
   },
   {
-    "employer_name": "AMD",
-    "job_title": "Sr. Engineer - HPC and AI",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sr. Engineer - HPC and AI at US,TX,Austin\n7171 Southwest Parkway\nAustin, Texas\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/69547/login",
-    "id": "amd-sr-engineer-hpc-and-ai-us"
-  },
-  {
-    "employer_name": "Hewlett Packard Enterprise",
-    "job_title": "Compute PLM Program Manager",
-    "job_city": "Spring",
-    "job_state": "Texas",
+    "employer_name": "Guide house",
+    "job_title": "Data Engineer",
+    "job_city": "US - AL",
+    "job_state": "Huntsville",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Compute PLM Program Manager at Spring, Texas, United States of America",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Spring-Texas-United-States-of-America/Compute-PLM-Program-Manager_1190659-1?q=Data+Science",
-    "id": "hewlett-packard-enterprise-compute-plm-program-manager-spring"
+    "job_description": "Data Science job for the role Data Engineer at US - AL, Huntsville",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---AL-Huntsville/Data-Engineer_31694?q=Data+Science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "guide-house-data-engineer-us-al"
   },
   {
     "employer_name": "Salesforce",
-    "job_title": "Field Marketing Senior Lead",
-    "job_city": "Illinois - Chicago",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Field Marketing Senior Lead in Marketing & Communications. Available in 1 location(s): Illinois - Chicago",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308390/field-marketing-senior-lead/",
-    "id": "salesforce-field-marketing-senior-lead-illinois-chicago"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Customer Success Manager - Marketing Cloud",
-    "job_city": "Brazil - Sao Paulo",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Customer Success Manager - Marketing Cloud in Customer Success. Available in 1 location(s): Brazil - Sao Paulo",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr306257/customer-success-manager-marketing-cloud/",
-    "id": "salesforce-customer-success-manager-marketing-cloud-brazil-sao-paulo"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "GTM Product Marketing Manager/Senior Manager",
-    "job_city": "Indiana - Indianapolis",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role GTM Product Marketing Manager/Senior Manager in Marketing & Communications. Available in 1 location(s): Indiana - Indianapolis",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr306271/gtm-product-marketing-managersenior-manager/",
-    "id": "salesforce-gtm-product-marketing-manager-senior-manager-indiana-indianapolis"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineering Architect - Marketing Cloud",
+    "job_title": "Responsible AI Data Scientist - AI Red Teamer",
     "job_city": "California - San Francisco",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineering Architect - Marketing Cloud in Software Engineering. Available in 4 location(s): California - San Francisco, Georgia - Atlanta, Washington - Bellevue, Indiana - Indianapolis",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr296439/software-engineering-architect-marketing-cloud/",
-    "id": "salesforce-software-engineering-architect-marketing-cloud-california-san-francisco"
+    "job_description": "Data Science job for the role Responsible AI Data Scientist - AI Red Teamer in Data. Available in 4 location(s): California - San Francisco, Washington - Seattle, California - Palo Alto, Washington - Bellevue",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr291587/responsible-ai-data-scientist-ai-red-teamer/",
+    "id": "salesforce-responsible-ai-data-scientist-ai-red-teamer-california-san-francisco"
   },
   {
-    "employer_name": "ADOBE",
-    "job_title": "Senior Product Manager, Analytics",
-    "job_city": "Remote",
-    "job_state": "Remote",
-    "job_posted_at": "Today",
-    "job_description": "Data Science job for the role Senior Product Manager, Analytics at ",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R158038/Senior-Product-Manager-Analytics",
-    "id": "adobe-senior-product-manager-analytics-remote"
+    "employer_name": "Salesforce",
+    "job_title": "Director, Sales Programs",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Director, Sales Programs in Program & Project Management. Available in 4 location(s): California - San Francisco, Illinois - Chicago, Georgia - Atlanta, New York - New York",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308453/director-sales-programs/",
+    "id": "salesforce-director-sales-programs-california-san-francisco"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Named Account Executive (Higher Education)",
+    "job_city": "Illinois - Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Named Account Executive (Higher Education) in Sales. Available in 3 location(s): Illinois - Chicago, Indiana - Remote, Illinois - Remote",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308039/named-account-executive-higher-education/",
+    "id": "salesforce-named-account-executive-higher-education-illinois-chicago"
+  },
+  {
+    "employer_name": "workday",
+    "job_title": "CDP Software Engineer",
+    "job_city": "USA",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role CDP Software Engineer at USA, CA, Pleasanton",
+    "job_apply_link": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/CDP-Software-Engineer_JR-0099865?q=Data+Science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "workday-cdp-software-engineer-usa"
   }
 ]
