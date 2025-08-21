@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Decision Scientist- Retail Media",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "23h ago",
+    "job_description": "data science job for the role Decision Scientist- Retail Media at Pleasanton, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/156963139-decision-scientist-retail-media",
+    "id": "aijobs-decision-scientist-retail-media-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist - Supply Chain Optimization",
+    "job_city": "Unknown",
+    "job_state": "US",
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role Data Scientist - Supply Chain Optimization at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/156963141-data-scientist-supply-chain-optimization",
+    "id": "aijobs-data-scientist-supply-chain-optimization-unknown"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist (ID:46984)",
+    "job_city": "US",
+    "job_state": "MN",
+    "job_posted_at": "41min ago",
+    "job_description": "data science job for the role Senior Data Scientist (ID:46984) at Eden Prairie, MN, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/156963147-senior-data-scientist-id-46984",
+    "id": "aijobs-data-scientist-id-46984-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist III, Product",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "2d ago",
+    "job_description": "data science job for the role Data Scientist III, Product at Sunnyvale, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/156963136-data-scientist-iii-product",
+    "id": "aijobs-data-scientist-iii-product-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "2025 Fall Intern - Data Scientist",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "10h ago",
+    "job_description": "data science job for the role 2025 Fall Intern - Data Scientist at San Jose, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/156963146-2025-fall-intern-data-scientist",
+    "id": "aijobs-2025-fall-intern-data-scientist-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist 4 - R10204883",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "3h ago",
+    "job_description": "data science job for the role Data Scientist 4 - R10204883 at Los Angeles, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/156963143-data-scientist-4-r10204883",
+    "id": "aijobs-data-scientist-4-r10204883-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist (New York)",
+    "job_city": "US",
+    "job_state": "United States",
+    "job_posted_at": "7min ago",
+    "job_description": "data science job for the role Data Scientist (New York) at New York, United States, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/156963144-data-scientist-new-york",
+    "id": "aijobs-data-scientist-new-york-us"
+  }
+]
