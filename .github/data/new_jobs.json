@@ -1,122 +1,92 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Data Science Manager",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "Recently",
-    "job_description": "0 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Data Science Manager, Cloud Learning Services",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/141087646657979078-data-science-manager-cloud-learning-services?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-data-science-manager-seattle"
-  },
-  {
     "employer_name": "IBM",
-    "job_title": "Sr. Salesforce Test Automation Engineer",
+    "job_title": "Engineer",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sr. Salesforce Test Automation Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53897&source=WEB_Search_NA",
-    "id": "ibm-sr-salesforce-test-automation-engineer-multiple-cities"
+    "job_description": "Data Science job for the role Engineer II at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53242&source=WEB_Search_NA",
+    "id": "ibm-engineer-multiple-cities"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Security Consultant",
-    "job_city": "Rocket Center",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Security Consultant at Entry LevelRocket Center, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54821&source=WEB_Search_NA",
-    "id": "ibm-security-consultant-rocket-center"
+    "employer_name": "ABB",
+    "job_title": "Industry Solutions Architect – Life Sciences Automation",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Industry Solutions Architect – Life Sciences Automation at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00007665/Industry-Solutions-Architect-Life-Sciences-Automation",
+    "id": "abb-industry-solutions-architect-life-sciences-automation-multiple"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Technology Sales Leader - Northeast - Estee Lauder",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Technology Sales Leader - Northeast - Estee Lauder at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53625&source=WEB_Search_NA",
-    "id": "ibm-technology-sales-leader-northeast-estee-lauder-multiple-cities"
+    "employer_name": "ILLUMINA",
+    "job_title": "Product Manager",
+    "job_city": "US - California - San Diego",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Staff Product Manager at US - California - San Diego",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Staff-Product-Manager_41197-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-product-manager-us-california-san-diego"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Growth Marketing Manager",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Growth Marketing Manager II at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53099&source=WEB_Search_NA",
-    "id": "ibm-growth-marketing-manager-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Social Media Specialist",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Social Media Specialist at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54150&source=WEB_Search_NA",
-    "id": "ibm-social-media-specialist-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Staff Engineer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Staff Engineer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53267&source=WEB_Search_NA",
-    "id": "ibm-staff-engineer-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Software Engineering Manager",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineering Manager at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53152&source=WEB_Search_NA",
-    "id": "ibm-software-engineering-manager-multiple-cities"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Simulation",
+    "employer_name": "AMD",
+    "job_title": "Software Development Engineer (GPU Compiler)",
     "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "18min ago",
-    "job_description": "data science job for the role Software Engineer, Simulation at Palo Alto, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/157275794-software-engineer-simulation",
-    "id": "aijobs-software-engineer-simulation-us"
-  },
-  {
-    "employer_name": "JP Morgan Chase",
-    "job_title": "Java Fullstack Software Engineer III - JAVA, React, AWS",
-    "job_city": "Austin",
-    "job_state": "TX",
+    "job_state": "MA",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Java Fullstack Software Engineer III - JAVA, React, AWS at Austin, TX, United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210659542/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jp-morgan-chase-java-fullstack-software-engineer-iii-java-react-aws-austin"
+    "job_description": "Data Science job for the role Software Development Engineer (GPU Compiler) at US,MA,Boxborough\n90 Central Street\nBoxborough, Massachusetts\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/69120/login",
+    "id": "amd-software-development-engineer-gpu-compiler-us"
   },
   {
     "employer_name": "Booz Allen",
-    "job_title": "AI Architect, Lead",
-    "job_city": "Eglin AFB",
-    "job_state": "FL",
+    "job_title": "Strategic Counterintelligence Counsel",
+    "job_city": "Springfield",
+    "job_state": "VA",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role AI Architect, Lead at Eglin AFB, FL",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Eglin-AFB-FL/AI-Architect_R0224231?q=Data+Science",
-    "id": "booz-allen-ai-architect-lead-eglin-afb"
+    "job_description": "Data Science job for the role Strategic Counterintelligence Counsel at Springfield, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Strategic-Counterintelligence-Counsel_R0224957?q=Data+Science",
+    "id": "booz-allen-strategic-counterintelligence-counsel-springfield"
+  },
+  {
+    "employer_name": "GDIT",
+    "job_title": "Sr Program Manager",
+    "job_city": "USA VA Alexandria",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Sr Program Manager at USA VA Alexandria",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Alexandria/Sr-Program-Manager_RQ205010-2?q=Data+Science",
+    "id": "gdit-sr-program-manager-usa-va-alexandria"
+  },
+  {
+    "employer_name": "GDIT",
+    "job_title": "Deputy Program Manager",
+    "job_city": "USA VA Alexandria",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Deputy Program Manager at USA VA Alexandria",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Alexandria/Deputy-Program-Manager_RQ205211-2?q=Data+Science",
+    "id": "gdit-deputy-program-manager-usa-va-alexandria"
   },
   {
     "employer_name": "Verizon",
-    "job_title": "AI Architect, Lead",
-    "job_city": "Eglin AFB",
-    "job_state": "FL",
+    "job_title": "Strategic Counterintelligence Counsel",
+    "job_city": "Springfield",
+    "job_state": "VA",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role AI Architect, Lead at Eglin AFB, FL",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Eglin-AFB-FL/AI-Architect_R0224231?q=Data+Science",
-    "id": "verizon-ai-architect-lead-eglin-afb"
+    "job_description": "Data Science job for the role Strategic Counterintelligence Counsel at Springfield, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Strategic-Counterintelligence-Counsel_R0224957?q=Data+Science",
+    "id": "verizon-strategic-counterintelligence-counsel-springfield"
+  },
+  {
+    "employer_name": "Verizon",
+    "job_title": "Software Integrator, Senior",
+    "job_city": "Belcamp",
+    "job_state": "MD",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Software Integrator, Senior at Belcamp, MD",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Belcamp-MD/Software-Integrator--Senior_R0224959?q=Data+Science",
+    "id": "verizon-software-integrator-senior-belcamp"
   }
 ]
