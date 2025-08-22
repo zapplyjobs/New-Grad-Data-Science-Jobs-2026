@@ -1,72 +1,52 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Full Stack Developer-Network Services",
-    "job_city": "Austin",
+    "employer_name": "AiJobs",
+    "job_title": "New Grads 2025 - Software Engineer - Computer Vision/Deep Learning",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role New Grads 2025 - Software Engineer - Computer Vision/Deep Learning at San Jose, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/157112959-new-grads-2025-software-engineer-computer-vision-deep-learning",
+    "id": "aijobs-new-grads-2025-software-engineer-computer-vision-deep-learning-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning / Research Engineer (New Grad)",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "4h ago",
+    "job_description": "data science job for the role Machine Learning / Research Engineer (New Grad) at San Francisco, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/157112976-machine-learning-research-engineer-new-grad",
+    "id": "aijobs-machine-learning-research-engineer-new-grad-us"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Enterprise Account Executive - Consumer Business Services",
+    "job_city": "Illinois - Chicago",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Full Stack Developer-Network Services at ProfessionalAustin, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53348&source=WEB_Search_NA",
-    "id": "ibm-full-stack-developer-network-services-austin"
+    "job_description": "Data Science job for the role Enterprise Account Executive - Consumer Business Services in Sales. Available in 14 location(s): Illinois - Chicago, California - San Francisco Metro - Remote, Texas - Austin, Georgia - Atlanta Metro - Remote, Georgia - Atlanta, New York - New York City Metro - Remote, Nevada - Remote, Texas - Austin Metro - Remote, Texas - Dallas, Texas - Dallas Metro - Remote, California - San Francisco, Illinois - Chicago Metro - Remote, Illinois - Remote, New Jersey - New York City Metro - Remote",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr293194/enterprise-account-executive-consumer-business-services/",
+    "id": "salesforce-enterprise-account-executive-consumer-business-services-illinois-chicago"
   },
   {
-    "employer_name": "JP Morgan Chase",
-    "job_title": "Associate Quant Analytics - Business Intelligence",
-    "job_city": "New York",
-    "job_state": "NY",
+    "employer_name": "Salesforce",
+    "job_title": "Commercial Account Executive - Consumer Business Services",
+    "job_city": "Illinois - Chicago",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Associate Quant Analytics - Business Intelligence at New York, NY, United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210654310/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jp-morgan-chase-associate-quant-analytics-business-intelligence-new-york"
+    "job_description": "Data Science job for the role Commercial Account Executive - Consumer Business Services in Sales. Available in 14 location(s): Illinois - Chicago, Texas - Remote, California - San Francisco Metro - Remote, Texas - Austin, Georgia - Atlanta Metro - Remote, Georgia - Atlanta, New York - New York City Metro - Remote, Texas - Austin Metro - Remote, Texas - Dallas, Texas - Dallas Metro - Remote, California - San Francisco, Illinois - Chicago Metro - Remote, Illinois - Remote, New Jersey - New York City Metro - Remote",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr293216/commercial-account-executive-consumer-business-services/",
+    "id": "salesforce-commercial-account-executive-consumer-business-services-illinois-chicago"
   },
   {
-    "employer_name": "NVIDIA",
-    "job_title": "Technical Program Manager, AI Software and Model Development",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior Technical Program Manager, AI Software and Model Development at US, CA, Santa Clara",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager--AI-Software-and-Model-Development_JR2001001?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-technical-program-manager-ai-software-and-model-development-us"
-  },
-  {
-    "employer_name": "NVIDIA",
-    "job_title": "Networking Lead - NVIS New Product Introduction",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Networking Lead - NVIS New Product Introduction at US, CA, Santa Clara",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Networking-Lead---NVIS-New-Product-Introduction_JR2002433?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-networking-lead-nvis-new-product-introduction-us"
-  },
-  {
-    "employer_name": "Booz Allen",
-    "job_title": "AI and ML Engineer, Lead",
-    "job_city": "Fort Meade",
-    "job_state": "MD",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role AI and ML Engineer, Lead at Fort Meade, MD",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/AI-and-ML-Engineer--Lead_R0224878?q=Data+Science",
-    "id": "booz-allen-ai-and-ml-engineer-lead-fort-meade"
-  },
-  {
-    "employer_name": "Booz Allen",
-    "job_title": "Governance and Working Group Coordinator",
-    "job_city": "Alexandria",
-    "job_state": "VA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Governance and Working Group Coordinator at Alexandria, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Governance-and-Working-Group-Coordinator_R0224875?q=Data+Science",
-    "id": "booz-allen-governance-and-working-group-coordinator-alexandria"
-  },
-  {
-    "employer_name": "ADOBE",
-    "job_title": "Sr. Data Scientist",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "2 months ago",
-    "job_description": "Data Science job for the role Sr. Data Scientist at San Francisco, California, United States of America",
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R156514/Sr-Data-Scientist",
-    "id": "adobe-sr-data-scientist-san-francisco"
+    "employer_name": "Salesforce",
+    "job_title": "Commercial Account Executive - Retail & Consumer Goods",
+    "job_city": "Illinois - Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Commercial Account Executive - Retail & Consumer Goods in Sales. Available in 16 location(s): Illinois - Chicago, Texas - Remote, Massachusetts - Boston Metro - Remote, California - San Francisco Metro - Remote, Texas - Austin, Massachusetts - Boston, Georgia - Atlanta Metro - Remote, Georgia - Atlanta, New York - New York City Metro - Remote, Texas - Austin Metro - Remote, Texas - Dallas, Texas - Dallas Metro - Remote, California - San Francisco, Illinois - Chicago Metro - Remote, Illinois - Remote, New Jersey - New York City Metro - Remote",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr293224/commercial-account-executive-retail-consumer-goods/",
+    "id": "salesforce-commercial-account-executive-retail-consumer-goods-illinois-chicago"
   }
 ]
