@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Senior Data Scientist",
-    "job_city": "San Francisco",
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist / Data Engineer",
+    "job_city": "US",
+    "job_state": "FL",
+    "job_posted_at": "50min ago",
+    "job_description": "data science job for the role Senior Data Scientist / Data Engineer at Deerfield Beach, FL, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/157159239-senior-data-scientist-data-engineer",
+    "id": "aijobs-data-scientist-data-engineer-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, Product Analytics",
+    "job_city": "US",
     "job_state": "CA",
+    "job_posted_at": "22h ago",
+    "job_description": "data science job for the role Data Scientist, Product Analytics at Fremont, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/157159240-data-scientist-product-analytics",
+    "id": "aijobs-data-scientist-product-analytics-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Sr. Staff Software Development Engineer - Middleware Development",
+    "job_city": "US",
+    "job_state": "TX",
     "job_posted_at": "Recently",
-    "job_description": "9 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Data Scientist, Research, Operations Data Science",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/133015925640045254-senior-data-scientist-research-operations-data-science?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
-    "id": "google-senior-data-scientist-san-francisco"
+    "job_description": "Data Science job for the role Sr. Staff Software Development Engineer - Middleware Development at US,TX,Austin\n7171 Southwest Parkway\nAustin, Texas\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/62588/login",
+    "id": "amd-sr-staff-software-development-engineer-middleware-development-us"
   }
 ]
