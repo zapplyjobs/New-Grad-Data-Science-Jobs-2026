@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "JP Morgan Chase",
-    "job_title": "Product Manager",
-    "job_city": "Unknown",
-    "job_state": "US",
+    "employer_name": "Google",
+    "job_title": "Senior Data Scientist",
+    "job_city": "San Francisco",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Product Manager at ",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210658992/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jp-morgan-chase-product-manager-unknown"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "PMTS Engineer, Service Network, Networking Foundations - Slack",
-    "job_city": "California - San Francisco",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role PMTS Engineer, Service Network, Networking Foundations - Slack in Software Engineering. Available in 4 location(s): California - San Francisco, Washington - Seattle, California - Palo Alto, Washington - Bellevue",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr297544/pmts-engineer-service-network-networking-foundations-slack/",
-    "id": "salesforce-pmts-engineer-service-network-networking-foundations-slack-california-san-francisco"
+    "job_description": "9 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Data Scientist, Research, Operations Data Science",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/133015925640045254-senior-data-scientist-research-operations-data-science?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "id": "google-senior-data-scientist-san-francisco"
   }
 ]
