@@ -1,102 +1,122 @@
 [
   {
-    "employer_name": "ILLUMINA",
-    "job_title": "Associate Project Manager - Technical",
-    "job_city": "US - California - San Diego",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Associate Project Manager - Technical at US - California - San Diego",
-    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Associate-Project-Manager---Technical_40975-JOB?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "illumina-associate-project-manager-technical-us-california-san-diego"
+    "employer_name": "SIEMENS",
+    "job_title": "Product Management Professional",
+    "job_city": "Buffalo Grove",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Product Management Professional at Buffalo Grove, Illinois, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-product-management-professional-buffalo-grove"
   },
   {
-    "employer_name": "NVIDIA",
-    "job_title": "Research Scientist, Generative AI for Physical AI - PhD New College Grad",
-    "job_city": "US",
+    "employer_name": "AiJobs",
+    "job_title": "DGX Cloud AI Infrastructure Software Engineer",
+    "job_city": "Santa Clara",
     "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Research Scientist, Generative AI for Physical AI - PhD New College Grad 2025 at US, CA, Santa Clara",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2025_JR2002274?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-research-scientist-generative-ai-for-physical-ai-phd-new-college-grad-us"
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role Senior DGX Cloud AI Infrastructure Software Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157098859-senior-dgx-cloud-ai-infrastructure-software-engineer",
+    "id": "aijobs-dgx-cloud-ai-infrastructure-software-engineer-santa-clara"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Logistics Technician, Data Center",
-    "job_city": "Prineville",
+    "employer_name": "AiJobs",
+    "job_title": "DGX AI Cloud Performance Analysis Tools Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role Senior DGX AI Cloud Performance Analysis Tools Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157098858-senior-dgx-ai-cloud-performance-analysis-tools-engineer",
+    "id": "aijobs-dgx-ai-cloud-performance-analysis-tools-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Math Libraries Engineer, Post Quantum Cryptography",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Senior Math Libraries Engineer, Post Quantum Cryptography at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157098855-senior-math-libraries-engineer-post-quantum-cryptography",
+    "id": "aijobs-math-libraries-engineer-post-quantum-cryptography-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "AI and ML Infra Software Engineer, GPU Clusters",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role AI and ML Infra Software Engineer, GPU Clusters at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157098863-ai-and-ml-infra-software-engineer-gpu-clusters",
+    "id": "aijobs-ai-and-ml-infra-software-engineer-gpu-clusters-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Silicon Solutions Test Development Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role Silicon Solutions Test Development Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157098851-silicon-solutions-test-development-engineer",
+    "id": "aijobs-silicon-solutions-test-development-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Full-Stack Software Engineer",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role Senior Full-Stack Software Engineer at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157098862-senior-full-stack-software-engineer",
+    "id": "aijobs-full-stack-software-engineer-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Researcher — Safety Systems, Misalignment Research",
+    "job_city": "Unknown",
     "job_state": "US",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Logistics Technician, Data Center at Prineville",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200617373-2228/logistics-technician-data-center?team=SFTWR",
-    "id": "apple-logistics-technician-data-center-prineville"
+    "job_posted_at": "29min ago",
+    "job_description": "data science job for the role Senior Researcher — Safety Systems, Misalignment Research at ",
+    "job_apply_link": "https://www.aijobs.com/jobs/157102549-senior-researcher-safety-systems-misalignment-research",
+    "id": "aijobs-researcher-safety-systems-misalignment-research-unknown"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Siri AI Data & Privacy Quality Engineering",
-    "job_city": "Cupertino",
+    "employer_name": "WAYMO",
+    "job_title": "Senior Software Engineer, Behaviors Evaluation",
+    "job_city": "Mountain View",
     "job_state": "California",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Senior Software Engineer, Siri AI Data & Privacy Quality Engineering at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200616911-0836/senior-software-engineer-siri-ai-data-privacy-quality-engineering?team=MLAI",
-    "id": "apple-software-engineer-siri-ai-data-privacy-quality-engineering-cupertino"
-  },
-  {
-    "employer_name": "MAGNA",
-    "job_title": "Controls/Automation Engineer",
-    "job_city": "Troy",
-    "job_state": "Michigan",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Controls/Automation Engineer at Troy, Michigan, US",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Controls-Automation-Engineer_R00203332-1?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-controls-automation-engineer-troy"
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Software Engineer, Behaviors Evaluation at Mountain View, California",
+    "job_apply_link": "https://careers.withwaymo.com/jobs/senior-software-engineer-behaviors-evaluation-san-francisco-california-united-states-mountain-view",
+    "id": "waymo-senior-software-engineer-behaviors-evaluation-mountain-view"
   },
   {
     "employer_name": "Salesforce",
-    "job_title": "Sales Development Representative",
-    "job_city": "Brazil - Sao Paulo",
+    "job_title": "Software Engineering Architect, AppExchange",
+    "job_city": "California - San Francisco",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sales Development Representative in Sales. Available in 1 location(s): Brazil - Sao Paulo",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr299492/sales-development-representative/",
-    "id": "salesforce-sales-development-representative-brazil-sao-paulo"
+    "job_description": "Data Science job for the role Software Engineering Architect, AppExchange in Software Engineering. Available in 2 location(s): California - San Francisco, Washington - Bellevue",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr306234/software-engineering-architect-appexchange/",
+    "id": "salesforce-software-engineering-architect-appexchange-california-san-francisco"
   },
   {
     "employer_name": "Salesforce",
-    "job_title": "Manager, Sales - MidWest",
-    "job_city": "Illinois - Chicago",
+    "job_title": "Mid/Senior/Lead Backend Software Engineer,",
+    "job_city": "California - San Francisco",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Manager, Sales - MidWest in Sales. Available in 1 location(s): Illinois - Chicago",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr212094/manager-sales-midwest/",
-    "id": "salesforce-manager-sales-midwest-illinois-chicago"
+    "job_description": "Data Science job for the role Mid/Senior/Lead Backend Software Engineer, in Software Engineering. Available in 1 location(s): California - San Francisco",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr303819/midseniorlead-backend-software-engineer/",
+    "id": "salesforce-mid-senior-lead-backend-software-engineer-california-san-francisco"
   },
   {
     "employer_name": "Salesforce",
-    "job_title": "Sales Development Representative",
-    "job_city": "Mexico - Mexico City",
+    "job_title": "Security GRC Manager",
+    "job_city": "Washington - Bellevue",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sales Development Representative in Sales. Available in 1 location(s): Mexico - Mexico City",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr296138/sales-development-representative/",
-    "id": "salesforce-sales-development-representative-mexico-mexico-city"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "RVP, Sales",
-    "job_city": "Brazil - Sao Paulo",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role RVP, Sales in Sales. Available in 1 location(s): Brazil - Sao Paulo",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr307179/rvp-sales/",
-    "id": "salesforce-rvp-sales-brazil-sao-paulo"
-  },
-  {
-    "employer_name": "Verizon",
-    "job_title": "AI and ML Engineer, Lead",
-    "job_city": "Fort Meade",
-    "job_state": "MD",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role AI and ML Engineer, Lead at Fort Meade, MD",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/AI-and-ML-Engineer--Lead_R0224878?q=Data+Science",
-    "id": "verizon-ai-and-ml-engineer-lead-fort-meade"
+    "job_description": "Data Science job for the role Security GRC Manager in Enterprise Technology & Infrastructure. Available in 2 location(s): Washington - Bellevue, California - San Francisco",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr303462/security-grc-manager/",
+    "id": "salesforce-security-grc-manager-washington-bellevue"
   }
 ]
