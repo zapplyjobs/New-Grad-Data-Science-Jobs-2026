@@ -1,22 +1,12 @@
 [
   {
     "employer_name": "AiJobs",
-    "job_title": "Data Scientist, ML - Recommendations",
+    "job_title": "Data Scientist, Data & Insights - Responsible AI",
     "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "22h ago",
-    "job_description": "data science job for the role Senior Data Scientist, ML - Recommendations at Palo Alto, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/150961156-senior-data-scientist-ml-recommendations",
-    "id": "aijobs-data-scientist-ml-recommendations-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "ML Engineer",
-    "job_city": "US",
-    "job_state": "NY",
-    "job_posted_at": "12h ago",
-    "job_description": "data science job for the role ML Engineer at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/157379849-ml-engineer",
-    "id": "aijobs-ml-engineer-us"
+    "job_state": "TX",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Data Scientist, Data & Insights - Responsible AI at Houston, TX, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/157379850-data-scientist-data-insights-responsible-ai",
+    "id": "aijobs-data-scientist-data-insights-responsible-ai-us"
   }
 ]
