@@ -1,82 +1,202 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Entry Level Firmware Developer",
+    "job_title": "Associate Data Scientist",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Entry Level Firmware Developer at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54837&source=WEB_Search_NA",
-    "id": "ibm-entry-level-firmware-developer-multiple-cities"
+    "job_description": "Data Science job for the role Associate Data Scientist 2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54777&source=WEB_Search_NA",
+    "id": "ibm-associate-data-scientist-multiple-cities"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Entry Level Back End Developer",
+    "job_title": "Entry Level Hardware Developer",
     "job_city": "Multiple Cities",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Entry Level Back End Developer at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54840&source=WEB_Search_NA",
-    "id": "ibm-entry-level-back-end-developer-multiple-cities"
+    "job_description": "Data Science job for the role Entry Level Hardware Developer at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54841&source=WEB_Search_NA",
+    "id": "ibm-entry-level-hardware-developer-multiple-cities"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Federal Associate Package Specialist (Rocket Center, WV)",
+    "job_title": "Software Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Staff Software Engineer at ProfessionalMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54542&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Software Developer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Entry Level Software Developer at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54839&source=WEB_Search_NA",
+    "id": "ibm-entry-level-software-developer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Developer Intern:",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Developer Intern: 2025 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54845&source=WEB_Search_NA",
+    "id": "ibm-software-developer-intern-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Federal Associate Technical Specialist",
+    "job_city": "WASHINGTON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Federal Associate Technical Specialist at Entry LevelWASHINGTON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54850&source=WEB_Search_NA",
+    "id": "ibm-federal-associate-technical-specialist-washington"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Federal Associate Security Consultant",
+    "job_city": "WASHINGTON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Federal Associate Security Consultant at Entry LevelWASHINGTON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54851&source=WEB_Search_NA",
+    "id": "ibm-federal-associate-security-consultant-washington"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Package Consultant",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Associate Package Consultant 2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54504&source=WEB_Search_NA",
+    "id": "ibm-associate-package-consultant-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Developer",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Associate Developer 2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54830&source=WEB_Search_NA",
+    "id": "ibm-associate-developer-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Federal Associate Developer",
+    "job_city": "WASHINGTON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Federal Associate Developer at Entry LevelWASHINGTON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54779&source=WEB_Search_NA",
+    "id": "ibm-federal-associate-developer-washington"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Federal Associate Consultant",
+    "job_city": "WASHINGTON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Federal Associate Consultant at Entry LevelWASHINGTON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54763&source=WEB_Search_NA",
+    "id": "ibm-federal-associate-consultant-washington"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Federal Associate Package Consultant",
+    "job_city": "WASHINGTON",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Federal Associate Package Consultant at Entry LevelWASHINGTON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54781&source=WEB_Search_NA",
+    "id": "ibm-federal-associate-package-consultant-washington"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Security Consultant",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Associate Security Consultant 2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54844&source=WEB_Search_NA",
+    "id": "ibm-associate-security-consultant-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Federal Associate Developer (Rocket Center, WV)",
     "job_city": "Rocket Center",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Federal Associate Package Specialist (Rocket Center, WV) at Entry LevelRocket Center, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54853&source=WEB_Search_NA",
-    "id": "ibm-federal-associate-package-specialist-rocket-center-wv-rocket-center"
+    "job_description": "Data Science job for the role Federal Associate Developer (Rocket Center, WV) at Entry LevelRocket Center, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54769&source=WEB_Search_NA",
+    "id": "ibm-federal-associate-developer-rocket-center-wv-rocket-center"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Associate Designer",
-    "job_city": "Multiple Cities",
+    "job_title": "Federal Associate Consultant - Project Manager",
+    "job_city": "WASHINGTON",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Associate Designer 2026 at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54846&source=WEB_Search_NA",
-    "id": "ibm-associate-designer-multiple-cities"
+    "job_description": "Data Science job for the role Federal Associate Consultant - Project Manager at Entry LevelWASHINGTON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54531&source=WEB_Search_NA",
+    "id": "ibm-federal-associate-consultant-project-manager-washington"
   },
   {
     "employer_name": "IBM",
-    "job_title": "Associate Consultant",
-    "job_city": "Multiple Cities",
+    "job_title": "Federal Associate Consultant (Rocket Center, WV)",
+    "job_city": "Rocket Center",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Associate Consultant 2026 at Entry LevelMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54762&source=WEB_Search_NA",
-    "id": "ibm-associate-consultant-multiple-cities"
+    "job_description": "Data Science job for the role Federal Associate Consultant (Rocket Center, WV) at Entry LevelRocket Center, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54761&source=WEB_Search_NA",
+    "id": "ibm-federal-associate-consultant-rocket-center-wv-rocket-center"
   },
   {
-    "employer_name": "CISCO",
-    "job_title": "AI Researcher",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role AI Researcher at San Francisco, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/AI-Researcher/1444681",
-    "id": "cisco-ai-researcher-san-francisco"
-  },
-  {
-    "employer_name": "Booz Allen",
-    "job_title": "Software Integrator, Senior",
-    "job_city": "Belcamp",
-    "job_state": "MD",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Software Integrator, Senior at Belcamp, MD",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Belcamp-MD/Software-Integrator--Senior_R0224959?q=Data+Science",
-    "id": "booz-allen-software-integrator-senior-belcamp"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Director, Vendor Management",
-    "job_city": "Illinois - Chicago",
+    "employer_name": "IBM",
+    "job_title": "Federal Associate Designer",
+    "job_city": "WASHINGTON",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Director, Vendor Management in Real Estate & Facility Management. Available in 3 location(s): Illinois - Chicago, Georgia - Atlanta, Indiana - Indianapolis",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr297345/director-vendor-management/",
-    "id": "salesforce-director-vendor-management-illinois-chicago"
+    "job_description": "Data Science job for the role Federal Associate Designer at Entry LevelWASHINGTON, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54849&source=WEB_Search_NA",
+    "id": "ibm-federal-associate-designer-washington"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Research Scientist",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "1d ago",
+    "job_description": "data science job for the role Research Scientist I at Fort Worth, TX, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/157323360-research-scientist-i",
+    "id": "aijobs-research-scientist-us"
+  },
+  {
+    "employer_name": "ADOBE",
+    "job_title": "Lead GenAI Systems & Data Architect",
+    "job_city": "Remote",
+    "job_state": "Remote",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Lead GenAI Systems & Data Architect at ",
+    "job_apply_link": "https://careers.adobe.com/us/en/job/R158495/Lead-GenAI-Systems-Data-Architect",
+    "id": "adobe-lead-genai-systems-data-architect-remote"
+  },
+  {
+    "employer_name": "ADOBE",
+    "job_title": "Sr GenAI Research Engineer & Architect",
+    "job_city": "Remote",
+    "job_state": "Remote",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Sr GenAI Research Engineer & Architect at ",
+    "job_apply_link": "https://careers.adobe.com/us/en/job/R158487/Sr-GenAI-Research-Engineer-Architect",
+    "id": "adobe-sr-genai-research-engineer-architect-remote"
   }
 ]
