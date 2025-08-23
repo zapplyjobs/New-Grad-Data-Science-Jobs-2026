@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Business Development Representative, New Zealand",
+    "job_city": "New Zealand - Auckland",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Business Development Representative, New Zealand in Sales. Available in 1 location(s): New Zealand - Auckland",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr302067/business-development-representative-new-zealand/",
+    "id": "salesforce-business-development-representative-new-zealand-new-zealand-auckland"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Principal, Account SE",
+    "job_city": "Mexico - Mexico City",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Principal, Account SE in Sales. Available in 1 location(s): Mexico - Mexico City",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr305615/principal-account-se/",
+    "id": "salesforce-principal-account-se-mexico-mexico-city"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Territory Account Executive",
+    "job_city": "Argentina - Buenos Aires",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Territory Account Executive in Sales. Available in 1 location(s): Argentina - Buenos Aires",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308659/territory-account-executive/",
+    "id": "salesforce-territory-account-executive-argentina-buenos-aires"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Digital Account Executive Mid Market - Saudi Arabia",
+    "job_city": "United Arab Emirates - Dubai",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Digital Account Executive Mid Market - Saudi Arabia in Sales. Available in 1 location(s): United Arab Emirates - Dubai",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr295604/digital-account-executive-mid-market-saudi-arabia/",
+    "id": "salesforce-digital-account-executive-mid-market-saudi-arabia-united-arab-emirates-dubai"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Principal, Enterprise Architect",
+    "job_city": "Brazil - Sao Paulo",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Principal, Enterprise Architect in Sales. Available in 1 location(s): Brazil - Sao Paulo",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr305621/principal-enterprise-architect/",
+    "id": "salesforce-principal-enterprise-architect-brazil-sao-paulo"
+  }
+]
