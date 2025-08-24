@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "AMD",
-    "job_title": "Forward Deployed Software Engineer",
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist - Music",
     "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Principal Forward Deployed Software Engineer at US,TX,Austin\n7171 Southwest Parkway\nAustin, Texas\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/68096/login",
-    "id": "amd-forward-deployed-software-engineer-us"
+    "job_state": "NY",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role Data Scientist - Music at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/157543261-data-scientist-music",
+    "id": "aijobs-data-scientist-music-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist II, CNN Digital Products & Services",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "21h ago",
+    "job_description": "data science job for the role Data Scientist II, CNN Digital Products & Services at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/157543260-data-scientist-ii-cnn-digital-products-services",
+    "id": "aijobs-data-scientist-ii-cnn-digital-products-services-us"
   }
 ]
