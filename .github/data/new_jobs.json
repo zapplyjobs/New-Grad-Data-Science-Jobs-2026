@@ -1,22 +1,32 @@
 [
   {
     "employer_name": "AiJobs",
-    "job_title": "AI Engineer(remote)",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "38min ago",
-    "job_description": "data science job for the role Principal AI Engineer(remote) at Irving, TX, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/157472573-principal-ai-engineer-remote",
-    "id": "aijobs-ai-engineer-remote-us"
+    "job_title": "Software Manager - Data Center Performance",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role Senior Software Manager - Data Center Performance at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157490350-senior-software-manager-data-center-performance",
+    "id": "aijobs-software-manager-data-center-performance-santa-clara"
   },
   {
     "employer_name": "AiJobs",
-    "job_title": "Associate Machine Learning Engineer",
-    "job_city": "US",
-    "job_state": "NY",
-    "job_posted_at": "39min ago",
-    "job_description": "data science job for the role Associate Machine Learning Engineer at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/157472572-associate-machine-learning-engineer",
-    "id": "aijobs-associate-machine-learning-engineer-us"
+    "job_title": "Distinguished Software Engineer - NVLink Fusion Software",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role Distinguished Software Engineer - NVLink Fusion Software at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157490351-distinguished-software-engineer-nvlink-fusion-software",
+    "id": "aijobs-distinguished-software-engineer-nvlink-fusion-software-santa-clara"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Distinguished Engineer - Rack System Software",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1h ago",
+    "job_description": "data science job for the role Distinguished Engineer - Rack System Software at US, CA, Santa Clara",
+    "job_apply_link": "https://www.aijobs.com/jobs/157490345-distinguished-engineer-rack-system-software",
+    "id": "aijobs-distinguished-engineer-rack-system-software-santa-clara"
   }
 ]
