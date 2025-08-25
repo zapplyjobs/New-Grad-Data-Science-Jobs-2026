@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "employer_name": "TEXAS INSTRUMENTS",
+    "job_title": "Entry Level Process Technician (Lehi, UT)",
+    "job_city": "Lehi",
+    "job_state": "UT",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Entry Level Process Technician (Lehi, UT) at Lehi, UT, United States",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25006935/?keyword=Data+Science&location=United+States&locationId=300000000361862&locationLevel=country&mode=location",
+    "id": "texas-instruments-entry-level-process-technician-lehi-ut-lehi"
+  },
+  {
+    "employer_name": "JP Morgan Chase",
+    "job_title": "Software Engineering [Multiple Positions Available]",
+    "job_city": "Wilmington",
+    "job_state": "DE",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Engineering [Multiple Positions Available] at Wilmington, DE, United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210659437/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-software-engineering-multiple-positions-available-wilmington"
+  },
+  {
+    "employer_name": "JP Morgan Chase",
+    "job_title": "Software Engineering [Multiple Positions Available]",
+    "job_city": "Tampa",
+    "job_state": "FL",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Engineering [Multiple Positions Available] at Tampa, FL, United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210659370/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-software-engineering-multiple-positions-available-tampa"
+  },
+  {
+    "employer_name": "JP Morgan Chase",
+    "job_title": "Director of Software Engineering - Java, Finance background",
+    "job_city": "Jersey City",
+    "job_state": "NJ",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Director of Software Engineering - Java, Finance background at Jersey City, NJ, United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210657924/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-director-of-software-engineering-java-finance-background-jersey-city"
+  },
+  {
+    "employer_name": "JP Morgan Chase",
+    "job_title": "Software Engineer - AWS, Python, Terraform, and Machine Learning",
+    "job_city": "Jersey City",
+    "job_state": "NJ",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Lead Software Engineer - AWS, Python, Terraform, and Machine Learning at Jersey City, NJ, United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210638727/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-software-engineer-aws-python-terraform-and-machine-learning-jersey-city"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Systems and Solution Test Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Systems and Solution Test Engineer at US,CA,Santa Clara\n2485 Augustine Drive\nSanta Clara, California\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/68682/login",
+    "id": "amd-systems-and-solution-test-engineer-us"
+  }
+]
