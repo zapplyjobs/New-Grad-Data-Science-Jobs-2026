@@ -15,11 +15,12 @@ function generateJobTable(jobs) {
   console.log(`🔍 DEBUG: Starting generateJobTable with ${jobs.length} total jobs`);
   
   if (jobs.length === 0) {
-    return `| Company | Role | Location | Apply Now | Age |
-|---------|------|----------|-----------|-----|
-| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* |`;
+    return `| Company | Role | Location | Apply | Posted |
+            |---------|------|----------|-------|--------|
+| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* | *-* |`;
   }
 
+  // Create a map of lowercase company names to actual names for case-insensitive matching
   const companyNameMap = new Map();
   Object.entries(companyCategory).forEach(([categoryKey, category]) => {
     category.companies.forEach(company => {
@@ -36,9 +37,11 @@ function generateJobTable(jobs) {
     console.log(`  ${category.emoji} ${category.title}: ${category.companies.join(', ')}`);
   });
 
+  // Get unique companies from job data
   const uniqueJobCompanies = [...new Set(jobs.map(job => job.employer_name))];
   console.log(`\n📊 DEBUG: Unique companies found in job data (${uniqueJobCompanies.length}):`, uniqueJobCompanies);
 
+  // Group jobs by company - only include jobs from valid companies
   const jobsByCompany = {};
   const processedCompanies = new Set();
   const skippedCompanies = new Set();
@@ -47,6 +50,7 @@ function generateJobTable(jobs) {
     const employerNameLower = job.employer_name.toLowerCase();
     const matchedCompany = companyNameMap.get(employerNameLower);
     
+    // Only process jobs from companies in our category list
     if (matchedCompany) {
       processedCompanies.add(job.employer_name);
       if (!jobsByCompany[matchedCompany.name]) {
@@ -61,6 +65,7 @@ function generateJobTable(jobs) {
   console.log(`\n✅ DEBUG: Companies INCLUDED (${processedCompanies.size}):`, [...processedCompanies]);
   console.log(`\n❌ DEBUG: Companies SKIPPED (${skippedCompanies.size}):`, [...skippedCompanies]);
   
+  // Log job counts by company
   console.log(`\n📈 DEBUG: Job counts by company:`);
   Object.entries(jobsByCompany).forEach(([company, jobs]) => {
     const companyInfo = companyNameMap.get(company.toLowerCase());
@@ -69,7 +74,9 @@ function generateJobTable(jobs) {
 
   let output = "";
 
+  // Handle each category
   Object.entries(companyCategory).forEach(([categoryKey, categoryData]) => {
+    // Filter companies that actually have jobs
     const companiesWithJobs = categoryData.companies.filter(company => 
       jobsByCompany[company] && jobsByCompany[company].length > 0
     );
@@ -84,24 +91,33 @@ function generateJobTable(jobs) {
         console.log(`  - ${company}: ${jobsByCompany[company].length} jobs`);
       });
       
-      output += `### ${categoryData.emoji} **${categoryData.title} (${totalJobs} position${totalJobs !== 1 ? 's' : ''})**\n\n`;
-      output += `Jobs from ${companiesWithJobs.join(', ')}.\n\n`;
-      
-      if (totalJobs >= 10) {
-        output += `Automatically add company name for ${totalJobs}+ positions (otherwise manually for 30+).\n\n`;
-      }
+      output += `### ${categoryData.emoji} **${categoryData.title}** (${totalJobs} positions)\n\n`;
 
-      output += `| Company | Role | Location | Apply Now | Age |\n`;
-      output += `|---------|------|----------|-----------|-----|\n`;
+      // First handle companies with more than 10 jobs - each gets its own table/section
+      const bigCompanies = companiesWithJobs.filter(
+        companyName => jobsByCompany[companyName].length > 10
+      );
 
-      companiesWithJobs.forEach((companyName) => {
+      bigCompanies.forEach((companyName) => {
         const companyJobs = jobsByCompany[companyName];
         const emoji = getCompanyEmoji(companyName);
+        
+        if (companyJobs.length > 50) {
+          output += `<details>\n`;
+          output += `<summary><h4>${emoji} <strong>${companyName}</strong> (${companyJobs.length} positions)</h4></summary>\n\n`;
+        } else {
+          output += `#### ${emoji} **${companyName}** (${companyJobs.length} positions)\n\n`;
+        }
+        
+        output += `| Role | Location | Apply Now |  Age  |\n`;
+        output += `|------|----------|-----------|-------|\n`;
         
         companyJobs.forEach((job) => {
           const role = job.job_title;
           const location = formatLocation(job.job_city, job.job_state);
           const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
+          const level = getExperienceLevel(job.job_title, job.job_description);
+          const category = getJobCategory(job.job_title, job.job_description);
           const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
 
           let statusIndicator = "";
@@ -113,18 +129,58 @@ function generateJobTable(jobs) {
             statusIndicator += " 🏠";
           }
 
-          output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | [Apply](${applyLink}) | ${posted} |\n`;
+          output += `| ${role}${statusIndicator} | ${location} | [Apply](${applyLink}) | ${posted} |\n`;
         });
+        
+        if (companyJobs.length > 50) {
+          output += `\n</details>\n\n`;
+        } else {
+          output += "\n";
+        }
       });
-      
-      output += "\n";
+
+      // Then combine all companies with 10 or fewer jobs into one table
+      const smallCompanies = companiesWithJobs.filter(
+        companyName => jobsByCompany[companyName].length <= 10
+      );
+
+      if (smallCompanies.length > 0) {
+        output += `| Company | Role | Location | Apply Now |  Age  |\n`;
+        output += `|---------|------|----------|-----------|-------|\n`;
+
+        smallCompanies.forEach((companyName) => {
+          const companyJobs = jobsByCompany[companyName];
+          const emoji = getCompanyEmoji(companyName);
+          
+          companyJobs.forEach((job) => {
+            const role = job.job_title;
+            const location = formatLocation(job.job_city, job.job_state);
+            const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
+            const level = getExperienceLevel(job.job_title, job.job_description);
+            const category = getJobCategory(job.job_title, job.job_description);
+            const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
+
+            let statusIndicator = "";
+            const description = (job.job_description || "").toLowerCase();
+            if (description.includes("no sponsorship") || description.includes("us citizen")) {
+              statusIndicator = " 🇺🇸";
+            }
+            if (description.includes("remote")) {
+              statusIndicator += " 🏠";
+            }
+
+            output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | [Apply](${applyLink}) | ${posted} |\n`;
+          });
+        });
+        
+        output += "\n";
+      }
     }
   });
 
   console.log(`\n🎉 DEBUG: Finished generating job table with ${Object.keys(jobsByCompany).length} companies processed`);
   return output;
 }
-
 function generateInternshipSection(internshipData) {
   if (!internshipData) 
     return ''
@@ -144,7 +200,7 @@ ${internshipData.companyPrograms
   .map((program) => {
     const companyObj = ALL_COMPANIES.find((c) => c.name === program.company);
     const emoji = companyObj ? companyObj.emoji : "🏢";
-    return `| ${emoji} ${program.company} | ${program.program} | <a href="${program.url}" style="display: inline-block; padding: 6px 12px; background-color: #4a90e2; color: white; text-decoration: none; border-radius: 3px; font-size: 14px;">Apply button</a> |`;
+    return `| ${emoji} ${program.company} | ${program.program} |<a href="${program.url}" style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 6px; font-weight: 600; font-size: 14px; transition: all 0.3s ease; box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);">Apply button</a>|`;
   })
   .join("\n")}
 
@@ -154,7 +210,7 @@ ${internshipData.companyPrograms
 |----------|-------------|-----------|
 ${internshipData.sources
   .map((source) => {
-    return `| ${source.emoji} ${source.name} | ${source.description} |  <a href="${source.url}" style="display: inline-block; padding: 6px 12px; background-color: #4a90e2; color: white; text-decoration: none; border-radius: 3px; font-size: 14px;">Apply button</a> |`;
+    return `| ${source.emoji} ${source.name} | ${source.description} | <a href="${source.url}" style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 6px; font-weight: 600; font-size: 14px; transition: all 0.3s ease; box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);">Visit Button</a> |`;
   })
   .join("\n")}
 
