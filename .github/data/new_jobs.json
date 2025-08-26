@@ -1,112 +1,163 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Intern - Process Engineer",
-    "job_city": "Manassas",
-    "job_state": "Virginia",
-    "job_posted_at": "Posted 15 hours ago",
-    "job_description": "Data Science job for the role Intern - Process Engineer at Manassas, Virginia, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30921309",
-    "id": "micron-intern-process-engineer-manassas"
+    "job_title": "Business Intelligence Engineer, AMZL Strategic Planning-Analytics Automation",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Business Intelligence Engineer, AMZL Strategic Planning-Analytics Automation at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3063980/business-intelligence-engineer-amzl-strategic-planning-analytics-automation",
+    "job_posted_at": "2025-08-25T17:08:59.597Z",
+    "job_posted_at_datetime_utc": "2025-08-25T17:08:59.597Z",
+    "id": "amazon-business-intelligence-engineer-amzl-strategic-planning-analytics-automation-bellevue"
   },
   {
     "employer_name": "Micron",
-    "job_title": "Intern - Government and Public Affairs",
-    "job_city": "Washington",
-    "job_state": "District of Columbia",
-    "job_posted_at": "Posted 15 hours ago",
-    "job_description": "Data Science job for the role Intern - Government and Public Affairs at Washington, District of Columbia, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30932338",
-    "id": "micron-intern-government-and-public-affairs-washington"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Product Analyst II, R&D Portfolio Strategy",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Product Analyst II, R&D Portfolio Strategy at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53145&source=WEB_Search_NA",
-    "id": "ibm-product-analyst-ii-r-d-portfolio-strategy-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Associate Product Designer",
-    "job_city": "San Francisco",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Associate Product Designer at Entry LevelSan Francisco, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54484&source=WEB_Search_NA",
-    "id": "ibm-associate-product-designer-san-francisco"
-  },
-  {
-    "employer_name": "CISCO",
-    "job_title": "AI Software Engineer",
-    "job_city": "RTP",
-    "job_state": "North Carolina",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role AI Software Engineer at RTP, North Carolina, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/AI-Software-Engineer/1446847",
-    "id": "cisco-ai-software-engineer-rtp"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Data Scientist",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Data Scientist at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200617074-0836/data-scientist?team=HRDWR",
-    "id": "apple-data-scientist-cupertino"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Data Scientist",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Data Scientist at Austin",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200616961-0157/data-scientist?team=SFTWR",
-    "id": "apple-data-scientist-austin"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Data Scientist Manager",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Data Scientist Manager at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200617087-0836/data-scientist-manager?team=OPMFG",
-    "id": "apple-data-scientist-manager-cupertino"
-  },
-  {
-    "employer_name": "DELL",
-    "job_title": "Server Rack Engineer",
-    "job_city": "Round Rock",
-    "job_state": "Texas",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Server Rack Engineer at Round Rock, Texas, United States",
-    "job_apply_link": "https://dell.wd1.myworkdayjobs.com/en-US/External/job/Round-Rock-Texas-United-States/Principal-Engineer--Solutions-Architecture_R274139?q=Data+Science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "dell-server-rack-engineer-round-rock"
+    "job_title": "Device Integration Engineer, SMTS",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 16 hours ago",
+    "job_description": "Data Science job for the role Device Integration Engineer, SMTS at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/23457501",
+    "id": "micron-device-integration-engineer-smts-boise"
   },
   {
     "employer_name": "Salesforce",
-    "job_title": "Indianapolis Agentforce in Your City Event: Sales (New Grad)",
-    "job_city": "Illinois - Chicago",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Indianapolis Agentforce in Your City Event: Sales (New Grad) in Sales. Available in 1 location(s): Illinois - Chicago",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308596/indianapolis-agentforce-in-your-city-event-sales-new-grad/",
-    "id": "salesforce-indianapolis-agentforce-in-your-city-event-sales-new-grad-illinois-chicago"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Sales Development Representative Apprentice (New Grad)",
+    "job_title": "Slack Customer Success Manager",
     "job_city": "California - San Francisco",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sales Development Representative Apprentice (New Grad) in Sales. Available in 1 location(s): California - San Francisco",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr280225/sales-development-representative-apprentice-new-grad/",
-    "id": "salesforce-sales-development-representative-apprentice-new-grad-california-san-francisco"
+    "job_description": "Data Science job for the role Slack Customer Success Manager in Customer Success. Available in 5 location(s): California - San Francisco, Washington - Seattle, Illinois - Chicago, Georgia - Atlanta, Indiana - Indianapolis",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr293899/slack-customer-success-manager/",
+    "id": "salesforce-slack-customer-success-manager-california-san-francisco"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Customer Success Manager, Digital",
+    "job_city": "Illinois - Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Customer Success Manager, Digital in Customer Success. Available in 5 location(s): Illinois - Chicago, Washington - Seattle, Texas - Austin, Georgia - Atlanta, Indiana - Indianapolis",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr304857/customer-success-manager-digital/",
+    "id": "salesforce-customer-success-manager-digital-illinois-chicago"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Product Director",
+    "job_city": "Illinois - Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Product Director in Customer Success. Available in 4 location(s): Illinois - Chicago, Washington - Seattle, Georgia - Atlanta, Indiana - Indianapolis",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308286/product-director/",
+    "id": "salesforce-product-director-illinois-chicago"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Customer Success Manager, Senior Manager",
+    "job_city": "Indiana - Indianapolis",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Customer Success Manager, Senior Manager in Customer Success. Available in 6 location(s): Indiana - Indianapolis, Washington - Seattle, Illinois - Chicago, Texas - Austin, Georgia - Atlanta, New York - New York",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr307591/customer-success-manager-senior-manager/",
+    "id": "salesforce-customer-success-manager-senior-manager-indiana-indianapolis"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Renewals Manager",
+    "job_city": "Indiana - Indianapolis",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Renewals Manager in Customer Success. Available in 6 location(s): Indiana - Indianapolis, Washington - Seattle, Illinois - Chicago, Georgia - Atlanta, Washington - Bellevue, Texas - Dallas",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr304868/renewals-manager/",
+    "id": "salesforce-renewals-manager-indiana-indianapolis"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Customer Success Manager, Senior Manager (Financial Services)",
+    "job_city": "Indiana - Indianapolis",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Customer Success Manager, Senior Manager (Financial Services) in Customer Success. Available in 6 location(s): Indiana - Indianapolis, Washington - Seattle, Illinois - Chicago, Georgia - Atlanta, New York - New York, Washington - Bellevue",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr306665/customer-success-manager-senior-manager-financial-services/",
+    "id": "salesforce-customer-success-manager-senior-manager-financial-services-indiana-indianapolis"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Customer Success Manager - Core Clouds",
+    "job_city": "Illinois - Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Customer Success Manager - Core Clouds in Customer Success. Available in 5 location(s): Illinois - Chicago, Washington - Seattle, Georgia - Atlanta, Washington - Bellevue, Indiana - Indianapolis",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr306492/customer-success-manager-core-clouds/",
+    "id": "salesforce-customer-success-manager-core-clouds-illinois-chicago"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "MuleSoft Customer Success Manager",
+    "job_city": "Indiana - Indianapolis",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role MuleSoft Customer Success Manager in Customer Success. Available in 4 location(s): Indiana - Indianapolis, Washington - Seattle, Illinois - Chicago, Georgia - Atlanta",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr281875/mulesoft-customer-success-manager/",
+    "id": "salesforce-mulesoft-customer-success-manager-indiana-indianapolis"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Customer Success Manager/Principal  - Core Clouds (Federal Civilian)",
+    "job_city": "Illinois - Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Customer Success Manager/Principal  - Core Clouds (Federal Civilian) in Customer Success. Available in 4 location(s): Illinois - Chicago, Washington - Seattle, Georgia - Atlanta, Indiana - Indianapolis",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr304871/customer-success-managerprincipal-core-clouds-federal-civilian/",
+    "id": "salesforce-customer-success-manager-principal-core-clouds-federal-civilian-illinois-chicago"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Customer Success Manager (Core Clouds) - Public Sector, NGO",
+    "job_city": "Illinois - Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Customer Success Manager (Core Clouds) - Public Sector, NGO in Customer Success. Available in 6 location(s): Illinois - Chicago, Washington - Seattle, Georgia - Atlanta, New York - New York, Virginia - Mclean, Indiana - Indianapolis",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr302576/customer-success-manager-core-clouds-public-sector-ngo/",
+    "id": "salesforce-customer-success-manager-core-clouds-public-sector-ngo-illinois-chicago"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Success Architect (Own)",
+    "job_city": "Indiana - Indianapolis",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Success Architect (Own) in Customer Success. Available in 5 location(s): Indiana - Indianapolis, Washington - Seattle, Illinois - Chicago, Georgia - Atlanta, New York - New York",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr300882/success-architect-own/",
+    "id": "salesforce-success-architect-own-indiana-indianapolis"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "VP, Comms & Media Sector Leader",
+    "job_city": "Illinois - Chicago",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role VP, Comms & Media Sector Leader in Customer Success. Available in 10 location(s): Illinois - Chicago, Washington - Seattle, Texas - Austin, Georgia - Atlanta, New York - New York, Washington - Bellevue, Texas - Dallas, California - San Francisco, Indiana - Indianapolis, District of Columbia - Washington",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr300357/vp-comms-media-sector-leader/",
+    "id": "salesforce-vp-comms-media-sector-leader-illinois-chicago"
+  },
+  {
+    "employer_name": "Verizon",
+    "job_title": "Data Architect",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Data Architect at Washington, DC",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Architect_R0225034?q=Data+Science",
+    "id": "verizon-data-architect-washington"
+  },
+  {
+    "employer_name": "Verizon",
+    "job_title": "Agile Project Manager",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Agile Project Manager at McLean, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Agile-Project-Manager_R0225033?q=Data+Science",
+    "id": "verizon-agile-project-manager-mclean"
   }
 ]
