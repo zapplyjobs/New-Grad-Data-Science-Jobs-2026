@@ -1,92 +1,12 @@
 [
   {
-    "employer_name": "Micron",
-    "job_title": "Engineer - Instrumentation & Controls",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 15 days ago",
-    "job_description": "Data Science job for the role Engineer - Instrumentation & Controls at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30590686",
-    "id": "micron-engineer-instrumentation-controls-boise"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "SIG Software Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted 8 days ago",
-    "job_description": "Data Science job for the role SIG Software Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30764716",
-    "id": "micron-sig-software-engineer-boise"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Support Engineer",
-    "job_city": "HERNDON",
+    "employer_name": "Apple",
+    "job_title": "Data Center Network Architect",
+    "job_city": "Sunnyvale",
     "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Principal Support Engineer at ProfessionalHERNDON, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54436&source=WEB_Search_NA",
-    "id": "ibm-support-engineer-herndon"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Business Development Lead - Salesforce",
-    "job_city": "No City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Business Development Lead - Salesforce at ProfessionalNo City, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=46133&source=WEB_Search_NA",
-    "id": "ibm-business-development-lead-salesforce-no-city"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Machine Learning Research Scientist, Generative Biology",
-    "job_city": "US",
-    "job_state": "NY",
-    "job_posted_at": "2h ago",
-    "job_description": "data science job for the role Machine Learning Research Scientist, Generative Biology at New York, NY, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/157857518-machine-learning-research-scientist-generative-biology",
-    "id": "aijobs-machine-learning-research-scientist-generative-biology-us"
-  },
-  {
-    "employer_name": "NVIDIA",
-    "job_title": "Director, Data and Integration",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Director, Data and Integration at US, CA, Santa Clara",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Data-and-Integration_JR2002647?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-director-data-and-integration-us"
-  },
-  {
-    "employer_name": "Hewlett Packard Enterprise",
-    "job_title": "SASE - Full Stack Software Engineer",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role SASE - Full Stack Software Engineer at San Jose, California, United States of America",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/San-Jose-California-United-States-of-America/SASE---Full-Stack-Software-Engineer_1189040-1?q=Data+Science",
-    "id": "hewlett-packard-enterprise-sase-full-stack-software-engineer-san-jose"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Senior/Lead Search Engineer",
-    "job_city": "California - San Francisco",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior/Lead Search Engineer in Software Engineering. Available in 5 location(s): California - San Francisco, Washington - Seattle, California - Palo Alto, Massachusetts - Burlington, Washington - Bellevue",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr294147/seniorlead-search-engineer/",
-    "id": "salesforce-senior-lead-search-engineer-california-san-francisco"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Backend Engineer - Terraform",
-    "job_city": "California - San Francisco",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Backend Engineer - Terraform in Software Engineering. Available in 2 location(s): California - San Francisco, Washington - Bellevue",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr293440/senior-backend-engineer-terraform/",
-    "id": "salesforce-backend-engineer-terraform-california-san-francisco"
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Data Center Network Architect at Sunnyvale",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200617052-3956/data-center-network-architect?team=SFTWR",
+    "id": "apple-data-center-network-architect-sunnyvale"
   }
 ]
