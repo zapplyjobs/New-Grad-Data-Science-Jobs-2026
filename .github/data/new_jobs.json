@@ -1,12 +1,32 @@
 [
   {
-    "employer_name": "Apple",
-    "job_title": "Data Center Network Architect",
-    "job_city": "Sunnyvale",
+    "employer_name": "JP Morgan Chase",
+    "job_title": "Lead Infrastructure Engineer, Electronic Trading Service",
+    "job_city": "Unknown",
     "job_state": "US",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Data Center Network Architect at Sunnyvale",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200617052-3956/data-center-network-architect?team=SFTWR",
-    "id": "apple-data-center-network-architect-sunnyvale"
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Lead Infrastructure Engineer, Electronic Trading Service at ",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210651924/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-lead-infrastructure-engineer-electronic-trading-service-unknown"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Sr. Manager, Product Management-  AI Profiling and Debugging Tools",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sr. Manager, Product Management-  AI Profiling and Debugging Tools at US,CA,San Jose\n2100 Logic Drive\nSan Jose, California\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/66557/login",
+    "id": "amd-sr-manager-product-management-ai-profiling-and-debugging-tools-us"
+  },
+  {
+    "employer_name": "Booz Allen",
+    "job_title": "Cost Analyst",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Cost Analyst at San Diego, CA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Cost-Analyst_R0225026-1?q=Data+Science",
+    "id": "booz-allen-cost-analyst-san-diego"
   }
 ]
