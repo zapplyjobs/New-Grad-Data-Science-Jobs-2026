@@ -1,22 +1,52 @@
 [
   {
-    "employer_name": "Booz Allen",
-    "job_title": "Systems Integrator",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Systems Integrator at McLean, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Systems-Integrator_R0225024?q=Data+Science",
-    "id": "booz-allen-systems-integrator-mclean"
+    "employer_name": "IBM",
+    "job_title": "Application Developer",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Application Developer at ProfessionalArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54827&source=WEB_Search_NA",
+    "id": "ibm-application-developer-armonk"
   },
   {
-    "employer_name": "Verizon",
-    "job_title": "Hazardous Materials Information Specialist",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Hazardous Materials Information Specialist at Washington, DC",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Hazardous-Materials-Information-Specialist_R0224004?q=Data+Science",
-    "id": "verizon-hazardous-materials-information-specialist-washington"
+    "employer_name": "IBM",
+    "job_title": "Network Support Engineer",
+    "job_city": "Dallas",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Network Support Engineer at ProfessionalDallas, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55083&source=WEB_Search_NA",
+    "id": "ibm-network-support-engineer-dallas"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Sr Product Designer",
+    "job_city": "Dallas",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sr Product Designer at ProfessionalDallas, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54536&source=WEB_Search_NA",
+    "id": "ibm-sr-product-designer-dallas"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Incident Response Consultant",
+    "job_city": "Armonk",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Principal Incident Response Consultant at ProfessionalArmonk, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54824&source=WEB_Search_NA",
+    "id": "ibm-incident-response-consultant-armonk"
+  },
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Smart Buildings Automation Solutions Sales Internship",
+    "job_city": "Plano",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Smart Buildings Automation Solutions Sales Internship at Plano, Texas, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-smart-buildings-automation-solutions-sales-internship-plano"
   }
 ]
