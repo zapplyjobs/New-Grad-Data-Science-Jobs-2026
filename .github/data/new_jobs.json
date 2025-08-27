@@ -1,42 +1,132 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Talent Strategist",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "33 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Talent Strategist, Google Career Studio",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/87995158246630086-talent-strategist-google-career-studio?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-talent-strategist-san-francisco"
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Engineer, Implant",
+    "job_city": "US",
+    "job_state": "OR",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Senior Engineer, Implant at US, OR, Beaverton",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Senior-Engineer--Implant_R253909?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-engineer-implant-us"
   },
   {
-    "employer_name": "JP Morgan Chase",
-    "job_title": "Client Solutions Architect Associate - Payments",
-    "job_city": "Plano",
+    "employer_name": "APPLIED MATERIALS",
+    "job_title": "Manufacturing Technician II - (T2) 2nd Shift",
+    "job_city": "Austin",
     "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Client Solutions Architect Associate - Payments at Plano, TX, United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210612953/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jp-morgan-chase-client-solutions-architect-associate-payments-plano"
+    "job_posted_at": "Posted 16 days ago",
+    "job_description": "Data Science job for the role Manufacturing Technician II - (T2) 2nd Shift at Austin,TX",
+    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790304666437?domain=appliedmaterials.com&triggerGoButton=false",
+    "id": "applied-materials-manufacturing-technician-ii-t2-2nd-shift-austin"
   },
   {
-    "employer_name": "Verizon",
-    "job_title": "Data Analyst",
-    "job_city": "Arlington",
+    "employer_name": "APPLIED MATERIALS",
+    "job_title": "Manufacturing Technician II - (T2)",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "Posted 7 days ago",
+    "job_description": "Data Science job for the role Manufacturing Technician II - (T2) at Austin,TX",
+    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790304666425?domain=appliedmaterials.com&triggerGoButton=false",
+    "id": "applied-materials-manufacturing-technician-ii-t2-austin"
+  },
+  {
+    "employer_name": "HONEYWELL",
+    "job_title": "Director Data Analytics",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Director Data Analytics at Atlanta, GA, United States",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/115974/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-director-data-analytics-atlanta"
+  },
+  {
+    "employer_name": "HONEYWELL",
+    "job_title": "Advanced Electrical Design Engineer",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Advanced Electrical Design Engineer at Redmond, WA, United States",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/115851/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-advanced-electrical-design-engineer-redmond"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Graphics Software Development Engineer",
+    "job_city": "US",
+    "job_state": "WA",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Graphics Software Development Engineer at US,WA,Bellevue\n2002 156th Avenue\nBellevue, Washington\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/68553/login",
+    "id": "amd-graphics-software-development-engineer-us"
+  },
+  {
+    "employer_name": "Booz Allen",
+    "job_title": "Information Systems Security Manager",
+    "job_city": "Alexandria",
     "job_state": "VA",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Data Analyst at Arlington, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Analyst_R0225141?q=Data+Science",
-    "id": "verizon-data-analyst-arlington"
+    "job_description": "Data Science job for the role Information Systems Security Manager at Alexandria, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Information-Systems-Security-Manager_R0225171?q=Data+Science",
+    "id": "booz-allen-information-systems-security-manager-alexandria"
+  },
+  {
+    "employer_name": "Booz Allen",
+    "job_title": "F-35 Electronic Warfare Engineer",
+    "job_city": "Wright Patterson AFB",
+    "job_state": "OH",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role F-35 Electronic Warfare Engineer at Wright Patterson AFB, OH",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Wright-Patterson-AFB-OH/F-35-Electronic-Warfare-Engineer_R0225210?q=Data+Science",
+    "id": "booz-allen-f-35-electronic-warfare-engineer-wright-patterson-afb"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Agile Delivery Coach, Senior Manager",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Agile Delivery Coach, Senior Manager in Program & Project Management. Available in 1 location(s): California - San Francisco",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr306145/agile-delivery-coach-senior-manager/",
+    "id": "salesforce-agile-delivery-coach-senior-manager-california-san-francisco"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Backend Engineer - GovCloud",
+    "job_city": "Washington - Bellevue",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Backend Engineer - GovCloud in Software Engineering. Available in 5 location(s): Washington - Bellevue, Virginia - Herndon, Massachusetts - Burlington, California - San Francisco, Colorado - Denver",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308715/backend-engineer-govcloud/",
+    "id": "salesforce-backend-engineer-govcloud-washington-bellevue"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Manager / Sr. Manager, Business Value Services (CBS)",
+    "job_city": "Texas - Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Manager / Sr. Manager, Business Value Services (CBS) in Sales. Available in 4 location(s): Texas - Austin, Illinois - Chicago, New York - New York, California - San Francisco",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr303382/manager-sr-manager-business-value-services-cbs/",
+    "id": "salesforce-manager-sr-manager-business-value-services-cbs-texas-austin"
   },
   {
     "employer_name": "Verizon",
-    "job_title": "Information System Security Officer",
-    "job_city": "Fort Meade",
-    "job_state": "MD",
+    "job_title": "Data Scientist, Lead",
+    "job_city": "McLean",
+    "job_state": "VA",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Information System Security Officer at Fort Meade, MD",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Information-System-Security-Officer_R0225077?q=Data+Science",
-    "id": "verizon-information-system-security-officer-fort-meade"
+    "job_description": "Data Science job for the role Data Scientist, Lead at McLean, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist--Lead_R0225190?q=Data+Science",
+    "id": "verizon-data-scientist-lead-mclean"
+  },
+  {
+    "employer_name": "Verizon",
+    "job_title": "F-35 Electronic Warfare Engineer",
+    "job_city": "Wright Patterson AFB",
+    "job_state": "OH",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role F-35 Electronic Warfare Engineer at Wright Patterson AFB, OH",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Wright-Patterson-AFB-OH/F-35-Electronic-Warfare-Engineer_R0225210?q=Data+Science",
+    "id": "verizon-f-35-electronic-warfare-engineer-wright-patterson-afb"
   }
 ]
