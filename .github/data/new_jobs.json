@@ -1,83 +1,22 @@
 [
   {
-    "job_title": "Data Engineer II, Foundational People Data Services",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Engineer II, Foundational People Data Services at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3039727/data-engineer-ii-foundational-people-data-services",
-    "job_posted_at": "2025-08-27T21:07:13.359Z",
-    "job_posted_at_datetime_utc": "2025-08-27T21:07:13.359Z",
-    "id": "amazon-data-engineer-ii-foundational-people-data-services-seattle"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Staff UX Quantitative Researcher",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "Recently",
-    "job_description": "37 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Staff UX Quantitative Researcher, Consumer Shopping",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/81892684028879558-staff-ux-quantitative-researcher-consumer-shopping?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
-    "id": "google-staff-ux-quantitative-researcher-new-york"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Reticle Manufacturing Process Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "Data Science job for the role Reticle Manufacturing Process Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30947611",
-    "id": "micron-reticle-manufacturing-process-engineer-boise"
-  },
-  {
-    "employer_name": "Micron",
-    "job_title": "Intern - Advanced DRAM Cell/Device Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "Posted a day ago",
-    "job_description": "Data Science job for the role Intern - Advanced DRAM Cell/Device Engineer at Boise, Idaho, United States of America",
-    "job_apply_link": "https://careers.micron.com/careers/job/30945528",
-    "id": "micron-intern-advanced-dram-cell-device-engineer-boise"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Cybersecurity and HR Transformation Consulting Field Marketer",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Cybersecurity and HR Transformation Consulting Field Marketer at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53652&source=WEB_Search_NA",
-    "id": "ibm-cybersecurity-and-hr-transformation-consulting-field-marketer-multiple-cities"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Commercial Bid Management Internship-Rolling Stock (Summer 2026)",
-    "job_city": "Sacramento",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Commercial Bid Management Internship-Rolling Stock (Summer 2026) at Sacramento, California, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-commercial-bid-management-internship-rolling-stock-summer-2026-sacramento"
-  },
-  {
-    "employer_name": "Verizon",
-    "job_title": "Information Systems Security Manager",
-    "job_city": "Alexandria",
+    "employer_name": "Booz Allen",
+    "job_title": "Data Scientist, Lead",
+    "job_city": "McLean",
     "job_state": "VA",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Information Systems Security Manager at Alexandria, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Information-Systems-Security-Manager_R0225171?q=Data+Science",
-    "id": "verizon-information-systems-security-manager-alexandria"
+    "job_description": "Data Science job for the role Data Scientist, Lead at McLean, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist--Lead_R0225190?q=Data+Science",
+    "id": "booz-allen-data-scientist-lead-mclean"
   },
   {
-    "employer_name": "Verizon",
-    "job_title": "Electrical Engineer",
-    "job_city": "King George",
+    "employer_name": "Booz Allen",
+    "job_title": "Photonics and Optics Engineer",
+    "job_city": "Arlington",
     "job_state": "VA",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Electrical Engineer at King George, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/King-George-VA/Electrical-Engineer_R0225223?q=Data+Science",
-    "id": "verizon-electrical-engineer-king-george"
+    "job_description": "Data Science job for the role Photonics and Optics Engineer at Arlington, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Photonics-and-Optics-Engineer_R0225226?q=Data+Science",
+    "id": "booz-allen-photonics-and-optics-engineer-arlington"
   }
 ]
