@@ -1,12 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Software Developer",
-    "job_city": "LOWELL",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Developer at ProfessionalLOWELL, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55383&source=WEB_Search_NA",
-    "id": "ibm-software-developer-lowell"
+    "employer_name": "AiJobs",
+    "job_title": "Robotics/Computer Vision engineer",
+    "job_city": "US",
+    "job_state": "MI",
+    "job_posted_at": "12h ago",
+    "job_description": "data science job for the role Robotics/Computer Vision engineer at Detroit, MI, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/158198861-robotics-computer-vision-engineer",
+    "id": "aijobs-robotics-computer-vision-engineer-us"
   }
 ]
