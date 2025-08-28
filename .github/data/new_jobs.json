@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "CISCO",
-    "job_title": "Embedded Software Engineer(Kernel)",
-    "job_city": "Milpitas",
+    "employer_name": "Arm",
+    "job_title": "Regional People Partner",
+    "job_city": "San Jose",
     "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Embedded Software Engineer(Kernel) at Milpitas, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Embedded-Software-Engineer-Kernel/1441884",
-    "id": "cisco-embedded-software-engineer-kernel-milpitas"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist, Data & Analytics – Customer, Loyalty & Marketing",
-    "job_city": "US",
-    "job_state": "NC",
-    "job_posted_at": "18h ago",
-    "job_description": "data science job for the role Data Scientist, Data & Analytics – Customer, Loyalty & Marketing at Charlotte, NC, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/158456723-data-scientist-data-analytics-customer-loyalty-marketing",
-    "id": "aijobs-data-scientist-data-analytics-customer-loyalty-marketing-us"
+    "job_description": "Data Science job for the role Regional People Partner at San Jose, California",
+    "job_apply_link": "https://careers.arm.com/job/san-jose/regional-people-partner/33099/82944585536",
+    "id": "arm-regional-people-partner-san-jose"
   }
 ]
