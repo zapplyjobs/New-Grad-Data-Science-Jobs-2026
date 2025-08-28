@@ -1,92 +1,12 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Research Scientist / Engineer, Agentic Learning (Horizons)",
-    "job_city": "CA",
-    "job_state": "San Francisco",
-    "job_posted_at": "38min ago",
-    "job_description": "data science job for the role Research Scientist / Engineer, Agentic Learning (Horizons) at San Francisco, CA",
-    "job_apply_link": "https://www.aijobs.com/jobs/158389480-research-scientist-engineer-agentic-learning-horizons",
-    "id": "aijobs-research-scientist-engineer-agentic-learning-horizons-ca"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Business Systems Analyst, SAP - IBP and APO",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Business Systems Analyst, SAP - IBP and APO at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/158390308-senior-business-systems-analyst-sap-ibp-and-apo",
-    "id": "aijobs-business-systems-analyst-sap-ibp-and-apo-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software Engineer, Recipe Pathfinding",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Software Engineer, Recipe Pathfinding at US, WA, Redmond",
-    "job_apply_link": "https://www.aijobs.com/jobs/158390310-senior-software-engineer-recipe-pathfinding",
-    "id": "aijobs-software-engineer-recipe-pathfinding-redmond"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Site Reliability Engineer, AI Infrastructure",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d ago",
-    "job_description": "data science job for the role Senior Site Reliability Engineer, AI Infrastructure at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/158390312-senior-site-reliability-engineer-ai-infrastructure",
-    "id": "aijobs-site-reliability-engineer-ai-infrastructure-santa-clara"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Software QA Test Development Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "28min ago",
-    "job_description": "data science job for the role Senior Software QA Test Development Engineer at US, CA, Santa Clara",
-    "job_apply_link": "https://www.aijobs.com/jobs/158390301-senior-software-qa-test-development-engineer",
-    "id": "aijobs-software-qa-test-development-engineer-santa-clara"
-  },
-  {
-    "employer_name": "NVIDIA",
-    "job_title": "Product Business Analyst",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Senior Product Business Analyst at US, CA, Santa Clara",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Business-Analyst_JR1997279?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-product-business-analyst-us"
-  },
-  {
     "employer_name": "Hewlett Packard Enterprise",
-    "job_title": "Supply Chain Specialist",
-    "job_city": "San Jose",
-    "job_state": "California",
+    "job_title": "Cloud Developer",
+    "job_city": "All",
+    "job_state": "Colorado",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Supply Chain Specialist 4 at San Jose, California, United States of America",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/San-Jose-California-United-States-of-America/Supply-Chain-Specialist-4_1192401-1?q=Data+Science",
-    "id": "hewlett-packard-enterprise-supply-chain-specialist-san-jose"
-  },
-  {
-    "employer_name": "Hewlett Packard Enterprise",
-    "job_title": "Quality Assurance QA Engineer Staff",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Quality Assurance QA Engineer Staff at San Jose, California, United States of America",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/San-Jose-California-United-States-of-America/Quality-Assurance-QA-Engineer-Staff_1192785-1?q=Data+Science",
-    "id": "hewlett-packard-enterprise-quality-assurance-qa-engineer-staff-san-jose"
-  },
-  {
-    "employer_name": "Verizon",
-    "job_title": "Photonics and Optics Engineer",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Photonics and Optics Engineer at Arlington, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Photonics-and-Optics-Engineer_R0225226?q=Data+Science",
-    "id": "verizon-photonics-and-optics-engineer-arlington"
+    "job_description": "Data Science job for the role Senior Cloud Developer at All, Colorado, United States of America",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/All-Colorado-United-States-of-America/Principal-Cloud-Developer_1190264-1?q=Data+Science",
+    "id": "hewlett-packard-enterprise-cloud-developer-all"
   }
 ]
