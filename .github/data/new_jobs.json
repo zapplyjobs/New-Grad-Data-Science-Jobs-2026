@@ -1,52 +1,22 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Graduate Intern, Data Scientist (Spring, 2025)",
-    "job_city": "US",
-    "job_state": "GA",
-    "job_posted_at": "13min ago",
-    "job_description": "data science job for the role Graduate Intern, Data Scientist (Spring, 2025) at Atlanta, GA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/158456724-graduate-intern-data-scientist-spring-2025",
-    "id": "aijobs-graduate-intern-data-scientist-spring-2025-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist, Decisions - Risk Solutions",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "11h ago",
-    "job_description": "data science job for the role Data Scientist, Decisions - Risk Solutions at San Francisco County, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/158456726-data-scientist-decisions-risk-solutions",
-    "id": "aijobs-data-scientist-decisions-risk-solutions-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Data Scientist, Marketing AI Agents",
-    "job_city": "US",
-    "job_state": "San Francisco Bay Area",
-    "job_posted_at": "2d ago",
-    "job_description": "data science job for the role Data Scientist, Marketing AI Agents at San Francisco Bay Area, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/158456731-data-scientist-marketing-ai-agents",
-    "id": "aijobs-data-scientist-marketing-ai-agents-us"
-  },
-  {
-    "employer_name": "AiJobs",
-    "job_title": "Applied Data Scientist",
-    "job_city": "US",
-    "job_state": "VA",
-    "job_posted_at": "9h ago",
-    "job_description": "data science job for the role Applied Data Scientist at Arlington, VA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/158456733-applied-data-scientist",
-    "id": "aijobs-applied-data-scientist-us"
-  },
-  {
-    "employer_name": "JP Morgan Chase",
-    "job_title": "Software Engineer",
-    "job_city": "BOURNEMOUTH",
-    "job_state": "DORSET",
+    "employer_name": "CISCO",
+    "job_title": "Embedded Software Engineer(Kernel)",
+    "job_city": "Milpitas",
+    "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineer III at BOURNEMOUTH, DORSET, United Kingdom",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210649331/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jp-morgan-chase-software-engineer-bournemouth"
+    "job_description": "Data Science job for the role Embedded Software Engineer(Kernel) at Milpitas, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Embedded-Software-Engineer-Kernel/1441884",
+    "id": "cisco-embedded-software-engineer-kernel-milpitas"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, Data & Analytics – Customer, Loyalty & Marketing",
+    "job_city": "US",
+    "job_state": "NC",
+    "job_posted_at": "18h ago",
+    "job_description": "data science job for the role Data Scientist, Data & Analytics – Customer, Loyalty & Marketing at Charlotte, NC, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/158456723-data-scientist-data-analytics-customer-loyalty-marketing",
+    "id": "aijobs-data-scientist-data-analytics-customer-loyalty-marketing-us"
   }
 ]
