@@ -1,73 +1,62 @@
 [
   {
-    "job_title": "Applied Scientist, Agentic AI for Data Analytics and Science, Speed Analytics and Science",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Applied Scientist, Agentic AI for Data Analytics and Science, Speed Analytics and Science at Bellevue, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3068728/applied-scientist-agentic-ai-for-data-analytics-and-science-speed-analytics-and-science",
-    "job_posted_at": "2025-08-28T20:07:22.753Z",
-    "job_posted_at_datetime_utc": "2025-08-28T20:07:22.753Z",
-    "id": "amazon-applied-scientist-agentic-ai-for-data-analytics-and-science-speed-analytics-and-science-bellevue"
+    "employer_name": "WAYMO",
+    "job_title": "Software Engineer - Labeled Data",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Engineer - Labeled Data at Mountain View, California",
+    "job_apply_link": "https://careers.withwaymo.com/jobs/software-engineer-labeled-data-mountain-view-california-united-states",
+    "id": "waymo-software-engineer-labeled-data-mountain-view"
+  },
+  {
+    "employer_name": "WAYMO",
+    "job_title": "Senior Staff TLM, ML Data Infra",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Staff TLM, ML Data Infra at Mountain View, California",
+    "job_apply_link": "https://careers.withwaymo.com/jobs/senior-staff-tlm-ml-data-infra-mountain-view-california-united-states",
+    "id": "waymo-senior-staff-tlm-ml-data-infra-mountain-view"
   },
   {
     "employer_name": "JP Morgan Chase",
-    "job_title": "Employee Experience Researcher, Senior Associate",
-    "job_city": "",
-    "job_state": "OH",
+    "job_title": "Data Owner Lead",
+    "job_city": "Brooklyn",
+    "job_state": "NY",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Employee Experience Researcher, Senior Associate at OH, United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210631079/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jp-morgan-chase-employee-experience-researcher-senior-associate-"
+    "job_description": "Data Science job for the role Data Owner Lead at Brooklyn, NY, United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210661979/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-data-owner-lead-brooklyn"
   },
   {
-    "employer_name": "JP Morgan Chase",
-    "job_title": "Client Success Manager",
-    "job_city": "Plano",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Client Success Manager at Plano, TX, United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210662145/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jp-morgan-chase-client-success-manager-plano"
-  },
-  {
-    "employer_name": "JP Morgan Chase",
-    "job_title": "Product Associate, Global Technical Security",
-    "job_city": "Columbus",
-    "job_state": "OH",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Product Associate, Global Technical Security at Columbus, OH, United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210662277/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jp-morgan-chase-product-associate-global-technical-security-columbus"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "Triton Compiler Eng.",
+    "employer_name": "NVIDIA",
+    "job_title": "Product Manager - Autonomous Vehicles",
     "job_city": "US",
     "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Lead Triton Compiler Eng. at US,CA,San Jose\n2100 Logic Drive\nSan Jose, California\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/69122/login",
-    "id": "amd-triton-compiler-eng-us"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Data Science Manager, iCloud Enterprise",
-    "job_city": "Seattle",
-    "job_state": "Washington",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Senior Data Science Manager, iCloud Enterprise at Seattle",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200618210-3337/senior-data-science-manager-icloud-enterprise?team=SFTWR",
-    "id": "apple-data-science-manager-icloud-enterprise-seattle"
-  },
-  {
-    "employer_name": "GDIT",
-    "job_title": "Scientific Research Technologist (Web/Database)",
-    "job_city": "USA NC Raleigh",
-    "job_state": "",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Scientific Research Technologist (Web/Database) at USA NC Raleigh",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NC-Raleigh/Scientific-Research-Technologist_RQ206332-1?q=Data+Science",
-    "id": "gdit-scientific-research-technologist-web-database-usa-nc-raleigh"
+    "job_description": "Data Science job for the role Senior Product Manager - Autonomous Vehicles at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Manager---Autonomous-Vehicles_JR2002860?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-product-manager-autonomous-vehicles-us"
+  },
+  {
+    "employer_name": "Booz Allen",
+    "job_title": "Enterprise Data Architect",
+    "job_city": "Alexandria",
+    "job_state": "VA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Enterprise Data Architect at Alexandria, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Enterprise-Data-Architect_R0225331?q=Data+Science",
+    "id": "booz-allen-enterprise-data-architect-alexandria"
+  },
+  {
+    "employer_name": "ADOBE",
+    "job_title": "Sr GenAI Modeling Engineer & Architect",
+    "job_city": "Remote",
+    "job_state": "Remote",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Sr GenAI Modeling Engineer & Architect at ",
+    "job_apply_link": "https://careers.adobe.com/us/en/job/R158487/Sr-GenAI-Modeling-Engineer-Architect",
+    "id": "adobe-sr-genai-modeling-engineer-architect-remote"
   }
 ]
