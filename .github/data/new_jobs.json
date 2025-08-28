@@ -1,72 +1,132 @@
 [
   {
-    "employer_name": "WAYMO",
-    "job_title": "Software Engineer, Data & Evaluation - Mapping",
-    "job_city": "Mountain View",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineer, Data & Evaluation - Mapping at Mountain View, California",
-    "job_apply_link": "https://careers.withwaymo.com/jobs/software-engineer-data-evaluation-mapping-mountain-view-california-united-states",
-    "id": "waymo-software-engineer-data-evaluation-mapping-mountain-view"
+    "employer_name": "Micron",
+    "job_title": "Intern - Yield Technology Equipment",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "Posted 18 hours ago",
+    "job_description": "Data Science job for the role Intern - Yield Technology Equipment at Boise, Idaho, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/30894304",
+    "id": "micron-intern-yield-technology-equipment-boise"
+  },
+  {
+    "employer_name": "Micron",
+    "job_title": "Equipment Maintenance Technician",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "Posted 18 hours ago",
+    "job_description": "Data Science job for the role Equipment Maintenance Technician at Manassas, Virginia, United States of America",
+    "job_apply_link": "https://careers.micron.com/careers/job/27454445",
+    "id": "micron-equipment-maintenance-technician-manassas"
+  },
+  {
+    "employer_name": "ANALOG DEVICES",
+    "job_title": "Sr. Research Scientist, Biomedical Algorithms (PhD)",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Sr. Research Scientist, Biomedical Algorithms (PhD) at US, MA, Boston",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Research-Scientist_R245210?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-sr-research-scientist-biomedical-algorithms-phd-us"
   },
   {
     "employer_name": "JP Morgan Chase",
-    "job_title": "Applied AI ML Lead",
-    "job_city": "Plano",
-    "job_state": "TX",
+    "job_title": "Director of Software Engineering (Data Platforms)",
+    "job_city": "Palo Alto",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Applied AI ML Lead at Plano, TX, United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210662199/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jp-morgan-chase-applied-ai-ml-lead-plano"
+    "job_description": "Data Science job for the role Senior Director of Software Engineering (Data Platforms) at Palo Alto, CA, United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210660194/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-director-of-software-engineering-data-platforms-palo-alto"
   },
   {
     "employer_name": "JP Morgan Chase",
-    "job_title": "Software Engineer - Backend Technical Lead",
-    "job_city": "Plano",
-    "job_state": "TX",
+    "job_title": "Applied AIML, Sr Associate",
+    "job_city": "Jersey City",
+    "job_state": "NJ",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Lead Software Engineer - Backend Technical Lead at Plano, TX, United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210662055/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jp-morgan-chase-software-engineer-backend-technical-lead-plano"
+    "job_description": "Data Science job for the role Applied AIML, Sr Associate at Jersey City, NJ, United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210662231/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-applied-aiml-sr-associate-jersey-city"
   },
   {
     "employer_name": "HONEYWELL",
-    "job_title": "Control Systems Integration Engineer",
-    "job_city": "Tempe",
-    "job_state": "AZ",
+    "job_title": "Sr Software Quality Specialist",
+    "job_city": "Alpharetta",
+    "job_state": "GA",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Lead Control Systems Integration Engineer at Tempe, AZ, United States",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/116522/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-control-systems-integration-engineer-tempe"
+    "job_description": "Data Science job for the role Sr Software Quality Specialist at Alpharetta, GA, United States",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/116515/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-sr-software-quality-specialist-alpharetta"
   },
   {
-    "employer_name": "Booz Allen",
+    "employer_name": "AMD",
+    "job_title": "Product Manager - Network Infrastructure",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Product Manager - Network Infrastructure at US,CA,Santa Clara\n2485 Augustine Drive\nSanta Clara, California\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/69275/login",
+    "id": "amd-product-manager-network-infrastructure-us"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "AIML - Financial Analyst, Data Operations",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role AIML - Financial Analyst, Data Operations at Cupertino",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200618353-0836/aiml-financial-analyst-data-operations?team=CORSV",
+    "id": "apple-aiml-financial-analyst-data-operations-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "AIML - Financial Analyst, Data Operations",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role AIML - Financial Analyst, Data Operations at Austin",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200618353-0157/aiml-financial-analyst-data-operations?team=CORSV",
+    "id": "apple-aiml-financial-analyst-data-operations-austin"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "/ Staff Software Engineer (MLOps) - Apple Data Platform",
+    "job_city": "Seattle",
+    "job_state": "Washington",
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Senior / Staff Software Engineer (MLOps) - Apple Data Platform at Seattle",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200618269-3337/senior-staff-software-engineer-mlops-apple-data-platform?team=MLAI",
+    "id": "apple-staff-software-engineer-mlops-apple-data-platform-seattle"
+  },
+  {
+    "employer_name": "GDIT",
+    "job_title": "Scientific Researcher",
+    "job_city": "USA NC Raleigh",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Scientific Researcher at USA NC Raleigh",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NC-Raleigh/Scientific-Researcher_RQ206324?q=Data+Science",
+    "id": "gdit-scientific-researcher-usa-nc-raleigh"
+  },
+  {
+    "employer_name": "GDIT",
+    "job_title": "Scientific Project Specialist",
+    "job_city": "USA NC Raleigh",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Scientific Project Specialist at USA NC Raleigh",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NC-Raleigh/Scientific-Project-Specialist_RQ206306-1?q=Data+Science",
+    "id": "gdit-scientific-project-specialist-usa-nc-raleigh"
+  },
+  {
+    "employer_name": "Verizon",
     "job_title": "Software Defined Network Engineer, Lead",
     "job_city": "San Diego",
     "job_state": "CA",
     "job_posted_at": "Posted Today",
     "job_description": "Data Science job for the role Software Defined Network Engineer, Lead at San Diego, CA",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Software-Defined-Network-Engineer--Lead_R0225275?q=Data+Science",
-    "id": "booz-allen-software-defined-network-engineer-lead-san-diego"
-  },
-  {
-    "employer_name": "Booz Allen",
-    "job_title": "Test Engineer, Lead",
-    "job_city": "El Segundo",
-    "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Test Engineer, Lead at El Segundo, CA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/Test-Engineer--Lead_R0225230-1?q=Data+Science",
-    "id": "booz-allen-test-engineer-lead-el-segundo"
-  },
-  {
-    "employer_name": "MAGNA",
-    "job_title": "Software Engineer - Image Signal Processing",
-    "job_city": "Southfield",
-    "job_state": "Michigan",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Principal Software Engineer - Image Signal Processing at Southfield, Michigan, US",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Southfield-Michigan-US/Principal-Software-Engineer---ISP_R00205993?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-software-engineer-image-signal-processing-southfield"
+    "id": "verizon-software-defined-network-engineer-lead-san-diego"
   }
 ]
