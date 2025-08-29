@@ -1,52 +1,63 @@
 [
   {
-    "employer_name": "CISCO",
-    "job_title": "Director, Technical Marketing Engineering - Enterprise Networking & Security",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Director, Technical Marketing Engineering - Enterprise Networking & Security at San Jose, California, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Director-Technical-Marketing-Engineering-Enterprise-Networking-Security/1447985",
-    "id": "cisco-director-technical-marketing-engineering-enterprise-networking-security-san-jose"
-  },
-  {
-    "employer_name": "SIEMENS",
-    "job_title": "Senior Financial Analyst",
-    "job_city": "Peachtree Corners",
-    "job_state": "United States of America",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Financial Analyst at Peachtree Corners, Georgia, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-senior-financial-analyst-peachtree-corners"
+    "job_title": "Business Intelligence Engineer, Amazon Logistics, WW AMZL Business Intelligence and Analytics - ORBIT",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Data Science job for the role Business Intelligence Engineer, Amazon Logistics, WW AMZL Business Intelligence and Analytics - ORBIT at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2954413/business-intelligence-engineer-amazon-logistics-ww-amzl-business-intelligence-and-analytics-orbit",
+    "job_posted_at": "2025-08-29T22:07:16.968Z",
+    "job_posted_at_datetime_utc": "2025-08-29T22:07:16.968Z",
+    "id": "amazon-business-intelligence-engineer-amazon-logistics-ww-amzl-business-intelligence-and-analytics-orbit-bellevue"
   },
   {
     "employer_name": "AMD",
-    "job_title": "Sr. Power Attainment Engineer",
-    "job_city": "US",
-    "job_state": "TX",
+    "job_title": "2026 Masters Product Development Engineering Intern",
+    "job_city": "Multiple",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sr. Power Attainment Engineer at US,TX,Austin\n7171 Southwest Parkway\nAustin, Texas\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/68257/login",
-    "id": "amd-sr-power-attainment-engineer-us"
+    "job_description": "Data Science job for the role 2026 Masters Product Development Engineering Intern at Multiple",
+    "job_apply_link": "https://campus-amd.icims.com/jobs/70484/login",
+    "id": "amd-2026-masters-product-development-engineering-intern-multiple"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Camera Machine Learning - Data Scientist",
-    "job_city": "Cupertino",
-    "job_state": "California",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role Camera Machine Learning - Data Scientist at Cupertino",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200618430-0836/camera-machine-learning-data-scientist?team=HRDWR",
-    "id": "apple-camera-machine-learning-data-scientist-cupertino"
-  },
-  {
-    "employer_name": "Hewlett Packard Enterprise",
-    "job_title": "Factory Express Engineering / Engagement Project Management",
-    "job_city": "Aguadilla",
-    "job_state": "Puerto Rico",
+    "employer_name": "Booz Allen",
+    "job_title": "Data Scientist",
+    "job_city": "San Diego",
+    "job_state": "CA",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Factory Express Engineering / Engagement Project Management at Aguadilla, Puerto Rico, Puerto Rico",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Factory-Express-Engineering---Engagement-Project-Management_1192104-1?q=Data+Science",
-    "id": "hewlett-packard-enterprise-factory-express-engineering-engagement-project-management-aguadilla"
+    "job_description": "Data Science job for the role Data Scientist at San Diego, CA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Data-Scientist_R0223196?q=Data+Science",
+    "id": "booz-allen-data-scientist-san-diego"
+  },
+  {
+    "employer_name": "Booz Allen",
+    "job_title": "AI Software Engineer",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role AI Software Engineer at Arlington, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/AI-Software-Engineer_R0225443?q=Data+Science",
+    "id": "booz-allen-ai-software-engineer-arlington"
+  },
+  {
+    "employer_name": "Verizon",
+    "job_title": "Data Scientist",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Data Scientist at San Diego, CA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Data-Scientist_R0223196?q=Data+Science",
+    "id": "verizon-data-scientist-san-diego"
+  },
+  {
+    "employer_name": "Verizon",
+    "job_title": "AI Software Engineer",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role AI Software Engineer at Arlington, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/AI-Software-Engineer_R0225443?q=Data+Science",
+    "id": "verizon-ai-software-engineer-arlington"
   }
 ]
