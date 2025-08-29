@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "employer_name": "SIEMENS",
+    "job_title": "Sales Building Automation HVAC Service Account Executive",
+    "job_city": "Lakewood",
+    "job_state": "United States of America",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sales Building Automation HVAC Service Account Executive at Lakewood, Colorado, United States of America",
+    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
+    "id": "siemens-sales-building-automation-hvac-service-account-executive-lakewood"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Server Performance Architect",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Server Performance Architect at US,CA,Santa Clara\n2485 Augustine Drive\nSanta Clara, California\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/63362/login",
+    "id": "amd-server-performance-architect-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Custom Silicon Core Team Program Manager",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Custom Silicon Core Team Program Manager at US,CA,San Jose\n2100 Logic Drive\nSan Jose, California\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/69123/login",
+    "id": "amd-custom-silicon-core-team-program-manager-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Product Reliability Engineer",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Product Reliability Engineer at US,TX,Austin\n7171 Southwest Parkway\nAustin, Texas\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/69252/login",
+    "id": "amd-product-reliability-engineer-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "CAD Engineer - Packaging",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior CAD Engineer - Packaging at US,TX,Austin\n7171 Southwest Parkway\nAustin, Texas\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/68792/login",
+    "id": "amd-cad-engineer-packaging-us"
+  }
+]
