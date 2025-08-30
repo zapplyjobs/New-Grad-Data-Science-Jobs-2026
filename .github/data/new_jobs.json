@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Associate Data Scientist",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "21h ago",
+    "job_description": "data science job for the role Associate Data Scientist at Santa Monica, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/158883742-associate-data-scientist",
+    "id": "aijobs-associate-data-scientist-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Sr. Deep Learning/AI Engineer - Machine Learning (Hybrid or Remote)",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "21h ago",
+    "job_description": "data science job for the role Sr. Deep Learning/AI Engineer - Machine Learning (Hybrid or Remote) at San Diego, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/158883741-sr-deep-learning-ai-engineer-machine-learning-hybrid-or-remote",
+    "id": "aijobs-sr-deep-learning-ai-engineer-machine-learning-hybrid-or-remote-us"
+  }
+]
