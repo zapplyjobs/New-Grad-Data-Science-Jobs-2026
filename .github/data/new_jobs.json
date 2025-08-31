@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Machine Learning Data Scientist, Forecasting",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "4min ago",
+    "job_description": "data science job for the role Machine Learning Data Scientist, Forecasting at San Francisco, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/159227456-machine-learning-data-scientist-forecasting",
+    "id": "aijobs-machine-learning-data-scientist-forecasting-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Biotech Data Scientist",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role Biotech Data Scientist at Berkeley, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/159227454-biotech-data-scientist",
+    "id": "aijobs-biotech-data-scientist-us"
+  }
+]
