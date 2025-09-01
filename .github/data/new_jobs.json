@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Digital Sales Specialist - Storage",
-    "job_city": "Brookhaven",
+    "employer_name": "Apple",
+    "job_title": "Hardware Systems Engineer - Data Center HW",
+    "job_city": "Sunnyvale",
     "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Digital Sales Specialist - Storage at ProfessionalBrookhaven, US",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55131&source=WEB_Search_NA",
-    "id": "ibm-digital-sales-specialist-storage-brookhaven"
+    "job_posted_at": "1 day ago",
+    "job_description": "Data Science job for the role Hardware Systems Engineer - Data Center HW at Sunnyvale",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200618557-3956/hardware-systems-engineer-data-center-hw?team=HRDWR",
+    "id": "apple-hardware-systems-engineer-data-center-hw-sunnyvale"
+  },
+  {
+    "employer_name": "GDIT",
+    "job_title": "SCITLS CSSP Sr. Cyber Strategy Advisor",
+    "job_city": "USA VA Springfield",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role SCITLS CSSP Sr. Cyber Strategy Advisor at USA VA Springfield",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Springfield/Network-Engineer-Senior--TS-SCI-with-Polygraph_RQ201543-2?q=Data+Science",
+    "id": "gdit-scitls-cssp-sr-cyber-strategy-advisor-usa-va-springfield"
   }
 ]
