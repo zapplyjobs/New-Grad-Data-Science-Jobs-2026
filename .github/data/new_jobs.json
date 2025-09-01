@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Solution Engineer (Pre-Sales) - Mulesoft",
-    "job_city": "Georgia - Atlanta",
-    "job_state": "US",
+    "employer_name": "Google",
+    "job_title": "Data Analytics and AI Sales Specialist",
+    "job_city": "Boulder",
+    "job_state": "CO",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Solution Engineer (Pre-Sales) - Mulesoft in Sales. Available in 5 location(s): Georgia - Atlanta, Illinois - Chicago, New York - New York, Texas - Dallas, California - San Francisco",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr282136/solution-engineer-pre-sales-mulesoft/",
-    "id": "salesforce-solution-engineer-pre-sales-mulesoft-georgia-atlanta"
+    "job_description": "26 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Data Analytics and AI Sales Specialist, SLED, Public Sector",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/77452344974811846-data-analytics-and-ai-sales-specialist-sled-public-sector?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-data-analytics-and-ai-sales-specialist-boulder"
   },
   {
-    "employer_name": "Salesforce",
-    "job_title": "Director,  Supplier Third-Party Risk Management",
-    "job_city": "Georgia - Atlanta",
-    "job_state": "US",
+    "employer_name": "Google",
+    "job_title": "Data Analytics and AI Sales Specialist",
+    "job_city": "Reston",
+    "job_state": "VA",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Director,  Supplier Third-Party Risk Management in Finance. Available in 1 location(s): Georgia - Atlanta",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr294104/senior-director-supplier-third-party-risk-management/",
-    "id": "salesforce-director-supplier-third-party-risk-management-georgia-atlanta"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Vice President, AMER Practices",
-    "job_city": "Georgia - Atlanta",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Vice President, AMER Practices in Customer Success. Available in 8 location(s): Georgia - Atlanta, Washington - Seattle, Illinois - Chicago, Texas - Austin, Massachusetts - Boston, New York - New York, California - San Francisco, Indiana - Indianapolis",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr299705/vice-president-amer-practices/",
-    "id": "salesforce-vice-president-amer-practices-georgia-atlanta"
+    "job_description": "29 Category: Data Science. Level: corporate_fareGoogle. Posted: Recently. Full Title: Data Analytics and AI Sales Specialist, FED, Public Sector",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/136280615107338950-data-analytics-and-ai-sales-specialist-fed-public-sector?q=%22Data+Science%22&location=United+States&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=ADVANCED&target_level=MID&degree=MASTERS&degree=ASSOCIATE&degree=BACHELORS&employment_type=TEMPORARY&employment_type=INTERN&employment_type=PART_TIME&employment_type=FULL_TIME&page=2",
+    "id": "google-data-analytics-and-ai-sales-specialist-reston"
   }
 ]
