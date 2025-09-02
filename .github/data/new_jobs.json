@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "NVIDIA 2026 Internships: PhD Large Language Models Research",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role NVIDIA 2026 Internships: PhD Large Language Models Research at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Large-Language-Models-Research_JR2003243?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-nvidia-2026-internships-phd-large-language-models-research-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "NVIDIA 2026 Internships: PhD Autonomous Vehicles Research",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role NVIDIA 2026 Internships: PhD Autonomous Vehicles Research at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Autonomous-Vehicles-Research_JR2003244?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-nvidia-2026-internships-phd-autonomous-vehicles-research-us"
+  },
+  {
+    "employer_name": "NVIDIA",
+    "job_title": "NVIDIA 2026 Internships: PhD Generative AI Research",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role NVIDIA 2026 Internships: PhD Generative AI Research at US, CA, Santa Clara",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Generative-AI-Research_JR2003228?q=Data+Science&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-nvidia-2026-internships-phd-generative-ai-research-us"
+  }
+]
