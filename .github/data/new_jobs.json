@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Product Manager",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Entry Level Product Manager 2026 at Entry LevelMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56278&source=WEB_Search_NA",
+    "id": "ibm-entry-level-product-manager-multiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Product Manager Intern",
+    "job_city": "Multiple Cities",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Product Manager Intern  2026 at InternshipMultiple Cities",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56279&source=WEB_Search_NA",
+    "id": "ibm-product-manager-intern-multiple-cities"
+  },
+  {
+    "employer_name": "JP Morgan Chase",
+    "job_title": "2026 Software Engineer Program – (New York Jobs CEO Council Tech Apprenticeship)",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role 2026 Software Engineer Program – (New York Jobs CEO Council Tech Apprenticeship) at New York, NY, United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210657659/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-2026-software-engineer-program-new-york-jobs-ceo-council-tech-apprenticeship-new-york"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "2026 Undergrad Software Engineering Co-Op",
+    "job_city": "Multiple",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role 2026 Undergrad Software Engineering Co-Op at Multiple",
+    "job_apply_link": "https://campus-amd.icims.com/jobs/70481/login",
+    "id": "amd-2026-undergrad-software-engineering-co-op-multiple"
+  }
+]
