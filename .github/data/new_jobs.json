@@ -1,114 +1,95 @@
 [
   {
-    "job_title": "Data Engineer, Amazon Ads, Finance & Sales Incentive Compensation",
+    "job_title": "Business Intelligence Engineer, DC Security Ops Excellence",
     "employer_name": "Amazon",
-    "job_city": "Culver City",
-    "job_state": "CA",
-    "job_description": "Data Science job for the role Data Engineer, Amazon Ads, Finance & Sales Incentive Compensation at Culver City, CA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3071057/data-engineer-amazon-ads-finance-sales-incentive-compensation",
-    "job_posted_at": "2025-09-02T17:08:31.784Z",
-    "job_posted_at_datetime_utc": "2025-09-02T17:08:31.784Z",
-    "id": "amazon-data-engineer-amazon-ads-finance-sales-incentive-compensation-culver-city"
+    "job_city": "Herndon",
+    "job_state": "VA",
+    "job_description": "Data Science job for the role Business Intelligence Engineer, DC Security Ops Excellence at Herndon, VA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2960632/business-intelligence-engineer-dc-security-ops-excellence",
+    "job_posted_at": "2025-09-02T17:06:49.566Z",
+    "job_posted_at_datetime_utc": "2025-09-02T17:06:49.566Z",
+    "id": "amazon-business-intelligence-engineer-dc-security-ops-excellence-herndon"
   },
   {
-    "job_title": "Business Intelligence Engineer, P2 Science, Data, and Insights",
+    "job_title": "Applied Scientist, Artificial General Intelligence",
     "employer_name": "Amazon",
-    "job_city": "Seattle",
+    "job_city": "Bellevue",
     "job_state": "WA",
-    "job_description": "Data Science job for the role Business Intelligence Engineer, P2 Science, Data, and Insights at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3070853/business-intelligence-engineer-p2-science-data-and-insights",
-    "job_posted_at": "2025-09-02T16:08:31.784Z",
-    "job_posted_at_datetime_utc": "2025-09-02T16:08:31.784Z",
-    "id": "amazon-business-intelligence-engineer-p2-science-data-and-insights-seattle"
+    "job_description": "Data Science job for the role Applied Scientist, Artificial General Intelligence at Bellevue, WA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3071222/applied-scientist-artificial-general-intelligence",
+    "job_posted_at": "2025-09-02T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-09-02T00:00:00.000Z",
+    "id": "amazon-applied-scientist-artificial-general-intelligence-bellevue"
   },
   {
-    "employer_name": "SIEMENS",
-    "job_title": "Production Manager - in the factory with AI-powered machines",
-    "job_city": "Broken Arrow",
-    "job_state": "United States of America",
+    "job_title": "Deep Learning Architect, Generative AI Innovation Center",
+    "employer_name": "Amazon",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Data Science job for the role Deep Learning Architect, Generative AI Innovation Center at New York, NY, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3071234/deep-learning-architect-generative-ai-innovation-center",
+    "job_posted_at": "2025-09-02T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-09-02T00:00:00.000Z",
+    "id": "amazon-deep-learning-architect-generative-ai-innovation-center-new-york"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "System Level Product Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Production Manager - in the factory with AI-powered machines at Broken Arrow, Oklahoma, United States of America",
-    "job_apply_link": "https://jobs.siemens.com/careers?query=Data%20Science&location=USA&pid=563156126459716&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us",
-    "id": "siemens-production-manager-in-the-factory-with-ai-powered-machines-broken-arrow"
+    "job_description": "Data Science job for the role Staff System Level Product Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/staff-system-level-product-engineer/33099/85702733840",
+    "id": "arm-system-level-product-engineer-austin"
+  },
+  {
+    "employer_name": "10x Genomics",
+    "job_title": "Software Engineer, Infrastructure Engineering",
+    "job_city": "Pleasanton",
+    "job_state": "California",
+    "job_posted_at": "6 months ago",
+    "job_description": "Data Science position at 10x Genomics - Senior Software Engineer, Infrastructure Engineering",
+    "job_apply_link": "https://careers.10xgenomics.com/careers/job/171826177042",
+    "id": "10x-genomics-software-engineer-infrastructure-engineering-pleasanton"
   },
   {
     "employer_name": "JP Morgan Chase",
-    "job_title": "Data Owner Vice President - Credit Card Customer Journey",
-    "job_city": "Plano",
-    "job_state": "TX",
+    "job_title": "Data Engineer",
+    "job_city": "Buenos Aires",
+    "job_state": "Argentina",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Data Owner Vice President - Credit Card Customer Journey at Plano, TX, United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210661379/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jp-morgan-chase-data-owner-vice-president-credit-card-customer-journey-plano"
+    "job_description": "Data Science job for the role Data Engineer III at Buenos Aires, Argentina",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210614318/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-data-engineer-buenos-aires"
   },
   {
-    "employer_name": "JP Morgan Chase",
-    "job_title": "Control Management - Controls Room Reporting Product Owner Associate",
-    "job_city": "Jersey City",
-    "job_state": "NJ",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Control Management - Controls Room Reporting Product Owner Associate at Jersey City, NJ, United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210658135/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jp-morgan-chase-control-management-controls-room-reporting-product-owner-associate-jersey-city"
-  },
-  {
-    "employer_name": "HONEYWELL",
-    "job_title": "Sr. PP&C Analyst",
-    "job_city": "Rosemont",
-    "job_state": "IL",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sr. PP&C Analyst at Rosemont, IL, United States",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/116557/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-sr-pp-c-analyst-rosemont"
-  },
-  {
-    "employer_name": "Booz Allen",
-    "job_title": "Advanced Data Scientist",
-    "job_city": "Honolulu",
-    "job_state": "HI",
+    "employer_name": "Verizon",
+    "job_title": "Cyber Systems Engineer",
+    "job_city": "Chantilly",
+    "job_state": "VA",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Advanced Data Scientist at Honolulu, HI",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Advanced-Data-Scientist_R0225284?q=Data+Science",
-    "id": "booz-allen-advanced-data-scientist-honolulu"
+    "job_description": "Data Science job for the role Cyber Systems Engineer at Chantilly, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Cyber-Systems-Engineer_R0225461?q=Data+Science",
+    "id": "verizon-cyber-systems-engineer-chantilly"
   },
   {
-    "employer_name": "Booz Allen",
-    "job_title": "Virtual Infrastructure Engineer",
+    "employer_name": "Verizon",
+    "job_title": "Rubrik Backup Systems Engineer",
     "job_city": "San Diego",
     "job_state": "CA",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Virtual Infrastructure Engineer at San Diego, CA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Virtual-Infrastructure-Engineer_R0225449?q=Data+Science",
-    "id": "booz-allen-virtual-infrastructure-engineer-san-diego"
+    "job_description": "Data Science job for the role Rubrik Backup Systems Engineer at San Diego, CA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Rubrik-Backup-Systems-Engineer_R0225434?q=Data+Science",
+    "id": "verizon-rubrik-backup-systems-engineer-san-diego"
   },
   {
-    "employer_name": "Verizon",
-    "job_title": "Advanced Data Scientist",
-    "job_city": "Honolulu",
-    "job_state": "HI",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Advanced Data Scientist at Honolulu, HI",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Advanced-Data-Scientist_R0225284?q=Data+Science",
-    "id": "verizon-advanced-data-scientist-honolulu"
-  },
-  {
-    "employer_name": "Verizon",
-    "job_title": "DevSecOps Engineer",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role DevSecOps Engineer at Arlington, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/DevSecOps-Engineer_R0223316?q=Data+Science",
-    "id": "verizon-devsecops-engineer-arlington"
-  },
-  {
-    "employer_name": "Verizon",
-    "job_title": "System Administrator, Senior",
-    "job_city": "Fort Belvoir",
-    "job_state": "VA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role System Administrator, Senior at Fort Belvoir, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/System-Administrator--Senior_R0225479?q=Data+Science",
-    "id": "verizon-system-administrator-senior-fort-belvoir"
+    "employer_name": "ADOBE",
+    "job_title": "2026 University Graduate - Finance Data Scientist",
+    "job_city": "Remote",
+    "job_state": "Remote",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role 2026 University Graduate - Finance Data Scientist at ",
+    "job_apply_link": "https://careers.adobe.com/us/en/job/R158870/2026-University-Graduate-Finance-Data-Scientist",
+    "id": "adobe-2026-university-graduate-finance-data-scientist-remote"
   }
 ]
