@@ -1,45 +1,42 @@
 [
   {
-    "job_title": "Business Intelligence Engineer, Intelligent Talent Acquisition",
-    "employer_name": "Amazon",
-    "job_city": "Irving",
-    "job_state": "TX",
-    "job_description": "Data Science job for the role Business Intelligence Engineer, Intelligent Talent Acquisition at Irving, TX, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3071772/business-intelligence-engineer-intelligent-talent-acquisition",
-    "job_posted_at": "2025-09-03T13:07:35.405Z",
-    "job_posted_at_datetime_utc": "2025-09-03T13:07:35.405Z",
-    "id": "amazon-business-intelligence-engineer-intelligent-talent-acquisition-irving"
-  },
-  {
-    "job_title": "Data Engineer I, Intelligent Talent Acquisition",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Data Science job for the role Data Engineer I, Intelligent Talent Acquisition at Seattle, WA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3071768/data-engineer-i-intelligent-talent-acquisition",
-    "job_posted_at": "2025-09-03T13:07:35.404Z",
-    "job_posted_at_datetime_utc": "2025-09-03T13:07:35.404Z",
-    "id": "amazon-data-engineer-i-intelligent-talent-acquisition-seattle"
-  },
-  {
-    "job_title": "AI Engineer, Workforce Intelligence",
-    "employer_name": "Amazon",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_description": "Data Science job for the role AI Engineer, Workforce Intelligence at Arlington, VA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3071774/ai-engineer-workforce-intelligence",
-    "job_posted_at": "2025-09-03T13:07:35.404Z",
-    "job_posted_at_datetime_utc": "2025-09-03T13:07:35.404Z",
-    "id": "amazon-ai-engineer-workforce-intelligence-arlington"
-  },
-  {
-    "employer_name": "HONEYWELL",
-    "job_title": "Sr IT Engineer ( IT Service Management and CMDB)",
-    "job_city": "Phoenix",
-    "job_state": "AZ",
+    "employer_name": "IBM",
+    "job_title": "Postdoctoral Researcher",
+    "job_city": "San Jose",
+    "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Sr IT Engineer ( IT Service Management and CMDB) at Phoenix, AZ, United States",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/115939/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-sr-it-engineer-it-service-management-and-cmdb-phoenix"
+    "job_description": "Data Science job for the role Postdoctoral Researcher at Entry LevelSan Jose, US",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55833&source=WEB_Search_NA",
+    "id": "ibm-postdoctoral-researcher-san-jose"
+  },
+  {
+    "employer_name": "ABB",
+    "job_title": "Technical Solutions Manager - Life Sciences Automation",
+    "job_city": "Multiple",
+    "job_state": "Various",
+    "job_posted_at": "Today",
+    "job_description": "Data Science job for the role Technical Solutions Manager - Life Sciences Automation at Available in one of 5 s",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00007665/Technical-Solutions-Manager-Life-Sciences-Automation",
+    "id": "abb-technical-solutions-manager-life-sciences-automation-multiple"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "Software Engineer PhD (Intern) United States",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Engineer PhD (Intern) United States at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-PhD-Intern-United-States/1449981",
+    "id": "cisco-software-engineer-phd-intern-united-states-san-jose"
+  },
+  {
+    "employer_name": "JP Morgan Chase",
+    "job_title": "Sr Manager of Software Engineering - Java/AWS",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sr Manager of Software Engineering - Java/AWS at New York, NY, United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210660500/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-sr-manager-of-software-engineering-java-aws-new-york"
   }
 ]
