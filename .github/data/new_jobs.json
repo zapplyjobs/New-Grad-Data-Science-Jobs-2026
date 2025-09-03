@@ -1,72 +1,92 @@
 [
   {
-    "employer_name": "10x Genomics",
-    "job_title": "Service Operations Engineer",
-    "job_city": "Pleasanton",
+    "employer_name": "INFINEON",
+    "job_title": "Manager External Wafer Manufacturing Operations",
+    "job_city": "Austin",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Manager External Wafer Manufacturing Operations at Austin",
+    "job_apply_link": "https://jobs.infineon.com/careers?query=Data%20Science&location=united%20states&pid=563808961388750&domain=infineon.com&sort_by=relevance",
+    "id": "infineon-manager-external-wafer-manufacturing-operations-austin"
+  },
+  {
+    "employer_name": "CISCO",
+    "job_title": "AI Operations Engineer II (Intern) United States",
+    "job_city": "San Jose",
     "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Data Science position at 10x Genomics - Senior Service Operations Engineer",
-    "job_apply_link": "https://careers.10xgenomics.com/careers/job/171836497109",
-    "id": "10x-genomics-service-operations-engineer-pleasanton"
+    "job_description": "Data Science job for the role AI Operations Engineer II (Intern) United States at San Jose, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/AI-Operations-Engineer-II-Intern-United-States/1449533",
+    "id": "cisco-ai-operations-engineer-ii-intern-united-states-san-jose"
   },
   {
     "employer_name": "10x Genomics",
-    "job_title": "Manager, Facilities Services (P-4785)",
+    "job_title": "Manager, Facilities Services (Pleasanton) (P-4785)",
     "job_city": "Pleasanton",
     "job_state": "California",
     "job_posted_at": "Recently",
-    "job_description": "Data Science position at 10x Genomics - Senior Manager, Facilities Services (P-4785)",
+    "job_description": "Data Science position at 10x Genomics - Senior Manager, Facilities Services (Pleasanton) (P-4785)",
     "job_apply_link": "https://careers.10xgenomics.com/careers/job/171836491065",
-    "id": "10x-genomics-manager-facilities-services-p-4785-pleasanton"
+    "id": "10x-genomics-manager-facilities-services-pleasanton-p-4785-pleasanton"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Data Scientist-Maps Evaluation",
+    "employer_name": "JP Morgan Chase",
+    "job_title": "Drive the Future Program Internship - Development & Communications (Part Time)",
     "job_city": "Unknown",
     "job_state": "US",
-    "job_posted_at": "2 weeks ago",
-    "job_description": "Data Science job for the role Data Scientist-Maps Evaluation at ",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200617375-3401/data-scientist-maps-evaluation?team=SFTWR",
-    "id": "apple-data-scientist-maps-evaluation-unknown"
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Drive the Future Program Internship - Development & Communications (Part Time) at ",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210660439/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-drive-the-future-program-internship-development-communications-part-time-unknown"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Data Scientist - Experimentation",
-    "job_city": "Unknown",
-    "job_state": "US",
-    "job_posted_at": "1 week ago",
-    "job_description": "Data Science job for the role Senior Data Scientist - Experimentation at ",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200618200-2621/senior-data-scientist-experimentation?team=SFTWR",
-    "id": "apple-data-scientist-experimentation-unknown"
+    "employer_name": "JP Morgan Chase",
+    "job_title": "Manager of Software Engineering",
+    "job_city": "Wilmington",
+    "job_state": "DE",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Manager of Software Engineering at Wilmington, DE, United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210661447/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jp-morgan-chase-manager-of-software-engineering-wilmington"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "AIML – Sr Full-stack Software Engineer, Data Operations",
-    "job_city": "Seattle",
-    "job_state": "Washington",
-    "job_posted_at": "1 day ago",
-    "job_description": "Data Science job for the role AIML – Sr Full-stack Software Engineer, Data Operations at Seattle",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200618953-3337/aiml-sr-full-stack-software-engineer-data-operations?team=MLAI",
-    "id": "apple-aiml-sr-full-stack-software-engineer-data-operations-seattle"
-  },
-  {
-    "employer_name": "DELL",
-    "job_title": "Software Senior Engineer, PowerScale",
-    "job_city": "Seattle",
-    "job_state": "Washington",
+    "employer_name": "Booz Allen",
+    "job_title": "Data Science Expert",
+    "job_city": "Alexandria",
+    "job_state": "VA",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Software Senior Engineer, PowerScale at Seattle, Washington, United States",
-    "job_apply_link": "https://dell.wd1.myworkdayjobs.com/en-US/External/job/Seattle-Washington-United-States/Software-Senior-Engineer--PowerScale_R276871?q=Data+Science&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "dell-software-senior-engineer-powerscale-seattle"
+    "job_description": "Data Science job for the role Data Science Expert at Alexandria, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Science-Expert_R0225538?q=Data+Science",
+    "id": "booz-allen-data-science-expert-alexandria"
+  },
+  {
+    "employer_name": "Hewlett Packard Enterprise",
+    "job_title": "Business Operations Manager",
+    "job_city": "Aguadilla",
+    "job_state": "Puerto Rico",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Business Operations Manager I at Aguadilla, Puerto Rico, Puerto Rico",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Business-Operations-Manager-I_1191333-1?q=Data+Science",
+    "id": "hewlett-packard-enterprise-business-operations-manager-aguadilla"
+  },
+  {
+    "employer_name": "Hewlett Packard Enterprise",
+    "job_title": "Product Engineer",
+    "job_city": "Aguadilla",
+    "job_state": "Puerto Rico",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Junior Product Engineer at Aguadilla, Puerto Rico, Puerto Rico",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Junior-Product-Engineer_1191784-1?q=Data+Science",
+    "id": "hewlett-packard-enterprise-product-engineer-aguadilla"
   },
   {
     "employer_name": "Verizon",
-    "job_title": "GEOINT Collection Analyst",
-    "job_city": "Springfield",
+    "job_title": "Data Science Expert",
+    "job_city": "Alexandria",
     "job_state": "VA",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role GEOINT Collection Analyst at Springfield, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/GEOINT-Collection-Analyst_R0225293?q=Data+Science",
-    "id": "verizon-geoint-collection-analyst-springfield"
+    "job_description": "Data Science job for the role Data Science Expert at Alexandria, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Science-Expert_R0225538?q=Data+Science",
+    "id": "verizon-data-science-expert-alexandria"
   }
 ]
