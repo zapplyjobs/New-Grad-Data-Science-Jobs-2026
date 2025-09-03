@@ -1,12 +1,22 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Software Engineer - Database",
-    "job_city": "Multiple Cities",
+    "employer_name": "Salesforce",
+    "job_title": "Customer Success Manager, Digital - Commerce Cloud",
+    "job_city": "Indiana - Indianapolis",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineer - Database at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56312&source=WEB_Search_NA",
-    "id": "ibm-software-engineer-database-multiple-cities"
+    "job_description": "Data Science job for the role Customer Success Manager, Digital - Commerce Cloud in Customer Success. Available in 5 location(s): Indiana - Indianapolis, Washington - Seattle, Illinois - Chicago, Georgia - Atlanta, Washington - Bellevue",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr290501/customer-success-manager-digital-commerce-cloud/",
+    "id": "salesforce-customer-success-manager-digital-commerce-cloud-indiana-indianapolis"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Sales Programs Manager, ASEAN",
+    "job_city": "Thailand - Bangkok",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Sales Programs Manager, ASEAN in Program & Project Management. Available in 1 location(s): Thailand - Bangkok",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr309260/sales-programs-manager-asean/",
+    "id": "salesforce-sales-programs-manager-asean-thailand-bangkok"
   }
 ]
