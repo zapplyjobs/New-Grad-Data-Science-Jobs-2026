@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Technical Solution Specialist Intern",
-    "job_city": "Multiple Cities",
+    "employer_name": "Salesforce",
+    "job_title": "DevOps Engineer",
+    "job_city": "Virginia - Herndon",
     "job_state": "US",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Technical Solution Specialist Intern 2026 at InternshipMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56580&source=WEB_Search_NA",
-    "id": "ibm-technical-solution-specialist-intern-multiple-cities"
-  },
-  {
-    "employer_name": "IBM",
-    "job_title": "Customer Succes Manager - webMethods iPaaS",
-    "job_city": "Multiple Cities",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Customer Succes Manager - webMethods iPaaS at ProfessionalMultiple Cities",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55583&source=WEB_Search_NA",
-    "id": "ibm-customer-succes-manager-webmethods-ipaas-multiple-cities"
+    "job_description": "Data Science job for the role DevOps Engineer in Software Engineering. Available in 1 location(s): Virginia - Herndon",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr303290/devops-engineer/",
+    "id": "salesforce-devops-engineer-virginia-herndon"
   }
 ]
