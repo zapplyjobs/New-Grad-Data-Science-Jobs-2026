@@ -1,62 +1,12 @@
 [
   {
     "employer_name": "JP Morgan Chase",
-    "job_title": "Technology Support",
+    "job_title": "Application Support Engineer",
     "job_city": "Metro Manila",
     "job_state": "National Capital Region",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Technology Support III at Metro Manila, National Capital Region, Philippines",
+    "job_description": "Data Science job for the role Senior Application Support Engineer at Metro Manila, National Capital Region, Philippines",
     "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210662875/?keyword=Data+Science&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jp-morgan-chase-technology-support-metro-manila"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineering AMTS",
-    "job_city": "France - Grenoble",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Engineering AMTS in Software Engineering. Available in 1 location(s): France - Grenoble",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr307997/software-engineering-amts/",
-    "id": "salesforce-software-engineering-amts-france-grenoble"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Engineering Operations, Senior Lead",
-    "job_city": "Georgia - Atlanta",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Engineering Operations, Senior Lead in Operations. Available in 2 location(s): Georgia - Atlanta, Washington - Seattle",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr309590/engineering-operations-senior-lead/",
-    "id": "salesforce-engineering-operations-senior-lead-georgia-atlanta"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Manager, Sales",
-    "job_city": "Illinois - Chicago",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Manager, Sales in Sales. Available in 1 location(s): Illinois - Chicago",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr303594/senior-manager-sales/",
-    "id": "salesforce-manager-sales-illinois-chicago"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Data Analytics Senior Analyst",
-    "job_city": "Mexico - Mexico City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Data Analytics Senior Analyst in Data. Available in 3 location(s): Mexico - Mexico City, Mexico - Remote, Argentina - Buenos Aires",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr309117/data-analytics-senior-analyst/",
-    "id": "salesforce-data-analytics-senior-analyst-mexico-mexico-city"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Lead, Specialist SE",
-    "job_city": "Mexico - Mexico City",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Lead, Specialist SE in Sales. Available in 1 location(s): Mexico - Mexico City",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308951/lead-specialist-se/",
-    "id": "salesforce-lead-specialist-se-mexico-mexico-city"
+    "id": "jp-morgan-chase-application-support-engineer-metro-manila"
   }
 ]
