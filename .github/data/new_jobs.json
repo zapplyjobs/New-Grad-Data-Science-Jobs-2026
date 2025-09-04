@@ -1,12 +1,23 @@
 [
   {
-    "employer_name": "Verizon",
-    "job_title": "Systems Engineer",
-    "job_city": "San Diego",
+    "job_title": "Applied Scientist II, Amazon AWS Agentic AI, AWS AI Fundamental Research",
+    "employer_name": "Amazon",
+    "job_city": "Santa Clara",
     "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Systems Engineer at San Diego, CA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Systems-Engineer_R0225575-1?q=Data+Science",
-    "id": "verizon-systems-engineer-san-diego"
+    "job_description": "Data Science job for the role Applied Scientist II, Amazon AWS Agentic AI, AWS AI Fundamental Research at Santa Clara, CA, USA",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3072738/applied-scientist-ii-amazon-aws-agentic-ai-aws-ai-fundamental-research",
+    "job_posted_at": "2025-09-04T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-09-04T00:00:00.000Z",
+    "id": "amazon-applied-scientist-ii-amazon-aws-agentic-ai-aws-ai-fundamental-research-santa-clara"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Systems Architect Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Systems Architect Engineer at Austin, Texas",
+    "job_apply_link": "https://careers.arm.com/job/austin/systems-architect-engineer/33099/85751639712",
+    "id": "arm-systems-architect-engineer-austin"
   }
 ]
