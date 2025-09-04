@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "AiJobs",
-    "job_title": "Director, Healthcare Applied Research",
-    "job_city": "US",
+    "employer_name": "Verizon",
+    "job_title": "Systems Engineer",
+    "job_city": "San Diego",
     "job_state": "CA",
-    "job_posted_at": "6d ago",
-    "job_description": "data science job for the role Director, Healthcare Applied Research at Santa Clara, CA, US",
-    "job_apply_link": "https://www.aijobs.com/jobs/160661383-director-healthcare-applied-research",
-    "id": "aijobs-director-healthcare-applied-research-us"
-  },
-  {
-    "employer_name": "GDIT",
-    "job_title": "Software Engineer | Active Secret clearance",
-    "job_city": "Any Location / Remote",
-    "job_state": "",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Software Engineer | Active Secret clearance at Any Location / Remote",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Software-Engineer---Active-Secret-clearance_RQ206548-2?q=Data+Science",
-    "id": "gdit-software-engineer-active-secret-clearance-any-location-remote"
+    "job_description": "Data Science job for the role Systems Engineer at San Diego, CA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Systems-Engineer_R0225575-1?q=Data+Science",
+    "id": "verizon-systems-engineer-san-diego"
   }
 ]
