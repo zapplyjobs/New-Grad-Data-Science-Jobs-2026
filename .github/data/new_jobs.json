@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "employer_name": "CISCO",
+    "job_title": "Software Engineering Technical Lead - Intersight Virtual Appliance",
+    "job_city": "Milpitas",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Engineering Technical Lead - Intersight Virtual Appliance at Milpitas, California, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineering-Technical-Lead-Intersight-Virtual-Appliance/1440642",
+    "id": "cisco-software-engineering-technical-lead-intersight-virtual-appliance-milpitas"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Data Scientist, Product, Geo Data Science",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "22h ago",
+    "job_description": "data science job for the role Data Scientist, Product, Geo Data Science at Mountain View, CA, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/160706437-data-scientist-product-geo-data-science",
+    "id": "aijobs-data-scientist-product-geo-data-science-us"
+  },
+  {
+    "employer_name": "AiJobs",
+    "job_title": "Business Data Scientist, Impact Measurement",
+    "job_city": "US",
+    "job_state": "NY",
+    "job_posted_at": "3d ago",
+    "job_description": "data science job for the role Business Data Scientist, Impact Measurement at New York, NY, US",
+    "job_apply_link": "https://www.aijobs.com/jobs/160706442-business-data-scientist-impact-measurement",
+    "id": "aijobs-business-data-scientist-impact-measurement-us"
+  },
+  {
+    "employer_name": "GDIT",
+    "job_title": "Appian Developer",
+    "job_city": "Any Location / Remote",
+    "job_state": "",
+    "job_posted_at": "Posted Today",
+    "job_description": "Data Science job for the role Lead Appian Developer at Any Location / Remote",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Lead-Appian-Developer_RQ206611?q=Data+Science",
+    "id": "gdit-appian-developer-any-location-remote"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Demo Strategist",
+    "job_city": "New York - Remote",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Demo Strategist in Product. Available in 2 location(s): New York - Remote, US, Remote",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr306867/demo-strategist/",
+    "id": "salesforce-demo-strategist-new-york-remote"
+  }
+]
