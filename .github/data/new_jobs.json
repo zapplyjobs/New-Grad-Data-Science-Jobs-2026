@@ -1,73 +1,72 @@
 [
   {
-    "job_title": "AI Content Expert II (Career Fair), AGI Data Services",
-    "employer_name": "Amazon",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_description": "Data Science job for the role AI Content Expert II (Career Fair), AGI Data Services at Boston, MA, USA",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2957330/ai-content-expert-ii-career-fair-agi-data-services",
-    "job_posted_at": "2025-09-04T18:06:43.673Z",
-    "job_posted_at_datetime_utc": "2025-09-04T18:06:43.673Z",
-    "id": "amazon-ai-content-expert-ii-career-fair-agi-data-services-boston"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Manager, High Performance Computing Lab & Data Center",
-    "job_city": "Austin",
-    "job_state": "Texas",
+    "employer_name": "CISCO",
+    "job_title": "Architect - Technical Lead - Security & Compliance / Cloud Software",
+    "job_city": "Cary",
+    "job_state": "North Carolina",
     "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Manager, High Performance Computing Lab & Data Center at Austin, Texas",
-    "job_apply_link": "https://careers.arm.com/job/austin/senior-manager-high-performance-computing-lab-and-data-center/33099/83658645696",
-    "id": "arm-manager-high-performance-computing-lab-data-center-austin"
+    "job_description": "Data Science job for the role Architect - Technical Lead - Security & Compliance / Cloud Software at Cary, North Carolina, US",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Architect-Technical-Lead-Security-Compliance-Cloud-Software/1448877",
+    "id": "cisco-architect-technical-lead-security-compliance-cloud-software-cary"
   },
   {
-    "employer_name": "MARVELL",
-    "job_title": "Hardware Design Engineer",
-    "job_city": "Santa Clara",
+    "employer_name": "10x Genomics",
+    "job_title": "Manufacturing Engineering Technician",
+    "job_city": "Pleasanton",
+    "job_state": "California",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science position at 10x Genomics - Senior Manufacturing Engineering Technician",
+    "job_apply_link": "https://careers.10xgenomics.com/careers/job/171836508521",
+    "id": "10x-genomics-manufacturing-engineering-technician-pleasanton"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Software Development Engineer-Networking/RDMA",
+    "job_city": "US",
     "job_state": "CA",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Principal Hardware Design Engineer at Santa Clara, CA",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Principal-Hardware-Design-Engineer_2502089?q=Data+Science&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvell-hardware-design-engineer-santa-clara"
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Software Development Engineer-Networking/RDMA at US,CA,Santa Clara\n2485 Augustine Drive\nSanta Clara, California\nUS",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/65106/login",
+    "id": "amd-software-development-engineer-networking-rdma-us"
   },
   {
-    "employer_name": "ILLUMINA",
-    "job_title": "Associate Director, Sales Territory Design and Optimization",
-    "job_city": "US - California - San Diego",
-    "job_state": "",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Associate Director, Sales Territory Design and Optimization at US - California - San Diego",
-    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Associate-Director--Sales-Territory-Design-and-Optimization_41215-JOB-1?q=Data+Science&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "illumina-associate-director-sales-territory-design-and-optimization-us-california-san-diego"
+    "employer_name": "Salesforce",
+    "job_title": "Machine Learning Engineer",
+    "job_city": "California - San Francisco",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Machine Learning Engineer in Software Engineering. Available in 4 location(s): California - San Francisco, Washington - Seattle, California - Palo Alto, Washington - Bellevue",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308944/senior-machine-learning-engineer/",
+    "id": "salesforce-machine-learning-engineer-california-san-francisco"
   },
   {
-    "employer_name": "Booz Allen",
+    "employer_name": "Salesforce",
+    "job_title": "Engineer, Database Infrastructure - Slack",
+    "job_city": "Georgia - Atlanta",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role Senior Engineer, Database Infrastructure - Slack in Software Engineering. Available in 3 location(s): Georgia - Atlanta, Washington - Seattle, California - San Francisco",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr306512/senior-engineer-database-infrastructure-slack/",
+    "id": "salesforce-engineer-database-infrastructure-slack-georgia-atlanta"
+  },
+  {
+    "employer_name": "Salesforce",
+    "job_title": "IT Product Manager, Workday (HCM)",
+    "job_city": "Texas - Dallas",
+    "job_state": "US",
+    "job_posted_at": "Recently",
+    "job_description": "Data Science job for the role IT Product Manager, Workday (HCM) in Product. Available in 3 location(s): Texas - Dallas, Georgia - Atlanta, Indiana - Indianapolis",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308955/it-product-manager-workday-hcm/",
+    "id": "salesforce-it-product-manager-workday-hcm-texas-dallas"
+  },
+  {
+    "employer_name": "Verizon",
     "job_title": "Cost Analyst",
     "job_city": "Arlington",
     "job_state": "VA",
     "job_posted_at": "Posted Today",
     "job_description": "Data Science job for the role Cost Analyst at Arlington, VA",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Cost-Analyst_R0225489?q=Data+Science",
-    "id": "booz-allen-cost-analyst-arlington"
-  },
-  {
-    "employer_name": "Booz Allen",
-    "job_title": "Computer Vision Expert",
-    "job_city": "Bethesda",
-    "job_state": "MD",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Computer Vision Expert at Bethesda, MD",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bethesda-MD/Computer-Vision-Expert_R0225632?q=Data+Science",
-    "id": "booz-allen-computer-vision-expert-bethesda"
-  },
-  {
-    "employer_name": "Verizon",
-    "job_title": "Computer Vision Expert",
-    "job_city": "Bethesda",
-    "job_state": "MD",
-    "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Computer Vision Expert at Bethesda, MD",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bethesda-MD/Computer-Vision-Expert_R0225632?q=Data+Science",
-    "id": "verizon-computer-vision-expert-bethesda"
+    "id": "verizon-cost-analyst-arlington"
   }
 ]
