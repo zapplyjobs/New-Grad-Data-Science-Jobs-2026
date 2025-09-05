@@ -6,7 +6,6 @@ function cleanJobTitle(title) {
   
   // Remove common prefixes and suffixes
   return title
-    .replace(/^(Senior|Staff|Principal|Lead|Jr|Junior)\s+/i, '')
     .replace(/\s+(I|II|III|IV|V|\d+)$/, '')
     .replace(/\s*-\s*(Remote|Hybrid|On-site).*$/i, '')
     .trim();
@@ -98,6 +97,7 @@ function parseLocation(locationText) {
   
   return { city: '', state: '' };
 }
+
 // Helper function to convert date string to relative format (without "ago")
 function convertDateToRelative(postedDate) {
   if (!postedDate) return "Recently";
@@ -169,22 +169,24 @@ function convertDateToRelative(postedDate) {
 
 // Main transformation function
 function transformJobs(jobs, searchQuery) {
-  return jobs.map(job => {
-    const { city, state } = parseLocation(job.location);
-    const applyLink = job.applyLink || "";
-    const postedRelative = convertDateToRelative(job.posted);
-    const job_description=job.description
-    return {
-      employer_name: job.company || "",
-      job_title: cleanJobTitle(job.title),
-      job_city: city ||'',
-      job_state: state||"US",
-      job_posted_at: postedRelative || "Recently",
-      job_description: job_description ||`${searchQuery} job for the role ${job.title} `,
-      job_apply_link: applyLink ,
+  return jobs
+    .filter(job => job.title && job.title.trim() !== '') // Filter out jobs without titles
+    .map(job => {
+      const { city, state } = parseLocation(job.location);
+      const applyLink = job.applyLink || "";
+      const postedRelative = convertDateToRelative(job.posted);
+      const job_description = job.description;
       
-    };
-  });
+      return {
+        employer_name: job.company || "",
+        job_title: cleanJobTitle(job.title),
+        job_city: city || '',
+        job_state: state || "US",
+        job_posted_at: postedRelative || "Recently",
+        job_description: job_description || `${searchQuery} job for the role ${job.title}`,
+        job_apply_link: applyLink,
+      };
+    });
 }
 
 module.exports = {

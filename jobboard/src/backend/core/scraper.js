@@ -148,9 +148,17 @@ async function scrapeWithTraditionalPagination(page, company, selector, searchQu
       // Extract job data from current page using the SAME page instance
       const jobData = await extractJobData(page, selector, company, pageNum);
       const validJobs = processJobData(jobData);
-      jobs.push(...validJobs);
-
+      
       console.log(`Page ${pageNum}: Found ${validJobs.length} valid jobs`);
+
+      // Check if current page returned 0 jobs
+      if (validJobs.length === 0) {
+        console.log(`No jobs found on page ${pageNum} for ${company.name}. Stopping pagination and returning collected jobs.`);
+        break; // Stop pagination if no jobs found
+      }
+
+      // Add jobs to collection
+      jobs.push(...validJobs);
 
       // Check if we should continue to the next page
       if (pageNum < maxPages) {

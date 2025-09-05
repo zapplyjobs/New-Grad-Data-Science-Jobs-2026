@@ -60,14 +60,27 @@ async function extractJobData(page, selector, company, pageNum) {
       }
       
     } else {
-      // Same-page extraction
-      for (let i = 0; i < jobElements.length; i++) {
-        const jobData = await extractSingleJobData(page, jobElements[i], selector, company, i, pageNum);
+      // Same-page extraction - FIXED VERSION
+      const jobCount = await page.$$eval(selector.jobSelector, els => els.length);
+      
+      for (let i = 0; i < jobCount; i++) {
+        // Re-select job elements fresh each time to avoid detached nodes
+        const currentJobElements = await page.$$(selector.jobSelector);
+        if (selector.name === 'Applied Materials') {
+          currentJobElements = currentJobElements.slice(-EXTRACTION_CONSTANTS.APPLIED_MATERIALS_LIMIT);
+        }
+        
+        if (i >= currentJobElements.length) {
+          console.warn(`Job element ${i} no longer exists, skipping...`);
+          continue;
+        }
+
+        const jobData = await extractSingleJobData(page, currentJobElements[i], selector, company, i, pageNum);
         
         if (jobData.title || jobData.applyLink) {
-          // Extract description on same page if selector exists
+          // Extract description on same page if selector exists - FIXED TO USE INDEX
           if (selector.descriptionSelector) {
-            jobData.description = await extractDescriptionSamePage(page, jobElements[i], selector, i + 1);
+            jobData.description = await extractDescriptionSamePage(page, i, selector, i + 1);
           }
           jobs.push(jobData);
         }
@@ -206,37 +219,72 @@ async function extractSingleJobData(page, jobElement, selector, company, index, 
 }
 
 /**
- * Extract description on same page by clicking job element
+ * FIXED: Extract description on same page by using job index instead of element reference
  * @param {Object} page - Puppeteer page instance
- * @param {Object} jobElement - Job element handle
+ * @param {number} jobIndex - Job element index (0-based)
  * @param {Object} selector - Selector configuration
- * @param {number} jobNumber - Job number for logging
+ * @param {number} jobNumber - Job number for logging (1-based)
  * @returns {string} Job description
  */
-async function extractDescriptionSamePage(page, jobElement, selector, jobNumber) {
-  try {
-    console.log(`[${jobNumber}] Same-page description extraction...`);
-    
-    const titleElement = await jobElement.$(selector.titleSelector);
-    if (!titleElement) {
-      return 'Title element not found';
+async function extractDescriptionSamePage(page, jobIndex, selector, jobNumber) {
+  let retries = 3;
+  
+  while (retries > 0) {
+    try {
+      console.log(`[${jobNumber}] Same-page description extraction (attempt ${4 - retries})...`);
+      
+      // Wait for job elements to be stable
+      await page.waitForSelector(selector.jobSelector, { timeout: 5000 });
+      
+      // Use page.evaluate to handle clicking in a more robust way - avoids detached nodes
+      const clickResult = await page.evaluate((jobSelector, titleSelector, jobIdx) => {
+        const jobElements = document.querySelectorAll(jobSelector);
+        
+        if (!jobElements[jobIdx]) {
+          return { success: false, error: 'Job element not found' };
+        }
+        
+        const titleElement = jobElements[jobIdx].querySelector(titleSelector);
+        if (!titleElement) {
+          return { success: false, error: 'Title element not found' };
+        }
+        
+        titleElement.click();
+        return { success: true };
+      }, selector.jobSelector, selector.titleSelector, jobIndex);
+      
+      if (!clickResult.success) {
+        throw new Error(clickResult.error);
+      }
+      
+      // Wait for description to load
+      await new Promise(resolve => setTimeout(resolve, 1200));
+      await page.waitForSelector(selector.descriptionSelector, { timeout: 6000 });
+      
+      // Extract description
+      const description = await extractAndFormatDescription(page, selector.descriptionSelector);
+      
+      console.log(`[${jobNumber}] Same-page description extracted (${description.length} chars)`);
+      return description;
+      
+    } catch (error) {
+      retries--;
+      console.warn(`[${jobNumber}] Same-page attempt failed: ${error.message}${retries > 0 ? ' - Retrying...' : ''}`);
+      
+      if (retries > 0) {
+        // Wait before retry and refresh page state if needed
+        await new Promise(resolve => setTimeout(resolve, 1000));
+        try {
+          // Just wait for elements to be stable again, don't reload
+          await waitForJobSelector(page, selector.jobSelector);
+        } catch (waitError) {
+          console.warn(`[${jobNumber}] Wait for job selector failed: ${waitError.message}`);
+        }
+      }
     }
-
-    // Click to load description
-    await titleElement.click();
-    await new Promise(resolve => setTimeout(resolve, 1200));
-    
-    // Wait for and extract description
-    await page.waitForSelector(selector.descriptionSelector, { timeout: 6000 });
-    const description = await extractAndFormatDescription(page, selector.descriptionSelector);
-    
-    console.log(`[${jobNumber}] Same-page description extracted (${description.length} chars)`);
-    return description;
-    
-  } catch (error) {
-    console.error(`[${jobNumber}] Same-page extraction failed: ${error.message}`);
-    return 'Same-page description extraction failed';
   }
+  
+  return 'Same-page description extraction failed after retries';
 }
 
 /**
