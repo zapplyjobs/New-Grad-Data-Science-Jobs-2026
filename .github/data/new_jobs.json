@@ -1,12 +1,42 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Counterintelligence Requirements Officer",
-    "job_city": "Springfield",
-    "job_state": "VA",
-    "job_posted_at": "30 Days",
-    "job_description": "• Counterintelligence Requirements OfficerlocationsSpringfield, VAposted onPosted 30 Days AgoR0221537 Counterintelligence Requirements OfficerlocationsSt.\n• Louis, MOposted onPosted 30+ Days AgoR0221477 Ocean Systems Engineer, Senior ManagerlocationsPort Hueneme, CAposted onPosted 30+ Days AgoR0223274 Software Defined Network Engineer, LeadlocationsSan Diego, CAposted onPosted 7 Days AgoR0225275 MS&A SaaS Tool Cyber Operations LeadlocationsEglin AFB, FLposted onPosted 17 Days AgoR0224460 Technical Site Deployment Specialistlocations2 Locationsposted onPosted 10 Days AgoR0224890 Deployment Managerlocations2 Locationsposted onPosted 2 Days AgoR0222631.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Counterintelligence-Requirements-Officer_R0221537?q=data+science",
-    "id": "bae-systems-counterintelligence-requirements-officer-springfield"
+    "employer_name": "Micron Technology",
+    "job_title": "Intern - Surface Scientist",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "8 days",
+    "job_description": "Description content not available",
+    "job_apply_link": "https://careers.micron.com/careers/job/30541001",
+    "id": "micron-technology-intern-surface-scientist-boise"
+  },
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "Diffusion Equipment Engineer",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "24 days",
+    "job_description": "Same-page description extraction failed",
+    "job_apply_link": "https://careers.micron.com",
+    "id": "micron-technology-diffusion-equipment-engineer-manassas"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Call Center Speech Analyst",
+    "job_city": "Any Location /",
+    "job_state": "US",
+    "job_posted_at": "Posted Today",
+    "job_description": "• Type of Requisition:RegularClearance Level Must Currently Possess:NoneClearance Level Must Be Able to Obtain:NonePublic Trust/Other Required:NACI (T1)Job Family:Data Science and Data EngineeringJob Qualifications:Skills:Analytics, Customer Service, Medicare, Microsoft OfficeCertifications:NoneExperience:2 + years of related experienceUS Citizenship Required:NoJob Description:Deliver insights to help our clients turn data into action as a Data Analyst Associate at GDIT.\n• WHAT YOU’LL NEED TO SUCCEED** This position requires a Public Trust and involves performing work on a federal contract.\n• Candidates must be able to pass a background check and drug test for all drugs prohibited under federal law.\n• ** Required:Bachelor’s degree in business, Technology, Data Science, or an equivalent combination of education and directly relevant experience.\n• 2+ years’ proven experience in business analytics, speech analytics, or data reporting.\n• 2+ years’ experience in the healthcare industry, with familiarity with Medicare-related data collection and recovery activities.\n• Prior experience working in a call center or customer service environment.\n• Must be able to obtain a Public Trust clearanceDesired:2+ years with Correspondence, Data Collection, Recovery, or ESRD processes.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Call-Center-Speech-Analyst---REMOTE-_RQ206467-2?q=data+science",
+    "id": "general-dynamics-call-center-speech-analyst-any-location"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Infrastructure, Google Cloud AI",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Software Engineer III, Infrastructure, Google Cloud AI ",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/140755309604807366-software-engineer-iii-infrastructure-google-cloud-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=4",
+    "id": "google-software-engineer-iii-infrastructure-google-cloud-ai-seattle"
   }
 ]
