@@ -1,72 +1,42 @@
 [
   {
-    "employer_name": "CISCO",
-    "job_title": "Architect - Technical Lead - Security & Compliance / Cloud Software",
-    "job_city": "Cary",
-    "job_state": "North Carolina",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Architect - Technical Lead - Security & Compliance / Cloud Software at Cary, North Carolina, US",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Architect-Technical-Lead-Security-Compliance-Cloud-Software/1448877",
-    "id": "cisco-architect-technical-lead-security-compliance-cloud-software-cary"
+    "employer_name": "Micron Technology",
+    "job_title": "Intern - Surface Scientist",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "8 days",
+    "job_description": "Description content not available",
+    "job_apply_link": "https://careers.micron.com/careers/job/30541001",
+    "id": "micron-technology-intern-surface-scientist-boise"
   },
   {
-    "employer_name": "10x Genomics",
-    "job_title": "Manufacturing Engineering Technician",
-    "job_city": "Pleasanton",
-    "job_state": "California",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science position at 10x Genomics - Senior Manufacturing Engineering Technician",
-    "job_apply_link": "https://careers.10xgenomics.com/careers/job/171836508521",
-    "id": "10x-genomics-manufacturing-engineering-technician-pleasanton"
+    "employer_name": "Micron Technology",
+    "job_title": "Diffusion Equipment Engineer",
+    "job_city": "Manassas",
+    "job_state": "Virginia",
+    "job_posted_at": "24 days",
+    "job_description": "Same-page description extraction failed",
+    "job_apply_link": "https://careers.micron.com",
+    "id": "micron-technology-diffusion-equipment-engineer-manassas"
   },
   {
-    "employer_name": "AMD",
-    "job_title": "Software Development Engineer-Networking/RDMA",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Software Development Engineer-Networking/RDMA at US,CA,Santa Clara\n2485 Augustine Drive\nSanta Clara, California\nUS",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/65106/login",
-    "id": "amd-software-development-engineer-networking-rdma-us"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Machine Learning Engineer",
-    "job_city": "California - San Francisco",
+    "employer_name": "General Dynamics",
+    "job_title": "Call Center Speech Analyst",
+    "job_city": "Any Location /",
     "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Machine Learning Engineer in Software Engineering. Available in 4 location(s): California - San Francisco, Washington - Seattle, California - Palo Alto, Washington - Bellevue",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308944/senior-machine-learning-engineer/",
-    "id": "salesforce-machine-learning-engineer-california-san-francisco"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "Engineer, Database Infrastructure - Slack",
-    "job_city": "Georgia - Atlanta",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role Senior Engineer, Database Infrastructure - Slack in Software Engineering. Available in 3 location(s): Georgia - Atlanta, Washington - Seattle, California - San Francisco",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr306512/senior-engineer-database-infrastructure-slack/",
-    "id": "salesforce-engineer-database-infrastructure-slack-georgia-atlanta"
-  },
-  {
-    "employer_name": "Salesforce",
-    "job_title": "IT Product Manager, Workday (HCM)",
-    "job_city": "Texas - Dallas",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "Data Science job for the role IT Product Manager, Workday (HCM) in Product. Available in 3 location(s): Texas - Dallas, Georgia - Atlanta, Indiana - Indianapolis",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr308955/it-product-manager-workday-hcm/",
-    "id": "salesforce-it-product-manager-workday-hcm-texas-dallas"
-  },
-  {
-    "employer_name": "Verizon",
-    "job_title": "Cost Analyst",
-    "job_city": "Arlington",
-    "job_state": "VA",
     "job_posted_at": "Posted Today",
-    "job_description": "Data Science job for the role Cost Analyst at Arlington, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Cost-Analyst_R0225489?q=Data+Science",
-    "id": "verizon-cost-analyst-arlington"
+    "job_description": "• Type of Requisition:RegularClearance Level Must Currently Possess:NoneClearance Level Must Be Able to Obtain:NonePublic Trust/Other Required:NACI (T1)Job Family:Data Science and Data EngineeringJob Qualifications:Skills:Analytics, Customer Service, Medicare, Microsoft OfficeCertifications:NoneExperience:2 + years of related experienceUS Citizenship Required:NoJob Description:Deliver insights to help our clients turn data into action as a Data Analyst Associate at GDIT.\n• WHAT YOU’LL NEED TO SUCCEED** This position requires a Public Trust and involves performing work on a federal contract.\n• Candidates must be able to pass a background check and drug test for all drugs prohibited under federal law.\n• ** Required:Bachelor’s degree in business, Technology, Data Science, or an equivalent combination of education and directly relevant experience.\n• 2+ years’ proven experience in business analytics, speech analytics, or data reporting.\n• 2+ years’ experience in the healthcare industry, with familiarity with Medicare-related data collection and recovery activities.\n• Prior experience working in a call center or customer service environment.\n• Must be able to obtain a Public Trust clearanceDesired:2+ years with Correspondence, Data Collection, Recovery, or ESRD processes.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Call-Center-Speech-Analyst---REMOTE-_RQ206467-2?q=data+science",
+    "id": "general-dynamics-call-center-speech-analyst-any-location"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Infrastructure, Google Cloud AI",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "Recently",
+    "job_description": "data science job for the role Software Engineer III, Infrastructure, Google Cloud AI ",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/140755309604807366-software-engineer-iii-infrastructure-google-cloud-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=4",
+    "id": "google-software-engineer-iii-infrastructure-google-cloud-ai-seattle"
   }
 ]
