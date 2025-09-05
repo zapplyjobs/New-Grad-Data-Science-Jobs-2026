@@ -1,82 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Lithography Tool Owner - i-Line Scanner Owner",
-    "job_city": "Albany",
-    "job_state": "US",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Lithography Tool Owner - i-Line Scanner Owner ",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57059&source=WEB_Search_NA",
-    "id": "ibm-lithography-tool-owner-i-line-scanner-owner-albany"
-  },
-  {
-    "employer_name": "Micron Technology",
-    "job_title": "Metrology Process Engineer",
-    "job_city": "Boise",
-    "job_state": "Idaho",
-    "job_posted_at": "8 days",
-    "job_description": "• BS degree in Electrical Engineering, Mechanical Engineering, Physics, Materials Science, or related field, OR 2+ years of hands-on experience in semiconductor metrology, process engineering, or CAD-based recipe development.\n• Experience with scripting or automation tools (Python, MATLAB, etc.\n• Knowledge of semiconductor process flows and critical dimension control Experience with waferless metrology workflows or recipe automation.\n• Excellent communication and collaboration skills.\n• Strong analytical and problem-solving skills.\n• Familiarity with CAD tools (e.\n• , Calibre, AutoCAD) and metrology platforms (e.\n• , SEM, CD-SEM, overlay tools).",
-    "job_apply_link": "https://careers.micron.com/careers/job/30946076",
-    "id": "micron-technology-metrology-process-engineer-boise"
-  },
-  {
-    "employer_name": "Micron Technology",
-    "job_title": "Equipment Technician",
-    "job_city": "Batu Kawan",
-    "job_state": "Pulau Pinang (Penang)",
-    "job_posted_at": "5 months",
-    "job_description": "Same-page description extraction failed",
-    "job_apply_link": "https://careers.micron.com",
-    "id": "micron-technology-equipment-technician-batu-kawan"
-  },
-  {
-    "employer_name": "Micron Technology",
-    "job_title": "CMP Equipment Engineer",
-    "job_city": "Manassas",
-    "job_state": "Virginia",
-    "job_posted_at": "a month",
-    "job_description": "Same-page description extraction failed",
-    "job_apply_link": "https://careers.micron.com",
-    "id": "micron-technology-cmp-equipment-engineer-manassas"
-  },
-  {
-    "employer_name": "Micron Technology",
-    "job_title": "SMTS, Memory Design Engineer",
-    "job_city": "Richardson",
-    "job_state": "Texas",
-    "job_posted_at": "a month",
-    "job_description": "Same-page description extraction failed",
-    "job_apply_link": "https://careers.micron.com",
-    "id": "micron-technology-smts-memory-design-engineer-richardson"
-  },
-  {
-    "employer_name": "Micron Technology",
-    "job_title": "HBM Design Engineer",
-    "job_city": "Atlanta",
-    "job_state": "Georgia",
-    "job_posted_at": "3 months",
-    "job_description": "Same-page description extraction failed",
-    "job_apply_link": "https://careers.micron.com",
-    "id": "micron-technology-hbm-design-engineer-atlanta"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Associate Data Scientist",
-    "job_city": "Santa Monica",
-    "job_state": "CA",
-    "job_posted_at": "6d",
-    "job_description": "• Experience with developing machine learning models and statistical analysisDeep understanding of machine learning concepts and statistical methodsAbility to draw insights and conclusions from data to inform model development and business decisionsDesire to collaborate with other data scientists, data analysts, and key business partnersProficient in analyzing data and developing ML models using Python (with ML frameworks like tensorflow, scikit-learn, etc.\n• )Understanding of SQL and distributed data technologies (Hive, Spark) Working knowledge of Bayesian modelingExperience fully integrating data science solutions into the business and operationalizing ML models Bachelor’s degree in Mathematics, Statistics, Data Science or comparable field of study, and/or equivalent work experience Modeling: Apply state of the art machine learning and statistical analysis to develop models related to opportunity sizing, targeting, and optimization.\n• )Capable of reading and writing Object-Oriented code to review and implement modeling pipelines (Airflow, Luigi, etc.\n• Deep analysis: Analyze user behavioral data to identify patterns, uncover opportunities, and create common understanding of how people are interacting with the service and content.\n• Visualization of Insights: Development of prototype solutions, mathematical models, algorithms, and robust analytics leading to impactful insights communicated clearly and visually.\n• Partnership: Partner closely with business stakeholders to identify and unlock opportunities, and with other data teams to improve platform capabilities around data modeling, data visualization, experimentation and data architecture.",
-    "job_apply_link": "https://www.aijobs.com/jobs/158883742-associate-data-scientist",
-    "id": "ai-jobs-associate-data-scientist-santa-monica"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Infrastructure, Geo",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "Recently",
-    "job_description": "data science job for the role Software Engineer III, Infrastructure, Geo ",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/139316124045976262-software-engineer-iii-infrastructure-geo?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=3",
-    "id": "google-software-engineer-iii-infrastructure-geo-new-york"
+    "employer_name": "BAE Systems",
+    "job_title": "Counterintelligence Requirements Officer",
+    "job_city": "Springfield",
+    "job_state": "VA",
+    "job_posted_at": "30 Days",
+    "job_description": "• Counterintelligence Requirements OfficerlocationsSpringfield, VAposted onPosted 30 Days AgoR0221537 Counterintelligence Requirements OfficerlocationsSt.\n• Louis, MOposted onPosted 30+ Days AgoR0221477 Ocean Systems Engineer, Senior ManagerlocationsPort Hueneme, CAposted onPosted 30+ Days AgoR0223274 Software Defined Network Engineer, LeadlocationsSan Diego, CAposted onPosted 7 Days AgoR0225275 MS&A SaaS Tool Cyber Operations LeadlocationsEglin AFB, FLposted onPosted 17 Days AgoR0224460 Technical Site Deployment Specialistlocations2 Locationsposted onPosted 10 Days AgoR0224890 Deployment Managerlocations2 Locationsposted onPosted 2 Days AgoR0222631.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Counterintelligence-Requirements-Officer_R0221537?q=data+science",
+    "id": "bae-systems-counterintelligence-requirements-officer-springfield"
   }
 ]
