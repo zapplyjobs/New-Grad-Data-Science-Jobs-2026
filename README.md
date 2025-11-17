@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-13-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-14-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-6-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-8-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -44,7 +44,7 @@
   
   # 📊 Data Science & Analytics Jobs  2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from 6+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 13+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from 6+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 14+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -65,11 +65,11 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 13 hot data-focused jobs
+- 🔥 **Current Positions:** 14 hot data-focused jobs
 - 🏢 **Top Companies:** 6 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** November 17, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Developer Jobs:** 34 (older than 1 week)
+- 📁 **Archived Developer Jobs:** 33 (older than 1 week)
 
 ---
 
@@ -109,12 +109,13 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | AI/ML Compiler Development Engineer | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/57214/login) | 3d |
 
-### 🚀 **Consulting & Services** (4 positions)
+### 🚀 **Consulting & Services** (5 positions)
 
-#### 🛡️ **BAE Systems** (2 positions)
+#### 🛡️ **BAE Systems** (3 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Palantir Data Scientist | Springfield, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Palantir-Data-Scientist_R0229016?q=data+science) | 1d |
 | Data Scientist | Honolulu, HI | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Scientist_R0228330?q=data+science) | 3d |
 | Data Scientist | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist_R0229416?q=data+science) | 3d |
 
@@ -151,8 +152,8 @@ No companies available
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
 | 🟢 Entry Level & New Grad | 0 | 0% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 8 | 62% | 1-2 years of experience. |
-| 🔴 Manager | 5 | 38% | 2+ years of experience. |
+| 🟡 Beginner & Early Career | 8 | 57% | 1-2 years of experience. |
+| 🔴 Manager | 6 | 43% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
@@ -160,18 +161,18 @@ List of top locations and number of positions.
 
 - **San Bruno, CA**: 2 positions
 - **New York, NY**: 2 positions
+- **Springfield, VA**: 1 positions
 - **Fort Belvoir, VA**: 1 positions
 - **San Jose, CA**: 1 positions
 - **Sunnyvale, CA**: 1 positions
 - **Seattle, WA**: 1 positions
 - **Honolulu, HI**: 1 positions
-- **McLean, VA**: 1 positions
 
 ---
 
 ## 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 13+ verified roles for data analysts and scientists from 6 elite tech companies.
+✅ **100% Real Jobs:** 14+ verified roles for data analysts and scientists from 6 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 
@@ -232,24 +233,23 @@ List of top locations and number of positions.
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 34 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 33 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 34 positions
+📁 **Total Jobs:** 33 positions
 
 🏢 **Companies:** 6 companies
 
 
-### 🏢 **FAANG+** (20 positions)
+### 🏢 **FAANG+** (19 positions)
 
-#### 📦 **Amazon** (5 positions)
+#### 📦 **Amazon** (4 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Applied Scientist, Prime Air Navigation | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3123965/applied-scientist-prime-air-navigation) | 1w |
 | Applied Scientist II, Amazon AWS Agentic AI, AWS AI Fundamental Research | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3120171/applied-scientist-ii-amazon-aws-agentic-ai-aws-ai-fundamental-research) | 2w |
 | Training Solutions Research Scientist, AWS Training and Certification | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3118606/training-solutions-research-scientist-aws-training-and-certification) | 2w |
 | Applied Scientist, Console Science | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3118661/applied-scientist-console-science) | 2w |
@@ -334,7 +334,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 13 current opportunities from 6 elite companies.**
+**🎯 14 current opportunities from 6 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
