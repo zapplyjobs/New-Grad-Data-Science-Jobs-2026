@@ -69,7 +69,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - 🏢 **Top Companies:** 5 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** November 17, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Developer Jobs:** 31 (older than 1 week)
+- 📁 **Archived Developer Jobs:** 30 (older than 1 week)
 
 ---
 
@@ -108,15 +108,15 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Data Scientist | Honolulu, HI | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Scientist_R0228330?q=data+science) | 2d |
-| Data Scientist | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist_R0229416?q=data+science) | 2d |
+| Data Scientist | Honolulu, HI | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Scientist_R0228330?q=data+science) | 3d |
+| Data Scientist | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist_R0229416?q=data+science) | 3d |
 
 #### ⚙️ **General Dynamics** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Analyst | Fort Belvoir, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Fort-Belvoir/Data-Analyst_RQ210233-1?q=data+science) | 1d |
-| AI/ML Delivery Engineer | Herndon, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Herndon/AI-ML-Delivery-Engineer_RQ210085-1?q=data+science) | 3d |
+| AI/ML Delivery Engineer | Herndon, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Herndon/AI-ML-Delivery-Engineer_RQ210085-1?q=data+science) | 4d |
 
 
 
@@ -154,10 +154,10 @@ List of top locations and number of positions.
 - **New York, NY**: 2 positions
 - **Fort Belvoir, VA**: 1 positions
 - **Sunnyvale, CA**: 1 positions
-- **Honolulu, HI**: 1 positions
-- **McLean, VA**: 1 positions
 - **San Jose, CA**: 1 positions
 - **Seattle, WA**: 1 positions
+- **Honolulu, HI**: 1 positions
+- **McLean, VA**: 1 positions
 - **Herndon, VA**: 1 positions
 
 ---
@@ -225,18 +225,18 @@ List of top locations and number of positions.
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 31 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 30 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 31 positions
+📁 **Total Jobs:** 30 positions
 
 🏢 **Companies:** 5 companies
 
 
-### 🏢 **FAANG+** (17 positions)
+### 🏢 **FAANG+** (16 positions)
 
 #### 📦 **Amazon** (5 positions)
 
@@ -264,12 +264,6 @@ Either still hiring or useful for research.
 | Data Scientist, Product, Google Ads Creative | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/139337264814531270-data-scientist-product-google-ads-creative?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 2w |
 | Business Data Scientist, Statistics, Platform Analytics, Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/116924421435728582-business-data-scientist-statistics-platform-analytics-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 2w |
 
-#### 🍎 **Apple** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Cellular Data Science & Machine Learning Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626568-3543/cellular-data-science-machine-learning-engineer?team=HRDWR) | 4w |
-
 ### 🏢 **Top Tech** (1 position)
 
 #### 🔶 **AMD** (1 position)
@@ -286,9 +280,9 @@ Either still hiring or useful for research.
 |------|----------|-----------|-----|
 | University, Data Scientist | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Data-Scientist_R0228796?q=data+science) | 1w |
 | Data Scientist | Fort Meade, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Data-Scientist_R0229008?q=data+science) | 2w |
-| Geospatial Data Scientist | St. Louis, MO | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/St-Louis-MO/Geospatial-Data-Scientist_R0228776?q=data+science) | 2w |
 | Data Scientist | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0225955?q=data+science) | 3w |
 | Data Scientist | Springfield, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Scientist_R0227660?q=data+science) | 3w |
+| Geospatial Data Scientist | St. Louis, MO | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/St-Louis-MO/Geospatial-Data-Scientist_R0228776?q=data+science) | 3w |
 | Training Assessment Data Scientist | Twenty-Nine Palms, CA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Twenty-Nine-Palms-CA/Training-Assessment-Data-Scientist_R0228486?q=data+science) | 3w |
 | Training Assessment Data Scientist | Camp Lejeune, NC | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-Lejeune-NC/Training-Assessment-Data-Scientist_R0228481?q=data+science) | 3w |
 | Training Assessment Data Scientist | Camp Pendleton, CA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-Pendleton-CA/Training-Assessment-Data-Scientist_R0228485?q=data+science) | 3w |
@@ -299,7 +293,7 @@ Either still hiring or useful for research.
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Engineer (TS/SCI with Polygraph REQUIRED) | Chantilly, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/Data-Engineer--TS-SCI-with-Polygraph-REQUIRED-_RQ208014?q=data+science) | 2w |
-| Secure AI/ML Delivery | Offutt AFB, NE | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NE-Offutt-AFB/Secure-AI-ML-Delivery_RQ209510-1?q=data+science) | 2w |
+| Secure AI/ML Delivery | Offutt AFB, NE | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NE-Offutt-AFB/Secure-AI-ML-Delivery_RQ209510-1?q=data+science) | 3w |
 
 ### 🛡️ **Autonomous & Aerospace** (1 position)
 
