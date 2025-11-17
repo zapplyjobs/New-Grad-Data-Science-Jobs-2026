@@ -100,7 +100,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| AI/ML Compiler Development Engineer | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/57214/login) | 2d |
+| AI/ML Compiler Development Engineer | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/57214/login) | 3d |
 
 ### 🚀 **Consulting & Services** (3 positions)
 
@@ -151,11 +151,11 @@ No companies available
 List of top locations and number of positions.
 
 - **New York, NY**: 2 positions
-- **San Jose, CA**: 1 positions
 - **Sunnyvale, CA**: 1 positions
 - **Seattle, WA**: 1 positions
 - **Honolulu, HI**: 1 positions
 - **McLean, VA**: 1 positions
+- **San Jose, CA**: 1 positions
 - **Herndon, VA**: 1 positions
 - **Mountain View, CA**: 1 positions
 
