@@ -11,7 +11,7 @@
 <!-- Row 1: Job Stats (Custom Static Badges) -->
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-14-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-6-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-8-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-7-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -69,14 +69,14 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - 🏢 **Top Companies:** 6 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** November 19, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Developer Jobs:** 31 (older than 1 week)
+- 📁 **Archived Developer Jobs:** 32 (older than 1 week)
 
 ---
 
 
 ## 🎯 Fresh Data Science Job Listings 2026 (under 1 week)
 
-### 🏢 **FAANG+** (8 positions)
+### 🏢 **FAANG+** (7 positions)
 
 #### 📦 **Amazon** (1 position)
 
@@ -94,12 +94,11 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Data Scientist, Research, Search Ads | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/101057729912545990-data-scientist-research-search-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 4d |
 | Research Data Scientist, Central Storage, Resource Planning, Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/122999583956443846-research-data-scientist-central-storage-resource-planning-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 4d |
 
-#### 🍎 **Apple** (2 positions)
+#### 🍎 **Apple** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Cellular Data Science & Machine Learning Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200632545-3543/cellular-data-science-machine-learning-engineer?team=HRDWR) | 1d |
-| Data Engineer - Camera Intelligence | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631946-0836/data-engineer-camera-intelligence?team=SFTWR) | 6d |
 
 ### 🏢 **Top Tech** (1 position)
 
@@ -109,7 +108,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | AI/ML Compiler Development Engineer | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/57214/login) | 4d |
 
-### 🚀 **Consulting & Services** (5 positions)
+### 🚀 **Consulting & Services** (6 positions)
 
 #### 🛡️ **BAE Systems** (3 positions)
 
@@ -119,11 +118,12 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Palantir Data Scientist | Springfield, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Palantir-Data-Scientist_R0229016?q=data+science) | 1d |
 | Computer Scientist | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Computer-Scientist_R0224558-1?q=data+science) | 1d |
 
-#### ⚙️ **General Dynamics** (2 positions)
+#### ⚙️ **General Dynamics** (3 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Analyst | Fort Belvoir, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Fort-Belvoir/Data-Analyst_RQ210233-1?q=data+science) | 1d |
+| Product Technical Operations Scientist | Fort Detrick, MD | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Fort-Detrick/Product-Technical-Operations-Scientist_RQ210374-1?q=data+science) | 1d |
 | AI/ML Delivery Engineer | Herndon, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Herndon/AI-ML-Delivery-Engineer_RQ210085-1?q=data+science) | 5d |
 
 
@@ -135,7 +135,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ### 🏢 **Top Companies**
 
 #### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (5 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (2) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (5 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (1) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
 
 
 #### 💰 **Fintech Leaders** (0 companies)
@@ -165,8 +165,8 @@ List of top locations and number of positions.
 - **San Diego, CA**: 1 positions
 - **Springfield, VA**: 1 positions
 - **Fort Belvoir, VA**: 1 positions
+- **Fort Detrick, MD**: 1 positions
 - **San Francisco, CA**: 1 positions
-- **San Jose, CA**: 1 positions
 
 ---
 
@@ -233,13 +233,13 @@ List of top locations and number of positions.
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 31 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 32 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 31 positions
+📁 **Total Jobs:** 32 positions
 
 🏢 **Companies:** 6 companies
 
@@ -317,12 +317,13 @@ Either still hiring or useful for research.
 |------|----------|-----------|-----|
 | Data Scientist | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/data-scientist-mountain-view-california-united-states-san-francisco) | 2w |
 
-### 🏭 **Manufacturing & Industrial** (1 position)
+### 🏭 **Manufacturing & Industrial** (2 positions)
 
-#### ⚡ **ABB** (1 position)
+#### ⚡ **ABB** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| R&D Applied Scientist | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/95951038/R-D-Applied-Scientist) | 1w |
 | Business Operations Support Analyst | Phoenix, AZ | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012734/Business-Operations-Support-Analyst) | 2w |
 
 
