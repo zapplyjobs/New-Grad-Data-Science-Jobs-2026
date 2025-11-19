@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Apple Music, Data Engineer",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_posted_at": "22h",
+    "job_description": "• Minimum QualificationsBachelor’s degree in Engineering, Computer Science, Business Information Systems, or related fieldAt least 5+ years relevant industry experienceProficiency and hands-on experience in at least one of Java or Scala.\n• Experience with Apache Flink or SparkSkilled at writing clean, performant and well-tested code, as well as reviewing and debugging existing code.\n• Excellent communication skills, with the ability to articulate complex technical designs and concepts to both technical and non-technical stakeholders.\n• Good critical thinking skills.\n• Solid Computer Science fundamentals, including algorithms and data structures.\n• A strong command of distributed data processing fundamentals and patterns (e.\n• , partitioning, data locality, distributed consensus).",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200632618-0836/apple-music-data-engineer?team=SFTWR",
+    "id": "apple-apple-music-data-engineer-cupertino"
+  }
+]
