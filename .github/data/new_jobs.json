@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Data Scientist, Streaming Media",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_posted_at": "5h",
+    "job_description": "• Minimum QualificationsProven track record to frame analytical questions, apply appropriate statistical techniques, and derive actionable insights from complex datasets.\n• Strong experience with a scripting language for data processing and analysis (e.\n• Excellent communication and multi-functional collaboration skills, with the ability to convey complex concepts to diverse audiences.\n• Proficiency in data querying using SQL, Spark, or equivalent technologies.\n• , Python, R, or Scala).\n• Deep expertise in machine learning, statistical analysis, multivariate methods, A/B testing, and sampling techniques.\n• Self-motivated, intellectually curious, and adept at critical thinking, with a demonstrated ability to thrive in ambiguous problem spaces.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200632724-0836/data-scientist-streaming-media?team=SFTWR",
+    "id": "apple-data-scientist-streaming-media-cupertino"
+  }
+]
