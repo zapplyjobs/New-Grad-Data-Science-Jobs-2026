@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Data Scientist - Payments Marketing",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_posted_at": "20h",
+    "job_description": "• Minimum QualificationsStrong technical skills in SQL and PythonStrong understanding of AI/ML techniques, including regression, classification, clustering, segmentation, and predictive modeling, deep learning models, and LLMs.\n• Experienced with GenAI capabilities to scale analyses and shorten lead timesProficient experience with Tableau to visualize and deliver actionable insights.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200632932-0836/data-scientist-payments-marketing?team=SFTWR",
+    "id": "apple-data-scientist-payments-marketing-cupertino"
+  }
+]
