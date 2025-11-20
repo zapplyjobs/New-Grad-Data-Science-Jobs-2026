@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "AppleCare Data Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "19h",
+    "job_description": "• Minimum Qualifications7+ years of applied experience in data science, business analytics, or business intelligence roles.\n• Experience with data modeling, transformation, and analytics frameworks such as Snowflake.\n• Skilled in building data visualizations using Tableau, and presenting insights to diverse audiences.\n• Experience delivering end-to-end analytical projects, from scoping to presentation.\n• Excellent communication and collaboration skills, including translating data insights for business stakeholders.\n• Bachelor’s degree in a quantitative or technical discipline.\n• Strong proficiency in SQL and R/Python (pandas, NumPy, scikit-learn).\n• Strong foundation in statistical analysis, including hypothesis testing and confidence intervals.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200630785-3956/applecare-data-engineer?team=CUST",
+    "id": "apple-applecare-data-engineer-sunnyvale"
+  }
+]
