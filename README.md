@@ -98,9 +98,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | AppleCare Data Scientist | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630978-0157/applecare-data-scientist?team=CUST) | 1d |
 | AppleCare Data Scientist | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630978-3956/applecare-data-scientist?team=CUST) | 1d |
+| AppleCare Data Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630785-0157/applecare-data-engineer?team=CUST) | 2d |
 | AppleCare Data Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630785-3956/applecare-data-engineer?team=CUST) | 2d |
 | Data Scientist, Streaming Media | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200632724-0836/data-scientist-streaming-media?team=SFTWR) | 3d |
-| Data Scientist - Payments Marketing | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200632932-0836/data-scientist-payments-marketing?team=SFTWR) | 3d |
 | Cellular Data Science & Machine Learning Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200632545-3543/cellular-data-science-machine-learning-engineer?team=HRDWR) | 4d |
 
 ### 🚀 **Consulting & Services** (14 positions)
@@ -155,21 +155,21 @@ No companies available
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
 | 🟢 Entry Level & New Grad | 0 | 0% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 9 | 38% | 1-2 years of experience. |
-| 🔴 Manager | 15 | 63% | 2+ years of experience. |
+| 🟡 Beginner & Early Career | 10 | 42% | 1-2 years of experience. |
+| 🔴 Manager | 14 | 58% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
 List of top locations and number of positions.
 
 - **McLean, VA**: 3 positions
+- **Austin, TX**: 2 positions
 - **Sunnyvale, CA**: 2 positions
 - **San Diego, CA**: 2 positions
-- **Cupertino, CA**: 2 positions
-- **Austin, TX**: 1 positions
 - **Mountain View, CA**: 1 positions
 - **Reston, VA**: 1 positions
 - **Bossier City, LA**: 1 positions
+- **Offutt AFB, NE**: 1 positions
 
 ---
 
