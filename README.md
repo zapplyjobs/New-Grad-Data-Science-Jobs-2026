@@ -283,7 +283,7 @@ Either still hiring or useful for research.
 |------|----------|-----------|-----|
 | Data Analytics Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers-amd.icims.com/jobs/73403/login) | 2w |
 
-### 🚀 **Consulting & Services** (6 positions)
+### 🚀 **Consulting & Services** (7 positions)
 
 #### 🛡️ **BAE Systems** (5 positions)
 
@@ -295,11 +295,12 @@ Either still hiring or useful for research.
 | Geospatial Data Scientist | St. Louis, MO | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/St-Louis-MO/Geospatial-Data-Scientist_R0228776?q=data+science) | 3w |
 | Data Scientist | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0225684?q=data+science) | 3w |
 
-#### ⚙️ **General Dynamics** (1 position)
+#### ⚙️ **General Dynamics** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | AI/ML Delivery Engineer | Herndon, VA | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Herndon/AI-ML-Delivery-Engineer_RQ210085-1?q=data+science) | 1w |
+| Secure AI/ML Delivery | Offutt AFB, NE | [<img src="./image.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NE-Offutt-AFB/Secure-AI-ML-Delivery_RQ209510-1?q=data+science) | 3w |
 
 ### 🛡️ **Autonomous & Aerospace** (1 position)
 
@@ -308,14 +309,6 @@ Either still hiring or useful for research.
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Scientist | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/data-scientist-mountain-view-california-united-states-san-francisco) | 3w |
-
-### 🏭 **Manufacturing & Industrial** (1 position)
-
-#### ⚡ **ABB** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Business Operations Support Analyst | Phoenix, AZ | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012734/Business-Operations-Support-Analyst) | 3w |
 
 
 
