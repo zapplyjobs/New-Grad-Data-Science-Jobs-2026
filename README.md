@@ -294,8 +294,8 @@ Either still hiring or useful for research.
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Scientist | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist_R0226843?q=data+science) | 1w |
-| Computer Scientist | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Computer-Scientist_R0224558-1?q=data+science) | 1w |
 | Palantir Data Scientist | Springfield, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Palantir-Data-Scientist_R0229016?q=data+science) | 1w |
+| Computer Scientist | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Computer-Scientist_R0224558-1?q=data+science) | 1w |
 | University, Data Scientist | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Data-Scientist_R0228796?q=data+science) | 2w |
 | Data Scientist | Fort Meade, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Data-Scientist_R0229008?q=data+science) | 3w |
 | Data Scientist | Springfield, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Scientist_R0229063?q=data+science) | 3w |
