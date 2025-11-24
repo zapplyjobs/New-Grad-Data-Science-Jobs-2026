@@ -9,9 +9,9 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-20-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-21-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-5-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-8-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-9-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -44,7 +44,7 @@
   
   # 📊 Data Science & Analytics Jobs  2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from 5+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 20+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from 5+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 21+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -65,7 +65,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 20 hot data-focused jobs
+- 🔥 **Current Positions:** 21 hot data-focused jobs
 - 🏢 **Top Companies:** 5 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** November 24, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -76,7 +76,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🎯 Fresh Data Science Job Listings 2026 (under 1 week)
 
-### 🏢 **FAANG+** (8 positions)
+### 🏢 **FAANG+** (9 positions)
 
 #### 📦 **Amazon** (1 position)
 
@@ -91,7 +91,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Research Scientist, Coherence Fabrication | Goleta, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/123983804703351494-research-scientist-coherence-fabrication?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=3) | 9h |
 | Research Data Scientist, Search Quality | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/111897561647719110-research-data-scientist-search-quality?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 3d |
 
-#### 🍎 **Apple** (5 positions)
+#### 🍎 **Apple** (6 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -100,6 +100,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | AppleCare Data Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630785-0157/applecare-data-engineer?team=CUST) | 4d |
 | AppleCare Data Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630785-3956/applecare-data-engineer?team=CUST) | 4d |
 | Apple Music, Data Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200632618-0836/apple-music-data-engineer?team=SFTWR) | 5d |
+| Data Scientist, Streaming Media | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200632724-0836/data-scientist-streaming-media?team=SFTWR) | 5d |
 
 ### 🚀 **Consulting & Services** (12 positions)
 
@@ -134,7 +135,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ### 🏢 **Top Companies**
 
 #### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (2 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (5) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (2 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (6) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
 
 
 #### 💰 **Fintech Leaders** (0 companies)
@@ -151,8 +152,8 @@ No companies available
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
 | 🟢 Entry Level & New Grad | 0 | 0% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 8 | 40% | 1-2 years of experience. |
-| 🔴 Manager | 12 | 60% | 2+ years of experience. |
+| 🟡 Beginner & Early Career | 9 | 43% | 1-2 years of experience. |
+| 🔴 Manager | 12 | 57% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
@@ -160,18 +161,18 @@ List of top locations and number of positions.
 
 - **Austin, TX**: 2 positions
 - **Sunnyvale, CA**: 2 positions
+- **Cupertino, CA**: 2 positions
 - **Goleta, CA**: 1 positions
 - **Honolulu, HI**: 1 positions
 - **Falls Church, VA**: 1 positions
 - **Mountain View, CA**: 1 positions
 - **San Diego, CA**: 1 positions
-- **Reston, VA**: 1 positions
 
 ---
 
 ## 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 20+ verified roles for data analysts and scientists from 5 elite tech companies.
+✅ **100% Real Jobs:** 21+ verified roles for data analysts and scientists from 5 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 
@@ -292,8 +293,8 @@ Either still hiring or useful for research.
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Scientist | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist_R0226843?q=data+science) | 1w |
-| Palantir Data Scientist | Springfield, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Palantir-Data-Scientist_R0229016?q=data+science) | 1w |
 | Computer Scientist | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Computer-Scientist_R0224558-1?q=data+science) | 1w |
+| Palantir Data Scientist | Springfield, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Palantir-Data-Scientist_R0229016?q=data+science) | 1w |
 | University, Data Scientist | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Data-Scientist_R0228796?q=data+science) | 2w |
 | Data Scientist | Fort Meade, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Data-Scientist_R0229008?q=data+science) | 3w |
 | Data Scientist | Springfield, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Scientist_R0229063?q=data+science) | 3w |
@@ -330,7 +331,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 20 current opportunities from 5 elite companies.**
+**🎯 21 current opportunities from 5 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
