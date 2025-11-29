@@ -69,7 +69,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - 🏢 **Top Companies:** 4 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** November 29, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Developer Jobs:** 41 (older than 1 week)
+- 📁 **Archived Developer Jobs:** 39 (older than 1 week)
 
 ---
 
@@ -153,7 +153,7 @@ List of top locations and number of positions.
 - **New York, NY**: 1 positions
 - **Cambridge, MA**: 1 positions
 - **MacDill AFB, FL**: 1 positions
-- **Goleta, CA**: 1 positions
+- **Falls Church, VA**: 1 positions
 
 ---
 
@@ -220,25 +220,25 @@ List of top locations and number of positions.
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 41 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 39 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 41 positions
+📁 **Total Jobs:** 39 positions
 
 🏢 **Companies:** 4 companies
 
 
-### 🏢 **FAANG+** (23 positions)
+### 🏢 **FAANG+** (21 positions)
 
 #### 📦 **Amazon** (6 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Research Scientist, Design and Simulation, AWS Center for Quantum Computing | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3127659/research-scientist-design-and-simulation-aws-center-for-quantum-computing) | 1w |
 | Data Engineer | Culver City, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3128598/data-engineer-ii) | 1w |
+| Research Scientist, Design and Simulation, AWS Center for Quantum Computing | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3127659/research-scientist-design-and-simulation-aws-center-for-quantum-computing) | 1w |
 | Data Scientist II, AWS Managed Operations Data Science (MODS) | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3124720/data-scientist-ii-aws-managed-operations-data-science-mods) | 2w |
 | Applied Scientist, Prime Air Navigation | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3123965/applied-scientist-prime-air-navigation) | 2w |
 | Data Scientist, AWS Compliance & Security Assurance | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3125451/data-scientist-aws-compliance-security-assurance) | 2w |
@@ -260,14 +260,12 @@ Either still hiring or useful for research.
 | Data Scientist, Research, Search Experiments | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/101033997668098758-data-scientist-research-search-experiments?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 4w |
 | Business Data Scientist, Statistics, Platform Analytics, Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/116924421435728582-business-data-scientist-statistics-platform-analytics-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 4w |
 
-#### 🍎 **Apple** (6 positions)
+#### 🍎 **Apple** (4 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | AppleCare Data Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630785-0157/applecare-data-engineer?team=CUST) | 1w |
-| AppleCare Data Scientist | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630978-0157/applecare-data-scientist?team=CUST) | 1w |
 | AppleCare Data Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630785-3956/applecare-data-engineer?team=CUST) | 1w |
-| AppleCare Data Scientist | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630978-3956/applecare-data-scientist?team=CUST) | 1w |
 | Apple Music, Data Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200632618-0836/apple-music-data-engineer?team=SFTWR) | 1w |
 | AIML - Data Scientist, Data Operations | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200609424-3337/aiml-data-scientist-data-operations?team=MLAI) | 3w |
 
