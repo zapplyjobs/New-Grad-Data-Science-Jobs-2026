@@ -93,7 +93,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Data Engineer | Honolulu, HI | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Engineer_R0227894?q=data+science) | 1d |
-| Data Scientist | Pearl Harbor, HI | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Pearl-Harbor-HI/Data-Scientist_R0229947?q=data+science) | 1d |
+| Computer Scientist | Washington, DC | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Computer-Scientist_R0224558-1?q=data+science) | 2d |
 | Data Scientist | MacDill AFB, FL | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/MacDill-AFB-FL/Data-Scientist_R0226861-1?q=data+science) | 3d |
 | Data Scientist, Mid | Washington, DC | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist--Mid_R0229952-1?q=data+science) | 3d |
 
@@ -137,14 +137,14 @@ No companies available
 
 List of top locations and number of positions.
 
+- **Washington, DC**: 2 positions
 - **Honolulu, HI**: 1 positions
-- **Pearl Harbor, HI**: 1 positions
 - **Tampa, FL**: 1 positions
 - **New York, NY**: 1 positions
 - **Cambridge, MA**: 1 positions
 - **MacDill AFB, FL**: 1 positions
-- **Washington, DC**: 1 positions
 - **Goleta, CA**: 1 positions
+- **Falls Church, VA**: 1 positions
 
 ---
 
@@ -222,7 +222,7 @@ Either still hiring or useful for research.
 🏢 **Companies:** 3 companies
 
 
-### 🏢 **FAANG+** (23 positions)
+### 🏢 **FAANG+** (22 positions)
 
 #### 📦 **Amazon** (6 positions)
 
@@ -251,15 +251,14 @@ Either still hiring or useful for research.
 | Data Scientist, Research, Search Experiments | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/101033997668098758-data-scientist-research-search-experiments?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 4w |
 | Business Data Scientist, Statistics, Platform Analytics, Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/116924421435728582-business-data-scientist-statistics-platform-analytics-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 4w |
 
-#### 🍎 **Apple** (6 positions)
+#### 🍎 **Apple** (5 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| AppleCare Data Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630785-0157/applecare-data-engineer?team=CUST) | 1w |
-| AppleCare Data Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630785-3956/applecare-data-engineer?team=CUST) | 1w |
+| AppleCare Data Scientist | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630978-0157/applecare-data-scientist?team=CUST) | 1w |
 | AppleCare Data Scientist | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630978-3956/applecare-data-scientist?team=CUST) | 1w |
 | Apple Music, Data Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200632618-0836/apple-music-data-engineer?team=SFTWR) | 1w |
-| Data Scientist - Payments Marketing | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200632932-0836/data-scientist-payments-marketing?team=SFTWR) | 1w |
+| Data Scientist, Streaming Media | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200632724-0836/data-scientist-streaming-media?team=SFTWR) | 1w |
 | AIML - Data Scientist, Data Operations | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200609424-3337/aiml-data-scientist-data-operations?team=MLAI) | 3w |
 
 ### 🏢 **Top Tech** (1 position)
@@ -308,12 +307,13 @@ Either still hiring or useful for research.
 |------|----------|-----------|-----|
 | Data Scientist | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/data-scientist-mountain-view-california-united-states-san-francisco) | 4w |
 
-### 🏭 **Manufacturing & Industrial** (1 position)
+### 🏭 **Manufacturing & Industrial** (2 positions)
 
-#### ⚡ **ABB** (1 position)
+#### ⚡ **ABB** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| R&D Applied Scientist | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/95951038/R-D-Applied-Scientist) | 2w |
 | Business Operations Support Analyst | Phoenix, AZ | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012734/Business-Operations-Support-Analyst) | 4w |
 
 
