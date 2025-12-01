@@ -82,9 +82,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Applied Scientist, SPX AI Lab | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3134610/applied-scientist-spx-ai-lab) | 20h |
-| Data Scientist, SPX AI Lab, SPX Science | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3134611/data-scientist-spx-ai-lab-spx-science) | 20h |
-| Data Scientist, One Medical - Clinical Effectiveness | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3134510/data-scientist-one-medical-clinical-effectiveness) | 20h |
+| Applied Scientist, SPX AI Lab | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3134610/applied-scientist-spx-ai-lab) | 21h |
+| Data Scientist, SPX AI Lab, SPX Science | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3134611/data-scientist-spx-ai-lab-spx-science) | 21h |
+| Data Scientist, One Medical - Clinical Effectiveness | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3134510/data-scientist-one-medical-clinical-effectiveness) | 21h |
 
 #### 🟢 **Google** (5 positions)
 
