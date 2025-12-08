@@ -69,7 +69,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - 🏢 **Top Companies:** 7 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** December 8, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Developer Jobs:** 30 (older than 1 week)
+- 📁 **Archived Developer Jobs:** 31 (older than 1 week)
 
 ---
 
@@ -82,7 +82,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Data Engineer II, Managed Operations Data Science (MODS) | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3138992/data-engineer-ii-managed-operations-data-science-mods) | 21h |
+| Data Engineer II, Managed Operations Data Science (MODS) | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3138992/data-engineer-ii-managed-operations-data-science-mods) | 22h |
 
 #### 🟢 **Google** (10 positions)
 
@@ -245,18 +245,18 @@ List of top locations and number of positions.
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 30 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 31 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 30 positions
+📁 **Total Jobs:** 31 positions
 
 🏢 **Companies:** 7 companies
 
 
-### 🏢 **FAANG+** (15 positions)
+### 🏢 **FAANG+** (16 positions)
 
 #### 📦 **Amazon** (6 positions)
 
@@ -279,14 +279,15 @@ Either still hiring or useful for research.
 | Research Scientist, Coherence Fabrication | Goleta, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/123983804703351494-research-scientist-coherence-fabrication?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=3) | 2w |
 | Research Data Scientist, Central Storage, Resource Planning, Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/122999583956443846-research-data-scientist-central-storage-resource-planning-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 3w |
 
-#### 🍎 **Apple** (4 positions)
+#### 🍎 **Apple** (5 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| AppleCare Data Scientist | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630978-0157/applecare-data-scientist?team=CUST) | 2w |
 | AppleCare Data Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630785-0157/applecare-data-engineer?team=CUST) | 2w |
 | AppleCare Data Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630785-3956/applecare-data-engineer?team=CUST) | 2w |
+| AppleCare Data Scientist | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630978-3956/applecare-data-scientist?team=CUST) | 2w |
 | Apple Music, Data Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200632618-0836/apple-music-data-engineer?team=SFTWR) | 2w |
-| Data Engineer - Camera Intelligence | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631946-0836/data-engineer-camera-intelligence?team=SFTWR) | 3w |
 
 ### 🚀 **Consulting & Services** (15 positions)
 
@@ -296,10 +297,10 @@ Either still hiring or useful for research.
 |------|----------|-----------|-----|
 | Data Scientist | MacDill AFB, FL | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/MacDill-AFB-FL/Data-Scientist_R0226861-1?q=data+science) | 1w |
 | Data Scientist, Mid | Washington, DC | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist--Mid_R0229952-1?q=data+science) | 1w |
-| Computer Scientist | Washington, DC | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Computer-Scientist_R0224558-1?q=data+science) | 1w |
 | Data Engineer | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0225955?q=data+science) | 2w |
 | Data Scientist | Fort Meade, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Data-Scientist_R0229687-1?q=data+science) | 2w |
 | Data Scientist | Tampa, FL | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Tampa-FL/Data-Scientist_R0229725?q=data+science) | 2w |
+| Computer Scientist | Washington, DC | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Computer-Scientist_R0224558-1?q=data+science) | 1w |
 | Data Scientist | Fayetteville, NC | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Data-Scientist_R0229726?q=data+science) | 2w |
 | Data Scientist, Mid | Reston, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Reston-VA/Data-Scientist--Mid_R0229747?q=data+science) | 2w |
 | Financial Data Analyst | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Financial-Data-Analyst_R0229713?q=data+science) | 2w |
