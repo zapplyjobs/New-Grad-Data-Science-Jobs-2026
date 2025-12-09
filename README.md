@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-22-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-23-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-8-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-15-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -44,7 +44,7 @@
   
   # 📊 Data Science & Analytics Jobs  2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from 8+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 22+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+🚀 Real-time data science and data analysis jobs from 8+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 23+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
 
 🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
 
@@ -65,11 +65,11 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 22 hot data-focused jobs
+- 🔥 **Current Positions:** 23 hot data-focused jobs
 - 🏢 **Top Companies:** 8 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** December 9, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Developer Jobs:** 27 (older than 1 week)
+- 📁 **Archived Developer Jobs:** 29 (older than 1 week)
 
 ---
 
@@ -82,23 +82,23 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Applied Scientist II, Amazon Connect | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3140033/applied-scientist-ii-amazon-connect) | 22h |
-| Data Scientist II, PXT Central Science | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3139316/data-scientist-ii-pxt-central-science) | 22h |
-| Data Engineer, CompanionProduct&Servi(ComPAS) | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3139912/data-engineer-companionproduct-servi-compas) | 22h |
+| Applied Scientist II, Amazon Connect | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3140033/applied-scientist-ii-amazon-connect) | 23h |
 | Data Engineer II, Managed Operations Data Science (MODS) | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3138992/data-engineer-ii-managed-operations-data-science-mods) | 1d |
 | Applied Scientist, AWS Neuron Science Team | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3139216/applied-scientist-aws-neuron-science-team) | 1d |
+| Data Scientist II, PXT Central Science | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3139316/data-scientist-ii-pxt-central-science) | 23h |
+| Data Engineer, CompanionProduct&Servi(ComPAS) | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3139912/data-engineer-companionproduct-servi-compas) | 23h |
 
 #### 🟢 **Google** (10 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Product Data Scientist, Risk Quantification | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/82194317300376262-product-data-scientist-risk-quantification?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 4d |
+| Research Scientist, Extended Reality, Hand Tracking | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/140717560466154182-research-scientist-extended-reality-hand-tracking?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=3) | 4d |
 | Data Scientist, Multimodal, AI Mode | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/95559413711938246-data-scientist-multimodal-ai-mode?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 6d |
 | Data Scientist, Research, Search Experiments | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/101033997668098758-data-scientist-research-search-experiments?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1mo |
 | Data Scientist, Research, PhD, Early Career, 2026 Start | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/106428613359739590-data-scientist-research-phd-early-career-2026-start?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1mo |
 | Data Scientist, Product, AI Data | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/107306236776456902-data-scientist-product-ai-data?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1d |
-| Product Data Scientist, Risk Quantification | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/82194317300376262-product-data-scientist-risk-quantification?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 4d |
 | Data Research Scientist, Trust and Safety | Washington D.C., DC | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/119604394592215750-data-research-scientist-trust-and-safety?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=2) | 4d |
-| Research Scientist, Extended Reality, Hand Tracking | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/140717560466154182-research-scientist-extended-reality-hand-tracking?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=3) | 4d |
 | Business Data Scientist II, gTech | Boulder, CO | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/133090165089280710-business-data-scientist-ii-gtech?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1mo |
 | Business Data Scientist, gDATA | Boulder, CO | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/73182378012353222-business-data-scientist-gdata?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1mo |
 | Business Data Scientist, Statistics, Platform Analytics, Google Cloud | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/116924421435728582-business-data-scientist-statistics-platform-analytics-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1mo |
@@ -119,12 +119,13 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-----------|-----|
 | Entry level AI/ML Engineer: SVL | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79649&source=WEB_Search_NA) | 4d |
 
-### 🚀 **Consulting & Services** (3 positions)
+### 🚀 **Consulting & Services** (4 positions)
 
-#### 🛡️ **BAE Systems** (1 position)
+#### 🛡️ **BAE Systems** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Data Engineer | Honolulu, HI | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Engineer_R0227894?q=data+science) | 1d |
 | Data Scientist, Mid | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0230370?q=data+science) | 4d |
 
 #### ⚙️ **General Dynamics** (2 positions)
@@ -175,17 +176,17 @@ No companies available
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 3 | 14% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 16 | 73% | 1-2 years of experience. |
-| 🔴 Manager | 3 | 14% | 2+ years of experience. |
+| 🟢 Entry Level & New Grad | 3 | 13% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 16 | 70% | 1-2 years of experience. |
+| 🔴 Manager | 4 | 17% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
 List of top locations and number of positions.
 
 - **Arlington, VA**: 3 positions
-- **Mountain View, CA**: 3 positions
 - **Sunnyvale, CA**: 3 positions
+- **Mountain View, CA**: 3 positions
 - **Seattle, WA**: 2 positions
 - **San Jose, CA**: 2 positions
 - **Boulder, CO**: 2 positions
@@ -196,7 +197,7 @@ List of top locations and number of positions.
 
 ## 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 22+ verified roles for data analysts and scientists from 8 elite tech companies.
+✅ **100% Real Jobs:** 23+ verified roles for data analysts and scientists from 8 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 
@@ -257,18 +258,18 @@ List of top locations and number of positions.
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 27 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 29 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 27 positions
+📁 **Total Jobs:** 29 positions
 
 🏢 **Companies:** 8 companies
 
 
-### 🏢 **FAANG+** (12 positions)
+### 🏢 **FAANG+** (14 positions)
 
 #### 📦 **Amazon** (5 positions)
 
@@ -284,18 +285,20 @@ Either still hiring or useful for research.
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Research Scientist, Google Research | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/137678040564933318-research-scientist-google-research?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=3) | 1w |
 | Data Scientist, Search Platforms | Cambridge, MA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/136416222123041478-data-scientist-search-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 2w |
+| Research Scientist, Google Research | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/137678040564933318-research-scientist-google-research?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=3) | 1w |
 | Research Scientist, Coherence Fabrication | Goleta, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/123983804703351494-research-scientist-coherence-fabrication?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=3) | 2w |
 
-#### 🍎 **Apple** (4 positions)
+#### 🍎 **Apple** (6 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | AppleCare Data Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630785-0157/applecare-data-engineer?team=CUST) | 2w |
+| AppleCare Data Scientist | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630978-0157/applecare-data-scientist?team=CUST) | 2w |
 | AppleCare Data Engineer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630785-3956/applecare-data-engineer?team=CUST) | 2w |
 | AppleCare Data Scientist | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630978-3956/applecare-data-scientist?team=CUST) | 2w |
 | Apple Music, Data Engineer | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200632618-0836/apple-music-data-engineer?team=SFTWR) | 2w |
+| Data Engineer - Camera Intelligence | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200631946-0836/data-engineer-camera-intelligence?team=SFTWR) | 3w |
 
 ### 🚀 **Consulting & Services** (15 positions)
 
@@ -331,7 +334,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 22 current opportunities from 8 elite companies.**
+**🎯 23 current opportunities from 8 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
