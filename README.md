@@ -69,7 +69,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - 🏢 **Top Companies:** 9 elite tech including Tesla, NVIDIA, Raytheon
 - 📅 **Last Updated:** December 14, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Developer Jobs:** 19 (older than 1 week)
+- 📁 **Archived Developer Jobs:** 20 (older than 1 week)
 
 ---
 
@@ -106,7 +106,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| AIML - Data Scientist, Evaluation | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-0836/aiml-data-scientist-evaluation?team=MLAI) | 2d |
+| AIML - Data Scientist, Evaluation | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-3337/aiml-data-scientist-evaluation?team=MLAI) | 2d |
 
 ### 🏢 **Top Tech** (1 position)
 
@@ -187,8 +187,8 @@ No companies available
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 3 | 10% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 16 | 52% | 1-2 years of experience. |
+| 🟢 Entry Level & New Grad | 4 | 13% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 15 | 48% | 1-2 years of experience. |
 | 🔴 Manager | 12 | 39% | 2+ years of experience. |
 
 ### 🌍 Top Locations
@@ -198,9 +198,9 @@ List of top locations and number of positions.
 - **Arlington, VA**: 3 positions
 - **Mountain View, CA**: 3 positions
 - **Sunnyvale, CA**: 2 positions
+- **Seattle, WA**: 2 positions
 - **Austin, TX**: 1 positions
 - **Phoenix, AZ**: 1 positions
-- **Cupertino, CA**: 1 positions
 - **Redmond, WA**: 1 positions
 - **Boise, ID**: 1 positions
 
@@ -269,18 +269,18 @@ List of top locations and number of positions.
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 19 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 20 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 19 positions
+📁 **Total Jobs:** 20 positions
 
 🏢 **Companies:** 9 companies
 
 
-### 🏢 **FAANG+** (8 positions)
+### 🏢 **FAANG+** (9 positions)
 
 #### 📦 **Amazon** (2 positions)
 
@@ -299,11 +299,12 @@ Either still hiring or useful for research.
 | Data Scientist, Search Platforms | Cambridge, MA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/136416222123041478-data-scientist-search-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 2w |
 | Research Scientist, Coherence Fabrication | Goleta, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/123983804703351494-research-scientist-coherence-fabrication?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=3) | 2w |
 
-#### 🍎 **Apple** (1 position)
+#### 🍎 **Apple** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | AppleCare Data Engineer | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630785-0157/applecare-data-engineer?team=CUST) | 3w |
+| AppleCare Data Scientist | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630978-3956/applecare-data-scientist?team=CUST) | 3w |
 
 ### 💻 **Enterprise Software** (1 position)
 
