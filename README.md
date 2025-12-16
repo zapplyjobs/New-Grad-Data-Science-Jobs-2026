@@ -104,7 +104,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Cellular Data Science & Machine Learning Engineer | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636490-3543/cellular-data-science-machine-learning-engineer?team=HRDWR) | 1d |
+| AIML - Data Scientist, Evaluation | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-3337/aiml-data-scientist-evaluation?team=MLAI) | 4d |
 
 ### 🏢 **Top Tech** (1 position)
 
@@ -196,13 +196,13 @@ No companies available
 List of top locations and number of positions.
 
 - **Mountain View, CA**: 3 positions
-- **San Diego, CA**: 2 positions
 - **New York, NY**: 2 positions
 - **San Francisco, CA**: 2 positions
 - **Austin, TX**: 1 positions
 - **San Jose, CA**: 1 positions
 - **Phoenix, AZ**: 1 positions
 - **Boston, MA**: 1 positions
+- **Tampa, FL**: 1 positions
 
 ---
 
