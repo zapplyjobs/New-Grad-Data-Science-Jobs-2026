@@ -168,15 +168,11 @@
 #### ⭐ **FAANG+** (1 company)
 🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (6 positions)
 
-
 #### 💰 **Fintech Leaders** (0 companies)
 No companies available
 
-
 #### ☁️ **Enterprise & Cloud** (1 company)
 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (1 position)
-
----
 
 ### 📈 Experience Breakdown
 
@@ -198,8 +194,6 @@ List of top locations and number of positions.
 - **Boise, ID**: 1 positions
 - **MacDill AFB, FL**: 1 positions
 - **Silver Spring, MD**: 1 positions
-
----
 
 ### 🔮 Why Data Analysts Choose Our Job Board
 
