@@ -63,7 +63,24 @@
 
 ---
 
-## 📊 **Live Stats**
+## Alerts
+
+![dsj-alerts](images/dsj-alerts.png)
+
+**Don't miss new opportunities!**  
+- 🌟 **Star this repo** to get updates on your GitHub dashboard
+- 👁️ **Watch** for instant notifications on new jobs
+- 🔔 **Turn on notifications** to never miss FAANG+ postings
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=zapplyjobs/New-Grad-Jobs&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=zapplyjobs/New-Grad-Jobs&type=Date" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=zapplyjobs/New-Grad-Jobs&type=Date" />
+</picture>
+
+---
+
+## **Live Stats**
 
 ![dsj-stats](images/dsj-stats.png)
 
@@ -75,7 +92,7 @@
 
 ---
 
-## 🎯 Fresh Data Science Jobs 2026
+## Fresh Data Science Jobs 2026
 
 ![dsj-listings](images/dsj-listings.png)
 
@@ -142,7 +159,7 @@
 
 ---
 
-## **✨ Insights on the Repo**
+## **Insights on the Repo**
 
 ![dsj-insights](images/dsj-insights.png)
 
@@ -184,7 +201,7 @@ List of top locations and number of positions.
 
 ---
 
-## 🔮 Why Data Analysts Choose Our Job Board
+## Why Data Analysts Choose Our Job Board
 
 ✅ **100% Real Jobs:** 14+ verified roles for data analysts and scientists from 7 elite tech companies.
 <br>
@@ -200,7 +217,7 @@ List of top locations and number of positions.
 
 ---
 
-## 🚀 Job Hunt Tips That Actually Work
+## Job Hunt Tips That Actually Work
 
 ![dsj-tips](images/dsj-tips.png)
 
@@ -235,15 +252,36 @@ List of top locations and number of positions.
 
 ---
 
-## 📬 Stay Updated
+## 🤝 **Become a Contributor**
 
-- ⭐ **Star this repo** to bookmark and check daily.
-<br>
-- 👀 **Watch** to get notified of new data postings.
-<br>
-- 📱 **Bookmark on your phone** for quick job hunting.
-<br>
-- 🤝 **Become a contributor** and add new jobs! Visit our CONTRIBUTING-GUIDE [here](CONTRIBUTING-GUIDE.md).
+![dsj-contributor](images/dsj-contributor.png)
+
+Add new jobs! See the [contributing guide](#contributing-guide).
+
+### Contributing Guide
+#### 🎯 Roles We Accept
+- Located in the US, Canada, or Remote.
+- Not already in our database.
+- Currently accepting applications.
+
+#### 🚀 How to Add Jobs
+1. Create a new issue.
+2. Select the "New Job" template.
+3. Fill out and submit the form.
+   > Submit separate issues for each position, even from the same company.
+
+#### ✏️ How to Update Jobs
+1. Copy the job URL to edit.
+2. Create a new issue.
+3. Select the "Edit Job" template.
+4. Paste the URL and describe changes.
+
+#### ⚡ What Happens Next
+- Our team reviews within 24-48 hours.
+- Approved jobs are added to the main list.
+- The README updates automatically via script.
+- Contributions go live at the next daily refresh (9 AM UTC).
+- Questions? Create a miscellaneous issue, and we’ll assist! 🙏
 
 ---
 
