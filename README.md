@@ -201,7 +201,7 @@ List of top locations and number of positions.
 
 ---
 
-## Why Data Analysts Choose Our Job Board
+### 🔮 Why Data Analysts Choose Our Job Board
 
 ✅ **100% Real Jobs:** 14+ verified roles for data analysts and scientists from 7 elite tech companies.
 <br>
