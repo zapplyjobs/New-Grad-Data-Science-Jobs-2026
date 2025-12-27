@@ -252,7 +252,7 @@ List of top locations and number of positions.
 
 ---
 
-## 🤝 **Become a Contributor**
+## **Become a Contributor**
 
 ![dsj-contributor](images/dsj-contributor.png)
 
