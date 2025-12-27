@@ -166,6 +166,7 @@ List of top locations and number of positions.
 - **Phoenix, AZ**: 1 positions
 - **Fort Carson, CO**: 1 positions
 - **Boise, ID**: 1 positions
+- **Fort Carson, CO**: 1 positions
 
 ---
 
