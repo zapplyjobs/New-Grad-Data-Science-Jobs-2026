@@ -256,7 +256,7 @@ List of top locations and number of positions.
 
 ![dsj-contributor](images/dsj-contributor.png)
 
-Add new jobs! See the [contributing guide](#contributing-guide).
+Add new jobs! See the <a href="CONTRIBUTING-GUIDE.md">contributing guide</a>.
 
 ### Contributing Guide
 #### 🎯 Roles We Accept
