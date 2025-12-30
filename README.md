@@ -82,7 +82,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Data Scientist, Region Flexibility | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3150155/data-scientist-region-flexibility) | 17h |
+| Data Scientist, Region Flexibility | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3150155/data-scientist-region-flexibility) | 18h |
 | Data Engineer II, Ring/Blink Customer Service Engineering Services | Hawthorne, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3149944/data-engineer-ii-ring-blink-customer-service-engineering-services) | 1d |
 
 #### 🟢 **Google** (4 positions)
@@ -162,8 +162,8 @@ No companies available
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 2 | 13% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 7 | 44% | 1-2 years of experience. |
+| 🟢 Entry Level & New Grad | 3 | 19% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 6 | 38% | 1-2 years of experience. |
 | 🔴 Manager | 7 | 44% | 2+ years of experience. |
 
 ### 🌍 Top Locations
