@@ -375,11 +375,11 @@ ${generateJobTable(currentJobs)}
 
 ### 🏢 Top Companies
 
-#### ⭐ **FAANG+** (${(() => {
-  const count = companies?.faang_plus?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length || 0;
-  return `${count} ${count === 1 ? 'company' : 'companies'}`;
-})()})
-${companies?.faang_plus?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
+${(() => {
+  const faangWithJobs = companies?.faang_plus?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0) || [];
+  if (faangWithJobs.length === 0) return '';
+  return `#### ⭐ **FAANG+** (${faangWithJobs.length} ${faangWithJobs.length === 1 ? 'company' : 'companies'})
+${faangWithJobs.map((c, index) => {
   const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
   const jobText = totalJobs === 1 ? 'position' : 'positions';
   if (index === 0) {
@@ -387,14 +387,15 @@ ${companies?.faang_plus?.filter(c => currentJobs.filter(job => job.employer_name
   } else {
     return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs})`;
   }
-}).join(" • ") || "No companies available"}
+}).join(" • ")}
 
-
-#### 💰 **Fintech Leaders** (${(() => {
-  const count = companies?.fintech?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length || 0;
-  return `${count} ${count === 1 ? 'company' : 'companies'}`;
-})()})
-${companies?.fintech?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
+`;
+})()}
+${(() => {
+  const fintechWithJobs = companies?.fintech?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0) || [];
+  if (fintechWithJobs.length === 0) return '';
+  return `#### 💰 **Fintech Leaders** (${fintechWithJobs.length} ${fintechWithJobs.length === 1 ? 'company' : 'companies'})
+${fintechWithJobs.map((c, index) => {
   const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
   const jobText = totalJobs === 1 ? 'position' : 'positions';
   if (index === 0) {
@@ -402,14 +403,15 @@ ${companies?.fintech?.filter(c => currentJobs.filter(job => job.employer_name ==
   } else {
     return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs})`;
   }
-}).join(" • ") || "No companies available"}
+}).join(" • ")}
 
-
-#### ☁️ **Enterprise & Cloud** (${(() => {
-  const count = [...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length || 0;
-  return `${count} ${count === 1 ? 'company' : 'companies'}`;
-})()})
-${[...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
+`;
+})()}
+${(() => {
+  const enterpriseWithJobs = [...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0) || [];
+  if (enterpriseWithJobs.length === 0) return '';
+  return `#### ☁️ **Enterprise & Cloud** (${enterpriseWithJobs.length} ${enterpriseWithJobs.length === 1 ? 'company' : 'companies'})
+${enterpriseWithJobs.map((c, index) => {
   const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
   const jobText = totalJobs === 1 ? 'position' : 'positions';
   if (index === 0) {
@@ -417,7 +419,10 @@ ${[...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].filter
   } else {
     return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs})`;
   }
-}).join(" • ") || "No companies available"}
+}).join(" • ")}
+
+`;
+})()}
 
 ---
 
@@ -436,7 +441,7 @@ List of top locations and number of positions.
 ${stats ? Object.entries(stats.byLocation)
   .sort((a, b) => b[1] - a[1])
   .slice(0, 8)
-  .map(([location, count]) => `- **${location}**: ${count} positions`)
+  .map(([location, count]) => `- **${location}**: ${count} ${count === 1 ? 'position' : 'positions'}`)
   .join("\n") : ""}
 
 ---
@@ -477,7 +482,7 @@ ${stats ? Object.entries(stats.byLocation)
 - Ask domain questions: "How do you ensure model explainability in production?" shows real research.
 - Prepare case stories: "Improved forecast accuracy by 20% using time-series analysis."
 - Reference their products: "As a daily Slack user, I've noticed..." proves genuine interest.
-- [Review this comprehensive interview guide on common behavioral, technical, and curveball questions](https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0)
+- [Review this comprehensive interview guide on common behavioral, technical, and curveball questions](https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0).
 
 <p align="center">
   <a href="https://docs.google.com/document/d/1EcP_vX-vTTblCe1hYSJn9apwrop0Df7h/export?format=docx"><img src="images/sample-resume.png" alt="A sample format of a software engineering resume." width="250"></a>
