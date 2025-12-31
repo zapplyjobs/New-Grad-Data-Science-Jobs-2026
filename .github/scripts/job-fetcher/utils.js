@@ -102,16 +102,16 @@ function getCompanyCareerUrl(companyName) {
 function isJobOlderThanWeek(dateString) {
   if (!dateString) return false;
 
-  // Check if the date is in relative format (e.g., '1d', '2w')
-  const relativeMatch = dateString.match(/^(\d+)([hdwmo])$/i);
+  // Check if the date is in relative format (e.g., '1d', '2w', '1mo')
+  const relativeMatch = dateString.match(/^(\d+)(h|d|w|mo)$/i);
   if (relativeMatch) {
     const value = parseInt(relativeMatch[1]);
     const unit = relativeMatch[2].toLowerCase();
 
-    if (unit === 'd' && value >= 7) return true; // 7 or more days
-    if (unit === 'w') return true; // Any number of weeks is older than a week
-    if (unit === 'mo') return true; // Any number of months is older than a week
-    return false; // Hours ('h') or less than 7 days ('d') are not older than a week
+    if (unit === 'd' && value >= 7) return true;
+    if (unit === 'w') return true;
+    if (unit === 'mo') return true;
+    return false;
   }
 
   // Fallback to absolute date comparison
