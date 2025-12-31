@@ -361,7 +361,7 @@ ${faangJobs > 0 ? '- **⭐ FAANG+ Jobs**: ' + faangJobs + ' premium opportunitie
 
 ---
 
-## 🎯 Fresh Data Science Jobs 2026
+## Fresh Data Science Jobs 2026
 
 <img src="images/dsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
