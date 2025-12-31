@@ -441,7 +441,7 @@ List of top locations and number of positions.
 ${stats ? Object.entries(stats.byLocation)
   .sort((a, b) => b[1] - a[1])
   .slice(0, 8)
-  .map(([location, count]) => `- **${location}**: ${count} ${count === 1 ? 'position' : 'positions'}`)
+  .map(([location, count]) => `- **${location}**: ${count} ${Number(count) === 1 ? 'position' : 'positions'}`)
   .join("\n") : ""}
 
 ---
