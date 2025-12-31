@@ -251,17 +251,16 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
   return `<div align="center">
 
 <!-- Banner -->
-<img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Data Science Jobs" width="200">
+<img src="images/dsj-heading.png" alt="Data Science Jobs 2026 - Illustration of people working in data science.">
 
-<h3>💼 New Grad Data Science Jobs 2025-2026</h3>
-<p><em>Real-time job opportunities from ${totalCompanies}</em></p>
+# Data Science Jobs 2026
 
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-${currentJobs.length}-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-${totalCompanies}-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-${faangJobs}-red?style=flat&logo=star)
+${faangJobs > 0 ? '![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-' + faangJobs + '-red?style=flat&logo=star)' : ''}
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -287,52 +286,63 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
 </div>
 
 ---
-  
-  
-  
-  
-  
-  # 📊 Data Science & Analytics Jobs  2026 by Zapply
 
-🚀 Real-time data science and data analysis jobs from ${totalCompanies}+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with ${currentJobs.length}+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.
+<p align="center">🚀 Real-time data science and data analysis jobs from ${totalCompanies}+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with ${currentJobs.length}+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.</p>
 
-🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.
+<p align="center">🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.</p>
 
-🛠 Help us grow! Add new jobs by submitting an issue! View contributing steps [here](CONTRIBUTING-GUIDE.md).
+> [!TIP]
+> 🛠  Help us grow! Add new jobs by submitting an issue! View [contributing steps](CONTRIBUTING-GUIDE.md) here.
 
 ---
 
-## **Join Our Community**
+## Join Our Community
 
-Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities.. Join our community of analytics students and data enthusiasts navigating their career journey together!
+<img src="images/community.png" alt="Join Our Community - Illustration of people holding hands.">
 
- <div align="center">
-  <a href="https://discord.gg/yKWw28q7Yq" target="_blank">
-    <img src="./discord-button.png" width="400" alt="Join Discord - Job Finder & Career Hub by Zapply">
-  </a>
-</div>
+Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join our community of analytics students and data enthusiasts navigating their career journey together!
+
+<p align="center">
+  <a href="https://discord.gg/EXR6rWnd"><img src="images/discord.png" alt="Join Our Discord" width="235"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.reddit.com/r/Zapply/"><img src="images/reddit.png" alt="Join Our Reddit" width="200"></a>
+</p>
 
 ---
-## 📊 **Live Stats**
+
+## Alerts
+
+<img src="images/alerts.png" alt="Watch, fork, and star the repo to get alerts on new jobs.">
+
+**Don't miss new opportunities!**  
+- 🌟 **Star this repo** to get updates on your GitHub dashboard.
+- 👁️ **Watch** for instant notifications on new jobs.
+- 🔔 **Turn on notifications** to never miss FAANG+ postings.
+
+---
+
+## Live Stats
 
 - 🔥 **Current Positions:** ${currentJobs.length} hot data-focused jobs
-- 🏢 **Top Companies:** ${totalCompanies} elite tech including Tesla, NVIDIA, Raytheon
+- **🏢 Companies**: ${totalCompanies} companies<br>${faangJobs > 0 ? `- **⭐ FAANG+ Jobs**: ${faangJobs} premium opportunities` : ''}
 - 📅 **Last Updated:** ${currentDate}
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Developer Jobs:** ${archivedJobs.length} (older than 1 week)
 
 ---
 
+## 🎯 Fresh Data Science Jobs 2026
 
-## 🎯 Fresh Data Science Job Listings 2026 (under 1 week)
+<img src="images/dsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 ${generateJobTable(currentJobs)}
 
 ---
 
-## **✨ Insights on the Repo**
+## Insights on the Repo
 
-### 🏢 **Top Companies**
+<img src="images/insights.png" alt="Insights pulled from current listings.">
+
+### 🏢 Top Companies
 
 #### ⭐ **FAANG+** (${(() => {
   const count = companies?.faang_plus?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length || 0;
@@ -400,67 +410,84 @@ ${stats ? Object.entries(stats.byLocation)
 
 ---
 
-## 🔮 Why Data Analysts Choose Our Job Board
+### 🔮 Why Data Analysts Choose Our Job Board
 
 ✅ **100% Real Jobs:** ${currentJobs.length}+ verified roles for data analysts and scientists from ${totalCompanies} elite tech companies.
-
+<br>
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
-
+<br>
 ✅ **Entry-Level Focused:** Smart filtering for internship and entry-level analytics roles.
-
+<br>
 ✅ **Intern-to-FTE Pipeline:** Track internships that convert to full-time roles.
-
+<br>
 ✅ **Direct Applications:** Skip recruiters – apply straight to company career pages for Tesla, Amazon, and NVIDIA positions.
-
+<br>
 ✅ **Mobile-Optimized:** Perfect mobile experience for students job hunting between classes.
 
 ---
 
-## 🚀 Job Hunt Tips That Actually Work
+## Job Hunt Tips That Actually Work
+
+<img src="images/tips.png" alt="No fluff — just strategies that help.">
 
 ### 🔍 Research Before Applying
-
 - Find the hiring manager: Search "[Company] [Team] engineering manager" on LinkedIn.
-
 - Check recent tech decisions: Read their engineering blog for stack changes or new initiatives.
-
 - Verify visa requirements: Look for 🇺🇸 indicator or "US persons only" in job description.
-
 - [Use this 100% ATS-compliant and job-targeted resume template](https://docs.google.com/document/d/1EcP_vX-vTTblCe1hYSJn9apwrop0Df7h/export?format=docx).
 
 ### 📄 Resume Best Practices
-
 - Mirror their tech stack: Copy exact keywords from job post (SQL, Tableau, Python, R, etc.).
-
 - Lead with business impact: "Reduced churn by 12% through cohort analysis" > "Used Excel."
-
 - Show product familiarity: "Built Netflix-style recommendation engine" or "Created Stripe payment integration."
-
 - [Read this informative guide on tweaking your resume](https://drive.google.com/uc?export=download&id=1H6ljywqVnxONdYUD304V1QRayYxr0D1e).
 
 ### 🎯 Interview Best Practices
-
 - Ask domain questions: "How do you ensure model explainability in production?" shows real research.
-
 - Prepare case stories: "Improved forecast accuracy by 20% using time-series analysis."
-
 - Reference their products: "As a daily Slack user, I've noticed..." proves genuine interest.
-
 - [Review this comprehensive interview guide on common behavioral, technical, and curveball questions](https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0)
 
----
-
-## 📬 Stay Updated
-
-- ⭐ **Star this repo** to bookmark and check daily.
-
-- 👀 **Watch** to get notified of new data postings.
-
-- 📱 **Bookmark on your phone** for quick job hunting.
-
-- 🤝 **Become a contributor** and add new jobs! Visit our CONTRIBUTING-GUIDE [here](CONTRIBUTING-GUIDE.md).
+<p align="center">
+  <a href="https://docs.google.com/document/d/1EcP_vX-vTTblCe1hYSJn9apwrop0Df7h/export?format=docx"><img src="images/sample-resume.png" alt="A sample format of a software engineering resume." width="250"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/uc?export=download&id=1H6ljywqVnxONdYUD304V1QRayYxr0D1e"><img src="images/tweaking-resume.png" alt="A guide on tweaking your resume with keywords." width="250"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0"><img src="images/interview-guide.png" alt="The most common interview questions and how to answer them." width="250"></a>
+</p>
 
 ---
+
+## Become a Contributor
+
+<img src="images/contributor.png" alt="Add roles, report issues, or suggest improvements.">
+
+Add new jobs! See the [contributing guide](CONTRIBUTING.md).
+
+### Contributing Guide
+#### 🎯 Roles We Accept
+- Located in the US, Canada, or Remote.
+- Not already in our database.
+- Currently accepting applications.
+
+#### 🚀 How to Add Jobs
+1. Create a new issue.
+2. Select the "New Job" template.
+3. Fill out and submit the form.
+   > Submit separate issues for each position, even from the same company.
+
+#### ✏️ How to Update Jobs
+1. Copy the job URL to edit.
+2. Create a new issue.
+3. Select the "Edit Job" template.
+4. Paste the URL and describe changes.
+
+#### ⚡ What Happens Next
+- Our team reviews within 24-48 hours.
+- Approved jobs are added to the main list.
+- The README updates automatically via script.
+- Contributions go live at the next daily refresh (9 AM UTC).
+- Questions? Create a miscellaneous issue, and we’ll assist! 🙏
 
 ${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, stats) : ""}
 
