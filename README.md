@@ -291,8 +291,8 @@ Either still hiring or useful for research.
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | Cellular Data Science & Machine Learning Engineer | San Diego, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200636490-3543/cellular-data-science-machine-learning-engineer?team=HRDWR) | 2w |
-| AIML - Data Scientist, Evaluation | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-0836/aiml-data-scientist-evaluation?team=MLAI) | 2w |
 | AIML - Data Scientist, Evaluation | Seattle, WA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-3337/aiml-data-scientist-evaluation?team=MLAI) | 2w |
+| AIML - Data Scientist, Evaluation | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-0836/aiml-data-scientist-evaluation?team=MLAI) | 2w |
 
 ### 🏢 **Top Tech** (1 position)
 
