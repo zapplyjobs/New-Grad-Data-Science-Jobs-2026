@@ -9,7 +9,25 @@ const {
   getExperienceLevel,
   getJobCategory,
   formatLocation,
+  isJobOlderThanWeek,
 } = require("./utils");
+
+// Filter jobs by age - jobs posted within last 7 days are "current", older ones are "archived"
+function filterJobsByAge(allJobs) {
+  const currentJobs = [];
+  const archivedJobs = [];
+
+  allJobs.forEach((job) => {
+    if (isJobOlderThanWeek(job.job_posted_at)) {
+      archivedJobs.push(job);
+    } else {
+      currentJobs.push(job);
+    }
+  });
+
+  console.log(`📅 Filtered: ${currentJobs.length} current (≤7 days), ${archivedJobs.length} archived (>7 days)`);
+  return { currentJobs, archivedJobs };
+}
 
 function generateJobTable(jobs) {
   console.log(
@@ -548,8 +566,8 @@ async function updateReadme(currentJobs, archivedJobs, internshipData, stats) {
 
 module.exports = {
   generateJobTable,
-  
   generateArchivedSection,
   generateReadme,
   updateReadme,
+  filterJobsByAge,
 };
