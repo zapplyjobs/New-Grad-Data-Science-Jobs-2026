@@ -254,8 +254,8 @@ Either still hiring or useful for research.
 |------|----------|-------|-----------|-----|
 | Research Scientist, Artificial General Intelligence - Data Services | Boston, MA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en-gb/jobs/3143046/research-scientist-artificial-general-intelligence-data-services) | 2w |
 | Applied Scientist, Workplace Health & Safety | Bellevue, WA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en-gb/jobs/3144886/applied-scientist-workplace-health-safety) | 2w |
-| Data Scientist II, PXT Central Science | Arlington, VA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en-gb/jobs/3139316/data-scientist-ii-pxt-central-science) | 3w |
 | Applied Scientist II, Amazon Connect | Seattle, WA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en-gb/jobs/3140033/applied-scientist-ii-amazon-connect) | 3w |
+| Data Scientist II, PXT Central Science | Arlington, VA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en-gb/jobs/3139316/data-scientist-ii-pxt-central-science) | 3w |
 | Applied Scientist, AWS Agentic AI | New York, NY | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en-gb/jobs/3141517/applied-scientist-aws-agentic-ai) | 3w |
 | Applied Scientist, AWS Neuron Science Team | Santa Clara, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en-gb/jobs/3139216/applied-scientist-aws-neuron-science-team) | 3w |
 | Data Engineer | San Francisco, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en-gb/jobs/3141339/data-engineer) | 3w |
@@ -292,7 +292,7 @@ Either still hiring or useful for research.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Data Analytics Engineer | Austin, TX | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/73403/login) | 1mo |
+| Data Analytics Engineer | Austin, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/73403/login) | 1mo |
 
 ### 💻 **Enterprise Software** (1 position)
 
