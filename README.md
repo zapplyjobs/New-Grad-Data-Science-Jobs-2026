@@ -236,13 +236,13 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 - Questions? Create a miscellaneous issue, and we’ll assist! 🙏
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 34 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 35 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 34 positions
+📁 **Total Jobs:** 35 positions
 
 🏢 **Companies:** 2 companies
 
@@ -255,8 +255,8 @@ Either still hiring or useful for research.
 |------|----------|-------|-----------|-----|
 | Research Scientist, Artificial General Intelligence - Data Services | Boston, MA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en-gb/jobs/3143046/research-scientist-artificial-general-intelligence-data-services) | 2w |
 | Applied Scientist, Workplace Health & Safety | Bellevue, WA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en-gb/jobs/3144886/applied-scientist-workplace-health-safety) | 2w |
-| Applied Scientist II, Amazon Connect | Seattle, WA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en-gb/jobs/3140033/applied-scientist-ii-amazon-connect) | 3w |
 | Data Scientist II, PXT Central Science | Arlington, VA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en-gb/jobs/3139316/data-scientist-ii-pxt-central-science) | 3w |
+| Applied Scientist II, Amazon Connect | Seattle, WA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en-gb/jobs/3140033/applied-scientist-ii-amazon-connect) | 3w |
 | Applied Scientist, AWS Agentic AI | New York, NY | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en-gb/jobs/3141517/applied-scientist-aws-agentic-ai) | 3w |
 | Applied Scientist, AWS Neuron Science Team | Santa Clara, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en-gb/jobs/3139216/applied-scientist-aws-neuron-science-team) | 3w |
 | Data Engineer | San Francisco, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en-gb/jobs/3141339/data-engineer) | 3w |
@@ -325,13 +325,19 @@ Either still hiring or useful for research.
 |------|----------|-------|-----------|-----|
 | Data Scientist | Mountain View, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs/data-scientist-mountain-view-california-united-states-san-francisco) | 2mo |
 
-### 🏭 **Manufacturing & Industrial** (1 position)
+### 🏭 **Manufacturing & Industrial** (2 positions)
 
 #### 💾 **Micron Technology** (1 position)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | FE Materials Business Intelligence Analyst | Boise, ID | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.micron.com/careers/job/39196272) | 1w |
+
+#### ⚡ **ABB** (1 position)
+
+| Role | Location | Level | Apply Now | Age |
+|------|----------|-------|-----------|-----|
+| Business Operations Support Analyst | Phoenix, AZ | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.abb/global/en/job/JR00012734/Business-Operations-Support-Analyst) | 2mo |
 
 
 
