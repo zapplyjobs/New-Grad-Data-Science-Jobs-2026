@@ -147,12 +147,12 @@ List of top locations and number of positions.
 
 - **MacDill AFB, FL**: 2 positions
 - **Arlington, VA**: 2 positions
-- **Sunnyvale, CA**: 1 position
 - **Jacksonville, NC**: 1 position
 - **Fort Bragg, NC**: 1 position
 - **Chantilly, VA**: 1 position
 - **San Diego, CA**: 1 position
 - **Offutt AFB, NE**: 1 position
+- **Herndon, VA**: 1 position
 
 ---
 
@@ -236,18 +236,18 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 - Questions? Create a miscellaneous issue, and we’ll assist! 🙏
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 35 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 34 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 35 positions
+📁 **Total Jobs:** 34 positions
 
 🏢 **Companies:** 2 companies
 
 
-### 🏢 **FAANG+** (21 positions)
+### 🏢 **FAANG+** (20 positions)
 
 #### 📦 **Amazon** (8 positions)
 
@@ -278,11 +278,10 @@ Either still hiring or useful for research.
 | Research Data Scientist, Ads Metrics | Mountain View, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128004143737381574-research-data-scientist-ads-metrics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 2w |
 | Research Scientist, Google Cloud AI | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113920872959353542-research-scientist-google-cloud-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=3) | 3w |
 
-#### 🍎 **Apple** (2 positions)
+#### 🍎 **Apple** (1 position)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| AIML - Data Scientist, Evaluation | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-0836/aiml-data-scientist-evaluation?team=MLAI) | 3w |
 | AIML - Data Scientist, Evaluation | Seattle, WA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-3337/aiml-data-scientist-evaluation?team=MLAI) | 3w |
 
 ### 🏢 **Top Tech** (1 position)
