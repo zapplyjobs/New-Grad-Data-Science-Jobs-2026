@@ -147,8 +147,8 @@ List of top locations and number of positions.
 
 - **MacDill AFB, FL**: 2 positions
 - **Arlington, VA**: 2 positions
-- **Sunnyvale, CA**: 1 position
 - **Silver Spring, MD**: 1 position
+- **Sunnyvale, CA**: 1 position
 - **Jacksonville, NC**: 1 position
 - **Fort Bragg, NC**: 1 position
 - **Chantilly, VA**: 1 position
@@ -236,28 +236,29 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 - Questions? Create a miscellaneous issue, and we’ll assist! 🙏
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 33 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 34 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 33 positions
+📁 **Total Jobs:** 34 positions
 
 🏢 **Companies:** 2 companies
 
 
-### 🏢 **FAANG+** (19 positions)
+### 🏢 **FAANG+** (20 positions)
 
-#### 📦 **Amazon** (6 positions)
+#### 📦 **Amazon** (7 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Applied Scientist, Workplace Health & Safety | Bellevue, WA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en-gb/jobs/3144886/applied-scientist-workplace-health-safety) | 2w |
+| Research Scientist, Artificial General Intelligence - Data Services | Boston, MA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en-gb/jobs/3146697/research-scientist-artificial-general-intelligence-data-services) | 2w |
 | Applied Scientist II, Amazon Connect | Seattle, WA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en-gb/jobs/3140033/applied-scientist-ii-amazon-connect) | 3w |
 | Data Scientist II, PXT Central Science | Arlington, VA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en-gb/jobs/3139316/data-scientist-ii-pxt-central-science) | 3w |
 | Applied Scientist, AWS Agentic AI | New York, NY | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en-gb/jobs/3141517/applied-scientist-aws-agentic-ai) | 3w |
 | Data Engineer | San Francisco, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en-gb/jobs/3141339/data-engineer) | 3w |
+| Data Engineer, CompanionProduct&Servi(ComPAS) | Seattle, WA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en-gb/jobs/3139912/data-engineer-companionproduct-servi-compas) | 3w |
 | Applied Scientist, AWS Neuron Science Team | Santa Clara, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en-gb/jobs/3139216/applied-scientist-aws-neuron-science-team) | 4w |
 
 #### 🟢 **Google** (11 positions)
@@ -311,9 +312,9 @@ Either still hiring or useful for research.
 | Data Analyst | Washington, DC | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Analyst_R0231044?q=data+science) | 2w |
 | Data Engineer | Honolulu, HI | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Engineer_R0227894?q=data+science) | 3w |
 | Data Scientist | Fort Meade, MD | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Data-Scientist_R0230751?q=data+science) | 3w |
-| Palantir Data Scientist | Springfield, VA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Palantir-Data-Scientist_R0230325?q=data+science) | 3w |
-| Data Scientist | Arlington, VA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0227412-1?q=data+science) | 3w |
 | Data Scientist, Mid | Fort Meade, MD | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Data-Scientist--Mid_R0230755?q=data+science) | 3w |
+| Data Scientist | Arlington, VA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0227412-1?q=data+science) | 3w |
+| Palantir Data Scientist | Springfield, VA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Palantir-Data-Scientist_R0230325?q=data+science) | 3w |
 
 ### 🛡️ **Autonomous & Aerospace** (1 position)
 
