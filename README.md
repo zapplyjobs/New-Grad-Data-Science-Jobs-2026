@@ -8,7 +8,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-12-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-13-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-2-blue?style=flat&logo=building)
 
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -37,7 +37,7 @@
 
 ---
 
-<p align="center">🚀 Real-time data science and data analysis jobs from 2+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 12+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.</p>
+<p align="center">🚀 Real-time data science and data analysis jobs from 2+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 13+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.</p>
 
 <p align="center">🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.</p>
 
@@ -73,7 +73,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## Live Stats
 
-- 🔥 **Current Positions:** 12 hot data-focused jobs
+- 🔥 **Current Positions:** 13 hot data-focused jobs
 - **🏢 Companies**: 2 companies
 - 📅 **Last Updated:** January 6, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -84,7 +84,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <img src="images/dsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
-### 🚀 **Consulting & Services** (12 positions)
+### 🚀 **Consulting & Services** (13 positions)
 
 #### 🛡️ **BAE Systems** (2 positions)
 
@@ -93,7 +93,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | University, Data Scientist | Washington, DC | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/University--Data-Scientist_R0228796?q=data+science) | 1d |
 | Data Scientist | Springfield, VA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Scientist_R0231589-1?q=data+science) | 4d |
 
-#### ⚙️ **General Dynamics** (10 positions)
+#### ⚙️ **General Dynamics** (11 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
@@ -106,6 +106,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Secure AI/ML Delivery | Offutt AFB, NE | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NE-Offutt-AFB/Secure-AI-ML-Delivery_RQ209510-1?q=data+science) | 4d |
 | AI/ML Delivery Engineer | Herndon, VA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Herndon/AI-ML-Delivery-Engineer_RQ210085-1?q=data+science) | 4d |
 | AI Engineer - Telework Oppty! | Annapolis Junction, MD | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Annapolis-Junction/AI-Engineer---Telework-Oppty-_PRX25938-1?q=data+science) | 4d |
+| Research Scientist (Clinical Research, Traumatic Brain Injury) | Fort Carson, CO | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CO-Fort-Carson/Research-Scientist--Clinical-Research--Traumatic-Brain-Injury-_RQ211166-1?q=data+science) | 4d |
 | High Performance Computing (HPC) Computational Scientist | Dayton, OH | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-OH-Dayton/High-Performance-Computing--HPC--Computational-Scientist_RQ211201?q=data+science) | 4d |
 
 
@@ -130,7 +131,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |-------|-------|------------|---------------|
 | 🟢 Entry Level & New Grad | 0 | 0% | No or minimal experience. |
 | 🟡 Beginner & Early Career | 0 | 0% | 1-2 years of experience. |
-| 🔴 Manager | 12 | 100% | 2+ years of experience. |
+| 🔴 Manager | 13 | 100% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
@@ -149,7 +150,7 @@ List of top locations and number of positions.
 
 ### 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 12+ verified roles for data analysts and scientists from 2 elite tech companies.
+✅ **100% Real Jobs:** 13+ verified roles for data analysts and scientists from 2 elite tech companies.
 <br>
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 <br>
@@ -227,13 +228,13 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 - Questions? Create a miscellaneous issue, and we’ll assist! 🙏
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 35 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 36 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 35 positions
+📁 **Total Jobs:** 36 positions
 
 🏢 **Companies:** 2 companies
 
@@ -282,7 +283,7 @@ Either still hiring or useful for research.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Data Analytics Engineer | Austin, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/73403/login) | 2mo |
+| Data Analytics Engineer | Austin, TX | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/73403/login) | 2mo |
 
 ### 💻 **Enterprise Software** (1 position)
 
@@ -292,9 +293,9 @@ Either still hiring or useful for research.
 |------|----------|-------|-----------|-----|
 | Entry level AI/ML Engineer: SVL | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79649&source=WEB_Search_NA) | 1mo |
 
-### 🚀 **Consulting & Services** (9 positions)
+### 🚀 **Consulting & Services** (11 positions)
 
-#### 🛡️ **BAE Systems** (9 positions)
+#### 🛡️ **BAE Systems** (11 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
@@ -302,10 +303,12 @@ Either still hiring or useful for research.
 | AI Data Scientist | Fort Meade, MD | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/AI-Data-Scientist_R0231049-1?q=data+science) | 2w |
 | Data Analyst | Washington, DC | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Analyst_R0231044?q=data+science) | 2w |
 | Data Engineer | Alexandria, VA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Engineer_R0230794?q=data+science) | 2w |
+| Data Engineer | MacDill AFB, FL | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/MacDill-AFB-FL/Data-Engineer_R0231082?q=data+science) | 2w |
 | Data Scientist | Arlington, VA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0227412-1?q=data+science) | 3w |
 | Data Scientist | Fort Meade, MD | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Data-Scientist_R0230751?q=data+science) | 3w |
 | Palantir Data Scientist | Springfield, VA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Palantir-Data-Scientist_R0230325?q=data+science) | 3w |
 | Data Scientist, Mid | Fort Meade, MD | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Data-Scientist--Mid_R0230755?q=data+science) | 3w |
+| Data Engineer | Arlington, VA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Engineer_R0227411?q=data+science) | 3w |
 | Data Engineer | Honolulu, HI | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Engineer_R0227894?q=data+science) | 4w |
 
 ### 🛡️ **Autonomous & Aerospace** (1 position)
@@ -316,19 +319,13 @@ Either still hiring or useful for research.
 |------|----------|-------|-----------|-----|
 | Data Scientist | Mountain View, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs/data-scientist-mountain-view-california-united-states-san-francisco) | 2mo |
 
-### 🏭 **Manufacturing & Industrial** (2 positions)
+### 🏭 **Manufacturing & Industrial** (1 position)
 
 #### 💾 **Micron Technology** (1 position)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | FE Materials Business Intelligence Analyst | Boise, ID | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.micron.com/careers/job/39196272) | 1w |
-
-#### ⚡ **ABB** (1 position)
-
-| Role | Location | Level | Apply Now | Age |
-|------|----------|-------|-----------|-----|
-| Business Operations Support Analyst | Phoenix, AZ | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.abb/global/en/job/JR00012734/Business-Operations-Support-Analyst) | 2mo |
 
 
 
@@ -362,7 +359,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 12 current opportunities from 2 elite companies.**
+**🎯 13 current opportunities from 2 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
