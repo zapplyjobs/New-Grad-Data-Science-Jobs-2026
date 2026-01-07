@@ -103,7 +103,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Data Analytics Engineer | Austin, TX | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/73403/login) | 2h |
+| Data Analytics Engineer | Austin, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/73403/login) | 2h |
 
 ### 🚀 **Consulting & Services** (14 positions)
 
@@ -179,8 +179,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 3 | 13% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 6 | 26% | 1-2 years of experience. |
+| 🟢 Entry Level & New Grad | 4 | 17% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 5 | 22% | 1-2 years of experience. |
 | 🔴 Manager | 14 | 61% | 2+ years of experience. |
 
 ### 🌍 Top Locations
