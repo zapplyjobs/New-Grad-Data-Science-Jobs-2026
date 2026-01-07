@@ -151,7 +151,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Business Operations Support Analyst | Phoenix, AZ | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.abb/global/en/job/JR00012734/Business-Operations-Support-Analyst) | 1h |
+| Business Operations Support Analyst | Phoenix, AZ | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.abb/global/en/job/JR00012734/Business-Operations-Support-Analyst) | 2h |
 
 
 
@@ -190,8 +190,8 @@ List of top locations and number of positions.
 - **Mountain View, CA**: 4 positions
 - **Sunnyvale, CA**: 2 positions
 - **MacDill AFB, FL**: 2 positions
-- **Phoenix, AZ**: 1 position
 - **Austin, TX**: 1 position
+- **Phoenix, AZ**: 1 position
 - **McLean, VA**: 1 position
 - **Boise, ID**: 1 position
 - **Washington, DC**: 1 position
