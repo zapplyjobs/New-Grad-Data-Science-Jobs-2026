@@ -220,5 +220,41 @@
     "job_title": "Business Data Scientist, AI/ML, Google Cloud",
     "company": "Google",
     "first_seen": "2026-01-07T12:11:23.717Z"
+  },
+  "amd-data-analytics-engineer-austin": {
+    "assigned_date": "2026-01-07T12:30:36.157Z",
+    "job_title": "Data Analytics Engineer",
+    "company": "AMD",
+    "first_seen": "2026-01-07T12:30:36.157Z"
+  },
+  "waymo-data-scientist-mountain-view": {
+    "assigned_date": "2026-01-07T12:30:36.157Z",
+    "job_title": "Data Scientist",
+    "company": "Waymo",
+    "first_seen": "2026-01-07T12:30:36.157Z"
+  },
+  "google-data-scientist,-research,-search-experiments-mountain-view": {
+    "assigned_date": "2026-01-07T12:30:36.157Z",
+    "job_title": "Data Scientist, Research, Search Experiments",
+    "company": "Google",
+    "first_seen": "2026-01-07T12:30:36.157Z"
+  },
+  "google-data-scientist,-research,-phd,-early-career,-2026-start-mountain-view": {
+    "assigned_date": "2026-01-07T12:30:36.157Z",
+    "job_title": "Data Scientist, Research, PhD, Early Career, 2026 Start",
+    "company": "Google",
+    "first_seen": "2026-01-07T12:30:36.157Z"
+  },
+  "google-data-scientist,-research,-ads-insight-and-measurement-mountain-view": {
+    "assigned_date": "2026-01-07T12:30:36.157Z",
+    "job_title": "Data Scientist, Research, Ads Insight and Measurement",
+    "company": "Google",
+    "first_seen": "2026-01-07T12:30:36.157Z"
+  },
+  "google-business-data-scientist,-statistics,-platform-analytics,-google-cloud-sunnyvale": {
+    "assigned_date": "2026-01-07T12:30:36.157Z",
+    "job_title": "Business Data Scientist, Statistics, Platform Analytics, Google Cloud",
+    "company": "Google",
+    "first_seen": "2026-01-07T12:30:36.157Z"
   }
 }
