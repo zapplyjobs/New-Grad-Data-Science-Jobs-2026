@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Machine Learning - Data Scientist",
+    "job_city": "Boulder",
+    "job_state": "CO",
+    "job_posted_at": "23h",
+    "job_description": "• Minimum QualificationsBS and a minimum of 3 years relevant industry experienceStrong experience in evaluating supervised, unsupervised, and deep learning models.\n• Hands-on experience evaluating LLMs and using them as scoring/judging mechanisms.\n• Strong documentation skills, including the ability to write technical reports and present to non-technical audiences.\n• Familiarity with multimodal models (e.\n• , image + text, video + audio) and related evaluation challenges.\n• Proficiency in Python and libraries such as NumPy, pandas, scikit-learn, PyTorch, or TensorFlow.\n• Solid understanding of statistical testing, sampling, confidence intervals, and metrics (e.\n• , precision/recall, BLEU, ROUGE, FID, etc.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200640404-0365/machine-learning-data-scientist?team=HRDWR",
+    "id": "apple-machine-learning-data-scientist-boulder"
+  }
+]
