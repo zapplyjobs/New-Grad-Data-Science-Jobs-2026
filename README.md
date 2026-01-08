@@ -8,8 +8,8 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-23-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-6-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-24-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-7-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-5-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -37,7 +37,7 @@
 
 ---
 
-<p align="center">🚀 Real-time data science and data analysis jobs from 6+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 23+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.</p>
+<p align="center">🚀 Real-time data science and data analysis jobs from 7+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 24+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.</p>
 
 <p align="center">🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.</p>
 
@@ -73,8 +73,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## Live Stats
 
-- 🔥 **Current Positions:** 23 hot data-focused jobs
-- **🏢 Companies**: 6 companies
+- 🔥 **Current Positions:** 24 hot data-focused jobs
+- **🏢 Companies**: 7 companies
 - **⭐ FAANG+ Jobs**: 5 premium opportunities
 - 📅 **Last Updated:** January 8, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -103,7 +103,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Data Analytics Engineer | Austin, TX | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/73403/login) | 20h |
+| Data Analytics Engineer | Austin, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/73403/login) | 20h |
 
 ### 🚀 **Consulting & Services** (15 positions)
 
@@ -140,13 +140,19 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-------|-----------|-----|
 | Data Scientist | Mountain View, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs/data-scientist-mountain-view-california-united-states-san-francisco) | 20h |
 
-### 🏭 **Manufacturing & Industrial** (1 position)
+### 🏭 **Manufacturing & Industrial** (2 positions)
 
 #### 💾 **Micron Technology** (1 position)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | FE Materials Business Intelligence Analyst | Boise, ID | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.micron.com/careers/job/39196272) | 2d |
+
+#### ⚡ **ABB** (1 position)
+
+| Role | Location | Level | Apply Now | Age |
+|------|----------|-------|-----------|-----|
+| Business Operations Support Analyst | Phoenix, AZ | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.abb/global/en/job/JR00012734/Business-Operations-Support-Analyst) | 20h |
 
 
 
@@ -174,9 +180,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 1 | 4% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 6 | 26% | 1-2 years of experience. |
-| 🔴 Manager | 16 | 70% | 2+ years of experience. |
+| 🟢 Entry Level & New Grad | 3 | 13% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 5 | 21% | 1-2 years of experience. |
+| 🔴 Manager | 16 | 67% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
@@ -187,15 +193,15 @@ List of top locations and number of positions.
 - **McLean, VA**: 2 positions
 - **MacDill AFB, FL**: 2 positions
 - **Austin, TX**: 1 position
+- **Phoenix, AZ**: 1 position
 - **Boise, ID**: 1 position
 - **Washington, DC**: 1 position
-- **Silver Spring, MD**: 1 position
 
 ---
 
 ### 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 23+ verified roles for data analysts and scientists from 6 elite tech companies.
+✅ **100% Real Jobs:** 24+ verified roles for data analysts and scientists from 7 elite tech companies.
 <br>
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 <br>
@@ -281,7 +287,7 @@ Either still hiring or useful for research.
 
 📁 **Total Jobs:** 21 positions
 
-🏢 **Companies:** 6 companies
+🏢 **Companies:** 7 companies
 
 
 ### 🏢 **FAANG+** (14 positions)
@@ -312,8 +318,8 @@ Either still hiring or useful for research.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| AIML - Data Scientist, Evaluation | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-0836/aiml-data-scientist-evaluation?team=MLAI) | 3w |
 | AIML - Data Scientist, Evaluation | Seattle, WA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-3337/aiml-data-scientist-evaluation?team=MLAI) | 3w |
+| AIML - Data Scientist, Evaluation | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-0836/aiml-data-scientist-evaluation?team=MLAI) | 3w |
 
 ### 💻 **Enterprise Software** (1 position)
 
@@ -368,7 +374,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 23 current opportunities from 6 elite companies.**
+**🎯 24 current opportunities from 7 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
