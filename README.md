@@ -26,7 +26,7 @@
 <!-- Row 4: Community & Links (for-the-badge style) -->
 [![Browse Jobs](https://img.shields.io/badge/Browse_Jobs-Live_Site-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://new-grad-positions.vercel.app/)
 [![Zapply](https://img.shields.io/badge/Zapply-Company_Site-4F46E5?style=for-the-badge&logo=zap&logoColor=white)](https://zapply-jobs.vercel.app/)
-[![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yKWw28q7Yq)
+[![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UswBsduwcD)
 [![Reddit](https://img.shields.io/badge/Reddit-Join-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/Zapply/)
 [![Report Issue](https://img.shields.io/badge/Report_Issue-Bug_Tracker-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zapplyjobs/New-Grad-Data-Science-Jobs/issues)
 
@@ -53,7 +53,7 @@
 Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join our community of analytics students and data enthusiasts navigating their career journey together!
 
 <p align="center">
-  <a href="https://discord.gg/EXR6rWnd"><img src="images/discord.png" alt="Join Our Discord" width="235"></a>
+  <a href="https://discord.gg/UswBsduwcD"><img src="images/discord.png" alt="Join Our Discord" width="235"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.reddit.com/r/Zapply/"><img src="images/reddit.png" alt="Join Our Reddit" width="200"></a>
 </p>
@@ -94,8 +94,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Data Scientist, Research, Search Experiments | Mountain View, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/101033997668098758-data-scientist-research-search-experiments?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 23h |
 | Data Scientist, Research, PhD, Early Career, 2026 Start | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/106428613359739590-data-scientist-research-phd-early-career-2026-start?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 23h |
 | Data Scientist, Research, Ads Insight and Measurement | Mountain View, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/94190364432179910-data-scientist-research-ads-insight-and-measurement?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 23h |
-| Business Data Scientist, AI/ML, Google Cloud | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/119787490121786054-business-data-scientist-aiml-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 23h |
 | Business Data Scientist, Statistics, Platform Analytics, Google Cloud | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138218174041465542-business-data-scientist-statistics-platform-analytics-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 23h |
+| Business Data Scientist, AI/ML, Google Cloud | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/119787490121786054-business-data-scientist-aiml-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1d |
 
 ### 🏢 **Top Tech** (1 position)
 
@@ -103,7 +103,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Data Analytics Engineer | Austin, TX | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/73403/login) | 23h |
+| Data Analytics Engineer | Austin, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/73403/login) | 23h |
 
 ### 🚀 **Consulting & Services** (15 positions)
 
@@ -146,7 +146,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| FE Materials Business Intelligence Analyst | Boise, ID | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.micron.com/careers/job/39196272) | 2d |
+| FE Materials Business Intelligence Analyst | Boise, ID | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.micron.com/careers/job/39196272) | 3d |
 
 #### ⚡ **ABB** (1 position)
 
@@ -180,8 +180,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 2 | 8% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 6 | 25% | 1-2 years of experience. |
+| 🟢 Entry Level & New Grad | 3 | 13% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 5 | 21% | 1-2 years of experience. |
 | 🔴 Manager | 16 | 67% | 2+ years of experience. |
 
 ### 🌍 Top Locations
@@ -292,12 +292,11 @@ Either still hiring or useful for research.
 
 ### 🏢 **FAANG+** (14 positions)
 
-#### 📦 **Amazon** (6 positions)
+#### 📦 **Amazon** (5 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | Data Scientist, Region Flexibility | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en-gb/jobs/3150155/data-scientist-region-flexibility) | 1w |
-| Research Scientist, Artificial General Intelligence - Data Services | Boston, MA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en-gb/jobs/3146697/research-scientist-artificial-general-intelligence-data-services) | 2w |
 | Applied Scientist, Workplace Health & Safety | Bellevue, WA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en-gb/jobs/3144886/applied-scientist-workplace-health-safety) | 3w |
 | Research Scientist, Design and Simulation, AWS Center for Quantum Computing | San Francisco, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en-gb/jobs/3141456/research-scientist-design-and-simulation-aws-center-for-quantum-computing) | 4w |
 | Applied Scientist, AWS Agentic AI | New York, NY | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en-gb/jobs/3141517/applied-scientist-aws-agentic-ai) | 4w |
@@ -309,16 +308,17 @@ Either still hiring or useful for research.
 |------|----------|-------|-----------|-----|
 | Research Data Scientist, Network and Machines Optimization, Cloud | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/80409324060320454-research-data-scientist-network-and-machines-optimization-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 2w |
 | Product Data Scientist, Android XR | Mountain View, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/119249400512815814-product-data-scientist-android-xr?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 2w |
+| Business Data Scientist, Forecasting, Google Cloud | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/119921820592677574-business-data-scientist-forecasting-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 2w |
 | Research Data Scientist, Ads Metrics | Mountain View, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/128004143737381574-research-data-scientist-ads-metrics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 2w |
 | Research Data Scientist, Search Ads | New York, NY | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/127104743225860806-research-data-scientist-search-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1mo |
-| Business Data Scientist, Forecasting, Google Cloud | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/119921820592677574-business-data-scientist-forecasting-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 2w |
 | Research Scientist, Coherence Fabrication | Goleta, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/84803211969340102-research-scientist-coherence-fabrication?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=3) | 1mo |
 | Research Scientist, Google Cloud AI | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/113920872959353542-research-scientist-google-cloud-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=3) | 3w |
 
-#### 🍎 **Apple** (1 position)
+#### 🍎 **Apple** (2 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
+| AIML - Data Scientist, Evaluation | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-0836/aiml-data-scientist-evaluation?team=MLAI) | 3w |
 | AIML - Data Scientist, Evaluation | Seattle, WA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-3337/aiml-data-scientist-evaluation?team=MLAI) | 3w |
 
 ### 💻 **Enterprise Software** (1 position)
