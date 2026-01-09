@@ -8,9 +8,9 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-23-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-24-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-10-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-7-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-8-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -37,7 +37,7 @@
 
 ---
 
-<p align="center">🚀 Real-time data science and data analysis jobs from 10+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 23+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.</p>
+<p align="center">🚀 Real-time data science and data analysis jobs from 10+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 24+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.</p>
 
 <p align="center">🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.</p>
 
@@ -73,9 +73,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## Live Stats
 
-- 🔥 **Current Positions:** 23 hot data-focused jobs
+- 🔥 **Current Positions:** 24 hot data-focused jobs
 - **🏢 Companies**: 10 companies
-- **⭐ FAANG+ Jobs**: 7 premium opportunities
+- **⭐ FAANG+ Jobs**: 8 premium opportunities
 - 📅 **Last Updated:** January 9, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
 
@@ -85,7 +85,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <img src="images/dsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
-### 🏢 **FAANG+** (7 positions)
+### 🏢 **FAANG+** (8 positions)
 
 #### 📦 **Amazon** (2 positions)
 
@@ -103,10 +103,11 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Business Data Scientist, AI/ML, Google Cloud | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/119787490121786054-business-data-scientist-aiml-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 2d |
 | Business Data Scientist, Statistics, Platform Analytics, Google Cloud | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138218174041465542-business-data-scientist-statistics-platform-analytics-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 2d |
 
-#### 🍎 **Apple** (1 position)
+#### 🍎 **Apple** (2 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
+| Machine Learning - Data Scientist | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200640404-3956/machine-learning-data-scientist?team=HRDWR) | 1d |
 | Machine Learning - Data Scientist | Boulder, CO | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200640404-0365/machine-learning-data-scientist?team=HRDWR) | 1d |
 
 ### 🏢 **Top Tech** (2 positions)
@@ -115,13 +116,13 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Data Analytics Engineer | Austin, TX | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/73403/login) | 2d |
+| Data Analytics Engineer | Austin, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/73403/login) | 2d |
 
 #### ☁️ **Salesforce** (1 position)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Research Scientist - Salesforce AI Research | Palo Alto, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313254/research-scientist-salesforce-ai-research/) | 2h |
+| Research Scientist - Salesforce AI Research | Palo Alto, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313254/research-scientist-salesforce-ai-research/) | 3h |
 
 ### 🚀 **Consulting & Services** (11 positions)
 
@@ -181,7 +182,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ### 🏢 Top Companies
 
 #### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (4 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (1) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (2)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (4 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (2) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (2)
 
 
 #### 💰 **Fintech Leaders** (1 company)
@@ -199,18 +200,18 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 3 | 13% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 8 | 35% | 1-2 years of experience. |
-| 🔴 Manager | 12 | 52% | 2+ years of experience. |
+| 🟢 Entry Level & New Grad | 4 | 17% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 8 | 33% | 1-2 years of experience. |
+| 🔴 Manager | 12 | 50% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
 List of top locations and number of positions.
 
+- **Sunnyvale, CA**: 3 positions
 - **Boulder, CO**: 2 positions
 - **MacDill AFB, FL**: 2 positions
 - **Mountain View, CA**: 2 positions
-- **Sunnyvale, CA**: 2 positions
 - **McLean, VA**: 2 positions
 - **Palo Alto, CA**: 1 position
 - **OH**: 1 position
@@ -220,7 +221,7 @@ List of top locations and number of positions.
 
 ### 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 23+ verified roles for data analysts and scientists from 10 elite tech companies.
+✅ **100% Real Jobs:** 24+ verified roles for data analysts and scientists from 10 elite tech companies.
 <br>
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 <br>
@@ -405,7 +406,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 23 current opportunities from 10 elite companies.**
+**🎯 24 current opportunities from 10 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
