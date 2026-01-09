@@ -10,7 +10,7 @@
 <!-- Row 1: Job Stats (Custom Static Badges) -->
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-26-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-8-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-9-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-8-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -75,7 +75,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 - 🔥 **Current Positions:** 26 hot data-focused jobs
 - **🏢 Companies**: 8 companies
-- **⭐ FAANG+ Jobs**: 9 premium opportunities
+- **⭐ FAANG+ Jobs**: 8 premium opportunities
 - 📅 **Last Updated:** January 9, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
 
@@ -85,7 +85,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <img src="images/dsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
-### 🏢 **FAANG+** (9 positions)
+### 🏢 **FAANG+** (8 positions)
 
 #### 📦 **Amazon** (2 positions)
 
@@ -104,11 +104,10 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Business Data Scientist, AI/ML, Google Cloud | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/119787490121786054-business-data-scientist-aiml-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1d |
 | Business Data Scientist, Statistics, Platform Analytics, Google Cloud | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138218174041465542-business-data-scientist-statistics-platform-analytics-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 1d |
 
-#### 🍎 **Apple** (2 positions)
+#### 🍎 **Apple** (1 position)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Machine Learning - Data Scientist | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200640404-3956/machine-learning-data-scientist?team=HRDWR) | 1d |
 | Machine Learning - Data Scientist | Boulder, CO | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200640404-0365/machine-learning-data-scientist?team=HRDWR) | 1d |
 
 ### 🏢 **Top Tech** (1 position)
@@ -119,13 +118,14 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 |------|----------|-------|-----------|-----|
 | Data Analytics Engineer | Austin, TX | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/73403/login) | 1d |
 
-### 🚀 **Consulting & Services** (14 positions)
+### 🚀 **Consulting & Services** (15 positions)
 
-#### 🛡️ **BAE Systems** (4 positions)
+#### 🛡️ **BAE Systems** (5 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | Data Scientist | McLean, VA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist_R0227485?q=data+science) | 1d |
+| Data Scientist, Mid | Alexandria, VA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist--Mid_R0227314?q=data+science) | 1d |
 | University - Data Scientist | McLean, VA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Data-Scientist_R0228598?q=data+science) | 2d |
 | University, Data Scientist | Washington, DC | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/University--Data-Scientist_R0228796?q=data+science) | 3d |
 | Data Scientist | Springfield, VA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Scientist_R0231589-1?q=data+science) | 6d |
@@ -172,7 +172,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ### 🏢 Top Companies
 
 #### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (5 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (2) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (2)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (5 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (1) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (2)
 
 
 
@@ -188,21 +188,21 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
 | 🟢 Entry Level & New Grad | 1 | 4% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 10 | 38% | 1-2 years of experience. |
-| 🔴 Manager | 15 | 58% | 2+ years of experience. |
+| 🟡 Beginner & Early Career | 9 | 35% | 1-2 years of experience. |
+| 🔴 Manager | 16 | 62% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
 List of top locations and number of positions.
 
 - **Mountain View, CA**: 4 positions
-- **Sunnyvale, CA**: 3 positions
 - **Boulder, CO**: 2 positions
+- **Sunnyvale, CA**: 2 positions
 - **McLean, VA**: 2 positions
 - **MacDill AFB, FL**: 2 positions
 - **Austin, TX**: 1 position
 - **Arlington, VA**: 1 position
-- **Boise, ID**: 1 position
+- **Alexandria, VA**: 1 position
 
 ---
 
@@ -324,8 +324,8 @@ Either still hiring or useful for research.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| AIML - Data Scientist, Evaluation | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-0836/aiml-data-scientist-evaluation?team=MLAI) | 4w |
 | AIML - Data Scientist, Evaluation | Seattle, WA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-3337/aiml-data-scientist-evaluation?team=MLAI) | 4w |
+| AIML - Data Scientist, Evaluation | Cupertino, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200636357-0836/aiml-data-scientist-evaluation?team=MLAI) | 4w |
 
 ### 💻 **Enterprise Software** (1 position)
 
