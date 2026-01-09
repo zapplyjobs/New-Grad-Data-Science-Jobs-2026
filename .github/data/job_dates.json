@@ -1,10 +1,4 @@
 {
-  "abb-r&d-applied-scientist-san-jose": {
-    "assigned_date": "2025-11-10T14:43:23.218Z",
-    "job_title": "R&D Applied Scientist",
-    "company": "ABB",
-    "first_seen": "2025-11-10T14:43:23.218Z"
-  },
   "google-data-scientist,-ads-insight-and-measurement-new-york": {
     "assigned_date": "2025-11-11T09:10:09.539Z",
     "job_title": "Data scientist, Ads Insight and Measurement",
@@ -262,5 +256,11 @@
     "job_title": "Research Scientist, Security and Privacy, Google Research",
     "company": "Google",
     "first_seen": "2026-01-09T14:21:50.369Z"
+  },
+  "jpmorgan-chase-data-engineer/aws-": {
+    "assigned_date": "2026-01-09T14:59:45.681Z",
+    "job_title": "Data Engineer/AWS",
+    "company": "JPMorgan Chase",
+    "first_seen": "2026-01-09T14:59:45.681Z"
   }
 }
