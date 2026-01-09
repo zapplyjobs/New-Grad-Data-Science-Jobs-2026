@@ -1,10 +1,4 @@
 {
-  "google-research-scientist,-machine-learning,-geospatial-ai-mountain-view": {
-    "assigned_date": "2025-11-10T10:44:51.635Z",
-    "job_title": "Research Scientist, Machine Learning, Geospatial AI",
-    "company": "Google",
-    "first_seen": "2025-11-10T10:44:51.635Z"
-  },
   "abb-r&d-applied-scientist-san-jose": {
     "assigned_date": "2025-11-10T14:43:23.218Z",
     "job_title": "R&D Applied Scientist",
@@ -262,5 +256,11 @@
     "job_title": "Business Operations Support Analyst",
     "company": "ABB",
     "first_seen": "2026-01-07T12:53:32.994Z"
+  },
+  "google-research-scientist,-security-and-privacy,-google-research-new-york": {
+    "assigned_date": "2026-01-09T14:21:50.369Z",
+    "job_title": "Research Scientist, Security and Privacy, Google Research",
+    "company": "Google",
+    "first_seen": "2026-01-09T14:21:50.369Z"
   }
 }
