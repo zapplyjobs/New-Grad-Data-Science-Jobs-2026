@@ -8,9 +8,9 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-21-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-20-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-10-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-8-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-7-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -37,7 +37,7 @@
 
 ---
 
-<p align="center">🚀 Real-time data science and data analysis jobs from 10+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 21+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.</p>
+<p align="center">🚀 Real-time data science and data analysis jobs from 10+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 20+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.</p>
 
 <p align="center">🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.</p>
 
@@ -73,9 +73,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## Live Stats
 
-- 🔥 **Current Positions:** 21 hot data-focused jobs
+- 🔥 **Current Positions:** 20 hot data-focused jobs
 - **🏢 Companies**: 10 companies
-- **⭐ FAANG+ Jobs**: 8 premium opportunities
+- **⭐ FAANG+ Jobs**: 7 premium opportunities
 - 📅 **Last Updated:** January 10, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
 
@@ -85,7 +85,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <img src="images/dsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
-### 🏢 **FAANG+** (8 positions)
+### 🏢 **FAANG+** (7 positions)
 
 #### 📦 **Amazon** (2 positions)
 
@@ -103,11 +103,10 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Business Data Scientist, AI/ML, Google Cloud | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/119787490121786054-business-data-scientist-aiml-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 2d |
 | Business Data Scientist, Statistics, Platform Analytics, Google Cloud | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138218174041465542-business-data-scientist-statistics-platform-analytics-google-cloud?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1) | 2d |
 
-#### 🍎 **Apple** (2 positions)
+#### 🍎 **Apple** (1 position)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Machine Learning - Data Scientist | Sunnyvale, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200640404-3956/machine-learning-data-scientist?team=HRDWR) | 2d |
 | Machine Learning - Data Scientist | Boulder, CO | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/details/200640404-0365/machine-learning-data-scientist?team=HRDWR) | 2d |
 
 ### 🏢 **Top Tech** (2 positions)
@@ -179,7 +178,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ### 🏢 Top Companies
 
 #### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (4 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (2) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (2)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (4 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (1) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (2)
 
 
 #### 💰 **Fintech Leaders** (1 company)
@@ -197,18 +196,18 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level | Count | Percentage | Top Companies |
 |-------|-------|------------|---------------|
-| 🟢 Entry Level & New Grad | 3 | 14% | No or minimal experience. |
-| 🟡 Beginner & Early Career | 9 | 43% | 1-2 years of experience. |
-| 🔴 Manager | 9 | 43% | 2+ years of experience. |
+| 🟢 Entry Level & New Grad | 3 | 15% | No or minimal experience. |
+| 🟡 Beginner & Early Career | 8 | 40% | 1-2 years of experience. |
+| 🔴 Manager | 9 | 45% | 2+ years of experience. |
 
 ### 🌍 Top Locations
 
 List of top locations and number of positions.
 
-- **Sunnyvale, CA**: 3 positions
 - **MacDill AFB, FL**: 2 positions
 - **Boulder, CO**: 2 positions
 - **Mountain View, CA**: 2 positions
+- **Sunnyvale, CA**: 2 positions
 - **McLean, VA**: 2 positions
 - **Palo Alto, CA**: 1 position
 - **OH**: 1 position
@@ -218,7 +217,7 @@ List of top locations and number of positions.
 
 ### 🔮 Why Data Analysts Choose Our Job Board
 
-✅ **100% Real Jobs:** 21+ verified roles for data analysts and scientists from 10 elite tech companies.
+✅ **100% Real Jobs:** 20+ verified roles for data analysts and scientists from 10 elite tech companies.
 <br>
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 10 mins automatically.
 <br>
@@ -351,8 +350,8 @@ Either still hiring or useful for research.
 |------|----------|-------|-----------|-----|
 | Data Scientist | Springfield, VA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Scientist_R0231589-1?q=data+science) | 1w |
 | Data Scientist | Alexandria, VA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist_R0231211?q=data+science) | 2w |
-| AI Data Scientist | Fort Meade, MD | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/AI-Data-Scientist_R0231049-1?q=data+science) | 3w |
 | Palantir Data Scientist | Springfield, VA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Palantir-Data-Scientist_R0230325?q=data+science) | 3w |
+| AI Data Scientist | Fort Meade, MD | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/AI-Data-Scientist_R0231049-1?q=data+science) | 3w |
 | Data Scientist | Fort Meade, MD | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Data-Scientist_R0230751?q=data+science) | 4w |
 | Data Scientist, Mid | Fort Meade, MD | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Data-Scientist--Mid_R0230755?q=data+science) | 4w |
 
@@ -400,7 +399,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 21 current opportunities from 10 elite companies.**
+**🎯 20 current opportunities from 10 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
