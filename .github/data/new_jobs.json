@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Machine Learning Research Scientist - Personalization Science, Apple Fitness+",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_posted_at": "18h",
+    "job_description": "• Minimum QualificationsDeep knowledge of machine learning-powered personalization algorithms, design patterns, and tools.\n• Practical real-world experience with building scalable recommendation systems.\n• Strong written & oral communication skills.\n• In particular, this includes deep learning, reinforcement learning, and unsupervised learning methods.\n• Proven grasp of the open-source Python ML/AI tech stack, including Tensorflow, PyTorch, scikit-learn, numpy, scipy, and pandas.\n• Technical competence in production-quality software development.\n• Familiarity with big data technologies.\n• MS in a quantitative field, including Computer Science, Maths, Statistics, Physics, etc.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200641734-0836/machine-learning-research-scientist-personalization-science-apple-fitness?team=MLAI",
+    "id": "apple-machine-learning-research-scientist-personalization-science-apple-fitness-cupertino"
+  }
+]
