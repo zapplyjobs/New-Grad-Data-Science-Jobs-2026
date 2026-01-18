@@ -9,13 +9,13 @@
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-12-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-7-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-6-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-8-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time data science and data analysis jobs from 7+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 12+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.</p>
+<p align="center">🚀 Real-time data science and data analysis jobs from 6+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 12+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.</p>
 
 <p align="center">🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.</p>
 
@@ -166,7 +166,7 @@ Either still hiring or useful for research.
 
 📁 **Total Jobs:** 30 positions
 
-🏢 **Companies:** 7 companies
+🏢 **Companies:** 6 companies
 
 
 ### 🏢 **FAANG+** (11 positions)
@@ -203,7 +203,15 @@ Either still hiring or useful for research.
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Data Analytics Engineer | Austin, TX | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/73403/login) | 1w |
+| Data Analytics Engineer | Austin, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-amd.icims.com/jobs/73403/login) | 1w |
+
+### 💻 **Enterprise Software** (1 position)
+
+#### 🔵 **IBM** (1 position)
+
+| Role | Location | Level | Apply Now | Age |
+|------|----------|-------|-----------|-----|
+| Entry level AI/ML Engineer: SVL | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=79649&source=WEB_Search_NA) | 1mo |
 
 ### 🚀 **Consulting & Services** (3 positions)
 
@@ -229,7 +237,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 12 current opportunities from 7 elite companies.**
+**🎯 12 current opportunities from 6 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
