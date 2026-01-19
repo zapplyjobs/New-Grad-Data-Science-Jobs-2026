@@ -19,8 +19,15 @@
 
 <p align="center">🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.</p>
 
-> [!TIP]
-> 🛠  Help us grow! Add new jobs by submitting an issue! View [contributing steps](CONTRIBUTING-GUIDE.md) here.
+> [!WARNING]
+> **This repository is no longer maintained.**
+>
+> We've disabled web scraping to focus on more reliable data sources.
+>
+> For active job listings, visit:
+> - [New-Grad-Jobs-2026](https://github.com/zapplyjobs/New-Grad-Jobs-2026) - Uses reliable ATS APIs
+> - [Internships-2026](https://github.com/zapplyjobs/Internships-2026) - Internship-specific jobs
+> - [Remote-Jobs-2026](https://github.com/zapplyjobs/Remote-Jobs-2026) - Remote opportunities
 
 ---
 
