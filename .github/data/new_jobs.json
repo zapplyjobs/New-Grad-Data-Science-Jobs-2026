@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Google",
+    "job_title": "Cloud Security Product Data Scientist",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "1h",
+    "job_description": "data science job for the role Cloud Security Product Data Scientist",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/99102715023368902-cloud-security-product-data-scientist?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1",
+    "id": "google-cloud-security-product-data-scientist-new-york"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Business Data Scientist, Consumer Support, gUP Analytics",
+    "job_city": "Boulder",
+    "job_state": "CO",
+    "job_posted_at": "1h",
+    "job_description": "data science job for the role Business Data Scientist, Consumer Support, gUP Analytics",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/78411418017112774-business-data-scientist-consumer-support-gup-analytics?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=data%20science&page=1",
+    "id": "google-business-data-scientist-consumer-support-gup-analytics-boulder"
+  }
+]
