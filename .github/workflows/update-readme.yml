@@ -1,0 +1,79 @@
+name: Update README
+
+on:
+  workflow_dispatch: # Allow manual triggering
+  push:
+    branches: [ main ]
+    paths:
+      - 'README.md'
+      - 'index.html'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Check for changes
+      id: verify-changed-files
+      run: |
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "changed=true" >> $GITHUB_OUTPUT
+          echo "Found changes in repository"
+        else
+          echo "changed=false" >> $GITHUB_OUTPUT
+          echo "No changes detected"
+        fi
+
+    - name: Commit updated files
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        git config --local user.email "admin@zapply.jobs"
+        git config --local user.name "Zapply Team"
+        git add -A
+
+        git commit -m "Update documentation - $(date +'%Y-%m-%d')"
+
+    - name: Pull latest changes
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        echo "Pulling latest changes with rebase strategy..."
+        git fetch origin main
+        git rebase origin/main --strategy-option=ours || git merge -X ours origin/main --no-edit
+        echo "Pull completed successfully"
+
+    - name: Push updated changes with retry logic
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        echo "Pushing changes with retry logic..."
+        for i in 1 2 3; do
+          echo "Push attempt $i of 3..."
+          if git push origin main; then
+            echo "Successfully pushed changes"
+            break
+          else
+            echo "Push failed - pulling latest changes before retry..."
+            git pull origin main --rebase --autostash || git pull origin main --no-edit
+            sleep 5
+          fi
+        done
+
+    - name: Create summary
+      run: |
+        echo "## README Update Complete" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+
+        if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
+          echo "✅ Successfully updated repository documentation" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Changes have been committed and pushed to main branch." >> $GITHUB_STEP_SUMMARY
+          echo "GitHub Pages will automatically deploy the updates." >> $GITHUB_STEP_SUMMARY
+        else
+          echo "ℹ️ No changes detected" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Repository is already up to date." >> $GITHUB_STEP_SUMMARY
+        fi
