@@ -1,0 +1,52 @@
+{
+  "faang_plus": {
+    "companies": ["Amazon", "Microsoft", "Meta", "Google", "Apple"],
+    "emoji": "🏢",
+    "title": "FAANG+"
+  },
+  "top_tech": {
+    "companies": ["Marvel Technology", "Synopsys", "NVIDIA", "Intel", "AMD", "Salesforce"],
+    "emoji": "🏢",
+    "title": "Top Tech"
+  },
+  "enterprise": {
+    "companies": ["IBM", "Cisco", "Hewlett Packard Enterprise", "Dell", "Broadcom", "Verizon", "Workday"],
+    "emoji": "💻",
+    "title": "Enterprise Software"
+  },
+  "consulting": {
+    "companies": ["BAE Systems", "Guidehouse", "General Dynamics"],
+    "emoji": "🚀",
+    "title": "Consulting & Services"
+  },
+  "automotive": {
+    "companies": ["RIVIAN", "Magna International"],
+    "emoji": "🚗",
+    "title": "Automotive & Transportation"
+  },
+  "fintech": {
+    "companies": ["JPMorgan Chase"],
+    "emoji": "💰",
+    "title": "Financial & Fintech"
+  },
+  "autonomous": {
+    "companies": ["Waymo"],
+    "emoji": "🛡️",
+    "title": "Autonomous & Aerospace"
+  },
+  "healthcare": {
+    "companies": ["Illumina", "10x Genomics"],
+    "emoji": "🏥",
+    "title": "Healthcare & Life Sciences"
+  },
+  "manufacturing": {
+    "companies": ["Applied Materials", "Arm", "Micron Technology", "ABB", "Infineon Technologies", "Texas Instruments", "Siemens", "Analog Devices", "Honeywell"],
+    "emoji": "🏭",
+    "title": "Manufacturing & Industrial"
+  },
+  "ai_emerging": {
+    "companies": ["AI Jobs"],
+    "emoji": "🤖",
+    "title": "AI & Emerging Tech"
+  }
+}
