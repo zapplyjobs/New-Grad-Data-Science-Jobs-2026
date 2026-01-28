@@ -341,7 +341,7 @@ Experience an advanced career journey with us! 🚀
 
 ## Explore Around
 
-<img src="images/connect.png" alt="Explore Around">
+<img src="images/community.png" alt="Explore Around">
 
 Check out what we're doing on our socials, join our community to connect with fellow job seekers, get career advice, keep a lookout for free templates, and stay updated on the latest opportunities.
 
