@@ -301,8 +301,6 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
 
 # Data Science Jobs 2026
 
-<br>
-
 <!-- Row 1: Job Stats (Custom Static Badges) -->
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-${currentJobs.length}-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-${totalCompanies}-blue?style=flat&logo=building)
