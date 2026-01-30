@@ -61,6 +61,7 @@ jobs:
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
 
+        git stash push -m "npm changes" package.json package-lock.json
         git add README.md
         git commit -m "chore: regenerate README from existing job data
 
