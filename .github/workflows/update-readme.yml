@@ -64,9 +64,9 @@ jobs:
         git add README.md
         git commit -m "chore: regenerate README from existing job data
 
-Updated via update-readme-only workflow
-No new jobs fetched (existing data refreshed)
-Triggered by: ${{ github.event_name }}"
+        Updated via update-readme-only workflow
+        No new jobs fetched (existing data refreshed)
+        Triggered by: ${{ github.event_name }}"
 
         git push origin ${{ github.ref_name }}
 
