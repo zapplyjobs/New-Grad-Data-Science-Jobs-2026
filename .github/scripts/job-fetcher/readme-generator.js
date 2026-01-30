@@ -342,7 +342,7 @@ Experience an advanced career journey with us! 🚀
 ## Explore Around
 
 <img src="images/community.png" alt="Explore Around">
-dasdasdASDASDAsdaSDasdASDASDasdqasdaSASWDAsdASDasdASDAsdaSDAsdASD
+
 Connect and seek advice from a growing network of fellow students and new grads.
 
 <p align="center">
