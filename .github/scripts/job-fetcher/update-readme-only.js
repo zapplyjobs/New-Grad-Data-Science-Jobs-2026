@@ -22,9 +22,9 @@ async function main() {
         console.log('🔄 Updating README from existing job data...');
         console.log('═'.repeat(50));
 
-        // Paths to data files
-        const newJobsPath = path.join(__dirname, '../data/new_jobs.json');
-        const postedJobsPath = path.join(__dirname, '../data/posted_jobs.json');
+        // Paths to data files (data is in .github/data/, not .github/scripts/data/)
+        const newJobsPath = path.join(__dirname, '../../data/new_jobs.json');
+        const postedJobsPath = path.join(__dirname, '../../data/posted_jobs.json');
 
         // Check if new_jobs.json exists
         if (!fs.existsSync(newJobsPath)) {
