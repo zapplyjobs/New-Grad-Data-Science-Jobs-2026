@@ -346,11 +346,11 @@ Experience an advanced career journey with us! 🚀
 Connect and seek advice from a growing network of fellow students and new grads.
 
 <p align="center">
-  <a href="https://www.tiktok.com/@zapplyjobs"><img src="images/tiktok-icon-2d.png" alt="TikTok" height="75"></a>
-  &nbsp;&nbsp;
   <a href="https://discord.gg/UswBsduwcD"><img src="images/discord-2d.png" alt="Visit Our Website" width="250"></a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/zapplyjobs"><img src="images/instagram-icon-2d.png" alt="Instagram" height="75"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@zapplyjobs"><img src="images/tiktok-icon-2d.png" alt="TikTok" height="75"></a>
 </p>
 
 ---
