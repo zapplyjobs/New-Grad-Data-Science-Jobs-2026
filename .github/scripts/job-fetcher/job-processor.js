@@ -22,7 +22,10 @@ const {
 const { convertDateToRelative } = require('../../../jobboard/src/backend/output/jobTransformer.js');
 
 // Configuration
-const JSEARCH_API_KEY = process.env.JSEARCH_API_KEY || '315e3cea2bmshd51ab0ee7309328p18cecfjsna0f6b8e72f39';
+const JSEARCH_API_KEY = process.env.JSEARCH_API_KEY;
+if (!JSEARCH_API_KEY) {
+  throw new Error('JSEARCH_API_KEY environment variable is required');
+}
 const JSEARCH_BASE_URL = 'https://jsearch.p.rapidapi.com/search';
 
 // Job search queries - much more comprehensive
