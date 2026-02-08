@@ -284,12 +284,12 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
   });
 
   const totalCompanies = Object.keys(stats?.totalByCompany || {}).length;
+  // Filter out senior positions BEFORE calculating badge counts
+  currentJobs = filterOutSeniorPositions(currentJobs);
+
   const faangJobs = currentJobs.filter((job) =>
     companies.faang_plus.some((c) => c.name === job.employer_name)
   ).length;
-
-  // ADD THIS LINE:
-  currentJobs = filterOutSeniorPositions(currentJobs);
 
   const jobTable = generateJobTable(currentJobs);
   const archivedSection = generateArchivedSection(archivedJobs, stats);
