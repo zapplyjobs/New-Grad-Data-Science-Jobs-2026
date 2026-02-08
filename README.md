@@ -46,15 +46,15 @@ Experience an advanced career journey with us! 🚀
 ## Explore Around
 
 <img src="images/community.png" alt="Explore Around">
-
+dasdasdASDASDAsdaSDasdASDASDasdqasdaSASWDAsdASDasdASDAsdaSDAsdASD
 Connect and seek advice from a growing network of fellow students and new grads.
 
 <p align="center">
+  <a href="https://www.tiktok.com/@zapplyjobs"><img src="images/tiktok-icon-2d.png" alt="TikTok" height="75"></a>
+  &nbsp;&nbsp;
   <a href="https://discord.gg/UswBsduwcD"><img src="images/discord-2d.png" alt="Visit Our Website" width="250"></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/zapplyjobs"><img src="images/instagram-icon-2d.png" alt="Instagram" width="120"></a>
-  &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@zapplyjobs"><img src="images/tiktok-icon-2d.png" alt="TikTok" width="120"></a>
+  <a href="https://www.instagram.com/zapplyjobs"><img src="images/instagram-icon-2d.png" alt="Instagram" height="75"></a>
 </p>
 
 ---
@@ -128,6 +128,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated:** January 30, 2026 • **Next Update:** Daily at 9 AM UTC
+**Last Updated:** February 8, 2026 • **Next Update:** Daily at 9 AM UTC
 
 </div>
