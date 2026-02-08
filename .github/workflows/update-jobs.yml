@@ -2,7 +2,7 @@ name: Update Jobs from JSearch
 
 on:
   schedule:
-    - cron: '0 9 * * *'  # Daily at 9 AM UTC
+    - cron: '6 9 * * *'  # Daily at 9:06 AM UTC (staggered)
   workflow_dispatch: # Allow manual triggering
   push:
     branches: [ main ]
@@ -43,6 +43,11 @@ jobs:
         node .github/scripts/job-fetcher/index.js 2>&1 | tee .github/logs/job-fetcher.log
       env:
         JSEARCH_API_KEY: ${{ secrets.JSEARCH_API_KEY }}
+
+    - name: Write current_jobs.json for aggregator
+      run: |
+        mkdir -p .github/data
+        node .github/scripts/write-current-jobs.js
 
     - name: Display job-fetcher logs (always run)
       if: always()
@@ -97,7 +102,7 @@ jobs:
             }
 
             # Stage and commit
-            git add README.md .github/data/ .github/logs/
+            git add README.md .github/data/current_jobs.json .github/logs/ || true
 
             # Check if there are still changes to commit
             if git diff --staged --quiet; then
