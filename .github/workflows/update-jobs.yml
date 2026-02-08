@@ -1,0 +1,170 @@
+name: Update Jobs from JSearch
+
+on:
+  schedule:
+    - cron: '0 9 * * *'  # Daily at 9 AM UTC
+  workflow_dispatch: # Allow manual triggering
+  push:
+    branches: [ main ]
+    paths:
+      - '.github/scripts/job-fetcher/**'
+
+# Prevent concurrent runs to avoid git conflicts
+concurrency:
+  group: job-updates-${{ github.repository }}
+  cancel-in-progress: false
+
+jobs:
+  update-jobs:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        ref: ${{ github.ref_name }}
+        fetch-depth: 1
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+        cache: 'npm'
+
+    - name: Install dependencies
+      run: npm install axios
+
+    - name: Fetch and update jobs
+      run: node .github/scripts/job-fetcher/index.js 2>&1 | tee .github/logs/job-fetcher.log
+      env:
+        JSEARCH_API_KEY: ${{ secrets.JSEARCH_API_KEY }}
+
+    - name: Display job-fetcher logs (always run)
+      if: always()
+      run: |
+        echo "Job Fetcher Output (last 100 lines):"
+        tail -100 .github/logs/job-fetcher.log || echo "Log file not found"
+
+    - name: Display public status
+      run: |
+        echo "Job collection completed"
+        if [ -f "README.md" ]; then
+          JOB_COUNT=$(grep -o "Total_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+          echo "Total positions: $JOB_COUNT"
+        fi
+
+    - name: Check for changes
+      id: verify-changed-files
+      run: |
+        echo "Git status:"
+        git status --porcelain
+        echo ""
+
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "changed=true" >> $GITHUB_OUTPUT
+          echo "Found changes in files"
+        else
+          echo "changed=false" >> $GITHUB_OUTPUT
+          echo "No changes detected"
+        fi
+
+    - name: Commit and Push changes
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+
+        # Function to commit and push with proper conflict resolution
+        commit_and_push() {
+          local max_attempts=5
+          local delay=5
+
+          for attempt in $(seq 1 $max_attempts); do
+            echo "========================================="
+            echo "Attempt $attempt of $max_attempts"
+            echo "========================================="
+
+            # Pull latest remote changes
+            echo "Pulling latest changes from remote..."
+            git pull origin ${{ github.ref_name }} --no-edit || {
+              echo "Pull had conflicts, resetting..."
+              git reset --hard HEAD
+            }
+
+            # Stage and commit
+            git add README.md .github/data/ .github/logs/
+
+            # Check if there are still changes to commit
+            if git diff --staged --quiet; then
+              echo "No changes after merge, exiting successfully"
+              exit 0
+            fi
+
+            # Get job count for commit message
+            JOB_COUNT=$(grep -o "Total_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+
+            COMMIT_MSG="Update jobs - $(date +'%Y-%m-%d %H:%M UTC')
+
+        Found $JOB_COUNT positions
+        Updated job listings via JSearch API
+
+        Triggered by: ${{ github.event_name }}"
+
+            if ! git commit -m "$COMMIT_MSG"; then
+              echo "Commit failed, may already be committed"
+            fi
+
+            # Push with retry
+            echo "Pushing changes to remote..."
+            if git push origin ${{ github.ref_name }}; then
+              echo "Successfully pushed changes!"
+              exit 0
+            else
+              echo "Push failed (branch diverged again)"
+
+              # Undo commit but keep changes staged for retry
+              git reset --soft HEAD~1
+
+              # Exponential backoff
+              echo "Waiting ${delay}s before retry..."
+              sleep $delay
+              delay=$((delay * 2))
+            fi
+          done
+
+          echo "========================================="
+          echo "Failed to push after $max_attempts attempts"
+          echo "========================================="
+          exit 1
+        }
+
+        # Execute the function
+        commit_and_push
+
+    - name: Create job summary
+      run: |
+        echo "## Jobs Updated!" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+
+        if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
+          JOB_COUNT=$(grep -o "Total_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+
+          echo "Successfully updated job board with fresh opportunities" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Today's Update:" >> $GITHUB_STEP_SUMMARY
+          echo "- **$JOB_COUNT total positions** from JSearch API" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Filters Applied:" >> $GITHUB_STEP_SUMMARY
+          echo "- Removed duplicates and spam postings" >> $GITHUB_STEP_SUMMARY
+          echo "- Filtered by date and relevance" >> $GITHUB_STEP_SUMMARY
+          echo "- Verified application links" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Next update**: Daily at 9 AM UTC" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "No new opportunities found - job board is current" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Next check**: Daily at 9 AM UTC" >> $GITHUB_STEP_SUMMARY
+        fi
