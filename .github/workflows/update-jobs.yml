@@ -37,6 +37,9 @@ jobs:
     - name: Install dependencies
       run: npm install axios
 
+    - name: Create logs directory
+      run: mkdir -p .github/logs
+
     - name: Fetch and update jobs
       run: node .github/scripts/job-fetcher/index.js 2>&1 | tee .github/logs/job-fetcher.log
       env:
