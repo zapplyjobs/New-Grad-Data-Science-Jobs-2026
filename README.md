@@ -6,14 +6,14 @@
 # Data Science Jobs 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-0-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-0-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-3-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-17-blue?style=flat&logo=building)
 
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time data science and data analysis jobs from 0+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 0+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.</p>
+<p align="center">🚀 Real-time data science and data analysis jobs from 17+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 3+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.</p>
 
 <p align="center">🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.</p>
 
@@ -63,9 +63,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 <img src="images/dsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
-| Company | Role | Location | Level | Apply Now | Age |
-  |---------|------|----------|-------|-----------|-----|
-  | *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
+
 
 ---
 
@@ -116,11 +114,27 @@ Our team reviews within 24-48 hours and approved jobs are added to the main list
 
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
+<details>
+<summary><h2>📁 <strong>Archived Data Jobs – 2 (7+ days old)</strong> - Click to Expand</h2></summary>
 
+Either still hiring or useful for research.
+
+### **Archived Job Stats**
+
+📁 **Total Jobs:** 2 positions
+
+🏢 **Companies:** 17 companies
+
+
+| Company | Role | Location | Level | Apply Now | Age |
+  |---------|------|----------|-------|-----------|-----|
+  | *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
+
+</details>
 
 <div align="center">
 
-**🎯 0 current opportunities from 0 elite companies.**
+**🎯 3 current opportunities from 17 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
@@ -128,6 +142,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated:** February 8, 2026 • **Next Update:** Daily at 9 AM UTC
+**Last Updated:** February 9, 2026 • **Next Update:** Daily at 9 AM UTC
 
 </div>
