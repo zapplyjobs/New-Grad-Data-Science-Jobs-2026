@@ -2,7 +2,7 @@ name: Update Jobs from JSearch
 
 on:
   schedule:
-    - cron: '6 9 * * *'  # Daily at 9:06 AM UTC (staggered)
+    - cron: '6,18,30,42,54 * * * *'  # Every 12 minutes (staggered schedule)
   workflow_dispatch: # Allow manual triggering
   push:
     branches: [ main ]
@@ -102,7 +102,7 @@ jobs:
             }
 
             # Stage and commit
-            git add README.md .github/data/current_jobs.json .github/logs/ || true
+            git add README.md .github/data/current_jobs.json .github/data/jsearch_usage.json .github/logs/ || true
 
             # Check if there are still changes to commit
             if git diff --staged --quiet; then
