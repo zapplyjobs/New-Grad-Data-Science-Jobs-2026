@@ -54,6 +54,12 @@ function generateJobFingerprint(job) {
  * Check if job is senior level (should be filtered out)
  */
 function isSeniorJob(job) {
+    // EXCEPTION: JSearch jobs already filtered by API (under_3_years_experience)
+    // Skip senior filter for JSearch source - trust the API
+    if (job.job_source === 'jsearch') {
+        return false; // Not senior (allow job)
+    }
+
     const text = `${job.job_title || ''} ${job.job_description || ''}`.toLowerCase();
 
     const seniorKeywords = [
