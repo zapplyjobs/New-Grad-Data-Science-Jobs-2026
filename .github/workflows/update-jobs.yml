@@ -104,12 +104,6 @@ jobs:
             # Stage and commit
             git add README.md .github/data/current_jobs.json .github/data/jsearch_usage.json .github/logs/ || true
 
-            # Check if there are still changes to commit
-            if git diff --staged --quiet; then
-              echo "No changes after merge, exiting successfully"
-              exit 0
-            fi
-
             # Get job count for commit message
             JOB_COUNT=$(grep -o "Total_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
 
