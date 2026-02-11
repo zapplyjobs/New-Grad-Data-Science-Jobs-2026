@@ -27,6 +27,7 @@ jobs:
       with:
         ref: ${{ github.ref_name }}
         fetch-depth: 1
+        submodules: recursive  # Initialize git submodules (required for shared/ directory)
 
     - name: Setup Node.js
       uses: actions/setup-node@v4
