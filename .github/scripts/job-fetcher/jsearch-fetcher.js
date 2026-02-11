@@ -20,7 +20,7 @@ const path = require('path');
 // Configuration from environment
 const JSEARCH_API_KEY = process.env.JSEARCH_API_KEY;
 const JSEARCH_BASE_URL = 'jsearch.p.rapidapi.com';
-const MAX_REQUESTS_PER_DAY = 1;  // 30 jobs/day quota: 1 request × 3 pages × 10 jobs = 30 jobs
+const MAX_REQUESTS_PER_DAY = 30;  // Paid API: 30 requests/day allocated to this repo
 const USAGE_FILE = path.join(process.cwd(), '.github', 'data', 'jsearch_usage.json');
 
 // Domain-specific search queries for Data Science
