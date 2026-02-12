@@ -1,7 +1,7 @@
 {
   "date": "Thu Feb 12 2026",
-  "requests": 27,
-  "remaining": 3,
+  "requests": 28,
+  "remaining": 2,
   "queries_executed": [
     "data scientist",
     "data scientist",
@@ -29,6 +29,7 @@
     "quantitative analyst",
     "quantitative analyst",
     "quantitative analyst",
+    "data science intern",
     "data science intern"
   ]
 }
