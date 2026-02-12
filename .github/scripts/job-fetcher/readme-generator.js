@@ -240,42 +240,7 @@ function generateJobTable(jobs) {
   return output;
 }
 
-function generateInternshipSection(internshipData) {
-  if (!internshipData) return "";
-
-  return `
-
----
-
-## SWE Internships 2026
-
-<img src="images/sej-internships.png" alt="Software engineering internships for 2026.">
-
-### 🏢 **FAANG+ Internship Programs**
-
-| Company | Program | Application Link |
-|---------|---------|------------------|
-${internshipData.companyPrograms
-  .map((program) => {
-    const companyObj = ALL_COMPANIES.find((c) => c.name === program.company);
-    const emoji = companyObj ? companyObj.emoji : "🏢";
-    return `| ${emoji} **${program.company}** | ${program.program} | <p align="center">[<img src="images/apply.png" width="75" alt="Apply button">](${program.url})</p> |`;
-  })
-  .join("\n")}
-
-### 📚 **Top Software Internship Resources**
-
-| Platform | Type | Description | Link |
-|----------|------|-------------|------|
-${internshipData.sources
-  .map(
-    (source) =>
-      `| **${source.emogi} ${source.name}** | ${source.type} | ${source.description} | [<img src="images/sej-visit.png" width="75" alt="Visit button">](${source.url}) |`
-  )
-  .join("\n")}
-
-`;
-}
+// Internship section removed - not applicable to Data Science jobs repo
 
 function generateArchivedSection(archivedJobs, stats) {
   if (archivedJobs.length === 0) return "";
@@ -389,7 +354,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 ## Fresh Software Jobs 2026
 
-<img src="images/sej-listings.png" alt="Fresh 2026 job listings (under 1 week).">
+<img src="images/dsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 ${generateJobTable(currentJobs)}
 
@@ -490,11 +455,10 @@ async function updateReadme(currentJobs, archivedJobs, internshipData, stats) {
 
 module.exports = {
   generateJobTable,
-  generateInternshipSection,
   generateArchivedSection,
   generateReadme,
   updateReadme,
   filterJobsByAge,
-  filterOutSeniorPositions,  // ADD THIS
+  filterOutSeniorPositions,
 };
 
