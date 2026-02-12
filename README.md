@@ -1,24 +1,21 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="images/dsj-heading.png" alt="Data Science Jobs 2026 - Illustration of people working in data science.">
+<img src="images/sej-heading.png" alt="Software Engineering Jobs 2026 - Illustration of people working on tech.">
 
-# Data Science Jobs 2026
+# Software Engineering Jobs 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-2-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-13-blue?style=flat&logo=building)
-
-![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-13-blue?style=flat&logo=building) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time data science and data analysis jobs from 13+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 2+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 13+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 1+ fresh opportunities for new graduates, CS students, and entry-level software developers.</p>
 
-<p align="center">🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.</p>
+<p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
 > [!TIP]
-> 🛠  Help us grow! Add new jobs by submitting an issue! View [contributing steps](CONTRIBUTING-GUIDE.md) here.
+> 🛠 Help us grow! Add new jobs by submitting an issue! View contributing steps [here](CONTRIBUTING-GUIDE.md).
 
 ---
 
@@ -36,9 +33,9 @@ Explore Zapply's website and check out:
 Experience an advanced career journey with us! 🚀
 
 <p align="center">
-  <a href="https://zapply.jobs/"><img src="images/zapply-button.png" alt="Visit Our Website" height="60"></a>
+  <a href="https://zapply.jobs/"><img src="images/zapply-button.png" alt="Visit Our Website" width="300"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://chromewebstore.google.com/detail/zapply-instant-autofill-f/lkomdndabnpakcabffgobiejimpamjom"><img src="images/extension-button.png" alt="Install Our Extension" height="60"></a>
+  <a href=""><img src="images/extension-button.png" alt="Install Our Extension - Coming Soon" width="300"></a>
 </p>
 
 ---
@@ -50,18 +47,27 @@ Experience an advanced career journey with us! 🚀
 Connect and seek advice from a growing network of fellow students and new grads.
 
 <p align="center">
-  <a href="https://discord.gg/UswBsduwcD"><img src="images/discord-2d.png" alt="Join Our Discord" height="60"></a>
+  <a href="https://discord.gg/UswBsduwcD"><img src="images/discord-2d.png" alt="Visit Our Website" width="250"></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/zapplyjobs"><img src="images/instagram-icon-2d.png" alt="Instagram" height="60"></a>
+  <a href="https://www.instagram.com/zapplyjobs"><img src="images/instagram-icon-2d.png" alt="Instagram" height="75"></a>
   &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@zapplyjobs"><img src="images/tiktok-icon-2d.png" alt="TikTok" height="60"></a>
+  <a href="https://www.tiktok.com/@zapplyjobs"><img src="images/tiktok-icon-2d.png" alt="TikTok" height="75"></a>
 </p>
 
 ---
 
-## Fresh Data Science Jobs 2026
+## Fresh Software Jobs 2026
 
-<img src="images/dsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
+<img src="images/sej-listings.png" alt="Fresh 2026 job listings (under 1 week).">
+
+<details>
+<summary><h3>🔧 <strong>Data Engineer</strong> (1 positions)</h3></summary>
+
+| Company | Role | Location | Posted | Level | Apply |
+|---------|------|----------|--------|-------|-------|
+| 🏢 **Aorzon Technologies Inc** | Artificial Intelligence Engineer | Springfield, Illinois | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/artificial-intelligence-engineer-at-aorzon-technologies-inc-4370721428?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+</details>
 
 
 
@@ -72,9 +78,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/more-resources.png" alt="Jobs and templates in our other repos.">
 
 Check out our other repos for jobs and free resources:
- 
+
 <p align="center">
-  <a href="https://github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2026"><img src="images/repo-sej.png" alt="Software Engineering Jobs" height="40"></a>
+  <a href="https://github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2026"><img src="images/repo-dsj.png" alt="Data Science Jobs" height="40"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/New-Grad-Hardware-Engineering-Jobs-2026"><img src="images/repo-hej.png" alt="Hardware Engineering Jobs" height="40"></a>
   &nbsp;&nbsp;
@@ -114,25 +120,34 @@ Our team reviews within 24-48 hours and approved jobs are added to the main list
 
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
-<details>
-<summary><h2>📁 <strong>Archived Data Jobs – 4 (7+ days old)</strong> - Click to Expand</h2></summary>
 
-Either still hiring or useful for research.
+---
+
+<details>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 8 (7+ days old) - Click to Expand</h2></summary>
+
+> Either still hiring or useful for research.
 
 ### **Archived Job Stats**
+- **📁 Total Jobs**: 8 positions
+- **🏢 Companies**: 13 companies  
+- **⭐ FAANG+ Jobs & Internships**: 0 roles
 
-📁 **Total Jobs:** 4 positions
-
-🏢 **Companies:** 13 companies
-
-
-
+| Company | Role | Location | Posted | Level | Apply |
+|---------|------|----------|--------|-------|-------|
+| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
 
 </details>
 
+---
+
+
+
+---
+
 <div align="center">
 
-**🎯 2 current opportunities from 13 elite companies.**
+**🎯 1 current opportunities from 13 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
