@@ -254,7 +254,7 @@ function generateArchivedSection(archivedJobs, stats) {
   }
 
   const archivedFaangJobs = archivedJobs.filter((job) =>
-    companies.faang_plus.some((c) => c.name === job.employer_name)
+    companies.faang_plus?.companies?.includes(job.employer_name)
   ).length;
 
   const archivedJobTable = generateJobTable(archivedJobs);
@@ -288,7 +288,7 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
   currentJobs = filterOutSeniorPositions(currentJobs);
 
   const faangJobs = currentJobs.filter((job) =>
-    companies.faang_plus.some((c) => c.name === job.employer_name)
+    companies.faang_plus?.companies?.includes(job.employer_name)
   ).length;
 
   const jobTable = generateJobTable(currentJobs);
