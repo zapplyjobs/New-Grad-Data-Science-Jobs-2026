@@ -7,13 +7,13 @@
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-4-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-16-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-15-blue?style=flat&logo=building)
 
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time data science and data analysis jobs from 16+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 4+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.</p>
+<p align="center">🚀 Real-time data science and data analysis jobs from 15+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 10 mins with 4+ fresh opportunities for data analysts, scientists, and entry-level analytics grads.</p>
 
 <p align="center">🎯 Includes both tech giants and diverse industry leaders like Chewy, TD Bank, and CACI.</p>
 
@@ -123,7 +123,7 @@ Either still hiring or useful for research.
 
 📁 **Total Jobs:** 2 positions
 
-🏢 **Companies:** 16 companies
+🏢 **Companies:** 15 companies
 
 
 | Company | Role | Location | Level | Apply Now | Age |
@@ -134,7 +134,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-**🎯 4 current opportunities from 16 elite companies.**
+**🎯 4 current opportunities from 15 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
