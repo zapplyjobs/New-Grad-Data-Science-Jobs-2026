@@ -56,6 +56,10 @@ jobs:
         echo "Job Fetcher Output (last 100 lines):"
         tail -100 .github/logs/job-fetcher.log || echo "Log file not found"
 
+
+    - name: Generate workflow metrics
+      if: always()
+      run: node .github/scripts/output-metrics.js
     - name: Display public status
       run: |
         echo "Job collection completed"
