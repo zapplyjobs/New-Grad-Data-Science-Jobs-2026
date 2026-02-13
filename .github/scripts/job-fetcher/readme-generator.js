@@ -36,12 +36,34 @@ function filterJobsByAge(allJobs) {
   oneWeekAgo.setDate(oneWeekAgo.getDate() - 7);
 
   const currentJobs = allJobs.filter(job => {
-    const jobDate = new Date(job.job_posted_at_datetime_utc);
+    const dateValue = job.job_posted_at_datetime_utc;
+
+    // Handle null/undefined/invalid dates - assume recent (Bug #1 fix)
+    if (!dateValue) {
+      return true;  // Keep jobs with no date
+    }
+
+    const jobDate = new Date(dateValue);
+    if (isNaN(jobDate.getTime())) {
+      return true;  // Keep jobs with unparseable dates
+    }
+
     return jobDate >= oneWeekAgo;
   });
 
   const archivedJobs = allJobs.filter(job => {
-    const jobDate = new Date(job.job_posted_at_datetime_utc);
+    const dateValue = job.job_posted_at_datetime_utc;
+
+    // Only archive jobs with valid dates (Bug #1 fix)
+    if (!dateValue) {
+      return false;  // Don't archive jobs with no date
+    }
+
+    const jobDate = new Date(dateValue);
+    if (isNaN(jobDate.getTime())) {
+      return false;  // Don't archive jobs with unparseable dates
+    }
+
     return jobDate < oneWeekAgo;
   });
 
