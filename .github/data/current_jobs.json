@@ -1,81 +1,5 @@
 [
   {
-    "job_id": "y9Ez-YEkLqpd9staAAAAAA==",
-    "job_title": "DataEngineer",
-    "employer_name": "Jobs via Dice",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9CC1NlnLA7sshF1s1dqKvk8U495jsMwImnyPP&s=0",
-    "employer_website": null,
-    "job_publisher": "LinkedIn",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/dataengineer-at-jobs-via-dice-4372009753?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/dataengineer-at-jobs-via-dice-4372009753?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Dice",
-        "apply_link": "https://www.dice.com/job-detail/8450f66f-d9c9-4a3f-9a3e-7e7ddf43420c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/185ad29d20a173269bde7c12ca5be9f0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/amp/job/us-texas-plano-dataengineer-jobs-via-dice-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, Key Business Solutions, Inc., is seeking the following. Apply via Dice today!\n\nJob Description: Data Engineer\n\nPlano, TX - 4 Days Hybrid\n\n12+ Months\n\nDescription:\n\nCollecting data from internal and external sources, ensuring accuracy, and removing duplicates or errors.\n\nApplying statistical and analytical techniques to identify trends, correlations, and anomalies.\n\nCreating dashboards, charts, and reports using tools like Excel, SQL, Python, and Tableau to communicate findings to stakeholders.\n\nTranslating complex datasets into actionable recommendations for business strategy, marketing, or operations.\n\nWorking with cross-functional teams, including project managers, business analysts, and marketing, to understand data needs and develop solutions.\n\nEnsuring compliance with data management policies, maintaining data integrity, and supporting data architecture and modeling efforts.\n\nSkills And Qualifications\n\nProficiency in SQL, Excel, Python, R, and data visualization tools like Tableau or Power BI.\n\nAbility to interpret complex data, identify patterns, and provide actionable insights.\n\nTranslating technical findings into clear, business-friendly language for stakeholders.\n\nUnderstanding of business processes, KPIs, and regulatory requirements, especially in marketing.\n\nWillingness to adopt new tools, programming languages, and Big Data techniques.\n\nKnowledge of marketing data sets like Google Analytics, Social Media Platforms, Salesforce, Marketing Cloud and Customer Data Platforms.",
-    "job_is_remote": false,
-    "job_posted_at": "24 hours ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Plano, TX",
-    "job_city": "Plano",
-    "job_state": "Texas",
-    "job_country": "US",
-    "job_latitude": 33.0216577,
-    "job_longitude": -96.6979973,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dy9Ez-YEkLqpd9staAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "12+ Months",
-        "Proficiency in SQL, Excel, Python, R, and data visualization tools like Tableau or Power BI",
-        "Ability to interpret complex data, identify patterns, and provide actionable insights",
-        "Translating technical findings into clear, business-friendly language for stakeholders",
-        "Understanding of business processes, KPIs, and regulatory requirements, especially in marketing",
-        "Willingness to adopt new tools, programming languages, and Big Data techniques",
-        "Knowledge of marketing data sets like Google Analytics, Social Media Platforms, Salesforce, Marketing Cloud and Customer Data Platforms"
-      ],
-      "Responsibilities": [
-        "Collecting data from internal and external sources, ensuring accuracy, and removing duplicates or errors",
-        "Applying statistical and analytical techniques to identify trends, correlations, and anomalies",
-        "Creating dashboards, charts, and reports using tools like Excel, SQL, Python, and Tableau to communicate findings to stakeholders",
-        "Translating complex datasets into actionable recommendations for business strategy, marketing, or operations",
-        "Working with cross-functional teams, including project managers, business analysts, and marketing, to understand data needs and develop solutions",
-        "Ensuring compliance with data management policies, maintaining data integrity, and supporting data architecture and modeling efforts"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-linkedin-com-jobs-view-dataengineer-at-jobs-via-dice-4372009753",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "DmKkjIHFGqwpZawzAAAAAA==",
     "job_title": "Associate Data Engineer",
     "employer_name": "THE DOW CHEMICAL COMPANY",
@@ -107,8 +31,8 @@
     "job_latitude": 29.5821811,
     "job_longitude": -95.76078319999999,
     "job_benefits": [
-      "paid_time_off",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DDmKkjIHFGqwpZawzAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -215,9 +139,9 @@
     ],
     "job_description": "Position Overview\n\nThe Lead Data Engineer at Capital One is responsible for designing, developing, testing, implementing, and supporting data solutions using Java, Python, Spark, and AWS in an Agile environment. In this role, you will collaborate with cross-functional teams, mentor engineers, and drive business transformation by leveraging cloud-based data warehousing and big data tools. If you love pioneering innovative technology solutions and solving complex business problems in a collaborative and fast-paced setting, this role is for you.\n\nKey Responsibilities\n• Collaborate with Agile teams to design, develop, test, implement, and support technical solutions using full-stack development tools.\n• Work with developers experienced in machine learning, distributed microservices, and full stack systems.\n• Utilize programming languages like Java, Scala, and Python along with both SQL and NoSQL databases, and leverage cloud-based data warehousing services such as Redshift and Snowflake.\n• Share your passion for technology by staying updated on tech trends, experimenting with new technologies, and mentoring fellow engineers.\n• Collaborate with digital product managers to deliver robust cloud-based solutions that empower millions of Americans.\n• Perform unit tests and conduct code reviews to ensure quality, performance, and maintainability of solutions.\n\nRequired Qualifications\n• Bachelor’s Degree\n• Minimum 4 years of experience in application development (internship experience does not apply)\n• At least 2 years of experience in big data technologies\n• At least 1 year of experience with cloud computing (AWS, Microsoft Azure, or Google Cloud)\n\nPreferred Qualifications\n• 7+ years of application development experience including Python, SQL, Scala, or Java\n• 4+ years of experience with a public cloud (AWS, Microsoft Azure, or Google Cloud)\n• 4+ years of experience with distributed data/computing tools (MapReduce, Hadoop, Hive, EMR, Kafka, Spark, Gurobi, or MySQL)\n• 4+ years of experience with real-time data and streaming applications\n• 4+ years of experience with NoSQL implementations (e.g., Mongo or Cassandra)\n• 4+ years of data warehousing experience (Redshift or Snowflake)\n• 4+ years of Unix/Linux experience including basic commands and shell scripting\n• 2+ years of experience with Agile engineering practices\n\nBenefits & Perks\n• Compensation: McLean, VA: $193,400 - $220,700 for Lead Data Engineer\n• Compensation: Plano, TX: $175,800 - $200,700 for Lead Data Engineer\n• Compensation: Richmond, VA: $175,800 - $200,700 for Lead Data Engineer\n• Note: Salaries for part-time roles will be prorated based on the agreed-upon number of hours.",
     "job_is_remote": false,
-    "job_posted_at": "19 hours ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_posted_at": "20 hours ago",
+    "job_posted_at_timestamp": 1771023600,
+    "job_posted_at_datetime_utc": "2026-02-13T23:00:00.000Z",
     "job_location": "Baltimore, MD",
     "job_city": "Baltimore",
     "job_state": "Maryland",
@@ -259,6 +183,82 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "jobs-digitalhire-com-job-listing-opening-7obxlyk4atqenktrzypk5a",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "y9Ez-YEkLqpd9staAAAAAA==",
+    "job_title": "DataEngineer",
+    "employer_name": "Jobs via Dice",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9CC1NlnLA7sshF1s1dqKvk8U495jsMwImnyPP&s=0",
+    "employer_website": null,
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/dataengineer-at-jobs-via-dice-4372009753?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/dataengineer-at-jobs-via-dice-4372009753?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Dice",
+        "apply_link": "https://www.dice.com/job-detail/8450f66f-d9c9-4a3f-9a3e-7e7ddf43420c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/185ad29d20a173269bde7c12ca5be9f0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/amp/job/us-texas-plano-dataengineer-jobs-via-dice-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, Key Business Solutions, Inc., is seeking the following. Apply via Dice today!\n\nJob Description: Data Engineer\n\nPlano, TX - 4 Days Hybrid\n\n12+ Months\n\nDescription:\n\nCollecting data from internal and external sources, ensuring accuracy, and removing duplicates or errors.\n\nApplying statistical and analytical techniques to identify trends, correlations, and anomalies.\n\nCreating dashboards, charts, and reports using tools like Excel, SQL, Python, and Tableau to communicate findings to stakeholders.\n\nTranslating complex datasets into actionable recommendations for business strategy, marketing, or operations.\n\nWorking with cross-functional teams, including project managers, business analysts, and marketing, to understand data needs and develop solutions.\n\nEnsuring compliance with data management policies, maintaining data integrity, and supporting data architecture and modeling efforts.\n\nSkills And Qualifications\n\nProficiency in SQL, Excel, Python, R, and data visualization tools like Tableau or Power BI.\n\nAbility to interpret complex data, identify patterns, and provide actionable insights.\n\nTranslating technical findings into clear, business-friendly language for stakeholders.\n\nUnderstanding of business processes, KPIs, and regulatory requirements, especially in marketing.\n\nWillingness to adopt new tools, programming languages, and Big Data techniques.\n\nKnowledge of marketing data sets like Google Analytics, Social Media Platforms, Salesforce, Marketing Cloud and Customer Data Platforms.",
+    "job_is_remote": false,
+    "job_posted_at": "1 day ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Plano, TX",
+    "job_city": "Plano",
+    "job_state": "Texas",
+    "job_country": "US",
+    "job_latitude": 33.0216577,
+    "job_longitude": -96.6979973,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dy9Ez-YEkLqpd9staAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "12+ Months",
+        "Proficiency in SQL, Excel, Python, R, and data visualization tools like Tableau or Power BI",
+        "Ability to interpret complex data, identify patterns, and provide actionable insights",
+        "Translating technical findings into clear, business-friendly language for stakeholders",
+        "Understanding of business processes, KPIs, and regulatory requirements, especially in marketing",
+        "Willingness to adopt new tools, programming languages, and Big Data techniques",
+        "Knowledge of marketing data sets like Google Analytics, Social Media Platforms, Salesforce, Marketing Cloud and Customer Data Platforms"
+      ],
+      "Responsibilities": [
+        "Collecting data from internal and external sources, ensuring accuracy, and removing duplicates or errors",
+        "Applying statistical and analytical techniques to identify trends, correlations, and anomalies",
+        "Creating dashboards, charts, and reports using tools like Excel, SQL, Python, and Tableau to communicate findings to stakeholders",
+        "Translating complex datasets into actionable recommendations for business strategy, marketing, or operations",
+        "Working with cross-functional teams, including project managers, business analysts, and marketing, to understand data needs and develop solutions",
+        "Ensuring compliance with data management policies, maintaining data integrity, and supporting data architecture and modeling efforts"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-linkedin-com-jobs-view-dataengineer-at-jobs-via-dice-4372009753",
     "_source": "new_jobs"
   },
   {
@@ -477,9 +477,9 @@
     ],
     "job_description": "Temporary Student Data Engineer\n\nNotre Dame, IN, United States\nContract\nProvost\nTemporary\n\nCompany Description\n\nJob Description\nWe are seeking a Student Data Engineer (SDE) to join a team of students creating a Roblox game as a data collection tool, gauging students' interest in STEM and health care careers. The Lucy Family Institute for Data & Society (LFIDS) leverages data science, AI & ML toward social good. LFIDS engages with the Notre Dame community & beyond through funded research projects & collaborations, educational workshops, and special events. SDEs serve an important role as technical contributors to data-centric projects engaging with Lucy faculty and staff, the broader Notre Dame research community, and regional partners within Indiana. In turn, in addition to the #GOALS project with the Roblox game development, other projects may be assigned as needed.\n\nKey Responsibilities:\n\nWithin assigned projects, this role requires completion of data processing and programming tasks related to:\n• Data collection, management, harvesting, processing, transformation, and visualization;\n• Prototype data processing solutions;\n• Experience with a variety of technology environments, ranging from databases to stats to cloud computing platforms.\n\nThe successful candidate will be a team player who collaborates effectively with fellow developers, faculty, university researchers, students, and business partners. Other responsibilities may include data analysis and giving presentations to diverse audiences.\n\nAdditional Requirements\n\nIn addition to regular shift duties based on available capacity, Student Data Engineers may be assigned to complete tasks associated with LFIDS projects as requested. For example, our Scholarly Impact, Data Michiana, and SocioEconomic Indicators dashboard leads may assign students to upload data or develop application features, or SDEs may be asked to try a new software interface and document its basic functions or user experience.\n\nAdditional Opportunities\n\nStudent data engineers with the requisite skill sets (or who express an interest in gaining requisite skills, e.g., R, Python, Shiny, GIS, GitHub, podcasting, and video editing) will have opportunities to assist a variety of LFIDS faculty/staff with data analysis, software development & communications, as well as investigations of emerging technologies, resources, and creative projects. Student data engineers who contribute to work that is later published or presented will be acknowledged appropriately.\n\nThe Institute is committed to ensuring that our student data engineers find their time on our team to be advantageous to their professional development, and we are happy to consider SDEs' proposals for projects that overlap with LFIDS priorities and their research/professional development interests.\n\nCore Qualities & Expectations\n• Service Orientation: Values inclusivity, courtesy, patience, resourcefulness, and problem-solving\n• Confidentiality: Maintaining confidentiality is required.\n• Reliability & dependability are key, especially as SSEs may be responsible for maintaining Institute spaces during times when full-time team members are unavailable (e.g., due to meetings).\n• Adaptability: We welcome a mindset that is open to learning new systems and adapting quickly. Perfection is not expected-it's okay to take time to learn. What matters is trying your best in each unique circumstance. We're committed to supporting your growth and confidence in the role.\n• Organizational proficiency: Includes the ability to manage time effectively based on clearly communicated priorities. We aim to provide a structure that supports your success.\n• Attention to detail or the ability to follow a set of instructions that we'll co-create and adjust based on your preferred learning and working style.\n• Independence & Teamwork: Most tasks are completed independently, though there are occasional team-based efforts where we divide and conquer.\n\nQualifications\nWe are currently seeking Saint Mary's students with a strong (preferably demonstrated) interest in the following:\n• Data science methods and tools,\n• Software design\n• User experience principles\n\nExperience in an LFIDS area of expertise, like:\n• R and/or Python\n• Events and communications support\n• Familiarity with data science, software applications, and/or multimedia content creation and/or editing (e.g., video, PowerPoint slides, podcasts, websites).\n\nAdditional Information\nCompensation: $17.00/hour\n\nApplications for this position will close on February 13, 2026.\n\nThe University of Notre Dame seeks to attract, develop, and retain the highest quality faculty, staff and administration. The University is an Equal Opportunity Employer, and does not discriminate on the basis of race, color, national or ethnic origin, sex, disability, veteran status, genetic information, or age in employment. Moreover, Notre Dame prohibits discrimination against veterans or disabled qualified individuals, and complies with 41 CFR 60-741.5(a) and 41 CFR 60-300.5(a). We strongly encourage applications from candidates attracted to a university with a Catholic identity.\n\nTo apply, visit https://jobs.smartrecruiters.com/UniversityOfNotreDame/3743990011597785-temporary-student-data-engineer\n\nCopyright 2025 Jobelephant.com Inc. All rights reserved.\n\nPosted by the FREE value-added recruitment advertising agency jeid-5691f5d28abbde4e8b71884761a96763",
     "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
     "job_location": "Notre Dame, IN",
     "job_city": "Notre Dame",
     "job_state": "Indiana",
@@ -566,9 +566,9 @@
     "job_latitude": 37.4315734,
     "job_longitude": -78.6568942,
     "job_benefits": [
+      "paid_time_off",
       "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DvmP5DjcyLh4_B94fAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 101000,
@@ -833,9 +833,9 @@
     "job_latitude": 37.322997799999996,
     "job_longitude": -122.03218229999999,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DXhgeNP4cggggaxCtAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 143000,
@@ -929,8 +929,8 @@
     "job_longitude": -78.8205619,
     "job_benefits": [
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DmLWbCE2BsJ1026TLAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 55,
@@ -1064,84 +1064,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "yJN3Vkow8jzMypyxAAAAAA==",
-    "job_title": "Sr Data Engineer 20",
-    "employer_name": "LegitScript",
-    "employer_logo": null,
-    "employer_website": "https://www.legitscript.com",
-    "job_publisher": "Jobilize",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.jobilize.com/job/us-ma-all-cities-sr-data-engineer-20-legitscript-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-ma-all-cities-sr-data-engineer-20-legitscript-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "At LegitScript, we are passionate about making the internet and payment ecosystems safer and more transparent.\nWe help companies of all sizes keep their services legal and safe for consumers.\nTo do this, LegitScript combines big data with the world's leading team of experts skilled in highly regulated and complex sectors, including transaction laundering detection, pharmaceuticals, online gambling, and more.\n\nThe result? Unmatched accuracy and deep risk analysis that identifies which commercial entities play by the rules, and which do not.\nOur diverse industry partnerships provide unique insights that keep businesses and governments at the forefront of emerging trends.\nThat's why LegitScript is trusted by the world's largest search engines, internet platforms, payment companies, and regulatory agencies.\n\nOverview:\n\nWe're an innovative technology incubator seeking an experienced and forward-thinking Sr Data Engineer specializing in Generative AI to join our team.\nIn this role, you'll spearhead the development and implementation of cutting-edge AI solutions, with a primary focus on creating a sophisticated risk detection algorithm using large language models, Generative AI techniques, and traditional machine learning methods within our SaaS environment.\n\nWhat You'll Do:\n• Design, build, and maintain scalable data pipelines to ingest data from disparate sources into our data warehouse/lake.\n• Research and develop high-performance machine learning models to solve complex business problems.\n• Wrap models into production-ready APIs and integrate them into our core product.\n• Implement automated workflows for data validation, model training, and continuous deployment (CI/CD for ML).\n• Monitor pipeline latency and model drift, ensuring that the system remains performant and accurate as data evolves.\n\nWhat You'll Bring:\n• 5-8+ years in a Data Engineering or Data Science role, with a proven track record of shipping models to production.\n• Advanced proficiency in Structured Query Language for complex data transformation and analysis.\n• Hands-on experience with cloud-based data platforms such as Databricks or Snowflake.\n• Experience with ETL and ELT tools or frameworks such as Lakeflow Declarative Pipelines, Databricks Autoloader, Informatica, Talend, or dbt.\n• Strong proficiency in Python, Spark/PySpark, and DABs/Terraform for data processing and pipeline development.\n• Strong understanding of data modeling, database design principles, and building curated datasets for analytics and operational use cases.\n• Experience with DevOps practices including IAC, CI/CD, Git-based development, branching strategies, and code reviews.\n• Proven history implementing continuous integration and continuous deployment for data pipelines and managing deployments across environments.\n• Familiarity with orchestration and workflow tools such as Databricks Workflows or Airflow is preferred.\n• Previous experience working with containerization technologies such as Docker\n• Proficiency with ML experiment tracking tools like MLFlow or Weights & Biases\n• Design ML models that do the heavy lifting-prioritizing tasks and automating risk assessment to make our operations smarter.\n• Ensure every prediction is explainable, turning \"black box\" code into actionable \"reason codes\" for our end users.\n• Partner directly with the teams using your tools to refine features and improve model relevance based on their feedback.\n• Own the success of your models by measuring their real-world efficacy, focusing on business ROI.\n\nIn addition to competitive salaries, full-time employees enjoy a great benefits package:\n• Multiple Medical, Dental & Vision plans\n• 401k with company match and immediate vesting\n• Generous paid time off package and 11 paid holidays\n• And much more!\n\nIf you got to this point, we hope you're feeling excited about the job description you just read.\nEven if you don't feel that you meet every single requirement, we still encourage you to apply.\nWe're eager to meet people that believe in LegitScript's mission and can contribute to our team in a variety of ways.\n\nThis job description is not designed to cover or contain a comprehensive listing of all activities, duties or responsibilities that are required of the employee.\nDuties, responsibilities and activities may change or new ones may be assigned at any time with or without notice.\n\nPlease note that visa sponsorship is not available for this position.\nWe cannot support international remote work.\n\nWe do not accept unsolicited applications from third-party recruiters or agencies for this job posting.\nAny candidate submission without a prior agreement will be considered the property of our company, and we will not be responsible for any fees or obligations related to such submissions.\nWe encourage interested candidates to apply directly through our official channels.",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Massachusetts",
-    "job_city": null,
-    "job_state": "Massachusetts",
-    "job_country": "US",
-    "job_latitude": 42.4072107,
-    "job_longitude": -71.3824374,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DyJN3Vkow8jzMypyxAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "5-8+ years in a Data Engineering or Data Science role, with a proven track record of shipping models to production",
-        "Advanced proficiency in Structured Query Language for complex data transformation and analysis",
-        "Hands-on experience with cloud-based data platforms such as Databricks or Snowflake",
-        "Experience with ETL and ELT tools or frameworks such as Lakeflow Declarative Pipelines, Databricks Autoloader, Informatica, Talend, or dbt",
-        "Strong proficiency in Python, Spark/PySpark, and DABs/Terraform for data processing and pipeline development",
-        "Strong understanding of data modeling, database design principles, and building curated datasets for analytics and operational use cases",
-        "Experience with DevOps practices including IAC, CI/CD, Git-based development, branching strategies, and code reviews",
-        "Proven history implementing continuous integration and continuous deployment for data pipelines and managing deployments across environments",
-        "Previous experience working with containerization technologies such as Docker",
-        "Proficiency with ML experiment tracking tools like MLFlow or Weights & Biases"
-      ],
-      "Benefits": [
-        "In addition to competitive salaries, full-time employees enjoy a great benefits package:",
-        "Multiple Medical, Dental & Vision plans",
-        "401k with company match and immediate vesting",
-        "Generous paid time off package and 11 paid holidays",
-        "And much more!"
-      ],
-      "Responsibilities": [
-        "Design, build, and maintain scalable data pipelines to ingest data from disparate sources into our data warehouse/lake",
-        "Research and develop high-performance machine learning models to solve complex business problems",
-        "Wrap models into production-ready APIs and integrate them into our core product",
-        "Implement automated workflows for data validation, model training, and continuous deployment (CI/CD for ML)",
-        "Monitor pipeline latency and model drift, ensuring that the system remains performant and accurate as data evolves",
-        "Design ML models that do the heavy lifting-prioritizing tasks and automating risk assessment to make our operations smarter",
-        "Ensure every prediction is explainable, turning \"black box\" code into actionable \"reason codes\" for our end users",
-        "Partner directly with the teams using your tools to refine features and improve model relevance based on their feedback",
-        "Own the success of your models by measuring their real-world efficacy, focusing on business ROI"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-jobilize-com-job-us-ma-all-cities-sr-data-engineer-20-legitscript-hiring-now-job-immediately",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "h69CGzgflQdWtmsHAAAAAA==",
     "job_title": "Advanced Cloud Data Engineer",
     "employer_name": "VirtualVocations",
@@ -1264,6 +1186,84 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "yJN3Vkow8jzMypyxAAAAAA==",
+    "job_title": "Sr Data Engineer 20",
+    "employer_name": "LegitScript",
+    "employer_logo": null,
+    "employer_website": "https://www.legitscript.com",
+    "job_publisher": "Jobilize",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.jobilize.com/job/us-ma-all-cities-sr-data-engineer-20-legitscript-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-ma-all-cities-sr-data-engineer-20-legitscript-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "At LegitScript, we are passionate about making the internet and payment ecosystems safer and more transparent.\nWe help companies of all sizes keep their services legal and safe for consumers.\nTo do this, LegitScript combines big data with the world's leading team of experts skilled in highly regulated and complex sectors, including transaction laundering detection, pharmaceuticals, online gambling, and more.\n\nThe result? Unmatched accuracy and deep risk analysis that identifies which commercial entities play by the rules, and which do not.\nOur diverse industry partnerships provide unique insights that keep businesses and governments at the forefront of emerging trends.\nThat's why LegitScript is trusted by the world's largest search engines, internet platforms, payment companies, and regulatory agencies.\n\nOverview:\n\nWe're an innovative technology incubator seeking an experienced and forward-thinking Sr Data Engineer specializing in Generative AI to join our team.\nIn this role, you'll spearhead the development and implementation of cutting-edge AI solutions, with a primary focus on creating a sophisticated risk detection algorithm using large language models, Generative AI techniques, and traditional machine learning methods within our SaaS environment.\n\nWhat You'll Do:\n• Design, build, and maintain scalable data pipelines to ingest data from disparate sources into our data warehouse/lake.\n• Research and develop high-performance machine learning models to solve complex business problems.\n• Wrap models into production-ready APIs and integrate them into our core product.\n• Implement automated workflows for data validation, model training, and continuous deployment (CI/CD for ML).\n• Monitor pipeline latency and model drift, ensuring that the system remains performant and accurate as data evolves.\n\nWhat You'll Bring:\n• 5-8+ years in a Data Engineering or Data Science role, with a proven track record of shipping models to production.\n• Advanced proficiency in Structured Query Language for complex data transformation and analysis.\n• Hands-on experience with cloud-based data platforms such as Databricks or Snowflake.\n• Experience with ETL and ELT tools or frameworks such as Lakeflow Declarative Pipelines, Databricks Autoloader, Informatica, Talend, or dbt.\n• Strong proficiency in Python, Spark/PySpark, and DABs/Terraform for data processing and pipeline development.\n• Strong understanding of data modeling, database design principles, and building curated datasets for analytics and operational use cases.\n• Experience with DevOps practices including IAC, CI/CD, Git-based development, branching strategies, and code reviews.\n• Proven history implementing continuous integration and continuous deployment for data pipelines and managing deployments across environments.\n• Familiarity with orchestration and workflow tools such as Databricks Workflows or Airflow is preferred.\n• Previous experience working with containerization technologies such as Docker\n• Proficiency with ML experiment tracking tools like MLFlow or Weights & Biases\n• Design ML models that do the heavy lifting-prioritizing tasks and automating risk assessment to make our operations smarter.\n• Ensure every prediction is explainable, turning \"black box\" code into actionable \"reason codes\" for our end users.\n• Partner directly with the teams using your tools to refine features and improve model relevance based on their feedback.\n• Own the success of your models by measuring their real-world efficacy, focusing on business ROI.\n\nIn addition to competitive salaries, full-time employees enjoy a great benefits package:\n• Multiple Medical, Dental & Vision plans\n• 401k with company match and immediate vesting\n• Generous paid time off package and 11 paid holidays\n• And much more!\n\nIf you got to this point, we hope you're feeling excited about the job description you just read.\nEven if you don't feel that you meet every single requirement, we still encourage you to apply.\nWe're eager to meet people that believe in LegitScript's mission and can contribute to our team in a variety of ways.\n\nThis job description is not designed to cover or contain a comprehensive listing of all activities, duties or responsibilities that are required of the employee.\nDuties, responsibilities and activities may change or new ones may be assigned at any time with or without notice.\n\nPlease note that visa sponsorship is not available for this position.\nWe cannot support international remote work.\n\nWe do not accept unsolicited applications from third-party recruiters or agencies for this job posting.\nAny candidate submission without a prior agreement will be considered the property of our company, and we will not be responsible for any fees or obligations related to such submissions.\nWe encourage interested candidates to apply directly through our official channels.",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Massachusetts",
+    "job_city": null,
+    "job_state": "Massachusetts",
+    "job_country": "US",
+    "job_latitude": 42.4072107,
+    "job_longitude": -71.3824374,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DyJN3Vkow8jzMypyxAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "5-8+ years in a Data Engineering or Data Science role, with a proven track record of shipping models to production",
+        "Advanced proficiency in Structured Query Language for complex data transformation and analysis",
+        "Hands-on experience with cloud-based data platforms such as Databricks or Snowflake",
+        "Experience with ETL and ELT tools or frameworks such as Lakeflow Declarative Pipelines, Databricks Autoloader, Informatica, Talend, or dbt",
+        "Strong proficiency in Python, Spark/PySpark, and DABs/Terraform for data processing and pipeline development",
+        "Strong understanding of data modeling, database design principles, and building curated datasets for analytics and operational use cases",
+        "Experience with DevOps practices including IAC, CI/CD, Git-based development, branching strategies, and code reviews",
+        "Proven history implementing continuous integration and continuous deployment for data pipelines and managing deployments across environments",
+        "Previous experience working with containerization technologies such as Docker",
+        "Proficiency with ML experiment tracking tools like MLFlow or Weights & Biases"
+      ],
+      "Benefits": [
+        "In addition to competitive salaries, full-time employees enjoy a great benefits package:",
+        "Multiple Medical, Dental & Vision plans",
+        "401k with company match and immediate vesting",
+        "Generous paid time off package and 11 paid holidays",
+        "And much more!"
+      ],
+      "Responsibilities": [
+        "Design, build, and maintain scalable data pipelines to ingest data from disparate sources into our data warehouse/lake",
+        "Research and develop high-performance machine learning models to solve complex business problems",
+        "Wrap models into production-ready APIs and integrate them into our core product",
+        "Implement automated workflows for data validation, model training, and continuous deployment (CI/CD for ML)",
+        "Monitor pipeline latency and model drift, ensuring that the system remains performant and accurate as data evolves",
+        "Design ML models that do the heavy lifting-prioritizing tasks and automating risk assessment to make our operations smarter",
+        "Ensure every prediction is explainable, turning \"black box\" code into actionable \"reason codes\" for our end users",
+        "Partner directly with the teams using your tools to refine features and improve model relevance based on their feedback",
+        "Own the success of your models by measuring their real-world efficacy, focusing on business ROI"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-jobilize-com-job-us-ma-all-cities-sr-data-engineer-20-legitscript-hiring-now-job-immediately",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "UBaAiKRJzBskW0c3AAAAAA==",
     "job_title": "Distinguished Data Engineer- Card",
     "employer_name": "Capital One",
@@ -1315,289 +1315,191 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "Zl_lLJqOx3OHfJdpAAAAAA==",
-    "job_title": "Tech Lead/Data Engineer III",
-    "employer_name": "Medica",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_FelXxkN3248jJhI07DlC_ZOvbFg5RbXHeQzt&s=0",
-    "employer_website": "https://www.medica.com",
-    "job_publisher": "LinkedIn",
+    "job_id": "B94kz2kLrz_jTu22AAAAAA==",
+    "job_title": "Manager, HR Data Engineer",
+    "employer_name": "Metropolitan Transportation Authority",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2luycnmBz43jpzLUO-YuE-x2KemrXhe2VUsU&s=0",
+    "employer_website": null,
+    "job_publisher": "Glassdoor",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/tech-lead-data-engineer-iii-at-medica-4368808744?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.glassdoor.com/job-listing/manager-hr-data-engineer-metropolitan-transportation-authority-JV_KO0,24_KE25,62.htm?jl=1009935451706&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/tech-lead-data-engineer-iii-at-medica-4368808744?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/manager-hr-data-engineer-metropolitan-transportation-authority-JV_KO0,24_KE25,62.htm?jl=1009935451706&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Lensa",
-        "apply_link": "https://lensa.com/job-v1/medica/hopkins-mn/lead-data-engineer/788bbbb1a1cac318a6dc43a1b175d33c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Talents By Vaia",
+        "apply_link": "https://talents.vaia.com/companies/unavailable/manager-data-engineer-41508266/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Adzuna",
-        "apply_link": "https://www.adzuna.com/details/5613772574?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/hopkins/minnesota/info_technology/4860550653/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobrapido",
-        "apply_link": "https://us.jobrapido.com/jobpreview/6594542515557236736?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-mn-hopkins-tech-lead-data-engineer-iii-medica-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Winzons.com",
+        "apply_link": "https://usa.winzons.com/job/manager-data-operations-data-engineer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Medica is seeking an experienced Tech Lead/Data Engineer III. This role is ideal for an innovative and strategic thinker with a depth of experience in enterprise data and broader cloud-based data engineering initiatives. This individual is someone who thrives in a mission-driven, healthcare-focused organization and is passionate about ensuring efficiency, scalability, financial integrity and compliance.\n\nKey Responsibilities:\n\nWe're a team that owns our work with accountability, makes data-driven decisions, embraces continuous learning, and celebrates collaboration — because success is a team sport. It's our mission to be there in the moments that matter most for our members and employees. Join us in creating a community of connected care, where coordinated, quality service is the norm and every member feels valued.\n\nDesign, build, implement, and maintain data storage structures and processing pipelines for the extraction, transformation, and loading (ETL) of data from a variety of sources. Develop robust and scalable solutions that transform data into a useful format for analysis, enhance data flow, and enable efficient, cost-effective consumption and analysis of data. Write complex SQL queries to support analytics needs. Evaluate and recommend tools and technologies for data infrastructure and processing, including modern cloud platforms such as Snowflake, Azure, AWS, and data integration tools like Apache Airflow, dbt, Informatica Intelligent Data Management Cloud (IDMC), and distributed processing frameworks such as Apache Spark.\n\nKey Accountabilities:\n• Designing and implementing scalable data pipelines and storage solutions to support enterprise analytics.\n• Ensuring data quality, integrity, and security across all stages of the data lifecycle.\n• Collaborating with stakeholders to define data requirements and translate them into technical specifications.\n• Monitoring and optimizing performance of data systems and ETL processes.\n• Supporting the deployment and maintenance of data infrastructure in cloud environments.\n• Developing and maintaining complex SQL scripts and stored procedures for data transformation and reporting.\n• Leveraging Informatica IDMC for cloud-native data integration, data quality, and governance workflows.\n\nIn addition to engineering responsibilities, the Data Generalist component of this role includes:\n• Performing exploratory data analysis and generating actionable insights.\n• Creating dashboards and visualizations using tools like Power BI, Tableau, or Excel.\n• Collaborating with cross-functional teams to align data efforts with business goals.\n• Automating data workflows using scripting languages such as Python or R.\n• Supporting business intelligence initiatives and translating data into strategic recommendations.\n• Documenting data processes and contributing to data governance standards.\n• Applying AI and machine learning techniques to enhance predictive analytics, automate decision-making, and uncover deeper insights from complex datasets.\n• Utilizing preferred AI tools and platforms such as TensorFlow, Azure Machine Learning, scikit-learn, and PyTorch to build and deploy models that support enterprise analytics and innovation.\n\nQualifications:\n• Bachelor's degree or equivalent experience in related field\n• 5 years of related work experience beyond the degree\n• Proficient use of SQL\n\nSkills And Abilities\n• Microsoft Certified: (or equivalent cloud) Azure Data Engineer\n• Microsoft Certified: Azure Fundamentals\n• Snowflake SnowPro Core Certification\n• Snowflake Advanced Architect Certification\n• Healthcare industry experience is desired\n\nThis position is an Office role, which requires an employee to work onsite at our Minnetonka, MN office, on average, 3 days per week.\n\nThe full salary grade for this position is $100,300 - $172,000. While the full salary grade is provided, the typical hiring salary range for this role is expected to be between $100,300 - $150,465. Annual salary range placement will depend on a variety of factors including, but not limited to, education, work experience, applicable certifications and/or licensure, the position's scope and responsibility, internal pay equity and external market salary data. In addition to base compensation, this position may be eligible for incentive plan compensation in addition to base salary. Medica offers a generous total rewards package that includes competitive medical, dental, vision, PTO, Holidays, paid volunteer time off, 401K contributions, caregiver services and many other benefits to support our employees.\n\nThe compensation and benefits information is provided as of the date of this posting. Medica’s compensation and benefits are subject to change at any time, with or without notice, subject to applicable law.\n\nEligibility to work in the US: Medica does not offer work visa sponsorship for this role. All candidates must be legally authorized to work in the United States at the time of application. Employment is contingent on verification of identity and eligibility to work in the United States.\n\nWe are an Equal Opportunity employer, where all qualified candidates receive consideration for employment indiscriminate of race, religion, ethnicity, national origin, citizenship, gender, gender identity, sexual orientation, age, veteran status, disability, genetic information, or any other protected characteristic.",
+    "job_description": "Description\n\nJOB TITLE:\n\nManager, HR Data Engineer\n\nDEPT/DIV:\n\nPeople Department\n\nWORK LOCATION:\n\n2 Broadway\n\nFULL/PART-TIME\n\nFULL\n\nSALARY RANGE:\n\n$110,000 - $123,000\n\nDEADLINE:\n\nUntil filled\n\nThis position is eligible for teleworking, which is currently one day per week. New hires are eligible to apply 30 days after their effective hire date.\n\nOpening:\n\nThe Metropolitan Transportation Authority is North America's largest transportation network, serving a population of 15.3 million people across a 5,000-square-mile travel area surrounding New York City, Long Island, southeastern New York State, and Connecticut. The MTA network comprises the nation’s largest bus fleet and more subway and commuter rail cars than all other U.S. transit systems combined. MTA strives to provide a safe and reliable commute, excellent customer service, and rewarding opportunities.\n\nPosition Objective:\n\nThis position will report to the Director of HR Data Science and support the day-to-day data pipeline initiatives to design, build, and maintain ease for data structures to facilitate reporting and monitor key performance indicators. The incumbent will collaborate across Human Capital Management disciplines to identify internal/external data sources to design table structure, define ETL strategy, automate quality assurance checks, and implement scalable ETL solutions.\n\nResponsibilities:\n• Ensure that all assignments are completed with the highest quality and within agreed-upon Service Level agreement guidelines and Key Performance Indicator (KPI) targets.\n• Create and conduct a project/architecture design review.\n• Proficient knowledge of Azure Data Factory, Databricks, & Azure Delta Lake.\n• Experience programming languages (e.g., Python, R).\n• Working experience in data extraction using API.\n• Develop HR data pipelines and reports with advanced SQL programming language and maintain Data Warehousing/Data Lakes/Data Hubs and Analytical reporting Environment.\n• Work with IT teams to collect required data from internal and external systems and troubleshoot HR system issues.\n• Design and build modern data management solutions and create POC when necessary to test new approaches.\n• Create runbooks and actionable alerts as part of the development process.\n• Perform SQL and ETL tuning as necessary.\n• Perform ad hoc analysis as necessary.\n• Identify and implement continuous improvement initiatives as assigned.\n• Other duties as assigned.\n\nQualifications:\n\nKnowledge/Skills/Abilities:\n• Strong understanding of data modeling principles, including Dimensional modeling, data normalization principles, etc.\n• Proficient understanding of SQL Engines and able to develop advanced queries and analytics\n• Familiarity with data exploration/data visualization tools like MS Power BI, PeopleSoft HCM, JobVite,\n• JDXpert, Jetdocs, or Oracle Analytics CloudAbility to think strategically, analyze, and interpret Human Capital Management and Financial data.\n• Strong communication skills – written and verbal presentations.\n• Excellent conceptual and analytical reasoning competencies.\n• Comfortable working in a fast-paced and highly collaborative environment.\n• Process-oriented with excellent documentation skills, including strong Excel & PowerPoint skills, Visio flows, and mock-up creation.\n\nRequired Education and Experience:\n• Bachelor's degree in Computer Science, Information Management, Statistics, or Finance or related field. An equivalent combination of education and experience may be considered in lieu of a degree.\n• A minimum of four (4) years of relevant professional experience leading, implementing, and reporting on business key performance indicators in a data warehousing/lake/hub environment.\n• Minimum of four (4) years of experience using SQL for analytics, working with traditional relational databases and/or distributed systems such as PeopleSoft Enterprise Performance Management (EPM), Hadoop / Hive, BigQuery, Redshift, or Oracle Databases.\n\nPreferred:\n• Master's Degree in Computer Science, Information Management, or Statistics\n• Experience programming languages (e.g., Python, R) preferred.\n• Minimum of four (4) years of management experience\n• Minimum of one (1) year of experience with workflow management tools (Airflow, Oozie, Azkaban, UC4)\n• Understanding of Finance Data and Human Resource Data practices and procedures.\n• Proficient Knowledge of Data Repositories/warehouses/Lakes/Hubs.\n\nOther Information\n\nMay need to work outside of normal work hours (i.e., evenings and weekends)\n\nTravel may be required to other MTA locations or other external sites.\n\nAccording to the New York State Public Officers Law & the MTA Code of Ethics, all employees who hold a policymaking position must file an Annual Statement of Financial Disclosure (FDS) with the NYS Commission on Ethics and Lobbying in Government (the “Commission”).\n\nEmployees driving company vehicles must complete defensive driver training once every three years for current MNR drivers, or within 180 days of hire or transfer for an employee entering an authorized driving position.\n\nEqual Employment Opportunity\n\nMTA and its subsidiary and affiliated agencies are Equal Opportunity Employers, including those concerning veteran status and individuals with disabilities.\n\nThe MTA encourages qualified applicants from diverse backgrounds, experiences, and abilities, including military service members, to apply.",
     "job_is_remote": false,
-    "job_posted_at": "11 days ago",
-    "job_posted_at_timestamp": 1770076800,
-    "job_posted_at_datetime_utc": "2026-02-03T00:00:00.000Z",
-    "job_location": "Hopkins, MN",
-    "job_city": "Hopkins",
-    "job_state": "Minnesota",
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "United States",
+    "job_city": null,
+    "job_state": null,
     "job_country": "US",
-    "job_latitude": 44.9244005,
-    "job_longitude": -93.41143989999999,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DZl_lLJqOx3OHfJdpAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 100000,
-    "job_max_salary": 172000,
+    "job_latitude": 38.794595199999996,
+    "job_longitude": -106.5348379,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DB94kz2kLrz_jTu22AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 110000,
+    "job_max_salary": 123000,
     "job_salary_period": "YEAR",
     "job_highlights": {
       "Qualifications": [
-        "This role is ideal for an innovative and strategic thinker with a depth of experience in enterprise data and broader cloud-based data engineering initiatives",
-        "This individual is someone who thrives in a mission-driven, healthcare-focused organization and is passionate about ensuring efficiency, scalability, financial integrity and compliance",
-        "Bachelor's degree or equivalent experience in related field",
-        "5 years of related work experience beyond the degree",
-        "Proficient use of SQL",
-        "Microsoft Certified: (or equivalent cloud) Azure Data Engineer",
-        "Microsoft Certified: Azure Fundamentals",
-        "Snowflake SnowPro Core Certification",
-        "Snowflake Advanced Architect Certification",
-        "All candidates must be legally authorized to work in the United States at the time of application"
+        "Experience programming languages (e.g., Python, R)",
+        "Working experience in data extraction using API",
+        "Strong understanding of data modeling principles, including Dimensional modeling, data normalization principles, etc",
+        "Proficient understanding of SQL Engines and able to develop advanced queries and analytics",
+        "Familiarity with data exploration/data visualization tools like MS Power BI, PeopleSoft HCM, JobVite,",
+        "JDXpert, Jetdocs, or Oracle Analytics CloudAbility to think strategically, analyze, and interpret Human Capital Management and Financial data",
+        "Strong communication skills – written and verbal presentations",
+        "Excellent conceptual and analytical reasoning competencies",
+        "Comfortable working in a fast-paced and highly collaborative environment",
+        "Process-oriented with excellent documentation skills, including strong Excel & PowerPoint skills, Visio flows, and mock-up creation",
+        "Bachelor's degree in Computer Science, Information Management, Statistics, or Finance or related field",
+        "An equivalent combination of education and experience may be considered in lieu of a degree",
+        "A minimum of four (4) years of relevant professional experience leading, implementing, and reporting on business key performance indicators in a data warehousing/lake/hub environment",
+        "Minimum of four (4) years of experience using SQL for analytics, working with traditional relational databases and/or distributed systems such as PeopleSoft Enterprise Performance Management (EPM), Hadoop / Hive, BigQuery, Redshift, or Oracle Databases",
+        "May need to work outside of normal work hours (i.e., evenings and weekends)",
+        "Employees driving company vehicles must complete defensive driver training once every three years for current MNR drivers, or within 180 days of hire or transfer for an employee entering an authorized driving position"
       ],
       "Benefits": [
-        "The full salary grade for this position is $100,300 - $172,000",
-        "While the full salary grade is provided, the typical hiring salary range for this role is expected to be between $100,300 - $150,465",
-        "Annual salary range placement will depend on a variety of factors including, but not limited to, education, work experience, applicable certifications and/or licensure, the position's scope and responsibility, internal pay equity and external market salary data. In addition to base compensation, this position may be eligible for incentive plan compensation in addition to base salary",
-        "Medica offers a generous total rewards package that includes competitive medical, dental, vision, PTO, Holidays, paid volunteer time off, 401K contributions, caregiver services and many other benefits to support our employees",
-        "The compensation and benefits information is provided as of the date of this posting",
-        "Medica’s compensation and benefits are subject to change at any time, with or without notice, subject to applicable law"
+        "$110,000 - $123,000"
       ],
       "Responsibilities": [
-        "Design, build, implement, and maintain data storage structures and processing pipelines for the extraction, transformation, and loading (ETL) of data from a variety of sources",
-        "Develop robust and scalable solutions that transform data into a useful format for analysis, enhance data flow, and enable efficient, cost-effective consumption and analysis of data",
-        "Write complex SQL queries to support analytics needs",
-        "Evaluate and recommend tools and technologies for data infrastructure and processing, including modern cloud platforms such as Snowflake, Azure, AWS, and data integration tools like Apache Airflow, dbt, Informatica Intelligent Data Management Cloud (IDMC), and distributed processing frameworks such as Apache Spark",
-        "Designing and implementing scalable data pipelines and storage solutions to support enterprise analytics",
-        "Ensuring data quality, integrity, and security across all stages of the data lifecycle",
-        "Collaborating with stakeholders to define data requirements and translate them into technical specifications",
-        "Monitoring and optimizing performance of data systems and ETL processes",
-        "Supporting the deployment and maintenance of data infrastructure in cloud environments",
-        "Developing and maintaining complex SQL scripts and stored procedures for data transformation and reporting",
-        "Leveraging Informatica IDMC for cloud-native data integration, data quality, and governance workflows",
-        "In addition to engineering responsibilities, the Data Generalist component of this role includes:",
-        "Performing exploratory data analysis and generating actionable insights",
-        "Creating dashboards and visualizations using tools like Power BI, Tableau, or Excel",
-        "Collaborating with cross-functional teams to align data efforts with business goals",
-        "Automating data workflows using scripting languages such as Python or R",
-        "Supporting business intelligence initiatives and translating data into strategic recommendations",
-        "Documenting data processes and contributing to data governance standards",
-        "Applying AI and machine learning techniques to enhance predictive analytics, automate decision-making, and uncover deeper insights from complex datasets",
-        "Utilizing preferred AI tools and platforms such as TensorFlow, Azure Machine Learning, scikit-learn, and PyTorch to build and deploy models that support enterprise analytics and innovation"
+        "This position will report to the Director of HR Data Science and support the day-to-day data pipeline initiatives to design, build, and maintain ease for data structures to facilitate reporting and monitor key performance indicators",
+        "The incumbent will collaborate across Human Capital Management disciplines to identify internal/external data sources to design table structure, define ETL strategy, automate quality assurance checks, and implement scalable ETL solutions",
+        "Ensure that all assignments are completed with the highest quality and within agreed-upon Service Level agreement guidelines and Key Performance Indicator (KPI) targets",
+        "Create and conduct a project/architecture design review",
+        "Proficient knowledge of Azure Data Factory, Databricks, & Azure Delta Lake",
+        "Develop HR data pipelines and reports with advanced SQL programming language and maintain Data Warehousing/Data Lakes/Data Hubs and Analytical reporting Environment",
+        "Work with IT teams to collect required data from internal and external systems and troubleshoot HR system issues",
+        "Design and build modern data management solutions and create POC when necessary to test new approaches",
+        "Create runbooks and actionable alerts as part of the development process",
+        "Perform SQL and ETL tuning as necessary",
+        "Perform ad hoc analysis as necessary",
+        "Identify and implement continuous improvement initiatives as assigned",
+        "Other duties as assigned",
+        "Travel may be required to other MTA locations or other external sites"
       ]
     },
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
-    "id": "www-linkedin-com-jobs-view-tech-lead-data-engineer-iii-at-medica-4368808744",
+    "id": "www-glassdoor-com-job-listing-manager-hr-data-engineer-metropolitan-transportation-authority-jv_ko0-24_ke25-62-htm",
     "_source": "new_jobs"
   },
   {
-    "job_id": "q4w1sbGeUlXZqnSwAAAAAA==",
-    "job_title": "(USA) Senior, Data Engineer",
-    "employer_name": "Walmart",
-    "employer_logo": null,
-    "employer_website": "https://corporate.walmart.com",
-    "job_publisher": "Talentify",
+    "job_id": "PTbVL1NdzjmC9oIFAAAAAA==",
+    "job_title": "Montana Data Engineer",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.talentify.io/job/usa-senior-data-engineer-rangeley-maine-us-walmart-r-2399845?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.talent.com/view?id=04071c0f5231&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Talentify",
-        "apply_link": "https://www.talentify.io/job/usa-senior-data-engineer-rangeley-maine-us-walmart-r-2399845?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=04071c0f5231&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Position Summary...\n\nWhat you'll do... Role summary:\n\nAs a Senior Data Engineer at Walmart, you will build and optimize scalable data pipelines and models that power critical business insights. You’ll leverage cloud technologies, automation, and modern data engineering practices to transform complex datasets into reliable, high‑quality assets. Partnering closely with cross‑functional teams, you’ll translate business needs into robust technical solutions that improve data accessibility, performance, and governance. This role requires strong technical expertise, a passion for solving complex data challenges, and the ability to drive innovation within a fast‑moving enterprise environment.\nAbout the team:\n\nWe’re a small but high‑impact Data Engineering team building the data foundations that power measurement and feature innovation for our advertising products. Operating at the intersection of engineering, analytics, and product strategy, we deliver scalable pipelines and accurate performance insights that drive data‑informed decisions. Our agility and end‑to‑end ownership set us apart—we move quickly, collaborate closely across functions, and build systems that directly influence how advertisers measure success and how new ad features evolve. If you want to build reliable, scalable data systems with visible impact, this is the team for you.\nWhat you'll do:\n• Design and build scalable data pipelines and models using Databricks, PySpark, and SQL.\n• Integrate and transform data from multiple sources with strong quality, observability, and governance.\n• Orchestrate and automate workflows using Airflow and CI/CD pipelines in GitHub Actions.\n• Develop and maintain infrastructure using Terraform and support DevOps tasks such as deployments, monitoring, and environment management.\n• Optimize pipelines for reliability, performance, and cost across cloud environments.\n• Collaborate with Product, Data Science, and Engineering teams to deliver reliable, scalable, and efficient data solutions.\n\nWhat you'll bring:\n• Extensive experience in data engineering, including scalable pipeline development, data integration, and modeling.\n• Strong proficiency in SQL, Python, PySpark, Databricks, and workflow orchestration with Airflow.\n• Solid understanding of cloud platforms, especially Google Cloud Platform.\n• Hands‑on experience with CI/CD using GitHub Actions and infrastructure automation with Terraform.\n• Strong grounding in data governance, data quality, and compliance best practices.\n• Ability to design resilient data architectures across warehouses, lakes, and streaming systems.\n• Proven skill in translating complex business needs into effective data solutions.\n• Familiarity with machine learning concepts and how they integrate with data engineering workflows.\n• A passion for finding ways to integrate AI and LLMs into daily engineering\nactivities and products, while not compromising simplicity and code\nmaintainability.\n\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\nFor information about benefits and eligibility, see One.Walmart.\nDallas, Texas US-11571: The annual salary range for this position is $90,000.00 - $180,000.00\nDenver, Colorado US-11581: The annual salary range for this position is $99,000.00 - $198,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor’s degree in Computer Science and 3 years' experience in software engineering or related field. Option 2: 5 years’ experience in\nsoftware engineering or related field. Option 3: Master's degree in Computer Science and 1 year’s experience in software engineering or related\nfield.\n2 years' experience in data engineering, database engineering, business intelligence, or business analytics.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nData engineering, database engineering, business intelligence, or business analytics, ETL tools and working with large data sets in the cloud, Master’s degree in Computer Science or related field and 3 years' experience in software engineering, We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n14901 Quorum Dr, Dallas, TX 75254-7521, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
+    "job_description": "A company is looking for a Data Engineer to design, build, and maintain data infrastructure for a public health organization.\n\nKey Responsibilities\n\nCreate and manage data systems and pipelines for efficient data flow\n\nCollect, transform, and clean data from various sources for accuracy and consistency\n\nCollaborate with cross-functional teams to design scalable data solutions that meet organizational needs\n\nRequired Qualifications\n\nBachelor's degree in Computer Science, Information Technology, Data Science, or a related field\n\nMinimum 5 years of relevant professional experience\n\nProficiency in programming languages used in data engineering, such as Python, Java, Scala, SAS, or SQL\n\nExperience with big data technologies and frameworks like Hadoop, Spark, Kafka, and Flink\n\nStrong understanding of database systems, including relational and NoSQL databases",
     "job_is_remote": false,
-    "job_posted_at": "11 days ago",
-    "job_posted_at_timestamp": 1770076800,
-    "job_posted_at_datetime_utc": "2026-02-03T00:00:00.000Z",
-    "job_location": "Rangeley, ME",
-    "job_city": "Rangeley",
-    "job_state": "Maine",
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Portsmouth, VA",
+    "job_city": "Portsmouth",
+    "job_state": "Virginia",
     "job_country": "US",
-    "job_latitude": 44.965682099999995,
-    "job_longitude": -70.6427102,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dq4w1sbGeUlXZqnSwAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "This role requires strong technical expertise, a passion for solving complex data challenges, and the ability to drive innovation within a fast‑moving enterprise environment",
-        "Extensive experience in data engineering, including scalable pipeline development, data integration, and modeling",
-        "Strong proficiency in SQL, Python, PySpark, Databricks, and workflow orchestration with Airflow",
-        "Solid understanding of cloud platforms, especially Google Cloud Platform",
-        "Hands‑on experience with CI/CD using GitHub Actions and infrastructure automation with Terraform",
-        "Strong grounding in data governance, data quality, and compliance best practices",
-        "Ability to design resilient data architectures across warehouses, lakes, and streaming systems",
-        "Proven skill in translating complex business needs into effective data solutions",
-        "Familiarity with machine learning concepts and how they integrate with data engineering workflows",
-        "A passion for finding ways to integrate AI and LLMs into daily engineering",
-        "activities and products, while not compromising simplicity and code",
-        "Option 1: Bachelor’s degree in Computer Science and 3 years' experience in software engineering or related field",
-        "Option 2: 5 years’ experience in",
-        "software engineering or related field",
-        "Option 3: Master's degree in Computer Science and 1 year’s experience in software engineering or related",
-        "2 years' experience in data engineering, database engineering, business intelligence, or business analytics",
-        "Data engineering, database engineering, business intelligence, or business analytics, ETL tools and working with large data sets in the cloud, Master’s degree in Computer Science or related field and 3 years' experience in software engineering, We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
-        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
-      ],
-      "Benefits": [
-        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
-        "Health benefits include medical, vision and dental coverage",
-        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
-        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
-        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
-        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
-        "The amount you receive depends on your job classification and length of employment",
-        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
-        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
-        "Tuition, books, and fees are completely paid for by Walmart",
-        "Eligibility requirements apply to some benefits and may depend on your job classification and length of employment",
-        "Benefits are subject to change and may be subject to a specific plan or program terms",
-        "Dallas, Texas US-11571: The annual salary range for this position is $90,000.00 - $180,000.00",
-        "Denver, Colorado US-11581: The annual salary range for this position is $99,000.00 - $198,000.00 Additional compensation includes annual or quarterly performance bonuses"
-      ],
-      "Responsibilities": [
-        "As a Senior Data Engineer at Walmart, you will build and optimize scalable data pipelines and models that power critical business insights",
-        "You’ll leverage cloud technologies, automation, and modern data engineering practices to transform complex datasets into reliable, high‑quality assets",
-        "Partnering closely with cross‑functional teams, you’ll translate business needs into robust technical solutions that improve data accessibility, performance, and governance",
-        "Design and build scalable data pipelines and models using Databricks, PySpark, and SQL",
-        "Integrate and transform data from multiple sources with strong quality, observability, and governance",
-        "Orchestrate and automate workflows using Airflow and CI/CD pipelines in GitHub Actions",
-        "Develop and maintain infrastructure using Terraform and support DevOps tasks such as deployments, monitoring, and environment management",
-        "Optimize pipelines for reliability, performance, and cost across cloud environments",
-        "Collaborate with Product, Data Science, and Engineering teams to deliver reliable, scalable, and efficient data solutions"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-talentify-io-job-usa-senior-data-engineer-rangeley-maine-us-walmart-r-2399845",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "Oh9syzGwM8nradswAAAAAA==",
-    "job_title": "Lead Data Engineer",
-    "employer_name": "The Walt Disney Company (Corporate)",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdX9TX6JOKS6Ige-voB65FoPaFV54bDCcnlw2&s=0",
-    "employer_website": null,
-    "job_publisher": "Women For Hire- Job Board",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobs.womenforhire.com/job/usa/clermont-fl/lead-data-engineer-213217/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Women For Hire- Job Board",
-        "apply_link": "https://jobs.womenforhire.com/job/usa/clermont-fl/lead-data-engineer-213217/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "The Disney Decision Science + Integration (DDSI) is a consulting team that supports clients across The Walt Disney Company, including Disney Experiences (Parks & Resorts worldwide, Cruise Line, Consumer Products, etc.), Disney Entertainment (ABC, The Walt Disney Studios, Disney Theatrical, Disney Streaming Services, etc.), ESPN, and Corporate Finance. Key partners to the DDSI organization include Marketing, Finance, Business Development, Research, and Operations. We develop, analyze, and execute strategies and improve the value proposition for our Guests, Cast Members, and Shareholders. The team leverages technology, data analytics, optimization, statistical and econometric modeling to explore opportunities, shape business decisions and drive business value.\n\nWhat You Will Do\n\nYou will be responsible for planning and leading research and development related to advanced analytic data solutions, leveraging GenAI. You will work with business and technology leaders to understand scope and requirements, business needs, and data from across the Disney company in order to design and deliver the data pipelines necessary for our solutions. You will partner with the Decision Science Products, Decision Science, and client teams on critical projects. Other activities include planning, estimating, design, development, testing, production rollout and sustainment activities. You will also need to consult and collaborate with project team members, lead design reviews, do hands-on development, and communicate with colleagues and leaders.\n\nRequired Qualifications & Skills\n• 7+ years overall experience in a data engineering development capacity using a multiple environments (Dev, QA, Prod, etc.) and DevOps procedures for code deployment/promotion\n• Experience with a variety of GenAI models, tools, and concepts\n• 3+ years using, designing and building relational databases (preferably Snowflake or PostgreSQL)\n• 3+ years of experience leading and deploying code using a source control product such as GitLab/GitHub\n• 2+ years of experience with job scheduling software like Apache Airflow, Amazon MWAA, GitLab Runners or UC4\n• Multiple years of experience with ELT/ETL data pipeline development and maintenance\n• Multiple years of shown experience and expertise using SQL and Python\n• Experience using containerization technologies such as Docker or Kubernetes\n• Knowledgeable on cloud architecture and product offerings, preferably AWS\n• Understanding of Knowledge Graphs, Data Mesh, and other data sharing platforms\n• Experience translating project scope and high-level requirements into technical data engineering tasks\n• Experience defining solutions to sophisticated data engineering problems in support of advanced analytic processes\n• Experience collaborating with multiple project teams in a fast-paced environment\n• Experience with defining and estimating level-of-effort data engineering activities\n• Experience with project and sprint planning\n• Ability to communicate technical concepts and solutions to non-technical team members\n• Experience designing and building data structures to support requirements\n• Preferred Qualifications\n• Experience leading development of GenAI based systems including model selection, pipeline orchestration and deployment strategies\n• Experience defining GenAI architectures\n• Knowledgeable with Disney Parks attendance, reservations and/or products\n• Experience with cloud based technologies, preferably AWS EMR, EC2, and S3\n• Experience with advanced Snowflake offerings such as Snowpark, Data Exchange, Data Marketplace and Snowpipe\n\nEducation\n• Bachelor’s degree in computer science, Information Systems, Software, Electrical or Electronics Engineering, or comparable field of study and/or equivalent work experience\n• Master’s degree preferred in computer science, Information Systems, Software, Electrical or Electronics Engineering, or comparable field of study and/or equivalent work experience\n\n#DisneyTech\n\n#DisneyAnalytics\n\nwww.disneydatajobs.com",
-    "job_is_remote": false,
-    "job_posted_at": "11 days ago",
-    "job_posted_at_timestamp": 1770076800,
-    "job_posted_at_datetime_utc": "2026-02-03T00:00:00.000Z",
-    "job_location": "Clermont, FL",
-    "job_city": "Clermont",
-    "job_state": "Florida",
-    "job_country": "US",
-    "job_latitude": 28.5549188,
-    "job_longitude": -81.76620799999999,
+    "job_latitude": 36.835425799999996,
+    "job_longitude": -76.2982742,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DOh9syzGwM8nradswAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DPTbVL1NdzjmC9oIFAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "7+ years overall experience in a data engineering development capacity using a multiple environments (Dev, QA, Prod, etc.) and DevOps procedures for code deployment/promotion",
-        "Experience with a variety of GenAI models, tools, and concepts",
-        "3+ years using, designing and building relational databases (preferably Snowflake or PostgreSQL)",
-        "3+ years of experience leading and deploying code using a source control product such as GitLab/GitHub",
-        "2+ years of experience with job scheduling software like Apache Airflow, Amazon MWAA, GitLab Runners or UC4",
-        "Multiple years of experience with ELT/ETL data pipeline development and maintenance",
-        "Multiple years of shown experience and expertise using SQL and Python",
-        "Experience using containerization technologies such as Docker or Kubernetes",
-        "Knowledgeable on cloud architecture and product offerings, preferably AWS",
-        "Understanding of Knowledge Graphs, Data Mesh, and other data sharing platforms",
-        "Experience translating project scope and high-level requirements into technical data engineering tasks",
-        "Experience defining solutions to sophisticated data engineering problems in support of advanced analytic processes",
-        "Experience collaborating with multiple project teams in a fast-paced environment",
-        "Experience with defining and estimating level-of-effort data engineering activities",
-        "Experience with project and sprint planning",
-        "Ability to communicate technical concepts and solutions to non-technical team members",
-        "Experience designing and building data structures to support requirements",
-        "Experience leading development of GenAI based systems including model selection, pipeline orchestration and deployment strategies",
-        "Experience defining GenAI architectures",
-        "Knowledgeable with Disney Parks attendance, reservations and/or products",
-        "Experience with cloud based technologies, preferably AWS EMR, EC2, and S3",
-        "Experience with advanced Snowflake offerings such as Snowpark, Data Exchange, Data Marketplace and Snowpipe",
-        "Bachelor’s degree in computer science, Information Systems, Software, Electrical or Electronics Engineering, or comparable field of study and/or equivalent work experience"
+        "Bachelor's degree in Computer Science, Information Technology, Data Science, or a related field",
+        "Minimum 5 years of relevant professional experience",
+        "Proficiency in programming languages used in data engineering, such as Python, Java, Scala, SAS, or SQL",
+        "Experience with big data technologies and frameworks like Hadoop, Spark, Kafka, and Flink",
+        "Strong understanding of database systems, including relational and NoSQL databases"
       ],
       "Responsibilities": [
-        "We develop, analyze, and execute strategies and improve the value proposition for our Guests, Cast Members, and Shareholders",
-        "You will be responsible for planning and leading research and development related to advanced analytic data solutions, leveraging GenAI",
-        "You will work with business and technology leaders to understand scope and requirements, business needs, and data from across the Disney company in order to design and deliver the data pipelines necessary for our solutions",
-        "You will partner with the Decision Science Products, Decision Science, and client teams on critical projects",
-        "Other activities include planning, estimating, design, development, testing, production rollout and sustainment activities",
-        "You will also need to consult and collaborate with project team members, lead design reviews, do hands-on development, and communicate with colleagues and leaders"
+        "Create and manage data systems and pipelines for efficient data flow",
+        "Collect, transform, and clean data from various sources for accuracy and consistency",
+        "Collaborate with cross-functional teams to design scalable data solutions that meet organizational needs"
       ]
     },
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
-    "id": "jobs-womenforhire-com-job-usa-clermont-fl-lead-data-engineer-213217",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "ybwkukVOvvN7CZ4IAAAAAA==",
+    "job_title": "Data Engineer Prin",
+    "employer_name": "American Electric Power",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RrFTOdrhzngcyQL-2zVSyVH1kAYBiD2Gj2L_&s=0",
+    "employer_website": null,
+    "job_publisher": "Tallo",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://tallo.com/jobs/technology/data-engineer/oh/franklin/data-engineer-prin-5d6c21303973/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Tallo",
+        "apply_link": "https://tallo.com/jobs/technology/data-engineer/oh/franklin/data-engineer-prin-5d6c21303973/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "This job listing in Franklin - OH has been recently added. Tallo will add a summary here for this job shortly.",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "Franklin, OH",
+    "job_city": "Franklin",
+    "job_state": "Ohio",
+    "job_country": "US",
+    "job_latitude": 39.5589474,
+    "job_longitude": -84.30410739999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DybwkukVOvvN7CZ4IAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": "YEAR",
+    "job_highlights": {},
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "tallo-com-jobs-technology-data-engineer-oh-franklin-data-engineer-prin-5d6c21303973",
     "_source": "new_jobs"
   },
   {
@@ -1647,9 +1549,9 @@
     "job_latitude": 42.0416537,
     "job_longitude": -87.8876429,
     "job_benefits": [
-      "paid_time_off",
+      "dental_coverage",
       "health_insurance",
-      "dental_coverage"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DN_UbHgFrV8mC2FPMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 32.45,
@@ -1716,203 +1618,105 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "ybwkukVOvvN7CZ4IAAAAAA==",
-    "job_title": "Data Engineer Prin",
-    "employer_name": "American Electric Power",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RrFTOdrhzngcyQL-2zVSyVH1kAYBiD2Gj2L_&s=0",
-    "employer_website": null,
-    "job_publisher": "Tallo",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://tallo.com/jobs/technology/data-engineer/oh/franklin/data-engineer-prin-5d6c21303973/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Tallo",
-        "apply_link": "https://tallo.com/jobs/technology/data-engineer/oh/franklin/data-engineer-prin-5d6c21303973/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "This job listing in Franklin - OH has been recently added. Tallo will add a summary here for this job shortly.",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "Franklin, OH",
-    "job_city": "Franklin",
-    "job_state": "Ohio",
-    "job_country": "US",
-    "job_latitude": 39.5589474,
-    "job_longitude": -84.30410739999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DybwkukVOvvN7CZ4IAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": "YEAR",
-    "job_highlights": {},
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "tallo-com-jobs-technology-data-engineer-oh-franklin-data-engineer-prin-5d6c21303973",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "mQjzELr-AD780L5XAAAAAA==",
-    "job_title": "IT Data Engineer - Westcor Land Title Insurance Company",
-    "employer_name": "Ardán, Inc., A Community of Companies",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "Learn4Good",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.learn4good.com/jobs/doral/florida/info_technology/4865773796/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/doral/florida/info_technology/4865773796/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Overview\n\nHybrid Role - must be able to commute to our Maitland, FL office\n\nPosition Summary:\n\nIn this position, you will play a crucial role in managing and optimizing our data processes within our emerging Data Warehouse/Data Lake environments. This position requires a strong foundation in ETL systems, SQL development, and a solid understanding of relational databases. You will work to ensure the efficiency and reliability of our data pipelines, contributing directly to the success of our projects.\n\nThe ideal candidate will have a strong background in data analysis and data visualization with specific expertise in using SQL to transform and analyze data. You will work closely with stakeholders across the organization to deliver actionable insights and support data-driven decision-making.\nEssential Functions\n• Collaborate with data engineers, analysts, and other stakeholders with data flows, scripts, and models using SQL, Snap Logic, and other ETL systems, optimizing for performance and reliability throughout the organization.\n• Assist in the development and testing of new features, models, or data processes within our data warehouses, leveraging feedback to drive continuous improvement.\n• Document data processes, models, and workflows within our data warehouses for internal knowledge sharing and to support ongoing learning and development.\n• Ensure integrity and quality of data throughout the entire data lifecycle, from ingestion to analysis, by implementing data validation and cleansing processes.\n• Maintain security protocols and data governance practices to ensure compliance with organizational policies and industry regulations.\n• Monitor performance and troubleshoot issues within ETL projects and related data environments.\n• Create and maintain interactive dashboards and reports using SSRS, Power BI, or similar visualization tools.\n• Ensure data quality and integrity by implementing best practices in data governance and validation.\nEducation and Experience\n• Bachelor’s degree in Computer Science, Information Systems, Data Science, or a related field.\n• 3+ years of experience in a data engineering role, with a focus on SQL development (MS SQL Server experience preferred).\n• Strong proficiency in relational databases and data querying techniques.\n• Expertise in data modeling, ETL processes, and data integration techniques.\n• Experience with using programmatic tools for data manipulation and analysis.\n• Familiarity with cloud platforms such as Azure, AWS, or GCP.\n• Knowledge of data visualization tools like Power BI, Tableau, or similar.\n• Excellent problem-solving skills and attention to detail.\n• Strong communication and collaboration skills, with the ability to work effectively with cross-functional teams.\n• Ability to learn quickly, be adaptable, flexible, and creative.\n• Demonstrated capability to work well independently and as part of a team.\nPhysical Demands\n• Ability to safely and successfully perform the essential job functions consistent with the ADA, FMLA, and other federal, state, and local standards, including meeting qualitative and/or quantitative productivity standards.\n• Ability to maintain reasonably regular, punctual attendance consistent with the ADA, FMLA, and other federal, state, and local standards.\n• Must be able to sit, stand, stoop, or bend for an extended period (8 hours).\n• Must be able to listen and speak clearly over the phone.\nWork Environment\n\nThe work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. The noise level in the work environment is usually moderate.\nWe offer some great perks:\n• Health, dental, and vision benefits.\n• Employer-paid disability and life insurance.\n• Flexible spending accounts.\n• 401K with company match.\n• Paid time off and company-paid holidays.\n• Wellness resources.\n\nNote: This job description is not intended to be an exhaustive list of duties, responsibilities, or qualifications associated with the job.\n#J-18808-Ljbffr",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Doral, FL",
-    "job_city": "Doral",
-    "job_state": "Florida",
-    "job_country": "US",
-    "job_latitude": 25.821663599999997,
-    "job_longitude": -80.3341312,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DmQjzELr-AD780L5XAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 60000,
-    "job_max_salary": 80000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "This position requires a strong foundation in ETL systems, SQL development, and a solid understanding of relational databases",
-        "Bachelor’s degree in Computer Science, Information Systems, Data Science, or a related field",
-        "Strong proficiency in relational databases and data querying techniques",
-        "Expertise in data modeling, ETL processes, and data integration techniques",
-        "Experience with using programmatic tools for data manipulation and analysis",
-        "Familiarity with cloud platforms such as Azure, AWS, or GCP",
-        "Knowledge of data visualization tools like Power BI, Tableau, or similar",
-        "Excellent problem-solving skills and attention to detail",
-        "Strong communication and collaboration skills, with the ability to work effectively with cross-functional teams",
-        "Ability to learn quickly, be adaptable, flexible, and creative",
-        "Demonstrated capability to work well independently and as part of a team",
-        "Ability to safely and successfully perform the essential job functions consistent with the ADA, FMLA, and other federal, state, and local standards, including meeting qualitative and/or quantitative productivity standards",
-        "Ability to maintain reasonably regular, punctual attendance consistent with the ADA, FMLA, and other federal, state, and local standards",
-        "Must be able to sit, stand, stoop, or bend for an extended period (8 hours)",
-        "Must be able to listen and speak clearly over the phone"
-      ],
-      "Benefits": [
-        "We offer some great perks:",
-        "Health, dental, and vision benefits",
-        "Employer-paid disability and life insurance",
-        "Flexible spending accounts",
-        "401K with company match",
-        "Paid time off and company-paid holidays",
-        "Wellness resources"
-      ],
-      "Responsibilities": [
-        "In this position, you will play a crucial role in managing and optimizing our data processes within our emerging Data Warehouse/Data Lake environments",
-        "You will work to ensure the efficiency and reliability of our data pipelines, contributing directly to the success of our projects",
-        "The ideal candidate will have a strong background in data analysis and data visualization with specific expertise in using SQL to transform and analyze data",
-        "You will work closely with stakeholders across the organization to deliver actionable insights and support data-driven decision-making",
-        "Collaborate with data engineers, analysts, and other stakeholders with data flows, scripts, and models using SQL, Snap Logic, and other ETL systems, optimizing for performance and reliability throughout the organization",
-        "Assist in the development and testing of new features, models, or data processes within our data warehouses, leveraging feedback to drive continuous improvement",
-        "Document data processes, models, and workflows within our data warehouses for internal knowledge sharing and to support ongoing learning and development",
-        "Ensure integrity and quality of data throughout the entire data lifecycle, from ingestion to analysis, by implementing data validation and cleansing processes",
-        "Maintain security protocols and data governance practices to ensure compliance with organizational policies and industry regulations",
-        "Monitor performance and troubleshoot issues within ETL projects and related data environments",
-        "Create and maintain interactive dashboards and reports using SSRS, Power BI, or similar visualization tools",
-        "Ensure data quality and integrity by implementing best practices in data governance and validation",
-        "Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions"
-      ]
-    },
-    "job_onet_soc": "23209300",
-    "job_onet_job_zone": "2",
-    "id": "www-learn4good-com-jobs-doral-florida-info_technology-4865773796-e",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "mfrhp-8GQszS1bhlAAAAAA==",
-    "job_title": "GCP Data Engineer",
-    "employer_name": "Infosys",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLqb-rFsLhWFLTkYho0FBp_JqLcerpRgWA8ZU_&s=0",
-    "employer_website": "https://www.infosys.com",
+    "job_id": "652Pig-K-CYFplikAAAAAA==",
+    "job_title": "Principal Software Engineer - Big Data Processing",
+    "employer_name": "Oracle",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Ob8wBy30IQeYJfM4qn_PksuLPYaC4sUtJLRK&s=0",
+    "employer_website": "https://www.oracle.com",
     "job_publisher": "WhatJobs",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.whatjobs.com/jobs/gcp-data-engineer?id=2434505081&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.whatjobs.com/jobs/data-engineering?id=2377355977&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
         "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/gcp-data-engineer?id=2434505081&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.whatjobs.com/jobs/data-engineering?id=2377355977&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Job Description\n\nInfosys is seeking a GCP data engineer . In this role, you will enable digital transformation for our clients in a global delivery model, research on technologies independently, recommend appropriate solutions and contribute to technology-specific best practices and standards. You will be responsible to interface with key stakeholders and apply your technical proficiency across different stages of the Software Development Life Cycle. You will be part of a learning culture, where teamwork and collaboration are encouraged, excellence is rewarded, and diversity is respected and valued.\n\nRequired Qualifications: Candidate must be located within commuting distance of Richardson, TX or be willing to relocate to the area. This position may require travel in the US Bachelor's degree or foreign equivalent required from an accredited institution. Will also consider three years of progressive experience in the specialty in lieu of every year of education. Candidates authorized to work for any employer in the United States without employer-based visa sponsorship are welcome to apply. Infosys is unable to provide immigration sponsorship for this role at this time At least 2 years of Information Technology experience. Experience working with technologies like - GCP with data engineering - data flow / air flow, pub sub/ kafta, data proc/Hadoop, Big Query. ETL development experience with strong SQL background such as Python/R, Scala, Java, Hive, Spark, Kafka Strong knowledge on Python Program development to build reusable frameworks, enhance existing frameworks. Application build experience with core GCP Services like Dataproc, GKE, Composer, Preferred Qualifications: Good knowledge on Google Big Query, using advance SQL programing techniques to build Big Query Data sets in Ingestion and Transformation layer. Experience in Relational Modeling, Dimensional Modeling and Modeling of Unstructured Data Knowledge on Airflow Dag creation, execution, and monitoring. Good understanding of Agile software development frameworks Ability to work in teams in a diverse, multi-stakeholder environment comprising of Business and Technology teams. Experience and desire to work in a global delivery environment. Along with competitive pay, as a full-time Infosys employee you are also eligible for the following benefits: - Medical/Dental/Vision/Life Insurance Long-term/Short-term Disability Health and Dependent Care Reimbursement Accounts Insurance (Accident, Critical Illness, Hospital Indemnity, Legal) 401(k) plan and contributions dependent on salary level Paid holidays plus Paid Time Off\nThe job entails sitting as well as working at a computer for extended periods of time. Should be able to communicate by telephone, email or face to face.\n\nEEO/About Us\n\nAbout Us\nInfosys is a global leader in next-generation digital services and consulting. We enable clients in more than 50 countries to navigate their digital transformation. With over four decades of experience in managing the systems and workings of global enterprises, we expertly steer our clients through their digital journey. We do it by enabling the enterprise with an AI-powered core that helps prioritize the execution of change. We also empower the business with agile digital at scale to deliver unprecedented levels of performance and customer delight. Our always-on learning agenda drives their continuous improvement through building and transferring digital skills, expertise, and ideas from our innovation ecosystem.\n\nInfosys provides equal employment opportunities to applicants and employees without regard to race; color; sex; gender identity; sexual orientation; religious practices and observances; national origin; pregnancy, childbirth, or related medical conditions; status as a protected veteran or spouse/family member of a protected veteran; or disability.",
+    "job_description": "**Job Description**\nOracle Health Data Intelligence has a rare opportunity to play a critical role in how Oracle Health products impact and disrupt the healthcare industry by transforming how healthcare and technology intersect.\nYou will have the opportunity to:\n+ Reach billions of people with our products and services\n+ Create technology which truly impacts the world\n+ Have immediate impact on developing this technology\n+ Unlimited growth potential with inspiring work\n+ Work with the best minds in the industry\n+ Work in an open, diverse, and productive environment\n• *About the Job**\nOracle Health Data Intelligence is growing and looking for a Principal Software Engineer to join the Population Intelligence team. This team aggregates data across multiple disparate sources and normalizes the data, enabling advanced decision support, predictive algorithms, population identification, and advanced analytics.\n• *Responsibilities**\n• *What You'll Do**\nAs a member of the software engineering division, you will apply intermediate to advanced knowledge of software architecture to perform software development tasks associated with developing, debugging, or designing software applications or operating systems according to provided design specifications. Build enhancements within an existing software architecture and suggest improvements to the architecture. Work involves problem solving, understanding, and applying company policies and processes.\n+ High level of fluency with at least one modern programming language such as Java, C++, or C#.\n+ Expertise in design concepts and technologies around Big Data Processing, ETL, Relational Databases, Hadoop Ecosystem, Apache Crunch, Spark, Hive, and SQL.\n+ Experience building and maintaining large scalable enterprise applications, distributed systems, and cloud-based platforms.\n+ Solid understanding of modern web applications from database to user interface.\n+ Familiarity with micro-services architecture and RESTful APIs.\n+ Familiarity with web front-end technologies such as React, Preact, Ruby, Ruby on Rails, JavaScript, and Oracle JET.\n+ Proficiency in design patterns, SOLID principles, and writing well-modularized and maintainable software.\n+ Knowledge of software engineering best practices across the development lifecycle, including agile methodologies, coding standards, code reviews, source management, build processes, testing, and operations.\n+ Knowledge of operations processes and DevOps technologies such as Jenkins, Kubernetes, Spinnaker, Maven.\n+ Excellent communication skills in both technical and non-technical contexts.\n• *Required Qualifications:**\n+ 8+ years of technical experience relevant to this position.\n+ Ability to communicate effectively and build rapport with team members.\n+ BS or MS in Computer Science, or equivalent.\nDisclaimer:\n• *Certain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates.**\n• *Range and benefit information provided in this posting are specific to the stated locations only**\nUS: Hiring Range in USD from: $96,800 to $223,400 per annum. May be eligible for bonus and equity.\nOracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle's differing products, industries and lines of business.\nCandidates are typically placed into the range based on the preceding factors as well as internal peer equity.\nOracle US offers a comprehensive benefits package which includes the following:\n1. Medical, dental, and vision insurance, including expert medical opinion\n2. Short term disability and long term disability\n3. Life insurance and AD&D\n4. Supplemental life insurance (Employee/Spouse/Child)\n5. Health care and dependent care Flexible Spending Accounts\n6. Pre-tax commuter and parking benefits\n7. 401(k) Savings and Investment Plan with company match\n8. Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position. Accrued Vacation is provided to all other employees eligible for vacation benefits. For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment. Vacation accrual is prorated for employees working between 20 and 34 hours per week. Employees working fewer than 20 hours per week are not eligible for vacation.\n9. 11 paid holidays\n10. Paid sick leave: 72 hours of paid sick leave upon date of hire. Refreshes each calendar year. Unused balance will carry over each year up to a maximum cap of 112 hours.\n11. Paid parental leave\n12. Adoption assistance\n13. Employee Stock Purchase Plan\n14. Financial planning and group legal\n15. Voluntary benefits including auto, homeowner and pet insurance\nThe role will generally accept applications for at least three calendar days from the posting date or as long as the job remains posted.\nCareer Level - IC4\n• *About Us**\nOnly Oracle brings together the data, infrastructure, applications, and expertise to power everything from industry innovations to life-saving care. And with AI embedded across our products and services, we help customers turn that promise into a better future for all. Discover your potential at a company leading the way in AI and cloud solutions that impact billions of lives.\nTrue innovation starts when everyone is empowered to contribute. That's why we're committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.\nWe're committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing or by calling in the United States.\nOracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans' status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.",
     "job_is_remote": false,
-    "job_posted_at": "12 days ago",
-    "job_posted_at_timestamp": 1769990400,
-    "job_posted_at_datetime_utc": "2026-02-02T00:00:00.000Z",
-    "job_location": "Blue Ridge, TX",
-    "job_city": "Blue Ridge",
-    "job_state": "Texas",
+    "job_posted_at": "8 days ago",
+    "job_posted_at_timestamp": 1770336000,
+    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
+    "job_location": "Madison, NH",
+    "job_city": "Madison",
+    "job_state": "New Hampshire",
     "job_country": "US",
-    "job_latitude": 33.2978909,
-    "job_longitude": -96.4016498,
+    "job_latitude": 43.8992395,
+    "job_longitude": -71.1484028,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dmfrhp-8GQszS1bhlAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D652Pig-K-CYFplikAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Required Qualifications: Candidate must be located within commuting distance of Richardson, TX or be willing to relocate to the area",
-        "This position may require travel in the US Bachelor's degree or foreign equivalent required from an accredited institution",
-        "Will also consider three years of progressive experience in the specialty in lieu of every year of education",
-        "Candidates authorized to work for any employer in the United States without employer-based visa sponsorship are welcome to apply",
-        "Infosys is unable to provide immigration sponsorship for this role at this time At least 2 years of Information Technology experience",
-        "Experience working with technologies like - GCP with data engineering - data flow / air flow, pub sub/ kafta, data proc/Hadoop, Big Query",
-        "ETL development experience with strong SQL background such as Python/R, Scala, Java, Hive, Spark, Kafka Strong knowledge on Python Program development to build reusable frameworks, enhance existing frameworks",
-        "Experience in Relational Modeling, Dimensional Modeling and Modeling of Unstructured Data Knowledge on Airflow Dag creation, execution, and monitoring",
-        "Good understanding of Agile software development frameworks Ability to work in teams in a diverse, multi-stakeholder environment comprising of Business and Technology teams",
-        "Experience and desire to work in a global delivery environment",
-        "Should be able to communicate by telephone, email or face to face"
+        "Work with the best minds in the industry",
+        "Work in an open, diverse, and productive environment",
+        "High level of fluency with at least one modern programming language such as Java, C++, or C#",
+        "Expertise in design concepts and technologies around Big Data Processing, ETL, Relational Databases, Hadoop Ecosystem, Apache Crunch, Spark, Hive, and SQL",
+        "Experience building and maintaining large scalable enterprise applications, distributed systems, and cloud-based platforms",
+        "Solid understanding of modern web applications from database to user interface",
+        "Familiarity with micro-services architecture and RESTful APIs",
+        "Familiarity with web front-end technologies such as React, Preact, Ruby, Ruby on Rails, JavaScript, and Oracle JET",
+        "Proficiency in design patterns, SOLID principles, and writing well-modularized and maintainable software",
+        "Knowledge of software engineering best practices across the development lifecycle, including agile methodologies, coding standards, code reviews, source management, build processes, testing, and operations",
+        "Knowledge of operations processes and DevOps technologies such as Jenkins, Kubernetes, Spinnaker, Maven",
+        "Excellent communication skills in both technical and non-technical contexts",
+        "8+ years of technical experience relevant to this position",
+        "Ability to communicate effectively and build rapport with team members",
+        "BS or MS in Computer Science, or equivalent"
       ],
       "Benefits": [
-        "Along with competitive pay, as a full-time Infosys employee you are also eligible for the following benefits: - Medical/Dental/Vision/Life Insurance Long-term/Short-term Disability Health and Dependent Care Reimbursement Accounts Insurance (Accident, Critical Illness, Hospital Indemnity, Legal) 401(k) plan and contributions dependent on salary level Paid holidays plus Paid Time Off"
+        "Unlimited growth potential with inspiring work",
+        "US: Hiring Range in USD from: $96,800 to $223,400 per annum",
+        "May be eligible for bonus and equity",
+        "Oracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle's differing products, industries and lines of business",
+        "Oracle US offers a comprehensive benefits package which includes the following:",
+        "Medical, dental, and vision insurance, including expert medical opinion",
+        "Short term disability and long term disability",
+        "Life insurance and AD&D",
+        "Supplemental life insurance (Employee/Spouse/Child)",
+        "Health care and dependent care Flexible Spending Accounts",
+        "Pre-tax commuter and parking benefits",
+        "401(k) Savings and Investment Plan with company match",
+        "Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position",
+        "Accrued Vacation is provided to all other employees eligible for vacation benefits",
+        "For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment",
+        "Vacation accrual is prorated for employees working between 20 and 34 hours per week",
+        "Employees working fewer than 20 hours per week are not eligible for vacation",
+        "11 paid holidays",
+        "Paid sick leave: 72 hours of paid sick leave upon date of hire",
+        "Refreshes each calendar year",
+        "Unused balance will carry over each year up to a maximum cap of 112 hours",
+        "Paid parental leave",
+        "Adoption assistance",
+        "Employee Stock Purchase Plan",
+        "Financial planning and group legal",
+        "Voluntary benefits including auto, homeowner and pet insurance",
+        "That's why we're committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options"
       ],
       "Responsibilities": [
-        "In this role, you will enable digital transformation for our clients in a global delivery model, research on technologies independently, recommend appropriate solutions and contribute to technology-specific best practices and standards",
-        "You will be responsible to interface with key stakeholders and apply your technical proficiency across different stages of the Software Development Life Cycle",
-        "You will be part of a learning culture, where teamwork and collaboration are encouraged, excellence is rewarded, and diversity is respected and valued",
-        "The job entails sitting as well as working at a computer for extended periods of time"
+        "Reach billions of people with our products and services",
+        "Create technology which truly impacts the world",
+        "As a member of the software engineering division, you will apply intermediate to advanced knowledge of software architecture to perform software development tasks associated with developing, debugging, or designing software applications or operating systems according to provided design specifications",
+        "Build enhancements within an existing software architecture and suggest improvements to the architecture",
+        "Work involves problem solving, understanding, and applying company policies and processes",
+        "*Certain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates.**"
       ]
     },
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
-    "id": "www-whatjobs-com-jobs-gcp-data-engineer",
+    "id": "www-whatjobs-com-jobs-data-engineering",
     "_source": "new_jobs"
   },
   {
@@ -1937,9 +1741,9 @@
     ],
     "job_description": "Title: Senior Data Engineer\n\nType: Full-time\n\nLocation: Valencia or Barcelona\n\nAbout us\n\nAt Visium, we enable enterprise executives in defining their AI & Data strategy, execute large scale transformations and implement AI across operations, ensuring their organization becomes future-proof.\n\nWith expertise in strategy, architecture, cloud engineering, analytics, artificial intelligence and machine learning, we empower our clients to unleash and scale the power of their data.\n\nWe’re on a mission to pioneer a bright future and build future-proof and ethical organizations . Join the curious, the ambitious, the doers, the good-hearted, the ones who build a world we’re all in awe of – our Visiumees.\n\nReady to become one?\n\nRole\n\nAs a Senior Data Engineer, you will work with various stakeholders to provide business leaders with valuable insights from large and complex datasets. Starting from raw data, you will help build robust systems to make this data usable and accessible.\n\nAs a Senior Data Engineer, you will be responsible for:\n• Assess and understand client's data landscape and assess data quality\n• Work closely with business and IT stakeholders to understand business requirements\n• Participating in technical sales activities\n• Work with high volume of heterogeneous data with distributed systems\n• Design, develop, and maintain scalable and efficient data assets, including data pipelines, data lakes, data warehouses, and ETL processes based on well-known data platforms\n• Build and manage data infrastructure, including data storage, processing, and access\n• Implement data models and schema designs to support data analysis and reporting needs\n• Develop and maintain data quality and data governance frameworks\n• Create data visualizations and reports to communicate insights to stakeholders\n• Stay up to date with state-of-the-art data processing and analysis technologies.\n• Troubleshoot and debug data-related issues\n• Contribute to an exciting environment with a challenging team\n\nRequirements\n\nWe are looking for\n• 5+ years of experience building data assets and pipelines using platforms like Databricks and Snowflake.\n• Proficient in cloud technologies (Azure, AWS) and related data services.\n• Skilled in data visualization tools such as Tableau, PowerBI, and Quicksight.\n• Experienced with distributed data processing frameworks like Spark.\n• Knowledgeable in designing and maintaining production-level data warehouses and provisioning data lakes.\n• Familiar with software development principles, proficient in Python, and well-versed in data modeling and ETL design patterns.\n• Possesses a growth mindset, excels in problem-solving, and\n• Fluent communication both in English.\n\nThe following are a plus\n• You own one of the main Data and AI platforms certification (Databricks, Snowflake)\n• Familiarity with dbt and how to use it effectively\n• Experience in consulting is a plus\n\nBenefits\n\nWhat we offer\n• A competitive compensation package\n• A yearly education budget to steep your learning curve\n• A yearly sport budget because a fit body leads to a fit mind\n• A flexible working culture because your work-life balance matters to us\n• A position that enables you to have an impact on 1’000s of people, and the whole company's growth.\n• An international, knowledgeable, and passionate team with a strong collaborative mindset\n\nCheck our and to learn more about us & don’t hesitate to contact us if you have any questions.\n\nTitle: Senior Data Engineer\n\nType: Full-time\n\nLocation: Valencia or Barcelona\n\nAbout us\n\nAt Visium, we enable enterprise executives in defining their AI & Data strategy, execute large scale transformations and implement AI across operations, ensuring their organization becomes future-proof.\n\nWith expertise in strategy, architecture, cloud engineering, analytics, artificial intelligence and machine learning, we empower our clients to unleash and scale the power of their data.\n\nWe’re on a mission to pioneer a bright future and build future-proof and ethical organizations . Join the curious, the ambitious, the doers, the good-hearted, the ones who build a world we’re all in awe of – our Visiumees.\n\nReady to become one?\n\nRole\n\nAs a Senior Data Engineer, you will work with various stakeholders to provide business leaders with valuable insights from large and complex datasets. Starting from raw data, you will help build robust systems to make this data usable and accessible.\n\nAs a Senior Data Engineer, you will be responsible for:\n• Assess and understand client's data landscape and assess data quality\n• Work closely with business and IT stakeholders to understand business requirements\n• Participating in technical sales activities\n• Work with high volume of heterogeneous data with distributed systems\n• Design, develop, and maintain scalable and efficient data assets, including data pipelines, data lakes, data warehouses, and ETL processes based on well-known data platforms\n• Build and manage data infrastructure, including data storage, processing, and access\n• Implement data models and schema designs to support data analysis and reporting needs\n• Develop and maintain data quality and data governance frameworks\n• Create data visualizations and reports to communicate insights to stakeholders\n• Stay up to date with state-of-the-art data processing and analysis technologies.\n• Troubleshoot and debug data-related issues\n• Contribute to an exciting environment with a challenging team\n\nRequirements\n\nWe are looking for\n• 5+ years of experience building data assets and pipelines using platforms like Databricks and Snowflake.\n• Proficient in cloud technologies (Azure, AWS) and related data services.\n• Skilled in data visualization tools such as Tableau, PowerBI, and Quicksight.\n• Experienced with distributed data processing frameworks like Spark.\n• Knowledgeable in designing and maintaining production-level data warehouses and provisioning data lakes.\n• Familiar with software development principles, proficient in Python, and well-versed in data modeling and ETL design patterns.\n• Possesses a growth mindset, excels in problem-solving, and\n• Fluent communication both in English.\n\nThe following are a plus\n• You own one of the main Data and AI platforms certification (Databricks, Snowflake)\n• Familiarity with dbt and how to use it effectively\n• Experience in consulting is a plus\n\nBenefits\n\nWhat we offer\n• A competitive compensation package\n• A yearly education budget to steep your learning curve\n• A yearly sport budget because a fit body leads to a fit mind\n• A flexible working culture because your work-life balance matters to us\n• A position that enables you to have an impact on 1’000s of people, and the whole company's growth.\n• An international, knowledgeable, and passionate team with a strong collaborative mindset\n\nCheck our and to learn more about us & don’t hesitate to contact us if you have any questions.",
     "job_is_remote": false,
-    "job_posted_at": "17 hours ago",
-    "job_posted_at_timestamp": 1771034400,
-    "job_posted_at_datetime_utc": "2026-02-14T02:00:00.000Z",
+    "job_posted_at": "18 hours ago",
+    "job_posted_at_timestamp": 1771030800,
+    "job_posted_at_datetime_utc": "2026-02-14T01:00:00.000Z",
     "job_location": "Tome-Adelino, NM",
     "job_city": "Tome-Adelino",
     "job_state": "New Mexico",
@@ -2028,70 +1832,91 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "_fJ4esw2CSBo0axNAAAAAA==",
-    "job_title": "Google Cloud Platform Data Engineer (Locals Only)",
-    "employer_name": "Jobs via Dice",
+    "job_id": "mQjzELr-AD780L5XAAAAAA==",
+    "job_title": "IT Data Engineer - Westcor Land Title Insurance Company",
+    "employer_name": "Ardán, Inc., A Community of Companies",
     "employer_logo": null,
     "employer_website": null,
-    "job_publisher": "Digitalhire",
+    "job_publisher": "Learn4Good",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/4RAiIOB4Wvohn4qafdPor?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
+    "job_apply_link": "https://www.learn4good.com/jobs/doral/florida/info_technology/4865773796/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Digitalhire",
-        "apply_link": "https://jobs.digitalhire.com/job-listing/opening/4RAiIOB4Wvohn4qafdPor?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
+        "publisher": "Learn4Good",
+        "apply_link": "https://www.learn4good.com/jobs/doral/florida/info_technology/4865773796/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
       }
     ],
-    "job_description": "Position Overview\n\nDice is the leading career destination for tech experts. Our client, VeridianTech, is seeking a Google Cloud Platform Data Engineer to join their team in Mountain View, CA (Onsite) for a duration of 12+ months. In this role, you’ll develop and enhance Python frameworks and design robust data pipelines that power advanced data processing, quality, and machine learning operations. Apply via Dice today!\n\nKey Responsibilities\n• Develop and enhance Python frameworks and libraries to support data processing, quality, lineage, governance, analysis, and machine learning operations.\n• Design, build, and maintain scalable and efficient data pipelines on Google Cloud Platform.\n• Implement robust monitoring, logging, and alerting systems to ensure the reliability and stability of data infrastructure.\n• Build scalable batch pipelines leveraging BigQuery, Dataflow and Airflow/Composer scheduler/executor framework on Google Cloud Platform.\n• Build data pipelines leveraging Scala, Pub/Sub, Akka, and Dataflow on Google Cloud Platform.\n• Design data models for optimal storage and retrieval to support machine learning modeling using technologies like Bigtable and Vertex Feature Store.\n• Contribute to shared Data Engineering tooling and standards to improve productivity and quality for the team.\n\nRequired Qualifications\n• Python Expertise: Write and maintain Python frameworks and libraries to support data processing and integration tasks.\n• Code Management: Use Git and GitHub for source control, code reviews, and version management.\n• Google Cloud Platform Proficiency: Extensive experience working with GCP services (e.g., BigQuery, Cloud Dataflow, Pub/Sub, Cloud Storage).\n• Python Mastery: Proficient in Python with experience in optimizing data processing frameworks and libraries.\n• Software Engineering: Strong understanding of best practices including version control, collaborative development, code reviews, and CI/CD.\n• Data Management: Deep knowledge of data modeling, ETL/ELT, and data warehousing concepts.\n• Problem-Solving: Excellent problem-solving skills with the ability to tackle complex data engineering challenges.\n• Communication: Ability to explain complex technical details to non-technical stakeholders.\n• Data Science Stack: Proficiency in data analysis with tools such as Jupyter Notebook, pandas, and NumPy.\n• Frameworks/Tools: Familiarity with machine learning and data processing tools such as TensorFlow, Apache Spark, and scikit-learn.\n• Education: Bachelor’s or master’s degree in Computer Science, Engineering, Computer Information Systems, Mathematics, Physics, or a related field, or equivalent software development training.",
+    "job_description": "Overview\n\nHybrid Role - must be able to commute to our Maitland, FL office\n\nPosition Summary:\n\nIn this position, you will play a crucial role in managing and optimizing our data processes within our emerging Data Warehouse/Data Lake environments. This position requires a strong foundation in ETL systems, SQL development, and a solid understanding of relational databases. You will work to ensure the efficiency and reliability of our data pipelines, contributing directly to the success of our projects.\n\nThe ideal candidate will have a strong background in data analysis and data visualization with specific expertise in using SQL to transform and analyze data. You will work closely with stakeholders across the organization to deliver actionable insights and support data-driven decision-making.\nEssential Functions\n• Collaborate with data engineers, analysts, and other stakeholders with data flows, scripts, and models using SQL, Snap Logic, and other ETL systems, optimizing for performance and reliability throughout the organization.\n• Assist in the development and testing of new features, models, or data processes within our data warehouses, leveraging feedback to drive continuous improvement.\n• Document data processes, models, and workflows within our data warehouses for internal knowledge sharing and to support ongoing learning and development.\n• Ensure integrity and quality of data throughout the entire data lifecycle, from ingestion to analysis, by implementing data validation and cleansing processes.\n• Maintain security protocols and data governance practices to ensure compliance with organizational policies and industry regulations.\n• Monitor performance and troubleshoot issues within ETL projects and related data environments.\n• Create and maintain interactive dashboards and reports using SSRS, Power BI, or similar visualization tools.\n• Ensure data quality and integrity by implementing best practices in data governance and validation.\nEducation and Experience\n• Bachelor’s degree in Computer Science, Information Systems, Data Science, or a related field.\n• 3+ years of experience in a data engineering role, with a focus on SQL development (MS SQL Server experience preferred).\n• Strong proficiency in relational databases and data querying techniques.\n• Expertise in data modeling, ETL processes, and data integration techniques.\n• Experience with using programmatic tools for data manipulation and analysis.\n• Familiarity with cloud platforms such as Azure, AWS, or GCP.\n• Knowledge of data visualization tools like Power BI, Tableau, or similar.\n• Excellent problem-solving skills and attention to detail.\n• Strong communication and collaboration skills, with the ability to work effectively with cross-functional teams.\n• Ability to learn quickly, be adaptable, flexible, and creative.\n• Demonstrated capability to work well independently and as part of a team.\nPhysical Demands\n• Ability to safely and successfully perform the essential job functions consistent with the ADA, FMLA, and other federal, state, and local standards, including meeting qualitative and/or quantitative productivity standards.\n• Ability to maintain reasonably regular, punctual attendance consistent with the ADA, FMLA, and other federal, state, and local standards.\n• Must be able to sit, stand, stoop, or bend for an extended period (8 hours).\n• Must be able to listen and speak clearly over the phone.\nWork Environment\n\nThe work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. The noise level in the work environment is usually moderate.\nWe offer some great perks:\n• Health, dental, and vision benefits.\n• Employer-paid disability and life insurance.\n• Flexible spending accounts.\n• 401K with company match.\n• Paid time off and company-paid holidays.\n• Wellness resources.\n\nNote: This job description is not intended to be an exhaustive list of duties, responsibilities, or qualifications associated with the job.\n#J-18808-Ljbffr",
     "job_is_remote": false,
     "job_posted_at": "3 days ago",
     "job_posted_at_timestamp": 1770768000,
     "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Mountain View, CA",
-    "job_city": "Mountain View",
-    "job_state": "California",
+    "job_location": "Doral, FL",
+    "job_city": "Doral",
+    "job_state": "Florida",
     "job_country": "US",
-    "job_latitude": 37.390026399999996,
-    "job_longitude": -122.0812304,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_fJ4esw2CSBo0axNAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
+    "job_latitude": 25.821663599999997,
+    "job_longitude": -80.3341312,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DmQjzELr-AD780L5XAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 60000,
+    "job_max_salary": 80000,
+    "job_salary_period": "YEAR",
     "job_highlights": {
       "Qualifications": [
-        "Python Expertise: Write and maintain Python frameworks and libraries to support data processing and integration tasks",
-        "Code Management: Use Git and GitHub for source control, code reviews, and version management",
-        "Google Cloud Platform Proficiency: Extensive experience working with GCP services (e.g., BigQuery, Cloud Dataflow, Pub/Sub, Cloud Storage)",
-        "Python Mastery: Proficient in Python with experience in optimizing data processing frameworks and libraries",
-        "Software Engineering: Strong understanding of best practices including version control, collaborative development, code reviews, and CI/CD",
-        "Data Management: Deep knowledge of data modeling, ETL/ELT, and data warehousing concepts",
-        "Problem-Solving: Excellent problem-solving skills with the ability to tackle complex data engineering challenges",
-        "Communication: Ability to explain complex technical details to non-technical stakeholders",
-        "Data Science Stack: Proficiency in data analysis with tools such as Jupyter Notebook, pandas, and NumPy",
-        "Frameworks/Tools: Familiarity with machine learning and data processing tools such as TensorFlow, Apache Spark, and scikit-learn",
-        "Education: Bachelor’s or master’s degree in Computer Science, Engineering, Computer Information Systems, Mathematics, Physics, or a related field, or equivalent software development training"
+        "This position requires a strong foundation in ETL systems, SQL development, and a solid understanding of relational databases",
+        "Bachelor’s degree in Computer Science, Information Systems, Data Science, or a related field",
+        "Strong proficiency in relational databases and data querying techniques",
+        "Expertise in data modeling, ETL processes, and data integration techniques",
+        "Experience with using programmatic tools for data manipulation and analysis",
+        "Familiarity with cloud platforms such as Azure, AWS, or GCP",
+        "Knowledge of data visualization tools like Power BI, Tableau, or similar",
+        "Excellent problem-solving skills and attention to detail",
+        "Strong communication and collaboration skills, with the ability to work effectively with cross-functional teams",
+        "Ability to learn quickly, be adaptable, flexible, and creative",
+        "Demonstrated capability to work well independently and as part of a team",
+        "Ability to safely and successfully perform the essential job functions consistent with the ADA, FMLA, and other federal, state, and local standards, including meeting qualitative and/or quantitative productivity standards",
+        "Ability to maintain reasonably regular, punctual attendance consistent with the ADA, FMLA, and other federal, state, and local standards",
+        "Must be able to sit, stand, stoop, or bend for an extended period (8 hours)",
+        "Must be able to listen and speak clearly over the phone"
+      ],
+      "Benefits": [
+        "We offer some great perks:",
+        "Health, dental, and vision benefits",
+        "Employer-paid disability and life insurance",
+        "Flexible spending accounts",
+        "401K with company match",
+        "Paid time off and company-paid holidays",
+        "Wellness resources"
       ],
       "Responsibilities": [
-        "In this role, you’ll develop and enhance Python frameworks and design robust data pipelines that power advanced data processing, quality, and machine learning operations",
-        "Develop and enhance Python frameworks and libraries to support data processing, quality, lineage, governance, analysis, and machine learning operations",
-        "Design, build, and maintain scalable and efficient data pipelines on Google Cloud Platform",
-        "Implement robust monitoring, logging, and alerting systems to ensure the reliability and stability of data infrastructure",
-        "Build scalable batch pipelines leveraging BigQuery, Dataflow and Airflow/Composer scheduler/executor framework on Google Cloud Platform",
-        "Build data pipelines leveraging Scala, Pub/Sub, Akka, and Dataflow on Google Cloud Platform",
-        "Design data models for optimal storage and retrieval to support machine learning modeling using technologies like Bigtable and Vertex Feature Store",
-        "Contribute to shared Data Engineering tooling and standards to improve productivity and quality for the team"
+        "In this position, you will play a crucial role in managing and optimizing our data processes within our emerging Data Warehouse/Data Lake environments",
+        "You will work to ensure the efficiency and reliability of our data pipelines, contributing directly to the success of our projects",
+        "The ideal candidate will have a strong background in data analysis and data visualization with specific expertise in using SQL to transform and analyze data",
+        "You will work closely with stakeholders across the organization to deliver actionable insights and support data-driven decision-making",
+        "Collaborate with data engineers, analysts, and other stakeholders with data flows, scripts, and models using SQL, Snap Logic, and other ETL systems, optimizing for performance and reliability throughout the organization",
+        "Assist in the development and testing of new features, models, or data processes within our data warehouses, leveraging feedback to drive continuous improvement",
+        "Document data processes, models, and workflows within our data warehouses for internal knowledge sharing and to support ongoing learning and development",
+        "Ensure integrity and quality of data throughout the entire data lifecycle, from ingestion to analysis, by implementing data validation and cleansing processes",
+        "Maintain security protocols and data governance practices to ensure compliance with organizational policies and industry regulations",
+        "Monitor performance and troubleshoot issues within ETL projects and related data environments",
+        "Create and maintain interactive dashboards and reports using SSRS, Power BI, or similar visualization tools",
+        "Ensure data quality and integrity by implementing best practices in data governance and validation",
+        "Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions"
       ]
     },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "jobs-digitalhire-com-job-listing-opening-4raiiob4wvohn4qafdpor",
+    "job_onet_soc": "23209300",
+    "job_onet_job_zone": "2",
+    "id": "www-learn4good-com-jobs-doral-florida-info_technology-4865773796-e",
     "_source": "new_jobs"
   }
 ]
