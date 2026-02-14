@@ -133,9 +133,9 @@
     "job_latitude": 36.778261,
     "job_longitude": -119.4179324,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DjVB6CWaK1VR2FGY5AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 114000,
@@ -208,6 +208,62 @@
     "job_onet_soc": "15203100",
     "job_onet_job_zone": "5",
     "id": "spacecrew-com-space-jobs-mlkkgc78-northrop-grumman-missile-operations-research-engineer-level-3-or-4-aht",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "X0NSQ-MWlZxfT3XwAAAAAA==",
+    "job_title": "Junior Research Engineer",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=d4c13689c8eb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=d4c13689c8eb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A company is looking for a Junior Research Enablement Engineer to support their LanguageAI research team remotely in the United States.\n\nKey Responsibilities\n\nArchitect, design, implement, and maintain applications, frameworks, and infrastructure components\n\nWork with data to implement and deploy machine learning services and frameworks\n\nConduct architecture and code reviews, and design testing strategies to enhance product quality\n\nRequired Qualifications\n\nFluency in Python and experience with Java or Kotlin\n\nFundamental understanding of probability and statistics\n\nFamiliarity with relational databases and asynchronous patterns\n\nUnderstanding of distributed computing principles and algorithms\n\nBS+ degree in computer science or equivalent experience",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Toms River, NJ",
+    "job_city": "Toms River",
+    "job_state": "New Jersey",
+    "job_country": "US",
+    "job_latitude": 39.963417799999995,
+    "job_longitude": -74.18733859999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DX0NSQ-MWlZxfT3XwAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Fluency in Python and experience with Java or Kotlin",
+        "Fundamental understanding of probability and statistics",
+        "Familiarity with relational databases and asynchronous patterns",
+        "Understanding of distributed computing principles and algorithms",
+        "BS+ degree in computer science or equivalent experience"
+      ],
+      "Responsibilities": [
+        "Architect, design, implement, and maintain applications, frameworks, and infrastructure components",
+        "Work with data to implement and deploy machine learning services and frameworks",
+        "Conduct architecture and code reviews, and design testing strategies to enhance product quality"
+      ]
+    },
+    "job_onet_soc": "19203200",
+    "job_onet_job_zone": "5",
+    "id": "www-talent-com-view",
     "_source": "new_jobs"
   },
   {
@@ -320,6 +376,169 @@
     "job_onet_soc": "53601100",
     "job_onet_job_zone": "1",
     "id": "www-lockheedmartinjobs-com-job-fayetteville-research-engineer-bio-chemist-694-91455707040",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "6Doq8alEFRQwSN0kAAAAAA==",
+    "job_title": "Research Engineer – Safety System, Evaluation and Foundation",
+    "employer_name": "Meta",
+    "employer_logo": null,
+    "employer_website": "https://www.meta.com",
+    "job_publisher": "Tallo",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://tallo.com/jobs/technology/artificial-intelligence-engineer/ny/new-york/research-engineer-safety-system-evaluation-and-d4cac6952ec5/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Tallo",
+        "apply_link": "https://tallo.com/jobs/technology/artificial-intelligence-engineer/ny/new-york/research-engineer-safety-system-evaluation-and-d4cac6952ec5/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "This job listing in New York - NY has been recently added. Tallo will add a summary here for this job shortly.",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "New York, NY",
+    "job_city": "New York",
+    "job_state": "New York",
+    "job_country": "US",
+    "job_latitude": 40.7127753,
+    "job_longitude": -74.0059728,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D6Doq8alEFRQwSN0kAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": "YEAR",
+    "job_highlights": {},
+    "job_onet_soc": "17211100",
+    "job_onet_job_zone": "4",
+    "id": "tallo-com-jobs-technology-artificial-intelligence-engineer-ny-new-york-research-engineer-safety-system-evaluation-and-d4cac6952ec5",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "35SmjIIjy-8bWho0AAAAAA==",
+    "job_title": "Lead Engineer - Operations Research for Controls & Optimization",
+    "employer_name": "GE Vernova",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpGN-UL04guDxaKDmitRLx-yMPrA7ZpK-y_SGX&s=0",
+    "employer_website": "https://www.gevernova.com",
+    "job_publisher": "GE Vernova Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.gevernova.com/lead-engineer-operations-research-for-controls-optimization/job/R5019016?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "GE Vernova Careers",
+        "apply_link": "https://careers.gevernova.com/lead-engineer-operations-research-for-controls-optimization/job/R5019016?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Workday",
+        "apply_link": "https://gevernova.wd5.myworkdayjobs.com/es/Vernova_ExternalSite/job/Lead-Engineer---Operations-Research-for-Controls---Optimization_R5019016-3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=515942662a8378d2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Dice",
+        "apply_link": "https://www.dice.com/job-detail/e6b84795-55fb-4774-a9d8-ad22f4091426?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/lead-engineer-operations-research-for-controls-optimization_d112adf0-5c19-4965-b4ff-c10f64a343f8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Built In",
+        "apply_link": "https://builtin.com/job/lead-engineer-operations-research-controls-optimization/7006324?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/GE-Vernova/Job/Lead-Engineer-Operations-Research-for-Controls-&-Optimization/-in-Niskayuna,NY?jid=85190c06523b0565&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/LsHh7T0VxFiUWCg2hCd22Eq8P-VvJSEVQKF1EcOi1CShhnXgYuY_AQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Description Summary\nGE Vernova Advanced Research Center is seeking a highly motivated and technically skilled Junior PhD Engineer to join our Controls and Optimization team. As part of a multidisciplinary group of scientists and engineers, you will contribute to solving complex industrial challenges using mathematical modeling, optimization, and simulation. You will work on projects spanning energy systems, manufacturing, logistics, supply chain management and emerging technologies, collaborating with domain experts to deliver impactful solutions. This role offers a unique opportunity to apply cutting-edge research in a dynamic, real-world environment while continuing to grow your expertise in operations research and analytics.\n\nAs a GE Vernova accelerator, GE Vernova Advanced Research is driving strategy and leading research & development efforts to execute on the business's mission to help power the energy transition. We forge the collaborations and help invent the technologies required to electrify and decarbonize for a zero-carbon future.\n\nRepresenting virtually every major scientific and engineering discipline, our researchers are collaborating with GE Vernova's businesses, the U.S. government, and more than 420 entities at the forefront of technology to execute on 150+ energy-focused projects. Collectively, these research programs and initiatives aim to solve near term technical challenges, deliver next generation product advances, and drive long term breakthrough innovation to enable more affordable, reliable, sustainable, and secure energy.\n\nJob Description\n\nRoles and Responsibilities\n• Develop and implement mathematical models for optimization, scheduling, resource allocation, logistics and supply chain management\n• Design and execute simulation studies to evaluate system performance under uncertainty\n• Collaborate with cross-functional teams to translate business problems into analytical frameworks\n• Prototype and validate algorithms using Python, MATLAB, or similar platforms\n• Communicate technical findings through presentations, reports, and publications\n• Contribute to proposal development and support external funding initiatives\n• Stay current with advancements in operations research and related fields\n\nRequired Qualifications\n• PhD in Operations Research, Industrial Engineering, Applied Mathematics, or related field\n• Strong foundation in linear, nonlinear, and integer optimization\n• Proficiency in programming languages such as Python, C++, or MATLAB\n• Experience with optimization solvers (e.g., Gurobi, CPLEX, or SCIP)\n• Demonstrated ability to conduct independent research and publish in peer-reviewed venues\n• Legal authorization to work in the US is required. We will not sponsor individuals at the Master's level, now or in the future, for this position.\n• You must be 18 years of age or older\n• Must be willing to work out of an office located in Niskayuna, NY\n• You must submit your application for employment on the careers page at www.careers.gevernova.com to be considered.\n\nDesired Characteristics\n• Familiarity with machine learning techniques and integration with optimization\n• Experience with stochastic modeling, queuing theory, or game theory\n• Strong communication and interpersonal skills for working in multidisciplinary teams\n• Intellectual curiosity and a passion for solving real-world problems\n• Ability to manage multiple projects and adapt to evolving priorities\n• Prior internship or collaboration with industry or government research labs\n\nThe salary range for this position is $98,400 - $164,000 USD, annually. The specific salary offered to a candidate may be influenced by a variety of factors including the candidate’s experience, their education, and the work location. This position is also eligible for a performance bonus. This position will remain posted until at least September 6th 2025.\n\nGE Vernova provides a comprehensive benefits package that provides access to plans which support the overall wellbeing of our employees and their dependents. These benefits include, but are not limited to, health care coverage (medical, dental, vision, pharmacy), a retirement plan that includes Company Retirement Savings and a 401K with Company matching, Life Insurance options, Disability coverage, paid time-off, EAP, and more.\n\nGE Vernova offers a great work environment, professional development, challenging careers, and competitive compensation. GE Vernova is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.\n\nGE Vernova will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a drug screen (as applicable).\n\nRelocation Assistance Provided: Yes\n\nFor candidates applying to a U.S. based position, the pay range for this position is between $98,400.00 and $164,000.00. The Company pays a geographic differential of 110%, 120% or 130% of salary in certain areas. The specific pay offered may be influenced by a variety of factors, including the candidate’s experience, education, and skill set.\n\nBonus eligibility: discretionary annual bonus.\n\nThis posting is expected to remain open for at least seven days after it was posted on January 16, 2026.\n\nAvailable benefits include medical, dental, vision, and prescription drug coverage; access to Health Coach from GE Vernova, a 24/7 nurse-based resource; and access to the Employee Assistance Program, providing 24/7 confidential assessment, counseling and referral services. Retirement benefits include the GE Vernova Retirement Savings Plan, a tax-advantaged 401(k) savings opportunity with company matching contributions and company retirement contributions, as well as access to Fidelity resources and financial planning consultants. Other benefits include tuition assistance, adoption assistance, paid parental leave, disability benefits, life insurance, 12 paid holidays, and permissive time off.\n\nGE Vernova Inc. or its affiliates (collectively or individually, “GE Vernova”) sponsor certain employee benefit plans or programs GE Vernova reserves the right to terminate, amend, suspend, replace, or modify its benefit plans and programs at any time and for any reason, in its sole discretion. No individual has a vested right to any benefit under a GE Vernova welfare benefit plan or program. This document does not create a contract of employment with any individual.",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770508800,
+    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
+    "job_location": "Niskayuna",
+    "job_city": "Niskayuna",
+    "job_state": "New York",
+    "job_country": "US",
+    "job_latitude": 42.8000049,
+    "job_longitude": -73.89144069999999,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D35SmjIIjy-8bWho0AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "PhD in Operations Research, Industrial Engineering, Applied Mathematics, or related field",
+        "Strong foundation in linear, nonlinear, and integer optimization",
+        "Proficiency in programming languages such as Python, C++, or MATLAB",
+        "Experience with optimization solvers (e.g., Gurobi, CPLEX, or SCIP)",
+        "Demonstrated ability to conduct independent research and publish in peer-reviewed venues",
+        "Legal authorization to work in the US is required",
+        "You must be 18 years of age or older",
+        "Must be willing to work out of an office located in Niskayuna, NY",
+        "You must submit your application for employment on the careers page at www.careers.gevernova.com to be considered"
+      ],
+      "Benefits": [
+        "The salary range for this position is $98,400 - $164,000 USD, annually",
+        "The specific salary offered to a candidate may be influenced by a variety of factors including the candidate’s experience, their education, and the work location",
+        "This position is also eligible for a performance bonus",
+        "GE Vernova provides a comprehensive benefits package that provides access to plans which support the overall wellbeing of our employees and their dependents",
+        "These benefits include, but are not limited to, health care coverage (medical, dental, vision, pharmacy), a retirement plan that includes Company Retirement Savings and a 401K with Company matching, Life Insurance options, Disability coverage, paid time-off, EAP, and more",
+        "GE Vernova offers a great work environment, professional development, challenging careers, and competitive compensation",
+        "For candidates applying to a U.S. based position, the pay range for this position is between $98,400.00 and $164,000.00",
+        "The Company pays a geographic differential of 110%, 120% or 130% of salary in certain areas",
+        "The specific pay offered may be influenced by a variety of factors, including the candidate’s experience, education, and skill set",
+        "Bonus eligibility: discretionary annual bonus",
+        "Available benefits include medical, dental, vision, and prescription drug coverage; access to Health Coach from GE Vernova, a 24/7 nurse-based resource; and access to the Employee Assistance Program, providing 24/7 confidential assessment, counseling and referral services",
+        "Retirement benefits include the GE Vernova Retirement Savings Plan, a tax-advantaged 401(k) savings opportunity with company matching contributions and company retirement contributions, as well as access to Fidelity resources and financial planning consultants",
+        "Other benefits include tuition assistance, adoption assistance, paid parental leave, disability benefits, life insurance, 12 paid holidays, and permissive time off",
+        "GE Vernova Inc. or its affiliates (collectively or individually, “GE Vernova”) sponsor certain employee benefit plans or programs GE Vernova reserves the right to terminate, amend, suspend, replace, or modify its benefit plans and programs at any time and for any reason, in its sole discretion"
+      ],
+      "Responsibilities": [
+        "You will work on projects spanning energy systems, manufacturing, logistics, supply chain management and emerging technologies, collaborating with domain experts to deliver impactful solutions",
+        "This role offers a unique opportunity to apply cutting-edge research in a dynamic, real-world environment while continuing to grow your expertise in operations research and analytics",
+        "Develop and implement mathematical models for optimization, scheduling, resource allocation, logistics and supply chain management",
+        "Design and execute simulation studies to evaluate system performance under uncertainty",
+        "Collaborate with cross-functional teams to translate business problems into analytical frameworks",
+        "Prototype and validate algorithms using Python, MATLAB, or similar platforms",
+        "Communicate technical findings through presentations, reports, and publications",
+        "Contribute to proposal development and support external funding initiatives",
+        "Stay current with advancements in operations research and related fields"
+      ]
+    },
+    "job_onet_soc": "15203100",
+    "job_onet_job_zone": "5",
+    "id": "careers-gevernova-com-lead-engineer-operations-research-for-controls-optimization-job-r5019016",
     "_source": "new_jobs"
   },
   {
@@ -526,128 +745,7 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "35SmjIIjy-8bWho0AAAAAA==",
-    "job_title": "Lead Engineer - Operations Research for Controls & Optimization",
-    "employer_name": "GE Vernova",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpGN-UL04guDxaKDmitRLx-yMPrA7ZpK-y_SGX&s=0",
-    "employer_website": "https://www.gevernova.com",
-    "job_publisher": "GE Vernova Careers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://careers.gevernova.com/lead-engineer-operations-research-for-controls-optimization/job/R5019016?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "GE Vernova Careers",
-        "apply_link": "https://careers.gevernova.com/lead-engineer-operations-research-for-controls-optimization/job/R5019016?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Workday",
-        "apply_link": "https://gevernova.wd5.myworkdayjobs.com/es/Vernova_ExternalSite/job/Lead-Engineer---Operations-Research-for-Controls---Optimization_R5019016-3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=515942662a8378d2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Dice",
-        "apply_link": "https://www.dice.com/job-detail/e6b84795-55fb-4774-a9d8-ad22f4091426?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/lead-engineer-operations-research-for-controls-optimization_d112adf0-5c19-4965-b4ff-c10f64a343f8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Built In",
-        "apply_link": "https://builtin.com/job/lead-engineer-operations-research-controls-optimization/7006324?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/GE-Vernova/Job/Lead-Engineer-Operations-Research-for-Controls-&-Optimization/-in-Niskayuna,NY?jid=85190c06523b0565&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/LsHh7T0VxFiUWCg2hCd22Eq8P-VvJSEVQKF1EcOi1CShhnXgYuY_AQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Job Description Summary\nGE Vernova Advanced Research Center is seeking a highly motivated and technically skilled Junior PhD Engineer to join our Controls and Optimization team. As part of a multidisciplinary group of scientists and engineers, you will contribute to solving complex industrial challenges using mathematical modeling, optimization, and simulation. You will work on projects spanning energy systems, manufacturing, logistics, supply chain management and emerging technologies, collaborating with domain experts to deliver impactful solutions. This role offers a unique opportunity to apply cutting-edge research in a dynamic, real-world environment while continuing to grow your expertise in operations research and analytics.\n\nAs a GE Vernova accelerator, GE Vernova Advanced Research is driving strategy and leading research & development efforts to execute on the business's mission to help power the energy transition. We forge the collaborations and help invent the technologies required to electrify and decarbonize for a zero-carbon future.\n\nRepresenting virtually every major scientific and engineering discipline, our researchers are collaborating with GE Vernova's businesses, the U.S. government, and more than 420 entities at the forefront of technology to execute on 150+ energy-focused projects. Collectively, these research programs and initiatives aim to solve near term technical challenges, deliver next generation product advances, and drive long term breakthrough innovation to enable more affordable, reliable, sustainable, and secure energy.\n\nJob Description\n\nRoles and Responsibilities\n• Develop and implement mathematical models for optimization, scheduling, resource allocation, logistics and supply chain management\n• Design and execute simulation studies to evaluate system performance under uncertainty\n• Collaborate with cross-functional teams to translate business problems into analytical frameworks\n• Prototype and validate algorithms using Python, MATLAB, or similar platforms\n• Communicate technical findings through presentations, reports, and publications\n• Contribute to proposal development and support external funding initiatives\n• Stay current with advancements in operations research and related fields\n\nRequired Qualifications\n• PhD in Operations Research, Industrial Engineering, Applied Mathematics, or related field\n• Strong foundation in linear, nonlinear, and integer optimization\n• Proficiency in programming languages such as Python, C++, or MATLAB\n• Experience with optimization solvers (e.g., Gurobi, CPLEX, or SCIP)\n• Demonstrated ability to conduct independent research and publish in peer-reviewed venues\n• Legal authorization to work in the US is required. We will not sponsor individuals at the Master's level, now or in the future, for this position.\n• You must be 18 years of age or older\n• Must be willing to work out of an office located in Niskayuna, NY\n• You must submit your application for employment on the careers page at www.careers.gevernova.com to be considered.\n\nDesired Characteristics\n• Familiarity with machine learning techniques and integration with optimization\n• Experience with stochastic modeling, queuing theory, or game theory\n• Strong communication and interpersonal skills for working in multidisciplinary teams\n• Intellectual curiosity and a passion for solving real-world problems\n• Ability to manage multiple projects and adapt to evolving priorities\n• Prior internship or collaboration with industry or government research labs\n\nThe salary range for this position is $98,400 - $164,000 USD, annually. The specific salary offered to a candidate may be influenced by a variety of factors including the candidate’s experience, their education, and the work location. This position is also eligible for a performance bonus. This position will remain posted until at least September 6th 2025.\n\nGE Vernova provides a comprehensive benefits package that provides access to plans which support the overall wellbeing of our employees and their dependents. These benefits include, but are not limited to, health care coverage (medical, dental, vision, pharmacy), a retirement plan that includes Company Retirement Savings and a 401K with Company matching, Life Insurance options, Disability coverage, paid time-off, EAP, and more.\n\nGE Vernova offers a great work environment, professional development, challenging careers, and competitive compensation. GE Vernova is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.\n\nGE Vernova will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a drug screen (as applicable).\n\nRelocation Assistance Provided: Yes\n\nFor candidates applying to a U.S. based position, the pay range for this position is between $98,400.00 and $164,000.00. The Company pays a geographic differential of 110%, 120% or 130% of salary in certain areas. The specific pay offered may be influenced by a variety of factors, including the candidate’s experience, education, and skill set.\n\nBonus eligibility: discretionary annual bonus.\n\nThis posting is expected to remain open for at least seven days after it was posted on January 16, 2026.\n\nAvailable benefits include medical, dental, vision, and prescription drug coverage; access to Health Coach from GE Vernova, a 24/7 nurse-based resource; and access to the Employee Assistance Program, providing 24/7 confidential assessment, counseling and referral services. Retirement benefits include the GE Vernova Retirement Savings Plan, a tax-advantaged 401(k) savings opportunity with company matching contributions and company retirement contributions, as well as access to Fidelity resources and financial planning consultants. Other benefits include tuition assistance, adoption assistance, paid parental leave, disability benefits, life insurance, 12 paid holidays, and permissive time off.\n\nGE Vernova Inc. or its affiliates (collectively or individually, “GE Vernova”) sponsor certain employee benefit plans or programs GE Vernova reserves the right to terminate, amend, suspend, replace, or modify its benefit plans and programs at any time and for any reason, in its sole discretion. No individual has a vested right to any benefit under a GE Vernova welfare benefit plan or program. This document does not create a contract of employment with any individual.",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "Niskayuna",
-    "job_city": "Niskayuna",
-    "job_state": "New York",
-    "job_country": "US",
-    "job_latitude": 42.8000049,
-    "job_longitude": -73.89144069999999,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D35SmjIIjy-8bWho0AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "PhD in Operations Research, Industrial Engineering, Applied Mathematics, or related field",
-        "Strong foundation in linear, nonlinear, and integer optimization",
-        "Proficiency in programming languages such as Python, C++, or MATLAB",
-        "Experience with optimization solvers (e.g., Gurobi, CPLEX, or SCIP)",
-        "Demonstrated ability to conduct independent research and publish in peer-reviewed venues",
-        "Legal authorization to work in the US is required",
-        "You must be 18 years of age or older",
-        "Must be willing to work out of an office located in Niskayuna, NY",
-        "You must submit your application for employment on the careers page at www.careers.gevernova.com to be considered"
-      ],
-      "Benefits": [
-        "The salary range for this position is $98,400 - $164,000 USD, annually",
-        "The specific salary offered to a candidate may be influenced by a variety of factors including the candidate’s experience, their education, and the work location",
-        "This position is also eligible for a performance bonus",
-        "GE Vernova provides a comprehensive benefits package that provides access to plans which support the overall wellbeing of our employees and their dependents",
-        "These benefits include, but are not limited to, health care coverage (medical, dental, vision, pharmacy), a retirement plan that includes Company Retirement Savings and a 401K with Company matching, Life Insurance options, Disability coverage, paid time-off, EAP, and more",
-        "GE Vernova offers a great work environment, professional development, challenging careers, and competitive compensation",
-        "For candidates applying to a U.S. based position, the pay range for this position is between $98,400.00 and $164,000.00",
-        "The Company pays a geographic differential of 110%, 120% or 130% of salary in certain areas",
-        "The specific pay offered may be influenced by a variety of factors, including the candidate’s experience, education, and skill set",
-        "Bonus eligibility: discretionary annual bonus",
-        "Available benefits include medical, dental, vision, and prescription drug coverage; access to Health Coach from GE Vernova, a 24/7 nurse-based resource; and access to the Employee Assistance Program, providing 24/7 confidential assessment, counseling and referral services",
-        "Retirement benefits include the GE Vernova Retirement Savings Plan, a tax-advantaged 401(k) savings opportunity with company matching contributions and company retirement contributions, as well as access to Fidelity resources and financial planning consultants",
-        "Other benefits include tuition assistance, adoption assistance, paid parental leave, disability benefits, life insurance, 12 paid holidays, and permissive time off",
-        "GE Vernova Inc. or its affiliates (collectively or individually, “GE Vernova”) sponsor certain employee benefit plans or programs GE Vernova reserves the right to terminate, amend, suspend, replace, or modify its benefit plans and programs at any time and for any reason, in its sole discretion"
-      ],
-      "Responsibilities": [
-        "You will work on projects spanning energy systems, manufacturing, logistics, supply chain management and emerging technologies, collaborating with domain experts to deliver impactful solutions",
-        "This role offers a unique opportunity to apply cutting-edge research in a dynamic, real-world environment while continuing to grow your expertise in operations research and analytics",
-        "Develop and implement mathematical models for optimization, scheduling, resource allocation, logistics and supply chain management",
-        "Design and execute simulation studies to evaluate system performance under uncertainty",
-        "Collaborate with cross-functional teams to translate business problems into analytical frameworks",
-        "Prototype and validate algorithms using Python, MATLAB, or similar platforms",
-        "Communicate technical findings through presentations, reports, and publications",
-        "Contribute to proposal development and support external funding initiatives",
-        "Stay current with advancements in operations research and related fields"
-      ]
-    },
-    "job_onet_soc": "15203100",
-    "job_onet_job_zone": "5",
-    "id": "careers-gevernova-com-lead-engineer-operations-research-for-controls-optimization-job-r5019016",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "X0NSQ-MWlZxfT3XwAAAAAA==",
+    "job_id": "wueq_P4Kwf8UaWxQAAAAAA==",
     "job_title": "Junior Research Engineer",
     "employer_name": "VirtualVocations",
     "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
@@ -657,12 +755,12 @@
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=d4c13689c8eb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.talent.com/view?id=a435eb00fd4b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
         "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=d4c13689c8eb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.talent.com/view?id=a435eb00fd4b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
@@ -671,14 +769,14 @@
     "job_posted_at": "4 days ago",
     "job_posted_at_timestamp": 1770681600,
     "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Toms River, NJ",
-    "job_city": "Toms River",
-    "job_state": "New Jersey",
+    "job_location": "Columbus, OH",
+    "job_city": "Columbus",
+    "job_state": "Ohio",
     "job_country": "US",
-    "job_latitude": 39.963417799999995,
-    "job_longitude": -74.18733859999999,
+    "job_latitude": 39.9625112,
+    "job_longitude": -83.00322179999999,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DX0NSQ-MWlZxfT3XwAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dwueq_P4Kwf8UaWxQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
@@ -700,48 +798,6 @@
     "job_onet_soc": "19203200",
     "job_onet_job_zone": "5",
     "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "6Doq8alEFRQwSN0kAAAAAA==",
-    "job_title": "Research Engineer – Safety System, Evaluation and Foundation",
-    "employer_name": "Meta",
-    "employer_logo": null,
-    "employer_website": "https://www.meta.com",
-    "job_publisher": "Tallo",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://tallo.com/jobs/technology/artificial-intelligence-engineer/ny/new-york/research-engineer-safety-system-evaluation-and-d4cac6952ec5/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Tallo",
-        "apply_link": "https://tallo.com/jobs/technology/artificial-intelligence-engineer/ny/new-york/research-engineer-safety-system-evaluation-and-d4cac6952ec5/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "This job listing in New York - NY has been recently added. Tallo will add a summary here for this job shortly.",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "New York, NY",
-    "job_city": "New York",
-    "job_state": "New York",
-    "job_country": "US",
-    "job_latitude": 40.7127753,
-    "job_longitude": -74.0059728,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D6Doq8alEFRQwSN0kAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": "YEAR",
-    "job_highlights": {},
-    "job_onet_soc": "17211100",
-    "job_onet_job_zone": "4",
-    "id": "tallo-com-jobs-technology-artificial-intelligence-engineer-ny-new-york-research-engineer-safety-system-evaluation-and-d4cac6952ec5",
     "_source": "new_jobs"
   },
   {
@@ -786,9 +842,9 @@
     "job_latitude": 38.9764364,
     "job_longitude": -76.489642,
     "job_benefits": [
+      "paid_time_off",
       "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DHBPHQ30BgG5m3QvsAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -852,263 +908,57 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "lxxT-wJgCKp-kXtJAAAAAA==",
-    "job_title": "Intern - Generative AI Research Engineer 9",
-    "employer_name": "Cotiviti",
+    "job_id": "Io4W-GT55ZULi2UdAAAAAA==",
+    "job_title": "R&D Software Engineer II/III ML, Vision & Autonomy",
+    "employer_name": "The Website Company",
     "employer_logo": null,
-    "employer_website": "https://www.cotiviti.com",
-    "job_publisher": "Jobilize",
+    "employer_website": "https://the.website.company",
+    "job_publisher": "WhatJobs",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.jobilize.com/job/us-de-all-cities-intern-generative-ai-research-engineer-9-cotiviti?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.whatjobs.com/jobs/research-engineer?id=2449465779&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-de-all-cities-intern-generative-ai-research-engineer-9-cotiviti?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/research-engineer?id=2449465779&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Overview\n\nThe Generative AI Research Engineer Intern conducts primary and secondary research of advanced and emerging healthcare informatics technology with a focus on Generative AI and emerging Artificial General Intelligence technology for healthcare treatment, payment, and operations use cases. Creates research papers, analytical reports, proposals, and educational material. Maintains a deep understanding of technology trends and hands-on experience with relevant technologies. Develops generative AI models, architectures, databases, and systems to improve healthcare solutions.\n\nWe are currently looking for interns who can start in January 2026. If you are looking for a Summer start date, please keep an eye on our website for openings early next year.ResponsibilitiesNOTE: There are multiple open intern positions. Hours and length of assignment will be at the intern's choice from 20 - 40 hours per week with a minimum of one semester up to one year.\n\nTechnical Expertise\n• Demonstrates a strong understanding of technology trends, research, and emerging technologies relevant to the healthcare industry, particularly in Generative AI.\n• Assists in developing and improving LLMs and ML tools used across the organization.\n• Assists in establishing and maintaining an Artificial Intelligence Governance Program.\nCommunication & Collaboration\n• Communicates technology-related updates and requirements to other departments and contributes to presentations for senior management.\n• Collaborates with research and development teams, product management, and strategic analysts to support ongoing projects.\nLeadership & Management\n• Partners with Business Units to provide reliable intelligence, validated technology options, and insights on enterprise and industry trends.\n• Supports technology project teams by coordinating specific tasks, assisting with day-to-day operations, and contributing to the successful delivery of solutions.\n• Assists in collaborative efforts with academic research teams, practicums, internships, and vendor POCs.\nExternal Relationships & Partnerships\n• Supports vendor evaluations and contributes to collaborations with vendors.\n• Assists as a liaison between academic institutions, professional organizations, and research groups as needed.\nOther\n• Support the Academic Corporate Engagement efforts to develop research and educational talent, with a focus on enhancing health tech knowledge and skills.\n• Complete all responsibilities and goals outlined in the internship program.\n• Complete all special projects and other duties as assigned.\n• Must be able to perform duties with or without reasonable accommodation.\nThis job description is intended to describe the general nature and level of work being performed in this internship. It is not an exhaustive list of responsibilities, duties, and skills required and does not constitute an employment agreement. This job description is subject to change as Cotiviti's needs and requirements of the internship evolve.\n\nQualifications\n• Currently pursuing or recently completed an advanced degree in healthcare, technology, or a related field (e.g., Biomedical Informatics, Computer Science) with preference of a PhD.\n• Demonstrated interest or experience in AI, healthcare technology, or informatics research.\n• Strong foundational knowledge in generative AI model development, architectures, and vector databases.\n• Hands-on experience with working with Machine Learning and Deep Learning models. Experience with LLM/RAG models and LLM fine-tuning is a plus.\n• Hands-on experience working with cloud services (AWS/Azure), large data sets, and building data pipelines for ML solutions. Experience with vector embeddings and databases is a plus.\n• Ability to work collaboratively and communicate effectively with cross-functional teams.\nMental Requirements:\n• Communicating with others to exchange information.\n• Assessing the accuracy, neatness, and thoroughness of the work assigned.\nPhysical Requirements and Working Conditions:\n• Remaining in a stationary position, often standing or sitting for prolonged periods.\n• Repeating motions that may include the wrists, hands, and/or fingers.\n• Must be able to provide a dedicated, secure work area.\n• Must be able to provide high-speed internet access/connectivity and office setup and maintenance.\n• No adverse environmental conditions are expected.\n\nBase compensation ranges from $32.00 to $40.00 per hour. Specific offers are determined by various factors, such as experience, education, skills, certifications, and other business needs.\n\nNonexempt employees are eligible to receive overtime pay for hours worked in excess of 40 hours in a given week, or as otherwise required by applicable state law.\n\nDate of posting: 1/7/2026\n\nApplications are assessed on a rolling basis. We anticipate that the application window will close on 4/7/2026, but the application window may change depending on the volume of applications received or close immediately if a qualified candidate is selected.\n• LI-DNP\n• LI-LL1\n• LI-remote\n• intern",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770508800,
-    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
-    "job_location": "Delaware",
-    "job_city": null,
-    "job_state": "Delaware",
-    "job_country": "US",
-    "job_latitude": 38.9108325,
-    "job_longitude": -75.52766989999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DlxxT-wJgCKp-kXtJAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Must be able to perform duties with or without reasonable accommodation",
-        "This job description is subject to change as Cotiviti's needs and requirements of the internship evolve",
-        "Currently pursuing or recently completed an advanced degree in healthcare, technology, or a related field (e.g., Biomedical Informatics, Computer Science) with preference of a PhD",
-        "Demonstrated interest or experience in AI, healthcare technology, or informatics research",
-        "Strong foundational knowledge in generative AI model development, architectures, and vector databases",
-        "Hands-on experience with working with Machine Learning and Deep Learning models",
-        "Hands-on experience working with cloud services (AWS/Azure), large data sets, and building data pipelines for ML solutions",
-        "Ability to work collaboratively and communicate effectively with cross-functional teams",
-        "Communicating with others to exchange information",
-        "Must be able to provide a dedicated, secure work area",
-        "Must be able to provide high-speed internet access/connectivity and office setup and maintenance",
-        "No adverse environmental conditions are expected"
-      ],
-      "Benefits": [
-        "Base compensation ranges from $32.00 to $40.00 per hour",
-        "Specific offers are determined by various factors, such as experience, education, skills, certifications, and other business needs"
-      ],
-      "Responsibilities": [
-        "The Generative AI Research Engineer Intern conducts primary and secondary research of advanced and emerging healthcare informatics technology with a focus on Generative AI and emerging Artificial General Intelligence technology for healthcare treatment, payment, and operations use cases",
-        "Creates research papers, analytical reports, proposals, and educational material",
-        "Maintains a deep understanding of technology trends and hands-on experience with relevant technologies",
-        "Develops generative AI models, architectures, databases, and systems to improve healthcare solutions",
-        "Hours and length of assignment will be at the intern's choice from 20 - 40 hours per week with a minimum of one semester up to one year",
-        "Demonstrates a strong understanding of technology trends, research, and emerging technologies relevant to the healthcare industry, particularly in Generative AI",
-        "Assists in developing and improving LLMs and ML tools used across the organization",
-        "Assists in establishing and maintaining an Artificial Intelligence Governance Program",
-        "Communication & Collaboration",
-        "Communicates technology-related updates and requirements to other departments and contributes to presentations for senior management",
-        "Collaborates with research and development teams, product management, and strategic analysts to support ongoing projects",
-        "Partners with Business Units to provide reliable intelligence, validated technology options, and insights on enterprise and industry trends",
-        "Supports technology project teams by coordinating specific tasks, assisting with day-to-day operations, and contributing to the successful delivery of solutions",
-        "Assists in collaborative efforts with academic research teams, practicums, internships, and vendor POCs",
-        "External Relationships & Partnerships",
-        "Supports vendor evaluations and contributes to collaborations with vendors",
-        "Assists as a liaison between academic institutions, professional organizations, and research groups as needed",
-        "Support the Academic Corporate Engagement efforts to develop research and educational talent, with a focus on enhancing health tech knowledge and skills",
-        "Complete all responsibilities and goals outlined in the internship program",
-        "Complete all special projects and other duties as assigned",
-        "Assessing the accuracy, neatness, and thoroughness of the work assigned",
-        "Remaining in a stationary position, often standing or sitting for prolonged periods",
-        "Repeating motions that may include the wrists, hands, and/or fingers"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-jobilize-com-job-us-de-all-cities-intern-generative-ai-research-engineer-9-cotiviti",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "Y-_Yv15joyGKN3uLAAAAAA==",
-    "job_title": "Research Engineer, Language - Generative AI",
-    "employer_name": "Meta",
-    "employer_logo": null,
-    "employer_website": "https://www.meta.com",
-    "job_publisher": "Snagajob",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.snagajob.com/jobs/1183614504?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Snagajob",
-        "apply_link": "https://www.snagajob.com/jobs/1183614504?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "National Labor Exchange",
-        "apply_link": "https://usnlx.com/concord-nh/research-engineer-language-generative-ai/9036E8BFDC2246DEA7379CF046E3FDD9/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-nh-concord-research-engineer-language-generative-ai-meta-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "**Summary:**\n\nMeta is seeking a Research Engineer to join our Large Language Model (LLM) Research team. We conduct focused research and engineering to build state-of-the-art LLMs, which we often open-source, like our team’s recent Llama 2. We are looking for strong engineers who have a background in generative AI and NLP, with experience in areas like language model evaluation; data processing for pre-training and fine-tuning; responsible LLMs; LLM alignment; reinforcement learning for language model tuning; efficient training and inference; and/or multilingual and multimodal modeling.\n• *Required Skills:**\n\nResearch Engineer, Language - Generative AI Responsibilities:\n\n1. Design methods, tools, and infrastructure to push forward the state of the art in large language models\n\n2. Define research goals informed by practical engineering concerns\n\n3. Contribute to experiments, including designing experimental details, writing reusable code, running evaluations, and organizing results\n\n4. Adapt standard machine learning methods to best exploit modern parallel environments (e.g. distributed clusters, multicore SMP, and GPU)\n\n5. Work with a large and globally distributed team\n\n6. Contribute to publications and open-sourcing efforts\n• *Minimum Qualifications:**\n\nMinimum Qualifications:\n\n7. Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\n\n8. Research experience in machine learning, deep learning, and/or natural language processing\n\n9. Experience with developing machine learning models at scale from inception to business impact\n\n10. Programming experience in Python and hands-on experience with frameworks such as PyTorch\n\n11. Exposure to architectural patterns of large scale software applications\n• *Preferred Qualifications:**\n\nPreferred Qualifications:\n\n12. A PhD in AI, computer science, data science, or related technical fields.\n\n13. Master's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.\n\n14. First author publications at peer-reviewed AI conferences (e.g., NeurIPS, CVPR, ICML, ICLR, ICCV, and ACL).\n\n15. Direct experience in generative AI and LLM research.\n• *Public Compensation:**\n\n$219,000/year to $257,000/year + bonus + equity + benefits\n• *Industry:** Internet\n• *Equal Opportunity:**\n\nMeta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.\n\nMeta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@meta.com.\n• *Summary:**\n\nMeta is seeking a Research Engineer to join our Large Language Model (LLM) Research team. We conduct focused research and engineering to build state-of-the-art LLMs, which we often open-source, like our team’s recent Llama 2. We are looking for strong engineers who have a background in generative AI and NLP, with experience in areas like language model evaluation; data processing for pre-training and fine-tuning; responsible LLMs; LLM alignment; reinforcement learning for language model tuning; efficient training and inference; and/or multilingual and multimodal modeling.\n• *Required Skills:**\n\nResearch Engineer, Language - Generative AI Responsibilities:\n\n1. Design methods, tools, and infrastructure to push forward the state of the art in large language models\n\n2. Define research goals informed by practical engineering concerns\n\n3. Contribute to experiments, including designing experimental details, writing reusable code, running evaluations, and organizing results\n\n4. Adapt standard machine learning methods to best exploit modern parallel environments (e.g. distributed clusters, multicore SMP, and GPU)\n\n5. Work with a large and globally distributed team\n\n6. Contribute to publications and open-sourcing efforts\n• *Minimum Qualifications:**\n\nMinimum Qualifications:\n\n7. Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\n\n8. Research experience in machine learning, deep learning, and/or natural language processing\n\n9. Experience with developing machine learning models at scale from inception to business impact\n\n10. Programming experience in Python and hands-on experience with frameworks such as PyTorch\n\n11. Exposure to architectural patterns of large scale software applications\n• *Preferred Qualifications:**\n\nPreferred Qualifications:\n\n12. A PhD in AI, computer science, data science, or related technical fields.\n\n13. Master's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.\n\n14. First author publications at peer-reviewed AI conferences (e.g., NeurIPS, CVPR, ICML, ICLR, ICCV, and ACL).\n\n15. Direct experience in generative AI and LLM research.\n• *Public Compensation:**\n\n$219,000/year to $257,000/year + bonus + equity + benefits\n• *Industry:** Internet\n• *Equal Opportunity:**\n\nMeta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.\n\nMeta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@meta.com.",
+    "job_description": "A leading research university in Burlington, MA is looking for a motivated Research & Development Engineer. This full-time role involves working on cutting-edge projects in software engineering, particularly in machine learning and artificial intelligence. Ideal candidates will have a strong proficiency in software development and a passion for innovative technology. Competitive compensation and a comprehensive benefits package are offered, with a significant emphasis on collaboration and research excellence.\n\n#J-18808-Ljbffr",
     "job_is_remote": false,
     "job_posted_at": "8 days ago",
     "job_posted_at_timestamp": 1770336000,
     "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
-    "job_location": "Concord, NH",
-    "job_city": "Concord",
-    "job_state": "New Hampshire",
+    "job_location": "Burlington, KY",
+    "job_city": "Burlington",
+    "job_state": "Kentucky",
     "job_country": "US",
-    "job_latitude": 43.206220599999995,
-    "job_longitude": -71.5398156,
+    "job_latitude": 39.02756,
+    "job_longitude": -84.7241133,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DY-_Yv15joyGKN3uLAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DIo4W-GT55ZULi2UdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "We are looking for strong engineers who have a background in generative AI and NLP, with experience in areas like language model evaluation; data processing for pre-training and fine-tuning; responsible LLMs; LLM alignment; reinforcement learning for language model tuning; efficient training and inference; and/or multilingual and multimodal modeling",
-        "Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience",
-        "Research experience in machine learning, deep learning, and/or natural language processing",
-        "Experience with developing machine learning models at scale from inception to business impact",
-        "Programming experience in Python and hands-on experience with frameworks such as PyTorch",
-        "Exposure to architectural patterns of large scale software applications",
-        "Meta participates in the E-Verify program in certain locations, as required by law",
-        "We are looking for strong engineers who have a background in generative AI and NLP, with experience in areas like language model evaluation; data processing for pre-training and fine-tuning; responsible LLMs; LLM alignment; reinforcement learning for language model tuning; efficient training and inference; and/or multilingual and multimodal modeling",
-        "*Required Skills:**",
-        "Adapt standard machine learning methods to best exploit modern parallel environments (e.g. distributed clusters, multicore SMP, and GPU)",
-        "Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience",
-        "Research experience in machine learning, deep learning, and/or natural language processing",
-        "Experience with developing machine learning models at scale from inception to business impact",
-        "Programming experience in Python and hands-on experience with frameworks such as PyTorch",
-        "Exposure to architectural patterns of large scale software applications",
-        "Meta participates in the E-Verify program in certain locations, as required by law"
+        "Ideal candidates will have a strong proficiency in software development and a passion for innovative technology"
       ],
       "Benefits": [
-        "$219,000/year to $257,000/year + bonus + equity + benefits",
-        "$219,000/year to $257,000/year + bonus + equity + benefits"
+        "Competitive compensation and a comprehensive benefits package are offered, with a significant emphasis on collaboration and research excellence",
+        "#J-18808-Ljbffr"
       ],
       "Responsibilities": [
-        "Design methods, tools, and infrastructure to push forward the state of the art in large language models",
-        "Define research goals informed by practical engineering concerns",
-        "Contribute to experiments, including designing experimental details, writing reusable code, running evaluations, and organizing results",
-        "Adapt standard machine learning methods to best exploit modern parallel environments (e.g. distributed clusters, multicore SMP, and GPU)",
-        "Work with a large and globally distributed team",
-        "Contribute to publications and open-sourcing efforts",
-        "Design methods, tools, and infrastructure to push forward the state of the art in large language models",
-        "Define research goals informed by practical engineering concerns",
-        "Contribute to experiments, including designing experimental details, writing reusable code, running evaluations, and organizing results",
-        "Work with a large and globally distributed team",
-        "Contribute to publications and open-sourcing efforts"
+        "This full-time role involves working on cutting-edge projects in software engineering, particularly in machine learning and artificial intelligence"
       ]
     },
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
-    "id": "www-snagajob-com-jobs-1183614504",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "ikBGAAL2JRTdJHSkAAAAAA==",
-    "job_title": "Research Engineer, Pre-training",
-    "employer_name": "Anthropic",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_rqyx9fi6uAmIEriSLRipRepRV5O30wOxjYOV&s=0",
-    "employer_website": "https://www.anthropic.com",
-    "job_publisher": "Jobright",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobright.ai/jobs/info/69165dbf6f36db06ef0558c0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/69165dbf6f36db06ef0558c0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/research-engineer-pre-training-at-anthropic-4322260479?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Career.com",
-        "apply_link": "https://www.career.com/job/anthropic/research-engineer-pre-training/j202512051008129654348?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Anthropic is a public benefit corporation dedicated to developing safe, ethical, and powerful artificial intelligence. They are seeking a Research Engineer to join their Pre-training team, responsible for developing the next generation of large language models and contributing to the development of safe, steerable, and trustworthy AI systems.\n\nResponsibilities\n• Conduct research and implement solutions in areas such as model architecture, algorithms, data processing, and optimizer development\n• Independently lead small research projects while collaborating with team members on larger initiatives\n• Design, run, and analyze scientific experiments to advance our understanding of large language models\n• Optimize and scale our training infrastructure to improve efficiency and reliability\n• Develop and improve dev tooling to enhance team productivity\n• Contribute to the entire stack, from low-level optimizations to high-level model design\n\nSkills\n• Advanced degree (MS or PhD) in Computer Science, Machine Learning, or a related field\n• Strong software engineering skills with a proven track record of building complex systems\n• Expertise in Python and experience with deep learning frameworks (PyTorch preferred)\n• Familiarity with large-scale machine learning, particularly in the context of language models\n• Ability to balance research goals with practical engineering constraints\n• Strong problem-solving skills and a results-oriented mindset\n• Excellent communication skills and ability to work in a collaborative environment\n• Care about the societal impacts of your work\n• Work on high-performance, large-scale ML systems\n• Familiarity with GPUs, Kubernetes, and OS internals\n• Experience with language modeling using transformer architectures\n• Knowledge of reinforcement learning techniques\n• Background in large-scale ETL processes\n\nBenefits\n• Competitive compensation and benefits\n• Optional equity donation matching\n• Generous vacation and parental leave\n• Flexible working hours\n• A lovely office space in which to collaborate with colleagues\n\nCompany Overview\n• Anthropic is an AI research company that focuses on the safety and alignment of AI systems with human values. It was founded in 2021, and is headquartered in San Francisco, California, USA, with a workforce of 501-1000 employees. Its website is https://www.anthropic.com.\n\nCompany H1B Sponsorship\n• Anthropic has a track record of offering H1B sponsorships, with 105 in 2025, 13 in 2024, 3 in 2023, 4 in 2022, 1 in 2021. Please note that this does not guarantee sponsorship for this specific role.",
-    "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770422400,
-    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
-    "job_location": "Seattle, WA",
-    "job_city": "Seattle",
-    "job_state": "Washington",
-    "job_country": "US",
-    "job_latitude": 47.6061389,
-    "job_longitude": -122.33284809999999,
-    "job_benefits": [
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DikBGAAL2JRTdJHSkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 350000,
-    "job_max_salary": 850000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "Advanced degree (MS or PhD) in Computer Science, Machine Learning, or a related field",
-        "Strong software engineering skills with a proven track record of building complex systems",
-        "Familiarity with large-scale machine learning, particularly in the context of language models",
-        "Ability to balance research goals with practical engineering constraints",
-        "Strong problem-solving skills and a results-oriented mindset",
-        "Excellent communication skills and ability to work in a collaborative environment",
-        "Care about the societal impacts of your work",
-        "Work on high-performance, large-scale ML systems",
-        "Familiarity with GPUs, Kubernetes, and OS internals",
-        "Experience with language modeling using transformer architectures",
-        "Knowledge of reinforcement learning techniques",
-        "Background in large-scale ETL processes"
-      ],
-      "Benefits": [
-        "Competitive compensation and benefits",
-        "Optional equity donation matching",
-        "Generous vacation and parental leave",
-        "Flexible working hours",
-        "A lovely office space in which to collaborate with colleagues"
-      ],
-      "Responsibilities": [
-        "Conduct research and implement solutions in areas such as model architecture, algorithms, data processing, and optimizer development",
-        "Independently lead small research projects while collaborating with team members on larger initiatives",
-        "Design, run, and analyze scientific experiments to advance our understanding of large language models",
-        "Optimize and scale our training infrastructure to improve efficiency and reliability",
-        "Develop and improve dev tooling to enhance team productivity",
-        "Contribute to the entire stack, from low-level optimizations to high-level model design"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "jobright-ai-jobs-info-69165dbf6f36db06ef0558c0",
+    "id": "www-whatjobs-com-jobs-research-engineer",
     "_source": "new_jobs"
   },
   {
@@ -1206,113 +1056,92 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "Io4W-GT55ZULi2UdAAAAAA==",
-    "job_title": "R&D Software Engineer II/III ML, Vision & Autonomy",
-    "employer_name": "The Website Company",
+    "job_id": "Y-_Yv15joyGKN3uLAAAAAA==",
+    "job_title": "Research Engineer, Language - Generative AI",
+    "employer_name": "Meta",
     "employer_logo": null,
-    "employer_website": "https://the.website.company",
-    "job_publisher": "WhatJobs",
+    "employer_website": "https://www.meta.com",
+    "job_publisher": "Snagajob",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.whatjobs.com/jobs/research-engineer?id=2449465779&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.snagajob.com/jobs/1183614504?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/research-engineer?id=2449465779&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Snagajob",
+        "apply_link": "https://www.snagajob.com/jobs/1183614504?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "National Labor Exchange",
+        "apply_link": "https://usnlx.com/concord-nh/research-engineer-language-generative-ai/9036E8BFDC2246DEA7379CF046E3FDD9/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-nh-concord-research-engineer-language-generative-ai-meta-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "A leading research university in Burlington, MA is looking for a motivated Research & Development Engineer. This full-time role involves working on cutting-edge projects in software engineering, particularly in machine learning and artificial intelligence. Ideal candidates will have a strong proficiency in software development and a passion for innovative technology. Competitive compensation and a comprehensive benefits package are offered, with a significant emphasis on collaboration and research excellence.\n\n#J-18808-Ljbffr",
+    "job_description": "**Summary:**\n\nMeta is seeking a Research Engineer to join our Large Language Model (LLM) Research team. We conduct focused research and engineering to build state-of-the-art LLMs, which we often open-source, like our team’s recent Llama 2. We are looking for strong engineers who have a background in generative AI and NLP, with experience in areas like language model evaluation; data processing for pre-training and fine-tuning; responsible LLMs; LLM alignment; reinforcement learning for language model tuning; efficient training and inference; and/or multilingual and multimodal modeling.\n• *Required Skills:**\n\nResearch Engineer, Language - Generative AI Responsibilities:\n\n1. Design methods, tools, and infrastructure to push forward the state of the art in large language models\n\n2. Define research goals informed by practical engineering concerns\n\n3. Contribute to experiments, including designing experimental details, writing reusable code, running evaluations, and organizing results\n\n4. Adapt standard machine learning methods to best exploit modern parallel environments (e.g. distributed clusters, multicore SMP, and GPU)\n\n5. Work with a large and globally distributed team\n\n6. Contribute to publications and open-sourcing efforts\n• *Minimum Qualifications:**\n\nMinimum Qualifications:\n\n7. Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\n\n8. Research experience in machine learning, deep learning, and/or natural language processing\n\n9. Experience with developing machine learning models at scale from inception to business impact\n\n10. Programming experience in Python and hands-on experience with frameworks such as PyTorch\n\n11. Exposure to architectural patterns of large scale software applications\n• *Preferred Qualifications:**\n\nPreferred Qualifications:\n\n12. A PhD in AI, computer science, data science, or related technical fields.\n\n13. Master's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.\n\n14. First author publications at peer-reviewed AI conferences (e.g., NeurIPS, CVPR, ICML, ICLR, ICCV, and ACL).\n\n15. Direct experience in generative AI and LLM research.\n• *Public Compensation:**\n\n$219,000/year to $257,000/year + bonus + equity + benefits\n• *Industry:** Internet\n• *Equal Opportunity:**\n\nMeta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.\n\nMeta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@meta.com.\n• *Summary:**\n\nMeta is seeking a Research Engineer to join our Large Language Model (LLM) Research team. We conduct focused research and engineering to build state-of-the-art LLMs, which we often open-source, like our team’s recent Llama 2. We are looking for strong engineers who have a background in generative AI and NLP, with experience in areas like language model evaluation; data processing for pre-training and fine-tuning; responsible LLMs; LLM alignment; reinforcement learning for language model tuning; efficient training and inference; and/or multilingual and multimodal modeling.\n• *Required Skills:**\n\nResearch Engineer, Language - Generative AI Responsibilities:\n\n1. Design methods, tools, and infrastructure to push forward the state of the art in large language models\n\n2. Define research goals informed by practical engineering concerns\n\n3. Contribute to experiments, including designing experimental details, writing reusable code, running evaluations, and organizing results\n\n4. Adapt standard machine learning methods to best exploit modern parallel environments (e.g. distributed clusters, multicore SMP, and GPU)\n\n5. Work with a large and globally distributed team\n\n6. Contribute to publications and open-sourcing efforts\n• *Minimum Qualifications:**\n\nMinimum Qualifications:\n\n7. Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\n\n8. Research experience in machine learning, deep learning, and/or natural language processing\n\n9. Experience with developing machine learning models at scale from inception to business impact\n\n10. Programming experience in Python and hands-on experience with frameworks such as PyTorch\n\n11. Exposure to architectural patterns of large scale software applications\n• *Preferred Qualifications:**\n\nPreferred Qualifications:\n\n12. A PhD in AI, computer science, data science, or related technical fields.\n\n13. Master's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.\n\n14. First author publications at peer-reviewed AI conferences (e.g., NeurIPS, CVPR, ICML, ICLR, ICCV, and ACL).\n\n15. Direct experience in generative AI and LLM research.\n• *Public Compensation:**\n\n$219,000/year to $257,000/year + bonus + equity + benefits\n• *Industry:** Internet\n• *Equal Opportunity:**\n\nMeta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.\n\nMeta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@meta.com.",
     "job_is_remote": false,
     "job_posted_at": "8 days ago",
     "job_posted_at_timestamp": 1770336000,
     "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
-    "job_location": "Burlington, KY",
-    "job_city": "Burlington",
-    "job_state": "Kentucky",
+    "job_location": "Concord, NH",
+    "job_city": "Concord",
+    "job_state": "New Hampshire",
     "job_country": "US",
-    "job_latitude": 39.02756,
-    "job_longitude": -84.7241133,
+    "job_latitude": 43.206220599999995,
+    "job_longitude": -71.5398156,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DIo4W-GT55ZULi2UdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DY-_Yv15joyGKN3uLAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Ideal candidates will have a strong proficiency in software development and a passion for innovative technology"
+        "We are looking for strong engineers who have a background in generative AI and NLP, with experience in areas like language model evaluation; data processing for pre-training and fine-tuning; responsible LLMs; LLM alignment; reinforcement learning for language model tuning; efficient training and inference; and/or multilingual and multimodal modeling",
+        "Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience",
+        "Research experience in machine learning, deep learning, and/or natural language processing",
+        "Experience with developing machine learning models at scale from inception to business impact",
+        "Programming experience in Python and hands-on experience with frameworks such as PyTorch",
+        "Exposure to architectural patterns of large scale software applications",
+        "Meta participates in the E-Verify program in certain locations, as required by law",
+        "We are looking for strong engineers who have a background in generative AI and NLP, with experience in areas like language model evaluation; data processing for pre-training and fine-tuning; responsible LLMs; LLM alignment; reinforcement learning for language model tuning; efficient training and inference; and/or multilingual and multimodal modeling",
+        "*Required Skills:**",
+        "Adapt standard machine learning methods to best exploit modern parallel environments (e.g. distributed clusters, multicore SMP, and GPU)",
+        "Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience",
+        "Research experience in machine learning, deep learning, and/or natural language processing",
+        "Experience with developing machine learning models at scale from inception to business impact",
+        "Programming experience in Python and hands-on experience with frameworks such as PyTorch",
+        "Exposure to architectural patterns of large scale software applications",
+        "Meta participates in the E-Verify program in certain locations, as required by law"
       ],
       "Benefits": [
-        "Competitive compensation and a comprehensive benefits package are offered, with a significant emphasis on collaboration and research excellence",
-        "#J-18808-Ljbffr"
+        "$219,000/year to $257,000/year + bonus + equity + benefits",
+        "$219,000/year to $257,000/year + bonus + equity + benefits"
       ],
       "Responsibilities": [
-        "This full-time role involves working on cutting-edge projects in software engineering, particularly in machine learning and artificial intelligence"
+        "Design methods, tools, and infrastructure to push forward the state of the art in large language models",
+        "Define research goals informed by practical engineering concerns",
+        "Contribute to experiments, including designing experimental details, writing reusable code, running evaluations, and organizing results",
+        "Adapt standard machine learning methods to best exploit modern parallel environments (e.g. distributed clusters, multicore SMP, and GPU)",
+        "Work with a large and globally distributed team",
+        "Contribute to publications and open-sourcing efforts",
+        "Design methods, tools, and infrastructure to push forward the state of the art in large language models",
+        "Define research goals informed by practical engineering concerns",
+        "Contribute to experiments, including designing experimental details, writing reusable code, running evaluations, and organizing results",
+        "Work with a large and globally distributed team",
+        "Contribute to publications and open-sourcing efforts"
       ]
     },
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
-    "id": "www-whatjobs-com-jobs-research-engineer",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "NaF282ws6ShIRCryAAAAAA==",
-    "job_title": "Research Engineer 2",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=5f2d6c3e4efb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=5f2d6c3e4efb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A company is looking for a Research Engineer 2.\n\nKey Responsibilities\n\nDevelop and implement software applications using various programming languages and frameworks\n\nEstablish host environments for software applications and provide ongoing technical support\n\nPerform data extracts and analysis, and assist in crafting academic publications as needed\n\nRequired Qualifications\n\nBachelor's degree in Computer Science, Informatics, or a related scientific field\n\nAt least 3 years of experience developing data-driven web-based applications with C# or a similar object-oriented language\n\nExperience with various object-oriented programming languages and development frameworks\n\nExtensive SQL expertise and knowledge of relational databases\n\nFamiliarity with technological security best practices",
-    "job_is_remote": false,
-    "job_posted_at": "9 days ago",
-    "job_posted_at_timestamp": 1770249600,
-    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
-    "job_location": "Manassas, VA",
-    "job_city": "Manassas",
-    "job_state": "Virginia",
-    "job_country": "US",
-    "job_latitude": 38.7512726,
-    "job_longitude": -77.4706769,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DNaF282ws6ShIRCryAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Bachelor's degree in Computer Science, Informatics, or a related scientific field",
-        "At least 3 years of experience developing data-driven web-based applications with C# or a similar object-oriented language",
-        "Experience with various object-oriented programming languages and development frameworks",
-        "Extensive SQL expertise and knowledge of relational databases",
-        "Familiarity with technological security best practices"
-      ],
-      "Responsibilities": [
-        "Develop and implement software applications using various programming languages and frameworks",
-        "Establish host environments for software applications and provide ongoing technical support",
-        "Perform data extracts and analysis, and assist in crafting academic publications as needed"
-      ]
-    },
-    "job_onet_soc": "19203200",
-    "job_onet_job_zone": "5",
-    "id": "www-talent-com-view",
+    "id": "www-snagajob-com-jobs-1183614504",
     "_source": "new_jobs"
   },
   {
@@ -1427,6 +1256,177 @@
     "job_onet_soc": "11904100",
     "job_onet_job_zone": "5",
     "id": "careers-merckgroup-com-global-en-job-295848-r-d-engineering-manager",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "lxxT-wJgCKp-kXtJAAAAAA==",
+    "job_title": "Intern - Generative AI Research Engineer 9",
+    "employer_name": "Cotiviti",
+    "employer_logo": null,
+    "employer_website": "https://www.cotiviti.com",
+    "job_publisher": "Jobilize",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.jobilize.com/job/us-de-all-cities-intern-generative-ai-research-engineer-9-cotiviti?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-de-all-cities-intern-generative-ai-research-engineer-9-cotiviti?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Overview\n\nThe Generative AI Research Engineer Intern conducts primary and secondary research of advanced and emerging healthcare informatics technology with a focus on Generative AI and emerging Artificial General Intelligence technology for healthcare treatment, payment, and operations use cases. Creates research papers, analytical reports, proposals, and educational material. Maintains a deep understanding of technology trends and hands-on experience with relevant technologies. Develops generative AI models, architectures, databases, and systems to improve healthcare solutions.\n\nWe are currently looking for interns who can start in January 2026. If you are looking for a Summer start date, please keep an eye on our website for openings early next year.ResponsibilitiesNOTE: There are multiple open intern positions. Hours and length of assignment will be at the intern's choice from 20 - 40 hours per week with a minimum of one semester up to one year.\n\nTechnical Expertise\n• Demonstrates a strong understanding of technology trends, research, and emerging technologies relevant to the healthcare industry, particularly in Generative AI.\n• Assists in developing and improving LLMs and ML tools used across the organization.\n• Assists in establishing and maintaining an Artificial Intelligence Governance Program.\nCommunication & Collaboration\n• Communicates technology-related updates and requirements to other departments and contributes to presentations for senior management.\n• Collaborates with research and development teams, product management, and strategic analysts to support ongoing projects.\nLeadership & Management\n• Partners with Business Units to provide reliable intelligence, validated technology options, and insights on enterprise and industry trends.\n• Supports technology project teams by coordinating specific tasks, assisting with day-to-day operations, and contributing to the successful delivery of solutions.\n• Assists in collaborative efforts with academic research teams, practicums, internships, and vendor POCs.\nExternal Relationships & Partnerships\n• Supports vendor evaluations and contributes to collaborations with vendors.\n• Assists as a liaison between academic institutions, professional organizations, and research groups as needed.\nOther\n• Support the Academic Corporate Engagement efforts to develop research and educational talent, with a focus on enhancing health tech knowledge and skills.\n• Complete all responsibilities and goals outlined in the internship program.\n• Complete all special projects and other duties as assigned.\n• Must be able to perform duties with or without reasonable accommodation.\nThis job description is intended to describe the general nature and level of work being performed in this internship. It is not an exhaustive list of responsibilities, duties, and skills required and does not constitute an employment agreement. This job description is subject to change as Cotiviti's needs and requirements of the internship evolve.\n\nQualifications\n• Currently pursuing or recently completed an advanced degree in healthcare, technology, or a related field (e.g., Biomedical Informatics, Computer Science) with preference of a PhD.\n• Demonstrated interest or experience in AI, healthcare technology, or informatics research.\n• Strong foundational knowledge in generative AI model development, architectures, and vector databases.\n• Hands-on experience with working with Machine Learning and Deep Learning models. Experience with LLM/RAG models and LLM fine-tuning is a plus.\n• Hands-on experience working with cloud services (AWS/Azure), large data sets, and building data pipelines for ML solutions. Experience with vector embeddings and databases is a plus.\n• Ability to work collaboratively and communicate effectively with cross-functional teams.\nMental Requirements:\n• Communicating with others to exchange information.\n• Assessing the accuracy, neatness, and thoroughness of the work assigned.\nPhysical Requirements and Working Conditions:\n• Remaining in a stationary position, often standing or sitting for prolonged periods.\n• Repeating motions that may include the wrists, hands, and/or fingers.\n• Must be able to provide a dedicated, secure work area.\n• Must be able to provide high-speed internet access/connectivity and office setup and maintenance.\n• No adverse environmental conditions are expected.\n\nBase compensation ranges from $32.00 to $40.00 per hour. Specific offers are determined by various factors, such as experience, education, skills, certifications, and other business needs.\n\nNonexempt employees are eligible to receive overtime pay for hours worked in excess of 40 hours in a given week, or as otherwise required by applicable state law.\n\nDate of posting: 1/7/2026\n\nApplications are assessed on a rolling basis. We anticipate that the application window will close on 4/7/2026, but the application window may change depending on the volume of applications received or close immediately if a qualified candidate is selected.\n• LI-DNP\n• LI-LL1\n• LI-remote\n• intern",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770508800,
+    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
+    "job_location": "Delaware",
+    "job_city": null,
+    "job_state": "Delaware",
+    "job_country": "US",
+    "job_latitude": 38.9108325,
+    "job_longitude": -75.52766989999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DlxxT-wJgCKp-kXtJAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Must be able to perform duties with or without reasonable accommodation",
+        "This job description is subject to change as Cotiviti's needs and requirements of the internship evolve",
+        "Currently pursuing or recently completed an advanced degree in healthcare, technology, or a related field (e.g., Biomedical Informatics, Computer Science) with preference of a PhD",
+        "Demonstrated interest or experience in AI, healthcare technology, or informatics research",
+        "Strong foundational knowledge in generative AI model development, architectures, and vector databases",
+        "Hands-on experience with working with Machine Learning and Deep Learning models",
+        "Hands-on experience working with cloud services (AWS/Azure), large data sets, and building data pipelines for ML solutions",
+        "Ability to work collaboratively and communicate effectively with cross-functional teams",
+        "Communicating with others to exchange information",
+        "Must be able to provide a dedicated, secure work area",
+        "Must be able to provide high-speed internet access/connectivity and office setup and maintenance",
+        "No adverse environmental conditions are expected"
+      ],
+      "Benefits": [
+        "Base compensation ranges from $32.00 to $40.00 per hour",
+        "Specific offers are determined by various factors, such as experience, education, skills, certifications, and other business needs"
+      ],
+      "Responsibilities": [
+        "The Generative AI Research Engineer Intern conducts primary and secondary research of advanced and emerging healthcare informatics technology with a focus on Generative AI and emerging Artificial General Intelligence technology for healthcare treatment, payment, and operations use cases",
+        "Creates research papers, analytical reports, proposals, and educational material",
+        "Maintains a deep understanding of technology trends and hands-on experience with relevant technologies",
+        "Develops generative AI models, architectures, databases, and systems to improve healthcare solutions",
+        "Hours and length of assignment will be at the intern's choice from 20 - 40 hours per week with a minimum of one semester up to one year",
+        "Demonstrates a strong understanding of technology trends, research, and emerging technologies relevant to the healthcare industry, particularly in Generative AI",
+        "Assists in developing and improving LLMs and ML tools used across the organization",
+        "Assists in establishing and maintaining an Artificial Intelligence Governance Program",
+        "Communication & Collaboration",
+        "Communicates technology-related updates and requirements to other departments and contributes to presentations for senior management",
+        "Collaborates with research and development teams, product management, and strategic analysts to support ongoing projects",
+        "Partners with Business Units to provide reliable intelligence, validated technology options, and insights on enterprise and industry trends",
+        "Supports technology project teams by coordinating specific tasks, assisting with day-to-day operations, and contributing to the successful delivery of solutions",
+        "Assists in collaborative efforts with academic research teams, practicums, internships, and vendor POCs",
+        "External Relationships & Partnerships",
+        "Supports vendor evaluations and contributes to collaborations with vendors",
+        "Assists as a liaison between academic institutions, professional organizations, and research groups as needed",
+        "Support the Academic Corporate Engagement efforts to develop research and educational talent, with a focus on enhancing health tech knowledge and skills",
+        "Complete all responsibilities and goals outlined in the internship program",
+        "Complete all special projects and other duties as assigned",
+        "Assessing the accuracy, neatness, and thoroughness of the work assigned",
+        "Remaining in a stationary position, often standing or sitting for prolonged periods",
+        "Repeating motions that may include the wrists, hands, and/or fingers"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-jobilize-com-job-us-de-all-cities-intern-generative-ai-research-engineer-9-cotiviti",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "ikBGAAL2JRTdJHSkAAAAAA==",
+    "job_title": "Research Engineer, Pre-training",
+    "employer_name": "Anthropic",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_rqyx9fi6uAmIEriSLRipRepRV5O30wOxjYOV&s=0",
+    "employer_website": "https://www.anthropic.com",
+    "job_publisher": "Jobright",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobright.ai/jobs/info/69165dbf6f36db06ef0558c0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/69165dbf6f36db06ef0558c0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/research-engineer-pre-training-at-anthropic-4322260479?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.com",
+        "apply_link": "https://www.career.com/job/anthropic/research-engineer-pre-training/j202512051008129654348?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Anthropic is a public benefit corporation dedicated to developing safe, ethical, and powerful artificial intelligence. They are seeking a Research Engineer to join their Pre-training team, responsible for developing the next generation of large language models and contributing to the development of safe, steerable, and trustworthy AI systems.\n\nResponsibilities\n• Conduct research and implement solutions in areas such as model architecture, algorithms, data processing, and optimizer development\n• Independently lead small research projects while collaborating with team members on larger initiatives\n• Design, run, and analyze scientific experiments to advance our understanding of large language models\n• Optimize and scale our training infrastructure to improve efficiency and reliability\n• Develop and improve dev tooling to enhance team productivity\n• Contribute to the entire stack, from low-level optimizations to high-level model design\n\nSkills\n• Advanced degree (MS or PhD) in Computer Science, Machine Learning, or a related field\n• Strong software engineering skills with a proven track record of building complex systems\n• Expertise in Python and experience with deep learning frameworks (PyTorch preferred)\n• Familiarity with large-scale machine learning, particularly in the context of language models\n• Ability to balance research goals with practical engineering constraints\n• Strong problem-solving skills and a results-oriented mindset\n• Excellent communication skills and ability to work in a collaborative environment\n• Care about the societal impacts of your work\n• Work on high-performance, large-scale ML systems\n• Familiarity with GPUs, Kubernetes, and OS internals\n• Experience with language modeling using transformer architectures\n• Knowledge of reinforcement learning techniques\n• Background in large-scale ETL processes\n\nBenefits\n• Competitive compensation and benefits\n• Optional equity donation matching\n• Generous vacation and parental leave\n• Flexible working hours\n• A lovely office space in which to collaborate with colleagues\n\nCompany Overview\n• Anthropic is an AI research company that focuses on the safety and alignment of AI systems with human values. It was founded in 2021, and is headquartered in San Francisco, California, USA, with a workforce of 501-1000 employees. Its website is https://www.anthropic.com.\n\nCompany H1B Sponsorship\n• Anthropic has a track record of offering H1B sponsorships, with 105 in 2025, 13 in 2024, 3 in 2023, 4 in 2022, 1 in 2021. Please note that this does not guarantee sponsorship for this specific role.",
+    "job_is_remote": false,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770422400,
+    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
+    "job_location": "Seattle, WA",
+    "job_city": "Seattle",
+    "job_state": "Washington",
+    "job_country": "US",
+    "job_latitude": 47.6061389,
+    "job_longitude": -122.33284809999999,
+    "job_benefits": [
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DikBGAAL2JRTdJHSkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 350000,
+    "job_max_salary": 850000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "Advanced degree (MS or PhD) in Computer Science, Machine Learning, or a related field",
+        "Strong software engineering skills with a proven track record of building complex systems",
+        "Familiarity with large-scale machine learning, particularly in the context of language models",
+        "Ability to balance research goals with practical engineering constraints",
+        "Strong problem-solving skills and a results-oriented mindset",
+        "Excellent communication skills and ability to work in a collaborative environment",
+        "Care about the societal impacts of your work",
+        "Work on high-performance, large-scale ML systems",
+        "Familiarity with GPUs, Kubernetes, and OS internals",
+        "Experience with language modeling using transformer architectures",
+        "Knowledge of reinforcement learning techniques",
+        "Background in large-scale ETL processes"
+      ],
+      "Benefits": [
+        "Competitive compensation and benefits",
+        "Optional equity donation matching",
+        "Generous vacation and parental leave",
+        "Flexible working hours",
+        "A lovely office space in which to collaborate with colleagues"
+      ],
+      "Responsibilities": [
+        "Conduct research and implement solutions in areas such as model architecture, algorithms, data processing, and optimizer development",
+        "Independently lead small research projects while collaborating with team members on larger initiatives",
+        "Design, run, and analyze scientific experiments to advance our understanding of large language models",
+        "Optimize and scale our training infrastructure to improve efficiency and reliability",
+        "Develop and improve dev tooling to enhance team productivity",
+        "Contribute to the entire stack, from low-level optimizations to high-level model design"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "jobright-ai-jobs-info-69165dbf6f36db06ef0558c0",
     "_source": "new_jobs"
   },
   {
@@ -1549,62 +1549,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "jDmVoEfETJLT8BHpAAAAAA==",
-    "job_title": "Junior Security Research Engineer",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=385eb7a7497c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=385eb7a7497c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A company is looking for a Junior Security Research Engineer (Remote).\n\nKey Responsibilities\n\nResearch current vulnerabilities and exploits using trusted sources and stay updated with threat intelligence\n\nWrite Nuclei templates to identify applications, misconfigured services, and vulnerable software\n\nAnalyze network traffic and write network protocol parsers and probes in Go for integration into the platform\n\nRequired Qualifications\n\nHands-on experience with common vulnerability classes and exploitation techniques\n\nFamiliarity with CVE, CWE, and CVSS\n\nExperience using vulnerability and compliance scanning tools\n\nFamiliarity with at least one programming language for task automation (e.g., Python or Go)\n\nProficiency with standard development tools and paradigms (Git, GitHub, CI / CD)",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Santa Ana, CA",
-    "job_city": "Santa Ana",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 33.7454725,
-    "job_longitude": -117.86765299999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DjDmVoEfETJLT8BHpAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Hands-on experience with common vulnerability classes and exploitation techniques",
-        "Familiarity with CVE, CWE, and CVSS",
-        "Experience using vulnerability and compliance scanning tools",
-        "Familiarity with at least one programming language for task automation (e.g., Python or Go)",
-        "Proficiency with standard development tools and paradigms (Git, GitHub, CI / CD)"
-      ],
-      "Responsibilities": [
-        "Research current vulnerabilities and exploits using trusted sources and stay updated with threat intelligence",
-        "Write Nuclei templates to identify applications, misconfigured services, and vulnerable software",
-        "Analyze network traffic and write network protocol parsers and probes in Go for integration into the platform"
-      ]
-    },
-    "job_onet_soc": "15112200",
-    "job_onet_job_zone": "4",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "7o7xxlCBTLabnPiLAAAAAA==",
     "job_title": "RESEARCH AND DEVELOPMENT ENGINEER",
     "employer_name": "Dal-Tile Corporation",
@@ -1626,6 +1570,11 @@
       {
         "publisher": "Indeed",
         "apply_link": "https://www.indeed.com/viewjob?jk=1f91d25d054401f1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Ladders",
+        "apply_link": "https://www.theladders.com/job/research-and-development-engineer-mohawkindustriesinc-dallas-tx_85545184?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
@@ -1652,11 +1601,6 @@
         "publisher": "BeBee",
         "apply_link": "https://us.bebee.com/job/b84dda5db1a3455bb0d8a3fbbb64d4e3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
-      },
-      {
-        "publisher": "JobzMall",
-        "apply_link": "https://www.jobzmall.com/tcl-corporation/job/research-and-development-engineer-16?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
       }
     ],
     "job_description": "Join the largest manufacturer of tile and natural stone in the United States and watch your career stand out with Dal-Tile, a subsidiary of Mohawk Industries.\n\nOur close-knit team of dedicated professionals has made us the success we are today. In exchange for their hard work, we support our people with a family-friendly work environment, a commitment to promoting from within, unique benefits that go beyond just medical and dental, and a belief that every employee deserves a productive life outside of work. If this sounds outstanding to you, take the first step forward and explore a career with Dal-Tile.\n\nThe R&D Engineer is an established performer that helps drive technological advancements and contribute to the success of innovative projects. This role will be responsible for conducting research, designing experiments, and developing new technologies or products. Activities are specifically related to body raw materials, formulations and related processes.\n\nDuties and Responsibilities\n• Use scientific and engineering principles to develop new materials and products as well as create detailed design specifications to support R&D and manufacturing projects.\n• Conduct research to identify market trends, competitor products, and emerging technologies.\n• Analyze data and scientific literature to inform the development process.\n• Conceive and develop new process technologies.\n• Perform accurate analyses, conduct research, and draw meaningful conclusions about potential job/work-area impacts.\n• Collaborate with product managers and design teams to conceptualize new products or improvements to existing ones.\n• Design and fabricate prototypes.\n• Perform physical and analytical testing of laboratory prototypes using standard test equipment.\n• Conduct experiments to test prototypes and validate product performance.\n• Analyze test data and make design modifications based on results.\n• Help to transfer new products and technologies from laboratory prototypes to production scale.\n• Assist with process and technical support for R&D projects implemented in manufacturing.\n• Performs other duties as needed.\n\nRequired Experience and Education:\n• Bachelors degree in engineering or a related field or equivalent education and/or experience.\n• 2-4 years relevant experience or equivalent education and/or experience.\n• Working knowledge of manufacturing processes and quality control required.\n• Able to set up, run and/or interpret results from a wide variety of laboratory test equipment.\n\nCompetencies\n• Requires in-depth conceptual and practical knowledge in own job discipline.\n• Able to perform hands-on laboratory work.\n• Excellent communication, problem solving, and organizational skills.\n• Able to multitask, prioritize, and manage time effectively.\n• High level of integrity and discretion in handling sensitive and confidential data.\n• High degree of professionalism, judgment, maturity, and resourcefulness in the absence of formalized guidelines and procedures.\n\nWe offer competitive salary and a comprehensive benefits package, career opportunities, and an environment of creativity and growth. Examples include: Company Match on 401k,Employee Purchase Discount, and Tuition Reimbursement.\n\nDal-Tile is a proud supporter of our U.S. military, veterans and their families - Thank You for Your Service!\n\nActive military, transitioning service members and veterans are strongly encouraged to apply.\n\nMohawk Industries, Inc. is an Equal Opportunity Employer including disability/veteran committed to an inclusive workplace and a proud Drugs Dont Work participant.\n\nJob Type\n\nReq ID 90138",
@@ -1826,6 +1770,62 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "mQUtG_5bXYwvmObfAAAAAA==",
+    "job_title": "Junior Security Research Engineer",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=ec3ce4a67ca7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=ec3ce4a67ca7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A company is looking for a Junior Security Research Engineer (Remote).\n\nKey Responsibilities\n\nResearch current vulnerabilities and exploits using trusted sources and stay updated with threat intelligence\n\nWrite Nuclei templates to identify applications, misconfigured services, and vulnerable software\n\nAnalyze network traffic and write network protocol parsers and probes in Go for integration into the platform\n\nRequired Qualifications\n\nHands-on experience with common vulnerability classes and exploitation techniques\n\nFamiliarity with CVE, CWE, and CVSS\n\nExperience using vulnerability and compliance scanning tools\n\nFamiliarity with at least one programming language for task automation (e.g., Python or Go)\n\nProficiency with standard development tools and paradigms (Git, GitHub, CI / CD)",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Texas",
+    "job_city": null,
+    "job_state": "Texas",
+    "job_country": "US",
+    "job_latitude": 31.9685988,
+    "job_longitude": -99.9018131,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DmQUtG_5bXYwvmObfAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Hands-on experience with common vulnerability classes and exploitation techniques",
+        "Familiarity with CVE, CWE, and CVSS",
+        "Experience using vulnerability and compliance scanning tools",
+        "Familiarity with at least one programming language for task automation (e.g., Python or Go)",
+        "Proficiency with standard development tools and paradigms (Git, GitHub, CI / CD)"
+      ],
+      "Responsibilities": [
+        "Research current vulnerabilities and exploits using trusted sources and stay updated with threat intelligence",
+        "Write Nuclei templates to identify applications, misconfigured services, and vulnerable software",
+        "Analyze network traffic and write network protocol parsers and probes in Go for integration into the platform"
+      ]
+    },
+    "job_onet_soc": "15112200",
+    "job_onet_job_zone": "4",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "B3ChJ6VntMGLpfS3AAAAAA==",
     "job_title": "Senior AI Research Engineer, Visual Perception",
     "employer_name": "ANYbotics",
@@ -1891,62 +1891,6 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "www-jobilize-com-job-us-ca-sacramento-senior-ai-research-engineer-visual-perception-anybotics",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "mQUtG_5bXYwvmObfAAAAAA==",
-    "job_title": "Junior Security Research Engineer",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=ec3ce4a67ca7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=ec3ce4a67ca7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A company is looking for a Junior Security Research Engineer (Remote).\n\nKey Responsibilities\n\nResearch current vulnerabilities and exploits using trusted sources and stay updated with threat intelligence\n\nWrite Nuclei templates to identify applications, misconfigured services, and vulnerable software\n\nAnalyze network traffic and write network protocol parsers and probes in Go for integration into the platform\n\nRequired Qualifications\n\nHands-on experience with common vulnerability classes and exploitation techniques\n\nFamiliarity with CVE, CWE, and CVSS\n\nExperience using vulnerability and compliance scanning tools\n\nFamiliarity with at least one programming language for task automation (e.g., Python or Go)\n\nProficiency with standard development tools and paradigms (Git, GitHub, CI / CD)",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Texas",
-    "job_city": null,
-    "job_state": "Texas",
-    "job_country": "US",
-    "job_latitude": 31.9685988,
-    "job_longitude": -99.9018131,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DmQUtG_5bXYwvmObfAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Hands-on experience with common vulnerability classes and exploitation techniques",
-        "Familiarity with CVE, CWE, and CVSS",
-        "Experience using vulnerability and compliance scanning tools",
-        "Familiarity with at least one programming language for task automation (e.g., Python or Go)",
-        "Proficiency with standard development tools and paradigms (Git, GitHub, CI / CD)"
-      ],
-      "Responsibilities": [
-        "Research current vulnerabilities and exploits using trusted sources and stay updated with threat intelligence",
-        "Write Nuclei templates to identify applications, misconfigured services, and vulnerable software",
-        "Analyze network traffic and write network protocol parsers and probes in Go for integration into the platform"
-      ]
-    },
-    "job_onet_soc": "15112200",
-    "job_onet_job_zone": "4",
-    "id": "www-talent-com-view",
     "_source": "new_jobs"
   },
   {
