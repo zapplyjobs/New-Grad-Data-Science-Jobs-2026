@@ -1,1 +1,1492 @@
-[]
+[
+  {
+    "job_id": "wVWF3pg9aRcXvjI6AAAAAA==",
+    "job_title": "AI Machine Learning Engineer I (Intern) - United States",
+    "employer_name": "Cisco",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgthNpO3rocjBOmZqIhYrkphz9zbGG6DQ5B9CQ&s=0",
+    "employer_website": "https://www.cisco.com",
+    "job_publisher": "Cisco Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2000454EXTERNALENGLOBAL/AI-Machine-Learning-Engineer-I-Intern-United-States?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Cisco Careers",
+        "apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2000454EXTERNALENGLOBAL/AI-Machine-Learning-Engineer-I-Intern-United-States?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=d61cf41fe84c3376&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Cisco-Systems,-Inc./Job/Software-Engineer-Backend-Platform-Systems-I-(Intern)-United-States/-in-San-Jose,CA?jid=4017f6a71b8f887c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/ai-machine-learning-engineer-i-intern-united-states-cisco-systems-JV_IC1147436_KO0,51_KE52,65.htm?jl=1009959866254&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/software-engineer-embedded-network-systems-i-intern_7ea1a1afb7db9eb7202291f2ad7a1e652fada?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Local Job Network",
+        "apply_link": "https://jobs.localjobnetwork.com/job/detail/85542143/Software-Engineer-Embedded-Network-Systems-I-Intern-United-States?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/692e0445ef4b48533d13ba3c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/ai-machine-learning-engineer-i-intern-united-states-at-cisco-4335954312?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Please note this posting is to advertise potential job opportunities. This exact role may not be open today but could open in the near future. When you apply, a Cisco representative may contact you directly if a relevant position opens.\n\nApplications are accepted until further notice.\n\nMeet the Team\n\nJoin our innovative engineering team focused on building next-generation AI/ML solutions. You’ll collaborate with skilled colleagues across platform, security, release engineering, and support teams to deliver high-impact products and ensure their flawless operation.\n\nYour Impact\n\nDive into the development and implementation of innovative generative AI applications using the latest large language models—think GPT-4, Claude, Llama, and beyond! Take on the challenge of optimizing neural networks for natural language processing and machine perception, drawing on a toolkit that includes convolutional and transformer-based models, student-teacher frameworks, distillation, and generative adversarial networks (GANs). Performance, scalability, and reliability are front and center as models are trained, fine-tuned, and put through their paces for real-world deployment.\n\nCollaboration is at the heart of this role—work alongside talented engineers and cross-functional teams to gather and prep data, design custom layers, and automate model deployment. Experimentation with new technologies and ongoing learning are always encouraged. Production-ready code, robust testing, and creative problem-solving all play a part in bringing innovative AI solutions to life. What an exciting place to grow and make an impact!\n\nMinimum Qualifications\n• Currently enrolled in an undergraduate degree program in a relevant field, such as Computer Science, Electrical Engineering, Data Science, Machine Learning, Artificial Intelligence, Statistics, Mathematics, Software Engineering, or a related discipline.\n• Previous experience with model building, AI/LLM development, and programming in Python, SQL, or Go, including the use of common AI libraries, in an academic, project, or professional capacity.\n• Able to legally live and work in the country for which you’re applying, without visa support or sponsorship.\n\nPreferred Qualifications\n• Experience with cloud-native solutions, Docker container orchestration, or modern rapid deployment platforms.\n• Knowledge of data pipeline design, tools, and maintenance.\n• Exposure to AI security, cybersecurity, or AI validation techniques (e.g., Guardrail).\n• Familiarity with MCP/Agent workflows or supply chain processes.\n• Experience contributing to AI-focused platforms or open tools (e.g., AI Defense Open Tools Portal, AI-SPM), data science toolkits such as Pandas, NumPy, SciPy, or Scikit-learn, and an understanding of Natural Language Processing (NLP) concepts.\n\nProductIntern26\n\nWhy Cisco?\n\nAt Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\n\nWe are Cisco, and our power starts with you.\n\nMessage to applicants applying to work in the U.S. and/or Canada:\n\nIndividual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process.\n\nU.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks. Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time.\n\nU.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:\n• 10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees\n• 1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco\n• Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees\n• Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)\n• 80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next\n• Additional paid time away may be requested to deal with critical or emergency issues for family members\n• Optional 10 paid days per full calendar year to volunteer\n\nFor non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies.\n\nEmployees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows:\n• .75% of incentive target for each 1% of revenue attainment up to 50% of quota;\n• 1.5% of incentive target for each 1% of attainment between 50% and 75%;\n• 1% of incentive target for each 1% of attainment between 75% and 100%; and\n• Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.\n\nFor non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.\n\nThe applicable full salary ranges for this position, by specific state, are listed below:\n\nNew York City Metro Area:\n$44,000.00 - $185,000.00\n\nNon-Metro New York state & Washington state:\n$44,000.00 - $185,000.00\n• For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined.\n• * Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements.",
+    "job_is_remote": false,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770422400,
+    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
+    "job_location": "San Jose, CA",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.33874,
+    "job_longitude": -121.88525249999999,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwVWF3pg9aRcXvjI6AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Currently enrolled in an undergraduate degree program in a relevant field, such as Computer Science, Electrical Engineering, Data Science, Machine Learning, Artificial Intelligence, Statistics, Mathematics, Software Engineering, or a related discipline",
+        "Previous experience with model building, AI/LLM development, and programming in Python, SQL, or Go, including the use of common AI libraries, in an academic, project, or professional capacity",
+        "Able to legally live and work in the country for which you’re applying, without visa support or sponsorship"
+      ],
+      "Benefits": [
+        "The full salary range for certain locations is listed below",
+        "For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process",
+        "U.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance",
+        "Please see the Cisco careers site to discover more benefits and perks",
+        "Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time",
+        "U.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:",
+        "10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees",
+        "1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco",
+        "Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees",
+        "Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)",
+        "80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next",
+        "Additional paid time away may be requested to deal with critical or emergency issues for family members",
+        "Optional 10 paid days per full calendar year to volunteer",
+        "For non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies",
+        "Employees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan",
+        "For quota-based incentive pay, Cisco typically pays as follows:",
+        ".75% of incentive target for each 1% of revenue attainment up to 50% of quota;",
+        "1.5% of incentive target for each 1% of attainment between 50% and 75%;",
+        "1% of incentive target for each 1% of attainment between 75% and 100%; and",
+        "Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation",
+        "For non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target",
+        "Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid",
+        "For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined",
+        "Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements"
+      ],
+      "Responsibilities": [
+        "You’ll collaborate with skilled colleagues across platform, security, release engineering, and support teams to deliver high-impact products and ensure their flawless operation",
+        "Dive into the development and implementation of innovative generative AI applications using the latest large language models—think GPT-4, Claude, Llama, and beyond!",
+        "Take on the challenge of optimizing neural networks for natural language processing and machine perception, drawing on a toolkit that includes convolutional and transformer-based models, student-teacher frameworks, distillation, and generative adversarial networks (GANs)"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "careers-cisco-com-global-en-job-ciscisglobal2000454externalenglobal-ai-machine-learning-engineer-i-intern-united-states",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "Fbhc1DunhK0CToKgAAAAAA==",
+    "job_title": "AI Machine Learning Engineer II (Intern) - United States",
+    "employer_name": "Cisco",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgthNpO3rocjBOmZqIhYrkphz9zbGG6DQ5B9CQ&s=0",
+    "employer_website": "https://www.cisco.com",
+    "job_publisher": "Cisco Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2000461EXTERNALENGLOBAL/AI-Machine-Learning-Engineer-II-Intern-United-States?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Cisco Careers",
+        "apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2000461EXTERNALENGLOBAL/AI-Machine-Learning-Engineer-II-Intern-United-States?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Workday",
+        "apply_link": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Sr-Machine-Learning-Engineer---Photoshop_R162318?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=4db8c6a4d0d9d420&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/sr-machine-learning-engineer-photoshop-agentic-systems-adobe-JV_IC1147436_KO0,54_KE55,60.htm?jl=1009936560387&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Adobe/Job/Sr.-Machine-Learning-Engineer-Photoshop-Agentic-Systems/-in-San-Jose,CA?jid=0d0c4fdbff15d257&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "LocalJobs.com",
+        "apply_link": "https://www.localjobs.com/job/san-jose-ca-ai-machine-learning-engineer-ii-intern-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Dice",
+        "apply_link": "https://www.dice.com/job-detail/a5855756-9d1e-4249-9034-15b1e4e95b4d?q=Language+Models&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/sr-machine-learning-engineer-photoshop-agentic-systems_7ea1a5491f9b27c714306ae6b10fd7fc3f49b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Please note this posting is to advertise potential job opportunities. This exact role may not be open today but could open in the near future. When you apply, a Cisco representative may contact you directly if a relevant position opens.\n\nApplications are accepted until further notice.\n\nMeet the Team\n\nJoin our innovative engineering team focused on building next-generation AI/ML solutions. You’ll collaborate with skilled colleagues across platform, security, release engineering, and support teams to deliver high-impact products and ensure their perfect operation.\n\nYour Impact\n\nDive into the development and implementation of cutting-edge generative AI applications using the latest large language models—think GPT-4, Claude, Llama, and beyond! Take on the challenge of optimizing neural networks for natural language processing and machine perception, drawing on a toolkit that includes convolutional and transformer-based models, student-teacher frameworks, distillation, and generative adversarial networks (GANs). Performance, scalability, and reliability are front and center as models are trained, fine-tuned, and put through their paces for real-world deployment.\n\nCollaboration is at the heart of this role—work alongside talented engineers and cross-functional teams to gather and prep data, design custom layers, and automate model deployment. Experimentation with new technologies and ongoing learning are always encouraged. Production-ready code, robust testing, and creative problem-solving all play a part in bringing innovative AI solutions to life. What an exciting place to grow and make an impact!\n\nMinimum Qualifications\n• Currently enrolled in an undergraduate degree program with 2 years of relevant experience, or currently enrolled in a graduate degree program with 0 years of relevant experience. Relevant fields include: Computer Science, Electrical Engineering, Data Science, Machine Learning, Artificial Intelligence, Statistics, Mathematics, Software Engineering, or a related program.\n• Backend development skills in Go or Python, demonstrated through a technical assessment, coding challenge, or code sample.\n• Understanding of LLM infrastructure and optimization strategies, shown in a technical interview, assessment, or supporting documentation.\n• Practical experience with model building and AI or LLM tasks, evidenced by a portfolio, code samples, technical evaluation, or academic/research project documentation.\n\nPreferred Qualifications\n• Experience with inference engines such as vLLM, Triton, or TorchServe.\n• Knowledge of GPU architecture, optimization techniques, distributed systems, and asynchronous programming models.\n• Familiarity with agent frameworks and cloud-native platforms.\n• Experience with cybersecurity principles and Python programming, including common AI libraries.\n• Exposure to scalable computing environments and best practices for secure, efficient AI deployment.\n\nProductIntern26\n\nWhy Cisco?\n\nAt Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\n\nWe are Cisco, and our power starts with you.\n\nMessage to applicants applying to work in the U.S. and/or Canada:\n\nIndividual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process.\n\nU.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks. Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time.\n\nU.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:\n• 10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees\n• 1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco\n• Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees\n• Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)\n• 80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next\n• Additional paid time away may be requested to deal with critical or emergency issues for family members\n• Optional 10 paid days per full calendar year to volunteer\n\nFor non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies.\n\nEmployees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows:\n• .75% of incentive target for each 1% of revenue attainment up to 50% of quota;\n• 1.5% of incentive target for each 1% of attainment between 50% and 75%;\n• 1% of incentive target for each 1% of attainment between 75% and 100%; and\n• Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.\n\nFor non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.\n\nThe applicable full salary ranges for this position, by specific state, are listed below:\n\nNew York City Metro Area:\n$44,000.00 - $185,000.00\n\nNon-Metro New York state & Washington state:\n$44,000.00 - $185,000.00\n• For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined.\n• * Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements.",
+    "job_is_remote": false,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770422400,
+    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
+    "job_location": "San Jose, CA",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.33874,
+    "job_longitude": -121.88525249999999,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFbhc1DunhK0CToKgAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Currently enrolled in an undergraduate degree program with 2 years of relevant experience, or currently enrolled in a graduate degree program with 0 years of relevant experience",
+        "Relevant fields include: Computer Science, Electrical Engineering, Data Science, Machine Learning, Artificial Intelligence, Statistics, Mathematics, Software Engineering, or a related program",
+        "Backend development skills in Go or Python, demonstrated through a technical assessment, coding challenge, or code sample",
+        "Practical experience with model building and AI or LLM tasks, evidenced by a portfolio, code samples, technical evaluation, or academic/research project documentation"
+      ],
+      "Benefits": [
+        "The full salary range for certain locations is listed below",
+        "For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process",
+        "U.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance",
+        "Please see the Cisco careers site to discover more benefits and perks",
+        "Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time",
+        "U.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:",
+        "10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees",
+        "1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco",
+        "Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees",
+        "Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)",
+        "80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next",
+        "Additional paid time away may be requested to deal with critical or emergency issues for family members",
+        "Optional 10 paid days per full calendar year to volunteer",
+        "For non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies",
+        "Employees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan",
+        "For quota-based incentive pay, Cisco typically pays as follows:",
+        ".75% of incentive target for each 1% of revenue attainment up to 50% of quota;",
+        "1.5% of incentive target for each 1% of attainment between 50% and 75%;",
+        "1% of incentive target for each 1% of attainment between 75% and 100%; and",
+        "Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation",
+        "For non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target",
+        "Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid",
+        "For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined",
+        "Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements"
+      ],
+      "Responsibilities": [
+        "You’ll collaborate with skilled colleagues across platform, security, release engineering, and support teams to deliver high-impact products and ensure their perfect operation",
+        "Dive into the development and implementation of cutting-edge generative AI applications using the latest large language models—think GPT-4, Claude, Llama, and beyond!",
+        "Take on the challenge of optimizing neural networks for natural language processing and machine perception, drawing on a toolkit that includes convolutional and transformer-based models, student-teacher frameworks, distillation, and generative adversarial networks (GANs)",
+        "Understanding of LLM infrastructure and optimization strategies, shown in a technical interview, assessment, or supporting documentation"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "careers-cisco-com-global-en-job-ciscisglobal2000461externalenglobal-ai-machine-learning-engineer-ii-intern-united-states",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "uUVAEihN1zerlCx1AAAAAA==",
+    "job_title": "Internship - Machine Learning",
+    "employer_name": "Novo Nordisk",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLTottDm7lFhasFLMXrIIdQiC4ifnkQT9Y3B6W&s=0",
+    "employer_website": "https://www.novonordisk.com",
+    "job_publisher": "Indeed",
+    "job_employment_type": "Full-time and Internship",
+    "job_employment_types": [
+      "FULLTIME",
+      "INTERN"
+    ],
+    "job_apply_link": "https://www.indeed.com/viewjob?jk=3676967108b32f75&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=3676967108b32f75&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/vp-commercial-operations-norton-ma_a1ad08c6-dfd4-4c4e-939b-16dd13cbdb7b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/internship-machine-learning-novo-nordisk-JV_IC1154599_KO0,27_KE28,40.htm?jl=1010029088241&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BioSpace",
+        "apply_link": "https://jobs.biospace.com/job/3030934/internship-machine-learning?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/-HbIz6RBV1hJ7xlxx0_-qtzYS5WJg_qIX3hTS0ldSG4SKISFCzaySA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Lensa",
+        "apply_link": "https://lensa.com/job-v1/novo-nordisk/lexington-ma/machine-learning-intern/19f8fc8104b22501882f128ff0d9001c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/algorithm-development?id=2459355919&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=4b5622fe9963&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Internship - Machine Learning\n\nFacility: Education\n\nLocation: Lexington, MA, US\n\nAbout the Department\n\nOur Research & Development organization brings together the best minds in life science innovation. The teams located in facilities in Lexington, Watertown, Cambridge and Plainsboro reflect the full R&D continuum, from early research through late-stage clinical development. Here, we are building for the future, creating a distinct R&D community based on collaboration, partnerships, and cutting-edge research across multiple modalities and therapeutic areas. We recognize that improving human health starts here and that patients rely on us. Our R&D hub merges biotech speed and agility with large pharmaceutical company quality, resources, and stability, uniting the best of both worlds to develop new medicines for patients.\n\nThe Program\n\nAt Novo Nordisk, interns will have the opportunity to work closely with experienced industry professionals and gain valuable, hands-on, full-time work experience. For ten working weeks, interns will be immersed in the environment of a global pharmaceutical company and contribute to the line of business by providing sustainable and meaningful project work. Our internship program also includes instructor led trainings, a leadership engagement series, and a guided mentorship program to offer professional and personal development.\n\nProgram Start: June 1st, 2026\n\nProgram End: August 14th, 2026\n\nScope of Position\n\nThe intern will work on the development and implementation of novel in house peptide and minibinder design platform that is powered by SOTA structure prediction models and enhanced sampling methods. The objective of this project are manifold:\n• Integrate other enhanced sampling that are currently not in the pipeline such as Monte Carlo tree search\n• Integrate various machine learning property predictors into the pipeline\n• Benchmark NovoBind on diverse systems and improve the pipelines scope\n• Implement reinforcement learning to bias the generation of designs. This project has applicability across digital chemistry and design tasks (both de novo design and confidence maturation) and across modalities (including peptide, minibinder, and antibody discovery). The expected outcome is a product that is effective and accessible with broad acceptance within our drug discovery projects in addition lead to a publication.\n\nThe intern will learn about state of the art structure predictors and metric, computational sequence-based binder design, reinforcement learning, drug design with computational chemistry across a broad set of modalities at Novo Nordisk including peptides, minibinders, and antibodies.\n\nPhysical Requirements\n\n0% overnight travel required.\n\nQualifications\n• Must be a current student enrolled at an accredited college or university pursuing at least a bachelor’s degree\n• An in progress doctoral degree in Computer Science, Machine Learning, Artificial Intelligence, Computational Chemistry or a related discipline preferred\n• Strong academic record with a preferred cumulative GPA of 3.0 or higher\n• Conscientious self-starter with good organizational skills, project management skills and attention to detail\n• Ability to balance multiple projects and priorities, must be able to multi-task\n• Strong interpersonal communication and ability to collaborate with teams; must effectively operate independently, across functional lines, and with internal customers\n• Demonstrated personal initiative, self-motivation, flexibility, adaptability and willingness to learn\n• Proficient in Microsoft Office Tools including Word, Excel, PowerPoint, etc.\n\nAt this time, Novo Nordisk is not currently hiring individuals for this position who now or in the future would require sponsorship for employment visa status.\n\nThe base compensation range for this position is $52,000 to $89,000 on an hourly basis. Due to the temporary nature of this program, this position is not eligible to participate in any of the Company's benefit plans and will not be entitled to any paid time off unless otherwise required by applicable law.\n\nWe commit to an inclusive recruitment process and equality of opportunity for all our job applicants.\n\nAt Novo Nordisk, we're not chasing quick fixes – we're creating lasting change for long-term health. For over 100 years, we've been driven by a single purpose: to defeat serious chronic diseases and help millions of people live healthier lives. This dedication fuels our constant curiosity and inspires us to push the boundaries of what's possible in healthcare. We embrace diverse perspectives, seek out bold ideas, and build partnerships rooted in shared purpose. Together, we're making healthcare more accessible, treating and defeating diseases, and pioneering solutions that create change spanning generations. When you join us, you become part of something bigger – a legacy of impact that reaches far beyond today.\n\nNovo Nordisk is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, gender identity, sexual orientation, national origin, disability, protected veteran status or any other characteristic protected by local, state or federal laws, rules or regulations.\n\nIf you are interested in applying to Novo Nordisk and need special assistance or an accommodation to apply, please call us at 1-855-411-5290. This contact is for accommodation requests only and cannot be used to inquire about the status of applications.",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Massachusetts",
+    "job_city": null,
+    "job_state": "Massachusetts",
+    "job_country": "US",
+    "job_latitude": 42.4072107,
+    "job_longitude": -71.3824374,
+    "job_benefits": [
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DuUVAEihN1zerlCx1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 52000,
+    "job_max_salary": 89000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "0% overnight travel required",
+        "Must be a current student enrolled at an accredited college or university pursuing at least a bachelor’s degree",
+        "Conscientious self-starter with good organizational skills, project management skills and attention to detail",
+        "Ability to balance multiple projects and priorities, must be able to multi-task",
+        "Strong interpersonal communication and ability to collaborate with teams; must effectively operate independently, across functional lines, and with internal customers",
+        "Demonstrated personal initiative, self-motivation, flexibility, adaptability and willingness to learn",
+        "Proficient in Microsoft Office Tools including Word, Excel, PowerPoint, etc",
+        "At this time, Novo Nordisk is not currently hiring individuals for this position who now or in the future would require sponsorship for employment visa status"
+      ],
+      "Benefits": [
+        "The base compensation range for this position is $52,000 to $89,000 on an hourly basis",
+        "Due to the temporary nature of this program, this position is not eligible to participate in any of the Company's benefit plans and will not be entitled to any paid time off unless otherwise required by applicable law"
+      ],
+      "Responsibilities": [
+        "The intern will work on the development and implementation of novel in house peptide and minibinder design platform that is powered by SOTA structure prediction models and enhanced sampling methods",
+        "Integrate other enhanced sampling that are currently not in the pipeline such as Monte Carlo tree search",
+        "Integrate various machine learning property predictors into the pipeline",
+        "Benchmark NovoBind on diverse systems and improve the pipelines scope",
+        "Implement reinforcement learning to bias the generation of designs",
+        "This project has applicability across digital chemistry and design tasks (both de novo design and confidence maturation) and across modalities (including peptide, minibinder, and antibody discovery)",
+        "The intern will learn about state of the art structure predictors and metric, computational sequence-based binder design, reinforcement learning, drug design with computational chemistry across a broad set of modalities at Novo Nordisk including peptides, minibinders, and antibodies"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-indeed-com-viewjob",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "pDbxhrDGCUfJIoEgAAAAAA==",
+    "job_title": "Machine Learning Scientist Intern",
+    "employer_name": "Intuitive Surgical",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMEnQfc5v8O_TIGnAOVJ-e_I3n5nc-F6ZQNqmp&s=0",
+    "employer_website": "https://www.intuitive.com",
+    "job_publisher": "Intuitive Careers",
+    "job_employment_type": "Internship",
+    "job_employment_types": [
+      "INTERN"
+    ],
+    "job_apply_link": "https://careers.intuitive.com/en/jobs/744000107834945/JOB211953/machine-learning-scientist-intern/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Intuitive Careers",
+        "apply_link": "https://careers.intuitive.com/en/jobs/744000107834945/JOB211953/machine-learning-scientist-intern/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=705164c1502351e4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/machine-learning-scientist-intern-sunnyvale-intuitive-surgical-54c8109b144cbdf813734aaccabb0607?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/machine-learning-scientist-intern-intuitive-surgical-JV_IC1147442_KO0,33_KE34,52.htm?jl=1010026563016&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/machine-learning-scientist-intern_7ea1a5b5ba176e4b0bc74f80bc94525bd76be?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Smart Recruiters Jobs",
+        "apply_link": "https://jobs.smartrecruiters.com/Intuitive/744000107834945-machine-learning-scientist-intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Intuitive-Surgical/Job/Machine-Learning-Scientist-Intern/-in-Sunnyvale,CA?jid=ddc050bcc5b38328&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/machine-learning-systems-intern-at-meshyai-4365156174?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Description\n\nPrimary Function of Position\n\nContribute broadly to the Advanced Product Development team, responsible for machine learning, advanced analytics, and new technology development focused on surgical workflow and performance for next generation robotic surgery platforms.\n\nThe successful candidate must excel in a high-energy, focused, small-team environment, be able to initiate and drive new research and development directions. A strong sense of shared responsibility and shared reward is required.\n\nEssential Job Duties\n• Exploration and development of machine learning algorithms for spatiotemporal analysis, including multiclass classification, clustering, temporal segmentation, sequence labeling, spatial segmentation, and 3D reconstruction.\n• Development of new technologies and digital products to improve surgeon and team performance on robotic surgery platforms.\n• Contributing to multiple areas of research, including but not limited to the following:\n• Designing and applying machine learning algorithms to novel, surgical applications\n• Characterizing surgeon and team behavior and workflow to optimize new technologies\n• Fully integrating machine learning into core digital products and intelligent systems\n• Conducting user studies to evaluate digital product concepts\n• Presenting research at international conferences and publishing research in top academic journals\n\nRequired Skills and Experience\n\nUniversity Hiring Program Eligibility Requirements:\n• University Enrollment: Must be currently enrolled in and returning to an accredited degree-seeking academic program after the internship.\n• Internship Work Period: Must be available to work full-time (approximately 40 hours per week) during a 10-12 week period starting May or June. Specific start dates are shared during the recruiting process.",
+    "job_is_remote": false,
+    "job_posted_at": "9 days ago",
+    "job_posted_at_timestamp": 1770249600,
+    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
+    "job_location": "Sunnyvale, CA",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.368829999999996,
+    "job_longitude": -122.0363496,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DpDbxhrDGCUfJIoEgAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "A strong sense of shared responsibility and shared reward is required",
+        "University Enrollment: Must be currently enrolled in and returning to an accredited degree-seeking academic program after the internship",
+        "Internship Work Period: Must be available to work full-time (approximately 40 hours per week) during a 10-12 week period starting May or June"
+      ],
+      "Responsibilities": [
+        "Contribute broadly to the Advanced Product Development team, responsible for machine learning, advanced analytics, and new technology development focused on surgical workflow and performance for next generation robotic surgery platforms",
+        "The successful candidate must excel in a high-energy, focused, small-team environment, be able to initiate and drive new research and development directions",
+        "Exploration and development of machine learning algorithms for spatiotemporal analysis, including multiclass classification, clustering, temporal segmentation, sequence labeling, spatial segmentation, and 3D reconstruction",
+        "Development of new technologies and digital products to improve surgeon and team performance on robotic surgery platforms",
+        "Contributing to multiple areas of research, including but not limited to the following:",
+        "Designing and applying machine learning algorithms to novel, surgical applications",
+        "Characterizing surgeon and team behavior and workflow to optimize new technologies",
+        "Fully integrating machine learning into core digital products and intelligent systems",
+        "Conducting user studies to evaluate digital product concepts",
+        "Presenting research at international conferences and publishing research in top academic journals"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "careers-intuitive-com-en-jobs-744000107834945-job211953-machine-learning-scientist-intern",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "sOJr3WJ7tW3hfrAHAAAAAA==",
+    "job_title": "AI and Machine Learning Intern",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=39b682582664&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=39b682582664&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A company is looking for a Student II in Information Services focusing on AI and Machine Learning.\n\nKey Responsibilities\n\nDevelop custom machine learning models using Python and Scikit-learn\n\nEngage in model monitoring and data analytics using Azure Fabric Lakehouse\n\nGain exposure to HIPAA regulations and their impact on AI / ML applications\n\nRequired Qualifications\n\nCurrently enrolled in a degree program in Data Science, Computer Science, or a related field\n\nAbility to work both remotely and in-office as required\n\nInterest in gaining real-world experience in AI and machine learning\n\nWillingness to comply with policies protecting patient rights and confidentiality\n\nCommitment to complete required training for the position",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Jersey City, NJ",
+    "job_city": "Jersey City",
+    "job_state": "New Jersey",
+    "job_country": "US",
+    "job_latitude": 40.7195342,
+    "job_longitude": -74.0430133,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DsOJr3WJ7tW3hfrAHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Currently enrolled in a degree program in Data Science, Computer Science, or a related field",
+        "Ability to work both remotely and in-office as required",
+        "Interest in gaining real-world experience in AI and machine learning",
+        "Willingness to comply with policies protecting patient rights and confidentiality",
+        "Commitment to complete required training for the position"
+      ],
+      "Responsibilities": [
+        "Develop custom machine learning models using Python and Scikit-learn",
+        "Engage in model monitoring and data analytics using Azure Fabric Lakehouse",
+        "Gain exposure to HIPAA regulations and their impact on AI / ML applications"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "s6gOamMD7eYIsgngAAAAAA==",
+    "job_title": "2026 AI/ML Intern - Machine Learning Engineer Intern",
+    "employer_name": "Adobe",
+    "employer_logo": null,
+    "employer_website": "https://www.adobe.com",
+    "job_publisher": "Adobe Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.adobe.com/us/en/job/R160469/2026-AI-ML-Intern-Machine-Learning-Engineer-Intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Adobe Careers",
+        "apply_link": "https://careers.adobe.com/us/en/job/R160469/2026-AI-ML-Intern-Machine-Learning-Engineer-Intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Workday",
+        "apply_link": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160469?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Adobe/Job/2026-AI-ML-Intern-Machine-Learning-Engineer-Intern/-in-San-Jose,CA?jid=bf8eab120bf0cd68&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=99671e8d6162f96c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Dice",
+        "apply_link": "https://www.dice.com/job-detail/815d3fe6-02be-4205-b063-1054e0b3d133?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Local Job Network",
+        "apply_link": "https://jobs.localjobnetwork.com/job/detail/85481829/2026-AI-ML-Intern-Machine-Learning-Engineer-Intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/2026-ai-ml-intern-machine-learning-engineer_7ea1a4339c3c5435ffe1a624c46dedc37a8ee?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/68ce5583846f0b04af678d25?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Our Company\n\nChanging the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.\n\nWe’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours!\n\nThe Opportunity\n\nAdobe is looking for a Machine Learning intern who will apply AI and machine learning techniques to big-data problems to help Adobe better understand, lead and optimize the experience of its customers.\n\nAt Adobe Firefly, we build foundation generative models for image, video, and other modalities that power the suite of products at Adobe. By using predictive models, experimental design methods, and optimization techniques, the candidate will research, experiment, develop, and optimize CV algorithms/models that understand, generate and enhance data for training pioneering image and video foundation models powered by data, training, and inference infrastructures.\n\nAll 2025 Adobe interns will be co-located hybrid. This means that interns will work between their assigned office and home. Interns will be based in the office where their manager and/or team are located, where they will get the most support to ensure collaboration and the best employee experience. Managers and their organization will determine the frequency they need to go into the office to meet priorities.\n\nWhat You’ll Do\n• Design, implement, and optimize backend services and APIs supporting the generative AI platform.\n• Collaborate with AI researchers and engineers to integrate model training, inference, and data processing pipelines.\n• Collaborate with data, modelling, and inference platform teams to optimize, scale up and deliver end-to-end solutions to production.\n• Research and develop CV algorithms/models to generate image and video training data for GenAI foundation models and applications\n• Contribute to system architecture discussions, focusing on performance, reliability, and maintainability.\n• Write clean, efficient, and well-documented code across modern software engineering stacks (e.g., Python, Node.js, or Java).\n\nWhat You Need to Succeed\n• Currently enrolled full time and pursuing a Master’s or PhD degree in Computer Science, Computer Engineering; or equivalent experience required with an expected graduation date of December 2026 – June 2027\n• Deep expertise in computer vision, image processing, video processing, and machine learning for Generative AI.\n• Strong understanding of software engineering fundamentals, including data structures, algorithms, and distributed system design.\n• Proficient in one or more programming languages such as Python, Java and C++\n• Curiosity and initiative to explore generative AI technologies, with the ability to learn quickly and collaborate effectively in a fast-paced environment.\n• Excellent communication, relationship skills and a team player\n• Ability to participate in a full-time internship between May-September\n\nAdobe is proud to be an Equal Employment Opportunity and affirmative action employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more.\n\nAdobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.\n\nAdobe values a free and open marketplace for all employees and has policies in place to ensure that we do not enter into illegal agreements with other companies to not recruit or hire each other’s employees.\n\nOur compensation reflects the cost of labor across several  U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $45.00 -- $61.00 hourly. Your recruiter can share more about the specific pay rate for your job location during the hiring process.\n\nState-Specific Notices:\n\nCalifornia:\n\nFair Chance Ordinances\n\nAdobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.\n\nColorado:\n\nApplication Window Notice\n\nIf this role is open to hiring in Colorado (as listed on the job posting), the application window will remain open until at least the date and time stated above in Pacific Time, in compliance with Colorado pay transparency regulations. If this role does not have Colorado listed as a hiring location, no specific application window applies, and the posting may close at any time based on hiring needs.\n\nMassachusetts:\n\nMassachusetts Legal Notice\n\nIt is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.\n\nAdobe is proud to be an Equal Employment Opportunity employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more.\n\nAdobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.",
+    "job_is_remote": false,
+    "job_posted_at": "11 days ago",
+    "job_posted_at_timestamp": 1770076800,
+    "job_posted_at_datetime_utc": "2026-02-03T00:00:00.000Z",
+    "job_location": "San Jose, CA",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.33874,
+    "job_longitude": -121.88525249999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Ds6gOamMD7eYIsgngAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Currently enrolled full time and pursuing a Master’s or PhD degree in Computer Science, Computer Engineering; or equivalent experience required with an expected graduation date of December 2026 – June 2027",
+        "Deep expertise in computer vision, image processing, video processing, and machine learning for Generative AI",
+        "Strong understanding of software engineering fundamentals, including data structures, algorithms, and distributed system design",
+        "Proficient in one or more programming languages such as Python, Java and C++",
+        "Curiosity and initiative to explore generative AI technologies, with the ability to learn quickly and collaborate effectively in a fast-paced environment",
+        "Excellent communication, relationship skills and a team player",
+        "Ability to participate in a full-time internship between May-September"
+      ],
+      "Benefits": [
+        "The U.S. pay range for this position is $45.00 -- $61.00 hourly",
+        "Your recruiter can share more about the specific pay rate for your job location during the hiring process"
+      ],
+      "Responsibilities": [
+        "By using predictive models, experimental design methods, and optimization techniques, the candidate will research, experiment, develop, and optimize CV algorithms/models that understand, generate and enhance data for training pioneering image and video foundation models powered by data, training, and inference infrastructures",
+        "This means that interns will work between their assigned office and home",
+        "Interns will be based in the office where their manager and/or team are located, where they will get the most support to ensure collaboration and the best employee experience",
+        "Managers and their organization will determine the frequency they need to go into the office to meet priorities",
+        "Design, implement, and optimize backend services and APIs supporting the generative AI platform",
+        "Collaborate with AI researchers and engineers to integrate model training, inference, and data processing pipelines",
+        "Collaborate with data, modelling, and inference platform teams to optimize, scale up and deliver end-to-end solutions to production",
+        "Research and develop CV algorithms/models to generate image and video training data for GenAI foundation models and applications",
+        "Contribute to system architecture discussions, focusing on performance, reliability, and maintainability",
+        "Write clean, efficient, and well-documented code across modern software engineering stacks (e.g., Python, Node.js, or Java)"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "careers-adobe-com-us-en-job-r160469-2026-ai-ml-intern-machine-learning-engineer-intern",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "thRD1XlmBBC84VgbAAAAAA==",
+    "job_title": "AI and Machine Learning Intern",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=57435c3697da&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=57435c3697da&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A company is looking for a Student II in Information Services focusing on AI and Machine Learning.\n\nKey Responsibilities\n\nDevelop custom machine learning models using Python and Scikit-learn\n\nEngage in model monitoring and data analytics using Azure Fabric Lakehouse\n\nGain exposure to HIPAA regulations and their impact on AI / ML applications\n\nRequired Qualifications\n\nCurrently enrolled in a degree program in Data Science, Computer Science, or a related field\n\nAbility to work both remotely and in-office as required\n\nInterest in gaining real-world experience in AI and machine learning\n\nWillingness to comply with policies protecting patient rights and confidentiality\n\nCommitment to complete required training for the position",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Torrance, CA",
+    "job_city": "Torrance",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 33.8369217,
+    "job_longitude": -118.34074509999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DthRD1XlmBBC84VgbAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Currently enrolled in a degree program in Data Science, Computer Science, or a related field",
+        "Ability to work both remotely and in-office as required",
+        "Interest in gaining real-world experience in AI and machine learning",
+        "Willingness to comply with policies protecting patient rights and confidentiality",
+        "Commitment to complete required training for the position"
+      ],
+      "Responsibilities": [
+        "Develop custom machine learning models using Python and Scikit-learn",
+        "Engage in model monitoring and data analytics using Azure Fabric Lakehouse",
+        "Gain exposure to HIPAA regulations and their impact on AI / ML applications"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "pmbIsnRwIg_j5jZNAAAAAA==",
+    "job_title": "AI Operations Engineer I (Intern) - United States",
+    "employer_name": "Cisco",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgthNpO3rocjBOmZqIhYrkphz9zbGG6DQ5B9CQ&s=0",
+    "employer_website": "https://www.cisco.com",
+    "job_publisher": "Cisco Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2000463EXTERNALENGLOBAL/AI-Operations-Engineer-I-Intern-United-States?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Cisco Careers",
+        "apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2000463EXTERNALENGLOBAL/AI-Operations-Engineer-I-Intern-United-States?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=a64bd868594a48a6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "CareerOneStop",
+        "apply_link": "https://www.careeronestop.org/Toolkit/Jobs/find-jobs-details.aspx?keyword=Web%2Band%2BDigital%2BInterface%2BDesigners&location=California&radius=25&lang=en&fc=1&jvid=3530aad5e723403b88a8b1d0c9d64a688003&detailpage=true&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Cisco-Systems,-Inc./Job/AI-Operations-Engineer-I-(Intern)-United-States/-in-San-Jose,CA?jid=6df83a796f28cd8a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/senior-software-engineer-san-jose-cisco-systems-inc-c58ddc560df80fae72e6514359a1976d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "LocalJobs.com",
+        "apply_link": "https://www.localjobs.com/job/san-jose-ca-hardware-engineer-i-intern-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Purpose Jobs",
+        "apply_link": "https://www.purpose.jobs/discover/companies/duo-security/jobs/66508559-software-engineer-i-intern-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/hardware-engineer-i-intern-united-states-cisco-systems-JV_IC1147436_KO0,40_KE41,54.htm?jl=1009959867097&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Please note this posting is to advertise potential job opportunities. This exact role may not be open today but could open in the near future. When you apply, a Cisco representative may contact you directly if a relevant position opens.\n\nApplications are accepted until further notice.\n\nMeet the team\n\nJoin an engineering group that thrives with building the next wave of AI and machine learning solutions! Work side-by-side with authorities in platform, security, release engineering, and support as we solve real technical challenges and deliver products that make a difference.\n\nYour impact\n\nDive into the fast-paced world of AI Ops, where your work will automate and streamline IT operations in ways that truly matter. Build smart solutions that cut down on repetitive tasks, speed up incident response, and spot problems before they grow. Get hands-on with network performance analysis and set up monitoring tools that keep everything running smoothly—because every second counts!\n\nBring your creativity and team spirit as you partner with data scientists, software engineers, and infrastructure pros to weave AI Ops into day-to-day workflows. Whether you’re building machine learning pipelines, rolling out CI/CD automations, or jumping in to solve and optimize, your efforts will keep systems sharp, resilient, and ready for anything. There’s never a dull moment—your work helps ensure our technology just works, every time!\n\nMinimum Qualifications\n• Currently enrolled in an undergraduate degree program in a relevant field, such as Computer Science, Electrical Engineering, Data Science, Machine Learning, Artificial Intelligence, Statistics, Mathematics, Software Engineering, or a related discipline.\n• Proficiency in scripting languages such as Python or Bash, evidenced through a coding challenge, technical assessment, or submission of automation scripts/workflow samples.\n• Able to legally live and work in the country for which you’re applying, without visa support or sponsorship.\n\nPreferred Qualifications\n• Familiarity with systems and network administration concepts.\n• Experience with tools such as GitHub Actions and Kubernetes for automation and deployment.\n• Ability to support AI production environments and manage sandbox environments.\n• Experience working with AWS or other cloud platforms.\n• Understanding of DevOps practices, including CI/CD pipeline creation and management.\n\nProductIntern26\n\nWhy Cisco?\n\nAt Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\n\nWe are Cisco, and our power starts with you.\n\nMessage to applicants applying to work in the U.S. and/or Canada:\n\nIndividual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process.\n\nU.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks. Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time.\n\nU.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:\n• 10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees\n• 1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco\n• Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees\n• Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)\n• 80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next\n• Additional paid time away may be requested to deal with critical or emergency issues for family members\n• Optional 10 paid days per full calendar year to volunteer\n\nFor non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies.\n\nEmployees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows:\n• .75% of incentive target for each 1% of revenue attainment up to 50% of quota;\n• 1.5% of incentive target for each 1% of attainment between 50% and 75%;\n• 1% of incentive target for each 1% of attainment between 75% and 100%; and\n• Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.\n\nFor non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.\n\nThe applicable full salary ranges for this position, by specific state, are listed below:\n\nNew York City Metro Area:\n$44,000.00 - $185,000.00\n\nNon-Metro New York state & Washington state:\n$44,000.00 - $185,000.00\n• For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined.\n• * Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements.",
+    "job_is_remote": false,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770422400,
+    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
+    "job_location": "San Jose, CA",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.33874,
+    "job_longitude": -121.88525249999999,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DpmbIsnRwIg_j5jZNAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Currently enrolled in an undergraduate degree program in a relevant field, such as Computer Science, Electrical Engineering, Data Science, Machine Learning, Artificial Intelligence, Statistics, Mathematics, Software Engineering, or a related discipline",
+        "Proficiency in scripting languages such as Python or Bash, evidenced through a coding challenge, technical assessment, or submission of automation scripts/workflow samples",
+        "Able to legally live and work in the country for which you’re applying, without visa support or sponsorship"
+      ],
+      "Benefits": [
+        "The full salary range for certain locations is listed below",
+        "For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process",
+        "U.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance",
+        "Please see the Cisco careers site to discover more benefits and perks",
+        "Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time",
+        "U.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:",
+        "10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees",
+        "1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco",
+        "Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees",
+        "Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)",
+        "80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next",
+        "Additional paid time away may be requested to deal with critical or emergency issues for family members",
+        "Optional 10 paid days per full calendar year to volunteer",
+        "For non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies",
+        "Employees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan",
+        "For quota-based incentive pay, Cisco typically pays as follows:",
+        ".75% of incentive target for each 1% of revenue attainment up to 50% of quota;",
+        "1.5% of incentive target for each 1% of attainment between 50% and 75%;",
+        "1% of incentive target for each 1% of attainment between 75% and 100%; and",
+        "Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation",
+        "For non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target",
+        "Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid",
+        "For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined",
+        "Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements"
+      ],
+      "Responsibilities": [
+        "Dive into the fast-paced world of AI Ops, where your work will automate and streamline IT operations in ways that truly matter",
+        "Build smart solutions that cut down on repetitive tasks, speed up incident response, and spot problems before they grow",
+        "Get hands-on with network performance analysis and set up monitoring tools that keep everything running smoothly—because every second counts!",
+        "Bring your creativity and team spirit as you partner with data scientists, software engineers, and infrastructure pros to weave AI Ops into day-to-day workflows",
+        "Whether you’re building machine learning pipelines, rolling out CI/CD automations, or jumping in to solve and optimize, your efforts will keep systems sharp, resilient, and ready for anything"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "careers-cisco-com-global-en-job-ciscisglobal2000463externalenglobal-ai-operations-engineer-i-intern-united-states",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "FtCNekSIKgKntdK8AAAAAA==",
+    "job_title": "Machine Learning Engineer, PhD Intern",
+    "employer_name": "Instacart",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd1ckxE783PfleWOvjbXV8_NHFW_B7bhJ0sWRe&s=0",
+    "employer_website": "https://www.instacart.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Internship",
+    "job_employment_types": [
+      "INTERN"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Instacart/Job/Machine-Learning-Engineer,-PhD-Intern/-in-Remote,OR?jid=8afc6caf65ecc2ba&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Instacart/Job/Machine-Learning-Engineer,-PhD-Intern/-in-Remote,OR?jid=8afc6caf65ecc2ba&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/d5c16c18264c1d8b6f1fa3acc348f46b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Empleos",
+        "apply_link": "https://empleos.io/jobs/view/143135?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "InternshipsHQ",
+        "apply_link": "https://www.internshipshq.com/internships/1953768053?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "OVERVIEW\n\nSince 2012, Instacart has been focused on making grocery delivery convenient, affordable, and accessible to everyone. We bring fresh groceries and everyday essentials to customers across the US and Canada from nearly 55,000 stores across 5,500 markets. Our mission is to create a world where everyone has access to the food they love, and to achieve that goal, we innovate in a wide range of areas including e-commerce, advertising, and fulfillment.\n\nMachine learning is central to how we build intelligent shopping experiences at Instacart. We use machine learning and Internet-scale data to elevate customer experience, improve efficiency, and reduce cost. A few examples:\n• We build state-of-the-art models powering Search, Discovery, and Ads, combining generative AI and traditional machine learning to create best-in-class recommendations\n• We build rich product and knowledge graphs from catalog data imported from hundreds of retailers, applying them in recommendations and other user experiences\n• We redefine traditional domains across the company with AI, such as hyperpersonalized marketing and 0 1 meal planning products\n\nWe are looking for talented Ph.D. students to join our fast-moving ML teams and work on high-impact problems at the intersection of LLM research, large-scale ML systems, and real-world e-commerce applications.\n\nABOUT THE JOB\n\nBased on your passion and background, you may choose to work in a few different areas:\n• Query understanding: Using cutting-edge AI and LLM-based techniques to understand user intent, refine queries, and support downstream retrieval and ranking.\n• Search relevance and ranking: Improving search relevance by incorporating signals from user behavior, catalog knowledge, and generative models, including hybrid retrieval and ranking systems.\n• Generative recommendations: Pushing the boundaries of where generative and traditional models intersect across retrieval and ranking systems; developing scalable feedback and reward modeling approaches for closed-loop learning (RFT).\n• LLM evaluation and AIQA systems: Building LLM-based evaluation frameworks (e.g., LLM-as-a-Judge, self-critique) to improve the quality and reliability of generative and agentic systems.\n• Low-latency and scalable LLM systems: Researching techniques to deploy LLMs in high-traffic, latency-sensitive production environments, balancing quality, cost, and latency through cascading, distillation, and selective generation.\n• Knowledge graphs: Working on graph data management and knowledge discovery over one of the world's largest grocery catalogs, and integrating structured knowledge with LLM-based reasoning and natural language interfaces.\n• Sequence modeling: Building temporal models for user behavior prediction.\n\nABOUT YOU\n\nMinimum Qualifications:\n• Ph.D. student in computer science, mathematics, statistics, economics, or related areas.\n• Strong programming (Python, Golang) and algorithmic skills.\n• Solid foundations in machine learning, algorithms, or optimization\n• Curious, self-motivated, and comfortable working on open-ended problems\n\nPreferred Qualifications:\n• Ph.D. student at a top tier university in the United States\n• Hands-on experience with generative or traditional modeling frameworks (PyTorch, Tensorflow, vLLM)\n• Prior industry or research internship in machine learning or AI\n• Interest and experience in translating research ideas into scalable production systems",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770508800,
+    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
+    "job_location": "Remote, OR",
+    "job_city": "Remote",
+    "job_state": "Oregon",
+    "job_country": "US",
+    "job_latitude": 43.005945499999996,
+    "job_longitude": -123.8925908,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFtCNekSIKgKntdK8AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Query understanding: Using cutting-edge AI and LLM-based techniques to understand user intent, refine queries, and support downstream retrieval and ranking",
+        "Low-latency and scalable LLM systems: Researching techniques to deploy LLMs in high-traffic, latency-sensitive production environments, balancing quality, cost, and latency through cascading, distillation, and selective generation",
+        "Knowledge graphs: Working on graph data management and knowledge discovery over one of the world's largest grocery catalogs, and integrating structured knowledge with LLM-based reasoning and natural language interfaces",
+        "Sequence modeling: Building temporal models for user behavior prediction",
+        "Ph.D. student in computer science, mathematics, statistics, economics, or related areas",
+        "Strong programming (Python, Golang) and algorithmic skills",
+        "Solid foundations in machine learning, algorithms, or optimization",
+        "Curious, self-motivated, and comfortable working on open-ended problems"
+      ],
+      "Responsibilities": [
+        "Search relevance and ranking: Improving search relevance by incorporating signals from user behavior, catalog knowledge, and generative models, including hybrid retrieval and ranking systems",
+        "Generative recommendations: Pushing the boundaries of where generative and traditional models intersect across retrieval and ranking systems; developing scalable feedback and reward modeling approaches for closed-loop learning (RFT)",
+        "LLM evaluation and AIQA systems: Building LLM-based evaluation frameworks (e.g., LLM-as-a-Judge, self-critique) to improve the quality and reliability of generative and agentic systems"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-ziprecruiter-com-c-instacart-job-machine-learning-engineer-phd-intern-in-remote-or",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "Qu53015rrAimURXwAAAAAA==",
+    "job_title": "AI Engineering Intern",
+    "employer_name": "Chubb External",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "Oracle",
+    "job_employment_type": "Part-time",
+    "job_employment_types": [
+      "PARTTIME"
+    ],
+    "job_apply_link": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/30502/?s=1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Oracle",
+        "apply_link": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/30502/?s=1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=0847715c7586da5d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/ai-engineering-intern-at-chubb-4363994245?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "InsuranceJobs.com",
+        "apply_link": "https://jobs.insurancejobs.com/job/ai-engineering-intern/82451399/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/F_ilKcGlMBOYOQFUh52XP8Q4-sGH1GZQdtknmhWEk0fkovrEoSxlOg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "OfferPilot",
+        "apply_link": "https://offerpilotai.com/job/chubb-ai-engineering-intern-2fsj1u0kh8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Adzuna",
+        "apply_link": "https://www.adzuna.com/details/5627969726?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/373b39545bee36627790a8c91f0029cd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "As an AI Engineer Intern, you'll join a global team of engineers and product professionals working on AI-enabled digital solutions transforming P&C insurance. This internship provides hands-on exposure to three core disciplines: applied AI/ML, production AI/LLM systems engineering, and agentic AI systems. You'll contribute to real projects across the AI product lifecycle, from model experimentation to production support, while learning from experienced engineers in a fast-paced enterprise environment. This position offers a unique opportunity to gain hands-on experience building production AI systems at enterprise scale while contributing to Chubb's AI-driven transformation.\n\nWe expect our AI engineers to be AI-native in how they work. You should be comfortable using AI-powered coding tools (e.g., GitHub Copilot, Cursor, Claude Code) and agentic development environments to accelerate your workflow, debug problems, and explore solutions.\n\nKey Responsibilities\n\nApplied AI/ML\n• Assist AI engineers in building and testing ML/AI solutions for business challenges in cloud environments\n• Support experimentation with LLM techniques including prompt engineering, fine-tuning workflows, and evaluation methods\n• Help curate and prepare datasets for model training and evaluation\n• Write and maintain Python scripts for data processing, model inference, and pipeline automation\n\nProduction AI Systems\n• Contribute to building and testing AI service components including APIs, inference pipelines, and integration layers\n• Assist with prompt management, versioning, and testing workflows\n• Support documentation and testing of AI system integrations\n• Learn production engineering practices including containerization (Docker), version control, and CI/CD workflows\n\nAgentic AI Systems\n• Explore agentic AI frameworks (e.g., LangChain, CrewAI, AutoGen) through guided prototyping projects\n• Assist in testing agent behaviors, tool integrations, and multi-step workflows\n• Support evaluation and observability efforts including prompt tracing and performance logging\n• Document findings and contribute to internal knowledge sharing.\n\nGeneral Engineering Practices\n• Write clean, well-documented code following team standards and guidelines\n• Participate in code reviews (as reviewer and reviewee) to develop engineering judgment\n• Communicate progress, blockers, and learnings clearly to mentor and team\n• Complete a capstone project demonstrating skills developed during the internship",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Jersey City, NJ",
+    "job_city": "Jersey City",
+    "job_state": "New Jersey",
+    "job_country": "US",
+    "job_latitude": 40.7195342,
+    "job_longitude": -74.0430133,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DQu53015rrAimURXwAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Responsibilities": [
+        "You'll contribute to real projects across the AI product lifecycle, from model experimentation to production support, while learning from experienced engineers in a fast-paced enterprise environment",
+        "You should be comfortable using AI-powered coding tools (e.g., GitHub Copilot, Cursor, Claude Code) and agentic development environments to accelerate your workflow, debug problems, and explore solutions",
+        "Assist AI engineers in building and testing ML/AI solutions for business challenges in cloud environments",
+        "Support experimentation with LLM techniques including prompt engineering, fine-tuning workflows, and evaluation methods",
+        "Help curate and prepare datasets for model training and evaluation",
+        "Write and maintain Python scripts for data processing, model inference, and pipeline automation",
+        "Production AI Systems",
+        "Contribute to building and testing AI service components including APIs, inference pipelines, and integration layers",
+        "Assist with prompt management, versioning, and testing workflows",
+        "Support documentation and testing of AI system integrations",
+        "Learn production engineering practices including containerization (Docker), version control, and CI/CD workflows",
+        "Explore agentic AI frameworks (e.g., LangChain, CrewAI, AutoGen) through guided prototyping projects",
+        "Assist in testing agent behaviors, tool integrations, and multi-step workflows",
+        "Support evaluation and observability efforts including prompt tracing and performance logging",
+        "Document findings and contribute to internal knowledge sharing",
+        "General Engineering Practices",
+        "Write clean, well-documented code following team standards and guidelines",
+        "Participate in code reviews (as reviewer and reviewee) to develop engineering judgment",
+        "Communicate progress, blockers, and learnings clearly to mentor and team",
+        "Complete a capstone project demonstrating skills developed during the internship"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "fa-ewgu-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2001-job-30502",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "FD6TYTWAnJloyVeWAAAAAA==",
+    "job_title": "2026 Summer AI Engineering Internship",
+    "employer_name": "T-Mobile",
+    "employer_logo": null,
+    "employer_website": "https://www.t-mobile.com",
+    "job_publisher": "Dice",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.dice.com/job-detail/2f8e3f3d-22a6-4f31-b8cd-37538d8c1ae3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Dice",
+        "apply_link": "https://www.dice.com/job-detail/2f8e3f3d-22a6-4f31-b8cd-37538d8c1ae3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "T-Mobile is synonymous with innovation-and you could be part of the team that disrupted an entire industry! We reinvented customer service, brought real 5G to the nation, and now we're shaping the future of technology in wireless and beyond. Our work is as exciting as it is rewarding, so consider the career opportunity below as your invitation to grow with us, make big things happen with us, above all, #BEYOU with us. Together, we won't stop!\n\nGet hands-on experience, training-and a leg up on a bright future.\n\nLearn. Achieve. Build a career.\n\nT-Mobile is revolutionizing the wireless industry for millions of customers nationwide. Working here means rolling up your sleeves and redefining the status quo with a team that has your back every step of the way!\n\nThis is a 11-week paid learning experience during which you'll be able to connect and network with other interns and leaders within the company. We invite you to come innovate with mentors who will challenge you to develop meaningful skills. you'll contribute to creativity and outstanding ideas, while working alongside T-Mobile employees. We'll give you hand-on projects and the chance to create an immediate impact.\n\nWhat It's Like:\n\nWant to build AI that actually matters? Join T-Mobile's AI Agents team this summer and work on real products that customers use every day. You'll design and build intelligent agents for customer support and sales, tackle actual business problems with real data, and see the direct impact of what you create. You'll own initiatives from start to finish and help shape how millions of customers interact with T-Mobile.\n\nWhat You'll Do:\n\nYou will build and iterate on 1-2 AI Agents in T-Mobile's IntentCX program. You will build across modalities (chat and voice) using OpenAI's chat and realtime voice models. You will focus on either customer service, helping to answer questions and integrate customer data, OR on how T-Mobile sells its products. You will have a direct impact to hundreds of thousands of customer interactions every day!\n\nResponsibilities:\n\n- Build and Iterate on AI Agent(s) which either improve T-Mobile's customer support or sales functions\n- Integrate T-Mobile APIs into the context/prompt of your agent\n- Integrate your AI Agent into IntentCX's multi-agent framework\n- Integrate your AI Agent(s) with T-Mobile's T-Life app, website, or customer support phone number\n\nWhat It Takes:\n\n- Coding experience (Python is usually key for AI work)\n- Understanding of how APIs work\n- Familiarity with data analysis or machine learning basics\n- Comfortable working with large datasets\n- Problem-solving mindset: you need to figure out what customers actually need, not just build cool tech\n- Communication skills to explain technical work to non-technical stakeholders\n- Ability to work cross-functionally with product, engineering, and business teams\n- Comfortable with ambiguity: AI projects rarely have clear-cut answers\n- Experience with LLMs, prompt engineering, or chatbot frameworks\n• At least 18 years of age\n• Legally authorized to work in the United States\n• High School Diploma or GED\n• Must be actively enrolled in a degree program or graduated with the last year\n• Employees of T-Mobile or Metro by T-Mobile are ineligible for Internship\n• Employers does not sponsor work visas for this position. Note that this also applies to individuals who are students of F-1 status who desire sponsorship after they complete their education.\n• Relocation reimbursement may be provided to program participants who reside more than 50 miles from the internship location.\n\nIntern wages range from $26/hour to $47/hour.\n• The successful candidate's actual pay will be based on experience/location.\n\nNever stop growing!\nAs part of the T-Mobile team, you know the Un-carrier doesn't have a corporate ladder-it's more like a jungle gym of possibilities! We love helping our employees grow in their careers, because it's that shared drive to aim high that drives our business and our culture forward. By applying for this career opportunity, you're living our values while investing in your career growth-and we applaud it. You're unstoppable!\n\nT-Mobile USA, Inc. is an Equal Opportunity Employer. All decisions concerning the employment relationship will be made without regard to age, race, ethnicity, color, religion, creed, sex, sexual orientation, gender identity or expression, national origin, religious affiliation, marital status, citizenship status, veteran status, the presence of any physical or mental disability, or any other status or characteristic protected by federal, state, or local law. Discrimination, retaliation or harassment based upon any of these factors is wholly inconsistent with how we do business and will not be tolerated.\n\nTalent comes in all forms at the Un-carrier. If you are an individual with a disability and need reasonable accommodation at any point in the application or interview process, please let us know by emailing or calling 1-. Please note, this contact channel is not a means to apply for or inquire about a position and we are unable to respond to non-accommodation related requests.",
+    "job_is_remote": false,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770422400,
+    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
+    "job_location": "Leavenworth, WA",
+    "job_city": "Leavenworth",
+    "job_state": "Washington",
+    "job_country": "US",
+    "job_latitude": 47.5962326,
+    "job_longitude": -120.66147649999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFD6TYTWAnJloyVeWAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Coding experience (Python is usually key for AI work)",
+        "Understanding of how APIs work",
+        "Familiarity with data analysis or machine learning basics",
+        "Comfortable working with large datasets",
+        "Problem-solving mindset: you need to figure out what customers actually need, not just build cool tech",
+        "Communication skills to explain technical work to non-technical stakeholders",
+        "Ability to work cross-functionally with product, engineering, and business teams",
+        "Comfortable with ambiguity: AI projects rarely have clear-cut answers",
+        "Experience with LLMs, prompt engineering, or chatbot frameworks",
+        "At least 18 years of age",
+        "Legally authorized to work in the United States",
+        "High School Diploma or GED",
+        "Must be actively enrolled in a degree program or graduated with the last year",
+        "Employees of T-Mobile or Metro by T-Mobile are ineligible for Internship"
+      ],
+      "Benefits": [
+        "Relocation reimbursement may be provided to program participants who reside more than 50 miles from the internship location",
+        "Intern wages range from $26/hour to $47/hour",
+        "The successful candidate's actual pay will be based on experience/location"
+      ],
+      "Responsibilities": [
+        "you'll contribute to creativity and outstanding ideas, while working alongside T-Mobile employees",
+        "Join T-Mobile's AI Agents team this summer and work on real products that customers use every day",
+        "You'll design and build intelligent agents for customer support and sales, tackle actual business problems with real data, and see the direct impact of what you create",
+        "You'll own initiatives from start to finish and help shape how millions of customers interact with T-Mobile",
+        "You will build and iterate on 1-2 AI Agents in T-Mobile's IntentCX program",
+        "You will build across modalities (chat and voice) using OpenAI's chat and realtime voice models",
+        "You will focus on either customer service, helping to answer questions and integrate customer data, OR on how T-Mobile sells its products",
+        "You will have a direct impact to hundreds of thousands of customer interactions every day!",
+        "Build and Iterate on AI Agent(s) which either improve T-Mobile's customer support or sales functions",
+        "Integrate T-Mobile APIs into the context/prompt of your agent",
+        "Integrate your AI Agent into IntentCX's multi-agent framework",
+        "Integrate your AI Agent(s) with T-Mobile's T-Life app, website, or customer support phone number"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-dice-com-job-detail-2f8e3f3d-22a6-4f31-b8cd-37538d8c1ae3",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "jUTR-altetnlyTvkAAAAAA==",
+    "job_title": "Machine Learning Researcher - PhD Intern (US)",
+    "employer_name": "Citadel",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyqNjgZwMw5Ee0MqrUElt0p6LzGVh11eSM3Whz&s=0",
+    "employer_website": "https://www.citadel.com",
+    "job_publisher": "Citadel Securities",
+    "job_employment_type": "Internship",
+    "job_employment_types": [
+      "INTERN"
+    ],
+    "job_apply_link": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Citadel Securities",
+        "apply_link": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Citadel/Job/Machine-Learning-Researcher-PhD-Intern-(US)/-in-Miami,FL?jid=7d86773deb617ff1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Built In",
+        "apply_link": "https://builtin.com/job/machine-learning-researcher-phd-intern-us/6532905?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/machine-learning-researcher-phd-intern-miami-citadel-enterprise-americas-llc-c622156cce9c454368d0687d4d62e51f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Ladders",
+        "apply_link": "https://www.theladders.com/job/machine-learning-researcher-phd-intern-us-bluehalo-miami-fl_82155564?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Lensa",
+        "apply_link": "https://lensa.com/job-v1/citadel/miami-fl/machine-learning-intern/d24dd80cfad3ad62a18b7fcaf3a584e7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "At Citadel Securities, a leading global market maker, our team of quantitative researchers models the markets and brings trading strategies to life every day. Specifically, the goal of this team is to leverage and tailor the state-of-the-art machine learning and AI algorithms to modernize the quantitative trading industry. We’re looking for extraordinary and highly motivated researchers who are excited about solving challenging problems and iterating in a fast-paced environment.\n\nAs an intern, you’ll get to challenge the impossible in research through an 11 week program that will allow you to collaborate and connect with senior team members. In addition, you’ll get the opportunity to network and socialize with peers throughout the internship.\n\nOur signature internship program takes place June through August. Occasionally, we can be flexible to other times of the year. You will be able to indicate your timing preference in the application.\n\nYour Objectives\n• Use statistics, machine learning or AI (e.g. deep learning, NLP) to extract patterns from various kinds of datasets through innovative and rigorous research\n• Implement algorithms in high-quality code\n• Work with large data sets, including unconventional and unstructured data sources\n• Back-test models and document research findings\n\nYour Skills & Talents\n• PhD degree in mathematics, statistics, physics, computer science, or another highly quantitative field\n• Advanced training and strong research track record in statistics, machine learning, AI, or another highly quantitative field\n• Hands on programming experience in scripting (e.g. Python) and/or compiled languages (e.g. C++)\n• A background demonstrating strong problem-solving skills\n• An ability to communicate advanced concepts in a concise and logical way\n• Proficiency in creating and using algorithms to meticulously investigate and work through large data or error-checking problems\n\nOpportunities available in Miami and New York.\n\nIn accordance with applicable law, the base salary range for this role is $4,300 to $5,800 per week.",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Miami, FL",
+    "job_city": "Miami",
+    "job_state": "Florida",
+    "job_country": "US",
+    "job_latitude": 25.7616798,
+    "job_longitude": -80.1917902,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DjUTR-altetnlyTvkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "PhD degree in mathematics, statistics, physics, computer science, or another highly quantitative field",
+        "Advanced training and strong research track record in statistics, machine learning, AI, or another highly quantitative field",
+        "Hands on programming experience in scripting (e.g. Python) and/or compiled languages (e.g. C++)",
+        "A background demonstrating strong problem-solving skills",
+        "An ability to communicate advanced concepts in a concise and logical way",
+        "Proficiency in creating and using algorithms to meticulously investigate and work through large data or error-checking problems"
+      ],
+      "Benefits": [
+        "In addition, you’ll get the opportunity to network and socialize with peers throughout the internship",
+        "In accordance with applicable law, the base salary range for this role is $4,300 to $5,800 per week"
+      ],
+      "Responsibilities": [
+        "As an intern, you’ll get to challenge the impossible in research through an 11 week program that will allow you to collaborate and connect with senior team members",
+        "Use statistics, machine learning or AI (e.g. deep learning, NLP) to extract patterns from various kinds of datasets through innovative and rigorous research",
+        "Implement algorithms in high-quality code",
+        "Work with large data sets, including unconventional and unstructured data sources",
+        "Back-test models and document research findings"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-citadelsecurities-com-careers-details-machine-learning-researcher-phd-intern-us",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "1dUrj5xdQCuAq1KSAAAAAA==",
+    "job_title": "PhD Research Assistant - Machine Learning Research Group",
+    "employer_name": "Oracle",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Ob8wBy30IQeYJfM4qn_PksuLPYaC4sUtJLRK&s=0",
+    "employer_website": "https://www.oracle.com",
+    "job_publisher": "| USNLX Veterans Jobs - National Labor Exchange",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://veterans.usnlx.com/columbus-oh/phd-research-assistant-machine-learning-research-group/64C3D381A50A4D259C5B460C019B281F/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "| USNLX Veterans Jobs - National Labor Exchange",
+        "apply_link": "https://veterans.usnlx.com/columbus-oh/phd-research-assistant-machine-learning-research-group/64C3D381A50A4D259C5B460C019B281F/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Snagajob",
+        "apply_link": "https://www.snagajob.com/jobs/1189829634?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/algorithm-development?id=2210664988&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-oh-columbus-phd-research-assistant-machine-learning-group-oracle?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Description\n\nMust be enrolled in a university prior to and post internship.\n\nTarget Internship Duration: May-Aug 2026 or June-Sept 2026.\n\nTarget internship location: Burlington, MA.\n\nThe Program:\n\nOur future success depends on hiring world-class, early in career talent who are looking to power next-generation services and solutions. We are hiring students with a diverse set of skills and experiences to work in and across teams. Our program is intended to enhance your overall learning experience, help build your network, and accelerate your opportunity to make an impact.\n\nThe Team:\n\nThe Machine Learning Research Group is searching for outstanding AI and ML research interns to join our research team. We are passionate about research that both advances science and has impact in the real world. You will be part of an amazing collaborative research team that publishes at the top venues in machine learning and artificial intelligence. Our expertise includes recommender systems, content moderation, foundation models, privacy preserving technology, probabilistic programming, and AI agents. Your contributions have the chance to create real impact.\n\nResponsibilities\n\nWhat you'll be doing:\n• Create new datasets that push the limits of existing AI and ML technology\n• Research, design and implement novel methods\n• Contribute to research that may lead to publications or conference presentations\n• Collaborate with other team members and teams\n• Transfer technology to product groups\n• Collaborate with external researchers\n\nWhat You’ll Bring:\n\nTo be considered for a Research Assistant position in the Machine Learning Research Group, you must possess the Objective Minimum Qualifications (OMQs) below. Please ensure that your application clearly indicates that you meet these OMQs, either on your resume, application questions, and/or by uploading additional documents such as a transcript.\n• Visa sponsorship is not available for this role. For clarity purposes, this means that Oracle is not in a position now, or in the future, to offer US immigration sponsorship. This includes, but is not limited to, support of H-1B, TN, O-1, green card or F-1 e.g. EAD, OPT, CPT, I-20, F-1 visa stamp, etc.\n• Currently pursuing a Ph.D. in the field of Recommender Systems, Content Moderation, Natural Language Processing, Speech Processing, Computer Vision, Machine Learning, Artificial Intelligence, or equivalent AND returning to the program after completion of the internship.\n• Research and/or work experience in Recommender Systems, Content Moderation, Natural Language Processing, Speech Processing, Computer Vision, Machine Learning, Artificial Intelligence, or equivalent\n• Excellent programming skills in Python plus hands on experience with common machine learning frameworks, such as PyTorch\n• Outstanding research and publication track record\n• Excellent communication skills\n• Reside in the United States and/or attend a university in the US.\n\nPreferred Qualifications:\n• Minimum 3.0 GPA\n\nThe Machine Learning Research Group is an advanced research organization in Oracle. We focus on the development of technologies that keep Oracle at the forefront of the computer industry. Our researchers look for novel approaches and methodologies, often taking on projects with high risk or uncertainty, or that are difficult to tackle within a product development organization. Our research is focused on real-world outcomes: our researchers aim to develop technologies that will play a significant role in the evolution of technology and society.\n\nDisclaimer:\n\nCertain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates.\n\nRange and benefit information provided in this posting are specific to the stated locations only\n\nUS: Hiring Range in USD from $19.62 to $53.00 per hour; from: $40,800 to $110,240 per annum.\n\nOracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle’s differing products, industries and lines of business.\n\nCandidates are typically placed into the range based on the preceding factors as well as internal peer equity.\n\nOracle US offers a comprehensive benefits package which includes the following:\n• Medical, dental, and vision insurance, including expert medical opinion\n• Short term disability and long term disability\n• Life insurance and AD&D\n• Supplemental life insurance (Employee/Spouse/Child)\n• Health care and dependent care Flexible Spending Accounts\n• Pre-tax commuter and parking benefits\n• 401(k) Savings and Investment Plan with company match\n• Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position. Accrued Vacation is provided to all other employees eligible for vacation benefits. For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment. Vacation accrual is prorated for employees working between 20 and 34 hours per week. Employees working fewer than 20 hours per week are not eligible for vacation.\n• 11 paid holidays\n• Paid sick leave: 72 hours of paid sick leave upon date of hire. Refreshes each calendar year. Unused balance will carry over each year up to a maximum cap of 112 hours.\n• Paid parental leave\n• Adoption assistance\n• Employee Stock Purchase Plan\n• Financial planning and group legal\n• Voluntary benefits including auto, homeowner and pet insurance\n\nThe role will generally accept applications for at least three calendar days from the posting date or as long as the job remains posted.\n\nCareer Level - IC0\n\nAbout Us\n\nOnly Oracle brings together the data, infrastructure, applications, and expertise to power everything from industry innovations to life-saving care. And with AI embedded across our products and services, we help customers turn that promise into a better future for all. Discover your potential at a company leading the way in AI and cloud solutions that impact billions of lives.\n\nTrue innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.\n\nWe’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing accommodation-request_mb@oracle.com or by calling 1-888-404-2494 in the United States.\n\nOracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.",
+    "job_is_remote": false,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770422400,
+    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
+    "job_location": "Columbus, OH",
+    "job_city": "Columbus",
+    "job_state": "Ohio",
+    "job_country": "US",
+    "job_latitude": 39.9625112,
+    "job_longitude": -83.00322179999999,
+    "job_benefits": [
+      "paid_time_off",
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D1dUrj5xdQCuAq1KSAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Must be enrolled in a university prior to and post internship",
+        "To be considered for a Research Assistant position in the Machine Learning Research Group, you must possess the Objective Minimum Qualifications (OMQs) below",
+        "EAD, OPT, CPT, I-20, F-1 visa stamp, etc",
+        "Currently pursuing a Ph.D. in the field of Recommender Systems, Content Moderation, Natural Language Processing, Speech Processing, Computer Vision, Machine Learning, Artificial Intelligence, or equivalent AND returning to the program after completion of the internship",
+        "Research and/or work experience in Recommender Systems, Content Moderation, Natural Language Processing, Speech Processing, Computer Vision, Machine Learning, Artificial Intelligence, or equivalent",
+        "Excellent programming skills in Python plus hands on experience with common machine learning frameworks, such as PyTorch",
+        "Outstanding research and publication track record",
+        "Excellent communication skills",
+        "Reside in the United States and/or attend a university in the US",
+        "Certain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates"
+      ],
+      "Benefits": [
+        "US: Hiring Range in USD from $19.62 to $53.00 per hour; from: $40,800 to $110,240 per annum",
+        "Oracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle’s differing products, industries and lines of business",
+        "Oracle US offers a comprehensive benefits package which includes the following:",
+        "Medical, dental, and vision insurance, including expert medical opinion",
+        "Short term disability and long term disability",
+        "Life insurance and AD&D",
+        "Supplemental life insurance (Employee/Spouse/Child)",
+        "Health care and dependent care Flexible Spending Accounts",
+        "Pre-tax commuter and parking benefits",
+        "401(k) Savings and Investment Plan with company match",
+        "Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position",
+        "Accrued Vacation is provided to all other employees eligible for vacation benefits",
+        "For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment",
+        "Vacation accrual is prorated for employees working between 20 and 34 hours per week",
+        "Employees working fewer than 20 hours per week are not eligible for vacation",
+        "11 paid holidays",
+        "Paid sick leave: 72 hours of paid sick leave upon date of hire",
+        "Refreshes each calendar year",
+        "Unused balance will carry over each year up to a maximum cap of 112 hours",
+        "Paid parental leave",
+        "Adoption assistance",
+        "Employee Stock Purchase Plan",
+        "Financial planning and group legal",
+        "Voluntary benefits including auto, homeowner and pet insurance",
+        "That’s why we’re committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options"
+      ],
+      "Responsibilities": [
+        "Create new datasets that push the limits of existing AI and ML technology",
+        "Research, design and implement novel methods",
+        "Contribute to research that may lead to publications or conference presentations",
+        "Collaborate with other team members and teams",
+        "Transfer technology to product groups",
+        "Collaborate with external researchers"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "veterans-usnlx-com-columbus-oh-phd-research-assistant-machine-learning-research-group-64c3d381a50a4d259c5b460c019b281f-job",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "12dGs0l1yRskO25YAAAAAA==",
+    "job_title": "PhD Research Assistant - Machine Learning Research Group",
+    "employer_name": "Oracle",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Ob8wBy30IQeYJfM4qn_PksuLPYaC4sUtJLRK&s=0",
+    "employer_website": "https://www.oracle.com",
+    "job_publisher": "Snagajob",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.snagajob.com/jobs/1189831526?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Snagajob",
+        "apply_link": "https://www.snagajob.com/jobs/1189831526?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "**Job Description**\n• *Must be enrolled in a university prior to and post internship.**\n• *Target Internship Duration: May-Aug 2026 or June-Sept 2026.**\n• *Target internship location: Burlington, MA.**\n• *The Program:**\n\nOur future success depends on hiring world-class, early in career talent who are looking to power next-generation services and solutions. We are hiring students with a diverse set of skills and experiences to work in and across teams. Our program is intended to enhance your overall learning experience, help build your network, and accelerate your opportunity to make an impact.\n• *The Team:**\n\nThe Machine Learning Research Group is searching for outstanding AI and ML research interns to join our research team. We are passionate about research that both advances science and has impact in the real world. You will be part of an amazing collaborative research team that publishes at the top venues in machine learning and artificial intelligence. Our expertise includes recommender systems, content moderation, foundation models, privacy preserving technology, probabilistic programming, and AI agents. Your contributions have the chance to create real impact.\n• *Responsibilities**\n• *What you'll be doing:**\n\n+ Create new datasets that push the limits of existing AI and ML technology\n\n+ Research, design and implement novel methods\n\n+ Contribute to research that may lead to publications or conference presentations\n\n+ Collaborate with other team members and teams\n\n+ Transfer technology to product groups\n\n+ Collaborate with external researchers\n• *What You’ll Bring:**\n• *To be considered for a Research Assistant position in the Machine Learning Research Group, you must possess the Objective Minimum Qualifications (OMQs) below. Please ensure that your application clearly indicates that you meet these OMQs, either on your resume, application questions, and/or by uploading additional documents such as a transcript.**\n\n+ **Visa sponsorship is not available for this role. For clarity purposes, this means that Oracle is not in a position now, or in the future, to offer US immigration sponsorship. This includes, but is not limited to, support of H-1B, TN, O-1, green card or F-1 e.g. EAD, OPT, CPT, I-20, F-1 visa stamp, etc.**\n\n+ **Currently pursuing a Ph.D. in the field of Recommender Systems, Content Moderation, Natural Language Processing, Speech Processing, Computer Vision, Machine Learning, Artificial Intelligence, or equivalent AND returning to the program after completion of the internship.**\n\n+ Research and/or work experience in Recommender Systems, Content Moderation, Natural Language Processing, Speech Processing, Computer Vision, Machine Learning, Artificial Intelligence, or equivalent\n\n+ Excellent programming skills in Python plus hands on experience with common machine learning frameworks, such as PyTorch\n\n+ Outstanding research and publication track record\n\n+ Excellent communication skills\n\n+ Reside in the United States and/or attend a university in the US.\n\nPreferred Qualifications:\n\n+ Minimum 3.0 GPA\n\nThe Machine Learning Research Group is an advanced research organization in Oracle. We focus on the development of technologies that keep Oracle at the forefront of the computer industry. Our researchers look for novel approaches and methodologies, often taking on projects with high risk or uncertainty, or that are difficult to tackle within a product development organization. Our research is focused on real-world outcomes: our researchers aim to develop technologies that will play a significant role in the evolution of technology and society.\n\nDisclaimer:\n• *Certain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates.**\n• *Range and benefit information provided in this posting are specific to the stated locations only**\n\nUS: Hiring Range in USD from $19.62 to $53.00 per hour; from: $40,800 to $110,240 per annum.\n\nOracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle’s differing products, industries and lines of business.\n\nCandidates are typically placed into the range based on the preceding factors as well as internal peer equity.\n\nOracle US offers a comprehensive benefits package which includes the following:\n\n1. Medical, dental, and vision insurance, including expert medical opinion\n\n2. Short term disability and long term disability\n\n3. Life insurance and AD&D\n\n4. Supplemental life insurance (Employee/Spouse/Child)\n\n5. Health care and dependent care Flexible Spending Accounts\n\n6. Pre-tax commuter and parking benefits\n\n7. 401(k) Savings and Investment Plan with company match\n\n8. Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position. Accrued Vacation is provided to all other employees eligible for vacation benefits. For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment. Vacation accrual is prorated for employees working between 20 and 34 hours per week. Employees working fewer than 20 hours per week are not eligible for vacation.\n\n9. 11 paid holidays\n\n10. Paid sick leave: 72 hours of paid sick leave upon date of hire. Refreshes each calendar year. Unused balance will carry over each year up to a maximum cap of 112 hours.\n\n11. Paid parental leave\n\n12. Adoption assistance\n\n13. Employee Stock Purchase Plan\n\n14. Financial planning and group legal\n\n15. Voluntary benefits including auto, homeowner and pet insurance\n\nThe role will generally accept applications for at least three calendar days from the posting date or as long as the job remains posted.\n\nCareer Level - IC0\n• *About Us**\n\nAs a world leader in cloud solutions, Oracle uses tomorrow’s technology to tackle today’s challenges. We’ve partnered with industry-leaders in almost every sector—and continue to thrive after 40+ years of change by operating with integrity.\n\nWe know that true innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing an inclusive workforce that promotes opportunities for all.\n\nOracle careers open the door to global opportunities where work-life balance flourishes. We offer competitive benefits based on parity and consistency and support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.\n\nWe’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing accommodation-request_mb@oracle.com or by calling +1 888 404 2494 in the United States.\n\nOracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.\n• *Job Description**\n• *Must be enrolled in a university prior to and post internship.**\n• *Target Internship Duration: May-Aug 2026 or June-Sept 2026.**\n• *Target internship location: Burlington, MA.**\n• *The Program:**\n\nOur future success depends on hiring world-class, early in career talent who are looking to power next-generation services and solutions. We are hiring students with a diverse set of skills and experiences to work in and across teams. Our program is intended to enhance your overall learning experience, help build your network, and accelerate your opportunity to make an impact.\n• *The Team:**\n\nThe Machine Learning Research Group is searching for outstanding AI and ML research interns to join our research team. We are passionate about research that both advances science and has impact in the real world. You will be part of an amazing collaborative research team that publishes at the top venues in machine learning and artificial intelligence. Our expertise includes recommender systems, content moderation, foundation models, privacy preserving technology, probabilistic programming, and AI agents. Your contributions have the chance to create real impact.\n• *Responsibilities**\n• *What you'll be doing:**\n\n+ Create new datasets that push the limits of existing AI and ML technology\n\n+ Research, design and implement novel methods\n\n+ Contribute to research that may lead to publications or conference presentations\n\n+ Collaborate with other team members and teams\n\n+ Transfer technology to product groups\n\n+ Collaborate with external researchers\n• *What You’ll Bring:**\n• *To be considered for a Research Assistant position in the Machine Learning Research Group, you must possess the Objective Minimum Qualifications (OMQs) below. Please ensure that your application clearly indicates that you meet these OMQs, either on your resume, application questions, and/or by uploading additional documents such as a transcript.**\n\n+ **Visa sponsorship is not available for this role. For clarity purposes, this means that Oracle is not in a position now, or in the future, to offer US immigration sponsorship. This includes, but is not limited to, support of H-1B, TN, O-1, green card or F-1 e.g. EAD, OPT, CPT, I-20, F-1 visa stamp, etc.**\n\n+ **Currently pursuing a Ph.D. in the field of Recommender Systems, Content Moderation, Natural Language Processing, Speech Processing, Computer Vision, Machine Learning, Artificial Intelligence, or equivalent AND returning to the program after completion of the internship.**\n\n+ Research and/or work experience in Recommender Systems, Content Moderation, Natural Language Processing, Speech Processing, Computer Vision, Machine Learning, Artificial Intelligence, or equivalent\n\n+ Excellent programming skills in Python plus hands on experience with common machine learning frameworks, such as PyTorch\n\n+ Outstanding research and publication track record\n\n+ Excellent communication skills\n\n+ Reside in the United States and/or attend a university in the US.\n\nPreferred Qualifications:\n\n+ Minimum 3.0 GPA\n\nThe Machine Learning Research Group is an advanced research organization in Oracle. We focus on the development of technologies that keep Oracle at the forefront of the computer industry. Our researchers look for novel approaches and methodologies, often taking on projects with high risk or uncertainty, or that are difficult to tackle within a product development organization. Our research is focused on real-world outcomes: our researchers aim to develop technologies that will play a significant role in the evolution of technology and society.\n\nDisclaimer:\n• *Certain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates.**\n• *Range and benefit information provided in this posting are specific to the stated locations only**\n\nUS: Hiring Range in USD from $19.62 to $53.00 per hour; from: $40,800 to $110,240 per annum.\n\nOracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle’s differing products, industries and lines of business.\n\nCandidates are typically placed into the range based on the preceding factors as well as internal peer equity.\n\nOracle US offers a comprehensive benefits package which includes the following:\n\n1. Medical, dental, and vision insurance, including expert medical opinion\n\n2. Short term disability and long term disability\n\n3. Life insurance and AD&D\n\n4. Supplemental life insurance (Employee/Spouse/Child)\n\n5. Health care and dependent care Flexible Spending Accounts\n\n6. Pre-tax commuter and parking benefits\n\n7. 401(k) Savings and Investment Plan with company match\n\n8. Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position. Accrued Vacation is provided to all other employees eligible for vacation benefits. For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment. Vacation accrual is prorated for employees working between 20 and 34 hours per week. Employees working fewer than 20 hours per week are not eligible for vacation.\n\n9. 11 paid holidays\n\n10. Paid sick leave: 72 hours of paid sick leave upon date of hire. Refreshes each calendar year. Unused balance will carry over each year up to a maximum cap of 112 hours.\n\n11. Paid parental leave\n\n12. Adoption assistance\n\n13. Employee Stock Purchase Plan\n\n14. Financial planning and group legal\n\n15. Voluntary benefits including auto, homeowner and pet insurance\n\nThe role will generally accept applications for at least three calendar days from the posting date or as long as the job remains posted.\n\nCareer Level - IC0\n• *About Us**\n\nAs a world leader in cloud solutions, Oracle uses tomorrow’s technology to tackle today’s challenges. We’ve partnered with industry-leaders in almost every sector—and continue to thrive after 40+ years of change by operating with integrity.\n\nWe know that true innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing an inclusive workforce that promotes opportunities for all.\n\nOracle careers open the door to global opportunities where work-life balance flourishes. We offer competitive benefits based on parity and consistency and support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.\n\nWe’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing accommodation-request_mb@oracle.com or by calling +1 888 404 2494 in the United States.\n\nOracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.",
+    "job_is_remote": false,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770422400,
+    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
+    "job_location": "Jefferson City, MO",
+    "job_city": "Jefferson City",
+    "job_state": "Missouri",
+    "job_country": "US",
+    "job_latitude": 38.5767017,
+    "job_longitude": -92.1735164,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D12dGs0l1yRskO25YAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 19.62,
+    "job_max_salary": 53,
+    "job_salary_period": "HOUR",
+    "job_highlights": {
+      "Qualifications": [
+        "*Must be enrolled in a university prior to and post internship.**",
+        "*Target Internship Duration: May-Aug 2026 or June-Sept 2026.**",
+        "EAD, OPT, CPT, I-20, F-1 visa stamp, etc.**",
+        "**Currently pursuing a Ph.D. in the field of Recommender Systems, Content Moderation, Natural Language Processing, Speech Processing, Computer Vision, Machine Learning, Artificial Intelligence, or equivalent AND returning to the program after completion of the internship.**",
+        "Research and/or work experience in Recommender Systems, Content Moderation, Natural Language Processing, Speech Processing, Computer Vision, Machine Learning, Artificial Intelligence, or equivalent",
+        "Excellent programming skills in Python plus hands on experience with common machine learning frameworks, such as PyTorch",
+        "Outstanding research and publication track record",
+        "Excellent communication skills",
+        "Reside in the United States and/or attend a university in the US",
+        "*Must be enrolled in a university prior to and post internship.**",
+        "*Target Internship Duration: May-Aug 2026 or June-Sept 2026.**",
+        "*To be considered for a Research Assistant position in the Machine Learning Research Group, you must possess the Objective Minimum Qualifications (OMQs) below",
+        "EAD, OPT, CPT, I-20, F-1 visa stamp, etc.**",
+        "**Currently pursuing a Ph.D. in the field of Recommender Systems, Content Moderation, Natural Language Processing, Speech Processing, Computer Vision, Machine Learning, Artificial Intelligence, or equivalent AND returning to the program after completion of the internship.**",
+        "Research and/or work experience in Recommender Systems, Content Moderation, Natural Language Processing, Speech Processing, Computer Vision, Machine Learning, Artificial Intelligence, or equivalent",
+        "Excellent programming skills in Python plus hands on experience with common machine learning frameworks, such as PyTorch",
+        "Outstanding research and publication track record",
+        "Excellent communication skills",
+        "Reside in the United States and/or attend a university in the US",
+        "*Certain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates.**"
+      ],
+      "Benefits": [
+        "US: Hiring Range in USD from $19.62 to $53.00 per hour; from: $40,800 to $110,240 per annum",
+        "Oracle US offers a comprehensive benefits package which includes the following:",
+        "Medical, dental, and vision insurance, including expert medical opinion",
+        "Short term disability and long term disability",
+        "Life insurance and AD&D",
+        "Supplemental life insurance (Employee/Spouse/Child)",
+        "Health care and dependent care Flexible Spending Accounts",
+        "Pre-tax commuter and parking benefits",
+        "401(k) Savings and Investment Plan with company match",
+        "Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position",
+        "Accrued Vacation is provided to all other employees eligible for vacation benefits",
+        "For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment",
+        "Vacation accrual is prorated for employees working between 20 and 34 hours per week",
+        "Employees working fewer than 20 hours per week are not eligible for vacation",
+        "11 paid holidays",
+        "Paid sick leave: 72 hours of paid sick leave upon date of hire",
+        "Refreshes each calendar year",
+        "Unused balance will carry over each year up to a maximum cap of 112 hours",
+        "Paid parental leave",
+        "Adoption assistance",
+        "Employee Stock Purchase Plan",
+        "Financial planning and group legal",
+        "Voluntary benefits including auto, homeowner and pet insurance",
+        "We offer competitive benefits based on parity and consistency and support our people with flexible medical, life insurance, and retirement options",
+        "We also encourage employees to give back to their communities through our volunteer programs",
+        "US: Hiring Range in USD from $19.62 to $53.00 per hour; from: $40,800 to $110,240 per annum",
+        "Medical, dental, and vision insurance, including expert medical opinion",
+        "Short term disability and long term disability",
+        "Life insurance and AD&D",
+        "Supplemental life insurance (Employee/Spouse/Child)",
+        "Health care and dependent care Flexible Spending Accounts",
+        "Pre-tax commuter and parking benefits",
+        "401(k) Savings and Investment Plan with company match",
+        "Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position",
+        "Accrued Vacation is provided to all other employees eligible for vacation benefits",
+        "For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment",
+        "Vacation accrual is prorated for employees working between 20 and 34 hours per week",
+        "Employees working fewer than 20 hours per week are not eligible for vacation",
+        "11 paid holidays",
+        "Paid sick leave: 72 hours of paid sick leave upon date of hire",
+        "Refreshes each calendar year",
+        "Unused balance will carry over each year up to a maximum cap of 112 hours",
+        "Paid parental leave",
+        "Adoption assistance",
+        "Employee Stock Purchase Plan",
+        "Financial planning and group legal",
+        "Voluntary benefits including auto, homeowner and pet insurance",
+        "We offer competitive benefits based on parity and consistency and support our people with flexible medical, life insurance, and retirement options"
+      ],
+      "Responsibilities": [
+        "Create new datasets that push the limits of existing AI and ML technology",
+        "Research, design and implement novel methods",
+        "Contribute to research that may lead to publications or conference presentations",
+        "Collaborate with other team members and teams",
+        "Transfer technology to product groups",
+        "Collaborate with external researchers",
+        "*To be considered for a Research Assistant position in the Machine Learning Research Group, you must possess the Objective Minimum Qualifications (OMQs) below",
+        "*Certain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates.**",
+        "*Range and benefit information provided in this posting are specific to the stated locations only**",
+        "Create new datasets that push the limits of existing AI and ML technology",
+        "Research, design and implement novel methods",
+        "Contribute to research that may lead to publications or conference presentations",
+        "Collaborate with other team members and teams",
+        "Transfer technology to product groups",
+        "Collaborate with external researchers"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-snagajob-com-jobs-1189831526",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "u-vjD8oXh6dVoOJhAAAAAA==",
+    "job_title": "Manager, Software Engineering, AI Enablement & Machine Learning",
+    "employer_name": "Warner Bros. Discovery",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBIh13W0tYcJMVCfd3aQ60tEJZxF1Jfnixz97g&s=0",
+    "employer_website": null,
+    "job_publisher": "WBD Careers - Warner Bros. Discovery",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.wbd.com/global/en/job/R000098186/Manager-Software-Engineering-AI-Enablement-Machine-Learning?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "WBD Careers - Warner Bros. Discovery",
+        "apply_link": "https://careers.wbd.com/global/en/job/R000098186/Manager-Software-Engineering-AI-Enablement-Machine-Learning?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=8beaea83da3d05a9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Cisco/Job/AI-Machine-Learning-Engineer-II-(Full-Time)-United-States/-in-Atlanta,GA?jid=4324c515440213a7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "LocalJobs.com",
+        "apply_link": "https://www.localjobs.com/job/atlanta-ga-ai-machine-learning-engineer-ii-full-time-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ShowbizJobs",
+        "apply_link": "https://www.showbizjobs.com/jobs/cnn-manager-software-engineering-ai-enablement-machine-learning-in-atlanta/jid-eo8eq2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/zokm7hBgJhp8Th6HZbqAUNUnx2olMWJ387vZ1lRZ8tDro7u2SMLJVw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/manager-software-engineering-ai-enablement-machine-learning_7ea1a6470cd826cef27f373196c51d56c6d78?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Lensa",
+        "apply_link": "https://lensa.com/job-v1/warner-bros-discovery/atlanta-ga/software-engineering-manager/18b43524af9ae39f0a93d78201a5f933?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Welcome to Warner Bros. Discovery… the stuff dreams are made of.\n\nWho We Are…\n\nWhen we say, “the stuff dreams are made of,” we’re not just referring to the world of wizards, dragons and superheroes, or even to the wonders of Planet Earth. Behind WBD’s vast portfolio of iconic content and beloved brands, are the storytellers bringing our characters to life, the creators bringing them to your living rooms and the dreamers creating what’s next…\n\nFrom brilliant creatives, to technology trailblazers, across the globe, WBD offers career defining opportunities, thoughtfully curated benefits, and the tools to explore and grow into your best selves. Here you are supported, here you are celebrated, here you can thrive.\n\nWe are the now and the next. The power behind the people building the future. We are born from the spirit of innovation. We are created from the idea that people around the world want more, need more, deserve more. We are the home of the global digital revolution. We are CNN.\n\nTo see what it’s like to work at CNN, follow @WBDLife on Instagram and X!\n\nWith deep domain expertise, advanced technical capabilities, and a proven track record of successful collaborations, the AI Enablement & Machine Learning team at CNN is accelerating our digital transformation through strategic applications of machine learning and AI technologies. Our current products include popular, related and personalized content recommendations, contextual ad targeting, and site search-serving millions of CNN users via CNN web and mobile apps. Within the next quarter, we will be launching summarization and classification features with chat to follow early next year. We have a variety of specializations and collaborate closely, enhancing our platform and adding to the suite of machine learning features running on it\n\nYour New Role...\n\nThe team is composed of multiple squads: a platform squad along with cross-functional squads that leverage the platform to develop products. As the Engineering Manager for a products squad, you will manage 2+ engineers with varied backgrounds and focuses:\n• Machine learning engineers (MLEs) build models and features\n• Data engineers fulfill the availability and latency requirements provided by MLEs\n• Some software engineers partner with MLEs to operationalize and expose models and features\n• Other software engineers focus on our ML platform and tooling, including A/B testing\n\nKey challenges the team will tackle in next couple of quarters:\n• Content Summaries: Support testing and adoption of various types of content summaries from multiple domains, which can be leveraged in consumer experiences along with embedding generation and classification\n• Two-Tower Experimentation: Explore options for incorporating additional user context in our personalized recommendations model such as geolocation, time of day and time of year\n• All Access Search: Partner with teams across CNN to incorporate streaming content and add support for OTT\n• Bandit Foundation: Enhance data access and begin experimenting with bandits for online ranking of recommendations\n• Optimize Site Performance: Dynamically deliver personalized content alongside cached assets, improving load times and enhancing user experience with features like page-level deduplication\n\nYour Role Accountabilities...\n• Support, coach, mentor, and provide valuable feedback to the individuals you manage to help them excel\n• Work with cross-functional partners and stakeholders on activities such as planning, technical strategy, quality and delivery\n• Partner with engineers within the team and across the organization to build and integrate machine learning features into our site, apps, and editorial tools\n• Lead other engineers on the team by example, code reviews, and coaching, ensuring that code is readable, maintainable, scalable, observable, and resilient\n• Champion improvements to developer experience, integrations, and testing processes\n• Leverage vended and open-source cloud technologies to reduce maintenance costs and improve efficiencies, ensuring our products remain profitable\n• Collaborate with other engineers to develop and enhance core capabilities, infrastructure, and architecture\n\nHere is the approach we value:\n• Author, review, and optimize production-quality code that adheres to industry standards and best practices (IaC, CICD, etc.)\n• Demonstrate a passion for software engineering, with a strong sense of responsibility for the code you and your team write\n• Take ownership of issues and be a strong advocate for your team and the products\n• Embrace failure as a learning opportunity—use research and experimentation to ultimately choose the best solutions that meet company goals\n• Follow a progressive development methodology, moving from proof-of-concept to prototype to production release\n• Enhance the effectiveness of your squad, the team, and our partners by sharing your knowledge, communicating about complex technologies and problems in simple terms, and driving technical decisions\n• Collaborate across functions, squads, teams, and organizations to best serve our users\n\nQualifications & Experience...\n• 8+ years progressively complex experience designing, building, and shipping products\n• 5+ years backend engineering experience with data-heavy applications\n• 3+ years of experience with IaC, deployment pipelines, and relational databases\n• 5+ years of experience managing engineering teams\n• Experience partnering with and / or leading ICs responsible for machine learning model development (data scientists, MLEs, etc.)\n• Familiarity with ML specific pipelines and tooling\n• Familiarity with experimentation frameworks and A/B testing methodologies\n• Deep understanding of common software data structures and algorithms, with extensive experience in modern development technologies and practices\n• A proven track record of building web scale products that are highly available and performant\n• Passion for growing engineers through mentorship, talent acquisition, and professional development\n• A collaborative mindset, understanding that great results come from teamwork and a positive culture\n• Proven success leading complex projects within an engineering team: knowing when to handle issues independently, when to rally the right people for alignment, and when to escalate\n• Excellent communication, presentation, and documentation skills\n\nThe Nice to Haves...\n• Practical experience with recommendations, search and/or personalization\n• Practical experience building cost-effective ML solutions at scale\n• Experience with RAG pipelines, feature stores, or embedding infrastructure\n\nAdditional Information\n\nOn December 5, Netflix and Warner Bros. Discovery announced they have entered into a definitive agreement under which Netflix will acquire Warner Bros., including its film and television studios, HBO Max and HBO. The transaction is expected to close after the separation of Warner Bros. Discovery's Global Networks division, Discovery Global, into a new publicly-traded company, which is expected to be completed in Q3 2026. For more details, including leadership appointments and information on individual brands, please visit our newsroom here.\n\nAlthough you will be hired by Warner Bros. Discovery, upon the planned spin-off of Discovery Global in 2026, your employment likely will transition to Discovery Global. During this period of transformation, you’ll have an exciting opportunity to lay the foundation at one of the world’s premier entertainment brands.\n\nHow We Get Things Done…\n\nThis last bit is probably the most important! Here at WBD, our guiding principles are the core values by which we operate and are central to how we get things done. You can find them at www.wbd.com/guiding-principles/ along with some insights from the team on what they mean and how they show up in their day to day. We hope they resonate with you and look forward to discussing them during your interview.\n\nChampioning Inclusion at WBD\nWarner Bros. Discovery embraces the opportunity to build a workforce that reflects a wide array of perspectives, backgrounds and experiences. Being an equal opportunity employer means that we take seriously our responsibility to consider qualified candidates on the basis of merit, without regard to race, color, religion, national origin, gender, sexual orientation, gender identity or expression, age, mental or physical disability, and genetic information, marital status, citizenship status, military status, protected veteran status or any other category protected by law.\n\nIf you’re a qualified candidate with a disability and you require adjustments or accommodations during the job application and/or recruitment process, please visit our accessibility page for instructions to submit your request.",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Atlanta, GA",
+    "job_city": "Atlanta",
+    "job_state": "Georgia",
+    "job_country": "US",
+    "job_latitude": 33.7501275,
+    "job_longitude": -84.3885209,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Du-vjD8oXh6dVoOJhAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Author, review, and optimize production-quality code that adheres to industry standards and best practices (IaC, CICD, etc.)",
+        "8+ years progressively complex experience designing, building, and shipping products",
+        "5+ years backend engineering experience with data-heavy applications",
+        "3+ years of experience with IaC, deployment pipelines, and relational databases",
+        "5+ years of experience managing engineering teams",
+        "Experience partnering with and / or leading ICs responsible for machine learning model development (data scientists, MLEs, etc.)",
+        "Familiarity with ML specific pipelines and tooling",
+        "Familiarity with experimentation frameworks and A/B testing methodologies",
+        "Deep understanding of common software data structures and algorithms, with extensive experience in modern development technologies and practices",
+        "A proven track record of building web scale products that are highly available and performant",
+        "Passion for growing engineers through mentorship, talent acquisition, and professional development",
+        "A collaborative mindset, understanding that great results come from teamwork and a positive culture",
+        "Proven success leading complex projects within an engineering team: knowing when to handle issues independently, when to rally the right people for alignment, and when to escalate",
+        "Excellent communication, presentation, and documentation skills",
+        "Practical experience with recommendations, search and/or personalization",
+        "Practical experience building cost-effective ML solutions at scale",
+        "Experience with RAG pipelines, feature stores, or embedding infrastructure"
+      ],
+      "Responsibilities": [
+        "The team is composed of multiple squads: a platform squad along with cross-functional squads that leverage the platform to develop products",
+        "As the Engineering Manager for a products squad, you will manage 2+ engineers with varied backgrounds and focuses:",
+        "Machine learning engineers (MLEs) build models and features",
+        "Data engineers fulfill the availability and latency requirements provided by MLEs",
+        "Some software engineers partner with MLEs to operationalize and expose models and features",
+        "Other software engineers focus on our ML platform and tooling, including A/B testing",
+        "Key challenges the team will tackle in next couple of quarters:",
+        "Content Summaries: Support testing and adoption of various types of content summaries from multiple domains, which can be leveraged in consumer experiences along with embedding generation and classification",
+        "Two-Tower Experimentation: Explore options for incorporating additional user context in our personalized recommendations model such as geolocation, time of day and time of year",
+        "All Access Search: Partner with teams across CNN to incorporate streaming content and add support for OTT",
+        "Bandit Foundation: Enhance data access and begin experimenting with bandits for online ranking of recommendations",
+        "Optimize Site Performance: Dynamically deliver personalized content alongside cached assets, improving load times and enhancing user experience with features like page-level deduplication",
+        "Support, coach, mentor, and provide valuable feedback to the individuals you manage to help them excel",
+        "Work with cross-functional partners and stakeholders on activities such as planning, technical strategy, quality and delivery",
+        "Partner with engineers within the team and across the organization to build and integrate machine learning features into our site, apps, and editorial tools",
+        "Lead other engineers on the team by example, code reviews, and coaching, ensuring that code is readable, maintainable, scalable, observable, and resilient",
+        "Champion improvements to developer experience, integrations, and testing processes",
+        "Leverage vended and open-source cloud technologies to reduce maintenance costs and improve efficiencies, ensuring our products remain profitable",
+        "Collaborate with other engineers to develop and enhance core capabilities, infrastructure, and architecture",
+        "Demonstrate a passion for software engineering, with a strong sense of responsibility for the code you and your team write",
+        "Take ownership of issues and be a strong advocate for your team and the products",
+        "Embrace failure as a learning opportunity—use research and experimentation to ultimately choose the best solutions that meet company goals",
+        "Follow a progressive development methodology, moving from proof-of-concept to prototype to production release",
+        "Enhance the effectiveness of your squad, the team, and our partners by sharing your knowledge, communicating about complex technologies and problems in simple terms, and driving technical decisions",
+        "Collaborate across functions, squads, teams, and organizations to best serve our users"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "careers-wbd-com-global-en-job-r000098186-manager-software-engineering-ai-enablement-machine-learning",
+    "_source": "new_jobs"
+  }
+]
