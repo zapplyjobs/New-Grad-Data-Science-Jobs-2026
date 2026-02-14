@@ -66,9 +66,9 @@
     "job_latitude": 37.33874,
     "job_longitude": -121.88525249999999,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwVWF3pg9aRcXvjI6AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -185,9 +185,9 @@
     "job_latitude": 37.33874,
     "job_longitude": -121.88525249999999,
     "job_benefits": [
-      "paid_time_off",
+      "dental_coverage",
       "health_insurance",
-      "dental_coverage"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFbhc1DunhK0CToKgAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -392,6 +392,62 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "thRD1XlmBBC84VgbAAAAAA==",
+    "job_title": "AI and Machine Learning Intern",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=57435c3697da&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=57435c3697da&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A company is looking for a Student II in Information Services focusing on AI and Machine Learning.\n\nKey Responsibilities\n\nDevelop custom machine learning models using Python and Scikit-learn\n\nEngage in model monitoring and data analytics using Azure Fabric Lakehouse\n\nGain exposure to HIPAA regulations and their impact on AI / ML applications\n\nRequired Qualifications\n\nCurrently enrolled in a degree program in Data Science, Computer Science, or a related field\n\nAbility to work both remotely and in-office as required\n\nInterest in gaining real-world experience in AI and machine learning\n\nWillingness to comply with policies protecting patient rights and confidentiality\n\nCommitment to complete required training for the position",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Torrance, CA",
+    "job_city": "Torrance",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 33.8369217,
+    "job_longitude": -118.34074509999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DthRD1XlmBBC84VgbAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Currently enrolled in a degree program in Data Science, Computer Science, or a related field",
+        "Ability to work both remotely and in-office as required",
+        "Interest in gaining real-world experience in AI and machine learning",
+        "Willingness to comply with policies protecting patient rights and confidentiality",
+        "Commitment to complete required training for the position"
+      ],
+      "Responsibilities": [
+        "Develop custom machine learning models using Python and Scikit-learn",
+        "Engage in model monitoring and data analytics using Azure Fabric Lakehouse",
+        "Gain exposure to HIPAA regulations and their impact on AI / ML applications"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "s6gOamMD7eYIsgngAAAAAA==",
     "job_title": "2026 AI/ML Intern - Machine Learning Engineer Intern",
     "employer_name": "Adobe",
@@ -493,62 +549,6 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "careers-adobe-com-us-en-job-r160469-2026-ai-ml-intern-machine-learning-engineer-intern",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "thRD1XlmBBC84VgbAAAAAA==",
-    "job_title": "AI and Machine Learning Intern",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=57435c3697da&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=57435c3697da&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A company is looking for a Student II in Information Services focusing on AI and Machine Learning.\n\nKey Responsibilities\n\nDevelop custom machine learning models using Python and Scikit-learn\n\nEngage in model monitoring and data analytics using Azure Fabric Lakehouse\n\nGain exposure to HIPAA regulations and their impact on AI / ML applications\n\nRequired Qualifications\n\nCurrently enrolled in a degree program in Data Science, Computer Science, or a related field\n\nAbility to work both remotely and in-office as required\n\nInterest in gaining real-world experience in AI and machine learning\n\nWillingness to comply with policies protecting patient rights and confidentiality\n\nCommitment to complete required training for the position",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Torrance, CA",
-    "job_city": "Torrance",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 33.8369217,
-    "job_longitude": -118.34074509999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DthRD1XlmBBC84VgbAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Currently enrolled in a degree program in Data Science, Computer Science, or a related field",
-        "Ability to work both remotely and in-office as required",
-        "Interest in gaining real-world experience in AI and machine learning",
-        "Willingness to comply with policies protecting patient rights and confidentiality",
-        "Commitment to complete required training for the position"
-      ],
-      "Responsibilities": [
-        "Develop custom machine learning models using Python and Scikit-learn",
-        "Engage in model monitoring and data analytics using Azure Fabric Lakehouse",
-        "Gain exposure to HIPAA regulations and their impact on AI / ML applications"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-talent-com-view",
     "_source": "new_jobs"
   },
   {
@@ -755,6 +755,11 @@
         "is_direct": false
       },
       {
+        "publisher": "OfferPilot",
+        "apply_link": "https://offerpilotai.com/job/chubb-ai-engineering-intern-2fsj1u0kh8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
         "publisher": "Adzuna",
         "apply_link": "https://www.adzuna.com/details/5627969726?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
@@ -762,11 +767,6 @@
       {
         "publisher": "BeBee",
         "apply_link": "https://us.bebee.com/job/373b39545bee36627790a8c91f0029cd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-new-jersey-ai-engineering-intern-chubb-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
@@ -814,6 +814,85 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "fa-ewgu-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2001-job-30502",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "FD6TYTWAnJloyVeWAAAAAA==",
+    "job_title": "2026 Summer AI Engineering Internship",
+    "employer_name": "T-Mobile",
+    "employer_logo": null,
+    "employer_website": "https://www.t-mobile.com",
+    "job_publisher": "Dice",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.dice.com/job-detail/2f8e3f3d-22a6-4f31-b8cd-37538d8c1ae3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Dice",
+        "apply_link": "https://www.dice.com/job-detail/2f8e3f3d-22a6-4f31-b8cd-37538d8c1ae3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "T-Mobile is synonymous with innovation-and you could be part of the team that disrupted an entire industry! We reinvented customer service, brought real 5G to the nation, and now we're shaping the future of technology in wireless and beyond. Our work is as exciting as it is rewarding, so consider the career opportunity below as your invitation to grow with us, make big things happen with us, above all, #BEYOU with us. Together, we won't stop!\n\nGet hands-on experience, training-and a leg up on a bright future.\n\nLearn. Achieve. Build a career.\n\nT-Mobile is revolutionizing the wireless industry for millions of customers nationwide. Working here means rolling up your sleeves and redefining the status quo with a team that has your back every step of the way!\n\nThis is a 11-week paid learning experience during which you'll be able to connect and network with other interns and leaders within the company. We invite you to come innovate with mentors who will challenge you to develop meaningful skills. you'll contribute to creativity and outstanding ideas, while working alongside T-Mobile employees. We'll give you hand-on projects and the chance to create an immediate impact.\n\nWhat It's Like:\n\nWant to build AI that actually matters? Join T-Mobile's AI Agents team this summer and work on real products that customers use every day. You'll design and build intelligent agents for customer support and sales, tackle actual business problems with real data, and see the direct impact of what you create. You'll own initiatives from start to finish and help shape how millions of customers interact with T-Mobile.\n\nWhat You'll Do:\n\nYou will build and iterate on 1-2 AI Agents in T-Mobile's IntentCX program. You will build across modalities (chat and voice) using OpenAI's chat and realtime voice models. You will focus on either customer service, helping to answer questions and integrate customer data, OR on how T-Mobile sells its products. You will have a direct impact to hundreds of thousands of customer interactions every day!\n\nResponsibilities:\n\n- Build and Iterate on AI Agent(s) which either improve T-Mobile's customer support or sales functions\n- Integrate T-Mobile APIs into the context/prompt of your agent\n- Integrate your AI Agent into IntentCX's multi-agent framework\n- Integrate your AI Agent(s) with T-Mobile's T-Life app, website, or customer support phone number\n\nWhat It Takes:\n\n- Coding experience (Python is usually key for AI work)\n- Understanding of how APIs work\n- Familiarity with data analysis or machine learning basics\n- Comfortable working with large datasets\n- Problem-solving mindset: you need to figure out what customers actually need, not just build cool tech\n- Communication skills to explain technical work to non-technical stakeholders\n- Ability to work cross-functionally with product, engineering, and business teams\n- Comfortable with ambiguity: AI projects rarely have clear-cut answers\n- Experience with LLMs, prompt engineering, or chatbot frameworks\n• At least 18 years of age\n• Legally authorized to work in the United States\n• High School Diploma or GED\n• Must be actively enrolled in a degree program or graduated with the last year\n• Employees of T-Mobile or Metro by T-Mobile are ineligible for Internship\n• Employers does not sponsor work visas for this position. Note that this also applies to individuals who are students of F-1 status who desire sponsorship after they complete their education.\n• Relocation reimbursement may be provided to program participants who reside more than 50 miles from the internship location.\n\nIntern wages range from $26/hour to $47/hour.\n• The successful candidate's actual pay will be based on experience/location.\n\nNever stop growing!\nAs part of the T-Mobile team, you know the Un-carrier doesn't have a corporate ladder-it's more like a jungle gym of possibilities! We love helping our employees grow in their careers, because it's that shared drive to aim high that drives our business and our culture forward. By applying for this career opportunity, you're living our values while investing in your career growth-and we applaud it. You're unstoppable!\n\nT-Mobile USA, Inc. is an Equal Opportunity Employer. All decisions concerning the employment relationship will be made without regard to age, race, ethnicity, color, religion, creed, sex, sexual orientation, gender identity or expression, national origin, religious affiliation, marital status, citizenship status, veteran status, the presence of any physical or mental disability, or any other status or characteristic protected by federal, state, or local law. Discrimination, retaliation or harassment based upon any of these factors is wholly inconsistent with how we do business and will not be tolerated.\n\nTalent comes in all forms at the Un-carrier. If you are an individual with a disability and need reasonable accommodation at any point in the application or interview process, please let us know by emailing or calling 1-. Please note, this contact channel is not a means to apply for or inquire about a position and we are unable to respond to non-accommodation related requests.",
+    "job_is_remote": false,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770422400,
+    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
+    "job_location": "Leavenworth, WA",
+    "job_city": "Leavenworth",
+    "job_state": "Washington",
+    "job_country": "US",
+    "job_latitude": 47.5962326,
+    "job_longitude": -120.66147649999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFD6TYTWAnJloyVeWAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Coding experience (Python is usually key for AI work)",
+        "Understanding of how APIs work",
+        "Familiarity with data analysis or machine learning basics",
+        "Comfortable working with large datasets",
+        "Problem-solving mindset: you need to figure out what customers actually need, not just build cool tech",
+        "Communication skills to explain technical work to non-technical stakeholders",
+        "Ability to work cross-functionally with product, engineering, and business teams",
+        "Comfortable with ambiguity: AI projects rarely have clear-cut answers",
+        "Experience with LLMs, prompt engineering, or chatbot frameworks",
+        "At least 18 years of age",
+        "Legally authorized to work in the United States",
+        "High School Diploma or GED",
+        "Must be actively enrolled in a degree program or graduated with the last year",
+        "Employees of T-Mobile or Metro by T-Mobile are ineligible for Internship"
+      ],
+      "Benefits": [
+        "Relocation reimbursement may be provided to program participants who reside more than 50 miles from the internship location",
+        "Intern wages range from $26/hour to $47/hour",
+        "The successful candidate's actual pay will be based on experience/location"
+      ],
+      "Responsibilities": [
+        "you'll contribute to creativity and outstanding ideas, while working alongside T-Mobile employees",
+        "Join T-Mobile's AI Agents team this summer and work on real products that customers use every day",
+        "You'll design and build intelligent agents for customer support and sales, tackle actual business problems with real data, and see the direct impact of what you create",
+        "You'll own initiatives from start to finish and help shape how millions of customers interact with T-Mobile",
+        "You will build and iterate on 1-2 AI Agents in T-Mobile's IntentCX program",
+        "You will build across modalities (chat and voice) using OpenAI's chat and realtime voice models",
+        "You will focus on either customer service, helping to answer questions and integrate customer data, OR on how T-Mobile sells its products",
+        "You will have a direct impact to hundreds of thousands of customer interactions every day!",
+        "Build and Iterate on AI Agent(s) which either improve T-Mobile's customer support or sales functions",
+        "Integrate T-Mobile APIs into the context/prompt of your agent",
+        "Integrate your AI Agent into IntentCX's multi-agent framework",
+        "Integrate your AI Agent(s) with T-Mobile's T-Life app, website, or customer support phone number"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-dice-com-job-detail-2f8e3f3d-22a6-4f31-b8cd-37538d8c1ae3",
     "_source": "new_jobs"
   },
   {
@@ -1107,9 +1186,9 @@
     "job_latitude": 38.5767017,
     "job_longitude": -92.1735164,
     "job_benefits": [
-      "paid_time_off",
+      "dental_coverage",
       "health_insurance",
-      "dental_coverage"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D12dGs0l1yRskO25YAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 19.62,
@@ -1241,18 +1320,8 @@
         "is_direct": true
       },
       {
-        "publisher": "LocalJobs.com",
-        "apply_link": "https://www.localjobs.com/job/atlanta-ga-ai-machine-learning-engineer-ii-full-time-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
         "publisher": "ShowbizJobs",
         "apply_link": "https://www.showbizjobs.com/jobs/cnn-manager-software-engineering-ai-enablement-machine-learning-in-atlanta/jid-eo8eq2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/zokm7hBgJhp8Th6HZbqAUNUnx2olMWJ387vZ1lRZ8tDro7u2SMLJVw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
@@ -1263,6 +1332,16 @@
       {
         "publisher": "Lensa",
         "apply_link": "https://lensa.com/job-v1/warner-bros-discovery/atlanta-ga/software-engineering-manager/18b43524af9ae39f0a93d78201a5f933?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Breakroom",
+        "apply_link": "https://www.breakroom.cc/en-us/jobs/listing/20084226-warner-bros-discovery-manager-software-engineering-atlanta?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Discover Technata Job Board",
+        "apply_link": "https://jobs.discovertechnata.com/companies/warner-bros-discovery-2/jobs/67456497-manager-software-engineering-ai-enablement-machine-learning?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
