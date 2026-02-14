@@ -31,8 +31,8 @@
     "job_latitude": 29.5821811,
     "job_longitude": -95.76078319999999,
     "job_benefits": [
-      "health_insurance",
-      "paid_time_off"
+      "paid_time_off",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DDmKkjIHFGqwpZawzAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -212,11 +212,6 @@
       {
         "publisher": "BeBee",
         "apply_link": "https://us.bebee.com/job/185ad29d20a173269bde7c12ca5be9f0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/amp/job/us-texas-plano-dataengineer-jobs-via-dice-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
@@ -455,13 +450,13 @@
         "is_direct": false
       },
       {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/698af9934db8972cec006c83?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/5e385fd85cc450ceae1fd6846215958e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/5e385fd85cc450ceae1fd6846215958e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/698af9934db8972cec006c83?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
@@ -566,9 +561,9 @@
     "job_latitude": 37.4315734,
     "job_longitude": -78.6568942,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DvmP5DjcyLh4_B94fAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 101000,
@@ -833,8 +828,8 @@
     "job_latitude": 37.322997799999996,
     "job_longitude": -122.03218229999999,
     "job_benefits": [
-      "dental_coverage",
       "health_insurance",
+      "dental_coverage",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DXhgeNP4cggggaxCtAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -916,7 +911,7 @@
         "is_direct": false
       }
     ],
-    "job_description": "GCP Data Engineer (U.S. Citizenship Required)\n\nAbout Us\n\nSlalom is a purpose-led, global business and technology consulting company. From strategy to implementation, our approach is fiercely human. In six+ countries and 43+ markets, we deeply understand our customers—and their customers—to deliver practical, end-to-end solutions that drive meaningful impact. Backed by close partnerships with over 400 leading technology providers, our 10,000+ strong team helps people and organizations dream bigger, move faster, and build better tomorrows for all. We’re honored to be consistently recognized as a great place to work, including being one of Fortune’s 100 Best Companies to Work For seven years running. Learn more at slalom.com.\n\nAbout The Role\n\nWe are seeking a GCP Data Engineer with strong BigQuery experience to support a major federal engagement focused on disaster recovery, data modernization, and mission‑critical analytics for FEMA. This role is a hands‑on engineering position working within a secure Google Cloud Platform environment to design, build, and optimize scalable data pipelines and analytics capabilities that enable high‑quality insights and operational excellence for our federal client.\n\nThis position requires U.S. citizenship and the ability to obtain and maintain a Public Trust clearance.\n\nWhat You Will Do\n\nData Engineering & Cloud Development\n• Design, build, and maintain cloud‑native ETL/ELT data pipelines using BigQuery, Dataform, Python, Cloud Composer (Airflow), Cloud Functions, and Cloud Storage.\n• Develop BigQuery‑centric data models, transformations, and analytics layers supporting downstream Looker dashboards and federal reporting needs.\n• Implement modern analytics engineering practices, including version‑controlled SQLX (Dataform), modular transformations, data quality checks, and documentation.\n\nClient Leadership & Delivery\n• Collaborate with federal stakeholders to understand data ingestion, transformation, governance, and reporting requirements.\n• Translate technical designs and delivery timelines for both technical and non‑technical audiences.\n• Support modernization of legacy data environments into scalable GCP‑based architectures.\n• Ensure all solutions align with federal data governance, security, and performance standards.\n\nSolution Optimization & Innovation\n• Optimize BigQuery workloads using partitioning, clustering, incremental processing, and cost‑efficient modeling.\n• Maintain robust CI/CD practices using GitLab or GitHub for version control, merge requests, and promotion pipelines.\n• Develop and maintain data lineage, metadata documentation, and enterprise data models.\n• Identify linkages across disparate datasets to build unified, interoperable data architectures.\n• Perform cleanup of existing datasets and transformation logic where needed.\n\nCollaboration & Team Leadership\n• Work closely with data architects, BI developers, cloud engineers, and data scientists.\n• Participate in SAFe Agile ceremonies including daily standups, retrospectives, and PI planning.\n• Track work in Jira and maintain documentation in Confluence.\n• Support testing, deployment, and quality assurance of data products.\n• Mentor junior data engineering team members and contribute to best-practice frameworks.\n\nMust-Have Qualifications\n• U.S. citizenship\n• Ability to obtain and maintain a federal Public Trust clearance\n• 3+ years of experience in cloud-based data engineering\n• Strong hands-on expertise with Google BigQuery\n• Proficiency in Python for pipeline development, automation, and cloud integration\n• Experience building data pipelines in GCP, including BigQuery, Dataform, Airflow/Cloud Composer, Cloud Functions, or similar\n• Strong SQL skills, including data modeling and data quality testing\n• Experience with Git-based version control and CI/CD concepts\n• Familiarity with data governance, metadata management, and compliance considerations\n• Strong communication and stakeholder engagement skills\n\nNice-to-Have Skills\n• Experience supporting federal or regulated environments\n• Familiarity with Looker and downstream BI enablement\n• Understanding of ML workloads or data structures optimized for modeling\n• Experience with Agile/Scrum or SAFe\n• Knowledge of data quality frameworks and testing strategies\n• Exposure to GCP data governance tools such as Dataplex\n• Experience with serverless architectures (Cloud Functions, Cloud Run)\n• Familiarity with JavaScript for Dataform SQLX extensibility\n• Hands-on experience with orchestration tools (Airflow, Prefect, Dagster, Luigi)\n• Experience with dbt, Dataform, Databricks, or other analytics engineering tooling\n• Relevant GCP certifications\n\nCompensation And Benefits\n\nSlalom prides itself on helping team members thrive in their work and life. As a result, Slalom is proud to invest in benefits that include meaningful time off and paid holidays, 401(k) with a match, a range of choices for highly subsidized health, dental, & vision coverage, adoption and fertility assistance, and short/long-term disability. We also offer yearly $350 reimbursement account for any well-being-related expenses.\n\nSlalom is committed to fair and equitable compensation practices. For this position, the base salary pay range is $55/hr to $75/hr. Actual compensation will depend upon an individual’s skills, experience, qualifications, location, and other relevant factors. The salary pay range is subject to change and may be modified at any time.\n\nEEO and Accommodations\n\nSlalom is an equal opportunity employer and is committed to inclusion, diversity, and equity in the workplace. All qualified applicants will receive consideration\n\nfor employment without regard to race, color, religion, sex, national origin, disability status, protected veterans’ status, or any other characteristic protected by federal, state, or local laws. Slalom will also consider qualified applications with criminal histories, consistent with legal requirements.\n\nSlalom welcomes and encourages applications from individuals with disabilities. Reasonable accommodations are available for candidates during all aspects of the\n\nselection process. Please advise the talent acquisition team if you require accommodations during the interview process.",
+    "job_description": "GCP Data Engineer (U.S. Citizenship Required)\n\nAbout Us\n\nSlalom is a purpose-led, global business and technology consulting company. From strategy to implementation, our approach is fiercely human. In six+ countries and 43+ markets, we deeply understand our customers—and their customers—to deliver practical, end-to-end solutions that drive meaningful impact. Backed by close partnerships with over 400 leading technology providers, our 10,000+ strong team helps people and organizations dream bigger, move faster, and build better tomorrows for all. We’re honored to be consistently recognized as a great place to work, including being one of Fortune’s 100 Best Companies to Work For seven years running. Learn more at slalom.com.\n\nAbout The Role\n\nWe are seeking a GCP Data Engineer with strong BigQuery experience to support a major federal engagement focused on disaster recovery, data modernization, and mission‑critical analytics for FEMA. This role is a hands‑on engineering position working within a secure Google Cloud Platform environment to design, build, and optimize scalable data pipelines and analytics capabilities that enable high‑quality insights and operational excellence for our federal client.\n\nThis position requires U.S. citizenship and the ability to obtain and maintain a Public Trust clearance.\n\nWhat You Will Do\n\nData Engineering & Cloud Development\n• Design, build, and maintain cloud‑native ETL/ELT data pipelines using BigQuery, Dataform, Python, Cloud Composer (Airflow), Cloud Functions, and Cloud Storage.\n• Develop BigQuery‑centric data models, transformations, and analytics layers supporting downstream Looker dashboards and federal reporting needs.\n• Implement modern analytics engineering practices, including version‑controlled SQLX (Dataform), modular transformations, data quality checks, and documentation.\n\nClient Leadership & Delivery\n• Collaborate with federal stakeholders to understand data ingestion, transformation, governance, and reporting requirements.\n• Translate technical designs and delivery timelines for both technical and non‑technical audiences.\n• Support modernization of legacy data environments into scalable GCP‑based architectures.\n• Ensure all solutions align with federal data governance, security, and performance standards.\n\nSolution Optimization & Innovation\n• Optimize BigQuery workloads using partitioning, clustering, incremental processing, and cost‑efficient modeling.\n• Maintain robust CI/CD practices using GitLab or GitHub for version control, merge requests, and promotion pipelines.\n• Develop and maintain data lineage, metadata documentation, and enterprise data models.\n• Identify linkages across disparate datasets to build unified, interoperable data architectures.\n• Perform cleanup of existing datasets and transformation logic where needed.\n\nCollaboration & Team Leadership\n• Work closely with data architects, BI developers, cloud engineers, and data scientists.\n• Participate in SAFe Agile ceremonies including daily standups, retrospectives, and PI planning.\n• Track work in Jira and maintain documentation in Confluence.\n• Support testing, deployment, and quality assurance of data products.\n• Mentor junior data engineering team members and contribute to best-practice frameworks.\n\nMust-Have Qualifications\n• U.S. citizenship\n�� Ability to obtain and maintain a federal Public Trust clearance\n• 3+ years of experience in cloud-based data engineering\n• Strong hands-on expertise with Google BigQuery\n• Proficiency in Python for pipeline development, automation, and cloud integration\n• Experience building data pipelines in GCP, including BigQuery, Dataform, Airflow/Cloud Composer, Cloud Functions, or similar\n• Strong SQL skills, including data modeling and data quality testing\n• Experience with Git-based version control and CI/CD concepts\n• Familiarity with data governance, metadata management, and compliance considerations\n• Strong communication and stakeholder engagement skills\n\nNice-to-Have Skills\n• Experience supporting federal or regulated environments\n• Familiarity with Looker and downstream BI enablement\n• Understanding of ML workloads or data structures optimized for modeling\n• Experience with Agile/Scrum or SAFe\n• Knowledge of data quality frameworks and testing strategies\n• Exposure to GCP data governance tools such as Dataplex\n• Experience with serverless architectures (Cloud Functions, Cloud Run)\n• Familiarity with JavaScript for Dataform SQLX extensibility\n• Hands-on experience with orchestration tools (Airflow, Prefect, Dagster, Luigi)\n• Experience with dbt, Dataform, Databricks, or other analytics engineering tooling\n• Relevant GCP certifications\n\nCompensation And Benefits\n\nSlalom prides itself on helping team members thrive in their work and life. As a result, Slalom is proud to invest in benefits that include meaningful time off and paid holidays, 401(k) with a match, a range of choices for highly subsidized health, dental, & vision coverage, adoption and fertility assistance, and short/long-term disability. We also offer yearly $350 reimbursement account for any well-being-related expenses.\n\nSlalom is committed to fair and equitable compensation practices. For this position, the base salary pay range is $55/hr to $75/hr. Actual compensation will depend upon an individual’s skills, experience, qualifications, location, and other relevant factors. The salary pay range is subject to change and may be modified at any time.\n\nEEO and Accommodations\n\nSlalom is an equal opportunity employer and is committed to inclusion, diversity, and equity in the workplace. All qualified applicants will receive consideration\n\nfor employment without regard to race, color, religion, sex, national origin, disability status, protected veterans’ status, or any other characteristic protected by federal, state, or local laws. Slalom will also consider qualified applications with criminal histories, consistent with legal requirements.\n\nSlalom welcomes and encourages applications from individuals with disabilities. Reasonable accommodations are available for candidates during all aspects of the\n\nselection process. Please advise the talent acquisition team if you require accommodations during the interview process.",
     "job_is_remote": false,
     "job_posted_at": "12 days ago",
     "job_posted_at_timestamp": 1769990400,
@@ -929,8 +924,8 @@
     "job_longitude": -78.8205619,
     "job_benefits": [
       "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DmLWbCE2BsJ1026TLAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 55,
@@ -1218,8 +1213,8 @@
     "job_longitude": -71.3824374,
     "job_benefits": [
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DyJN3Vkow8jzMypyxAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1405,62 +1400,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "PTbVL1NdzjmC9oIFAAAAAA==",
-    "job_title": "Montana Data Engineer",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=04071c0f5231&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=04071c0f5231&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A company is looking for a Data Engineer to design, build, and maintain data infrastructure for a public health organization.\n\nKey Responsibilities\n\nCreate and manage data systems and pipelines for efficient data flow\n\nCollect, transform, and clean data from various sources for accuracy and consistency\n\nCollaborate with cross-functional teams to design scalable data solutions that meet organizational needs\n\nRequired Qualifications\n\nBachelor's degree in Computer Science, Information Technology, Data Science, or a related field\n\nMinimum 5 years of relevant professional experience\n\nProficiency in programming languages used in data engineering, such as Python, Java, Scala, SAS, or SQL\n\nExperience with big data technologies and frameworks like Hadoop, Spark, Kafka, and Flink\n\nStrong understanding of database systems, including relational and NoSQL databases",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Portsmouth, VA",
-    "job_city": "Portsmouth",
-    "job_state": "Virginia",
-    "job_country": "US",
-    "job_latitude": 36.835425799999996,
-    "job_longitude": -76.2982742,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DPTbVL1NdzjmC9oIFAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Bachelor's degree in Computer Science, Information Technology, Data Science, or a related field",
-        "Minimum 5 years of relevant professional experience",
-        "Proficiency in programming languages used in data engineering, such as Python, Java, Scala, SAS, or SQL",
-        "Experience with big data technologies and frameworks like Hadoop, Spark, Kafka, and Flink",
-        "Strong understanding of database systems, including relational and NoSQL databases"
-      ],
-      "Responsibilities": [
-        "Create and manage data systems and pipelines for efficient data flow",
-        "Collect, transform, and clean data from various sources for accuracy and consistency",
-        "Collaborate with cross-functional teams to design scalable data solutions that meet organizational needs"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "ybwkukVOvvN7CZ4IAAAAAA==",
     "job_title": "Data Engineer Prin",
     "employer_name": "American Electric Power",
@@ -1503,220 +1442,91 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "N_UbHgFrV8mC2FPMAAAAAA==",
-    "job_title": "Data Center Engineer",
-    "employer_name": "Advocate Aurora Health",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmPrUobFkxZ6o2Sn3cafDGFnva_mdPRfZBzxfr&s=0",
-    "employer_website": "https://www.advocatehealth.org",
-    "job_publisher": "ZipRecruiter",
+    "job_id": "mQjzELr-AD780L5XAAAAAA==",
+    "job_title": "IT Data Engineer - Westcor Land Title Insurance Company",
+    "employer_name": "Ardán, Inc., A Community of Companies",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "Learn4Good",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Advocate-Aurora-Health/Job/Data-Center-Engineer/-in-Des-Plaines,IL?jid=3d297bce27dfbaca&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Advocate-Aurora-Health/Job/Data-Center-Engineer/-in-Des-Plaines,IL?jid=3d297bce27dfbaca&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "SaluteMyJob",
-        "apply_link": "https://salutemyjob.com/jobs/data-center-engineer-des-plaines-illinois/2605090811-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "KGET Jobs",
-        "apply_link": "https://jobs.kget.com/jobs/data-center-engineer-des-plaines-illinois/2605090811-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "FOX16 Jobs",
-        "apply_link": "https://jobs.fox16.com/jobs/data-center-engineer-des-plaines-illinois/2605090811-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Department:\n\n12232 Advocate Aurora Health Corporate - Data Centers and Disaster Recovery\n\nStatus:\n\nFull time\n\nBenefits Eligible:\n\nYes\n\nHours Per Week:\n\n40\n\nSchedule Details/Additional Information:\n\nTeam member will be responsible for data center in IL & WI. Will be working hybrid, in IL & WI. 15% travel as needed after training.\n\nPay Range\n$32.45 - $48.70\n\nMajor Responsibilities:\n• Plan for adequate power, cooling, and physical data center layout for primary and secondary data centers to meet the technology infrastructure capacity requirements.\n• Coordinate vendor activities within the data centers for scheduled maintenance.\n• Coordinate data center infrastructure projects, in conjunction with Facilities teams and contractors, to ensure minimal service interruptions, safety and timeliness of completion.\n• Document and maintain data center standards across primary and secondary data centers locations.\n• Work closely with the security team to ensure data center physical security procedures are in place and compliant with security policies.\n• Generate trend analysis reporting of power, cooling, and physical data center layout to ensure projected capacity levels are met.\n\nLicensure, Registration, and/or Certification Required:\n• Certified Data Centre Professional issued by EXIN,The global independent certification institute for ICT Professionals.\n\nEducation Required:\n• Bachelor's Degree (or equivalent knowledge) in Computer Science or related field.\n\nExperience Required:\n• Typically requires 3 years of experience in a Data Center in a large Computer Operations environment.\n\nKnowledge, Skills & Abilities Required:\n• Knowledge of data center architecture, power and cooling distribution, mechanical systems, physical security, racks, servers, storage devices, network, and cabling.\n• Experience with Building Management Systems (BMS) and Data Center Infrastructure Management (DCIM).\n• Experience with data center capacity and trend analysis reporting.\n• Strong project management skills.\n• Operational understanding of database terms and functionality.\n• Operational experience with Networking terms and functions including LAN and WAN.\n• Experience with large scale disaster recovery planning and implementation.\n• Demonstrated ability to work with a limited amount of supervision and work with internal and external customers.\n• Demonstrated ability for analytical and logical thinking. Ability to organize, troubleshoot efficiently and effectively.\n• Detail oriented, creative and self-motivated.\n• Ability to work on multiple in-process tasks simultaneously, set appropriate priorities and accomplish assignments in a thorough and timely fashion.\n\nPhysical Requirements and Working Conditions:\n• Exposed to a normal office environment.\n• Must be able to sit up to 80% of each workday.\n• Requires travel as necessary.\n• Operates all equipment necessary to perform the job.\n• Must be able to perform fine hand manipulation when using a keyboard.\n\nThis job description indicates the general nature and level of work expected of the incumbent. It is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities required of the incumbent. Incumbent may be required to perform other related duties.\n\nOur CommitmenttoYou:\n\nAdvocate Health offers a comprehensive suite of Total Rewards: benefits and well-being programs, competitive compensation, generous retirement offerings, programs that invest in your career development and so much more - so you can live fully at and away from work, including:\n\nCompensation\n• Base compensation listed within the listed pay range based on factors such as qualifications, skills, relevant experience, and/or training\n• Premium pay such as shift, on call, and more based on a teammate's job\n• Incentive pay for select positions\n• Opportunity for annual increases based on performance\n\nBenefits and more\n• Paid Time Off programs\n• Health and welfare benefits such as medical, dental, vision, life, andShort- and Long-Term Disability\n• Flexible Spending Accounts for eligible health care and dependent care expenses\n• Family benefits such as adoption assistance and paid parental leave\n• Defined contribution retirement plans with employer match and other financial wellness programs\n• Educational Assistance Program\n\nAbout Advocate Health\n\nAdvocate Health is the third-largest nonprofit, integrated health system in the United States, created from the combination of Advocate Aurora Health and Atrium Health. Providing care under the names Advocate Health Care in Illinois; Atrium Health in the Carolinas, Georgia and Alabama; and Aurora Health Care in Wisconsin, Advocate Health is a national leader in clinical innovation, health outcomes, consumer experience and value-based care. Headquartered in Charlotte, North Carolina, Advocate Health services nearly 6 million patients and is engaged in hundreds of clinical trials and research studies, with Wake Forest University School of Medicine serving as the academic core of the enterprise. It is nationally recognized for its expertise in cardiology, neurosciences, oncology, pediatrics and rehabilitation, as well as organ transplants, burn treatments and specialized musculoskeletal programs. Advocate Health employs 155,000 teammates across 69 hospitals and over 1,000 care locations, and offers one of the nation's largest graduate medical education programs with over 2,000 residents and fellows across more than 200 programs. Committed to providing equitable care for all, Advocate Health provides more than $6 billion in annual community benefits.",
-    "job_is_remote": false,
-    "job_posted_at": "11 days ago",
-    "job_posted_at_timestamp": 1770076800,
-    "job_posted_at_datetime_utc": "2026-02-03T00:00:00.000Z",
-    "job_location": "Des Plaines, IL",
-    "job_city": "Des Plaines",
-    "job_state": "Illinois",
-    "job_country": "US",
-    "job_latitude": 42.0416537,
-    "job_longitude": -87.8876429,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DN_UbHgFrV8mC2FPMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 32.45,
-    "job_max_salary": 48.7,
-    "job_salary_period": "HOUR",
-    "job_highlights": {
-      "Qualifications": [
-        "Certified Data Centre Professional issued by EXIN,The global independent certification institute for ICT Professionals",
-        "Bachelor's Degree (or equivalent knowledge) in Computer Science or related field",
-        "Typically requires 3 years of experience in a Data Center in a large Computer Operations environment",
-        "Knowledge of data center architecture, power and cooling distribution, mechanical systems, physical security, racks, servers, storage devices, network, and cabling",
-        "Experience with Building Management Systems (BMS) and Data Center Infrastructure Management (DCIM)",
-        "Experience with data center capacity and trend analysis reporting",
-        "Strong project management skills",
-        "Operational understanding of database terms and functionality",
-        "Operational experience with Networking terms and functions including LAN and WAN",
-        "Experience with large scale disaster recovery planning and implementation",
-        "Demonstrated ability to work with a limited amount of supervision and work with internal and external customers",
-        "Demonstrated ability for analytical and logical thinking",
-        "Ability to organize, troubleshoot efficiently and effectively",
-        "Detail oriented, creative and self-motivated",
-        "Ability to work on multiple in-process tasks simultaneously, set appropriate priorities and accomplish assignments in a thorough and timely fashion",
-        "Exposed to a normal office environment"
-      ],
-      "Benefits": [
-        "15% travel as needed after training",
-        "Pay Range",
-        "$32.45 - $48.70",
-        "Advocate Health offers a comprehensive suite of Total Rewards: benefits and well-being programs, competitive compensation, generous retirement offerings, programs that invest in your career development and so much more - so you can live fully at and away from work, including:",
-        "Base compensation listed within the listed pay range based on factors such as qualifications, skills, relevant experience, and/or training",
-        "Premium pay such as shift, on call, and more based on a teammate's job",
-        "Incentive pay for select positions",
-        "Opportunity for annual increases based on performance",
-        "Benefits and more",
-        "Paid Time Off programs",
-        "Health and welfare benefits such as medical, dental, vision, life, andShort- and Long-Term Disability",
-        "Flexible Spending Accounts for eligible health care and dependent care expenses",
-        "Family benefits such as adoption assistance and paid parental leave",
-        "Defined contribution retirement plans with employer match and other financial wellness programs",
-        "Educational Assistance Program",
-        "Committed to providing equitable care for all, Advocate Health provides more than $6 billion in annual community benefits"
-      ],
-      "Responsibilities": [
-        "Team member will be responsible for data center in IL & WI",
-        "Will be working hybrid, in IL & WI",
-        "Plan for adequate power, cooling, and physical data center layout for primary and secondary data centers to meet the technology infrastructure capacity requirements",
-        "Coordinate vendor activities within the data centers for scheduled maintenance",
-        "Coordinate data center infrastructure projects, in conjunction with Facilities teams and contractors, to ensure minimal service interruptions, safety and timeliness of completion",
-        "Document and maintain data center standards across primary and secondary data centers locations",
-        "Work closely with the security team to ensure data center physical security procedures are in place and compliant with security policies",
-        "Generate trend analysis reporting of power, cooling, and physical data center layout to ensure projected capacity levels are met",
-        "Must be able to sit up to 80% of each workday",
-        "Requires travel as necessary",
-        "Operates all equipment necessary to perform the job",
-        "Must be able to perform fine hand manipulation when using a keyboard",
-        "This job description indicates the general nature and level of work expected of the incumbent",
-        "It is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities required of the incumbent",
-        "Incumbent may be required to perform other related duties"
-      ]
-    },
-    "job_onet_soc": "15114200",
-    "job_onet_job_zone": "4",
-    "id": "www-ziprecruiter-com-c-advocate-aurora-health-job-data-center-engineer-in-des-plaines-il",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "652Pig-K-CYFplikAAAAAA==",
-    "job_title": "Principal Software Engineer - Big Data Processing",
-    "employer_name": "Oracle",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Ob8wBy30IQeYJfM4qn_PksuLPYaC4sUtJLRK&s=0",
-    "employer_website": "https://www.oracle.com",
-    "job_publisher": "WhatJobs",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.whatjobs.com/jobs/data-engineering?id=2377355977&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.learn4good.com/jobs/doral/florida/info_technology/4865773796/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/data-engineering?id=2377355977&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Learn4Good",
+        "apply_link": "https://www.learn4good.com/jobs/doral/florida/info_technology/4865773796/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "**Job Description**\nOracle Health Data Intelligence has a rare opportunity to play a critical role in how Oracle Health products impact and disrupt the healthcare industry by transforming how healthcare and technology intersect.\nYou will have the opportunity to:\n+ Reach billions of people with our products and services\n+ Create technology which truly impacts the world\n+ Have immediate impact on developing this technology\n+ Unlimited growth potential with inspiring work\n+ Work with the best minds in the industry\n+ Work in an open, diverse, and productive environment\n• *About the Job**\nOracle Health Data Intelligence is growing and looking for a Principal Software Engineer to join the Population Intelligence team. This team aggregates data across multiple disparate sources and normalizes the data, enabling advanced decision support, predictive algorithms, population identification, and advanced analytics.\n• *Responsibilities**\n• *What You'll Do**\nAs a member of the software engineering division, you will apply intermediate to advanced knowledge of software architecture to perform software development tasks associated with developing, debugging, or designing software applications or operating systems according to provided design specifications. Build enhancements within an existing software architecture and suggest improvements to the architecture. Work involves problem solving, understanding, and applying company policies and processes.\n+ High level of fluency with at least one modern programming language such as Java, C++, or C#.\n+ Expertise in design concepts and technologies around Big Data Processing, ETL, Relational Databases, Hadoop Ecosystem, Apache Crunch, Spark, Hive, and SQL.\n+ Experience building and maintaining large scalable enterprise applications, distributed systems, and cloud-based platforms.\n+ Solid understanding of modern web applications from database to user interface.\n+ Familiarity with micro-services architecture and RESTful APIs.\n+ Familiarity with web front-end technologies such as React, Preact, Ruby, Ruby on Rails, JavaScript, and Oracle JET.\n+ Proficiency in design patterns, SOLID principles, and writing well-modularized and maintainable software.\n+ Knowledge of software engineering best practices across the development lifecycle, including agile methodologies, coding standards, code reviews, source management, build processes, testing, and operations.\n+ Knowledge of operations processes and DevOps technologies such as Jenkins, Kubernetes, Spinnaker, Maven.\n+ Excellent communication skills in both technical and non-technical contexts.\n• *Required Qualifications:**\n+ 8+ years of technical experience relevant to this position.\n+ Ability to communicate effectively and build rapport with team members.\n+ BS or MS in Computer Science, or equivalent.\nDisclaimer:\n• *Certain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates.**\n• *Range and benefit information provided in this posting are specific to the stated locations only**\nUS: Hiring Range in USD from: $96,800 to $223,400 per annum. May be eligible for bonus and equity.\nOracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle's differing products, industries and lines of business.\nCandidates are typically placed into the range based on the preceding factors as well as internal peer equity.\nOracle US offers a comprehensive benefits package which includes the following:\n1. Medical, dental, and vision insurance, including expert medical opinion\n2. Short term disability and long term disability\n3. Life insurance and AD&D\n4. Supplemental life insurance (Employee/Spouse/Child)\n5. Health care and dependent care Flexible Spending Accounts\n6. Pre-tax commuter and parking benefits\n7. 401(k) Savings and Investment Plan with company match\n8. Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position. Accrued Vacation is provided to all other employees eligible for vacation benefits. For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment. Vacation accrual is prorated for employees working between 20 and 34 hours per week. Employees working fewer than 20 hours per week are not eligible for vacation.\n9. 11 paid holidays\n10. Paid sick leave: 72 hours of paid sick leave upon date of hire. Refreshes each calendar year. Unused balance will carry over each year up to a maximum cap of 112 hours.\n11. Paid parental leave\n12. Adoption assistance\n13. Employee Stock Purchase Plan\n14. Financial planning and group legal\n15. Voluntary benefits including auto, homeowner and pet insurance\nThe role will generally accept applications for at least three calendar days from the posting date or as long as the job remains posted.\nCareer Level - IC4\n• *About Us**\nOnly Oracle brings together the data, infrastructure, applications, and expertise to power everything from industry innovations to life-saving care. And with AI embedded across our products and services, we help customers turn that promise into a better future for all. Discover your potential at a company leading the way in AI and cloud solutions that impact billions of lives.\nTrue innovation starts when everyone is empowered to contribute. That's why we're committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.\nWe're committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing or by calling in the United States.\nOracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans' status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.",
+    "job_description": "Overview\n\nHybrid Role - must be able to commute to our Maitland, FL office\n\nPosition Summary:\n\nIn this position, you will play a crucial role in managing and optimizing our data processes within our emerging Data Warehouse/Data Lake environments. This position requires a strong foundation in ETL systems, SQL development, and a solid understanding of relational databases. You will work to ensure the efficiency and reliability of our data pipelines, contributing directly to the success of our projects.\n\nThe ideal candidate will have a strong background in data analysis and data visualization with specific expertise in using SQL to transform and analyze data. You will work closely with stakeholders across the organization to deliver actionable insights and support data-driven decision-making.\nEssential Functions\n• Collaborate with data engineers, analysts, and other stakeholders with data flows, scripts, and models using SQL, Snap Logic, and other ETL systems, optimizing for performance and reliability throughout the organization.\n• Assist in the development and testing of new features, models, or data processes within our data warehouses, leveraging feedback to drive continuous improvement.\n• Document data processes, models, and workflows within our data warehouses for internal knowledge sharing and to support ongoing learning and development.\n• Ensure integrity and quality of data throughout the entire data lifecycle, from ingestion to analysis, by implementing data validation and cleansing processes.\n• Maintain security protocols and data governance practices to ensure compliance with organizational policies and industry regulations.\n• Monitor performance and troubleshoot issues within ETL projects and related data environments.\n• Create and maintain interactive dashboards and reports using SSRS, Power BI, or similar visualization tools.\n• Ensure data quality and integrity by implementing best practices in data governance and validation.\nEducation and Experience\n• Bachelor’s degree in Computer Science, Information Systems, Data Science, or a related field.\n• 3+ years of experience in a data engineering role, with a focus on SQL development (MS SQL Server experience preferred).\n• Strong proficiency in relational databases and data querying techniques.\n• Expertise in data modeling, ETL processes, and data integration techniques.\n• Experience with using programmatic tools for data manipulation and analysis.\n• Familiarity with cloud platforms such as Azure, AWS, or GCP.\n• Knowledge of data visualization tools like Power BI, Tableau, or similar.\n• Excellent problem-solving skills and attention to detail.\n• Strong communication and collaboration skills, with the ability to work effectively with cross-functional teams.\n• Ability to learn quickly, be adaptable, flexible, and creative.\n• Demonstrated capability to work well independently and as part of a team.\nPhysical Demands\n• Ability to safely and successfully perform the essential job functions consistent with the ADA, FMLA, and other federal, state, and local standards, including meeting qualitative and/or quantitative productivity standards.\n• Ability to maintain reasonably regular, punctual attendance consistent with the ADA, FMLA, and other federal, state, and local standards.\n• Must be able to sit, stand, stoop, or bend for an extended period (8 hours).\n• Must be able to listen and speak clearly over the phone.\nWork Environment\n\nThe work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. The noise level in the work environment is usually moderate.\nWe offer some great perks:\n• Health, dental, and vision benefits.\n• Employer-paid disability and life insurance.\n• Flexible spending accounts.\n• 401K with company match.\n• Paid time off and company-paid holidays.\n• Wellness resources.\n\nNote: This job description is not intended to be an exhaustive list of duties, responsibilities, or qualifications associated with the job.\n#J-18808-Ljbffr",
     "job_is_remote": false,
-    "job_posted_at": "8 days ago",
-    "job_posted_at_timestamp": 1770336000,
-    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
-    "job_location": "Madison, NH",
-    "job_city": "Madison",
-    "job_state": "New Hampshire",
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Doral, FL",
+    "job_city": "Doral",
+    "job_state": "Florida",
     "job_country": "US",
-    "job_latitude": 43.8992395,
-    "job_longitude": -71.1484028,
+    "job_latitude": 25.821663599999997,
+    "job_longitude": -80.3341312,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
+      "health_insurance",
       "paid_time_off"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D652Pig-K-CYFplikAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DmQjzELr-AD780L5XAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 60000,
+    "job_max_salary": 80000,
+    "job_salary_period": "YEAR",
     "job_highlights": {
       "Qualifications": [
-        "Work with the best minds in the industry",
-        "Work in an open, diverse, and productive environment",
-        "High level of fluency with at least one modern programming language such as Java, C++, or C#",
-        "Expertise in design concepts and technologies around Big Data Processing, ETL, Relational Databases, Hadoop Ecosystem, Apache Crunch, Spark, Hive, and SQL",
-        "Experience building and maintaining large scalable enterprise applications, distributed systems, and cloud-based platforms",
-        "Solid understanding of modern web applications from database to user interface",
-        "Familiarity with micro-services architecture and RESTful APIs",
-        "Familiarity with web front-end technologies such as React, Preact, Ruby, Ruby on Rails, JavaScript, and Oracle JET",
-        "Proficiency in design patterns, SOLID principles, and writing well-modularized and maintainable software",
-        "Knowledge of software engineering best practices across the development lifecycle, including agile methodologies, coding standards, code reviews, source management, build processes, testing, and operations",
-        "Knowledge of operations processes and DevOps technologies such as Jenkins, Kubernetes, Spinnaker, Maven",
-        "Excellent communication skills in both technical and non-technical contexts",
-        "8+ years of technical experience relevant to this position",
-        "Ability to communicate effectively and build rapport with team members",
-        "BS or MS in Computer Science, or equivalent"
+        "This position requires a strong foundation in ETL systems, SQL development, and a solid understanding of relational databases",
+        "Bachelor’s degree in Computer Science, Information Systems, Data Science, or a related field",
+        "Strong proficiency in relational databases and data querying techniques",
+        "Expertise in data modeling, ETL processes, and data integration techniques",
+        "Experience with using programmatic tools for data manipulation and analysis",
+        "Familiarity with cloud platforms such as Azure, AWS, or GCP",
+        "Knowledge of data visualization tools like Power BI, Tableau, or similar",
+        "Excellent problem-solving skills and attention to detail",
+        "Strong communication and collaboration skills, with the ability to work effectively with cross-functional teams",
+        "Ability to learn quickly, be adaptable, flexible, and creative",
+        "Demonstrated capability to work well independently and as part of a team",
+        "Ability to safely and successfully perform the essential job functions consistent with the ADA, FMLA, and other federal, state, and local standards, including meeting qualitative and/or quantitative productivity standards",
+        "Ability to maintain reasonably regular, punctual attendance consistent with the ADA, FMLA, and other federal, state, and local standards",
+        "Must be able to sit, stand, stoop, or bend for an extended period (8 hours)",
+        "Must be able to listen and speak clearly over the phone"
       ],
       "Benefits": [
-        "Unlimited growth potential with inspiring work",
-        "US: Hiring Range in USD from: $96,800 to $223,400 per annum",
-        "May be eligible for bonus and equity",
-        "Oracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle's differing products, industries and lines of business",
-        "Oracle US offers a comprehensive benefits package which includes the following:",
-        "Medical, dental, and vision insurance, including expert medical opinion",
-        "Short term disability and long term disability",
-        "Life insurance and AD&D",
-        "Supplemental life insurance (Employee/Spouse/Child)",
-        "Health care and dependent care Flexible Spending Accounts",
-        "Pre-tax commuter and parking benefits",
-        "401(k) Savings and Investment Plan with company match",
-        "Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position",
-        "Accrued Vacation is provided to all other employees eligible for vacation benefits",
-        "For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment",
-        "Vacation accrual is prorated for employees working between 20 and 34 hours per week",
-        "Employees working fewer than 20 hours per week are not eligible for vacation",
-        "11 paid holidays",
-        "Paid sick leave: 72 hours of paid sick leave upon date of hire",
-        "Refreshes each calendar year",
-        "Unused balance will carry over each year up to a maximum cap of 112 hours",
-        "Paid parental leave",
-        "Adoption assistance",
-        "Employee Stock Purchase Plan",
-        "Financial planning and group legal",
-        "Voluntary benefits including auto, homeowner and pet insurance",
-        "That's why we're committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options"
+        "We offer some great perks:",
+        "Health, dental, and vision benefits",
+        "Employer-paid disability and life insurance",
+        "Flexible spending accounts",
+        "401K with company match",
+        "Paid time off and company-paid holidays",
+        "Wellness resources"
       ],
       "Responsibilities": [
-        "Reach billions of people with our products and services",
-        "Create technology which truly impacts the world",
-        "As a member of the software engineering division, you will apply intermediate to advanced knowledge of software architecture to perform software development tasks associated with developing, debugging, or designing software applications or operating systems according to provided design specifications",
-        "Build enhancements within an existing software architecture and suggest improvements to the architecture",
-        "Work involves problem solving, understanding, and applying company policies and processes",
-        "*Certain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates.**"
+        "In this position, you will play a crucial role in managing and optimizing our data processes within our emerging Data Warehouse/Data Lake environments",
+        "You will work to ensure the efficiency and reliability of our data pipelines, contributing directly to the success of our projects",
+        "The ideal candidate will have a strong background in data analysis and data visualization with specific expertise in using SQL to transform and analyze data",
+        "You will work closely with stakeholders across the organization to deliver actionable insights and support data-driven decision-making",
+        "Collaborate with data engineers, analysts, and other stakeholders with data flows, scripts, and models using SQL, Snap Logic, and other ETL systems, optimizing for performance and reliability throughout the organization",
+        "Assist in the development and testing of new features, models, or data processes within our data warehouses, leveraging feedback to drive continuous improvement",
+        "Document data processes, models, and workflows within our data warehouses for internal knowledge sharing and to support ongoing learning and development",
+        "Ensure integrity and quality of data throughout the entire data lifecycle, from ingestion to analysis, by implementing data validation and cleansing processes",
+        "Maintain security protocols and data governance practices to ensure compliance with organizational policies and industry regulations",
+        "Monitor performance and troubleshoot issues within ETL projects and related data environments",
+        "Create and maintain interactive dashboards and reports using SSRS, Power BI, or similar visualization tools",
+        "Ensure data quality and integrity by implementing best practices in data governance and validation",
+        "Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions"
       ]
     },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-whatjobs-com-jobs-data-engineering",
+    "job_onet_soc": "23209300",
+    "job_onet_job_zone": "2",
+    "id": "www-learn4good-com-jobs-doral-florida-info_technology-4865773796-e",
     "_source": "new_jobs"
   },
   {
@@ -1829,94 +1639,6 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "www-snagajob-com-jobs-1066921924",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "mQjzELr-AD780L5XAAAAAA==",
-    "job_title": "IT Data Engineer - Westcor Land Title Insurance Company",
-    "employer_name": "Ardán, Inc., A Community of Companies",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "Learn4Good",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.learn4good.com/jobs/doral/florida/info_technology/4865773796/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/doral/florida/info_technology/4865773796/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Overview\n\nHybrid Role - must be able to commute to our Maitland, FL office\n\nPosition Summary:\n\nIn this position, you will play a crucial role in managing and optimizing our data processes within our emerging Data Warehouse/Data Lake environments. This position requires a strong foundation in ETL systems, SQL development, and a solid understanding of relational databases. You will work to ensure the efficiency and reliability of our data pipelines, contributing directly to the success of our projects.\n\nThe ideal candidate will have a strong background in data analysis and data visualization with specific expertise in using SQL to transform and analyze data. You will work closely with stakeholders across the organization to deliver actionable insights and support data-driven decision-making.\nEssential Functions\n• Collaborate with data engineers, analysts, and other stakeholders with data flows, scripts, and models using SQL, Snap Logic, and other ETL systems, optimizing for performance and reliability throughout the organization.\n• Assist in the development and testing of new features, models, or data processes within our data warehouses, leveraging feedback to drive continuous improvement.\n• Document data processes, models, and workflows within our data warehouses for internal knowledge sharing and to support ongoing learning and development.\n• Ensure integrity and quality of data throughout the entire data lifecycle, from ingestion to analysis, by implementing data validation and cleansing processes.\n• Maintain security protocols and data governance practices to ensure compliance with organizational policies and industry regulations.\n• Monitor performance and troubleshoot issues within ETL projects and related data environments.\n• Create and maintain interactive dashboards and reports using SSRS, Power BI, or similar visualization tools.\n• Ensure data quality and integrity by implementing best practices in data governance and validation.\nEducation and Experience\n• Bachelor’s degree in Computer Science, Information Systems, Data Science, or a related field.\n• 3+ years of experience in a data engineering role, with a focus on SQL development (MS SQL Server experience preferred).\n• Strong proficiency in relational databases and data querying techniques.\n• Expertise in data modeling, ETL processes, and data integration techniques.\n• Experience with using programmatic tools for data manipulation and analysis.\n• Familiarity with cloud platforms such as Azure, AWS, or GCP.\n• Knowledge of data visualization tools like Power BI, Tableau, or similar.\n• Excellent problem-solving skills and attention to detail.\n• Strong communication and collaboration skills, with the ability to work effectively with cross-functional teams.\n• Ability to learn quickly, be adaptable, flexible, and creative.\n• Demonstrated capability to work well independently and as part of a team.\nPhysical Demands\n• Ability to safely and successfully perform the essential job functions consistent with the ADA, FMLA, and other federal, state, and local standards, including meeting qualitative and/or quantitative productivity standards.\n• Ability to maintain reasonably regular, punctual attendance consistent with the ADA, FMLA, and other federal, state, and local standards.\n• Must be able to sit, stand, stoop, or bend for an extended period (8 hours).\n• Must be able to listen and speak clearly over the phone.\nWork Environment\n\nThe work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. The noise level in the work environment is usually moderate.\nWe offer some great perks:\n• Health, dental, and vision benefits.\n• Employer-paid disability and life insurance.\n• Flexible spending accounts.\n• 401K with company match.\n• Paid time off and company-paid holidays.\n• Wellness resources.\n\nNote: This job description is not intended to be an exhaustive list of duties, responsibilities, or qualifications associated with the job.\n#J-18808-Ljbffr",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Doral, FL",
-    "job_city": "Doral",
-    "job_state": "Florida",
-    "job_country": "US",
-    "job_latitude": 25.821663599999997,
-    "job_longitude": -80.3341312,
-    "job_benefits": [
-      "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DmQjzELr-AD780L5XAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 60000,
-    "job_max_salary": 80000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "This position requires a strong foundation in ETL systems, SQL development, and a solid understanding of relational databases",
-        "Bachelor’s degree in Computer Science, Information Systems, Data Science, or a related field",
-        "Strong proficiency in relational databases and data querying techniques",
-        "Expertise in data modeling, ETL processes, and data integration techniques",
-        "Experience with using programmatic tools for data manipulation and analysis",
-        "Familiarity with cloud platforms such as Azure, AWS, or GCP",
-        "Knowledge of data visualization tools like Power BI, Tableau, or similar",
-        "Excellent problem-solving skills and attention to detail",
-        "Strong communication and collaboration skills, with the ability to work effectively with cross-functional teams",
-        "Ability to learn quickly, be adaptable, flexible, and creative",
-        "Demonstrated capability to work well independently and as part of a team",
-        "Ability to safely and successfully perform the essential job functions consistent with the ADA, FMLA, and other federal, state, and local standards, including meeting qualitative and/or quantitative productivity standards",
-        "Ability to maintain reasonably regular, punctual attendance consistent with the ADA, FMLA, and other federal, state, and local standards",
-        "Must be able to sit, stand, stoop, or bend for an extended period (8 hours)",
-        "Must be able to listen and speak clearly over the phone"
-      ],
-      "Benefits": [
-        "We offer some great perks:",
-        "Health, dental, and vision benefits",
-        "Employer-paid disability and life insurance",
-        "Flexible spending accounts",
-        "401K with company match",
-        "Paid time off and company-paid holidays",
-        "Wellness resources"
-      ],
-      "Responsibilities": [
-        "In this position, you will play a crucial role in managing and optimizing our data processes within our emerging Data Warehouse/Data Lake environments",
-        "You will work to ensure the efficiency and reliability of our data pipelines, contributing directly to the success of our projects",
-        "The ideal candidate will have a strong background in data analysis and data visualization with specific expertise in using SQL to transform and analyze data",
-        "You will work closely with stakeholders across the organization to deliver actionable insights and support data-driven decision-making",
-        "Collaborate with data engineers, analysts, and other stakeholders with data flows, scripts, and models using SQL, Snap Logic, and other ETL systems, optimizing for performance and reliability throughout the organization",
-        "Assist in the development and testing of new features, models, or data processes within our data warehouses, leveraging feedback to drive continuous improvement",
-        "Document data processes, models, and workflows within our data warehouses for internal knowledge sharing and to support ongoing learning and development",
-        "Ensure integrity and quality of data throughout the entire data lifecycle, from ingestion to analysis, by implementing data validation and cleansing processes",
-        "Maintain security protocols and data governance practices to ensure compliance with organizational policies and industry regulations",
-        "Monitor performance and troubleshoot issues within ETL projects and related data environments",
-        "Create and maintain interactive dashboards and reports using SSRS, Power BI, or similar visualization tools",
-        "Ensure data quality and integrity by implementing best practices in data governance and validation",
-        "Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions"
-      ]
-    },
-    "job_onet_soc": "23209300",
-    "job_onet_job_zone": "2",
-    "id": "www-learn4good-com-jobs-doral-florida-info_technology-4865773796-e",
     "_source": "new_jobs"
   }
 ]
