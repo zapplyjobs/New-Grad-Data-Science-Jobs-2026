@@ -9,16 +9,16 @@
 
 # Data Science Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-3-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-3-blue?style=flat&logo=building)
-![Data Analyst](https://img.shields.io/badge/Data_Analyst-1-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-4-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-4-blue?style=flat&logo=building)
+![Data Scientist](https://img.shields.io/badge/Data_Scientist-3-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time data science, analytics, and machine learning jobs from 3+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 3+ fresh opportunities for new graduates, data science students, and entry-level data analysts.</p>
+<p align="center">🚀 Real-time data science, analytics, and machine learning jobs from 4+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 4+ fresh opportunities for new graduates, data science students, and entry-level data analysts.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -69,20 +69,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/dsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>🔬 <strong>Data Scientist</strong> (1 positions)</h3></summary>
+<summary><h3>🔬 <strong>Data Scientist</strong> (3 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
+| 🏢 **VirtualVocations** | AI and Machine Learning Intern 🏠 | Greensboro, North Carolina | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=c70e7dbe2c9c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Ardán, Inc., A Community of Companies** | IT Data Engineer - Westcor Land ... | Doral, Florida | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.learn4good.com/jobs/doral/florida/info_technology/4865773796/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-</details>
-
-<details>
-<summary><h3>📊 <strong>Data Analyst</strong> (1 positions)</h3></summary>
-
-| Company | Role | Location | Posted | Level | Apply |
-|---------|------|----------|--------|-------|-------|
-| 🏢 **VirtualVocations** | Advanced Cloud Data Engineer 🏠 | Raleigh, North Carolina | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=4d4ccca8d83f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Shield Consulting Solutions, Inc.** | Artificial Intelligence Machine ... | Annapolis, Maryland | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Shield-Consulting-Solutions,-Inc./Job/Artificial-Intelligence-Machine-Learning-Engineer-(Annapolis-Junction,-MD)/-in-Annapolis,MD?jid=c2fa4b505edb4aba&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -152,16 +145,32 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 0 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 2 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 0 positions
-- **🏢 Companies**: 3 companies
-- **🏷️ Top Category**: Software Engineering
+- **📁 Total Jobs**: 2 positions
+- **🏢 Companies**: 4 companies
+- **🏷️ Top Category**: Machine Learning
+
+<details>
+<summary><h3>🔬 <strong>Data Scientist</strong> (1 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
+| 🏢 **Snap Inc.** | Machine Learning Engineer, Level 5 | New York, New York | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.builtinnyc.com/job/machine-learning-engineer-level-5/8106441?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+</details>
+
+<details>
+<summary><h3>🤖 <strong>Machine Learning</strong> (1 positions)</h3></summary>
+
+| Company | Role | Location | Posted | Level | Apply |
+|---------|------|----------|--------|-------|-------|
+| 🏢 **Roku** | Software Engineer, Machine Learning 🏠 | San Jose, California | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.weareroku.com/jobs/software-engineer-machine-learning-san-jose-california-united-states-41cf8bbb-1d53-4bb6-8826-be4c2ec7775d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+</details>
+
+
 
 </details>
 
@@ -171,7 +180,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3 current opportunities from 3 companies**
+**🎯 4 current opportunities from 4 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
