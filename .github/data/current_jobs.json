@@ -133,9 +133,9 @@
     "job_latitude": 36.778261,
     "job_longitude": -119.4179324,
     "job_benefits": [
-      "dental_coverage",
+      "paid_time_off",
       "health_insurance",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DjVB6CWaK1VR2FGY5AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 114000,
@@ -208,62 +208,6 @@
     "job_onet_soc": "15203100",
     "job_onet_job_zone": "5",
     "id": "spacecrew-com-space-jobs-mlkkgc78-northrop-grumman-missile-operations-research-engineer-level-3-or-4-aht",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "X0NSQ-MWlZxfT3XwAAAAAA==",
-    "job_title": "Junior Research Engineer",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=d4c13689c8eb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=d4c13689c8eb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A company is looking for a Junior Research Enablement Engineer to support their LanguageAI research team remotely in the United States.\n\nKey Responsibilities\n\nArchitect, design, implement, and maintain applications, frameworks, and infrastructure components\n\nWork with data to implement and deploy machine learning services and frameworks\n\nConduct architecture and code reviews, and design testing strategies to enhance product quality\n\nRequired Qualifications\n\nFluency in Python and experience with Java or Kotlin\n\nFundamental understanding of probability and statistics\n\nFamiliarity with relational databases and asynchronous patterns\n\nUnderstanding of distributed computing principles and algorithms\n\nBS+ degree in computer science or equivalent experience",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Toms River, NJ",
-    "job_city": "Toms River",
-    "job_state": "New Jersey",
-    "job_country": "US",
-    "job_latitude": 39.963417799999995,
-    "job_longitude": -74.18733859999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DX0NSQ-MWlZxfT3XwAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Fluency in Python and experience with Java or Kotlin",
-        "Fundamental understanding of probability and statistics",
-        "Familiarity with relational databases and asynchronous patterns",
-        "Understanding of distributed computing principles and algorithms",
-        "BS+ degree in computer science or equivalent experience"
-      ],
-      "Responsibilities": [
-        "Architect, design, implement, and maintain applications, frameworks, and infrastructure components",
-        "Work with data to implement and deploy machine learning services and frameworks",
-        "Conduct architecture and code reviews, and design testing strategies to enhance product quality"
-      ]
-    },
-    "job_onet_soc": "19203200",
-    "job_onet_job_zone": "5",
-    "id": "www-talent-com-view",
     "_source": "new_jobs"
   },
   {
@@ -421,6 +365,62 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "X0NSQ-MWlZxfT3XwAAAAAA==",
+    "job_title": "Junior Research Engineer",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=d4c13689c8eb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=d4c13689c8eb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A company is looking for a Junior Research Enablement Engineer to support their LanguageAI research team remotely in the United States.\n\nKey Responsibilities\n\nArchitect, design, implement, and maintain applications, frameworks, and infrastructure components\n\nWork with data to implement and deploy machine learning services and frameworks\n\nConduct architecture and code reviews, and design testing strategies to enhance product quality\n\nRequired Qualifications\n\nFluency in Python and experience with Java or Kotlin\n\nFundamental understanding of probability and statistics\n\nFamiliarity with relational databases and asynchronous patterns\n\nUnderstanding of distributed computing principles and algorithms\n\nBS+ degree in computer science or equivalent experience",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Toms River, NJ",
+    "job_city": "Toms River",
+    "job_state": "New Jersey",
+    "job_country": "US",
+    "job_latitude": 39.963417799999995,
+    "job_longitude": -74.18733859999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DX0NSQ-MWlZxfT3XwAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Fluency in Python and experience with Java or Kotlin",
+        "Fundamental understanding of probability and statistics",
+        "Familiarity with relational databases and asynchronous patterns",
+        "Understanding of distributed computing principles and algorithms",
+        "BS+ degree in computer science or equivalent experience"
+      ],
+      "Responsibilities": [
+        "Architect, design, implement, and maintain applications, frameworks, and infrastructure components",
+        "Work with data to implement and deploy machine learning services and frameworks",
+        "Conduct architecture and code reviews, and design testing strategies to enhance product quality"
+      ]
+    },
+    "job_onet_soc": "19203200",
+    "job_onet_job_zone": "5",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "35SmjIIjy-8bWho0AAAAAA==",
     "job_title": "Lead Engineer - Operations Research for Controls & Optimization",
     "employer_name": "GE Vernova",
@@ -487,9 +487,9 @@
     "job_latitude": 42.8000049,
     "job_longitude": -73.89144069999999,
     "job_benefits": [
+      "paid_time_off",
       "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D35SmjIIjy-8bWho0AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -745,62 +745,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "wueq_P4Kwf8UaWxQAAAAAA==",
-    "job_title": "Junior Research Engineer",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=a435eb00fd4b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=a435eb00fd4b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A company is looking for a Junior Research Enablement Engineer to support their LanguageAI research team remotely in the United States.\n\nKey Responsibilities\n\nArchitect, design, implement, and maintain applications, frameworks, and infrastructure components\n\nWork with data to implement and deploy machine learning services and frameworks\n\nConduct architecture and code reviews, and design testing strategies to enhance product quality\n\nRequired Qualifications\n\nFluency in Python and experience with Java or Kotlin\n\nFundamental understanding of probability and statistics\n\nFamiliarity with relational databases and asynchronous patterns\n\nUnderstanding of distributed computing principles and algorithms\n\nBS+ degree in computer science or equivalent experience",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Columbus, OH",
-    "job_city": "Columbus",
-    "job_state": "Ohio",
-    "job_country": "US",
-    "job_latitude": 39.9625112,
-    "job_longitude": -83.00322179999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dwueq_P4Kwf8UaWxQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Fluency in Python and experience with Java or Kotlin",
-        "Fundamental understanding of probability and statistics",
-        "Familiarity with relational databases and asynchronous patterns",
-        "Understanding of distributed computing principles and algorithms",
-        "BS+ degree in computer science or equivalent experience"
-      ],
-      "Responsibilities": [
-        "Architect, design, implement, and maintain applications, frameworks, and infrastructure components",
-        "Work with data to implement and deploy machine learning services and frameworks",
-        "Conduct architecture and code reviews, and design testing strategies to enhance product quality"
-      ]
-    },
-    "job_onet_soc": "19203200",
-    "job_onet_job_zone": "5",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "HBPHQ30BgG5m3QvsAAAAAA==",
     "job_title": "Principal Research Engineer",
     "employer_name": "Oracle",
@@ -843,8 +787,8 @@
     "job_longitude": -76.489642,
     "job_benefits": [
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DHBPHQ30BgG5m3QvsAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -908,60 +852,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "Io4W-GT55ZULi2UdAAAAAA==",
-    "job_title": "R&D Software Engineer II/III ML, Vision & Autonomy",
-    "employer_name": "The Website Company",
-    "employer_logo": null,
-    "employer_website": "https://the.website.company",
-    "job_publisher": "WhatJobs",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.whatjobs.com/jobs/research-engineer?id=2449465779&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/research-engineer?id=2449465779&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A leading research university in Burlington, MA is looking for a motivated Research & Development Engineer. This full-time role involves working on cutting-edge projects in software engineering, particularly in machine learning and artificial intelligence. Ideal candidates will have a strong proficiency in software development and a passion for innovative technology. Competitive compensation and a comprehensive benefits package are offered, with a significant emphasis on collaboration and research excellence.\n\n#J-18808-Ljbffr",
-    "job_is_remote": false,
-    "job_posted_at": "8 days ago",
-    "job_posted_at_timestamp": 1770336000,
-    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
-    "job_location": "Burlington, KY",
-    "job_city": "Burlington",
-    "job_state": "Kentucky",
-    "job_country": "US",
-    "job_latitude": 39.02756,
-    "job_longitude": -84.7241133,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DIo4W-GT55ZULi2UdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Ideal candidates will have a strong proficiency in software development and a passion for innovative technology"
-      ],
-      "Benefits": [
-        "Competitive compensation and a comprehensive benefits package are offered, with a significant emphasis on collaboration and research excellence",
-        "#J-18808-Ljbffr"
-      ],
-      "Responsibilities": [
-        "This full-time role involves working on cutting-edge projects in software engineering, particularly in machine learning and artificial intelligence"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-whatjobs-com-jobs-research-engineer",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "0oc7kzexobavEZw-AAAAAA==",
     "job_title": "Research Engineer Job at Galois, Inc. in Portland",
     "employer_name": "Galois, Inc.",
@@ -993,9 +883,9 @@
     "job_latitude": 43.8041334,
     "job_longitude": -120.5542012,
     "job_benefits": [
+      "paid_time_off",
       "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D0oc7kzexobavEZw-AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1053,6 +943,60 @@
     "job_onet_soc": "53601100",
     "job_onet_job_zone": "1",
     "id": "www-recruit-net-job-research-engineer-at-galois-inc-jobs-eb409dd62d15d4f1",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "Io4W-GT55ZULi2UdAAAAAA==",
+    "job_title": "R&D Software Engineer II/III ML, Vision & Autonomy",
+    "employer_name": "The Website Company",
+    "employer_logo": null,
+    "employer_website": "https://the.website.company",
+    "job_publisher": "WhatJobs",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.whatjobs.com/jobs/research-engineer?id=2449465779&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/research-engineer?id=2449465779&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A leading research university in Burlington, MA is looking for a motivated Research & Development Engineer. This full-time role involves working on cutting-edge projects in software engineering, particularly in machine learning and artificial intelligence. Ideal candidates will have a strong proficiency in software development and a passion for innovative technology. Competitive compensation and a comprehensive benefits package are offered, with a significant emphasis on collaboration and research excellence.\n\n#J-18808-Ljbffr",
+    "job_is_remote": false,
+    "job_posted_at": "8 days ago",
+    "job_posted_at_timestamp": 1770336000,
+    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
+    "job_location": "Burlington, KY",
+    "job_city": "Burlington",
+    "job_state": "Kentucky",
+    "job_country": "US",
+    "job_latitude": 39.02756,
+    "job_longitude": -84.7241133,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DIo4W-GT55ZULi2UdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Ideal candidates will have a strong proficiency in software development and a passion for innovative technology"
+      ],
+      "Benefits": [
+        "Competitive compensation and a comprehensive benefits package are offered, with a significant emphasis on collaboration and research excellence",
+        "#J-18808-Ljbffr"
+      ],
+      "Responsibilities": [
+        "This full-time role involves working on cutting-edge projects in software engineering, particularly in machine learning and artificial intelligence"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-whatjobs-com-jobs-research-engineer",
     "_source": "new_jobs"
   },
   {
@@ -1145,117 +1089,87 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "BjLFYcXH7-uoo4xNAAAAAA==",
-    "job_title": "R&D Engineering Manager",
-    "employer_name": "EMD Millipore Corporation",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9GLPzNHjKcDKry1wwhDtGC1iIcoIdn2Mq4d-S&s=0",
-    "employer_website": null,
-    "job_publisher": "Careers",
+    "job_id": "ikBGAAL2JRTdJHSkAAAAAA==",
+    "job_title": "Research Engineer, Pre-training",
+    "employer_name": "Anthropic",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_rqyx9fi6uAmIEriSLRipRepRV5O30wOxjYOV&s=0",
+    "employer_website": "https://www.anthropic.com",
+    "job_publisher": "Jobright",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://careers.merckgroup.com/global/en/job/295848/R-D-Engineering-Manager?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://jobright.ai/jobs/info/69165dbf6f36db06ef0558c0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Careers",
-        "apply_link": "https://careers.merckgroup.com/global/en/job/295848/R-D-Engineering-Manager?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/69165dbf6f36db06ef0558c0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=b6e1047d8c97cb09&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Built In",
-        "apply_link": "https://builtin.com/job/mechanical-engineering-manager/6878336?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Lexington-Medical/Job/R&D-Engineering-Manager/-in-Bedford,MA?jid=44750e2ed0ead5c5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Monster",
-        "apply_link": "https://www.monster.com/job-openings/r-d-engineering-manager-bedford-ma--7287b4f0-e151-4579-9503-5629556e0004?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/research-engineer-pre-training-at-anthropic-4322260479?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Built In Boston",
-        "apply_link": "https://www.builtinboston.com/job/mechanical-engineering-manager/6878336?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/r-d-engineering-manager_7ea1ab9e9818bfae9396bba98252ba2e4919f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Dice",
-        "apply_link": "https://www.dice.com/job-detail/0906a053-9746-4d79-a622-f3333b2ca9e7?q=EHS&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Career.com",
+        "apply_link": "https://www.career.com/job/anthropic/research-engineer-pre-training/j202512051008129654348?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Work Your Magic with us! Start your next chapter and join MilliporeSigma.\n\nReady to explore, break barriers, and discover more? We know you’ve got big plans – so do we! Our colleagues across the globe love innovating with science and technology to enrich people’s lives with our solutions in Healthcare, Life Science, and Electronics. Together, we dream big and are passionate about caring for our rich mix of people, customers, patients, and planet. That's why we are always looking for curious minds that see themselves imagining the unimaginable with us.\n\nThis role does not offer sponsorship for work authorization. External applicants must be eligible to work in the US.\n\nYour Role:\n\nWe are seeking an device R&D engineering manager to work within MilliporeSigma Process Solutions Aseptic Filtration R&D group. This position will be based at our Bedford, MA campus.\n\nAs a manager in Aseptic Filtration R&D, you will lead a team of engineers, scientists, and technicians in new product or new technology development projects while ensuring compliance with sound scientific/engineering practices and design control requirements throughout all stages of the project and interact effectively with representatives of Marketing, Manufacturing, and Quality functions.\n• You serve as a tech lead on new product or technology development projects.\n• You provide technical consultation to junior engineers and technicians, and participate in thought leadership activities.\n• You will assure effective allocation and management of resources among multiple projects.\n• You are involved in identifying evolving staffing needs and participate in the hiring process for your area of responsibility.\n• You actively manage employee performance and identify and invest in employee training and development.\n• You provide guidance to scientists/engineers and technicians to complete assigned product/technology development deliverables ensuring high quality of work and compliance with design control and good documentation practices.\n• You interact regularly with other groups, such as Facilities, Engineering Services, Finance, EHS, Plant Operations, R&D, Quality, and Product Management.\n• You assure lab equipment and infrastructure meet the needs in your area of responsibility, participate in identifying and implementing upgraded equipment/new technology and provide support for preventative maintenance and calibration activities.\n• Some travel domestically and internationally as needed.\n\nWho You Are\n\nMinimum Qualifications:\n• B.S. in chemical or mechanical engineering or equivalent plus 8+ years’ experience in a related technical area,\n• OR MS plus 5+ years,\n• OR PhD plus 3+ years.\n• Strong oral and written communication skills to effectively communicate technical information to different parts of the organization.\n• Track record of technical accomplishments in product development or thought leadership activities.\n• Proven track record of leading projects, familiar with the areas of project management, budgeting, problem solving and statistical data analysis.\n• Managerial experience.\n\nPreferred Qualifications\n• Able to work collaboratively while thinking independently and creatively.\n• Knowledge of manufacturing and process development activities such as troubleshooting, design of experiments, validation, FMEA and design for manufacturing.\n• Knowledge of filter manufacturing methods is a plus. Knowledge of Aseptic filtration products, processes and bioprocessing applications would be very helpful.\n• Experience in IP assessment, patent review/ application/publication/external presentation.\n• Demonstrated potential to lead teams, setting objectives, development goals and motivating performance\n\nPay Range for this position: $114,700- $218,300\n\nThe offer range represents the anticipated low and high end of the base pay compensation for this position. The actual compensation offered will be determined by factors such as location, level of experience, education, skills, and other job-related factors. Position may be eligible for sales or performance-based bonuses. Benefits offered by the Company include health insurance, paid time off (PTO), retirement contributions, and other perquisites. For more information click here.\n\nWhat we offer: We are curious minds that come from a broad range of backgrounds, perspectives, and life experiences. We believe that this variety drives excellence and innovation, strengthening our ability to lead in science and technology. We are committed to creating access and opportunities for all to develop and grow at your own pace. Join us in building a culture of inclusion and belonging that impacts millions and empowers everyone to work their magic and champion human progress!\n\nApply now and become a part of a team that is dedicated to Sparking Discovery and Elevating Humanity!",
+    "job_description": "Anthropic is a public benefit corporation dedicated to developing safe, ethical, and powerful artificial intelligence. They are seeking a Research Engineer to join their Pre-training team, responsible for developing the next generation of large language models and contributing to the development of safe, steerable, and trustworthy AI systems.\n\nResponsibilities\n• Conduct research and implement solutions in areas such as model architecture, algorithms, data processing, and optimizer development\n• Independently lead small research projects while collaborating with team members on larger initiatives\n• Design, run, and analyze scientific experiments to advance our understanding of large language models\n• Optimize and scale our training infrastructure to improve efficiency and reliability\n• Develop and improve dev tooling to enhance team productivity\n• Contribute to the entire stack, from low-level optimizations to high-level model design\n\nSkills\n• Advanced degree (MS or PhD) in Computer Science, Machine Learning, or a related field\n• Strong software engineering skills with a proven track record of building complex systems\n• Expertise in Python and experience with deep learning frameworks (PyTorch preferred)\n• Familiarity with large-scale machine learning, particularly in the context of language models\n• Ability to balance research goals with practical engineering constraints\n• Strong problem-solving skills and a results-oriented mindset\n• Excellent communication skills and ability to work in a collaborative environment\n• Care about the societal impacts of your work\n• Work on high-performance, large-scale ML systems\n• Familiarity with GPUs, Kubernetes, and OS internals\n• Experience with language modeling using transformer architectures\n• Knowledge of reinforcement learning techniques\n• Background in large-scale ETL processes\n\nBenefits\n• Competitive compensation and benefits\n• Optional equity donation matching\n• Generous vacation and parental leave\n• Flexible working hours\n• A lovely office space in which to collaborate with colleagues\n\nCompany Overview\n• Anthropic is an AI research company that focuses on the safety and alignment of AI systems with human values. It was founded in 2021, and is headquartered in San Francisco, California, USA, with a workforce of 501-1000 employees. Its website is https://www.anthropic.com.\n\nCompany H1B Sponsorship\n• Anthropic has a track record of offering H1B sponsorships, with 105 in 2025, 13 in 2024, 3 in 2023, 4 in 2022, 1 in 2021. Please note that this does not guarantee sponsorship for this specific role.",
     "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Bedford, MA",
-    "job_city": "Bedford",
-    "job_state": "Massachusetts",
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770422400,
+    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
+    "job_location": "Seattle, WA",
+    "job_city": "Seattle",
+    "job_state": "Washington",
     "job_country": "US",
-    "job_latitude": 42.4906231,
-    "job_longitude": -71.2760089,
+    "job_latitude": 47.6061389,
+    "job_longitude": -122.33284809999999,
     "job_benefits": [
-      "health_insurance",
       "paid_time_off"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DBjLFYcXH7-uoo4xNAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DikBGAAL2JRTdJHSkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 350000,
+    "job_max_salary": 850000,
+    "job_salary_period": "YEAR",
     "job_highlights": {
       "Qualifications": [
-        "B.S. in chemical or mechanical engineering or equivalent plus 8+ years’ experience in a related technical area,",
-        "OR MS plus 5+ years,",
-        "OR PhD plus 3+ years",
-        "Strong oral and written communication skills to effectively communicate technical information to different parts of the organization",
-        "Track record of technical accomplishments in product development or thought leadership activities",
-        "Proven track record of leading projects, familiar with the areas of project management, budgeting, problem solving and statistical data analysis",
-        "Managerial experience",
-        "Knowledge of Aseptic filtration products, processes and bioprocessing applications would be very helpful",
-        "Experience in IP assessment, patent review/ application/publication/external presentation",
-        "Demonstrated potential to lead teams, setting objectives, development goals and motivating performance"
+        "Advanced degree (MS or PhD) in Computer Science, Machine Learning, or a related field",
+        "Strong software engineering skills with a proven track record of building complex systems",
+        "Familiarity with large-scale machine learning, particularly in the context of language models",
+        "Ability to balance research goals with practical engineering constraints",
+        "Strong problem-solving skills and a results-oriented mindset",
+        "Excellent communication skills and ability to work in a collaborative environment",
+        "Care about the societal impacts of your work",
+        "Work on high-performance, large-scale ML systems",
+        "Familiarity with GPUs, Kubernetes, and OS internals",
+        "Experience with language modeling using transformer architectures",
+        "Knowledge of reinforcement learning techniques",
+        "Background in large-scale ETL processes"
       ],
       "Benefits": [
-        "Pay Range for this position: $114,700- $218,300",
-        "The offer range represents the anticipated low and high end of the base pay compensation for this position",
-        "The actual compensation offered will be determined by factors such as location, level of experience, education, skills, and other job-related factors",
-        "Position may be eligible for sales or performance-based bonuses",
-        "Benefits offered by the Company include health insurance, paid time off (PTO), retirement contributions, and other perquisites"
+        "Competitive compensation and benefits",
+        "Optional equity donation matching",
+        "Generous vacation and parental leave",
+        "Flexible working hours",
+        "A lovely office space in which to collaborate with colleagues"
       ],
       "Responsibilities": [
-        "We are seeking an device R&D engineering manager to work within MilliporeSigma Process Solutions Aseptic Filtration R&D group",
-        "As a manager in Aseptic Filtration R&D, you will lead a team of engineers, scientists, and technicians in new product or new technology development projects while ensuring compliance with sound scientific/engineering practices and design control requirements throughout all stages of the project and interact effectively with representatives of Marketing, Manufacturing, and Quality functions",
-        "You serve as a tech lead on new product or technology development projects",
-        "You provide technical consultation to junior engineers and technicians, and participate in thought leadership activities",
-        "You will assure effective allocation and management of resources among multiple projects",
-        "You are involved in identifying evolving staffing needs and participate in the hiring process for your area of responsibility",
-        "You actively manage employee performance and identify and invest in employee training and development",
-        "You provide guidance to scientists/engineers and technicians to complete assigned product/technology development deliverables ensuring high quality of work and compliance with design control and good documentation practices",
-        "You interact regularly with other groups, such as Facilities, Engineering Services, Finance, EHS, Plant Operations, R&D, Quality, and Product Management",
-        "You assure lab equipment and infrastructure meet the needs in your area of responsibility, participate in identifying and implementing upgraded equipment/new technology and provide support for preventative maintenance and calibration activities",
-        "Some travel domestically and internationally as needed"
+        "Conduct research and implement solutions in areas such as model architecture, algorithms, data processing, and optimizer development",
+        "Independently lead small research projects while collaborating with team members on larger initiatives",
+        "Design, run, and analyze scientific experiments to advance our understanding of large language models",
+        "Optimize and scale our training infrastructure to improve efficiency and reliability",
+        "Develop and improve dev tooling to enhance team productivity",
+        "Contribute to the entire stack, from low-level optimizations to high-level model design"
       ]
     },
-    "job_onet_soc": "11904100",
+    "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
-    "id": "careers-merckgroup-com-global-en-job-295848-r-d-engineering-manager",
+    "id": "jobright-ai-jobs-info-69165dbf6f36db06ef0558c0",
     "_source": "new_jobs"
   },
   {
@@ -1343,90 +1257,6 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "www-jobilize-com-job-us-de-all-cities-intern-generative-ai-research-engineer-9-cotiviti",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "ikBGAAL2JRTdJHSkAAAAAA==",
-    "job_title": "Research Engineer, Pre-training",
-    "employer_name": "Anthropic",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_rqyx9fi6uAmIEriSLRipRepRV5O30wOxjYOV&s=0",
-    "employer_website": "https://www.anthropic.com",
-    "job_publisher": "Jobright",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobright.ai/jobs/info/69165dbf6f36db06ef0558c0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/69165dbf6f36db06ef0558c0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/research-engineer-pre-training-at-anthropic-4322260479?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Career.com",
-        "apply_link": "https://www.career.com/job/anthropic/research-engineer-pre-training/j202512051008129654348?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Anthropic is a public benefit corporation dedicated to developing safe, ethical, and powerful artificial intelligence. They are seeking a Research Engineer to join their Pre-training team, responsible for developing the next generation of large language models and contributing to the development of safe, steerable, and trustworthy AI systems.\n\nResponsibilities\n• Conduct research and implement solutions in areas such as model architecture, algorithms, data processing, and optimizer development\n• Independently lead small research projects while collaborating with team members on larger initiatives\n• Design, run, and analyze scientific experiments to advance our understanding of large language models\n• Optimize and scale our training infrastructure to improve efficiency and reliability\n• Develop and improve dev tooling to enhance team productivity\n• Contribute to the entire stack, from low-level optimizations to high-level model design\n\nSkills\n• Advanced degree (MS or PhD) in Computer Science, Machine Learning, or a related field\n• Strong software engineering skills with a proven track record of building complex systems\n• Expertise in Python and experience with deep learning frameworks (PyTorch preferred)\n• Familiarity with large-scale machine learning, particularly in the context of language models\n• Ability to balance research goals with practical engineering constraints\n• Strong problem-solving skills and a results-oriented mindset\n• Excellent communication skills and ability to work in a collaborative environment\n• Care about the societal impacts of your work\n• Work on high-performance, large-scale ML systems\n• Familiarity with GPUs, Kubernetes, and OS internals\n• Experience with language modeling using transformer architectures\n• Knowledge of reinforcement learning techniques\n• Background in large-scale ETL processes\n\nBenefits\n• Competitive compensation and benefits\n• Optional equity donation matching\n• Generous vacation and parental leave\n• Flexible working hours\n• A lovely office space in which to collaborate with colleagues\n\nCompany Overview\n• Anthropic is an AI research company that focuses on the safety and alignment of AI systems with human values. It was founded in 2021, and is headquartered in San Francisco, California, USA, with a workforce of 501-1000 employees. Its website is https://www.anthropic.com.\n\nCompany H1B Sponsorship\n• Anthropic has a track record of offering H1B sponsorships, with 105 in 2025, 13 in 2024, 3 in 2023, 4 in 2022, 1 in 2021. Please note that this does not guarantee sponsorship for this specific role.",
-    "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770422400,
-    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
-    "job_location": "Seattle, WA",
-    "job_city": "Seattle",
-    "job_state": "Washington",
-    "job_country": "US",
-    "job_latitude": 47.6061389,
-    "job_longitude": -122.33284809999999,
-    "job_benefits": [
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DikBGAAL2JRTdJHSkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 350000,
-    "job_max_salary": 850000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "Advanced degree (MS or PhD) in Computer Science, Machine Learning, or a related field",
-        "Strong software engineering skills with a proven track record of building complex systems",
-        "Familiarity with large-scale machine learning, particularly in the context of language models",
-        "Ability to balance research goals with practical engineering constraints",
-        "Strong problem-solving skills and a results-oriented mindset",
-        "Excellent communication skills and ability to work in a collaborative environment",
-        "Care about the societal impacts of your work",
-        "Work on high-performance, large-scale ML systems",
-        "Familiarity with GPUs, Kubernetes, and OS internals",
-        "Experience with language modeling using transformer architectures",
-        "Knowledge of reinforcement learning techniques",
-        "Background in large-scale ETL processes"
-      ],
-      "Benefits": [
-        "Competitive compensation and benefits",
-        "Optional equity donation matching",
-        "Generous vacation and parental leave",
-        "Flexible working hours",
-        "A lovely office space in which to collaborate with colleagues"
-      ],
-      "Responsibilities": [
-        "Conduct research and implement solutions in areas such as model architecture, algorithms, data processing, and optimizer development",
-        "Independently lead small research projects while collaborating with team members on larger initiatives",
-        "Design, run, and analyze scientific experiments to advance our understanding of large language models",
-        "Optimize and scale our training infrastructure to improve efficiency and reliability",
-        "Develop and improve dev tooling to enhance team productivity",
-        "Contribute to the entire stack, from low-level optimizations to high-level model design"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "jobright-ai-jobs-info-69165dbf6f36db06ef0558c0",
     "_source": "new_jobs"
   },
   {
@@ -1549,6 +1379,62 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "mQUtG_5bXYwvmObfAAAAAA==",
+    "job_title": "Junior Security Research Engineer",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=ec3ce4a67ca7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=ec3ce4a67ca7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A company is looking for a Junior Security Research Engineer (Remote).\n\nKey Responsibilities\n\nResearch current vulnerabilities and exploits using trusted sources and stay updated with threat intelligence\n\nWrite Nuclei templates to identify applications, misconfigured services, and vulnerable software\n\nAnalyze network traffic and write network protocol parsers and probes in Go for integration into the platform\n\nRequired Qualifications\n\nHands-on experience with common vulnerability classes and exploitation techniques\n\nFamiliarity with CVE, CWE, and CVSS\n\nExperience using vulnerability and compliance scanning tools\n\nFamiliarity with at least one programming language for task automation (e.g., Python or Go)\n\nProficiency with standard development tools and paradigms (Git, GitHub, CI / CD)",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Texas",
+    "job_city": null,
+    "job_state": "Texas",
+    "job_country": "US",
+    "job_latitude": 31.9685988,
+    "job_longitude": -99.9018131,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DmQUtG_5bXYwvmObfAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Hands-on experience with common vulnerability classes and exploitation techniques",
+        "Familiarity with CVE, CWE, and CVSS",
+        "Experience using vulnerability and compliance scanning tools",
+        "Familiarity with at least one programming language for task automation (e.g., Python or Go)",
+        "Proficiency with standard development tools and paradigms (Git, GitHub, CI / CD)"
+      ],
+      "Responsibilities": [
+        "Research current vulnerabilities and exploits using trusted sources and stay updated with threat intelligence",
+        "Write Nuclei templates to identify applications, misconfigured services, and vulnerable software",
+        "Analyze network traffic and write network protocol parsers and probes in Go for integration into the platform"
+      ]
+    },
+    "job_onet_soc": "15112200",
+    "job_onet_job_zone": "4",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "7o7xxlCBTLabnPiLAAAAAA==",
     "job_title": "RESEARCH AND DEVELOPMENT ENGINEER",
     "employer_name": "Dal-Tile Corporation",
@@ -1615,8 +1501,8 @@
     "job_latitude": 32.7766642,
     "job_longitude": -96.79698789999999,
     "job_benefits": [
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D7o7xxlCBTLabnPiLAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1661,6 +1547,85 @@
     "job_onet_soc": "19203200",
     "job_onet_job_zone": "5",
     "id": "careers-daltile-com-dallas-tx-research-and-development-engineer-0a12f5c2147746c4a950064a922e4dba-job",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "cEMMnqiGKxcMG1IYAAAAAA==",
+    "job_title": "Scientific Software Engineering (SSE) Center - Senior / Principal Research Engineer (open rank)",
+    "employer_name": "Georgia Tech",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWg2ILuC4c-6wd5O-xUoVoDVI9kxRDrwDfnwi4&s=0",
+    "employer_website": "https://gatech.edu",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=369547047428&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=369547047428&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Apply for Job Job ID 280973\n\nLocation Atlanta, Georgia\n\nFull / Part Time Full-Time\n\nRegular / Temporary Regular\n\nAdd to Favorite Jobs Email this Job\n\nAbout Us\n\nOverview\n\nGeorgia Tech prides itself on its technological resources, collaborations, high-quality student body, and its commitment to building an outstanding and diverse community of learning, discovery, and creation. We strongly encourage applicants whose values align with our institutional values, as outlined in our Strategic Plan. These values include academic excellence, diversity of thought and experience, inquiry and innovation, collaboration and community, and ethical behavior and stewardship. Georgia Tech has policies to promote a healthy work-life balance and is aware that attracting faculty may require meeting the needs of two careers.\n\nAbout Georgia Tech\n\nGeorgia Tech is a top-ranked public research university situated in the heart of Atlanta, a diverse and vibrant city with numerous economic and cultural strengths. The Institute serves more than 45,000 students through top-ranked undergraduate, graduate, and executive programs in engineering, computing, science, business, design, and liberal arts. Georgia Tech's faculty attracted more than $1.4 billion in research awards this past year in fields ranging from biomedical technology to artificial intelligence, energy, sustainability, semiconductors, neuroscience, and national security. Georgia Tech ranks among the nation's top 20 universities for research and development spending and No. 1 among institutions without a medical school.\n\nGeorgia Tech's Mission and Values\n\nGeorgia Tech's mission is to develop leaders who advance technology and improve the human condition. The Institute has nine key values that are foundational to everything we do :\n• Students are our top priority.\n• We strive for excellence.\n• We thrive on diversity.\n• We celebrate collaboration.\n• We champion innovation.\n• We safeguard freedom of inquiry and expression.\n• We nurture the wellbeing of our community.\n• We act ethically.\n• We are responsible stewards.\n\nOver the next decade, Georgia Tech will become an example of inclusive innovation, a leading technological research university of unmatched scale, relentlessly committed to serving the public good; breaking new ground in addressing the biggest local, national, and global challenges and opportunities of our time; making technology broadly accessible; and developing exceptional, principled leaders from all backgrounds ready to produce novel ideas and create solutions with real human impact.\n\nAbout the School of Computer Science at the Georgia Institute of Technology\n\nThe School of Computer Science is home to a group of faculty and researchers with breadth and strength in all aspects of the computational process. Our research is at the forefront of AI Foundations, Computer Architecture, Data Systems, Programming Languages & Software Engineering, Networking, Systems, and Theory in computer science.\n\nAbout the Scientific Software Engineering (SSE) Center at Georgia Tech's College of Computing\n\nThe Scientific Software Engineering (SSE) Center at Georgia Tech (one of the four inaugural Virtual Institute for Scientific Software centers) supports the development of better quality, more sustainable scientific software. To achieve this goal, the Center will :\n• Create custom software solutions in partnership with scientific researchers.\n• Provide guidance on state-of-the-art tools, technology, and techniques.\n• Encourage best practices in open science and the open-source software that supports it.\n• Create and support long-term scientific platforms and systems.\n\nLocation\n\nAtlanta, GA\n\nJob Summary\n\nThe School of Computer Science at Georgia Institute of Technology is seeking to hire a Research Engineer, open rank to contribute and potentially lead the school's various software projects.\n\nResponsibilities\n• Contribute to and lead one or more software projects among the ones pursued by the SSE Center\n• Design, develop, test, deploy, and maintain software systems related to center projects.\n• Interact regularly with other engineers in the center, including mentoring junior engineers and student interns.\n• Foster an comprehensive and collaborative work environment.\n• Provide regular project status reports to the Center Director and the Lead Software Engineer.\n\nRequired Qualifications\n\nThis position vacancy is an open rank announcement. Final job offer will be dependent on candidate qualifications in alignment with Research Faculty ranks as outlined in section 3.2.1 of the Georgia Tech Faculty Handbook (https : / / www.policylibrary.gatech.edu / faculty-handbook / 3.2.1-research-faculty-hiring-and-promotion-guidelines)\n\nSenior Research Engineer\n• Master's degree with seven (7) years of relevant full-time experience after completion of that degree, or\n• Master's degree with nine (9) years of relevant full-time experience after completion of a Bachelor's degree, or\n• Doctoral degree with four (4) years of relevant full-time experience after completion of a Bachelor's degree\n\nPrincipal Research Engineer\n• Master's degree with Eleven (11) years of relevant full-time experience, or\n• Doctoral degree with Seven (7) years of relevant full-time experience after completion of a Bachelor's degree\n\nPreferred Qualifications\n• Experience with modern software engineering practices and tools\n\n(e.g., CI / CD, automated testing, cloud platforms, etc.).\n• Experience with at least one statically typed programming\n\nlanguage (C++, C#, Go, Java, Rust, FORTRAN, etc.).\n• Experience with at least one dynamically typed programming\n\nlanguage (Python, JavaScript, etc.).\n• Ability and desire to work well within a team.\n• Desire to mentor and be mentored by others.\n• An understanding of scientific software.\n• Experience with open-source software.\n• Appreciation for the differences between industry and academia\n\nand how to leverage the strengths of both.\n• Ability to communicate effectively with individuals and audiences\n\nof varying technical ability.\n\nContact Information\n\nRequests for information may be directed to Dave Brownell : dave.brownell@gatech.edu\n\nUSG Core Values\n\nThe University System of Georgia is comprised of our 26 institutions of higher education and learning as well as the System Office. Our USG Statement of Core Values are Integrity, Excellence, Accountability, and Respect. These values serve as the foundation for all that we do as an organization, and each USG community member is responsible for demonstrating and upholding these standards. More details on the USG Statement of Core Values and Code of Conduct are available in USG Board Policy 8.2.18.1.2 and can be found on-line at https : / / www.usg.edu / policymanual / section8 / C224 / #p8.2.18_personnel_conduct.\n\nAdditionally, USG supports Freedom of Expression as stated in Board Policy 6.5 Freedom of Expression and Academic Freedom found on-line at https : / / www.usg.edu / policymanual / section6 / C2653.\n\nEqual Employment Opportunity\n\nThe Georgia Institute of Technology (Georgia Tech) is an Equal Employment Opportunity Employer. The University is committed to maintaining a fair and respectful environment for all. To that end, and in accordance with federal and state law, Board of Regents policy, and University policy, Georgia Tech provides equal opportunity to all faculty, staff, students, and all other members of the Georgia Tech community, including applicants for admission and / or employment, contractors, volunteers, and participants in institutional programs, activities, or services. Georgia Tech complies with all applicable laws and regulations governing equal opportunity in the workplace and in educational activities.\n\nGeorgia Tech prohibits discrimination, including discriminatory harassment, on the basis of race, ethnicity, ancestry, color, religion, sex (including pregnancy), sexual orientation, gender identity, gender expression, national origin, age, disability, genetics, or veteran status in its programs, activities, employment, and admissions. This prohibition applies to faculty, staff, students, and all other members of the Georgia Tech community, including affiliates, invitees, and guests. Further, Georgia Tech prohibits citizenship status, immigration status, and national origin discrimination in hiring, firing, and recruitment, except where such restrictions are required in order to comply with law, regulation, executive order, or Attorney General directive, or where they are required by Federal, State, or local government contract.\n\nMore information on these policies can be found here : https : / / www.usg.edu / policymanual / section6 / c2714 Board of Regents Policy Manual | University System of Georgia (usg.edu).\n\nBackground Check\n\nThe candidate of choice will be required to pass a pre-employment background screening. http : / / policylibrary.gatech.edu / employment / pre-employment-screening.",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Atlanta, GA",
+    "job_city": "Atlanta",
+    "job_state": "Georgia",
+    "job_country": "US",
+    "job_latitude": 33.7501275,
+    "job_longitude": -84.3885209,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DcEMMnqiGKxcMG1IYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Master's degree with seven (7) years of relevant full-time experience after completion of that degree, or",
+        "Master's degree with nine (9) years of relevant full-time experience after completion of a Bachelor's degree, or",
+        "Doctoral degree with four (4) years of relevant full-time experience after completion of a Bachelor's degree",
+        "Master's degree with Eleven (11) years of relevant full-time experience, or",
+        "Doctoral degree with Seven (7) years of relevant full-time experience after completion of a Bachelor's degree",
+        "(e.g., CI / CD, automated testing, cloud platforms, etc.)",
+        "Experience with at least one statically typed programming",
+        "language (C++, C#, Go, Java, Rust, FORTRAN, etc.)",
+        "Experience with at least one dynamically typed programming",
+        "language (Python, JavaScript, etc.)",
+        "Ability and desire to work well within a team",
+        "Desire to mentor and be mentored by others",
+        "An understanding of scientific software",
+        "Experience with open-source software",
+        "Appreciation for the differences between industry and academia",
+        "and how to leverage the strengths of both",
+        "Ability to communicate effectively with individuals and audiences",
+        "Background Check",
+        "The candidate of choice will be required to pass a pre-employment background screening"
+      ],
+      "Benefits": [
+        "Regular / Temporary Regular"
+      ],
+      "Responsibilities": [
+        "Create custom software solutions in partnership with scientific researchers",
+        "Provide guidance on state-of-the-art tools, technology, and techniques",
+        "Encourage best practices in open science and the open-source software that supports it",
+        "Create and support long-term scientific platforms and systems",
+        "Contribute to and lead one or more software projects among the ones pursued by the SSE Center",
+        "Design, develop, test, deploy, and maintain software systems related to center projects",
+        "Interact regularly with other engineers in the center, including mentoring junior engineers and student interns",
+        "Foster an comprehensive and collaborative work environment",
+        "Provide regular project status reports to the Center Director and the Lead Software Engineer"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-talent-com-view",
     "_source": "new_jobs"
   },
   {
@@ -1767,62 +1732,6 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "jobs-apply-vt-edu-jobs-senior-software-engineer-fully-remote-virginia-united-states",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "mQUtG_5bXYwvmObfAAAAAA==",
-    "job_title": "Junior Security Research Engineer",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=ec3ce4a67ca7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=ec3ce4a67ca7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A company is looking for a Junior Security Research Engineer (Remote).\n\nKey Responsibilities\n\nResearch current vulnerabilities and exploits using trusted sources and stay updated with threat intelligence\n\nWrite Nuclei templates to identify applications, misconfigured services, and vulnerable software\n\nAnalyze network traffic and write network protocol parsers and probes in Go for integration into the platform\n\nRequired Qualifications\n\nHands-on experience with common vulnerability classes and exploitation techniques\n\nFamiliarity with CVE, CWE, and CVSS\n\nExperience using vulnerability and compliance scanning tools\n\nFamiliarity with at least one programming language for task automation (e.g., Python or Go)\n\nProficiency with standard development tools and paradigms (Git, GitHub, CI / CD)",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Texas",
-    "job_city": null,
-    "job_state": "Texas",
-    "job_country": "US",
-    "job_latitude": 31.9685988,
-    "job_longitude": -99.9018131,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DmQUtG_5bXYwvmObfAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Hands-on experience with common vulnerability classes and exploitation techniques",
-        "Familiarity with CVE, CWE, and CVSS",
-        "Experience using vulnerability and compliance scanning tools",
-        "Familiarity with at least one programming language for task automation (e.g., Python or Go)",
-        "Proficiency with standard development tools and paradigms (Git, GitHub, CI / CD)"
-      ],
-      "Responsibilities": [
-        "Research current vulnerabilities and exploits using trusted sources and stay updated with threat intelligence",
-        "Write Nuclei templates to identify applications, misconfigured services, and vulnerable software",
-        "Analyze network traffic and write network protocol parsers and probes in Go for integration into the platform"
-      ]
-    },
-    "job_onet_soc": "15112200",
-    "job_onet_job_zone": "4",
-    "id": "www-talent-com-view",
     "_source": "new_jobs"
   },
   {
@@ -1975,113 +1884,6 @@
     "job_onet_soc": "19203200",
     "job_onet_job_zone": "5",
     "id": "careers-adobe-com-us-en-job-r160317-2026-intern-research-scientist-engineer",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "LYcN0MBfCasPMXnSAAAAAA==",
-    "job_title": "Principal Research Engineer",
-    "employer_name": "Oracle",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Ob8wBy30IQeYJfM4qn_PksuLPYaC4sUtJLRK&s=0",
-    "employer_website": "https://www.oracle.com",
-    "job_publisher": "| USNLX Veterans Jobs - National Labor Exchange",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://veterans.usnlx.com/helena-mt/principal-research-engineer/57E7A830A5FB491F9E07A335DA848CC9/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "| USNLX Veterans Jobs - National Labor Exchange",
-        "apply_link": "https://veterans.usnlx.com/helena-mt/principal-research-engineer/57E7A830A5FB491F9E07A335DA848CC9/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/scientific-research?id=2345584977&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-mt-helena-principal-research-engineer-montana-staffing-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Job Description\n\nAt Oracle Analytics, we are building the next generation of enterprise AI products to enable intelligent data analysis at scale. Leveraging our foundational strengths in data management and enterprise software applications, we are advancing our platforms and applications by deeply embedding cutting-edge agentic AI, generative AI, and innovations in machine learning and optimization.\n\nOur AI and Applied Science team is looking for a Principal Research Engineer to work on foundational technology for our AI Data platform and intelligent applications. In this role you will bridge core AI development and production implementation and take responsibility for building codebases and infrastructure for highly visibly AI products from the ground up. You will partner with teams of applied scientists and production engineers to prototype AI solutions, optimize code for performance and speed, and deploy your solutions into products with a global customer reach.\n\nResponsibilities\n\nThe role requires a deep technical understanding of LLM architectures, training, and inference. Hands-on experience in LLM adaptation, model hosting, and inference\n\nefficiency optimization are a must. Experience in foundation models for structured data, tabular representation learning, graph-based learning, or time series modeling is a strong plus. We are looking for candidates who flourish in a fast-paced startup setting, excel at translating ambiguity into clarity, and value end-to-end ownership.\n\nResponsibilities:\n\n• Collaborate with a applied scientists and engineers to transition science solutions into production codebases.\n\n• Write high quality production-ready code; refactor, optimize and scale existing code.\n\n• Identify new opportunities for engineering improvements; actively contribute to improving existing infrastructure and development practices.\n\n• Maintain a deep understanding of industry trends and developments in engineering for AI.\n\nQualifications and Experience:\n\n• MSc or PhD in Computer Science, Mathematics, Statistics, Engineering, or a related field and a minimum of 5 years of work experience in AI/Generative AI/Machine Learning in an industry setting\n\n• Hands-on development experience and a history of transitioning science solutions into successfully deployed products\n\n• Deep understanding of state-of-the-art AI models for structured and unstructured data and their engineering implementations\n\n• Excellent problem-solving and analytical skills\n\n• Strong communication skills and a flexible, collaborative mindset.\n\n• Excellent coding skills (Python, SQL, C/C++); familiarity with vLLM, Tensor-RT, DeepSpeed, and similar frameworks.\n\nCareer Level - IC4\n\nDisclaimer:\n\nCertain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates.\n\nRange and benefit information provided in this posting are specific to the stated locations only\n\nUS: Hiring Range in USD from: $96,800 to $223,400 per annum. May be eligible for bonus and equity.\n\nOracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle’s differing products, industries and lines of business.\n\nCandidates are typically placed into the range based on the preceding factors as well as internal peer equity.\n\nOracle US offers a comprehensive benefits package which includes the following:\n• Medical, dental, and vision insurance, including expert medical opinion\n• Short term disability and long term disability\n• Life insurance and AD&D\n• Supplemental life insurance (Employee/Spouse/Child)\n• Health care and dependent care Flexible Spending Accounts\n• Pre-tax commuter and parking benefits\n• 401(k) Savings and Investment Plan with company match\n• Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position. Accrued Vacation is provided to all other employees eligible for vacation benefits. For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment. Vacation accrual is prorated for employees working between 20 and 34 hours per week. Employees working fewer than 20 hours per week are not eligible for vacation.\n• 11 paid holidays\n• Paid sick leave: 72 hours of paid sick leave upon date of hire. Refreshes each calendar year. Unused balance will carry over each year up to a maximum cap of 112 hours.\n• Paid parental leave\n• Adoption assistance\n• Employee Stock Purchase Plan\n• Financial planning and group legal\n• Voluntary benefits including auto, homeowner and pet insurance\n\nThe role will generally accept applications for at least three calendar days from the posting date or as long as the job remains posted.\n\nCareer Level - IC4\n\nAbout Us\n\nOnly Oracle brings together the data, infrastructure, applications, and expertise to power everything from industry innovations to life-saving care. And with AI embedded across our products and services, we help customers turn that promise into a better future for all. Discover your potential at a company leading the way in AI and cloud solutions that impact billions of lives.\n\nTrue innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.\n\nWe’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing accommodation-request_mb@oracle.com or by calling 1-888-404-2494 in the United States.\n\nOracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.",
-    "job_is_remote": false,
-    "job_posted_at": "8 days ago",
-    "job_posted_at_timestamp": 1770336000,
-    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
-    "job_location": "Helena, MT",
-    "job_city": "Helena",
-    "job_state": "Montana",
-    "job_country": "US",
-    "job_latitude": 46.5891452,
-    "job_longitude": -112.0391057,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLYcN0MBfCasPMXnSAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Hands-on experience in LLM adaptation, model hosting, and inference",
-        "Experience in foundation models for structured data, tabular representation learning, graph-based learning, or time series modeling is a strong plus",
-        "MSc or PhD in Computer Science, Mathematics, Statistics, Engineering, or a related field and a minimum of 5 years of work experience in AI/Generative AI/Machine Learning in an industry setting",
-        "Hands-on development experience and a history of transitioning science solutions into successfully deployed products",
-        "Deep understanding of state-of-the-art AI models for structured and unstructured data and their engineering implementations",
-        "Excellent problem-solving and analytical skills",
-        "Strong communication skills and a flexible, collaborative mindset",
-        "Excellent coding skills (Python, SQL, C/C++); familiarity with vLLM, Tensor-RT, DeepSpeed, and similar frameworks",
-        "Career Level - IC4",
-        "Certain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates"
-      ],
-      "Benefits": [
-        "US: Hiring Range in USD from: $96,800 to $223,400 per annum",
-        "May be eligible for bonus and equity",
-        "Oracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle’s differing products, industries and lines of business",
-        "Oracle US offers a comprehensive benefits package which includes the following:",
-        "Medical, dental, and vision insurance, including expert medical opinion",
-        "Short term disability and long term disability",
-        "Life insurance and AD&D",
-        "Supplemental life insurance (Employee/Spouse/Child)",
-        "Health care and dependent care Flexible Spending Accounts",
-        "Pre-tax commuter and parking benefits",
-        "401(k) Savings and Investment Plan with company match",
-        "Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position",
-        "Accrued Vacation is provided to all other employees eligible for vacation benefits",
-        "For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment",
-        "Vacation accrual is prorated for employees working between 20 and 34 hours per week",
-        "Employees working fewer than 20 hours per week are not eligible for vacation",
-        "11 paid holidays",
-        "Paid sick leave: 72 hours of paid sick leave upon date of hire",
-        "Refreshes each calendar year",
-        "Unused balance will carry over each year up to a maximum cap of 112 hours",
-        "Paid parental leave",
-        "Adoption assistance",
-        "Employee Stock Purchase Plan",
-        "Financial planning and group legal",
-        "Voluntary benefits including auto, homeowner and pet insurance",
-        "That’s why we’re committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options"
-      ],
-      "Responsibilities": [
-        "In this role you will bridge core AI development and production implementation and take responsibility for building codebases and infrastructure for highly visibly AI products from the ground up",
-        "You will partner with teams of applied scientists and production engineers to prototype AI solutions, optimize code for performance and speed, and deploy your solutions into products with a global customer reach",
-        "The role requires a deep technical understanding of LLM architectures, training, and inference",
-        "Collaborate with a applied scientists and engineers to transition science solutions into production codebases",
-        "Write high quality production-ready code; refactor, optimize and scale existing code",
-        "Identify new opportunities for engineering improvements; actively contribute to improving existing infrastructure and development practices",
-        "Maintain a deep understanding of industry trends and developments in engineering for AI"
-      ]
-    },
-    "job_onet_soc": "19203200",
-    "job_onet_job_zone": "5",
-    "id": "veterans-usnlx-com-helena-mt-principal-research-engineer-57e7a830a5fb491f9e07a335da848cc9-job",
     "_source": "new_jobs"
   }
 ]
