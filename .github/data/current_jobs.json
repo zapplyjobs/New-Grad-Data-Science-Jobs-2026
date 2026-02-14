@@ -185,9 +185,9 @@
     "job_latitude": 37.33874,
     "job_longitude": -121.88525249999999,
     "job_benefits": [
-      "dental_coverage",
+      "paid_time_off",
       "health_insurance",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFbhc1DunhK0CToKgAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -237,110 +237,6 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "careers-cisco-com-global-en-job-ciscisglobal2000461externalenglobal-ai-machine-learning-engineer-ii-intern-united-states",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "uUVAEihN1zerlCx1AAAAAA==",
-    "job_title": "Internship - Machine Learning",
-    "employer_name": "Novo Nordisk",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLTottDm7lFhasFLMXrIIdQiC4ifnkQT9Y3B6W&s=0",
-    "employer_website": "https://www.novonordisk.com",
-    "job_publisher": "Indeed",
-    "job_employment_type": "Full-time and Internship",
-    "job_employment_types": [
-      "FULLTIME",
-      "INTERN"
-    ],
-    "job_apply_link": "https://www.indeed.com/viewjob?jk=3676967108b32f75&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=3676967108b32f75&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/vp-commercial-operations-norton-ma_a1ad08c6-dfd4-4c4e-939b-16dd13cbdb7b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/internship-machine-learning-novo-nordisk-JV_IC1154599_KO0,27_KE28,40.htm?jl=1010029088241&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BioSpace",
-        "apply_link": "https://jobs.biospace.com/job/3030934/internship-machine-learning?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/-HbIz6RBV1hJ7xlxx0_-qtzYS5WJg_qIX3hTS0ldSG4SKISFCzaySA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Lensa",
-        "apply_link": "https://lensa.com/job-v1/novo-nordisk/lexington-ma/machine-learning-intern/19f8fc8104b22501882f128ff0d9001c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/algorithm-development?id=2459355919&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=4b5622fe9963&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Internship - Machine Learning\n\nFacility: Education\n\nLocation: Lexington, MA, US\n\nAbout the Department\n\nOur Research & Development organization brings together the best minds in life science innovation. The teams located in facilities in Lexington, Watertown, Cambridge and Plainsboro reflect the full R&D continuum, from early research through late-stage clinical development. Here, we are building for the future, creating a distinct R&D community based on collaboration, partnerships, and cutting-edge research across multiple modalities and therapeutic areas. We recognize that improving human health starts here and that patients rely on us. Our R&D hub merges biotech speed and agility with large pharmaceutical company quality, resources, and stability, uniting the best of both worlds to develop new medicines for patients.\n\nThe Program\n\nAt Novo Nordisk, interns will have the opportunity to work closely with experienced industry professionals and gain valuable, hands-on, full-time work experience. For ten working weeks, interns will be immersed in the environment of a global pharmaceutical company and contribute to the line of business by providing sustainable and meaningful project work. Our internship program also includes instructor led trainings, a leadership engagement series, and a guided mentorship program to offer professional and personal development.\n\nProgram Start: June 1st, 2026\n\nProgram End: August 14th, 2026\n\nScope of Position\n\nThe intern will work on the development and implementation of novel in house peptide and minibinder design platform that is powered by SOTA structure prediction models and enhanced sampling methods. The objective of this project are manifold:\n• Integrate other enhanced sampling that are currently not in the pipeline such as Monte Carlo tree search\n• Integrate various machine learning property predictors into the pipeline\n• Benchmark NovoBind on diverse systems and improve the pipelines scope\n• Implement reinforcement learning to bias the generation of designs. This project has applicability across digital chemistry and design tasks (both de novo design and confidence maturation) and across modalities (including peptide, minibinder, and antibody discovery). The expected outcome is a product that is effective and accessible with broad acceptance within our drug discovery projects in addition lead to a publication.\n\nThe intern will learn about state of the art structure predictors and metric, computational sequence-based binder design, reinforcement learning, drug design with computational chemistry across a broad set of modalities at Novo Nordisk including peptides, minibinders, and antibodies.\n\nPhysical Requirements\n\n0% overnight travel required.\n\nQualifications\n• Must be a current student enrolled at an accredited college or university pursuing at least a bachelor’s degree\n• An in progress doctoral degree in Computer Science, Machine Learning, Artificial Intelligence, Computational Chemistry or a related discipline preferred\n• Strong academic record with a preferred cumulative GPA of 3.0 or higher\n• Conscientious self-starter with good organizational skills, project management skills and attention to detail\n• Ability to balance multiple projects and priorities, must be able to multi-task\n• Strong interpersonal communication and ability to collaborate with teams; must effectively operate independently, across functional lines, and with internal customers\n• Demonstrated personal initiative, self-motivation, flexibility, adaptability and willingness to learn\n• Proficient in Microsoft Office Tools including Word, Excel, PowerPoint, etc.\n\nAt this time, Novo Nordisk is not currently hiring individuals for this position who now or in the future would require sponsorship for employment visa status.\n\nThe base compensation range for this position is $52,000 to $89,000 on an hourly basis. Due to the temporary nature of this program, this position is not eligible to participate in any of the Company's benefit plans and will not be entitled to any paid time off unless otherwise required by applicable law.\n\nWe commit to an inclusive recruitment process and equality of opportunity for all our job applicants.\n\nAt Novo Nordisk, we're not chasing quick fixes – we're creating lasting change for long-term health. For over 100 years, we've been driven by a single purpose: to defeat serious chronic diseases and help millions of people live healthier lives. This dedication fuels our constant curiosity and inspires us to push the boundaries of what's possible in healthcare. We embrace diverse perspectives, seek out bold ideas, and build partnerships rooted in shared purpose. Together, we're making healthcare more accessible, treating and defeating diseases, and pioneering solutions that create change spanning generations. When you join us, you become part of something bigger – a legacy of impact that reaches far beyond today.\n\nNovo Nordisk is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, gender identity, sexual orientation, national origin, disability, protected veteran status or any other characteristic protected by local, state or federal laws, rules or regulations.\n\nIf you are interested in applying to Novo Nordisk and need special assistance or an accommodation to apply, please call us at 1-855-411-5290. This contact is for accommodation requests only and cannot be used to inquire about the status of applications.",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Massachusetts",
-    "job_city": null,
-    "job_state": "Massachusetts",
-    "job_country": "US",
-    "job_latitude": 42.4072107,
-    "job_longitude": -71.3824374,
-    "job_benefits": [
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DuUVAEihN1zerlCx1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 52000,
-    "job_max_salary": 89000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "0% overnight travel required",
-        "Must be a current student enrolled at an accredited college or university pursuing at least a bachelor’s degree",
-        "Conscientious self-starter with good organizational skills, project management skills and attention to detail",
-        "Ability to balance multiple projects and priorities, must be able to multi-task",
-        "Strong interpersonal communication and ability to collaborate with teams; must effectively operate independently, across functional lines, and with internal customers",
-        "Demonstrated personal initiative, self-motivation, flexibility, adaptability and willingness to learn",
-        "Proficient in Microsoft Office Tools including Word, Excel, PowerPoint, etc",
-        "At this time, Novo Nordisk is not currently hiring individuals for this position who now or in the future would require sponsorship for employment visa status"
-      ],
-      "Benefits": [
-        "The base compensation range for this position is $52,000 to $89,000 on an hourly basis",
-        "Due to the temporary nature of this program, this position is not eligible to participate in any of the Company's benefit plans and will not be entitled to any paid time off unless otherwise required by applicable law"
-      ],
-      "Responsibilities": [
-        "The intern will work on the development and implementation of novel in house peptide and minibinder design platform that is powered by SOTA structure prediction models and enhanced sampling methods",
-        "Integrate other enhanced sampling that are currently not in the pipeline such as Monte Carlo tree search",
-        "Integrate various machine learning property predictors into the pipeline",
-        "Benchmark NovoBind on diverse systems and improve the pipelines scope",
-        "Implement reinforcement learning to bias the generation of designs",
-        "This project has applicability across digital chemistry and design tasks (both de novo design and confidence maturation) and across modalities (including peptide, minibinder, and antibody discovery)",
-        "The intern will learn about state of the art structure predictors and metric, computational sequence-based binder design, reinforcement learning, drug design with computational chemistry across a broad set of modalities at Novo Nordisk including peptides, minibinders, and antibodies"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-indeed-com-viewjob",
     "_source": "new_jobs"
   },
   {
@@ -520,6 +416,11 @@
         "is_direct": false
       },
       {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/2026-ai-ml-intern-machine-learning-engineer-intern-adobe-JV_IC1147436_KO0,50_KE51,56.htm?jl=1009938923387&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
         "publisher": "ZipRecruiter",
         "apply_link": "https://www.ziprecruiter.com/c/Adobe/Job/2026-AI-ML-Intern-Machine-Learning-Engineer-Intern/-in-San-Jose,CA?jid=bf8eab120bf0cd68&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
@@ -542,11 +443,6 @@
       {
         "publisher": "Teal",
         "apply_link": "https://www.tealhq.com/job/2026-ai-ml-intern-machine-learning-engineer_7ea1a4339c3c5435ffe1a624c46dedc37a8ee?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/68ce5583846f0b04af678d25?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
@@ -656,124 +552,93 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "pmbIsnRwIg_j5jZNAAAAAA==",
-    "job_title": "AI Operations Engineer I (Intern) - United States",
-    "employer_name": "Cisco",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgthNpO3rocjBOmZqIhYrkphz9zbGG6DQ5B9CQ&s=0",
-    "employer_website": "https://www.cisco.com",
-    "job_publisher": "Cisco Careers",
-    "job_employment_type": "Full-time",
+    "job_id": "2p4Wc9jy633bpNVjAAAAAA==",
+    "job_title": "2026 Summer AI Engineering Internship",
+    "employer_name": "TMobile",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzd6CH0DWNKCRpM2yb_swRBNcHSfOKYTPaoJeP&s=0",
+    "employer_website": "https://www.t-mobile.com",
+    "job_publisher": "T-Mobile Career",
+    "job_employment_type": "Full-time and Internship",
     "job_employment_types": [
-      "FULLTIME"
+      "FULLTIME",
+      "INTERN"
     ],
-    "job_apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2000463EXTERNALENGLOBAL/AI-Operations-Engineer-I-Intern-United-States?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
+    "job_apply_link": "https://careers.t-mobile.com/2026-summer-ai-engineering-internship/job/BF70B1A796376B118ABFE7252D5C64BC?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
     "apply_options": [
       {
-        "publisher": "Cisco Careers",
-        "apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2000463EXTERNALENGLOBAL/AI-Operations-Engineer-I-Intern-United-States?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=a64bd868594a48a6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "CareerOneStop",
-        "apply_link": "https://www.careeronestop.org/Toolkit/Jobs/find-jobs-details.aspx?keyword=Web%2Band%2BDigital%2BInterface%2BDesigners&location=California&radius=25&lang=en&fc=1&jvid=3530aad5e723403b88a8b1d0c9d64a688003&detailpage=true&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Cisco-Systems,-Inc./Job/AI-Operations-Engineer-I-(Intern)-United-States/-in-San-Jose,CA?jid=6df83a796f28cd8a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "T-Mobile Career",
+        "apply_link": "https://careers.t-mobile.com/2026-summer-ai-engineering-internship/job/BF70B1A796376B118ABFE7252D5C64BC?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
       },
       {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/senior-software-engineer-san-jose-cisco-systems-inc-c58ddc560df80fae72e6514359a1976d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "LocalJobs.com",
-        "apply_link": "https://www.localjobs.com/job/san-jose-ca-hardware-engineer-i-intern-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/2026-summer-ai-engineering-intern_7ea1a447c6c39e18b86155f336ae822e3ffd3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Purpose Jobs",
-        "apply_link": "https://www.purpose.jobs/discover/companies/duo-security/jobs/66508559-software-engineer-i-intern-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/hardware-engineer-i-intern-united-states-cisco-systems-JV_IC1147436_KO0,40_KE41,54.htm?jl=1009959867097&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/caa5865288369a383fa6e7c272e870e2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Please note this posting is to advertise potential job opportunities. This exact role may not be open today but could open in the near future. When you apply, a Cisco representative may contact you directly if a relevant position opens.\n\nApplications are accepted until further notice.\n\nMeet the team\n\nJoin an engineering group that thrives with building the next wave of AI and machine learning solutions! Work side-by-side with authorities in platform, security, release engineering, and support as we solve real technical challenges and deliver products that make a difference.\n\nYour impact\n\nDive into the fast-paced world of AI Ops, where your work will automate and streamline IT operations in ways that truly matter. Build smart solutions that cut down on repetitive tasks, speed up incident response, and spot problems before they grow. Get hands-on with network performance analysis and set up monitoring tools that keep everything running smoothly—because every second counts!\n\nBring your creativity and team spirit as you partner with data scientists, software engineers, and infrastructure pros to weave AI Ops into day-to-day workflows. Whether you’re building machine learning pipelines, rolling out CI/CD automations, or jumping in to solve and optimize, your efforts will keep systems sharp, resilient, and ready for anything. There’s never a dull moment—your work helps ensure our technology just works, every time!\n\nMinimum Qualifications\n• Currently enrolled in an undergraduate degree program in a relevant field, such as Computer Science, Electrical Engineering, Data Science, Machine Learning, Artificial Intelligence, Statistics, Mathematics, Software Engineering, or a related discipline.\n• Proficiency in scripting languages such as Python or Bash, evidenced through a coding challenge, technical assessment, or submission of automation scripts/workflow samples.\n• Able to legally live and work in the country for which you’re applying, without visa support or sponsorship.\n\nPreferred Qualifications\n• Familiarity with systems and network administration concepts.\n• Experience with tools such as GitHub Actions and Kubernetes for automation and deployment.\n• Ability to support AI production environments and manage sandbox environments.\n• Experience working with AWS or other cloud platforms.\n• Understanding of DevOps practices, including CI/CD pipeline creation and management.\n\nProductIntern26\n\nWhy Cisco?\n\nAt Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\n\nWe are Cisco, and our power starts with you.\n\nMessage to applicants applying to work in the U.S. and/or Canada:\n\nIndividual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process.\n\nU.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks. Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time.\n\nU.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:\n• 10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees\n• 1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco\n• Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees\n• Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)\n• 80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next\n• Additional paid time away may be requested to deal with critical or emergency issues for family members\n• Optional 10 paid days per full calendar year to volunteer\n\nFor non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies.\n\nEmployees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows:\n• .75% of incentive target for each 1% of revenue attainment up to 50% of quota;\n• 1.5% of incentive target for each 1% of attainment between 50% and 75%;\n• 1% of incentive target for each 1% of attainment between 75% and 100%; and\n• Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.\n\nFor non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.\n\nThe applicable full salary ranges for this position, by specific state, are listed below:\n\nNew York City Metro Area:\n$44,000.00 - $185,000.00\n\nNon-Metro New York state & Washington state:\n$44,000.00 - $185,000.00\n• For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined.\n• * Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements.",
-    "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770422400,
-    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
-    "job_location": "San Jose, CA",
-    "job_city": "San Jose",
-    "job_state": "California",
+    "job_description": "T-Mobile is synonymous with innovation–and you could be part of the team that disrupted an entire industry! We reinvented customer service, brought real 5G to the nation, and now we’re shaping the future of technology in wireless and beyond. Our work is as exciting as it is rewarding, so consider the career opportunity below as your invitation to grow with us, make big things happen with us, above all, #BEYOU with us. Together, we won’t stop!\n\nGet hands-on experience, training—and a leg up on a bright future.\n\nLearn. Achieve. Build a career.\n\nT-Mobile is revolutionizing the wireless industry for millions of customers nationwide. Working here means rolling up your sleeves and redefining the status quo with a team that has your back every step of the way!\n\nThis is a 11-week paid learning experience during which you'll be able to connect and network with other interns and leaders within the company. We invite you to come innovate with mentors who will challenge you to develop meaningful skills. you'll contribute to creativity and outstanding ideas, while working alongside T-Mobile employees. We'll give you hand-on projects and the chance to create an immediate impact.\n\nWhat It's Like:\n\nWant to build AI that actually matters? Join T-Mobile's AI Agents team this summer and work on real products that customers use every day. You'll design and build intelligent agents for customer support and sales, tackle actual business problems with real data, and see the direct impact of what you create. You'll own initiatives from start to finish and help shape how millions of customers interact with T-Mobile.\n\nWhat You'll Do:\n\nYou will build and iterate on 1-2 AI Agents in T-Mobile's IntentCX program. You will build across modalities (chat and voice) using OpenAI's chat and realtime voice models. You will focus on either customer service, helping to answer questions and integrate customer data, OR on how T-Mobile sells its products. You will have a direct impact to hundreds of thousands of customer interactions every day!\n\nResponsibilities:\n\n- Build and Iterate on AI Agent(s) which either improve T-Mobile's customer support or sales functions\n- Integrate T-Mobile APIs into the context/prompt of your agent\n- Integrate your AI Agent into IntentCX's multi-agent framework\n- Integrate your AI Agent(s) with T-Mobile's T-Life app, website, or customer support phone number\n\nWhat It Takes:\n\n- Coding experience (Python is usually key for AI work)\n- Understanding of how APIs work\n- Familiarity with data analysis or machine learning basics\n- Comfortable working with large datasets\n- Problem-solving mindset: you need to figure out what customers actually need, not just build cool tech\n- Communication skills to explain technical work to non-technical stakeholders\n- Ability to work cross-functionally with product, engineering, and business teams\n- Comfortable with ambiguity: AI projects rarely have clear-cut answers\n- Experience with LLMs, prompt engineering, or chatbot frameworks\n• At least 18 years of age\n• Legally authorized to work in the United States\n• High School Diploma or GED\n• Must be actively enrolled in a degree program or graduated with the last year\n• Employees of T-Mobile or Metro by T-Mobile are ineligible for Internship\n• Employers does not sponsor work visas for this position. Note that this also applies to individuals who are students of F-1 status who desire sponsorship after they complete their education.\n• Relocation reimbursement may be provided to program participants who reside more than 50 miles from the internship location.\n\nIntern wages range from $26/hour to $47/hour.\n• The successful candidate’s actual pay will be based on experience/location.\n\nNever stop growing!\nAs part of the T-Mobile team, you know the Un-carrier doesn’t have a corporate ladder–it’s more like a jungle gym of possibilities! We love helping our employees grow in their careers, because it’s that shared drive to aim high that drives our business and our culture forward. By applying for this career opportunity, you’re living our values while investing in your career growth–and we applaud it. You’re unstoppable!\n\nT-Mobile USA, Inc. is an Equal Opportunity Employer. All decisions concerning the employment relationship will be made without regard to age, race, ethnicity, color, religion, creed, sex, sexual orientation, gender identity or expression, national origin, religious affiliation, marital status, citizenship status, veteran status, the presence of any physical or mental disability, or any other status or characteristic protected by federal, state, or local law. Discrimination, retaliation or harassment based upon any of these factors is wholly inconsistent with how we do business and will not be tolerated.\n\nTalent comes in all forms at the Un-carrier. If you are an individual with a disability and need reasonable accommodation at any point in the application or interview process, please let us know by emailing ApplicantAccommodation@t-mobile.com or calling 1-844-873-9500. Please note, this contact channel is not a means to apply for or inquire about a position and we are unable to respond to non-accommodation related requests.",
+    "job_is_remote": true,
+    "job_posted_at": "10 days ago",
+    "job_posted_at_timestamp": 1770163200,
+    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
+    "job_location": "Bellevue, WA",
+    "job_city": "Bellevue",
+    "job_state": "Washington",
     "job_country": "US",
-    "job_latitude": 37.33874,
-    "job_longitude": -121.88525249999999,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DpmbIsnRwIg_j5jZNAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_latitude": 47.6101497,
+    "job_longitude": -122.20151589999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D2p4Wc9jy633bpNVjAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Currently enrolled in an undergraduate degree program in a relevant field, such as Computer Science, Electrical Engineering, Data Science, Machine Learning, Artificial Intelligence, Statistics, Mathematics, Software Engineering, or a related discipline",
-        "Proficiency in scripting languages such as Python or Bash, evidenced through a coding challenge, technical assessment, or submission of automation scripts/workflow samples",
-        "Able to legally live and work in the country for which you’re applying, without visa support or sponsorship"
+        "Coding experience (Python is usually key for AI work)",
+        "Understanding of how APIs work",
+        "Familiarity with data analysis or machine learning basics",
+        "Comfortable working with large datasets",
+        "Problem-solving mindset: you need to figure out what customers actually need, not just build cool tech",
+        "Communication skills to explain technical work to non-technical stakeholders",
+        "Ability to work cross-functionally with product, engineering, and business teams",
+        "Comfortable with ambiguity: AI projects rarely have clear-cut answers",
+        "Experience with LLMs, prompt engineering, or chatbot frameworks",
+        "At least 18 years of age",
+        "Legally authorized to work in the United States",
+        "High School Diploma or GED",
+        "Must be actively enrolled in a degree program or graduated with the last year",
+        "Employees of T-Mobile or Metro by T-Mobile are ineligible for Internship"
       ],
       "Benefits": [
-        "The full salary range for certain locations is listed below",
-        "For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process",
-        "U.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance",
-        "Please see the Cisco careers site to discover more benefits and perks",
-        "Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time",
-        "U.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:",
-        "10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees",
-        "1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco",
-        "Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees",
-        "Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)",
-        "80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next",
-        "Additional paid time away may be requested to deal with critical or emergency issues for family members",
-        "Optional 10 paid days per full calendar year to volunteer",
-        "For non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies",
-        "Employees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan",
-        "For quota-based incentive pay, Cisco typically pays as follows:",
-        ".75% of incentive target for each 1% of revenue attainment up to 50% of quota;",
-        "1.5% of incentive target for each 1% of attainment between 50% and 75%;",
-        "1% of incentive target for each 1% of attainment between 75% and 100%; and",
-        "Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation",
-        "For non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target",
-        "Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid",
-        "For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined",
-        "Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements"
+        "Relocation reimbursement may be provided to program participants who reside more than 50 miles from the internship location",
+        "Intern wages range from $26/hour to $47/hour",
+        "The successful candidate’s actual pay will be based on experience/location"
       ],
       "Responsibilities": [
-        "Dive into the fast-paced world of AI Ops, where your work will automate and streamline IT operations in ways that truly matter",
-        "Build smart solutions that cut down on repetitive tasks, speed up incident response, and spot problems before they grow",
-        "Get hands-on with network performance analysis and set up monitoring tools that keep everything running smoothly—because every second counts!",
-        "Bring your creativity and team spirit as you partner with data scientists, software engineers, and infrastructure pros to weave AI Ops into day-to-day workflows",
-        "Whether you’re building machine learning pipelines, rolling out CI/CD automations, or jumping in to solve and optimize, your efforts will keep systems sharp, resilient, and ready for anything"
+        "you'll contribute to creativity and outstanding ideas, while working alongside T-Mobile employees",
+        "Join T-Mobile's AI Agents team this summer and work on real products that customers use every day",
+        "You'll design and build intelligent agents for customer support and sales, tackle actual business problems with real data, and see the direct impact of what you create",
+        "You'll own initiatives from start to finish and help shape how millions of customers interact with T-Mobile",
+        "You will build and iterate on 1-2 AI Agents in T-Mobile's IntentCX program",
+        "You will build across modalities (chat and voice) using OpenAI's chat and realtime voice models",
+        "You will focus on either customer service, helping to answer questions and integrate customer data, OR on how T-Mobile sells its products",
+        "You will have a direct impact to hundreds of thousands of customer interactions every day!",
+        "Build and Iterate on AI Agent(s) which either improve T-Mobile's customer support or sales functions",
+        "Integrate T-Mobile APIs into the context/prompt of your agent",
+        "Integrate your AI Agent into IntentCX's multi-agent framework",
+        "Integrate your AI Agent(s) with T-Mobile's T-Life app, website, or customer support phone number"
       ]
     },
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
-    "id": "careers-cisco-com-global-en-job-ciscisglobal2000463externalenglobal-ai-operations-engineer-i-intern-united-states",
+    "id": "careers-t-mobile-com-2026-summer-ai-engineering-internship-job-bf70b1a796376b118abfe7252d5c64bc",
     "_source": "new_jobs"
   },
   {
@@ -890,11 +755,6 @@
         "is_direct": false
       },
       {
-        "publisher": "OfferPilot",
-        "apply_link": "https://offerpilotai.com/job/chubb-ai-engineering-intern-2fsj1u0kh8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
         "publisher": "Adzuna",
         "apply_link": "https://www.adzuna.com/details/5627969726?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
@@ -902,6 +762,11 @@
       {
         "publisher": "BeBee",
         "apply_link": "https://us.bebee.com/job/373b39545bee36627790a8c91f0029cd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-new-jersey-ai-engineering-intern-chubb-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
@@ -952,82 +817,64 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "FD6TYTWAnJloyVeWAAAAAA==",
-    "job_title": "2026 Summer AI Engineering Internship",
-    "employer_name": "T-Mobile",
-    "employer_logo": null,
-    "employer_website": "https://www.t-mobile.com",
-    "job_publisher": "Dice",
-    "job_employment_type": "Full-time",
+    "job_id": "nq1GVLmfU86jkPSzAAAAAA==",
+    "job_title": "NLP/Machine Learning Intern",
+    "employer_name": "Wisdom AI",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlUAceFHgIfhipPV6_RbZ6WIybNwM7PqpXA51y&s=0",
+    "employer_website": "https://www.wisdom.ai",
+    "job_publisher": "BeBee",
+    "job_employment_type": "Internship",
     "job_employment_types": [
-      "FULLTIME"
+      "INTERN"
     ],
-    "job_apply_link": "https://www.dice.com/job-detail/2f8e3f3d-22a6-4f31-b8cd-37538d8c1ae3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://us.bebee.com/job/a9a877d975cf7bb031f2f2fa32a8e727?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Dice",
-        "apply_link": "https://www.dice.com/job-detail/2f8e3f3d-22a6-4f31-b8cd-37538d8c1ae3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/a9a877d975cf7bb031f2f2fa32a8e727?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-ca-san-mateo-nlp-machine-learning-intern-wisdom-ai-hiring-now-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "T-Mobile is synonymous with innovation-and you could be part of the team that disrupted an entire industry! We reinvented customer service, brought real 5G to the nation, and now we're shaping the future of technology in wireless and beyond. Our work is as exciting as it is rewarding, so consider the career opportunity below as your invitation to grow with us, make big things happen with us, above all, #BEYOU with us. Together, we won't stop!\n\nGet hands-on experience, training-and a leg up on a bright future.\n\nLearn. Achieve. Build a career.\n\nT-Mobile is revolutionizing the wireless industry for millions of customers nationwide. Working here means rolling up your sleeves and redefining the status quo with a team that has your back every step of the way!\n\nThis is a 11-week paid learning experience during which you'll be able to connect and network with other interns and leaders within the company. We invite you to come innovate with mentors who will challenge you to develop meaningful skills. you'll contribute to creativity and outstanding ideas, while working alongside T-Mobile employees. We'll give you hand-on projects and the chance to create an immediate impact.\n\nWhat It's Like:\n\nWant to build AI that actually matters? Join T-Mobile's AI Agents team this summer and work on real products that customers use every day. You'll design and build intelligent agents for customer support and sales, tackle actual business problems with real data, and see the direct impact of what you create. You'll own initiatives from start to finish and help shape how millions of customers interact with T-Mobile.\n\nWhat You'll Do:\n\nYou will build and iterate on 1-2 AI Agents in T-Mobile's IntentCX program. You will build across modalities (chat and voice) using OpenAI's chat and realtime voice models. You will focus on either customer service, helping to answer questions and integrate customer data, OR on how T-Mobile sells its products. You will have a direct impact to hundreds of thousands of customer interactions every day!\n\nResponsibilities:\n\n- Build and Iterate on AI Agent(s) which either improve T-Mobile's customer support or sales functions\n- Integrate T-Mobile APIs into the context/prompt of your agent\n- Integrate your AI Agent into IntentCX's multi-agent framework\n- Integrate your AI Agent(s) with T-Mobile's T-Life app, website, or customer support phone number\n\nWhat It Takes:\n\n- Coding experience (Python is usually key for AI work)\n- Understanding of how APIs work\n- Familiarity with data analysis or machine learning basics\n- Comfortable working with large datasets\n- Problem-solving mindset: you need to figure out what customers actually need, not just build cool tech\n- Communication skills to explain technical work to non-technical stakeholders\n- Ability to work cross-functionally with product, engineering, and business teams\n- Comfortable with ambiguity: AI projects rarely have clear-cut answers\n- Experience with LLMs, prompt engineering, or chatbot frameworks\n• At least 18 years of age\n• Legally authorized to work in the United States\n• High School Diploma or GED\n• Must be actively enrolled in a degree program or graduated with the last year\n• Employees of T-Mobile or Metro by T-Mobile are ineligible for Internship\n• Employers does not sponsor work visas for this position. Note that this also applies to individuals who are students of F-1 status who desire sponsorship after they complete their education.\n• Relocation reimbursement may be provided to program participants who reside more than 50 miles from the internship location.\n\nIntern wages range from $26/hour to $47/hour.\n• The successful candidate's actual pay will be based on experience/location.\n\nNever stop growing!\nAs part of the T-Mobile team, you know the Un-carrier doesn't have a corporate ladder-it's more like a jungle gym of possibilities! We love helping our employees grow in their careers, because it's that shared drive to aim high that drives our business and our culture forward. By applying for this career opportunity, you're living our values while investing in your career growth-and we applaud it. You're unstoppable!\n\nT-Mobile USA, Inc. is an Equal Opportunity Employer. All decisions concerning the employment relationship will be made without regard to age, race, ethnicity, color, religion, creed, sex, sexual orientation, gender identity or expression, national origin, religious affiliation, marital status, citizenship status, veteran status, the presence of any physical or mental disability, or any other status or characteristic protected by federal, state, or local law. Discrimination, retaliation or harassment based upon any of these factors is wholly inconsistent with how we do business and will not be tolerated.\n\nTalent comes in all forms at the Un-carrier. If you are an individual with a disability and need reasonable accommodation at any point in the application or interview process, please let us know by emailing or calling 1-. Please note, this contact channel is not a means to apply for or inquire about a position and we are unable to respond to non-accommodation related requests.",
+    "job_description": "About Wisdom\n\nWisdomAI has the mission to provide access and insights from data to everyone. We believe in the power of data to drive better decisions and we believe with Generative AI, there is an opportunity to bring a disruptive change in how employees access insights within their organization. This is a great time to join the company as we have multiple Fortune 100 companies as paying customers and still are early enough that you will get to define a lot of the product/engineering roadmap.\n\nRole\n\nWe are looking for exceptional ML/NLP engineering interns to join our team. We are working on fundamental problems in LLM based code-generation, document understanding, context synthesis and LLM based agents. Our team consists of experts from companies like Glean, Apple, Rubrik, Google and Meta.\n\nJob responsibilities\n• Build, train, fine-tune NLP / ML models for tasks such as natural language queries, document understanding, metric extraction, etc.\n• Build workflows/agentic pipelines for complex analytical workloads.\n• Design evaluation framework and carry out evaluations of our query processing engine.\n• Collaborate to define and build features in the WisdomAI product that leverage NLP (e.g. natural language query parsing, semantic modeling).\n• Stay up-to-date with latest NLP / ML techniques (research papers, tools, open source frameworks).\n\nQualifications\n• Strong analytical skills and proven ability to work with hard NLP problems.\n• Background in search/retrieval, LLMs, and evaluation pipelines is plus.\n• Experience working in startup/fast paced teams is highly desirable.\n• Bachelor's or Master's degree in Computer Science or related field.",
     "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770422400,
-    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
-    "job_location": "Leavenworth, WA",
-    "job_city": "Leavenworth",
-    "job_state": "Washington",
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "San Mateo, CA",
+    "job_city": "San Mateo",
+    "job_state": "California",
     "job_country": "US",
-    "job_latitude": 47.5962326,
-    "job_longitude": -120.66147649999999,
+    "job_latitude": 37.5629917,
+    "job_longitude": -122.32552539999999,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFD6TYTWAnJloyVeWAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dnq1GVLmfU86jkPSzAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Coding experience (Python is usually key for AI work)",
-        "Understanding of how APIs work",
-        "Familiarity with data analysis or machine learning basics",
-        "Comfortable working with large datasets",
-        "Problem-solving mindset: you need to figure out what customers actually need, not just build cool tech",
-        "Communication skills to explain technical work to non-technical stakeholders",
-        "Ability to work cross-functionally with product, engineering, and business teams",
-        "Comfortable with ambiguity: AI projects rarely have clear-cut answers",
-        "Experience with LLMs, prompt engineering, or chatbot frameworks",
-        "At least 18 years of age",
-        "Legally authorized to work in the United States",
-        "High School Diploma or GED",
-        "Must be actively enrolled in a degree program or graduated with the last year",
-        "Employees of T-Mobile or Metro by T-Mobile are ineligible for Internship"
-      ],
-      "Benefits": [
-        "Relocation reimbursement may be provided to program participants who reside more than 50 miles from the internship location",
-        "Intern wages range from $26/hour to $47/hour",
-        "The successful candidate's actual pay will be based on experience/location"
+        "Strong analytical skills and proven ability to work with hard NLP problems",
+        "Background in search/retrieval, LLMs, and evaluation pipelines is plus",
+        "Bachelor's or Master's degree in Computer Science or related field"
       ],
       "Responsibilities": [
-        "you'll contribute to creativity and outstanding ideas, while working alongside T-Mobile employees",
-        "Join T-Mobile's AI Agents team this summer and work on real products that customers use every day",
-        "You'll design and build intelligent agents for customer support and sales, tackle actual business problems with real data, and see the direct impact of what you create",
-        "You'll own initiatives from start to finish and help shape how millions of customers interact with T-Mobile",
-        "You will build and iterate on 1-2 AI Agents in T-Mobile's IntentCX program",
-        "You will build across modalities (chat and voice) using OpenAI's chat and realtime voice models",
-        "You will focus on either customer service, helping to answer questions and integrate customer data, OR on how T-Mobile sells its products",
-        "You will have a direct impact to hundreds of thousands of customer interactions every day!",
-        "Build and Iterate on AI Agent(s) which either improve T-Mobile's customer support or sales functions",
-        "Integrate T-Mobile APIs into the context/prompt of your agent",
-        "Integrate your AI Agent into IntentCX's multi-agent framework",
-        "Integrate your AI Agent(s) with T-Mobile's T-Life app, website, or customer support phone number"
+        "Build, train, fine-tune NLP / ML models for tasks such as natural language queries, document understanding, metric extraction, etc",
+        "Build workflows/agentic pipelines for complex analytical workloads",
+        "Design evaluation framework and carry out evaluations of our query processing engine",
+        "Collaborate to define and build features in the WisdomAI product that leverage NLP (e.g. natural language query parsing, semantic modeling)",
+        "Stay up-to-date with latest NLP / ML techniques (research papers, tools, open source frameworks)"
       ]
     },
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
-    "id": "www-dice-com-job-detail-2f8e3f3d-22a6-4f31-b8cd-37538d8c1ae3",
+    "id": "us-bebee-com-job-a9a877d975cf7bb031f2f2fa32a8e727",
     "_source": "new_jobs"
   },
   {
@@ -1165,9 +1012,9 @@
     "job_latitude": 39.9625112,
     "job_longitude": -83.00322179999999,
     "job_benefits": [
-      "paid_time_off",
+      "dental_coverage",
       "health_insurance",
-      "dental_coverage"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D1dUrj5xdQCuAq1KSAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1260,9 +1107,9 @@
     "job_latitude": 38.5767017,
     "job_longitude": -92.1735164,
     "job_benefits": [
-      "dental_coverage",
+      "paid_time_off",
       "health_insurance",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D12dGs0l1yRskO25YAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 19.62,
