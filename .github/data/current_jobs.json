@@ -268,9 +268,9 @@
     "job_latitude": 38.9848328,
     "job_longitude": -77.09431719999999,
     "job_benefits": [
-      "paid_time_off",
       "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DmbKVqdQat9ihvgp2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -534,346 +534,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "X2S-G4Aqs04y7tIdAAAAAA==",
-    "job_title": "Senior Machine Learning Engineer, Specialist | Charlotte, NC, USA",
-    "employer_name": "Vanguard Group, Inc.",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgHiAIcXDulYL7Ihh4ES2OFT_0rHmxmfmGRz-C&s=0",
-    "employer_website": "https://investor.vanguard.com",
-    "job_publisher": "EFinancialCareers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.efinancialcareers.com/jobs-USA-NC-Charlotte-Senior_Machine_Learning_Engineer_Specialist.id23819644?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "EFinancialCareers",
-        "apply_link": "https://www.efinancialcareers.com/jobs-USA-NC-Charlotte-Senior_Machine_Learning_Engineer_Specialist.id23819644?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "Senior Machine Learning Engineer, Specialist\n\nOverview:\n\nWe are seeking an experienced Senior Machine Learning Engineer to join our AI/ML Engineering team. You will be responsible for developing and optimizing complex data pipelines, integrating model pipelines, and building scalable AI/ML solutions, including large language models (LLMs). The ideal candidate will possess a robust background in traditional machine learning, deep learning, and significant experience with large datasets and cloud-based AI services.\n\nResponsibilities:\n\n• Develop and optimize complex data pipelines, applying machine learning engineering principles to enhance efficiency and scalability.\n• Integrate and optimize data and model pipelines within production environments, diagnosing data inconsistencies and documenting assumptions.\n• Employ experimental methodologies, statistics, and machine learning concepts to create self-running AI systems for predictive modeling.\n• Collaborate with data science teams to review model-ready datasets and feature documentation, ensuring completeness and accuracy.\n• Perform data discovery and analysis of raw data sources, applying business context to meet model development needs.\n• Comfort with exploratory data exploration and tracking data lineage during inception or root cause analysis.\n• Engage with internal stakeholders to understand business processes and translate requirements into analytical approaches.\n• Write and maintain model monitoring scripts, diagnosing issues and coordinating resolutions based on alerts.\n• Serve as a domain expert in machine learning engineering on cross-functional teams for significant initiatives.\n• Stay updated with the latest advancements in AI/ML and apply them to real-world challenges.\n• Participate in special projects and additional duties as assigned.\nQualifications:\n\n• Undergraduate degree or equivalent experience; a graduate degree is preferred.\n• Minimum of 8 years of relevant work experience.\n• At least 3 years of hands-on experience designing ETL pipelines using AWS services (e.g., Glue, SageMaker).\n• Proficiency in programming languages, particularly Python (including PySpark, PySQL) and familiarity with machine learning libraries and frameworks.\n• Strong understanding of cloud technologies, including AWS and Azure, and experience with NoSQL databases.\n• Familiarity with Feature Store usage, LLMs, GenAI, RAG, Prompt Engineering, and Model Evaluation.\n• Experience with API design and development is a plus.\n• Solid understanding of software engineering principles, including design patterns, testing, security, and version control.\n• Knowledge of Machine Learning Development Lifecycle (MDLC) best practices and protocols.\n• Understanding of solution architecture for building end-to-end machine learning data pipelines.\nSpecial Factors\n\nSponsorship\nVanguard is not offering visa sponsorship for this position.\n\nAbout Vanguard\n\nAt Vanguard, we don't just have a mission-we're on a mission.\n\nTo work for the long-term financial wellbeing of our clients. To lead through product and services that transform our clients' lives. To learn and develop our skills as individuals and as a team. From Malvern to Melbourne, our mission drives us forward and inspires us to be our best.\n\nHow We Work\n\nVanguard has implemented a hybrid working model for the majority of our crew members, designed to capture the benefits of enhanced flexibility while enabling in-person learning, collaboration, and connection. We believe our mission-driven and highly collaborative culture is a critical enabler to support long-term client outcomes and enrich the employee experience.",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Charlotte, NC",
-    "job_city": "Charlotte",
-    "job_state": "North Carolina",
-    "job_country": "US",
-    "job_latitude": 35.2270768,
-    "job_longitude": -80.84089329999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DX2S-G4Aqs04y7tIdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Minimum of 8 years of relevant work experience",
-        "At least 3 years of hands-on experience designing ETL pipelines using AWS services (e.g., Glue, SageMaker)",
-        "Proficiency in programming languages, particularly Python (including PySpark, PySQL) and familiarity with machine learning libraries and frameworks",
-        "Strong understanding of cloud technologies, including AWS and Azure, and experience with NoSQL databases",
-        "Familiarity with Feature Store usage, LLMs, GenAI, RAG, Prompt Engineering, and Model Evaluation",
-        "Solid understanding of software engineering principles, including design patterns, testing, security, and version control",
-        "Knowledge of Machine Learning Development Lifecycle (MDLC) best practices and protocols",
-        "Understanding of solution architecture for building end-to-end machine learning data pipelines"
-      ],
-      "Benefits": [
-        "Vanguard is not offering visa sponsorship for this position"
-      ],
-      "Responsibilities": [
-        "You will be responsible for developing and optimizing complex data pipelines, integrating model pipelines, and building scalable AI/ML solutions, including large language models (LLMs)",
-        "The ideal candidate will possess a robust background in traditional machine learning, deep learning, and significant experience with large datasets and cloud-based AI services",
-        "Develop and optimize complex data pipelines, applying machine learning engineering principles to enhance efficiency and scalability",
-        "Integrate and optimize data and model pipelines within production environments, diagnosing data inconsistencies and documenting assumptions",
-        "Employ experimental methodologies, statistics, and machine learning concepts to create self-running AI systems for predictive modeling",
-        "Collaborate with data science teams to review model-ready datasets and feature documentation, ensuring completeness and accuracy",
-        "Perform data discovery and analysis of raw data sources, applying business context to meet model development needs",
-        "Comfort with exploratory data exploration and tracking data lineage during inception or root cause analysis",
-        "Engage with internal stakeholders to understand business processes and translate requirements into analytical approaches",
-        "Write and maintain model monitoring scripts, diagnosing issues and coordinating resolutions based on alerts",
-        "Serve as a domain expert in machine learning engineering on cross-functional teams for significant initiatives",
-        "Stay updated with the latest advancements in AI/ML and apply them to real-world challenges",
-        "Participate in special projects and additional duties as assigned"
-      ]
-    },
-    "job_onet_soc": "15115100",
-    "job_onet_job_zone": "3",
-    "id": "www-efinancialcareers-com-jobs-usa-nc-charlotte-senior_machine_learning_engineer_specialist-id23819644",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "WhXCM0qq0JN2ZKIGAAAAAA==",
-    "job_title": "Artificial Intelligence Machine Learning Engineer (Annapolis Junction, MD)",
-    "employer_name": "Shield Consulting Solutions, Inc.",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wTGqfJJ5vKRX2BGJnX2VJNHPzCp_8PDxMW6Z&s=0",
-    "employer_website": null,
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Shield-Consulting-Solutions,-Inc./Job/Artificial-Intelligence-Machine-Learning-Engineer-(Annapolis-Junction,-MD)/-in-Annapolis,MD?jid=c2fa4b505edb4aba&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Shield-Consulting-Solutions,-Inc./Job/Artificial-Intelligence-Machine-Learning-Engineer-(Annapolis-Junction,-MD)/-in-Annapolis,MD?jid=c2fa4b505edb4aba&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Security Clearance Jobs",
-        "apply_link": "https://www.clearancejobs.com/jobs/8738412/artificial-intelligence-machine-learning-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "SaluteMyJob",
-        "apply_link": "https://salutemyjob.com/jobs/artificial-intelligence-machine-learning-engineer-2-annapolis-maryland/2608966410-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "KSNT Jobs",
-        "apply_link": "https://jobs.ksnt.com/jobs/artificial-intelligence-machine-learning-engineer-2-annapolis-maryland/2608966410-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/c1162cc7a9b34ac24df2949ba251f89a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/annapolis/maryland/engineering/4866633221/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-md-annapolis-artificial-intelligence-machine-learning-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "**Active TS/SCI w/Polygraph REQUIRED** Please do not apply if you do not currently possess this level of clearance.\n\nTelework: None\n\nBasic Requirements:\n• Experience with standard machine language frameworks, e.g. Pytorch, TensorFlow.\n• A Master's or Ph.D. degree in advanced math, artificial intelligence, data science, computer science or deep learning\n• 5 years' experience in applied machine learning\n• 5 additional years of machine learning experience with a relevant Bachelor's degree may be substituted for a Master's degree.\n\nExcellent benefits package including 25 days PTO, 11 paid holidays, 100% employer-paid healthcare for employees and dependents - available day 1, 8% 401(k) employer match - immediate vesting.\n\nDisclaimer: The salary range provided is an estimate based on current market conditions and may be adjusted based on factors such as experience, skills, and qualifications. The final salary offer will be determined after a thorough review of the candidate's background and alignment with the role. Please note that this range is subject to change and should be considered as a guideline rather than a definitive figure.\n\nShield Consulting Solutions is an equal opportunity/affirmative action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law.\nThis is a full time position",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Annapolis, MD",
-    "job_city": "Annapolis",
-    "job_state": "Maryland",
-    "job_country": "US",
-    "job_latitude": 38.9764364,
-    "job_longitude": -76.489642,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DWhXCM0qq0JN2ZKIGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Experience with standard machine language frameworks, e.g. Pytorch, TensorFlow",
-        "A Master's or Ph.D. degree in advanced math, artificial intelligence, data science, computer science or deep learning",
-        "5 years' experience in applied machine learning",
-        "5 additional years of machine learning experience with a relevant Bachelor's degree may be substituted for a Master's degree"
-      ],
-      "Benefits": [
-        "Excellent benefits package including 25 days PTO, 11 paid holidays, 100% employer-paid healthcare for employees and dependents - available day 1, 8% 401(k) employer match - immediate vesting",
-        "Disclaimer: The salary range provided is an estimate based on current market conditions and may be adjusted based on factors such as experience, skills, and qualifications"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-ziprecruiter-com-c-shield-consulting-solutions-inc-job-artificial-intelligence-machine-learning-engineer-annapolis-junction-md-in-annapolis-md",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "Reqi7GbLPevA-3KYAAAAAA==",
-    "job_title": "AI/ML Engineer",
-    "employer_name": "Elder Research",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAG94AGsQDIJhC6jkCedW849SoBhhntyQ0l1MC&s=0",
-    "employer_website": "https://www.elderresearch.com",
-    "job_publisher": "Women For Hire- Job Board",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobs.womenforhire.com/job/usa/glenmont-md/ai-ml-engineer-391352/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Women For Hire- Job Board",
-        "apply_link": "https://jobs.womenforhire.com/job/usa/glenmont-md/ai-ml-engineer-391352/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "AI/ML Engineer\n\nGeneral Information\n\nRequisition # 658\n\nLocations USA-VA-Arlington\n\nPosting Date 02/10/2025\n\nSecurity Clearance Required - Public Trust\n\nRemote Type Hybrid\n\nTime Type Full time\n\nDescription & Requirements\n\nElder Research Inc., a wholly owned subsidiary of MANTECH international Corporation seeks a motivated, career and customer-oriented AI/ML Engineer. The mid-level AI/ML Engineer will assist in the design, deployment, and operation of production-grade AI systems that support the customer’s Sentinel model—helping protect more consumers, faster, from a wider range of hazards by using analytics to reduce time to intervention. This role involves end-to-end model lifecycle engineering on Azure, applying advanced MLOps best practices, and building AI agents (using Copilot Studio and Python frameworks) that convert signals into timely, actionable decisions.\n\nResponsibilities include but are not limited to:\n• Build, Deploy & Maintain ML Models\n• Implement, productionize, and optimize ML solutions (supervised/unsupervised, NLP, deep learning) with robust data preprocessing, feature engineering, evaluation, and calibration pipelines to ensure reliability, fairness, and performance at scale.\n• MLOps & Data Engineering (Azure)\n• Establish end-to-end MLOps workflows including CI/CD, experiment tracking, model registry, reproducible builds, and deployments.\n• Design high-quality data pipelines (ingest, transform, validate) across structured and unstructured sources, enforce data contracts/lineage, and collaborate with analytics teams to make datasets discoverable, documented, and performant.\n• Implement model monitoring (drift, data/feature quality, bias, business KPIs), alerting, and automated rollback for safe, responsive systems.\n• AI Agents & System Integration\n• Build AI agents using Copilot Studio and Python frameworks to operationalize safety analytics, accelerating triage and decision-making.\n• Integrate agents with APIs, event streams, dashboards, and case management systems to reduce time from signal to action.\n• Engineering Excellence, Governance & Agile Delivery\n• Champion secure-by-design practices, reproducibility, and auditability (model cards, data sheets, deployment records).\n• Contribute to coding standards, code reviews, knowledge sharing, and mentoring.\n• Work in Agile teams to drive iterative delivery, continuous improvement, and translate mission goals into technical roadmaps and measurable outcomes tied to Sentinel time-to-intervention targets.\n\nMinimum Qualifications:\n• Experience & Education:\n• 3+ years hands-on developing and deploying AI/ML models in production environments.\n• Bachelor’s degree or equivalent professional experience in Computer Science, Data Science, Mathematics, Statistics, Engineering, or a related field.\n• Programming & ML Expertise:\n• Proficient in Python, including packaging, testing, and performance optimization.\n• Solid understanding of ML algorithms, model selection, training, validation, optimization, and evaluation at scale.\n• Skilled in data preprocessing, feature engineering, and visualization to support decision-making.\n• Deep Learning, MLOps & Cloud:\n• Experienced with PyTorch/TensorFlow and modern MLOps practices, including deployment, monitoring, scaling, CI/CD, experiment tracking, and model registry.\n• Hands-on experience with Azure for AI/ML workloads (Azure ML, Azure Synapse, Azure Data Lake).\n• AI Agents & Integration:\n• Experience developing AI agents using Copilot Studio and Python frameworks, including tooling, orchestration, retrieval, and connectors.\n\nPreferred Qualifications:\n• Experience with streaming and event-driven architectures (Event Hubs), feature stores, and vector databases for retrieval-augmented generation.\n• Hands-on with responsible AI practices (fairness, explainability, privacy), model governance (model cards, audits), and cloud ML security.\n• Familiarity with domain-specific risk analytics and working in public-sector or regulated environments.\n• Azure AI/ML and/or MLOps certifications considered advantageous.\n\nClearance Requirements:\n• Current Public Trust Desired\n• Must be a US Citizen and be able to obtain and maintain a Public Trust clearance prior to starting this position\n\nAbout Elder Research, Inc - People Centered. Data Driven\n\nElder Research considers all qualified applicants for employment without regard to disability or veteran status or any other status protected under any federal, state, or local law or regulation.\n\nIf you need a reasonable accommodation to apply for a position with Elder Research, please email us at careers@elderresearch.com and provide your name and contact information.\n\nEqual Opportunity Employer, including disability/protected veterans\n\nEqual employment opportunity, including veterans and individuals with disabilities.\n\nPI282251333",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Glenmont",
-    "job_city": "Wheaton-Glenmont",
-    "job_state": "Maryland",
-    "job_country": "US",
-    "job_latitude": 39.058552999999996,
-    "job_longitude": -77.04997,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DReqi7GbLPevA-3KYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Security Clearance Required - Public Trust",
-        "Experience & Education:",
-        "3+ years hands-on developing and deploying AI/ML models in production environments",
-        "Bachelor’s degree or equivalent professional experience in Computer Science, Data Science, Mathematics, Statistics, Engineering, or a related field",
-        "Programming & ML Expertise:",
-        "Proficient in Python, including packaging, testing, and performance optimization",
-        "Solid understanding of ML algorithms, model selection, training, validation, optimization, and evaluation at scale",
-        "Skilled in data preprocessing, feature engineering, and visualization to support decision-making",
-        "Deep Learning, MLOps & Cloud:",
-        "Experienced with PyTorch/TensorFlow and modern MLOps practices, including deployment, monitoring, scaling, CI/CD, experiment tracking, and model registry",
-        "Hands-on experience with Azure for AI/ML workloads (Azure ML, Azure Synapse, Azure Data Lake)",
-        "AI Agents & Integration:",
-        "Experience developing AI agents using Copilot Studio and Python frameworks, including tooling, orchestration, retrieval, and connectors",
-        "Must be a US Citizen and be able to obtain and maintain a Public Trust clearance prior to starting this position"
-      ],
-      "Benefits": [
-        "Equal employment opportunity, including veterans and individuals with disabilities"
-      ],
-      "Responsibilities": [
-        "This role involves end-to-end model lifecycle engineering on Azure, applying advanced MLOps best practices, and building AI agents (using Copilot Studio and Python frameworks) that convert signals into timely, actionable decisions",
-        "Build, Deploy & Maintain ML Models",
-        "Implement, productionize, and optimize ML solutions (supervised/unsupervised, NLP, deep learning) with robust data preprocessing, feature engineering, evaluation, and calibration pipelines to ensure reliability, fairness, and performance at scale",
-        "MLOps & Data Engineering (Azure)",
-        "Establish end-to-end MLOps workflows including CI/CD, experiment tracking, model registry, reproducible builds, and deployments",
-        "Design high-quality data pipelines (ingest, transform, validate) across structured and unstructured sources, enforce data contracts/lineage, and collaborate with analytics teams to make datasets discoverable, documented, and performant",
-        "Implement model monitoring (drift, data/feature quality, bias, business KPIs), alerting, and automated rollback for safe, responsive systems",
-        "AI Agents & System Integration",
-        "Build AI agents using Copilot Studio and Python frameworks to operationalize safety analytics, accelerating triage and decision-making",
-        "Integrate agents with APIs, event streams, dashboards, and case management systems to reduce time from signal to action",
-        "Engineering Excellence, Governance & Agile Delivery",
-        "Champion secure-by-design practices, reproducibility, and auditability (model cards, data sheets, deployment records)",
-        "Contribute to coding standards, code reviews, knowledge sharing, and mentoring",
-        "Work in Agile teams to drive iterative delivery, continuous improvement, and translate mission goals into technical roadmaps and measurable outcomes tied to Sentinel time-to-intervention targets"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "jobs-womenforhire-com-job-usa-glenmont-md-ai-ml-engineer-391352",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "5TDGqsfYyTEePqcvAAAAAA==",
-    "job_title": "Machine Learning Engineer - Perception Computer Vision",
-    "employer_name": "HireArt",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPZN-gm6Zle8OklICZLVPREfbg_IjobbUDfQp3&s=0",
-    "employer_website": "https://www.hireart.com",
-    "job_publisher": "LinkedIn",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-perception-computer-vision-at-hireart-4364475931?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-perception-computer-vision-at-hireart-4364475931?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Vertex-Sigma-Software/Job/Machine-Learning-Engineer-Perception-Computer-Vision/-in-Foster-City,CA?jid=0f5b65b30bc578b0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Monster",
-        "apply_link": "https://www.monster.com/job-openings/machine-learning-engineer-perception-computer-vision-foster-city-ca--5683fa76-6988-47fb-9381-2f3950d4fae1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Built In",
-        "apply_link": "https://builtin.com/job/machine-learning-engineer-perception-computer-vision/8496097?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Adzuna",
-        "apply_link": "https://www.adzuna.com/details/5628437039?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Recruit.net",
-        "apply_link": "https://www.recruit.net/job/machine-learning-engineer-perception-computer-jobs/59F93C6095A2AB7F?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Expected compensation: 106.50 USD Per Hour\n\nHireArt is helping our client find Machine Learning Engineers, Perception Computer Vision, to develop advanced computer vision systems that enhance in-vehicle perception, directly impacting safety and fleet efficiency across the company’s robotic platform.\n\nIn this role, you’ll contribute across the full machine learning lifecycle, from data collection and dataset development to model design, training, deployment, and validation, working closely with large-scale real-world sensor data.\n\nThe ideal candidate is technically strong in modern computer vision, comfortable working with large datasets, and motivated by building safety-critical perception systems.\n\nAs a Machine Learning Engineer - Perception Computer Vision, you'll:\n• Design and develop in-cabin computer vision models for safety-critical perception and monitoring applications.\n• Implement advanced perception model architectures and training techniques.\n• Build high-quality datasets using multimodal sensor inputs and large-scale fleet data.\n• Train, validate, and optimize deep learning models using real-world driving scenarios.\n• Evaluate model performance and robustness to ensure reliability in production environments.\n• Collaborate cross-functionally to integrate perception models into the broader autonomous system.\n\nRequirements\n• Bachelor’s degree in computer science, computer engineering, or a related field with 4+ years of relevant experience\n• Strong background in modern computer vision and machine learning, including 3D reconstruction, detection, classification, and semantic segmentation\n• Experience training and deploying deep learning models in production or research environments\n• Proficiency in C++ and/or Python\n• Strong communication skills and ability to collaborate across technical teams\n\nBonus Qualifications\n• Experience in the self-driving or robotics industry\n• Experience deploying ML models in latency-sensitive or real-time systems\n• Experience with CUDA or GPU-accelerated model development\n\nBenefits\n• Pre-tax commuter benefits\n• Employer (HireArt) Subsidized healthcare benefits (eligibility begins on the first of the month following 60 days of service)\n• Flexible Spending Account for healthcare-related costs\n• HireArt covers all costs for short and long-term disability and life insurance\n• 401k package\n\nCommitment: This is a full-time, ongoing contract position staffed via HireArt. It will be hybrid (requiring at least three days on-site) and available to candidates who are local to the Foster City, CA area.\n\nHireArt values diversity and is an Equal Opportunity Employer. We are interested in every qualified candidate who is eligible to work in the United States. Unfortunately, we are not able to sponsor visas or employ corp-to-corp.",
-    "job_is_remote": false,
-    "job_posted_at": "19 hours ago",
-    "job_posted_at_timestamp": 1771034400,
-    "job_posted_at_datetime_utc": "2026-02-14T02:00:00.000Z",
-    "job_location": "Foster City, CA",
-    "job_city": "Foster City",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.5585465,
-    "job_longitude": -122.2710788,
-    "job_benefits": [
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D5TDGqsfYyTEePqcvAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "The ideal candidate is technically strong in modern computer vision, comfortable working with large datasets, and motivated by building safety-critical perception systems",
-        "Bachelor’s degree in computer science, computer engineering, or a related field with 4+ years of relevant experience",
-        "Strong background in modern computer vision and machine learning, including 3D reconstruction, detection, classification, and semantic segmentation",
-        "Experience training and deploying deep learning models in production or research environments",
-        "Proficiency in C++ and/or Python",
-        "Strong communication skills and ability to collaborate across technical teams",
-        "Experience in the self-driving or robotics industry",
-        "Experience deploying ML models in latency-sensitive or real-time systems",
-        "Experience with CUDA or GPU-accelerated model development",
-        "It will be hybrid (requiring at least three days on-site) and available to candidates who are local to the Foster City, CA area"
-      ],
-      "Benefits": [
-        "Pre-tax commuter benefits",
-        "Employer (HireArt) Subsidized healthcare benefits (eligibility begins on the first of the month following 60 days of service)",
-        "Flexible Spending Account for healthcare-related costs",
-        "HireArt covers all costs for short and long-term disability and life insurance",
-        "401k package",
-        "Commitment: This is a full-time, ongoing contract position staffed via HireArt"
-      ],
-      "Responsibilities": [
-        "HireArt is helping our client find Machine Learning Engineers, Perception Computer Vision, to develop advanced computer vision systems that enhance in-vehicle perception, directly impacting safety and fleet efficiency across the company’s robotic platform",
-        "In this role, you’ll contribute across the full machine learning lifecycle, from data collection and dataset development to model design, training, deployment, and validation, working closely with large-scale real-world sensor data",
-        "Design and develop in-cabin computer vision models for safety-critical perception and monitoring applications",
-        "Implement advanced perception model architectures and training techniques",
-        "Build high-quality datasets using multimodal sensor inputs and large-scale fleet data",
-        "Train, validate, and optimize deep learning models using real-world driving scenarios",
-        "Evaluate model performance and robustness to ensure reliability in production environments",
-        "Collaborate cross-functionally to integrate perception models into the broader autonomous system"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-linkedin-com-jobs-view-machine-learning-engineer-perception-computer-vision-at-hireart-4364475931",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "r55ruLw2lUaw9YugAAAAAA==",
     "job_title": "Scientific AI and ML Engineer",
     "employer_name": "Booz Allen Hamilton Inc.",
@@ -958,6 +618,507 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "career-io-job-scientific-ai-and-ml-engineer-booz-allen-hamilton-inc-44cf4c54b212b6ff7d00271fa7fa98b3",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "5TDGqsfYyTEePqcvAAAAAA==",
+    "job_title": "Machine Learning Engineer - Perception Computer Vision",
+    "employer_name": "HireArt",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPZN-gm6Zle8OklICZLVPREfbg_IjobbUDfQp3&s=0",
+    "employer_website": "https://www.hireart.com",
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-perception-computer-vision-at-hireart-4364475931?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-perception-computer-vision-at-hireart-4364475931?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Vertex-Sigma-Software/Job/Machine-Learning-Engineer-Perception-Computer-Vision/-in-Foster-City,CA?jid=0f5b65b30bc578b0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Monster",
+        "apply_link": "https://www.monster.com/job-openings/machine-learning-engineer-perception-computer-vision-foster-city-ca--5683fa76-6988-47fb-9381-2f3950d4fae1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Built In",
+        "apply_link": "https://builtin.com/job/machine-learning-engineer-perception-computer-vision/8496097?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Adzuna",
+        "apply_link": "https://www.adzuna.com/details/5628437039?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Recruit.net",
+        "apply_link": "https://www.recruit.net/job/machine-learning-engineer-perception-computer-jobs/59F93C6095A2AB7F?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Expected compensation: 106.50 USD Per Hour\n\nHireArt is helping our client find Machine Learning Engineers, Perception Computer Vision, to develop advanced computer vision systems that enhance in-vehicle perception, directly impacting safety and fleet efficiency across the company’s robotic platform.\n\nIn this role, you’ll contribute across the full machine learning lifecycle, from data collection and dataset development to model design, training, deployment, and validation, working closely with large-scale real-world sensor data.\n\nThe ideal candidate is technically strong in modern computer vision, comfortable working with large datasets, and motivated by building safety-critical perception systems.\n\nAs a Machine Learning Engineer - Perception Computer Vision, you'll:\n• Design and develop in-cabin computer vision models for safety-critical perception and monitoring applications.\n• Implement advanced perception model architectures and training techniques.\n• Build high-quality datasets using multimodal sensor inputs and large-scale fleet data.\n• Train, validate, and optimize deep learning models using real-world driving scenarios.\n• Evaluate model performance and robustness to ensure reliability in production environments.\n• Collaborate cross-functionally to integrate perception models into the broader autonomous system.\n\nRequirements\n• Bachelor’s degree in computer science, computer engineering, or a related field with 4+ years of relevant experience\n• Strong background in modern computer vision and machine learning, including 3D reconstruction, detection, classification, and semantic segmentation\n• Experience training and deploying deep learning models in production or research environments\n• Proficiency in C++ and/or Python\n• Strong communication skills and ability to collaborate across technical teams\n\nBonus Qualifications\n• Experience in the self-driving or robotics industry\n• Experience deploying ML models in latency-sensitive or real-time systems\n• Experience with CUDA or GPU-accelerated model development\n\nBenefits\n• Pre-tax commuter benefits\n• Employer (HireArt) Subsidized healthcare benefits (eligibility begins on the first of the month following 60 days of service)\n• Flexible Spending Account for healthcare-related costs\n• HireArt covers all costs for short and long-term disability and life insurance\n• 401k package\n\nCommitment: This is a full-time, ongoing contract position staffed via HireArt. It will be hybrid (requiring at least three days on-site) and available to candidates who are local to the Foster City, CA area.\n\nHireArt values diversity and is an Equal Opportunity Employer. We are interested in every qualified candidate who is eligible to work in the United States. Unfortunately, we are not able to sponsor visas or employ corp-to-corp.",
+    "job_is_remote": false,
+    "job_posted_at": "20 hours ago",
+    "job_posted_at_timestamp": 1771030800,
+    "job_posted_at_datetime_utc": "2026-02-14T01:00:00.000Z",
+    "job_location": "Foster City, CA",
+    "job_city": "Foster City",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.5585465,
+    "job_longitude": -122.2710788,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D5TDGqsfYyTEePqcvAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "The ideal candidate is technically strong in modern computer vision, comfortable working with large datasets, and motivated by building safety-critical perception systems",
+        "Bachelor’s degree in computer science, computer engineering, or a related field with 4+ years of relevant experience",
+        "Strong background in modern computer vision and machine learning, including 3D reconstruction, detection, classification, and semantic segmentation",
+        "Experience training and deploying deep learning models in production or research environments",
+        "Proficiency in C++ and/or Python",
+        "Strong communication skills and ability to collaborate across technical teams",
+        "Experience in the self-driving or robotics industry",
+        "Experience deploying ML models in latency-sensitive or real-time systems",
+        "Experience with CUDA or GPU-accelerated model development",
+        "It will be hybrid (requiring at least three days on-site) and available to candidates who are local to the Foster City, CA area"
+      ],
+      "Benefits": [
+        "Pre-tax commuter benefits",
+        "Employer (HireArt) Subsidized healthcare benefits (eligibility begins on the first of the month following 60 days of service)",
+        "Flexible Spending Account for healthcare-related costs",
+        "HireArt covers all costs for short and long-term disability and life insurance",
+        "401k package",
+        "Commitment: This is a full-time, ongoing contract position staffed via HireArt"
+      ],
+      "Responsibilities": [
+        "HireArt is helping our client find Machine Learning Engineers, Perception Computer Vision, to develop advanced computer vision systems that enhance in-vehicle perception, directly impacting safety and fleet efficiency across the company’s robotic platform",
+        "In this role, you’ll contribute across the full machine learning lifecycle, from data collection and dataset development to model design, training, deployment, and validation, working closely with large-scale real-world sensor data",
+        "Design and develop in-cabin computer vision models for safety-critical perception and monitoring applications",
+        "Implement advanced perception model architectures and training techniques",
+        "Build high-quality datasets using multimodal sensor inputs and large-scale fleet data",
+        "Train, validate, and optimize deep learning models using real-world driving scenarios",
+        "Evaluate model performance and robustness to ensure reliability in production environments",
+        "Collaborate cross-functionally to integrate perception models into the broader autonomous system"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-linkedin-com-jobs-view-machine-learning-engineer-perception-computer-vision-at-hireart-4364475931",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "WhXCM0qq0JN2ZKIGAAAAAA==",
+    "job_title": "Artificial Intelligence Machine Learning Engineer (Annapolis Junction, MD)",
+    "employer_name": "Shield Consulting Solutions, Inc.",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wTGqfJJ5vKRX2BGJnX2VJNHPzCp_8PDxMW6Z&s=0",
+    "employer_website": null,
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Shield-Consulting-Solutions,-Inc./Job/Artificial-Intelligence-Machine-Learning-Engineer-(Annapolis-Junction,-MD)/-in-Annapolis,MD?jid=c2fa4b505edb4aba&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Shield-Consulting-Solutions,-Inc./Job/Artificial-Intelligence-Machine-Learning-Engineer-(Annapolis-Junction,-MD)/-in-Annapolis,MD?jid=c2fa4b505edb4aba&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Security Clearance Jobs",
+        "apply_link": "https://www.clearancejobs.com/jobs/8738412/artificial-intelligence-machine-learning-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "SaluteMyJob",
+        "apply_link": "https://salutemyjob.com/jobs/artificial-intelligence-machine-learning-engineer-2-annapolis-maryland/2608966410-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "KSNT Jobs",
+        "apply_link": "https://jobs.ksnt.com/jobs/artificial-intelligence-machine-learning-engineer-2-annapolis-maryland/2608966410-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/c1162cc7a9b34ac24df2949ba251f89a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Learn4Good",
+        "apply_link": "https://www.learn4good.com/jobs/annapolis/maryland/engineering/4866633221/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-md-annapolis-artificial-intelligence-machine-learning-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "**Active TS/SCI w/Polygraph REQUIRED** Please do not apply if you do not currently possess this level of clearance.\n\nTelework: None\n\nBasic Requirements:\n• Experience with standard machine language frameworks, e.g. Pytorch, TensorFlow.\n• A Master's or Ph.D. degree in advanced math, artificial intelligence, data science, computer science or deep learning\n• 5 years' experience in applied machine learning\n• 5 additional years of machine learning experience with a relevant Bachelor's degree may be substituted for a Master's degree.\n\nExcellent benefits package including 25 days PTO, 11 paid holidays, 100% employer-paid healthcare for employees and dependents - available day 1, 8% 401(k) employer match - immediate vesting.\n\nDisclaimer: The salary range provided is an estimate based on current market conditions and may be adjusted based on factors such as experience, skills, and qualifications. The final salary offer will be determined after a thorough review of the candidate's background and alignment with the role. Please note that this range is subject to change and should be considered as a guideline rather than a definitive figure.\n\nShield Consulting Solutions is an equal opportunity/affirmative action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law.\nThis is a full time position",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Annapolis, MD",
+    "job_city": "Annapolis",
+    "job_state": "Maryland",
+    "job_country": "US",
+    "job_latitude": 38.9764364,
+    "job_longitude": -76.489642,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DWhXCM0qq0JN2ZKIGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Experience with standard machine language frameworks, e.g. Pytorch, TensorFlow",
+        "A Master's or Ph.D. degree in advanced math, artificial intelligence, data science, computer science or deep learning",
+        "5 years' experience in applied machine learning",
+        "5 additional years of machine learning experience with a relevant Bachelor's degree may be substituted for a Master's degree"
+      ],
+      "Benefits": [
+        "Excellent benefits package including 25 days PTO, 11 paid holidays, 100% employer-paid healthcare for employees and dependents - available day 1, 8% 401(k) employer match - immediate vesting",
+        "Disclaimer: The salary range provided is an estimate based on current market conditions and may be adjusted based on factors such as experience, skills, and qualifications"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-ziprecruiter-com-c-shield-consulting-solutions-inc-job-artificial-intelligence-machine-learning-engineer-annapolis-junction-md-in-annapolis-md",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "gnrDbiWZrW2IqrDcAAAAAA==",
+    "job_title": "2026 AI Engineer Intern - Remote",
+    "employer_name": "Northrop Grumman",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0guZ8n1kKZ_nu4eaicJ4PROiwjA-BfwwxOY7w&s=0",
+    "employer_website": "https://www.northropgrumman.com",
+    "job_publisher": "Jobs At Northrop Grumman",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.northropgrumman.com/careers/job/1340069923328-2026-ai-engineer-intern-remote-united-states-california-redondo-beach?domain=ngc.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Jobs At Northrop Grumman",
+        "apply_link": "https://jobs.northropgrumman.com/careers/job/1340069923328-2026-ai-engineer-intern-remote-united-states-california-redondo-beach?domain=ngc.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Workday",
+        "apply_link": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/XMLNAME-2026-AI-Engineer-Intern---Remote_R10222395?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Datacor/Job/Summer-2026-AI-Engineer-Intern/-in-Remote,US?jid=8790198fd1573cd6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Built In NYC",
+        "apply_link": "https://www.builtinnyc.com/job/summer-2026-ai-engineer-intern/7602738?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Built In",
+        "apply_link": "https://builtin.com/job/summer-2026-ai-engineer-intern/7602738?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/summer-2026-applied-ai-and-modeling-intern_7ea1abbc35dd9b4ce88a897aa38fbf9c3fd4c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Dice",
+        "apply_link": "https://www.dice.com/job-detail/d61446c4-be1a-4b04-a1a9-371838013a00?q=Filing&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Himalayas",
+        "apply_link": "https://himalayas.app/companies/datacor/jobs/summer-2026-ai-engineer-intern-9822845221?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Northrop Grumman is seeking a motivated intern to join our team focused on the design, development, and/or deployment of AI/ML systems. This internship offers hands-on experience in AI/ML system architecture and the opportunity to contribute to innovative solutions supporting our missions. The ideal candidate is a student with a strong interest in AI/ML, eager to learn, and ready to collaborate with engineering and IT teams.\n\nRoles and Responsibilities could include:\n• Support the architecture, design, and deployment of scalable AI/ML systems under the guidance of senior engineers.\n• Designing, testing and optimizing prompts for LLMs to improve output quality and task accuracy\n• Collaborate with cross-functional teams, including software engineers and data scientists, to integrate AI/ML technologies into existing frameworks.\n• Assist in developing end-to-end AI/ML solutions, including data processing and deployment. Agentic and non-agentic could be included.\n• Apply AI to real world problems – data preprocessing, analytics, and insights generation\n• Participate in requirements gathering, system design reviews, and technical documentation.\n• Help develop communications and training packages about AI/ML.\n• Stay current with industry trends and emerging technologies in AI/ML.\n\nBasic Qualifications:\n• Be a student who is enrolled full time and pursuing an undergraduate or graduate degree from an accredited college/university and will be enrolled full time in Fall 2027.\n• Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Data Science, Engineering, Mathematics, or a related field.\n• Coursework or project experience in AI/ML, algorithms, or data science.\n• Familiarity with programming languages such as Python, Java, or C++.\n• Interest in data engineering and analytics\n• Interest in cloud computing platforms (e.g., AWS, Azure, GCP) and container technologies (e.g., Docker, Kubernetes) is a plus.\n• Knowledge of LLMs, agent systems, and prompt engineering.\n• Strong analytical and problem-solving skills.\n• Ability to work collaboratively in a team environment.\n• Be available to work full-time (40 hours per week) for at least 10 weeks during the summer of 2026.\n\nPreferred Qualifications:\n• Experience with AI/ML frameworks through coursework or projects.\n• Exposure to Ai applications that are responsible and generate creative business efficiencies.\n• Exposure to big data technologies or DevOps practices is a plus.\n• Excellent communication skills and willingness to learn.\n\nIntern Pay Range:\n\nBachelor’s: $17.00 - $38.00\n\nMaster’s: $24.50 - $46.75",
+    "job_is_remote": true,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "Redondo Beach, CA",
+    "job_city": "Redondo Beach",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 33.8491816,
+    "job_longitude": -118.3884078,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DgnrDbiWZrW2IqrDcAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "The ideal candidate is a student with a strong interest in AI/ML, eager to learn, and ready to collaborate with engineering and IT teams",
+        "Be a student who is enrolled full time and pursuing an undergraduate or graduate degree from an accredited college/university and will be enrolled full time in Fall 2027",
+        "Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Data Science, Engineering, Mathematics, or a related field",
+        "Coursework or project experience in AI/ML, algorithms, or data science",
+        "Familiarity with programming languages such as Python, Java, or C++",
+        "Interest in data engineering and analytics",
+        "Knowledge of LLMs, agent systems, and prompt engineering",
+        "Strong analytical and problem-solving skills",
+        "Ability to work collaboratively in a team environment",
+        "Be available to work full-time (40 hours per week) for at least 10 weeks during the summer of 2026"
+      ],
+      "Benefits": [
+        "Bachelor’s: $17.00 - $38.00"
+      ],
+      "Responsibilities": [
+        "Support the architecture, design, and deployment of scalable AI/ML systems under the guidance of senior engineers",
+        "Designing, testing and optimizing prompts for LLMs to improve output quality and task accuracy",
+        "Collaborate with cross-functional teams, including software engineers and data scientists, to integrate AI/ML technologies into existing frameworks",
+        "Assist in developing end-to-end AI/ML solutions, including data processing and deployment",
+        "Agentic and non-agentic could be included",
+        "Apply AI to real world problems – data preprocessing, analytics, and insights generation",
+        "Participate in requirements gathering, system design reviews, and technical documentation",
+        "Help develop communications and training packages about AI/ML",
+        "Stay current with industry trends and emerging technologies in AI/ML"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "jobs-northropgrumman-com-careers-job-1340069923328-2026-ai-engineer-intern-remote-united-states-california-redondo-beach",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "pr6rzrAajYDN_mmpAAAAAA==",
+    "job_title": "Lead AI / ML Engineer",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=f50e5d5a914c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=f50e5d5a914c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A company is looking for a Lead AI / ML Engineer to architect and build agentic AI frameworks for web and mobile platforms.\n\nKey Responsibilities :\n\nGather, clean, and prepare structured and unstructured data while managing large datasets using SQL, NoSQL, and distributed technologies\n\nDesign, train, and validate machine learning models, optimizing for scalability and performance\n\nSupport AI / ML architectural design and deploy models into production using APIs and microservices\n\nQualifications & Skills :\n\nProven experience building and deploying AI / ML systems in production environments\n\nStrong experience with Python and modern ML frameworks, including deep learning and AutoML toolchains\n\nExperience working with SQL, NoSQL, and distributed data platforms\n\nStrong understanding of MLOps and cloud platforms such as AWS and Azure\n\nExperience designing and deploying microservices and containerized applications for ML workloads",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Washington, DC",
+    "job_city": "Washington",
+    "job_state": "District of Columbia",
+    "job_country": "US",
+    "job_latitude": 38.9072873,
+    "job_longitude": -77.0369274,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dpr6rzrAajYDN_mmpAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Proven experience building and deploying AI / ML systems in production environments",
+        "Strong experience with Python and modern ML frameworks, including deep learning and AutoML toolchains",
+        "Experience working with SQL, NoSQL, and distributed data platforms",
+        "Strong understanding of MLOps and cloud platforms such as AWS and Azure",
+        "Experience designing and deploying microservices and containerized applications for ML workloads"
+      ],
+      "Responsibilities": [
+        "Gather, clean, and prepare structured and unstructured data while managing large datasets using SQL, NoSQL, and distributed technologies",
+        "Design, train, and validate machine learning models, optimizing for scalability and performance",
+        "Support AI / ML architectural design and deploy models into production using APIs and microservices"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "Reqi7GbLPevA-3KYAAAAAA==",
+    "job_title": "AI/ML Engineer",
+    "employer_name": "Elder Research",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAG94AGsQDIJhC6jkCedW849SoBhhntyQ0l1MC&s=0",
+    "employer_website": "https://www.elderresearch.com",
+    "job_publisher": "Women For Hire- Job Board",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.womenforhire.com/job/usa/glenmont-md/ai-ml-engineer-391352/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Women For Hire- Job Board",
+        "apply_link": "https://jobs.womenforhire.com/job/usa/glenmont-md/ai-ml-engineer-391352/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "AI/ML Engineer\n\nGeneral Information\n\nRequisition # 658\n\nLocations USA-VA-Arlington\n\nPosting Date 02/10/2025\n\nSecurity Clearance Required - Public Trust\n\nRemote Type Hybrid\n\nTime Type Full time\n\nDescription & Requirements\n\nElder Research Inc., a wholly owned subsidiary of MANTECH international Corporation seeks a motivated, career and customer-oriented AI/ML Engineer. The mid-level AI/ML Engineer will assist in the design, deployment, and operation of production-grade AI systems that support the customer’s Sentinel model—helping protect more consumers, faster, from a wider range of hazards by using analytics to reduce time to intervention. This role involves end-to-end model lifecycle engineering on Azure, applying advanced MLOps best practices, and building AI agents (using Copilot Studio and Python frameworks) that convert signals into timely, actionable decisions.\n\nResponsibilities include but are not limited to:\n• Build, Deploy & Maintain ML Models\n• Implement, productionize, and optimize ML solutions (supervised/unsupervised, NLP, deep learning) with robust data preprocessing, feature engineering, evaluation, and calibration pipelines to ensure reliability, fairness, and performance at scale.\n• MLOps & Data Engineering (Azure)\n• Establish end-to-end MLOps workflows including CI/CD, experiment tracking, model registry, reproducible builds, and deployments.\n• Design high-quality data pipelines (ingest, transform, validate) across structured and unstructured sources, enforce data contracts/lineage, and collaborate with analytics teams to make datasets discoverable, documented, and performant.\n• Implement model monitoring (drift, data/feature quality, bias, business KPIs), alerting, and automated rollback for safe, responsive systems.\n• AI Agents & System Integration\n• Build AI agents using Copilot Studio and Python frameworks to operationalize safety analytics, accelerating triage and decision-making.\n• Integrate agents with APIs, event streams, dashboards, and case management systems to reduce time from signal to action.\n• Engineering Excellence, Governance & Agile Delivery\n• Champion secure-by-design practices, reproducibility, and auditability (model cards, data sheets, deployment records).\n• Contribute to coding standards, code reviews, knowledge sharing, and mentoring.\n• Work in Agile teams to drive iterative delivery, continuous improvement, and translate mission goals into technical roadmaps and measurable outcomes tied to Sentinel time-to-intervention targets.\n\nMinimum Qualifications:\n• Experience & Education:\n• 3+ years hands-on developing and deploying AI/ML models in production environments.\n• Bachelor’s degree or equivalent professional experience in Computer Science, Data Science, Mathematics, Statistics, Engineering, or a related field.\n• Programming & ML Expertise:\n• Proficient in Python, including packaging, testing, and performance optimization.\n• Solid understanding of ML algorithms, model selection, training, validation, optimization, and evaluation at scale.\n• Skilled in data preprocessing, feature engineering, and visualization to support decision-making.\n• Deep Learning, MLOps & Cloud:\n• Experienced with PyTorch/TensorFlow and modern MLOps practices, including deployment, monitoring, scaling, CI/CD, experiment tracking, and model registry.\n• Hands-on experience with Azure for AI/ML workloads (Azure ML, Azure Synapse, Azure Data Lake).\n• AI Agents & Integration:\n• Experience developing AI agents using Copilot Studio and Python frameworks, including tooling, orchestration, retrieval, and connectors.\n\nPreferred Qualifications:\n• Experience with streaming and event-driven architectures (Event Hubs), feature stores, and vector databases for retrieval-augmented generation.\n• Hands-on with responsible AI practices (fairness, explainability, privacy), model governance (model cards, audits), and cloud ML security.\n• Familiarity with domain-specific risk analytics and working in public-sector or regulated environments.\n• Azure AI/ML and/or MLOps certifications considered advantageous.\n\nClearance Requirements:\n• Current Public Trust Desired\n• Must be a US Citizen and be able to obtain and maintain a Public Trust clearance prior to starting this position\n\nAbout Elder Research, Inc - People Centered. Data Driven\n\nElder Research considers all qualified applicants for employment without regard to disability or veteran status or any other status protected under any federal, state, or local law or regulation.\n\nIf you need a reasonable accommodation to apply for a position with Elder Research, please email us at careers@elderresearch.com and provide your name and contact information.\n\nEqual Opportunity Employer, including disability/protected veterans\n\nEqual employment opportunity, including veterans and individuals with disabilities.\n\nPI282251333",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Glenmont",
+    "job_city": "Wheaton-Glenmont",
+    "job_state": "Maryland",
+    "job_country": "US",
+    "job_latitude": 39.058552999999996,
+    "job_longitude": -77.04997,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DReqi7GbLPevA-3KYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Security Clearance Required - Public Trust",
+        "Experience & Education:",
+        "3+ years hands-on developing and deploying AI/ML models in production environments",
+        "Bachelor’s degree or equivalent professional experience in Computer Science, Data Science, Mathematics, Statistics, Engineering, or a related field",
+        "Programming & ML Expertise:",
+        "Proficient in Python, including packaging, testing, and performance optimization",
+        "Solid understanding of ML algorithms, model selection, training, validation, optimization, and evaluation at scale",
+        "Skilled in data preprocessing, feature engineering, and visualization to support decision-making",
+        "Deep Learning, MLOps & Cloud:",
+        "Experienced with PyTorch/TensorFlow and modern MLOps practices, including deployment, monitoring, scaling, CI/CD, experiment tracking, and model registry",
+        "Hands-on experience with Azure for AI/ML workloads (Azure ML, Azure Synapse, Azure Data Lake)",
+        "AI Agents & Integration:",
+        "Experience developing AI agents using Copilot Studio and Python frameworks, including tooling, orchestration, retrieval, and connectors",
+        "Must be a US Citizen and be able to obtain and maintain a Public Trust clearance prior to starting this position"
+      ],
+      "Benefits": [
+        "Equal employment opportunity, including veterans and individuals with disabilities"
+      ],
+      "Responsibilities": [
+        "This role involves end-to-end model lifecycle engineering on Azure, applying advanced MLOps best practices, and building AI agents (using Copilot Studio and Python frameworks) that convert signals into timely, actionable decisions",
+        "Build, Deploy & Maintain ML Models",
+        "Implement, productionize, and optimize ML solutions (supervised/unsupervised, NLP, deep learning) with robust data preprocessing, feature engineering, evaluation, and calibration pipelines to ensure reliability, fairness, and performance at scale",
+        "MLOps & Data Engineering (Azure)",
+        "Establish end-to-end MLOps workflows including CI/CD, experiment tracking, model registry, reproducible builds, and deployments",
+        "Design high-quality data pipelines (ingest, transform, validate) across structured and unstructured sources, enforce data contracts/lineage, and collaborate with analytics teams to make datasets discoverable, documented, and performant",
+        "Implement model monitoring (drift, data/feature quality, bias, business KPIs), alerting, and automated rollback for safe, responsive systems",
+        "AI Agents & System Integration",
+        "Build AI agents using Copilot Studio and Python frameworks to operationalize safety analytics, accelerating triage and decision-making",
+        "Integrate agents with APIs, event streams, dashboards, and case management systems to reduce time from signal to action",
+        "Engineering Excellence, Governance & Agile Delivery",
+        "Champion secure-by-design practices, reproducibility, and auditability (model cards, data sheets, deployment records)",
+        "Contribute to coding standards, code reviews, knowledge sharing, and mentoring",
+        "Work in Agile teams to drive iterative delivery, continuous improvement, and translate mission goals into technical roadmaps and measurable outcomes tied to Sentinel time-to-intervention targets"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "jobs-womenforhire-com-job-usa-glenmont-md-ai-ml-engineer-391352",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "X2S-G4Aqs04y7tIdAAAAAA==",
+    "job_title": "Senior Machine Learning Engineer, Specialist | Charlotte, NC, USA",
+    "employer_name": "Vanguard Group, Inc.",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgHiAIcXDulYL7Ihh4ES2OFT_0rHmxmfmGRz-C&s=0",
+    "employer_website": "https://investor.vanguard.com",
+    "job_publisher": "EFinancialCareers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.efinancialcareers.com/jobs-USA-NC-Charlotte-Senior_Machine_Learning_Engineer_Specialist.id23819644?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "EFinancialCareers",
+        "apply_link": "https://www.efinancialcareers.com/jobs-USA-NC-Charlotte-Senior_Machine_Learning_Engineer_Specialist.id23819644?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Senior Machine Learning Engineer, Specialist\n\nOverview:\n\nWe are seeking an experienced Senior Machine Learning Engineer to join our AI/ML Engineering team. You will be responsible for developing and optimizing complex data pipelines, integrating model pipelines, and building scalable AI/ML solutions, including large language models (LLMs). The ideal candidate will possess a robust background in traditional machine learning, deep learning, and significant experience with large datasets and cloud-based AI services.\n\nResponsibilities:\n\n• Develop and optimize complex data pipelines, applying machine learning engineering principles to enhance efficiency and scalability.\n• Integrate and optimize data and model pipelines within production environments, diagnosing data inconsistencies and documenting assumptions.\n• Employ experimental methodologies, statistics, and machine learning concepts to create self-running AI systems for predictive modeling.\n• Collaborate with data science teams to review model-ready datasets and feature documentation, ensuring completeness and accuracy.\n• Perform data discovery and analysis of raw data sources, applying business context to meet model development needs.\n• Comfort with exploratory data exploration and tracking data lineage during inception or root cause analysis.\n• Engage with internal stakeholders to understand business processes and translate requirements into analytical approaches.\n• Write and maintain model monitoring scripts, diagnosing issues and coordinating resolutions based on alerts.\n• Serve as a domain expert in machine learning engineering on cross-functional teams for significant initiatives.\n• Stay updated with the latest advancements in AI/ML and apply them to real-world challenges.\n• Participate in special projects and additional duties as assigned.\nQualifications:\n\n• Undergraduate degree or equivalent experience; a graduate degree is preferred.\n• Minimum of 8 years of relevant work experience.\n• At least 3 years of hands-on experience designing ETL pipelines using AWS services (e.g., Glue, SageMaker).\n• Proficiency in programming languages, particularly Python (including PySpark, PySQL) and familiarity with machine learning libraries and frameworks.\n• Strong understanding of cloud technologies, including AWS and Azure, and experience with NoSQL databases.\n• Familiarity with Feature Store usage, LLMs, GenAI, RAG, Prompt Engineering, and Model Evaluation.\n• Experience with API design and development is a plus.\n• Solid understanding of software engineering principles, including design patterns, testing, security, and version control.\n• Knowledge of Machine Learning Development Lifecycle (MDLC) best practices and protocols.\n• Understanding of solution architecture for building end-to-end machine learning data pipelines.\nSpecial Factors\n\nSponsorship\nVanguard is not offering visa sponsorship for this position.\n\nAbout Vanguard\n\nAt Vanguard, we don't just have a mission-we're on a mission.\n\nTo work for the long-term financial wellbeing of our clients. To lead through product and services that transform our clients' lives. To learn and develop our skills as individuals and as a team. From Malvern to Melbourne, our mission drives us forward and inspires us to be our best.\n\nHow We Work\n\nVanguard has implemented a hybrid working model for the majority of our crew members, designed to capture the benefits of enhanced flexibility while enabling in-person learning, collaboration, and connection. We believe our mission-driven and highly collaborative culture is a critical enabler to support long-term client outcomes and enrich the employee experience.",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Charlotte, NC",
+    "job_city": "Charlotte",
+    "job_state": "North Carolina",
+    "job_country": "US",
+    "job_latitude": 35.2270768,
+    "job_longitude": -80.84089329999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DX2S-G4Aqs04y7tIdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Minimum of 8 years of relevant work experience",
+        "At least 3 years of hands-on experience designing ETL pipelines using AWS services (e.g., Glue, SageMaker)",
+        "Proficiency in programming languages, particularly Python (including PySpark, PySQL) and familiarity with machine learning libraries and frameworks",
+        "Strong understanding of cloud technologies, including AWS and Azure, and experience with NoSQL databases",
+        "Familiarity with Feature Store usage, LLMs, GenAI, RAG, Prompt Engineering, and Model Evaluation",
+        "Solid understanding of software engineering principles, including design patterns, testing, security, and version control",
+        "Knowledge of Machine Learning Development Lifecycle (MDLC) best practices and protocols",
+        "Understanding of solution architecture for building end-to-end machine learning data pipelines"
+      ],
+      "Benefits": [
+        "Vanguard is not offering visa sponsorship for this position"
+      ],
+      "Responsibilities": [
+        "You will be responsible for developing and optimizing complex data pipelines, integrating model pipelines, and building scalable AI/ML solutions, including large language models (LLMs)",
+        "The ideal candidate will possess a robust background in traditional machine learning, deep learning, and significant experience with large datasets and cloud-based AI services",
+        "Develop and optimize complex data pipelines, applying machine learning engineering principles to enhance efficiency and scalability",
+        "Integrate and optimize data and model pipelines within production environments, diagnosing data inconsistencies and documenting assumptions",
+        "Employ experimental methodologies, statistics, and machine learning concepts to create self-running AI systems for predictive modeling",
+        "Collaborate with data science teams to review model-ready datasets and feature documentation, ensuring completeness and accuracy",
+        "Perform data discovery and analysis of raw data sources, applying business context to meet model development needs",
+        "Comfort with exploratory data exploration and tracking data lineage during inception or root cause analysis",
+        "Engage with internal stakeholders to understand business processes and translate requirements into analytical approaches",
+        "Write and maintain model monitoring scripts, diagnosing issues and coordinating resolutions based on alerts",
+        "Serve as a domain expert in machine learning engineering on cross-functional teams for significant initiatives",
+        "Stay updated with the latest advancements in AI/ML and apply them to real-world challenges",
+        "Participate in special projects and additional duties as assigned"
+      ]
+    },
+    "job_onet_soc": "15115100",
+    "job_onet_job_zone": "3",
+    "id": "www-efinancialcareers-com-jobs-usa-nc-charlotte-senior_machine_learning_engineer_specialist-id23819644",
     "_source": "new_jobs"
   },
   {
@@ -1827,8 +1988,8 @@
     "job_longitude": -77.0369274,
     "job_benefits": [
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DXXbd-rExV33smOOMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1895,7 +2056,7 @@
     "job_title": "Sr Applied AI/ML Engineer",
     "employer_name": "The Hartford Financial Services Group, Inc.",
     "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6e4bisJ-_4gcHTHn5gBD9HClk154Q0o7XocXq&s=0",
-    "employer_website": "https://www.thehartford.com",
+    "employer_website": "https://ir.thehartford.com",
     "job_publisher": "Built In Chicago",
     "job_employment_type": "Full-time",
     "job_employment_types": [
@@ -2190,9 +2351,9 @@
     "job_latitude": 40.7127753,
     "job_longitude": -74.0059728,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DpBQtmrhvzLPLAp9VAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
