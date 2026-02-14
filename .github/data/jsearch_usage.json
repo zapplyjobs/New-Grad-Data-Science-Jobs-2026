@@ -1,11 +1,12 @@
 {
   "date": "Sat Feb 14 2026",
-  "requests": 4,
-  "remaining": 26,
+  "requests": 5,
+  "remaining": 25,
   "queries_executed": [
     "machine learning intern",
     "machine learning intern",
     "machine learning intern",
-    "ai researcher"
+    "ai researcher",
+    "applied scientist"
   ]
 }
