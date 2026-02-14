@@ -68,11 +68,6 @@
         "is_direct": false
       },
       {
-        "publisher": "Workday",
-        "apply_link": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/XMLNAME-2026-AI-Engineer-Intern---Remote_R10222395?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
         "publisher": "ZipRecruiter",
         "apply_link": "https://www.ziprecruiter.com/c/Datacor/Job/Summer-2026-AI-Engineer-Intern/-in-Remote,US?jid=8790198fd1573cd6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
@@ -83,7 +78,7 @@
         "is_direct": true
       },
       {
-        "publisher": "Built In",
+        "publisher": "Tech Jobs Personalized",
         "apply_link": "https://builtin.com/job/summer-2026-ai-engineer-intern/7602738?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
       },
@@ -93,13 +88,18 @@
         "is_direct": false
       },
       {
-        "publisher": "Dice",
-        "apply_link": "https://www.dice.com/job-detail/d61446c4-be1a-4b04-a1a9-371838013a00?q=Filing&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Himalayas.app",
+        "apply_link": "https://himalayas.app/companies/datacor/jobs/summer-2026-ai-engineer-intern-9822845221?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Himalayas",
-        "apply_link": "https://himalayas.app/companies/datacor/jobs/summer-2026-ai-engineer-intern-9822845221?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/69424597bdcf884a5ade213e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Ascend.mysmartpros",
+        "apply_link": "https://ascend.mysmartpros.com/job/1070582?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
@@ -186,9 +186,9 @@
     "job_latitude": 38.7512726,
     "job_longitude": -77.4706769,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DBtreP3qlhjzlneT2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -239,99 +239,6 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "www-lockheedmartinjobs-com-job-liverpool-advanced-quality-ai-engineer-sr-694-91636062464",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "2IO-n13T37uIA1-3AAAAAA==",
-    "job_title": "Legal AI Engineer",
-    "employer_name": "Husch Blackwell LLP",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTINU-ZIhDa4rZ_R8TkcN4EWHAM8jZLmEJgKGEt&s=0",
-    "employer_website": "https://www.huschblackwell.com",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Husch-Blackwell/Job/Legal-AI-Engineer/-in-Providence,RI?jid=17d1519121b87942&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Husch-Blackwell/Job/Legal-AI-Engineer/-in-Providence,RI?jid=17d1519121b87942&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "Husch Blackwell LLP is a full-service litigation and business law firm with multiple locations across the United States, serving clients with domestic and international operations.\n\nAt Husch Blackwell we believe that diverse, equitable and inclusive teams lead to better outcomes. Husch Blackwell is committed to retaining, recruiting, developing, and promoting talented lawyers and business professionals with diverse backgrounds and experiences. We foster an engaged, diverse, and inclusive team culture of accountability and purpose that makes our Firm and our communities better.\n\nOur firm is committed to attracting and retaining professionals who value each other and the service we provide by embracing Teamwork, Collaboration, Client Service, and Innovation. If you are a motivated professional looking for a long-term fit where you can grow in a role, and will be valued and empowered, then we invite you to apply to our Legal AI Engineer position. This position may be filled remotely, or in any of our locations.\n\nThe Legal AI Engineer is responsible for designing, building, and optimizing AI-powered workflows and prompts that transform how attorneys deliver legal services. Working closely with practice groups, KMI Attorneys, and subject matter experts, this role bridges the gap between legal expertise and AI technology, turning the theoretical promise of these tools into dependable, scalable solutions that drive efficiency and enhance client service. The Legal AI Engineer reports to the Knowledge Management & Innovation Manager - AI Strategy. Essential functions include:\n\nAI Workflow Development & Prompt Engineering\n• Design, develop, and iterate AI workflows tailored to specific practice areas and legal use cases, testing outputs for accuracy, consistency, and alignment with legal standards and client expectations.\n• Partner with attorneys, KMI Attorneys, and IT teams to understand legal processes and translate them into effective AI-enabled solutions using firm-approved tools.\n• Document prompt libraries, workflow configurations, and best practices to enable scalability and knowledge sharing across the firm.\n• Continuously evaluate and improve existing AI workflows based on user feedback, evolving AI capabilities, and changing practice needs.\n\nPractice Group Collaboration\n• Serve as a resource to practice groups, understanding their unique workflows, pain points, and opportunities for AI-driven improvement.\n• Conduct intake sessions with attorneys to identify high-value use cases and prioritize AI initiatives based on impact and feasibility.\n• Collaborate with KMI Attorneys and practice service centers to ensure AI solutions align with existing knowledge resources, templates, and practice standards.\n• Translate complex legal requirements into technical specifications for AI workflows, ensuring outputs meet the substantive needs of each practice area.\n\nQuality Assurance & Compliance\n• Test AI outputs for accuracy, completeness, and adherence to legal, ethical, and alignment with firm standards.\n• Support compliance with firm AI governance policies in all AI implementations.\n• Document testing protocols, outcomes, and lessons learned; identify and escalate risks as appropriate.\n• Stay current on AI developments, regulatory changes, and industry best practices; share relevant insights with the KMI team.\n\nTraining & Adoption Support\n• Collaborate with training and knowledge management teams to develop resources that help attorneys effectively use AI tools.\n• Contribute to adoption initiatives by gathering user feedback and sharing insights that inform tool improvements and training approaches.\n• Support attorneys in integrating AI solutions into their workflows through responsive guidance and troubleshooting.\n\nProject Support & Reporting\n• Coordinate tasks, timelines, and stakeholders for AI workflow development initiatives.\n• Track and report project status, adoption metrics, and outcomes to KMI leadership.\n• Contribute to the development of scalable playbooks and processes that support the growth of the legal engineering function.\n\nPHYSICAL REQUIREMENTS\n\nThe employee may be required to be stationary for prolonged periods, open filing cabinets and bend or stand as necessary, be able to inspect and observe information on a computer screen at least 80% of the time, and, on occasion, have the ability to lift and carry 25-35 pounds.\n\nPOSITION REQUIREMENTS\n• J.D. from an accredited law school strongly preferred; candidates with 5+ years of experience driving innovation, technology adoption, or AI implementation at a large law firm or legal technology provider will also be considered.\n• 3+ years of experience in legal practice, legal operations, legal technology, knowledge management, or a related field with demonstrated exposure to AI-enabled tools.\n• Hands-on experience with prompt engineering, AI workflow development, or configuring legal AI platforms (e.g., Legora, Harvey, CoCounsel, NetDocuments, Microsoft Copilot, or similar tools ).\n• Experience working directly with end users to drive technology adoption.\n• Strong understanding of legal workflows, practice area nuances, and attorney work product standards.\n• Excellent written and verbal communication skills with the ability to translate technical concepts for legal audiences and legal requirements for technical teams.\n• Demonstrated analytical, problem-solving, and organizational skills; comfort working cross-functionally with attorneys, IT, and business teams.\n• Intellectual curiosity about AI and emerging legal technology; passion for transforming legal service delivery.\n• Ability to work independently while thriving in a collaborative, fast-paced environment.\n• Strong interpersonal skills with the ability to build credibility and collaborative relationships with attorneys across practice groups and seniority levels.\n\nThe above is intended to describe the general content of and requirements for the performance of this job. It is not to be construed as an exhaustive statement of essential functions, responsibilities, or requirements. The Firm will provide reasonable accommodations as necessary to allow an individual with a disability to apply for and/or perform the essential functions of a position. If you need assistance to accommodate a disability, please contact HR.\n\nCOMPENSATION AND BENEFITS\n\nEmployees are entitled to compensation commensurate with skill and experience. The exact compensation will vary based on skills, experience, location, and other factors permitted by law. The expected compensation ranges for this position in various states and jurisdictions are as follows:\n• State of California: $151,000 - $308,000\n• State of Colorado: $139,000 - $248,000\n• State of Illinois: $136,000 - $265,000\n• State of Massachusetts: $151,000 - $289,000\n• State of Maryland: $146,000 - $222,000\n• State of Minnesota: $151,000 - $250,000\n• Jersey City, NJ: $164,000 - $297,000\n• State of New York: $141,000 - $304,000\n• State of Vermont: $149,000 - $286,000\n• State of Washington: $146,000 - $278,000\n• Washington, D.C.: $195,000 - $286,000\n\nThe above salaries do not include a discretionary bonus, however bonus opportunities are non-guaranteed, and are dependent upon individual and firm performance. Full-time employees receive benefits including: medical and dental coverage; life insurance; short-term and long-term disability insurance; pre-tax flexible spending account for certain medical and dependent care expenses; an employee assistance program; Paid Time Off; paid holidays; participation in a retirement plan program after meeting eligibility requirements; and more.\n\nPlease include a cover letter and resume when applying.\n\nEOE/Minority/Female/Disabled/Vet. Principal Applicants Only.\n\n#LI-Remote\n#LI-KW1",
-    "job_is_remote": false,
-    "job_posted_at": "16 hours ago",
-    "job_posted_at_timestamp": 1771048800,
-    "job_posted_at_datetime_utc": "2026-02-14T06:00:00.000Z",
-    "job_location": "Providence, RI",
-    "job_city": "Providence",
-    "job_state": "Rhode Island",
-    "job_country": "US",
-    "job_latitude": 41.8244836,
-    "job_longitude": -71.4127462,
-    "job_benefits": [
-      "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D2IO-n13T37uIA1-3AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "The employee may be required to be stationary for prolonged periods, open filing cabinets and bend or stand as necessary, be able to inspect and observe information on a computer screen at least 80% of the time, and, on occasion, have the ability to lift and carry 25-35 pounds",
-        "3+ years of experience in legal practice, legal operations, legal technology, knowledge management, or a related field with demonstrated exposure to AI-enabled tools",
-        "Hands-on experience with prompt engineering, AI workflow development, or configuring legal AI platforms (e.g., Legora, Harvey, CoCounsel, NetDocuments, Microsoft Copilot, or similar tools )",
-        "Experience working directly with end users to drive technology adoption",
-        "Strong understanding of legal workflows, practice area nuances, and attorney work product standards",
-        "Excellent written and verbal communication skills with the ability to translate technical concepts for legal audiences and legal requirements for technical teams",
-        "Demonstrated analytical, problem-solving, and organizational skills; comfort working cross-functionally with attorneys, IT, and business teams",
-        "Intellectual curiosity about AI and emerging legal technology; passion for transforming legal service delivery",
-        "Ability to work independently while thriving in a collaborative, fast-paced environment",
-        "Strong interpersonal skills with the ability to build credibility and collaborative relationships with attorneys across practice groups and seniority levels"
-      ],
-      "Benefits": [
-        "COMPENSATION AND BENEFITS",
-        "Employees are entitled to compensation commensurate with skill and experience",
-        "The exact compensation will vary based on skills, experience, location, and other factors permitted by law",
-        "State of Minnesota: $151,000 - $250,000",
-        "The above salaries do not include a discretionary bonus, however bonus opportunities are non-guaranteed, and are dependent upon individual and firm performance",
-        "Full-time employees receive benefits including: medical and dental coverage; life insurance; short-term and long-term disability insurance; pre-tax flexible spending account for certain medical and dependent care expenses; an employee assistance program; Paid Time Off; paid holidays; participation in a retirement plan program after meeting eligibility requirements; and more"
-      ],
-      "Responsibilities": [
-        "AI Workflow Development & Prompt Engineering",
-        "Design, develop, and iterate AI workflows tailored to specific practice areas and legal use cases, testing outputs for accuracy, consistency, and alignment with legal standards and client expectations",
-        "Partner with attorneys, KMI Attorneys, and IT teams to understand legal processes and translate them into effective AI-enabled solutions using firm-approved tools",
-        "Document prompt libraries, workflow configurations, and best practices to enable scalability and knowledge sharing across the firm",
-        "Continuously evaluate and improve existing AI workflows based on user feedback, evolving AI capabilities, and changing practice needs",
-        "Practice Group Collaboration",
-        "Serve as a resource to practice groups, understanding their unique workflows, pain points, and opportunities for AI-driven improvement",
-        "Conduct intake sessions with attorneys to identify high-value use cases and prioritize AI initiatives based on impact and feasibility",
-        "Collaborate with KMI Attorneys and practice service centers to ensure AI solutions align with existing knowledge resources, templates, and practice standards",
-        "Translate complex legal requirements into technical specifications for AI workflows, ensuring outputs meet the substantive needs of each practice area",
-        "Test AI outputs for accuracy, completeness, and adherence to legal, ethical, and alignment with firm standards",
-        "Support compliance with firm AI governance policies in all AI implementations",
-        "Document testing protocols, outcomes, and lessons learned; identify and escalate risks as appropriate",
-        "Stay current on AI developments, regulatory changes, and industry best practices; share relevant insights with the KMI team",
-        "Training & Adoption Support",
-        "Collaborate with training and knowledge management teams to develop resources that help attorneys effectively use AI tools",
-        "Contribute to adoption initiatives by gathering user feedback and sharing insights that inform tool improvements and training approaches",
-        "Support attorneys in integrating AI solutions into their workflows through responsive guidance and troubleshooting",
-        "Project Support & Reporting",
-        "Coordinate tasks, timelines, and stakeholders for AI workflow development initiatives",
-        "Track and report project status, adoption metrics, and outcomes to KMI leadership",
-        "Contribute to the development of scalable playbooks and processes that support the growth of the legal engineering function",
-        "The Firm will provide reasonable accommodations as necessary to allow an individual with a disability to apply for and/or perform the essential functions of a position"
-      ]
-    },
-    "job_onet_soc": "23101100",
-    "job_onet_job_zone": "5",
-    "id": "www-ziprecruiter-com-c-husch-blackwell-job-legal-ai-engineer-in-providence-ri",
     "_source": "new_jobs"
   },
   {
@@ -404,68 +311,96 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "SNlvBXvPp-6bbsthAAAAAA==",
-    "job_title": "AI Engineer",
-    "employer_name": "MassMutual",
-    "employer_logo": null,
-    "employer_website": "https://www.massmutual.com",
-    "job_publisher": "Women For Hire- Job Board",
+    "job_id": "2IO-n13T37uIA1-3AAAAAA==",
+    "job_title": "Legal AI Engineer",
+    "employer_name": "Husch Blackwell LLP",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTINU-ZIhDa4rZ_R8TkcN4EWHAM8jZLmEJgKGEt&s=0",
+    "employer_website": "https://www.huschblackwell.com",
+    "job_publisher": "ZipRecruiter",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://jobs.womenforhire.com/job/usa/chicopee-ma/ai-engineer-582230/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
+    "job_apply_link": "https://www.ziprecruiter.com/c/Husch-Blackwell/Job/Legal-AI-Engineer/-in-Providence,RI?jid=17d1519121b87942&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
     "apply_options": [
       {
-        "publisher": "Women For Hire- Job Board",
-        "apply_link": "https://jobs.womenforhire.com/job/usa/chicopee-ma/ai-engineer-582230/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Husch-Blackwell/Job/Legal-AI-Engineer/-in-Providence,RI?jid=17d1519121b87942&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
       }
     ],
-    "job_description": "Job Description\n\nAI Engineer\n\nFull Time Hybrid (Boston, NYC, Springfield)\n\nThe Opportunity\n\nThis is a unique opportunity to work alongside experts in applied mathematics, statistics, computer science, and physics—collaborating on initiatives that shape the future of MassMutual and the life insurance industry at large.\n\nThe Team\n\nMassMutual’s Data Science team is seeking an impact-driven AI Engineer to join our high-performing, cross-functional team. In this role, you will develop and deploy advanced AI solutions that drive strategic decision-making and business transformation. You’ll apply cutting-edge techniques in machine learning, generative AI, and large language models (LLMs) to solve complex, high-value problems across the enterprise.\n\nThe Impact\n• Develop and deploy end-to-end ML/AI solutions supporting various use cases for a large enterprise using LLMs, deep learning, and probabilistic modeling—from ideation to production.\n• Deploy scalable GenAI and Agentic AI systems that directly support business goals.\n• Establish and promote best practices in AI development and responsible AI deployment.\n• Collaborate with engineering teams to build robust, production-grade AI pipelines and APIs.\n• Prototype and deliver AI-powered applications (e.g., web apps, dashboards, visualizations) that enable data-driven decisions.\n\nMinimum Requirements:\n• 5+ years proficiency in SQL and database design; familiarity with cloud-native data platforms, vector databases, and semantic search is a plus.\n• 5+ years skills in Python. Proficiency in R is a plus.\n• 5+ years experience Deep understanding of machine learning, statistics, NLP, optimization, and LLMs.\n• 3+ years of experience in data science, machine learning, or AI engineering roles.\n• 2+ years experience Hands-on with AI deployment and orchestration frameworks and protocols (e.g., agentcore, strands, langchain, MCP, A2A).\n• 2+ years extensive experience and background in AI agents and LLM systems, including tool use, multi-step workflows, RAG, prompt management, and evaluating LLM and agentic behavior across a variety of foundation models and benchmarks.\n• 2+ years experience building AI-powered applications and collaborating with software engineers and product managers.\n• 2+ years experience with cloud-native development, containerization, and orchestration technologies such as Docker and Kubernetes\n• M.S. in Computer Science, Statistics, Applied Mathematics, Electrical Engineering, Physics, or a related quantitative field.\n\nIdeal Qualifications\n• Track record of delivering impactful solutions.\n• Exceptional communication skills, with the ability to explain complex concepts to non-technical stakeholders.\n\n#LI-SC1\n\nMassMutual is an equal employment opportunity employer. We welcome all persons to apply.\n\nIf you need an accommodation to complete the application process, please contact us and share the specifics of the assistance you need.\n\nCalifornia residents: For detailed information about your rights under the California Consumer Privacy Act (CCPA), please visit our California Consumer Privacy Act Disclosures page.",
+    "job_description": "Husch Blackwell LLP is a full-service litigation and business law firm with multiple locations across the United States, serving clients with domestic and international operations.\n\nAt Husch Blackwell we believe that diverse, equitable and inclusive teams lead to better outcomes. Husch Blackwell is committed to retaining, recruiting, developing, and promoting talented lawyers and business professionals with diverse backgrounds and experiences. We foster an engaged, diverse, and inclusive team culture of accountability and purpose that makes our Firm and our communities better.\n\nOur firm is committed to attracting and retaining professionals who value each other and the service we provide by embracing Teamwork, Collaboration, Client Service, and Innovation. If you are a motivated professional looking for a long-term fit where you can grow in a role, and will be valued and empowered, then we invite you to apply to our Legal AI Engineer position. This position may be filled remotely, or in any of our locations.\n\nThe Legal AI Engineer is responsible for designing, building, and optimizing AI-powered workflows and prompts that transform how attorneys deliver legal services. Working closely with practice groups, KMI Attorneys, and subject matter experts, this role bridges the gap between legal expertise and AI technology, turning the theoretical promise of these tools into dependable, scalable solutions that drive efficiency and enhance client service. The Legal AI Engineer reports to the Knowledge Management & Innovation Manager - AI Strategy. Essential functions include:\n\nAI Workflow Development & Prompt Engineering\n• Design, develop, and iterate AI workflows tailored to specific practice areas and legal use cases, testing outputs for accuracy, consistency, and alignment with legal standards and client expectations.\n• Partner with attorneys, KMI Attorneys, and IT teams to understand legal processes and translate them into effective AI-enabled solutions using firm-approved tools.\n• Document prompt libraries, workflow configurations, and best practices to enable scalability and knowledge sharing across the firm.\n• Continuously evaluate and improve existing AI workflows based on user feedback, evolving AI capabilities, and changing practice needs.\n\nPractice Group Collaboration\n• Serve as a resource to practice groups, understanding their unique workflows, pain points, and opportunities for AI-driven improvement.\n• Conduct intake sessions with attorneys to identify high-value use cases and prioritize AI initiatives based on impact and feasibility.\n• Collaborate with KMI Attorneys and practice service centers to ensure AI solutions align with existing knowledge resources, templates, and practice standards.\n• Translate complex legal requirements into technical specifications for AI workflows, ensuring outputs meet the substantive needs of each practice area.\n\nQuality Assurance & Compliance\n• Test AI outputs for accuracy, completeness, and adherence to legal, ethical, and alignment with firm standards.\n• Support compliance with firm AI governance policies in all AI implementations.\n• Document testing protocols, outcomes, and lessons learned; identify and escalate risks as appropriate.\n• Stay current on AI developments, regulatory changes, and industry best practices; share relevant insights with the KMI team.\n\nTraining & Adoption Support\n• Collaborate with training and knowledge management teams to develop resources that help attorneys effectively use AI tools.\n• Contribute to adoption initiatives by gathering user feedback and sharing insights that inform tool improvements and training approaches.\n• Support attorneys in integrating AI solutions into their workflows through responsive guidance and troubleshooting.\n\nProject Support & Reporting\n• Coordinate tasks, timelines, and stakeholders for AI workflow development initiatives.\n• Track and report project status, adoption metrics, and outcomes to KMI leadership.\n• Contribute to the development of scalable playbooks and processes that support the growth of the legal engineering function.\n\nPHYSICAL REQUIREMENTS\n\nThe employee may be required to be stationary for prolonged periods, open filing cabinets and bend or stand as necessary, be able to inspect and observe information on a computer screen at least 80% of the time, and, on occasion, have the ability to lift and carry 25-35 pounds.\n\nPOSITION REQUIREMENTS\n• J.D. from an accredited law school strongly preferred; candidates with 5+ years of experience driving innovation, technology adoption, or AI implementation at a large law firm or legal technology provider will also be considered.\n• 3+ years of experience in legal practice, legal operations, legal technology, knowledge management, or a related field with demonstrated exposure to AI-enabled tools.\n• Hands-on experience with prompt engineering, AI workflow development, or configuring legal AI platforms (e.g., Legora, Harvey, CoCounsel, NetDocuments, Microsoft Copilot, or similar tools ).\n• Experience working directly with end users to drive technology adoption.\n• Strong understanding of legal workflows, practice area nuances, and attorney work product standards.\n• Excellent written and verbal communication skills with the ability to translate technical concepts for legal audiences and legal requirements for technical teams.\n• Demonstrated analytical, problem-solving, and organizational skills; comfort working cross-functionally with attorneys, IT, and business teams.\n• Intellectual curiosity about AI and emerging legal technology; passion for transforming legal service delivery.\n• Ability to work independently while thriving in a collaborative, fast-paced environment.\n• Strong interpersonal skills with the ability to build credibility and collaborative relationships with attorneys across practice groups and seniority levels.\n\nThe above is intended to describe the general content of and requirements for the performance of this job. It is not to be construed as an exhaustive statement of essential functions, responsibilities, or requirements. The Firm will provide reasonable accommodations as necessary to allow an individual with a disability to apply for and/or perform the essential functions of a position. If you need assistance to accommodate a disability, please contact HR.\n\nCOMPENSATION AND BENEFITS\n\nEmployees are entitled to compensation commensurate with skill and experience. The exact compensation will vary based on skills, experience, location, and other factors permitted by law. The expected compensation ranges for this position in various states and jurisdictions are as follows:\n• State of California: $151,000 - $308,000\n• State of Colorado: $139,000 - $248,000\n• State of Illinois: $136,000 - $265,000\n• State of Massachusetts: $151,000 - $289,000\n• State of Maryland: $146,000 - $222,000\n• State of Minnesota: $151,000 - $250,000\n• Jersey City, NJ: $164,000 - $297,000\n• State of New York: $141,000 - $304,000\n• State of Vermont: $149,000 - $286,000\n• State of Washington: $146,000 - $278,000\n• Washington, D.C.: $195,000 - $286,000\n\nThe above salaries do not include a discretionary bonus, however bonus opportunities are non-guaranteed, and are dependent upon individual and firm performance. Full-time employees receive benefits including: medical and dental coverage; life insurance; short-term and long-term disability insurance; pre-tax flexible spending account for certain medical and dependent care expenses; an employee assistance program; Paid Time Off; paid holidays; participation in a retirement plan program after meeting eligibility requirements; and more.\n\nPlease include a cover letter and resume when applying.\n\nEOE/Minority/Female/Disabled/Vet. Principal Applicants Only.\n\n#LI-Remote\n#LI-KW1",
     "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Chicopee, MA",
-    "job_city": "Chicopee",
-    "job_state": "Massachusetts",
+    "job_posted_at": "17 hours ago",
+    "job_posted_at_timestamp": 1771045200,
+    "job_posted_at_datetime_utc": "2026-02-14T05:00:00.000Z",
+    "job_location": "Providence, RI",
+    "job_city": "Providence",
+    "job_state": "Rhode Island",
     "job_country": "US",
-    "job_latitude": 42.1487043,
-    "job_longitude": -72.6078672,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DSNlvBXvPp-6bbsthAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_latitude": 41.8244836,
+    "job_longitude": -71.4127462,
+    "job_benefits": [
+      "paid_time_off",
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D2IO-n13T37uIA1-3AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "5+ years skills in Python",
-        "5+ years experience Deep understanding of machine learning, statistics, NLP, optimization, and LLMs",
-        "3+ years of experience in data science, machine learning, or AI engineering roles",
-        "2+ years experience Hands-on with AI deployment and orchestration frameworks and protocols (e.g., agentcore, strands, langchain, MCP, A2A)",
-        "2+ years extensive experience and background in AI agents and LLM systems, including tool use, multi-step workflows, RAG, prompt management, and evaluating LLM and agentic behavior across a variety of foundation models and benchmarks",
-        "2+ years experience building AI-powered applications and collaborating with software engineers and product managers",
-        "2+ years experience with cloud-native development, containerization, and orchestration technologies such as Docker and Kubernetes",
-        "M.S. in Computer Science, Statistics, Applied Mathematics, Electrical Engineering, Physics, or a related quantitative field",
-        "Track record of delivering impactful solutions",
-        "Exceptional communication skills, with the ability to explain complex concepts to non-technical stakeholders"
+        "The employee may be required to be stationary for prolonged periods, open filing cabinets and bend or stand as necessary, be able to inspect and observe information on a computer screen at least 80% of the time, and, on occasion, have the ability to lift and carry 25-35 pounds",
+        "3+ years of experience in legal practice, legal operations, legal technology, knowledge management, or a related field with demonstrated exposure to AI-enabled tools",
+        "Hands-on experience with prompt engineering, AI workflow development, or configuring legal AI platforms (e.g., Legora, Harvey, CoCounsel, NetDocuments, Microsoft Copilot, or similar tools )",
+        "Experience working directly with end users to drive technology adoption",
+        "Strong understanding of legal workflows, practice area nuances, and attorney work product standards",
+        "Excellent written and verbal communication skills with the ability to translate technical concepts for legal audiences and legal requirements for technical teams",
+        "Demonstrated analytical, problem-solving, and organizational skills; comfort working cross-functionally with attorneys, IT, and business teams",
+        "Intellectual curiosity about AI and emerging legal technology; passion for transforming legal service delivery",
+        "Ability to work independently while thriving in a collaborative, fast-paced environment",
+        "Strong interpersonal skills with the ability to build credibility and collaborative relationships with attorneys across practice groups and seniority levels"
+      ],
+      "Benefits": [
+        "COMPENSATION AND BENEFITS",
+        "Employees are entitled to compensation commensurate with skill and experience",
+        "The exact compensation will vary based on skills, experience, location, and other factors permitted by law",
+        "State of Minnesota: $151,000 - $250,000",
+        "The above salaries do not include a discretionary bonus, however bonus opportunities are non-guaranteed, and are dependent upon individual and firm performance",
+        "Full-time employees receive benefits including: medical and dental coverage; life insurance; short-term and long-term disability insurance; pre-tax flexible spending account for certain medical and dependent care expenses; an employee assistance program; Paid Time Off; paid holidays; participation in a retirement plan program after meeting eligibility requirements; and more"
       ],
       "Responsibilities": [
-        "In this role, you will develop and deploy advanced AI solutions that drive strategic decision-making and business transformation",
-        "You’ll apply cutting-edge techniques in machine learning, generative AI, and large language models (LLMs) to solve complex, high-value problems across the enterprise",
-        "Develop and deploy end-to-end ML/AI solutions supporting various use cases for a large enterprise using LLMs, deep learning, and probabilistic modeling—from ideation to production",
-        "Deploy scalable GenAI and Agentic AI systems that directly support business goals",
-        "Establish and promote best practices in AI development and responsible AI deployment",
-        "Collaborate with engineering teams to build robust, production-grade AI pipelines and APIs",
-        "Prototype and deliver AI-powered applications (e.g., web apps, dashboards, visualizations) that enable data-driven decisions"
+        "AI Workflow Development & Prompt Engineering",
+        "Design, develop, and iterate AI workflows tailored to specific practice areas and legal use cases, testing outputs for accuracy, consistency, and alignment with legal standards and client expectations",
+        "Partner with attorneys, KMI Attorneys, and IT teams to understand legal processes and translate them into effective AI-enabled solutions using firm-approved tools",
+        "Document prompt libraries, workflow configurations, and best practices to enable scalability and knowledge sharing across the firm",
+        "Continuously evaluate and improve existing AI workflows based on user feedback, evolving AI capabilities, and changing practice needs",
+        "Practice Group Collaboration",
+        "Serve as a resource to practice groups, understanding their unique workflows, pain points, and opportunities for AI-driven improvement",
+        "Conduct intake sessions with attorneys to identify high-value use cases and prioritize AI initiatives based on impact and feasibility",
+        "Collaborate with KMI Attorneys and practice service centers to ensure AI solutions align with existing knowledge resources, templates, and practice standards",
+        "Translate complex legal requirements into technical specifications for AI workflows, ensuring outputs meet the substantive needs of each practice area",
+        "Test AI outputs for accuracy, completeness, and adherence to legal, ethical, and alignment with firm standards",
+        "Support compliance with firm AI governance policies in all AI implementations",
+        "Document testing protocols, outcomes, and lessons learned; identify and escalate risks as appropriate",
+        "Stay current on AI developments, regulatory changes, and industry best practices; share relevant insights with the KMI team",
+        "Training & Adoption Support",
+        "Collaborate with training and knowledge management teams to develop resources that help attorneys effectively use AI tools",
+        "Contribute to adoption initiatives by gathering user feedback and sharing insights that inform tool improvements and training approaches",
+        "Support attorneys in integrating AI solutions into their workflows through responsive guidance and troubleshooting",
+        "Project Support & Reporting",
+        "Coordinate tasks, timelines, and stakeholders for AI workflow development initiatives",
+        "Track and report project status, adoption metrics, and outcomes to KMI leadership",
+        "Contribute to the development of scalable playbooks and processes that support the growth of the legal engineering function",
+        "The Firm will provide reasonable accommodations as necessary to allow an individual with a disability to apply for and/or perform the essential functions of a position"
       ]
     },
-    "job_onet_soc": "15111100",
+    "job_onet_soc": "23101100",
     "job_onet_job_zone": "5",
-    "id": "jobs-womenforhire-com-job-usa-chicopee-ma-ai-engineer-582230",
+    "id": "www-ziprecruiter-com-c-husch-blackwell-job-legal-ai-engineer-in-providence-ri",
     "_source": "new_jobs"
   },
   {
@@ -574,134 +509,118 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "R4GbvNneXTwXedzhAAAAAA==",
-    "job_title": "Senior AI Engineer - Full-time",
-    "employer_name": "Oracle",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Ob8wBy30IQeYJfM4qn_PksuLPYaC4sUtJLRK&s=0",
-    "employer_website": "https://www.oracle.com",
-    "job_publisher": "Snagajob",
+    "job_id": "pZTk-vKNGfogfbUwAAAAAA==",
+    "job_title": "AI/ML Engineer / Defence / $500k+ / NYC",
+    "employer_name": "Open Talent",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5VBgx8KlBbdjqLQH88l_TwwmH-QUYgusRejgN&s=0",
+    "employer_website": "https://www.opentalent.co",
+    "job_publisher": "LinkedIn",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.snagajob.com/jobs/1201580287?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/ai-ml-engineer-defence-%24500k%2B-nyc-at-open-talent-4359826559?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Snagajob",
-        "apply_link": "https://www.snagajob.com/jobs/1201580287?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/ai-ml-engineer-defence-%24500k%2B-nyc-at-open-talent-4359826559?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/69867a2e0f6f7e7a2ce17689?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Dice",
+        "apply_link": "https://www.dice.com/job-detail/58df6241-eca4-48b8-9e6b-aeadc86d7e64?q=Virtual+Private+Cloud&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.com",
+        "apply_link": "https://www.career.com/job/riverside-research/fpga-ai-ml-engineer-part-time/j202601291444192604989?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Techfetch",
+        "apply_link": "https://www.techfetch.com/job-description/ai-ml-engineer-developer-advanced-expert-new-york-city-ny-j3629285?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/9f1bc38e84b95df1e9c4211c80c855d4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobrapido",
+        "apply_link": "https://us.jobrapido.com/jobpreview/8631939812389027840?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-ny-new-york-remote-growth-insights-finance-ai-ml-engineer-insight?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "**Job Description**\n\nDesign, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc.\n\nAs part of this team you will be designing and developing new applications that will serve as the base line for own standard products here in Oracle. As a leading developer you will work with an international team to come up with solutions that solve our business needs on the best way possible, with increase emphasis on optimization and AI integration.\n\nYou will work with new technologies, languages and design patterns like\n\n+ Micro services\n\n+ Kafka\n\n+ Helidon\n\n+ Groovy\n\n+ AI Agents\n\nThis role requires 3 to 5 year of experience on the field and a BS or MS degree relevant to the functional area. Proven experience with Java or Python development is required. Experience with AI design and development is good to have.\n• *Responsibilities**\n\nAs a member of the software engineering division, you will assist in\n\n+ Defining and developing software for tasks associated to our business users and the required software applications on the area.\n\n+ Provide technical leadership to other software developers.\n\n+ Specify, design and implement modest changes to existing software architecture to meet changing needs.\n\n\\#LI-JS14\n\nDisclaimer:\n• *Certain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates.**\n• *Range and benefit information provided in this posting are specific to the stated locations only**\n\nUS: Hiring Range in USD from: $79,200 to $178,100 per annum. May be eligible for bonus and equity.\n\nOracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle’s differing products, industries and lines of business.\n\nCandidates are typically placed into the range based on the preceding factors as well as internal peer equity.\n\nOracle US offers a comprehensive benefits package which includes the following:\n\n1. Medical, dental, and vision insurance, including expert medical opinion\n\n2. Short term disability and long term disability\n\n3. Life insurance and AD&D\n\n4. Supplemental life insurance (Employee/Spouse/Child)\n\n5. Health care and dependent care Flexible Spending Accounts\n\n6. Pre-tax commuter and parking benefits\n\n7. 401(k) Savings and Investment Plan with company match\n\n8. Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position. Accrued Vacation is provided to all other employees eligible for vacation benefits. For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment. Vacation accrual is prorated for employees working between 20 and 34 hours per week. Employees working fewer than 20 hours per week are not eligible for vacation.\n\n9. 11 paid holidays\n\n10. Paid sick leave: 72 hours of paid sick leave upon date of hire. Refreshes each calendar year. Unused balance will carry over each year up to a maximum cap of 112 hours.\n\n11. Paid parental leave\n\n12. Adoption assistance\n\n13. Employee Stock Purchase Plan\n\n14. Financial planning and group legal\n\n15. Voluntary benefits including auto, homeowner and pet insurance\n\nThe role will generally accept applications for at least three calendar days from the posting date or as long as the job remains posted.\n\nCareer Level - IC3\n• *About Us**\n\nOnly Oracle brings together the data, infrastructure, applications, and expertise to power everything from industry innovations to life-saving care. And with AI embedded across our products and services, we help customers turn that promise into a better future for all. Discover your potential at a company leading the way in AI and cloud solutions that impact billions of lives.\n\nTrue innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.\n\nWe’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing accommodation-request_mb@oracle.com or by calling 1-888-404-2494 in the United States.\n\nOracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.\n• *Job Description**\n\nDesign, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc.\n\nAs part of this team you will be designing and developing new applications that will serve as the base line for own standard products here in Oracle. As a leading developer you will work with an international team to come up with solutions that solve our business needs on the best way possible, with increase emphasis on optimization and AI integration.\n\nYou will work with new technologies, languages and design patterns like\n\n+ Micro services\n\n+ Kafka\n\n+ Helidon\n\n+ Groovy\n\n+ AI Agents\n\nThis role requires 3 to 5 year of experience on the field and a BS or MS degree relevant to the functional area. Proven experience with Java or Python development is required. Experience with AI design and development is good to have.\n• *Responsibilities**\n\nAs a member of the software engineering division, you will assist in\n\n+ Defining and developing software for tasks associated to our business users and the required software applications on the area.\n\n+ Provide technical leadership to other software developers.\n\n+ Specify, design and implement modest changes to existing software architecture to meet changing needs.\n\n\\#LI-JS14\n\nDisclaimer:\n• *Certain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates.**\n• *Range and benefit information provided in this posting are specific to the stated locations only**\n\nUS: Hiring Range in USD from: $79,200 to $178,100 per annum. May be eligible for bonus and equity.\n\nOracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle’s differing products, industries and lines of business.\n\nCandidates are typically placed into the range based on the preceding factors as well as internal peer equity.\n\nOracle US offers a comprehensive benefits package which includes the following:\n\n1. Medical, dental, and vision insurance, including expert medical opinion\n\n2. Short term disability and long term disability\n\n3. Life insurance and AD&D\n\n4. Supplemental life insurance (Employee/Spouse/Child)\n\n5. Health care and dependent care Flexible Spending Accounts\n\n6. Pre-tax commuter and parking benefits\n\n7. 401(k) Savings and Investment Plan with company match\n\n8. Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position. Accrued Vacation is provided to all other employees eligible for vacation benefits. For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment. Vacation accrual is prorated for employees working between 20 and 34 hours per week. Employees working fewer than 20 hours per week are not eligible for vacation.\n\n9. 11 paid holidays\n\n10. Paid sick leave: 72 hours of paid sick leave upon date of hire. Refreshes each calendar year. Unused balance will carry over each year up to a maximum cap of 112 hours.\n\n11. Paid parental leave\n\n12. Adoption assistance\n\n13. Employee Stock Purchase Plan\n\n14. Financial planning and group legal\n\n15. Voluntary benefits including auto, homeowner and pet insurance\n\nThe role will generally accept applications for at least three calendar days from the posting date or as long as the job remains posted.\n\nCareer Level - IC3\n• *About Us**\n\nOnly Oracle brings together the data, infrastructure, applications, and expertise to power everything from industry innovations to life-saving care. And with AI embedded across our products and services, we help customers turn that promise into a better future for all. Discover your potential at a company leading the way in AI and cloud solutions that impact billions of lives.\n\nTrue innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.\n\nWe’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing accommodation-request_mb@oracle.com or by calling 1-888-404-2494 in the United States.\n\nOracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.",
+    "job_description": "Senior AI/ML Engineer - (LLMs / RAG / Agentic Systems) - Aerospace - NYC - $500k+ Equity\n\nWe’re hiring for a world class team at one of the fastest growing & most innovative next-gen aerospace AI companies in North America. They're building LLMs, RAG & high-performance AI systems to power mission-critical operations in defence & space.\n\nOnly the top 0.1% of America's AI Engineers can do this. If you’ve built real mission critical LLM systems that can’t fail - this could be your next move.\n\nThe Role\n\nYou’ll own & scale a RAG-driven AI system powering critical aerospace operations. Expect to tackle retrieval quality, latency bottlenecks, & eval-driven fine-tuning head-on for the most innovative & exciting real-time systems in Aerospace today. This is full production ownership - from architecture to metrics.\n\nYou should have experience with:\n• Deploying LLM-based systems at scale (Llama, Mistral, GPT-4, Claude)\n• Retrieval optimisation - hybrid search (BM25 + vector), reranking, caching\n• Evaluation - recall@k, precision@k, groundedness, hallucination metrics\n• Fine-tuning (LoRA/QLoRA), RAG architecture, LangChain / LlamaIndex\n• Tooling: Hugging Face, Weaviate/Pinecone, FastAPI, PyTorch, Redis, Postgres\n• Monitoring inference, eval automation, & continuous improvement loops\n\nBonus:\n• IoT or Hardware integration or real-time systems experience exp.\n\nIdeal background:\n• CS or Applied ML degree from a top-tier university\n• Proven 0-1 experience in a fast-moving AI startup, or Defence related company\n• You’ve shipped reliable GenAI systems under pressure\n• Degree in Computer Science from a top-tier university\n• Prior experience in high-performance teams (0-1, startups)\n• You’ve shipped real systems - not demos\n\nYou’ll be expected to:\n• Own the LLM pipeline end-to-end – retrieval → evaluation → fine-tuning\n• Improve accuracy, grounding, and eval metrics continuously\n• Make architecture decisions for scale, reliability & speed\n• Collaborate directly with founders & domain experts\n\nStack:\n\nPython / PyTorch / LangChain / Transformers / FastAPI / Hugging Face / Weaviate / Redis / Postgres / Docker / Kubernetes\n\nOffer:\n• Up to $500,000+ base salary + equity\n• Hybrid in NYC\n• Tight-knit, high-output team\n• High ownership, real impact, flat structure\n\nInterview Process:\n\n1) Technical Deep Dive\n\n2) Technical Assessment or Live Pairing\n\n3) Panel focused on mindset & team fit\n\nEqual Opportunity\n\nWe're hiring for an Equal Opportunity Employer.\n\nIf you’ve shipped real GenAI systems, thrive under pressure, and want to see your models power live aerospace systems - this is where theory meets orbit.\n\nTL;DR - Senior AI Engineer (NYC, On-site)\n• Build & scale production-grade GenAI systems from 0 to 1\n• Own and improve RAG pipelines - accuracy and latency matter\n• Deep experience with LLMs, LangChain, Hugging Face & real deployments\n• Must have shipped working GenAI products, not just prototypes\n• Ideal: startup DNA, top-tier CS degree, fast execution mindset\n• $350K+ base + equity - on-site at a VC-backed aerospace startup in NYC\n• All our new jobs are posted here 1st:\n\nlinkedin.com/in/sufyanbashir/",
     "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770422400,
-    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
-    "job_location": "Harrisburg, PA",
-    "job_city": "Harrisburg",
-    "job_state": "Pennsylvania",
+    "job_posted_at": "1 day ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "New York, NY",
+    "job_city": "New York",
+    "job_state": "New York",
     "job_country": "US",
-    "job_latitude": 40.2731911,
-    "job_longitude": -76.8867008,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DR4GbvNneXTwXedzhAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
+    "job_latitude": 40.7127753,
+    "job_longitude": -74.0059728,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DpZTk-vKNGfogfbUwAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": null,
     "job_max_salary": null,
-    "job_salary_period": null,
+    "job_salary_period": "YEAR",
     "job_highlights": {
       "Qualifications": [
-        "This role requires 3 to 5 year of experience on the field and a BS or MS degree relevant to the functional area",
-        "Proven experience with Java or Python development is required",
-        "Experience with AI design and development is good to have",
-        "This role requires 3 to 5 year of experience on the field and a BS or MS degree relevant to the functional area",
-        "Proven experience with Java or Python development is required",
-        "Experience with AI design and development is good to have"
+        "Deploying LLM-based systems at scale (Llama, Mistral, GPT-4, Claude)",
+        "Retrieval optimisation - hybrid search (BM25 + vector), reranking, caching",
+        "Evaluation - recall@k, precision@k, groundedness, hallucination metrics",
+        "Fine-tuning (LoRA/QLoRA), RAG architecture, LangChain / LlamaIndex",
+        "Tooling: Hugging Face, Weaviate/Pinecone, FastAPI, PyTorch, Redis, Postgres",
+        "Monitoring inference, eval automation, & continuous improvement loops",
+        "IoT or Hardware integration or real-time systems experience exp",
+        "CS or Applied ML degree from a top-tier university",
+        "Proven 0-1 experience in a fast-moving AI startup, or Defence related company",
+        "You’ve shipped reliable GenAI systems under pressure",
+        "Degree in Computer Science from a top-tier university",
+        "Prior experience in high-performance teams (0-1, startups)",
+        "You’ve shipped real systems - not demos",
+        "Technical Deep Dive",
+        "Technical Assessment or Live Pairing",
+        "Panel focused on mindset & team fit",
+        "Deep experience with LLMs, LangChain, Hugging Face & real deployments",
+        "Must have shipped working GenAI products, not just prototypes",
+        "Ideal: startup DNA, top-tier CS degree, fast execution mindset"
       ],
       "Benefits": [
-        "US: Hiring Range in USD from: $79,200 to $178,100 per annum",
-        "May be eligible for bonus and equity",
-        "Oracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle’s differing products, industries and lines of business",
-        "Oracle US offers a comprehensive benefits package which includes the following:",
-        "Medical, dental, and vision insurance, including expert medical opinion",
-        "Short term disability and long term disability",
-        "Life insurance and AD&D",
-        "Supplemental life insurance (Employee/Spouse/Child)",
-        "Health care and dependent care Flexible Spending Accounts",
-        "Pre-tax commuter and parking benefits",
-        "401(k) Savings and Investment Plan with company match",
-        "Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position",
-        "Accrued Vacation is provided to all other employees eligible for vacation benefits",
-        "For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment",
-        "Vacation accrual is prorated for employees working between 20 and 34 hours per week",
-        "Employees working fewer than 20 hours per week are not eligible for vacation",
-        "11 paid holidays",
-        "Paid sick leave: 72 hours of paid sick leave upon date of hire",
-        "Refreshes each calendar year",
-        "Unused balance will carry over each year up to a maximum cap of 112 hours",
-        "Paid parental leave",
-        "Adoption assistance",
-        "Employee Stock Purchase Plan",
-        "Financial planning and group legal",
-        "Voluntary benefits including auto, homeowner and pet insurance",
-        "That’s why we’re committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options",
-        "We also encourage employees to give back to their communities through our volunteer programs",
-        "US: Hiring Range in USD from: $79,200 to $178,100 per annum",
-        "May be eligible for bonus and equity",
-        "Oracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle’s differing products, industries and lines of business",
-        "Oracle US offers a comprehensive benefits package which includes the following:",
-        "Medical, dental, and vision insurance, including expert medical opinion",
-        "Short term disability and long term disability",
-        "Life insurance and AD&D",
-        "Supplemental life insurance (Employee/Spouse/Child)",
-        "Health care and dependent care Flexible Spending Accounts",
-        "Pre-tax commuter and parking benefits",
-        "401(k) Savings and Investment Plan with company match",
-        "Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position",
-        "Accrued Vacation is provided to all other employees eligible for vacation benefits",
-        "For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment",
-        "Vacation accrual is prorated for employees working between 20 and 34 hours per week",
-        "Employees working fewer than 20 hours per week are not eligible for vacation",
-        "11 paid holidays",
-        "Paid sick leave: 72 hours of paid sick leave upon date of hire",
-        "Refreshes each calendar year",
-        "Unused balance will carry over each year up to a maximum cap of 112 hours",
-        "Paid parental leave",
-        "Adoption assistance",
-        "Employee Stock Purchase Plan",
-        "Financial planning and group legal",
-        "Voluntary benefits including auto, homeowner and pet insurance",
-        "That’s why we’re committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options"
+        "Up to $500,000+ base salary + equity",
+        "Hybrid in NYC",
+        "Tight-knit, high-output team",
+        "High ownership, real impact, flat structure",
+        "$350K+ base + equity - on-site at a VC-backed aerospace startup in NYC"
       ],
       "Responsibilities": [
-        "Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc",
-        "As part of this team you will be designing and developing new applications that will serve as the base line for own standard products here in Oracle",
-        "As a leading developer you will work with an international team to come up with solutions that solve our business needs on the best way possible, with increase emphasis on optimization and AI integration",
-        "You will work with new technologies, languages and design patterns like",
-        "As a member of the software engineering division, you will assist in",
-        "Defining and developing software for tasks associated to our business users and the required software applications on the area",
-        "Provide technical leadership to other software developers",
-        "Specify, design and implement modest changes to existing software architecture to meet changing needs",
-        "*Certain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates.**",
-        "Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc",
-        "As part of this team you will be designing and developing new applications that will serve as the base line for own standard products here in Oracle",
-        "As a leading developer you will work with an international team to come up with solutions that solve our business needs on the best way possible, with increase emphasis on optimization and AI integration",
-        "You will work with new technologies, languages and design patterns like",
-        "As a member of the software engineering division, you will assist in",
-        "Defining and developing software for tasks associated to our business users and the required software applications on the area",
-        "Provide technical leadership to other software developers",
-        "Specify, design and implement modest changes to existing software architecture to meet changing needs",
-        "*Certain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates.**"
+        "You’ll own & scale a RAG-driven AI system powering critical aerospace operations",
+        "Expect to tackle retrieval quality, latency bottlenecks, & eval-driven fine-tuning head-on for the most innovative & exciting real-time systems in Aerospace today",
+        "Own the LLM pipeline end-to-end – retrieval → evaluation → fine-tuning",
+        "Improve accuracy, grounding, and eval metrics continuously",
+        "Make architecture decisions for scale, reliability & speed",
+        "Collaborate directly with founders & domain experts",
+        "Own and improve RAG pipelines - accuracy and latency matter"
       ]
     },
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
-    "id": "www-snagajob-com-jobs-1201580287",
+    "id": "www-linkedin-com-jobs-view-ai-ml-engineer-defence-24500k-2b-nyc-at-open-talent-4359826559",
     "_source": "new_jobs"
   },
   {
@@ -815,6 +734,202 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "SNlvBXvPp-6bbsthAAAAAA==",
+    "job_title": "AI Engineer",
+    "employer_name": "MassMutual",
+    "employer_logo": null,
+    "employer_website": "https://www.massmutual.com",
+    "job_publisher": "Women For Hire- Job Board",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.womenforhire.com/job/usa/chicopee-ma/ai-engineer-582230/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Women For Hire- Job Board",
+        "apply_link": "https://jobs.womenforhire.com/job/usa/chicopee-ma/ai-engineer-582230/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Description\n\nAI Engineer\n\nFull Time Hybrid (Boston, NYC, Springfield)\n\nThe Opportunity\n\nThis is a unique opportunity to work alongside experts in applied mathematics, statistics, computer science, and physics—collaborating on initiatives that shape the future of MassMutual and the life insurance industry at large.\n\nThe Team\n\nMassMutual’s Data Science team is seeking an impact-driven AI Engineer to join our high-performing, cross-functional team. In this role, you will develop and deploy advanced AI solutions that drive strategic decision-making and business transformation. You’ll apply cutting-edge techniques in machine learning, generative AI, and large language models (LLMs) to solve complex, high-value problems across the enterprise.\n\nThe Impact\n• Develop and deploy end-to-end ML/AI solutions supporting various use cases for a large enterprise using LLMs, deep learning, and probabilistic modeling—from ideation to production.\n• Deploy scalable GenAI and Agentic AI systems that directly support business goals.\n• Establish and promote best practices in AI development and responsible AI deployment.\n• Collaborate with engineering teams to build robust, production-grade AI pipelines and APIs.\n• Prototype and deliver AI-powered applications (e.g., web apps, dashboards, visualizations) that enable data-driven decisions.\n\nMinimum Requirements:\n• 5+ years proficiency in SQL and database design; familiarity with cloud-native data platforms, vector databases, and semantic search is a plus.\n• 5+ years skills in Python. Proficiency in R is a plus.\n• 5+ years experience Deep understanding of machine learning, statistics, NLP, optimization, and LLMs.\n• 3+ years of experience in data science, machine learning, or AI engineering roles.\n• 2+ years experience Hands-on with AI deployment and orchestration frameworks and protocols (e.g., agentcore, strands, langchain, MCP, A2A).\n• 2+ years extensive experience and background in AI agents and LLM systems, including tool use, multi-step workflows, RAG, prompt management, and evaluating LLM and agentic behavior across a variety of foundation models and benchmarks.\n• 2+ years experience building AI-powered applications and collaborating with software engineers and product managers.\n• 2+ years experience with cloud-native development, containerization, and orchestration technologies such as Docker and Kubernetes\n• M.S. in Computer Science, Statistics, Applied Mathematics, Electrical Engineering, Physics, or a related quantitative field.\n\nIdeal Qualifications\n• Track record of delivering impactful solutions.\n• Exceptional communication skills, with the ability to explain complex concepts to non-technical stakeholders.\n\n#LI-SC1\n\nMassMutual is an equal employment opportunity employer. We welcome all persons to apply.\n\nIf you need an accommodation to complete the application process, please contact us and share the specifics of the assistance you need.\n\nCalifornia residents: For detailed information about your rights under the California Consumer Privacy Act (CCPA), please visit our California Consumer Privacy Act Disclosures page.",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Chicopee, MA",
+    "job_city": "Chicopee",
+    "job_state": "Massachusetts",
+    "job_country": "US",
+    "job_latitude": 42.1487043,
+    "job_longitude": -72.6078672,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DSNlvBXvPp-6bbsthAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "5+ years skills in Python",
+        "5+ years experience Deep understanding of machine learning, statistics, NLP, optimization, and LLMs",
+        "3+ years of experience in data science, machine learning, or AI engineering roles",
+        "2+ years experience Hands-on with AI deployment and orchestration frameworks and protocols (e.g., agentcore, strands, langchain, MCP, A2A)",
+        "2+ years extensive experience and background in AI agents and LLM systems, including tool use, multi-step workflows, RAG, prompt management, and evaluating LLM and agentic behavior across a variety of foundation models and benchmarks",
+        "2+ years experience building AI-powered applications and collaborating with software engineers and product managers",
+        "2+ years experience with cloud-native development, containerization, and orchestration technologies such as Docker and Kubernetes",
+        "M.S. in Computer Science, Statistics, Applied Mathematics, Electrical Engineering, Physics, or a related quantitative field",
+        "Track record of delivering impactful solutions",
+        "Exceptional communication skills, with the ability to explain complex concepts to non-technical stakeholders"
+      ],
+      "Responsibilities": [
+        "In this role, you will develop and deploy advanced AI solutions that drive strategic decision-making and business transformation",
+        "You’ll apply cutting-edge techniques in machine learning, generative AI, and large language models (LLMs) to solve complex, high-value problems across the enterprise",
+        "Develop and deploy end-to-end ML/AI solutions supporting various use cases for a large enterprise using LLMs, deep learning, and probabilistic modeling—from ideation to production",
+        "Deploy scalable GenAI and Agentic AI systems that directly support business goals",
+        "Establish and promote best practices in AI development and responsible AI deployment",
+        "Collaborate with engineering teams to build robust, production-grade AI pipelines and APIs",
+        "Prototype and deliver AI-powered applications (e.g., web apps, dashboards, visualizations) that enable data-driven decisions"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "jobs-womenforhire-com-job-usa-chicopee-ma-ai-engineer-582230",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "R4GbvNneXTwXedzhAAAAAA==",
+    "job_title": "Senior AI Engineer - Full-time",
+    "employer_name": "Oracle",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Ob8wBy30IQeYJfM4qn_PksuLPYaC4sUtJLRK&s=0",
+    "employer_website": "https://www.oracle.com",
+    "job_publisher": "Snagajob",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.snagajob.com/jobs/1201580287?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Snagajob",
+        "apply_link": "https://www.snagajob.com/jobs/1201580287?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "**Job Description**\n\nDesign, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc.\n\nAs part of this team you will be designing and developing new applications that will serve as the base line for own standard products here in Oracle. As a leading developer you will work with an international team to come up with solutions that solve our business needs on the best way possible, with increase emphasis on optimization and AI integration.\n\nYou will work with new technologies, languages and design patterns like\n\n+ Micro services\n\n+ Kafka\n\n+ Helidon\n\n+ Groovy\n\n+ AI Agents\n\nThis role requires 3 to 5 year of experience on the field and a BS or MS degree relevant to the functional area. Proven experience with Java or Python development is required. Experience with AI design and development is good to have.\n• *Responsibilities**\n\nAs a member of the software engineering division, you will assist in\n\n+ Defining and developing software for tasks associated to our business users and the required software applications on the area.\n\n+ Provide technical leadership to other software developers.\n\n+ Specify, design and implement modest changes to existing software architecture to meet changing needs.\n\n\\#LI-JS14\n\nDisclaimer:\n• *Certain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates.**\n• *Range and benefit information provided in this posting are specific to the stated locations only**\n\nUS: Hiring Range in USD from: $79,200 to $178,100 per annum. May be eligible for bonus and equity.\n\nOracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle’s differing products, industries and lines of business.\n\nCandidates are typically placed into the range based on the preceding factors as well as internal peer equity.\n\nOracle US offers a comprehensive benefits package which includes the following:\n\n1. Medical, dental, and vision insurance, including expert medical opinion\n\n2. Short term disability and long term disability\n\n3. Life insurance and AD&D\n\n4. Supplemental life insurance (Employee/Spouse/Child)\n\n5. Health care and dependent care Flexible Spending Accounts\n\n6. Pre-tax commuter and parking benefits\n\n7. 401(k) Savings and Investment Plan with company match\n\n8. Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position. Accrued Vacation is provided to all other employees eligible for vacation benefits. For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment. Vacation accrual is prorated for employees working between 20 and 34 hours per week. Employees working fewer than 20 hours per week are not eligible for vacation.\n\n9. 11 paid holidays\n\n10. Paid sick leave: 72 hours of paid sick leave upon date of hire. Refreshes each calendar year. Unused balance will carry over each year up to a maximum cap of 112 hours.\n\n11. Paid parental leave\n\n12. Adoption assistance\n\n13. Employee Stock Purchase Plan\n\n14. Financial planning and group legal\n\n15. Voluntary benefits including auto, homeowner and pet insurance\n\nThe role will generally accept applications for at least three calendar days from the posting date or as long as the job remains posted.\n\nCareer Level - IC3\n• *About Us**\n\nOnly Oracle brings together the data, infrastructure, applications, and expertise to power everything from industry innovations to life-saving care. And with AI embedded across our products and services, we help customers turn that promise into a better future for all. Discover your potential at a company leading the way in AI and cloud solutions that impact billions of lives.\n\nTrue innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.\n\nWe’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing accommodation-request_mb@oracle.com or by calling 1-888-404-2494 in the United States.\n\nOracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.\n• *Job Description**\n\nDesign, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc.\n\nAs part of this team you will be designing and developing new applications that will serve as the base line for own standard products here in Oracle. As a leading developer you will work with an international team to come up with solutions that solve our business needs on the best way possible, with increase emphasis on optimization and AI integration.\n\nYou will work with new technologies, languages and design patterns like\n\n+ Micro services\n\n+ Kafka\n\n+ Helidon\n\n+ Groovy\n\n+ AI Agents\n\nThis role requires 3 to 5 year of experience on the field and a BS or MS degree relevant to the functional area. Proven experience with Java or Python development is required. Experience with AI design and development is good to have.\n• *Responsibilities**\n\nAs a member of the software engineering division, you will assist in\n\n+ Defining and developing software for tasks associated to our business users and the required software applications on the area.\n\n+ Provide technical leadership to other software developers.\n\n+ Specify, design and implement modest changes to existing software architecture to meet changing needs.\n\n\\#LI-JS14\n\nDisclaimer:\n• *Certain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates.**\n• *Range and benefit information provided in this posting are specific to the stated locations only**\n\nUS: Hiring Range in USD from: $79,200 to $178,100 per annum. May be eligible for bonus and equity.\n\nOracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle’s differing products, industries and lines of business.\n\nCandidates are typically placed into the range based on the preceding factors as well as internal peer equity.\n\nOracle US offers a comprehensive benefits package which includes the following:\n\n1. Medical, dental, and vision insurance, including expert medical opinion\n\n2. Short term disability and long term disability\n\n3. Life insurance and AD&D\n\n4. Supplemental life insurance (Employee/Spouse/Child)\n\n5. Health care and dependent care Flexible Spending Accounts\n\n6. Pre-tax commuter and parking benefits\n\n7. 401(k) Savings and Investment Plan with company match\n\n8. Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position. Accrued Vacation is provided to all other employees eligible for vacation benefits. For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment. Vacation accrual is prorated for employees working between 20 and 34 hours per week. Employees working fewer than 20 hours per week are not eligible for vacation.\n\n9. 11 paid holidays\n\n10. Paid sick leave: 72 hours of paid sick leave upon date of hire. Refreshes each calendar year. Unused balance will carry over each year up to a maximum cap of 112 hours.\n\n11. Paid parental leave\n\n12. Adoption assistance\n\n13. Employee Stock Purchase Plan\n\n14. Financial planning and group legal\n\n15. Voluntary benefits including auto, homeowner and pet insurance\n\nThe role will generally accept applications for at least three calendar days from the posting date or as long as the job remains posted.\n\nCareer Level - IC3\n• *About Us**\n\nOnly Oracle brings together the data, infrastructure, applications, and expertise to power everything from industry innovations to life-saving care. And with AI embedded across our products and services, we help customers turn that promise into a better future for all. Discover your potential at a company leading the way in AI and cloud solutions that impact billions of lives.\n\nTrue innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.\n\nWe’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing accommodation-request_mb@oracle.com or by calling 1-888-404-2494 in the United States.\n\nOracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.",
+    "job_is_remote": false,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770422400,
+    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
+    "job_location": "Harrisburg, PA",
+    "job_city": "Harrisburg",
+    "job_state": "Pennsylvania",
+    "job_country": "US",
+    "job_latitude": 40.2731911,
+    "job_longitude": -76.8867008,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DR4GbvNneXTwXedzhAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "This role requires 3 to 5 year of experience on the field and a BS or MS degree relevant to the functional area",
+        "Proven experience with Java or Python development is required",
+        "Experience with AI design and development is good to have",
+        "This role requires 3 to 5 year of experience on the field and a BS or MS degree relevant to the functional area",
+        "Proven experience with Java or Python development is required",
+        "Experience with AI design and development is good to have"
+      ],
+      "Benefits": [
+        "US: Hiring Range in USD from: $79,200 to $178,100 per annum",
+        "May be eligible for bonus and equity",
+        "Oracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle’s differing products, industries and lines of business",
+        "Oracle US offers a comprehensive benefits package which includes the following:",
+        "Medical, dental, and vision insurance, including expert medical opinion",
+        "Short term disability and long term disability",
+        "Life insurance and AD&D",
+        "Supplemental life insurance (Employee/Spouse/Child)",
+        "Health care and dependent care Flexible Spending Accounts",
+        "Pre-tax commuter and parking benefits",
+        "401(k) Savings and Investment Plan with company match",
+        "Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position",
+        "Accrued Vacation is provided to all other employees eligible for vacation benefits",
+        "For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment",
+        "Vacation accrual is prorated for employees working between 20 and 34 hours per week",
+        "Employees working fewer than 20 hours per week are not eligible for vacation",
+        "11 paid holidays",
+        "Paid sick leave: 72 hours of paid sick leave upon date of hire",
+        "Refreshes each calendar year",
+        "Unused balance will carry over each year up to a maximum cap of 112 hours",
+        "Paid parental leave",
+        "Adoption assistance",
+        "Employee Stock Purchase Plan",
+        "Financial planning and group legal",
+        "Voluntary benefits including auto, homeowner and pet insurance",
+        "That’s why we’re committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options",
+        "We also encourage employees to give back to their communities through our volunteer programs",
+        "US: Hiring Range in USD from: $79,200 to $178,100 per annum",
+        "May be eligible for bonus and equity",
+        "Oracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle’s differing products, industries and lines of business",
+        "Oracle US offers a comprehensive benefits package which includes the following:",
+        "Medical, dental, and vision insurance, including expert medical opinion",
+        "Short term disability and long term disability",
+        "Life insurance and AD&D",
+        "Supplemental life insurance (Employee/Spouse/Child)",
+        "Health care and dependent care Flexible Spending Accounts",
+        "Pre-tax commuter and parking benefits",
+        "401(k) Savings and Investment Plan with company match",
+        "Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position",
+        "Accrued Vacation is provided to all other employees eligible for vacation benefits",
+        "For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment",
+        "Vacation accrual is prorated for employees working between 20 and 34 hours per week",
+        "Employees working fewer than 20 hours per week are not eligible for vacation",
+        "11 paid holidays",
+        "Paid sick leave: 72 hours of paid sick leave upon date of hire",
+        "Refreshes each calendar year",
+        "Unused balance will carry over each year up to a maximum cap of 112 hours",
+        "Paid parental leave",
+        "Adoption assistance",
+        "Employee Stock Purchase Plan",
+        "Financial planning and group legal",
+        "Voluntary benefits including auto, homeowner and pet insurance",
+        "That’s why we’re committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options"
+      ],
+      "Responsibilities": [
+        "Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc",
+        "As part of this team you will be designing and developing new applications that will serve as the base line for own standard products here in Oracle",
+        "As a leading developer you will work with an international team to come up with solutions that solve our business needs on the best way possible, with increase emphasis on optimization and AI integration",
+        "You will work with new technologies, languages and design patterns like",
+        "As a member of the software engineering division, you will assist in",
+        "Defining and developing software for tasks associated to our business users and the required software applications on the area",
+        "Provide technical leadership to other software developers",
+        "Specify, design and implement modest changes to existing software architecture to meet changing needs",
+        "*Certain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates.**",
+        "Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc",
+        "As part of this team you will be designing and developing new applications that will serve as the base line for own standard products here in Oracle",
+        "As a leading developer you will work with an international team to come up with solutions that solve our business needs on the best way possible, with increase emphasis on optimization and AI integration",
+        "You will work with new technologies, languages and design patterns like",
+        "As a member of the software engineering division, you will assist in",
+        "Defining and developing software for tasks associated to our business users and the required software applications on the area",
+        "Provide technical leadership to other software developers",
+        "Specify, design and implement modest changes to existing software architecture to meet changing needs",
+        "*Certain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates.**"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-snagajob-com-jobs-1201580287",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "c1Fp2qqm0mZj33uTAAAAAA==",
     "job_title": "AI Engineering Intern",
     "employer_name": "Bio-Techne",
@@ -847,9 +962,9 @@
     "job_latitude": 44.953702899999996,
     "job_longitude": -93.0899578,
     "job_benefits": [
-      "health_insurance",
+      "paid_time_off",
       "dental_coverage",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dc1Fp2qqm0mZj33uTAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -982,6 +1097,11 @@
         "is_direct": false
       },
       {
+        "publisher": "Tech Jobs Personalized",
+        "apply_link": "https://builtin.com/job/senior-associate-ai-full-stack-engineer/8432814?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
         "publisher": "LinkedIn",
         "apply_link": "https://www.linkedin.com/jobs/view/senior-associate-ai-full-stack-engineer-at-new-york-life-insurance-company-4370169503?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
@@ -999,11 +1119,6 @@
       {
         "publisher": "Ladders",
         "apply_link": "https://www.theladders.com/job/senior-full-stack-engineer-ai-newmark-new-york-ny_83623545?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=0180be49e4d9e5a0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
@@ -1069,125 +1184,6 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "careers-newyorklife-com-careers-job-39783501",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "fnRFnKCW41_JHSuoAAAAAA==",
-    "job_title": "Staff Software Engineer - Agentic AI - Future Opportunities",
-    "employer_name": "American Express",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDMhA8zUOTNMesqMwGvuOT5jj7CeFvsoPatMP8&s=0",
-    "employer_website": "https://www.americanexpress.com",
-    "job_publisher": "Eightfold - Eightfold AI",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://aexp.eightfold.ai/careers/job/40031425-staff-software-engineer-agentic-ai-future-opportunities-new-york-new-york-united-states?domain=aexp.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Eightfold - Eightfold AI",
-        "apply_link": "https://aexp.eightfold.ai/careers/job/40031425-staff-software-engineer-agentic-ai-future-opportunities-new-york-new-york-united-states?domain=aexp.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/American-Express/Job/Staff-Software-Engineer-Agentic-AI-Future-Opportunities/-in-Palo-Alto,CA?jid=ec9e0f9efc14aaa5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Lensa",
-        "apply_link": "https://lensa.com/job-v1/american-express/palo-alto-ca/staff-software-engineer/c8bb1da70144f37c3ffe75dd340319f4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/artificial-intelligence?id=2443312096&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Hello, World! System Design Newsletter",
-        "apply_link": "https://hw.glich.co/jobboard/jobs/staff-software-engineer-agentic-ai-at-american-express-z98ccz?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "American Express invites you to share your resume so you can be considered for future Agentic AI opportunities in the Enterprise Technology Services organization.\n\nAt American Express, our culture is built on a 175-year history of innovation, shared values and Leadership Behaviors, and an unwavering commitment to back our customers, communities, and colleagues. As part of Team Amex, you'll experience this powerful backing with comprehensive support for your holistic well-being and many opportunities to learn new skills, develop as a leader, and grow your career.\n\nHere, your voice and ideas matter, your work makes an impact, and together, you will help us define the future of American Express.\n\nAI is reshaping the future of commerce and redefining the experiences our commercial customers and card members expect. Within Amex Technology, we are building platforms, products, and governance that enable agentic AI systems to operate responsibly and at scale across the enterprise.\n\nOur focus is on agentic AI development: designing intelligent, adaptive systems that can plan, reason, and act across complex workflows with appropriate levels of autonomy. These systems power autonomous workflows, decision support, and customer-facing experiences—while meeting the high standards for security, explainability, reliability, and compliance required in financial services.\n\nWe partner closely with product, design, and business teams to deliver agentic capabilities that reduce operational friction, improve decision-making, and transform how customers interact, transact, and grow.\n\nThe Role\n\nAs a Staff Software Engineer – Agentic AI, you will operate as a senior individual contributor within Amex Technology, helping define how agentic AI systems are designed, built, and operated across the company.\nYou will work at the intersection of agentic system architecture and hands-on execution: designing core frameworks, writing production code, reviewing critical designs, and guiding teams through complex technical decisions. This role does not include people management; your impact comes from technical leadership, sound judgment, and the ability to turn ambiguity into reliable, scalable agentic systems.\n\nYou will work closely with Product and UX partners to shape a shared vision for agentic AI experiences. While product teams own prioritization, Staff engineers are expected to actively influence what gets built and how agentic systems come together across teams.\n\nWe are primarily looking for senior individual contributors; however, as the team grows, you will take on increasing responsibility for technical leadership and people development within the agentic AI space. Mentoring, developing and managing direct reports may be in scope for some of our opportunities.\n\nWhat You’ll Do\n• Drive technical direction for agentic AI initiatives, influencing architecture patterns, autonomy boundaries, and system design.\n• Design, build, and operate production-grade agentic AI systems used across multiple products.\n• Own and evolve shared agentic AI capabilities, including:\n• Agent frameworks and orchestration layers\n• Planning, tool use, and memory strategies\n• Retrieval and grounding (RAG) pipelines\n• LLM infrastructure, inference, and model gateways\n• Evaluation, observability, and safety tooling for autonomous systems\n• Lead technical design reviews and help teams navigate tradeoffs involving autonomy, safety, reliability, scalability, and cost.\n• Partner across teams to deliver complex, cross-cutting agentic AI initiatives from concept to production.\n• Evaluate emerging models, techniques, and agentic patterns and translate them into practical, enterprise-ready improvements.\n• Mentor senior engineers and raise the technical bar for agentic AI development through example and influence.\n\nTechnical Environment\n\nWe don’t hire to a narrow checklist, but candidates should be comfortable operating in a modern, enterprise-scale engineering environment with a strong emphasis on agentic AI.\n\nCore engineering stack\n• Languages: Python, Go, TypeScript\n• APIs and RPC: REST, gRPC (and in some areas tRPC)\n• Cloud and infrastructure: AWS and/or GCP, Kubernetes\n• Distributed systems: event-driven architectures, including Kafka\n\nAgentic AI and ML\n• Integration of commercial and open-source LLMs into agentic workflows\n• Agent and orchestration frameworks such as LangChain, LlamaIndex, Semantic Kernel, or CrewAI, with strong judgment about when to use frameworks versus building lighter-weight primitives\n• Model-level work using PyTorch and the Hugging Face ecosystem (embeddings, fine-tuning, inference tooling), with some exposure to TensorFlow\n• Strong schema, validation, and state management practices using tools such as Pydantic (Python) and Zod (TypeScript)\n\nAcross all systems, we emphasize evaluation, observability, safety, and reliability, reflecting the responsibility of deploying autonomous AI in a regulated, customer-facing environment.\n\nWhat We’re Looking For\n• 10+ years of software engineering experience, including deep, hands-on experience delivering agentic AI or LLM-powered systems to production.\n• Proven ownership of complex, cross-cutting agentic systems spanning multiple teams or products.\n• Strong engineering fundamentals across backend systems, APIs, data pipelines, and cloud infrastructure.\n• Deep experience across the agentic AI stack, including planning, tool use, memory, and evaluation.\n• Fluency with AI-assisted and agentic development workflows.\n• Comfort operating in ambiguous problem spaces and translating them into shipped, reliable autonomous systems.\n• Ability to influence technical direction and align teams without formal authority.\n• Experience in workflow engines, async processing, queues, and streaming systems.\n\nPreferred Qualifications\n• Experience building agentic systems in fintech or other regulated industries.\n• Experience as a founding engineer or early technical leader in AI-driven products.\n• Demonstrated success delivering technically complex autonomous systems that customers actively rely on.\n• Meaningful contributions to open-source AI or agentic frameworks.\n• Familiarity with fine-tuning, model optimization and inference pipelines is a plus.\n\nWe back you with benefits that support your holistic well-being so you can be and deliver your best. This means caring for you and your loved ones' physical, financial, and mental health, as well as providing the flexibility you need to thrive personally and professionally:\n• Competitive base salaries\n• Bonus incentives\n• 6% Company Match on retirement savings plan\n• Free financial coaching and financial well-being support\n• Comprehensive medical, dental, vision, life insurance, and disability benefits\n• Flexible working model with hybrid, onsite or virtual arrangements depending on role and business need\n• 20+ weeks paid parental leave for all parents, regardless of gender, offered for pregnancy, adoption or surrogacy\n• Free access to global on-site wellness centers staffed with nurses and doctors (depending on location)\n• Free and confidential counseling support through our Healthy Minds program\n• Career development and training opportunities\n\nFor a full list of Team Amex benefits, visit our Colleague Benefits Site.\n\nAmerican Express is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran status, disability status, age, or any other status protected by law. American Express will consider for employment all qualified applicants, including those with arrest or conviction records, in accordance with the requirements of applicable state and local laws, including, but not limited to, the California Fair Chance Act, the Los Angeles County Fair Chance Ordinance for Employers, and the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance. For positions covered by federal and/or state banking regulations, American Express will comply with such regulations as it relates to the consideration of applicants with criminal convictions.\n\nWe back our colleagues with the support they need to thrive, professionally and personally. That's why we have Amex Flex, our enterprise working model that provides greater flexibility to colleagues while ensuring we preserve the important aspects of our unique in-person culture. Depending on role and business needs, colleagues will either work onsite, in a hybrid model (combination of in-office and virtual days) or fully virtually.\n\nUS Job Seekers - Click to view the “Know Your Rights” poster. If the link does not work, you may access the poster by copying and pasting the following URL in a new browser window: https://www.eeoc.gov/poster\n\nDepending on factors such as business unit requirements, the nature of the position, cost and applicable laws,\nAmerican Express may provide visa sponsorship for certain positions.",
-    "job_is_remote": false,
-    "job_posted_at": "9 days ago",
-    "job_posted_at_timestamp": 1770249600,
-    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
-    "job_location": "New York, NY",
-    "job_city": "New York",
-    "job_state": "New York",
-    "job_country": "US",
-    "job_latitude": 40.7127753,
-    "job_longitude": -74.0059728,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DfnRFnKCW41_JHSuoAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Core engineering stack",
-        "Languages: Python, Go, TypeScript",
-        "Distributed systems: event-driven architectures, including Kafka",
-        "Strong schema, validation, and state management practices using tools such as Pydantic (Python) and Zod (TypeScript)",
-        "10+ years of software engineering experience, including deep, hands-on experience delivering agentic AI or LLM-powered systems to production",
-        "Proven ownership of complex, cross-cutting agentic systems spanning multiple teams or products",
-        "Strong engineering fundamentals across backend systems, APIs, data pipelines, and cloud infrastructure",
-        "Deep experience across the agentic AI stack, including planning, tool use, memory, and evaluation",
-        "Fluency with AI-assisted and agentic development workflows",
-        "Comfort operating in ambiguous problem spaces and translating them into shipped, reliable autonomous systems",
-        "Ability to influence technical direction and align teams without formal authority",
-        "Experience in workflow engines, async processing, queues, and streaming systems"
-      ],
-      "Benefits": [
-        "Competitive base salaries",
-        "Bonus incentives",
-        "6% Company Match on retirement savings plan",
-        "Free financial coaching and financial well-being support",
-        "Comprehensive medical, dental, vision, life insurance, and disability benefits",
-        "Flexible working model with hybrid, onsite or virtual arrangements depending on role and business need",
-        "20+ weeks paid parental leave for all parents, regardless of gender, offered for pregnancy, adoption or surrogacy",
-        "Free access to global on-site wellness centers staffed with nurses and doctors (depending on location)",
-        "Free and confidential counseling support through our Healthy Minds program",
-        "Career development and training opportunities"
-      ],
-      "Responsibilities": [
-        "We partner closely with product, design, and business teams to deliver agentic capabilities that reduce operational friction, improve decision-making, and transform how customers interact, transact, and grow",
-        "As a Staff Software Engineer – Agentic AI, you will operate as a senior individual contributor within Amex Technology, helping define how agentic AI systems are designed, built, and operated across the company",
-        "You will work at the intersection of agentic system architecture and hands-on execution: designing core frameworks, writing production code, reviewing critical designs, and guiding teams through complex technical decisions",
-        "This role does not include people management; your impact comes from technical leadership, sound judgment, and the ability to turn ambiguity into reliable, scalable agentic systems",
-        "You will work closely with Product and UX partners to shape a shared vision for agentic AI experiences",
-        "While product teams own prioritization, Staff engineers are expected to actively influence what gets built and how agentic systems come together across teams",
-        "Drive technical direction for agentic AI initiatives, influencing architecture patterns, autonomy boundaries, and system design",
-        "Design, build, and operate production-grade agentic AI systems used across multiple products",
-        "Own and evolve shared agentic AI capabilities, including:",
-        "Agent frameworks and orchestration layers",
-        "Planning, tool use, and memory strategies",
-        "Retrieval and grounding (RAG) pipelines",
-        "LLM infrastructure, inference, and model gateways",
-        "Evaluation, observability, and safety tooling for autonomous systems",
-        "Lead technical design reviews and help teams navigate tradeoffs involving autonomy, safety, reliability, scalability, and cost",
-        "Partner across teams to deliver complex, cross-cutting agentic AI initiatives from concept to production",
-        "Evaluate emerging models, techniques, and agentic patterns and translate them into practical, enterprise-ready improvements",
-        "Mentor senior engineers and raise the technical bar for agentic AI development through example and influence",
-        "APIs and RPC: REST, gRPC (and in some areas tRPC)",
-        "Cloud and infrastructure: AWS and/or GCP, Kubernetes",
-        "Integration of commercial and open-source LLMs into agentic workflows",
-        "Agent and orchestration frameworks such as LangChain, LlamaIndex, Semantic Kernel, or CrewAI, with strong judgment about when to use frameworks versus building lighter-weight primitives",
-        "Model-level work using PyTorch and the Hugging Face ecosystem (embeddings, fine-tuning, inference tooling), with some exposure to TensorFlow",
-        "Across all systems, we emphasize evaluation, observability, safety, and reliability, reflecting the responsibility of deploying autonomous AI in a regulated, customer-facing environment"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "aexp-eightfold-ai-careers-job-40031425-staff-software-engineer-agentic-ai-future-opportunities-new-york-new-york-united-states",
     "_source": "new_jobs"
   },
   {
@@ -1263,102 +1259,119 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "G13PNshacYMFET7eAAAAAA==",
-    "job_title": "SOAR & AI Engineer",
-    "employer_name": "Deloitte",
+    "job_id": "kbtWtiX89yDTND2vAAAAAA==",
+    "job_title": "Sr AI Engineer",
+    "employer_name": "WEXWEXUS",
     "employer_logo": null,
-    "employer_website": "https://www.deloitte.com",
-    "job_publisher": "Jobs - Deloitte",
+    "employer_website": null,
+    "job_publisher": "Careers At WEX",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://jobsus.deloitte.com/san-francisco-ca/soar-ai-engineer/7634155FF03E4873B32EA6FDD411D3C2/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://careers.wexinc.com/us/en/job/R20720/Sr-AI-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Jobs - Deloitte",
-        "apply_link": "https://jobsus.deloitte.com/san-francisco-ca/soar-ai-engineer/7634155FF03E4873B32EA6FDD411D3C2/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Careers At WEX",
+        "apply_link": "https://careers.wexinc.com/us/en/job/R20720/Sr-AI-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Deloitte/Job/SOAR-&-AI-Engineer/-in-San-Francisco,CA?jid=43314415c11856bc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/soar-ai-engineer-sf-deloitte-0d3a5aadd7652ad9403a3e3fbed6f938?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.ziprecruiter.com/c/WEX/Job/Sr-AI-Engineer/-in-Seattle,WA?jid=b5e00070eb8f1815&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
       },
       {
         "publisher": "Experteer",
-        "apply_link": "https://us.experteer.com/career/view-jobs/soar-and-ai-engineer-san-francisco-ca-usa-56136404?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://us.experteer.com/career/view-jobs/sr-ai-engineer-98101-seattle-wa-usa-56056291?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "KSNT Jobs",
+        "apply_link": "https://jobs.ksnt.com/jobs/sr-ai-engineer-seattle-washington/2617786578-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "KHON2 Jobs",
+        "apply_link": "https://jobs.khon2.com/jobs/sr-ai-engineer-seattle-washington/2617786578-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/a7e7138a7d75b84e514e3f5f6818bab5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://us.bebee.com/job/60a1f518a38fe5864cd83548500c932f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/software-engineer?id=2455143513&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Talentify",
+        "apply_link": "https://www.talentify.io/job/sr-ai-engineer-seattle-washington-us-wex-r20720?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Aijobxpert.com",
-        "apply_link": "https://www.aijobxpert.com/jobs/senior-full-stack-ai-engineer-genai-rag-171d0944?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
+        "publisher": "WTNH Jobs",
+        "apply_link": "https://jobs.wtnh.com/jobs/sr-ai-engineer-seattle-washington/2617786578-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
       }
     ],
-    "job_description": "Our Deloitte Cyber team understands the unique challenges and opportunities businesses face in cybersecurity. Join our team to deliver powerful solutions to help our clients navigate the ever-changing threat landscape. Through powerful solutions and managed services that simplify complexity, we enable our clients to operate with resilience, grow with confidence, and proactively manage to secure success.\n\nRecuiting for this role ends on May 31, 2026.\n\nWork You'll Do\n\nThe SOAR & AI Engineer will build, implement, and maintain advanced Security Orchestration, Automation, and Response (SOAR) and artificial intelligence (AI) solutions to automate security operations. This role designs and operationalizes automation using internal security data, integrates with existing tools and platforms, and ensures automation measurably improves detection, response, and investigation across the security lifecycle.\n\nThis position serves as a hands-on technical lead for delivering automation capabilities and driving continuous improvement of automated playbooks, dashboards, and AI-agent workflows. The SOAR & AI Engineer partners with cross-functional security teams to identify high-value automation opportunities and productionize modern SOAR and AI technologies.\n\nThe Team\n\nDeloitte's Government & Public Services (GPS) practice - our people, ideas, technology and outcomes - is designed for impact. Serving federal, state, & local government clients as well as public higher education institutions, our team of professionals brings fresh perspective to help clients anticipate disruption, reimagine the possible, and fulfill their mission promise.\n\nOur Cyber Defense & Resilience offering assists clients in defending against advanced threats by transforming security operations, monitoring technology, data analytics, and threat intelligence. Helps manage and protect dynamic attack surfaces and provides rapid crisis and cyber incident response, ensuring clients can be ready for, respond to, and recover from business disruptions.\n\nThe Project Delivery Talent Model is designed for professionals with specialized skills that align to a current client need. Team members focus on delivering services to clients, without additional expectations related to business development or promotion. Their employment is tied to their role on a project, and they are eligible for a benefits package that is competitive for project delivery-focused professionals.\n\nQualifications\n\nRequired:\n• Bachelor's degree required.\n• Ability to obtain Public Trust clearance\n• 4+ years of experience developing SOAR and/or AI solutions in an enterprise environment\n• 3+ years of experience in one or more of the following:\n• Security workflow automation and playbook development\n• Integrating cloud and on-premises systems\n• Hands-on experience with Splunk SOAR capabilities\n• Ability to travel 25%, on average, based on the work you do and the clients and industries/sectors you serve\n• Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future\n\nThe wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $88,600 to $163,100.\n\nYou may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance.\n\nInformation for applicants with a need for accommodation: https://www2.deloitte.com/us/en/pages/careers/articles/join-deloitte-assistance-for-disabled-applicants.html\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or protected veteran status, or any other legally protected basis, in accordance with applicable law.",
+    "job_description": "This is a remote position; however, the candidate must reside within 30 miles of one of the following locations: Portland, ME; Boston, MA; Chicago, IL; Dallas, TX; San Francisco Bay Area, CA; and Seattle/WA.\n\nAbout the Team/Role\n\nWe are a fast-growing AI Engineering team, driving WEX's strategic vision to integrate artificial intelligence into the core of our product and business. Our team thrives on collaboration, working directly with stakeholders and domain experts to develop innovative AI platforms and solutions that enhance decision-making and create groundbreaking products that benefit our customers and help them to effectively grow their business. We foster a culture of continuous learning and believe that the best work stems from a shared purpose and an enjoyable, engaging environment.\n\nHow You’ll Make an Impact\n\nYou are an experienced technical leader and subject matter expert with a deep passion for AI, Machine Learning, and software engineering. You possess a proven track record of architecting scalable systems and solving complex ambiguity using data-driven tools. You will act as a force multiplier for the team—setting technical standards, mentoring junior engineers, and partnering with product leadership to turn abstract business goals into production-grade AI solutions.\n\nResponsibilities\n• Technical Strategy & Architecture: Partner with stakeholders to translate complex customer challenges into robust technical designs and AI strategies.\n• End-to-End Ownership: Architect, build, and deploy high-performance AI/ML platforms and tools, ensuring scalability, reliability, and security.\n• Advanced Model Development: Lead the development, evaluation, fine-tuning, and monitoring of production-grade AI/ML models (including LLMs and RAG architectures).\n• Operational Excellence: Design and standardize CI/CD pipelines (GitHub Actions) and Infrastructure as Code (Terraform) to ensure reproducible and automated deployments.\n• Reliability & Scale: Proactively monitor system health, lead incident response for critical AI systems, and drive architectural refactoring to remove bottlenecks.\n• Mentorship: Mentor L1/L2 engineers, conduct code reviews, and foster a culture of engineering excellence and best practices.\n• Innovation: Evaluate emerging AI technologies/vendors and prototype new approaches to keep the organization at the cutting edge of the industry.\n\nExperience You’ll Bring\n• 5+ years of experience as an AI/ML Engineer, Data Scientist, or Software Engineer with a heavy focus on production ML systems.\n• Bachelor's degree in Computer Science, Software Engineering, or related field; a Master’s or PhD in AI/ML is preferred.\n• Production expertise: Proven track record of taking AI solutions from concept to high-scale production using Java, C#, GoLang, or Python.\n• LLM Proficiency: Deep experience with Generative AI, including prompting strategies, RAG (Retrieval-Augmented Generation), fine-tuning, and agentic workflows.\n• System Design: Strong ability to design distributed systems and microservices architectures for model serving.\n• Collaboration: Demonstrated ability to lead technical discussions with non-technical stakeholders and drive consensus.\n• Experience in the financial or fintech industry is a plus.\n\nTechnical Skills\n• Expert proficiency in Python (preferred) or other core languages (Java, Go, C#).\n• Deep knowledge of modern ML frameworks (PyTorch, TensorFlow, Scikit-learn) and LLM orchestration (LangChain, LlamaIndex, vLLM).\n• Advanced understanding of MLOps principles, feature stores, and model monitoring.\n• Solid grasp of advanced probability, statistics, and linear algebra.\n• Extensive hands-on experience with Kubernetes (deploying and managing clusters) and Cloud platforms (AWS preferred).\n• Strong command of CI/CD methodologies and Infrastructure as Code (Terraform).\n• Excellent data engineering skills (SQL, NoSQL, data lakes, and processing pipelines).\n\nThe base pay range represents the anticipated low and high end of the pay range for this position. Actual pay rates will vary and will be based on various factors, such as your qualifications, skills, competencies, and proficiency for the role. Base pay is one component of WEX's total compensation package. Most sales positions are eligible for commission under the terms of an applicable plan. Non-sales roles are typically eligible for a quarterly or annual bonus based on their role and applicable plan. WEX's comprehensive and market competitive benefits are designed to support your personal and professional well-being. Benefits include health, dental and vision insurances, retirement savings plan, paid time off, health savings account, flexible spending accounts, life insurance, disability insurance, tuition reimbursement, and more. For more information, check out the \"About Us\" section.\n\nPay Range: $121,500.00 - $145,500.00",
     "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770422400,
-    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
-    "job_location": "San Francisco, CA",
-    "job_city": "San Francisco",
-    "job_state": "California",
+    "job_posted_at": "8 days ago",
+    "job_posted_at_timestamp": 1770336000,
+    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
+    "job_location": "Boston, MA",
+    "job_city": "Boston",
+    "job_state": "Massachusetts",
     "job_country": "US",
-    "job_latitude": 37.7749295,
-    "job_longitude": -122.4194155,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DG13PNshacYMFET7eAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_latitude": 42.355507599999996,
+    "job_longitude": -71.0565364,
+    "job_benefits": [
+      "paid_time_off",
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DkbtWtiX89yDTND2vAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Bachelor's degree required",
-        "Ability to obtain Public Trust clearance",
-        "4+ years of experience developing SOAR and/or AI solutions in an enterprise environment",
-        "3+ years of experience in one or more of the following:",
-        "Security workflow automation and playbook development",
-        "Integrating cloud and on-premises systems",
-        "Hands-on experience with Splunk SOAR capabilities",
-        "Ability to travel 25%, on average, based on the work you do and the clients and industries/sectors you serve",
-        "Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future"
+        "You are an experienced technical leader and subject matter expert with a deep passion for AI, Machine Learning, and software engineering",
+        "You possess a proven track record of architecting scalable systems and solving complex ambiguity using data-driven tools",
+        "5+ years of experience as an AI/ML Engineer, Data Scientist, or Software Engineer with a heavy focus on production ML systems",
+        "Production expertise: Proven track record of taking AI solutions from concept to high-scale production using Java, C#, GoLang, or Python",
+        "LLM Proficiency: Deep experience with Generative AI, including prompting strategies, RAG (Retrieval-Augmented Generation), fine-tuning, and agentic workflows",
+        "System Design: Strong ability to design distributed systems and microservices architectures for model serving",
+        "Collaboration: Demonstrated ability to lead technical discussions with non-technical stakeholders and drive consensus",
+        "Deep knowledge of modern ML frameworks (PyTorch, TensorFlow, Scikit-learn) and LLM orchestration (LangChain, LlamaIndex, vLLM)",
+        "Advanced understanding of MLOps principles, feature stores, and model monitoring",
+        "Solid grasp of advanced probability, statistics, and linear algebra",
+        "Strong command of CI/CD methodologies and Infrastructure as Code (Terraform)",
+        "Excellent data engineering skills (SQL, NoSQL, data lakes, and processing pipelines)"
       ],
       "Benefits": [
-        "Their employment is tied to their role on a project, and they are eligible for a benefits package that is competitive for project delivery-focused professionals",
-        "The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs",
-        "A reasonable estimate of the current range is $88,600 to $163,100",
-        "You may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance"
+        "Actual pay rates will vary and will be based on various factors, such as your qualifications, skills, competencies, and proficiency for the role",
+        "Base pay is one component of WEX's total compensation package",
+        "Most sales positions are eligible for commission under the terms of an applicable plan",
+        "Non-sales roles are typically eligible for a quarterly or annual bonus based on their role and applicable plan",
+        "WEX's comprehensive and market competitive benefits are designed to support your personal and professional well-being",
+        "Benefits include health, dental and vision insurances, retirement savings plan, paid time off, health savings account, flexible spending accounts, life insurance, disability insurance, tuition reimbursement, and more",
+        "Pay Range: $121,500.00 - $145,500.00"
       ],
       "Responsibilities": [
-        "The SOAR & AI Engineer will build, implement, and maintain advanced Security Orchestration, Automation, and Response (SOAR) and artificial intelligence (AI) solutions to automate security operations",
-        "This role designs and operationalizes automation using internal security data, integrates with existing tools and platforms, and ensures automation measurably improves detection, response, and investigation across the security lifecycle",
-        "This position serves as a hands-on technical lead for delivering automation capabilities and driving continuous improvement of automated playbooks, dashboards, and AI-agent workflows",
-        "Helps manage and protect dynamic attack surfaces and provides rapid crisis and cyber incident response, ensuring clients can be ready for, respond to, and recover from business disruptions",
-        "The Project Delivery Talent Model is designed for professionals with specialized skills that align to a current client need",
-        "Team members focus on delivering services to clients, without additional expectations related to business development or promotion"
+        "You will act as a force multiplier for the team—setting technical standards, mentoring junior engineers, and partnering with product leadership to turn abstract business goals into production-grade AI solutions",
+        "Technical Strategy & Architecture: Partner with stakeholders to translate complex customer challenges into robust technical designs and AI strategies",
+        "End-to-End Ownership: Architect, build, and deploy high-performance AI/ML platforms and tools, ensuring scalability, reliability, and security",
+        "Advanced Model Development: Lead the development, evaluation, fine-tuning, and monitoring of production-grade AI/ML models (including LLMs and RAG architectures)",
+        "Operational Excellence: Design and standardize CI/CD pipelines (GitHub Actions) and Infrastructure as Code (Terraform) to ensure reproducible and automated deployments",
+        "Reliability & Scale: Proactively monitor system health, lead incident response for critical AI systems, and drive architectural refactoring to remove bottlenecks",
+        "Mentorship: Mentor L1/L2 engineers, conduct code reviews, and foster a culture of engineering excellence and best practices",
+        "Innovation: Evaluate emerging AI technologies/vendors and prototype new approaches to keep the organization at the cutting edge of the industry"
       ]
     },
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
-    "id": "jobsus-deloitte-com-san-francisco-ca-soar-ai-engineer-7634155ff03e4873b32ea6fdd411d3c2-job",
+    "id": "careers-wexinc-com-us-en-job-r20720-sr-ai-engineer",
     "_source": "new_jobs"
   },
   {
@@ -1463,6 +1476,105 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "G13PNshacYMFET7eAAAAAA==",
+    "job_title": "SOAR & AI Engineer",
+    "employer_name": "Deloitte",
+    "employer_logo": null,
+    "employer_website": "https://www.deloitte.com",
+    "job_publisher": "Jobs - Deloitte",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobsus.deloitte.com/san-francisco-ca/soar-ai-engineer/7634155FF03E4873B32EA6FDD411D3C2/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Jobs - Deloitte",
+        "apply_link": "https://jobsus.deloitte.com/san-francisco-ca/soar-ai-engineer/7634155FF03E4873B32EA6FDD411D3C2/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Deloitte/Job/SOAR-&-AI-Engineer/-in-San-Francisco,CA?jid=43314415c11856bc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/soar-ai-engineer-sf-deloitte-0d3a5aadd7652ad9403a3e3fbed6f938?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Experteer",
+        "apply_link": "https://us.experteer.com/career/view-jobs/soar-and-ai-engineer-san-francisco-ca-usa-56136404?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/a7e7138a7d75b84e514e3f5f6818bab5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/software-engineer?id=2455143513&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Aijobxpert.com",
+        "apply_link": "https://www.aijobxpert.com/jobs/senior-full-stack-ai-engineer-genai-rag-171d0944?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Our Deloitte Cyber team understands the unique challenges and opportunities businesses face in cybersecurity. Join our team to deliver powerful solutions to help our clients navigate the ever-changing threat landscape. Through powerful solutions and managed services that simplify complexity, we enable our clients to operate with resilience, grow with confidence, and proactively manage to secure success.\n\nRecuiting for this role ends on May 31, 2026.\n\nWork You'll Do\n\nThe SOAR & AI Engineer will build, implement, and maintain advanced Security Orchestration, Automation, and Response (SOAR) and artificial intelligence (AI) solutions to automate security operations. This role designs and operationalizes automation using internal security data, integrates with existing tools and platforms, and ensures automation measurably improves detection, response, and investigation across the security lifecycle.\n\nThis position serves as a hands-on technical lead for delivering automation capabilities and driving continuous improvement of automated playbooks, dashboards, and AI-agent workflows. The SOAR & AI Engineer partners with cross-functional security teams to identify high-value automation opportunities and productionize modern SOAR and AI technologies.\n\nThe Team\n\nDeloitte's Government & Public Services (GPS) practice - our people, ideas, technology and outcomes - is designed for impact. Serving federal, state, & local government clients as well as public higher education institutions, our team of professionals brings fresh perspective to help clients anticipate disruption, reimagine the possible, and fulfill their mission promise.\n\nOur Cyber Defense & Resilience offering assists clients in defending against advanced threats by transforming security operations, monitoring technology, data analytics, and threat intelligence. Helps manage and protect dynamic attack surfaces and provides rapid crisis and cyber incident response, ensuring clients can be ready for, respond to, and recover from business disruptions.\n\nThe Project Delivery Talent Model is designed for professionals with specialized skills that align to a current client need. Team members focus on delivering services to clients, without additional expectations related to business development or promotion. Their employment is tied to their role on a project, and they are eligible for a benefits package that is competitive for project delivery-focused professionals.\n\nQualifications\n\nRequired:\n• Bachelor's degree required.\n• Ability to obtain Public Trust clearance\n• 4+ years of experience developing SOAR and/or AI solutions in an enterprise environment\n• 3+ years of experience in one or more of the following:\n• Security workflow automation and playbook development\n• Integrating cloud and on-premises systems\n• Hands-on experience with Splunk SOAR capabilities\n• Ability to travel 25%, on average, based on the work you do and the clients and industries/sectors you serve\n• Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future\n\nThe wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $88,600 to $163,100.\n\nYou may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance.\n\nInformation for applicants with a need for accommodation: https://www2.deloitte.com/us/en/pages/careers/articles/join-deloitte-assistance-for-disabled-applicants.html\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or protected veteran status, or any other legally protected basis, in accordance with applicable law.",
+    "job_is_remote": false,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770422400,
+    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
+    "job_location": "San Francisco, CA",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.7749295,
+    "job_longitude": -122.4194155,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DG13PNshacYMFET7eAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Bachelor's degree required",
+        "Ability to obtain Public Trust clearance",
+        "4+ years of experience developing SOAR and/or AI solutions in an enterprise environment",
+        "3+ years of experience in one or more of the following:",
+        "Security workflow automation and playbook development",
+        "Integrating cloud and on-premises systems",
+        "Hands-on experience with Splunk SOAR capabilities",
+        "Ability to travel 25%, on average, based on the work you do and the clients and industries/sectors you serve",
+        "Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future"
+      ],
+      "Benefits": [
+        "Their employment is tied to their role on a project, and they are eligible for a benefits package that is competitive for project delivery-focused professionals",
+        "The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs",
+        "A reasonable estimate of the current range is $88,600 to $163,100",
+        "You may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance"
+      ],
+      "Responsibilities": [
+        "The SOAR & AI Engineer will build, implement, and maintain advanced Security Orchestration, Automation, and Response (SOAR) and artificial intelligence (AI) solutions to automate security operations",
+        "This role designs and operationalizes automation using internal security data, integrates with existing tools and platforms, and ensures automation measurably improves detection, response, and investigation across the security lifecycle",
+        "This position serves as a hands-on technical lead for delivering automation capabilities and driving continuous improvement of automated playbooks, dashboards, and AI-agent workflows",
+        "Helps manage and protect dynamic attack surfaces and provides rapid crisis and cyber incident response, ensuring clients can be ready for, respond to, and recover from business disruptions",
+        "The Project Delivery Talent Model is designed for professionals with specialized skills that align to a current client need",
+        "Team members focus on delivering services to clients, without additional expectations related to business development or promotion"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "jobsus-deloitte-com-san-francisco-ca-soar-ai-engineer-7634155ff03e4873b32ea6fdd411d3c2-job",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "7hh5d18aAQDXMsNXAAAAAA==",
     "job_title": "Senior Data Engineering Lead- AI Engineering & Operations team",
     "employer_name": "Charles Schwab",
@@ -1519,8 +1631,8 @@
     "job_latitude": 30.267152999999997,
     "job_longitude": -97.7430608,
     "job_benefits": [
-      "dental_coverage",
       "health_insurance",
+      "dental_coverage",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D7hh5d18aAQDXMsNXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -1556,103 +1668,6 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "www-schwabjobs-com-job-austin-senior-data-engineering-lead-ai-engineering-and-operations-team-33727-89311402832",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "LDJRxc2nPfkZVBCGAAAAAA==",
-    "job_title": "Research Engineer, Pre-training",
-    "employer_name": "Anthropic",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmcc1XhesNcKPbkHODLv5AfDP8KXJw21CJGMtQ&s=0",
-    "employer_website": "https://www.anthropic.com",
-    "job_publisher": "LinkedIn",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/research-engineer-pre-training-at-anthropic-4322259770?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/research-engineer-pre-training-at-anthropic-4322259770?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/6916469c9c388539cbdf9657?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/maryland/software_development/4833972907/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "About Anthropic\n\nAnthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n\nAnthropic is at the forefront of AI research, dedicated to developing safe, ethical, and powerful artificial intelligence. Our mission is to ensure that transformative AI systems are aligned with human interests. We are seeking a Research Engineer to join our Pre-training team, responsible for developing the next generation of large language models. In this role, you will work at the intersection of cutting-edge research and practical engineering, contributing to the development of safe, steerable, and trustworthy AI systems.\n\nKey Responsibilities\n• Conduct research and implement solutions in areas such as model architecture, algorithms, data processing, and optimizer development\n• Independently lead small research projects while collaborating with team members on larger initiatives\n• Design, run, and analyze scientific experiments to advance our understanding of large language models\n• Optimize and scale our training infrastructure to improve efficiency and reliability\n• Develop and improve dev tooling to enhance team productivity\n• Contribute to the entire stack, from low-level optimizations to high-level model design\n\nQualifications\n• Advanced degree (MS or PhD) in Computer Science, Machine Learning, or a related field\n• Strong software engineering skills with a proven track record of building complex systems\n• Expertise in Python and experience with deep learning frameworks (PyTorch preferred)\n• Familiarity with large-scale machine learning, particularly in the context of language models\n• Ability to balance research goals with practical engineering constraints\n• Strong problem-solving skills and a results-oriented mindset\n• Excellent communication skills and ability to work in a collaborative environment\n• Care about the societal impacts of your work\n\nPreferred Experience\n• Work on high-performance, large-scale ML systems\n• Familiarity with GPUs, Kubernetes, and OS internals\n• Experience with language modeling using transformer architectures\n• Knowledge of reinforcement learning techniques\n• Background in large-scale ETL processes\n\nYou'll Thrive In This Role If You\n• Have significant software engineering experience\n• Are results-oriented with a bias towards flexibility and impact\n• Willingly take on tasks outside your job description to support the team\n• Enjoy pair programming and collaborative work\n• Are eager to learn more about machine learning research\n• Are enthusiastic to work at an organization that functions as a single, cohesive team pursuing large-scale AI research projects\n• Are working to align state of the art models with human values and preferences, understand and interpret deep neural networks, or develop new models to support these areas of research\n• View research and engineering as two sides of the same coin, and seek to understand all aspects of our research program as well as possible, to maximize the impact of your insights\n• Have ambitious goals for AI safety and general progress in the next few years, and you’re working to create the best outcomes over the long-term.\n\nSample Projects\n• Optimizing the throughput of novel attention mechanisms\n• Comparing compute efficiency of different Transformer variants\n• Preparing large-scale datasets for efficient model consumption\n• Scaling distributed training jobs to thousands of GPUs\n• Designing fault tolerance strategies for our training infrastructure\n• Creating interactive visualizations of model internals, such as attention patterns\n\nAt Anthropic, we are committed to fostering a diverse and inclusive workplace. We strongly encourage applications from candidates of all backgrounds, including those from underrepresented groups in tech.\n\nIf you're excited about pushing the boundaries of AI while prioritizing safety and ethics, we want to hear from you!\n\nThe annual compensation range for this role is listed below.\n\nFor sales roles, the range provided is the role’s On Target Earnings (\"OTE\") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.\n\nAnnual Salary\n\n$350,000—$850,000 USD\n\nLogistics\n\nEducation requirements: We require at least a Bachelor's degree in a related field or equivalent experience.\n\nLocation-based hybrid policy: Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.\n\nVisa sponsorship: We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.\n\nWe encourage you to apply even if you do not believe you meet every single qualification. Not all strong candidates will meet every single qualification as listed. Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.\n\nYour safety matters to us. To protect yourself from potential scams, remember that Anthropic recruiters only contact you from @anthropic.com email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you're ever unsure about a communication, don't click any links—visit anthropic.com/careers directly for confirmed position openings.\n\nHow We're Different\n\nWe believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We're an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.\n\nThe easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI & Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.\n\nCome work with us!\n\nAnthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. Guidance on Candidates' AI Usage: Learn about our policy for using AI in our application process",
-    "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770422400,
-    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
-    "job_location": "Friendly, MD",
-    "job_city": "Friendly",
-    "job_state": "Maryland",
-    "job_country": "US",
-    "job_latitude": 38.751781199999996,
-    "job_longitude": -76.97858579999999,
-    "job_benefits": [
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLDJRxc2nPfkZVBCGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 350000,
-    "job_max_salary": 850000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "Advanced degree (MS or PhD) in Computer Science, Machine Learning, or a related field",
-        "Strong software engineering skills with a proven track record of building complex systems",
-        "Familiarity with large-scale machine learning, particularly in the context of language models",
-        "Ability to balance research goals with practical engineering constraints",
-        "Strong problem-solving skills and a results-oriented mindset",
-        "Excellent communication skills and ability to work in a collaborative environment",
-        "Care about the societal impacts of your work",
-        "Have significant software engineering experience",
-        "Are results-oriented with a bias towards flexibility and impact",
-        "Enjoy pair programming and collaborative work",
-        "Are eager to learn more about machine learning research",
-        "Are enthusiastic to work at an organization that functions as a single, cohesive team pursuing large-scale AI research projects",
-        "Are working to align state of the art models with human values and preferences, understand and interpret deep neural networks, or develop new models to support these areas of research",
-        "View research and engineering as two sides of the same coin, and seek to understand all aspects of our research program as well as possible, to maximize the impact of your insights",
-        "Have ambitious goals for AI safety and general progress in the next few years, and you’re working to create the best outcomes over the long-term",
-        "Education requirements: We require at least a Bachelor's degree in a related field or equivalent experience",
-        "As such, we greatly value communication skills"
-      ],
-      "Benefits": [
-        "The annual compensation range for this role is listed below",
-        "For sales roles, the range provided is the role’s On Target Earnings (\"OTE\") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role",
-        "Annual Salary",
-        "$350,000—$850,000 USD",
-        "We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues"
-      ],
-      "Responsibilities": [
-        "In this role, you will work at the intersection of cutting-edge research and practical engineering, contributing to the development of safe, steerable, and trustworthy AI systems",
-        "Conduct research and implement solutions in areas such as model architecture, algorithms, data processing, and optimizer development",
-        "Independently lead small research projects while collaborating with team members on larger initiatives",
-        "Design, run, and analyze scientific experiments to advance our understanding of large language models",
-        "Optimize and scale our training infrastructure to improve efficiency and reliability",
-        "Develop and improve dev tooling to enhance team productivity",
-        "Contribute to the entire stack, from low-level optimizations to high-level model design",
-        "Willingly take on tasks outside your job description to support the team",
-        "Optimizing the throughput of novel attention mechanisms",
-        "Comparing compute efficiency of different Transformer variants",
-        "Preparing large-scale datasets for efficient model consumption",
-        "Scaling distributed training jobs to thousands of GPUs",
-        "Designing fault tolerance strategies for our training infrastructure",
-        "Creating interactive visualizations of model internals, such as attention patterns"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-linkedin-com-jobs-view-research-engineer-pre-training-at-anthropic-4322259770",
     "_source": "new_jobs"
   },
   {
@@ -1751,6 +1766,103 @@
     "job_onet_soc": "17211100",
     "job_onet_job_zone": "4",
     "id": "tallo-com-jobs-technology-artificial-intelligence-engineer-ny-new-york-research-engineer-safety-system-evaluation-and-d4cac6952ec5",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "cN0_sPhpdCxIwUPzAAAAAA==",
+    "job_title": "(USA) Staff, Application Security Engineer - AI Focused",
+    "employer_name": "Walmart",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
+    "employer_website": "https://corporate.walmart.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time and Part-time",
+    "job_employment_types": [
+      "FULLTIME",
+      "PARTTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/(USA)-Staff,-Application-Security-Engineer-AI-Focused/-in-Johnson,AR?jid=1f7fe7c27f2fad82&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/(USA)-Staff,-Application-Security-Engineer-AI-Focused/-in-Johnson,AR?jid=1f7fe7c27f2fad82&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Position Summary...\n\nWhat you'll do...We are expanding our team and looking for technologists with experience in Application Security, Machine Learning, practitioners of developing code languages and passion for Artificial Intelligence. This role is geared for an individual contributor that can lead within, someone who enjoys the challenges of building enterprise capabilities, establishing strategy and best practices geared for AI assisted development, ready to assess risks and develop comparison metrics of AI generated contributions. This role will be filled with someone that likes a challenge, ability to research and apply solutions, with a passion for growing the business securely preserving confidentiality, integrity, and availability. About Team:\nAt Walmart, we prioritize innovation and data security. Our team is dedicated to maintaining a secure operating environment and preserving the trust of our customers, associates, and stakeholders. We support our growing business through ensuring our deployed solutions are secure from insecure coding practices and vulnerabilities to protect the business against threat actors. We combine a range of services and expertise to prevent fraud, detect threats, and manage digital risk and access. Our focus is on mitigating attack risks, securing cloud transformation, and fostering a culture of security and reliability within our team\n\nWhat you'll do:\n• Become part of an elite Security Team solving evolving security exploits and technology trends.\n• Develop Application Security strategy for AI‑assisted development across SDLC and CI/CD.\n• Establish architecture patterns for safe use of AI coding assistants (IDE, CLI, PR bots) including data‑handling and model interaction boundaries.\n• Champion AI security controls that are developer‑first, fast, and low‑friction, while ensuring enterprise policy adherence. Quantify defect rates and risk between human vs. AI‑generated changes.\n• Author secure coding standards for AI‑generated code and drive adoption, measuring enforcement and telemetry.\n• Assess risks of AI code contributions and codify automated checks.\n• Orchestrate security tools and connect findings to AI remediation workflows.\n• Pre‑train and fine‑tune enterprise AI coding agents on secure patterns, org policies, and vetted libraries to minimize insecure suggestions.\n• Create developer blueprints and code recipes that embed secure defaults into AI scaffolding and templates.\n• Mentor staff and partner teams; evangelizing AI‑secure coding, prompt safety, and pipeline guiding principles.\n\nWhat you'll bring:\n• AI and ML expertise with a keen knowledge of code development and deployment.\n• I am an experienced career technologist who is well-versed in application development methodologies, CI/CD, and remediation techniques.\n• Holds a technology degree with 7+ years or equivalent experience in cybersecurity, Application Security, development and code management, or computer science.\n• Familiarity with broad set of development and query languages.\n• Experience in building and administrating solutions within the tech stack; Development knowledge, CI/CD, libraries, utilities (modern knowledge); strong communications (verbally and written), enjoys a challenge, organized, team player, ability to learn needs to be able to lead and follow and know when to do either.\n• Someone who enjoys exercising your experience to develop solutions that will enable better insight into the enterprise, identifying gaps and areas of improvement.\n• Naturally inquisitive with a passion for learning and understanding the nuances of development technology.\n• An adaptive learner who can partner with other technologists and leaders to deliver solutions securely at the speed of business.\n• An innovative, logical, and inquisitive mind with a desire to be effective.\n• Familiarity with regulatory concepts (for example, NIST, SOX, PCI, HIPAA)\n• A curious and continual learning mindset across security technologies, trends, threats, and exploits\n• Practical understanding of technical and nontechnical risk response options.\n• A passion for global responsibility\n• Collaboration and expertise for evolving technology, paired with an eagerness to learn and develop those around them.\n• Industry certifications such as: (CSSLP, CCSK, GWAPT, OSCP/OSWE, CEH, CSSP) area PLUS!\n\nAbout Walmart Global Tech\nImagine working in an environment where one line of code can make life easier for hundreds of millions of people. That is what we do at Walmart Global Tech. We are a team of software engineers, data scientists, cybersecurity experts, and service professionals within the world’s leading retailers who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail.\nOur campuses serve as a hub to enhance collaboration, bring us together for purpose and deliver on business needs. This approach helps us make quicker decisions, remove location barriers across our global team and be more flexible in our personal lives.\n\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\nFor information about benefits and eligibility, see One.Walmart.\nThe annual salary range for this position is $110,000.00 - $220,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, information technology, engineering, information systems, cybersecurity, or related area and 4 years’ experience in application security, or related area at a technology, retail, or data-driven company. Option 2: 6 years’ experience in application security, or related area at a technology, retail, or data-driven company.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nCertification in Security+, GISF, CISSP, CSSP, CASE, or GWEB, Master’s degree in Computer Science, Information Technology, Engineering, Information Systems, Cybersecurity, or related area and 2 years’ experience leading information security or cybersecurity projects, We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n2501 Se J St, Ste A, Bentonville, AR 72716-3724, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
+    "job_is_remote": false,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770422400,
+    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
+    "job_location": "Johnson, AR",
+    "job_city": "Johnson",
+    "job_state": "Arkansas",
+    "job_country": "US",
+    "job_latitude": 36.1334622,
+    "job_longitude": -94.1629938,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DcN0_sPhpdCxIwUPzAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 110000,
+    "job_max_salary": 220000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "This role will be filled with someone that likes a challenge, ability to research and apply solutions, with a passion for growing the business securely preserving confidentiality, integrity, and availability",
+        "AI and ML expertise with a keen knowledge of code development and deployment",
+        "I am an experienced career technologist who is well-versed in application development methodologies, CI/CD, and remediation techniques",
+        "Holds a technology degree with 7+ years or equivalent experience in cybersecurity, Application Security, development and code management, or computer science",
+        "Familiarity with broad set of development and query languages",
+        "Experience in building and administrating solutions within the tech stack; Development knowledge, CI/CD, libraries, utilities (modern knowledge); strong communications (verbally and written), enjoys a challenge, organized, team player, ability to learn needs to be able to lead and follow and know when to do either",
+        "Someone who enjoys exercising your experience to develop solutions that will enable better insight into the enterprise, identifying gaps and areas of improvement",
+        "Naturally inquisitive with a passion for learning and understanding the nuances of development technology",
+        "An adaptive learner who can partner with other technologists and leaders to deliver solutions securely at the speed of business",
+        "An innovative, logical, and inquisitive mind with a desire to be effective",
+        "Familiarity with regulatory concepts (for example, NIST, SOX, PCI, HIPAA)",
+        "A curious and continual learning mindset across security technologies, trends, threats, and exploits",
+        "Practical understanding of technical and nontechnical risk response options",
+        "A passion for global responsibility",
+        "Collaboration and expertise for evolving technology, paired with an eagerness to learn and develop those around them",
+        "Option 1: Bachelor's degree in computer science, information technology, engineering, information systems, cybersecurity, or related area and 4 years’ experience in application security, or related area at a technology, retail, or data-driven company",
+        "Option 2: 6 years’ experience in application security, or related area at a technology, retail, or data-driven company",
+        "Certification in Security+, GISF, CISSP, CSSP, CASE, or GWEB, Master’s degree in Computer Science, Information Technology, Engineering, Information Systems, Cybersecurity, or related area and 2 years’ experience leading information security or cybersecurity projects, We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
+        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
+      ],
+      "Benefits": [
+        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
+        "Health benefits include medical, vision and dental coverage",
+        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
+        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
+        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
+        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
+        "The amount you receive depends on your job classification and length of employment",
+        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
+        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
+        "Tuition, books, and fees are completely paid for by Walmart",
+        "Eligibility requirements apply to some benefits and may depend on your job classification and length of employment",
+        "Benefits are subject to change and may be subject to a specific plan or program terms",
+        "The annual salary range for this position is $110,000.00 - $220,000.00 Additional compensation includes annual or quarterly performance bonuses",
+        "Additional compensation for certain positions may also include :"
+      ],
+      "Responsibilities": [
+        "Become part of an elite Security Team solving evolving security exploits and technology trends",
+        "Develop Application Security strategy for AI‑assisted development across SDLC and CI/CD",
+        "Establish architecture patterns for safe use of AI coding assistants (IDE, CLI, PR bots) including data‑handling and model interaction boundaries",
+        "Champion AI security controls that are developer‑first, fast, and low‑friction, while ensuring enterprise policy adherence",
+        "Author secure coding standards for AI‑generated code and drive adoption, measuring enforcement and telemetry",
+        "Assess risks of AI code contributions and codify automated checks",
+        "Orchestrate security tools and connect findings to AI remediation workflows",
+        "Pre‑train and fine‑tune enterprise AI coding agents on secure patterns, org policies, and vetted libraries to minimize insecure suggestions",
+        "Create developer blueprints and code recipes that embed secure defaults into AI scaffolding and templates",
+        "Mentor staff and partner teams; evangelizing AI‑secure coding, prompt safety, and pipeline guiding principles"
+      ]
+    },
+    "job_onet_soc": "15112200",
+    "job_onet_job_zone": "4",
+    "id": "www-ziprecruiter-com-c-walmart-job-usa-staff-application-security-engineer-ai-focused-in-johnson-ar",
     "_source": "new_jobs"
   }
 ]
