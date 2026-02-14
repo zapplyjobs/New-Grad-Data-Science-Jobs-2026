@@ -21,9 +21,9 @@
     ],
     "job_description": "Senior Machine Learning Engineer\n\nSenior Machine Learning Engineer\n\nAs a Capital One Machine Learning Engineer (MLE), you'll be part of an Agile team dedicated to productionizing machine learning applications and systems at scale. You'll participate in the detailed technical design, development, and implementation of machine learning applications using existing and emerging technology platforms. You'll focus on machine learning architectural design, develop and review model and application code, and ensure high availability and performance of our machine learning applications. You'll have the opportunity to continuously learn and apply the latest innovations and best practices in machine learning engineering.\n\nWhat you'll do in the role:\n\nThe MLE role overlaps with many disciplines, such as Ops, Modeling, and Data Engineering. In this role, you'll be expected to perform many ML engineering activities, including one or more of the following:\n\n• Design, build, and/or deliver ML models and components that solve real-world business problems, while working in collaboration with the Product and Data Science teams.\n• Inform your ML infrastructure decisions using your understanding of ML modeling techniques and issues, including choice of model, data, and feature selection, model training, hyperparameter tuning, dimensionality, bias/variance, and validation).\n• Solve complex problems by writing and testing application code, developing and validating ML models, and automating tests and deployment.\n• Collaborate as part of a cross-functional Agile team to create and enhance software that enables state-of-the-art big data and ML applications.\n• Retrain, maintain, and monitor models in production.\n• Leverage or build cloud-based architectures, technologies, and/or platforms to deliver optimized ML models at scale.\n• Construct optimized data pipelines to feed ML models.\n• Leverage continuous integration and continuous deployment best practices, including test automation and monitoring, to ensure successful deployment of ML models and application code.\n• Ensure all code is well-managed to reduce vulnerabilities, models are well-governed from a risk perspective, and the ML follows best practices in Responsible and Explainable AI.\n• Use programming languages like Python, Scala, or Java.\nBasic Qualifications:\n\n• Bachelor's Degree\n• At least 4 years of experience programming with Python, Scala, or Java (Internship experience does not apply)\n• At least 3 years of experience designing and building data-intensive solutions using distributed computing\n• At least 2 years of on-the-job experience with an industry recognized ML frameworks (scikit-learn, PyTorch, Dask, Spark, or TensorFlow)\n• At least 1 year of experience productionizing, monitoring, and maintaining models\nPreferred Qualifications:\n\n• 1+ years of experience building, scaling, and optimizing ML systems\n• 1+ years of experience with data gathering and preparation for ML models\n• 2+ years of experience developing performant, resilient, and maintainable code\n• Experience developing and deploying ML solutions in a public cloud such as AWS, Azure, or Google Cloud Platform\n• Master's or doctoral degree in computer science, electrical engineering, mathematics, or a similar field\n• 3+ years of experience with distributed file systems or multi-node database paradigms\n• Contributed to open source ML software\n• Authored/co-authored a paper on a ML technique, model, or proof of concept\n• 3+ years of experience building production-ready data pipelines that feed ML models\n• Experience designing, implementing, and scaling complex data pipelines for ML models and evaluating their performance\nAt this time, Capital One will not sponsor a new applicant for employment authorization, or offer any immigration related support for this position (i.e. H1B, F-1 OPT, F-1 STEM OPT, F-1 CPT, J-1, TN, E-2, E-3, L-1 and O-1, or any EADs or other forms of work authorization that require immigration support from an employer).\n\nThe minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.\n\nMcLean, VA: $161,800 - $184,600 for Senior Machine Learning Engineer\n\nCandidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate's offer letter.\n\nThis role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.\n\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\n\nThis role is expected to accept applications for a minimum of 5 business days.\n\nNo agencies please. Capital One is an equal opportunity employer (EOE, including disability/vet) committed to non-discrimination in compliance with applicable federal, state, and local laws. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City's Fair Chance Act; Philadelphia's Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",
     "job_is_remote": false,
-    "job_posted_at": "1 day ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
     "job_location": "McLean, VA",
     "job_city": "McLean",
     "job_state": "Virginia",
@@ -146,8 +146,8 @@
     "job_latitude": 39.948951199999996,
     "job_longitude": -74.9862978,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
+      "health_insurance",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dv7L1v7dUELMHugaYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -385,9 +385,9 @@
     "job_latitude": 38.9764364,
     "job_longitude": -76.489642,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DWhXCM0qq0JN2ZKIGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -442,11 +442,6 @@
         "is_direct": false
       },
       {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/distinguished-machine-learning-engineer-bank-tech-at-capital-one-4365323859?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
         "publisher": "KGET Jobs",
         "apply_link": "https://jobs.kget.com/jobs/distinguished-machine-learning-engineer-bank-tech-wilmington-delaware/2607340518-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
@@ -464,6 +459,11 @@
       {
         "publisher": "Adzuna",
         "apply_link": "https://www.adzuna.com/details/5598107538?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/data-science?id=2415099215&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
@@ -528,131 +528,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "zZ55lXJFcZQ8VyExAAAAAA==",
-    "job_title": "2026 Machine Learning Engineering Undergrad Intern",
-    "employer_name": "The Aerospace Corporation",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8PwrQCCaSEZaMT-rGozLe8aniEIzzDyS4Ikej&s=0",
-    "employer_website": "https://aerospace.org",
-    "job_publisher": "Space Crew",
-    "job_employment_type": "Internship",
-    "job_employment_types": [
-      "INTERN"
-    ],
-    "job_apply_link": "https://spacecrew.com/space-jobs/mlakgaoh-the-aerospace-corporation-2026-machine-learning-engineering-undergrad-intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Space Crew",
-        "apply_link": "https://spacecrew.com/space-jobs/mlakgaoh-the-aerospace-corporation-2026-machine-learning-engineering-undergrad-intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/2026-machine-learning-engineering-undergrad-intern_7ea1a20c2ec0aa0e895f10635d926d9ff73d0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/474f72f16ed995aa6812818692a85789?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Trabajo.org",
-        "apply_link": "https://us.trabajo.org/job-2914-cd453f39ee92ef61c9a4a3d982ed0205?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Local Job Bulletin",
-        "apply_link": "https://virginia.localjobbulletin.com/seo/job/chantilly/136264477?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "The Aerospace Corporation is the trusted partner to the nation’s space programs, solving the hardest problems and providing unmatched technical expertise. As the operator of a federally funded research and development center (FFRDC), we are broadly engaged across all aspects of space— delivering innovative solutions that span satellite, launch, ground, and cyber systems for defense, civil and commercial customers. When you join our team, you’ll be part of a special collection of problem solvers, thought leaders, and innovators. Join us and take your place in space.\n\nThe Aerospace Corporation is hiring a Machine Learning Engineer Intern for the Data Science and Artificial Intelligence Department (DSAID) within the Information Systems and Cyber Division (ISCD). This position will be full-time, 100% onsite at our office in Chantilly, VA.\n\nJob Summary\n\nInformation Systems and Cyber Division (ISCD) staff work with the latest in information system technologies, such as elastic compute clouds, containerization, microservices, real-time operating systems, and visualization frameworks, with expertise in cyber security, software architecture, software engineering, data science, Artificial Intelligence, process improvement, and software development to deliver responsive, resilient, high-performance software intensive systems to our Intelligence Community, DoD, and civilian customers.\n\nDSAID consists of a diverse team of engineers, data scientists, and programmers with a passion for researching, prototyping, understanding, and building AI and data enabled tools across the space enterprise.  We are a growing, innovative, and collaborative department providing technical expertise in AI and Machine Learning to many of Aerospace’s customers, such as the Missile Defense Agency, NASA, Space Development Agency and the National Reconnaissance Office.  We apply data science and AI knowledge across the space enterprise, to Aerospace enterprise capabilities, and towards corporate workforce development and strategic focus areas.\n\nMachine Learning Engineers work on teams spanning various disciplines, experience levels, and organizational boundaries.\n\nWhat You’ll Be Doing\n• Developing and executing machine learning and data science experiments, in the domains of natural language processing, computer vision, time series analysis, reinforcement learning, etc.\n• Evaluating technologies and data science models for use in scalable and resilient mission-critical applications\n• Collaborating with teams of various sizes to deliver features and products\n• Presenting written and verbal results to customer stakeholders.\n• Reinforcing an environment of learning and progress with team members and others\n\nWhat Corporate Skills You’ll Bring  \n• Strong written and oral communication skills\n• Must work well in a team environment\n• Possess organizational, time management and project management skills\n• Demonstrate flexibility and ability to adapt to changing organizational need\n• Interpersonal skills to coordinate efforts and work with other internal and external organizations\n\nWhat You Need to be Successful   \n\nMinimum Requirements  \n• Currently enrolled full-time in an accredited college/university program pursuing a Bachelor's Degree in Computer Science, Computer Engineering, or related discipline.   \n• Availability to work full-time for a minimum of 10 weeks outside of university term and ability to return to a degree program full-time after completion of the internship. \n• Minimum GPA of 3.0   \n• Proficiency in Python, including major ML libraries and tools (PyTorch)\n• Experience with container orchestration tooling (Docker, Kubernetes, etc.)\n• Experience with and understanding of machine learning and artificial intelligence, software engineering, and statistics\n• Experience with and understanding of software engineering concepts with an AI focus (MLOps/DevOps, ML Development Lifecycle, Scalable ML Architecture, etc.)\n• Familiarity with MLOps processes and tools (MLFlow, Data Version Control etc.)\n• Specific experience designing either computer vision or natural language processing applications leveraging ML models.\n• Experience in leveraging GPUs to scale and measure ML solution performance (NVIDIA developer tools etc.)\n• Familiarity with Unix/Linux operating systems\n• Experience with cloud native application development or cloud infrastructure, Microservice architectures\n• This position requires the ability to obtain and maintain a security clearance, which is issued by the U.S. government. U.S. citizenship is required to obtain a security clearance.\n• Transcripts required.  \n\nHow You Can Stand Out \n\nIt would be impressive if you have one or more of these:  \n• GPA 3.5 or higher  \n• Active security clearance \n• Strong leadership skills\n• Familiarity with High Performance Computing hardware for ML (GPUs, TPUs), CUDA programming, and advanced ML optimization techniques and architectures\n• Experience with Slurm, Kubernetes or other cluster job orchestration frameworks leveraging GPU resources to run distributed ML training jobs at scale\n• Experience with building ML Solutions on edge and embedded hardware (ARM devices, Jetson Series, etc.)\n• Experience with Distributed and stream data processing, big data frameworks (Hadoop, Spark, Flink etc.)\n• Experience building scalable Agentic and Generative AI solutions for narrow-scoped use cases\n\nTemporary housing assistance is not available.\n\nWe offer a competitive compensation package where you’ll be rewarded based on your performance and recognized for the value you bring to our business. The grade-based pay range for this job is listed below. Individual salaries within that range are determined through a wide variety of factors including but not limited to education, experience, knowledge and skills.\n\n(Min - Max)\nN/A\n\nPay Basis: Hourly\n\nLeadership Competencies\n\nOur leadership philosophy is simple: every employee, regardless of level and role, can demonstrate leadership. At Aerospace, our commitment is our people. To cultivate our talent and ensure that we have a strong pipeline of future leaders, we want individuals who:\n• Operate Strategically\n• Lead Change  \n• Engage with Impact  \n• Foster Innovation  \n• Deliver Results\n\nWays We Reward Our Employees\n\nDuring your interview process, our team will provide details of our industry-leading benefits.\n\nBenefits vary and are applicable based on Job Type. A few highlights include:\n• Comprehensive health care and wellness plans\n• Paid holidays, sick time, and vacation\n• Standard and alternate work schedules, including telework options\n• 401(k) Plan — Employees receive a total company-paid benefit of 8%, 10%, or 12% of eligible compensation based on years of service and matching contributions; employees are immediately eligible and vested in the plan upon hire\n• Flexible spending accounts\n• Variable pay program for exceptional contributions\n• Relocation assistance\n• Professional growth and development programs to help advance your career\n• Education assistance programs\n• An inclusive work environment built on teamwork, flexibility, and respect\n\nWe are all unique, from various backgrounds and all walks of life, yet one thing bonds all of us to each other—the belief that we can make a difference. This core belief empowers us to do our best work at The Aerospace Corporation.\n\nEqual Opportunity Commitment\n\nThe Aerospace Corporation is an equal opportunity employer. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, age, sex (including pregnancy, childbirth, and related medical conditions), sexual orientation, gender, gender identity or expression, color, religion, genetic information, marital status, ancestry, national origin, protected veteran status, physical disability, medical condition, mental disability, or disability status and any other characteristic protected by state or federal law. If you’re an individual with a disability or a disabled veteran who needs assistance using our online job search and application tools or need reasonable accommodation to complete the job application process, please contact us by phone at 310.336.5432 or by email at peoplemangmnt.mailbox@aero.org . You can also review Know Your Rights: Workplace Discrimination is Illegal.",
-    "job_is_remote": false,
-    "job_posted_at": "9 days ago",
-    "job_posted_at_timestamp": 1770249600,
-    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
-    "job_location": "Chantilly, VA",
-    "job_city": "Chantilly",
-    "job_state": "Virginia",
-    "job_country": "US",
-    "job_latitude": 38.886981899999995,
-    "job_longitude": -77.4390375,
-    "job_benefits": [
-      "health_insurance",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DzZ55lXJFcZQ8VyExAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Strong written and oral communication skills",
-        "Must work well in a team environment",
-        "Possess organizational, time management and project management skills",
-        "Demonstrate flexibility and ability to adapt to changing organizational need",
-        "Currently enrolled full-time in an accredited college/university program pursuing a Bachelor's Degree in Computer Science, Computer Engineering, or related discipline.   ",
-        "Availability to work full-time for a minimum of 10 weeks outside of university term and ability to return to a degree program full-time after completion of the internship. ",
-        "Minimum GPA of 3.0   ",
-        "Proficiency in Python, including major ML libraries and tools (PyTorch)",
-        "Experience with container orchestration tooling (Docker, Kubernetes, etc.)",
-        "Experience with and understanding of machine learning and artificial intelligence, software engineering, and statistics",
-        "Experience with and understanding of software engineering concepts with an AI focus (MLOps/DevOps, ML Development Lifecycle, Scalable ML Architecture, etc.)",
-        "Familiarity with MLOps processes and tools (MLFlow, Data Version Control etc.)",
-        "Specific experience designing either computer vision or natural language processing applications leveraging ML models",
-        "Experience in leveraging GPUs to scale and measure ML solution performance (NVIDIA developer tools etc.)",
-        "Familiarity with Unix/Linux operating systems",
-        "Experience with cloud native application development or cloud infrastructure, Microservice architectures",
-        "This position requires the ability to obtain and maintain a security clearance, which is issued by the U.S. government",
-        "U.S. citizenship is required to obtain a security clearance",
-        "Transcripts required.  ",
-        "It would be impressive if you have one or more of these:  ",
-        "GPA 3.5 or higher  ",
-        "Active security clearance ",
-        "Strong leadership skills",
-        "Familiarity with High Performance Computing hardware for ML (GPUs, TPUs), CUDA programming, and advanced ML optimization techniques and architectures",
-        "Experience with building ML Solutions on edge and embedded hardware (ARM devices, Jetson Series, etc.)",
-        "Experience with Distributed and stream data processing, big data frameworks (Hadoop, Spark, Flink etc.)",
-        "Experience building scalable Agentic and Generative AI solutions for narrow-scoped use cases",
-        "Lead Change  ",
-        "Engage with Impact  "
-      ],
-      "Benefits": [
-        "We offer a competitive compensation package where you’ll be rewarded based on your performance and recognized for the value you bring to our business",
-        "The grade-based pay range for this job is listed below",
-        "Individual salaries within that range are determined through a wide variety of factors including but not limited to education, experience, knowledge and skills",
-        "Pay Basis: Hourly",
-        "During your interview process, our team will provide details of our industry-leading benefits",
-        "Comprehensive health care and wellness plans",
-        "Paid holidays, sick time, and vacation",
-        "Standard and alternate work schedules, including telework options",
-        "401(k) Plan — Employees receive a total company-paid benefit of 8%, 10%, or 12% of eligible compensation based on years of service and matching contributions; employees are immediately eligible and vested in the plan upon hire",
-        "Flexible spending accounts",
-        "Variable pay program for exceptional contributions",
-        "Relocation assistance",
-        "Professional growth and development programs to help advance your career",
-        "Education assistance programs",
-        "An inclusive work environment built on teamwork, flexibility, and respect"
-      ],
-      "Responsibilities": [
-        "Developing and executing machine learning and data science experiments, in the domains of natural language processing, computer vision, time series analysis, reinforcement learning, etc",
-        "Evaluating technologies and data science models for use in scalable and resilient mission-critical applications",
-        "Collaborating with teams of various sizes to deliver features and products",
-        "Presenting written and verbal results to customer stakeholders",
-        "Reinforcing an environment of learning and progress with team members and others",
-        "Interpersonal skills to coordinate efforts and work with other internal and external organizations",
-        "Experience with Slurm, Kubernetes or other cluster job orchestration frameworks leveraging GPU resources to run distributed ML training jobs at scale",
-        "Operate Strategically"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "spacecrew-com-space-jobs-mlakgaoh-the-aerospace-corporation-2026-machine-learning-engineering-undergrad-intern",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "5TDGqsfYyTEePqcvAAAAAA==",
     "job_title": "Machine Learning Engineer - Perception Computer Vision",
     "employer_name": "HireArt",
@@ -674,11 +549,6 @@
       {
         "publisher": "ZipRecruiter",
         "apply_link": "https://www.ziprecruiter.com/c/Vertex-Sigma-Software/Job/Machine-Learning-Engineer-Perception-Computer-Vision/-in-Foster-City,CA?jid=0f5b65b30bc578b0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Monster",
-        "apply_link": "https://www.monster.com/job-openings/machine-learning-engineer-perception-computer-vision-foster-city-ca--5683fa76-6988-47fb-9381-2f3950d4fae1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
       },
       {
@@ -751,6 +621,131 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "www-linkedin-com-jobs-view-machine-learning-engineer-perception-computer-vision-at-hireart-4364475931",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "zZ55lXJFcZQ8VyExAAAAAA==",
+    "job_title": "2026 Machine Learning Engineering Undergrad Intern",
+    "employer_name": "The Aerospace Corporation",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8PwrQCCaSEZaMT-rGozLe8aniEIzzDyS4Ikej&s=0",
+    "employer_website": "https://aerospace.org",
+    "job_publisher": "Space Crew",
+    "job_employment_type": "Internship",
+    "job_employment_types": [
+      "INTERN"
+    ],
+    "job_apply_link": "https://spacecrew.com/space-jobs/mlakgaoh-the-aerospace-corporation-2026-machine-learning-engineering-undergrad-intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Space Crew",
+        "apply_link": "https://spacecrew.com/space-jobs/mlakgaoh-the-aerospace-corporation-2026-machine-learning-engineering-undergrad-intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/2026-machine-learning-engineering-undergrad-intern_7ea1a20c2ec0aa0e895f10635d926d9ff73d0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/474f72f16ed995aa6812818692a85789?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Trabajo.org",
+        "apply_link": "https://us.trabajo.org/job-2914-cd453f39ee92ef61c9a4a3d982ed0205?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Local Job Bulletin",
+        "apply_link": "https://virginia.localjobbulletin.com/seo/job/chantilly/136264477?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "The Aerospace Corporation is the trusted partner to the nation’s space programs, solving the hardest problems and providing unmatched technical expertise. As the operator of a federally funded research and development center (FFRDC), we are broadly engaged across all aspects of space— delivering innovative solutions that span satellite, launch, ground, and cyber systems for defense, civil and commercial customers. When you join our team, you’ll be part of a special collection of problem solvers, thought leaders, and innovators. Join us and take your place in space.\n\nThe Aerospace Corporation is hiring a Machine Learning Engineer Intern for the Data Science and Artificial Intelligence Department (DSAID) within the Information Systems and Cyber Division (ISCD). This position will be full-time, 100% onsite at our office in Chantilly, VA.\n\nJob Summary\n\nInformation Systems and Cyber Division (ISCD) staff work with the latest in information system technologies, such as elastic compute clouds, containerization, microservices, real-time operating systems, and visualization frameworks, with expertise in cyber security, software architecture, software engineering, data science, Artificial Intelligence, process improvement, and software development to deliver responsive, resilient, high-performance software intensive systems to our Intelligence Community, DoD, and civilian customers.\n\nDSAID consists of a diverse team of engineers, data scientists, and programmers with a passion for researching, prototyping, understanding, and building AI and data enabled tools across the space enterprise.  We are a growing, innovative, and collaborative department providing technical expertise in AI and Machine Learning to many of Aerospace’s customers, such as the Missile Defense Agency, NASA, Space Development Agency and the National Reconnaissance Office.  We apply data science and AI knowledge across the space enterprise, to Aerospace enterprise capabilities, and towards corporate workforce development and strategic focus areas.\n\nMachine Learning Engineers work on teams spanning various disciplines, experience levels, and organizational boundaries.\n\nWhat You’ll Be Doing\n• Developing and executing machine learning and data science experiments, in the domains of natural language processing, computer vision, time series analysis, reinforcement learning, etc.\n• Evaluating technologies and data science models for use in scalable and resilient mission-critical applications\n• Collaborating with teams of various sizes to deliver features and products\n• Presenting written and verbal results to customer stakeholders.\n• Reinforcing an environment of learning and progress with team members and others\n\nWhat Corporate Skills You’ll Bring  \n• Strong written and oral communication skills\n• Must work well in a team environment\n• Possess organizational, time management and project management skills\n• Demonstrate flexibility and ability to adapt to changing organizational need\n• Interpersonal skills to coordinate efforts and work with other internal and external organizations\n\nWhat You Need to be Successful   \n\nMinimum Requirements  \n• Currently enrolled full-time in an accredited college/university program pursuing a Bachelor's Degree in Computer Science, Computer Engineering, or related discipline.   \n• Availability to work full-time for a minimum of 10 weeks outside of university term and ability to return to a degree program full-time after completion of the internship. \n• Minimum GPA of 3.0   \n• Proficiency in Python, including major ML libraries and tools (PyTorch)\n• Experience with container orchestration tooling (Docker, Kubernetes, etc.)\n• Experience with and understanding of machine learning and artificial intelligence, software engineering, and statistics\n• Experience with and understanding of software engineering concepts with an AI focus (MLOps/DevOps, ML Development Lifecycle, Scalable ML Architecture, etc.)\n• Familiarity with MLOps processes and tools (MLFlow, Data Version Control etc.)\n• Specific experience designing either computer vision or natural language processing applications leveraging ML models.\n• Experience in leveraging GPUs to scale and measure ML solution performance (NVIDIA developer tools etc.)\n• Familiarity with Unix/Linux operating systems\n• Experience with cloud native application development or cloud infrastructure, Microservice architectures\n• This position requires the ability to obtain and maintain a security clearance, which is issued by the U.S. government. U.S. citizenship is required to obtain a security clearance.\n• Transcripts required.  \n\nHow You Can Stand Out \n\nIt would be impressive if you have one or more of these:  \n• GPA 3.5 or higher  \n• Active security clearance \n• Strong leadership skills\n• Familiarity with High Performance Computing hardware for ML (GPUs, TPUs), CUDA programming, and advanced ML optimization techniques and architectures\n• Experience with Slurm, Kubernetes or other cluster job orchestration frameworks leveraging GPU resources to run distributed ML training jobs at scale\n• Experience with building ML Solutions on edge and embedded hardware (ARM devices, Jetson Series, etc.)\n• Experience with Distributed and stream data processing, big data frameworks (Hadoop, Spark, Flink etc.)\n• Experience building scalable Agentic and Generative AI solutions for narrow-scoped use cases\n\nTemporary housing assistance is not available.\n\nWe offer a competitive compensation package where you’ll be rewarded based on your performance and recognized for the value you bring to our business. The grade-based pay range for this job is listed below. Individual salaries within that range are determined through a wide variety of factors including but not limited to education, experience, knowledge and skills.\n\n(Min - Max)\nN/A\n\nPay Basis: Hourly\n\nLeadership Competencies\n\nOur leadership philosophy is simple: every employee, regardless of level and role, can demonstrate leadership. At Aerospace, our commitment is our people. To cultivate our talent and ensure that we have a strong pipeline of future leaders, we want individuals who:\n• Operate Strategically\n• Lead Change  \n• Engage with Impact  \n• Foster Innovation  \n• Deliver Results\n\nWays We Reward Our Employees\n\nDuring your interview process, our team will provide details of our industry-leading benefits.\n\nBenefits vary and are applicable based on Job Type. A few highlights include:\n• Comprehensive health care and wellness plans\n• Paid holidays, sick time, and vacation\n• Standard and alternate work schedules, including telework options\n• 401(k) Plan — Employees receive a total company-paid benefit of 8%, 10%, or 12% of eligible compensation based on years of service and matching contributions; employees are immediately eligible and vested in the plan upon hire\n• Flexible spending accounts\n• Variable pay program for exceptional contributions\n• Relocation assistance\n• Professional growth and development programs to help advance your career\n• Education assistance programs\n• An inclusive work environment built on teamwork, flexibility, and respect\n\nWe are all unique, from various backgrounds and all walks of life, yet one thing bonds all of us to each other—the belief that we can make a difference. This core belief empowers us to do our best work at The Aerospace Corporation.\n\nEqual Opportunity Commitment\n\nThe Aerospace Corporation is an equal opportunity employer. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, age, sex (including pregnancy, childbirth, and related medical conditions), sexual orientation, gender, gender identity or expression, color, religion, genetic information, marital status, ancestry, national origin, protected veteran status, physical disability, medical condition, mental disability, or disability status and any other characteristic protected by state or federal law. If you’re an individual with a disability or a disabled veteran who needs assistance using our online job search and application tools or need reasonable accommodation to complete the job application process, please contact us by phone at 310.336.5432 or by email at peoplemangmnt.mailbox@aero.org . You can also review Know Your Rights: Workplace Discrimination is Illegal.",
+    "job_is_remote": false,
+    "job_posted_at": "9 days ago",
+    "job_posted_at_timestamp": 1770249600,
+    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
+    "job_location": "Chantilly, VA",
+    "job_city": "Chantilly",
+    "job_state": "Virginia",
+    "job_country": "US",
+    "job_latitude": 38.886981899999995,
+    "job_longitude": -77.4390375,
+    "job_benefits": [
+      "paid_time_off",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DzZ55lXJFcZQ8VyExAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Strong written and oral communication skills",
+        "Must work well in a team environment",
+        "Possess organizational, time management and project management skills",
+        "Demonstrate flexibility and ability to adapt to changing organizational need",
+        "Currently enrolled full-time in an accredited college/university program pursuing a Bachelor's Degree in Computer Science, Computer Engineering, or related discipline.   ",
+        "Availability to work full-time for a minimum of 10 weeks outside of university term and ability to return to a degree program full-time after completion of the internship. ",
+        "Minimum GPA of 3.0   ",
+        "Proficiency in Python, including major ML libraries and tools (PyTorch)",
+        "Experience with container orchestration tooling (Docker, Kubernetes, etc.)",
+        "Experience with and understanding of machine learning and artificial intelligence, software engineering, and statistics",
+        "Experience with and understanding of software engineering concepts with an AI focus (MLOps/DevOps, ML Development Lifecycle, Scalable ML Architecture, etc.)",
+        "Familiarity with MLOps processes and tools (MLFlow, Data Version Control etc.)",
+        "Specific experience designing either computer vision or natural language processing applications leveraging ML models",
+        "Experience in leveraging GPUs to scale and measure ML solution performance (NVIDIA developer tools etc.)",
+        "Familiarity with Unix/Linux operating systems",
+        "Experience with cloud native application development or cloud infrastructure, Microservice architectures",
+        "This position requires the ability to obtain and maintain a security clearance, which is issued by the U.S. government",
+        "U.S. citizenship is required to obtain a security clearance",
+        "Transcripts required.  ",
+        "It would be impressive if you have one or more of these:  ",
+        "GPA 3.5 or higher  ",
+        "Active security clearance ",
+        "Strong leadership skills",
+        "Familiarity with High Performance Computing hardware for ML (GPUs, TPUs), CUDA programming, and advanced ML optimization techniques and architectures",
+        "Experience with building ML Solutions on edge and embedded hardware (ARM devices, Jetson Series, etc.)",
+        "Experience with Distributed and stream data processing, big data frameworks (Hadoop, Spark, Flink etc.)",
+        "Experience building scalable Agentic and Generative AI solutions for narrow-scoped use cases",
+        "Lead Change  ",
+        "Engage with Impact  "
+      ],
+      "Benefits": [
+        "We offer a competitive compensation package where you’ll be rewarded based on your performance and recognized for the value you bring to our business",
+        "The grade-based pay range for this job is listed below",
+        "Individual salaries within that range are determined through a wide variety of factors including but not limited to education, experience, knowledge and skills",
+        "Pay Basis: Hourly",
+        "During your interview process, our team will provide details of our industry-leading benefits",
+        "Comprehensive health care and wellness plans",
+        "Paid holidays, sick time, and vacation",
+        "Standard and alternate work schedules, including telework options",
+        "401(k) Plan — Employees receive a total company-paid benefit of 8%, 10%, or 12% of eligible compensation based on years of service and matching contributions; employees are immediately eligible and vested in the plan upon hire",
+        "Flexible spending accounts",
+        "Variable pay program for exceptional contributions",
+        "Relocation assistance",
+        "Professional growth and development programs to help advance your career",
+        "Education assistance programs",
+        "An inclusive work environment built on teamwork, flexibility, and respect"
+      ],
+      "Responsibilities": [
+        "Developing and executing machine learning and data science experiments, in the domains of natural language processing, computer vision, time series analysis, reinforcement learning, etc",
+        "Evaluating technologies and data science models for use in scalable and resilient mission-critical applications",
+        "Collaborating with teams of various sizes to deliver features and products",
+        "Presenting written and verbal results to customer stakeholders",
+        "Reinforcing an environment of learning and progress with team members and others",
+        "Interpersonal skills to coordinate efforts and work with other internal and external organizations",
+        "Experience with Slurm, Kubernetes or other cluster job orchestration frameworks leveraging GPU resources to run distributed ML training jobs at scale",
+        "Operate Strategically"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "spacecrew-com-space-jobs-mlakgaoh-the-aerospace-corporation-2026-machine-learning-engineering-undergrad-intern",
     "_source": "new_jobs"
   },
   {
@@ -875,9 +870,9 @@
     ],
     "job_description": "Senior Machine Learning Engineer, Specialist\n\nOverview:\n\nWe are seeking an experienced Senior Machine Learning Engineer to join our AI/ML Engineering team. You will be responsible for developing and optimizing complex data pipelines, integrating model pipelines, and building scalable AI/ML solutions, including large language models (LLMs). The ideal candidate will possess a robust background in traditional machine learning, deep learning, and significant experience with large datasets and cloud-based AI services.\n\nResponsibilities:\n\n• Develop and optimize complex data pipelines, applying machine learning engineering principles to enhance efficiency and scalability.\n• Integrate and optimize data and model pipelines within production environments, diagnosing data inconsistencies and documenting assumptions.\n• Employ experimental methodologies, statistics, and machine learning concepts to create self-running AI systems for predictive modeling.\n• Collaborate with data science teams to review model-ready datasets and feature documentation, ensuring completeness and accuracy.\n• Perform data discovery and analysis of raw data sources, applying business context to meet model development needs.\n• Comfort with exploratory data exploration and tracking data lineage during inception or root cause analysis.\n• Engage with internal stakeholders to understand business processes and translate requirements into analytical approaches.\n• Write and maintain model monitoring scripts, diagnosing issues and coordinating resolutions based on alerts.\n• Serve as a domain expert in machine learning engineering on cross-functional teams for significant initiatives.\n• Stay updated with the latest advancements in AI/ML and apply them to real-world challenges.\n• Participate in special projects and additional duties as assigned.\nQualifications:\n\n• Undergraduate degree or equivalent experience; a graduate degree is preferred.\n• Minimum of 8 years of relevant work experience.\n• At least 3 years of hands-on experience designing ETL pipelines using AWS services (e.g., Glue, SageMaker).\n• Proficiency in programming languages, particularly Python (including PySpark, PySQL) and familiarity with machine learning libraries and frameworks.\n• Strong understanding of cloud technologies, including AWS and Azure, and experience with NoSQL databases.\n• Familiarity with Feature Store usage, LLMs, GenAI, RAG, Prompt Engineering, and Model Evaluation.\n• Experience with API design and development is a plus.\n• Solid understanding of software engineering principles, including design patterns, testing, security, and version control.\n• Knowledge of Machine Learning Development Lifecycle (MDLC) best practices and protocols.\n• Understanding of solution architecture for building end-to-end machine learning data pipelines.\nSpecial Factors\n\nSponsorship\nVanguard is not offering visa sponsorship for this position.\n\nAbout Vanguard\n\nAt Vanguard, we don't just have a mission-we're on a mission.\n\nTo work for the long-term financial wellbeing of our clients. To lead through product and services that transform our clients' lives. To learn and develop our skills as individuals and as a team. From Malvern to Melbourne, our mission drives us forward and inspires us to be our best.\n\nHow We Work\n\nVanguard has implemented a hybrid working model for the majority of our crew members, designed to capture the benefits of enhanced flexibility while enabling in-person learning, collaboration, and connection. We believe our mission-driven and highly collaborative culture is a critical enabler to support long-term client outcomes and enrich the employee experience.",
     "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
     "job_location": "Malvern, PA",
     "job_city": "Malvern",
     "job_state": "Pennsylvania",
@@ -994,108 +989,59 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "gnrDbiWZrW2IqrDcAAAAAA==",
-    "job_title": "2026 AI Engineer Intern - Remote",
-    "employer_name": "Northrop Grumman",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0guZ8n1kKZ_nu4eaicJ4PROiwjA-BfwwxOY7w&s=0",
-    "employer_website": "https://www.northropgrumman.com",
-    "job_publisher": "Jobs At Northrop Grumman",
+    "job_id": "thRD1XlmBBC84VgbAAAAAA==",
+    "job_title": "AI and Machine Learning Intern",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://jobs.northropgrumman.com/careers/job/1340069923328-2026-ai-engineer-intern-remote-united-states-california-redondo-beach?domain=ngc.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.talent.com/view?id=57435c3697da&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Jobs At Northrop Grumman",
-        "apply_link": "https://jobs.northropgrumman.com/careers/job/1340069923328-2026-ai-engineer-intern-remote-united-states-california-redondo-beach?domain=ngc.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Workday",
-        "apply_link": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/XMLNAME-2026-AI-Engineer-Intern---Remote_R10222395?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Datacor/Job/Summer-2026-AI-Engineer-Intern/-in-Remote,US?jid=8790198fd1573cd6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Built In NYC",
-        "apply_link": "https://www.builtinnyc.com/job/summer-2026-ai-engineer-intern/7602738?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Built In",
-        "apply_link": "https://builtin.com/job/summer-2026-ai-engineer-intern/7602738?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/summer-2026-applied-ai-and-modeling-intern_7ea1abbc35dd9b4ce88a897aa38fbf9c3fd4c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Dice",
-        "apply_link": "https://www.dice.com/job-detail/d61446c4-be1a-4b04-a1a9-371838013a00?q=Filing&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Himalayas",
-        "apply_link": "https://himalayas.app/companies/datacor/jobs/summer-2026-ai-engineer-intern-9822845221?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=57435c3697da&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Northrop Grumman is seeking a motivated intern to join our team focused on the design, development, and/or deployment of AI/ML systems. This internship offers hands-on experience in AI/ML system architecture and the opportunity to contribute to innovative solutions supporting our missions. The ideal candidate is a student with a strong interest in AI/ML, eager to learn, and ready to collaborate with engineering and IT teams.\n\nRoles and Responsibilities could include:\n• Support the architecture, design, and deployment of scalable AI/ML systems under the guidance of senior engineers.\n• Designing, testing and optimizing prompts for LLMs to improve output quality and task accuracy\n• Collaborate with cross-functional teams, including software engineers and data scientists, to integrate AI/ML technologies into existing frameworks.\n• Assist in developing end-to-end AI/ML solutions, including data processing and deployment. Agentic and non-agentic could be included.\n• Apply AI to real world problems – data preprocessing, analytics, and insights generation\n• Participate in requirements gathering, system design reviews, and technical documentation.\n• Help develop communications and training packages about AI/ML.\n• Stay current with industry trends and emerging technologies in AI/ML.\n\nBasic Qualifications:\n• Be a student who is enrolled full time and pursuing an undergraduate or graduate degree from an accredited college/university and will be enrolled full time in Fall 2027.\n• Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Data Science, Engineering, Mathematics, or a related field.\n• Coursework or project experience in AI/ML, algorithms, or data science.\n• Familiarity with programming languages such as Python, Java, or C++.\n• Interest in data engineering and analytics\n• Interest in cloud computing platforms (e.g., AWS, Azure, GCP) and container technologies (e.g., Docker, Kubernetes) is a plus.\n• Knowledge of LLMs, agent systems, and prompt engineering.\n• Strong analytical and problem-solving skills.\n• Ability to work collaboratively in a team environment.\n• Be available to work full-time (40 hours per week) for at least 10 weeks during the summer of 2026.\n\nPreferred Qualifications:\n• Experience with AI/ML frameworks through coursework or projects.\n• Exposure to Ai applications that are responsible and generate creative business efficiencies.\n• Exposure to big data technologies or DevOps practices is a plus.\n• Excellent communication skills and willingness to learn.\n\nIntern Pay Range:\n\nBachelor’s: $17.00 - $38.00\n\nMaster’s: $24.50 - $46.75",
-    "job_is_remote": true,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "Redondo Beach, CA",
-    "job_city": "Redondo Beach",
+    "job_description": "A company is looking for a Student II in Information Services focusing on AI and Machine Learning.\n\nKey Responsibilities\n\nDevelop custom machine learning models using Python and Scikit-learn\n\nEngage in model monitoring and data analytics using Azure Fabric Lakehouse\n\nGain exposure to HIPAA regulations and their impact on AI / ML applications\n\nRequired Qualifications\n\nCurrently enrolled in a degree program in Data Science, Computer Science, or a related field\n\nAbility to work both remotely and in-office as required\n\nInterest in gaining real-world experience in AI and machine learning\n\nWillingness to comply with policies protecting patient rights and confidentiality\n\nCommitment to complete required training for the position",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Torrance, CA",
+    "job_city": "Torrance",
     "job_state": "California",
     "job_country": "US",
-    "job_latitude": 33.8491816,
-    "job_longitude": -118.3884078,
+    "job_latitude": 33.8369217,
+    "job_longitude": -118.34074509999999,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DgnrDbiWZrW2IqrDcAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DthRD1XlmBBC84VgbAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "The ideal candidate is a student with a strong interest in AI/ML, eager to learn, and ready to collaborate with engineering and IT teams",
-        "Be a student who is enrolled full time and pursuing an undergraduate or graduate degree from an accredited college/university and will be enrolled full time in Fall 2027",
-        "Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Data Science, Engineering, Mathematics, or a related field",
-        "Coursework or project experience in AI/ML, algorithms, or data science",
-        "Familiarity with programming languages such as Python, Java, or C++",
-        "Interest in data engineering and analytics",
-        "Knowledge of LLMs, agent systems, and prompt engineering",
-        "Strong analytical and problem-solving skills",
-        "Ability to work collaboratively in a team environment",
-        "Be available to work full-time (40 hours per week) for at least 10 weeks during the summer of 2026"
-      ],
-      "Benefits": [
-        "Bachelor’s: $17.00 - $38.00"
+        "Currently enrolled in a degree program in Data Science, Computer Science, or a related field",
+        "Ability to work both remotely and in-office as required",
+        "Interest in gaining real-world experience in AI and machine learning",
+        "Willingness to comply with policies protecting patient rights and confidentiality",
+        "Commitment to complete required training for the position"
       ],
       "Responsibilities": [
-        "Support the architecture, design, and deployment of scalable AI/ML systems under the guidance of senior engineers",
-        "Designing, testing and optimizing prompts for LLMs to improve output quality and task accuracy",
-        "Collaborate with cross-functional teams, including software engineers and data scientists, to integrate AI/ML technologies into existing frameworks",
-        "Assist in developing end-to-end AI/ML solutions, including data processing and deployment",
-        "Agentic and non-agentic could be included",
-        "Apply AI to real world problems – data preprocessing, analytics, and insights generation",
-        "Participate in requirements gathering, system design reviews, and technical documentation",
-        "Help develop communications and training packages about AI/ML",
-        "Stay current with industry trends and emerging technologies in AI/ML"
+        "Develop custom machine learning models using Python and Scikit-learn",
+        "Engage in model monitoring and data analytics using Azure Fabric Lakehouse",
+        "Gain exposure to HIPAA regulations and their impact on AI / ML applications"
       ]
     },
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
-    "id": "jobs-northropgrumman-com-careers-job-1340069923328-2026-ai-engineer-intern-remote-united-states-california-redondo-beach",
+    "id": "www-talent-com-view",
     "_source": "new_jobs"
   },
   {
@@ -1218,6 +1164,164 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "1LRPFdZIh7e8noh3AAAAAA==",
+    "job_title": "Lead Machine Learning Engineer - Next Best Action (NBA) Platform",
+    "employer_name": "Humana",
+    "employer_logo": null,
+    "employer_website": "https://www.humana.com",
+    "job_publisher": "Work In Sports",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.workinsports.com/jobs/view/509692127?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Work In Sports",
+        "apply_link": "https://www.workinsports.com/jobs/view/509692127?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Adzuna",
+        "apply_link": "https://www.adzuna.com/details/5614898024?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-nj-trenton-lead-software-engineer-next-best-action-humana-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Order Number: DF0462427\n\nJob Title: Lead Machine Learning Engineer - Next Best Action (NBA) Platform\n\nCompany: Humana\n\nLocation: Trenton, NJ\n\nSalary:\n\nEducation: Information Not Provided\n\nExperience: Information Not Provided\n\nHours:\n\nDuration: Full Time, Regular\n\nShift:\n\nDescription: **Become a part of our caring community and help us put health first**We are seeking a Lead Machine Learning Engineer to architect, develop, and manage machine learning systems that enable real-time, personalized decision-making across digital and assisted channels. These platforms leverage predictive modeling, optimization algorithms, and contextual data to identify the most relevant next action for each individual-at scale, with minimal latency, and with a strong emphasis on reliability and explainability.This position centers on production machine learning engineering. You will lead the creation of ML pipelines, online inference services, and decision-time scoring logic, utilizing AI-assisted and agentic solutions to enhance development velocity, model quality, and operational effectiveness.**Key Responsibilities****ML System Design & Architecture**+ Design and manage end-to-end machine learning systems, including:+ Feature engineering and reuse strategies+ Offline training pipelines+ Online inference and scoring services+ Model versioning, rollout, and rollback procedures+ Ensure systems meet stringent requirements for latency, scalability, reliability, and correctness in real-time contexts.+ Define clear separation between model development, deployment, and downstream decision logic.**Decision-Focused Modeling**+ Build and operationalize models such as:+ Propensity or likelihood prediction+ Uplift or incremental impact models+ Engagement or responsiveness scoring+ Design models to be composable, explainable, and robust for automated decision workflows.+ Collaborate with analytics and product teams to translate business objectives into measurable modeling outcomes.**AI-Enabled & Agentic Efficiency**+ Apply AI-assisted and agentic approaches to boost ML engineering productivity, including:+ Automated code generation and refactoring for pipelines and services+ Feature exploration and validation+ Intelligent experiment tracking and comparison+ Enhanced debugging and root-cause analysis+ Assess and adopt modern tools to accelerate experimentation, reduce manual overhead, and ensure reliable model operations.+ Focus on implementing practical, production-ready AI tools.**MLOps & Model Operations**+ Develop and sustain robust MLOps practices, including:+ Continuous training and deployment pipelines+ Online model monitoring for latency, drift, and stability+ Safe rollout strategies (e.g., canary, shadow, phased releases)+ Fallback mechanisms for model degradation or unavailability+ Guarantee model outputs are traceable, reproducible, and auditable.**Collaboration & Leadership**+ Serve as the technical leader for ML engineering, establishing standards and best practices.+ Partner with software engineers, data engineers, and platform teams to ensure seamless integration of ML systems into production.+ Mentor machine learning engineers and contribute to the overall maturity of engineering teams.+ Influence architectural decisions to ensure testability, observability, and resilience.**Role Significance**As reliance on automated and intelligent decisions increases, the integrity of machine learning engineering becomes critical to organizational trust, performance, and user experience. This role ensures that machine learning systems are not only accurate but also reliable, interpretable, and efficient to develop and maintain.**Use your skills to make an impact****Required Qualifications**+ 8+ years of experience in machine learning engineering, applied ML, or data-driven platform development+ 3+ years in a technical lead or senior ML engineering capacity+ Deep expertise in:+ Feature engineering and data pipelines+ Model training and evaluation+ Real-time or near-real-time inference systems+ Strong software engineering skills in Python, Java, or similar languages+ Practical experience with AI-assisted development tools to streamline ML workflows**Preferred Qualifications**+ Experience with personalization, recommendation, or decisioning",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Trenton, NJ",
+    "job_city": "Trenton",
+    "job_state": "New Jersey",
+    "job_country": "US",
+    "job_latitude": 40.2201787,
+    "job_longitude": -74.7642295,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D1LRPFdZIh7e8noh3AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {},
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-workinsports-com-jobs-view-509692127",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "gnrDbiWZrW2IqrDcAAAAAA==",
+    "job_title": "2026 AI Engineer Intern - Remote",
+    "employer_name": "Northrop Grumman",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0guZ8n1kKZ_nu4eaicJ4PROiwjA-BfwwxOY7w&s=0",
+    "employer_website": "https://www.northropgrumman.com",
+    "job_publisher": "Jobs At Northrop Grumman",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.northropgrumman.com/careers/job/1340069923328-2026-ai-engineer-intern-remote-united-states-california-redondo-beach?domain=ngc.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Jobs At Northrop Grumman",
+        "apply_link": "https://jobs.northropgrumman.com/careers/job/1340069923328-2026-ai-engineer-intern-remote-united-states-california-redondo-beach?domain=ngc.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Workday",
+        "apply_link": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/XMLNAME-2026-AI-Engineer-Intern---Remote_R10222395?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Datacor/Job/Summer-2026-AI-Engineer-Intern/-in-Remote,US?jid=8790198fd1573cd6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Built In NYC",
+        "apply_link": "https://www.builtinnyc.com/job/summer-2026-ai-engineer-intern/7602738?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Built In",
+        "apply_link": "https://builtin.com/job/summer-2026-ai-engineer-intern/7602738?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/summer-2026-applied-ai-and-modeling-intern_7ea1abbc35dd9b4ce88a897aa38fbf9c3fd4c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Dice",
+        "apply_link": "https://www.dice.com/job-detail/d61446c4-be1a-4b04-a1a9-371838013a00?q=Filing&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Himalayas",
+        "apply_link": "https://himalayas.app/companies/datacor/jobs/summer-2026-ai-engineer-intern-9822845221?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Northrop Grumman is seeking a motivated intern to join our team focused on the design, development, and/or deployment of AI/ML systems. This internship offers hands-on experience in AI/ML system architecture and the opportunity to contribute to innovative solutions supporting our missions. The ideal candidate is a student with a strong interest in AI/ML, eager to learn, and ready to collaborate with engineering and IT teams.\n\nRoles and Responsibilities could include:\n• Support the architecture, design, and deployment of scalable AI/ML systems under the guidance of senior engineers.\n• Designing, testing and optimizing prompts for LLMs to improve output quality and task accuracy\n• Collaborate with cross-functional teams, including software engineers and data scientists, to integrate AI/ML technologies into existing frameworks.\n• Assist in developing end-to-end AI/ML solutions, including data processing and deployment. Agentic and non-agentic could be included.\n• Apply AI to real world problems – data preprocessing, analytics, and insights generation\n• Participate in requirements gathering, system design reviews, and technical documentation.\n• Help develop communications and training packages about AI/ML.\n• Stay current with industry trends and emerging technologies in AI/ML.\n\nBasic Qualifications:\n• Be a student who is enrolled full time and pursuing an undergraduate or graduate degree from an accredited college/university and will be enrolled full time in Fall 2027.\n• Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Data Science, Engineering, Mathematics, or a related field.\n• Coursework or project experience in AI/ML, algorithms, or data science.\n• Familiarity with programming languages such as Python, Java, or C++.\n• Interest in data engineering and analytics\n• Interest in cloud computing platforms (e.g., AWS, Azure, GCP) and container technologies (e.g., Docker, Kubernetes) is a plus.\n• Knowledge of LLMs, agent systems, and prompt engineering.\n• Strong analytical and problem-solving skills.\n• Ability to work collaboratively in a team environment.\n• Be available to work full-time (40 hours per week) for at least 10 weeks during the summer of 2026.\n\nPreferred Qualifications:\n• Experience with AI/ML frameworks through coursework or projects.\n• Exposure to Ai applications that are responsible and generate creative business efficiencies.\n• Exposure to big data technologies or DevOps practices is a plus.\n• Excellent communication skills and willingness to learn.\n\nIntern Pay Range:\n\nBachelor’s: $17.00 - $38.00\n\nMaster’s: $24.50 - $46.75",
+    "job_is_remote": true,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "Redondo Beach, CA",
+    "job_city": "Redondo Beach",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 33.8491816,
+    "job_longitude": -118.3884078,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DgnrDbiWZrW2IqrDcAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "The ideal candidate is a student with a strong interest in AI/ML, eager to learn, and ready to collaborate with engineering and IT teams",
+        "Be a student who is enrolled full time and pursuing an undergraduate or graduate degree from an accredited college/university and will be enrolled full time in Fall 2027",
+        "Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Data Science, Engineering, Mathematics, or a related field",
+        "Coursework or project experience in AI/ML, algorithms, or data science",
+        "Familiarity with programming languages such as Python, Java, or C++",
+        "Interest in data engineering and analytics",
+        "Knowledge of LLMs, agent systems, and prompt engineering",
+        "Strong analytical and problem-solving skills",
+        "Ability to work collaboratively in a team environment",
+        "Be available to work full-time (40 hours per week) for at least 10 weeks during the summer of 2026"
+      ],
+      "Benefits": [
+        "Bachelor’s: $17.00 - $38.00"
+      ],
+      "Responsibilities": [
+        "Support the architecture, design, and deployment of scalable AI/ML systems under the guidance of senior engineers",
+        "Designing, testing and optimizing prompts for LLMs to improve output quality and task accuracy",
+        "Collaborate with cross-functional teams, including software engineers and data scientists, to integrate AI/ML technologies into existing frameworks",
+        "Assist in developing end-to-end AI/ML solutions, including data processing and deployment",
+        "Agentic and non-agentic could be included",
+        "Apply AI to real world problems – data preprocessing, analytics, and insights generation",
+        "Participate in requirements gathering, system design reviews, and technical documentation",
+        "Help develop communications and training packages about AI/ML",
+        "Stay current with industry trends and emerging technologies in AI/ML"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "jobs-northropgrumman-com-careers-job-1340069923328-2026-ai-engineer-intern-remote-united-states-california-redondo-beach",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "vK93LsbjsYAYSGFzAAAAAA==",
     "job_title": "Senior Machine Learning Engineer - AI - Lab Automation Software",
     "employer_name": "Genentech",
@@ -1323,60 +1427,7 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "1LRPFdZIh7e8noh3AAAAAA==",
-    "job_title": "Lead Machine Learning Engineer - Next Best Action (NBA) Platform",
-    "employer_name": "Humana",
-    "employer_logo": null,
-    "employer_website": "https://www.humana.com",
-    "job_publisher": "Work In Sports",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.workinsports.com/jobs/view/509692127?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Work In Sports",
-        "apply_link": "https://www.workinsports.com/jobs/view/509692127?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Adzuna",
-        "apply_link": "https://www.adzuna.com/details/5614898024?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-nj-trenton-lead-software-engineer-next-best-action-humana-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Job Order Number: DF0462427\n\nJob Title: Lead Machine Learning Engineer - Next Best Action (NBA) Platform\n\nCompany: Humana\n\nLocation: Trenton, NJ\n\nSalary:\n\nEducation: Information Not Provided\n\nExperience: Information Not Provided\n\nHours:\n\nDuration: Full Time, Regular\n\nShift:\n\nDescription: **Become a part of our caring community and help us put health first**We are seeking a Lead Machine Learning Engineer to architect, develop, and manage machine learning systems that enable real-time, personalized decision-making across digital and assisted channels. These platforms leverage predictive modeling, optimization algorithms, and contextual data to identify the most relevant next action for each individual-at scale, with minimal latency, and with a strong emphasis on reliability and explainability.This position centers on production machine learning engineering. You will lead the creation of ML pipelines, online inference services, and decision-time scoring logic, utilizing AI-assisted and agentic solutions to enhance development velocity, model quality, and operational effectiveness.**Key Responsibilities****ML System Design & Architecture**+ Design and manage end-to-end machine learning systems, including:+ Feature engineering and reuse strategies+ Offline training pipelines+ Online inference and scoring services+ Model versioning, rollout, and rollback procedures+ Ensure systems meet stringent requirements for latency, scalability, reliability, and correctness in real-time contexts.+ Define clear separation between model development, deployment, and downstream decision logic.**Decision-Focused Modeling**+ Build and operationalize models such as:+ Propensity or likelihood prediction+ Uplift or incremental impact models+ Engagement or responsiveness scoring+ Design models to be composable, explainable, and robust for automated decision workflows.+ Collaborate with analytics and product teams to translate business objectives into measurable modeling outcomes.**AI-Enabled & Agentic Efficiency**+ Apply AI-assisted and agentic approaches to boost ML engineering productivity, including:+ Automated code generation and refactoring for pipelines and services+ Feature exploration and validation+ Intelligent experiment tracking and comparison+ Enhanced debugging and root-cause analysis+ Assess and adopt modern tools to accelerate experimentation, reduce manual overhead, and ensure reliable model operations.+ Focus on implementing practical, production-ready AI tools.**MLOps & Model Operations**+ Develop and sustain robust MLOps practices, including:+ Continuous training and deployment pipelines+ Online model monitoring for latency, drift, and stability+ Safe rollout strategies (e.g., canary, shadow, phased releases)+ Fallback mechanisms for model degradation or unavailability+ Guarantee model outputs are traceable, reproducible, and auditable.**Collaboration & Leadership**+ Serve as the technical leader for ML engineering, establishing standards and best practices.+ Partner with software engineers, data engineers, and platform teams to ensure seamless integration of ML systems into production.+ Mentor machine learning engineers and contribute to the overall maturity of engineering teams.+ Influence architectural decisions to ensure testability, observability, and resilience.**Role Significance**As reliance on automated and intelligent decisions increases, the integrity of machine learning engineering becomes critical to organizational trust, performance, and user experience. This role ensures that machine learning systems are not only accurate but also reliable, interpretable, and efficient to develop and maintain.**Use your skills to make an impact****Required Qualifications**+ 8+ years of experience in machine learning engineering, applied ML, or data-driven platform development+ 3+ years in a technical lead or senior ML engineering capacity+ Deep expertise in:+ Feature engineering and data pipelines+ Model training and evaluation+ Real-time or near-real-time inference systems+ Strong software engineering skills in Python, Java, or similar languages+ Practical experience with AI-assisted development tools to streamline ML workflows**Preferred Qualifications**+ Experience with personalization, recommendation, or decisioning",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Trenton, NJ",
-    "job_city": "Trenton",
-    "job_state": "New Jersey",
-    "job_country": "US",
-    "job_latitude": 40.2201787,
-    "job_longitude": -74.7642295,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D1LRPFdZIh7e8noh3AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {},
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-workinsports-com-jobs-view-509692127",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "thRD1XlmBBC84VgbAAAAAA==",
+    "job_id": "RVveDLiseqOLFVF1AAAAAA==",
     "job_title": "AI and Machine Learning Intern",
     "employer_name": "VirtualVocations",
     "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
@@ -1386,12 +1437,12 @@
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=57435c3697da&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.talent.com/view?id=c70e7dbe2c9c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
         "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=57435c3697da&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.talent.com/view?id=c70e7dbe2c9c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
@@ -1400,14 +1451,14 @@
     "job_posted_at": "3 days ago",
     "job_posted_at_timestamp": 1770768000,
     "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Torrance, CA",
-    "job_city": "Torrance",
-    "job_state": "California",
+    "job_location": "Greensboro, NC",
+    "job_city": "Greensboro",
+    "job_state": "North Carolina",
     "job_country": "US",
-    "job_latitude": 33.8369217,
-    "job_longitude": -118.34074509999999,
+    "job_latitude": 36.0725632,
+    "job_longitude": -79.791534,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DthRD1XlmBBC84VgbAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DRVveDLiseqOLFVF1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
@@ -1429,6 +1480,222 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "JMDsHzd_ZIrLHMPeAAAAAA==",
+    "job_title": "Lead AI Engineer (GenAI Platform Services)",
+    "employer_name": "Capital One",
+    "employer_logo": null,
+    "employer_website": "https://www.capitalone.com",
+    "job_publisher": "Capital One Career",
+    "job_employment_type": "Full-time and Part-time",
+    "job_employment_types": [
+      "FULLTIME",
+      "PARTTIME"
+    ],
+    "job_apply_link": "https://www.capitalonecareers.com/job/mclean/lead-ai-engineer-genai-platform-services/1732/91413470496?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Capital One Career",
+        "apply_link": "https://www.capitalonecareers.com/job/mclean/lead-ai-engineer-genai-platform-services/1732/91413470496?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/lead-ai-engineer-san-jose-capital-one-899a1a1f3129fe652ddac362b3005e74?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Built In NYC",
+        "apply_link": "https://www.builtinnyc.com/job/lead-ai-engineer-genai-platform-services/8430355?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/lead-ai-engineer-genai-platform-services_7ea1a578c9b45f04311a708fd95610bcb0e5c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Experteer",
+        "apply_link": "https://us.experteer.com/career/view-jobs/lead-ai-engineer-genai-platform-services-san-jose-ca-usa-56068093?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "National Labor Exchange",
+        "apply_link": "https://usnlx.com/san-jose-ca/lead-ai-engineer-genai-platform-services/DF2FDF2CD976479FA04FFA138773C812/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/lead-ai-engineer-genai-platform-services-at-capital-one-4369527300?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Talents By Vaia",
+        "apply_link": "https://talents.vaia.com/companies/capital-one-national-association/lead-ai-engineer-genai-platform-services-python-37827136/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Lead AI Engineer (GenAI Platform Services)\n\nOverview\n\nAt Capital One, we are creating responsible and reliable AI systems, changing banking for good. For years, Capital One has been an industry leader in using machine learning to create real-time, personalized customer experiences. Our investments in technology infrastructure and world-class talent — along with our deep experience in machine learning — position us to be at the forefront of enterprises leveraging AI. From informing customers about unusual charges to answering their questions in real time, our applications of AI & ML are bringing humanity and simplicity to banking. We are committed to continuing to build world-class applied science and engineering teams to deliver our industry leading capabilities with breakthrough product experiences and scalable, high-performance AI infrastructure. At Capital One, you will help bring the transformative power of emerging AI capabilities to reimagine how we serve our customers and businesses who have come to love the products and services we build.\n\nTeam Description:\n\nThe Intelligent Foundations and Experiences (IFX) team is at the center of bringing our vision for AI at Capital One to life. We work hand-in-hand with our partners across the company to advance the state of the art in science and AI engineering, and we build and deploy proprietary solutions that are central to our business and deliver value to millions of customers. Our AI models and platforms empower teams across Capital One to enhance their products with the transformative power of AI, in responsible and scalable ways for the highest leverage impact.\n\nIn this role, you will:\n• Partner with a cross-functional team of engineers, research scientists, technical program managers, and product managers to deliver AI-powered products that change how our associates work and how our customers interact with Capital One.\n• Design, develop, test, deploy, and support AI software components including foundation model training, large language model inference, similarity search, guardrails, model evaluation, experimentation, governance, and observability, etc.\n• Leverage a broad stack of Open Source and SaaS AI technologies such as AWS Ultraclusters, Huggingface, VectorDBs, Nemo Guardrails, PyTorch, and more.\n• Invent and introduce state-of-the-art LLM optimization techniques to improve the performance — scalability, cost, latency, throughput — of large scale production AI systems.\n• Contribute to the technical vision and the long term roadmap of foundational AI systems at Capital One.\n\nThe Ideal Candidate:\n• You love to build systems, take pride in the quality of your work, and also share our passion to do the right thing. You want to work on problems that will help change banking for good.\n• Passion for staying abreast of the latest research, and an ability to intuitively understand scientific publications and judiciously apply novel techniques in production.\n• You adapt quickly and thrive on bringing clarity to big, undefined problems. You love asking questions and digging deep to uncover the root of problems and can articulate your findings concisely with clarity. You have the courage to share new ideas even when they are unproven.\n• You are deeply Technical. You possess a strong foundation in engineering and mathematics, and your expertise in hardware, software, and AI enable you to see and exploit optimization opportunities that others miss.\n• You are a resilient trail blazer who can forge new paths to achieve business goals when the route is unknown.\n\nBasic Qualifications:\n• Bachelor's degree in Computer Science, AI, Electrical Engineering, Computer Engineering, or related fields plus at least 4 years of experience developing AI and ML algorithms or technologies, or a Master's degree in Computer Science, AI, Electrical Engineering, Computer Engineering, or related fields plus at least 2 years of experience developing AI and ML algorithms or technologies\n• At least 4 years of experience programming with Python, Go, Scala, or Java\n\nPreferred Qualifications:\n• 6 years of experience deploying scalable and responsible AI solutions on cloud platforms (e.g. AWS, Google Cloud, Azure, or equivalent private cloud)\n• Experience designing, developing, delivering, and supporting AI services\n• Experience developing AI and ML algorithms or technologies (e.g. LLM Inference, Similarity Search and VectorDBs, Guardrails, Memory) using Python, C++, C#, Java, or Golang\n• Experience developing and applying state-of-the-art techniques for optimizing training and inference software to improve hardware utilization, latency, throughput, and cost\n• Passion for staying abreast of the latest AI research and AI systems, and judiciously apply novel techniques in production\n\nCapital One will consider sponsoring a new qualified applicant for employment authorization for this position.\n\nThe minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.\n\nCambridge, MA: $197,300 - $225,100 for Lead AI Engineer\n\nMcLean, VA: $197,300 - $225,100 for Lead AI Engineer\n\nNew York, NY: $215,200 - $245,600 for Lead AI Engineer\n\nSan Francisco, CA: $215,200 - $245,600 for Lead AI Engineer\n\nSan Jose, CA: $215,200 - $245,600 for Lead AI Engineer\n\nCandidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.\n\nThis role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.\n\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\n\nThis role is expected to accept applications for a minimum of 5 business days.\n\nNo agencies please. Capital One is an equal opportunity employer (EOE, including disability/vet) committed to non-discrimination in compliance with applicable federal, state, and local laws. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",
+    "job_is_remote": false,
+    "job_posted_at": "10 days ago",
+    "job_posted_at_timestamp": 1770163200,
+    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
+    "job_location": "McLean, VA",
+    "job_city": "McLean",
+    "job_state": "Virginia",
+    "job_country": "US",
+    "job_latitude": 38.9338676,
+    "job_longitude": -77.1772604,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DJMDsHzd_ZIrLHMPeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "You love to build systems, take pride in the quality of your work, and also share our passion to do the right thing",
+        "You want to work on problems that will help change banking for good",
+        "You love asking questions and digging deep to uncover the root of problems and can articulate your findings concisely with clarity",
+        "You have the courage to share new ideas even when they are unproven",
+        "You are deeply Technical",
+        "You possess a strong foundation in engineering and mathematics, and your expertise in hardware, software, and AI enable you to see and exploit optimization opportunities that others miss",
+        "You are a resilient trail blazer who can forge new paths to achieve business goals when the route is unknown",
+        "Bachelor's degree in Computer Science, AI, Electrical Engineering, Computer Engineering, or related fields plus at least 4 years of experience developing AI and ML algorithms or technologies, or a Master's degree in Computer Science, AI, Electrical Engineering, Computer Engineering, or related fields plus at least 2 years of experience developing AI and ML algorithms or technologies",
+        "At least 4 years of experience programming with Python, Go, Scala, or Java",
+        "AWS, Google Cloud, Azure, or equivalent private cloud)",
+        "Experience designing, developing, delivering, and supporting AI services",
+        "Experience developing AI and ML algorithms or technologies (e.g. LLM Inference, Similarity Search and VectorDBs, Guardrails, Memory) using Python, C++, C#, Java, or Golang",
+        "Experience developing and applying state-of-the-art techniques for optimizing training and inference software to improve hardware utilization, latency, throughput, and cost",
+        "Passion for staying abreast of the latest AI research and AI systems, and judiciously apply novel techniques in production"
+      ],
+      "Benefits": [
+        "Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked",
+        "Cambridge, MA: $197,300 - $225,100 for Lead AI Engineer",
+        "Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter",
+        "This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI)",
+        "Incentives could be discretionary or non discretionary depending on the plan",
+        "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being"
+      ],
+      "Responsibilities": [
+        "Partner with a cross-functional team of engineers, research scientists, technical program managers, and product managers to deliver AI-powered products that change how our associates work and how our customers interact with Capital One",
+        "Design, develop, test, deploy, and support AI software components including foundation model training, large language model inference, similarity search, guardrails, model evaluation, experimentation, governance, and observability, etc",
+        "Leverage a broad stack of Open Source and SaaS AI technologies such as AWS Ultraclusters, Huggingface, VectorDBs, Nemo Guardrails, PyTorch, and more",
+        "Invent and introduce state-of-the-art LLM optimization techniques to improve the performance — scalability, cost, latency, throughput — of large scale production AI systems",
+        "Contribute to the technical vision and the long term roadmap of foundational AI systems at Capital One",
+        "Passion for staying abreast of the latest research, and an ability to intuitively understand scientific publications and judiciously apply novel techniques in production",
+        "You adapt quickly and thrive on bringing clarity to big, undefined problems"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-capitalonecareers-com-job-mclean-lead-ai-engineer-genai-platform-services-1732-91413470496",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "AHcmn1IgiQBB8YBdAAAAAA==",
+    "job_title": "Staff, Machine Learning Engineer",
+    "employer_name": "Walmart",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
+    "employer_website": "https://corporate.walmart.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time and Part-time",
+    "job_employment_types": [
+      "FULLTIME",
+      "PARTTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Staff,-Machine-Learning-Engineer/-in-Centerton,AR?jid=911157dd2beb7685&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Staff,-Machine-Learning-Engineer/-in-Centerton,AR?jid=911157dd2beb7685&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Position Summary...\n\nWhat you'll do...What you'll do: We are looking for a strong Staff Machine Learning Engineer who has the passion to develop AI driven intelligent products for the Associate Productivity and Experience team, with the ability to influence and collaborate with partner teams, data scientists, ML engineers, product managers and other engineers in the team. A successful candidate will have an established hands-on data science, AI, ML experience in driving technical products, Full stack developer, and a passion for great customer-centric products.\n• Design, architect, build AI/ML models, AI Agents and deploy, operate, optimize the solutions\n• Work on Python and mainstream machine learning frameworks, e.g. TensorFlow or PyTorch and Agentic Frameworks like Pydantic\n• Lead development of end-to-end system architecture for GenAI/AI/ML and data intensive applications\n• Design, Develop and deploy Full stack based applications.\n• Develop and deploy production-grade real-time/batch machine learning services Work with product managers to design user journeys, feedback loop and analyze user telemetry\n• Identify or propose AI/ML use-cases to business teams to improve business processes and develop quick MVPs/ POCs to help stakeholders make better decisions\n• End to end ownership of product using technologies such as Java , Node JS, React Js\n• You will be required to review design and code, provide technical solutions to team for complex requirements\n• Uphold and enforce rigorous standards, governance, and best practices, ensuring strict compliance with model and data governance standards.\n• Adhere strictly to Walmart’s policies, procedures, mission, values, standards of ethics, and integrity.\n• Innovation and Research: Stay at the forefront of technological advancements, conducting research to identify emerging tools and methodologies.\n• Collaborative Communication: Communicate complex technical concepts effectively to both technical and non-technical stakeholders, promoting a culture of open communication and collaboration.\n• You will be called upon to support the coaching and training of other team members to ensure all employees are confident in the use of software applications\nWhat you'll bring:\n• bachelor's/master's degree in computer science, information technology, engineering, or related area\n• Minimum 10 years of experience in design, development, deployment, and maintenance of highly scalable, robust, and user-centric Fullstack/GenAI /AI /ML products and applications\n• Good understanding of Data Structures\n• Hands on experience in systems design, algorithms, and distributed systems.\n• Industry level experience in developing production-grade AI/ML system development with major technology companies or AI-native start-ups.\n• Experience at writing high-performing production-quality code in Python\n• Exposure to cloud infrastructure, such as Open Stack, Azure, GCP, or AWS\n• Experience working in Agile Methodology\n• Experience using CI/CD, tools for logging and metrics\n• A continuous drive to explore, improve, enhance, automate and optimize systems and tools.\n• Strong computer science fundamentals in data structures and algorithms\n• Exposure to information retrieval, statistics, and machine learning.\n• Excellent oral and written communication skills.\n• Good analytical and problem-solving skills\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\nFor information about benefits and eligibility, see One.Walmart.\nBentonville, Arkansas US-10735: The annual salary range for this position is $130,000.00 - $260,000.00\nSunnyvale, California US-11807: The annual salary range for this position is $169,000.00 - $338,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 4 years’ experience in software engineering, machine learning engineering, AI systems or related area.\nOption 2: 6 years’ experience in software engineering, machine learning engineering, AI systems or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in computer science, computer engineering, computer information systems, software engineering, or related area and 2 years' experience in software engineering, machine learning engineering, AI systems or related area., Prior work experience in accessibility best practices., Prior work experience in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly.\n\nPrimary Location...\n\n2501 Se J St, Ste A, Bentonville, AR 72716-3724, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
+    "job_is_remote": false,
+    "job_posted_at": "9 days ago",
+    "job_posted_at_timestamp": 1770249600,
+    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
+    "job_location": "Centerton, AR",
+    "job_city": "Centerton",
+    "job_state": "Arkansas",
+    "job_country": "US",
+    "job_latitude": 36.3585128,
+    "job_longitude": -94.28494309999999,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DAHcmn1IgiQBB8YBdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 130000,
+    "job_max_salary": 260000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "Work on Python and mainstream machine learning frameworks, e.g",
+        "TensorFlow or PyTorch and Agentic Frameworks like Pydantic",
+        "bachelor's/master's degree in computer science, information technology, engineering, or related area",
+        "Minimum 10 years of experience in design, development, deployment, and maintenance of highly scalable, robust, and user-centric Fullstack/GenAI /AI /ML products and applications",
+        "Good understanding of Data Structures",
+        "Hands on experience in systems design, algorithms, and distributed systems",
+        "Industry level experience in developing production-grade AI/ML system development with major technology companies or AI-native start-ups",
+        "Experience at writing high-performing production-quality code in Python",
+        "Exposure to cloud infrastructure, such as Open Stack, Azure, GCP, or AWS",
+        "Experience working in Agile Methodology",
+        "Experience using CI/CD, tools for logging and metrics",
+        "A continuous drive to explore, improve, enhance, automate and optimize systems and tools",
+        "Strong computer science fundamentals in data structures and algorithms",
+        "Exposure to information retrieval, statistics, and machine learning",
+        "Excellent oral and written communication skills",
+        "Good analytical and problem-solving skills",
+        "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 4 years’ experience in software engineering, machine learning engineering, AI systems or related area",
+        "Option 2: 6 years’ experience in software engineering, machine learning engineering, AI systems or related area",
+        "Master’s degree in computer science, computer engineering, computer information systems, software engineering, or related area and 2 years' experience in software engineering, machine learning engineering, AI systems or related area., Prior work experience in accessibility best practices., Prior work experience in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly"
+      ],
+      "Benefits": [
+        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
+        "Health benefits include medical, vision and dental coverage",
+        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
+        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
+        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
+        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
+        "The amount you receive depends on your job classification and length of employment",
+        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
+        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
+        "Tuition, books, and fees are completely paid for by Walmart",
+        "Eligibility requirements apply to some benefits and may depend on your job classification and length of employment",
+        "Benefits are subject to change and may be subject to a specific plan or program terms",
+        "Bentonville, Arkansas US-10735: The annual salary range for this position is $130,000.00 - $260,000.00",
+        "Sunnyvale, California US-11807: The annual salary range for this position is $169,000.00 - $338,000.00 Additional compensation includes annual or quarterly performance bonuses",
+        "Additional compensation for certain positions may also include :"
+      ],
+      "Responsibilities": [
+        "A successful candidate will have an established hands-on data science, AI, ML experience in driving technical products, Full stack developer, and a passion for great customer-centric products",
+        "Design, architect, build AI/ML models, AI Agents and deploy, operate, optimize the solutions",
+        "Lead development of end-to-end system architecture for GenAI/AI/ML and data intensive applications",
+        "Design, Develop and deploy Full stack based applications",
+        "Develop and deploy production-grade real-time/batch machine learning services Work with product managers to design user journeys, feedback loop and analyze user telemetry",
+        "Identify or propose AI/ML use-cases to business teams to improve business processes and develop quick MVPs/ POCs to help stakeholders make better decisions",
+        "End to end ownership of product using technologies such as Java , Node JS, React Js",
+        "You will be required to review design and code, provide technical solutions to team for complex requirements",
+        "Uphold and enforce rigorous standards, governance, and best practices, ensuring strict compliance with model and data governance standards",
+        "Adhere strictly to Walmart’s policies, procedures, mission, values, standards of ethics, and integrity",
+        "Innovation and Research: Stay at the forefront of technological advancements, conducting research to identify emerging tools and methodologies",
+        "Collaborative Communication: Communicate complex technical concepts effectively to both technical and non-technical stakeholders, promoting a culture of open communication and collaboration",
+        "You will be called upon to support the coaching and training of other team members to ensure all employees are confident in the use of software applications"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-ziprecruiter-com-c-walmart-job-staff-machine-learning-engineer-in-centerton-ar",
     "_source": "new_jobs"
   },
   {
@@ -1547,219 +1814,107 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "AHcmn1IgiQBB8YBdAAAAAA==",
-    "job_title": "Staff, Machine Learning Engineer",
-    "employer_name": "Walmart",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
-    "employer_website": "https://corporate.walmart.com",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time and Part-time",
+    "job_id": "UppPDnheTir6XsxnAAAAAA==",
+    "job_title": "Software Engineer II - Machine Learning",
+    "employer_name": "Uber",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5P-JaTkhLgASUEADjcI9_THrw2ftb9JylguhC&s=0",
+    "employer_website": "https://www.uber.com",
+    "job_publisher": "Uber",
+    "job_employment_type": "Full-time",
     "job_employment_types": [
-      "FULLTIME",
-      "PARTTIME"
+      "FULLTIME"
     ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Staff,-Machine-Learning-Engineer/-in-Centerton,AR?jid=911157dd2beb7685&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.uber.com/careers/list/152898?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": true,
     "apply_options": [
       {
+        "publisher": "Uber",
+        "apply_link": "https://www.uber.com/careers/list/152898?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=beb51de5929d2f00&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
         "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Staff,-Machine-Learning-Engineer/-in-Centerton,AR?jid=911157dd2beb7685&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "Position Summary...\n\nWhat you'll do...What you'll do: We are looking for a strong Staff Machine Learning Engineer who has the passion to develop AI driven intelligent products for the Associate Productivity and Experience team, with the ability to influence and collaborate with partner teams, data scientists, ML engineers, product managers and other engineers in the team. A successful candidate will have an established hands-on data science, AI, ML experience in driving technical products, Full stack developer, and a passion for great customer-centric products.\n• Design, architect, build AI/ML models, AI Agents and deploy, operate, optimize the solutions\n• Work on Python and mainstream machine learning frameworks, e.g. TensorFlow or PyTorch and Agentic Frameworks like Pydantic\n• Lead development of end-to-end system architecture for GenAI/AI/ML and data intensive applications\n• Design, Develop and deploy Full stack based applications.\n• Develop and deploy production-grade real-time/batch machine learning services Work with product managers to design user journeys, feedback loop and analyze user telemetry\n• Identify or propose AI/ML use-cases to business teams to improve business processes and develop quick MVPs/ POCs to help stakeholders make better decisions\n• End to end ownership of product using technologies such as Java , Node JS, React Js\n• You will be required to review design and code, provide technical solutions to team for complex requirements\n• Uphold and enforce rigorous standards, governance, and best practices, ensuring strict compliance with model and data governance standards.\n• Adhere strictly to Walmart’s policies, procedures, mission, values, standards of ethics, and integrity.\n• Innovation and Research: Stay at the forefront of technological advancements, conducting research to identify emerging tools and methodologies.\n• Collaborative Communication: Communicate complex technical concepts effectively to both technical and non-technical stakeholders, promoting a culture of open communication and collaboration.\n• You will be called upon to support the coaching and training of other team members to ensure all employees are confident in the use of software applications\nWhat you'll bring:\n• bachelor's/master's degree in computer science, information technology, engineering, or related area\n• Minimum 10 years of experience in design, development, deployment, and maintenance of highly scalable, robust, and user-centric Fullstack/GenAI /AI /ML products and applications\n• Good understanding of Data Structures\n• Hands on experience in systems design, algorithms, and distributed systems.\n• Industry level experience in developing production-grade AI/ML system development with major technology companies or AI-native start-ups.\n• Experience at writing high-performing production-quality code in Python\n• Exposure to cloud infrastructure, such as Open Stack, Azure, GCP, or AWS\n• Experience working in Agile Methodology\n• Experience using CI/CD, tools for logging and metrics\n• A continuous drive to explore, improve, enhance, automate and optimize systems and tools.\n• Strong computer science fundamentals in data structures and algorithms\n• Exposure to information retrieval, statistics, and machine learning.\n• Excellent oral and written communication skills.\n• Good analytical and problem-solving skills\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\nFor information about benefits and eligibility, see One.Walmart.\nBentonville, Arkansas US-10735: The annual salary range for this position is $130,000.00 - $260,000.00\nSunnyvale, California US-11807: The annual salary range for this position is $169,000.00 - $338,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 4 years’ experience in software engineering, machine learning engineering, AI systems or related area.\nOption 2: 6 years’ experience in software engineering, machine learning engineering, AI systems or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster’s degree in computer science, computer engineering, computer information systems, software engineering, or related area and 2 years' experience in software engineering, machine learning engineering, AI systems or related area., Prior work experience in accessibility best practices., Prior work experience in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly.\n\nPrimary Location...\n\n2501 Se J St, Ste A, Bentonville, AR 72716-3724, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
-    "job_is_remote": false,
-    "job_posted_at": "9 days ago",
-    "job_posted_at_timestamp": 1770249600,
-    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
-    "job_location": "Centerton, AR",
-    "job_city": "Centerton",
-    "job_state": "Arkansas",
-    "job_country": "US",
-    "job_latitude": 36.3585128,
-    "job_longitude": -94.28494309999999,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DAHcmn1IgiQBB8YBdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 130000,
-    "job_max_salary": 260000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "Work on Python and mainstream machine learning frameworks, e.g",
-        "TensorFlow or PyTorch and Agentic Frameworks like Pydantic",
-        "bachelor's/master's degree in computer science, information technology, engineering, or related area",
-        "Minimum 10 years of experience in design, development, deployment, and maintenance of highly scalable, robust, and user-centric Fullstack/GenAI /AI /ML products and applications",
-        "Good understanding of Data Structures",
-        "Hands on experience in systems design, algorithms, and distributed systems",
-        "Industry level experience in developing production-grade AI/ML system development with major technology companies or AI-native start-ups",
-        "Experience at writing high-performing production-quality code in Python",
-        "Exposure to cloud infrastructure, such as Open Stack, Azure, GCP, or AWS",
-        "Experience working in Agile Methodology",
-        "Experience using CI/CD, tools for logging and metrics",
-        "A continuous drive to explore, improve, enhance, automate and optimize systems and tools",
-        "Strong computer science fundamentals in data structures and algorithms",
-        "Exposure to information retrieval, statistics, and machine learning",
-        "Excellent oral and written communication skills",
-        "Good analytical and problem-solving skills",
-        "Option 1: Bachelor's degree in computer science, computer engineering, computer information systems, software engineering, or related area and 4 years’ experience in software engineering, machine learning engineering, AI systems or related area",
-        "Option 2: 6 years’ experience in software engineering, machine learning engineering, AI systems or related area",
-        "Master’s degree in computer science, computer engineering, computer information systems, software engineering, or related area and 2 years' experience in software engineering, machine learning engineering, AI systems or related area., Prior work experience in accessibility best practices., Prior work experience in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly"
-      ],
-      "Benefits": [
-        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
-        "Health benefits include medical, vision and dental coverage",
-        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
-        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
-        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
-        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
-        "The amount you receive depends on your job classification and length of employment",
-        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
-        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
-        "Tuition, books, and fees are completely paid for by Walmart",
-        "Eligibility requirements apply to some benefits and may depend on your job classification and length of employment",
-        "Benefits are subject to change and may be subject to a specific plan or program terms",
-        "Bentonville, Arkansas US-10735: The annual salary range for this position is $130,000.00 - $260,000.00",
-        "Sunnyvale, California US-11807: The annual salary range for this position is $169,000.00 - $338,000.00 Additional compensation includes annual or quarterly performance bonuses",
-        "Additional compensation for certain positions may also include :"
-      ],
-      "Responsibilities": [
-        "A successful candidate will have an established hands-on data science, AI, ML experience in driving technical products, Full stack developer, and a passion for great customer-centric products",
-        "Design, architect, build AI/ML models, AI Agents and deploy, operate, optimize the solutions",
-        "Lead development of end-to-end system architecture for GenAI/AI/ML and data intensive applications",
-        "Design, Develop and deploy Full stack based applications",
-        "Develop and deploy production-grade real-time/batch machine learning services Work with product managers to design user journeys, feedback loop and analyze user telemetry",
-        "Identify or propose AI/ML use-cases to business teams to improve business processes and develop quick MVPs/ POCs to help stakeholders make better decisions",
-        "End to end ownership of product using technologies such as Java , Node JS, React Js",
-        "You will be required to review design and code, provide technical solutions to team for complex requirements",
-        "Uphold and enforce rigorous standards, governance, and best practices, ensuring strict compliance with model and data governance standards",
-        "Adhere strictly to Walmart’s policies, procedures, mission, values, standards of ethics, and integrity",
-        "Innovation and Research: Stay at the forefront of technological advancements, conducting research to identify emerging tools and methodologies",
-        "Collaborative Communication: Communicate complex technical concepts effectively to both technical and non-technical stakeholders, promoting a culture of open communication and collaboration",
-        "You will be called upon to support the coaching and training of other team members to ensure all employees are confident in the use of software applications"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-ziprecruiter-com-c-walmart-job-staff-machine-learning-engineer-in-centerton-ar",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "JMDsHzd_ZIrLHMPeAAAAAA==",
-    "job_title": "Lead AI Engineer (GenAI Platform Services)",
-    "employer_name": "Capital One",
-    "employer_logo": null,
-    "employer_website": "https://www.capitalone.com",
-    "job_publisher": "Capital One Career",
-    "job_employment_type": "Full-time and Part-time",
-    "job_employment_types": [
-      "FULLTIME",
-      "PARTTIME"
-    ],
-    "job_apply_link": "https://www.capitalonecareers.com/job/mclean/lead-ai-engineer-genai-platform-services/1732/91413470496?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Capital One Career",
-        "apply_link": "https://www.capitalonecareers.com/job/mclean/lead-ai-engineer-genai-platform-services/1732/91413470496?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/lead-ai-engineer-san-jose-capital-one-899a1a1f3129fe652ddac362b3005e74?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.ziprecruiter.com/c/Uber/Job/Software-Engineer-II-Machine-Learning/-in-Sunnyvale,CA?jid=1537a8f09a79d90c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
       },
       {
-        "publisher": "Built In NYC",
-        "apply_link": "https://www.builtinnyc.com/job/lead-ai-engineer-genai-platform-services/8430355?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/software-engineer-ii-machine-learning-uber-JV_IC1147442_KO0,37_KE38,42.htm?jl=1010004777979&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/lead-ai-engineer-genai-platform-services_7ea1a578c9b45f04311a708fd95610bcb0e5c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Dice",
+        "apply_link": "https://www.dice.com/job-detail/914be9c3-d422-4828-9d56-03b5b7d59ad2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Experteer",
-        "apply_link": "https://us.experteer.com/career/view-jobs/lead-ai-engineer-genai-platform-services-san-jose-ca-usa-56068093?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/ZiuDkbUmjzPNsuhyRH5x49V5k-l41oRZ8RaXuLIUZWfy9HxU541aXg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "National Labor Exchange",
-        "apply_link": "https://usnlx.com/san-jose-ca/lead-ai-engineer-genai-platform-services/DF2FDF2CD976479FA04FFA138773C812/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "AnitaB.org Job Board",
+        "apply_link": "https://jobs.anitab.org/companies/uber/jobs/65750950-software-engineer-ii-machine-learning?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/lead-ai-engineer-genai-platform-services-at-capital-one-4369527300?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Talents By Vaia",
-        "apply_link": "https://talents.vaia.com/companies/capital-one-national-association/lead-ai-engineer-genai-platform-services-python-37827136/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.linkedin.com/jobs/view/software-engineer-ii-machine-learning-at-uber-4364946971?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Lead AI Engineer (GenAI Platform Services)\n\nOverview\n\nAt Capital One, we are creating responsible and reliable AI systems, changing banking for good. For years, Capital One has been an industry leader in using machine learning to create real-time, personalized customer experiences. Our investments in technology infrastructure and world-class talent — along with our deep experience in machine learning — position us to be at the forefront of enterprises leveraging AI. From informing customers about unusual charges to answering their questions in real time, our applications of AI & ML are bringing humanity and simplicity to banking. We are committed to continuing to build world-class applied science and engineering teams to deliver our industry leading capabilities with breakthrough product experiences and scalable, high-performance AI infrastructure. At Capital One, you will help bring the transformative power of emerging AI capabilities to reimagine how we serve our customers and businesses who have come to love the products and services we build.\n\nTeam Description:\n\nThe Intelligent Foundations and Experiences (IFX) team is at the center of bringing our vision for AI at Capital One to life. We work hand-in-hand with our partners across the company to advance the state of the art in science and AI engineering, and we build and deploy proprietary solutions that are central to our business and deliver value to millions of customers. Our AI models and platforms empower teams across Capital One to enhance their products with the transformative power of AI, in responsible and scalable ways for the highest leverage impact.\n\nIn this role, you will:\n• Partner with a cross-functional team of engineers, research scientists, technical program managers, and product managers to deliver AI-powered products that change how our associates work and how our customers interact with Capital One.\n• Design, develop, test, deploy, and support AI software components including foundation model training, large language model inference, similarity search, guardrails, model evaluation, experimentation, governance, and observability, etc.\n• Leverage a broad stack of Open Source and SaaS AI technologies such as AWS Ultraclusters, Huggingface, VectorDBs, Nemo Guardrails, PyTorch, and more.\n• Invent and introduce state-of-the-art LLM optimization techniques to improve the performance — scalability, cost, latency, throughput — of large scale production AI systems.\n• Contribute to the technical vision and the long term roadmap of foundational AI systems at Capital One.\n\nThe Ideal Candidate:\n• You love to build systems, take pride in the quality of your work, and also share our passion to do the right thing. You want to work on problems that will help change banking for good.\n• Passion for staying abreast of the latest research, and an ability to intuitively understand scientific publications and judiciously apply novel techniques in production.\n• You adapt quickly and thrive on bringing clarity to big, undefined problems. You love asking questions and digging deep to uncover the root of problems and can articulate your findings concisely with clarity. You have the courage to share new ideas even when they are unproven.\n• You are deeply Technical. You possess a strong foundation in engineering and mathematics, and your expertise in hardware, software, and AI enable you to see and exploit optimization opportunities that others miss.\n• You are a resilient trail blazer who can forge new paths to achieve business goals when the route is unknown.\n\nBasic Qualifications:\n• Bachelor's degree in Computer Science, AI, Electrical Engineering, Computer Engineering, or related fields plus at least 4 years of experience developing AI and ML algorithms or technologies, or a Master's degree in Computer Science, AI, Electrical Engineering, Computer Engineering, or related fields plus at least 2 years of experience developing AI and ML algorithms or technologies\n• At least 4 years of experience programming with Python, Go, Scala, or Java\n\nPreferred Qualifications:\n• 6 years of experience deploying scalable and responsible AI solutions on cloud platforms (e.g. AWS, Google Cloud, Azure, or equivalent private cloud)\n• Experience designing, developing, delivering, and supporting AI services\n• Experience developing AI and ML algorithms or technologies (e.g. LLM Inference, Similarity Search and VectorDBs, Guardrails, Memory) using Python, C++, C#, Java, or Golang\n• Experience developing and applying state-of-the-art techniques for optimizing training and inference software to improve hardware utilization, latency, throughput, and cost\n• Passion for staying abreast of the latest AI research and AI systems, and judiciously apply novel techniques in production\n\nCapital One will consider sponsoring a new qualified applicant for employment authorization for this position.\n\nThe minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.\n\nCambridge, MA: $197,300 - $225,100 for Lead AI Engineer\n\nMcLean, VA: $197,300 - $225,100 for Lead AI Engineer\n\nNew York, NY: $215,200 - $245,600 for Lead AI Engineer\n\nSan Francisco, CA: $215,200 - $245,600 for Lead AI Engineer\n\nSan Jose, CA: $215,200 - $245,600 for Lead AI Engineer\n\nCandidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.\n\nThis role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.\n\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\n\nThis role is expected to accept applications for a minimum of 5 business days.\n\nNo agencies please. Capital One is an equal opportunity employer (EOE, including disability/vet) committed to non-discrimination in compliance with applicable federal, state, and local laws. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",
+    "job_description": "About the Role\n\nThe NOVA AI team builds the platform and AI that powers world‑class support across mobile, web, and voice at global scale. We are now hiring a Senior ML Engineer to build and scale an autonomous support agent that resolves customer issues end‑to‑end. You’ll push the state of the art in GenAI for customer service—LLM orchestration, evaluation, safety guardrails, multilingual support—while holding a very high bar for reliability and cost efficiency. We are still at an early stage and value candidates with bias for action who get creative with GenAI tools to accelerate execution and experimentation.\n\nWhat the Candidate Will Need / Bonus Points\n\n---- What the Candidate Will Do ----\n• Work on agent architecture: agentic planning and execution loops, long-term memory, persona/voice, knowledge routing, and policy enforcement for compliant, on‑brand conversations.\n• Ship production systems that handle millions of conversations with rigorous SLOs, fallbacks, and canaries; design graceful degradation (e.g., human handoff) and safety guardrails (prompt‑injection, jailbreak, PII redaction).\n• Advance retrieval & reasoning: Build next-generation retrieval and reasoning pipelines, where the agent can search across different knowledge sources, apply policy-driven tools, and call structured workflows and ensure that responses are consistently grounded.\n• Establish evals that matter: offline rubrics, simulated scenarios, safety tests, cost/latency tradeoff suites, and LLM‑as‑judge (with calibrated human review) wired into CI/CD and experiment platforms.\n• Drive automation at scale: partner with Product/Design/Operations on coverage, policy alignment, localization, and rollout strategy to better customer experience and reduce cost per contact.\n\n---- Basic Qualifications ----\n• Background in LLM‑driven systems (inference optimization, prompt/program design, fine‑tuning, distillation/LoRA, safety/guardrails, evals).\n• Strong software engineering in Python\n• Bachelor's degree (or above) in Computer Science or related field\n\n---- Preferred Qualifications ----\n• Agentic architectures in production (planner/executor, memory, multi‑step reasoning) and RAG over complex, policy‑heavy knowledge bases.\n• Experience building support automation for large consumer platforms (routing, policy codification, internal tooling, co‑pilot/auto‑resolve).\n• Multilingual NLU/NLG (code‑switching, low‑resource languages), hallucination mitigation, safety red‑teaming, and privacy‑by‑design.\n• Practical expertise balancing speed and reliability at scale: experiment frameworks, feature flags, canary/guarded rollouts, and clear kill‑switches.\n\nFor Sunnyvale, CA-based roles: The base salary range for this role is USD$171,000 per year - USD$190,000 per year.\n\nYou will be eligible to participate in Uber's bonus program, and may be offered an equity award & other types of comp. All full-time employees are eligible to participate in a 401(k) plan. You will also be eligible for various benefits. More details can be found at the following link https://jobs.uber.com/en/benefits.\n\nUber's mission is to reimagine the way the world moves for the better. Here, bold ideas create real-world impact, challenges drive growth, and speed fuels progress. What moves us, moves the world - let's move it forward, together.\n\nUber is proud to be an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing this form.\n\nOffices continue to be central to collaboration and Uber's cultural identity. Unless formally approved to work fully remotely, Uber expects employees to spend at least half of their work time in their assigned office. For certain roles, such as those based at green-light hubs, employees are expected to be in-office for 100% of their time. Please speak with your recruiter to better understand in-office expectations for this role.",
     "job_is_remote": false,
     "job_posted_at": "10 days ago",
     "job_posted_at_timestamp": 1770163200,
     "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
-    "job_location": "McLean, VA",
-    "job_city": "McLean",
-    "job_state": "Virginia",
+    "job_location": "Sunnyvale, CA",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
     "job_country": "US",
-    "job_latitude": 38.9338676,
-    "job_longitude": -77.1772604,
+    "job_latitude": 37.368829999999996,
+    "job_longitude": -122.0363496,
     "job_benefits": [
       "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DJMDsHzd_ZIrLHMPeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUppPDnheTir6XsxnAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "You love to build systems, take pride in the quality of your work, and also share our passion to do the right thing",
-        "You want to work on problems that will help change banking for good",
-        "You love asking questions and digging deep to uncover the root of problems and can articulate your findings concisely with clarity",
-        "You have the courage to share new ideas even when they are unproven",
-        "You are deeply Technical",
-        "You possess a strong foundation in engineering and mathematics, and your expertise in hardware, software, and AI enable you to see and exploit optimization opportunities that others miss",
-        "You are a resilient trail blazer who can forge new paths to achieve business goals when the route is unknown",
-        "Bachelor's degree in Computer Science, AI, Electrical Engineering, Computer Engineering, or related fields plus at least 4 years of experience developing AI and ML algorithms or technologies, or a Master's degree in Computer Science, AI, Electrical Engineering, Computer Engineering, or related fields plus at least 2 years of experience developing AI and ML algorithms or technologies",
-        "At least 4 years of experience programming with Python, Go, Scala, or Java",
-        "AWS, Google Cloud, Azure, or equivalent private cloud)",
-        "Experience designing, developing, delivering, and supporting AI services",
-        "Experience developing AI and ML algorithms or technologies (e.g. LLM Inference, Similarity Search and VectorDBs, Guardrails, Memory) using Python, C++, C#, Java, or Golang",
-        "Experience developing and applying state-of-the-art techniques for optimizing training and inference software to improve hardware utilization, latency, throughput, and cost",
-        "Passion for staying abreast of the latest AI research and AI systems, and judiciously apply novel techniques in production"
+        "Ship production systems that handle millions of conversations with rigorous SLOs, fallbacks, and canaries; design graceful degradation (e.g., human handoff) and safety guardrails (prompt‑injection, jailbreak, PII redaction)",
+        "Advance retrieval & reasoning: Build next-generation retrieval and reasoning pipelines, where the agent can search across different knowledge sources, apply policy-driven tools, and call structured workflows and ensure that responses are consistently grounded",
+        "Background in LLM‑driven systems (inference optimization, prompt/program design, fine‑tuning, distillation/LoRA, safety/guardrails, evals)",
+        "Strong software engineering in Python",
+        "Bachelor's degree (or above) in Computer Science or related field",
+        "Agentic architectures in production (planner/executor, memory, multi‑step reasoning) and RAG over complex, policy‑heavy knowledge bases",
+        "Experience building support automation for large consumer platforms (routing, policy codification, internal tooling, co‑pilot/auto‑resolve)",
+        "Multilingual NLU/NLG (code‑switching, low‑resource languages), hallucination mitigation, safety red‑teaming, and privacy‑by‑design",
+        "Practical expertise balancing speed and reliability at scale: experiment frameworks, feature flags, canary/guarded rollouts, and clear kill‑switches"
       ],
       "Benefits": [
-        "Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked",
-        "Cambridge, MA: $197,300 - $225,100 for Lead AI Engineer",
-        "Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter",
-        "This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI)",
-        "Incentives could be discretionary or non discretionary depending on the plan",
-        "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being"
+        "For Sunnyvale, CA-based roles: The base salary range for this role is USD$171,000 per year - USD$190,000 per year",
+        "You will be eligible to participate in Uber's bonus program, and may be offered an equity award & other types of comp",
+        "All full-time employees are eligible to participate in a 401(k) plan",
+        "You will also be eligible for various benefits"
       ],
       "Responsibilities": [
-        "Partner with a cross-functional team of engineers, research scientists, technical program managers, and product managers to deliver AI-powered products that change how our associates work and how our customers interact with Capital One",
-        "Design, develop, test, deploy, and support AI software components including foundation model training, large language model inference, similarity search, guardrails, model evaluation, experimentation, governance, and observability, etc",
-        "Leverage a broad stack of Open Source and SaaS AI technologies such as AWS Ultraclusters, Huggingface, VectorDBs, Nemo Guardrails, PyTorch, and more",
-        "Invent and introduce state-of-the-art LLM optimization techniques to improve the performance — scalability, cost, latency, throughput — of large scale production AI systems",
-        "Contribute to the technical vision and the long term roadmap of foundational AI systems at Capital One",
-        "Passion for staying abreast of the latest research, and an ability to intuitively understand scientific publications and judiciously apply novel techniques in production",
-        "You adapt quickly and thrive on bringing clarity to big, undefined problems"
+        "You’ll push the state of the art in GenAI for customer service—LLM orchestration, evaluation, safety guardrails, multilingual support—while holding a very high bar for reliability and cost efficiency",
+        "Work on agent architecture: agentic planning and execution loops, long-term memory, persona/voice, knowledge routing, and policy enforcement for compliant, on‑brand conversations",
+        "Establish evals that matter: offline rubrics, simulated scenarios, safety tests, cost/latency tradeoff suites, and LLM‑as‑judge (with calibrated human review) wired into CI/CD and experiment platforms",
+        "Drive automation at scale: partner with Product/Design/Operations on coverage, policy alignment, localization, and rollout strategy to better customer experience and reduce cost per contact"
       ]
     },
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
-    "id": "www-capitalonecareers-com-job-mclean-lead-ai-engineer-genai-platform-services-1732-91413470496",
+    "id": "www-uber-com-careers-list-152898",
     "_source": "new_jobs"
   },
   {
@@ -1953,166 +2108,6 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "www-lockheedmartinjobs-com-job-liverpool-advanced-quality-ai-engineer-sr-694-91636062464",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "RVveDLiseqOLFVF1AAAAAA==",
-    "job_title": "AI and Machine Learning Intern",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=c70e7dbe2c9c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=c70e7dbe2c9c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A company is looking for a Student II in Information Services focusing on AI and Machine Learning.\n\nKey Responsibilities\n\nDevelop custom machine learning models using Python and Scikit-learn\n\nEngage in model monitoring and data analytics using Azure Fabric Lakehouse\n\nGain exposure to HIPAA regulations and their impact on AI / ML applications\n\nRequired Qualifications\n\nCurrently enrolled in a degree program in Data Science, Computer Science, or a related field\n\nAbility to work both remotely and in-office as required\n\nInterest in gaining real-world experience in AI and machine learning\n\nWillingness to comply with policies protecting patient rights and confidentiality\n\nCommitment to complete required training for the position",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Greensboro, NC",
-    "job_city": "Greensboro",
-    "job_state": "North Carolina",
-    "job_country": "US",
-    "job_latitude": 36.0725632,
-    "job_longitude": -79.791534,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DRVveDLiseqOLFVF1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Currently enrolled in a degree program in Data Science, Computer Science, or a related field",
-        "Ability to work both remotely and in-office as required",
-        "Interest in gaining real-world experience in AI and machine learning",
-        "Willingness to comply with policies protecting patient rights and confidentiality",
-        "Commitment to complete required training for the position"
-      ],
-      "Responsibilities": [
-        "Develop custom machine learning models using Python and Scikit-learn",
-        "Engage in model monitoring and data analytics using Azure Fabric Lakehouse",
-        "Gain exposure to HIPAA regulations and their impact on AI / ML applications"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "UppPDnheTir6XsxnAAAAAA==",
-    "job_title": "Software Engineer II - Machine Learning",
-    "employer_name": "Uber",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5P-JaTkhLgASUEADjcI9_THrw2ftb9JylguhC&s=0",
-    "employer_website": "https://www.uber.com",
-    "job_publisher": "Uber",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.uber.com/careers/list/152898?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "Uber",
-        "apply_link": "https://www.uber.com/careers/list/152898?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=beb51de5929d2f00&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Uber/Job/Software-Engineer-II-Machine-Learning/-in-Sunnyvale,CA?jid=1537a8f09a79d90c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/software-engineer-ii-machine-learning-uber-JV_IC1147442_KO0,37_KE38,42.htm?jl=1010004777979&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Dice",
-        "apply_link": "https://www.dice.com/job-detail/914be9c3-d422-4828-9d56-03b5b7d59ad2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/ZiuDkbUmjzPNsuhyRH5x49V5k-l41oRZ8RaXuLIUZWfy9HxU541aXg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "AnitaB.org Job Board",
-        "apply_link": "https://jobs.anitab.org/companies/uber/jobs/65750950-software-engineer-ii-machine-learning?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/software-engineer-ii-machine-learning-at-uber-4364946971?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "About the Role\n\nThe NOVA AI team builds the platform and AI that powers world‑class support across mobile, web, and voice at global scale. We are now hiring a Senior ML Engineer to build and scale an autonomous support agent that resolves customer issues end‑to‑end. You’ll push the state of the art in GenAI for customer service—LLM orchestration, evaluation, safety guardrails, multilingual support—while holding a very high bar for reliability and cost efficiency. We are still at an early stage and value candidates with bias for action who get creative with GenAI tools to accelerate execution and experimentation.\n\nWhat the Candidate Will Need / Bonus Points\n\n---- What the Candidate Will Do ----\n• Work on agent architecture: agentic planning and execution loops, long-term memory, persona/voice, knowledge routing, and policy enforcement for compliant, on‑brand conversations.\n• Ship production systems that handle millions of conversations with rigorous SLOs, fallbacks, and canaries; design graceful degradation (e.g., human handoff) and safety guardrails (prompt‑injection, jailbreak, PII redaction).\n• Advance retrieval & reasoning: Build next-generation retrieval and reasoning pipelines, where the agent can search across different knowledge sources, apply policy-driven tools, and call structured workflows and ensure that responses are consistently grounded.\n• Establish evals that matter: offline rubrics, simulated scenarios, safety tests, cost/latency tradeoff suites, and LLM‑as‑judge (with calibrated human review) wired into CI/CD and experiment platforms.\n• Drive automation at scale: partner with Product/Design/Operations on coverage, policy alignment, localization, and rollout strategy to better customer experience and reduce cost per contact.\n\n---- Basic Qualifications ----\n• Background in LLM‑driven systems (inference optimization, prompt/program design, fine‑tuning, distillation/LoRA, safety/guardrails, evals).\n• Strong software engineering in Python\n• Bachelor's degree (or above) in Computer Science or related field\n\n---- Preferred Qualifications ----\n• Agentic architectures in production (planner/executor, memory, multi‑step reasoning) and RAG over complex, policy‑heavy knowledge bases.\n• Experience building support automation for large consumer platforms (routing, policy codification, internal tooling, co‑pilot/auto‑resolve).\n• Multilingual NLU/NLG (code‑switching, low‑resource languages), hallucination mitigation, safety red‑teaming, and privacy‑by‑design.\n• Practical expertise balancing speed and reliability at scale: experiment frameworks, feature flags, canary/guarded rollouts, and clear kill‑switches.\n\nFor Sunnyvale, CA-based roles: The base salary range for this role is USD$171,000 per year - USD$190,000 per year.\n\nYou will be eligible to participate in Uber's bonus program, and may be offered an equity award & other types of comp. All full-time employees are eligible to participate in a 401(k) plan. You will also be eligible for various benefits. More details can be found at the following link https://jobs.uber.com/en/benefits.\n\nUber's mission is to reimagine the way the world moves for the better. Here, bold ideas create real-world impact, challenges drive growth, and speed fuels progress. What moves us, moves the world - let's move it forward, together.\n\nUber is proud to be an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing this form.\n\nOffices continue to be central to collaboration and Uber's cultural identity. Unless formally approved to work fully remotely, Uber expects employees to spend at least half of their work time in their assigned office. For certain roles, such as those based at green-light hubs, employees are expected to be in-office for 100% of their time. Please speak with your recruiter to better understand in-office expectations for this role.",
-    "job_is_remote": false,
-    "job_posted_at": "10 days ago",
-    "job_posted_at_timestamp": 1770163200,
-    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
-    "job_location": "Sunnyvale, CA",
-    "job_city": "Sunnyvale",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.368829999999996,
-    "job_longitude": -122.0363496,
-    "job_benefits": [
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUppPDnheTir6XsxnAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Ship production systems that handle millions of conversations with rigorous SLOs, fallbacks, and canaries; design graceful degradation (e.g., human handoff) and safety guardrails (prompt‑injection, jailbreak, PII redaction)",
-        "Advance retrieval & reasoning: Build next-generation retrieval and reasoning pipelines, where the agent can search across different knowledge sources, apply policy-driven tools, and call structured workflows and ensure that responses are consistently grounded",
-        "Background in LLM‑driven systems (inference optimization, prompt/program design, fine‑tuning, distillation/LoRA, safety/guardrails, evals)",
-        "Strong software engineering in Python",
-        "Bachelor's degree (or above) in Computer Science or related field",
-        "Agentic architectures in production (planner/executor, memory, multi‑step reasoning) and RAG over complex, policy‑heavy knowledge bases",
-        "Experience building support automation for large consumer platforms (routing, policy codification, internal tooling, co‑pilot/auto‑resolve)",
-        "Multilingual NLU/NLG (code‑switching, low‑resource languages), hallucination mitigation, safety red‑teaming, and privacy‑by‑design",
-        "Practical expertise balancing speed and reliability at scale: experiment frameworks, feature flags, canary/guarded rollouts, and clear kill‑switches"
-      ],
-      "Benefits": [
-        "For Sunnyvale, CA-based roles: The base salary range for this role is USD$171,000 per year - USD$190,000 per year",
-        "You will be eligible to participate in Uber's bonus program, and may be offered an equity award & other types of comp",
-        "All full-time employees are eligible to participate in a 401(k) plan",
-        "You will also be eligible for various benefits"
-      ],
-      "Responsibilities": [
-        "You’ll push the state of the art in GenAI for customer service—LLM orchestration, evaluation, safety guardrails, multilingual support—while holding a very high bar for reliability and cost efficiency",
-        "Work on agent architecture: agentic planning and execution loops, long-term memory, persona/voice, knowledge routing, and policy enforcement for compliant, on‑brand conversations",
-        "Establish evals that matter: offline rubrics, simulated scenarios, safety tests, cost/latency tradeoff suites, and LLM‑as‑judge (with calibrated human review) wired into CI/CD and experiment platforms",
-        "Drive automation at scale: partner with Product/Design/Operations on coverage, policy alignment, localization, and rollout strategy to better customer experience and reduce cost per contact"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-uber-com-careers-list-152898",
     "_source": "new_jobs"
   },
   {
@@ -2337,8 +2332,8 @@
     "job_latitude": 37.322997799999996,
     "job_longitude": -122.03218229999999,
     "job_benefits": [
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DILh9RWoi3et5d4ZJAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 147000,
