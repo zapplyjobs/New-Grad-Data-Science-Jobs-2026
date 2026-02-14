@@ -73,8 +73,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **VirtualVocations** | AI and Machine Learning Intern 🏠 | Torrance, California | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=57435c3697da&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Instacart** | Machine Learning Engineer, PhD I... | Remote 🏠 | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Instacart/Job/Machine-Learning-Engineer,-PhD-Intern/-in-Remote,OR?jid=8afc6caf65ecc2ba&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Atlassian** | PhD AI Research Intern, 2026 Sum... | Seattle, Washington | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Atlassian/Job/PhD-AI-Research-Intern,-2026-Summer-U.S./-in-Seattle,WA?jid=dbf254dc7df90e07&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Cisco** | AI Machine Learning Engineer I (... | San Jose, California | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/CISCISGLOBAL2000454EXTERNALENGLOBAL/AI-Machine-Learning-Engineer-I-Intern-United-States?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Intuitive Surgical** | Machine Learning Scientist Intern | Sunnyvale, California | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.intuitive.com/en/jobs/744000107834945/JOB211953/machine-learning-scientist-intern/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
@@ -147,23 +147,16 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 0 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 1 positions
+- **📁 Total Jobs**: 0 positions
 - **🏢 Companies**: 6 companies
-- **🏷️ Top Category**: Machine Learning
-
-<details>
-<summary><h3>🤖 <strong>Machine Learning</strong> (1 positions)</h3></summary>
+- **🏷️ Top Category**: Software Engineering
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Persona AI** | Machine Learning Internship, Man... | Houston, Texas | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://us.bebee.com/job/8992323cddc6ee5c0c3168f5064a32f2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-</details>
-
-
+| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
 
 </details>
 
