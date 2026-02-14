@@ -269,8 +269,8 @@
     "job_longitude": -77.09431719999999,
     "job_benefits": [
       "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DmbKVqdQat9ihvgp2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -402,9 +402,9 @@
     "job_latitude": 40.3503931,
     "job_longitude": -74.6571416,
     "job_benefits": [
-      "dental_coverage",
+      "paid_time_off",
       "health_insurance",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4ZAd4t_9Sqb36hMNAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -531,94 +531,6 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "www-capitalonecareers-com-job-mclean-distinguished-machine-learning-engineer-bank-tech-1732-90831746816",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "WhXCM0qq0JN2ZKIGAAAAAA==",
-    "job_title": "Artificial Intelligence Machine Learning Engineer (Annapolis Junction, MD)",
-    "employer_name": "Shield Consulting Solutions, Inc.",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wTGqfJJ5vKRX2BGJnX2VJNHPzCp_8PDxMW6Z&s=0",
-    "employer_website": null,
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Shield-Consulting-Solutions,-Inc./Job/Artificial-Intelligence-Machine-Learning-Engineer-(Annapolis-Junction,-MD)/-in-Annapolis,MD?jid=c2fa4b505edb4aba&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Shield-Consulting-Solutions,-Inc./Job/Artificial-Intelligence-Machine-Learning-Engineer-(Annapolis-Junction,-MD)/-in-Annapolis,MD?jid=c2fa4b505edb4aba&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Security Clearance Jobs",
-        "apply_link": "https://www.clearancejobs.com/jobs/8738412/artificial-intelligence-machine-learning-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "SaluteMyJob",
-        "apply_link": "https://salutemyjob.com/jobs/artificial-intelligence-machine-learning-engineer-2-annapolis-maryland/2608966410-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "KSNT Jobs",
-        "apply_link": "https://jobs.ksnt.com/jobs/artificial-intelligence-machine-learning-engineer-2-annapolis-maryland/2608966410-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/c1162cc7a9b34ac24df2949ba251f89a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/annapolis/maryland/engineering/4866633221/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-md-annapolis-artificial-intelligence-machine-learning-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "**Active TS/SCI w/Polygraph REQUIRED** Please do not apply if you do not currently possess this level of clearance.\n\nTelework: None\n\nBasic Requirements:\n• Experience with standard machine language frameworks, e.g. Pytorch, TensorFlow.\n• A Master's or Ph.D. degree in advanced math, artificial intelligence, data science, computer science or deep learning\n• 5 years' experience in applied machine learning\n• 5 additional years of machine learning experience with a relevant Bachelor's degree may be substituted for a Master's degree.\n\nExcellent benefits package including 25 days PTO, 11 paid holidays, 100% employer-paid healthcare for employees and dependents - available day 1, 8% 401(k) employer match - immediate vesting.\n\nDisclaimer: The salary range provided is an estimate based on current market conditions and may be adjusted based on factors such as experience, skills, and qualifications. The final salary offer will be determined after a thorough review of the candidate's background and alignment with the role. Please note that this range is subject to change and should be considered as a guideline rather than a definitive figure.\n\nShield Consulting Solutions is an equal opportunity/affirmative action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law.\nThis is a full time position",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Annapolis, MD",
-    "job_city": "Annapolis",
-    "job_state": "Maryland",
-    "job_country": "US",
-    "job_latitude": 38.9764364,
-    "job_longitude": -76.489642,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DWhXCM0qq0JN2ZKIGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Experience with standard machine language frameworks, e.g. Pytorch, TensorFlow",
-        "A Master's or Ph.D. degree in advanced math, artificial intelligence, data science, computer science or deep learning",
-        "5 years' experience in applied machine learning",
-        "5 additional years of machine learning experience with a relevant Bachelor's degree may be substituted for a Master's degree"
-      ],
-      "Benefits": [
-        "Excellent benefits package including 25 days PTO, 11 paid holidays, 100% employer-paid healthcare for employees and dependents - available day 1, 8% 401(k) employer match - immediate vesting",
-        "Disclaimer: The salary range provided is an estimate based on current market conditions and may be adjusted based on factors such as experience, skills, and qualifications"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-ziprecruiter-com-c-shield-consulting-solutions-inc-job-artificial-intelligence-machine-learning-engineer-annapolis-junction-md-in-annapolis-md",
     "_source": "new_jobs"
   },
   {
@@ -810,6 +722,94 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "WhXCM0qq0JN2ZKIGAAAAAA==",
+    "job_title": "Artificial Intelligence Machine Learning Engineer (Annapolis Junction, MD)",
+    "employer_name": "Shield Consulting Solutions, Inc.",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wTGqfJJ5vKRX2BGJnX2VJNHPzCp_8PDxMW6Z&s=0",
+    "employer_website": null,
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Shield-Consulting-Solutions,-Inc./Job/Artificial-Intelligence-Machine-Learning-Engineer-(Annapolis-Junction,-MD)/-in-Annapolis,MD?jid=c2fa4b505edb4aba&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Shield-Consulting-Solutions,-Inc./Job/Artificial-Intelligence-Machine-Learning-Engineer-(Annapolis-Junction,-MD)/-in-Annapolis,MD?jid=c2fa4b505edb4aba&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Security Clearance Jobs",
+        "apply_link": "https://www.clearancejobs.com/jobs/8738412/artificial-intelligence-machine-learning-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "SaluteMyJob",
+        "apply_link": "https://salutemyjob.com/jobs/artificial-intelligence-machine-learning-engineer-2-annapolis-maryland/2608966410-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "KSNT Jobs",
+        "apply_link": "https://jobs.ksnt.com/jobs/artificial-intelligence-machine-learning-engineer-2-annapolis-maryland/2608966410-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/c1162cc7a9b34ac24df2949ba251f89a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Learn4Good",
+        "apply_link": "https://www.learn4good.com/jobs/annapolis/maryland/engineering/4866633221/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-md-annapolis-artificial-intelligence-machine-learning-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "**Active TS/SCI w/Polygraph REQUIRED** Please do not apply if you do not currently possess this level of clearance.\n\nTelework: None\n\nBasic Requirements:\n• Experience with standard machine language frameworks, e.g. Pytorch, TensorFlow.\n• A Master's or Ph.D. degree in advanced math, artificial intelligence, data science, computer science or deep learning\n• 5 years' experience in applied machine learning\n• 5 additional years of machine learning experience with a relevant Bachelor's degree may be substituted for a Master's degree.\n\nExcellent benefits package including 25 days PTO, 11 paid holidays, 100% employer-paid healthcare for employees and dependents - available day 1, 8% 401(k) employer match - immediate vesting.\n\nDisclaimer: The salary range provided is an estimate based on current market conditions and may be adjusted based on factors such as experience, skills, and qualifications. The final salary offer will be determined after a thorough review of the candidate's background and alignment with the role. Please note that this range is subject to change and should be considered as a guideline rather than a definitive figure.\n\nShield Consulting Solutions is an equal opportunity/affirmative action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law.\nThis is a full time position",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Annapolis, MD",
+    "job_city": "Annapolis",
+    "job_state": "Maryland",
+    "job_country": "US",
+    "job_latitude": 38.9764364,
+    "job_longitude": -76.489642,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DWhXCM0qq0JN2ZKIGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Experience with standard machine language frameworks, e.g. Pytorch, TensorFlow",
+        "A Master's or Ph.D. degree in advanced math, artificial intelligence, data science, computer science or deep learning",
+        "5 years' experience in applied machine learning",
+        "5 additional years of machine learning experience with a relevant Bachelor's degree may be substituted for a Master's degree"
+      ],
+      "Benefits": [
+        "Excellent benefits package including 25 days PTO, 11 paid holidays, 100% employer-paid healthcare for employees and dependents - available day 1, 8% 401(k) employer match - immediate vesting",
+        "Disclaimer: The salary range provided is an estimate based on current market conditions and may be adjusted based on factors such as experience, skills, and qualifications"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-ziprecruiter-com-c-shield-consulting-solutions-inc-job-artificial-intelligence-machine-learning-engineer-annapolis-junction-md-in-annapolis-md",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "pr6rzrAajYDN_mmpAAAAAA==",
     "job_title": "Lead AI / ML Engineer",
     "employer_name": "VirtualVocations",
@@ -968,85 +968,6 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "jobs-northropgrumman-com-careers-job-1340069923328-2026-ai-engineer-intern-remote-united-states-california-redondo-beach",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "Reqi7GbLPevA-3KYAAAAAA==",
-    "job_title": "AI/ML Engineer",
-    "employer_name": "Elder Research",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAG94AGsQDIJhC6jkCedW849SoBhhntyQ0l1MC&s=0",
-    "employer_website": "https://www.elderresearch.com",
-    "job_publisher": "Women For Hire- Job Board",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobs.womenforhire.com/job/usa/glenmont-md/ai-ml-engineer-391352/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Women For Hire- Job Board",
-        "apply_link": "https://jobs.womenforhire.com/job/usa/glenmont-md/ai-ml-engineer-391352/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "AI/ML Engineer\n\nGeneral Information\n\nRequisition # 658\n\nLocations USA-VA-Arlington\n\nPosting Date 02/10/2025\n\nSecurity Clearance Required - Public Trust\n\nRemote Type Hybrid\n\nTime Type Full time\n\nDescription & Requirements\n\nElder Research Inc., a wholly owned subsidiary of MANTECH international Corporation seeks a motivated, career and customer-oriented AI/ML Engineer. The mid-level AI/ML Engineer will assist in the design, deployment, and operation of production-grade AI systems that support the customer’s Sentinel model—helping protect more consumers, faster, from a wider range of hazards by using analytics to reduce time to intervention. This role involves end-to-end model lifecycle engineering on Azure, applying advanced MLOps best practices, and building AI agents (using Copilot Studio and Python frameworks) that convert signals into timely, actionable decisions.\n\nResponsibilities include but are not limited to:\n• Build, Deploy & Maintain ML Models\n• Implement, productionize, and optimize ML solutions (supervised/unsupervised, NLP, deep learning) with robust data preprocessing, feature engineering, evaluation, and calibration pipelines to ensure reliability, fairness, and performance at scale.\n• MLOps & Data Engineering (Azure)\n• Establish end-to-end MLOps workflows including CI/CD, experiment tracking, model registry, reproducible builds, and deployments.\n• Design high-quality data pipelines (ingest, transform, validate) across structured and unstructured sources, enforce data contracts/lineage, and collaborate with analytics teams to make datasets discoverable, documented, and performant.\n• Implement model monitoring (drift, data/feature quality, bias, business KPIs), alerting, and automated rollback for safe, responsive systems.\n• AI Agents & System Integration\n• Build AI agents using Copilot Studio and Python frameworks to operationalize safety analytics, accelerating triage and decision-making.\n• Integrate agents with APIs, event streams, dashboards, and case management systems to reduce time from signal to action.\n• Engineering Excellence, Governance & Agile Delivery\n• Champion secure-by-design practices, reproducibility, and auditability (model cards, data sheets, deployment records).\n• Contribute to coding standards, code reviews, knowledge sharing, and mentoring.\n• Work in Agile teams to drive iterative delivery, continuous improvement, and translate mission goals into technical roadmaps and measurable outcomes tied to Sentinel time-to-intervention targets.\n\nMinimum Qualifications:\n• Experience & Education:\n• 3+ years hands-on developing and deploying AI/ML models in production environments.\n• Bachelor’s degree or equivalent professional experience in Computer Science, Data Science, Mathematics, Statistics, Engineering, or a related field.\n• Programming & ML Expertise:\n• Proficient in Python, including packaging, testing, and performance optimization.\n• Solid understanding of ML algorithms, model selection, training, validation, optimization, and evaluation at scale.\n• Skilled in data preprocessing, feature engineering, and visualization to support decision-making.\n• Deep Learning, MLOps & Cloud:\n• Experienced with PyTorch/TensorFlow and modern MLOps practices, including deployment, monitoring, scaling, CI/CD, experiment tracking, and model registry.\n• Hands-on experience with Azure for AI/ML workloads (Azure ML, Azure Synapse, Azure Data Lake).\n• AI Agents & Integration:\n• Experience developing AI agents using Copilot Studio and Python frameworks, including tooling, orchestration, retrieval, and connectors.\n\nPreferred Qualifications:\n• Experience with streaming and event-driven architectures (Event Hubs), feature stores, and vector databases for retrieval-augmented generation.\n• Hands-on with responsible AI practices (fairness, explainability, privacy), model governance (model cards, audits), and cloud ML security.\n• Familiarity with domain-specific risk analytics and working in public-sector or regulated environments.\n• Azure AI/ML and/or MLOps certifications considered advantageous.\n\nClearance Requirements:\n• Current Public Trust Desired\n• Must be a US Citizen and be able to obtain and maintain a Public Trust clearance prior to starting this position\n\nAbout Elder Research, Inc - People Centered. Data Driven\n\nElder Research considers all qualified applicants for employment without regard to disability or veteran status or any other status protected under any federal, state, or local law or regulation.\n\nIf you need a reasonable accommodation to apply for a position with Elder Research, please email us at careers@elderresearch.com and provide your name and contact information.\n\nEqual Opportunity Employer, including disability/protected veterans\n\nEqual employment opportunity, including veterans and individuals with disabilities.\n\nPI282251333",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Glenmont",
-    "job_city": "Wheaton-Glenmont",
-    "job_state": "Maryland",
-    "job_country": "US",
-    "job_latitude": 39.058552999999996,
-    "job_longitude": -77.04997,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DReqi7GbLPevA-3KYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Security Clearance Required - Public Trust",
-        "Experience & Education:",
-        "3+ years hands-on developing and deploying AI/ML models in production environments",
-        "Bachelor’s degree or equivalent professional experience in Computer Science, Data Science, Mathematics, Statistics, Engineering, or a related field",
-        "Programming & ML Expertise:",
-        "Proficient in Python, including packaging, testing, and performance optimization",
-        "Solid understanding of ML algorithms, model selection, training, validation, optimization, and evaluation at scale",
-        "Skilled in data preprocessing, feature engineering, and visualization to support decision-making",
-        "Deep Learning, MLOps & Cloud:",
-        "Experienced with PyTorch/TensorFlow and modern MLOps practices, including deployment, monitoring, scaling, CI/CD, experiment tracking, and model registry",
-        "Hands-on experience with Azure for AI/ML workloads (Azure ML, Azure Synapse, Azure Data Lake)",
-        "AI Agents & Integration:",
-        "Experience developing AI agents using Copilot Studio and Python frameworks, including tooling, orchestration, retrieval, and connectors",
-        "Must be a US Citizen and be able to obtain and maintain a Public Trust clearance prior to starting this position"
-      ],
-      "Benefits": [
-        "Equal employment opportunity, including veterans and individuals with disabilities"
-      ],
-      "Responsibilities": [
-        "This role involves end-to-end model lifecycle engineering on Azure, applying advanced MLOps best practices, and building AI agents (using Copilot Studio and Python frameworks) that convert signals into timely, actionable decisions",
-        "Build, Deploy & Maintain ML Models",
-        "Implement, productionize, and optimize ML solutions (supervised/unsupervised, NLP, deep learning) with robust data preprocessing, feature engineering, evaluation, and calibration pipelines to ensure reliability, fairness, and performance at scale",
-        "MLOps & Data Engineering (Azure)",
-        "Establish end-to-end MLOps workflows including CI/CD, experiment tracking, model registry, reproducible builds, and deployments",
-        "Design high-quality data pipelines (ingest, transform, validate) across structured and unstructured sources, enforce data contracts/lineage, and collaborate with analytics teams to make datasets discoverable, documented, and performant",
-        "Implement model monitoring (drift, data/feature quality, bias, business KPIs), alerting, and automated rollback for safe, responsive systems",
-        "AI Agents & System Integration",
-        "Build AI agents using Copilot Studio and Python frameworks to operationalize safety analytics, accelerating triage and decision-making",
-        "Integrate agents with APIs, event streams, dashboards, and case management systems to reduce time from signal to action",
-        "Engineering Excellence, Governance & Agile Delivery",
-        "Champion secure-by-design practices, reproducibility, and auditability (model cards, data sheets, deployment records)",
-        "Contribute to coding standards, code reviews, knowledge sharing, and mentoring",
-        "Work in Agile teams to drive iterative delivery, continuous improvement, and translate mission goals into technical roadmaps and measurable outcomes tied to Sentinel time-to-intervention targets"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "jobs-womenforhire-com-job-usa-glenmont-md-ai-ml-engineer-391352",
     "_source": "new_jobs"
   },
   {
@@ -1237,6 +1158,110 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "s6gOamMD7eYIsgngAAAAAA==",
+    "job_title": "2026 AI/ML Intern - Machine Learning Engineer Intern",
+    "employer_name": "Adobe",
+    "employer_logo": null,
+    "employer_website": "https://www.adobe.com",
+    "job_publisher": "Adobe Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.adobe.com/us/en/job/R160469/2026-AI-ML-Intern-Machine-Learning-Engineer-Intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Adobe Careers",
+        "apply_link": "https://careers.adobe.com/us/en/job/R160469/2026-AI-ML-Intern-Machine-Learning-Engineer-Intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Workday",
+        "apply_link": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160469?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/2026-ai-ml-intern-machine-learning-engineer-intern-adobe-JV_IC1147436_KO0,50_KE51,56.htm?jl=1009938923387&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Adobe/Job/2026-AI-ML-Intern-Machine-Learning-Engineer-Intern/-in-San-Jose,CA?jid=bf8eab120bf0cd68&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=99671e8d6162f96c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Dice",
+        "apply_link": "https://www.dice.com/job-detail/815d3fe6-02be-4205-b063-1054e0b3d133?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Local Job Network",
+        "apply_link": "https://jobs.localjobnetwork.com/job/detail/85481829/2026-AI-ML-Intern-Machine-Learning-Engineer-Intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/2026-ai-ml-intern-machine-learning-engineer_7ea1a4339c3c5435ffe1a624c46dedc37a8ee?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Our Company\n\nChanging the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.\n\nWe’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours!\n\nThe Opportunity\n\nAdobe is looking for a Machine Learning intern who will apply AI and machine learning techniques to big-data problems to help Adobe better understand, lead and optimize the experience of its customers.\n\nAt Adobe Firefly, we build foundation generative models for image, video, and other modalities that power the suite of products at Adobe. By using predictive models, experimental design methods, and optimization techniques, the candidate will research, experiment, develop, and optimize CV algorithms/models that understand, generate and enhance data for training pioneering image and video foundation models powered by data, training, and inference infrastructures.\n\nAll 2025 Adobe interns will be co-located hybrid. This means that interns will work between their assigned office and home. Interns will be based in the office where their manager and/or team are located, where they will get the most support to ensure collaboration and the best employee experience. Managers and their organization will determine the frequency they need to go into the office to meet priorities.\n\nWhat You’ll Do\n• Design, implement, and optimize backend services and APIs supporting the generative AI platform.\n• Collaborate with AI researchers and engineers to integrate model training, inference, and data processing pipelines.\n• Collaborate with data, modelling, and inference platform teams to optimize, scale up and deliver end-to-end solutions to production.\n• Research and develop CV algorithms/models to generate image and video training data for GenAI foundation models and applications\n• Contribute to system architecture discussions, focusing on performance, reliability, and maintainability.\n• Write clean, efficient, and well-documented code across modern software engineering stacks (e.g., Python, Node.js, or Java).\n\nWhat You Need to Succeed\n• Currently enrolled full time and pursuing a Master’s or PhD degree in Computer Science, Computer Engineering; or equivalent experience required with an expected graduation date of December 2026 – June 2027\n• Deep expertise in computer vision, image processing, video processing, and machine learning for Generative AI.\n• Strong understanding of software engineering fundamentals, including data structures, algorithms, and distributed system design.\n• Proficient in one or more programming languages such as Python, Java and C++\n• Curiosity and initiative to explore generative AI technologies, with the ability to learn quickly and collaborate effectively in a fast-paced environment.\n• Excellent communication, relationship skills and a team player\n• Ability to participate in a full-time internship between May-September\n\nAdobe is proud to be an Equal Employment Opportunity and affirmative action employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more.\n\nAdobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.\n\nAdobe values a free and open marketplace for all employees and has policies in place to ensure that we do not enter into illegal agreements with other companies to not recruit or hire each other’s employees.\n\nOur compensation reflects the cost of labor across several  U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $45.00 -- $61.00 hourly. Your recruiter can share more about the specific pay rate for your job location during the hiring process.\n\nState-Specific Notices:\n\nCalifornia:\n\nFair Chance Ordinances\n\nAdobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.\n\nColorado:\n\nApplication Window Notice\n\nIf this role is open to hiring in Colorado (as listed on the job posting), the application window will remain open until at least the date and time stated above in Pacific Time, in compliance with Colorado pay transparency regulations. If this role does not have Colorado listed as a hiring location, no specific application window applies, and the posting may close at any time based on hiring needs.\n\nMassachusetts:\n\nMassachusetts Legal Notice\n\nIt is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.\n\nAdobe is proud to be an Equal Employment Opportunity employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more.\n\nAdobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.",
+    "job_is_remote": false,
+    "job_posted_at": "11 days ago",
+    "job_posted_at_timestamp": 1770076800,
+    "job_posted_at_datetime_utc": "2026-02-03T00:00:00.000Z",
+    "job_location": "San Jose, CA",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.33874,
+    "job_longitude": -121.88525249999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Ds6gOamMD7eYIsgngAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Currently enrolled full time and pursuing a Master’s or PhD degree in Computer Science, Computer Engineering; or equivalent experience required with an expected graduation date of December 2026 – June 2027",
+        "Deep expertise in computer vision, image processing, video processing, and machine learning for Generative AI",
+        "Strong understanding of software engineering fundamentals, including data structures, algorithms, and distributed system design",
+        "Proficient in one or more programming languages such as Python, Java and C++",
+        "Curiosity and initiative to explore generative AI technologies, with the ability to learn quickly and collaborate effectively in a fast-paced environment",
+        "Excellent communication, relationship skills and a team player",
+        "Ability to participate in a full-time internship between May-September"
+      ],
+      "Benefits": [
+        "The U.S. pay range for this position is $45.00 -- $61.00 hourly",
+        "Your recruiter can share more about the specific pay rate for your job location during the hiring process"
+      ],
+      "Responsibilities": [
+        "By using predictive models, experimental design methods, and optimization techniques, the candidate will research, experiment, develop, and optimize CV algorithms/models that understand, generate and enhance data for training pioneering image and video foundation models powered by data, training, and inference infrastructures",
+        "This means that interns will work between their assigned office and home",
+        "Interns will be based in the office where their manager and/or team are located, where they will get the most support to ensure collaboration and the best employee experience",
+        "Managers and their organization will determine the frequency they need to go into the office to meet priorities",
+        "Design, implement, and optimize backend services and APIs supporting the generative AI platform",
+        "Collaborate with AI researchers and engineers to integrate model training, inference, and data processing pipelines",
+        "Collaborate with data, modelling, and inference platform teams to optimize, scale up and deliver end-to-end solutions to production",
+        "Research and develop CV algorithms/models to generate image and video training data for GenAI foundation models and applications",
+        "Contribute to system architecture discussions, focusing on performance, reliability, and maintainability",
+        "Write clean, efficient, and well-documented code across modern software engineering stacks (e.g., Python, Node.js, or Java)"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "careers-adobe-com-us-en-job-r160469-2026-ai-ml-intern-machine-learning-engineer-intern",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "REgpq0Y40-nxoCBaAAAAAA==",
     "job_title": "ML / AI Software Engineer - C++ Metrics Frameworks",
     "employer_name": "General Motors",
@@ -1344,110 +1369,6 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "search-careers-gm-com-en-jobs-jr-202517415-ml-ai-software-engineer-c-metrics-frameworks",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "s6gOamMD7eYIsgngAAAAAA==",
-    "job_title": "2026 AI/ML Intern - Machine Learning Engineer Intern",
-    "employer_name": "Adobe",
-    "employer_logo": null,
-    "employer_website": "https://www.adobe.com",
-    "job_publisher": "Adobe Careers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R160469/2026-AI-ML-Intern-Machine-Learning-Engineer-Intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Adobe Careers",
-        "apply_link": "https://careers.adobe.com/us/en/job/R160469/2026-AI-ML-Intern-Machine-Learning-Engineer-Intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Workday",
-        "apply_link": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160469?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/2026-ai-ml-intern-machine-learning-engineer-intern-adobe-JV_IC1147436_KO0,50_KE51,56.htm?jl=1009938923387&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Adobe/Job/2026-AI-ML-Intern-Machine-Learning-Engineer-Intern/-in-San-Jose,CA?jid=bf8eab120bf0cd68&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=99671e8d6162f96c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Dice",
-        "apply_link": "https://www.dice.com/job-detail/815d3fe6-02be-4205-b063-1054e0b3d133?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Local Job Network",
-        "apply_link": "https://jobs.localjobnetwork.com/job/detail/85481829/2026-AI-ML-Intern-Machine-Learning-Engineer-Intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/2026-ai-ml-intern-machine-learning-engineer_7ea1a4339c3c5435ffe1a624c46dedc37a8ee?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Our Company\n\nChanging the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.\n\nWe’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours!\n\nThe Opportunity\n\nAdobe is looking for a Machine Learning intern who will apply AI and machine learning techniques to big-data problems to help Adobe better understand, lead and optimize the experience of its customers.\n\nAt Adobe Firefly, we build foundation generative models for image, video, and other modalities that power the suite of products at Adobe. By using predictive models, experimental design methods, and optimization techniques, the candidate will research, experiment, develop, and optimize CV algorithms/models that understand, generate and enhance data for training pioneering image and video foundation models powered by data, training, and inference infrastructures.\n\nAll 2025 Adobe interns will be co-located hybrid. This means that interns will work between their assigned office and home. Interns will be based in the office where their manager and/or team are located, where they will get the most support to ensure collaboration and the best employee experience. Managers and their organization will determine the frequency they need to go into the office to meet priorities.\n\nWhat You’ll Do\n• Design, implement, and optimize backend services and APIs supporting the generative AI platform.\n• Collaborate with AI researchers and engineers to integrate model training, inference, and data processing pipelines.\n• Collaborate with data, modelling, and inference platform teams to optimize, scale up and deliver end-to-end solutions to production.\n• Research and develop CV algorithms/models to generate image and video training data for GenAI foundation models and applications\n• Contribute to system architecture discussions, focusing on performance, reliability, and maintainability.\n• Write clean, efficient, and well-documented code across modern software engineering stacks (e.g., Python, Node.js, or Java).\n\nWhat You Need to Succeed\n• Currently enrolled full time and pursuing a Master’s or PhD degree in Computer Science, Computer Engineering; or equivalent experience required with an expected graduation date of December 2026 – June 2027\n• Deep expertise in computer vision, image processing, video processing, and machine learning for Generative AI.\n• Strong understanding of software engineering fundamentals, including data structures, algorithms, and distributed system design.\n• Proficient in one or more programming languages such as Python, Java and C++\n• Curiosity and initiative to explore generative AI technologies, with the ability to learn quickly and collaborate effectively in a fast-paced environment.\n• Excellent communication, relationship skills and a team player\n• Ability to participate in a full-time internship between May-September\n\nAdobe is proud to be an Equal Employment Opportunity and affirmative action employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more.\n\nAdobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.\n\nAdobe values a free and open marketplace for all employees and has policies in place to ensure that we do not enter into illegal agreements with other companies to not recruit or hire each other’s employees.\n\nOur compensation reflects the cost of labor across several  U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $45.00 -- $61.00 hourly. Your recruiter can share more about the specific pay rate for your job location during the hiring process.\n\nState-Specific Notices:\n\nCalifornia:\n\nFair Chance Ordinances\n\nAdobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.\n\nColorado:\n\nApplication Window Notice\n\nIf this role is open to hiring in Colorado (as listed on the job posting), the application window will remain open until at least the date and time stated above in Pacific Time, in compliance with Colorado pay transparency regulations. If this role does not have Colorado listed as a hiring location, no specific application window applies, and the posting may close at any time based on hiring needs.\n\nMassachusetts:\n\nMassachusetts Legal Notice\n\nIt is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.\n\nAdobe is proud to be an Equal Employment Opportunity employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more.\n\nAdobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.",
-    "job_is_remote": false,
-    "job_posted_at": "11 days ago",
-    "job_posted_at_timestamp": 1770076800,
-    "job_posted_at_datetime_utc": "2026-02-03T00:00:00.000Z",
-    "job_location": "San Jose, CA",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.33874,
-    "job_longitude": -121.88525249999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Ds6gOamMD7eYIsgngAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Currently enrolled full time and pursuing a Master’s or PhD degree in Computer Science, Computer Engineering; or equivalent experience required with an expected graduation date of December 2026 – June 2027",
-        "Deep expertise in computer vision, image processing, video processing, and machine learning for Generative AI",
-        "Strong understanding of software engineering fundamentals, including data structures, algorithms, and distributed system design",
-        "Proficient in one or more programming languages such as Python, Java and C++",
-        "Curiosity and initiative to explore generative AI technologies, with the ability to learn quickly and collaborate effectively in a fast-paced environment",
-        "Excellent communication, relationship skills and a team player",
-        "Ability to participate in a full-time internship between May-September"
-      ],
-      "Benefits": [
-        "The U.S. pay range for this position is $45.00 -- $61.00 hourly",
-        "Your recruiter can share more about the specific pay rate for your job location during the hiring process"
-      ],
-      "Responsibilities": [
-        "By using predictive models, experimental design methods, and optimization techniques, the candidate will research, experiment, develop, and optimize CV algorithms/models that understand, generate and enhance data for training pioneering image and video foundation models powered by data, training, and inference infrastructures",
-        "This means that interns will work between their assigned office and home",
-        "Interns will be based in the office where their manager and/or team are located, where they will get the most support to ensure collaboration and the best employee experience",
-        "Managers and their organization will determine the frequency they need to go into the office to meet priorities",
-        "Design, implement, and optimize backend services and APIs supporting the generative AI platform",
-        "Collaborate with AI researchers and engineers to integrate model training, inference, and data processing pipelines",
-        "Collaborate with data, modelling, and inference platform teams to optimize, scale up and deliver end-to-end solutions to production",
-        "Research and develop CV algorithms/models to generate image and video training data for GenAI foundation models and applications",
-        "Contribute to system architecture discussions, focusing on performance, reliability, and maintainability",
-        "Write clean, efficient, and well-documented code across modern software engineering stacks (e.g., Python, Node.js, or Java)"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "careers-adobe-com-us-en-job-r160469-2026-ai-ml-intern-machine-learning-engineer-intern",
     "_source": "new_jobs"
   },
   {
@@ -1925,7 +1846,7 @@
     "job_title": "Sr Applied AI/ML Engineer",
     "employer_name": "The Hartford Financial Services Group, Inc.",
     "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6e4bisJ-_4gcHTHn5gBD9HClk154Q0o7XocXq&s=0",
-    "employer_website": "https://www.thehartford.com",
+    "employer_website": "https://ir.thehartford.com",
     "job_publisher": "Built In Chicago",
     "job_employment_type": "Full-time",
     "job_employment_types": [
@@ -2184,7 +2105,7 @@
     "job_title": "Sr. Machine Learning Engineer, Monetization Engineering",
     "employer_name": "Pinterest",
     "employer_logo": null,
-    "employer_website": "https://www.pinterest.com",
+    "employer_website": "https://business.pinterest.com",
     "job_publisher": "Pinterest Careers",
     "job_employment_type": "Full-time",
     "job_employment_types": [
@@ -2352,8 +2273,8 @@
     "job_longitude": -71.0565364,
     "job_benefits": [
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DJEIGZ9Meb6ygOcQGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
