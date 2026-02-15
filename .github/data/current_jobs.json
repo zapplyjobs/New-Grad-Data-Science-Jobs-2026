@@ -205,8 +205,8 @@
     "job_latitude": 40.2109404,
     "job_longitude": -75.27823169999999,
     "job_benefits": [
-      "dental_coverage",
       "health_insurance",
+      "dental_coverage",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUlNjjwFWJI7rZQiAAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -253,6 +253,105 @@
     "job_onet_soc": "19203200",
     "job_onet_job_zone": "5",
     "id": "jobs-merck-com-us-en-job-r384647-associate-principal-scientist-outcomes-research",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "4aPC4LW4GeF0w43DAAAAAA==",
+    "job_title": "CT Research Scientist Intern",
+    "employer_name": "Canon Medical Research USA, Inc",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxAw9vzjivPViAl3MZidH3xMDE3bjZ0u8Y0tBS&s=0",
+    "employer_website": "https://www.research.us.medical.canon",
+    "job_publisher": "Indeed",
+    "job_employment_type": "Full-time and Internship",
+    "job_employment_types": [
+      "FULLTIME",
+      "INTERN"
+    ],
+    "job_apply_link": "https://www.indeed.com/viewjob?jk=ed11bd299005c335&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=ed11bd299005c335&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/ct-research-scientist-intern-at-canon-medical-research-usa-inc-cmru-4369411243?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/046a6f5bd460561fd28a1c0a93f11dce?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/ct-research-scientist-intern-canon-medical-systems-usa-JV_IC1128989_KO0,28_KE29,54.htm?jl=1010023570898&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/poPfRa9ObbePWywuUbt0fAJHwyM53pSmN94FR2rslsi32nzWLmS8Cw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/6983f8b5348f733a5c379e24?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "KGET Jobs",
+        "apply_link": "https://jobs.kget.com/jobs/ct-research-scientist-intern-vernon-hills-illinois/2617299799-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Lensa",
+        "apply_link": "https://lensa.com/job-v1/canon-medical-research-usa-inc/vernon-hills-il/research-scientist-intern/ac55dccbbdcc316b7607db5c38811332?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Canon Medical Research USA, Inc. (CMRU) is proud to announce the launch of our 2026 ADVANCE internship program. Students will contribute at the forefront of innovation in medical imaging working alongside leading scientists and engineers as we develop and deliver the latest technology to our parent company Canon Medical Systems Corporation.\n\nThe ADVANCE Program is a structured program with goals and expectations designed to provide students with an opportunity to gain hands-on work experience by participating in significant work projects. Students will take on assignments throughout the term related to CMRU project needs depending on their skills and interests. The goal of these activities is to make important contributions to CMRU programs while at the same time significantly advancing the student’s professional and personal development.\n\nSUMMARY OF POSITION\n\nCMRU is looking for one qualified intern to join our Computed Tomography (CT) research department where the student will participate in exciting projects using latest technology for medical imaging. Students will be mentored by leading experts in the field to gain hands-on experience to develop and validate products, explore the full potential for various clinical applications and features, and contribute to the next generation of spectral CT system. This internship offers a great opportunity to see how your research ideas can come to life and make a difference in countries around the world.\n\nRESPONSIBILITIES\n• Develop advanced algorithms to address complex research problems in Computed Tomography.\n• Investigate Deep-Learning based method to solve challenging image reconstruction or image processing tasks.\n• Design and implement advanced algorithms for next-generation products, such as Photon Counting CT.\n• Summarize work in the form of reports and presentations.\n\nQUALIFICATIONS\n• The ideal candidate is a full-time graduate student at an accredited college or university working towards an M.S. or Ph.D. in Biomedical Engineering, Electrical Engineering, Computer Science, Medical Physics, Physics or related field in STEM.\n• Students must be eligible to work in the U.S.\n• Strong background in image reconstruction, signal and image processing, machine learning, and computer vision.\n• Good understanding of X-ray physics and system. Familiar with spectral CT/Photon-counting CT related system design, calibration and image formation chain is a plus.\n• Hands on experience in AI/Deep Learning is strongly preferred. Familiar with at least one neural network training framework such as PyTorch or TensorFlow.\n• Knowledge of CT clinical applications and anatomy is a plus.\n• Strong analytical and programming skills in languages such as C/C++/Python/MATLAB, etc.\n\nTime Commitment\n\nThis is a full-time, temporary position that requires a minimum commitment of 12 weeks and 37.5 hours per week, Monday-Friday during regular business hours. This is a hybrid position, which requires in-office work at least 3 days per week.\n\nCOMPANY DESCRIPTION\n\nCanon Medical Research USA, Inc. (CMRU) is a multi-modality R&D organization creating next-generation medical imaging systems. It is equipped with cutting-edge instrumentation, prototyping, hardware labs and scientific computing facilities to perform research targeted to pre-clinical and clinical CT, PET, MRI, X-ray and Ultrasound systems. For those who like to develop new technologies and research new ways of using them, Canon is a rewarding place to work, due to its focus on innovation as the lifeblood of new products.\n\nCMRU is committed to recognizing and appreciating the variety of characteristics that make individuals unique in an atmosphere that promotes work/life balance and celebrates individual and collective achievement. We are especially interested in qualified candidates who can contribute, through their experience, education, research and/or service, to the diversity and excellence of our organization and to the scientific and engineering community at large. We offer a great work environment, including a hybrid work schedule.",
+    "job_is_remote": false,
+    "job_posted_at": "10 days ago",
+    "job_posted_at_timestamp": 1770249600,
+    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
+    "job_location": "Vernon Hills, IL",
+    "job_city": "Vernon Hills",
+    "job_state": "Illinois",
+    "job_country": "US",
+    "job_latitude": 42.2393323,
+    "job_longitude": -87.9653565,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4aPC4LW4GeF0w43DAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 31,
+    "job_max_salary": 37,
+    "job_salary_period": "HOUR",
+    "job_highlights": {
+      "Qualifications": [
+        "The ideal candidate is a full-time graduate student at an accredited college or university working towards an M.S. or Ph.D. in Biomedical Engineering, Electrical Engineering, Computer Science, Medical Physics, Physics or related field in STEM",
+        "Students must be eligible to work in the U.S",
+        "Strong background in image reconstruction, signal and image processing, machine learning, and computer vision",
+        "Good understanding of X-ray physics and system",
+        "Familiar with at least one neural network training framework such as PyTorch or TensorFlow",
+        "Strong analytical and programming skills in languages such as C/C++/Python/MATLAB, etc",
+        "Time Commitment",
+        "This is a full-time, temporary position that requires a minimum commitment of 12 weeks and 37.5 hours per week, Monday-Friday during regular business hours",
+        "This is a hybrid position, which requires in-office work at least 3 days per week"
+      ],
+      "Responsibilities": [
+        "Students will take on assignments throughout the term related to CMRU project needs depending on their skills and interests",
+        "The goal of these activities is to make important contributions to CMRU programs while at the same time significantly advancing the student’s professional and personal development",
+        "Students will be mentored by leading experts in the field to gain hands-on experience to develop and validate products, explore the full potential for various clinical applications and features, and contribute to the next generation of spectral CT system",
+        "Develop advanced algorithms to address complex research problems in Computed Tomography",
+        "Investigate Deep-Learning based method to solve challenging image reconstruction or image processing tasks",
+        "Design and implement advanced algorithms for next-generation products, such as Photon Counting CT",
+        "Summarize work in the form of reports and presentations"
+      ]
+    },
+    "job_onet_soc": "19203200",
+    "job_onet_job_zone": "5",
+    "id": "www-indeed-com-viewjob",
     "_source": "new_jobs"
   },
   {
@@ -370,105 +469,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "4aPC4LW4GeF0w43DAAAAAA==",
-    "job_title": "CT Research Scientist Intern",
-    "employer_name": "Canon Medical Research USA, Inc",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxAw9vzjivPViAl3MZidH3xMDE3bjZ0u8Y0tBS&s=0",
-    "employer_website": "https://www.research.us.medical.canon",
-    "job_publisher": "Indeed",
-    "job_employment_type": "Full-time and Internship",
-    "job_employment_types": [
-      "FULLTIME",
-      "INTERN"
-    ],
-    "job_apply_link": "https://www.indeed.com/viewjob?jk=ed11bd299005c335&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=ed11bd299005c335&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/ct-research-scientist-intern-at-canon-medical-research-usa-inc-cmru-4369411243?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/046a6f5bd460561fd28a1c0a93f11dce?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/ct-research-scientist-intern-canon-medical-systems-usa-JV_IC1128989_KO0,28_KE29,54.htm?jl=1010023570898&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/poPfRa9ObbePWywuUbt0fAJHwyM53pSmN94FR2rslsi32nzWLmS8Cw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/6983f8b5348f733a5c379e24?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "KGET Jobs",
-        "apply_link": "https://jobs.kget.com/jobs/ct-research-scientist-intern-vernon-hills-illinois/2617299799-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Lensa",
-        "apply_link": "https://lensa.com/job-v1/canon-medical-research-usa-inc/vernon-hills-il/research-scientist-intern/ac55dccbbdcc316b7607db5c38811332?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Canon Medical Research USA, Inc. (CMRU) is proud to announce the launch of our 2026 ADVANCE internship program. Students will contribute at the forefront of innovation in medical imaging working alongside leading scientists and engineers as we develop and deliver the latest technology to our parent company Canon Medical Systems Corporation.\n\nThe ADVANCE Program is a structured program with goals and expectations designed to provide students with an opportunity to gain hands-on work experience by participating in significant work projects. Students will take on assignments throughout the term related to CMRU project needs depending on their skills and interests. The goal of these activities is to make important contributions to CMRU programs while at the same time significantly advancing the student’s professional and personal development.\n\nSUMMARY OF POSITION\n\nCMRU is looking for one qualified intern to join our Computed Tomography (CT) research department where the student will participate in exciting projects using latest technology for medical imaging. Students will be mentored by leading experts in the field to gain hands-on experience to develop and validate products, explore the full potential for various clinical applications and features, and contribute to the next generation of spectral CT system. This internship offers a great opportunity to see how your research ideas can come to life and make a difference in countries around the world.\n\nRESPONSIBILITIES\n• Develop advanced algorithms to address complex research problems in Computed Tomography.\n• Investigate Deep-Learning based method to solve challenging image reconstruction or image processing tasks.\n• Design and implement advanced algorithms for next-generation products, such as Photon Counting CT.\n• Summarize work in the form of reports and presentations.\n\nQUALIFICATIONS\n• The ideal candidate is a full-time graduate student at an accredited college or university working towards an M.S. or Ph.D. in Biomedical Engineering, Electrical Engineering, Computer Science, Medical Physics, Physics or related field in STEM.\n• Students must be eligible to work in the U.S.\n• Strong background in image reconstruction, signal and image processing, machine learning, and computer vision.\n• Good understanding of X-ray physics and system. Familiar with spectral CT/Photon-counting CT related system design, calibration and image formation chain is a plus.\n• Hands on experience in AI/Deep Learning is strongly preferred. Familiar with at least one neural network training framework such as PyTorch or TensorFlow.\n• Knowledge of CT clinical applications and anatomy is a plus.\n• Strong analytical and programming skills in languages such as C/C++/Python/MATLAB, etc.\n\nTime Commitment\n\nThis is a full-time, temporary position that requires a minimum commitment of 12 weeks and 37.5 hours per week, Monday-Friday during regular business hours. This is a hybrid position, which requires in-office work at least 3 days per week.\n\nCOMPANY DESCRIPTION\n\nCanon Medical Research USA, Inc. (CMRU) is a multi-modality R&D organization creating next-generation medical imaging systems. It is equipped with cutting-edge instrumentation, prototyping, hardware labs and scientific computing facilities to perform research targeted to pre-clinical and clinical CT, PET, MRI, X-ray and Ultrasound systems. For those who like to develop new technologies and research new ways of using them, Canon is a rewarding place to work, due to its focus on innovation as the lifeblood of new products.\n\nCMRU is committed to recognizing and appreciating the variety of characteristics that make individuals unique in an atmosphere that promotes work/life balance and celebrates individual and collective achievement. We are especially interested in qualified candidates who can contribute, through their experience, education, research and/or service, to the diversity and excellence of our organization and to the scientific and engineering community at large. We offer a great work environment, including a hybrid work schedule.",
-    "job_is_remote": false,
-    "job_posted_at": "10 days ago",
-    "job_posted_at_timestamp": 1770249600,
-    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
-    "job_location": "Vernon Hills, IL",
-    "job_city": "Vernon Hills",
-    "job_state": "Illinois",
-    "job_country": "US",
-    "job_latitude": 42.2393323,
-    "job_longitude": -87.9653565,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4aPC4LW4GeF0w43DAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 31,
-    "job_max_salary": 37,
-    "job_salary_period": "HOUR",
-    "job_highlights": {
-      "Qualifications": [
-        "The ideal candidate is a full-time graduate student at an accredited college or university working towards an M.S. or Ph.D. in Biomedical Engineering, Electrical Engineering, Computer Science, Medical Physics, Physics or related field in STEM",
-        "Students must be eligible to work in the U.S",
-        "Strong background in image reconstruction, signal and image processing, machine learning, and computer vision",
-        "Good understanding of X-ray physics and system",
-        "Familiar with at least one neural network training framework such as PyTorch or TensorFlow",
-        "Strong analytical and programming skills in languages such as C/C++/Python/MATLAB, etc",
-        "Time Commitment",
-        "This is a full-time, temporary position that requires a minimum commitment of 12 weeks and 37.5 hours per week, Monday-Friday during regular business hours",
-        "This is a hybrid position, which requires in-office work at least 3 days per week"
-      ],
-      "Responsibilities": [
-        "Students will take on assignments throughout the term related to CMRU project needs depending on their skills and interests",
-        "The goal of these activities is to make important contributions to CMRU programs while at the same time significantly advancing the student’s professional and personal development",
-        "Students will be mentored by leading experts in the field to gain hands-on experience to develop and validate products, explore the full potential for various clinical applications and features, and contribute to the next generation of spectral CT system",
-        "Develop advanced algorithms to address complex research problems in Computed Tomography",
-        "Investigate Deep-Learning based method to solve challenging image reconstruction or image processing tasks",
-        "Design and implement advanced algorithms for next-generation products, such as Photon Counting CT",
-        "Summarize work in the form of reports and presentations"
-      ]
-    },
-    "job_onet_soc": "19203200",
-    "job_onet_job_zone": "5",
-    "id": "www-indeed-com-viewjob",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "M-w5p_mVfW8uLOjbAAAAAA==",
     "job_title": "Principal Research Scientist",
     "employer_name": "Leidos",
@@ -558,110 +558,82 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "KtjBazJW__jDmJCUAAAAAA==",
-    "job_title": "Research Scientist, Quantum Error Correction",
-    "employer_name": "Google",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXVzIcuTnI8nfLzaUnX4DCqUeWuRBe0OsL_Kw4&s=0",
-    "employer_website": null,
-    "job_publisher": "LinkedIn",
+    "job_id": "XHQ18Cg6gWYU086TAAAAAA==",
+    "job_title": "Research Scientist Intern (2025) - Now Hiring",
+    "employer_name": "Whiterabbit.ai",
+    "employer_logo": null,
+    "employer_website": "https://www.whiterabbit.ai",
+    "job_publisher": "Snagajob",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/research-scientist-quantum-error-correction-at-google-4371384902?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.snagajob.com/jobs/1144852341?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/research-scientist-quantum-error-correction-at-google-4371384902?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Snagajob",
+        "apply_link": "https://www.snagajob.com/jobs/1144852341?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
-      },
-      {
-        "publisher": "LocalJobs.com",
-        "apply_link": "https://www.localjobs.com/job/san-francisco-ca-research-scientist-quantum-error-correction?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/698dc9d878b4502f12a48bca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/oXFcqo9ieeN0vPlxkcs3_feK0BffpCoFWKvooiSLn1I7U6_Ryeu9fA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=b1cb0d104281&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/san-francisco/california/info_technology/4853988004/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Trabajo.org",
-        "apply_link": "https://us.trabajo.org/job-4112-7c7e19696be3009f8a91d3a58315a665?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
       }
     ],
-    "job_description": "Applicants in the County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.\n\nApplicants in San Francisco: Qualified applications with arrest or conviction records will be considered for employment in accordance with the San Francisco Fair Chance Ordinance for Employers and the California Fair Chance Act.\n\nIn accordance with Washington state law, we are highlighting our comprehensive benefits package, which is available to all eligible US based employees. Benefits for this role include:\n• Health, dental, vision, life, disability insurance\n• Retirement Benefits: 401(k) with company match\n• Paid Time Off: 20 days of vacation per year, accruing at a rate of 6.15 hours per pay period for the first five years of employment\n• Sick Time: 40 hours/year (statutory, where applicable); 5 days/event (discretionary)\n• Maternity Leave (Short-Term Disability + Baby Bonding): 28-30 weeks\n• Baby Bonding Leave: 18 weeks\n• Holidays: 13 paid days per year\n\nNote: By applying to this position you will have an opportunity to share your preferred working location from the following: Goleta, CA, USA; Cambridge, MA, USA; Los Angeles, CA, USA; Mountain View, CA, USA; Seattle, WA, USA; San Francisco, CA, USA.Minimum qualifications:\n• PhD degree in Quantum Computing domain, such as Math, Physics, Computer Science, Electrical Engineering, or equivalent practical experience.\n• Research publication experience in quantum error correction.\n\nPreferred qualifications:\n• 1 year of experience owning and initiating research agendas.\n\nAbout The Job\n\nAs a Quantum Research Scientist, you will develop quantum error correction (QEC) schemes for fault-tolerant quantum computing, specifically focusing on superconducting qubits and high-connectivity platforms. You will develop and analyze QEC for modular architectures, addressing challenges such as entangling links between chips that are slower or more faulty than on-chip gates. Your role involves developing fault-tolerant circuits for logical gates while navigating hardware tradeoffs on connectivity and engineering higher accuracy decoding algorithms for high-connectivity codes, such as Low-Density Parity-Check (LDPC) codes.\n\nBeyond the technical design, you will contribute to the wider research community by sharing and publishing your findings. These contributions will be inspired by internal projects as well as through active collaborations with research programs at partner universities and technical institutes globally.\n\nThe full potential of quantum computing will be unlocked with a large-scale computer capable of complex, error-corrected computations. Google Quantum AI's mission is to build this computer and unlock solutions to classically intractable problems. Our roadmap is focused on advancing the capabilities of quantum computing and enabling meaningful applications.\n\nThe US base salary range for this full-time position is $141,000-$202,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.\n\nPlease note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .\n\nResponsibilities\n• Develop new quantum codes that achieve high encoding rate, high distance, and/or favorable layout in hardware. Important examples include LDPC codes and yoked encoding schemes. Adapt error correction circuits to hardware constraints on connectivity.\n• Analyze fault-tolerant circuits for syndrome measurement and logical operations.\n• Simulate quantum codes under noise models and evaluate performance.\n\nGoogle is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .",
+    "job_description": "We are looking for a Research Scientist Intern to push the state of the art of our AI models. As a Research Scientist Intern at Whiterabbit.ai, you will:\n• Play a key role in architecting the algorithms and models that will power our products\n• Train on a dedicated high-performance compute cluster specialized for deep learning research\n• Work with doctors and healthcare professionals to identify serious problems and leverage their domain expertise to build robust solutions\n• Remain an active contributor to the research community by partnering with universities and publishing high impact papers\n\nWho we are:\n\nOur mission at Whiterabbit.ai is to save lives and eliminate suffering through the early detection of cancer with artificial intelligence. We collaborate closely with one of the top medical schools in the country and have exclusive access to one of the world’s largest cancer datasets with millions of images. We invent algorithms that make doctors more productive, more accurate, and more capable. We build products and services with a relentless focus on transforming the patient’s healthcare experience.\n\nResponsibilities\n• Develop highly scalable classifiers and detectors that solve real-world problems\n• Learn and understand a large body of research in deep learning and machine learning\n• Participate in cutting-edge research for medical applications of computer vision\n\nMust Have Experience\n• Experience with deep learning and convolutional networks\n• Strong theoretical and empirical research background\n• Fluency with a deep learning framework and Python\n\nNice to Have Experience\n• Contributions to research communities and efforts, such as publications at conferences like CVPR, NeurIPS, ICCV, ECCV, ICML, and ICLR\n• Large scale machine learning experience working with terabytes of data\n• Implemented custom operations/modules in a deep learning framework\n• Imagination, ambition, and curiosity\n\nWe are looking for a Research Scientist Intern to push the state of the art of our AI models. As a Research Scientist Intern at Whiterabbit.ai, you will:\n• Play a key role in architecting the algorithms and models that will power our products\n• Train on a dedicated high-performance compute cluster specialized for deep learning research\n• Work with doctors and healthcare professionals to identify serious problems and leverage their domain expertise to build robust solutions\n• Remain an active contributor to the research community by partnering with universities and publishing high impact papers\n\nWho we are:\n\nOur mission at Whiterabbit.ai is to save lives and eliminate suffering through the early detection of cancer with artificial intelligence. We collaborate closely with one of the top medical schools in the country and have exclusive access to one of the world’s largest cancer datasets with millions of images. We invent algorithms that make doctors more productive, more accurate, and more capable. We build products and services with a relentless focus on transforming the patient’s healthcare experience.\n\nResponsibilities\n• Develop highly scalable classifiers and detectors that solve real-world problems\n• Learn and understand a large body of research in deep learning and machine learning\n• Participate in cutting-edge research for medical applications of computer vision\n\nMust Have Experience\n• Experience with deep learning and convolutional networks\n• Strong theoretical and empirical research background\n• Fluency with a deep learning framework and Python\n\nNice to Have Experience\n• Contributions to research communities and efforts, such as publications at conferences like CVPR, NeurIPS, ICCV, ECCV, ICML, and ICLR\n• Large scale machine learning experience working with terabytes of data\n• Implemented custom operations/modules in a deep learning framework\n• Imagination, ambition, and curiosity",
     "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "San Francisco, CA",
-    "job_city": "San Francisco",
-    "job_state": "California",
+    "job_posted_at": "1 day ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Salt Lake City, UT",
+    "job_city": "Salt Lake City",
+    "job_state": "Utah",
     "job_country": "US",
-    "job_latitude": 37.7749295,
-    "job_longitude": -122.4194155,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DKtjBazJW__jDmJCUAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 141000,
-    "job_max_salary": 202000,
-    "job_salary_period": "YEAR",
+    "job_latitude": 40.7605601,
+    "job_longitude": -111.8881397,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DXHQ18Cg6gWYU086TAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "PhD degree in Quantum Computing domain, such as Math, Physics, Computer Science, Electrical Engineering, or equivalent practical experience",
-        "Research publication experience in quantum error correction"
-      ],
-      "Benefits": [
-        "Health, dental, vision, life, disability insurance",
-        "Retirement Benefits: 401(k) with company match",
-        "Paid Time Off: 20 days of vacation per year, accruing at a rate of 6.15 hours per pay period for the first five years of employment",
-        "Sick Time: 40 hours/year (statutory, where applicable); 5 days/event (discretionary)",
-        "Maternity Leave (Short-Term Disability + Baby Bonding): 28-30 weeks",
-        "Baby Bonding Leave: 18 weeks",
-        "Holidays: 13 paid days per year",
-        "The US base salary range for this full-time position is $141,000-$202,000 + bonus + equity + benefits",
-        "Our salary ranges are determined by role, level, and location",
-        "Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training",
-        "Your recruiter can share more about the specific salary range for your preferred location during the hiring process"
+        "Must Have Experience",
+        "Experience with deep learning and convolutional networks",
+        "Strong theoretical and empirical research background",
+        "Fluency with a deep learning framework and Python",
+        "Contributions to research communities and efforts, such as publications at conferences like CVPR, NeurIPS, ICCV, ECCV, ICML, and ICLR",
+        "Large scale machine learning experience working with terabytes of data",
+        "Implemented custom operations/modules in a deep learning framework",
+        "Imagination, ambition, and curiosity",
+        "We are looking for a Research Scientist Intern to push the state of the art of our AI models",
+        "Must Have Experience",
+        "Experience with deep learning and convolutional networks",
+        "Strong theoretical and empirical research background",
+        "Fluency with a deep learning framework and Python",
+        "Contributions to research communities and efforts, such as publications at conferences like CVPR, NeurIPS, ICCV, ECCV, ICML, and ICLR",
+        "Large scale machine learning experience working with terabytes of data",
+        "Implemented custom operations/modules in a deep learning framework",
+        "Imagination, ambition, and curiosity"
       ],
       "Responsibilities": [
-        "As a Quantum Research Scientist, you will develop quantum error correction (QEC) schemes for fault-tolerant quantum computing, specifically focusing on superconducting qubits and high-connectivity platforms",
-        "You will develop and analyze QEC for modular architectures, addressing challenges such as entangling links between chips that are slower or more faulty than on-chip gates",
-        "Your role involves developing fault-tolerant circuits for logical gates while navigating hardware tradeoffs on connectivity and engineering higher accuracy decoding algorithms for high-connectivity codes, such as Low-Density Parity-Check (LDPC) codes",
-        "Beyond the technical design, you will contribute to the wider research community by sharing and publishing your findings",
-        "These contributions will be inspired by internal projects as well as through active collaborations with research programs at partner universities and technical institutes globally",
-        "The full potential of quantum computing will be unlocked with a large-scale computer capable of complex, error-corrected computations",
-        "Develop new quantum codes that achieve high encoding rate, high distance, and/or favorable layout in hardware",
-        "Important examples include LDPC codes and yoked encoding schemes",
-        "Adapt error correction circuits to hardware constraints on connectivity",
-        "Analyze fault-tolerant circuits for syndrome measurement and logical operations",
-        "Simulate quantum codes under noise models and evaluate performance"
+        "Play a key role in architecting the algorithms and models that will power our products",
+        "Train on a dedicated high-performance compute cluster specialized for deep learning research",
+        "Work with doctors and healthcare professionals to identify serious problems and leverage their domain expertise to build robust solutions",
+        "Remain an active contributor to the research community by partnering with universities and publishing high impact papers",
+        "Develop highly scalable classifiers and detectors that solve real-world problems",
+        "Learn and understand a large body of research in deep learning and machine learning",
+        "Participate in cutting-edge research for medical applications of computer vision",
+        "Play a key role in architecting the algorithms and models that will power our products",
+        "Train on a dedicated high-performance compute cluster specialized for deep learning research",
+        "Work with doctors and healthcare professionals to identify serious problems and leverage their domain expertise to build robust solutions",
+        "Remain an active contributor to the research community by partnering with universities and publishing high impact papers",
+        "Develop highly scalable classifiers and detectors that solve real-world problems",
+        "Learn and understand a large body of research in deep learning and machine learning",
+        "Participate in cutting-edge research for medical applications of computer vision"
       ]
     },
-    "job_onet_soc": "19201200",
+    "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
-    "id": "www-linkedin-com-jobs-view-research-scientist-quantum-error-correction-at-google-4371384902",
+    "id": "www-snagajob-com-jobs-1144852341",
     "_source": "new_jobs"
   },
   {
@@ -669,7 +641,7 @@
     "job_title": "Post-Doc Research Associate-Sheikh Lab",
     "employer_name": "University of North Carolina",
     "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrrle4L4d4rnwMSBLNbAHt-Va1-eQ8wLBKronY&s=0",
-    "employer_website": null,
+    "employer_website": "https://www.northcarolina.edu",
     "job_publisher": "WhatJobs",
     "job_employment_type": "Full-time",
     "job_employment_types": [
@@ -975,85 +947,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "XHQ18Cg6gWYU086TAAAAAA==",
-    "job_title": "Research Scientist Intern (2025) - Now Hiring",
-    "employer_name": "Whiterabbit.ai",
-    "employer_logo": null,
-    "employer_website": "https://www.whiterabbit.ai",
-    "job_publisher": "Snagajob",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.snagajob.com/jobs/1144852341?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Snagajob",
-        "apply_link": "https://www.snagajob.com/jobs/1144852341?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "We are looking for a Research Scientist Intern to push the state of the art of our AI models. As a Research Scientist Intern at Whiterabbit.ai, you will:\n• Play a key role in architecting the algorithms and models that will power our products\n• Train on a dedicated high-performance compute cluster specialized for deep learning research\n• Work with doctors and healthcare professionals to identify serious problems and leverage their domain expertise to build robust solutions\n• Remain an active contributor to the research community by partnering with universities and publishing high impact papers\n\nWho we are:\n\nOur mission at Whiterabbit.ai is to save lives and eliminate suffering through the early detection of cancer with artificial intelligence. We collaborate closely with one of the top medical schools in the country and have exclusive access to one of the world’s largest cancer datasets with millions of images. We invent algorithms that make doctors more productive, more accurate, and more capable. We build products and services with a relentless focus on transforming the patient’s healthcare experience.\n\nResponsibilities\n• Develop highly scalable classifiers and detectors that solve real-world problems\n• Learn and understand a large body of research in deep learning and machine learning\n• Participate in cutting-edge research for medical applications of computer vision\n\nMust Have Experience\n• Experience with deep learning and convolutional networks\n• Strong theoretical and empirical research background\n• Fluency with a deep learning framework and Python\n\nNice to Have Experience\n• Contributions to research communities and efforts, such as publications at conferences like CVPR, NeurIPS, ICCV, ECCV, ICML, and ICLR\n• Large scale machine learning experience working with terabytes of data\n• Implemented custom operations/modules in a deep learning framework\n• Imagination, ambition, and curiosity\n\nWe are looking for a Research Scientist Intern to push the state of the art of our AI models. As a Research Scientist Intern at Whiterabbit.ai, you will:\n• Play a key role in architecting the algorithms and models that will power our products\n• Train on a dedicated high-performance compute cluster specialized for deep learning research\n• Work with doctors and healthcare professionals to identify serious problems and leverage their domain expertise to build robust solutions\n• Remain an active contributor to the research community by partnering with universities and publishing high impact papers\n\nWho we are:\n\nOur mission at Whiterabbit.ai is to save lives and eliminate suffering through the early detection of cancer with artificial intelligence. We collaborate closely with one of the top medical schools in the country and have exclusive access to one of the world’s largest cancer datasets with millions of images. We invent algorithms that make doctors more productive, more accurate, and more capable. We build products and services with a relentless focus on transforming the patient’s healthcare experience.\n\nResponsibilities\n• Develop highly scalable classifiers and detectors that solve real-world problems\n• Learn and understand a large body of research in deep learning and machine learning\n• Participate in cutting-edge research for medical applications of computer vision\n\nMust Have Experience\n• Experience with deep learning and convolutional networks\n• Strong theoretical and empirical research background\n• Fluency with a deep learning framework and Python\n\nNice to Have Experience\n• Contributions to research communities and efforts, such as publications at conferences like CVPR, NeurIPS, ICCV, ECCV, ICML, and ICLR\n• Large scale machine learning experience working with terabytes of data\n• Implemented custom operations/modules in a deep learning framework\n• Imagination, ambition, and curiosity",
-    "job_is_remote": false,
-    "job_posted_at": "1 day ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "Salt Lake City, UT",
-    "job_city": "Salt Lake City",
-    "job_state": "Utah",
-    "job_country": "US",
-    "job_latitude": 40.7605601,
-    "job_longitude": -111.8881397,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DXHQ18Cg6gWYU086TAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Must Have Experience",
-        "Experience with deep learning and convolutional networks",
-        "Strong theoretical and empirical research background",
-        "Fluency with a deep learning framework and Python",
-        "Contributions to research communities and efforts, such as publications at conferences like CVPR, NeurIPS, ICCV, ECCV, ICML, and ICLR",
-        "Large scale machine learning experience working with terabytes of data",
-        "Implemented custom operations/modules in a deep learning framework",
-        "Imagination, ambition, and curiosity",
-        "We are looking for a Research Scientist Intern to push the state of the art of our AI models",
-        "Must Have Experience",
-        "Experience with deep learning and convolutional networks",
-        "Strong theoretical and empirical research background",
-        "Fluency with a deep learning framework and Python",
-        "Contributions to research communities and efforts, such as publications at conferences like CVPR, NeurIPS, ICCV, ECCV, ICML, and ICLR",
-        "Large scale machine learning experience working with terabytes of data",
-        "Implemented custom operations/modules in a deep learning framework",
-        "Imagination, ambition, and curiosity"
-      ],
-      "Responsibilities": [
-        "Play a key role in architecting the algorithms and models that will power our products",
-        "Train on a dedicated high-performance compute cluster specialized for deep learning research",
-        "Work with doctors and healthcare professionals to identify serious problems and leverage their domain expertise to build robust solutions",
-        "Remain an active contributor to the research community by partnering with universities and publishing high impact papers",
-        "Develop highly scalable classifiers and detectors that solve real-world problems",
-        "Learn and understand a large body of research in deep learning and machine learning",
-        "Participate in cutting-edge research for medical applications of computer vision",
-        "Play a key role in architecting the algorithms and models that will power our products",
-        "Train on a dedicated high-performance compute cluster specialized for deep learning research",
-        "Work with doctors and healthcare professionals to identify serious problems and leverage their domain expertise to build robust solutions",
-        "Remain an active contributor to the research community by partnering with universities and publishing high impact papers",
-        "Develop highly scalable classifiers and detectors that solve real-world problems",
-        "Learn and understand a large body of research in deep learning and machine learning",
-        "Participate in cutting-edge research for medical applications of computer vision"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-snagajob-com-jobs-1144852341",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "10fU99bwsMBPqJGQAAAAAA==",
     "job_title": "Assoc Prin. Scientist, Chemistry",
     "employer_name": "Merck",
@@ -1120,8 +1013,8 @@
     "job_latitude": 40.6057719,
     "job_longitude": -74.2887287,
     "job_benefits": [
-      "dental_coverage",
       "health_insurance",
+      "dental_coverage",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D10fU99bwsMBPqJGQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -1235,50 +1128,197 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "PWSikMnMG5DorFb_AAAAAA==",
-    "job_title": "Research Scientist/Engineer",
-    "employer_name": "E Ink",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnivW_VaYTS8tuaSFUnDpkQMZ1s65oJBIHen5A&s=0",
-    "employer_website": "https://www.eink.com",
-    "job_publisher": "WhatJobs",
+    "job_id": "OvuDFFfT4DlhZg4kAAAAAA==",
+    "job_title": "Research Scientist, Device Theory, Quantum AI",
+    "employer_name": "Google",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXVzIcuTnI8nfLzaUnX4DCqUeWuRBe0OsL_Kw4&s=0",
+    "employer_website": null,
+    "job_publisher": "LinkedIn",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.whatjobs.com/jobs/research-scientist-engineer?id=2453886215&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/research-scientist-device-theory-quantum-ai-at-google-4370674116?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/research-scientist-device-theory-quantum-ai-at-google-4370674116?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Karkidi",
+        "apply_link": "https://www.karkidi.com/job-details/86896-ai-research-scientist-behavior-beyond-imitation-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/fb6230c39d4bae64cabbf6a6d020d833?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LocalJobs.com",
+        "apply_link": "https://www.localjobs.com/job/mountain-view-ca-research-scientist-device-theory-quantum-ai-0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/69839b9a348f733a5c36b04c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/Ttf_Jc6HwuHrNpqEKuLWZRACpUUxMsEN-ZoC9xIOM6cGwYPoUWkUAQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
         "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/research-scientist-engineer?id=2453886215&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.whatjobs.com/jobs?id=2427264187&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Ziphire",
+        "apply_link": "https://ziphire.hr/job/f74efb3c-4b8b-4909-b699-971ce91cfbd9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Team up with the most innovative company where Imagination becomes reality! E Ink is the originator, pioneer, and commercial leader in ePaper technology. The Billerica Research & Development team is thriving and growing as we help develop products that are changing how people access information every day. We are seeking qualified candidates who are self-driven, looking to advance their career and become a high-impact player on a team.\n\nBased on technology from MIT’s Media Lab, E Ink has transformed and defined the eReader market. Its Electrophoretic Display products make it the worldwide leader for ePaper. The Company’s corporate philosophy aims to deliver revolutionary products, user experiences and environmental benefits through advanced technology development.\n\nOur diversity of people, backgrounds, experiences, thoughts and perspectives is fostered to create an inclusive work environment.\n\nOur culture is built on value commitments to innovation, quality, results, integrity, community, people, and collaboration that fosters a strong employee engagement, teamwork, safety and wellness.\n\nWe offer a competitive/generous benefits package that fits the needs of our employees. It includes health , dental , vision , wellness programs, employee discounts, 401k matches, ongoing development, advancement opportunities and more . This position is also eligible for our bonus program . (see E Ink Our Company)\n\nAbout the position\n\nE Ink is seeking a creative, highly motivated, and hands-on scientist to join our team and conduct leading-edge materials research to support the adoption of E Ink displays in new applications. This role is central to the mission of advancing electrophoretic display technologies by deepening our fundamental understanding of all components of electrophoretic display systems and their interactions. As part of E Ink's Research team, you will also support new display product development through the creation of core test methods and instruments. Activities include designing and executing electro-optical experiments, developing models and drive schemes, training and using deep learning models to improve display performance, and furthering fundamental understanding of display performance. As a key team member, you will be expected to take on challenging exploratory projects that lead to product improvement and new products in a culture of open review and critical discussion. E Ink maintains a lean team where each member has strong visibility and responsibility to meet company goals.\n\nKey Responsibilities\n\nOwnership of and responsibility for initiating, directing, and executing research of drive schemes, including hardware, for performance optimization and new product development Design and execute electro-optical experiments to characterize display performance Develop algorithms and drive schemes for general understanding of how displays work and to guide development of new display materials Develop new electro-optical tests and instruments, including hardware, control electronics, and automation software to support R&D and product development across global teams Develop plans to achieve technical goals and to align them with corporate priorities Work with and contribute to an agile, inspiring and supportive team to rapidly advance project goals and actively pursue contingency plans Create and document intellectual property Qualifications Ph.D. in Electrical Engineering, Physics, Computer Engineering, Applied Math or a related field, or M.S. plus 2-5 years of industrial experience Expertise in one or more of the following or related areas: optimization methods, hardware and electronics, machine learning tools, computational physics, and signals and systems Experience analyzing complex systems using advanced mathematical methods for solving practical problems Proven ability to design, build, and validate embedded systems and complex electronics for electrical or electro-optical test systems from concept to deployment Proficiency with electronic lab tools (oscilloscope, multimeter, function generator, soldering equipment, power supplies etc.), data analysis and automation software Strong problem-solving skills, with a track record of innovative solutions Self-directed, motivated, and hands-on personality. Ability to work in a fast-paced, open-minded, highly interdisciplinary work environment. Excellent teamwork, communication, and interpersonal skills Preferences\n\nExperience with electrokinetic phenomena in complex fluid system\n\nBenefits Competitive total compensation package Medical, dental and vision on 1st day Company 401K match 20 PTO days Sick time Casual day to day work environment Hybrid/flexible work environment (for some positions)\n\nE Ink is committed to a diverse and inclusive workforce. E Ink is an equal opportunity employer and does not discriminate on the basis of race, ethnicity, gender, identity, sexual orientation, veteran’s status, disability, age, or on any basis prohibited by federal and state law.\n\nEqual Opportunity Employer\n\nThis employer is required to notify all applicants of their rights pursuant to federal employment laws. For further information, please review the Know Your Rights notice from the Department of Labor.\n\nSalary Range Disclosure : The annual base salary range for this position is $100,000 to $130,000 not including any variable pay. The total compensation package may include performance-based incentives, discretionary bonuses, and other variable pay components. The salary range for this position reflects a reasonable estimate at the time of posting and may vary based on factors such as experience, skills, education, certifications, and location.\n\nEqual Opportunity Employer\n\nThis employer is required to notify all applicants of their rights pursuant to federal employment laws.\nFor further information, please review the Know Your Rights notice from the Department of Labor.",
+    "job_description": "Applicants in the County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.\n\nThe application window will be open until at least February 17, 2026. This opportunity will remain online based on business needs which may be before or after the specified date.\n\nApplicants in San Francisco: Qualified applications with arrest or conviction records will be considered for employment in accordance with the San Francisco Fair Chance Ordinance for Employers and the California Fair Chance Act.\n\nIn accordance with Washington state law, we are highlighting our comprehensive benefits package, which is available to all eligible US based employees. Benefits for this role include:\n• Health, dental, vision, life, disability insurance\n• Retirement Benefits: 401(k) with company match\n• Paid Time Off: 20 days of vacation per year, accruing at a rate of 6.15 hours per pay period for the first five years of employment\n• Sick Time: 40 hours/year (statutory, where applicable); 5 days/event (discretionary)\n• Maternity Leave (Short-Term Disability + Baby Bonding): 28-30 weeks\n• Baby Bonding Leave: 18 weeks\n• Holidays: 13 paid days per year\n\nNote: Google's hybrid workplace includes remote and in-office roles. By applying to this position you will have an opportunity to share your preferred working location from the following:\n\nIn-office locations: Cambridge, MA, USA; Los Angeles, CA, USA; Mountain View, CA, USA; Goleta, CA, USA; Seattle, WA, USA; San Francisco, CA, USA.\n\nRemote location(s): United States.Minimum qualifications:\n• PhD in Physics, Electrical Engineering, a related engineering discipline, or equivalent practical experience.\n• 3 years of experience with Quantum Computing.\n• Experience with superconducting qubits.\n• One or more scientific publication submission(s) for conferences, journals, or public repositories.\n\nPreferred qualifications:\n• Experience with Circuit Quantum Electrodynamics (QED), transmon qubits, fluxonium qubits, tunable couplers, or flux/charge noise analysis.\n• Experience with collaborative software development.\n• Experience collaborating with experimentalists on quantum projects.\n• Understanding of two-qubit gates modeling, and qubit readout modeling.\n\nAbout The Job\n\nAs an organization, Google maintains a portfolio of research projects driven by fundamental research, new product innovation, product contribution and infrastructure goals, while providing individuals and teams the freedom to emphasize specific types of work. As a Research Scientist, you'll setup large-scale tests and deploy promising ideas quickly and broadly, managing deadlines and deliverables while applying the latest theories to develop new and improved products, processes, or technologies. From creating experiments and prototyping implementations to designing new architectures, our research scientists work on real-world problems that span the breadth of computer science, such as machine (and deep) learning, data mining, natural language processing, hardware and software performance analysis, improving compilers for mobile platforms, as well as core search and much more.\n\nAs a Research Scientist, you'll also actively contribute to the wider research community by sharing and publishing your findings, with ideas inspired by internal projects as well as from collaborations with research programs at partner universities and technical institutes all over the world.\n\nAs a Research Scientist, you will play a critical role in modeling and understanding the performance of our superconducting quantum bit (qubit) systems and their control electronics. You will be responsible for simulating single and two-quantum bit (qubit) gates and readout processes, incorporating realistic environmental noise and limitations from both the quantum device and the control hardware. You will collaborate closely with hardware/electronics design and measurement teams to identify and model error sources that limit overall system performance. Your analysis will directly inform the development of next-generation qubits and control strategies to accelerate our progress toward a fault-tolerant quantum computer.\n\nThe full potential of quantum computing will be unlocked with a large-scale computer capable of complex, error-corrected computations. Google Quantum AI's mission is to build this computer and unlock solutions to classically intractable problems. Our roadmap is focused on advancing the capabilities of quantum computing and enabling meaningful applications.\n\nThe US base salary range for this full-time position is $141,000-$202,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.\n\nPlease note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .\n\nResponsibilities\n• Simulate single and two-quantum bit (qubit) gates and readout for superconducting quantum bits (qubits), incorporating realistic environmental noise (e.g, thermal noise, flux noise, charge noise) and AQFP control hardware constraints (e.g., amplitude and timing resolution, limited bandwidth, pulse distortion, crosstalk).\n• Propose and analyze new gate and readout methods compatible with AQFP electronics.\n• Collaborate with teams focused on design and measurement to model errors limiting Quantum Processing Unit (QPU) performance and develop improvement strategies.\n\nGoogle is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .",
     "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "Billerica, MA",
-    "job_city": "Billerica",
-    "job_state": "Massachusetts",
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Mountain View, CA",
+    "job_city": "Mountain View",
+    "job_state": "California",
     "job_country": "US",
-    "job_latitude": 42.5584218,
-    "job_longitude": -71.2689461,
+    "job_latitude": 37.390026399999996,
+    "job_longitude": -122.0812304,
     "job_benefits": [
-      "dental_coverage",
       "health_insurance",
+      "dental_coverage",
       "paid_time_off"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DPWSikMnMG5DorFb_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DOvuDFFfT4DlhZg4kAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 141000,
+    "job_max_salary": 202000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "PhD in Physics, Electrical Engineering, a related engineering discipline, or equivalent practical experience",
+        "3 years of experience with Quantum Computing",
+        "Experience with superconducting qubits",
+        "One or more scientific publication submission(s) for conferences, journals, or public repositories"
+      ],
+      "Benefits": [
+        "Health, dental, vision, life, disability insurance",
+        "Retirement Benefits: 401(k) with company match",
+        "Paid Time Off: 20 days of vacation per year, accruing at a rate of 6.15 hours per pay period for the first five years of employment",
+        "Sick Time: 40 hours/year (statutory, where applicable); 5 days/event (discretionary)",
+        "Maternity Leave (Short-Term Disability + Baby Bonding): 28-30 weeks",
+        "Baby Bonding Leave: 18 weeks",
+        "Holidays: 13 paid days per year",
+        "The US base salary range for this full-time position is $141,000-$202,000 + bonus + equity + benefits",
+        "Our salary ranges are determined by role, level, and location",
+        "Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training"
+      ],
+      "Responsibilities": [
+        "As a Research Scientist, you'll setup large-scale tests and deploy promising ideas quickly and broadly, managing deadlines and deliverables while applying the latest theories to develop new and improved products, processes, or technologies",
+        "From creating experiments and prototyping implementations to designing new architectures, our research scientists work on real-world problems that span the breadth of computer science, such as machine (and deep) learning, data mining, natural language processing, hardware and software performance analysis, improving compilers for mobile platforms, as well as core search and much more",
+        "As a Research Scientist, you'll also actively contribute to the wider research community by sharing and publishing your findings, with ideas inspired by internal projects as well as from collaborations with research programs at partner universities and technical institutes all over the world",
+        "As a Research Scientist, you will play a critical role in modeling and understanding the performance of our superconducting quantum bit (qubit) systems and their control electronics",
+        "You will be responsible for simulating single and two-quantum bit (qubit) gates and readout processes, incorporating realistic environmental noise and limitations from both the quantum device and the control hardware",
+        "You will collaborate closely with hardware/electronics design and measurement teams to identify and model error sources that limit overall system performance",
+        "Your analysis will directly inform the development of next-generation qubits and control strategies to accelerate our progress toward a fault-tolerant quantum computer",
+        "Simulate single and two-quantum bit (qubit) gates and readout for superconducting quantum bits (qubits), incorporating realistic environmental noise (e.g, thermal noise, flux noise, charge noise) and AQFP control hardware constraints (e.g., amplitude and timing resolution, limited bandwidth, pulse distortion, crosstalk)",
+        "Propose and analyze new gate and readout methods compatible with AQFP electronics",
+        "Collaborate with teams focused on design and measurement to model errors limiting Quantum Processing Unit (QPU) performance and develop improvement strategies"
+      ]
+    },
+    "job_onet_soc": "19201200",
+    "job_onet_job_zone": "5",
+    "id": "www-linkedin-com-jobs-view-research-scientist-device-theory-quantum-ai-at-google-4370674116",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "nhHbT6KWRlgugf5DAAAAAA==",
+    "job_title": "AI Research Scientist, Text Data Research - MSL FAIR - Full-time",
+    "employer_name": "Meta",
+    "employer_logo": null,
+    "employer_website": "https://www.meta.com",
+    "job_publisher": "Snagajob",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.snagajob.com/jobs/1202833497?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Snagajob",
+        "apply_link": "https://www.snagajob.com/jobs/1202833497?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "**Summary:**\n\nMeta is seeking AI research scientists to help us build the data foundation for Meta's most advanced Large Language Models. We're looking for researchers with LLM expertise to join us on working with data at scale and to push beyond the data ceiling.Our team contributes to data curation across all stages of LLM development (pre-training, mid-training, post-training) and all domains/modalities (e.g., web, code, agent, multilingual). We tackle the hardest challenges at trillion-scale, including organic data curation, synthetic data generation, agent and interaction data, and frontier paradigms that redefine what's possible. Based in Meta Superintelligence Labs (MSL) within the Fundamental AI Research Organization (FAIR), you'll directly contribute to Meta’s frontier models like Llama, while having the chance to collaborate with researchers and engineers across MSL.\n• *Required Skills:**\n\nAI Research Scientist, Text Data Research - MSL FAIR Responsibilities:\n\n1. Collaborate with cross-functional teams to develop Meta’s next foundational models\n\n2. Advance our understanding of data research, such as how to overcome data walls and how best to create synthetic data\n\n3. Architect efficient and scalable data curation systems and pipelines\n\n4. Fundamentally improve our data velocity across workflows and projects by contributing to the advancement of data tooling\n\n5. Execute on high priority projects in pre-training, mid-training, or post-training data curation\n\n6. Apply specialized expertise in agentic data, synthetic data, reasoning data, web parser, coding data, data scaling laws, or datamix optimization\n\n7. Lead complex technical projects end-to-end\n• *Minimum Qualifications:**\n\nMinimum Qualifications:\n\n8. Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\n\n9. PhD in Computer Science or a related technical field\n\n10. 1+ year of industry research experience in LLM/NLP or related AI/ML models\n\n11. Experience owning and/or driving complex technical projects from end-to-end\n\n12. Practical experience with pre-training or mid-training data curation for large foundational models and experience working with organic, synthetic, agentic, or reasoning data for LLMs\n\n13. Published research in leading peer-reviewed conferences (e.g., NeurIPS, ICML, ICLR, ACL, EMNLP) and/or demonstrated significant industry influence in the field of AI\n• *Preferred Qualifications:**\n\nPreferred Qualifications:\n\n14. Experience working on frontier-quality/state-of-the-art Large Language Models\n\n15. Multiple first-author publications in leading peer-reviewed conferences (e.g., NeurIPS, ICML, ICLR, ACL, EMNLP)\n\n16. Hands-on experience with modeling frameworks like PyTorch\n\n17. Hands-on experience on SQL and large-scale data handling, with familiarity of frameworks like Spark and Hive\n• *Public Compensation:**\n\n$154,000/year to $217,000/year + bonus + equity + benefits\n• *Industry:** Internet\n• *Equal Opportunity:**\n\nMeta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.\n\nMeta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@meta.com.\n• *Summary:**\n\nMeta is seeking AI research scientists to help us build the data foundation for Meta's most advanced Large Language Models. We're looking for researchers with LLM expertise to join us on working with data at scale and to push beyond the data ceiling.Our team contributes to data curation across all stages of LLM development (pre-training, mid-training, post-training) and all domains/modalities (e.g., web, code, agent, multilingual). We tackle the hardest challenges at trillion-scale, including organic data curation, synthetic data generation, agent and interaction data, and frontier paradigms that redefine what's possible. Based in Meta Superintelligence Labs (MSL) within the Fundamental AI Research Organization (FAIR), you'll directly contribute to Meta’s frontier models like Llama, while having the chance to collaborate with researchers and engineers across MSL.\n• *Required Skills:**\n\nAI Research Scientist, Text Data Research - MSL FAIR Responsibilities:\n\n1. Collaborate with cross-functional teams to develop Meta’s next foundational models\n\n2. Advance our understanding of data research, such as how to overcome data walls and how best to create synthetic data\n\n3. Architect efficient and scalable data curation systems and pipelines\n\n4. Fundamentally improve our data velocity across workflows and projects by contributing to the advancement of data tooling\n\n5. Execute on high priority projects in pre-training, mid-training, or post-training data curation\n\n6. Apply specialized expertise in agentic data, synthetic data, reasoning data, web parser, coding data, data scaling laws, or datamix optimization\n\n7. Lead complex technical projects end-to-end\n• *Minimum Qualifications:**\n\nMinimum Qualifications:\n\n8. Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\n\n9. PhD in Computer Science or a related technical field\n\n10. 1+ year of industry research experience in LLM/NLP or related AI/ML models\n\n11. Experience owning and/or driving complex technical projects from end-to-end\n\n12. Practical experience with pre-training or mid-training data curation for large foundational models and experience working with organic, synthetic, agentic, or reasoning data for LLMs\n\n13. Published research in leading peer-reviewed conferences (e.g., NeurIPS, ICML, ICLR, ACL, EMNLP) and/or demonstrated significant industry influence in the field of AI\n• *Preferred Qualifications:**\n\nPreferred Qualifications:\n\n14. Experience working on frontier-quality/state-of-the-art Large Language Models\n\n15. Multiple first-author publications in leading peer-reviewed conferences (e.g., NeurIPS, ICML, ICLR, ACL, EMNLP)\n\n16. Hands-on experience with modeling frameworks like PyTorch\n\n17. Hands-on experience on SQL and large-scale data handling, with familiarity of frameworks like Spark and Hive\n• *Public Compensation:**\n\n$154,000/year to $217,000/year + bonus + equity + benefits\n• *Industry:** Internet\n• *Equal Opportunity:**\n\nMeta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.\n\nMeta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@meta.com.",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Menlo Park, CA",
+    "job_city": "Menlo Park",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.452959799999995,
+    "job_longitude": -122.18172519999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DnhHbT6KWRlgugf5DAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
-    "job_highlights": {},
-    "job_onet_soc": "19203200",
+    "job_highlights": {
+      "Qualifications": [
+        "Apply specialized expertise in agentic data, synthetic data, reasoning data, web parser, coding data, data scaling laws, or datamix optimization",
+        "Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience",
+        "PhD in Computer Science or a related technical field",
+        "1+ year of industry research experience in LLM/NLP or related AI/ML models",
+        "Experience owning and/or driving complex technical projects from end-to-end",
+        "Practical experience with pre-training or mid-training data curation for large foundational models and experience working with organic, synthetic, agentic, or reasoning data for LLMs",
+        "Published research in leading peer-reviewed conferences (e.g., NeurIPS, ICML, ICLR, ACL, EMNLP) and/or demonstrated significant industry influence in the field of AI",
+        "Meta participates in the E-Verify program in certain locations, as required by law",
+        "Advance our understanding of data research, such as how to overcome data walls and how best to create synthetic data",
+        "Apply specialized expertise in agentic data, synthetic data, reasoning data, web parser, coding data, data scaling laws, or datamix optimization",
+        "Lead complex technical projects end-to-end",
+        "Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience",
+        "PhD in Computer Science or a related technical field",
+        "1+ year of industry research experience in LLM/NLP or related AI/ML models",
+        "Experience owning and/or driving complex technical projects from end-to-end",
+        "Practical experience with pre-training or mid-training data curation for large foundational models and experience working with organic, synthetic, agentic, or reasoning data for LLMs",
+        "Published research in leading peer-reviewed conferences (e.g., NeurIPS, ICML, ICLR, ACL, EMNLP) and/or demonstrated significant industry influence in the field of AI",
+        "Meta participates in the E-Verify program in certain locations, as required by law"
+      ],
+      "Benefits": [
+        "$154,000/year to $217,000/year + bonus + equity + benefits",
+        "$154,000/year to $217,000/year + bonus + equity + benefits"
+      ],
+      "Responsibilities": [
+        "Based in Meta Superintelligence Labs (MSL) within the Fundamental AI Research Organization (FAIR), you'll directly contribute to Meta’s frontier models like Llama, while having the chance to collaborate with researchers and engineers across MSL",
+        "Collaborate with cross-functional teams to develop Meta’s next foundational models",
+        "Advance our understanding of data research, such as how to overcome data walls and how best to create synthetic data",
+        "Architect efficient and scalable data curation systems and pipelines",
+        "Fundamentally improve our data velocity across workflows and projects by contributing to the advancement of data tooling",
+        "Execute on high priority projects in pre-training, mid-training, or post-training data curation",
+        "Lead complex technical projects end-to-end",
+        "Based in Meta Superintelligence Labs (MSL) within the Fundamental AI Research Organization (FAIR), you'll directly contribute to Meta’s frontier models like Llama, while having the chance to collaborate with researchers and engineers across MSL",
+        "Collaborate with cross-functional teams to develop Meta’s next foundational models",
+        "Architect efficient and scalable data curation systems and pipelines",
+        "Fundamentally improve our data velocity across workflows and projects by contributing to the advancement of data tooling",
+        "Execute on high priority projects in pre-training, mid-training, or post-training data curation"
+      ]
+    },
+    "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
-    "id": "www-whatjobs-com-jobs-research-scientist-engineer",
+    "id": "www-snagajob-com-jobs-1202833497",
     "_source": "new_jobs"
   },
   {
@@ -1375,80 +1415,100 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "xpvYwzd9Fi2bXe8mAAAAAA==",
-    "job_title": "Institute of Foundation Models is hiring: Research Scientist - Agents in Sunnyvale",
-    "employer_name": "Institute of Foundation Models",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWea3O1wXP4d61BIy6jIKvatHQDwwKG3O7Hb_6&s=0",
-    "employer_website": null,
-    "job_publisher": "Recruit.net",
+    "job_id": "a9dXcaApDsREj4rIAAAAAA==",
+    "job_title": "Post Doc Res Assoc",
+    "employer_name": "University of Utah",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk0hZ0XLMrObqZrXwXZGmog-H5jW9rUfTuflRz&s=0",
+    "employer_website": "https://www.utah.edu",
+    "job_publisher": "WhatJobs",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.recruit.net/job/institute-foundation-models-is-research-jobs/B8E6B28C685393B3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.whatjobs.com/jobs/research-scientist?id=2453005835&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Recruit.net",
-        "apply_link": "https://www.recruit.net/job/institute-foundation-models-is-research-jobs/B8E6B28C685393B3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/research-scientist?id=2453005835&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "ABOUT THE INSTITUTE OF FOUNDATION MODELS\nWe are a dedicated research lab for building, understanding, using, and risk‑managing foundation models.\nOur mandate is to advance research, nurture the next generation of AI builders, and drive transformative contributions to a knowledge‑driven economy.\nAs part of our team, you’ll have the opportunity to work on the core of cutting‑edge foundation model training, alongside world‑class researchers, data scientists, and engineers, tackling the most fundamental and impactful challenges in AI development.\nYou will participate in the development of groundbreaking AI solutions that have the potential to reshape entire industries.\nStrategic and innovative problem‑solving skills will be instrumental in establishing MBZUAI as a global hub for high‑performance computing in deep learning, driving impactful discoveries that inspire the next generation of AI pioneers.\nPOSITION SUMMARY\nAs a member of the Agents team, you will tackle research and engineering challenges to train advanced agentic language models that are adept at using reasoning and tool use to complete tasks on a computer.\nThese challenges range from building high‑quality training datasets and robust evaluations to innovative reinforcement learning infrastructure, algorithms and environments.\nThe team aims to recruit candidates across the research‑engineering spectrum, from algorithmic and empirical research to large‑scale systems and optimization, reflecting the breadth of interesting problems we aim to solve.\nWe value depth in any subset of these areas; there is no single “right” background.\nKEY RESPONSIBILITIES\n• Propose, prototype, and scale algorithms/systems to support agentic learning\n• Develop new paradigms for agentic behavior that go beyond current practices\n• Contribute to technical reports, research publications, and open‑source software\n• Collaborate with other teams to produce state‑of‑the‑art foundation models\nACADEMIC QUALIFICATIONS\n• BS, MS, or PhD degree (or equivalent experience) in Computer Science, Machine Learning, or related fields\nPROFESSIONAL EXPERIENCE\nMinimum\n• 2 years of experience working in one of the following or related areas: LLM training/fine‑tuning, evaluations, reinforcement learning, LLM inference, distributed machine learning systems\n• Python and PyTorch development experience\n• Experience in using LLM agents for your personal or professional use\n• Experience in designing and implementing algorithms from scratch (for algorithms focus)\n• Experience in dataset curation and generation (for data focus)\n• Experience in building or contributing to training/serving infrastructure (for systems focus)\n• Experience in designing and deep diving into evaluations (for evals focus)\nPREFERRED SKILLS\n• Expertise in one or more of PyTorch, Ray, Triton, CUDA C++\n• Strong knowledge of literature on RL, LLM reasoning, and tool use\n• Experience in training or using LLM agents for SWE tasks\n• Deep understanding of reinforcement learning principles\n• Experience implementing distributed learning algorithms\n• Contributions to published research and/or open‑source ML software\n$150,000 - $450,000 a year\nVISA SPONSORSHIP\nThis position is eligible for visa sponsorship.\nBENEFITS INCLUDE\n• Comprehensive medical, dental, and vision benefits\n• Bonus\n• 401K Plan\n• Generous paid time off, sick leave and holidays\n• Paid Parental Leave\n• Employee Assistance Program\n• Life insurance and disability\nJ-18808-LJBFFR",
+    "job_description": "Announcement\n\nDetails\n\nOpen Date\n12/17/2025\n\nRequisition Number\nPRN43854B\n\nJob Title\nPost Doc Res Assoc\n\nWorking Title\nPost Doc Research Associate\n\nCareer Progression Track\nA00\n\nTrack Level\n\nFLSA Code\nAdministrative\n\nPatient Sensitive Job Code?\nNo\n\nStandard Hours per Week\n40\n\nFull Time or Part Time?\nFull Time\n\nShift\nDay\n\nWork Schedule Summary\n\nVP Area\nU of U Health - Academics\n\nDepartment\n00198 - Parks Recreation and Tourism\n\nLocation\nCampus\n\nCity\nSalt Lake City, UT\n\nType of Recruitment\nExternal Posting\n\nPay Rate Range\nDOE / DOQ\n\nClose Date\n06/01/2026\n\nPriority Review Date (Note - Posting may close at any time)\n01/19/2026\n\nJob Summary\n\nPostdoctoral Research Associate - Evaluation and Data Support for Youth Camp Initiatives\nLocation: Salt Lake City, UT (Hybrid options available; position is not remote)\n\nWe are seeking a highly motivated Postdoctoral Research Associate to support a multi-year evaluation of the Character at Camp Initiative, a large grant-making project from the American Camp Association that seeks to bolster camps' capacity to support character development, broadly conceived. This position will play a key role in coordinating training and technical assistance for camp professionals, managing data collection processes, supporting conceptual design, and contributing to research translation and dissemination efforts. The ideal candidate will have strong skills in project coordination, data interpretation, and stakeholder engagement.\n\nPosition Details:\n\nFull-time, 12-month appointment with potential for renewal. Currently funded through 2029.\n\nCompetitive salary and benefits package.\n\nTarget start date: between January and June of 2026.\n\nResponsibilities\n\nTraining and Technical Assistance for Camp Professionals\n• Develop and deliver training materials and presentations to prepare grantees for evaluation activities.\n• Attend grantee cohort meetings to provide support and guidance.\n• Lead training for camps focused on data use and interpretation for program improvement.\n\nProject Management and Evaluation Coordination\n• Coordinate data collection efforts, including surveys and interviews, across multiple sites.\n• Serve as a liaison with camps, the ACA (American Camp Association), and other stakeholders to ensure smooth communication and logistics.\n• Prepare and distribute evaluation materials to participating sites.\n• Support data verification processes for accuracy and completeness.\n• Contribute to process improvement efforts to enhance evaluation workflows.\n• Support dashboard development and data visualization for reporting and decision-making.\n\nConceptual Design and Evaluation Strategy\n• Assist with instrument development and refinement, including survey instruments and observational tools.\n• Help maintain project vision and coherence across components.\n• Coordinate across project activities to ensure alignment and integration.\n• Contribute to grant writing and proposal development.\n• Support refinement and updating of the overall evaluation approach.\n\nSupport translation and dissemination work aligned with interests and expertise . Preferred candidates will bring experience in either qualitative or quantitative research methods. On the qualitative side, they should be comfortable assisting with interview case selection, conducting stakeholder interviews, and analyzing qualitative data using appropriate methodologies. Quantitatively, they should be able to support instrument validation and psychometric analysis, clean and integrate datasets from multiple sources, and create and maintain codebooks and documentation. Strong candidates will also contribute to dissemination efforts, including reporting to advisory boards and participating camps, preparing formal reports, engaging in academic publishing and conference presentations, and helping develop evaluation tools and resources. It is expected that postdocs will generate their own research projects that are synergistic with the larger research plan, as a way to support their development and learning.\n\nMinimum Qualifications\n\nPh.D. in Human Development/Developmental Science; Education; Psychology; Parks, Recreation, and Tourism; or related fields.\n\nProficiency in data management and visualization tools (e.g., Excel, Power BI, R, SPSS, or Stata).\n\nMixed-methods research experience (qualitative and quantitative).\n\nPreferences\n\nFamiliarity with summer camps or similar youth-serving organizations.\n\nExperience developing training materials and facilitating workshops.\n\nMixed-methods research experience (qualitative and quantitative).\n\nExperience with program evaluation, especially in youth development or outdoor education settings.\n\nStrong communication and organizational skills.\n\nAbility to work independently and collaboratively in a dynamic, multi-stakeholder environment\n\nType\nBenefited Staff\n\nSpecial Instructions Summary\n\nAdditional Information\n\nThe University is a participating employer with Utah Retirement Systems (\"URS\"). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) ###-#### for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS' post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) ###-#### or (800) ###-#### or University Human Resource Management at (801) ###-#### if you have questions regarding the post-retirement rules.\nThis position may require the successful completion of a criminal background check and/or drug screen.\n\nThe University of Utah values candidates who have experience working in settings with students and patients from all backgrounds and possess a strong commitment to improving access to higher education and quality healthcare for historically underrepresented students and patients.\n\nAll qualified individuals are strongly encouraged to apply. Veterans' preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.\nThe University of Utah is an Affirmative Action/Equal Opportunity employer and does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran's status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.\nTo request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Affirmative Action (OEO/AA). More information, including the Director/Title IX Coordinator's office address, electronic mail address, and telephone number can be located at:\nOnline reports may be submitted at oeo.utah.edu\n\nThis report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.",
     "job_is_remote": false,
-    "job_posted_at": "1 day ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "Colorado",
-    "job_city": null,
-    "job_state": "Colorado",
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "Taylorsville, UT",
+    "job_city": "Taylorsville",
+    "job_state": "Utah",
     "job_country": "US",
-    "job_latitude": 39.5500507,
-    "job_longitude": -105.78206739999999,
+    "job_latitude": 40.653153599999996,
+    "job_longitude": -111.9578509,
     "job_benefits": [
-      "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
+      "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DxpvYwzd9Fi2bXe8mAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Da9dXcaApDsREj4rIAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "BS, MS, or PhD degree (or equivalent experience) in Computer Science, Machine Learning, or related fields",
-        "2 years of experience working in one of the following or related areas: LLM training/fine‑tuning, evaluations, reinforcement learning, LLM inference, distributed machine learning systems",
-        "Python and PyTorch development experience",
-        "Experience in using LLM agents for your personal or professional use",
-        "Experience in designing and implementing algorithms from scratch (for algorithms focus)",
-        "Experience in dataset curation and generation (for data focus)",
-        "Experience in building or contributing to training/serving infrastructure (for systems focus)",
-        "Experience in designing and deep diving into evaluations (for evals focus)"
+        "On the qualitative side, they should be comfortable assisting with interview case selection, conducting stakeholder interviews, and analyzing qualitative data using appropriate methodologies",
+        "Ph.D. in Human Development/Developmental Science; Education; Psychology; Parks, Recreation, and Tourism; or related fields",
+        "Proficiency in data management and visualization tools (e.g., Excel, Power BI, R, SPSS, or Stata)",
+        "Mixed-methods research experience (qualitative and quantitative)",
+        "Familiarity with summer camps or similar youth-serving organizations",
+        "Experience developing training materials and facilitating workshops",
+        "Mixed-methods research experience (qualitative and quantitative)",
+        "Experience with program evaluation, especially in youth development or outdoor education settings",
+        "Strong communication and organizational skills",
+        "Ability to work independently and collaboratively in a dynamic, multi-stakeholder environment",
+        "This position may require the successful completion of a criminal background check and/or drug screen",
+        "The University of Utah values candidates who have experience working in settings with students and patients from all backgrounds and possess a strong commitment to improving access to higher education and quality healthcare for historically underrepresented students and patients"
       ],
       "Benefits": [
-        "$150,000 - $450,000 a year",
-        "This position is eligible for visa sponsorship",
-        "Comprehensive medical, dental, and vision benefits",
-        "Bonus",
-        "401K Plan",
-        "Generous paid time off, sick leave and holidays",
-        "Paid Parental Leave",
-        "Employee Assistance Program",
-        "Life insurance and disability",
-        "J-18808-LJBFFR"
+        "40",
+        "Pay Rate Range",
+        "Full-time, 12-month appointment with potential for renewal",
+        "Currently funded through 2029",
+        "Competitive salary and benefits package",
+        "The University is a participating employer with Utah Retirement Systems (\"URS\")",
+        "Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work)",
+        "Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS' post-retirement rules and restrictions"
       ],
       "Responsibilities": [
-        "As a member of the Agents team, you will tackle research and engineering challenges to train advanced agentic language models that are adept at using reasoning and tool use to complete tasks on a computer",
-        "Propose, prototype, and scale algorithms/systems to support agentic learning",
-        "Develop new paradigms for agentic behavior that go beyond current practices",
-        "Contribute to technical reports, research publications, and open‑source software",
-        "Collaborate with other teams to produce state‑of‑the‑art foundation models"
+        "Priority Review Date (Note - Posting may close at any time)",
+        "Postdoctoral Research Associate - Evaluation and Data Support for Youth Camp Initiatives",
+        "This position will play a key role in coordinating training and technical assistance for camp professionals, managing data collection processes, supporting conceptual design, and contributing to research translation and dissemination efforts",
+        "The ideal candidate will have strong skills in project coordination, data interpretation, and stakeholder engagement",
+        "Training and Technical Assistance for Camp Professionals",
+        "Develop and deliver training materials and presentations to prepare grantees for evaluation activities",
+        "Attend grantee cohort meetings to provide support and guidance",
+        "Lead training for camps focused on data use and interpretation for program improvement",
+        "Project Management and Evaluation Coordination",
+        "Coordinate data collection efforts, including surveys and interviews, across multiple sites",
+        "Serve as a liaison with camps, the ACA (American Camp Association), and other stakeholders to ensure smooth communication and logistics",
+        "Prepare and distribute evaluation materials to participating sites",
+        "Support data verification processes for accuracy and completeness",
+        "Contribute to process improvement efforts to enhance evaluation workflows",
+        "Support dashboard development and data visualization for reporting and decision-making",
+        "Conceptual Design and Evaluation Strategy",
+        "Assist with instrument development and refinement, including survey instruments and observational tools",
+        "Help maintain project vision and coherence across components",
+        "Coordinate across project activities to ensure alignment and integration",
+        "Contribute to grant writing and proposal development",
+        "Support refinement and updating of the overall evaluation approach",
+        "Support translation and dissemination work aligned with interests and expertise ",
+        "Quantitatively, they should be able to support instrument validation and psychometric analysis, clean and integrate datasets from multiple sources, and create and maintain codebooks and documentation",
+        "Strong candidates will also contribute to dissemination efforts, including reporting to advisory boards and participating camps, preparing formal reports, engaging in academic publishing and conference presentations, and helping develop evaluation tools and resources",
+        "It is expected that postdocs will generate their own research projects that are synergistic with the larger research plan, as a way to support their development and learning"
       ]
     },
-    "job_onet_soc": "15111100",
+    "job_onet_soc": "25106500",
     "job_onet_job_zone": "5",
-    "id": "www-recruit-net-job-institute-foundation-models-is-research-jobs-b8e6b28c685393b3",
+    "id": "www-whatjobs-com-jobs-research-scientist",
     "_source": "new_jobs"
   },
   {
@@ -1556,88 +1616,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "nhHbT6KWRlgugf5DAAAAAA==",
-    "job_title": "AI Research Scientist, Text Data Research - MSL FAIR - Full-time",
-    "employer_name": "Meta",
-    "employer_logo": null,
-    "employer_website": "https://www.meta.com",
-    "job_publisher": "Snagajob",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.snagajob.com/jobs/1202833497?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Snagajob",
-        "apply_link": "https://www.snagajob.com/jobs/1202833497?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "**Summary:**\n\nMeta is seeking AI research scientists to help us build the data foundation for Meta's most advanced Large Language Models. We're looking for researchers with LLM expertise to join us on working with data at scale and to push beyond the data ceiling.Our team contributes to data curation across all stages of LLM development (pre-training, mid-training, post-training) and all domains/modalities (e.g., web, code, agent, multilingual). We tackle the hardest challenges at trillion-scale, including organic data curation, synthetic data generation, agent and interaction data, and frontier paradigms that redefine what's possible. Based in Meta Superintelligence Labs (MSL) within the Fundamental AI Research Organization (FAIR), you'll directly contribute to Meta’s frontier models like Llama, while having the chance to collaborate with researchers and engineers across MSL.\n• *Required Skills:**\n\nAI Research Scientist, Text Data Research - MSL FAIR Responsibilities:\n\n1. Collaborate with cross-functional teams to develop Meta’s next foundational models\n\n2. Advance our understanding of data research, such as how to overcome data walls and how best to create synthetic data\n\n3. Architect efficient and scalable data curation systems and pipelines\n\n4. Fundamentally improve our data velocity across workflows and projects by contributing to the advancement of data tooling\n\n5. Execute on high priority projects in pre-training, mid-training, or post-training data curation\n\n6. Apply specialized expertise in agentic data, synthetic data, reasoning data, web parser, coding data, data scaling laws, or datamix optimization\n\n7. Lead complex technical projects end-to-end\n• *Minimum Qualifications:**\n\nMinimum Qualifications:\n\n8. Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\n\n9. PhD in Computer Science or a related technical field\n\n10. 1+ year of industry research experience in LLM/NLP or related AI/ML models\n\n11. Experience owning and/or driving complex technical projects from end-to-end\n\n12. Practical experience with pre-training or mid-training data curation for large foundational models and experience working with organic, synthetic, agentic, or reasoning data for LLMs\n\n13. Published research in leading peer-reviewed conferences (e.g., NeurIPS, ICML, ICLR, ACL, EMNLP) and/or demonstrated significant industry influence in the field of AI\n• *Preferred Qualifications:**\n\nPreferred Qualifications:\n\n14. Experience working on frontier-quality/state-of-the-art Large Language Models\n\n15. Multiple first-author publications in leading peer-reviewed conferences (e.g., NeurIPS, ICML, ICLR, ACL, EMNLP)\n\n16. Hands-on experience with modeling frameworks like PyTorch\n\n17. Hands-on experience on SQL and large-scale data handling, with familiarity of frameworks like Spark and Hive\n• *Public Compensation:**\n\n$154,000/year to $217,000/year + bonus + equity + benefits\n• *Industry:** Internet\n• *Equal Opportunity:**\n\nMeta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.\n\nMeta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@meta.com.\n• *Summary:**\n\nMeta is seeking AI research scientists to help us build the data foundation for Meta's most advanced Large Language Models. We're looking for researchers with LLM expertise to join us on working with data at scale and to push beyond the data ceiling.Our team contributes to data curation across all stages of LLM development (pre-training, mid-training, post-training) and all domains/modalities (e.g., web, code, agent, multilingual). We tackle the hardest challenges at trillion-scale, including organic data curation, synthetic data generation, agent and interaction data, and frontier paradigms that redefine what's possible. Based in Meta Superintelligence Labs (MSL) within the Fundamental AI Research Organization (FAIR), you'll directly contribute to Meta’s frontier models like Llama, while having the chance to collaborate with researchers and engineers across MSL.\n• *Required Skills:**\n\nAI Research Scientist, Text Data Research - MSL FAIR Responsibilities:\n\n1. Collaborate with cross-functional teams to develop Meta’s next foundational models\n\n2. Advance our understanding of data research, such as how to overcome data walls and how best to create synthetic data\n\n3. Architect efficient and scalable data curation systems and pipelines\n\n4. Fundamentally improve our data velocity across workflows and projects by contributing to the advancement of data tooling\n\n5. Execute on high priority projects in pre-training, mid-training, or post-training data curation\n\n6. Apply specialized expertise in agentic data, synthetic data, reasoning data, web parser, coding data, data scaling laws, or datamix optimization\n\n7. Lead complex technical projects end-to-end\n• *Minimum Qualifications:**\n\nMinimum Qualifications:\n\n8. Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\n\n9. PhD in Computer Science or a related technical field\n\n10. 1+ year of industry research experience in LLM/NLP or related AI/ML models\n\n11. Experience owning and/or driving complex technical projects from end-to-end\n\n12. Practical experience with pre-training or mid-training data curation for large foundational models and experience working with organic, synthetic, agentic, or reasoning data for LLMs\n\n13. Published research in leading peer-reviewed conferences (e.g., NeurIPS, ICML, ICLR, ACL, EMNLP) and/or demonstrated significant industry influence in the field of AI\n• *Preferred Qualifications:**\n\nPreferred Qualifications:\n\n14. Experience working on frontier-quality/state-of-the-art Large Language Models\n\n15. Multiple first-author publications in leading peer-reviewed conferences (e.g., NeurIPS, ICML, ICLR, ACL, EMNLP)\n\n16. Hands-on experience with modeling frameworks like PyTorch\n\n17. Hands-on experience on SQL and large-scale data handling, with familiarity of frameworks like Spark and Hive\n• *Public Compensation:**\n\n$154,000/year to $217,000/year + bonus + equity + benefits\n• *Industry:** Internet\n• *Equal Opportunity:**\n\nMeta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.\n\nMeta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@meta.com.",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Menlo Park, CA",
-    "job_city": "Menlo Park",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.452959799999995,
-    "job_longitude": -122.18172519999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DnhHbT6KWRlgugf5DAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Apply specialized expertise in agentic data, synthetic data, reasoning data, web parser, coding data, data scaling laws, or datamix optimization",
-        "Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience",
-        "PhD in Computer Science or a related technical field",
-        "1+ year of industry research experience in LLM/NLP or related AI/ML models",
-        "Experience owning and/or driving complex technical projects from end-to-end",
-        "Practical experience with pre-training or mid-training data curation for large foundational models and experience working with organic, synthetic, agentic, or reasoning data for LLMs",
-        "Published research in leading peer-reviewed conferences (e.g., NeurIPS, ICML, ICLR, ACL, EMNLP) and/or demonstrated significant industry influence in the field of AI",
-        "Meta participates in the E-Verify program in certain locations, as required by law",
-        "Advance our understanding of data research, such as how to overcome data walls and how best to create synthetic data",
-        "Apply specialized expertise in agentic data, synthetic data, reasoning data, web parser, coding data, data scaling laws, or datamix optimization",
-        "Lead complex technical projects end-to-end",
-        "Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience",
-        "PhD in Computer Science or a related technical field",
-        "1+ year of industry research experience in LLM/NLP or related AI/ML models",
-        "Experience owning and/or driving complex technical projects from end-to-end",
-        "Practical experience with pre-training or mid-training data curation for large foundational models and experience working with organic, synthetic, agentic, or reasoning data for LLMs",
-        "Published research in leading peer-reviewed conferences (e.g., NeurIPS, ICML, ICLR, ACL, EMNLP) and/or demonstrated significant industry influence in the field of AI",
-        "Meta participates in the E-Verify program in certain locations, as required by law"
-      ],
-      "Benefits": [
-        "$154,000/year to $217,000/year + bonus + equity + benefits",
-        "$154,000/year to $217,000/year + bonus + equity + benefits"
-      ],
-      "Responsibilities": [
-        "Based in Meta Superintelligence Labs (MSL) within the Fundamental AI Research Organization (FAIR), you'll directly contribute to Meta’s frontier models like Llama, while having the chance to collaborate with researchers and engineers across MSL",
-        "Collaborate with cross-functional teams to develop Meta’s next foundational models",
-        "Advance our understanding of data research, such as how to overcome data walls and how best to create synthetic data",
-        "Architect efficient and scalable data curation systems and pipelines",
-        "Fundamentally improve our data velocity across workflows and projects by contributing to the advancement of data tooling",
-        "Execute on high priority projects in pre-training, mid-training, or post-training data curation",
-        "Lead complex technical projects end-to-end",
-        "Based in Meta Superintelligence Labs (MSL) within the Fundamental AI Research Organization (FAIR), you'll directly contribute to Meta’s frontier models like Llama, while having the chance to collaborate with researchers and engineers across MSL",
-        "Collaborate with cross-functional teams to develop Meta’s next foundational models",
-        "Architect efficient and scalable data curation systems and pipelines",
-        "Fundamentally improve our data velocity across workflows and projects by contributing to the advancement of data tooling",
-        "Execute on high priority projects in pre-training, mid-training, or post-training data curation"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-snagajob-com-jobs-1202833497",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "bxjREbgsvGI2gXTeAAAAAA==",
     "job_title": "Research Scientist - Biology 25",
     "employer_name": "Insight Global",
@@ -1718,100 +1696,160 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "a9dXcaApDsREj4rIAAAAAA==",
-    "job_title": "Post Doc Res Assoc",
-    "employer_name": "University of Utah",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk0hZ0XLMrObqZrXwXZGmog-H5jW9rUfTuflRz&s=0",
-    "employer_website": "https://www.utah.edu",
-    "job_publisher": "WhatJobs",
+    "job_id": "nsn-l0uoBxL9NMXQAAAAAA==",
+    "job_title": "Scientist IV",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.whatjobs.com/jobs/research-scientist?id=2453005835&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.talent.com/view?id=45221aac1bce&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/research-scientist?id=2453005835&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=45221aac1bce&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Announcement\n\nDetails\n\nOpen Date\n12/17/2025\n\nRequisition Number\nPRN43854B\n\nJob Title\nPost Doc Res Assoc\n\nWorking Title\nPost Doc Research Associate\n\nCareer Progression Track\nA00\n\nTrack Level\n\nFLSA Code\nAdministrative\n\nPatient Sensitive Job Code?\nNo\n\nStandard Hours per Week\n40\n\nFull Time or Part Time?\nFull Time\n\nShift\nDay\n\nWork Schedule Summary\n\nVP Area\nU of U Health - Academics\n\nDepartment\n00198 - Parks Recreation and Tourism\n\nLocation\nCampus\n\nCity\nSalt Lake City, UT\n\nType of Recruitment\nExternal Posting\n\nPay Rate Range\nDOE / DOQ\n\nClose Date\n06/01/2026\n\nPriority Review Date (Note - Posting may close at any time)\n01/19/2026\n\nJob Summary\n\nPostdoctoral Research Associate - Evaluation and Data Support for Youth Camp Initiatives\nLocation: Salt Lake City, UT (Hybrid options available; position is not remote)\n\nWe are seeking a highly motivated Postdoctoral Research Associate to support a multi-year evaluation of the Character at Camp Initiative, a large grant-making project from the American Camp Association that seeks to bolster camps' capacity to support character development, broadly conceived. This position will play a key role in coordinating training and technical assistance for camp professionals, managing data collection processes, supporting conceptual design, and contributing to research translation and dissemination efforts. The ideal candidate will have strong skills in project coordination, data interpretation, and stakeholder engagement.\n\nPosition Details:\n\nFull-time, 12-month appointment with potential for renewal. Currently funded through 2029.\n\nCompetitive salary and benefits package.\n\nTarget start date: between January and June of 2026.\n\nResponsibilities\n\nTraining and Technical Assistance for Camp Professionals\n• Develop and deliver training materials and presentations to prepare grantees for evaluation activities.\n• Attend grantee cohort meetings to provide support and guidance.\n• Lead training for camps focused on data use and interpretation for program improvement.\n\nProject Management and Evaluation Coordination\n• Coordinate data collection efforts, including surveys and interviews, across multiple sites.\n• Serve as a liaison with camps, the ACA (American Camp Association), and other stakeholders to ensure smooth communication and logistics.\n• Prepare and distribute evaluation materials to participating sites.\n• Support data verification processes for accuracy and completeness.\n• Contribute to process improvement efforts to enhance evaluation workflows.\n• Support dashboard development and data visualization for reporting and decision-making.\n\nConceptual Design and Evaluation Strategy\n• Assist with instrument development and refinement, including survey instruments and observational tools.\n• Help maintain project vision and coherence across components.\n• Coordinate across project activities to ensure alignment and integration.\n• Contribute to grant writing and proposal development.\n• Support refinement and updating of the overall evaluation approach.\n\nSupport translation and dissemination work aligned with interests and expertise . Preferred candidates will bring experience in either qualitative or quantitative research methods. On the qualitative side, they should be comfortable assisting with interview case selection, conducting stakeholder interviews, and analyzing qualitative data using appropriate methodologies. Quantitatively, they should be able to support instrument validation and psychometric analysis, clean and integrate datasets from multiple sources, and create and maintain codebooks and documentation. Strong candidates will also contribute to dissemination efforts, including reporting to advisory boards and participating camps, preparing formal reports, engaging in academic publishing and conference presentations, and helping develop evaluation tools and resources. It is expected that postdocs will generate their own research projects that are synergistic with the larger research plan, as a way to support their development and learning.\n\nMinimum Qualifications\n\nPh.D. in Human Development/Developmental Science; Education; Psychology; Parks, Recreation, and Tourism; or related fields.\n\nProficiency in data management and visualization tools (e.g., Excel, Power BI, R, SPSS, or Stata).\n\nMixed-methods research experience (qualitative and quantitative).\n\nPreferences\n\nFamiliarity with summer camps or similar youth-serving organizations.\n\nExperience developing training materials and facilitating workshops.\n\nMixed-methods research experience (qualitative and quantitative).\n\nExperience with program evaluation, especially in youth development or outdoor education settings.\n\nStrong communication and organizational skills.\n\nAbility to work independently and collaboratively in a dynamic, multi-stakeholder environment\n\nType\nBenefited Staff\n\nSpecial Instructions Summary\n\nAdditional Information\n\nThe University is a participating employer with Utah Retirement Systems (\"URS\"). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) ###-#### for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS' post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) ###-#### or (800) ###-#### or University Human Resource Management at (801) ###-#### if you have questions regarding the post-retirement rules.\nThis position may require the successful completion of a criminal background check and/or drug screen.\n\nThe University of Utah values candidates who have experience working in settings with students and patients from all backgrounds and possess a strong commitment to improving access to higher education and quality healthcare for historically underrepresented students and patients.\n\nAll qualified individuals are strongly encouraged to apply. Veterans' preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law. Upon request, reasonable accommodations in the application process will be provided to individuals with disabilities.\nThe University of Utah is an Affirmative Action/Equal Opportunity employer and does not discriminate based upon race, ethnicity, color, religion, national origin, age, disability, sex, sexual orientation, gender, gender identity, gender expression, pregnancy, pregnancy-related conditions, genetic information, or protected veteran's status. The University does not discriminate on the basis of sex in the education program or activity that it operates, as required by Title IX and 34 CFR part 106. The requirement not to discriminate in education programs or activities extends to admission and employment. Inquiries about the application of Title IX and its regulations may be referred to the Title IX Coordinator, to the Department of Education, Office for Civil Rights, or both.\nTo request a reasonable accommodation for a disability or if you or someone you know has experienced discrimination or sexual misconduct including sexual harassment, you may contact the Director/Title IX Coordinator in the Office of Equal Opportunity and Affirmative Action (OEO/AA). More information, including the Director/Title IX Coordinator's office address, electronic mail address, and telephone number can be located at:\nOnline reports may be submitted at oeo.utah.edu\n\nThis report includes statistics about criminal offenses, hate crimes, arrests and referrals for disciplinary action, and Violence Against Women Act offenses. They also provide information about safety and security-related services offered by the University of Utah. A paper copy can be obtained by request at the Department of Public Safety located at 1658 East 500 South.",
+    "job_description": "A company is looking for a Scientist IV to work in Ridgefield, CT.\n\nKey Responsibilities\n\nDesign, develop, and execute functional genomics assays, including CRISPR-based editing and single-cell sequencing\n\nProvide technical guidance and training to research scientists on FGSL technologies and techniques\n\nDocument and maintain detailed laboratory records and operate lab equipment collaboratively\n\nQualifications\n\nPh.D. or Master's degree from an accredited institution with 6+ years of experience in molecular, cell biology, or related scientific discipline\n\n2+ years of experience with CRISPR is required\n\nExperience with primary cell lines is required\n\nExperience with NGS is required",
     "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "Taylorsville, UT",
-    "job_city": "Taylorsville",
-    "job_state": "Utah",
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Newark, DE",
+    "job_city": "Newark",
+    "job_state": "Delaware",
     "job_country": "US",
-    "job_latitude": 40.653153599999996,
-    "job_longitude": -111.9578509,
-    "job_benefits": [
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Da9dXcaApDsREj4rIAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_latitude": 39.683722599999996,
+    "job_longitude": -75.7496572,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dnsn-l0uoBxL9NMXQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "On the qualitative side, they should be comfortable assisting with interview case selection, conducting stakeholder interviews, and analyzing qualitative data using appropriate methodologies",
-        "Ph.D. in Human Development/Developmental Science; Education; Psychology; Parks, Recreation, and Tourism; or related fields",
-        "Proficiency in data management and visualization tools (e.g., Excel, Power BI, R, SPSS, or Stata)",
-        "Mixed-methods research experience (qualitative and quantitative)",
-        "Familiarity with summer camps or similar youth-serving organizations",
-        "Experience developing training materials and facilitating workshops",
-        "Mixed-methods research experience (qualitative and quantitative)",
-        "Experience with program evaluation, especially in youth development or outdoor education settings",
-        "Strong communication and organizational skills",
-        "Ability to work independently and collaboratively in a dynamic, multi-stakeholder environment",
-        "This position may require the successful completion of a criminal background check and/or drug screen",
-        "The University of Utah values candidates who have experience working in settings with students and patients from all backgrounds and possess a strong commitment to improving access to higher education and quality healthcare for historically underrepresented students and patients"
-      ],
-      "Benefits": [
-        "40",
-        "Pay Rate Range",
-        "Full-time, 12-month appointment with potential for renewal",
-        "Currently funded through 2029",
-        "Competitive salary and benefits package",
-        "The University is a participating employer with Utah Retirement Systems (\"URS\")",
-        "Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work)",
-        "Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS' post-retirement rules and restrictions"
+        "Ph.D. or Master's degree from an accredited institution with 6+ years of experience in molecular, cell biology, or related scientific discipline",
+        "2+ years of experience with CRISPR is required",
+        "Experience with primary cell lines is required",
+        "Experience with NGS is required"
       ],
       "Responsibilities": [
-        "Priority Review Date (Note - Posting may close at any time)",
-        "Postdoctoral Research Associate - Evaluation and Data Support for Youth Camp Initiatives",
-        "This position will play a key role in coordinating training and technical assistance for camp professionals, managing data collection processes, supporting conceptual design, and contributing to research translation and dissemination efforts",
-        "The ideal candidate will have strong skills in project coordination, data interpretation, and stakeholder engagement",
-        "Training and Technical Assistance for Camp Professionals",
-        "Develop and deliver training materials and presentations to prepare grantees for evaluation activities",
-        "Attend grantee cohort meetings to provide support and guidance",
-        "Lead training for camps focused on data use and interpretation for program improvement",
-        "Project Management and Evaluation Coordination",
-        "Coordinate data collection efforts, including surveys and interviews, across multiple sites",
-        "Serve as a liaison with camps, the ACA (American Camp Association), and other stakeholders to ensure smooth communication and logistics",
-        "Prepare and distribute evaluation materials to participating sites",
-        "Support data verification processes for accuracy and completeness",
-        "Contribute to process improvement efforts to enhance evaluation workflows",
-        "Support dashboard development and data visualization for reporting and decision-making",
-        "Conceptual Design and Evaluation Strategy",
-        "Assist with instrument development and refinement, including survey instruments and observational tools",
-        "Help maintain project vision and coherence across components",
-        "Coordinate across project activities to ensure alignment and integration",
-        "Contribute to grant writing and proposal development",
-        "Support refinement and updating of the overall evaluation approach",
-        "Support translation and dissemination work aligned with interests and expertise ",
-        "Quantitatively, they should be able to support instrument validation and psychometric analysis, clean and integrate datasets from multiple sources, and create and maintain codebooks and documentation",
-        "Strong candidates will also contribute to dissemination efforts, including reporting to advisory boards and participating camps, preparing formal reports, engaging in academic publishing and conference presentations, and helping develop evaluation tools and resources",
-        "It is expected that postdocs will generate their own research projects that are synergistic with the larger research plan, as a way to support their development and learning"
+        "Design, develop, and execute functional genomics assays, including CRISPR-based editing and single-cell sequencing",
+        "Provide technical guidance and training to research scientists on FGSL technologies and techniques",
+        "Document and maintain detailed laboratory records and operate lab equipment collaboratively"
       ]
     },
-    "job_onet_soc": "25106500",
+    "job_onet_soc": "19203200",
     "job_onet_job_zone": "5",
-    "id": "www-whatjobs-com-jobs-research-scientist",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "zq7G831yuF0pdxEzAAAAAA==",
+    "job_title": "AI Research Scientist - Language - MRS AI",
+    "employer_name": "Meta",
+    "employer_logo": null,
+    "employer_website": "https://www.meta.com",
+    "job_publisher": "VetJobs",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.vetjobs.org/springfield-il/ai-research-scientist-language-mrs-ai/15E4EAB5D339472CB52B20FBC86C4203/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "VetJobs",
+        "apply_link": "https://jobs.vetjobs.org/springfield-il/ai-research-scientist-language-mrs-ai/15E4EAB5D339472CB52B20FBC86C4203/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobs For Stevenage Fans",
+        "apply_link": "https://jobs.stevenagefc.com/jobs/senior-ai-scientist-large-language-model-innovation-springfield-illinois/2614197728-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SaluteMyJob",
+        "apply_link": "https://salutemyjob.com/jobs/senior-ai-scientist-large-language-model-innovation-springfield-illinois/2614197728-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "USNLX STEM | USNLX STEM - National Labor Exchange",
+        "apply_link": "https://stem.usnlx.com/springfield-il/ai-research-scientist-language-mrs-ai/15E4EAB5D339472CB52B20FBC86C4203/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "KSNT Jobs",
+        "apply_link": "https://jobs.ksnt.com/jobs/senior-ai-scientist-large-language-model-innovation-springfield-illinois/2614197728-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "KGET Jobs",
+        "apply_link": "https://jobs.kget.com/jobs/senior-ai-scientist-large-language-model-innovation-springfield-illinois/2614197728-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "KHON2 Jobs",
+        "apply_link": "https://jobs.khon2.com/jobs/senior-ai-scientist-large-language-model-innovation-springfield-illinois/2614197728-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Hispanic Today",
+        "apply_link": "https://hispanic-today.com/springfield-il/ai-research-scientist-language-mrs-ai/15E4EAB5D339472CB52B20FBC86C4203/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Summary:\n\nThe MRS AI Knowledge team is at the forefront of innovation in content understanding, user understanding, retrieval, and ranking. As a key driver of Meta's app growth, we are committed to revolutionizing recommendation systems by leveraging the latest advancements in AI, including Large Language Models (LLMs) and generative AI. We're dedicated to pushing the boundaries of recommendation systems to deliver exceptional user experiences across Facebook, Instagram, Threads, and more.\n\nRequired Skills:\n\nAI Research Scientist - Language - MRS AI Responsibilities:\n• Collaborate, and execute on research that pushes forward the state of the art in large language model research\n• Directly contribute to experiments, including designing experimental details, writing reusable code, running evaluations, and organizing results\n• Contribute to publications and open-sourcing efforts\n• Help identify long-term ambitious research goals as well as intermediate milestones\n• Prioritize research that can be applied to Meta's product development\n\nMinimum Qualifications:\n\nMinimum Qualifications:\n• Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience\n• Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta\n• Currently has, or is in the process of obtaining a PhD degree in Computer Science, Artificial Intelligence, Data Science, or related technical fields\n• Experience in developing interactive solutions for computer vision, natural language processing, or computer graphics\n• Direct experience in generative AI and LLM research\n• Must obtain work authorization in the country of employment at the time of hire, and maintain ongoing work authorization during employment\n\nPreferred Qualifications:\n\nPreferred Qualifications:\n• Experience solving complex problems and comparing alternative solutions, tradeoffs, and different perspectives to determine a path forward\n• Experience with deep learning frameworks (such as pytorch, tensorflow) and Python\n• Proven track record of achieving significant results as demonstrated by grants, fellowships, patents, as well as publications at leading workshops, journals or conferences in Machine Learning (NeurIPS, ICML, ICLR), Robotics (ICRA, IROS, RSS, CoRL), Computer Vision (CVPR, ICCV, ECCV)\n• Demonstrated research and software engineering experience via an internship, work experience, coding competitions, or widely used contributions in open source repositories (e.g. GitHub)\n• Experience working and communicating cross functionally in a team environment\n• Experience with manipulating and analyzing complex, large scale, high-dimensionality data from varying sources\n\nPublic Compensation:\n\n$154,000/year to $217,000/year + bonus + equity + benefits\n\nIndustry: Internet\n\nEqual Opportunity:\n\nMeta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.\n\nMeta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@meta.com.",
+    "job_is_remote": false,
+    "job_posted_at": "8 days ago",
+    "job_posted_at_timestamp": 1770422400,
+    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
+    "job_location": "Springfield, IL",
+    "job_city": "Springfield",
+    "job_state": "Illinois",
+    "job_country": "US",
+    "job_latitude": 39.8006593,
+    "job_longitude": -89.64493449999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dzq7G831yuF0pdxEzAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience",
+        "Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience",
+        "Degree must be completed prior to joining Meta",
+        "Currently has, or is in the process of obtaining a PhD degree in Computer Science, Artificial Intelligence, Data Science, or related technical fields",
+        "Experience in developing interactive solutions for computer vision, natural language processing, or computer graphics",
+        "Direct experience in generative AI and LLM research",
+        "Must obtain work authorization in the country of employment at the time of hire, and maintain ongoing work authorization during employment",
+        "Experience working and communicating cross functionally in a team environment",
+        "Experience with manipulating and analyzing complex, large scale, high-dimensionality data from varying sources",
+        "Meta participates in the E-Verify program in certain locations, as required by law"
+      ],
+      "Benefits": [
+        "$154,000/year to $217,000/year + bonus + equity + benefits"
+      ],
+      "Responsibilities": [
+        "We're dedicated to pushing the boundaries of recommendation systems to deliver exceptional user experiences across Facebook, Instagram, Threads, and more",
+        "Collaborate, and execute on research that pushes forward the state of the art in large language model research",
+        "Directly contribute to experiments, including designing experimental details, writing reusable code, running evaluations, and organizing results",
+        "Contribute to publications and open-sourcing efforts",
+        "Help identify long-term ambitious research goals as well as intermediate milestones",
+        "Prioritize research that can be applied to Meta's product development"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "jobs-vetjobs-org-springfield-il-ai-research-scientist-language-mrs-ai-15e4eab5d339472cb52b20fbc86c4203-job",
     "_source": "new_jobs"
   }
 ]
