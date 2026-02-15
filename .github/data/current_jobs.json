@@ -1,10 +1,66 @@
 [
   {
+    "job_id": "3fku_9fysjJRZIuuAAAAAA==",
+    "job_title": "AI Analytics Engineer Washington, DC REMOTE 40",
+    "employer_name": "Ark Solutions",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI4YVw6ssg5R4ZkgAWCWYQoktfgdavC7UZx4-N&s=0",
+    "employer_website": "https://arksolutionsinc.com",
+    "job_publisher": "Jobilize",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.jobilize.com/job/us-ri-all-cities-ai-analytics-engineer-washington-dc-remote-40-ark?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-ri-all-cities-ai-analytics-engineer-washington-dc-remote-40-ark?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "AI Analytics Engineer\n\nLocation: Washington, DC (REMOTE)\n\nDuration: 7+ months\n\nTasks to be performed:\n• Conduct a thorough assessment of the current HRTS applications landscape and document existing gaps and opportunities for AI and Automation.\n• Propose solutions and recommendations for system enhancements, including software updates, integrations, and process improvements.\n• Generate AI Models and Algorithms for HR purposes.\n• Develop project documentation, including project plans, timelines, and progress reports.\n• Communicate effectively with other team members, stakeholders, and business partners.\nRequired Skills:\n• Minimum of 3-5 years' experience in software development leveraging AI, Analytics Support, and Leadership role.\n• Four years' proven work experience as an AI Engineer or similar role.\n• Knowledge of Oracle Forms/Reports, SAP ERP, WebSphere, Tomcat, Java, Python, and GitHub.\nEducation:\n• A four-year degree from an accredited College/University in the applicable field of services is preferred or additional 4 years of relevant work experience is required.",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Rhode Island",
+    "job_city": null,
+    "job_state": "Rhode Island",
+    "job_country": "US",
+    "job_latitude": 41.5800945,
+    "job_longitude": -71.4774291,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D3fku_9fysjJRZIuuAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Minimum of 3-5 years' experience in software development leveraging AI, Analytics Support, and Leadership role",
+        "Four years' proven work experience as an AI Engineer or similar role",
+        "Knowledge of Oracle Forms/Reports, SAP ERP, WebSphere, Tomcat, Java, Python, and GitHub"
+      ],
+      "Responsibilities": [
+        "Conduct a thorough assessment of the current HRTS applications landscape and document existing gaps and opportunities for AI and Automation",
+        "Propose solutions and recommendations for system enhancements, including software updates, integrations, and process improvements",
+        "Generate AI Models and Algorithms for HR purposes",
+        "Develop project documentation, including project plans, timelines, and progress reports",
+        "Communicate effectively with other team members, stakeholders, and business partners"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-jobilize-com-job-us-ri-all-cities-ai-analytics-engineer-washington-dc-remote-40-ark",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "D-LGq5o0FMB3KQT1AAAAAA==",
     "job_title": "Analytics Engineer",
     "employer_name": "Advocate Aurora Health",
     "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmPrUobFkxZ6o2Sn3cafDGFnva_mdPRfZBzxfr&s=0",
-    "employer_website": "https://www.advocatehealth.com",
+    "employer_website": "https://www.advocatehealth.org",
     "job_publisher": "ZipRecruiter",
     "job_employment_type": "Full-time",
     "job_employment_types": [
@@ -66,9 +122,9 @@
     "job_latitude": 36.0948221,
     "job_longitude": -80.2434028,
     "job_benefits": [
+      "paid_time_off",
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DD-LGq5o0FMB3KQT1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 30.7,
@@ -121,145 +177,6 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "www-ziprecruiter-com-c-advocate-aurora-health-job-analytics-engineer-in-winston-salem-nc",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "3fku_9fysjJRZIuuAAAAAA==",
-    "job_title": "AI Analytics Engineer Washington, DC REMOTE 40",
-    "employer_name": "Ark Solutions",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI4YVw6ssg5R4ZkgAWCWYQoktfgdavC7UZx4-N&s=0",
-    "employer_website": "https://arksolutionsinc.com",
-    "job_publisher": "Jobilize",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.jobilize.com/job/us-ri-all-cities-ai-analytics-engineer-washington-dc-remote-40-ark?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-ri-all-cities-ai-analytics-engineer-washington-dc-remote-40-ark?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "AI Analytics Engineer\n\nLocation: Washington, DC (REMOTE)\n\nDuration: 7+ months\n\nTasks to be performed:\n• Conduct a thorough assessment of the current HRTS applications landscape and document existing gaps and opportunities for AI and Automation.\n• Propose solutions and recommendations for system enhancements, including software updates, integrations, and process improvements.\n• Generate AI Models and Algorithms for HR purposes.\n• Develop project documentation, including project plans, timelines, and progress reports.\n• Communicate effectively with other team members, stakeholders, and business partners.\nRequired Skills:\n• Minimum of 3-5 years' experience in software development leveraging AI, Analytics Support, and Leadership role.\n• Four years' proven work experience as an AI Engineer or similar role.\n• Knowledge of Oracle Forms/Reports, SAP ERP, WebSphere, Tomcat, Java, Python, and GitHub.\nEducation:\n• A four-year degree from an accredited College/University in the applicable field of services is preferred or additional 4 years of relevant work experience is required.",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Rhode Island",
-    "job_city": null,
-    "job_state": "Rhode Island",
-    "job_country": "US",
-    "job_latitude": 41.5800945,
-    "job_longitude": -71.4774291,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D3fku_9fysjJRZIuuAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Minimum of 3-5 years' experience in software development leveraging AI, Analytics Support, and Leadership role",
-        "Four years' proven work experience as an AI Engineer or similar role",
-        "Knowledge of Oracle Forms/Reports, SAP ERP, WebSphere, Tomcat, Java, Python, and GitHub"
-      ],
-      "Responsibilities": [
-        "Conduct a thorough assessment of the current HRTS applications landscape and document existing gaps and opportunities for AI and Automation",
-        "Propose solutions and recommendations for system enhancements, including software updates, integrations, and process improvements",
-        "Generate AI Models and Algorithms for HR purposes",
-        "Develop project documentation, including project plans, timelines, and progress reports",
-        "Communicate effectively with other team members, stakeholders, and business partners"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-jobilize-com-job-us-ri-all-cities-ai-analytics-engineer-washington-dc-remote-40-ark",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "h4Px_slRHIXshjaHAAAAAA==",
-    "job_title": "Data Analytics Engineer II - IM Enterprise Data",
-    "employer_name": "Christus Health",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcDADXYW44OCBLPAj4Y3AN8FEYdbU07Pe0pOTp&s=0",
-    "employer_website": "https://www.christushealth.org",
-    "job_publisher": "Women For Hire- Job Board",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobs.womenforhire.com/job/usa/carrollton-tx/data-analytics-engineer-ii-im-enterprise-data-237234/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Women For Hire- Job Board",
-        "apply_link": "https://jobs.womenforhire.com/job/usa/carrollton-tx/data-analytics-engineer-ii-im-enterprise-data-237234/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Description\n\nSummary:\n\nA Data and Analytics Engineer II is responsible for development, expansion, and maintenance of data pipelines of the echo system. A Data and Analytics Engineer uses programming skills to develop, customize and manage integration tools, databases, warehouses, and analytical systems.\n\nThe Data and Analytics Engineer II is responsible for implementation of optimal solutions to integrate, store, process and analyze huge data sets. This includes an understanding of methodology, specifications, programming, delivery, monitoring, and support standards.\n\nIndividual must have advanced knowledge of designing and developing data pipelines and delivering advanced analytics, with open-source Big Data processing frameworks such as Hadoop technologies. Individual must have proven competency in programming utilizing distributed computing principles.\n\nResponsibilities:\n• Meets expectations of the applicable OneCHRISTUS Competencies: Leader of Self, Leader of Others, or Leader of Leaders.\n• Responsible for analyzing and understanding data sources, participating in requirement gathering, and providing insights and guidance on data technology and data modeling best practices.\n• Analyzes ideas and business and functional requirements to formulate a design strategy.\n• Acts as a tenant to draw out a workable application design and coding parameters with essential functionalities.\n• Works in collaboration with the team members to identify and address the issues by implementing a viable technical solution that is time and cost-effective and ensuring that it does not affect performance quality.\n• Develops code following the industry's best practices and adhere to the organizational development rules and standards.\n• Involved in the evaluation of proposed system acquisitions or solutions development and provides input to the decision-making process relative to compatibility, cost, resource requirements, operations, and maintenance.\n• Integrates software components, subsystems, facilities, and services into the existing technical systems environment; assesses the impact on other systems and works with cross-functional teams within information Services to ensure positive project impact. Installs configure and verify the operation of software components.\n• Participates in the development of standards, design, and implementation of proactive processes to collect and report data and statistics on assigned systems.\n• Participates in the research, design, development, and implementation of application, database, and interface using technologies platforms provided.\n• Researching, designing, implementing, and managing programs.\n• Fixes problems arising across the test cycles and continuously improve the quality of deliverables.\n• References and documents each phase of development for further reference and maintenance operation.\n• Uses critical and analytical thinking skills and understanding of programming principles and design.\n• Uses strong technical knowledge of Enterprise Application/Integration Design and develop systems, databases, operating systems, and Information Services.\n• Uses experience in large scale data lake data and data warehouse implementations and demonstrate proficiency in open-source technology, for example, Python, Spark, Hive, HDFS, NiFi etc.\n• Demonstrates substantial experience and a deep knowledge of data mining techniques, relational, and non-relational databases.\n• Demonstrates experience with data integration with ETL techniques and frameworks.\n• Works with Big Data querying tools, such as Hive, Impala and Spark SQL.\n• Builds stream-processing systems, using solutions such as NiFi or Spark-Streaming.\n• Demonstrates good understanding of Lambda Architecture\n• Uses intermediate level of SQL programing and query performance tuning techniques for Data Integration and Consumption using design for optimum performance against large data asset within Transactional, MPP and columnar architecture.\n• Demonstrates solid understanding of BI and analytics landscape, preferable in large-scale development environments.\n\nJob Requirements:\n\nEducation/Skills\n• Bachelor’s degree in computer science, Engineering, Math, or related field is required.\n\nExperience\n• Minimum of three (3) years of experience in MapReduce, Spark programming.\n• Minimum of three (3) years of experience developing analytics solutions with large data sets within an OLAP and MPP architecture.\n• Minimum of five (5) years of experience with design, architecture and development of Enterprise scale platforms built on open-source frameworks.\n• Three (3) years of experience with working in a Microsoft SQL Server environment is preferred.\n• One (1) year of Healthcare IT experience is preferred.\n• Two (2) years of experience working with Microsoft SQL Server Integration Services (SSIS) is preferred.\n\nLicenses, Registrations, or Certifications\n• Certifications in Hadoop or Java are a plus.\n\nWork Schedule:\n\n8AM - 5PM Monday-Friday\n\nWork Type:\n\nFull Time",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Carrollton, TX",
-    "job_city": "Carrollton",
-    "job_state": "Texas",
-    "job_country": "US",
-    "job_latitude": 32.9756415,
-    "job_longitude": -96.8899636,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dh4Px_slRHIXshjaHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Individual must have advanced knowledge of designing and developing data pipelines and delivering advanced analytics, with open-source Big Data processing frameworks such as Hadoop technologies",
-        "Individual must have proven competency in programming utilizing distributed computing principles",
-        "Uses strong technical knowledge of Enterprise Application/Integration Design and develop systems, databases, operating systems, and Information Services",
-        "Uses experience in large scale data lake data and data warehouse implementations and demonstrate proficiency in open-source technology, for example, Python, Spark, Hive, HDFS, NiFi etc",
-        "Demonstrates substantial experience and a deep knowledge of data mining techniques, relational, and non-relational databases",
-        "Demonstrates experience with data integration with ETL techniques and frameworks",
-        "Works with Big Data querying tools, such as Hive, Impala and Spark SQL",
-        "Builds stream-processing systems, using solutions such as NiFi or Spark-Streaming",
-        "Demonstrates solid understanding of BI and analytics landscape, preferable in large-scale development environments",
-        "Bachelor’s degree in computer science, Engineering, Math, or related field is required",
-        "Minimum of three (3) years of experience in MapReduce, Spark programming",
-        "Minimum of three (3) years of experience developing analytics solutions with large data sets within an OLAP and MPP architecture",
-        "Minimum of five (5) years of experience with design, architecture and development of Enterprise scale platforms built on open-source frameworks",
-        "Licenses, Registrations, or Certifications"
-      ],
-      "Responsibilities": [
-        "A Data and Analytics Engineer II is responsible for development, expansion, and maintenance of data pipelines of the echo system",
-        "A Data and Analytics Engineer uses programming skills to develop, customize and manage integration tools, databases, warehouses, and analytical systems",
-        "The Data and Analytics Engineer II is responsible for implementation of optimal solutions to integrate, store, process and analyze huge data sets",
-        "This includes an understanding of methodology, specifications, programming, delivery, monitoring, and support standards",
-        "Meets expectations of the applicable OneCHRISTUS Competencies: Leader of Self, Leader of Others, or Leader of Leaders",
-        "Responsible for analyzing and understanding data sources, participating in requirement gathering, and providing insights and guidance on data technology and data modeling best practices",
-        "Analyzes ideas and business and functional requirements to formulate a design strategy",
-        "Acts as a tenant to draw out a workable application design and coding parameters with essential functionalities",
-        "Works in collaboration with the team members to identify and address the issues by implementing a viable technical solution that is time and cost-effective and ensuring that it does not affect performance quality",
-        "Develops code following the industry's best practices and adhere to the organizational development rules and standards",
-        "Involved in the evaluation of proposed system acquisitions or solutions development and provides input to the decision-making process relative to compatibility, cost, resource requirements, operations, and maintenance",
-        "Integrates software components, subsystems, facilities, and services into the existing technical systems environment; assesses the impact on other systems and works with cross-functional teams within information Services to ensure positive project impact",
-        "Installs configure and verify the operation of software components",
-        "Participates in the development of standards, design, and implementation of proactive processes to collect and report data and statistics on assigned systems",
-        "Participates in the research, design, development, and implementation of application, database, and interface using technologies platforms provided",
-        "Researching, designing, implementing, and managing programs",
-        "Fixes problems arising across the test cycles and continuously improve the quality of deliverables",
-        "References and documents each phase of development for further reference and maintenance operation",
-        "Uses critical and analytical thinking skills and understanding of programming principles and design",
-        "Demonstrates good understanding of Lambda Architecture",
-        "Uses intermediate level of SQL programing and query performance tuning techniques for Data Integration and Consumption using design for optimum performance against large data asset within Transactional, MPP and columnar architecture"
-      ]
-    },
-    "job_onet_soc": "43911100",
-    "job_onet_job_zone": "4",
-    "id": "jobs-womenforhire-com-job-usa-carrollton-tx-data-analytics-engineer-ii-im-enterprise-data-237234",
     "_source": "new_jobs"
   },
   {
@@ -345,123 +262,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "LnGFK8e-I20MJtnHAAAAAA==",
-    "job_title": "SCM Analytics Engineer - Full-time",
-    "employer_name": "Southern Glazer's Wine and Spirits",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo589aPoxsES92lx6gGXgSyhXQjevcTInpnhA0&s=0",
-    "employer_website": "https://www.southernglazers.com",
-    "job_publisher": "Snagajob",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.snagajob.com/jobs/1160086327?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Snagajob",
-        "apply_link": "https://www.snagajob.com/jobs/1160086327?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "**What You Need To Know**\n\nShape a remarkable future with us. Build a career working for an industry leader that truly invests in their people – and equips them with leading technology, continuous learning, and the ability to bring their best selves to work. As the premier wine and spirits distributor, Southern Glazer’s isn't just one of Forbes’ Top Private Companies; it's a family-owned business with deep roots dating back to 1933.\n\nThe reputation of Southern Glazer’s is well-established, and it's no surprise that we are regularly recognized for our culture. Southern Glazer’s has been recognized by Newsweek as one of America’s Greatest Workplaces for Inclusion and Diversity, as well as for Women and Parents and Families. These accolades speak volumes about our commitment to creating a supportive and inclusive culture of belonging for all employees.\n\nAs a full-time employee, you can choose from a wide-ranging menu of our Top Shelf Benefits, including comprehensive medical and prescription drug coverage, dental and vision plans, tax-saving Flexible Spending Accounts, disability coverage, life insurance plans, and a 401(k) plan. We also offer tuition assistance, a wellness program, parental leave, vacation accrual, paid sick leave, and more.\n\nBy joining Southern Glazer’s, you would be part of a team that values excellence, innovation, and community. This is more than just a job – it's an opportunity to build the future of beverage distribution and grow with a company that truly cares about its people.\n• *Must be eligible to work as a full-time employee in the US without sponsorship.**\n• *Overview**\n\nThe SCM Analytics Developer will partner with functional members of Supply Chain to understand the current and future business requirements. They will be responsible for gathering data across various sources, analyzing it, and providing insights used for informed decision-making. They will ensure the appropriate use of analytical tools so that analysis and reporting are accurate, timely, thorough, and professional. They will also optimize existing data processes and resources, setting clear goals and benchmarks for improvement, development, and effective management of sound business practices.\n• *Primary Responsibilities**\n\n+ Develop reporting on SAP Business Objects, Tableau Dashboards, and create Excel refreshable files through Open Database Connectivity (ODBC) connections and Power Queries\n\n+ Automate processes using Amazon Web Services (AWS), including Step Functions, EventBridge, Simple Storage Service (S3) Buckets, and AWS Glue. Additionally, leveraged SharePoint Site services—such as lists and workflows—integrated through Power Automate\n\n+ Maintain data quality through identifying issues, removing duplicates, data cleansing, and enriching data quality\n\n+ Develop, design, and manage efficient processes, tabular reports, list reports, score cards, dynamic models, and dashboards that effectively monitor various key performance indicators (KPI)s and assist the supply chain business teams\n\n+ Apply the appropriate use of analytical tools to optimize reporting for current business requirements and create new processes and solutions for future business requirements\n\n+ Provide mentoring and support to other analysts to assist in their development surrounding data, processes, reporting, and utilizing self-service tools\n\n+ Assist with timely, accurate, pertinent information and analysis, as well as aid in monitoring, evaluating, and improving performance and related metrics of the Supply Chain\n• *Additional Primary Responsibilities**\n\n+ Support the long-term vision of the supply chain through the effective implementation of data reporting\n\n+ Ability to understand and translate data into business insights\n\n+ Summarize analysis and findings for users\n\n+ Ability to join data from multiple systems and sources through the use of Excel, SQL, Python, AWS services, and other components\n\n+ Ability to mine large sets of data analytics and insights\n\n+ Perform other job-related duties as assigned\n• *Minimum Qualifications**\n\n+ Bachelor’s Degree and three years of experience or equivalent education and related experience\n\n+ Experience in data preparation, blending, discovery, and visualization using modern BI & Analytics tools such as AWS services like Step Functions, Glue, Sage Maker, and other components, SAP Business Objects, Tableau, Alteryx, and Excel\n\n+ Expert knowledge in Excel, including pivot tables, Power Queries, vlookup, and other advanced formulas\n\n+ Intermediate knowledge of SQL (Joins, Stored Procedures, Views, Jobs, and Troubleshooting)\n\n+ Experience developing, improving, and streamlining processes and reporting\n\n+ Thorough analytical, investigative, and problem-solving skills\n\n+ Timeliness, accuracy, and professionalism\n• *Physical Demands**\n\n+ Physical demands include a considerable amount of time sitting and typing/keyboarding, using a computer (e.g., keyboard, mouse, and monitor), or a mobile device\n\n+ Physical demands with activity or condition may occasionally include walking, bending, reaching, standing, squatting, and stooping\n\n+ May require occasional lifting/lowering, pushing, carrying, or pulling up to 20lbs\n• *EEO Statement**\n\nSouthern Glazer's Wine and Spirits, an Affirmative Action/EEO employer, prohibits discrimination and harassment of any type and provides equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training. SGWS complies with all federal, state and local laws concerning consideration of a qualified applicant's arrest and/or criminal conviction records. Southern Glazer's Wine and Spirits provides competitive compensation based on estimated performance level consistent with the past relevant experience, knowledge, skills, abilities and education of employees. Unless otherwise expressly stated, any pay ranges posted here are estimates from outside of Southern Glazer's Wine and Spirits and do not reflect Southern Glazer's pay bands or ranges.\n\n\\#LI-JL1\n\n_If you have any questions or concerns about whether this posting complies/adheres with local pay transparency requirements, please contact the SGWS talent acquisition team at NationalTA@sgws.com_\n\nSouthern Glazer's Wine and Spirits provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.\n• *What You Need To Know**\n\nShape a remarkable future with us. Build a career working for an industry leader that truly invests in their people – and equips them with leading technology, continuous learning, and the ability to bring their best selves to work. As the premier wine and spirits distributor, Southern Glazer’s isn't just one of Forbes’ Top Private Companies; it's a family-owned business with deep roots dating back to 1933.\n\nThe reputation of Southern Glazer’s is well-established, and it's no surprise that we are regularly recognized for our culture. Southern Glazer’s has been recognized by Newsweek as one of America’s Greatest Workplaces for Inclusion and Diversity, as well as for Women and Parents and Families. These accolades speak volumes about our commitment to creating a supportive and inclusive culture of belonging for all employees.\n\nAs a full-time employee, you can choose from a wide-ranging menu of our Top Shelf Benefits, including comprehensive medical and prescription drug coverage, dental and vision plans, tax-saving Flexible Spending Accounts, disability coverage, life insurance plans, and a 401(k) plan. We also offer tuition assistance, a wellness program, parental leave, vacation accrual, paid sick leave, and more.\n\nBy joining Southern Glazer’s, you would be part of a team that values excellence, innovation, and community. This is more than just a job – it's an opportunity to build the future of beverage distribution and grow with a company that truly cares about its people.\n• *Must be eligible to work as a full-time employee in the US without sponsorship.**\n• *Overview**\n\nThe SCM Analytics Developer will partner with functional members of Supply Chain to understand the current and future business requirements. They will be responsible for gathering data across various sources, analyzing it, and providing insights used for informed decision-making. They will ensure the appropriate use of analytical tools so that analysis and reporting are accurate, timely, thorough, and professional. They will also optimize existing data processes and resources, setting clear goals and benchmarks for improvement, development, and effective management of sound business practices.\n• *Primary Responsibilities**\n\n+ Develop reporting on SAP Business Objects, Tableau Dashboards, and create Excel refreshable files through Open Database Connectivity (ODBC) connections and Power Queries\n\n+ Automate processes using Amazon Web Services (AWS), including Step Functions, EventBridge, Simple Storage Service (S3) Buckets, and AWS Glue. Additionally, leveraged SharePoint Site services—such as lists and workflows—integrated through Power Automate\n\n+ Maintain data quality through identifying issues, removing duplicates, data cleansing, and enriching data quality\n\n+ Develop, design, and manage efficient processes, tabular reports, list reports, score cards, dynamic models, and dashboards that effectively monitor various key performance indicators (KPI)s and assist the supply chain business teams\n\n+ Apply the appropriate use of analytical tools to optimize reporting for current business requirements and create new processes and solutions for future business requirements\n\n+ Provide mentoring and support to other analysts to assist in their development surrounding data, processes, reporting, and utilizing self-service tools\n\n+ Assist with timely, accurate, pertinent information and analysis, as well as aid in monitoring, evaluating, and improving performance and related metrics of the Supply Chain\n• *Additional Primary Responsibilities**\n\n+ Support the long-term vision of the supply chain through the effective implementation of data reporting\n\n+ Ability to understand and translate data into business insights\n\n+ Summarize analysis and findings for users\n\n+ Ability to join data from multiple systems and sources through the use of Excel, SQL, Python, AWS services, and other components\n\n+ Ability to mine large sets of data analytics and insights\n\n+ Perform other job-related duties as assigned\n• *Minimum Qualifications**\n\n+ Bachelor’s Degree and three years of experience or equivalent education and related experience\n\n+ Experience in data preparation, blending, discovery, and visualization using modern BI & Analytics tools such as AWS services like Step Functions, Glue, Sage Maker, and other components, SAP Business Objects, Tableau, Alteryx, and Excel\n\n+ Expert knowledge in Excel, including pivot tables, Power Queries, vlookup, and other advanced formulas\n\n+ Intermediate knowledge of SQL (Joins, Stored Procedures, Views, Jobs, and Troubleshooting)\n\n+ Experience developing, improving, and streamlining processes and reporting\n\n+ Thorough analytical, investigative, and problem-solving skills\n\n+ Timeliness, accuracy, and professionalism\n• *Physical Demands**\n\n+ Physical demands include a considerable amount of time sitting and typing/keyboarding, using a computer (e.g., keyboard, mouse, and monitor), or a mobile device\n\n+ Physical demands with activity or condition may occasionally include walking, bending, reaching, standing, squatting, and stooping\n\n+ May require occasional lifting/lowering, pushing, carrying, or pulling up to 20lbs\n• *EEO Statement**\n\nSouthern Glazer's Wine and Spirits, an Affirmative Action/EEO employer, prohibits discrimination and harassment of any type and provides equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training. SGWS complies with all federal, state and local laws concerning consideration of a qualified applicant's arrest and/or criminal conviction records. Southern Glazer's Wine and Spirits provides competitive compensation based on estimated performance level consistent with the past relevant experience, knowledge, skills, abilities and education of employees. Unless otherwise expressly stated, any pay ranges posted here are estimates from outside of Southern Glazer's Wine and Spirits and do not reflect Southern Glazer's pay bands or ranges.\n\n\\#LI-JL1\n\n_If you have any questions or concerns about whether this posting complies/adheres with local pay transparency requirements, please contact the SGWS talent acquisition team at NationalTA@sgws.com_\n\nSouthern Glazer's Wine and Spirits provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Miramar, FL",
-    "job_city": "Miramar",
-    "job_state": "Florida",
-    "job_country": "US",
-    "job_latitude": 25.9860762,
-    "job_longitude": -80.30356019999999,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLnGFK8e-I20MJtnHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Ability to understand and translate data into business insights",
-        "Ability to join data from multiple systems and sources through the use of Excel, SQL, Python, AWS services, and other components",
-        "Ability to mine large sets of data analytics and insights",
-        "Bachelor’s Degree and three years of experience or equivalent education and related experience",
-        "Experience in data preparation, blending, discovery, and visualization using modern BI & Analytics tools such as AWS services like Step Functions, Glue, Sage Maker, and other components, SAP Business Objects, Tableau, Alteryx, and Excel",
-        "Expert knowledge in Excel, including pivot tables, Power Queries, vlookup, and other advanced formulas",
-        "Intermediate knowledge of SQL (Joins, Stored Procedures, Views, Jobs, and Troubleshooting)",
-        "Experience developing, improving, and streamlining processes and reporting",
-        "Thorough analytical, investigative, and problem-solving skills",
-        "Timeliness, accuracy, and professionalism",
-        "Physical demands include a considerable amount of time sitting and typing/keyboarding, using a computer (e.g., keyboard, mouse, and monitor), or a mobile device",
-        "Physical demands with activity or condition may occasionally include walking, bending, reaching, standing, squatting, and stooping",
-        "May require occasional lifting/lowering, pushing, carrying, or pulling up to 20lbs",
-        "Ability to understand and translate data into business insights",
-        "Summarize analysis and findings for users",
-        "Ability to join data from multiple systems and sources through the use of Excel, SQL, Python, AWS services, and other components",
-        "Ability to mine large sets of data analytics and insights",
-        "Bachelor’s Degree and three years of experience or equivalent education and related experience",
-        "Experience in data preparation, blending, discovery, and visualization using modern BI & Analytics tools such as AWS services like Step Functions, Glue, Sage Maker, and other components, SAP Business Objects, Tableau, Alteryx, and Excel",
-        "Expert knowledge in Excel, including pivot tables, Power Queries, vlookup, and other advanced formulas",
-        "Intermediate knowledge of SQL (Joins, Stored Procedures, Views, Jobs, and Troubleshooting)",
-        "Experience developing, improving, and streamlining processes and reporting",
-        "Thorough analytical, investigative, and problem-solving skills",
-        "Timeliness, accuracy, and professionalism",
-        "Physical demands include a considerable amount of time sitting and typing/keyboarding, using a computer (e.g., keyboard, mouse, and monitor), or a mobile device",
-        "Physical demands with activity or condition may occasionally include walking, bending, reaching, standing, squatting, and stooping",
-        "May require occasional lifting/lowering, pushing, carrying, or pulling up to 20lbs"
-      ],
-      "Benefits": [
-        "As a full-time employee, you can choose from a wide-ranging menu of our Top Shelf Benefits, including comprehensive medical and prescription drug coverage, dental and vision plans, tax-saving Flexible Spending Accounts, disability coverage, life insurance plans, and a 401(k) plan",
-        "We also offer tuition assistance, a wellness program, parental leave, vacation accrual, paid sick leave, and more",
-        "As a full-time employee, you can choose from a wide-ranging menu of our Top Shelf Benefits, including comprehensive medical and prescription drug coverage, dental and vision plans, tax-saving Flexible Spending Accounts, disability coverage, life insurance plans, and a 401(k) plan",
-        "We also offer tuition assistance, a wellness program, parental leave, vacation accrual, paid sick leave, and more",
-        "*Must be eligible to work as a full-time employee in the US without sponsorship.**"
-      ],
-      "Responsibilities": [
-        "The SCM Analytics Developer will partner with functional members of Supply Chain to understand the current and future business requirements",
-        "They will be responsible for gathering data across various sources, analyzing it, and providing insights used for informed decision-making",
-        "They will ensure the appropriate use of analytical tools so that analysis and reporting are accurate, timely, thorough, and professional",
-        "They will also optimize existing data processes and resources, setting clear goals and benchmarks for improvement, development, and effective management of sound business practices",
-        "Develop reporting on SAP Business Objects, Tableau Dashboards, and create Excel refreshable files through Open Database Connectivity (ODBC) connections and Power Queries",
-        "Automate processes using Amazon Web Services (AWS), including Step Functions, EventBridge, Simple Storage Service (S3) Buckets, and AWS Glue",
-        "Additionally, leveraged SharePoint Site services—such as lists and workflows—integrated through Power Automate",
-        "Maintain data quality through identifying issues, removing duplicates, data cleansing, and enriching data quality",
-        "Develop, design, and manage efficient processes, tabular reports, list reports, score cards, dynamic models, and dashboards that effectively monitor various key performance indicators (KPI)s and assist the supply chain business teams",
-        "Apply the appropriate use of analytical tools to optimize reporting for current business requirements and create new processes and solutions for future business requirements",
-        "Provide mentoring and support to other analysts to assist in their development surrounding data, processes, reporting, and utilizing self-service tools",
-        "Assist with timely, accurate, pertinent information and analysis, as well as aid in monitoring, evaluating, and improving performance and related metrics of the Supply Chain",
-        "*Additional Primary Responsibilities**",
-        "Support the long-term vision of the supply chain through the effective implementation of data reporting",
-        "Summarize analysis and findings for users",
-        "Perform other job-related duties as assigned",
-        "The SCM Analytics Developer will partner with functional members of Supply Chain to understand the current and future business requirements",
-        "They will be responsible for gathering data across various sources, analyzing it, and providing insights used for informed decision-making",
-        "They will ensure the appropriate use of analytical tools so that analysis and reporting are accurate, timely, thorough, and professional",
-        "They will also optimize existing data processes and resources, setting clear goals and benchmarks for improvement, development, and effective management of sound business practices",
-        "Develop reporting on SAP Business Objects, Tableau Dashboards, and create Excel refreshable files through Open Database Connectivity (ODBC) connections and Power Queries",
-        "Automate processes using Amazon Web Services (AWS), including Step Functions, EventBridge, Simple Storage Service (S3) Buckets, and AWS Glue",
-        "Additionally, leveraged SharePoint Site services—such as lists and workflows—integrated through Power Automate",
-        "Maintain data quality through identifying issues, removing duplicates, data cleansing, and enriching data quality",
-        "Develop, design, and manage efficient processes, tabular reports, list reports, score cards, dynamic models, and dashboards that effectively monitor various key performance indicators (KPI)s and assist the supply chain business teams",
-        "Apply the appropriate use of analytical tools to optimize reporting for current business requirements and create new processes and solutions for future business requirements",
-        "Provide mentoring and support to other analysts to assist in their development surrounding data, processes, reporting, and utilizing self-service tools",
-        "Assist with timely, accurate, pertinent information and analysis, as well as aid in monitoring, evaluating, and improving performance and related metrics of the Supply Chain",
-        "*Additional Primary Responsibilities**",
-        "Support the long-term vision of the supply chain through the effective implementation of data reporting",
-        "Perform other job-related duties as assigned"
-      ]
-    },
-    "job_onet_soc": "13108100",
-    "job_onet_job_zone": "4",
-    "id": "www-snagajob-com-jobs-1160086327",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "_rvXxbAeuJ7yr3ORAAAAAA==",
     "job_title": "Staff Analytics Engineer",
     "employer_name": "Coinbase",
@@ -493,9 +293,9 @@
     "job_latitude": 45.825206,
     "job_longitude": -111.64469659999999,
     "job_benefits": [
-      "paid_time_off",
       "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_rvXxbAeuJ7yr3ORAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -616,6 +416,123 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "LnGFK8e-I20MJtnHAAAAAA==",
+    "job_title": "SCM Analytics Engineer - Full-time",
+    "employer_name": "Southern Glazer's Wine and Spirits",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo589aPoxsES92lx6gGXgSyhXQjevcTInpnhA0&s=0",
+    "employer_website": "https://www.southernglazers.com",
+    "job_publisher": "Snagajob",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.snagajob.com/jobs/1160086327?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Snagajob",
+        "apply_link": "https://www.snagajob.com/jobs/1160086327?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "**What You Need To Know**\n\nShape a remarkable future with us. Build a career working for an industry leader that truly invests in their people – and equips them with leading technology, continuous learning, and the ability to bring their best selves to work. As the premier wine and spirits distributor, Southern Glazer’s isn't just one of Forbes’ Top Private Companies; it's a family-owned business with deep roots dating back to 1933.\n\nThe reputation of Southern Glazer’s is well-established, and it's no surprise that we are regularly recognized for our culture. Southern Glazer’s has been recognized by Newsweek as one of America’s Greatest Workplaces for Inclusion and Diversity, as well as for Women and Parents and Families. These accolades speak volumes about our commitment to creating a supportive and inclusive culture of belonging for all employees.\n\nAs a full-time employee, you can choose from a wide-ranging menu of our Top Shelf Benefits, including comprehensive medical and prescription drug coverage, dental and vision plans, tax-saving Flexible Spending Accounts, disability coverage, life insurance plans, and a 401(k) plan. We also offer tuition assistance, a wellness program, parental leave, vacation accrual, paid sick leave, and more.\n\nBy joining Southern Glazer’s, you would be part of a team that values excellence, innovation, and community. This is more than just a job – it's an opportunity to build the future of beverage distribution and grow with a company that truly cares about its people.\n• *Must be eligible to work as a full-time employee in the US without sponsorship.**\n• *Overview**\n\nThe SCM Analytics Developer will partner with functional members of Supply Chain to understand the current and future business requirements. They will be responsible for gathering data across various sources, analyzing it, and providing insights used for informed decision-making. They will ensure the appropriate use of analytical tools so that analysis and reporting are accurate, timely, thorough, and professional. They will also optimize existing data processes and resources, setting clear goals and benchmarks for improvement, development, and effective management of sound business practices.\n• *Primary Responsibilities**\n\n+ Develop reporting on SAP Business Objects, Tableau Dashboards, and create Excel refreshable files through Open Database Connectivity (ODBC) connections and Power Queries\n\n+ Automate processes using Amazon Web Services (AWS), including Step Functions, EventBridge, Simple Storage Service (S3) Buckets, and AWS Glue. Additionally, leveraged SharePoint Site services—such as lists and workflows—integrated through Power Automate\n\n+ Maintain data quality through identifying issues, removing duplicates, data cleansing, and enriching data quality\n\n+ Develop, design, and manage efficient processes, tabular reports, list reports, score cards, dynamic models, and dashboards that effectively monitor various key performance indicators (KPI)s and assist the supply chain business teams\n\n+ Apply the appropriate use of analytical tools to optimize reporting for current business requirements and create new processes and solutions for future business requirements\n\n+ Provide mentoring and support to other analysts to assist in their development surrounding data, processes, reporting, and utilizing self-service tools\n\n+ Assist with timely, accurate, pertinent information and analysis, as well as aid in monitoring, evaluating, and improving performance and related metrics of the Supply Chain\n• *Additional Primary Responsibilities**\n\n+ Support the long-term vision of the supply chain through the effective implementation of data reporting\n\n+ Ability to understand and translate data into business insights\n\n+ Summarize analysis and findings for users\n\n+ Ability to join data from multiple systems and sources through the use of Excel, SQL, Python, AWS services, and other components\n\n+ Ability to mine large sets of data analytics and insights\n\n+ Perform other job-related duties as assigned\n• *Minimum Qualifications**\n\n+ Bachelor’s Degree and three years of experience or equivalent education and related experience\n\n+ Experience in data preparation, blending, discovery, and visualization using modern BI & Analytics tools such as AWS services like Step Functions, Glue, Sage Maker, and other components, SAP Business Objects, Tableau, Alteryx, and Excel\n\n+ Expert knowledge in Excel, including pivot tables, Power Queries, vlookup, and other advanced formulas\n\n+ Intermediate knowledge of SQL (Joins, Stored Procedures, Views, Jobs, and Troubleshooting)\n\n+ Experience developing, improving, and streamlining processes and reporting\n\n+ Thorough analytical, investigative, and problem-solving skills\n\n+ Timeliness, accuracy, and professionalism\n• *Physical Demands**\n\n+ Physical demands include a considerable amount of time sitting and typing/keyboarding, using a computer (e.g., keyboard, mouse, and monitor), or a mobile device\n\n+ Physical demands with activity or condition may occasionally include walking, bending, reaching, standing, squatting, and stooping\n\n+ May require occasional lifting/lowering, pushing, carrying, or pulling up to 20lbs\n• *EEO Statement**\n\nSouthern Glazer's Wine and Spirits, an Affirmative Action/EEO employer, prohibits discrimination and harassment of any type and provides equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training. SGWS complies with all federal, state and local laws concerning consideration of a qualified applicant's arrest and/or criminal conviction records. Southern Glazer's Wine and Spirits provides competitive compensation based on estimated performance level consistent with the past relevant experience, knowledge, skills, abilities and education of employees. Unless otherwise expressly stated, any pay ranges posted here are estimates from outside of Southern Glazer's Wine and Spirits and do not reflect Southern Glazer's pay bands or ranges.\n\n\\#LI-JL1\n\n_If you have any questions or concerns about whether this posting complies/adheres with local pay transparency requirements, please contact the SGWS talent acquisition team at NationalTA@sgws.com_\n\nSouthern Glazer's Wine and Spirits provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.\n• *What You Need To Know**\n\nShape a remarkable future with us. Build a career working for an industry leader that truly invests in their people – and equips them with leading technology, continuous learning, and the ability to bring their best selves to work. As the premier wine and spirits distributor, Southern Glazer’s isn't just one of Forbes’ Top Private Companies; it's a family-owned business with deep roots dating back to 1933.\n\nThe reputation of Southern Glazer’s is well-established, and it's no surprise that we are regularly recognized for our culture. Southern Glazer’s has been recognized by Newsweek as one of America’s Greatest Workplaces for Inclusion and Diversity, as well as for Women and Parents and Families. These accolades speak volumes about our commitment to creating a supportive and inclusive culture of belonging for all employees.\n\nAs a full-time employee, you can choose from a wide-ranging menu of our Top Shelf Benefits, including comprehensive medical and prescription drug coverage, dental and vision plans, tax-saving Flexible Spending Accounts, disability coverage, life insurance plans, and a 401(k) plan. We also offer tuition assistance, a wellness program, parental leave, vacation accrual, paid sick leave, and more.\n\nBy joining Southern Glazer’s, you would be part of a team that values excellence, innovation, and community. This is more than just a job – it's an opportunity to build the future of beverage distribution and grow with a company that truly cares about its people.\n• *Must be eligible to work as a full-time employee in the US without sponsorship.**\n• *Overview**\n\nThe SCM Analytics Developer will partner with functional members of Supply Chain to understand the current and future business requirements. They will be responsible for gathering data across various sources, analyzing it, and providing insights used for informed decision-making. They will ensure the appropriate use of analytical tools so that analysis and reporting are accurate, timely, thorough, and professional. They will also optimize existing data processes and resources, setting clear goals and benchmarks for improvement, development, and effective management of sound business practices.\n• *Primary Responsibilities**\n\n+ Develop reporting on SAP Business Objects, Tableau Dashboards, and create Excel refreshable files through Open Database Connectivity (ODBC) connections and Power Queries\n\n+ Automate processes using Amazon Web Services (AWS), including Step Functions, EventBridge, Simple Storage Service (S3) Buckets, and AWS Glue. Additionally, leveraged SharePoint Site services—such as lists and workflows—integrated through Power Automate\n\n+ Maintain data quality through identifying issues, removing duplicates, data cleansing, and enriching data quality\n\n+ Develop, design, and manage efficient processes, tabular reports, list reports, score cards, dynamic models, and dashboards that effectively monitor various key performance indicators (KPI)s and assist the supply chain business teams\n\n+ Apply the appropriate use of analytical tools to optimize reporting for current business requirements and create new processes and solutions for future business requirements\n\n+ Provide mentoring and support to other analysts to assist in their development surrounding data, processes, reporting, and utilizing self-service tools\n\n+ Assist with timely, accurate, pertinent information and analysis, as well as aid in monitoring, evaluating, and improving performance and related metrics of the Supply Chain\n• *Additional Primary Responsibilities**\n\n+ Support the long-term vision of the supply chain through the effective implementation of data reporting\n\n+ Ability to understand and translate data into business insights\n\n+ Summarize analysis and findings for users\n\n+ Ability to join data from multiple systems and sources through the use of Excel, SQL, Python, AWS services, and other components\n\n+ Ability to mine large sets of data analytics and insights\n\n+ Perform other job-related duties as assigned\n• *Minimum Qualifications**\n\n+ Bachelor’s Degree and three years of experience or equivalent education and related experience\n\n+ Experience in data preparation, blending, discovery, and visualization using modern BI & Analytics tools such as AWS services like Step Functions, Glue, Sage Maker, and other components, SAP Business Objects, Tableau, Alteryx, and Excel\n\n+ Expert knowledge in Excel, including pivot tables, Power Queries, vlookup, and other advanced formulas\n\n+ Intermediate knowledge of SQL (Joins, Stored Procedures, Views, Jobs, and Troubleshooting)\n\n+ Experience developing, improving, and streamlining processes and reporting\n\n+ Thorough analytical, investigative, and problem-solving skills\n\n+ Timeliness, accuracy, and professionalism\n• *Physical Demands**\n\n+ Physical demands include a considerable amount of time sitting and typing/keyboarding, using a computer (e.g., keyboard, mouse, and monitor), or a mobile device\n\n+ Physical demands with activity or condition may occasionally include walking, bending, reaching, standing, squatting, and stooping\n\n+ May require occasional lifting/lowering, pushing, carrying, or pulling up to 20lbs\n• *EEO Statement**\n\nSouthern Glazer's Wine and Spirits, an Affirmative Action/EEO employer, prohibits discrimination and harassment of any type and provides equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training. SGWS complies with all federal, state and local laws concerning consideration of a qualified applicant's arrest and/or criminal conviction records. Southern Glazer's Wine and Spirits provides competitive compensation based on estimated performance level consistent with the past relevant experience, knowledge, skills, abilities and education of employees. Unless otherwise expressly stated, any pay ranges posted here are estimates from outside of Southern Glazer's Wine and Spirits and do not reflect Southern Glazer's pay bands or ranges.\n\n\\#LI-JL1\n\n_If you have any questions or concerns about whether this posting complies/adheres with local pay transparency requirements, please contact the SGWS talent acquisition team at NationalTA@sgws.com_\n\nSouthern Glazer's Wine and Spirits provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Miramar, FL",
+    "job_city": "Miramar",
+    "job_state": "Florida",
+    "job_country": "US",
+    "job_latitude": 25.9860762,
+    "job_longitude": -80.30356019999999,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLnGFK8e-I20MJtnHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Ability to understand and translate data into business insights",
+        "Ability to join data from multiple systems and sources through the use of Excel, SQL, Python, AWS services, and other components",
+        "Ability to mine large sets of data analytics and insights",
+        "Bachelor’s Degree and three years of experience or equivalent education and related experience",
+        "Experience in data preparation, blending, discovery, and visualization using modern BI & Analytics tools such as AWS services like Step Functions, Glue, Sage Maker, and other components, SAP Business Objects, Tableau, Alteryx, and Excel",
+        "Expert knowledge in Excel, including pivot tables, Power Queries, vlookup, and other advanced formulas",
+        "Intermediate knowledge of SQL (Joins, Stored Procedures, Views, Jobs, and Troubleshooting)",
+        "Experience developing, improving, and streamlining processes and reporting",
+        "Thorough analytical, investigative, and problem-solving skills",
+        "Timeliness, accuracy, and professionalism",
+        "Physical demands include a considerable amount of time sitting and typing/keyboarding, using a computer (e.g., keyboard, mouse, and monitor), or a mobile device",
+        "Physical demands with activity or condition may occasionally include walking, bending, reaching, standing, squatting, and stooping",
+        "May require occasional lifting/lowering, pushing, carrying, or pulling up to 20lbs",
+        "Ability to understand and translate data into business insights",
+        "Summarize analysis and findings for users",
+        "Ability to join data from multiple systems and sources through the use of Excel, SQL, Python, AWS services, and other components",
+        "Ability to mine large sets of data analytics and insights",
+        "Bachelor’s Degree and three years of experience or equivalent education and related experience",
+        "Experience in data preparation, blending, discovery, and visualization using modern BI & Analytics tools such as AWS services like Step Functions, Glue, Sage Maker, and other components, SAP Business Objects, Tableau, Alteryx, and Excel",
+        "Expert knowledge in Excel, including pivot tables, Power Queries, vlookup, and other advanced formulas",
+        "Intermediate knowledge of SQL (Joins, Stored Procedures, Views, Jobs, and Troubleshooting)",
+        "Experience developing, improving, and streamlining processes and reporting",
+        "Thorough analytical, investigative, and problem-solving skills",
+        "Timeliness, accuracy, and professionalism",
+        "Physical demands include a considerable amount of time sitting and typing/keyboarding, using a computer (e.g., keyboard, mouse, and monitor), or a mobile device",
+        "Physical demands with activity or condition may occasionally include walking, bending, reaching, standing, squatting, and stooping",
+        "May require occasional lifting/lowering, pushing, carrying, or pulling up to 20lbs"
+      ],
+      "Benefits": [
+        "As a full-time employee, you can choose from a wide-ranging menu of our Top Shelf Benefits, including comprehensive medical and prescription drug coverage, dental and vision plans, tax-saving Flexible Spending Accounts, disability coverage, life insurance plans, and a 401(k) plan",
+        "We also offer tuition assistance, a wellness program, parental leave, vacation accrual, paid sick leave, and more",
+        "As a full-time employee, you can choose from a wide-ranging menu of our Top Shelf Benefits, including comprehensive medical and prescription drug coverage, dental and vision plans, tax-saving Flexible Spending Accounts, disability coverage, life insurance plans, and a 401(k) plan",
+        "We also offer tuition assistance, a wellness program, parental leave, vacation accrual, paid sick leave, and more",
+        "*Must be eligible to work as a full-time employee in the US without sponsorship.**"
+      ],
+      "Responsibilities": [
+        "The SCM Analytics Developer will partner with functional members of Supply Chain to understand the current and future business requirements",
+        "They will be responsible for gathering data across various sources, analyzing it, and providing insights used for informed decision-making",
+        "They will ensure the appropriate use of analytical tools so that analysis and reporting are accurate, timely, thorough, and professional",
+        "They will also optimize existing data processes and resources, setting clear goals and benchmarks for improvement, development, and effective management of sound business practices",
+        "Develop reporting on SAP Business Objects, Tableau Dashboards, and create Excel refreshable files through Open Database Connectivity (ODBC) connections and Power Queries",
+        "Automate processes using Amazon Web Services (AWS), including Step Functions, EventBridge, Simple Storage Service (S3) Buckets, and AWS Glue",
+        "Additionally, leveraged SharePoint Site services—such as lists and workflows—integrated through Power Automate",
+        "Maintain data quality through identifying issues, removing duplicates, data cleansing, and enriching data quality",
+        "Develop, design, and manage efficient processes, tabular reports, list reports, score cards, dynamic models, and dashboards that effectively monitor various key performance indicators (KPI)s and assist the supply chain business teams",
+        "Apply the appropriate use of analytical tools to optimize reporting for current business requirements and create new processes and solutions for future business requirements",
+        "Provide mentoring and support to other analysts to assist in their development surrounding data, processes, reporting, and utilizing self-service tools",
+        "Assist with timely, accurate, pertinent information and analysis, as well as aid in monitoring, evaluating, and improving performance and related metrics of the Supply Chain",
+        "*Additional Primary Responsibilities**",
+        "Support the long-term vision of the supply chain through the effective implementation of data reporting",
+        "Summarize analysis and findings for users",
+        "Perform other job-related duties as assigned",
+        "The SCM Analytics Developer will partner with functional members of Supply Chain to understand the current and future business requirements",
+        "They will be responsible for gathering data across various sources, analyzing it, and providing insights used for informed decision-making",
+        "They will ensure the appropriate use of analytical tools so that analysis and reporting are accurate, timely, thorough, and professional",
+        "They will also optimize existing data processes and resources, setting clear goals and benchmarks for improvement, development, and effective management of sound business practices",
+        "Develop reporting on SAP Business Objects, Tableau Dashboards, and create Excel refreshable files through Open Database Connectivity (ODBC) connections and Power Queries",
+        "Automate processes using Amazon Web Services (AWS), including Step Functions, EventBridge, Simple Storage Service (S3) Buckets, and AWS Glue",
+        "Additionally, leveraged SharePoint Site services—such as lists and workflows—integrated through Power Automate",
+        "Maintain data quality through identifying issues, removing duplicates, data cleansing, and enriching data quality",
+        "Develop, design, and manage efficient processes, tabular reports, list reports, score cards, dynamic models, and dashboards that effectively monitor various key performance indicators (KPI)s and assist the supply chain business teams",
+        "Apply the appropriate use of analytical tools to optimize reporting for current business requirements and create new processes and solutions for future business requirements",
+        "Provide mentoring and support to other analysts to assist in their development surrounding data, processes, reporting, and utilizing self-service tools",
+        "Assist with timely, accurate, pertinent information and analysis, as well as aid in monitoring, evaluating, and improving performance and related metrics of the Supply Chain",
+        "*Additional Primary Responsibilities**",
+        "Support the long-term vision of the supply chain through the effective implementation of data reporting",
+        "Perform other job-related duties as assigned"
+      ]
+    },
+    "job_onet_soc": "13108100",
+    "job_onet_job_zone": "4",
+    "id": "www-snagajob-com-jobs-1160086327",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "DnJQNbAuRHlzHfYrAAAAAA==",
     "job_title": "Software Engineer, Data Analytics",
     "employer_name": "Intelliforce-IT Solutions Group, LLC.",
@@ -647,8 +564,8 @@
     "job_latitude": 39.1209588,
     "job_longitude": -76.77564459999999,
     "job_benefits": [
-      "health_insurance",
-      "paid_time_off"
+      "paid_time_off",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DDnJQNbAuRHlzHfYrAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -698,6 +615,153 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "us-bebee-com-job-24659c2a46e74f6da35287fa63f6dfaf",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "WT7WCedlTWN5MzaOAAAAAA==",
+    "job_title": "Senior BI & Analytics Engineer",
+    "employer_name": "Karsun Solutions, LLC",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnnqnWMxl5Nf-a30Q-JIB8w_DdzQGIE6s9hZl_&s=0",
+    "employer_website": "https://karsun-llc.com",
+    "job_publisher": "Learn4Good",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.learn4good.com/jobs/winston-salem/north-carolina/info_technology/4865908481/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Learn4Good",
+        "apply_link": "https://www.learn4good.com/jobs/winston-salem/north-carolina/info_technology/4865908481/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A respected technology transformation company is seeking a Senior BI Developer to enhance workflows and dashboards, document BI requirements, and implement BI best practices. The ideal candidate will have at least 8 years of experience with expert knowledge in Python, Alteryx, Tableau, and Power BI, and will work towards maintaining a Public Trust Security Clearance. The position offers a salary range of $125,000 to $135,000 and seeks individuals residing in authorized US states.\n#J-18808-Ljbffr",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Winston-Salem, NC",
+    "job_city": "Winston-Salem",
+    "job_state": "North Carolina",
+    "job_country": "US",
+    "job_latitude": 36.0948221,
+    "job_longitude": -80.2434028,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DWT7WCedlTWN5MzaOAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 125000,
+    "job_max_salary": 135000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "The ideal candidate will have at least 8 years of experience with expert knowledge in Python, Alteryx, Tableau, and Power BI, and will work towards maintaining a Public Trust Security Clearance"
+      ],
+      "Benefits": [
+        "The position offers a salary range of $125,000 to $135,000 and seeks individuals residing in authorized US states"
+      ],
+      "Responsibilities": [
+        "A respected technology transformation company is seeking a Senior BI Developer to enhance workflows and dashboards, document BI requirements, and implement BI best practices"
+      ]
+    },
+    "job_onet_soc": "15119900",
+    "job_onet_job_zone": "4",
+    "id": "www-learn4good-com-jobs-winston-salem-north-carolina-info_technology-4865908481-e",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "aFi9I2wuRtpwexnLAAAAAA==",
+    "job_title": "Analytics Engineer Hybrid 43",
+    "employer_name": "WeedMaps",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpHMJ_XBl8h2_45sDfzi3fdrC7sEmmeZlNeXkU&s=0",
+    "employer_website": "https://weedmaps.com",
+    "job_publisher": "Jobilize",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.jobilize.com/job/us-tn-all-cities-analytics-engineer-hybrid-43-weedmaps-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-tn-all-cities-analytics-engineer-hybrid-43-weedmaps-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Analytics Engineer (Hybrid)\n\nOverview:\n\nThe Analytics Engineer at Weedmaps will be a key technical contributor within our Data organization, supporting various aspects of the business. In this role, you will build and maintain data pipelines and analytics frameworks to answer business questions and enable root cause problem solving. You will collaborate extensively with business, engineering, product, and data science teams to drive data-informed decision making across our customer acquisition and retention strategies. The ideal candidate combines strong technical skills with e-commerce domain knowledge and can translate business requirements into scalable data solutions that deliver measurable impact on our growth metrics.\n\nAs part of our Data organization, you will develop robust analytics systems that address unique challenges in our marketplace, including user journey exploration, customer and product analytics. The explosive growth of the cannabis industry requires increasingly sophisticated analytics solutions that can scale with our business and comply with complex regulatory requirements.\n\nThe impact you'll make:\n• Design fault-tolerant dbt models to synthesize data from multiple sources into mart tables\n• Design and implement Sigma dashboards and Streamplit apps to provide clear insights into performance\n• Automate regular reporting workflows to reduce manual effort and increase data consistency\n• Create self-service tools that empower business teams to access insights independently\n• Analyze experiment results to identify opportunities for improving ROI\n• Develop and maintain data pipelines using SQL within modern data stack tools (Snowflake, DBT, Metaplane)\n• Create and document data models that transform raw data into reliable, business-ready datasets with accompanying dictionaries and testing\n• Implement data quality checks and testing frameworks to ensure the accuracy and reliability of analytics\nWhat you've accomplished:\n• 4+ years of experience in data engineering, or similar technical role\n• 2+ years of experience in analytics engineering\n• Experience with modern data warehouse platforms, preferably Snowflake\n• Expertise in SQL and data modeling with dbt\n• Proficiency in Python\nBonus points:\n• Experience with business intelligence tools, preferably Sigma\n• E-commerce or marketplace business experience preferred\n• Regulated industry experience - nice to have\nThe base pay range for this position is $172,000- $193,363 per year\n\n2026 US Benefits for Full Time, Regular Employees:\n• Physical Health (Medical, Dental & Vision)\n• 100% employer-paid premium for employees\n• Up to 80% coverage for dependents\n• Company HSA contribution with the High Deductible Health Plan\n• 401(k) Retirement Plan (employer will match contribution up to 3. 5% of employee contribution)\n• Basic Life, Voluntary Life and AD&D Insurance options\n• Supplemental, voluntary benefits\n• Student Loan Repayment/529 Education Savings with a monthly company contribution\n• FSA (Medical, Dependent, Transit and Parking)\n• Voluntary Life and AD&D Insurance\n• Critical Illness Insurance\n• Accident Insurance\n• Short- and Long-term Disability Insurance\n• Pet Insurance\n• Identity theft protection\n• Legal access to a network of attorneys\n• PTO, paid sick leave, and company holidays (including a 2026 holiday shutdown)\n• Paid parental leave\nWhy Work at Weedmaps?\n\nLife at Weedmaps means innovation and heart. Come join us if you care about the plant, the people who love it, and are ready to let your talent shine. We foster a bustling and collaborative culture that revolves around an environment that focuses on the benefits of weed, and the community that supports it.\n\nYou too can have a hand in shaping the industry's future; ready to roll with us?\n\nSee how we've grown-our journey, leadership team, and what's next at Weedmaps. com/corporate\n\nAbout Weedmaps:\n\nFounded in 2008, we've grown from a small startup to a global leader in the cannabis industry. Our dedication to transparency, education, and community has set us apart, and today, we proudly serve cannabis to consumers and businesses in the U. S. and worldwide.\n\n\"Freedom to choose. Freedom to access. Freedom to enjoy. \"\n\nNotice to prospective Weedmaps job applicants:\n\nOur team has been made aware of incidents involving LinkedIn, Telegram, and Facebook accounts impersonating Weedmaps recruiters. These individuals are attempting to use our company name to solicit payment from prospective candidates interested in applying for jobs at our company. Our team is actively working to combat these attempts, but in the meantime, please be mindful of the following:\n• Our recruiters will always communicate with candidates through an @weedmaps. com email address.\n• CORRECT: . @weedmaps. com\n• INCORRECT: . @gmail. com\n• Our recruiters will NEVER ask for or attempt to solicit payment from applicants in order to apply, interview, or work for Weedmaps.\n• If you are interested in a role at Weedmaps, please apply through our established channels.\n• Weedmaps Careers Page or LinkedIn\n\nIf you are unsure if a communication is legitimate, please contact our recruitment team at . @weedmaps. com and they will happily confirm for you. Thank you for your vigilance and we appreciate your interest in working with us!\n\nWeedmaps is an equal opportunity employer and makes employment decisions on the basis of merit. The Company prohibits unlawful discrimination against employees or applicants based on race (including traits historically associated with race, such as hair texture and protective hairstyles), religion and religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, age, military status, veteran status, uniformed service member status, sexual orientation, transgender identity, citizenship status, pregnancy, or any other consideration made unlawful by federal, state, or local laws. The Company also prohibits unlawful discrimination based on the perception that anyone has any of those characteristics, or is associated with a person who has or is perceived as having any of those characteristics. Our company uses E-Verify to confirm the employment eligibility of all newly hired employees. To learn more about E-Verify, including your rights and responsibilities, please visit dhs. gov/E-Verify.\n\nApplicants are entitled to reasonable accommodations under the terms of the Americans with Disabilities Act and applicable state/local laws, unless the accommodation presents undue hardship. Please email us at peopleoperations at weedmaps. com if you would like to confidentially discuss a potential accommodation during the interview process.",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Tennessee",
+    "job_city": null,
+    "job_state": "Tennessee",
+    "job_country": "US",
+    "job_latitude": 35.517491299999996,
+    "job_longitude": -86.5804473,
+    "job_benefits": [
+      "paid_time_off",
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DaFi9I2wuRtpwexnLAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "The ideal candidate combines strong technical skills with e-commerce domain knowledge and can translate business requirements into scalable data solutions that deliver measurable impact on our growth metrics",
+        "4+ years of experience in data engineering, or similar technical role",
+        "2+ years of experience in analytics engineering",
+        "Experience with modern data warehouse platforms, preferably Snowflake",
+        "Expertise in SQL and data modeling with dbt",
+        "Proficiency in Python",
+        "Experience with business intelligence tools, preferably Sigma",
+        "Regulated industry experience - nice to have",
+        "Legal access to a network of attorneys"
+      ],
+      "Benefits": [
+        "The base pay range for this position is $172,000- $193,363 per year",
+        "2026 US Benefits for Full Time, Regular Employees:",
+        "Physical Health (Medical, Dental & Vision)",
+        "100% employer-paid premium for employees",
+        "Up to 80% coverage for dependents",
+        "Company HSA contribution with the High Deductible Health Plan",
+        "401(k) Retirement Plan (employer will match contribution up to 3",
+        "5% of employee contribution)",
+        "Basic Life, Voluntary Life and AD&D Insurance options",
+        "Supplemental, voluntary benefits",
+        "Student Loan Repayment/529 Education Savings with a monthly company contribution",
+        "FSA (Medical, Dependent, Transit and Parking)",
+        "Voluntary Life and AD&D Insurance",
+        "Critical Illness Insurance",
+        "Accident Insurance",
+        "Short- and Long-term Disability Insurance",
+        "Pet Insurance",
+        "PTO, paid sick leave, and company holidays (including a 2026 holiday shutdown)",
+        "Paid parental leave",
+        "Freedom to access",
+        "Freedom to enjoy"
+      ],
+      "Responsibilities": [
+        "The Analytics Engineer at Weedmaps will be a key technical contributor within our Data organization, supporting various aspects of the business",
+        "In this role, you will build and maintain data pipelines and analytics frameworks to answer business questions and enable root cause problem solving",
+        "You will collaborate extensively with business, engineering, product, and data science teams to drive data-informed decision making across our customer acquisition and retention strategies",
+        "Design fault-tolerant dbt models to synthesize data from multiple sources into mart tables",
+        "Design and implement Sigma dashboards and Streamplit apps to provide clear insights into performance",
+        "Automate regular reporting workflows to reduce manual effort and increase data consistency",
+        "Create self-service tools that empower business teams to access insights independently",
+        "Analyze experiment results to identify opportunities for improving ROI",
+        "Develop and maintain data pipelines using SQL within modern data stack tools (Snowflake, DBT, Metaplane)",
+        "Create and document data models that transform raw data into reliable, business-ready datasets with accompanying dictionaries and testing",
+        "Implement data quality checks and testing frameworks to ensure the accuracy and reliability of analytics"
+      ]
+    },
+    "job_onet_soc": "43911100",
+    "job_onet_job_zone": "4",
+    "id": "www-jobilize-com-job-us-tn-all-cities-analytics-engineer-hybrid-43-weedmaps-hiring-now",
     "_source": "new_jobs"
   },
   {
@@ -851,153 +915,6 @@
     "job_onet_soc": "43911100",
     "job_onet_job_zone": "4",
     "id": "www-ziprecruiter-com-c-dnsfilter-job-senior-analytics-engineer-revenue-operations-in-tampa-fl",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "WT7WCedlTWN5MzaOAAAAAA==",
-    "job_title": "Senior BI & Analytics Engineer",
-    "employer_name": "Karsun Solutions, LLC",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnnqnWMxl5Nf-a30Q-JIB8w_DdzQGIE6s9hZl_&s=0",
-    "employer_website": "https://karsun-llc.com",
-    "job_publisher": "Learn4Good",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.learn4good.com/jobs/winston-salem/north-carolina/info_technology/4865908481/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/winston-salem/north-carolina/info_technology/4865908481/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A respected technology transformation company is seeking a Senior BI Developer to enhance workflows and dashboards, document BI requirements, and implement BI best practices. The ideal candidate will have at least 8 years of experience with expert knowledge in Python, Alteryx, Tableau, and Power BI, and will work towards maintaining a Public Trust Security Clearance. The position offers a salary range of $125,000 to $135,000 and seeks individuals residing in authorized US states.\n#J-18808-Ljbffr",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Winston-Salem, NC",
-    "job_city": "Winston-Salem",
-    "job_state": "North Carolina",
-    "job_country": "US",
-    "job_latitude": 36.0948221,
-    "job_longitude": -80.2434028,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DWT7WCedlTWN5MzaOAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 125000,
-    "job_max_salary": 135000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "The ideal candidate will have at least 8 years of experience with expert knowledge in Python, Alteryx, Tableau, and Power BI, and will work towards maintaining a Public Trust Security Clearance"
-      ],
-      "Benefits": [
-        "The position offers a salary range of $125,000 to $135,000 and seeks individuals residing in authorized US states"
-      ],
-      "Responsibilities": [
-        "A respected technology transformation company is seeking a Senior BI Developer to enhance workflows and dashboards, document BI requirements, and implement BI best practices"
-      ]
-    },
-    "job_onet_soc": "15119900",
-    "job_onet_job_zone": "4",
-    "id": "www-learn4good-com-jobs-winston-salem-north-carolina-info_technology-4865908481-e",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "aFi9I2wuRtpwexnLAAAAAA==",
-    "job_title": "Analytics Engineer Hybrid 43",
-    "employer_name": "WeedMaps",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpHMJ_XBl8h2_45sDfzi3fdrC7sEmmeZlNeXkU&s=0",
-    "employer_website": "https://weedmaps.com",
-    "job_publisher": "Jobilize",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.jobilize.com/job/us-tn-all-cities-analytics-engineer-hybrid-43-weedmaps-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-tn-all-cities-analytics-engineer-hybrid-43-weedmaps-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Analytics Engineer (Hybrid)\n\nOverview:\n\nThe Analytics Engineer at Weedmaps will be a key technical contributor within our Data organization, supporting various aspects of the business. In this role, you will build and maintain data pipelines and analytics frameworks to answer business questions and enable root cause problem solving. You will collaborate extensively with business, engineering, product, and data science teams to drive data-informed decision making across our customer acquisition and retention strategies. The ideal candidate combines strong technical skills with e-commerce domain knowledge and can translate business requirements into scalable data solutions that deliver measurable impact on our growth metrics.\n\nAs part of our Data organization, you will develop robust analytics systems that address unique challenges in our marketplace, including user journey exploration, customer and product analytics. The explosive growth of the cannabis industry requires increasingly sophisticated analytics solutions that can scale with our business and comply with complex regulatory requirements.\n\nThe impact you'll make:\n• Design fault-tolerant dbt models to synthesize data from multiple sources into mart tables\n• Design and implement Sigma dashboards and Streamplit apps to provide clear insights into performance\n• Automate regular reporting workflows to reduce manual effort and increase data consistency\n• Create self-service tools that empower business teams to access insights independently\n• Analyze experiment results to identify opportunities for improving ROI\n• Develop and maintain data pipelines using SQL within modern data stack tools (Snowflake, DBT, Metaplane)\n• Create and document data models that transform raw data into reliable, business-ready datasets with accompanying dictionaries and testing\n• Implement data quality checks and testing frameworks to ensure the accuracy and reliability of analytics\nWhat you've accomplished:\n• 4+ years of experience in data engineering, or similar technical role\n• 2+ years of experience in analytics engineering\n• Experience with modern data warehouse platforms, preferably Snowflake\n• Expertise in SQL and data modeling with dbt\n• Proficiency in Python\nBonus points:\n• Experience with business intelligence tools, preferably Sigma\n• E-commerce or marketplace business experience preferred\n• Regulated industry experience - nice to have\nThe base pay range for this position is $172,000- $193,363 per year\n\n2026 US Benefits for Full Time, Regular Employees:\n• Physical Health (Medical, Dental & Vision)\n• 100% employer-paid premium for employees\n• Up to 80% coverage for dependents\n• Company HSA contribution with the High Deductible Health Plan\n• 401(k) Retirement Plan (employer will match contribution up to 3. 5% of employee contribution)\n• Basic Life, Voluntary Life and AD&D Insurance options\n• Supplemental, voluntary benefits\n• Student Loan Repayment/529 Education Savings with a monthly company contribution\n• FSA (Medical, Dependent, Transit and Parking)\n• Voluntary Life and AD&D Insurance\n• Critical Illness Insurance\n• Accident Insurance\n• Short- and Long-term Disability Insurance\n• Pet Insurance\n• Identity theft protection\n• Legal access to a network of attorneys\n• PTO, paid sick leave, and company holidays (including a 2026 holiday shutdown)\n• Paid parental leave\nWhy Work at Weedmaps?\n\nLife at Weedmaps means innovation and heart. Come join us if you care about the plant, the people who love it, and are ready to let your talent shine. We foster a bustling and collaborative culture that revolves around an environment that focuses on the benefits of weed, and the community that supports it.\n\nYou too can have a hand in shaping the industry's future; ready to roll with us?\n\nSee how we've grown-our journey, leadership team, and what's next at Weedmaps. com/corporate\n\nAbout Weedmaps:\n\nFounded in 2008, we've grown from a small startup to a global leader in the cannabis industry. Our dedication to transparency, education, and community has set us apart, and today, we proudly serve cannabis to consumers and businesses in the U. S. and worldwide.\n\n\"Freedom to choose. Freedom to access. Freedom to enjoy. \"\n\nNotice to prospective Weedmaps job applicants:\n\nOur team has been made aware of incidents involving LinkedIn, Telegram, and Facebook accounts impersonating Weedmaps recruiters. These individuals are attempting to use our company name to solicit payment from prospective candidates interested in applying for jobs at our company. Our team is actively working to combat these attempts, but in the meantime, please be mindful of the following:\n• Our recruiters will always communicate with candidates through an @weedmaps. com email address.\n• CORRECT: . @weedmaps. com\n• INCORRECT: . @gmail. com\n• Our recruiters will NEVER ask for or attempt to solicit payment from applicants in order to apply, interview, or work for Weedmaps.\n• If you are interested in a role at Weedmaps, please apply through our established channels.\n• Weedmaps Careers Page or LinkedIn\n\nIf you are unsure if a communication is legitimate, please contact our recruitment team at . @weedmaps. com and they will happily confirm for you. Thank you for your vigilance and we appreciate your interest in working with us!\n\nWeedmaps is an equal opportunity employer and makes employment decisions on the basis of merit. The Company prohibits unlawful discrimination against employees or applicants based on race (including traits historically associated with race, such as hair texture and protective hairstyles), religion and religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, age, military status, veteran status, uniformed service member status, sexual orientation, transgender identity, citizenship status, pregnancy, or any other consideration made unlawful by federal, state, or local laws. The Company also prohibits unlawful discrimination based on the perception that anyone has any of those characteristics, or is associated with a person who has or is perceived as having any of those characteristics. Our company uses E-Verify to confirm the employment eligibility of all newly hired employees. To learn more about E-Verify, including your rights and responsibilities, please visit dhs. gov/E-Verify.\n\nApplicants are entitled to reasonable accommodations under the terms of the Americans with Disabilities Act and applicable state/local laws, unless the accommodation presents undue hardship. Please email us at peopleoperations at weedmaps. com if you would like to confidentially discuss a potential accommodation during the interview process.",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Tennessee",
-    "job_city": null,
-    "job_state": "Tennessee",
-    "job_country": "US",
-    "job_latitude": 35.517491299999996,
-    "job_longitude": -86.5804473,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DaFi9I2wuRtpwexnLAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "The ideal candidate combines strong technical skills with e-commerce domain knowledge and can translate business requirements into scalable data solutions that deliver measurable impact on our growth metrics",
-        "4+ years of experience in data engineering, or similar technical role",
-        "2+ years of experience in analytics engineering",
-        "Experience with modern data warehouse platforms, preferably Snowflake",
-        "Expertise in SQL and data modeling with dbt",
-        "Proficiency in Python",
-        "Experience with business intelligence tools, preferably Sigma",
-        "Regulated industry experience - nice to have",
-        "Legal access to a network of attorneys"
-      ],
-      "Benefits": [
-        "The base pay range for this position is $172,000- $193,363 per year",
-        "2026 US Benefits for Full Time, Regular Employees:",
-        "Physical Health (Medical, Dental & Vision)",
-        "100% employer-paid premium for employees",
-        "Up to 80% coverage for dependents",
-        "Company HSA contribution with the High Deductible Health Plan",
-        "401(k) Retirement Plan (employer will match contribution up to 3",
-        "5% of employee contribution)",
-        "Basic Life, Voluntary Life and AD&D Insurance options",
-        "Supplemental, voluntary benefits",
-        "Student Loan Repayment/529 Education Savings with a monthly company contribution",
-        "FSA (Medical, Dependent, Transit and Parking)",
-        "Voluntary Life and AD&D Insurance",
-        "Critical Illness Insurance",
-        "Accident Insurance",
-        "Short- and Long-term Disability Insurance",
-        "Pet Insurance",
-        "PTO, paid sick leave, and company holidays (including a 2026 holiday shutdown)",
-        "Paid parental leave",
-        "Freedom to access",
-        "Freedom to enjoy"
-      ],
-      "Responsibilities": [
-        "The Analytics Engineer at Weedmaps will be a key technical contributor within our Data organization, supporting various aspects of the business",
-        "In this role, you will build and maintain data pipelines and analytics frameworks to answer business questions and enable root cause problem solving",
-        "You will collaborate extensively with business, engineering, product, and data science teams to drive data-informed decision making across our customer acquisition and retention strategies",
-        "Design fault-tolerant dbt models to synthesize data from multiple sources into mart tables",
-        "Design and implement Sigma dashboards and Streamplit apps to provide clear insights into performance",
-        "Automate regular reporting workflows to reduce manual effort and increase data consistency",
-        "Create self-service tools that empower business teams to access insights independently",
-        "Analyze experiment results to identify opportunities for improving ROI",
-        "Develop and maintain data pipelines using SQL within modern data stack tools (Snowflake, DBT, Metaplane)",
-        "Create and document data models that transform raw data into reliable, business-ready datasets with accompanying dictionaries and testing",
-        "Implement data quality checks and testing frameworks to ensure the accuracy and reliability of analytics"
-      ]
-    },
-    "job_onet_soc": "43911100",
-    "job_onet_job_zone": "4",
-    "id": "www-jobilize-com-job-us-tn-all-cities-analytics-engineer-hybrid-43-weedmaps-hiring-now",
     "_source": "new_jobs"
   },
   {
@@ -1299,8 +1216,8 @@
     "job_longitude": -81.6591529,
     "job_benefits": [
       "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DQMFI59Aeon5OiMxQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1457,6 +1374,112 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "4GHeUqb67eilko0QAAAAAA==",
+    "job_title": "Simulation Engineer- Supply Chain",
+    "employer_name": "Cencora",
+    "employer_logo": null,
+    "employer_website": "https://www.cencora.com",
+    "job_publisher": "Cencora Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.cencora.com/us/en/job/R2523242/Simulation-Engineer-Supply-Chain?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Cencora Careers",
+        "apply_link": "https://careers.cencora.com/us/en/job/R2523242/Simulation-Engineer-Supply-Chain?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/cCMwXHk6HcfhsFhWMSOkJvsMbRYzJa1VoQehAqbdWDeno7Y_Oz0JNQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/8a691ec6b6682787516e82bdcee83da8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Our team members are at the heart of everything we do. At Cencora, we are united in our responsibility to create healthier futures, and every person here is essential to us being able to deliver on that purpose. If you want to make a difference at the center of health, come join our innovative company and help us improve the lives of people and animals everywhere. Apply today!\n\nJob Details\n\nWe are seeking a talented and experienced Supply Chain Simulation Engineer to lead and collaborate on the design, development, and deployment of tools and strategies that will enable more effective data-driven decision making.\n\nThis individual will provide guidance through advanced analytics modeling and optimizing facilities within the Supply Chain.\n\nThe Simulation Engineer should have a firm understanding of distribution operational and automation processes.\n\nThe ideal candidate will be a skilled communicator with experience telling compelling stories through data-driven insights.\n\nRoles and Responsibilities:\n• Create simulation models of our distribution centers that will help determine efficiency opportunities.\n• Understand and have experience with design and / or implementation of automation solutions such as conveyors, sorters, high speed picking and packaging lines, robotic work cells.\n• Work closely with other teams, such as Engineering and Operations, in the validation of the models and in the design of potential scenarios that will improve the total outcome.\n• Collaborate in developing a cost to serve model.\n• Implement and support the new inhouse simulation capabilities – process, tools, training.\n• Collaborate in the creation of business cases to close gaps and define capex requirements.\n• Provide advice and insights on improving existing simulation capabilities.\n• Design interactive business intelligence dashboards to share input and outputs.\n• Develop and train team to utilize self-service modeling functionality.\n• Stay up to date with modeling and simulations trends.\n• Perform other duties as assigned.\n\nEducation:\n• A Bachelors degree in Industrial Engineering, Operations Research, Quantitative Methods, Data Science or related field or equivalent professional qualification/workplace skills.\n• Master’s degree preferred.\n\nExperience:\n• Requires five (5) to seven (7) years of directly related and progressively responsible experience.\n• Hands-on experience using simulation and analytical tools to solve operational problems.\n• Practical experience with Simulation frameworks (discrete-event, agent-based) and technologies such as AnyLogic/Arena/EnterpriseDynamics/FlexSim/etc\n• Project Management / Agile hands-on experience.\n• Experience working in an Operations environment.\n• Experience with business intelligence tools (PowerBI, Tableau, Qlik).\n• Experience pulling and cleaning data from Cloud Platforms (Google, Azure), or Supply Chain Tools (including ERP, WMS, TMS, Inventory & Forecasting Tools).\n• Experience programming with data analytic tools such as SQL, Python, DataBricks, etc.\n• Experience transforming CAD data into simulation tools.\n• Experience building business cases and cost/benefit analysis to support strategic decision making.\n\nSkills and Abilities:\n• Strong analytical and critical thinking skills, with the ability to identify and resolve complex issues quickly and innovative. Experience leveraging analytic based approaches to problem solving, such as Statistical Process Control, Design of Experiments, Six Sigma, or other statistical analysis frameworks.\n• Team oriented and collaborative working style.\n• Growth mindset, positive attitude and strong interest in solving business challenges and adapting to a changing work environment.\n• Ability to communicate effectively both orally and in writing; ability to communicate (and work) effectively with people from different technical and business backgrounds, acting as a liaison, understanding, and appreciating different perspectives and translating into terms necessary for any group or individual to understand.\n• Presentation skills: ability to present and discuss technical information in a manner that establishes rapport, persuades others, and establishes understanding for technical and non-technical audiences.\n• Strong organizational skills; attention to detail.\n• Must be able to interact well with others both directly (face-to-face) and remotely within a multi-discipline shared work environment.\n• Ability to influence through the use of data and insights while showing tactful discretion with difficult/sensitive information.\n• Travel required per project, estimated at 2 weeks per quarter.\n• Ability to manage multiple projects\n\nWhat Cencora offers\n\nWe provide compensation, benefits, and resources that enable a highly inclusive culture and support our team members’ ability to live with purpose every day. In addition to traditional offerings like medical, dental, and vision care, we also provide a comprehensive suite of benefits that focus on the physical, emotional, financial, and social aspects of wellness. This encompasses support for working families, which may include backup dependent care, adoption assistance, infertility coverage, family building support, behavioral health solutions, paid parental leave, and paid caregiver leave. To encourage your personal growth, we also offer a variety of training programs, professional development resources, and opportunities to participate in mentorship programs, employee resource groups, volunteer activities, and much more. For details, visit https://www.virtualfairhub.com/cencora\n\nFull time\n\nSalary Range*\n\n$88,700 - 126,940\n• This Salary Range reflects a National Average for this job. The actual range may vary based on your locale. Ranges in Colorado/California/Washington/New York/Hawaii/Vermont/Minnesota/Massachusetts/Illinois State-specific locations may be up to 10% lower than the minimum salary range, and 12% higher than the maximum salary range.\n\nEqual Employment Opportunity\n\nCencora is committed to providing equal employment opportunity without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status or membership in any other class protected by federal, state or local law.\n\nThe company’s continued success depends on the full and effective utilization of qualified individuals. Therefore, harassment is prohibited and all matters related to recruiting, training, compensation, benefits, promotions and transfers comply with equal opportunity principles and are non-discriminatory.\n\nCencora is committed to providing reasonable accommodations to individuals with disabilities during the employment process which are consistent with legal requirements. If you wish to request an accommodation while seeking employment, please call 888.692.2272 or email hrsc@cencora.com. We will make accommodation determinations on a request-by-request basis. Messages and emails regarding anything other than accommodations requests will not be returned\n\n.\nAffiliated Companies:\nAffiliated Companies: AmerisourceBergen Drug Corporation",
+    "job_is_remote": false,
+    "job_posted_at": "10 days ago",
+    "job_posted_at_timestamp": 1770249600,
+    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
+    "job_location": "W CNSHOHOCKEN, PA",
+    "job_city": "Conshohocken",
+    "job_state": "Pennsylvania",
+    "job_country": "US",
+    "job_latitude": 40.0792766,
+    "job_longitude": -75.3015714,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4GHeUqb67eilko0QAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "The ideal candidate will be a skilled communicator with experience telling compelling stories through data-driven insights",
+        "A Bachelors degree in Industrial Engineering, Operations Research, Quantitative Methods, Data Science or related field or equivalent professional qualification/workplace skills",
+        "Requires five (5) to seven (7) years of directly related and progressively responsible experience",
+        "Hands-on experience using simulation and analytical tools to solve operational problems",
+        "Practical experience with Simulation frameworks (discrete-event, agent-based) and technologies such as AnyLogic/Arena/EnterpriseDynamics/FlexSim/etc",
+        "Project Management / Agile hands-on experience",
+        "Experience working in an Operations environment",
+        "Experience with business intelligence tools (PowerBI, Tableau, Qlik)",
+        "Experience pulling and cleaning data from Cloud Platforms (Google, Azure), or Supply Chain Tools (including ERP, WMS, TMS, Inventory & Forecasting Tools)",
+        "Experience programming with data analytic tools such as SQL, Python, DataBricks, etc",
+        "Experience transforming CAD data into simulation tools",
+        "Experience building business cases and cost/benefit analysis to support strategic decision making",
+        "Strong analytical and critical thinking skills, with the ability to identify and resolve complex issues quickly and innovative",
+        "Experience leveraging analytic based approaches to problem solving, such as Statistical Process Control, Design of Experiments, Six Sigma, or other statistical analysis frameworks",
+        "Growth mindset, positive attitude and strong interest in solving business challenges and adapting to a changing work environment",
+        "Ability to communicate effectively both orally and in writing; ability to communicate (and work) effectively with people from different technical and business backgrounds, acting as a liaison, understanding, and appreciating different perspectives and translating into terms necessary for any group or individual to understand",
+        "Presentation skills: ability to present and discuss technical information in a manner that establishes rapport, persuades others, and establishes understanding for technical and non-technical audiences",
+        "Strong organizational skills; attention to detail",
+        "Must be able to interact well with others both directly (face-to-face) and remotely within a multi-discipline shared work environment"
+      ],
+      "Benefits": [
+        "We provide compensation, benefits, and resources that enable a highly inclusive culture and support our team members’ ability to live with purpose every day",
+        "In addition to traditional offerings like medical, dental, and vision care, we also provide a comprehensive suite of benefits that focus on the physical, emotional, financial, and social aspects of wellness",
+        "This encompasses support for working families, which may include backup dependent care, adoption assistance, infertility coverage, family building support, behavioral health solutions, paid parental leave, and paid caregiver leave",
+        "To encourage your personal growth, we also offer a variety of training programs, professional development resources, and opportunities to participate in mentorship programs, employee resource groups, volunteer activities, and much more",
+        "Salary Range*",
+        "$88,700 - 126,940",
+        "This Salary Range reflects a National Average for this job"
+      ],
+      "Responsibilities": [
+        "This individual will provide guidance through advanced analytics modeling and optimizing facilities within the Supply Chain",
+        "The Simulation Engineer should have a firm understanding of distribution operational and automation processes",
+        "Create simulation models of our distribution centers that will help determine efficiency opportunities",
+        "Understand and have experience with design and / or implementation of automation solutions such as conveyors, sorters, high speed picking and packaging lines, robotic work cells",
+        "Work closely with other teams, such as Engineering and Operations, in the validation of the models and in the design of potential scenarios that will improve the total outcome",
+        "Collaborate in developing a cost to serve model",
+        "Implement and support the new inhouse simulation capabilities – process, tools, training",
+        "Collaborate in the creation of business cases to close gaps and define capex requirements",
+        "Provide advice and insights on improving existing simulation capabilities",
+        "Design interactive business intelligence dashboards to share input and outputs",
+        "Develop and train team to utilize self-service modeling functionality",
+        "Stay up to date with modeling and simulations trends",
+        "Perform other duties as assigned",
+        "Team oriented and collaborative working style",
+        "Ability to influence through the use of data and insights while showing tactful discretion with difficult/sensitive information",
+        "Travel required per project, estimated at 2 weeks per quarter",
+        "Ability to manage multiple projects"
+      ]
+    },
+    "job_onet_soc": "13108100",
+    "job_onet_job_zone": "4",
+    "id": "careers-cencora-com-us-en-job-r2523242-simulation-engineer-supply-chain",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "_6T7FdFfKx98hoI6AAAAAA==",
     "job_title": "Data Engineer - On-Site [see locations]",
     "employer_name": "Regions",
@@ -1593,6 +1616,60 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "zwAG5QQq-v9l2VvrAAAAAA==",
+    "job_title": "Data Analytics Engineer",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=23eaffa71bc9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=23eaffa71bc9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A company is looking for a Data / Analytics Engineer to support the VHA Veteran Family Member Program Modernization initiative.\n\nKey Responsibilities\n\nBuild and maintain data pipelines and workflows\n\nSupport analytics, modeling, and visualization efforts\n\nEnsure data integrity, security, and alignment with VA architecture standards\n\nRequired Qualifications\n\nBachelor's degree\n\n5+ years in analytics, data engineering, and visualization tools such as Azure and Databricks\n\nAbility to work without sponsorship in the US indefinitely",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Lake Charles, LA",
+    "job_city": "Lake Charles",
+    "job_state": "Louisiana",
+    "job_country": "US",
+    "job_latitude": 30.2265949,
+    "job_longitude": -93.2173758,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DzwAG5QQq-v9l2VvrAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Bachelor's degree",
+        "5+ years in analytics, data engineering, and visualization tools such as Azure and Databricks",
+        "Ability to work without sponsorship in the US indefinitely"
+      ],
+      "Responsibilities": [
+        "Build and maintain data pipelines and workflows",
+        "Support analytics, modeling, and visualization efforts",
+        "Ensure data integrity, security, and alignment with VA architecture standards"
+      ]
+    },
+    "job_onet_soc": "43911100",
+    "job_onet_job_zone": "4",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "5DdsccHWVhuOvi7ZAAAAAA==",
     "job_title": "Senior Data Analytics Engineer",
     "employer_name": "VirtualVocations",
@@ -1640,60 +1717,6 @@
         "Lead data analytics projects to build innovative solutions while ensuring adherence to budget, schedule, and scope",
         "Mentor members in the Analytics Center of Excellence and assist with data catalog and visualization software oversight",
         "Drive data and analytics solutions from conception to deployment with clear ROI impact"
-      ]
-    },
-    "job_onet_soc": "43911100",
-    "job_onet_job_zone": "4",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "zwAG5QQq-v9l2VvrAAAAAA==",
-    "job_title": "Data Analytics Engineer",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=23eaffa71bc9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=23eaffa71bc9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A company is looking for a Data / Analytics Engineer to support the VHA Veteran Family Member Program Modernization initiative.\n\nKey Responsibilities\n\nBuild and maintain data pipelines and workflows\n\nSupport analytics, modeling, and visualization efforts\n\nEnsure data integrity, security, and alignment with VA architecture standards\n\nRequired Qualifications\n\nBachelor's degree\n\n5+ years in analytics, data engineering, and visualization tools such as Azure and Databricks\n\nAbility to work without sponsorship in the US indefinitely",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Lake Charles, LA",
-    "job_city": "Lake Charles",
-    "job_state": "Louisiana",
-    "job_country": "US",
-    "job_latitude": 30.2265949,
-    "job_longitude": -93.2173758,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DzwAG5QQq-v9l2VvrAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Bachelor's degree",
-        "5+ years in analytics, data engineering, and visualization tools such as Azure and Databricks",
-        "Ability to work without sponsorship in the US indefinitely"
-      ],
-      "Responsibilities": [
-        "Build and maintain data pipelines and workflows",
-        "Support analytics, modeling, and visualization efforts",
-        "Ensure data integrity, security, and alignment with VA architecture standards"
       ]
     },
     "job_onet_soc": "43911100",
@@ -2014,61 +2037,6 @@
       ]
     },
     "job_onet_soc": "43911100",
-    "job_onet_job_zone": "4",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "0ihmnDaGYARMqeWnAAAAAA==",
-    "job_title": "Data Integration Engineer",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=dcaee1d2df8d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=dcaee1d2df8d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A company is looking for a Structured Data Integration & Testing Engineer to enhance its member-facing AI assistant through reliable data integration and testing.\n\nKey Responsibilities\n\nLead the development and implementation of AI solutions for healthcare payer use cases\n\nArchitect and deploy scalable AI models using Python and cloud platforms\n\nCollaborate with product teams to identify and prioritize AI opportunities that address business challenges\n\nRequired Qualifications\n\nBachelor's degree in STEM or equivalent work experience required; Master's or PhD preferred\n\n5+ years of experience in analytics, technology, or software engineering, with 3+ years in machine learning\n\nProven experience with large datasets and data science pipelines\n\nDeep knowledge of machine learning frameworks and natural language processing\n\nExperience deploying ML models in cloud environments, preferably GCP Vertex AI",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "New Orleans, LA",
-    "job_city": "New Orleans",
-    "job_state": "Louisiana",
-    "job_country": "US",
-    "job_latitude": 29.9508941,
-    "job_longitude": -90.07583559999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D0ihmnDaGYARMqeWnAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "5+ years of experience in analytics, technology, or software engineering, with 3+ years in machine learning",
-        "Proven experience with large datasets and data science pipelines",
-        "Deep knowledge of machine learning frameworks and natural language processing",
-        "Experience deploying ML models in cloud environments, preferably GCP Vertex AI"
-      ],
-      "Responsibilities": [
-        "Lead the development and implementation of AI solutions for healthcare payer use cases",
-        "Architect and deploy scalable AI models using Python and cloud platforms",
-        "Collaborate with product teams to identify and prioritize AI opportunities that address business challenges"
-      ]
-    },
-    "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "www-talent-com-view",
     "_source": "new_jobs"
