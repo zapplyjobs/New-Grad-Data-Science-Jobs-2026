@@ -9,16 +9,16 @@
 
 # Data Science Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-3-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-3-blue?style=flat&logo=building)
-![Data Engineer](https://img.shields.io/badge/Data_Engineer-1-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-4-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-4-blue?style=flat&logo=building)
+![Data Analyst](https://img.shields.io/badge/Data_Analyst-2-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time data science, analytics, and machine learning jobs from 3+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 3+ fresh opportunities for new graduates, data science students, and entry-level data analysts.</p>
+<p align="center">🚀 Real-time data science, analytics, and machine learning jobs from 4+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 4+ fresh opportunities for new graduates, data science students, and entry-level data analysts.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -78,11 +78,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>📊 <strong>Data Analyst</strong> (1 positions)</h3></summary>
+<summary><h3>📊 <strong>Data Analyst</strong> (2 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🏢 **Truist Bank** | Quantitative Model Development A... 🏠 | Winston-Salem, North Carolina | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.truist.com/us/en/job/TBJTBFUSR0111214EXTERNALENUS/Quantitative-Model-Development-Analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Initio Capital** | Quantitative Risk Analyst | New York, New York | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.indeed.com/viewjob?jk=fd85598f7ae071fd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -156,25 +157,17 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ### 📊 **Archived Job Stats**
 - **📁 Total Jobs**: 4 positions
-- **🏢 Companies**: 3 companies
+- **🏢 Companies**: 4 companies
 - **🏷️ Top Category**: Data Scientist
 
 <details>
-<summary><h3>🔬 <strong>Data Scientist</strong> (2 positions)</h3></summary>
+<summary><h3>🔬 <strong>Data Scientist</strong> (3 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🏢 **Point72** | Quantitative Analyst / Software ... | New York, New York | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://builtin.com/job/quantitative-analyst-software-developer/3105184?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Los Angeles Dodgers** | Junior Quantitative Analyst | Los Angeles, California | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.teamworkonline.com/baseball-jobs/los-angeles-dodgers-jobs/los-angeles-dodgers/junior-quantitative-analyst-2153162?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-</details>
-
-<details>
-<summary><h3>📊 <strong>Data Analyst</strong> (1 positions)</h3></summary>
-
-| Company | Role | Location | Posted | Level | Apply |
-|---------|------|----------|--------|-------|-------|
-| 🏢 **Loan Depot** | Quantitative Analyst | Irvine, California | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://career.io/job/quantitative-analyst-irvine-loan-depot-ebfe1deb4d2318177a15cb3bcdc8cb94?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **T Rowe Price** | Quantitative Investment Analyst ... | Baltimore, Maryland | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/T.-Rowe-Price-Associates,-Inc./Job/Quantitative-Investment-Analyst-Multi-Asset/-in-Baltimore,MD?jid=5b3c632c6b2904d4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **TEAM YOUNG INC.** | Financial Quantitative Analyst | Baldwin Park, California | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://california.jobing.com/job/financial-quantitative-analyst-e9y7-january-2026-baldwin-park-california-us/nuzgjnirovtp?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -197,7 +190,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3 current opportunities from 3 companies**
+**🎯 4 current opportunities from 4 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
