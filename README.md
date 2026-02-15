@@ -73,7 +73,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **ICR, Inc.** | Bayesian Statistician (Data Scie... | Remote | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.glassdoor.com/job-listing/bayesian-statistician-data-scientist-aurora-co-icr-JV_KO0,46_KE47,50.htm?jl=1009994742235&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **DataAnnotation** | Quantitative Analyst - AI Trainer 🏠 | Alpharetta, Georgia | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.venturebeat.com/job/quantitative-analyst-ai-trainer--frG-VfHrB-at-dataannotation?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -83,7 +83,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🏢 **Truist Bank** | Quantitative Model Development A... 🏠 | Winston-Salem, North Carolina | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.truist.com/us/en/job/TBJTBFUSR0111214EXTERNALENUS/Quantitative-Model-Development-Analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Office of Analysis and Research Services** | Supervisory Survey Statistician | Washington, District of Columbia | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/857059300?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Initio Capital** | Quantitative Risk Analyst | New York, New York | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.indeed.com/viewjob?jk=fd85598f7ae071fd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -153,30 +153,20 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 5 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 3 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 5 positions
+- **📁 Total Jobs**: 3 positions
 - **🏢 Companies**: 4 companies
-- **🏷️ Top Category**: Data Analyst
+- **🏷️ Top Category**: Data Scientist
 
 <details>
 <summary><h3>🔬 <strong>Data Scientist</strong> (2 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Los Angeles Dodgers** | Junior Quantitative Analyst | Los Angeles, California | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.teamworkonline.com/baseball-jobs/los-angeles-dodgers-jobs/los-angeles-dodgers/junior-quantitative-analyst-2153162?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **T Rowe Price** | Quantitative Investment Analyst ... | Baltimore, Maryland | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/T.-Rowe-Price-Associates,-Inc./Job/Quantitative-Investment-Analyst-Multi-Asset/-in-Baltimore,MD?jid=5b3c632c6b2904d4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-</details>
-
-<details>
-<summary><h3>📊 <strong>Data Analyst</strong> (2 positions)</h3></summary>
-
-| Company | Role | Location | Posted | Level | Apply |
-|---------|------|----------|--------|-------|-------|
-| 🏢 **Trigent Solutions** | Quantitative Analyst (Sr Consult... | Chantilly, Virginia | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=fa05bf70dbb6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Loan Depot** | Quantitative Analyst | Irvine, California | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://career.io/job/quantitative-analyst-irvine-loan-depot-ebfe1deb4d2318177a15cb3bcdc8cb94?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **TEAM YOUNG INC.** | Financial Quantitative Analyst | Baldwin Park, California | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://california.jobing.com/job/financial-quantitative-analyst-e9y7-january-2026-baldwin-park-california-us/nuzgjnirovtp?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
