@@ -122,9 +122,9 @@
     "job_latitude": 36.0948221,
     "job_longitude": -80.2434028,
     "job_benefits": [
-      "paid_time_off",
       "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DD-LGq5o0FMB3KQT1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 30.7,
@@ -177,6 +177,89 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "www-ziprecruiter-com-c-advocate-aurora-health-job-analytics-engineer-in-winston-salem-nc",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "h4Px_slRHIXshjaHAAAAAA==",
+    "job_title": "Data Analytics Engineer II - IM Enterprise Data",
+    "employer_name": "Christus Health",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcDADXYW44OCBLPAj4Y3AN8FEYdbU07Pe0pOTp&s=0",
+    "employer_website": "https://www.christushealth.org",
+    "job_publisher": "Women For Hire- Job Board",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.womenforhire.com/job/usa/carrollton-tx/data-analytics-engineer-ii-im-enterprise-data-237234/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Women For Hire- Job Board",
+        "apply_link": "https://jobs.womenforhire.com/job/usa/carrollton-tx/data-analytics-engineer-ii-im-enterprise-data-237234/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Description\n\nSummary:\n\nA Data and Analytics Engineer II is responsible for development, expansion, and maintenance of data pipelines of the echo system. A Data and Analytics Engineer uses programming skills to develop, customize and manage integration tools, databases, warehouses, and analytical systems.\n\nThe Data and Analytics Engineer II is responsible for implementation of optimal solutions to integrate, store, process and analyze huge data sets. This includes an understanding of methodology, specifications, programming, delivery, monitoring, and support standards.\n\nIndividual must have advanced knowledge of designing and developing data pipelines and delivering advanced analytics, with open-source Big Data processing frameworks such as Hadoop technologies. Individual must have proven competency in programming utilizing distributed computing principles.\n\nResponsibilities:\n• Meets expectations of the applicable OneCHRISTUS Competencies: Leader of Self, Leader of Others, or Leader of Leaders.\n• Responsible for analyzing and understanding data sources, participating in requirement gathering, and providing insights and guidance on data technology and data modeling best practices.\n• Analyzes ideas and business and functional requirements to formulate a design strategy.\n• Acts as a tenant to draw out a workable application design and coding parameters with essential functionalities.\n• Works in collaboration with the team members to identify and address the issues by implementing a viable technical solution that is time and cost-effective and ensuring that it does not affect performance quality.\n• Develops code following the industry's best practices and adhere to the organizational development rules and standards.\n• Involved in the evaluation of proposed system acquisitions or solutions development and provides input to the decision-making process relative to compatibility, cost, resource requirements, operations, and maintenance.\n• Integrates software components, subsystems, facilities, and services into the existing technical systems environment; assesses the impact on other systems and works with cross-functional teams within information Services to ensure positive project impact. Installs configure and verify the operation of software components.\n• Participates in the development of standards, design, and implementation of proactive processes to collect and report data and statistics on assigned systems.\n• Participates in the research, design, development, and implementation of application, database, and interface using technologies platforms provided.\n• Researching, designing, implementing, and managing programs.\n• Fixes problems arising across the test cycles and continuously improve the quality of deliverables.\n• References and documents each phase of development for further reference and maintenance operation.\n• Uses critical and analytical thinking skills and understanding of programming principles and design.\n• Uses strong technical knowledge of Enterprise Application/Integration Design and develop systems, databases, operating systems, and Information Services.\n• Uses experience in large scale data lake data and data warehouse implementations and demonstrate proficiency in open-source technology, for example, Python, Spark, Hive, HDFS, NiFi etc.\n• Demonstrates substantial experience and a deep knowledge of data mining techniques, relational, and non-relational databases.\n• Demonstrates experience with data integration with ETL techniques and frameworks.\n• Works with Big Data querying tools, such as Hive, Impala and Spark SQL.\n• Builds stream-processing systems, using solutions such as NiFi or Spark-Streaming.\n• Demonstrates good understanding of Lambda Architecture\n• Uses intermediate level of SQL programing and query performance tuning techniques for Data Integration and Consumption using design for optimum performance against large data asset within Transactional, MPP and columnar architecture.\n• Demonstrates solid understanding of BI and analytics landscape, preferable in large-scale development environments.\n\nJob Requirements:\n\nEducation/Skills\n• Bachelor’s degree in computer science, Engineering, Math, or related field is required.\n\nExperience\n• Minimum of three (3) years of experience in MapReduce, Spark programming.\n• Minimum of three (3) years of experience developing analytics solutions with large data sets within an OLAP and MPP architecture.\n• Minimum of five (5) years of experience with design, architecture and development of Enterprise scale platforms built on open-source frameworks.\n• Three (3) years of experience with working in a Microsoft SQL Server environment is preferred.\n• One (1) year of Healthcare IT experience is preferred.\n• Two (2) years of experience working with Microsoft SQL Server Integration Services (SSIS) is preferred.\n\nLicenses, Registrations, or Certifications\n• Certifications in Hadoop or Java are a plus.\n\nWork Schedule:\n\n8AM - 5PM Monday-Friday\n\nWork Type:\n\nFull Time",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Carrollton, TX",
+    "job_city": "Carrollton",
+    "job_state": "Texas",
+    "job_country": "US",
+    "job_latitude": 32.9756415,
+    "job_longitude": -96.8899636,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dh4Px_slRHIXshjaHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Individual must have advanced knowledge of designing and developing data pipelines and delivering advanced analytics, with open-source Big Data processing frameworks such as Hadoop technologies",
+        "Individual must have proven competency in programming utilizing distributed computing principles",
+        "Uses strong technical knowledge of Enterprise Application/Integration Design and develop systems, databases, operating systems, and Information Services",
+        "Uses experience in large scale data lake data and data warehouse implementations and demonstrate proficiency in open-source technology, for example, Python, Spark, Hive, HDFS, NiFi etc",
+        "Demonstrates substantial experience and a deep knowledge of data mining techniques, relational, and non-relational databases",
+        "Demonstrates experience with data integration with ETL techniques and frameworks",
+        "Works with Big Data querying tools, such as Hive, Impala and Spark SQL",
+        "Builds stream-processing systems, using solutions such as NiFi or Spark-Streaming",
+        "Demonstrates solid understanding of BI and analytics landscape, preferable in large-scale development environments",
+        "Bachelor’s degree in computer science, Engineering, Math, or related field is required",
+        "Minimum of three (3) years of experience in MapReduce, Spark programming",
+        "Minimum of three (3) years of experience developing analytics solutions with large data sets within an OLAP and MPP architecture",
+        "Minimum of five (5) years of experience with design, architecture and development of Enterprise scale platforms built on open-source frameworks",
+        "Licenses, Registrations, or Certifications"
+      ],
+      "Responsibilities": [
+        "A Data and Analytics Engineer II is responsible for development, expansion, and maintenance of data pipelines of the echo system",
+        "A Data and Analytics Engineer uses programming skills to develop, customize and manage integration tools, databases, warehouses, and analytical systems",
+        "The Data and Analytics Engineer II is responsible for implementation of optimal solutions to integrate, store, process and analyze huge data sets",
+        "This includes an understanding of methodology, specifications, programming, delivery, monitoring, and support standards",
+        "Meets expectations of the applicable OneCHRISTUS Competencies: Leader of Self, Leader of Others, or Leader of Leaders",
+        "Responsible for analyzing and understanding data sources, participating in requirement gathering, and providing insights and guidance on data technology and data modeling best practices",
+        "Analyzes ideas and business and functional requirements to formulate a design strategy",
+        "Acts as a tenant to draw out a workable application design and coding parameters with essential functionalities",
+        "Works in collaboration with the team members to identify and address the issues by implementing a viable technical solution that is time and cost-effective and ensuring that it does not affect performance quality",
+        "Develops code following the industry's best practices and adhere to the organizational development rules and standards",
+        "Involved in the evaluation of proposed system acquisitions or solutions development and provides input to the decision-making process relative to compatibility, cost, resource requirements, operations, and maintenance",
+        "Integrates software components, subsystems, facilities, and services into the existing technical systems environment; assesses the impact on other systems and works with cross-functional teams within information Services to ensure positive project impact",
+        "Installs configure and verify the operation of software components",
+        "Participates in the development of standards, design, and implementation of proactive processes to collect and report data and statistics on assigned systems",
+        "Participates in the research, design, development, and implementation of application, database, and interface using technologies platforms provided",
+        "Researching, designing, implementing, and managing programs",
+        "Fixes problems arising across the test cycles and continuously improve the quality of deliverables",
+        "References and documents each phase of development for further reference and maintenance operation",
+        "Uses critical and analytical thinking skills and understanding of programming principles and design",
+        "Demonstrates good understanding of Lambda Architecture",
+        "Uses intermediate level of SQL programing and query performance tuning techniques for Data Integration and Consumption using design for optimum performance against large data asset within Transactional, MPP and columnar architecture"
+      ]
+    },
+    "job_onet_soc": "43911100",
+    "job_onet_job_zone": "4",
+    "id": "jobs-womenforhire-com-job-usa-carrollton-tx-data-analytics-engineer-ii-im-enterprise-data-237234",
     "_source": "new_jobs"
   },
   {
@@ -401,9 +484,9 @@
     "job_latitude": 38.9072873,
     "job_longitude": -77.0369274,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Df5J9sCWlOs9AFPYrAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": null,
@@ -701,9 +784,9 @@
     "job_latitude": 35.517491299999996,
     "job_longitude": -86.5804473,
     "job_benefits": [
-      "paid_time_off",
+      "dental_coverage",
       "health_insurance",
-      "dental_coverage"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DaFi9I2wuRtpwexnLAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -826,8 +909,8 @@
     "job_latitude": 27.951689599999998,
     "job_longitude": -82.45875269999999,
     "job_benefits": [
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DXAY1ZGCPVXZ2djEhAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1002,6 +1085,134 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "QMFI59Aeon5OiMxQAAAAAA==",
+    "job_title": "Data Solutions Engineer",
+    "employer_name": "Early Career",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "Citi Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.citi.com/job/irving/data-solutions-engineer/287/91594717280?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Citi Careers",
+        "apply_link": "https://jobs.citi.com/job/irving/data-solutions-engineer/287/91594717280?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=9ead36078a466c4a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/data-solutions-engineer-citi-JV_IC1140006_KO0,23_KE24,28.htm?jl=1010030029481&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Citi/Job/Data-Solutions-Engineer/-in-Irving,TX?jid=dbbae6d41b22e401&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/data-solutions-engineer-at-citi-4370775693?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Experteer",
+        "apply_link": "https://us.experteer.com/career/view-jobs/data-solutions-engineer-irving-tx-usa-56103968?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/18342d1b3a5230bb8ebc6b74cb10e255?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "PowerToFly",
+        "apply_link": "https://powertofly.com/jobs/detail/2498189?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "This Data Solutions Engineer (Applications Development Senior Programmer Analyst - C12) is responsible for building next-generation Data Engineering solutions. This intermediate-level position involves active participation in the establishment and implementation of new or revised application systems and programs in coordination with the Technology team. A key aspect of this role is liaising between business users and technologists to facilitate the exchange of information regarding solutions, including requirements and usage.\n\nResponsibilities:\n• Serve as an integral team member of our Data Engineering team, responsible for the design and development of Big Data solutions.\n• Partner with domain experts, product managers, analysts, and data scientists to develop robust Big Data pipelines in Hadoop or Snowflake environments.\n• Responsible for delivering a data-as-a-service framework.\n• Responsible for moving all legacy workloads to cloud platform.\n• Lead the migration of all legacy workloads to cloud platforms.\n• Engage with key stakeholders to elicit and document requirements, including detailed data flow specifications.\n• Assess appropriate solutions and collaborate with relevant teams to drive optimal implementations.\n• Work with data scientists to build client pipelines using heterogeneous sources and provide essential engineering services for data science applications.\n• Research and evaluate open-source technologies and components, recommending and integrating them into design and implementation efforts.\n• Act as a technical expert, mentoring other team members on Big Data and Cloud technology stacks.\n• Define comprehensive requirements for maintainability, testability, performance, security, quality, and usability across the data platform.\n• Drive the implementation of consistent patterns, reusable components, and coding standards for all data engineering processes.\n• Convert SAS-based pipelines into modern languages like PySpark and Scala for execution on Hadoop and non-Hadoop ecosystems.\n• Optimize Big Data applications on both Hadoop and non-Hadoop platforms for peak performance.\n• Evaluate new IT developments and evolving business requirements, recommending appropriate system alternatives and/or enhancements to current systems through analysis of business processes, systems, and industry standards.\n• Appropriately assess risk when making business decisions, demonstrating consideration for the firm's reputation and safeguarding Citigroup, its clients, and assets. This includes driving compliance with applicable laws, rules, and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct, and business practices, and escalating, managing, and reporting control issues with transparency.\n\nRequired Qualifications:\n• 5+ years of experience with Hadoop and Big Data technologies\n• Demonstrated proficiency in Python, PySpark, and Scala, including practical experience with fundamental machine learning libraries\n• Experience in developing robust data solutions leveraging Google Cloud or AWS platforms; relevant certifications are preferred\n• Experience with SAS\n• Experience with containerization and related technologies (e.g., Docker, Kubernetes)\n• Comprehensive understanding of software engineering and data analytics\n• In-depth knowledge and hands-on experience with the Hadoop ecosystem and Big Data technologies (e.g., HDFS, MapReduce, Hive, Pig, Impala, Kafka, Kudu, Solr)\n• Knowledge of Agile (Scrum) development methodologies.\n• Strong development and automation skills.\n• System-level understanding of data structures, algorithms, distributed storage, and compute.\n• A proactive approach to solving complex business problems, complemented by strong interpersonal and teamwork skills.\n\nDesired Qualifications\n• Familiarity with Hadoop administration and Snowflake.\n• Proficiency in Java or additional experience with Apache Beam.\n\nEducation:\n• Bachelor’s degree/University degree or equivalent experience\n\nApplicants must be authorized to work in the U.S for this position; Citi will not sponsor applicants for U.S. work authorization for this role. Candidate must be located within commuting distance or be willing to relocate to the area.\n\nThis job description provides a high-level review of the types of work performed. Other job-related duties may be assigned as required.\n\n------------------------------------------------------\n\nJob Family Group:\nTechnology\n\n------------------------------------------------------\n\nJob Family:\nApplications Development\n\n------------------------------------------------------\n\nTime Type:\nFull time\n\n------------------------------------------------------\n\nPrimary Location:\nIrving Texas United States\n\n------------------------------------------------------\n\nPrimary Location Full Time Salary Range:\n$107,120.00 - $160,680.00\n\nIn addition to salary, Citi’s offerings may also include, for eligible employees, discretionary and formulaic incentive and retention awards. Citi offers competitive employee benefits, including: medical, dental & vision coverage; 401(k); life, accident, and disability insurance; and wellness programs. Citi also offers paid time off packages, including planned time off (vacation), unplanned time off (sick leave), and paid holidays. For additional information regarding Citi employee benefits, please visit citibenefits.com. Available offerings may vary by jurisdiction, job level, and date of hire.\n\n------------------------------------------------------\n\nMost Relevant Skills\nPlease see the requirements listed above.\n\n------------------------------------------------------\n\nOther Relevant Skills\nFor complementary skills, please see above and/or contact the recruiter.\n\n------------------------------------------------------\n\nAnticipated Posting Close Date:\nFeb 24, 2026\n\n------------------------------------------------------\n\nCiti is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.\n\nIf you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.\n\nView Citi’s EEO Policy Statement and the Know Your Rights poster.",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Jacksonville, FL",
+    "job_city": "Jacksonville",
+    "job_state": "Florida",
+    "job_country": "US",
+    "job_latitude": 30.3297566,
+    "job_longitude": -81.6591529,
+    "job_benefits": [
+      "paid_time_off",
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DQMFI59Aeon5OiMxQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "5+ years of experience with Hadoop and Big Data technologies",
+        "Demonstrated proficiency in Python, PySpark, and Scala, including practical experience with fundamental machine learning libraries",
+        "Experience with SAS",
+        "Experience with containerization and related technologies (e.g., Docker, Kubernetes)",
+        "Comprehensive understanding of software engineering and data analytics",
+        "In-depth knowledge and hands-on experience with the Hadoop ecosystem and Big Data technologies (e.g., HDFS, MapReduce, Hive, Pig, Impala, Kafka, Kudu, Solr)",
+        "Knowledge of Agile (Scrum) development methodologies",
+        "Strong development and automation skills",
+        "System-level understanding of data structures, algorithms, distributed storage, and compute",
+        "A proactive approach to solving complex business problems, complemented by strong interpersonal and teamwork skills",
+        "Bachelor’s degree/University degree or equivalent experience",
+        "Applicants must be authorized to work in the U.S for this position; Citi will not sponsor applicants for U.S. work authorization for this role",
+        "Candidate must be located within commuting distance or be willing to relocate to the area",
+        "Please see the requirements listed above",
+        "For complementary skills, please see above and/or contact the recruiter"
+      ],
+      "Benefits": [
+        "$107,120.00 - $160,680.00",
+        "In addition to salary, Citi’s offerings may also include, for eligible employees, discretionary and formulaic incentive and retention awards",
+        "Citi offers competitive employee benefits, including: medical, dental & vision coverage; 401(k); life, accident, and disability insurance; and wellness programs",
+        "Citi also offers paid time off packages, including planned time off (vacation), unplanned time off (sick leave), and paid holidays"
+      ],
+      "Responsibilities": [
+        "This intermediate-level position involves active participation in the establishment and implementation of new or revised application systems and programs in coordination with the Technology team",
+        "A key aspect of this role is liaising between business users and technologists to facilitate the exchange of information regarding solutions, including requirements and usage",
+        "Serve as an integral team member of our Data Engineering team, responsible for the design and development of Big Data solutions",
+        "Partner with domain experts, product managers, analysts, and data scientists to develop robust Big Data pipelines in Hadoop or Snowflake environments",
+        "Responsible for delivering a data-as-a-service framework",
+        "Responsible for moving all legacy workloads to cloud platform",
+        "Lead the migration of all legacy workloads to cloud platforms",
+        "Engage with key stakeholders to elicit and document requirements, including detailed data flow specifications",
+        "Assess appropriate solutions and collaborate with relevant teams to drive optimal implementations",
+        "Work with data scientists to build client pipelines using heterogeneous sources and provide essential engineering services for data science applications",
+        "Research and evaluate open-source technologies and components, recommending and integrating them into design and implementation efforts",
+        "Act as a technical expert, mentoring other team members on Big Data and Cloud technology stacks",
+        "Define comprehensive requirements for maintainability, testability, performance, security, quality, and usability across the data platform",
+        "Drive the implementation of consistent patterns, reusable components, and coding standards for all data engineering processes",
+        "Convert SAS-based pipelines into modern languages like PySpark and Scala for execution on Hadoop and non-Hadoop ecosystems",
+        "Optimize Big Data applications on both Hadoop and non-Hadoop platforms for peak performance",
+        "Evaluate new IT developments and evolving business requirements, recommending appropriate system alternatives and/or enhancements to current systems through analysis of business processes, systems, and industry standards",
+        "Appropriately assess risk when making business decisions, demonstrating consideration for the firm's reputation and safeguarding Citigroup, its clients, and assets",
+        "This includes driving compliance with applicable laws, rules, and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct, and business practices, and escalating, managing, and reporting control issues with transparency",
+        "This job description provides a high-level review of the types of work performed"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "jobs-citi-com-job-irving-data-solutions-engineer-287-91594717280",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "4PMXCF0Zj3csVibCAAAAAA==",
     "job_title": "Data Engineering Manager - Advanced Analytics",
     "employer_name": "Niagara Bottling",
@@ -1146,134 +1357,6 @@
     "job_onet_soc": "11302100",
     "job_onet_job_zone": "4",
     "id": "careers-niagarawater-com-us-en-job-r45735-data-engineering-manager-advanced-analytics",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "QMFI59Aeon5OiMxQAAAAAA==",
-    "job_title": "Data Solutions Engineer",
-    "employer_name": "Early Career",
-    "employer_logo": null,
-    "employer_website": "https://www.kpmguscareers.com",
-    "job_publisher": "Citi Careers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobs.citi.com/job/irving/data-solutions-engineer/287/91594717280?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Citi Careers",
-        "apply_link": "https://jobs.citi.com/job/irving/data-solutions-engineer/287/91594717280?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=9ead36078a466c4a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/data-solutions-engineer-citi-JV_IC1140006_KO0,23_KE24,28.htm?jl=1010030029481&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Citi/Job/Data-Solutions-Engineer/-in-Irving,TX?jid=dbbae6d41b22e401&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/data-solutions-engineer-at-citi-4370775693?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Experteer",
-        "apply_link": "https://us.experteer.com/career/view-jobs/data-solutions-engineer-irving-tx-usa-56103968?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/18342d1b3a5230bb8ebc6b74cb10e255?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "PowerToFly",
-        "apply_link": "https://powertofly.com/jobs/detail/2498189?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "This Data Solutions Engineer (Applications Development Senior Programmer Analyst - C12) is responsible for building next-generation Data Engineering solutions. This intermediate-level position involves active participation in the establishment and implementation of new or revised application systems and programs in coordination with the Technology team. A key aspect of this role is liaising between business users and technologists to facilitate the exchange of information regarding solutions, including requirements and usage.\n\nResponsibilities:\n• Serve as an integral team member of our Data Engineering team, responsible for the design and development of Big Data solutions.\n• Partner with domain experts, product managers, analysts, and data scientists to develop robust Big Data pipelines in Hadoop or Snowflake environments.\n• Responsible for delivering a data-as-a-service framework.\n• Responsible for moving all legacy workloads to cloud platform.\n• Lead the migration of all legacy workloads to cloud platforms.\n• Engage with key stakeholders to elicit and document requirements, including detailed data flow specifications.\n• Assess appropriate solutions and collaborate with relevant teams to drive optimal implementations.\n• Work with data scientists to build client pipelines using heterogeneous sources and provide essential engineering services for data science applications.\n• Research and evaluate open-source technologies and components, recommending and integrating them into design and implementation efforts.\n• Act as a technical expert, mentoring other team members on Big Data and Cloud technology stacks.\n• Define comprehensive requirements for maintainability, testability, performance, security, quality, and usability across the data platform.\n• Drive the implementation of consistent patterns, reusable components, and coding standards for all data engineering processes.\n• Convert SAS-based pipelines into modern languages like PySpark and Scala for execution on Hadoop and non-Hadoop ecosystems.\n• Optimize Big Data applications on both Hadoop and non-Hadoop platforms for peak performance.\n• Evaluate new IT developments and evolving business requirements, recommending appropriate system alternatives and/or enhancements to current systems through analysis of business processes, systems, and industry standards.\n• Appropriately assess risk when making business decisions, demonstrating consideration for the firm's reputation and safeguarding Citigroup, its clients, and assets. This includes driving compliance with applicable laws, rules, and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct, and business practices, and escalating, managing, and reporting control issues with transparency.\n\nRequired Qualifications:\n• 5+ years of experience with Hadoop and Big Data technologies\n• Demonstrated proficiency in Python, PySpark, and Scala, including practical experience with fundamental machine learning libraries\n• Experience in developing robust data solutions leveraging Google Cloud or AWS platforms; relevant certifications are preferred\n• Experience with SAS\n• Experience with containerization and related technologies (e.g., Docker, Kubernetes)\n• Comprehensive understanding of software engineering and data analytics\n• In-depth knowledge and hands-on experience with the Hadoop ecosystem and Big Data technologies (e.g., HDFS, MapReduce, Hive, Pig, Impala, Kafka, Kudu, Solr)\n• Knowledge of Agile (Scrum) development methodologies.\n• Strong development and automation skills.\n• System-level understanding of data structures, algorithms, distributed storage, and compute.\n• A proactive approach to solving complex business problems, complemented by strong interpersonal and teamwork skills.\n\nDesired Qualifications\n• Familiarity with Hadoop administration and Snowflake.\n• Proficiency in Java or additional experience with Apache Beam.\n\nEducation:\n• Bachelor’s degree/University degree or equivalent experience\n\nApplicants must be authorized to work in the U.S for this position; Citi will not sponsor applicants for U.S. work authorization for this role. Candidate must be located within commuting distance or be willing to relocate to the area.\n\nThis job description provides a high-level review of the types of work performed. Other job-related duties may be assigned as required.\n\n------------------------------------------------------\n\nJob Family Group:\nTechnology\n\n------------------------------------------------------\n\nJob Family:\nApplications Development\n\n------------------------------------------------------\n\nTime Type:\nFull time\n\n------------------------------------------------------\n\nPrimary Location:\nIrving Texas United States\n\n------------------------------------------------------\n\nPrimary Location Full Time Salary Range:\n$107,120.00 - $160,680.00\n\nIn addition to salary, Citi’s offerings may also include, for eligible employees, discretionary and formulaic incentive and retention awards. Citi offers competitive employee benefits, including: medical, dental & vision coverage; 401(k); life, accident, and disability insurance; and wellness programs. Citi also offers paid time off packages, including planned time off (vacation), unplanned time off (sick leave), and paid holidays. For additional information regarding Citi employee benefits, please visit citibenefits.com. Available offerings may vary by jurisdiction, job level, and date of hire.\n\n------------------------------------------------------\n\nMost Relevant Skills\nPlease see the requirements listed above.\n\n------------------------------------------------------\n\nOther Relevant Skills\nFor complementary skills, please see above and/or contact the recruiter.\n\n------------------------------------------------------\n\nAnticipated Posting Close Date:\nFeb 24, 2026\n\n------------------------------------------------------\n\nCiti is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.\n\nIf you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.\n\nView Citi’s EEO Policy Statement and the Know Your Rights poster.",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Jacksonville, FL",
-    "job_city": "Jacksonville",
-    "job_state": "Florida",
-    "job_country": "US",
-    "job_latitude": 30.3297566,
-    "job_longitude": -81.6591529,
-    "job_benefits": [
-      "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DQMFI59Aeon5OiMxQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "5+ years of experience with Hadoop and Big Data technologies",
-        "Demonstrated proficiency in Python, PySpark, and Scala, including practical experience with fundamental machine learning libraries",
-        "Experience with SAS",
-        "Experience with containerization and related technologies (e.g., Docker, Kubernetes)",
-        "Comprehensive understanding of software engineering and data analytics",
-        "In-depth knowledge and hands-on experience with the Hadoop ecosystem and Big Data technologies (e.g., HDFS, MapReduce, Hive, Pig, Impala, Kafka, Kudu, Solr)",
-        "Knowledge of Agile (Scrum) development methodologies",
-        "Strong development and automation skills",
-        "System-level understanding of data structures, algorithms, distributed storage, and compute",
-        "A proactive approach to solving complex business problems, complemented by strong interpersonal and teamwork skills",
-        "Bachelor’s degree/University degree or equivalent experience",
-        "Applicants must be authorized to work in the U.S for this position; Citi will not sponsor applicants for U.S. work authorization for this role",
-        "Candidate must be located within commuting distance or be willing to relocate to the area",
-        "Please see the requirements listed above",
-        "For complementary skills, please see above and/or contact the recruiter"
-      ],
-      "Benefits": [
-        "$107,120.00 - $160,680.00",
-        "In addition to salary, Citi’s offerings may also include, for eligible employees, discretionary and formulaic incentive and retention awards",
-        "Citi offers competitive employee benefits, including: medical, dental & vision coverage; 401(k); life, accident, and disability insurance; and wellness programs",
-        "Citi also offers paid time off packages, including planned time off (vacation), unplanned time off (sick leave), and paid holidays"
-      ],
-      "Responsibilities": [
-        "This intermediate-level position involves active participation in the establishment and implementation of new or revised application systems and programs in coordination with the Technology team",
-        "A key aspect of this role is liaising between business users and technologists to facilitate the exchange of information regarding solutions, including requirements and usage",
-        "Serve as an integral team member of our Data Engineering team, responsible for the design and development of Big Data solutions",
-        "Partner with domain experts, product managers, analysts, and data scientists to develop robust Big Data pipelines in Hadoop or Snowflake environments",
-        "Responsible for delivering a data-as-a-service framework",
-        "Responsible for moving all legacy workloads to cloud platform",
-        "Lead the migration of all legacy workloads to cloud platforms",
-        "Engage with key stakeholders to elicit and document requirements, including detailed data flow specifications",
-        "Assess appropriate solutions and collaborate with relevant teams to drive optimal implementations",
-        "Work with data scientists to build client pipelines using heterogeneous sources and provide essential engineering services for data science applications",
-        "Research and evaluate open-source technologies and components, recommending and integrating them into design and implementation efforts",
-        "Act as a technical expert, mentoring other team members on Big Data and Cloud technology stacks",
-        "Define comprehensive requirements for maintainability, testability, performance, security, quality, and usability across the data platform",
-        "Drive the implementation of consistent patterns, reusable components, and coding standards for all data engineering processes",
-        "Convert SAS-based pipelines into modern languages like PySpark and Scala for execution on Hadoop and non-Hadoop ecosystems",
-        "Optimize Big Data applications on both Hadoop and non-Hadoop platforms for peak performance",
-        "Evaluate new IT developments and evolving business requirements, recommending appropriate system alternatives and/or enhancements to current systems through analysis of business processes, systems, and industry standards",
-        "Appropriately assess risk when making business decisions, demonstrating consideration for the firm's reputation and safeguarding Citigroup, its clients, and assets",
-        "This includes driving compliance with applicable laws, rules, and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct, and business practices, and escalating, managing, and reporting control issues with transparency",
-        "This job description provides a high-level review of the types of work performed"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "jobs-citi-com-job-irving-data-solutions-engineer-287-91594717280",
     "_source": "new_jobs"
   },
   {
@@ -1616,60 +1699,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "zwAG5QQq-v9l2VvrAAAAAA==",
-    "job_title": "Data Analytics Engineer",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=23eaffa71bc9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=23eaffa71bc9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A company is looking for a Data / Analytics Engineer to support the VHA Veteran Family Member Program Modernization initiative.\n\nKey Responsibilities\n\nBuild and maintain data pipelines and workflows\n\nSupport analytics, modeling, and visualization efforts\n\nEnsure data integrity, security, and alignment with VA architecture standards\n\nRequired Qualifications\n\nBachelor's degree\n\n5+ years in analytics, data engineering, and visualization tools such as Azure and Databricks\n\nAbility to work without sponsorship in the US indefinitely",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Lake Charles, LA",
-    "job_city": "Lake Charles",
-    "job_state": "Louisiana",
-    "job_country": "US",
-    "job_latitude": 30.2265949,
-    "job_longitude": -93.2173758,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DzwAG5QQq-v9l2VvrAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Bachelor's degree",
-        "5+ years in analytics, data engineering, and visualization tools such as Azure and Databricks",
-        "Ability to work without sponsorship in the US indefinitely"
-      ],
-      "Responsibilities": [
-        "Build and maintain data pipelines and workflows",
-        "Support analytics, modeling, and visualization efforts",
-        "Ensure data integrity, security, and alignment with VA architecture standards"
-      ]
-    },
-    "job_onet_soc": "43911100",
-    "job_onet_job_zone": "4",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "5DdsccHWVhuOvi7ZAAAAAA==",
     "job_title": "Senior Data Analytics Engineer",
     "employer_name": "VirtualVocations",
@@ -1717,6 +1746,60 @@
         "Lead data analytics projects to build innovative solutions while ensuring adherence to budget, schedule, and scope",
         "Mentor members in the Analytics Center of Excellence and assist with data catalog and visualization software oversight",
         "Drive data and analytics solutions from conception to deployment with clear ROI impact"
+      ]
+    },
+    "job_onet_soc": "43911100",
+    "job_onet_job_zone": "4",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "zwAG5QQq-v9l2VvrAAAAAA==",
+    "job_title": "Data Analytics Engineer",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=23eaffa71bc9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=23eaffa71bc9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A company is looking for a Data / Analytics Engineer to support the VHA Veteran Family Member Program Modernization initiative.\n\nKey Responsibilities\n\nBuild and maintain data pipelines and workflows\n\nSupport analytics, modeling, and visualization efforts\n\nEnsure data integrity, security, and alignment with VA architecture standards\n\nRequired Qualifications\n\nBachelor's degree\n\n5+ years in analytics, data engineering, and visualization tools such as Azure and Databricks\n\nAbility to work without sponsorship in the US indefinitely",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Lake Charles, LA",
+    "job_city": "Lake Charles",
+    "job_state": "Louisiana",
+    "job_country": "US",
+    "job_latitude": 30.2265949,
+    "job_longitude": -93.2173758,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DzwAG5QQq-v9l2VvrAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Bachelor's degree",
+        "5+ years in analytics, data engineering, and visualization tools such as Azure and Databricks",
+        "Ability to work without sponsorship in the US indefinitely"
+      ],
+      "Responsibilities": [
+        "Build and maintain data pipelines and workflows",
+        "Support analytics, modeling, and visualization efforts",
+        "Ensure data integrity, security, and alignment with VA architecture standards"
       ]
     },
     "job_onet_soc": "43911100",
@@ -1931,7 +2014,7 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "dr4deofs-aDqrKQDAAAAAA==",
+    "job_id": "Hh3sYVJawgugevAGAAAAAA==",
     "job_title": "Thermal Analysis Engineer",
     "employer_name": "VirtualVocations",
     "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
@@ -1941,12 +2024,12 @@
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=8252427480ad&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.talent.com/view?id=02ae34287d13&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
         "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=8252427480ad&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.talent.com/view?id=02ae34287d13&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
@@ -1955,14 +2038,14 @@
     "job_posted_at": "5 days ago",
     "job_posted_at_timestamp": 1770681600,
     "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Mission Viejo, CA",
-    "job_city": "Mission Viejo",
-    "job_state": "California",
+    "job_location": "Ocala, FL",
+    "job_city": "Ocala",
+    "job_state": "Florida",
     "job_country": "US",
-    "job_latitude": 33.596891299999996,
-    "job_longitude": -117.6581562,
+    "job_latitude": 29.185078299999997,
+    "job_longitude": -82.1342596,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Ddr4deofs-aDqrKQDAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DHh3sYVJawgugevAGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
