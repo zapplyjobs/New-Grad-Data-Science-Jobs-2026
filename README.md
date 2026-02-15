@@ -9,16 +9,16 @@
 
 # Data Science Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-3-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-3-blue?style=flat&logo=building)
-![Data Analyst](https://img.shields.io/badge/Data_Analyst-2-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-0-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-0-blue?style=flat&logo=building)
+![Software Engine](https://img.shields.io/badge/Software_Engineering-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time data science, analytics, and machine learning jobs from 3+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 3+ fresh opportunities for new graduates, data science students, and entry-level data analysts.</p>
+<p align="center">🚀 Real-time data science, analytics, and machine learning jobs from 0+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 0+ fresh opportunities for new graduates, data science students, and entry-level data analysts.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -68,26 +68,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 <img src="images/dsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
-<details>
-<summary><h3>🔬 <strong>Data Scientist</strong> (1 positions)</h3></summary>
-
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **US Army** | INTELLIGENCE ANALYST | Cheektowaga, New York | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.whatjobs.com/jobs/intelligence-analyst?id=2452516821&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-</details>
-
-<details>
-<summary><h3>📊 <strong>Data Analyst</strong> (2 positions)</h3></summary>
-
-| Company | Role | Location | Posted | Level | Apply |
-|---------|------|----------|--------|-------|-------|
-| 🏢 **Franklin Fitch** | Business Intelligence Analyst | Winthrop, Massachusetts | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://us.bebee.com/job/7fc0f55239805df2392413a9448825c7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **AEG** | Business Intelligence Analyst | Buda, Texas | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://smarthireclub.com/joblistings/aec9rb8gr5tl-452-f87155b93833f109-88b4ee3-df63d9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-</details>
-
-
+| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
 
 
 
@@ -148,7 +131,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ### 📊 **Archived Job Stats**
 - **📁 Total Jobs**: 0 positions
-- **🏢 Companies**: 3 companies
+- **🏢 Companies**: 0 companies
 - **🏷️ Top Category**: Software Engineering
 
 | Company | Role | Location | Posted | Level | Apply |
@@ -163,7 +146,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 3 current opportunities from 3 companies**
+**🎯 0 current opportunities from 0 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
