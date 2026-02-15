@@ -56,9 +56,9 @@
     "job_latitude": 43.670822,
     "job_longitude": -70.28438249999999,
     "job_benefits": [
-      "dental_coverage",
+      "paid_time_off",
       "health_insurance",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DAl0yaqHnyqzIdVEnAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 60500,
@@ -185,6 +185,166 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "I6ORm2DI7HOPluMWAAAAAA==",
+    "job_title": "Business Intelligence Analyst – Product Lifecycle Management (PLM)",
+    "employer_name": "Versique Search & Consulting",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvsaAoEg_eWiIpFicpb2Elc98vI9AKIvbELkRW&s=0",
+    "employer_website": "https://www.versique.com",
+    "job_publisher": "Versique",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.versique.com/opening/business-intelligence-analyst-product-lifecycle-management-plm-47678/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Versique",
+        "apply_link": "https://www.versique.com/opening/business-intelligence-analyst-product-lifecycle-management-plm-47678/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "JobLeads",
+        "apply_link": "https://www.jobleads.com/us/job/business-intelligence-analyst-product-lifecycle-management-plm--eden-prairie--e0fa7042b9cead5abbd09fedab77b8041?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "We are seeking a Business Intelligence Analyst to support Product Lifecycle Management (PLM) reporting within an enterprise Data & Analytics organization. This role partners closely with product, operations, and technology stakeholders to design and deliver high-impact operational and transactional insights. The ideal candidate blends strong technical BI expertise with the ability to translate complex product data into clear, actionable reporting.\n\nWorksite Location: Eden Prairie, MN (Mon-Thurs in-office; Friday WFH)\n\nPay Range:\n• up to $121K base salary + annual bonus + profit sharing bonus + 401k + pension\n• No work visa sponsorship available; no C2C, thank you\n\nBenefits:\n• Base salary + bonus potential\n• Medical, dental, vision\n• Pension plan\n• Profit sharing\n• 401(k)\n• Relocation assistance\n• paid personal time (PTO)\n• FREE two-year community/technical college tuition for children of employees, and more\n\nRoles & Responsibilities\n• Partner with PLM functional and technical teams to understand end-to-end product lifecycle processes and translate business needs into reporting solutions\n• Elicit, document, and refine reporting requirements through stakeholder collaboration and iterative feedback cycles\n• Design, build, test, and deploy operational and transactional dashboards and reports supporting product development, change management, and product data governance\n• Own PLM reporting initiatives, proactively identifying opportunities to improve transparency, automation, and data quality across product processes\n• Troubleshoot, enhance, and maintain existing BI assets, ensuring accuracy, performance, and alignment with evolving business requirements\n• Ensure reporting solutions meet performance expectations and incorporate automation where appropriate (scheduled delivery, bursting, or event-based distribution)\n• Develop analyses and dashboards using PLM-related subject areas with a focus on usability, scalability, and performance\n• Create intuitive filters, prompts, and drill-through functionality to support both standard and ad-hoc analysis\n• Configure scheduled delivery and automated distribution of reports and dashboards\n• Build and optimize BI data models using complex SQL across PLM and related enterprise data sources\n• Develop formatted reports aligned to product structures, engineering changes, and development milestones\n• Tune queries and reporting solutions to ensure reliable performance on small-to-medium data sets\n\nRequired Skills & Experience\n• Bachelor’s degree in Computer Science, Information Systems, or a related field, or equivalent professional experience\n• 4+ years of experience designing and developing within a business intelligence/reporting tool like OTBI, BI Publisher, Oracle Business Intelligence Enterprise Edition (OBIEE), Oracle Analytics Server, or Oracle Analytics Cloud\n• 4+ years of experience designing and delivering solutions within enterprise BI and reporting platforms in support of Product Lifecycle Management reporting and analytics use cases\n• Strong ability to gather technical and business requirements and own BI solutions from concept through production\n• Experience facilitating discussions, leading working sessions, or coordinating delivery efforts across teams\n• Proven analytical thinking, problem-solving, and decision-making skills\n• Strong organizational skills with the ability to manage multiple priorities effectively\n• Clear, confident written and verbal communication skills with technical and non-technical audiences\n• Authorization to work in the United States without current or future employer sponsorship\n\nPreferred Skills & Experience\n• Advanced SQL expertise, including analytical and window functions\n• Prior exposure to cloud-based PLM platforms and their underlying data models (e.g., item master, BOMs, engineering changes)\n• Experience with SQL performance tuning and optimization\n• Working knowledge of data governance, master data management, or product data stewardship practices\n\nAbout Versique\n\nVersique: /ver-seek/ adj. being both versatile and unique; n. a high-performance recruiting firm specializing in executive leadership search, direct hire, and interim hiring solutions.\n\nVersique Executive, Professional, & Interim Recruiting is a locally owned and operated hiring and placement firm based in the Twin Cities of Minnesota. With specialized practice areas across our three divisions, Versique delivers tailored expertise to a wide range of industries. What sets us apart is our team of recruiters—seasoned professionals who have worked in the very fields they now hire for, providing unmatched industry insight and connections.\n\nWe believe people are more than just resumes—they are transformative, unlocking the potential for organizational growth and success.\n\nVersique is proud to be award-winning, earning recognition on the Inc. 5000 list of fastest-growing private companies and the Minneapolis-St. Paul Business Journal's Fast 50 list for 2023. We are also consistently recognized as a Star Tribune Top Workplace and were named a Best Place to Work in 2022 by the Minneapolis/St. Paul Business Journal.\n\nLet’s find your people, together.\n\nVersique is an equal-opportunity employer committed to creating a diverse workforce. We consider all qualified applicants regardless of race, religion, color, sex, national origin, age, sexual orientation, gender identity, disability, or veteran status.\n\n#LI-SF1\n\n#LI-Hybrid",
+    "job_is_remote": false,
+    "job_posted_at": "9 days ago",
+    "job_posted_at_timestamp": 1770336000,
+    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
+    "job_location": "Eden Prairie, MN",
+    "job_city": "Eden Prairie",
+    "job_state": "Minnesota",
+    "job_country": "US",
+    "job_latitude": 44.854685599999996,
+    "job_longitude": -93.47078599999999,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DI6ORm2DI7HOPluMWAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Bachelor’s degree in Computer Science, Information Systems, or a related field, or equivalent professional experience",
+        "4+ years of experience designing and developing within a business intelligence/reporting tool like OTBI, BI Publisher, Oracle Business Intelligence Enterprise Edition (OBIEE), Oracle Analytics Server, or Oracle Analytics Cloud",
+        "4+ years of experience designing and delivering solutions within enterprise BI and reporting platforms in support of Product Lifecycle Management reporting and analytics use cases",
+        "Strong ability to gather technical and business requirements and own BI solutions from concept through production",
+        "Experience facilitating discussions, leading working sessions, or coordinating delivery efforts across teams",
+        "Proven analytical thinking, problem-solving, and decision-making skills",
+        "Strong organizational skills with the ability to manage multiple priorities effectively",
+        "Clear, confident written and verbal communication skills with technical and non-technical audiences",
+        "Authorization to work in the United States without current or future employer sponsorship",
+        "being both versatile and unique; n"
+      ],
+      "Benefits": [
+        "up to $121K base salary + annual bonus + profit sharing bonus + 401k + pension",
+        "No work visa sponsorship available; no C2C, thank you",
+        "Base salary + bonus potential",
+        "Medical, dental, vision",
+        "Pension plan",
+        "Profit sharing",
+        "401(k)",
+        "Relocation assistance",
+        "paid personal time (PTO)",
+        "FREE two-year community/technical college tuition for children of employees, and more"
+      ],
+      "Responsibilities": [
+        "We are seeking a Business Intelligence Analyst to support Product Lifecycle Management (PLM) reporting within an enterprise Data & Analytics organization",
+        "This role partners closely with product, operations, and technology stakeholders to design and deliver high-impact operational and transactional insights",
+        "The ideal candidate blends strong technical BI expertise with the ability to translate complex product data into clear, actionable reporting",
+        "Partner with PLM functional and technical teams to understand end-to-end product lifecycle processes and translate business needs into reporting solutions",
+        "Elicit, document, and refine reporting requirements through stakeholder collaboration and iterative feedback cycles",
+        "Design, build, test, and deploy operational and transactional dashboards and reports supporting product development, change management, and product data governance",
+        "Own PLM reporting initiatives, proactively identifying opportunities to improve transparency, automation, and data quality across product processes",
+        "Troubleshoot, enhance, and maintain existing BI assets, ensuring accuracy, performance, and alignment with evolving business requirements",
+        "Ensure reporting solutions meet performance expectations and incorporate automation where appropriate (scheduled delivery, bursting, or event-based distribution)",
+        "Develop analyses and dashboards using PLM-related subject areas with a focus on usability, scalability, and performance",
+        "Create intuitive filters, prompts, and drill-through functionality to support both standard and ad-hoc analysis",
+        "Configure scheduled delivery and automated distribution of reports and dashboards",
+        "Build and optimize BI data models using complex SQL across PLM and related enterprise data sources",
+        "Develop formatted reports aligned to product structures, engineering changes, and development milestones",
+        "Tune queries and reporting solutions to ensure reliable performance on small-to-medium data sets"
+      ]
+    },
+    "job_onet_soc": "15119900",
+    "job_onet_job_zone": "4",
+    "id": "www-versique-com-opening-business-intelligence-analyst-product-lifecycle-management-plm-47678",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "zBzb9oeJEdIF0kbHAAAAAA==",
+    "job_title": "Business Intelligence Analyst",
+    "employer_name": "ShiftCode Analytics",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "WhatJobs",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.whatjobs.com/jobs/business-intelligence-analyst?id=2434486172&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/business-intelligence-analyst?id=2434486172&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Interview : Video\n\nVisa : USC, GC, GC EAD, H4\n\nThis is hybrid from day-1 ( Need only local candidates )\n\nDescription :\n\nAbout the job\n\nKey Responsibilities\n\nData Modeling & Architecture\n\nDesign and implement robust data models using star schema and snowflake techniques for optimal performance. Define proper relationships, hierarchies, and calculated measures in Power BI datasets . Optimize data models for scalability and maintainability. Power BI Development Build interactive dashboards and reports aligned with business requirements. Implement Row-Level Security (RLS) and manage workspace governance. Utilize DAX and Power Query (M) for advanced calculations and transformations. Architecture & Integration Manage Power BI architecture, including service layers, gateways, and premium capacities. Integrate Power BI with Azure Data Factory , SQL Server , and other enterprise data sources. Ensure compliance with organizational data governance and security standards. Performance Optimization Monitor and optimize report performance, dataset refresh strategies, and query folding. Implement best practices for incremental refresh and handling large datasets. Collaboration & Leadership Work closely with data engineers, analysts, and business stakeholders to deliver high-quality BI solutions. Provide guidance on Power BI adoption, workspace design, and governance frameworks. Required Skills & Qualifications\n\nTechnical Expertise Advanced proficiency in Power BI Desktop and Power BI Service . Strong knowledge of DAX , Power Query , and data modeling principles. Experience with Power BI architecture, including gateways, capacity planning, and deployment pipelines. Data Management Familiarity with ETL processes , data warehousing , and SQL .",
+    "job_is_remote": false,
+    "job_posted_at": "12 days ago",
+    "job_posted_at_timestamp": 1770076800,
+    "job_posted_at_datetime_utc": "2026-02-03T00:00:00.000Z",
+    "job_location": "Van Alstyne, TX",
+    "job_city": "Van Alstyne",
+    "job_state": "Texas",
+    "job_country": "US",
+    "job_latitude": 33.421499499999996,
+    "job_longitude": -96.5772109,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DzBzb9oeJEdIF0kbHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Architecture & Integration Manage Power BI architecture, including service layers, gateways, and premium capacities",
+        "Integrate Power BI with Azure Data Factory , SQL Server , and other enterprise data sources",
+        "Technical Expertise Advanced proficiency in Power BI Desktop and Power BI Service ",
+        "Strong knowledge of DAX , Power Query , and data modeling principles",
+        "Experience with Power BI architecture, including gateways, capacity planning, and deployment pipelines",
+        "Data Management Familiarity with ETL processes , data warehousing , and SQL "
+      ],
+      "Responsibilities": [
+        "Data Modeling & Architecture",
+        "Design and implement robust data models using star schema and snowflake techniques for optimal performance",
+        "Define proper relationships, hierarchies, and calculated measures in Power BI datasets ",
+        "Optimize data models for scalability and maintainability",
+        "Power BI Development Build interactive dashboards and reports aligned with business requirements",
+        "Implement Row-Level Security (RLS) and manage workspace governance",
+        "Utilize DAX and Power Query (M) for advanced calculations and transformations",
+        "Ensure compliance with organizational data governance and security standards",
+        "Performance Optimization Monitor and optimize report performance, dataset refresh strategies, and query folding",
+        "Implement best practices for incremental refresh and handling large datasets",
+        "Collaboration & Leadership Work closely with data engineers, analysts, and business stakeholders to deliver high-quality BI solutions",
+        "Provide guidance on Power BI adoption, workspace design, and governance frameworks"
+      ]
+    },
+    "job_onet_soc": "33302100",
+    "job_onet_job_zone": "3",
+    "id": "www-whatjobs-com-jobs-business-intelligence-analyst",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "U4aUfdQR5KVPt2BFAAAAAA==",
     "job_title": "Senior Business Intelligence Analyst",
     "employer_name": "Community College of Philadelphia",
@@ -216,8 +376,8 @@
     "job_latitude": 39.854164499999996,
     "job_longitude": -75.0357849,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
+      "health_insurance",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DU4aUfdQR5KVPt2BFAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -297,100 +457,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "I6ORm2DI7HOPluMWAAAAAA==",
-    "job_title": "Business Intelligence Analyst – Product Lifecycle Management (PLM)",
-    "employer_name": "Versique Search & Consulting",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvsaAoEg_eWiIpFicpb2Elc98vI9AKIvbELkRW&s=0",
-    "employer_website": "https://www.versique.com",
-    "job_publisher": "Versique",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.versique.com/opening/business-intelligence-analyst-product-lifecycle-management-plm-47678/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Versique",
-        "apply_link": "https://www.versique.com/opening/business-intelligence-analyst-product-lifecycle-management-plm-47678/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "JobLeads",
-        "apply_link": "https://www.jobleads.com/us/job/business-intelligence-analyst-product-lifecycle-management-plm--eden-prairie--e0fa7042b9cead5abbd09fedab77b8041?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "We are seeking a Business Intelligence Analyst to support Product Lifecycle Management (PLM) reporting within an enterprise Data & Analytics organization. This role partners closely with product, operations, and technology stakeholders to design and deliver high-impact operational and transactional insights. The ideal candidate blends strong technical BI expertise with the ability to translate complex product data into clear, actionable reporting.\n\nWorksite Location: Eden Prairie, MN (Mon-Thurs in-office; Friday WFH)\n\nPay Range:\n• up to $121K base salary + annual bonus + profit sharing bonus + 401k + pension\n• No work visa sponsorship available; no C2C, thank you\n\nBenefits:\n• Base salary + bonus potential\n• Medical, dental, vision\n• Pension plan\n• Profit sharing\n• 401(k)\n• Relocation assistance\n• paid personal time (PTO)\n• FREE two-year community/technical college tuition for children of employees, and more\n\nRoles & Responsibilities\n• Partner with PLM functional and technical teams to understand end-to-end product lifecycle processes and translate business needs into reporting solutions\n• Elicit, document, and refine reporting requirements through stakeholder collaboration and iterative feedback cycles\n• Design, build, test, and deploy operational and transactional dashboards and reports supporting product development, change management, and product data governance\n• Own PLM reporting initiatives, proactively identifying opportunities to improve transparency, automation, and data quality across product processes\n• Troubleshoot, enhance, and maintain existing BI assets, ensuring accuracy, performance, and alignment with evolving business requirements\n• Ensure reporting solutions meet performance expectations and incorporate automation where appropriate (scheduled delivery, bursting, or event-based distribution)\n• Develop analyses and dashboards using PLM-related subject areas with a focus on usability, scalability, and performance\n• Create intuitive filters, prompts, and drill-through functionality to support both standard and ad-hoc analysis\n• Configure scheduled delivery and automated distribution of reports and dashboards\n• Build and optimize BI data models using complex SQL across PLM and related enterprise data sources\n• Develop formatted reports aligned to product structures, engineering changes, and development milestones\n• Tune queries and reporting solutions to ensure reliable performance on small-to-medium data sets\n\nRequired Skills & Experience\n• Bachelor’s degree in Computer Science, Information Systems, or a related field, or equivalent professional experience\n• 4+ years of experience designing and developing within a business intelligence/reporting tool like OTBI, BI Publisher, Oracle Business Intelligence Enterprise Edition (OBIEE), Oracle Analytics Server, or Oracle Analytics Cloud\n• 4+ years of experience designing and delivering solutions within enterprise BI and reporting platforms in support of Product Lifecycle Management reporting and analytics use cases\n• Strong ability to gather technical and business requirements and own BI solutions from concept through production\n• Experience facilitating discussions, leading working sessions, or coordinating delivery efforts across teams\n• Proven analytical thinking, problem-solving, and decision-making skills\n• Strong organizational skills with the ability to manage multiple priorities effectively\n• Clear, confident written and verbal communication skills with technical and non-technical audiences\n• Authorization to work in the United States without current or future employer sponsorship\n\nPreferred Skills & Experience\n• Advanced SQL expertise, including analytical and window functions\n• Prior exposure to cloud-based PLM platforms and their underlying data models (e.g., item master, BOMs, engineering changes)\n• Experience with SQL performance tuning and optimization\n• Working knowledge of data governance, master data management, or product data stewardship practices\n\nAbout Versique\n\nVersique: /ver-seek/ adj. being both versatile and unique; n. a high-performance recruiting firm specializing in executive leadership search, direct hire, and interim hiring solutions.\n\nVersique Executive, Professional, & Interim Recruiting is a locally owned and operated hiring and placement firm based in the Twin Cities of Minnesota. With specialized practice areas across our three divisions, Versique delivers tailored expertise to a wide range of industries. What sets us apart is our team of recruiters—seasoned professionals who have worked in the very fields they now hire for, providing unmatched industry insight and connections.\n\nWe believe people are more than just resumes—they are transformative, unlocking the potential for organizational growth and success.\n\nVersique is proud to be award-winning, earning recognition on the Inc. 5000 list of fastest-growing private companies and the Minneapolis-St. Paul Business Journal's Fast 50 list for 2023. We are also consistently recognized as a Star Tribune Top Workplace and were named a Best Place to Work in 2022 by the Minneapolis/St. Paul Business Journal.\n\nLet’s find your people, together.\n\nVersique is an equal-opportunity employer committed to creating a diverse workforce. We consider all qualified applicants regardless of race, religion, color, sex, national origin, age, sexual orientation, gender identity, disability, or veteran status.\n\n#LI-SF1\n\n#LI-Hybrid",
-    "job_is_remote": false,
-    "job_posted_at": "9 days ago",
-    "job_posted_at_timestamp": 1770336000,
-    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
-    "job_location": "Eden Prairie, MN",
-    "job_city": "Eden Prairie",
-    "job_state": "Minnesota",
-    "job_country": "US",
-    "job_latitude": 44.854685599999996,
-    "job_longitude": -93.47078599999999,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DI6ORm2DI7HOPluMWAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Bachelor’s degree in Computer Science, Information Systems, or a related field, or equivalent professional experience",
-        "4+ years of experience designing and developing within a business intelligence/reporting tool like OTBI, BI Publisher, Oracle Business Intelligence Enterprise Edition (OBIEE), Oracle Analytics Server, or Oracle Analytics Cloud",
-        "4+ years of experience designing and delivering solutions within enterprise BI and reporting platforms in support of Product Lifecycle Management reporting and analytics use cases",
-        "Strong ability to gather technical and business requirements and own BI solutions from concept through production",
-        "Experience facilitating discussions, leading working sessions, or coordinating delivery efforts across teams",
-        "Proven analytical thinking, problem-solving, and decision-making skills",
-        "Strong organizational skills with the ability to manage multiple priorities effectively",
-        "Clear, confident written and verbal communication skills with technical and non-technical audiences",
-        "Authorization to work in the United States without current or future employer sponsorship",
-        "being both versatile and unique; n"
-      ],
-      "Benefits": [
-        "up to $121K base salary + annual bonus + profit sharing bonus + 401k + pension",
-        "No work visa sponsorship available; no C2C, thank you",
-        "Base salary + bonus potential",
-        "Medical, dental, vision",
-        "Pension plan",
-        "Profit sharing",
-        "401(k)",
-        "Relocation assistance",
-        "paid personal time (PTO)",
-        "FREE two-year community/technical college tuition for children of employees, and more"
-      ],
-      "Responsibilities": [
-        "We are seeking a Business Intelligence Analyst to support Product Lifecycle Management (PLM) reporting within an enterprise Data & Analytics organization",
-        "This role partners closely with product, operations, and technology stakeholders to design and deliver high-impact operational and transactional insights",
-        "The ideal candidate blends strong technical BI expertise with the ability to translate complex product data into clear, actionable reporting",
-        "Partner with PLM functional and technical teams to understand end-to-end product lifecycle processes and translate business needs into reporting solutions",
-        "Elicit, document, and refine reporting requirements through stakeholder collaboration and iterative feedback cycles",
-        "Design, build, test, and deploy operational and transactional dashboards and reports supporting product development, change management, and product data governance",
-        "Own PLM reporting initiatives, proactively identifying opportunities to improve transparency, automation, and data quality across product processes",
-        "Troubleshoot, enhance, and maintain existing BI assets, ensuring accuracy, performance, and alignment with evolving business requirements",
-        "Ensure reporting solutions meet performance expectations and incorporate automation where appropriate (scheduled delivery, bursting, or event-based distribution)",
-        "Develop analyses and dashboards using PLM-related subject areas with a focus on usability, scalability, and performance",
-        "Create intuitive filters, prompts, and drill-through functionality to support both standard and ad-hoc analysis",
-        "Configure scheduled delivery and automated distribution of reports and dashboards",
-        "Build and optimize BI data models using complex SQL across PLM and related enterprise data sources",
-        "Develop formatted reports aligned to product structures, engineering changes, and development milestones",
-        "Tune queries and reporting solutions to ensure reliable performance on small-to-medium data sets"
-      ]
-    },
-    "job_onet_soc": "15119900",
-    "job_onet_job_zone": "4",
-    "id": "www-versique-com-opening-business-intelligence-analyst-product-lifecycle-management-plm-47678",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "nu-C7N16qR7Z8Di9AAAAAA==",
     "job_title": "Business Intelligence Analyst",
     "employer_name": "Intact Insurance Specialty Solutions",
@@ -432,9 +498,9 @@
     "job_latitude": 42.473368799999996,
     "job_longitude": -83.2218731,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dnu-C7N16qR7Z8Di9AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -483,72 +549,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "zBzb9oeJEdIF0kbHAAAAAA==",
-    "job_title": "Business Intelligence Analyst",
-    "employer_name": "ShiftCode Analytics",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "WhatJobs",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.whatjobs.com/jobs/business-intelligence-analyst?id=2434486172&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/business-intelligence-analyst?id=2434486172&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Interview : Video\n\nVisa : USC, GC, GC EAD, H4\n\nThis is hybrid from day-1 ( Need only local candidates )\n\nDescription :\n\nAbout the job\n\nKey Responsibilities\n\nData Modeling & Architecture\n\nDesign and implement robust data models using star schema and snowflake techniques for optimal performance. Define proper relationships, hierarchies, and calculated measures in Power BI datasets . Optimize data models for scalability and maintainability. Power BI Development Build interactive dashboards and reports aligned with business requirements. Implement Row-Level Security (RLS) and manage workspace governance. Utilize DAX and Power Query (M) for advanced calculations and transformations. Architecture & Integration Manage Power BI architecture, including service layers, gateways, and premium capacities. Integrate Power BI with Azure Data Factory , SQL Server , and other enterprise data sources. Ensure compliance with organizational data governance and security standards. Performance Optimization Monitor and optimize report performance, dataset refresh strategies, and query folding. Implement best practices for incremental refresh and handling large datasets. Collaboration & Leadership Work closely with data engineers, analysts, and business stakeholders to deliver high-quality BI solutions. Provide guidance on Power BI adoption, workspace design, and governance frameworks. Required Skills & Qualifications\n\nTechnical Expertise Advanced proficiency in Power BI Desktop and Power BI Service . Strong knowledge of DAX , Power Query , and data modeling principles. Experience with Power BI architecture, including gateways, capacity planning, and deployment pipelines. Data Management Familiarity with ETL processes , data warehousing , and SQL .",
-    "job_is_remote": false,
-    "job_posted_at": "12 days ago",
-    "job_posted_at_timestamp": 1770076800,
-    "job_posted_at_datetime_utc": "2026-02-03T00:00:00.000Z",
-    "job_location": "Van Alstyne, TX",
-    "job_city": "Van Alstyne",
-    "job_state": "Texas",
-    "job_country": "US",
-    "job_latitude": 33.421499499999996,
-    "job_longitude": -96.5772109,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DzBzb9oeJEdIF0kbHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Architecture & Integration Manage Power BI architecture, including service layers, gateways, and premium capacities",
-        "Integrate Power BI with Azure Data Factory , SQL Server , and other enterprise data sources",
-        "Technical Expertise Advanced proficiency in Power BI Desktop and Power BI Service ",
-        "Strong knowledge of DAX , Power Query , and data modeling principles",
-        "Experience with Power BI architecture, including gateways, capacity planning, and deployment pipelines",
-        "Data Management Familiarity with ETL processes , data warehousing , and SQL "
-      ],
-      "Responsibilities": [
-        "Data Modeling & Architecture",
-        "Design and implement robust data models using star schema and snowflake techniques for optimal performance",
-        "Define proper relationships, hierarchies, and calculated measures in Power BI datasets ",
-        "Optimize data models for scalability and maintainability",
-        "Power BI Development Build interactive dashboards and reports aligned with business requirements",
-        "Implement Row-Level Security (RLS) and manage workspace governance",
-        "Utilize DAX and Power Query (M) for advanced calculations and transformations",
-        "Ensure compliance with organizational data governance and security standards",
-        "Performance Optimization Monitor and optimize report performance, dataset refresh strategies, and query folding",
-        "Implement best practices for incremental refresh and handling large datasets",
-        "Collaboration & Leadership Work closely with data engineers, analysts, and business stakeholders to deliver high-quality BI solutions",
-        "Provide guidance on Power BI adoption, workspace design, and governance frameworks"
-      ]
-    },
-    "job_onet_soc": "33302100",
-    "job_onet_job_zone": "3",
-    "id": "www-whatjobs-com-jobs-business-intelligence-analyst",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "lQWx0a9E40pUKHZmAAAAAA==",
     "job_title": "Sr. Business Intelligence Analyst - Hybrid",
     "employer_name": "First American",
@@ -585,9 +585,9 @@
     "job_latitude": 33.7454725,
     "job_longitude": -117.86765299999999,
     "job_benefits": [
-      "paid_time_off",
+      "dental_coverage",
       "health_insurance",
-      "dental_coverage"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DlQWx0a9E40pUKHZmAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -788,9 +788,9 @@
     "job_latitude": 42.907147699999996,
     "job_longitude": -78.7542892,
     "job_benefits": [
-      "health_insurance",
+      "paid_time_off",
       "dental_coverage",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DNl09sKgYOXsV938EAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -983,9 +983,9 @@
     "job_latitude": 38.882334,
     "job_longitude": -77.1710914,
     "job_benefits": [
-      "paid_time_off",
       "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D-I07kOcgXhdj48y9AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1214,7 +1214,7 @@
     "job_title": "Sports Nutrition Buyer Data-Driven Growth & Assortment",
     "employer_name": "The Feed Company",
     "employer_logo": null,
-    "employer_website": "https://thefeedcompany.nl",
+    "employer_website": null,
     "job_publisher": "WhatJobs",
     "job_employment_type": "Full-time",
     "job_employment_types": [
