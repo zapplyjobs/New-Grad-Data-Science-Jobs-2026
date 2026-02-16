@@ -9,16 +9,16 @@
 
 # Data Science Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-6-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-6-blue?style=flat&logo=building)
-![Data Scientist](https://img.shields.io/badge/Data_Scientist-5-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-3-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-3-blue?style=flat&logo=building)
+![Data Scientist](https://img.shields.io/badge/Data_Scientist-3-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time data science, analytics, and machine learning jobs from 6+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 6+ fresh opportunities for new graduates, data science students, and entry-level data analysts.</p>
+<p align="center">🚀 Real-time data science, analytics, and machine learning jobs from 3+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 3+ fresh opportunities for new graduates, data science students, and entry-level data analysts.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -69,24 +69,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/dsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>🔬 <strong>Data Scientist</strong> (5 positions)</h3></summary>
+<summary><h3>🔬 <strong>Data Scientist</strong> (3 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Xometry** | Machine Learning Intern - Full-t... | North Bethesda, Maryland | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.snagajob.com/jobs/1202259953?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Walmart** | Data Scientist | Kearny, New Jersey | 8h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://walmart.rightspotway.com/jobpage/dkd4rx1uahif-0ecb7-757d61-a80877d27d22683d957ba?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Delta Dental of Michigan** | Internship - Encounter Data | Michigan | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=62fd631f775b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Cisco** | AI Machine Learning Engineer I (... | San Jose, California | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2000454/AI-Machine-Learning-Engineer-I-Intern-United-States?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **OCIO Front Office** | Data Scientist | Woodlawn, Maryland | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/856629100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Intuitive Surgical** | Machine Learning Scientist Intern | Sunnyvale, California | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.intuitive.com/en/jobs/744000107834945/JOB211953/machine-learning-scientist-intern/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-</details>
-
-<details>
-<summary><h3>🤖 <strong>Machine Learning</strong> (1 positions)</h3></summary>
-
-| Company | Role | Location | Posted | Level | Apply |
-|---------|------|----------|--------|-------|-------|
-| 🏢 **Wisdom AI** | NLP/Machine Learning Intern | San Mateo, California | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://us.bebee.com/job/a9a877d975cf7bb031f2f2fa32a8e727?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -151,7 +140,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ### 📊 **Archived Job Stats**
 - **📁 Total Jobs**: 0 positions
-- **🏢 Companies**: 6 companies
+- **🏢 Companies**: 3 companies
 - **🏷️ Top Category**: Software Engineering
 
 | Company | Role | Location | Posted | Level | Apply |
@@ -166,7 +155,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 6 current opportunities from 6 companies**
+**🎯 3 current opportunities from 3 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 

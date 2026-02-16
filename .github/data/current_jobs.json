@@ -112,112 +112,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "L05eAoLinfgZ9wUMAAAAAA==",
-    "job_title": "(USA) Senior, Data Scientist",
-    "employer_name": "Walmart",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
-    "employer_website": "https://corporate.walmart.com",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time and Part-time",
-    "job_employment_types": [
-      "FULLTIME",
-      "PARTTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/(USA)-Senior,-Data-Scientist/-in-East-Meadow,NY?jid=10ae54ae9d5daf1d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/(USA)-Senior,-Data-Scientist/-in-East-Meadow,NY?jid=10ae54ae9d5daf1d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "Position Summary...\n\nWhat you'll do...At Walmart, we pride ourselves for knowing our customers and connecting with them better than any other company. We interact with our customers across more categories than any company in the world. The Customer Decision Science team which is a part of the Customer Insights & Strategy team in the Marketing org at Walmart analyzes every store trip, web and app visit, service interaction, search, click, purchase and survey response to help deliver the easiest shopping experience digitally and physically. We are a team of decision science practitioners who work together to uncover the why behind the customer behavior while measuring the outcomes from a customer and competitive lens. As a Senior Data Scientist in the team, you will have the unique opportunity to leverage the power of technology, big data and analytics to improve the lives of the 100M+ households that shop at Walmart every year. You will be responsible for driving Walmart’s High Value Habits initiatives by identifying the primary accelerators and decelerators of customer loyalty, translating these findings into actionable insights that directly inform high-level business strategy. What We’re Looking For\n• Well balanced skills – People have trouble pinning you down. Both business and technical/data teams claim you as their own. You are equal parts technical and functional. You are equally comfortable and effective in persuading both technical and business audiences.\n• Data science & analytics expertise – You excel at translating ambiguous business questions into concrete, actionable analysis plans and then executing them with precision. You are a pro at designing and building new and impactful customer-centric KPIs and metrics to measure customer and competitive dynamics. You are equally strong at getting into the weeds and making sure that the data needed to support these metrics is consistent and available. You are very comfortable rolling up your sleeves when needed to write complex SQL queries, building User Defined Functions (UDFs) to scale logic, and strive to balance speed with effective code design. You have mastery over the fundamentals of machine learning techniques (such as regression, clustering algorithms and/or causal inference) along with cohort analyses.\n• High Agency – You are able to use your expert understanding of data structures in order to scope and define data needs to execute projects. You are a relentless unblocker; when faced with technical debt or data gaps, you take the initiative to find a path forward without needing permission.\n• Project ownership – You are able to independently execute and oversee end-to-end projects with a high degree of ambiguity. You have strong organizational skills that enable you to manage multiple priorities, set expectations and collaborate across stakeholders, managers and peers.\n• Business acumen – You are able to translate insights into relevant business recommendations, anticipate the needs of business stakeholders and connect the dots across various teams, research and insights in order to build convincing and synthesized business recommendations.\n• Great communicator – You’re capable of telling the story behind the data to an executive audience and you are a pro at building slide decks that can simplify any complex story. You can customize your communication style based on stakeholders. You can easily translate a business question to an analysis technique and provide specs to engineering teams or analysts.\n• Data visualization – You are a pro at leveraging visualization to build compelling stories based on context to integrate multiple pieces of information into cohesive insights.\n• People leadership – You can influence decision making across peers and managers by supporting your point of view with data-driven insights.\nResponsibilities\n• Lead and execute advanced analytics for Walmart’s High Valua Habits initiatives, focusing on deepening customer loyalty and retention through data-driven strategic planning.\n• Proactively identify opportunities for business growth by mining customer data and translating these findings into a prioritized research and analytics roadmap.\n• Design, build, and deploy sophisticated quantitative frameworks (causal inference, propensity models, cohort analyses) that move beyond correlation to establish cause-and-effect in customer behavior.\n• Lead project teams that include Data Engineering, Product, Marketing, Strategy and Finance to ensure data-driven insights are integrated into the product roadmap and financial forecasts.\n• Implementing and scaling best practices. This includes writing/reviewing User Defined Functions (UDFs) to standardize complex business logic and advocating for reproducible research practices in R.\n• Executive Influence: Act as a subject matter expert in leadership forums, using data to challenge assumptions and drive a customer-centric culture.\nQualifications Minimum Qualifications\n• BA/BS in Mathematics, Statistics, Computer Science, Economics, or related field with 3-5+ years of experience in Data Science/Analytics; OR a Master’s degree with 2-3+ years of experience; OR a PhD with 2+ years of experience.\n• Mastery of SQL (BigQuery/Hive preferred). Expert experience building scalable, reusable data assets including the design and deployment of User Defined Functions (UDFs) to handle high-cardinality data and complex business transformations.\n• Expert proficiency in R or Python for statistical modeling, simulation, and data visualization (e.g., Tidyverse, ggplot2, Shiny for R; pandas, scikit-learn, statsmodels for Python). Proven ability to write production-grade, reproducible code.\n• Deep proficiency in cohort analyses, clickstream data, and customer metrics. Proven track record of leveraging high-volume web/app event data to drive customer growth and inform product or marketing strategy.\n• Extensive experience in experimental design and observational causal methodologies (e.g., Propensity Score Matching, Difference-in-Differences, Synthetic Control).\n• Demonstrated ability to manage multiple high-impact projects simultaneously with high agency and minimal oversight.\nPreferred Qualifications\n• Experience developing internal R packages/UDFs to standardize team workflow\n• Deep experience in cloud-based big data environments (GCP/BigQuery or Snowflake), with a focus on optimizing query performance and cost.\n• Experience leading code reviews and mentoring junior team members on statistical best practices and efficient coding standards.\n• Prior experience in Retail, E-commerce, or analyzing complex omni-channel customer journeys.\nWhy You’ll Love Working Here We value high-ownership mentalities and intellectual curiosity. You will have the autonomy to solve massive problems at the scale of the world’s largest retailer, with the resources and data to see your insights turn into real-world customer impact. At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\nFor information about benefits and eligibility, see One.Walmart.\nThe annual salary range for this position is $108,000.00 - $216,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1- Bachelor’s degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 3 years' experience in an analytics related field. Option 2- Master’s degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 1 years' experience in an analytics related field. Option 3 - 5 years' experience in an analytics or related field.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nData science, machine learning, optimization models, Master’s degree in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch), We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n221 River St, Hoboken, NJ 07030, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "East Meadow, NY",
-    "job_city": "East Meadow",
-    "job_state": "New York",
-    "job_country": "US",
-    "job_latitude": 40.7139898,
-    "job_longitude": -73.5590157,
-    "job_benefits": [
-      "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DL05eAoLinfgZ9wUMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 108000,
-    "job_max_salary": 216000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "Both business and technical/data teams claim you as their own",
-        "You are equally comfortable and effective in persuading both technical and business audiences",
-        "Data science & analytics expertise – You excel at translating ambiguous business questions into concrete, actionable analysis plans and then executing them with precision",
-        "You have mastery over the fundamentals of machine learning techniques (such as regression, clustering algorithms and/or causal inference) along with cohort analyses",
-        "High Agency – You are able to use your expert understanding of data structures in order to scope and define data needs to execute projects",
-        "You are a relentless unblocker; when faced with technical debt or data gaps, you take the initiative to find a path forward without needing permission",
-        "Project ownership – You are able to independently execute and oversee end-to-end projects with a high degree of ambiguity",
-        "You have strong organizational skills that enable you to manage multiple priorities, set expectations and collaborate across stakeholders, managers and peers",
-        "Business acumen – You are able to translate insights into relevant business recommendations, anticipate the needs of business stakeholders and connect the dots across various teams, research and insights in order to build convincing and synthesized business recommendations",
-        "Great communicator – You’re capable of telling the story behind the data to an executive audience and you are a pro at building slide decks that can simplify any complex story",
-        "You can easily translate a business question to an analysis technique and provide specs to engineering teams or analysts",
-        "BA/BS in Mathematics, Statistics, Computer Science, Economics, or related field with 3-5+ years of experience in Data Science/Analytics; OR a Master’s degree with 2-3+ years of experience; OR a PhD with 2+ years of experience",
-        "Expert experience building scalable, reusable data assets including the design and deployment of User Defined Functions (UDFs) to handle high-cardinality data and complex business transformations",
-        "Expert proficiency in R or Python for statistical modeling, simulation, and data visualization (e.g., Tidyverse, ggplot2, Shiny for R; pandas, scikit-learn, statsmodels for Python)",
-        "Proven ability to write production-grade, reproducible code",
-        "Deep proficiency in cohort analyses, clickstream data, and customer metrics",
-        "Proven track record of leveraging high-volume web/app event data to drive customer growth and inform product or marketing strategy",
-        "Extensive experience in experimental design and observational causal methodologies (e.g., Propensity Score Matching, Difference-in-Differences, Synthetic Control)",
-        "Demonstrated ability to manage multiple high-impact projects simultaneously with high agency and minimal oversight",
-        "Option 1- Bachelor’s degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 3 years' experience in an analytics related field",
-        "Option 2- Master’s degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 1 years' experience in an analytics related field",
-        "Option 3 - 5 years' experience in an analytics or related field",
-        "Data science, machine learning, optimization models, Master’s degree in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch), We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
-        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
-      ],
-      "Benefits": [
-        "Well balanced skills – People have trouble pinning you down",
-        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
-        "Health benefits include medical, vision and dental coverage",
-        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
-        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
-        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
-        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
-        "The amount you receive depends on your job classification and length of employment",
-        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
-        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
-        "Tuition, books, and fees are completely paid for by Walmart",
-        "Eligibility requirements apply to some benefits and may depend on your job classification and length of employment",
-        "Benefits are subject to change and may be subject to a specific plan or program terms",
-        "The annual salary range for this position is $108,000.00 - $216,000.00 Additional compensation includes annual or quarterly performance bonuses"
-      ],
-      "Responsibilities": [
-        "You will be responsible for driving Walmart’s High Value Habits initiatives by identifying the primary accelerators and decelerators of customer loyalty, translating these findings into actionable insights that directly inform high-level business strategy",
-        "You are a pro at designing and building new and impactful customer-centric KPIs and metrics to measure customer and competitive dynamics",
-        "You are equally strong at getting into the weeds and making sure that the data needed to support these metrics is consistent and available",
-        "You are very comfortable rolling up your sleeves when needed to write complex SQL queries, building User Defined Functions (UDFs) to scale logic, and strive to balance speed with effective code design",
-        "Data visualization – You are a pro at leveraging visualization to build compelling stories based on context to integrate multiple pieces of information into cohesive insights",
-        "People leadership – You can influence decision making across peers and managers by supporting your point of view with data-driven insights",
-        "Lead and execute advanced analytics for Walmart’s High Valua Habits initiatives, focusing on deepening customer loyalty and retention through data-driven strategic planning",
-        "Proactively identify opportunities for business growth by mining customer data and translating these findings into a prioritized research and analytics roadmap",
-        "Design, build, and deploy sophisticated quantitative frameworks (causal inference, propensity models, cohort analyses) that move beyond correlation to establish cause-and-effect in customer behavior",
-        "Lead project teams that include Data Engineering, Product, Marketing, Strategy and Finance to ensure data-driven insights are integrated into the product roadmap and financial forecasts",
-        "Implementing and scaling best practices",
-        "This includes writing/reviewing User Defined Functions (UDFs) to standardize complex business logic and advocating for reproducible research practices in R",
-        "Executive Influence: Act as a subject matter expert in leadership forums, using data to challenge assumptions and drive a customer-centric culture",
-        "You will have the autonomy to solve massive problems at the scale of the world’s largest retailer, with the resources and data to see your insights turn into real-world customer impact"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-ziprecruiter-com-c-walmart-job-usa-senior-data-scientist-in-east-meadow-ny",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "iR8dfcSTzUcLCnixAAAAAA==",
     "job_title": "Data Scientist, Computational & Mechanistic (onsite)",
     "employer_name": "Thermo Fisher Scientific",
@@ -284,9 +178,9 @@
     "job_latitude": 38.9960671,
     "job_longitude": -77.0280731,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DiR8dfcSTzUcLCnixAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -338,87 +232,6 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "jobs-thermofisher-com-global-en-job-r-01340744-data-scientist-computational-mechanistic-onsite",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "Fry63ljx13gcdEdHAAAAAA==",
-    "job_title": "Data Scientist",
-    "employer_name": "OCIO Front Office",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "USAJobs",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.usajobs.gov/job/856629100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "USAJobs",
-        "apply_link": "https://www.usajobs.gov/job/856629100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/data-scientist-woodlawn-us-government-other-agencies-00688af454d43f85003cf37acdf76545?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/data-scientist-at-social-security-administration-4361035977?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/6985c4c60f6f7e7a2ce0a4d7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/424DtmIkgkiPgCuc-8eZbsnuhuIaZsh-fVfUwwl98I_ZU_0GjaGdxg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/data-scientist?id=2456751488&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/0f080d54b1aae3d3a53feae1b69fdb26?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Free Job Alert",
-        "apply_link": "https://us.freejobalert.com/job/data-scientist-social-security-administration-woodlawn-maryland-ssa12879164-26-dha-cio?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "IT Specialist (Data Scientist) positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
-    "job_is_remote": false,
-    "job_posted_at": "10 days ago",
-    "job_posted_at_timestamp": 1770336000,
-    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
-    "job_location": "Woodlawn, MD",
-    "job_city": "Woodlawn",
-    "job_state": "Maryland",
-    "job_country": "US",
-    "job_latitude": 39.322884099999996,
-    "job_longitude": -76.7280277,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFry63ljx13gcdEdHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Responsibilities": [
-        "Selections made under this bulletin will be processed as new appointments to the civil service"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-usajobs-gov-job-856629100",
     "_source": "new_jobs"
   },
   {
@@ -533,6 +346,87 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "www-ziprecruiter-com-c-booz-allen-hamilton-job-data-scientist-mid-in-washington-dc",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "Fry63ljx13gcdEdHAAAAAA==",
+    "job_title": "Data Scientist",
+    "employer_name": "OCIO Front Office",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "USAJobs",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.usajobs.gov/job/856629100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "USAJobs",
+        "apply_link": "https://www.usajobs.gov/job/856629100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/data-scientist-woodlawn-us-government-other-agencies-00688af454d43f85003cf37acdf76545?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/data-scientist-at-social-security-administration-4361035977?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/6985c4c60f6f7e7a2ce0a4d7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/424DtmIkgkiPgCuc-8eZbsnuhuIaZsh-fVfUwwl98I_ZU_0GjaGdxg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/data-scientist?id=2456751488&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/0f080d54b1aae3d3a53feae1b69fdb26?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Free Job Alert",
+        "apply_link": "https://us.freejobalert.com/job/data-scientist-social-security-administration-woodlawn-maryland-ssa12879164-26-dha-cio?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "IT Specialist (Data Scientist) positions are being filled through the Office of Personnel Management's delegated Direct Hire Authority, open to all U.S. citizens. Selections made under this bulletin will be processed as new appointments to the civil service. Current civil service employees would, therefore, be given new appointments to the civil service. Under the provisions of the Direct Hire Authority, Veterans Preference and the \"Rule of Many\" do not apply.",
+    "job_is_remote": false,
+    "job_posted_at": "10 days ago",
+    "job_posted_at_timestamp": 1770336000,
+    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
+    "job_location": "Woodlawn, MD",
+    "job_city": "Woodlawn",
+    "job_state": "Maryland",
+    "job_country": "US",
+    "job_latitude": 39.322884099999996,
+    "job_longitude": -76.7280277,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFry63ljx13gcdEdHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Responsibilities": [
+        "Selections made under this bulletin will be processed as new appointments to the civil service"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-usajobs-gov-job-856629100",
     "_source": "new_jobs"
   },
   {
@@ -658,6 +552,112 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "L05eAoLinfgZ9wUMAAAAAA==",
+    "job_title": "(USA) Senior, Data Scientist",
+    "employer_name": "Walmart",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
+    "employer_website": "https://corporate.walmart.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time and Part-time",
+    "job_employment_types": [
+      "FULLTIME",
+      "PARTTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/(USA)-Senior,-Data-Scientist/-in-East-Meadow,NY?jid=10ae54ae9d5daf1d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/(USA)-Senior,-Data-Scientist/-in-East-Meadow,NY?jid=10ae54ae9d5daf1d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Position Summary...\n\nWhat you'll do...At Walmart, we pride ourselves for knowing our customers and connecting with them better than any other company. We interact with our customers across more categories than any company in the world. The Customer Decision Science team which is a part of the Customer Insights & Strategy team in the Marketing org at Walmart analyzes every store trip, web and app visit, service interaction, search, click, purchase and survey response to help deliver the easiest shopping experience digitally and physically. We are a team of decision science practitioners who work together to uncover the why behind the customer behavior while measuring the outcomes from a customer and competitive lens. As a Senior Data Scientist in the team, you will have the unique opportunity to leverage the power of technology, big data and analytics to improve the lives of the 100M+ households that shop at Walmart every year. You will be responsible for driving Walmart’s High Value Habits initiatives by identifying the primary accelerators and decelerators of customer loyalty, translating these findings into actionable insights that directly inform high-level business strategy. What We’re Looking For\n• Well balanced skills – People have trouble pinning you down. Both business and technical/data teams claim you as their own. You are equal parts technical and functional. You are equally comfortable and effective in persuading both technical and business audiences.\n• Data science & analytics expertise – You excel at translating ambiguous business questions into concrete, actionable analysis plans and then executing them with precision. You are a pro at designing and building new and impactful customer-centric KPIs and metrics to measure customer and competitive dynamics. You are equally strong at getting into the weeds and making sure that the data needed to support these metrics is consistent and available. You are very comfortable rolling up your sleeves when needed to write complex SQL queries, building User Defined Functions (UDFs) to scale logic, and strive to balance speed with effective code design. You have mastery over the fundamentals of machine learning techniques (such as regression, clustering algorithms and/or causal inference) along with cohort analyses.\n• High Agency – You are able to use your expert understanding of data structures in order to scope and define data needs to execute projects. You are a relentless unblocker; when faced with technical debt or data gaps, you take the initiative to find a path forward without needing permission.\n• Project ownership – You are able to independently execute and oversee end-to-end projects with a high degree of ambiguity. You have strong organizational skills that enable you to manage multiple priorities, set expectations and collaborate across stakeholders, managers and peers.\n• Business acumen – You are able to translate insights into relevant business recommendations, anticipate the needs of business stakeholders and connect the dots across various teams, research and insights in order to build convincing and synthesized business recommendations.\n• Great communicator – You’re capable of telling the story behind the data to an executive audience and you are a pro at building slide decks that can simplify any complex story. You can customize your communication style based on stakeholders. You can easily translate a business question to an analysis technique and provide specs to engineering teams or analysts.\n• Data visualization – You are a pro at leveraging visualization to build compelling stories based on context to integrate multiple pieces of information into cohesive insights.\n• People leadership – You can influence decision making across peers and managers by supporting your point of view with data-driven insights.\nResponsibilities\n• Lead and execute advanced analytics for Walmart’s High Valua Habits initiatives, focusing on deepening customer loyalty and retention through data-driven strategic planning.\n• Proactively identify opportunities for business growth by mining customer data and translating these findings into a prioritized research and analytics roadmap.\n• Design, build, and deploy sophisticated quantitative frameworks (causal inference, propensity models, cohort analyses) that move beyond correlation to establish cause-and-effect in customer behavior.\n• Lead project teams that include Data Engineering, Product, Marketing, Strategy and Finance to ensure data-driven insights are integrated into the product roadmap and financial forecasts.\n• Implementing and scaling best practices. This includes writing/reviewing User Defined Functions (UDFs) to standardize complex business logic and advocating for reproducible research practices in R.\n• Executive Influence: Act as a subject matter expert in leadership forums, using data to challenge assumptions and drive a customer-centric culture.\nQualifications Minimum Qualifications\n• BA/BS in Mathematics, Statistics, Computer Science, Economics, or related field with 3-5+ years of experience in Data Science/Analytics; OR a Master’s degree with 2-3+ years of experience; OR a PhD with 2+ years of experience.\n• Mastery of SQL (BigQuery/Hive preferred). Expert experience building scalable, reusable data assets including the design and deployment of User Defined Functions (UDFs) to handle high-cardinality data and complex business transformations.\n• Expert proficiency in R or Python for statistical modeling, simulation, and data visualization (e.g., Tidyverse, ggplot2, Shiny for R; pandas, scikit-learn, statsmodels for Python). Proven ability to write production-grade, reproducible code.\n• Deep proficiency in cohort analyses, clickstream data, and customer metrics. Proven track record of leveraging high-volume web/app event data to drive customer growth and inform product or marketing strategy.\n• Extensive experience in experimental design and observational causal methodologies (e.g., Propensity Score Matching, Difference-in-Differences, Synthetic Control).\n• Demonstrated ability to manage multiple high-impact projects simultaneously with high agency and minimal oversight.\nPreferred Qualifications\n• Experience developing internal R packages/UDFs to standardize team workflow\n• Deep experience in cloud-based big data environments (GCP/BigQuery or Snowflake), with a focus on optimizing query performance and cost.\n• Experience leading code reviews and mentoring junior team members on statistical best practices and efficient coding standards.\n• Prior experience in Retail, E-commerce, or analyzing complex omni-channel customer journeys.\nWhy You’ll Love Working Here We value high-ownership mentalities and intellectual curiosity. You will have the autonomy to solve massive problems at the scale of the world’s largest retailer, with the resources and data to see your insights turn into real-world customer impact. At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\nFor information about benefits and eligibility, see One.Walmart.\nThe annual salary range for this position is $108,000.00 - $216,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1- Bachelor’s degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 3 years' experience in an analytics related field. Option 2- Master’s degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 1 years' experience in an analytics related field. Option 3 - 5 years' experience in an analytics or related field.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nData science, machine learning, optimization models, Master’s degree in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch), We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n221 River St, Hoboken, NJ 07030, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "East Meadow, NY",
+    "job_city": "East Meadow",
+    "job_state": "New York",
+    "job_country": "US",
+    "job_latitude": 40.7139898,
+    "job_longitude": -73.5590157,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DL05eAoLinfgZ9wUMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 108000,
+    "job_max_salary": 216000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "Both business and technical/data teams claim you as their own",
+        "You are equally comfortable and effective in persuading both technical and business audiences",
+        "Data science & analytics expertise – You excel at translating ambiguous business questions into concrete, actionable analysis plans and then executing them with precision",
+        "You have mastery over the fundamentals of machine learning techniques (such as regression, clustering algorithms and/or causal inference) along with cohort analyses",
+        "High Agency – You are able to use your expert understanding of data structures in order to scope and define data needs to execute projects",
+        "You are a relentless unblocker; when faced with technical debt or data gaps, you take the initiative to find a path forward without needing permission",
+        "Project ownership – You are able to independently execute and oversee end-to-end projects with a high degree of ambiguity",
+        "You have strong organizational skills that enable you to manage multiple priorities, set expectations and collaborate across stakeholders, managers and peers",
+        "Business acumen – You are able to translate insights into relevant business recommendations, anticipate the needs of business stakeholders and connect the dots across various teams, research and insights in order to build convincing and synthesized business recommendations",
+        "Great communicator – You’re capable of telling the story behind the data to an executive audience and you are a pro at building slide decks that can simplify any complex story",
+        "You can easily translate a business question to an analysis technique and provide specs to engineering teams or analysts",
+        "BA/BS in Mathematics, Statistics, Computer Science, Economics, or related field with 3-5+ years of experience in Data Science/Analytics; OR a Master’s degree with 2-3+ years of experience; OR a PhD with 2+ years of experience",
+        "Expert experience building scalable, reusable data assets including the design and deployment of User Defined Functions (UDFs) to handle high-cardinality data and complex business transformations",
+        "Expert proficiency in R or Python for statistical modeling, simulation, and data visualization (e.g., Tidyverse, ggplot2, Shiny for R; pandas, scikit-learn, statsmodels for Python)",
+        "Proven ability to write production-grade, reproducible code",
+        "Deep proficiency in cohort analyses, clickstream data, and customer metrics",
+        "Proven track record of leveraging high-volume web/app event data to drive customer growth and inform product or marketing strategy",
+        "Extensive experience in experimental design and observational causal methodologies (e.g., Propensity Score Matching, Difference-in-Differences, Synthetic Control)",
+        "Demonstrated ability to manage multiple high-impact projects simultaneously with high agency and minimal oversight",
+        "Option 1- Bachelor’s degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 3 years' experience in an analytics related field",
+        "Option 2- Master’s degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 1 years' experience in an analytics related field",
+        "Option 3 - 5 years' experience in an analytics or related field",
+        "Data science, machine learning, optimization models, Master’s degree in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch), We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
+        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
+      ],
+      "Benefits": [
+        "Well balanced skills – People have trouble pinning you down",
+        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
+        "Health benefits include medical, vision and dental coverage",
+        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
+        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
+        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
+        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
+        "The amount you receive depends on your job classification and length of employment",
+        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
+        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
+        "Tuition, books, and fees are completely paid for by Walmart",
+        "Eligibility requirements apply to some benefits and may depend on your job classification and length of employment",
+        "Benefits are subject to change and may be subject to a specific plan or program terms",
+        "The annual salary range for this position is $108,000.00 - $216,000.00 Additional compensation includes annual or quarterly performance bonuses"
+      ],
+      "Responsibilities": [
+        "You will be responsible for driving Walmart’s High Value Habits initiatives by identifying the primary accelerators and decelerators of customer loyalty, translating these findings into actionable insights that directly inform high-level business strategy",
+        "You are a pro at designing and building new and impactful customer-centric KPIs and metrics to measure customer and competitive dynamics",
+        "You are equally strong at getting into the weeds and making sure that the data needed to support these metrics is consistent and available",
+        "You are very comfortable rolling up your sleeves when needed to write complex SQL queries, building User Defined Functions (UDFs) to scale logic, and strive to balance speed with effective code design",
+        "Data visualization – You are a pro at leveraging visualization to build compelling stories based on context to integrate multiple pieces of information into cohesive insights",
+        "People leadership – You can influence decision making across peers and managers by supporting your point of view with data-driven insights",
+        "Lead and execute advanced analytics for Walmart’s High Valua Habits initiatives, focusing on deepening customer loyalty and retention through data-driven strategic planning",
+        "Proactively identify opportunities for business growth by mining customer data and translating these findings into a prioritized research and analytics roadmap",
+        "Design, build, and deploy sophisticated quantitative frameworks (causal inference, propensity models, cohort analyses) that move beyond correlation to establish cause-and-effect in customer behavior",
+        "Lead project teams that include Data Engineering, Product, Marketing, Strategy and Finance to ensure data-driven insights are integrated into the product roadmap and financial forecasts",
+        "Implementing and scaling best practices",
+        "This includes writing/reviewing User Defined Functions (UDFs) to standardize complex business logic and advocating for reproducible research practices in R",
+        "Executive Influence: Act as a subject matter expert in leadership forums, using data to challenge assumptions and drive a customer-centric culture",
+        "You will have the autonomy to solve massive problems at the scale of the world’s largest retailer, with the resources and data to see your insights turn into real-world customer impact"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-ziprecruiter-com-c-walmart-job-usa-senior-data-scientist-in-east-meadow-ny",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "Tj-mxnjwVx-_wmdcAAAAAA==",
     "job_title": "Senior Associate, Data Scientist - Commercial Bank Strategy & Analytics | McLean, VA, USA",
     "employer_name": "Capital One Financial Corporation",
@@ -738,95 +738,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "WYK5ITpF6hUCIhaUAAAAAA==",
-    "job_title": "Senior, Data Scientist - Walmart+ Core Ops & Strategy Enablement",
-    "employer_name": "Walmart",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
-    "employer_website": "https://corporate.walmart.com",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time and Part-time",
-    "job_employment_types": [
-      "FULLTIME",
-      "PARTTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Senior,-Data-Scientist-Walmart+-Core-Ops-&-Strategy-Enablement/-in-Sayreville,NJ?jid=004e4e46710be64b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Senior,-Data-Scientist-Walmart+-Core-Ops-&-Strategy-Enablement/-in-Sayreville,NJ?jid=004e4e46710be64b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "Position Summary...As Sr. Data Scientist in the Walmart+ Core Ops & Strategy Enablement team, you will be a senior individual contributor driving some of the most important experimentation and modeling work across Walmart+. You’ll design and analyze experiments, build propensity and churn models, and help turn successful approaches into reusable data science assets. Your work will directly support the Member Acquisition & New Benefits and Member Engagement & Retention teams and shape how one of Walmart’s highest-priority businesses tests, learns, and scales new ideas.\n\nWhat you'll do...\n• Design and analyze experiments that span multiple Walmart+ journeys, benefits, and channels, partnering closely with the Member Acquisition & New Benefits and Member Engagement & Retention teams.\n• Build and maintain models such as propensity, churn, and uplift to answer high-impact strategic questions and support critical decisions.\n• Translate test and model results into clear, actionable recommendations that inform product roadmaps, marketing strategies, and portfolio bets.\n• Refactor and standardize code and methods into reusable templates, feature sets, or libraries that other data science teams can leverage.\n• Partner with data engineering and platform teams to improve data pipelines and access patterns needed for fast experimentation and modeling.\n\nWhat you'll bring...\n• A passion for experiment-driven decision making and the ability to balance speed with sound methodology.\n• Strong problem-structuring skills, turning ambiguous questions into tractable hypotheses, experiments, and models.\n• A collaborative, low-ego mindset that brings stakeholders along, especially partners across the organization.\n• Comfort working in a fast-evolving, high-priority environment, with the ability to prioritize and communicate tradeoffs.\n• A habit of owning outcomes, not just analyses – you care that the organization acts on what you learn.\nAbout the team:\nThe Walmart+ Core Ops & Strategy Enablement Data Science team is integral to the Walmart+ ecosystem, focusing on developing experimentation frameworks and rapid-turn models like propensity and churn. The team transforms innovative solutions into reusable data science assets, collaborating closely with Member Acquisition and Member Engagement teams. Utilizing expertise in data science, machine learning, Python, SQL, and data visualization, the team delivers rigorous experimentation, actionable insights, and scalable models. Their work supports multiple customer journeys and channels, driving impactful business outcomes through advanced analytics and strategic data applications. At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\nFor information about benefits and eligibility, see One.Walmart.\nHoboken, New Jersey US-10279: The annual salary range for this position is $108,000.00 - $216,000.00\nBentonville, Arkansas US-30008: The annual salary range for this position is $90,000.00 - $180,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1- Bachelor’s degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 3 years' experience in an analytics related field. Option 2- Master’s degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 1 years' experience in an analytics related field. Option 3 - 5 years' experience in an analytics or related field.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nData science, machine learning, optimization models, Master’s degree in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch), We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n221 River St, Hoboken, NJ 07030, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Sayreville, NJ",
-    "job_city": "Sayreville",
-    "job_state": "New Jersey",
-    "job_country": "US",
-    "job_latitude": 40.4648065,
-    "job_longitude": -74.3138334,
-    "job_benefits": [
-      "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DWYK5ITpF6hUCIhaUAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 108000,
-    "job_max_salary": 216000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "A passion for experiment-driven decision making and the ability to balance speed with sound methodology",
-        "Strong problem-structuring skills, turning ambiguous questions into tractable hypotheses, experiments, and models",
-        "A collaborative, low-ego mindset that brings stakeholders along, especially partners across the organization",
-        "Comfort working in a fast-evolving, high-priority environment, with the ability to prioritize and communicate tradeoffs",
-        "A habit of owning outcomes, not just analyses – you care that the organization acts on what you learn",
-        "Option 1- Bachelor’s degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 3 years' experience in an analytics related field",
-        "Option 2- Master’s degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 1 years' experience in an analytics related field",
-        "Option 3 - 5 years' experience in an analytics or related field",
-        "Data science, machine learning, optimization models, Master’s degree in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch), We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
-        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
-      ],
-      "Benefits": [
-        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
-        "Health benefits include medical, vision and dental coverage",
-        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
-        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
-        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
-        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
-        "The amount you receive depends on your job classification and length of employment",
-        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
-        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
-        "Tuition, books, and fees are completely paid for by Walmart",
-        "Eligibility requirements apply to some benefits and may depend on your job classification and length of employment",
-        "Benefits are subject to change and may be subject to a specific plan or program terms",
-        "Hoboken, New Jersey US-10279: The annual salary range for this position is $108,000.00 - $216,000.00",
-        "Bentonville, Arkansas US-30008: The annual salary range for this position is $90,000.00 - $180,000.00 Additional compensation includes annual or quarterly performance bonuses",
-        "Additional compensation for certain positions may also include :"
-      ],
-      "Responsibilities": [
-        "Data Scientist in the Walmart+ Core Ops & Strategy Enablement team, you will be a senior individual contributor driving some of the most important experimentation and modeling work across Walmart+",
-        "You’ll design and analyze experiments, build propensity and churn models, and help turn successful approaches into reusable data science assets",
-        "Your work will directly support the Member Acquisition & New Benefits and Member Engagement & Retention teams and shape how one of Walmart’s highest-priority businesses tests, learns, and scales new ideas",
-        "Design and analyze experiments that span multiple Walmart+ journeys, benefits, and channels, partnering closely with the Member Acquisition & New Benefits and Member Engagement & Retention teams",
-        "Build and maintain models such as propensity, churn, and uplift to answer high-impact strategic questions and support critical decisions",
-        "Translate test and model results into clear, actionable recommendations that inform product roadmaps, marketing strategies, and portfolio bets",
-        "Refactor and standardize code and methods into reusable templates, feature sets, or libraries that other data science teams can leverage",
-        "Partner with data engineering and platform teams to improve data pipelines and access patterns needed for fast experimentation and modeling",
-        "The team transforms innovative solutions into reusable data science assets, collaborating closely with Member Acquisition and Member Engagement teams",
-        "Utilizing expertise in data science, machine learning, Python, SQL, and data visualization, the team delivers rigorous experimentation, actionable insights, and scalable models"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-ziprecruiter-com-c-walmart-job-senior-data-scientist-walmart-core-ops-strategy-enablement-in-sayreville-nj",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "rQHMYhjo4y_eEpvxAAAAAA==",
     "job_title": "Junior Data Scientist",
     "employer_name": "Serco",
@@ -875,8 +786,8 @@
     "job_longitude": -90.51513419999999,
     "job_benefits": [
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DrQHMYhjo4y_eEpvxAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1010,8 +921,8 @@
     "job_longitude": -71.0565364,
     "job_benefits": [
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUNruUL-ZGgdrkWHZAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": null,
@@ -1055,6 +966,114 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "www-ziprecruiter-com-c-the-boston-consulting-group-job-data-scientist-united-states-bcg-x-in-boston-ma",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "rorQhjLt4YywBM_bAAAAAA==",
+    "job_title": "Principal Data Scientist – Price and Promotions Data Science",
+    "employer_name": "CVS Health",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr8JKxXYfTuQJ2WiSS61pMdKn1DPFw4DfcX4aK&s=0",
+    "employer_website": "https://www.cvshealth.com",
+    "job_publisher": "CVS Health",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.cvshealth.com/us/en/job/R0746254/Principal-Data-Scientist-Price-and-Promotions-Data-Science?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "CVS Health",
+        "apply_link": "https://jobs.cvshealth.com/us/en/job/R0746254/Principal-Data-Scientist-Price-and-Promotions-Data-Science?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Monster",
+        "apply_link": "https://www.monster.com/job-openings/principal-cloud-architect-ai-computational-data-scientist-olympia-wa--61619b9e-7b1c-4300-8a5b-5f2612a472ab?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/c1ff2775cf93fdc47b4882eca03b42b0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Hispanic Today",
+        "apply_link": "https://hispanic-today.com/olympia-wa/principal-cloud-architect-ai-computational-data-scientist/FB44040531AF43C98F228E5E0641653D/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Snagajob",
+        "apply_link": "https://www.snagajob.com/jobs/1189861477?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Trabajo.org",
+        "apply_link": "https://us.trabajo.org/job-2611-051256abf2edf3e72795119d164f9f16?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience. At CVS Health®, you’ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger – helping to simplify health care one person, one family and one community at a time.\n\nPosition Summary\n\nThe Consumer Engagement & Analytics team is helping lead the effort to drive improved consumer experience by partnering with key business areas across CVS Health to deliver impactful analytic products and insights. As a member of the Price, Value and Assortment Analytics team, you will be at the forefront of delivering high visibility products for key CVS Retail strategic priorities. Specifically, you will have the opportunity to drive traffic, revenue and customer satisfaction in CVS Health’s Front Store business using data science to optimize pricing, promotions, and assortment decisions.\n\nIn this role, you will have the opportunity to:\n• Solve complex problems, leverage large datasets, and build scalable and deployment ready models that work well with CVS Retail’s diverse product portfolio. Guide the modeling approach, design and deploy end-to end solutions utilizing Operations Research (OR), econometric modeling, and forecasting along with the functional team leads,\n• Partner with the Data Engineering team to architect scalable and fail-proof production pipelines, define the unified technical vision, and set standards,\n• Stay up to date on the state-of-the-art modeling methodologies, initiate, lead, and inspire Research and Development efforts, define long-term technical vision and strategic roadmap,\n• Act as a consultant who translates complex requirements and data science findings into decision ready narratives for cross-functional teams,\n• Mandate and champion rigorous performance validation,\n• Provide advanced technical mentorship, proactively identify critical organizational skill gaps, and standardize hiring processes.\n\nWe are a fast-paced team focused on building innovative advanced analytics solutions using cloud capabilities. Within our team, we believe cutting-edge AI products and analytics can only be delivered if every aspect of the solution from data to model to front end UI is fully designed and developed by the team.\n\nWe are looking for talented individuals who have a strong sense of ownership, accountability and a desire to deliver high quality end to end intuitive and impactful analytic products using advanced data driven approaches. This role may involve managing and mentoring team members.\n\nRequired Qualifications\n• 10+ years of progressive work experience in retail, consulting, or a related field as an individual contributor (applied data science) with at least 2 years in a lead capacity,\n• Strong foundation and demonstrated experience designing and deploying large scale optimization problems to production,\n• Strong Python, R, and SQL skills, proficiency in working with large datasets,\n• Experience working with a data engineering/MLOps team to productionize data science models, familiarity with version control (GitLab or GitHub), and ML platforms (AWS SageMaker, Databricks, GCP Vertex AI, etc.),\n• Excellent communication, leadership, and presentation skills and attention to detail. Worked in an agile environment, has the flexibility to adapt to changing business needs,\n• Proven experience influencing organizational strategy and driving change across business, product, and engineering organizations,\n• Proven experience leading multiple complex projects simultaneously in a fast-paced environment.\n\nPreferred Qualifications\n• Experience building and deploying advanced price, promotions, or assortment optimization solutions at scale,\n• In depth understanding of merchandising (price, promotion, assortment) concepts and metrics in retail,\n• Experience with managing large scale projects and working with multiple business stakeholders,\n• Proven record of intellectual property generation or public representation of technical work.\n\nEducation\n• Advanced degree in a quantitative field such as computer science, operations research, applied mathematics, or a related field. PhD preferred.\n\nPay Range\n\nThe typical pay range for this role is:\n\n$144,200.00 - $288,400.00\n\nThis pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls. The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors. This position is eligible for a CVS Health bonus, commission or short-term incentive program in addition to the base pay range listed above. This position also includes an award target in the company’s equity award program.\n\nOur people fuel our future. Our teams reflect the customers, patients, members and communities we serve and we are committed to fostering a workplace where every colleague feels valued and that they belong.\n\nGreat benefits for great people\n\nWe take pride in our comprehensive and competitive mix of pay and benefits – investing in the physical, emotional and financial wellness of our colleagues and their families to help them be the healthiest they can be. In addition to our competitive wages, our great benefits include:\n• Affordable medical plan options, a 401(k) plan (including matching company contributions), and an employee stock purchase plan.\n• No-cost programs for all colleagues including wellness screenings, tobacco cessation and weight management programs, confidential counseling and financial coaching.\n• Benefit solutions that address the different needs and preferences of our colleagues including paid time off, flexible work schedules, family leave, dependent care resources, colleague assistance programs, tuition assistance, retiree medical access and many other benefits depending on eligibility.\n\nFor more information, visit https://jobs.cvshealth.com/us/en/benefits\n\nWe anticipate the application window for this opening will close on: 03/29/2026\n\nQualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state and local laws.",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Olympia, WA",
+    "job_city": "Olympia",
+    "job_state": "Washington",
+    "job_country": "US",
+    "job_latitude": 47.0451842,
+    "job_longitude": -122.895355,
+    "job_benefits": [
+      "health_insurance",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DrorQhjLt4YywBM_bAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "10+ years of progressive work experience in retail, consulting, or a related field as an individual contributor (applied data science) with at least 2 years in a lead capacity,",
+        "Strong foundation and demonstrated experience designing and deploying large scale optimization problems to production,",
+        "Strong Python, R, and SQL skills, proficiency in working with large datasets,",
+        "Experience working with a data engineering/MLOps team to productionize data science models, familiarity with version control (GitLab or GitHub), and ML platforms (AWS SageMaker, Databricks, GCP Vertex AI, etc.),",
+        "Excellent communication, leadership, and presentation skills and attention to detail",
+        "Worked in an agile environment, has the flexibility to adapt to changing business needs,",
+        "Proven experience influencing organizational strategy and driving change across business, product, and engineering organizations,",
+        "Proven experience leading multiple complex projects simultaneously in a fast-paced environment",
+        "Advanced degree in a quantitative field such as computer science, operations research, applied mathematics, or a related field"
+      ],
+      "Benefits": [
+        "$144,200.00 - $288,400.00",
+        "This pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls",
+        "The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors",
+        "This position is eligible for a CVS Health bonus, commission or short-term incentive program in addition to the base pay range listed above",
+        "This position also includes an award target in the company’s equity award program",
+        "We take pride in our comprehensive and competitive mix of pay and benefits – investing in the physical, emotional and financial wellness of our colleagues and their families to help them be the healthiest they can be",
+        "In addition to our competitive wages, our great benefits include:",
+        "Affordable medical plan options, a 401(k) plan (including matching company contributions), and an employee stock purchase plan",
+        "No-cost programs for all colleagues including wellness screenings, tobacco cessation and weight management programs, confidential counseling and financial coaching",
+        "Benefit solutions that address the different needs and preferences of our colleagues including paid time off, flexible work schedules, family leave, dependent care resources, colleague assistance programs, tuition assistance, retiree medical access and many other benefits depending on eligibility"
+      ],
+      "Responsibilities": [
+        "The Consumer Engagement & Analytics team is helping lead the effort to drive improved consumer experience by partnering with key business areas across CVS Health to deliver impactful analytic products and insights",
+        "As a member of the Price, Value and Assortment Analytics team, you will be at the forefront of delivering high visibility products for key CVS Retail strategic priorities",
+        "Specifically, you will have the opportunity to drive traffic, revenue and customer satisfaction in CVS Health’s Front Store business using data science to optimize pricing, promotions, and assortment decisions",
+        "Solve complex problems, leverage large datasets, and build scalable and deployment ready models that work well with CVS Retail’s diverse product portfolio",
+        "Guide the modeling approach, design and deploy end-to end solutions utilizing Operations Research (OR), econometric modeling, and forecasting along with the functional team leads,",
+        "Partner with the Data Engineering team to architect scalable and fail-proof production pipelines, define the unified technical vision, and set standards,",
+        "Stay up to date on the state-of-the-art modeling methodologies, initiate, lead, and inspire Research and Development efforts, define long-term technical vision and strategic roadmap,",
+        "Act as a consultant who translates complex requirements and data science findings into decision ready narratives for cross-functional teams,",
+        "Mandate and champion rigorous performance validation,",
+        "Provide advanced technical mentorship, proactively identify critical organizational skill gaps, and standardize hiring processes",
+        "This role may involve managing and mentoring team members"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "jobs-cvshealth-com-us-en-job-r0746254-principal-data-scientist-price-and-promotions-data-science",
     "_source": "new_jobs"
   },
   {
@@ -1164,6 +1183,165 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "nPxnORE0XQE7uItyAAAAAA==",
+    "job_title": "Data Scientist",
+    "employer_name": "Walmart",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV0kWbPp7sIFysOBbrsohip-f8-kSq7M6lcXJq&s=0",
+    "employer_website": "https://corporate.walmart.com",
+    "job_publisher": "Walmart",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://walmart.rightspotway.com/jobpage/dkd4rx1uahif-0ecb7-757d61-a80877d27d22683d957ba?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Walmart",
+        "apply_link": "https://walmart.rightspotway.com/jobpage/dkd4rx1uahif-0ecb7-757d61-a80877d27d22683d957ba?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Data Scientist\n\nCompany Overview:\n\nWalmart Global Tech is dedicated to leveraging advanced technology and data science to enhance operations, empower associates, and improve the customer experience for millions worldwide. You will contribute to high-impact projects that streamline service operations, optimize processes in Finance, People, and Associate Digital Experience (ADE), and create actionable insights that drive measurable business results.\n\nRole and Responsibilities of Data Scientist:\n\nYou will design, develop, and deploy AI and machine learning solutions to solve complex business problems. You will translate business challenges into analytical problems, collaborate with cross-functional teams, and deliver scalable, data-driven solutions that enhance operational efficiency and customer experience.\n• Develop, test, and deploy AI and ML solutions, including data preparation, feature engineering, model training, evaluation, and deployment\n• Ensure solutions are aligned with business goals, scalable, and high-quality\n• Translate business challenges into analytical or machine learning problems\n• Apply statistical and computational methods to generate actionable insights\n• Collaborate with engineering, product, and business teams to implement data-driven solutions\n• Enhance operational efficiency and customer experience through innovative analytics and ML solutions\n\nRequired Skills and Experience of Data Scientist:\n• Bachelor's degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field with 3 years of experience, OR\n• Master's degree in the above fields with 1 year of experience, OR\n• 5 years of experience in analytics or a related field\n• Solid foundation in machine learning, statistical analysis, and data science\n• Practical experience developing and deploying AI/ML solutions, including exposure to LLMs and emerging agentic AI systems\n• Proficiency in Python, SQL, and modern ML frameworks\n• Experience building and maintaining scalable data science and AI/ML pipelines\n• Collaborative mindset and commitment to continuous learning and knowledge sharing\n\nPreferred Qualifications:\n• Master's degree in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, or Econometrics\n• Experience with open-source frameworks such as scikit-learn, TensorFlow, or PyTorch\n• Successful completion of assessments in Python, Spark, Scala, or R\n• Knowledge of digital accessibility and WCAG 2.2 AA standards to support inclusive product experiences\n\nCompensation and Benefits of Data Scientist:\n• Competitive compensation with performance-based incentive awards\n• 401(k) match and stock purchase plan\n• Paid maternity and parental leave\n• Paid time off (PTO)\n• Multiple health plans including medical, vision, and dental coverage\n\nAbout Walmart Global Tech:\n\nWalmart Global Tech is a people-led, tech-empowered organization where one line of code can impact millions of customers. Our team includes software engineers, data scientists, cybersecurity experts, and service professionals driving innovation in retail. We foster a collaborative, inclusive culture with opportunities for skill development, growth, and impactful work. Our global hubs include Bentonville, Arkansas, the San Francisco Bay area, and New York/New Jersey, supporting a diverse team that works together to reimagine the future of retail.\n\nFAQ:\n\nQ: What does a data scientist do?\n\nA: They analyze large datasets, build predictive models, and provide insights to help guide business decisions.\n\nQ: What skills are needed to be a data scientist?\n\nA: Key skills include programming (Python, R), statistics, data visualization, machine learning, and problem-solving.\n\nQ: Do data scientists need prior experience?\n\nA: Yes, experience in data analysis, modeling, or related projects is usually required, along with a relevant degree.\n\nQ: Is a data scientist role challenging?\n\nA: It can be demanding due to complex data, evolving technologies, and the need to translate insights into actionable business strategies.",
+    "job_is_remote": false,
+    "job_posted_at": "8 hours ago",
+    "job_posted_at_timestamp": 1771171200,
+    "job_posted_at_datetime_utc": "2026-02-15T16:00:00.000Z",
+    "job_location": "Kearny, NJ",
+    "job_city": "Kearny",
+    "job_state": "New Jersey",
+    "job_country": "US",
+    "job_latitude": 40.770803099999995,
+    "job_longitude": -74.1450825,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DnPxnORE0XQE7uItyAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Required Skills and Experience of Data Scientist:",
+        "Bachelor's degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field with 3 years of experience, OR",
+        "Master's degree in the above fields with 1 year of experience, OR",
+        "5 years of experience in analytics or a related field",
+        "Solid foundation in machine learning, statistical analysis, and data science",
+        "Practical experience developing and deploying AI/ML solutions, including exposure to LLMs and emerging agentic AI systems",
+        "Proficiency in Python, SQL, and modern ML frameworks",
+        "Experience building and maintaining scalable data science and AI/ML pipelines",
+        "Collaborative mindset and commitment to continuous learning and knowledge sharing",
+        "A: Key skills include programming (Python, R), statistics, data visualization, machine learning, and problem-solving",
+        "A: Yes, experience in data analysis, modeling, or related projects is usually required, along with a relevant degree",
+        "A: It can be demanding due to complex data, evolving technologies, and the need to translate insights into actionable business strategies"
+      ],
+      "Benefits": [
+        "Competitive compensation with performance-based incentive awards",
+        "401(k) match and stock purchase plan",
+        "Paid maternity and parental leave",
+        "Paid time off (PTO)",
+        "Multiple health plans including medical, vision, and dental coverage"
+      ],
+      "Responsibilities": [
+        "You will contribute to high-impact projects that streamline service operations, optimize processes in Finance, People, and Associate Digital Experience (ADE), and create actionable insights that drive measurable business results",
+        "You will design, develop, and deploy AI and machine learning solutions to solve complex business problems",
+        "You will translate business challenges into analytical problems, collaborate with cross-functional teams, and deliver scalable, data-driven solutions that enhance operational efficiency and customer experience",
+        "Develop, test, and deploy AI and ML solutions, including data preparation, feature engineering, model training, evaluation, and deployment",
+        "Ensure solutions are aligned with business goals, scalable, and high-quality",
+        "Translate business challenges into analytical or machine learning problems",
+        "Apply statistical and computational methods to generate actionable insights",
+        "Collaborate with engineering, product, and business teams to implement data-driven solutions",
+        "Enhance operational efficiency and customer experience through innovative analytics and ML solutions",
+        "A: They analyze large datasets, build predictive models, and provide insights to help guide business decisions"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "walmart-rightspotway-com-jobpage-dkd4rx1uahif-0ecb7-757d61-a80877d27d22683d957ba",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "MBvMPuOt99yElsTnAAAAAA==",
+    "job_title": "Robotics - Data Science Intern / Co-op - 2026",
+    "employer_name": "Amazon.com Services LLC",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJpHPsPCtT7v0dsfLzY7WalItl5ZK269S36ESB&s=0",
+    "employer_website": "https://www.amazon.com",
+    "job_publisher": "Indeed",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.indeed.com/viewjob?jk=49fdbe8daf344025&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=49fdbe8daf344025&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/x4wpeYpec6jeP8u_RkF8S_Iy9C-Jm80lyoImm_Gl2Q-RhGRe5fNKZg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/9df3390a90bc172eed456526a34d31c0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "DESCRIPTION\n\nAre you passionate about data science? Do you want to solve real customer problems through innovative technology? Do you enjoy working on scalable research and projects in a collaborative team environment? Do you want to see your science solutions directly impact millions of customers worldwide?\n\nAt Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. Customer obsession is part of our company DNA, which has made us one of the world's most beloved brands.\n\nWe're looking for current Master's and PhD students with a passion for robotic research and applications to join us as Robotics Data Scientist Intern/Co-ops in 2026 to shape the future of robotics and automation at an unprecedented scale across. For these positions, our Robotics teams at Amazon are looking for students with a specialization in one or more of the research areas such as robotics, data science, computer vision, large language models, visual language models, statistics, machine learning, causal inference, deep learning, artificial intelligence, applied generative AI, operations research, data analysis, predictive modeling, and more!\n\nWe're looking for curious minds who think big and want to define tomorrow's technology. At Amazon, you'll grow into the high-impact engineer you know you can be, supported by a culture of learning and mentorship. Every day brings exciting new challenges and opportunities for personal growth.\n\nBy applying to this role, you will be considered for Robotics Data Science Intern/Co-op (2026) opportunities across various Robotics teams at Amazon with different robotics research focus, with internship positions available for multiple locations, durations (3 to 6+ months), and year-round start dates (winter, spring, summer, fall).\n\nAmazon intern and co-op roles follow the same internship structure. \"Intern/Internship\" wording refers to both interns and co-ops. Amazon internships across all seasons are full-time positions, and interns should expect to work in office, Monday-Friday, up to 40 hours per week typically between 8am-5pm. Specific team norms around working hours will be communicated by your manager. Interns should not have conflicts such as classes or other employment during the Amazon work-day. Applicants should have a minimum of one quarter/semester/trimester remaining in their studies after their internship concludes.\n\nThe robotics internship join dates, length, location, and prospective team will be finalized at the time of any applicable job offers. In your application, you will be able to provide your preference of research interests, start dates, internship duration, and location. While your preference will be taken into consideration, we cannot guarantee that we can meet your selection based on several factors including but not limited to the internship availability and business needs of this role.\n\nKey job responsibilities\n• Design and implement state-of-the-art solutions for never-before-solved problems.\n• Collaborate closely with other research and robotics experts to design and run experiments, research new algorithms, and find new ways to improve Amazon Robotics analytics to optimize the Customer experience.\n• Partner with technology and product leaders to solve business problems using scientific approaches.\n• Build new tools and invent business insights that surprise and delight our customers.\n• Work to quantify system performance at scale, and to expand the breadth and depth of our analysis to increase the ability of software components and warehouse processes.\n• Work to evolve our library of key performance indicators and construct experiments that efficiently root cause emergent behaviors.\n• Engage with software development teams and warehouse design engineers to drive the evolution of the Amazon Robotics system, as well as the simulation engine that supports our work.\n\nAbout the team\nLearn more about Robotics at Amazon:\n\nhttps://www.aboutamazon.com/news/operations/amazon-robotics-robots-fulfillment-center\n\nhttps://www.aboutamazon.com/news/operations/amazon-million-robots-ai-foundation-model\n\nBASIC QUALIFICATIONS\n• Are 18 years of age or older\n• Currently enrolled in a Master's or PhD program in Data Science, Mathematics, Statistics, Computer Science, Robotics, Engineering, Machine Learning, Computer Vision, Operations Research, Mathematics, Economics, Computer Science or a related quantitative field\n• Must be eligible for and available for full-time (40 hours per week) internship based out of the assigned office location for the whole duration of the internship/co-op\n• At least 1 year of relevant academic research or industry experience within relevant science disciplines such as Machine Learning, Applied Statistics, Computer Vision, Optimization, or related At least 1 year of experience working as a data scientist or a similar role involving data extraction, analysis, statistical modeling, and communication\n• At least 1 year of experience using data querying languages (e.g. SQL), scripting languages (e.g. Python), or statistical/mathematical software (e.g. R, SAS, Matlab, etc.)\n\nPREFERRED QUALIFICATIONS\n• Demonstrable track record of dealing well with ambiguity, prioritizing needs, and delivering results in a dynamic environment\n• Excellent communication skills with ability to explain complex technical concepts to non-technical audience, while also efficiently interacting with deeply technical peers\n• Understanding of data engineering and business intelligence\n• Quantitative and qualitative data analysis experience with demonstrated impact to a business, a track record of creative problem solving, and the desire to create and build new processes\n• Knowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations Experience with Natural language processing (NLP) and working with large language models\n• Experience with causal inference modeling\n• Experience with A/B testing and data wrangling\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe starting pay for this position is listed below. Final starting pay will be based on factors including experience, qualifications, and location. Starting Day 1 of employment, Amazon offers EAP, Mental Health Support, Medical Advice Line, 401(k) matching. Learn more about our benefits at https://hiring.amazon.com/why-amazon/benefits.\n\nUSA, MA, N.Reading - 108,300.00 - 160,000.00 USD annually\nUSA, MA, North Reading - 108,300.00 - 160,000.00 USD annually\nUSA, MA, WESTBORO - 108,300.00 - 160,000.00 USD annually\nUSA, MA, WESTBOROUGH - 108,300.00 - 160,000.00 USD annually\nUSA, MA, Westboro - 108,300.00 - 160,000.00 USD annually\nUSA, MA, Westborough - 108,300.00 - 160,000.00 USD annually\nUSA, WA, BELLEVUE - 108,300.00 - 160,000.00 USD annually\nUSA, WA, Bellevue - 108,300.00 - 160,000.00 USD annually\nUSA, WA, SEATTLE - 108,300.00 - 160,000.00 USD annually\nUSA, WA, Seattle - 108,300.00 - 160,000.00 USD annually",
+    "job_is_remote": false,
+    "job_posted_at": "1 day ago",
+    "job_posted_at_timestamp": 1771113600,
+    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
+    "job_location": "Reading, MA",
+    "job_city": "Reading",
+    "job_state": "Massachusetts",
+    "job_country": "US",
+    "job_latitude": 42.5235564,
+    "job_longitude": -71.1029921,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DMBvMPuOt99yElsTnAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 108000,
+    "job_max_salary": 160000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "Are 18 years of age or older",
+        "Currently enrolled in a Master's or PhD program in Data Science, Mathematics, Statistics, Computer Science, Robotics, Engineering, Machine Learning, Computer Vision, Operations Research, Mathematics, Economics, Computer Science or a related quantitative field",
+        "Must be eligible for and available for full-time (40 hours per week) internship based out of the assigned office location for the whole duration of the internship/co-op",
+        "At least 1 year of relevant academic research or industry experience within relevant science disciplines such as Machine Learning, Applied Statistics, Computer Vision, Optimization, or related At least 1 year of experience working as a data scientist or a similar role involving data extraction, analysis, statistical modeling, and communication",
+        "At least 1 year of experience using data querying languages (e.g. SQL), scripting languages (e.g. Python), or statistical/mathematical software (e.g. R, SAS, Matlab, etc.)"
+      ],
+      "Benefits": [
+        "Final starting pay will be based on factors including experience, qualifications, and location",
+        "Starting Day 1 of employment, Amazon offers EAP, Mental Health Support, Medical Advice Line, 401(k) matching",
+        "USA, MA, North Reading - 108,300.00 - 160,000.00 USD annually"
+      ],
+      "Responsibilities": [
+        "Specific team norms around working hours will be communicated by your manager",
+        "Interns should not have conflicts such as classes or other employment during the Amazon work-day",
+        "Design and implement state-of-the-art solutions for never-before-solved problems",
+        "Collaborate closely with other research and robotics experts to design and run experiments, research new algorithms, and find new ways to improve Amazon Robotics analytics to optimize the Customer experience",
+        "Partner with technology and product leaders to solve business problems using scientific approaches",
+        "Build new tools and invent business insights that surprise and delight our customers",
+        "Work to quantify system performance at scale, and to expand the breadth and depth of our analysis to increase the ability of software components and warehouse processes",
+        "Work to evolve our library of key performance indicators and construct experiments that efficiently root cause emergent behaviors",
+        "Engage with software development teams and warehouse design engineers to drive the evolution of the Amazon Robotics system, as well as the simulation engine that supports our work"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-indeed-com-viewjob",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "FZLWC2zjD432Ocm_AAAAAA==",
     "job_title": "Data Scientist at Apex Systems New Ulm, MN",
     "employer_name": "Apex Systems",
@@ -1200,8 +1378,8 @@
     "job_latitude": 44.3144394,
     "job_longitude": -94.45930179999999,
     "job_benefits": [
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFZLWC2zjD432Ocm_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1253,6 +1431,91 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "1krLTJjqFJXTmOLUAAAAAA==",
+    "job_title": "Postdoc Data Science Oncology",
+    "employer_name": "Johnson & Johnson",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Jj/Job/Postdoc-Data-Science-Oncology/-in-Titusville,NJ?jid=f1585990e8412bf5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Jj/Job/Postdoc-Data-Science-Oncology/-in-Titusville,NJ?jid=f1585990e8412bf5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/postdoc-data-science-oncology-at-johnson-johnson-innovative-medicine-4364402442?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/1f5d2989ff852e3fc70a7ff9e97085e5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/amp/job/us-nj-new-jersey-titusville-postdoc-data-science-oncology-johnson?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "At Johnson & Johnson,we believe health is everything. Our strength in healthcare innovation empowers us to build aworld where complex diseases are prevented, treated, and cured,where treatments are smarter and less invasive, andsolutions are personal.Through our expertise in Innovative Medicine and MedTech, we are uniquely positioned to innovate across the full spectrum of healthcare solutions today to deliver the breakthroughs of tomorrow, and profoundly impact health for humanity.Learn more at https://www.jnj.com\n\nJob Function:\nCareer Programs\n\nJob Sub Function:\nPost Doc - Data Analytics & Computational Sciences\n\nJob Category:\nCareer Program\n\nAll Job Posting Locations:\nCambridge, Massachusetts, United States of America, Spring House, Pennsylvania, United States of America, Titusville, New Jersey, United States of America\n\nJob Description:\n\nAbout Innovative Medicine\n\nOur expertise in Innovative Medicine is informed and inspired by patients, whose insights fuel our science-based advancements. Visionaries like you work on teams that save lives by developing the medicines of tomorrow.\n\nJoin us in developing treatments, finding cures, and pioneering the path from lab to life while championing patients every step of the way.\n\nLearn more at https://www.jnj.com/innovative-medicine\n\nJoin us in developing treatments, finding cures, and pioneering the path from lab to life while championing patients every step of the way.\n\nJohnson & Johnson Innovative Medicine (JJIM), a Johnson & Johnson company, is recruiting for a Postdoctoral Data Science Oncology to be located at our office in either Spring House, PA; Titusville, NJ; Cambridge, MA.\n\nThe successful candidate will work closely with experimental and clinical collaborators, applying cutting-edge statistical and machine-learning approaches to identify immune cell states, biomarkers, and mechanisms underlying response to cancer therapy. This position is ideal for a postdoc eager to translate complex data into biological insight and clinically relevant hypotheses.\n\nKey Responsibilities\n• Perform comprehensive computational analyses of single-cell and spatial transcriptomics datasets to characterize the tumor microenvironment in bladder cancer.\n• Apply advanced statistical and machine-learning methods to identify biomarkers, immune cell states, and biological mechanisms associated with BCG immunotherapy response.\n• Integrate multi-modal datasets, including scRNA-seq, spatial transcriptomics, bulk RNA-seq, proteomics, and clinical metadata, to achieve a systems-level understanding of tumor-immune interactions.\n• Incorporate imaging and pathological covariates alongside molecular data to generate clinically interpretable insights and inform treatment strategies.\n• Lead the synthesis of computational findings into clear, compelling scientific narratives and drive manuscript preparation for submission to high-impact journals.\n• Collaborate closely with experimental scientists and clinical teams to interpret results, refine hypotheses, and guide translational research directions.\n• Present findings internally and externally at scientific meetings and seminars.\n\nRequired Qualifications\n• PhD in Computational Biology, Bioinformatics, Data Science, Systems Biology, Biostatistics, or a related quantitative discipline.\n• Strong experience analyzing high-dimensional omics data (e.g., single-cell RNA-seq, spatial transcriptomics, bulk RNA-seq).\n• Proficiency in computational programming languages such as R and/or Python. Demonstrated ability to work independently on complex data analysis projects and communicate results clearly.\n• Strong scientific writing skills and a track record for first-author publications.\n\nPreferred Qualifications\n• Experience with tumor immunology, cancer biology, or immunotherapy datasets.\n• Familiarity with spatial transcriptomics platforms and/or imaging-based analyses.\n• Experience integrating multi-modal molecular and clinical datasets.\n• Prior exposure to translational or clinically oriented research environments.\n\nJohnson & Johnson is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, national origin, disability, protected veteran status or other characteristics protected by federal, state or local law. We actively seek qualified candidates who are protected veterans and individuals with disabilities as defined under VEVRAA and Section 503 of the Rehabilitation Act.\n\nJohnson and Johnson is committed to providing an interview process that is inclusive of our applicants' needs. If you are an individual with a disability and would like to request an accommodation, please email the Employee Health Support Center(ra-employeehealthsup@its.jnj.com) or contact AskGS to be directed to your accommodation resource.\n\n#LI-Hybrid\n\n#JRDDS\n\n#JNJDataScience\n\n#JRD\n\nRequired Skills:\n\nPreferred Skills:\n\nThe anticipated base pay range for this position is :\n$95,000\n\nAdditional Description for Pay Transparency:\nEmployees and/or eligible dependents may be eligible to participate in the following Company sponsored employee benefit programs: medical, dental, vision, life insurance, short- and long-term disability, business accident insurance, and group legal insurance. Employees may be eligible to participate in the Company's consolidated retirement plan (pension) and savings plan (401(k)). Employees are eligible for the following time off benefits: -Vacation - up to 120 hours per calendar year -Sick time - up to 40 hours per calendar year; for employees who reside in the State of Washington - up to 56 hours per calendar year -Holiday pay, including Floating Holidays - up to 13 days per calendar year -Work, Personal and Family Time - up to 40 hours per calendar year Additional information can be found through the link below.",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Hopewell Township, NJ",
+    "job_city": "Hopewell Township",
+    "job_state": "New Jersey",
+    "job_country": "US",
+    "job_latitude": 40.3553627,
+    "job_longitude": -74.79800949999999,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D1krLTJjqFJXTmOLUAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "The successful candidate will work closely with experimental and clinical collaborators, applying cutting-edge statistical and machine-learning approaches to identify immune cell states, biomarkers, and mechanisms underlying response to cancer therapy",
+        "This position is ideal for a postdoc eager to translate complex data into biological insight and clinically relevant hypotheses",
+        "PhD in Computational Biology, Bioinformatics, Data Science, Systems Biology, Biostatistics, or a related quantitative discipline",
+        "Strong experience analyzing high-dimensional omics data (e.g., single-cell RNA-seq, spatial transcriptomics, bulk RNA-seq)",
+        "Proficiency in computational programming languages such as R and/or Python",
+        "Demonstrated ability to work independently on complex data analysis projects and communicate results clearly",
+        "Strong scientific writing skills and a track record for first-author publications"
+      ],
+      "Benefits": [
+        "Employees and/or eligible dependents may be eligible to participate in the following Company sponsored employee benefit programs: medical, dental, vision, life insurance, short- and long-term disability, business accident insurance, and group legal insurance",
+        "Employees may be eligible to participate in the Company's consolidated retirement plan (pension) and savings plan (401(k))",
+        "Employees are eligible for the following time off benefits: -Vacation - up to 120 hours per calendar year -Sick time - up to 40 hours per calendar year; for employees who reside in the State of Washington - up to 56 hours per calendar year -Holiday pay, including Floating Holidays - up to 13 days per calendar year -Work, Personal and Family Time - up to 40 hours per calendar year Additional information can be found through the link below"
+      ],
+      "Responsibilities": [
+        "Perform comprehensive computational analyses of single-cell and spatial transcriptomics datasets to characterize the tumor microenvironment in bladder cancer",
+        "Apply advanced statistical and machine-learning methods to identify biomarkers, immune cell states, and biological mechanisms associated with BCG immunotherapy response",
+        "Integrate multi-modal datasets, including scRNA-seq, spatial transcriptomics, bulk RNA-seq, proteomics, and clinical metadata, to achieve a systems-level understanding of tumor-immune interactions",
+        "Incorporate imaging and pathological covariates alongside molecular data to generate clinically interpretable insights and inform treatment strategies",
+        "Lead the synthesis of computational findings into clear, compelling scientific narratives and drive manuscript preparation for submission to high-impact journals",
+        "Collaborate closely with experimental scientists and clinical teams to interpret results, refine hypotheses, and guide translational research directions",
+        "Present findings internally and externally at scientific meetings and seminars"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-ziprecruiter-com-c-jj-job-postdoc-data-science-oncology-in-titusville-nj",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "LpHs9_do_19e-GaHAAAAAA==",
     "job_title": "(USA) Principal, Data Scientist | Conversational AI",
     "employer_name": "Walmart",
@@ -1290,9 +1553,9 @@
     "job_latitude": 37.390026399999996,
     "job_longitude": -122.0812304,
     "job_benefits": [
-      "paid_time_off",
+      "dental_coverage",
       "health_insurance",
-      "dental_coverage"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLpHs9_do_19e-GaHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 143000,
@@ -1344,91 +1607,6 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "www-ziprecruiter-com-c-walmart-job-usa-principal-data-scientist-7c-conversational-ai-in-mountain-view-ca",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "1krLTJjqFJXTmOLUAAAAAA==",
-    "job_title": "Postdoc Data Science Oncology",
-    "employer_name": "Johnson & Johnson",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Jj/Job/Postdoc-Data-Science-Oncology/-in-Titusville,NJ?jid=f1585990e8412bf5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Jj/Job/Postdoc-Data-Science-Oncology/-in-Titusville,NJ?jid=f1585990e8412bf5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/postdoc-data-science-oncology-at-johnson-johnson-innovative-medicine-4364402442?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/1f5d2989ff852e3fc70a7ff9e97085e5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/amp/job/us-nj-new-jersey-titusville-postdoc-data-science-oncology-johnson?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "At Johnson & Johnson,we believe health is everything. Our strength in healthcare innovation empowers us to build aworld where complex diseases are prevented, treated, and cured,where treatments are smarter and less invasive, andsolutions are personal.Through our expertise in Innovative Medicine and MedTech, we are uniquely positioned to innovate across the full spectrum of healthcare solutions today to deliver the breakthroughs of tomorrow, and profoundly impact health for humanity.Learn more at https://www.jnj.com\n\nJob Function:\nCareer Programs\n\nJob Sub Function:\nPost Doc - Data Analytics & Computational Sciences\n\nJob Category:\nCareer Program\n\nAll Job Posting Locations:\nCambridge, Massachusetts, United States of America, Spring House, Pennsylvania, United States of America, Titusville, New Jersey, United States of America\n\nJob Description:\n\nAbout Innovative Medicine\n\nOur expertise in Innovative Medicine is informed and inspired by patients, whose insights fuel our science-based advancements. Visionaries like you work on teams that save lives by developing the medicines of tomorrow.\n\nJoin us in developing treatments, finding cures, and pioneering the path from lab to life while championing patients every step of the way.\n\nLearn more at https://www.jnj.com/innovative-medicine\n\nJoin us in developing treatments, finding cures, and pioneering the path from lab to life while championing patients every step of the way.\n\nJohnson & Johnson Innovative Medicine (JJIM), a Johnson & Johnson company, is recruiting for a Postdoctoral Data Science Oncology to be located at our office in either Spring House, PA; Titusville, NJ; Cambridge, MA.\n\nThe successful candidate will work closely with experimental and clinical collaborators, applying cutting-edge statistical and machine-learning approaches to identify immune cell states, biomarkers, and mechanisms underlying response to cancer therapy. This position is ideal for a postdoc eager to translate complex data into biological insight and clinically relevant hypotheses.\n\nKey Responsibilities\n• Perform comprehensive computational analyses of single-cell and spatial transcriptomics datasets to characterize the tumor microenvironment in bladder cancer.\n• Apply advanced statistical and machine-learning methods to identify biomarkers, immune cell states, and biological mechanisms associated with BCG immunotherapy response.\n• Integrate multi-modal datasets, including scRNA-seq, spatial transcriptomics, bulk RNA-seq, proteomics, and clinical metadata, to achieve a systems-level understanding of tumor-immune interactions.\n• Incorporate imaging and pathological covariates alongside molecular data to generate clinically interpretable insights and inform treatment strategies.\n• Lead the synthesis of computational findings into clear, compelling scientific narratives and drive manuscript preparation for submission to high-impact journals.\n• Collaborate closely with experimental scientists and clinical teams to interpret results, refine hypotheses, and guide translational research directions.\n• Present findings internally and externally at scientific meetings and seminars.\n\nRequired Qualifications\n• PhD in Computational Biology, Bioinformatics, Data Science, Systems Biology, Biostatistics, or a related quantitative discipline.\n• Strong experience analyzing high-dimensional omics data (e.g., single-cell RNA-seq, spatial transcriptomics, bulk RNA-seq).\n• Proficiency in computational programming languages such as R and/or Python. Demonstrated ability to work independently on complex data analysis projects and communicate results clearly.\n• Strong scientific writing skills and a track record for first-author publications.\n\nPreferred Qualifications\n• Experience with tumor immunology, cancer biology, or immunotherapy datasets.\n• Familiarity with spatial transcriptomics platforms and/or imaging-based analyses.\n• Experience integrating multi-modal molecular and clinical datasets.\n• Prior exposure to translational or clinically oriented research environments.\n\nJohnson & Johnson is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, national origin, disability, protected veteran status or other characteristics protected by federal, state or local law. We actively seek qualified candidates who are protected veterans and individuals with disabilities as defined under VEVRAA and Section 503 of the Rehabilitation Act.\n\nJohnson and Johnson is committed to providing an interview process that is inclusive of our applicants' needs. If you are an individual with a disability and would like to request an accommodation, please email the Employee Health Support Center(ra-employeehealthsup@its.jnj.com) or contact AskGS to be directed to your accommodation resource.\n\n#LI-Hybrid\n\n#JRDDS\n\n#JNJDataScience\n\n#JRD\n\nRequired Skills:\n\nPreferred Skills:\n\nThe anticipated base pay range for this position is :\n$95,000\n\nAdditional Description for Pay Transparency:\nEmployees and/or eligible dependents may be eligible to participate in the following Company sponsored employee benefit programs: medical, dental, vision, life insurance, short- and long-term disability, business accident insurance, and group legal insurance. Employees may be eligible to participate in the Company's consolidated retirement plan (pension) and savings plan (401(k)). Employees are eligible for the following time off benefits: -Vacation - up to 120 hours per calendar year -Sick time - up to 40 hours per calendar year; for employees who reside in the State of Washington - up to 56 hours per calendar year -Holiday pay, including Floating Holidays - up to 13 days per calendar year -Work, Personal and Family Time - up to 40 hours per calendar year Additional information can be found through the link below.",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Hopewell Township, NJ",
-    "job_city": "Hopewell Township",
-    "job_state": "New Jersey",
-    "job_country": "US",
-    "job_latitude": 40.3553627,
-    "job_longitude": -74.79800949999999,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D1krLTJjqFJXTmOLUAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "The successful candidate will work closely with experimental and clinical collaborators, applying cutting-edge statistical and machine-learning approaches to identify immune cell states, biomarkers, and mechanisms underlying response to cancer therapy",
-        "This position is ideal for a postdoc eager to translate complex data into biological insight and clinically relevant hypotheses",
-        "PhD in Computational Biology, Bioinformatics, Data Science, Systems Biology, Biostatistics, or a related quantitative discipline",
-        "Strong experience analyzing high-dimensional omics data (e.g., single-cell RNA-seq, spatial transcriptomics, bulk RNA-seq)",
-        "Proficiency in computational programming languages such as R and/or Python",
-        "Demonstrated ability to work independently on complex data analysis projects and communicate results clearly",
-        "Strong scientific writing skills and a track record for first-author publications"
-      ],
-      "Benefits": [
-        "Employees and/or eligible dependents may be eligible to participate in the following Company sponsored employee benefit programs: medical, dental, vision, life insurance, short- and long-term disability, business accident insurance, and group legal insurance",
-        "Employees may be eligible to participate in the Company's consolidated retirement plan (pension) and savings plan (401(k))",
-        "Employees are eligible for the following time off benefits: -Vacation - up to 120 hours per calendar year -Sick time - up to 40 hours per calendar year; for employees who reside in the State of Washington - up to 56 hours per calendar year -Holiday pay, including Floating Holidays - up to 13 days per calendar year -Work, Personal and Family Time - up to 40 hours per calendar year Additional information can be found through the link below"
-      ],
-      "Responsibilities": [
-        "Perform comprehensive computational analyses of single-cell and spatial transcriptomics datasets to characterize the tumor microenvironment in bladder cancer",
-        "Apply advanced statistical and machine-learning methods to identify biomarkers, immune cell states, and biological mechanisms associated with BCG immunotherapy response",
-        "Integrate multi-modal datasets, including scRNA-seq, spatial transcriptomics, bulk RNA-seq, proteomics, and clinical metadata, to achieve a systems-level understanding of tumor-immune interactions",
-        "Incorporate imaging and pathological covariates alongside molecular data to generate clinically interpretable insights and inform treatment strategies",
-        "Lead the synthesis of computational findings into clear, compelling scientific narratives and drive manuscript preparation for submission to high-impact journals",
-        "Collaborate closely with experimental scientists and clinical teams to interpret results, refine hypotheses, and guide translational research directions",
-        "Present findings internally and externally at scientific meetings and seminars"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-ziprecruiter-com-c-jj-job-postdoc-data-science-oncology-in-titusville-nj",
     "_source": "new_jobs"
   },
   {
@@ -1659,9 +1837,9 @@
     "job_latitude": 39.5362858,
     "job_longitude": -104.8855322,
     "job_benefits": [
-      "paid_time_off",
+      "dental_coverage",
       "health_insurance",
-      "dental_coverage"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DaLXbEwdJdkIsT0jWAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 82039.23,
@@ -1927,85 +2105,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "GV93yh6tp1i3TFAGAAAAAA==",
-    "job_title": "Walmart Senior Data Scientist",
-    "employer_name": "Walmart",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV0kWbPp7sIFysOBbrsohip-f8-kSq7M6lcXJq&s=0",
-    "employer_website": "https://corporate.walmart.com",
-    "job_publisher": "Walmart",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://walmart.rightspotway.com/jobpage/osaj3o0idiy2-0261324f4df-d3d48a87-44836fe323c2e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Walmart",
-        "apply_link": "https://walmart.rightspotway.com/jobpage/osaj3o0idiy2-0261324f4df-d3d48a87-44836fe323c2e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Smart Hire Club",
-        "apply_link": "https://smarthireclub.com/joblistings/eiha5cejp3el-930-d53c84d4-9216ad277881fed4-f1c98?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Walmart Senior Data Scientist\n\nCompany Overview:\n\nWalmart operates like a startup within the broader Walmart ecosystem and is one of the fastest-growing areas of the company. The team is dedicated to designing and optimizing member experiences across digital platforms, helping millions of customers shop efficiently and seamlessly.\n\nRole and Responsibilities of Walmart Senior Data Scientist:\n\nWalmart Customer Product team, you will analyze large-scale clickstream and behavioral data to inform product strategy, identify friction points, and optimize customer experiences across mobile, online grocery, curbside pickup, and delivery.\n• Partner with Product, Engineering, and Business teams to drive data-informed decisions that enhance the Walmart+ member experience.\n• Analyze user journeys using clickstream and behavioral data to identify pain points and opportunities for improvement.\n• Perform funnel analysis, conversion analysis, and impact sizing to influence prioritization and roadmap planning.\n• Define and monitor product success metrics aligned with business and customer goals.\n• Design and analyze A/B tests and apply causal inference methods for observational data where experimentation is not feasible.\n• Conduct statistical power analysis and hypothesis testing to guide experimentation and decision-making.\n• Build and maintain dashboards and reports using visualization tools like Tableau to track product performance.\n• Leverage SQL and scripting languages (Python or R) for deep analytical work.\n• Apply AI/ML techniques for behavioral analysis, user segmentation, and optimization opportunities.\n\nPreferred Qualifications:\n• Advanced knowledge in data science, machine learning, optimization models, or a Master’s in Machine Learning, Computer Science, IT, Operations Research, Statistics, Applied Mathematics, or Econometrics.\n• Experience with Python, Spark, Scala, or R through assessments or applied projects.\n• Familiarity with open-source frameworks such as scikit-learn, TensorFlow, or PyTorch.\n• Experience in creating inclusive digital experiences, applying WCAG 2.2 AA standards, and integrating accessibility best practices.\n\nCompensation and Benefits of Walmart Senior Data Scientist:\n• Annual salary range: $117,000 - $234,000, plus potential annual or quarterly performance bonuses.\n• Additional compensation may include stock awards.\n• Health benefits including medical, vision, and dental coverage.\n• Financial benefits including 401(k), stock purchase, and company-paid life insurance.\n• Paid time off including parental leave, family care leave, bereavement, jury duty, and voting.\n• Other benefits including short-term and long-term disability, company discounts, Military Leave Pay, and adoption or surrogacy reimbursement.\n• Live Better U: Walmart-paid education programs from high school completion to bachelor’s degrees and certificates.\n\nAbout Walmart:\n\nWalmart is committed to helping associates, customers, and communities live better by fostering diversity, inclusion, and belonging. With a culture focused on innovation, operational excellence, and customer satisfaction, Walmart provides opportunities for professional growth and the chance to impact millions of lives worldwide.\n\nFAQ:\n\nQ: What is the role of a senior data scientist?\n\nA: A Senior Data Scientist creates models to analyze large datasets and turns insights into actionable solutions for business challenges.\n\nQ: What qualifications do I need to be a data scientist?\n\nA: Key qualifications include a degree in Math, Statistics, or CS, technical skills like Python, R, SQL, ML, and strong problem-solving and communication abilities.\n\nQ: Is data scientist a stressful job?\n\nA: It can be stressful due to tight deadlines, complex data, and high-stakes insights, but stress varies by team and project management.\n\nQ: Do data scientists have to do presentations?\n\nA: Yes, they often present findings to stakeholders, requiring clear and effective communication of complex analyses.",
-    "job_is_remote": false,
-    "job_posted_at": "15 hours ago",
-    "job_posted_at_timestamp": 1771146000,
-    "job_posted_at_datetime_utc": "2026-02-15T09:00:00.000Z",
-    "job_location": "Carlstadt, NJ",
-    "job_city": "Carlstadt",
-    "job_state": "New Jersey",
-    "job_country": "US",
-    "job_latitude": 40.8356241,
-    "job_longitude": -74.0857465,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DGV93yh6tp1i3TFAGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Leverage SQL and scripting languages (Python or R) for deep analytical work",
-        "A: Key qualifications include a degree in Math, Statistics, or CS, technical skills like Python, R, SQL, ML, and strong problem-solving and communication abilities",
-        "A: Yes, they often present findings to stakeholders, requiring clear and effective communication of complex analyses"
-      ],
-      "Benefits": [
-        "Annual salary range: $117,000 - $234,000, plus potential annual or quarterly performance bonuses",
-        "Additional compensation may include stock awards",
-        "Health benefits including medical, vision, and dental coverage",
-        "Financial benefits including 401(k), stock purchase, and company-paid life insurance",
-        "Paid time off including parental leave, family care leave, bereavement, jury duty, and voting",
-        "Other benefits including short-term and long-term disability, company discounts, Military Leave Pay, and adoption or surrogacy reimbursement",
-        "Live Better U: Walmart-paid education programs from high school completion to bachelor’s degrees and certificates"
-      ],
-      "Responsibilities": [
-        "Walmart Customer Product team, you will analyze large-scale clickstream and behavioral data to inform product strategy, identify friction points, and optimize customer experiences across mobile, online grocery, curbside pickup, and delivery",
-        "Partner with Product, Engineering, and Business teams to drive data-informed decisions that enhance the Walmart+ member experience",
-        "Analyze user journeys using clickstream and behavioral data to identify pain points and opportunities for improvement",
-        "Perform funnel analysis, conversion analysis, and impact sizing to influence prioritization and roadmap planning",
-        "Define and monitor product success metrics aligned with business and customer goals",
-        "Design and analyze A/B tests and apply causal inference methods for observational data where experimentation is not feasible",
-        "Conduct statistical power analysis and hypothesis testing to guide experimentation and decision-making",
-        "Build and maintain dashboards and reports using visualization tools like Tableau to track product performance",
-        "Apply AI/ML techniques for behavioral analysis, user segmentation, and optimization opportunities",
-        "A: A Senior Data Scientist creates models to analyze large datasets and turns insights into actionable solutions for business challenges"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "walmart-rightspotway-com-jobpage-osaj3o0idiy2-0261324f4df-d3d48a87-44836fe323c2e",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "TijNKgie8Lb4m3pkAAAAAA==",
     "job_title": "Sr. Data Scientist",
     "employer_name": "DPR Construction",
@@ -2032,10 +2131,10 @@
     "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
     "job_location": "Georgia",
     "job_city": null,
-    "job_state": null,
-    "job_country": "GE",
-    "job_latitude": 42.315407,
-    "job_longitude": 43.356891999999995,
+    "job_state": "Georgia",
+    "job_country": "US",
+    "job_latitude": 32.1574351,
+    "job_longitude": -82.907123,
     "job_benefits": null,
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DTijNKgie8Lb4m3pkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -2143,186 +2242,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "XjY8X2EXJxDyUlbgAAAAAA==",
-    "job_title": "(USA) Staff, Data Scientist",
-    "employer_name": "Walmart",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
-    "employer_website": "https://corporate.walmart.com",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/(USA)-Staff,-Data-Scientist/-in-Union-City,NJ?jid=f1020864444a2823&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/(USA)-Staff,-Data-Scientist/-in-Union-City,NJ?jid=f1020864444a2823&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Jobs.appcast.io",
-        "apply_link": "https://jobs.appcast.io/walmart/usa-staff-data-scientist/52266952273?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Position Summary...At Walmart, we pride ourselves for knowing our customers and connecting with them better than any other company. We interact with our customers across more categories than any company in the world.\n\nThe Customer Decision Science team which is a part of the Customer Insights & Strategy team in the Marketing org at Walmart analyzes every store trip, web/ app visit, service interaction, search, click, purchase, survey responses etc. to help deliver the easiest shopping experience both digitally and physically. We are a team comprised of decision science practitioners that work together to uncover the why behind the customer behavior while measuring the outcomes from a customer and competitive lens.\n\nAs a Staff Data Scientist in the team, you will have the unique opportunity to leverage the power of technology, big data and analytics to improve the lives of the 100M+ households that shop at Walmart every year.\n\nYou will be responsible for identifying and quantifying accelerators and decelerators of customer engagement leveraging causal inference techniques and supporting activation and operationalization of prioritized High Value Actions (HVAs).\n\nOur ideal candidate is a sharp, thoughtful, and collaborative problem solver and people leader, who enjoys identifying key business levers and challenges, and then building data science and analytics frameworks to enable strategic decision making. You will have direct visibility with exec leadership team and will drive initiatives to support the rapid growth of our online and omni-channel customer base value. You will work closely with your peers and cross functional partners to help inform and craft exec narratives, provide business insights and analysis with a robust foundation.\n\nYou also have a strong combination of business acumen and data science background, as well as an intense hunger to make a significant business impact by owning and driving business outcomes.\n\nThis is a full-time position and will report to the Senior Director of Customer Decision Science.\n\nWhat we’d like to see\n• Well balanced skills – People have trouble pinning you down. Both business and technical/ data teams claim you as their own. You are equal parts technical and functional. You are equally comfortable and effective in persuading both technical and business audience\n\n• Great communicator – You’re capable of telling the story behind the data and resulting insights to exec audience and you are a pro at building slide decks that can simplify any complex story. You can customize your communication style based on stakeholders. You can guide and coach junior associates on story types, structures, and techniques based on context.\n\n• Business acumen – You are able to anticipate the needs of business stakeholders in the relevant business context\n\n• Data Science & Analytics expertise – You excel at designing and building new and impactful KPIs and metrics to measure customer and competitive dynamics. You are equally strong at getting into the weeds and making sure that the data needed to support these metrics is consistent and available. You are very comfortable rolling up your sleeves when needed and writing complex SQL queries for quick prototyping and helping junior associates debug their work and raise the bar. You are adept at leveraging data science frameworks and algorithms and frameworks in a practical business setting and have mastery over the fundamentals of supervised/ unsupervised learning and causal inference\n\n• Data Visualization – You are a pro at leveraging visualization to build compelling stories based on context to integrate multiple pieces of information into cohesive insights.\n\n• People leadership – You have experience in mentoring and coaching junior data science talent and can influence without direct authority.\n\nWhat you'll do...\n\nResponsibilities\n• Partner with C-suite, corporate strategy, marketing, merchandising, research, product, finance and engineering organizations to drive outcomes\n• Have a very strong product mindset and proactively ideate and design relevant data products\n• Ownership of team level sql views, feature store pipelines for at least 2 business domain areas\n• Drive the development of quantitative analysis and predictive models to support decision making\n• Design and execute experiments to achieve business objectives and drive optimization\n• Partner with Data and tech Engineers to define data and tracking requirements\n• Translate data insights into actions and recommendations and self-serve products\n• Produce visuals (charts, infographics) and presentations to clearly and effectively communicate findings to stakeholders and leadership\n• Analyze and maintain customer KPIs and metrics to identify cause-effect relationships between business actions and behavioral & attitudinal customer outcomes\n• Work closely with the Research, Data and Business Intelligence teams\n\nMinimum Qualification\n• 4+ years of experience with data/ decision science\n• Proven experience in leading data-driven projects from definition to execution, driving and influencing product and marketing roadmaps\n• Direct experience working with very large data-sets in bigquery or similar platforms including building in-database ML models\n• Experience with at least one scripting language (R, Python). Should be able to independently build a repository of functions to continually automate data science workflows preferably using dbplyr interface and Bigquery as the backend\n• Deep expertise in writing and debugging complex SQL queries\n• Presentation experience and a proven track record of using insights to influence executives and colleagues\n\nPreferred Qualification\n• Degree in Computer Science, statistics, economics or a related quantitative field, MBA or management consulting experience\n• Retail/ e-commerce domain experience\n\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more.\n\n‎\n\n‎\n\n‎\nYou will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable.\n\n‎\n\nFor information about PTO, see https://one.walmart.com/notices.\n\n‎\n\n‎\nLive Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\n\n‎\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\n\n‎\n\nFor information about benefits and eligibility, see One.Walmart.\n\n‎\nHoboken, New Jersey US-10279:The annual salary range for this position is $132,000.00-$264,000.00\n\n‎\nSan Bruno, California US-08848:The annual salary range for this position is $143,000.00-$286,000.00\n\n‎\n\n‎\n\n‎\n\n‎\n\n‎\n\n‎\n\n‎\n\n‎\n\n‎\n\n‎\nAdditional compensation includes annual or quarterly performance bonuses.\n\n‎\nAdditional compensation for certain positions may also include:\n\n‎\n\n‎\n- Stock\n\n‎\n\n‎\n\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nOption 1- Bachelor’s degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 3 years' experience in an analytics related field. Option 2- Master’s degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 1 years' experience in an analytics related field. Option 3 - 5 years' experience in an analytics or related field.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nData science, machine learning, optimization models, PhD in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch), We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly. The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture.\n\nPrimary Location...\n\n221 River St, Hoboken, NJ 07030, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Union City, NJ",
-    "job_city": "Union City",
-    "job_state": "New Jersey",
-    "job_country": "US",
-    "job_latitude": 40.7744557,
-    "job_longitude": -74.0312075,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DXjY8X2EXJxDyUlbgAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 132000,
-    "job_max_salary": 286000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "Well balanced skills – People have trouble pinning you down",
-        "Both business and technical/ data teams claim you as their own",
-        "You are equally comfortable and effective in persuading both technical and business audience",
-        "Great communicator – You’re capable of telling the story behind the data and resulting insights to exec audience and you are a pro at building slide decks that can simplify any complex story",
-        "You are adept at leveraging data science frameworks and algorithms and frameworks in a practical business setting and have mastery over the fundamentals of supervised/ unsupervised learning and causal inference",
-        "Data Visualization – You are a pro at leveraging visualization to build compelling stories based on context to integrate multiple pieces of information into cohesive insights",
-        "People leadership – You have experience in mentoring and coaching junior data science talent and can influence without direct authority",
-        "4+ years of experience with data/ decision science",
-        "Proven experience in leading data-driven projects from definition to execution, driving and influencing product and marketing roadmaps",
-        "Direct experience working with very large data-sets in bigquery or similar platforms including building in-database ML models",
-        "Experience with at least one scripting language (R, Python)",
-        "Should be able to independently build a repository of functions to continually automate data science workflows preferably using dbplyr interface and Bigquery as the backend",
-        "Deep expertise in writing and debugging complex SQL queries",
-        "Presentation experience and a proven track record of using insights to influence executives and colleagues",
-        "Option 1- Bachelor’s degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 3 years' experience in an analytics related field",
-        "Option 2- Master’s degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 1 years' experience in an analytics related field",
-        "Option 3 - 5 years' experience in an analytics or related field",
-        "Data science, machine learning, optimization models, PhD in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch), We value candidates with a background in creating inclusive digital experiences, demonstrating knowledge in implementing Web Content Accessibility Guidelines (WCAG) 2.2 AA standards, assistive technologies, and integrating digital accessibility seamlessly",
-        "The ideal candidate would have knowledge of accessibility best practices and join us as we continue to create accessible products and services following Walmart’s accessibility standards and guidelines for supporting an inclusive culture"
-      ],
-      "Benefits": [
-        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
-        "Health benefits include medical, vision and dental coverage",
-        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
-        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
-        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
-        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
-        "The amount you receive depends on your job classification and length of employment",
-        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
-        "Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities",
-        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
-        "Tuition, books, and fees are completely paid for by Walmart",
-        "Benefits are subject to change and may be subject to a specific plan or program terms",
-        "Hoboken, New Jersey US-10279:The annual salary range for this position is $132,000.00-$264,000.00",
-        "San Bruno, California US-08848:The annual salary range for this position is $143,000.00-$286,000.00",
-        "Additional compensation includes annual or quarterly performance bonuses"
-      ],
-      "Responsibilities": [
-        "to help deliver the easiest shopping experience both digitally and physically",
-        "As a Staff Data Scientist in the team, you will have the unique opportunity to leverage the power of technology, big data and analytics to improve the lives of the 100M+ households that shop at Walmart every year",
-        "You will be responsible for identifying and quantifying accelerators and decelerators of customer engagement leveraging causal inference techniques and supporting activation and operationalization of prioritized High Value Actions (HVAs)",
-        "Our ideal candidate is a sharp, thoughtful, and collaborative problem solver and people leader, who enjoys identifying key business levers and challenges, and then building data science and analytics frameworks to enable strategic decision making",
-        "You will have direct visibility with exec leadership team and will drive initiatives to support the rapid growth of our online and omni-channel customer base value",
-        "You will work closely with your peers and cross functional partners to help inform and craft exec narratives, provide business insights and analysis with a robust foundation",
-        "You also have a strong combination of business acumen and data science background, as well as an intense hunger to make a significant business impact by owning and driving business outcomes",
-        "This is a full-time position and will report to the Senior Director of Customer Decision Science",
-        "You can guide and coach junior associates on story types, structures, and techniques based on context",
-        "Business acumen – You are able to anticipate the needs of business stakeholders in the relevant business context",
-        "Data Science & Analytics expertise – You excel at designing and building new and impactful KPIs and metrics to measure customer and competitive dynamics",
-        "You are equally strong at getting into the weeds and making sure that the data needed to support these metrics is consistent and available",
-        "You are very comfortable rolling up your sleeves when needed and writing complex SQL queries for quick prototyping and helping junior associates debug their work and raise the bar",
-        "Partner with C-suite, corporate strategy, marketing, merchandising, research, product, finance and engineering organizations to drive outcomes",
-        "Have a very strong product mindset and proactively ideate and design relevant data products",
-        "Ownership of team level sql views, feature store pipelines for at least 2 business domain areas",
-        "Drive the development of quantitative analysis and predictive models to support decision making",
-        "Design and execute experiments to achieve business objectives and drive optimization",
-        "Partner with Data and tech Engineers to define data and tracking requirements",
-        "Translate data insights into actions and recommendations and self-serve products",
-        "Produce visuals (charts, infographics) and presentations to clearly and effectively communicate findings to stakeholders and leadership",
-        "Analyze and maintain customer KPIs and metrics to identify cause-effect relationships between business actions and behavioral & attitudinal customer outcomes",
-        "Work closely with the Research, Data and Business Intelligence teams"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-ziprecruiter-com-c-walmart-job-usa-staff-data-scientist-in-union-city-nj",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "9KD58QwSaVnBexbkAAAAAA==",
-    "job_title": "Data Scientist with artificial intelligence",
-    "employer_name": "Centific",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAX-ml_tqOvThqOnkxjNpYhUpfgjSfBs6tpc2v&s=0",
-    "employer_website": "https://www.centific.com",
-    "job_publisher": "LinkedIn",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/data-scientist-with-artificial-intelligence-at-centific-4371510847?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/data-scientist-with-artificial-intelligence-at-centific-4371510847?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/artificial-intelligence-ai-data-scientist_fbb02264-5cd8-469e-bd41-6f8854c9ecce?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Company Overview:\n\nCentific is a frontier AI data foundry that curates diverse, high-quality data, using our purpose-built technology platforms to empower the Magnificent Seven and our enterprise clients with safe, scalable AI deployment. Our team includes more than 150 PhDs and data scientists, along with more than 4,000 AI practitioners and engineers. We harness the power of an integrated solution ecosystem—comprising industry-leading partnerships and 1.8 million vertical domain experts in more than 230 markets—to create contextual, multilingual, pre-trained datasets; fine-tuned, industry-specific LLMs; and RAG pipelines supported by vector databases. Our zero-distance innovation™ solutions for GenAI can reduce GenAI costs by up to 80% and bring solutions to market 50% faster.\n\nOur mission is to bridge the gap between AI creators and industry leaders by bringing best practices in GenAI to unicorn innovators and enterprise customers. We aim to help these organizations unlock significant business value by deploying GenAI at scale, helping to ensure they stay at the forefront of technological advancement and maintain a competitive edge in their respective markets.\n\nLearn more about us at centific.com.\n\nJob Title: Data Scientist.\n\nLocation: Remote (United States)\n\nJob Description:\n• Experience in automating jobs and streams for data analysis purposes using C#, Python and SQL.\n• Experience designing and implementing automated workflows to streamline data processes.\n• Strong skills in creating Jupyter notebooks for data analysis, visualization, and pattern detection.\n• Ability to develop efficient and user-friendly notebooks and scripts to facilitate data exploration and trend identification.\n• Experience in conducting training sessions for individuals or teams on building Jupyter notebooks and other automated processes.\n• Ability to effectively communicate complex concepts and empower others to leverage automation tools for data analysis.\n• Familiarity with cloud provider and commercial product payment and risk systems is a plus.\n• Proficiency in employing statistical analysis techniques and data manipulation to detect patterns and trends.\n• Ability to work collaboratively with a global team not all located in the US – flexibility in hours will be a plus.\n• Ability to bring innovative ideas and approaches to enhance the effectiveness and efficiency of automated processes.\n• Strong project management capabilities to ensure timely delivery, efficient resource allocation, and effective coordination of tasks.\n• Ability to prioritize and manage multiple projects simultaneously, ensuring quality and meeting deadlines.\n• 4+ years of industry experience is a must.\n• Experince in Fraud Management is must\n\nCentific is an equal-opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, ancestry, citizenship status, age, mental or physical disability, medical condition, sex (including pregnancy), gender identity or expression, sexual orientation, marital status, familial status, veteran status, or any other characteristic protected by applicable law. We consider qualified applicants regardless of criminal histories, consistent with legal requirements.",
-    "job_is_remote": true,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Redmond, WA",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_country": "US",
-    "job_latitude": 47.673988099999995,
-    "job_longitude": -122.121512,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D9KD58QwSaVnBexbkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 100000,
-    "job_max_salary": 110000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "Experience in automating jobs and streams for data analysis purposes using C#, Python and SQL",
-        "Strong skills in creating Jupyter notebooks for data analysis, visualization, and pattern detection",
-        "Experience in conducting training sessions for individuals or teams on building Jupyter notebooks and other automated processes",
-        "Proficiency in employing statistical analysis techniques and data manipulation to detect patterns and trends",
-        "Ability to bring innovative ideas and approaches to enhance the effectiveness and efficiency of automated processes",
-        "Strong project management capabilities to ensure timely delivery, efficient resource allocation, and effective coordination of tasks",
-        "Ability to prioritize and manage multiple projects simultaneously, ensuring quality and meeting deadlines",
-        "4+ years of industry experience is a must",
-        "Experince in Fraud Management is must"
-      ],
-      "Responsibilities": [
-        "Experience designing and implementing automated workflows to streamline data processes",
-        "Ability to develop efficient and user-friendly notebooks and scripts to facilitate data exploration and trend identification",
-        "Ability to effectively communicate complex concepts and empower others to leverage automation tools for data analysis",
-        "Familiarity with cloud provider and commercial product payment and risk systems is a plus"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-linkedin-com-jobs-view-data-scientist-with-artificial-intelligence-at-centific-4371510847",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "7SX58lNUUOBPXv4xAAAAAA==",
     "job_title": "Senior Data Scientist- Flexible Location",
     "employer_name": "PG&E Corporation",
@@ -2398,6 +2317,217 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "jobs-pge-com-job-oakland-senior-data-scientist-flexible-location-29673-91352596352",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "9KD58QwSaVnBexbkAAAAAA==",
+    "job_title": "Data Scientist with artificial intelligence",
+    "employer_name": "Centific",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAX-ml_tqOvThqOnkxjNpYhUpfgjSfBs6tpc2v&s=0",
+    "employer_website": "https://www.centific.com",
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/data-scientist-with-artificial-intelligence-at-centific-4371510847?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/data-scientist-with-artificial-intelligence-at-centific-4371510847?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/artificial-intelligence-ai-data-scientist_fbb02264-5cd8-469e-bd41-6f8854c9ecce?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Company Overview:\n\nCentific is a frontier AI data foundry that curates diverse, high-quality data, using our purpose-built technology platforms to empower the Magnificent Seven and our enterprise clients with safe, scalable AI deployment. Our team includes more than 150 PhDs and data scientists, along with more than 4,000 AI practitioners and engineers. We harness the power of an integrated solution ecosystem—comprising industry-leading partnerships and 1.8 million vertical domain experts in more than 230 markets—to create contextual, multilingual, pre-trained datasets; fine-tuned, industry-specific LLMs; and RAG pipelines supported by vector databases. Our zero-distance innovation™ solutions for GenAI can reduce GenAI costs by up to 80% and bring solutions to market 50% faster.\n\nOur mission is to bridge the gap between AI creators and industry leaders by bringing best practices in GenAI to unicorn innovators and enterprise customers. We aim to help these organizations unlock significant business value by deploying GenAI at scale, helping to ensure they stay at the forefront of technological advancement and maintain a competitive edge in their respective markets.\n\nLearn more about us at centific.com.\n\nJob Title: Data Scientist.\n\nLocation: Remote (United States)\n\nJob Description:\n• Experience in automating jobs and streams for data analysis purposes using C#, Python and SQL.\n• Experience designing and implementing automated workflows to streamline data processes.\n• Strong skills in creating Jupyter notebooks for data analysis, visualization, and pattern detection.\n• Ability to develop efficient and user-friendly notebooks and scripts to facilitate data exploration and trend identification.\n• Experience in conducting training sessions for individuals or teams on building Jupyter notebooks and other automated processes.\n• Ability to effectively communicate complex concepts and empower others to leverage automation tools for data analysis.\n• Familiarity with cloud provider and commercial product payment and risk systems is a plus.\n• Proficiency in employing statistical analysis techniques and data manipulation to detect patterns and trends.\n• Ability to work collaboratively with a global team not all located in the US – flexibility in hours will be a plus.\n• Ability to bring innovative ideas and approaches to enhance the effectiveness and efficiency of automated processes.\n• Strong project management capabilities to ensure timely delivery, efficient resource allocation, and effective coordination of tasks.\n• Ability to prioritize and manage multiple projects simultaneously, ensuring quality and meeting deadlines.\n• 4+ years of industry experience is a must.\n• Experince in Fraud Management is must\n\nCentific is an equal-opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, ancestry, citizenship status, age, mental or physical disability, medical condition, sex (including pregnancy), gender identity or expression, sexual orientation, marital status, familial status, veteran status, or any other characteristic protected by applicable law. We consider qualified applicants regardless of criminal histories, consistent with legal requirements.",
+    "job_is_remote": true,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Redmond, WA",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_country": "US",
+    "job_latitude": 47.673988099999995,
+    "job_longitude": -122.121512,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D9KD58QwSaVnBexbkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 100000,
+    "job_max_salary": 110000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "Experience in automating jobs and streams for data analysis purposes using C#, Python and SQL",
+        "Strong skills in creating Jupyter notebooks for data analysis, visualization, and pattern detection",
+        "Experience in conducting training sessions for individuals or teams on building Jupyter notebooks and other automated processes",
+        "Proficiency in employing statistical analysis techniques and data manipulation to detect patterns and trends",
+        "Ability to bring innovative ideas and approaches to enhance the effectiveness and efficiency of automated processes",
+        "Strong project management capabilities to ensure timely delivery, efficient resource allocation, and effective coordination of tasks",
+        "Ability to prioritize and manage multiple projects simultaneously, ensuring quality and meeting deadlines",
+        "4+ years of industry experience is a must",
+        "Experince in Fraud Management is must"
+      ],
+      "Responsibilities": [
+        "Experience designing and implementing automated workflows to streamline data processes",
+        "Ability to develop efficient and user-friendly notebooks and scripts to facilitate data exploration and trend identification",
+        "Ability to effectively communicate complex concepts and empower others to leverage automation tools for data analysis",
+        "Familiarity with cloud provider and commercial product payment and risk systems is a plus"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-linkedin-com-jobs-view-data-scientist-with-artificial-intelligence-at-centific-4371510847",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "GV93yh6tp1i3TFAGAAAAAA==",
+    "job_title": "Walmart Senior Data Scientist",
+    "employer_name": "Walmart",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV0kWbPp7sIFysOBbrsohip-f8-kSq7M6lcXJq&s=0",
+    "employer_website": "https://corporate.walmart.com",
+    "job_publisher": "Walmart",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://walmart.rightspotway.com/jobpage/osaj3o0idiy2-0261324f4df-d3d48a87-44836fe323c2e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Walmart",
+        "apply_link": "https://walmart.rightspotway.com/jobpage/osaj3o0idiy2-0261324f4df-d3d48a87-44836fe323c2e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Smart Hire Club",
+        "apply_link": "https://smarthireclub.com/joblistings/eiha5cejp3el-930-d53c84d4-9216ad277881fed4-f1c98?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Walmart Senior Data Scientist\n\nCompany Overview:\n\nWalmart operates like a startup within the broader Walmart ecosystem and is one of the fastest-growing areas of the company. The team is dedicated to designing and optimizing member experiences across digital platforms, helping millions of customers shop efficiently and seamlessly.\n\nRole and Responsibilities of Walmart Senior Data Scientist:\n\nWalmart Customer Product team, you will analyze large-scale clickstream and behavioral data to inform product strategy, identify friction points, and optimize customer experiences across mobile, online grocery, curbside pickup, and delivery.\n• Partner with Product, Engineering, and Business teams to drive data-informed decisions that enhance the Walmart+ member experience.\n• Analyze user journeys using clickstream and behavioral data to identify pain points and opportunities for improvement.\n• Perform funnel analysis, conversion analysis, and impact sizing to influence prioritization and roadmap planning.\n• Define and monitor product success metrics aligned with business and customer goals.\n• Design and analyze A/B tests and apply causal inference methods for observational data where experimentation is not feasible.\n• Conduct statistical power analysis and hypothesis testing to guide experimentation and decision-making.\n• Build and maintain dashboards and reports using visualization tools like Tableau to track product performance.\n• Leverage SQL and scripting languages (Python or R) for deep analytical work.\n• Apply AI/ML techniques for behavioral analysis, user segmentation, and optimization opportunities.\n\nPreferred Qualifications:\n• Advanced knowledge in data science, machine learning, optimization models, or a Master’s in Machine Learning, Computer Science, IT, Operations Research, Statistics, Applied Mathematics, or Econometrics.\n• Experience with Python, Spark, Scala, or R through assessments or applied projects.\n• Familiarity with open-source frameworks such as scikit-learn, TensorFlow, or PyTorch.\n• Experience in creating inclusive digital experiences, applying WCAG 2.2 AA standards, and integrating accessibility best practices.\n\nCompensation and Benefits of Walmart Senior Data Scientist:\n• Annual salary range: $117,000 - $234,000, plus potential annual or quarterly performance bonuses.\n• Additional compensation may include stock awards.\n• Health benefits including medical, vision, and dental coverage.\n• Financial benefits including 401(k), stock purchase, and company-paid life insurance.\n• Paid time off including parental leave, family care leave, bereavement, jury duty, and voting.\n• Other benefits including short-term and long-term disability, company discounts, Military Leave Pay, and adoption or surrogacy reimbursement.\n• Live Better U: Walmart-paid education programs from high school completion to bachelor’s degrees and certificates.\n\nAbout Walmart:\n\nWalmart is committed to helping associates, customers, and communities live better by fostering diversity, inclusion, and belonging. With a culture focused on innovation, operational excellence, and customer satisfaction, Walmart provides opportunities for professional growth and the chance to impact millions of lives worldwide.\n\nFAQ:\n\nQ: What is the role of a senior data scientist?\n\nA: A Senior Data Scientist creates models to analyze large datasets and turns insights into actionable solutions for business challenges.\n\nQ: What qualifications do I need to be a data scientist?\n\nA: Key qualifications include a degree in Math, Statistics, or CS, technical skills like Python, R, SQL, ML, and strong problem-solving and communication abilities.\n\nQ: Is data scientist a stressful job?\n\nA: It can be stressful due to tight deadlines, complex data, and high-stakes insights, but stress varies by team and project management.\n\nQ: Do data scientists have to do presentations?\n\nA: Yes, they often present findings to stakeholders, requiring clear and effective communication of complex analyses.",
+    "job_is_remote": false,
+    "job_posted_at": "16 hours ago",
+    "job_posted_at_timestamp": 1771142400,
+    "job_posted_at_datetime_utc": "2026-02-15T08:00:00.000Z",
+    "job_location": "Carlstadt, NJ",
+    "job_city": "Carlstadt",
+    "job_state": "New Jersey",
+    "job_country": "US",
+    "job_latitude": 40.8356241,
+    "job_longitude": -74.0857465,
+    "job_benefits": [
+      "paid_time_off",
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DGV93yh6tp1i3TFAGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Leverage SQL and scripting languages (Python or R) for deep analytical work",
+        "A: Key qualifications include a degree in Math, Statistics, or CS, technical skills like Python, R, SQL, ML, and strong problem-solving and communication abilities",
+        "A: Yes, they often present findings to stakeholders, requiring clear and effective communication of complex analyses"
+      ],
+      "Benefits": [
+        "Annual salary range: $117,000 - $234,000, plus potential annual or quarterly performance bonuses",
+        "Additional compensation may include stock awards",
+        "Health benefits including medical, vision, and dental coverage",
+        "Financial benefits including 401(k), stock purchase, and company-paid life insurance",
+        "Paid time off including parental leave, family care leave, bereavement, jury duty, and voting",
+        "Other benefits including short-term and long-term disability, company discounts, Military Leave Pay, and adoption or surrogacy reimbursement",
+        "Live Better U: Walmart-paid education programs from high school completion to bachelor’s degrees and certificates"
+      ],
+      "Responsibilities": [
+        "Walmart Customer Product team, you will analyze large-scale clickstream and behavioral data to inform product strategy, identify friction points, and optimize customer experiences across mobile, online grocery, curbside pickup, and delivery",
+        "Partner with Product, Engineering, and Business teams to drive data-informed decisions that enhance the Walmart+ member experience",
+        "Analyze user journeys using clickstream and behavioral data to identify pain points and opportunities for improvement",
+        "Perform funnel analysis, conversion analysis, and impact sizing to influence prioritization and roadmap planning",
+        "Define and monitor product success metrics aligned with business and customer goals",
+        "Design and analyze A/B tests and apply causal inference methods for observational data where experimentation is not feasible",
+        "Conduct statistical power analysis and hypothesis testing to guide experimentation and decision-making",
+        "Build and maintain dashboards and reports using visualization tools like Tableau to track product performance",
+        "Apply AI/ML techniques for behavioral analysis, user segmentation, and optimization opportunities",
+        "A: A Senior Data Scientist creates models to analyze large datasets and turns insights into actionable solutions for business challenges"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "walmart-rightspotway-com-jobpage-osaj3o0idiy2-0261324f4df-d3d48a87-44836fe323c2e",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "-AMkxLbpGzr_4kAuAAAAAA==",
+    "job_title": "Senior Data Scientist – Economist Elasticity Modeling",
+    "employer_name": "CVS Health",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQudUQ7bAJjtUW_FO_Jjs6PIFXc_7l7lfcD4fbb&s=0",
+    "employer_website": "https://www.cvshealth.com",
+    "job_publisher": "Tallo",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://tallo.com/jobs/technology/artificial-intelligence-engineer/ma/unknown-county/senior-data-scientist-economist-elasticity-b6336810f8bd/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Tallo",
+        "apply_link": "https://tallo.com/jobs/technology/artificial-intelligence-engineer/ma/unknown-county/senior-data-scientist-economist-elasticity-b6336810f8bd/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/senior-data-scientist-%E2%80%93-optimization-energy-systems-at-kamispro-4327902701?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Talents By Vaia",
+        "apply_link": "https://talents.vaia.com/companies/engie-international-supply-energy-management-2/data-scientist-algorithmic-power-trading-advisor-34103615/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "MyGwork",
+        "apply_link": "https://mygwork.com/jobs/state-street-senior-data-scientist-agentic-ai-graph-llm-science-vice-president?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Digital Solution Tech",
+        "apply_link": "https://digitalsolutiontech.in/job/data-scientist-microsoft-full-time2026apply-now/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Rdptt Careers",
+        "apply_link": "https://career.rdptt.com/jobs/meta-data-scientist-apply-today/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "This job listing in [Unknown county] - MA has been recently added. Tallo will add a summary here for this job shortly.",
+    "job_is_remote": true,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Massachusetts",
+    "job_city": null,
+    "job_state": "Massachusetts",
+    "job_country": "US",
+    "job_latitude": 42.4072107,
+    "job_longitude": -71.3824374,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D-AMkxLbpGzr_4kAuAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": "YEAR",
+    "job_highlights": {},
+    "job_onet_soc": "19301100",
+    "job_onet_job_zone": "5",
+    "id": "tallo-com-jobs-technology-artificial-intelligence-engineer-ma-unknown-county-senior-data-scientist-economist-elasticity-b6336810f8bd",
     "_source": "new_jobs"
   }
 ]
