@@ -145,8 +145,8 @@
     "job_longitude": -77.09431719999999,
     "job_benefits": [
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DzMxPbz0gMUynJRooAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -186,258 +186,6 @@
     "job_onet_soc": "13111100",
     "job_onet_job_zone": "5",
     "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "IqmXeGXDTjbT6kv3AAAAAA==",
-    "job_title": "Sr. Business Systems Analyst",
-    "employer_name": "Subaru of America",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHOYJEcM-qga8cnatDjIPE7wrQLgWWZmRJ4azo&s=0",
-    "employer_website": "https://www.subaru.com",
-    "job_publisher": "Indeed",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.indeed.com/viewjob?jk=55b405235c886e7d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=55b405235c886e7d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Oracle",
-        "apply_link": "https://hcal.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/job/2166?utm_medium=search+engine&utm_source=google&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Subaru-of-America/Job/Sr.-Business-Systems-Analyst/-in-Camden,NJ?jid=f02a27c531461691&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/sr-business-systems-analyst-at-subaru-of-america-4373213035?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/698eae88f64d441a1650f5b2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "DisABLEDperson.com",
-        "apply_link": "https://www.disabledperson.com/jobs/70272352-sr-business-systems-analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "EQuest Jobs",
-        "apply_link": "https://jobs.equest.com/jobs/NJ/subaru-of-america-inc/sr-business-systems-analyst-444102654.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/M6JFNc5n8hewg5MSzwwaWOATeBRdMke5reGeLeS3K26ykpRonQdcKQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "ROLE SUMMARY\n\nIn support of the Connected Vehicle Development and Delivery team, plays a pivotal role in aligning business needs with technical solutions to deliver efficient and innovative connected vehicle services. Supports technical systems solutions, integrations, and services across various markets, with a focus on global scalability. In this visible role, collaborates with both internal and external Business Analysts (BAs) to transform vision into technical reality. Maintains dedication to developing and maintaining high-quality, reliable, scalable, and secure software solutions that exceed customer expectations.\n\nMAJOR RESPONSIBILITIES\n• Technical Focus:\n• Concentrates on the integration and optimization of systems.\n• Focuses on global scalability and complex integrations.\n• Review and Understand User Stories: Reviews user stories created by the Business Analyst (BA) and collaborates with the BA to understand the business context and objectives.\n• Identify Technical Stories: Translates business requirements into technical stories, identifying systems, software, and technologies while considering system integrations, data flow, security, and performance.\n• Create Technical Stories: Creates refined technical stories for technical functions considering system integrations, data flow, security, and performance.\n• Collaborate with Stakeholders: Collaborates with stakeholders, including the BA and development teams, and to gather additional insights and to clarify ambiguities to ensure a shared understanding of requirements and technical constraints.\n• Refine User Stories: Refines user stories by adding technical details and specifications, defining acceptance criteria, technical tasks, and dependencies while breaking down complex user stories into smaller, manageable tasks.\n• Create Detailed Documentation: Documents refined user stories, including technical requirements and specifications serving as a guide for the team; maintains a comprehensive knowledge base and documentation repository.\n• Validate and Prioritize: Validates refined user stories with stakeholders; prioritizes and organizes stories within sprints.\n• Release Management:\n• Documents and communicating release scope, including detailed release schedules and key milestones.\n• Owns release activities, including release plans, user acceptance testing (UAT) schedules, go/no-go reviews, knowledge transfer sessions for operations, and release notes distributions.\n• Conducts post-release retrospectives to evaluate success and identify improvements.\n• Agile Participation: Actively participates in Agile ceremonies; provides technical story guidance and clarifications.\n• Issue Investigation: Investigates and identifies issues with software or systems; develops remediation solution options.\n• Requirement Fulfillment: Ensures that systems meet business and technical needs.Cross-Team Coordination: Facilitates alignment and coordination across technical teams.\n\nADDITIONAL RESPONSIBILITIES\n• Technology Research: Coordinates technology research and estimations.\n• Meeting Facilitation: Chairs and facilitates meetings where appropriate and distributes minutes.\n• Training and Mentorship: Provides training and mentorship as needed.\n• Continuous Improvement: Identifies opportunities for process improvements and contributes to the development of best practices.Quality Assurance: Participates in quality assurance activities.\n\nREQUIRED SKILLS & PERSONAL QUALIFICATIONS\n• Strong ability to analyze business requirements and translate them into technical specifications and technical stories.\n• Proficiency in conceptual understanding of databases, programming languages, software development life cycles, system architectures, and data modeling.\n• Ability to identify issues, develop remediation solutions, and troubleshoot problems.\n• Experience in planning and coordinating release activities.\n• Familiarity with Agile practices and participation in Agile ceremonies.\n• Skilled in creating detailed documentation for business requirements including technical specifications, technical stories, user stories, and operational processes.\n• Proven ability to facilitate alignment and coordination across technical teams to ensure cohesive and integrated solutions.\n• Excellent verbal and written communication skills.\n• Effective time management and ability to drive multiple projects simultaneously.\n• Competency in Microsoft applications including Word, Excel, Outlook and PowerPoint.\n• Competent with JIRA and Confluence preferred.\n• Experience supporting telematics or connected vehicle technologies preferred.\n• Experience with Waterfall, Agile SCRUM, and Kanban methodologies, demonstrating versatility in managing projects through iterative and structured approaches preferred.\n\nEDUCATION/EXPERIENCE REQUIREMENTS: Bachelor's Degree in computer science, business, or related field required Master's Degree such as Masters in Business Administration (MBA) or other relevant advanced degree preferred. Relevant experience accepted in lieu of a degree. At least 4 to 6 years required.\n\nWORK ENVIRONMENT\n• Office Location: Camden, NJ apart of the Greater Philadelphia Area (Philly)\n• Hybrid Role: Remote work 2 days per week (After 90 Days) [Wednesdays & Fridays]\n• Internal Work Environment: Prolonged sitting at desk and computer.\n• Physical Demands: Occasionally lifts and moves computing equipment up to 75 lbs.\n• Travel Required: 5% Internationally and Domestically\n\nCOMPENSATION: The recruiting base salary range for this full-time position is $88000 - $120000/year. Within the range, individual pay is determined by factors, including job-related skills, experience, and relevant education or training. (Internal Job Grade: P2_T) In addition to competitive salary, Subaru offers an amazing benefits package that includes:\n• Medical, Dental, Vision Plans\n• Pension, Profit Sharing, and 401K Match Offerings\n• 15 Vacation days, 9 Company Holidays, 5 Floating Holidays, and 5 Sick days.\n• Tuition Reimbursement Program\n• Vehicle Discount Programs\n\nVisit our Careers landing page for additional information about our compensation and benefit programs.\n\nABOUT SUBARU\n\nLOVE. It’s what makes Subaru, Subaru®. As a leading auto brand in the US, we strive to be More Than a Car Company®. Subaru believes in being a positive force in the communities in which we live and work, not just with donations but with actions that set an example for others to follow. That’s what we call our Subaru Love Promise®.\n\nSubaru is a globally renowned automobile manufacturer known for its commitment to innovation, safety, and sustainability. With a rich history dating back to 1953, Subaru has consistently pushed the boundaries of automotive engineering to deliver vehicles that offer not only exceptional performance but also a unique blend of utility and adventure.\n\nSubaru's company culture is built on collaboration, diversity, and a shared passion for our product. We foster an inclusive environment that encourages employees to bring their unique perspectives and talents to the table. Our team members are driven by a common goal: to create exceptional vehicles that inspire and delight our customers.",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Camden, NJ",
-    "job_city": "Camden",
-    "job_state": "New Jersey",
-    "job_country": "US",
-    "job_latitude": 39.9425241,
-    "job_longitude": -75.1164689,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DIqmXeGXDTjbT6kv3AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 88000,
-    "job_max_salary": 120000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "Strong ability to analyze business requirements and translate them into technical specifications and technical stories",
-        "Proficiency in conceptual understanding of databases, programming languages, software development life cycles, system architectures, and data modeling",
-        "Ability to identify issues, develop remediation solutions, and troubleshoot problems",
-        "Experience in planning and coordinating release activities",
-        "Familiarity with Agile practices and participation in Agile ceremonies",
-        "Skilled in creating detailed documentation for business requirements including technical specifications, technical stories, user stories, and operational processes",
-        "Proven ability to facilitate alignment and coordination across technical teams to ensure cohesive and integrated solutions",
-        "Excellent verbal and written communication skills",
-        "Effective time management and ability to drive multiple projects simultaneously",
-        "Competency in Microsoft applications including Word, Excel, Outlook and PowerPoint",
-        "Relevant experience accepted in lieu of a degree",
-        "At least 4 to 6 years required"
-      ],
-      "Benefits": [
-        "COMPENSATION: The recruiting base salary range for this full-time position is $88000 - $120000/year",
-        "Within the range, individual pay is determined by factors, including job-related skills, experience, and relevant education or training",
-        "(Internal Job Grade: P2_T) In addition to competitive salary, Subaru offers an amazing benefits package that includes:",
-        "Medical, Dental, Vision Plans",
-        "Pension, Profit Sharing, and 401K Match Offerings",
-        "15 Vacation days, 9 Company Holidays, 5 Floating Holidays, and 5 Sick days",
-        "Tuition Reimbursement Program",
-        "Vehicle Discount Programs",
-        "Visit our Careers landing page for additional information about our compensation and benefit programs"
-      ],
-      "Responsibilities": [
-        "In support of the Connected Vehicle Development and Delivery team, plays a pivotal role in aligning business needs with technical solutions to deliver efficient and innovative connected vehicle services",
-        "In this visible role, collaborates with both internal and external Business Analysts (BAs) to transform vision into technical reality",
-        "Maintains dedication to developing and maintaining high-quality, reliable, scalable, and secure software solutions that exceed customer expectations",
-        "Technical Focus:",
-        "Concentrates on the integration and optimization of systems",
-        "Focuses on global scalability and complex integrations",
-        "Review and Understand User Stories: Reviews user stories created by the Business Analyst (BA) and collaborates with the BA to understand the business context and objectives",
-        "Identify Technical Stories: Translates business requirements into technical stories, identifying systems, software, and technologies while considering system integrations, data flow, security, and performance",
-        "Create Technical Stories: Creates refined technical stories for technical functions considering system integrations, data flow, security, and performance",
-        "Collaborate with Stakeholders: Collaborates with stakeholders, including the BA and development teams, and to gather additional insights and to clarify ambiguities to ensure a shared understanding of requirements and technical constraints",
-        "Refine User Stories: Refines user stories by adding technical details and specifications, defining acceptance criteria, technical tasks, and dependencies while breaking down complex user stories into smaller, manageable tasks",
-        "Create Detailed Documentation: Documents refined user stories, including technical requirements and specifications serving as a guide for the team; maintains a comprehensive knowledge base and documentation repository",
-        "Validate and Prioritize: Validates refined user stories with stakeholders; prioritizes and organizes stories within sprints",
-        "Release Management:",
-        "Documents and communicating release scope, including detailed release schedules and key milestones",
-        "Owns release activities, including release plans, user acceptance testing (UAT) schedules, go/no-go reviews, knowledge transfer sessions for operations, and release notes distributions",
-        "Conducts post-release retrospectives to evaluate success and identify improvements",
-        "Agile Participation: Actively participates in Agile ceremonies; provides technical story guidance and clarifications",
-        "Issue Investigation: Investigates and identifies issues with software or systems; develops remediation solution options",
-        "Requirement Fulfillment: Ensures that systems meet business and technical needs.Cross-Team Coordination: Facilitates alignment and coordination across technical teams",
-        "Technology Research: Coordinates technology research and estimations",
-        "Meeting Facilitation: Chairs and facilitates meetings where appropriate and distributes minutes",
-        "Training and Mentorship: Provides training and mentorship as needed",
-        "Continuous Improvement: Identifies opportunities for process improvements and contributes to the development of best practices",
-        "Quality Assurance: Participates in quality assurance activities",
-        "Hybrid Role: Remote work 2 days per week (After 90 Days) [Wednesdays & Fridays]",
-        "Internal Work Environment: Prolonged sitting at desk and computer",
-        "Physical Demands: Occasionally lifts and moves computing equipment up to 75 lbs",
-        "Travel Required: 5% Internationally and Domestically"
-      ]
-    },
-    "job_onet_soc": "15112100",
-    "job_onet_job_zone": "4",
-    "id": "www-indeed-com-viewjob",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "u8aaHF4_HDtN0nOGAAAAAA==",
-    "job_title": "Emerging and Disruptive Technology Analyst - Senior",
-    "employer_name": "Vantor",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs3rd65lrp76DVN1Yksi7ABAv47nZA7CQU5THM&s=0",
-    "employer_website": "https://vantor.com",
-    "job_publisher": "LinkedIn",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/emerging-and-disruptive-technology-analyst-senior-at-vantor-4336584843?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/emerging-and-disruptive-technology-analyst-senior-at-vantor-4336584843?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Ladders",
-        "apply_link": "https://www.theladders.com/job/emerging-and-disruptive-technology-analyst-mid-maxar-technologies-washington-dc_84488204?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SpaceTalent Job Board",
-        "apply_link": "https://jobs.spacetalent.org/companies/maxar-technologies-2/jobs/62279447-emerging-and-disruptive-technology-analyst-senior?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Milwaukee Jobs",
-        "apply_link": "https://www.milwaukeejobs.com/j/t-Emerging-and-Disruptive-Technology-Analyst-Senior-e-Vantor-Inc-l-Reston,-VA;-Bolling-Air-Force-Base,-DC-jobs-j85507688.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "GetHiredToday - Women For Hire",
-        "apply_link": "https://jobs.womenforhire.com/job/usa/washington-dc/emerging-and-disruptive-technology-analyst-senior-801643/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Career.com",
-        "apply_link": "https://www.career.com/job/vantor/emerging-and-disruptive-technology-analyst-senior/j202512310941477201168?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/washington/district-of-columbia/info_technology/4853647684/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobrapido",
-        "apply_link": "https://us.jobrapido.com/jobpreview/6998436343810359296?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Vantor is forging the new frontier of spatial intelligence, helping decision makers and operators navigate what’s happening now and shape what’s coming next. Vantor is a place for problem solvers, changemakers, and go-getters—where people are working together to help our customers see the world differently, and in doing so, be seen differently. Come be part of a mission, not just a job, where you can: Shape your own future, build the next big thing, and change the world.\n\nTo be eligible for this position, you must be a U.S. Citizen. This position requires an active U.S. Government security clearance, applicants who do not currently hold the required clearance will not be eligible for consideration. Employment for cleared roles is contingent upon verification of clearance status.\n\nExport Control/ITAR: Certain roles may be subject to U.S. export control laws, requiring U.S. person status as defined by 8 U.S.C. 1324b(a)(3).\n\nPlease review the job details below.\n\nThis position requires an active U.S. Government Security Clearance at the TS/SCI level with an in-scope CI poly.\n\nWe're hiring multiple Emerging and Disruptive Technology Analysts to join our team. In this position you will analyze and assess future technology and its military application(s) by foreign states and non-states. Analysts will support Object-Based Intelligence (OBI) production with a specialized focus on emerging technologies and strategic horizon analysis. Analysts will evaluate the potential national security implications of disruptive technologies—such as artificial intelligence, quantum computing, biotechnology, and autonomous systems—and identify early indicators of technological shifts. This role supports the development of ontologies for structured intelligence integration and contributes to anticipatory analysis that informs long-term defense planning and early warning.\n\nResponsibilities: A day in the life/What the position will be doing:\n• Produce assessments projecting the discovery, development, and deployment of advanced technologies and the potential impact to Defense Critical Infrastructure and U.S. nuclear weapons worldwide.\n• Produce intelligence supporting the production of the National Security Threat Capabilities Assessment, and threat assessments/global baseline assessments for the Defense Critical Infrastructure Program (DCIP).\n• Provide early warning of disruptive developments to ensure Intelligence Community awareness of evolving technological landscapes.\n• Conduct all-source analysis to assess the strategic impact of emerging technologies on national security.\n• Identify and evaluate potential future threats and opportunities posed by technological developments across global domains.\n• Develop and refine ontologies to support OBI production and semantic interoperability within the Defense Intelligence Core Ontology.\n• Apply structured analytic techniques (e.g., ACH, scenario analysis, key assumptions check) to assess technology trends and forecast disruptive shifts.\n• Monitor global R&D, innovation ecosystems, and technology adoption patterns to inform strategic foresight and early warning.\n• Collaborate with data scientists and technologists to integrate advanced analytics, machine learning, and semantic technologies into analytic workflows.\n• Document analytic processes to support automation, reproducibility, and integration into knowledge graphs and decision-support systems.\n• Produce assessments and briefings tailored to senior decision-makers, highlighting risks, opportunities, and strategic implications of emerging technologies.\n\nMinimum Qualifications\n• Must be a US citizen and have an active TS/SCI with CI poly.\n• 12 years of experience and an advanced degree\n• Experience conducting strategic foresight or horizon scanning in a national security or technology context.\n• Strong oral and written communication skills.\n• Possesses an expert ability to describe findings and techniques tailored to the intended audience, including technical and nontechnical decision makers.\n\nPreferred Qualifications\n• Deep understanding of emerging technology domains (e.g., AI, quantum, biotech, space systems, autonomy).\n• Experience supporting OBI production and working with Defense Intelligence ontologies.\n• Develops and employs strategies to analyze key issues, draw conclusions from data, and recommend viable solutions to address customer mission needs.\n• Ability to lead multi-disciplinary teams to complete complex data science projects.\n• Demonstrated experience in solving problems with structured and unstructured data.\n• Experienced in applying statistical and data visualization skills.\n• Strong problem solving skills to manipulate data and draw insights from large data sets.\n\nPay Transparency: In support of pay transparency at Vantor, we disclose salary ranges on all U.S. job postings. The successful candidate’s starting pay will fall within the salary range provided below and is determined based on job-related factors, including, but not limited to, the experience, qualifications, knowledge, skills, geographic work location, and market conditions. Candidates with the minimum necessary experience, qualifications, knowledge, and skillsets for the position should not expect to receive the upper end of the pay range.\n• The base pay for this position within the Washington, DC metropolitan area is: $118,000.00 - $196,000.00 annually.\n\nFor all other states, we use geographic cost of labor as an input to develop market-driven ranges for our roles, and as such, each location where we hire may have a different range.\n\nBenefits: Vantor offers a competitive total rewards package that goes beyond the standard, including a robust 401(k) with company match, mental health resources, and unique perks like student loan repayment assistance, adoption reimbursement and pet insurance to support all aspects of your life. You can find more information on our benefits at: https://www.Vantor.com/careers\n\nThe application window is three days from the date the job is posted and will remain posted until a qualified candidate has been identified for hire. If the job is reposted regardless of reason, it will remain posted three days from the date the job is reposted and will remain reposted until a qualified candidate has been identified for hire.\n\nThe date of posting can be found on Vantor's Career page at the top of each job posting.\n\nTo apply, submit your application via Vantor's Career page.\n\nEEO Policy: Vantor is an equal opportunity employer committed to an inclusive workplace. We believe in fostering an environment where all team members feel respected, valued, and encouraged to share their ideas. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, gender identity, sexual orientation, disability, protected veteran status, age, or any other characteristic protected by law.",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Washington, DC",
-    "job_city": "Washington",
-    "job_state": "District of Columbia",
-    "job_country": "US",
-    "job_latitude": 38.9072873,
-    "job_longitude": -77.0369274,
-    "job_benefits": [
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Du8aaHF4_HDtN0nOGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 118000,
-    "job_max_salary": 196000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "This position requires an active U.S. Government Security Clearance at the TS/SCI level with an in-scope CI poly",
-        "Must be a US citizen and have an active TS/SCI with CI poly",
-        "12 years of experience and an advanced degree",
-        "Experience conducting strategic foresight or horizon scanning in a national security or technology context",
-        "Strong oral and written communication skills",
-        "Possesses an expert ability to describe findings and techniques tailored to the intended audience, including technical and nontechnical decision makers"
-      ],
-      "Benefits": [
-        "Pay Transparency: In support of pay transparency at Vantor, we disclose salary ranges on all U.S. job postings",
-        "The successful candidate’s starting pay will fall within the salary range provided below and is determined based on job-related factors, including, but not limited to, the experience, qualifications, knowledge, skills, geographic work location, and market conditions",
-        "The base pay for this position within the Washington, DC metropolitan area is: $118,000.00 - $196,000.00 annually",
-        "For all other states, we use geographic cost of labor as an input to develop market-driven ranges for our roles, and as such, each location where we hire may have a different range",
-        "Benefits: Vantor offers a competitive total rewards package that goes beyond the standard, including a robust 401(k) with company match, mental health resources, and unique perks like student loan repayment assistance, adoption reimbursement and pet insurance to support all aspects of your life",
-        "You can find more information on our benefits at: https://www.Vantor.com/careers"
-      ],
-      "Responsibilities": [
-        "Export Control/ITAR: Certain roles may be subject to U.S. export control laws, requiring U.S. person status as defined by 8 U.S.C",
-        "Analysts will support Object-Based Intelligence (OBI) production with a specialized focus on emerging technologies and strategic horizon analysis",
-        "Analysts will evaluate the potential national security implications of disruptive technologies—such as artificial intelligence, quantum computing, biotechnology, and autonomous systems—and identify early indicators of technological shifts",
-        "This role supports the development of ontologies for structured intelligence integration and contributes to anticipatory analysis that informs long-term defense planning and early warning",
-        "Responsibilities: A day in the life/What the position will be doing:",
-        "Produce assessments projecting the discovery, development, and deployment of advanced technologies and the potential impact to Defense Critical Infrastructure and U.S. nuclear weapons worldwide",
-        "Produce intelligence supporting the production of the National Security Threat Capabilities Assessment, and threat assessments/global baseline assessments for the Defense Critical Infrastructure Program (DCIP)",
-        "Provide early warning of disruptive developments to ensure Intelligence Community awareness of evolving technological landscapes",
-        "Conduct all-source analysis to assess the strategic impact of emerging technologies on national security",
-        "Identify and evaluate potential future threats and opportunities posed by technological developments across global domains",
-        "Develop and refine ontologies to support OBI production and semantic interoperability within the Defense Intelligence Core Ontology",
-        "Apply structured analytic techniques (e.g., ACH, scenario analysis, key assumptions check) to assess technology trends and forecast disruptive shifts",
-        "Monitor global R&D, innovation ecosystems, and technology adoption patterns to inform strategic foresight and early warning",
-        "Collaborate with data scientists and technologists to integrate advanced analytics, machine learning, and semantic technologies into analytic workflows",
-        "Document analytic processes to support automation, reproducibility, and integration into knowledge graphs and decision-support systems",
-        "Produce assessments and briefings tailored to senior decision-makers, highlighting risks, opportunities, and strategic implications of emerging technologies"
-      ]
-    },
-    "job_onet_soc": "15112100",
-    "job_onet_job_zone": "4",
-    "id": "www-linkedin-com-jobs-view-emerging-and-disruptive-technology-analyst-senior-at-vantor-4336584843",
     "_source": "new_jobs"
   },
   {
@@ -597,8 +345,8 @@
     "job_latitude": 33.4482948,
     "job_longitude": -112.07254879999999,
     "job_benefits": [
-      "health_insurance",
-      "paid_time_off"
+      "paid_time_off",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DmeWtBKHyQc55J5JmAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -659,6 +407,258 @@
     "job_onet_soc": "13111100",
     "job_onet_job_zone": "5",
     "id": "jobs-cvshealth-com-us-en-job-r0714049-business-analyst-advisor-level",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "u8aaHF4_HDtN0nOGAAAAAA==",
+    "job_title": "Emerging and Disruptive Technology Analyst - Senior",
+    "employer_name": "Vantor",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs3rd65lrp76DVN1Yksi7ABAv47nZA7CQU5THM&s=0",
+    "employer_website": "https://vantor.com",
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/emerging-and-disruptive-technology-analyst-senior-at-vantor-4336584843?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/emerging-and-disruptive-technology-analyst-senior-at-vantor-4336584843?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Ladders",
+        "apply_link": "https://www.theladders.com/job/emerging-and-disruptive-technology-analyst-mid-maxar-technologies-washington-dc_84488204?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SpaceTalent Job Board",
+        "apply_link": "https://jobs.spacetalent.org/companies/maxar-technologies-2/jobs/62279447-emerging-and-disruptive-technology-analyst-senior?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Milwaukee Jobs",
+        "apply_link": "https://www.milwaukeejobs.com/j/t-Emerging-and-Disruptive-Technology-Analyst-Senior-e-Vantor-Inc-l-Reston,-VA;-Bolling-Air-Force-Base,-DC-jobs-j85507688.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "GetHiredToday - Women For Hire",
+        "apply_link": "https://jobs.womenforhire.com/job/usa/washington-dc/emerging-and-disruptive-technology-analyst-senior-801643/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.com",
+        "apply_link": "https://www.career.com/job/vantor/emerging-and-disruptive-technology-analyst-senior/j202512310941477201168?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Learn4Good",
+        "apply_link": "https://www.learn4good.com/jobs/washington/district-of-columbia/info_technology/4853647684/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobrapido",
+        "apply_link": "https://us.jobrapido.com/jobpreview/6998436343810359296?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Vantor is forging the new frontier of spatial intelligence, helping decision makers and operators navigate what’s happening now and shape what’s coming next. Vantor is a place for problem solvers, changemakers, and go-getters—where people are working together to help our customers see the world differently, and in doing so, be seen differently. Come be part of a mission, not just a job, where you can: Shape your own future, build the next big thing, and change the world.\n\nTo be eligible for this position, you must be a U.S. Citizen. This position requires an active U.S. Government security clearance, applicants who do not currently hold the required clearance will not be eligible for consideration. Employment for cleared roles is contingent upon verification of clearance status.\n\nExport Control/ITAR: Certain roles may be subject to U.S. export control laws, requiring U.S. person status as defined by 8 U.S.C. 1324b(a)(3).\n\nPlease review the job details below.\n\nThis position requires an active U.S. Government Security Clearance at the TS/SCI level with an in-scope CI poly.\n\nWe're hiring multiple Emerging and Disruptive Technology Analysts to join our team. In this position you will analyze and assess future technology and its military application(s) by foreign states and non-states. Analysts will support Object-Based Intelligence (OBI) production with a specialized focus on emerging technologies and strategic horizon analysis. Analysts will evaluate the potential national security implications of disruptive technologies—such as artificial intelligence, quantum computing, biotechnology, and autonomous systems—and identify early indicators of technological shifts. This role supports the development of ontologies for structured intelligence integration and contributes to anticipatory analysis that informs long-term defense planning and early warning.\n\nResponsibilities: A day in the life/What the position will be doing:\n• Produce assessments projecting the discovery, development, and deployment of advanced technologies and the potential impact to Defense Critical Infrastructure and U.S. nuclear weapons worldwide.\n• Produce intelligence supporting the production of the National Security Threat Capabilities Assessment, and threat assessments/global baseline assessments for the Defense Critical Infrastructure Program (DCIP).\n• Provide early warning of disruptive developments to ensure Intelligence Community awareness of evolving technological landscapes.\n• Conduct all-source analysis to assess the strategic impact of emerging technologies on national security.\n• Identify and evaluate potential future threats and opportunities posed by technological developments across global domains.\n• Develop and refine ontologies to support OBI production and semantic interoperability within the Defense Intelligence Core Ontology.\n• Apply structured analytic techniques (e.g., ACH, scenario analysis, key assumptions check) to assess technology trends and forecast disruptive shifts.\n• Monitor global R&D, innovation ecosystems, and technology adoption patterns to inform strategic foresight and early warning.\n• Collaborate with data scientists and technologists to integrate advanced analytics, machine learning, and semantic technologies into analytic workflows.\n• Document analytic processes to support automation, reproducibility, and integration into knowledge graphs and decision-support systems.\n• Produce assessments and briefings tailored to senior decision-makers, highlighting risks, opportunities, and strategic implications of emerging technologies.\n\nMinimum Qualifications\n• Must be a US citizen and have an active TS/SCI with CI poly.\n• 12 years of experience and an advanced degree\n• Experience conducting strategic foresight or horizon scanning in a national security or technology context.\n• Strong oral and written communication skills.\n• Possesses an expert ability to describe findings and techniques tailored to the intended audience, including technical and nontechnical decision makers.\n\nPreferred Qualifications\n• Deep understanding of emerging technology domains (e.g., AI, quantum, biotech, space systems, autonomy).\n• Experience supporting OBI production and working with Defense Intelligence ontologies.\n• Develops and employs strategies to analyze key issues, draw conclusions from data, and recommend viable solutions to address customer mission needs.\n• Ability to lead multi-disciplinary teams to complete complex data science projects.\n• Demonstrated experience in solving problems with structured and unstructured data.\n• Experienced in applying statistical and data visualization skills.\n• Strong problem solving skills to manipulate data and draw insights from large data sets.\n\nPay Transparency: In support of pay transparency at Vantor, we disclose salary ranges on all U.S. job postings. The successful candidate’s starting pay will fall within the salary range provided below and is determined based on job-related factors, including, but not limited to, the experience, qualifications, knowledge, skills, geographic work location, and market conditions. Candidates with the minimum necessary experience, qualifications, knowledge, and skillsets for the position should not expect to receive the upper end of the pay range.\n• The base pay for this position within the Washington, DC metropolitan area is: $118,000.00 - $196,000.00 annually.\n\nFor all other states, we use geographic cost of labor as an input to develop market-driven ranges for our roles, and as such, each location where we hire may have a different range.\n\nBenefits: Vantor offers a competitive total rewards package that goes beyond the standard, including a robust 401(k) with company match, mental health resources, and unique perks like student loan repayment assistance, adoption reimbursement and pet insurance to support all aspects of your life. You can find more information on our benefits at: https://www.Vantor.com/careers\n\nThe application window is three days from the date the job is posted and will remain posted until a qualified candidate has been identified for hire. If the job is reposted regardless of reason, it will remain posted three days from the date the job is reposted and will remain reposted until a qualified candidate has been identified for hire.\n\nThe date of posting can be found on Vantor's Career page at the top of each job posting.\n\nTo apply, submit your application via Vantor's Career page.\n\nEEO Policy: Vantor is an equal opportunity employer committed to an inclusive workplace. We believe in fostering an environment where all team members feel respected, valued, and encouraged to share their ideas. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, gender identity, sexual orientation, disability, protected veteran status, age, or any other characteristic protected by law.",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Washington, DC",
+    "job_city": "Washington",
+    "job_state": "District of Columbia",
+    "job_country": "US",
+    "job_latitude": 38.9072873,
+    "job_longitude": -77.0369274,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Du8aaHF4_HDtN0nOGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 118000,
+    "job_max_salary": 196000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "This position requires an active U.S. Government Security Clearance at the TS/SCI level with an in-scope CI poly",
+        "Must be a US citizen and have an active TS/SCI with CI poly",
+        "12 years of experience and an advanced degree",
+        "Experience conducting strategic foresight or horizon scanning in a national security or technology context",
+        "Strong oral and written communication skills",
+        "Possesses an expert ability to describe findings and techniques tailored to the intended audience, including technical and nontechnical decision makers"
+      ],
+      "Benefits": [
+        "Pay Transparency: In support of pay transparency at Vantor, we disclose salary ranges on all U.S. job postings",
+        "The successful candidate’s starting pay will fall within the salary range provided below and is determined based on job-related factors, including, but not limited to, the experience, qualifications, knowledge, skills, geographic work location, and market conditions",
+        "The base pay for this position within the Washington, DC metropolitan area is: $118,000.00 - $196,000.00 annually",
+        "For all other states, we use geographic cost of labor as an input to develop market-driven ranges for our roles, and as such, each location where we hire may have a different range",
+        "Benefits: Vantor offers a competitive total rewards package that goes beyond the standard, including a robust 401(k) with company match, mental health resources, and unique perks like student loan repayment assistance, adoption reimbursement and pet insurance to support all aspects of your life",
+        "You can find more information on our benefits at: https://www.Vantor.com/careers"
+      ],
+      "Responsibilities": [
+        "Export Control/ITAR: Certain roles may be subject to U.S. export control laws, requiring U.S. person status as defined by 8 U.S.C",
+        "Analysts will support Object-Based Intelligence (OBI) production with a specialized focus on emerging technologies and strategic horizon analysis",
+        "Analysts will evaluate the potential national security implications of disruptive technologies—such as artificial intelligence, quantum computing, biotechnology, and autonomous systems—and identify early indicators of technological shifts",
+        "This role supports the development of ontologies for structured intelligence integration and contributes to anticipatory analysis that informs long-term defense planning and early warning",
+        "Responsibilities: A day in the life/What the position will be doing:",
+        "Produce assessments projecting the discovery, development, and deployment of advanced technologies and the potential impact to Defense Critical Infrastructure and U.S. nuclear weapons worldwide",
+        "Produce intelligence supporting the production of the National Security Threat Capabilities Assessment, and threat assessments/global baseline assessments for the Defense Critical Infrastructure Program (DCIP)",
+        "Provide early warning of disruptive developments to ensure Intelligence Community awareness of evolving technological landscapes",
+        "Conduct all-source analysis to assess the strategic impact of emerging technologies on national security",
+        "Identify and evaluate potential future threats and opportunities posed by technological developments across global domains",
+        "Develop and refine ontologies to support OBI production and semantic interoperability within the Defense Intelligence Core Ontology",
+        "Apply structured analytic techniques (e.g., ACH, scenario analysis, key assumptions check) to assess technology trends and forecast disruptive shifts",
+        "Monitor global R&D, innovation ecosystems, and technology adoption patterns to inform strategic foresight and early warning",
+        "Collaborate with data scientists and technologists to integrate advanced analytics, machine learning, and semantic technologies into analytic workflows",
+        "Document analytic processes to support automation, reproducibility, and integration into knowledge graphs and decision-support systems",
+        "Produce assessments and briefings tailored to senior decision-makers, highlighting risks, opportunities, and strategic implications of emerging technologies"
+      ]
+    },
+    "job_onet_soc": "15112100",
+    "job_onet_job_zone": "4",
+    "id": "www-linkedin-com-jobs-view-emerging-and-disruptive-technology-analyst-senior-at-vantor-4336584843",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "IqmXeGXDTjbT6kv3AAAAAA==",
+    "job_title": "Sr. Business Systems Analyst",
+    "employer_name": "Subaru of America",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHOYJEcM-qga8cnatDjIPE7wrQLgWWZmRJ4azo&s=0",
+    "employer_website": "https://www.subaru.com",
+    "job_publisher": "Indeed",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.indeed.com/viewjob?jk=55b405235c886e7d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=55b405235c886e7d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Oracle",
+        "apply_link": "https://hcal.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/job/2166?utm_medium=search+engine&utm_source=google&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Subaru-of-America/Job/Sr.-Business-Systems-Analyst/-in-Camden,NJ?jid=f02a27c531461691&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/sr-business-systems-analyst-at-subaru-of-america-4373213035?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/698eae88f64d441a1650f5b2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "DisABLEDperson.com",
+        "apply_link": "https://www.disabledperson.com/jobs/70272352-sr-business-systems-analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "EQuest Jobs",
+        "apply_link": "https://jobs.equest.com/jobs/NJ/subaru-of-america-inc/sr-business-systems-analyst-444102654.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/M6JFNc5n8hewg5MSzwwaWOATeBRdMke5reGeLeS3K26ykpRonQdcKQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "ROLE SUMMARY\n\nIn support of the Connected Vehicle Development and Delivery team, plays a pivotal role in aligning business needs with technical solutions to deliver efficient and innovative connected vehicle services. Supports technical systems solutions, integrations, and services across various markets, with a focus on global scalability. In this visible role, collaborates with both internal and external Business Analysts (BAs) to transform vision into technical reality. Maintains dedication to developing and maintaining high-quality, reliable, scalable, and secure software solutions that exceed customer expectations.\n\nMAJOR RESPONSIBILITIES\n• Technical Focus:\n• Concentrates on the integration and optimization of systems.\n• Focuses on global scalability and complex integrations.\n• Review and Understand User Stories: Reviews user stories created by the Business Analyst (BA) and collaborates with the BA to understand the business context and objectives.\n• Identify Technical Stories: Translates business requirements into technical stories, identifying systems, software, and technologies while considering system integrations, data flow, security, and performance.\n• Create Technical Stories: Creates refined technical stories for technical functions considering system integrations, data flow, security, and performance.\n• Collaborate with Stakeholders: Collaborates with stakeholders, including the BA and development teams, and to gather additional insights and to clarify ambiguities to ensure a shared understanding of requirements and technical constraints.\n• Refine User Stories: Refines user stories by adding technical details and specifications, defining acceptance criteria, technical tasks, and dependencies while breaking down complex user stories into smaller, manageable tasks.\n• Create Detailed Documentation: Documents refined user stories, including technical requirements and specifications serving as a guide for the team; maintains a comprehensive knowledge base and documentation repository.\n• Validate and Prioritize: Validates refined user stories with stakeholders; prioritizes and organizes stories within sprints.\n• Release Management:\n• Documents and communicating release scope, including detailed release schedules and key milestones.\n• Owns release activities, including release plans, user acceptance testing (UAT) schedules, go/no-go reviews, knowledge transfer sessions for operations, and release notes distributions.\n• Conducts post-release retrospectives to evaluate success and identify improvements.\n• Agile Participation: Actively participates in Agile ceremonies; provides technical story guidance and clarifications.\n• Issue Investigation: Investigates and identifies issues with software or systems; develops remediation solution options.\n• Requirement Fulfillment: Ensures that systems meet business and technical needs.Cross-Team Coordination: Facilitates alignment and coordination across technical teams.\n\nADDITIONAL RESPONSIBILITIES\n• Technology Research: Coordinates technology research and estimations.\n• Meeting Facilitation: Chairs and facilitates meetings where appropriate and distributes minutes.\n• Training and Mentorship: Provides training and mentorship as needed.\n• Continuous Improvement: Identifies opportunities for process improvements and contributes to the development of best practices.Quality Assurance: Participates in quality assurance activities.\n\nREQUIRED SKILLS & PERSONAL QUALIFICATIONS\n• Strong ability to analyze business requirements and translate them into technical specifications and technical stories.\n• Proficiency in conceptual understanding of databases, programming languages, software development life cycles, system architectures, and data modeling.\n• Ability to identify issues, develop remediation solutions, and troubleshoot problems.\n• Experience in planning and coordinating release activities.\n• Familiarity with Agile practices and participation in Agile ceremonies.\n• Skilled in creating detailed documentation for business requirements including technical specifications, technical stories, user stories, and operational processes.\n• Proven ability to facilitate alignment and coordination across technical teams to ensure cohesive and integrated solutions.\n• Excellent verbal and written communication skills.\n• Effective time management and ability to drive multiple projects simultaneously.\n• Competency in Microsoft applications including Word, Excel, Outlook and PowerPoint.\n• Competent with JIRA and Confluence preferred.\n• Experience supporting telematics or connected vehicle technologies preferred.\n• Experience with Waterfall, Agile SCRUM, and Kanban methodologies, demonstrating versatility in managing projects through iterative and structured approaches preferred.\n\nEDUCATION/EXPERIENCE REQUIREMENTS: Bachelor's Degree in computer science, business, or related field required Master's Degree such as Masters in Business Administration (MBA) or other relevant advanced degree preferred. Relevant experience accepted in lieu of a degree. At least 4 to 6 years required.\n\nWORK ENVIRONMENT\n• Office Location: Camden, NJ apart of the Greater Philadelphia Area (Philly)\n• Hybrid Role: Remote work 2 days per week (After 90 Days) [Wednesdays & Fridays]\n• Internal Work Environment: Prolonged sitting at desk and computer.\n• Physical Demands: Occasionally lifts and moves computing equipment up to 75 lbs.\n• Travel Required: 5% Internationally and Domestically\n\nCOMPENSATION: The recruiting base salary range for this full-time position is $88000 - $120000/year. Within the range, individual pay is determined by factors, including job-related skills, experience, and relevant education or training. (Internal Job Grade: P2_T) In addition to competitive salary, Subaru offers an amazing benefits package that includes:\n• Medical, Dental, Vision Plans\n• Pension, Profit Sharing, and 401K Match Offerings\n• 15 Vacation days, 9 Company Holidays, 5 Floating Holidays, and 5 Sick days.\n• Tuition Reimbursement Program\n• Vehicle Discount Programs\n\nVisit our Careers landing page for additional information about our compensation and benefit programs.\n\nABOUT SUBARU\n\nLOVE. It’s what makes Subaru, Subaru®. As a leading auto brand in the US, we strive to be More Than a Car Company®. Subaru believes in being a positive force in the communities in which we live and work, not just with donations but with actions that set an example for others to follow. That’s what we call our Subaru Love Promise®.\n\nSubaru is a globally renowned automobile manufacturer known for its commitment to innovation, safety, and sustainability. With a rich history dating back to 1953, Subaru has consistently pushed the boundaries of automotive engineering to deliver vehicles that offer not only exceptional performance but also a unique blend of utility and adventure.\n\nSubaru's company culture is built on collaboration, diversity, and a shared passion for our product. We foster an inclusive environment that encourages employees to bring their unique perspectives and talents to the table. Our team members are driven by a common goal: to create exceptional vehicles that inspire and delight our customers.",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Camden, NJ",
+    "job_city": "Camden",
+    "job_state": "New Jersey",
+    "job_country": "US",
+    "job_latitude": 39.9425241,
+    "job_longitude": -75.1164689,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DIqmXeGXDTjbT6kv3AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 88000,
+    "job_max_salary": 120000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "Strong ability to analyze business requirements and translate them into technical specifications and technical stories",
+        "Proficiency in conceptual understanding of databases, programming languages, software development life cycles, system architectures, and data modeling",
+        "Ability to identify issues, develop remediation solutions, and troubleshoot problems",
+        "Experience in planning and coordinating release activities",
+        "Familiarity with Agile practices and participation in Agile ceremonies",
+        "Skilled in creating detailed documentation for business requirements including technical specifications, technical stories, user stories, and operational processes",
+        "Proven ability to facilitate alignment and coordination across technical teams to ensure cohesive and integrated solutions",
+        "Excellent verbal and written communication skills",
+        "Effective time management and ability to drive multiple projects simultaneously",
+        "Competency in Microsoft applications including Word, Excel, Outlook and PowerPoint",
+        "Relevant experience accepted in lieu of a degree",
+        "At least 4 to 6 years required"
+      ],
+      "Benefits": [
+        "COMPENSATION: The recruiting base salary range for this full-time position is $88000 - $120000/year",
+        "Within the range, individual pay is determined by factors, including job-related skills, experience, and relevant education or training",
+        "(Internal Job Grade: P2_T) In addition to competitive salary, Subaru offers an amazing benefits package that includes:",
+        "Medical, Dental, Vision Plans",
+        "Pension, Profit Sharing, and 401K Match Offerings",
+        "15 Vacation days, 9 Company Holidays, 5 Floating Holidays, and 5 Sick days",
+        "Tuition Reimbursement Program",
+        "Vehicle Discount Programs",
+        "Visit our Careers landing page for additional information about our compensation and benefit programs"
+      ],
+      "Responsibilities": [
+        "In support of the Connected Vehicle Development and Delivery team, plays a pivotal role in aligning business needs with technical solutions to deliver efficient and innovative connected vehicle services",
+        "In this visible role, collaborates with both internal and external Business Analysts (BAs) to transform vision into technical reality",
+        "Maintains dedication to developing and maintaining high-quality, reliable, scalable, and secure software solutions that exceed customer expectations",
+        "Technical Focus:",
+        "Concentrates on the integration and optimization of systems",
+        "Focuses on global scalability and complex integrations",
+        "Review and Understand User Stories: Reviews user stories created by the Business Analyst (BA) and collaborates with the BA to understand the business context and objectives",
+        "Identify Technical Stories: Translates business requirements into technical stories, identifying systems, software, and technologies while considering system integrations, data flow, security, and performance",
+        "Create Technical Stories: Creates refined technical stories for technical functions considering system integrations, data flow, security, and performance",
+        "Collaborate with Stakeholders: Collaborates with stakeholders, including the BA and development teams, and to gather additional insights and to clarify ambiguities to ensure a shared understanding of requirements and technical constraints",
+        "Refine User Stories: Refines user stories by adding technical details and specifications, defining acceptance criteria, technical tasks, and dependencies while breaking down complex user stories into smaller, manageable tasks",
+        "Create Detailed Documentation: Documents refined user stories, including technical requirements and specifications serving as a guide for the team; maintains a comprehensive knowledge base and documentation repository",
+        "Validate and Prioritize: Validates refined user stories with stakeholders; prioritizes and organizes stories within sprints",
+        "Release Management:",
+        "Documents and communicating release scope, including detailed release schedules and key milestones",
+        "Owns release activities, including release plans, user acceptance testing (UAT) schedules, go/no-go reviews, knowledge transfer sessions for operations, and release notes distributions",
+        "Conducts post-release retrospectives to evaluate success and identify improvements",
+        "Agile Participation: Actively participates in Agile ceremonies; provides technical story guidance and clarifications",
+        "Issue Investigation: Investigates and identifies issues with software or systems; develops remediation solution options",
+        "Requirement Fulfillment: Ensures that systems meet business and technical needs.Cross-Team Coordination: Facilitates alignment and coordination across technical teams",
+        "Technology Research: Coordinates technology research and estimations",
+        "Meeting Facilitation: Chairs and facilitates meetings where appropriate and distributes minutes",
+        "Training and Mentorship: Provides training and mentorship as needed",
+        "Continuous Improvement: Identifies opportunities for process improvements and contributes to the development of best practices",
+        "Quality Assurance: Participates in quality assurance activities",
+        "Hybrid Role: Remote work 2 days per week (After 90 Days) [Wednesdays & Fridays]",
+        "Internal Work Environment: Prolonged sitting at desk and computer",
+        "Physical Demands: Occasionally lifts and moves computing equipment up to 75 lbs",
+        "Travel Required: 5% Internationally and Domestically"
+      ]
+    },
+    "job_onet_soc": "15112100",
+    "job_onet_job_zone": "4",
+    "id": "www-indeed-com-viewjob",
     "_source": "new_jobs"
   },
   {
@@ -785,219 +785,6 @@
     "job_onet_soc": "13111100",
     "job_onet_job_zone": "5",
     "id": "career-io-job-student-application-business-analyst-detroit-wayne-resa-036b0f10b4122a3071c21873a85baefd",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "gNXgyBi5ZLaA6s-RAAAAAA==",
-    "job_title": "Technology Business Systems Analyst - People Technology",
-    "employer_name": "Dutch Bros Coffee",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJmhby9lv-bN8BMEQhboF2RooZtAHyFm0Y27AI&s=0",
-    "employer_website": "https://www.dutchbros.com",
-    "job_publisher": "Dutch Bros Careers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://careers.dutchbros.com/us/en/job/REQ-17889/Technology-Business-Systems-Analyst-People-Technology?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Dutch Bros Careers",
-        "apply_link": "https://careers.dutchbros.com/us/en/job/REQ-17889/Technology-Business-Systems-Analyst-People-Technology?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=2f2b1b6ff3afed50&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "IHireTechnology",
-        "apply_link": "https://www.ihiretechnology.com/jobs/view/509878639?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Dutchbros/Job/Technology-Business-Systems-Analyst-People-Technology/-in-Tempe,AZ?jid=24851f4b5eed463f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/technology-business-systems-analyst-people-technology-at-dutch-bros-coffee-4371730004?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Ladders",
-        "apply_link": "https://www.theladders.com/job/technology-business-systems-analyst-people-technology-dutch-bros-coffee-tempe-az_85702401?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/technology-business-systems-analyst-people-technology_7ea1a1c250900dbeee6c57d9cec7a32f05294?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/technology-business-systems-analyst-people-technology-dutch-bros-JV_IC1133917_KO0,53_KE54,64.htm?jl=1010032457480&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "It's fun to work in a company where people truly believe in what they are doing. At Dutch Bros Coffee, we are more than just a coffee company. We are a fun-loving, mind-blowing company that makes a difference one cup at a time.\n\nPosition Overview:\n\nAs Dutch Bros continues its incredible growth, the teams building our future are more critical than ever. We are looking for a technical, problem-solving Technology Business Analyst to own and advance the systems that power our People Technology Team. You will act as a primary technology partner, automating processes and delivering actionable insights to drive business success across these critical functions. You will be the go-to technology partner for helping the organization fully leverage Workday while continuously advancing and maturing our other People Technology systems to ensure our tools are as high-performing as our people.\n\nJob Qualifications:\n• Bachelor’s degree in IT, Computer Science, Software Engineering, or a quantitative field.\n• 3–5+ years in business systems analysis, HRIS architecture, or a similar technical role.\n• Proficiency in Workday reporting tools, data visualization (BI tools), and AI-powered automation.\n• Effective prioritization, change management, functional expertise, and strong communication.\n\nLocation Requirement:\nThis role is located in Tempe, Arizona. This position is required to be in office 4 days per week (Mon-Thurs); Fridays are optional remote work days.\n\nKey Result Areas (KRAs):\n• Support & Maturation of People Systems: Provide comprehensive technical support for the entire People Technology ecosystem. This includes maintaining system stability, managing upgrades, and ensuring all HRIS and peripheral people tools are optimized to support the employee lifecycle.\n• Workday Strategy & Optimization: Serve as the subject matter expert for Workday, identifying underutilized features and implementing configurations that maximize the platform's value for the organization.\n• Data Analysis & Reporting: Extract and synthesize data using Python, R, or SQL to create dashboards, KPIs, and complex analytics for HR, payroll, and finance.\n• Process Automation: Identify and implement intelligent automation—leveraging AI and Workday Prism—to accelerate workflows and enhance data integrity across Real Estate, Legal, and People teams.\n• Stakeholder Collaboration: Partner with cross-functional stakeholders to translate business needs into technical requirements and manage backlogs of system requests.\n• System Health & Integration: Troubleshoot database issues, configure system changes, and manage integrations between platforms to ensure seamless data flow.\n\nSkills:\n• Adaptable\n• Initiative\n• Collaborative\n• Communication\n• Effective Prioritization\n• Functional and Tech. Expertise\n\nPhysical Requirements:\n• In-Office Environment:Must be able to work in a busy, crowded, and loud office with frequent distractions and interruptions\n• Must be able to collaborate in-person with occasional impromptu in-person meetings\n• Office Conditions:Adaptability to typical office conditions, which may include exposure to air conditioning, heating, artificial lighting, and varying noise levels\n• Mobility: Ability to sit, stand, reach, twist, stretch, and work at a desk for long stretches. Must be able to occasionally move or lift office items up to 25 pounds\n• Hearing Requirements:Hearing must be sufficient or correctable to ensure clear understanding of spoken information, including participating in virtual meetings and phone calls. Use of hearing aids or other assistive devices is acceptable if needed.\n• Reading and Writing Proficiency:Ability to read and write in English is essential for processing documents, drafting reports, and following up on necessary actions. Proficiency in written communication is required to handle job-related tasks effectively.\n• Vision Requirements:Vision must be adequate or correctable to perform essential job duties, such as reading documents on a computer screen and using other visual tools. Use of corrective lenses or other measures to meet visual requirements is expected if needed.\n• Technology Proficiency:Must be proficient in operating a computer and other office productivity tools such as printers, scanners, and collaboration software.\n• Effective Communication:Must possess strong verbal and written communication skills to interact effectively with team members, clients, and other stakeholders via email, video conferencing, and other in office communication tools.\n\nCompensation:\n\nDOE\n\nIf you like wild growth and working in a unique and fun environment, surrounded by positive community, you'll enjoy your career with us!",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "Tempe, AZ",
-    "job_city": "Tempe",
-    "job_state": "Arizona",
-    "job_country": "US",
-    "job_latitude": 33.4255104,
-    "job_longitude": -111.94000539999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DgNXgyBi5ZLaA6s-RAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Bachelor’s degree in IT, Computer Science, Software Engineering, or a quantitative field",
-        "3–5+ years in business systems analysis, HRIS architecture, or a similar technical role",
-        "Proficiency in Workday reporting tools, data visualization (BI tools), and AI-powered automation",
-        "Effective prioritization, change management, functional expertise, and strong communication",
-        "Adaptable",
-        "Initiative",
-        "Collaborative",
-        "Communication",
-        "Effective Prioritization",
-        "Functional and Tech",
-        "In-Office Environment:Must be able to work in a busy, crowded, and loud office with frequent distractions and interruptions",
-        "Must be able to collaborate in-person with occasional impromptu in-person meetings",
-        "Office Conditions:Adaptability to typical office conditions, which may include exposure to air conditioning, heating, artificial lighting, and varying noise levels",
-        "Mobility: Ability to sit, stand, reach, twist, stretch, and work at a desk for long stretches",
-        "Must be able to occasionally move or lift office items up to 25 pounds",
-        "Hearing Requirements:Hearing must be sufficient or correctable to ensure clear understanding of spoken information, including participating in virtual meetings and phone calls",
-        "Use of hearing aids or other assistive devices is acceptable if needed",
-        "Reading and Writing Proficiency:Ability to read and write in English is essential for processing documents, drafting reports, and following up on necessary actions",
-        "Proficiency in written communication is required to handle job-related tasks effectively",
-        "Vision Requirements:Vision must be adequate or correctable to perform essential job duties, such as reading documents on a computer screen and using other visual tools",
-        "Use of corrective lenses or other measures to meet visual requirements is expected if needed",
-        "Technology Proficiency:Must be proficient in operating a computer and other office productivity tools such as printers, scanners, and collaboration software",
-        "Effective Communication:Must possess strong verbal and written communication skills to interact effectively with team members, clients, and other stakeholders via email, video conferencing, and other in office communication tools"
-      ],
-      "Responsibilities": [
-        "You will act as a primary technology partner, automating processes and delivering actionable insights to drive business success across these critical functions",
-        "You will be the go-to technology partner for helping the organization fully leverage Workday while continuously advancing and maturing our other People Technology systems to ensure our tools are as high-performing as our people",
-        "This position is required to be in office 4 days per week (Mon-Thurs); Fridays are optional remote work days",
-        "Support & Maturation of People Systems: Provide comprehensive technical support for the entire People Technology ecosystem",
-        "This includes maintaining system stability, managing upgrades, and ensuring all HRIS and peripheral people tools are optimized to support the employee lifecycle",
-        "Workday Strategy & Optimization: Serve as the subject matter expert for Workday, identifying underutilized features and implementing configurations that maximize the platform's value for the organization",
-        "Data Analysis & Reporting: Extract and synthesize data using Python, R, or SQL to create dashboards, KPIs, and complex analytics for HR, payroll, and finance",
-        "Process Automation: Identify and implement intelligent automation—leveraging AI and Workday Prism—to accelerate workflows and enhance data integrity across Real Estate, Legal, and People teams",
-        "Stakeholder Collaboration: Partner with cross-functional stakeholders to translate business needs into technical requirements and manage backlogs of system requests",
-        "System Health & Integration: Troubleshoot database issues, configure system changes, and manage integrations between platforms to ensure seamless data flow"
-      ]
-    },
-    "job_onet_soc": "21101200",
-    "job_onet_job_zone": "5",
-    "id": "careers-dutchbros-com-us-en-job-req-17889-technology-business-systems-analyst-people-technology",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "l8mRl5BfOnqF75_AAAAAAA==",
-    "job_title": "Manager, Business Analysis And Insights - Sales",
-    "employer_name": "Walmart",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
-    "employer_website": "https://corporate.walmart.com",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time and Part-time",
-    "job_employment_types": [
-      "FULLTIME",
-      "PARTTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Manager,-Business-Analysis-And-Insights-Sales/-in-Yonkers,NY?jid=b424b033c0a628fa&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Manager,-Business-Analysis-And-Insights-Sales/-in-Yonkers,NY?jid=b424b033c0a628fa&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "Position Summary...The role supports the development, administration, and execution of sales compensation programs designed to drive performance across the organization. In this role, you will collaborate closely with Finance, HR, and Total Rewards to calculate commissions and bonuses, maintain accurate compensation documentation, and ensure sales teams receive timely updates on plan changes. You will manage key operational processes such as validating data for commission payouts, maintaining sales team roster and hierarchy records, and supporting quota setting and territory assignments. Additionally, you will prepare quarterly performance reports, respond to compensation-related inquiries, and participate in special projects focused on enhancing compensation tools, processes, and overall sales performance. This position requires strong attention to detail, analytical skills, and the ability to communicate effectively with cross‑functional partners and sales teams.\n\nWhat you'll do...\n• Assist in developing and administrating sales compensation plans while working with Finance to calculate commissions and bonuses.\n• Partner with HR and Total Rewards to maintains compensation documentation and ensures timely communication of plan changes to the sales team\n• Supporting commission payouts process, validating data and ensuring accuracy\n• Responds to compensation-related inquiries from sales team\n• Maintaining up-to-date sales team rosters, hierarchies, and compensation plan records\n• Supports quota setting and territory assignment and distributing letters for the sales team\n• Quarterly reporting as it relates to individual or team performance\n• Participate in special projects related to compensation, planning tools, or sales performance initiatives\n• Audit payments against plan and communicate with plan stakeholders to address issues\nWhat you’ll bring…\n• Bachelor’s degree in Business, Operations, Finance, HR or related field.\n• At least 3 years of work experience in a role requiring analytical and strategic skills, such as business analyst, compensation analyst, or business development.\n• The ability to communicate findings and make recommendations for improvement clearly and effectively either via presentation or whitepaper.\n• The capability to model and simulate improvements to existing business processes, evaluate 'what-if' scenarios, and conduct dry runs to identify and resolve gaps before implementation.\n• Aptitude for cross-functional collaboration across various teams, with a strong ability to multitask with a sense of urgency.\n\nRespect the Individual: Demonstrates and encourages respect for all builds a highperforming team seeks and embraces differences in people cultures ideas and experiences creates a workplace where all associates feel seen supported and connected through culture of belonging so associates thrive and perform drives a positive associate and customermember experience for all identifies attracts and retains the best team members\nRespect the Individual: Creates a discipline and focus around developing talent through feedback coaching mentoring and developmental opportunities promotes an environment allowing everyone to bring their best selves to work empowers associates and partners to act in the best interest of the customermember and company and regularly recognizes others contributions and accomplishments\nRespect the Individual: Builds strong and trusting relationships with team members and business partners works collaboratively and crossfunctionally to achieve objectives and communicates and listens attentively with energy and positivity to motivate influence and inspire commitment and action\nAct with Integrity: Maintains and promotes the highest standards of integrity ethics and compliance models the Walmart values and leads by example to foster our culture supports Walmarts goal of becoming a regenerative company by making a positive impact for associates customers and the world around us eg creating a sense of belonging eliminating waste participating in local giving\nAct with Integrity: Follows the law our code of conduct and company policies and sets expectations for others to do the same promotes an environment where associates feel comfortable sharing concerns and reinforces our culture of nonretaliation listens to concerns raised by associates takes action and encourages others to do the same holds self and others accountable for achieving results in a way that is consistent with our values\nAct with Integrity: Acts as an altruistic servant leader and is consistently humble selfaware honest and transparent\nServe our Customers and Members Delivers expected business results while putting the customermember first and consistently applying an omnimerchant mindset and acts with an Every Day LowCost mindset to drive value and Every Day Low Prices for customersmembers\nServe our Customers and Members Adopts a holistic perspective that considers data analytics customermember insights and different parts of the business when making plans and shaping the teams strategy\nStrive for Excellence: Consistently raises the bar and seeks to improve demonstrates curiosity and a growth mindset seeks feedback asks thoughtful questions fosters an environment that supports learning innovation and learning from mistakes and intelligent risktaking and exhibits resilience in the face of setbacks\nStrive for Excellence: Seeks and implements continuous improvements and encourages the team to leverage new digital tools and ways of working\n\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\nFor information about benefits and eligibility, see One.Walmart.\nHoboken, New Jersey US-10279: The annual salary range for this position is $84,000.00 - $156,000.00\nBentonville, Arkansas US-09401: The annual salary range for this position is $70,000.00 - $130,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nBachelor's degree in Business, Analytics, Statistics, or related field and 2 years’ experience in data analytics, project management, business, or related area OR 4 years' experience in data analytics, project management, business, or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster's degree in Business, Analytics, or related field, Project Management Certification, Six Sigma certification, Statistical Programming Language\n\nPrimary Location...\n\n221 River St, Hoboken, NJ 07030, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Yonkers, NY",
-    "job_city": "Yonkers",
-    "job_state": "New York",
-    "job_country": "US",
-    "job_latitude": 40.931858899999995,
-    "job_longitude": -73.899008,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dl8mRl5BfOnqF75_AAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 84000,
-    "job_max_salary": 156000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "Bachelor’s degree in Business, Operations, Finance, HR or related field",
-        "At least 3 years of work experience in a role requiring analytical and strategic skills, such as business analyst, compensation analyst, or business development",
-        "The ability to communicate findings and make recommendations for improvement clearly and effectively either via presentation or whitepaper",
-        "The capability to model and simulate improvements to existing business processes, evaluate 'what-if' scenarios, and conduct dry runs to identify and resolve gaps before implementation",
-        "Aptitude for cross-functional collaboration across various teams, with a strong ability to multitask with a sense of urgency",
-        "Respect the Individual: Demonstrates and encourages respect for all builds a highperforming team seeks and embraces differences in people cultures ideas and experiences creates a workplace where all associates feel seen supported and connected through culture of belonging so associates thrive and perform drives a positive associate and customermember experience for all identifies attracts and retains the best team members",
-        "Bachelor's degree in Business, Analytics, Statistics, or related field and 2 years’ experience in data analytics, project management, business, or related area OR 4 years' experience in data analytics, project management, business, or related area",
-        "Master's degree in Business, Analytics, or related field, Project Management Certification, Six Sigma certification, Statistical Programming Language"
-      ],
-      "Benefits": [
-        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
-        "Health benefits include medical, vision and dental coverage",
-        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
-        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
-        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
-        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
-        "The amount you receive depends on your job classification and length of employment",
-        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
-        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
-        "Tuition, books, and fees are completely paid for by Walmart",
-        "Eligibility requirements apply to some benefits and may depend on your job classification and length of employment",
-        "Benefits are subject to change and may be subject to a specific plan or program terms",
-        "Hoboken, New Jersey US-10279: The annual salary range for this position is $84,000.00 - $156,000.00",
-        "Bentonville, Arkansas US-09401: The annual salary range for this position is $70,000.00 - $130,000.00 Additional compensation includes annual or quarterly performance bonuses",
-        "Additional compensation for certain positions may also include :"
-      ],
-      "Responsibilities": [
-        "Position Summary...The role supports the development, administration, and execution of sales compensation programs designed to drive performance across the organization",
-        "In this role, you will collaborate closely with Finance, HR, and Total Rewards to calculate commissions and bonuses, maintain accurate compensation documentation, and ensure sales teams receive timely updates on plan changes",
-        "You will manage key operational processes such as validating data for commission payouts, maintaining sales team roster and hierarchy records, and supporting quota setting and territory assignments",
-        "Additionally, you will prepare quarterly performance reports, respond to compensation-related inquiries, and participate in special projects focused on enhancing compensation tools, processes, and overall sales performance",
-        "This position requires strong attention to detail, analytical skills, and the ability to communicate effectively with cross‑functional partners and sales teams",
-        "Assist in developing and administrating sales compensation plans while working with Finance to calculate commissions and bonuses",
-        "Partner with HR and Total Rewards to maintains compensation documentation and ensures timely communication of plan changes to the sales team",
-        "Supporting commission payouts process, validating data and ensuring accuracy",
-        "Responds to compensation-related inquiries from sales team",
-        "Maintaining up-to-date sales team rosters, hierarchies, and compensation plan records",
-        "Supports quota setting and territory assignment and distributing letters for the sales team",
-        "Quarterly reporting as it relates to individual or team performance",
-        "Participate in special projects related to compensation, planning tools, or sales performance initiatives",
-        "Audit payments against plan and communicate with plan stakeholders to address issues",
-        "Respect the Individual: Builds strong and trusting relationships with team members and business partners works collaboratively and crossfunctionally to achieve objectives and communicates and listens attentively with energy and positivity to motivate influence and inspire commitment and action",
-        "Act with Integrity: Maintains and promotes the highest standards of integrity ethics and compliance models the Walmart values and leads by example to foster our culture supports Walmarts goal of becoming a regenerative company by making a positive impact for associates customers and the world around us eg creating a sense of belonging eliminating waste participating in local giving",
-        "Act with Integrity: Acts as an altruistic servant leader and is consistently humble selfaware honest and transparent",
-        "Serve our Customers and Members Delivers expected business results while putting the customermember first and consistently applying an omnimerchant mindset and acts with an Every Day LowCost mindset to drive value and Every Day Low Prices for customersmembers",
-        "Serve our Customers and Members Adopts a holistic perspective that considers data analytics customermember insights and different parts of the business when making plans and shaping the teams strategy",
-        "Strive for Excellence: Consistently raises the bar and seeks to improve demonstrates curiosity and a growth mindset seeks feedback asks thoughtful questions fosters an environment that supports learning innovation and learning from mistakes and intelligent risktaking and exhibits resilience in the face of setbacks"
-      ]
-    },
-    "job_onet_soc": "13111100",
-    "job_onet_job_zone": "5",
-    "id": "www-ziprecruiter-com-c-walmart-job-manager-business-analysis-and-insights-sales-in-yonkers-ny",
     "_source": "new_jobs"
   },
   {
@@ -1129,6 +916,91 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "26OxoevOxcIP-cC-AAAAAA==",
+    "job_title": "Manager, Business Analysis And Insights - Sales Strategy",
+    "employer_name": "Walmart",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
+    "employer_website": "https://corporate.walmart.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time and Part-time",
+    "job_employment_types": [
+      "FULLTIME",
+      "PARTTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Manager,-Business-Analysis-And-Insights-Sales-Strategy/-in-Goshen,AR?jid=36418b4ed2ee2af3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Manager,-Business-Analysis-And-Insights-Sales-Strategy/-in-Goshen,AR?jid=36418b4ed2ee2af3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Position Summary...\n\nWhat you'll do...\n• Develops business strategies by recommending initiatives based on data; implementing processes based on recommended strategies; partnering with internal and external stakeholders to execute strategies; reassessing strategies to adjust to feedback and meet results; building relationships with stakeholders to support strategic growth plans; and creating summaries identifying past, current, and future business plans and objectives.\n• Develop and maintain financial models to forecast sales performance, evaluate strategic initiatives, and support decision-making processes.\n• Design presentations that craft a cohesive and compelling narrative, clearly communicating sales strategies, performance insights, and strategic recommendations to executive-level audiences.\n• Ensures business needs are met by evaluating the ongoing effectiveness of current plans, programs, and initiatives; consulting with key stakeholders; soliciting, evaluating, and applying suggestions for improving efficiency and cost-effectiveness; and participating in and supporting community events.\n• Demonstrates up-to-date expertise in business analysis and advises on the development, execution, and improvement of action plans by providing expert advice and guidance to others in the application of information and best practices; supporting and aligning efforts to meet customer and business needs; and building commitment for perspectives and rationales.\n• Provides data-driven analysis and insights to help support business strategies by evaluating ongoing analytical needs; reporting data-based insights in a uniform manner; reporting on business strategies; collaborating with internal and external business partners to build a consistent and accurate strategy for using data-driven insights.\n• Develops and drives business opportunities by identifying program and project opportunities; determining program and project feasibility through data analysis; assessing the financial and physical performance of each program; and driving strategies with cross-functional teams.\n• Drives processes across different areas of the business to ensure efficiency and compliance by establishing timelines, workflows, and requirements; overseeing training; verifying necessary documentation for reviewing results; managing functioning of key process and controls; and determining appropriate information.\n• Drives the execution of multiple business plans and projects by identifying customer and operational needs; developing and communicating business plans and priorities; removing barriers and obstacles that impact performance; providing resources; identifying performance standards; measuring progress and adjusting performance accordingly; developing contingency plans; and demonstrating adaptability and supporting continuous learning\n\nWhat you'll bring:\n• Bachelor’s degree in Business, Operations, Finance, Consulting or related field.\n• At least about 3 years of work experience in a role requiring analytical and strategic skills, such as business analyst, data analyst, consulting, or business development.\n• The ability to communicate findings and make recommendations for improvement clearly and effectively either via presentation.\n• The capability to model and simulate improvements to existing business processes, evaluate 'what-if' scenarios, and conduct dry runs to identify and resolve gaps before implementation.\n• Aptitude for cross-functional collaboration across various teams, with a strong ability to multitask with a sense of urgency.\n\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\nFor information about benefits and eligibility, see One.Walmart.\nBentonville, Arkansas US-09401: The annual salary range for this position is $70,000.00 - $130,000.00\nHoboken, New Jersey US-10279: The annual salary range for this position is $84,000.00 - $156,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nBachelor's degree in Business, Analytics, Statistics, or related field and 2 years’ experience in data analytics, project management, business, or related area OR 4 years' experience in data analytics, project management, business, or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster's degree in Business, Analytics, or related field, Project Management Certification, Six Sigma certification, Statistical Programming Language\n\nPrimary Location...\n\n702 Sw 8Th St, Bentonville, AR 72716, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
+    "job_is_remote": false,
+    "job_posted_at": "9 days ago",
+    "job_posted_at_timestamp": 1770422400,
+    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
+    "job_location": "Goshen, AR",
+    "job_city": "Goshen",
+    "job_state": "Arkansas",
+    "job_country": "US",
+    "job_latitude": 36.100950499999996,
+    "job_longitude": -93.9914302,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D26OxoevOxcIP-cC-AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 70000,
+    "job_max_salary": 130000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "Bachelor’s degree in Business, Operations, Finance, Consulting or related field",
+        "At least about 3 years of work experience in a role requiring analytical and strategic skills, such as business analyst, data analyst, consulting, or business development",
+        "The ability to communicate findings and make recommendations for improvement clearly and effectively either via presentation",
+        "The capability to model and simulate improvements to existing business processes, evaluate 'what-if' scenarios, and conduct dry runs to identify and resolve gaps before implementation",
+        "Aptitude for cross-functional collaboration across various teams, with a strong ability to multitask with a sense of urgency",
+        "Bachelor's degree in Business, Analytics, Statistics, or related field and 2 years’ experience in data analytics, project management, business, or related area OR 4 years' experience in data analytics, project management, business, or related area",
+        "Master's degree in Business, Analytics, or related field, Project Management Certification, Six Sigma certification, Statistical Programming Language"
+      ],
+      "Benefits": [
+        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
+        "Health benefits include medical, vision and dental coverage",
+        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
+        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
+        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
+        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
+        "The amount you receive depends on your job classification and length of employment",
+        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
+        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
+        "Tuition, books, and fees are completely paid for by Walmart",
+        "Eligibility requirements apply to some benefits and may depend on your job classification and length of employment",
+        "Benefits are subject to change and may be subject to a specific plan or program terms",
+        "Bentonville, Arkansas US-09401: The annual salary range for this position is $70,000.00 - $130,000.00",
+        "Hoboken, New Jersey US-10279: The annual salary range for this position is $84,000.00 - $156,000.00 Additional compensation includes annual or quarterly performance bonuses",
+        "Additional compensation for certain positions may also include :"
+      ],
+      "Responsibilities": [
+        "Develops business strategies by recommending initiatives based on data; implementing processes based on recommended strategies; partnering with internal and external stakeholders to execute strategies; reassessing strategies to adjust to feedback and meet results; building relationships with stakeholders to support strategic growth plans; and creating summaries identifying past, current, and future business plans and objectives",
+        "Develop and maintain financial models to forecast sales performance, evaluate strategic initiatives, and support decision-making processes",
+        "Design presentations that craft a cohesive and compelling narrative, clearly communicating sales strategies, performance insights, and strategic recommendations to executive-level audiences",
+        "Ensures business needs are met by evaluating the ongoing effectiveness of current plans, programs, and initiatives; consulting with key stakeholders; soliciting, evaluating, and applying suggestions for improving efficiency and cost-effectiveness; and participating in and supporting community events",
+        "Demonstrates up-to-date expertise in business analysis and advises on the development, execution, and improvement of action plans by providing expert advice and guidance to others in the application of information and best practices; supporting and aligning efforts to meet customer and business needs; and building commitment for perspectives and rationales",
+        "Provides data-driven analysis and insights to help support business strategies by evaluating ongoing analytical needs; reporting data-based insights in a uniform manner; reporting on business strategies; collaborating with internal and external business partners to build a consistent and accurate strategy for using data-driven insights",
+        "Develops and drives business opportunities by identifying program and project opportunities; determining program and project feasibility through data analysis; assessing the financial and physical performance of each program; and driving strategies with cross-functional teams",
+        "Drives processes across different areas of the business to ensure efficiency and compliance by establishing timelines, workflows, and requirements; overseeing training; verifying necessary documentation for reviewing results; managing functioning of key process and controls; and determining appropriate information",
+        "Drives the execution of multiple business plans and projects by identifying customer and operational needs; developing and communicating business plans and priorities; removing barriers and obstacles that impact performance; providing resources; identifying performance standards; measuring progress and adjusting performance accordingly; developing contingency plans; and demonstrating adaptability and supporting continuous learning"
+      ]
+    },
+    "job_onet_soc": "13111100",
+    "job_onet_job_zone": "5",
+    "id": "www-ziprecruiter-com-c-walmart-job-manager-business-analysis-and-insights-sales-strategy-in-goshen-ar",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "GpF-f0pzvTLkJcBFAAAAAA==",
     "job_title": "Principal Data Analyst- Encore",
     "employer_name": "Capital One",
@@ -1240,6 +1112,103 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "DSFvEQJgR57RyUflAAAAAA==",
+    "job_title": "JD Edwards 9.1, 9.2 Lead Business Analyst",
+    "employer_name": "Gallagher",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "GetHiredToday - Women For Hire",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.womenforhire.com/job/usa/algonquin-il/jd-edwards-9-1-9-2-lead-business-analyst-568698/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "GetHiredToday - Women For Hire",
+        "apply_link": "https://jobs.womenforhire.com/job/usa/algonquin-il/jd-edwards-9-1-9-2-lead-business-analyst-568698/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Introduction\n\nWelcome to Gallagher - a global community of people who bring bold ideas, deep expertise, and a shared commitment to doing what’s right. We help clients navigate complexity with confidence by empowering businesses, communities, and individuals to thrive. At Gallagher, you’ll find more than a job; you’ll find a culture built on trust, driven by collaboration, and sustained by the belief that we’re better together. Whether you join us in a client-facing role or as part of our brokerage division, our benefits and HR consulting division, or our corporate team, you’ll have the opportunity to grow your career, make an impact, and be part of something bigger. Experience a workplace where you’re encouraged to be yourself, supported to succeed, and inspired to keep learning. That’s what it means to live The Gallagher Way.\n\nOverview\n\nYou will be responsible for supporting the Corporate Financial applications owned by the GTS Corporate Applications team. This position serves as a Subject Matter Expert (SME) resource of applications for Finance and Accounting, supporting processes, and implementing improvements. You will ensures appropriate controls are in place and integrates data for decision makers and business owners to support IT, Compliance, project, and vendor management activities. This role also provides administrative and project support to the team\n\nHow you'll make an impact\n• Serve as a subject matter expert for JD Edwards Enterprise One (JDE) associated with functionality, content, processes, and procedures.\n• Gather business requirements and implement a global standard design for the Global Systems Implementation of JDE, focused initially on the LatAm and UK/EMEA regions\n• Assist with the design and implementation of operational and system enhancements to ensure production capabilities are both effective and efficient.\n• Serve as liaison between technical and functional stakeholders and project management teams to keep initiatives moving forward smoothly and in accordance with project plans.\n• Define project scope, project strategy, deliverable priorities, and recommend alternative solutions.\n• Define detailed requirements, analyze business needs, and validate solutions with the internal partners.\n\nAbout You\n• Minimum of 8 years technical knowledge of JD Edwards Enterprise One 9.1 or higher, including application configuration and development\n• Strong financial applications, analysis and issue resolution (trouble shooting) skills\n• Experience working with third party vendors to integrate with SaaS solutions\n• Working \"hands-on\" knowledge of Software Development Life Cycle and project management methodologies\n• Financial & Business acumen (working knowledge) and awareness of management and analysis processes\n• Strong PC skills, including experience using MS Office Products, especially Excel\n• Excellent organization skills, and verbal and written communication skills\n• Experience working in large enterprises with domestic and international locations\n• Experience working with off-shore or remote development/support teams\n\nDesired:\n• Bachelor’s Degree in Business, Information Technology, Engineering or related field\n• Minimum 8 years of technology project support experience\n• Experience with JDE Localization implementations for LatAm countries is a plus\n• Experience with other Financial applications such as Cognos Analytics, Planning Analytics, OneStream, and Trintech Cadency are a plus\n• Understanding of Single Sign-On and Identity Management solutions\n• Advanced level proficiency with Microsoft Visio or Lucid\n• Intermediate SQL query skills\n• Fluent in Spanish is a plus\n• Moderate fluency in Portuguese is a plus\n\nWork Traits:\n• Demonstrated ability to prioritize and manage multiple tasks simultaneously\n• Ability to work at a fast pace and cope with conflicting deadlines\n• Proven ability to deliver excellent customer service\n• Good analytical and problem solving skills\n• Strong attention to detail\n• Dependable, hardworking, professional, self-starter, able to work well with cross-functional teams\n• Ability to perform both project management and business/systems analysis\n\n#LI-SM3\n\nCompensation and benefits\n\nWe offer a competitive and comprehensive compensation package. The base salary range represents the anticipated low end and high end of the range for this position. The actual compensation will be influenced by a wide range of factors including, but not limited to previous experience, education, pay market/geography, complexity or scope, specialized skill set, lines of business/practice area, supply/demand, and scheduled hours. On top of a competitive salary, great teams and exciting career opportunities, we also offer a wide range of benefits.\n\nBelow are the minimum core benefits you’ll get, depending on your job level these benefits may improve:\n• Medical/dental/vision plans, which start from day one!\n• Life and accident insurance\n• 401(K) and Roth options\n• Tax-advantaged accounts (HSA, FSA)\n• Educational expense reimbursement\n• Paid parental leave\n\nOther benefits include:\n• Digital mental health services (Talkspace)\n• Flexible work hours (availability varies by office and job function)\n• Training programs\n• Gallagher Thrive program – elevating your health through challenges, workshops and digital fitness programs for your overall wellbeing\n• Charitable matching gift program\n• And more...\n• *The benefits summary above applies to fulltime positions. If you are not applying for a fulltime position, details about benefits will be provided during the selection process.\n\nWe value inclusion and diversity\n\nClick Here to review our U.S. Eligibility Requirements\n\nInclusion and diversity (I&D) is a core part of our business, and it’s embedded into the fabric of our organization. For more than 95 years, Gallagher has led with a commitment to sustainability and to support the communities where we live and work.\n\nGallagher embraces our employees’ diverse identities, experiences and talents, allowing us to better serve our clients and communities. We see inclusion as a conscious commitment and diversity as a vital strength. By embracing diversity in all its forms, we live out The Gallagher Way to its fullest.\n\nGallagher believes that all persons are entitled to equal employment opportunity and prohibits any form of discrimination by its managers, employees, vendors or customers based on race, color, religion, creed, gender (including pregnancy status), sexual orientation, gender identity (which includes transgender and other gender non-conforming individuals), gender expression, hair expression, marital status, parental status, age, national origin, ancestry, disability, medical condition, genetic information, veteran or military status, citizenship status, or any other characteristic protected (herein referred to as “protected characteristics”) by applicable federal, state, or local laws.\n\nEqual employment opportunity will be extended in all aspects of the employer-employee relationship, including, but not limited to, recruitment, hiring, training, promotion, transfer, demotion, compensation, benefits, layoff, and termination. In addition, Gallagher will make reasonable accommodations to known physical or mental limitations of an otherwise qualified person with a disability, unless the accommodation would impose an undue hardship on the operation of our business.",
+    "job_is_remote": false,
+    "job_posted_at": "1 day ago",
+    "job_posted_at_timestamp": 1771113600,
+    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
+    "job_location": "Algonquin, IL",
+    "job_city": "Algonquin",
+    "job_state": "Illinois",
+    "job_country": "US",
+    "job_latitude": 42.1655801,
+    "job_longitude": -88.29424929999999,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DDSFvEQJgR57RyUflAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Minimum of 8 years technical knowledge of JD Edwards Enterprise One 9.1 or higher, including application configuration and development",
+        "Strong financial applications, analysis and issue resolution (trouble shooting) skills",
+        "Experience working with third party vendors to integrate with SaaS solutions",
+        "Working \"hands-on\" knowledge of Software Development Life Cycle and project management methodologies",
+        "Financial & Business acumen (working knowledge) and awareness of management and analysis processes",
+        "Strong PC skills, including experience using MS Office Products, especially Excel",
+        "Excellent organization skills, and verbal and written communication skills",
+        "Experience working in large enterprises with domestic and international locations",
+        "Experience working with off-shore or remote development/support teams",
+        "Demonstrated ability to prioritize and manage multiple tasks simultaneously",
+        "Ability to work at a fast pace and cope with conflicting deadlines",
+        "Proven ability to deliver excellent customer service",
+        "Good analytical and problem solving skills",
+        "Strong attention to detail",
+        "Dependable, hardworking, professional, self-starter, able to work well with cross-functional teams",
+        "Ability to perform both project management and business/systems analysis"
+      ],
+      "Benefits": [
+        "Compensation and benefits",
+        "We offer a competitive and comprehensive compensation package",
+        "The base salary range represents the anticipated low end and high end of the range for this position",
+        "The actual compensation will be influenced by a wide range of factors including, but not limited to previous experience, education, pay market/geography, complexity or scope, specialized skill set, lines of business/practice area, supply/demand, and scheduled hours",
+        "On top of a competitive salary, great teams and exciting career opportunities, we also offer a wide range of benefits",
+        "Medical/dental/vision plans, which start from day one!",
+        "Life and accident insurance",
+        "401(K) and Roth options",
+        "Tax-advantaged accounts (HSA, FSA)",
+        "Educational expense reimbursement",
+        "Paid parental leave",
+        "Digital mental health services (Talkspace)",
+        "Flexible work hours (availability varies by office and job function)",
+        "Training programs",
+        "Gallagher Thrive program – elevating your health through challenges, workshops and digital fitness programs for your overall wellbeing",
+        "Charitable matching gift program",
+        "And more..",
+        "*The benefits summary above applies to fulltime positions"
+      ],
+      "Responsibilities": [
+        "You will be responsible for supporting the Corporate Financial applications owned by the GTS Corporate Applications team",
+        "This position serves as a Subject Matter Expert (SME) resource of applications for Finance and Accounting, supporting processes, and implementing improvements",
+        "You will ensures appropriate controls are in place and integrates data for decision makers and business owners to support IT, Compliance, project, and vendor management activities",
+        "This role also provides administrative and project support to the team",
+        "Serve as a subject matter expert for JD Edwards Enterprise One (JDE) associated with functionality, content, processes, and procedures",
+        "Gather business requirements and implement a global standard design for the Global Systems Implementation of JDE, focused initially on the LatAm and UK/EMEA regions",
+        "Assist with the design and implementation of operational and system enhancements to ensure production capabilities are both effective and efficient",
+        "Serve as liaison between technical and functional stakeholders and project management teams to keep initiatives moving forward smoothly and in accordance with project plans",
+        "Define project scope, project strategy, deliverable priorities, and recommend alternative solutions",
+        "Define detailed requirements, analyze business needs, and validate solutions with the internal partners"
+      ]
+    },
+    "job_onet_soc": "13111100",
+    "job_onet_job_zone": "5",
+    "id": "jobs-womenforhire-com-job-usa-algonquin-il-jd-edwards-9-1-9-2-lead-business-analyst-568698",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "2HyxaoeB298x9eJmAAAAAA==",
     "job_title": "SRP - Engineering Business Analyst - P3 - (Onsite)",
     "employer_name": "RTX Corporation",
@@ -1261,9 +1230,9 @@
     ],
     "job_description": "**Date Posted:**\n\n2026-02-13\n• *Country:**\n\nUnited States of America\n• *Location:**\n\nUS-MA-WOBURN-WB2 ~ 225 Presidential Way ~ GODDARD BLDG\n• *Position Role Type:**\n\nOnsite\n• *U.S. Citizen, U.S. Person, or Immigration Status Requirements:**\n\nU.S. citizenship is required, as only U.S. citizens are authorized to access information under this program/contract.\n• *Security Clearance Type:**\n\nNone/Not Required\n• *Security Clearance Status:**\n\nNot Required\n\nAt Raytheon, the foundation of everything we do is rooted in our values and a higher calling - to help our nation and allies defend freedoms and deter aggression. We bring the strength of more than 100 years of experience and renowned engineering expertise to meet the needs of today's mission and stay ahead of tomorrow's threat. Our team solves tough, meaningful problems that create a safer, more secure world.\n\nThe Raytheon Functional Finance team is seeking a Principal Engineering Business Analyst (Grade P3). The successful candidate will support Engineering Product Team Leads, Control Account Managers, and Program leads in the successful completion of monthly Earned Value Management (EVM) inputs, reporting and analysis, monthly Budget Change Requests (BCRs), facilitate EAC and LRE inputs, and demonstrate the ability to perform meaningful analysis and effective communication to drive predictable results. Scope of work includes partnering with engineering and program leads for EVMS process inputs, EAC/LRE development, monthly variance reporting, and weekly analysis of cost and labor runs.\n\nThe role focuses on driving cost control and schedule using APEX/SAP EV, IMS, and PMX management reporting tools. The candidate will be required to perform analyses and prepare reports to drive predictable cost and schedule. The ability to be self-sufficient as well as operating in a team environment, supporting both the Functional organizations, and ensuring program financial commitments are met are fundamental to success in this role.\n• *What You Will Do**\n\n+ Support the creation of Estimates at Complete (EACs) on a quarterly basis and Latest Revised Estimates (LRE) on a monthly basis including estimate of costs, test of reasonableness analysis, and risk and opportunities assessment at the Program / Product / Mission area level.\n\n+ Perform detailed EV and financial analysis to budget baseline, schedule, and EAC positions.\n\n+ Prepare forecasts, monitor actual costs, and document variances to plans and forecasts\n\n+ Partner with Operations and Supply Chain to understand program cost and schedule variance\n• *Qualifications You Must Have**\n\n+ **Typically requires:** A University Degree or equivalent experience and minimum 5 years prior relevant experience, _or_ An Advanced Degree in a related field and minimum 3 years experience\n\n+ Experience with the Microsoft Office Tool Suite, focus on Excel.\n• *Qualifications We Prefer**\n\n+ Experience with Federal Acquisition Regulation (FAR), Defense Federal Acquisition Regulation Supplement (DFARS) and/or other Government Procurement regulations as they pertain to Bid/Cost proposals\n\n+ Knowledge in leading and managing the execution of processes, projects and tactics within one work area.\n\n+ Knowledge and skills within a specific technical or professional discipline with understanding of the impact of work on other areas of the organization.\n\n+ Demonstrated ability to work effectively with coworkers\n\n+ Knowledge or experience with Operations and Supply Chain Scope\n• *What We Offer**\n\n+ Our values drive our actions, behaviors, and performance with a vision for a safer, more connected world. At RTX we value: Trust, Respect, Accountability, Collaboration, and Innovation.\n• *Learn More & Apply Now!**\n\n+ Please consider the following role type definition as you apply for this role. Onsite: Employees who are working in Onsite roles will work primarily onsite. This includes all production and maintenance employees, as they are essential to the development of our products.\n• *_As part of our commitment to maintaining a secure hiring process, candidates may be asked to attend select steps of the interview process in-person at one of our office locations, regardless of whether the role is designated as on-site, hybrid or remote._**\n\nThe salary range for this role is 86,800 USD - 165,200 USD. The salary range provided is a good faith estimate representative of all experience levels.\n\nRTX considers several factors when extending an offer, including but not limited to, the role, function and associated responsibilities, a candidate's work experience, location, education/training, and key skills.\n\nHired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays. Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement.\n\nHired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement. Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company's performance.\n\nThis role is a U.S.-based role. If the successful candidate resides in a U.S. territory, the appropriate pay structure and benefits will apply.\n\nRTX anticipates the application window closing approximately 40 days from the date the notice was posted. However, factors such as candidate flow and business necessity may require RTX to shorten or extend the application window.\n\n_RTX is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status, or any other applicable state or federal protected class. RTX provides affirmative action in employment for qualified Individuals with a Disability and Protected Veterans in compliance with Section 503 of the Rehabilitation Act and the Vietnam Era Veterans' Readjustment Assistance Act._\n• *Privacy Policy and Terms:**\n\nClick on this link (http://www.rtx.com/privacy/Job-Applicant-Privacy-Notice) to read the Policy and Terms\n\nRaytheon Technologies is An Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status, age or any other federally protected class.",
     "job_is_remote": false,
-    "job_posted_at": "21 hours ago",
-    "job_posted_at_timestamp": 1771149600,
-    "job_posted_at_datetime_utc": "2026-02-15T10:00:00.000Z",
+    "job_posted_at": "22 hours ago",
+    "job_posted_at_timestamp": 1771146000,
+    "job_posted_at_datetime_utc": "2026-02-15T09:00:00.000Z",
     "job_location": "Reading, MA",
     "job_city": "Reading",
     "job_state": "Massachusetts",
@@ -1271,9 +1240,9 @@
     "job_latitude": 42.5235564,
     "job_longitude": -71.1029921,
     "job_benefits": [
+      "paid_time_off",
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D2HyxaoeB298x9eJmAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1366,9 +1335,9 @@
     "job_latitude": 42.355507599999996,
     "job_longitude": -71.0565364,
     "job_benefits": [
-      "dental_coverage",
+      "paid_time_off",
       "health_insurance",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DKB9GXLqfaaHmbxKDAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1419,6 +1388,122 @@
     "job_onet_soc": "13111100",
     "job_onet_job_zone": "5",
     "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "gNXgyBi5ZLaA6s-RAAAAAA==",
+    "job_title": "Technology Business Systems Analyst - People Technology",
+    "employer_name": "Dutch Bros Coffee",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJmhby9lv-bN8BMEQhboF2RooZtAHyFm0Y27AI&s=0",
+    "employer_website": "https://www.dutchbros.com",
+    "job_publisher": "Dutch Bros Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.dutchbros.com/us/en/job/REQ-17889/Technology-Business-Systems-Analyst-People-Technology?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Dutch Bros Careers",
+        "apply_link": "https://careers.dutchbros.com/us/en/job/REQ-17889/Technology-Business-Systems-Analyst-People-Technology?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=2f2b1b6ff3afed50&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "IHireTechnology",
+        "apply_link": "https://www.ihiretechnology.com/jobs/view/509878639?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Dutchbros/Job/Technology-Business-Systems-Analyst-People-Technology/-in-Tempe,AZ?jid=24851f4b5eed463f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/technology-business-systems-analyst-people-technology-at-dutch-bros-coffee-4371730004?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Ladders",
+        "apply_link": "https://www.theladders.com/job/technology-business-systems-analyst-people-technology-dutch-bros-coffee-tempe-az_85702401?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/technology-business-systems-analyst-people-technology_7ea1a1c250900dbeee6c57d9cec7a32f05294?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/technology-business-systems-analyst-people-technology-dutch-bros-JV_IC1133917_KO0,53_KE54,64.htm?jl=1010032457480&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "It's fun to work in a company where people truly believe in what they are doing. At Dutch Bros Coffee, we are more than just a coffee company. We are a fun-loving, mind-blowing company that makes a difference one cup at a time.\n\nPosition Overview:\n\nAs Dutch Bros continues its incredible growth, the teams building our future are more critical than ever. We are looking for a technical, problem-solving Technology Business Analyst to own and advance the systems that power our People Technology Team. You will act as a primary technology partner, automating processes and delivering actionable insights to drive business success across these critical functions. You will be the go-to technology partner for helping the organization fully leverage Workday while continuously advancing and maturing our other People Technology systems to ensure our tools are as high-performing as our people.\n\nJob Qualifications:\n• Bachelor’s degree in IT, Computer Science, Software Engineering, or a quantitative field.\n• 3–5+ years in business systems analysis, HRIS architecture, or a similar technical role.\n• Proficiency in Workday reporting tools, data visualization (BI tools), and AI-powered automation.\n• Effective prioritization, change management, functional expertise, and strong communication.\n\nLocation Requirement:\nThis role is located in Tempe, Arizona. This position is required to be in office 4 days per week (Mon-Thurs); Fridays are optional remote work days.\n\nKey Result Areas (KRAs):\n• Support & Maturation of People Systems: Provide comprehensive technical support for the entire People Technology ecosystem. This includes maintaining system stability, managing upgrades, and ensuring all HRIS and peripheral people tools are optimized to support the employee lifecycle.\n• Workday Strategy & Optimization: Serve as the subject matter expert for Workday, identifying underutilized features and implementing configurations that maximize the platform's value for the organization.\n• Data Analysis & Reporting: Extract and synthesize data using Python, R, or SQL to create dashboards, KPIs, and complex analytics for HR, payroll, and finance.\n• Process Automation: Identify and implement intelligent automation—leveraging AI and Workday Prism—to accelerate workflows and enhance data integrity across Real Estate, Legal, and People teams.\n• Stakeholder Collaboration: Partner with cross-functional stakeholders to translate business needs into technical requirements and manage backlogs of system requests.\n• System Health & Integration: Troubleshoot database issues, configure system changes, and manage integrations between platforms to ensure seamless data flow.\n\nSkills:\n• Adaptable\n• Initiative\n• Collaborative\n• Communication\n• Effective Prioritization\n• Functional and Tech. Expertise\n\nPhysical Requirements:\n• In-Office Environment:Must be able to work in a busy, crowded, and loud office with frequent distractions and interruptions\n• Must be able to collaborate in-person with occasional impromptu in-person meetings\n• Office Conditions:Adaptability to typical office conditions, which may include exposure to air conditioning, heating, artificial lighting, and varying noise levels\n• Mobility: Ability to sit, stand, reach, twist, stretch, and work at a desk for long stretches. Must be able to occasionally move or lift office items up to 25 pounds\n• Hearing Requirements:Hearing must be sufficient or correctable to ensure clear understanding of spoken information, including participating in virtual meetings and phone calls. Use of hearing aids or other assistive devices is acceptable if needed.\n• Reading and Writing Proficiency:Ability to read and write in English is essential for processing documents, drafting reports, and following up on necessary actions. Proficiency in written communication is required to handle job-related tasks effectively.\n• Vision Requirements:Vision must be adequate or correctable to perform essential job duties, such as reading documents on a computer screen and using other visual tools. Use of corrective lenses or other measures to meet visual requirements is expected if needed.\n• Technology Proficiency:Must be proficient in operating a computer and other office productivity tools such as printers, scanners, and collaboration software.\n• Effective Communication:Must possess strong verbal and written communication skills to interact effectively with team members, clients, and other stakeholders via email, video conferencing, and other in office communication tools.\n\nCompensation:\n\nDOE\n\nIf you like wild growth and working in a unique and fun environment, surrounded by positive community, you'll enjoy your career with us!",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Tempe, AZ",
+    "job_city": "Tempe",
+    "job_state": "Arizona",
+    "job_country": "US",
+    "job_latitude": 33.4255104,
+    "job_longitude": -111.94000539999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DgNXgyBi5ZLaA6s-RAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Bachelor’s degree in IT, Computer Science, Software Engineering, or a quantitative field",
+        "3–5+ years in business systems analysis, HRIS architecture, or a similar technical role",
+        "Proficiency in Workday reporting tools, data visualization (BI tools), and AI-powered automation",
+        "Effective prioritization, change management, functional expertise, and strong communication",
+        "Adaptable",
+        "Initiative",
+        "Collaborative",
+        "Communication",
+        "Effective Prioritization",
+        "Functional and Tech",
+        "In-Office Environment:Must be able to work in a busy, crowded, and loud office with frequent distractions and interruptions",
+        "Must be able to collaborate in-person with occasional impromptu in-person meetings",
+        "Office Conditions:Adaptability to typical office conditions, which may include exposure to air conditioning, heating, artificial lighting, and varying noise levels",
+        "Mobility: Ability to sit, stand, reach, twist, stretch, and work at a desk for long stretches",
+        "Must be able to occasionally move or lift office items up to 25 pounds",
+        "Hearing Requirements:Hearing must be sufficient or correctable to ensure clear understanding of spoken information, including participating in virtual meetings and phone calls",
+        "Use of hearing aids or other assistive devices is acceptable if needed",
+        "Reading and Writing Proficiency:Ability to read and write in English is essential for processing documents, drafting reports, and following up on necessary actions",
+        "Proficiency in written communication is required to handle job-related tasks effectively",
+        "Vision Requirements:Vision must be adequate or correctable to perform essential job duties, such as reading documents on a computer screen and using other visual tools",
+        "Use of corrective lenses or other measures to meet visual requirements is expected if needed",
+        "Technology Proficiency:Must be proficient in operating a computer and other office productivity tools such as printers, scanners, and collaboration software",
+        "Effective Communication:Must possess strong verbal and written communication skills to interact effectively with team members, clients, and other stakeholders via email, video conferencing, and other in office communication tools"
+      ],
+      "Responsibilities": [
+        "You will act as a primary technology partner, automating processes and delivering actionable insights to drive business success across these critical functions",
+        "You will be the go-to technology partner for helping the organization fully leverage Workday while continuously advancing and maturing our other People Technology systems to ensure our tools are as high-performing as our people",
+        "This position is required to be in office 4 days per week (Mon-Thurs); Fridays are optional remote work days",
+        "Support & Maturation of People Systems: Provide comprehensive technical support for the entire People Technology ecosystem",
+        "This includes maintaining system stability, managing upgrades, and ensuring all HRIS and peripheral people tools are optimized to support the employee lifecycle",
+        "Workday Strategy & Optimization: Serve as the subject matter expert for Workday, identifying underutilized features and implementing configurations that maximize the platform's value for the organization",
+        "Data Analysis & Reporting: Extract and synthesize data using Python, R, or SQL to create dashboards, KPIs, and complex analytics for HR, payroll, and finance",
+        "Process Automation: Identify and implement intelligent automation—leveraging AI and Workday Prism—to accelerate workflows and enhance data integrity across Real Estate, Legal, and People teams",
+        "Stakeholder Collaboration: Partner with cross-functional stakeholders to translate business needs into technical requirements and manage backlogs of system requests",
+        "System Health & Integration: Troubleshoot database issues, configure system changes, and manage integrations between platforms to ensure seamless data flow"
+      ]
+    },
+    "job_onet_soc": "21101200",
+    "job_onet_job_zone": "5",
+    "id": "careers-dutchbros-com-us-en-job-req-17889-technology-business-systems-analyst-people-technology",
     "_source": "new_jobs"
   },
   {
@@ -1850,7 +1935,7 @@
         "is_direct": false
       }
     ],
-    "job_description": "Position Overview\n\nAt PNC, our people are our greatest differentiator and competitive advantage in the markets we serve. We are all united in delivering the best experience for our customers. We work together each day to foster an inclusive workplace culture where all of our employees feel respected, valued and have an opportunity to contribute to the company��s success.\n\nAs a Senior Business Analyst within PNC's Control organization, you will be based in Pittsburgh, PA. This role is within the Regulatory Reporting team.\n\nResponsibilities of this position include, but are not limited to:\n• Assist in the preparation of weekly, monthly, and quarterly regulatory reports\n• Analyze regulatory reporting data for accuracy, trends, etc.\n• Complete ad-hoc requests, as required\n• Operate within the Axiom application to run workflows, complete uploads, export reports, etc.\n• Run queries/exports of data to assist in preparation of reports and analyses\n• Interpret regulatory reporting requirements and guidance\n\nKey Skills\nAlong with the core competencies for this job profile, there is an emphasis on the following skillsets:\n• Strong attention to detail\n• Financial reporting & analytical skills\n• Critical thinking\n• Ability to communicate effectively\n\nApplications\n• Excel\n• Hyperion Essbase\n• Axiom\n• Toad\n• Workiva Wdesk\n\nPNC is an in-office company that fosters a supportive culture where employees can thrive and achieve balance. We encourage candidates to connect with their recruiter and hiring manager to understand workplace expectations and ensure the role aligns with their goals.\n\nPNC will not provide sponsorship for employment visas or participate in STEM OPT for this position.\n\nJob Description\n• Directs in the research, discovery, collection and interpretation of business requirements, and participates in the development and review of processes and procedures, workflow analytics, and reporting.\n• Provides consultation to clients on business designs, problem solving and business analysis to support project management. Develops and maintains of all applicable policy and procedure documentation.\n• Independently obtains and identifies the business requirements needed to carry out and improve applicable business processes. Provides expertise and problem-solving for clients and technology teams throughout the business analysis process.\n• Translates business needs, processes and/or procedures by partnering with applicable experts and business stakeholders to determine and articulate needs. May communicate with stakeholders and technology teams on moderately complex business requirements, provides gap analysis and facilitates future business process modeling for clients.\n\nPNC Employees take pride in our reputation and to continue building upon that we expect our employees to be:\n• Customer Focused - Knowledgeable of the values and practices that align customer needs and satisfaction as primary considerations in all business decisions and able to leverage that information in creating customized customer solutions.\n• Managing Risk - Assessing and effectively managing all of the risks associated with their business objectives and activities to ensure they adhere to and support PNC's Enterprise Risk Management Framework.\n\nQualifications\n\nSuccessful candidates must demonstrate appropriate knowledge, skills, and abilities for a role. Listed below are skills, competencies, work experience, education, and required certifications/licensures needed to be successful in this position.\n\nPreferred Skills\nBusiness Needs, Business Processes, Data Analytics, Decision Making, Management Reporting, Prioritization, Waterfall Model\n\nCompetencies\nAnalytical Thinking, Business Assessment, Consulting, Effectiveness Measurement, Information Capture, Modeling: Data, Process, Events, Objects, Problem Solving, Process Management, Project Management, Requirements Analysis, Software Product Business Knowledge\n\nWork Experience\nRoles at this level typically require a university / college degree, with 2+ years of relevant professional experience. In lieu of a degree, a comparable combination of education, job specific certification(s), and experience (including military service) may be considered.\n\nEducation\nBachelors\n\nCertifications\nNo Required Certification(s)\n\nLicenses\nNo Required License(s)\n\nBenefits\n\nPNC offers a comprehensive range of benefits to help meet your needs now and in the future. Depending on your eligibility, options for full-time employees include: medical/prescription drug coverage (with a Health Savings Account feature), dental and vision options; employee and spouse/child life insurance; short and long-term disability protection; 401(k) with PNC match, pension and stock purchase plans; dependent care reimbursement account; back-up child/elder care; adoption, surrogacy, and doula reimbursement; educational assistance, including select programs fully paid; a robust wellness program with financial incentives.\n\nIn addition, PNC generally provides the following paid time off, depending on your eligibility: maternity and/or parental leave; up to 11 paid holidays each year; 9 occasional absence days each year, unless otherwise required by law; between 15 to 25 vacation days each year, depending on career level; and years of service.\n\nTo learn more about these and other programs, including benefits for full time and part-time employees, visit pncthrive.com.\n\nDisability Accommodations Statement\n\nIf an accommodation is required to participate in the application process, please contact us via email at AccommodationRequest@pnc.com. Please include “accommodation request” in the subject line title and be sure to include your name, the job ID, and your preferred method of contact in the body of the email. Emails not related to accommodation requests will not receive responses. Applicants may also call 877-968-7762 and say \"Workday\" for accommodation assistance. All information provided will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\nAt PNC we foster an inclusive and accessible workplace. We provide reasonable accommodations to employment applicants and qualified individuals with a disability who need an accommodation to perform the essential functions of their positions.\n\nEqual Employment Opportunity (EEO)\n\nPNC provides equal employment opportunity to qualified persons regardless of race, color, sex, religion, national origin, age, sexual orientation, gender identity, disability, veteran status, or other categories protected by law.\n\nThis position is subject to the requirements of Section 19 of the Federal Deposit Insurance Act (FDIA) and, for any registered role, the Secure and Fair Enforcement for Mortgage Licensing Act of 2008 (SAFE Act) and/or the Financial Industry Regulatory Authority (FINRA), which prohibit the hiring of individuals with certain criminal history.\n\nCalifornia Residents\n\nRefer to the California Consumer Privacy Act Privacy Notice to gain understanding of how PNC may use or disclose your personal information in our hiring practices.",
+    "job_description": "Position Overview\n\nAt PNC, our people are our greatest differentiator and competitive advantage in the markets we serve. We are all united in delivering the best experience for our customers. We work together each day to foster an inclusive workplace culture where all of our employees feel respected, valued and have an opportunity to contribute to the company’s success.\n\nAs a Senior Business Analyst within PNC's Control organization, you will be based in Pittsburgh, PA. This role is within the Regulatory Reporting team.\n\nResponsibilities of this position include, but are not limited to:\n• Assist in the preparation of weekly, monthly, and quarterly regulatory reports\n• Analyze regulatory reporting data for accuracy, trends, etc.\n• Complete ad-hoc requests, as required\n• Operate within the Axiom application to run workflows, complete uploads, export reports, etc.\n• Run queries/exports of data to assist in preparation of reports and analyses\n• Interpret regulatory reporting requirements and guidance\n\nKey Skills\nAlong with the core competencies for this job profile, there is an emphasis on the following skillsets:\n• Strong attention to detail\n• Financial reporting & analytical skills\n• Critical thinking\n• Ability to communicate effectively\n\nApplications\n• Excel\n• Hyperion Essbase\n• Axiom\n• Toad\n• Workiva Wdesk\n\nPNC is an in-office company that fosters a supportive culture where employees can thrive and achieve balance. We encourage candidates to connect with their recruiter and hiring manager to understand workplace expectations and ensure the role aligns with their goals.\n\nPNC will not provide sponsorship for employment visas or participate in STEM OPT for this position.\n\nJob Description\n• Directs in the research, discovery, collection and interpretation of business requirements, and participates in the development and review of processes and procedures, workflow analytics, and reporting.\n• Provides consultation to clients on business designs, problem solving and business analysis to support project management. Develops and maintains of all applicable policy and procedure documentation.\n• Independently obtains and identifies the business requirements needed to carry out and improve applicable business processes. Provides expertise and problem-solving for clients and technology teams throughout the business analysis process.\n• Translates business needs, processes and/or procedures by partnering with applicable experts and business stakeholders to determine and articulate needs. May communicate with stakeholders and technology teams on moderately complex business requirements, provides gap analysis and facilitates future business process modeling for clients.\n\nPNC Employees take pride in our reputation and to continue building upon that we expect our employees to be:\n• Customer Focused - Knowledgeable of the values and practices that align customer needs and satisfaction as primary considerations in all business decisions and able to leverage that information in creating customized customer solutions.\n• Managing Risk - Assessing and effectively managing all of the risks associated with their business objectives and activities to ensure they adhere to and support PNC's Enterprise Risk Management Framework.\n\nQualifications\n\nSuccessful candidates must demonstrate appropriate knowledge, skills, and abilities for a role. Listed below are skills, competencies, work experience, education, and required certifications/licensures needed to be successful in this position.\n\nPreferred Skills\nBusiness Needs, Business Processes, Data Analytics, Decision Making, Management Reporting, Prioritization, Waterfall Model\n\nCompetencies\nAnalytical Thinking, Business Assessment, Consulting, Effectiveness Measurement, Information Capture, Modeling: Data, Process, Events, Objects, Problem Solving, Process Management, Project Management, Requirements Analysis, Software Product Business Knowledge\n\nWork Experience\nRoles at this level typically require a university / college degree, with 2+ years of relevant professional experience. In lieu of a degree, a comparable combination of education, job specific certification(s), and experience (including military service) may be considered.\n\nEducation\nBachelors\n\nCertifications\nNo Required Certification(s)\n\nLicenses\nNo Required License(s)\n\nBenefits\n\nPNC offers a comprehensive range of benefits to help meet your needs now and in the future. Depending on your eligibility, options for full-time employees include: medical/prescription drug coverage (with a Health Savings Account feature), dental and vision options; employee and spouse/child life insurance; short and long-term disability protection; 401(k) with PNC match, pension and stock purchase plans; dependent care reimbursement account; back-up child/elder care; adoption, surrogacy, and doula reimbursement; educational assistance, including select programs fully paid; a robust wellness program with financial incentives.\n\nIn addition, PNC generally provides the following paid time off, depending on your eligibility: maternity and/or parental leave; up to 11 paid holidays each year; 9 occasional absence days each year, unless otherwise required by law; between 15 to 25 vacation days each year, depending on career level; and years of service.\n\nTo learn more about these and other programs, including benefits for full time and part-time employees, visit pncthrive.com.\n\nDisability Accommodations Statement\n\nIf an accommodation is required to participate in the application process, please contact us via email at AccommodationRequest@pnc.com. Please include “accommodation request” in the subject line title and be sure to include your name, the job ID, and your preferred method of contact in the body of the email. Emails not related to accommodation requests will not receive responses. Applicants may also call 877-968-7762 and say \"Workday\" for accommodation assistance. All information provided will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\nAt PNC we foster an inclusive and accessible workplace. We provide reasonable accommodations to employment applicants and qualified individuals with a disability who need an accommodation to perform the essential functions of their positions.\n\nEqual Employment Opportunity (EEO)\n\nPNC provides equal employment opportunity to qualified persons regardless of race, color, sex, religion, national origin, age, sexual orientation, gender identity, disability, veteran status, or other categories protected by law.\n\nThis position is subject to the requirements of Section 19 of the Federal Deposit Insurance Act (FDIA) and, for any registered role, the Secure and Fair Enforcement for Mortgage Licensing Act of 2008 (SAFE Act) and/or the Financial Industry Regulatory Authority (FINRA), which prohibit the hiring of individuals with certain criminal history.\n\nCalifornia Residents\n\nRefer to the California Consumer Privacy Act Privacy Notice to gain understanding of how PNC may use or disclose your personal information in our hiring practices.",
     "job_is_remote": false,
     "job_posted_at": "11 days ago",
     "job_posted_at_timestamp": 1770249600,
@@ -1862,9 +1947,9 @@
     "job_latitude": 40.4386612,
     "job_longitude": -79.99723519999999,
     "job_benefits": [
+      "paid_time_off",
       "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dc1shJhJYn_9GorNiAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -2103,9 +2188,9 @@
     "job_latitude": 39.924151599999995,
     "job_longitude": -74.94999659999999,
     "job_benefits": [
+      "paid_time_off",
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dybf0b662C9Kh2-0FAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 79160,
