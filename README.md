@@ -9,16 +9,16 @@
 
 # Data Science Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-2-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-2-blue?style=flat&logo=building)
-![Data Analyst](https://img.shields.io/badge/Data_Analyst-2-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-6-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-6-blue?style=flat&logo=building)
+![Data Analyst](https://img.shields.io/badge/Data_Analyst-4-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time data science, analytics, and machine learning jobs from 2+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 2+ fresh opportunities for new graduates, data science students, and entry-level data analysts.</p>
+<p align="center">🚀 Real-time data science, analytics, and machine learning jobs from 6+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 6+ fresh opportunities for new graduates, data science students, and entry-level data analysts.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -69,12 +69,24 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/dsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>📊 <strong>Data Analyst</strong> (2 positions)</h3></summary>
+<summary><h3>🔬 <strong>Data Scientist</strong> (2 positions)</h3></summary>
+
+| Company | Role | Location | Posted | Level | Apply |
+|---------|------|----------|--------|-------|-------|
+| 🏢 **VirtualVocations** | Business Intelligence Student In... | Carrollton, Texas | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/en/view?id=ee01341222d1&trigger_from=related_jobs&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **US Army** | INTELLIGENCE ANALYST | Cheektowaga, New York | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.whatjobs.com/jobs/intelligence-analyst?id=2452516821&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+</details>
+
+<details>
+<summary><h3>📊 <strong>Data Analyst</strong> (4 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🏢 **Wayne RESA** | Student Application Business Ana... | Detroit, Michigan | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://career.io/job/student-application-business-analyst-detroit-wayne-resa-036b0f10b4122a3071c21873a85baefd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Franklin Fitch** | Business Intelligence Analyst | Winthrop, Massachusetts | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://us.bebee.com/job/7fc0f55239805df2392413a9448825c7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Walmart** | Manager, Business Analysis And I... | Goshen, Arkansas | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Walmart/Job/Manager,-Business-Analysis-And-Insights-Sales-Strategy/-in-Goshen,AR?jid=36418b4ed2ee2af3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **AEG** | Business Intelligence Analyst | Buda, Texas | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://smarthireclub.com/joblistings/aec9rb8gr5tl-452-f87155b93833f109-88b4ee3-df63d9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -135,20 +147,19 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 2 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 2 positions
-- **🏢 Companies**: 2 companies
+- **📁 Total Jobs**: 1 positions
+- **🏢 Companies**: 6 companies
 - **🏷️ Top Category**: Data Analyst
 
 <details>
-<summary><h3>📊 <strong>Data Analyst</strong> (2 positions)</h3></summary>
+<summary><h3>📊 <strong>Data Analyst</strong> (1 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Centene Corporation** | Business Analyst III Provider Da... 🏠 | Clayton, Missouri | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.centene.com/us/en/jobs/1623010/business-analyst-iii-provider-data-sql/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Cisco** | Business Analyst (Intern) - Unit... 🏠 | Olympia, Washington | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.localjobs.com/job/olympia-wa-business-analyst-intern-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **BAE Systems** | IMINT Analyst - Expert 🏠 | Springfield, Virginia | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.baesystems.com/global/en/job/120521BR/IMINT-Analyst-Expert?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -162,7 +173,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2 current opportunities from 2 companies**
+**🎯 6 current opportunities from 6 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
