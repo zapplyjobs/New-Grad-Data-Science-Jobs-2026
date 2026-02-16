@@ -66,9 +66,9 @@
     "job_latitude": 37.33874,
     "job_longitude": -121.88525249999999,
     "job_benefits": [
-      "paid_time_off",
       "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFbhc1DunhK0CToKgAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -118,6 +118,125 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "careers-cisco-com-global-en-job-ciscisglobal2000461externalenglobal-ai-machine-learning-engineer-ii-intern-united-states",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "wVWF3pg9aRcXvjI6AAAAAA==",
+    "job_title": "AI Machine Learning Engineer I (Intern) - United States",
+    "employer_name": "Cisco",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgthNpO3rocjBOmZqIhYrkphz9zbGG6DQ5B9CQ&s=0",
+    "employer_website": "https://www.cisco.com",
+    "job_publisher": "Careers - Cisco",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.cisco.com/global/en/job/2000454/AI-Machine-Learning-Engineer-I-Intern-United-States?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Careers - Cisco",
+        "apply_link": "https://careers.cisco.com/global/en/job/2000454/AI-Machine-Learning-Engineer-I-Intern-United-States?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=d61cf41fe84c3376&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Cisco-Systems,-Inc./Job/Software-Engineer-Backend-Platform-Systems-I-(Intern)-United-States/-in-San-Jose,CA?jid=4017f6a71b8f887c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "LocalJobs.com",
+        "apply_link": "https://www.localjobs.com/job/san-jose-ca-ai-machine-learning-engineer-i-intern-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/ai-machine-learning-engineer-i-intern-united-states-cisco-systems-JV_IC1147436_KO0,51_KE52,65.htm?jl=1009959866254&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/software-engineer-embedded-network-systems-i-intern_7ea1a1afb7db9eb7202291f2ad7a1e652fada?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Local Job Network",
+        "apply_link": "https://jobs.localjobnetwork.com/job/detail/85542143/Software-Engineer-Embedded-Network-Systems-I-Intern-United-States?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/692e0445ef4b48533d13ba3c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Please note this posting is to advertise potential job opportunities. This exact role may not be open today but could open in the near future. When you apply, a Cisco representative may contact you directly if a relevant position opens.\n\nApplications are accepted until further notice.\n\nMeet the Team\n\nJoin our innovative engineering team focused on building next-generation AI/ML solutions. You’ll collaborate with skilled colleagues across platform, security, release engineering, and support teams to deliver high-impact products and ensure their flawless operation.\n\nYour Impact\n\nDive into the development and implementation of innovative generative AI applications using the latest large language models—think GPT-4, Claude, Llama, and beyond! Take on the challenge of optimizing neural networks for natural language processing and machine perception, drawing on a toolkit that includes convolutional and transformer-based models, student-teacher frameworks, distillation, and generative adversarial networks (GANs). Performance, scalability, and reliability are front and center as models are trained, fine-tuned, and put through their paces for real-world deployment.\n\nCollaboration is at the heart of this role—work alongside talented engineers and cross-functional teams to gather and prep data, design custom layers, and automate model deployment. Experimentation with new technologies and ongoing learning are always encouraged. Production-ready code, robust testing, and creative problem-solving all play a part in bringing innovative AI solutions to life. What an exciting place to grow and make an impact!\n\nMinimum Qualifications\n• Currently enrolled in an undergraduate degree program in a relevant field, such as Computer Science, Electrical Engineering, Data Science, Machine Learning, Artificial Intelligence, Statistics, Mathematics, Software Engineering, or a related discipline.\n• Previous experience with model building, AI/LLM development, and programming in Python, SQL, or Go, including the use of common AI libraries, in an academic, project, or professional capacity.\n• Able to legally live and work in the country for which you’re applying, without visa support or sponsorship.\n\nPreferred Qualifications\n• Experience with cloud-native solutions, Docker container orchestration, or modern rapid deployment platforms.\n• Knowledge of data pipeline design, tools, and maintenance.\n• Exposure to AI security, cybersecurity, or AI validation techniques (e.g., Guardrail).\n• Familiarity with MCP/Agent workflows or supply chain processes.\n• Experience contributing to AI-focused platforms or open tools (e.g., AI Defense Open Tools Portal, AI-SPM), data science toolkits such as Pandas, NumPy, SciPy, or Scikit-learn, and an understanding of Natural Language Processing (NLP) concepts.\n\nProductIntern26\n\nWhy Cisco?\n\nAt Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\n\nWe are Cisco, and our power starts with you.\n\nMessage to applicants applying to work in the U.S. and/or Canada:\n\nIndividual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process.\n\nU.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks. Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time.\n\nU.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:\n• 10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees\n• 1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco\n• Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees\n• Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)\n• 80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next\n• Additional paid time away may be requested to deal with critical or emergency issues for family members\n• Optional 10 paid days per full calendar year to volunteer\n\nFor non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies.\n\nEmployees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows:\n• .75% of incentive target for each 1% of revenue attainment up to 50% of quota;\n• 1.5% of incentive target for each 1% of attainment between 50% and 75%;\n• 1% of incentive target for each 1% of attainment between 75% and 100%; and\n• Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.\n\nFor non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.\n\nThe applicable full salary ranges for this position, by specific state, are listed below:\n\nNew York City Metro Area:\n$44,000.00 - $185,000.00\n\nNon-Metro New York state & Washington state:\n$44,000.00 - $185,000.00\n• For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined.\n• * Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements.",
+    "job_is_remote": false,
+    "job_posted_at": "9 days ago",
+    "job_posted_at_timestamp": 1770422400,
+    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
+    "job_location": "San Jose, CA",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.33874,
+    "job_longitude": -121.88525249999999,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwVWF3pg9aRcXvjI6AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Currently enrolled in an undergraduate degree program in a relevant field, such as Computer Science, Electrical Engineering, Data Science, Machine Learning, Artificial Intelligence, Statistics, Mathematics, Software Engineering, or a related discipline",
+        "Previous experience with model building, AI/LLM development, and programming in Python, SQL, or Go, including the use of common AI libraries, in an academic, project, or professional capacity",
+        "Able to legally live and work in the country for which you’re applying, without visa support or sponsorship"
+      ],
+      "Benefits": [
+        "The full salary range for certain locations is listed below",
+        "For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process",
+        "U.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance",
+        "Please see the Cisco careers site to discover more benefits and perks",
+        "Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time",
+        "U.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:",
+        "10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees",
+        "1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco",
+        "Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees",
+        "Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)",
+        "80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next",
+        "Additional paid time away may be requested to deal with critical or emergency issues for family members",
+        "Optional 10 paid days per full calendar year to volunteer",
+        "For non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies",
+        "Employees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan",
+        "For quota-based incentive pay, Cisco typically pays as follows:",
+        ".75% of incentive target for each 1% of revenue attainment up to 50% of quota;",
+        "1.5% of incentive target for each 1% of attainment between 50% and 75%;",
+        "1% of incentive target for each 1% of attainment between 75% and 100%; and",
+        "Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation",
+        "For non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target",
+        "Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid",
+        "For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined",
+        "Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements"
+      ],
+      "Responsibilities": [
+        "You’ll collaborate with skilled colleagues across platform, security, release engineering, and support teams to deliver high-impact products and ensure their flawless operation",
+        "Dive into the development and implementation of innovative generative AI applications using the latest large language models—think GPT-4, Claude, Llama, and beyond!",
+        "Take on the challenge of optimizing neural networks for natural language processing and machine perception, drawing on a toolkit that includes convolutional and transformer-based models, student-teacher frameworks, distillation, and generative adversarial networks (GANs)"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "careers-cisco-com-global-en-job-2000454-ai-machine-learning-engineer-i-intern-united-states",
     "_source": "new_jobs"
   },
   {
@@ -200,125 +319,6 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "www-snagajob-com-jobs-1202259953",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "wVWF3pg9aRcXvjI6AAAAAA==",
-    "job_title": "AI Machine Learning Engineer I (Intern) - United States",
-    "employer_name": "Cisco",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgthNpO3rocjBOmZqIhYrkphz9zbGG6DQ5B9CQ&s=0",
-    "employer_website": "https://www.cisco.com",
-    "job_publisher": "Careers - Cisco",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://careers.cisco.com/global/en/job/2000454/AI-Machine-Learning-Engineer-I-Intern-United-States?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Careers - Cisco",
-        "apply_link": "https://careers.cisco.com/global/en/job/2000454/AI-Machine-Learning-Engineer-I-Intern-United-States?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=d61cf41fe84c3376&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Cisco-Systems,-Inc./Job/Software-Engineer-Backend-Platform-Systems-I-(Intern)-United-States/-in-San-Jose,CA?jid=4017f6a71b8f887c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "LocalJobs.com",
-        "apply_link": "https://www.localjobs.com/job/san-jose-ca-ai-machine-learning-engineer-i-intern-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/ai-machine-learning-engineer-i-intern-united-states-cisco-systems-JV_IC1147436_KO0,51_KE52,65.htm?jl=1009959866254&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/software-engineer-embedded-network-systems-i-intern_7ea1a1afb7db9eb7202291f2ad7a1e652fada?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Local Job Network",
-        "apply_link": "https://jobs.localjobnetwork.com/job/detail/85542143/Software-Engineer-Embedded-Network-Systems-I-Intern-United-States?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/692e0445ef4b48533d13ba3c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Please note this posting is to advertise potential job opportunities. This exact role may not be open today but could open in the near future. When you apply, a Cisco representative may contact you directly if a relevant position opens.\n\nApplications are accepted until further notice.\n\nMeet the Team\n\nJoin our innovative engineering team focused on building next-generation AI/ML solutions. You’ll collaborate with skilled colleagues across platform, security, release engineering, and support teams to deliver high-impact products and ensure their flawless operation.\n\nYour Impact\n\nDive into the development and implementation of innovative generative AI applications using the latest large language models—think GPT-4, Claude, Llama, and beyond! Take on the challenge of optimizing neural networks for natural language processing and machine perception, drawing on a toolkit that includes convolutional and transformer-based models, student-teacher frameworks, distillation, and generative adversarial networks (GANs). Performance, scalability, and reliability are front and center as models are trained, fine-tuned, and put through their paces for real-world deployment.\n\nCollaboration is at the heart of this role—work alongside talented engineers and cross-functional teams to gather and prep data, design custom layers, and automate model deployment. Experimentation with new technologies and ongoing learning are always encouraged. Production-ready code, robust testing, and creative problem-solving all play a part in bringing innovative AI solutions to life. What an exciting place to grow and make an impact!\n\nMinimum Qualifications\n• Currently enrolled in an undergraduate degree program in a relevant field, such as Computer Science, Electrical Engineering, Data Science, Machine Learning, Artificial Intelligence, Statistics, Mathematics, Software Engineering, or a related discipline.\n• Previous experience with model building, AI/LLM development, and programming in Python, SQL, or Go, including the use of common AI libraries, in an academic, project, or professional capacity.\n• Able to legally live and work in the country for which you’re applying, without visa support or sponsorship.\n\nPreferred Qualifications\n• Experience with cloud-native solutions, Docker container orchestration, or modern rapid deployment platforms.\n• Knowledge of data pipeline design, tools, and maintenance.\n• Exposure to AI security, cybersecurity, or AI validation techniques (e.g., Guardrail).\n• Familiarity with MCP/Agent workflows or supply chain processes.\n• Experience contributing to AI-focused platforms or open tools (e.g., AI Defense Open Tools Portal, AI-SPM), data science toolkits such as Pandas, NumPy, SciPy, or Scikit-learn, and an understanding of Natural Language Processing (NLP) concepts.\n\nProductIntern26\n\nWhy Cisco?\n\nAt Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\n\nWe are Cisco, and our power starts with you.\n\nMessage to applicants applying to work in the U.S. and/or Canada:\n\nIndividual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process.\n\nU.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks. Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time.\n\nU.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:\n• 10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees\n• 1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco\n• Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees\n• Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)\n• 80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next\n• Additional paid time away may be requested to deal with critical or emergency issues for family members\n• Optional 10 paid days per full calendar year to volunteer\n\nFor non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies.\n\nEmployees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows:\n• .75% of incentive target for each 1% of revenue attainment up to 50% of quota;\n• 1.5% of incentive target for each 1% of attainment between 50% and 75%;\n• 1% of incentive target for each 1% of attainment between 75% and 100%; and\n• Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.\n\nFor non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.\n\nThe applicable full salary ranges for this position, by specific state, are listed below:\n\nNew York City Metro Area:\n$44,000.00 - $185,000.00\n\nNon-Metro New York state & Washington state:\n$44,000.00 - $185,000.00\n• For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined.\n• * Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements.",
-    "job_is_remote": false,
-    "job_posted_at": "9 days ago",
-    "job_posted_at_timestamp": 1770422400,
-    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
-    "job_location": "San Jose, CA",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.33874,
-    "job_longitude": -121.88525249999999,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwVWF3pg9aRcXvjI6AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Currently enrolled in an undergraduate degree program in a relevant field, such as Computer Science, Electrical Engineering, Data Science, Machine Learning, Artificial Intelligence, Statistics, Mathematics, Software Engineering, or a related discipline",
-        "Previous experience with model building, AI/LLM development, and programming in Python, SQL, or Go, including the use of common AI libraries, in an academic, project, or professional capacity",
-        "Able to legally live and work in the country for which you’re applying, without visa support or sponsorship"
-      ],
-      "Benefits": [
-        "The full salary range for certain locations is listed below",
-        "For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process",
-        "U.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance",
-        "Please see the Cisco careers site to discover more benefits and perks",
-        "Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time",
-        "U.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:",
-        "10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees",
-        "1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco",
-        "Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees",
-        "Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)",
-        "80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next",
-        "Additional paid time away may be requested to deal with critical or emergency issues for family members",
-        "Optional 10 paid days per full calendar year to volunteer",
-        "For non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies",
-        "Employees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan",
-        "For quota-based incentive pay, Cisco typically pays as follows:",
-        ".75% of incentive target for each 1% of revenue attainment up to 50% of quota;",
-        "1.5% of incentive target for each 1% of attainment between 50% and 75%;",
-        "1% of incentive target for each 1% of attainment between 75% and 100%; and",
-        "Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation",
-        "For non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target",
-        "Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid",
-        "For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined",
-        "Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements"
-      ],
-      "Responsibilities": [
-        "You’ll collaborate with skilled colleagues across platform, security, release engineering, and support teams to deliver high-impact products and ensure their flawless operation",
-        "Dive into the development and implementation of innovative generative AI applications using the latest large language models—think GPT-4, Claude, Llama, and beyond!",
-        "Take on the challenge of optimizing neural networks for natural language processing and machine perception, drawing on a toolkit that includes convolutional and transformer-based models, student-teacher frameworks, distillation, and generative adversarial networks (GANs)"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "careers-cisco-com-global-en-job-2000454-ai-machine-learning-engineer-i-intern-united-states",
     "_source": "new_jobs"
   },
   {
@@ -596,8 +596,8 @@
     "job_latitude": 38.886981899999995,
     "job_longitude": -77.4390375,
     "job_benefits": [
-      "health_insurance",
-      "paid_time_off"
+      "paid_time_off",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DzZ55lXJFcZQ8VyExAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -675,7 +675,7 @@
     "employer_name": "Adobe",
     "employer_logo": null,
     "employer_website": "https://www.adobe.com",
-    "job_publisher": "Careers At Adobe",
+    "job_publisher": "Adobe Careers",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
@@ -684,7 +684,7 @@
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Careers At Adobe",
+        "publisher": "Adobe Careers",
         "apply_link": "https://careers.adobe.com/us/en/job/R160469/2026-AI-ML-Intern-Machine-Learning-Engineer-Intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
@@ -774,59 +774,195 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "CFS_Zqx1mYjHoxvsAAAAAA==",
-    "job_title": "AI and Machine Learning Intern",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
+    "job_id": "-eeVjzQGLRE0WSm2AAAAAA==",
+    "job_title": "2026 Internship - Artificial Intelligence - Information Fusion",
+    "employer_name": "Johns Hopkins Applied Physics Laboratory",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "APL Careers - Johns Hopkins University Applied Physics Laboratory",
+    "job_employment_type": "Part-time",
     "job_employment_types": [
-      "FULLTIME"
+      "PARTTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=41b45364e0e0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
+    "job_apply_link": "https://careers.jhuapl.edu/internships/jobs/58136?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
     "apply_options": [
       {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=41b45364e0e0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "APL Careers - Johns Hopkins University Applied Physics Laboratory",
+        "apply_link": "https://careers.jhuapl.edu/internships/jobs/58136?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=659ff9ccbd65a7c8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/The-Johns-Hopkins-University-Applied-Physics-Laboratory/Job/2026-Internship-Artificial-Intelligence-Information-Fusion/-in-Laurel,MD?jid=c0ada45f5a7d1db9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Monster",
+        "apply_link": "https://www.monster.com/job-openings/2026-internship-artificial-intelligence-information-fusion-laurel-md--23791b94-6c05-4df7-a15e-09fae3c7a678?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Dice",
+        "apply_link": "https://www.dice.com/job-detail/3a66e83b-e2ff-480e-a6b5-74b3b52cc73e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/2026-internship-artificial-intelligence-information-fusion_7ea1abfd9e2f0bca14228a56367723349037f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/2026-internship-artificial-intelligence-information-fusion-at-johns-hopkins-applied-physics-laboratory-4363117700?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "AnitaB.org Job Board",
+        "apply_link": "https://jobs.anitab.org/companies/johns-hopkins-university-applied-physics-laboratory-2/jobs/60731911-chief-scientist-artificial-intelligence-research?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "A company is looking for a Student II in Information Services focusing on AI and Machine Learning.\n\nKey Responsibilities\n\nDevelop custom machine learning models using Python and Scikit-learn\n\nEngage in model monitoring and data analytics using Azure Fabric Lakehouse\n\nGain exposure to HIPAA regulations and their impact on AI / ML applications\n\nRequired Qualifications\n\nCurrently enrolled in a degree program in Data Science, Computer Science, or a related field\n\nAbility to work both remotely and in-office as required\n\nInterest in gaining real-world experience in AI and machine learning\n\nWillingness to comply with policies protecting patient rights and confidentiality\n\nCommitment to complete required training for the position",
+    "job_description": "Description\n\nDo you want to learn more on how to best defend the United States, our armed forces, and our allies from all forms of air and missile threats?\n\nIf you are pursuing a Bachelor's or Master's degree in Computer Science, Mathematics, Engineering, Physics, or a similar major and want to work in an exciting and collaborative environment to solve challenging technical problems, we'd love to have you join our team.\n\nWe are seeking an innovative and highly talented intern to join our Information Fusion and Artificial Intelligence Group. You will be joining a team of engineers and scientists who are at the forefront of APL's mission to provide innovative solutions to critical challenges. Accurate, timely, and actionable information derived from a variety of sources provides the warfighter advantages over its adversaries. Our group at APL identifies, develops, and applies efficient and effective algorithms to support critical capabilities for a variety of DoD missions.\n\nAs an intern, you will apply math, engineering, computer science, and physics knowledge to implement new distributed algorithms, advanced Artificial Intelligence/Machine Learning techniques, data fusion concepts, etc. in support of a wide variety of US Navy, Missile Defense, and Air Force systems.\n\nAs a member of our team...\n• You will research, implement, prototype, and analyze algorithms, quantify and document the performance capabilities and limitations of algorithms for specific tasks, and provide metrics of robustness and confidence in specific approaches.\n• You will interact with large data sets of various types, formats, and structures for algorithm training and testing, data cleaning, pre-processing, normalization, or manipulation as needed.\n• You will create, develop, and debug code to contribute to various multi-user software test beds.\n• You will create effective visualizations and documentation to explain complex topics to a variety of audiences.\n\nQualifications\n\nYou meet our minimum qualifications for the job if you...\n• Are pursuing a Bachelor’s or Master’s degree in Computer Science, Mathematics, Engineering, Physics, or similar degrees with a minimum 3.0 GPA on a 4.0 scale\n• Are fluent in Python, C/C++, or MATLAB, with the ability to translate mathematical concepts into well-documented and efficient code\n• Have a desire to apply software engineering techniques to complex problems\n• Have good written and verbal communication skills\n• Are able to obtain an Interim Secret level security clearance by your start date and can ultimately obtain Secret level clearance. If selected, you will be subject to a government security clearance investigation and must meet the requirements for access to classified information. Eligibility requirements include U.S. citizenship\n\nYou'll go above and beyond our minimum requirements if you...\n• Have basic knowledge in AI/ML or have taken AI/ML courses.\n• Have prior experience developing AI/ML algorithms, used Generative AI or LLMs\n• Have demonstrated experience in working with version control software like Git\n\nAbout Us\n\nWhy Work at APL?\n\nThe Johns Hopkins University Applied Physics Laboratory (APL) brings world-class expertise to our nation’s most critical defense, security, space and science challenges. While we are dedicated to solving complex challenges and pioneering new technologies, what makes us truly outstanding is our culture. We offer a vibrant, welcoming atmosphere where you can bring your authentic self to work, continue to grow, and build strong connections with inspiring teammates.\n\nAt APL, we celebrate our differences of perspectives and encourage creativity and bold, new ideas. Our employees enjoy generous benefits, including a robust education assistance program, unparalleled retirement contributions, and a healthy work/life balance. APL’s campus is located in the Baltimore-Washington metro area. Learn more about our career opportunities at http://www.jhuapl.edu/careers.\n\nAll qualified applicants will receive consideration for employment without regard to race, creed, color, religion, sex, gender identity or expression, sexual orientation, national origin, age, physical or mental disability, genetic information, veteran status, occupation, marital or familial status, political opinion, personal appearance, or any other characteristic protected by applicable law. APL is committed to providing reasonable accommodation to individuals of all abilities, including those with disabilities. If you require a reasonable accommodation to participate in any part of the hiring process, please contact Accommodations@jhuapl.edu.\n\nThe referenced pay range is based on JHU APL’s good faith belief at the time of posting. Actual compensation may vary based on factors such as geographic location, work experience, market conditions, education/training and skill level with consideration for internal parity. For salaried employees scheduled to work less than 40 hours per week, annual salary will be prorated based on the number of hours worked. APL may offer bonuses or other forms of compensation per internal policy and/or contractual designation. Additional compensation may be provided in the form of a sign-on bonus, relocation benefits, locality allowance or discretionary payments for exceptional performance. APL provides eligible staff with a comprehensive benefits package including retirement plans, paid time off, medical, dental, vision, life insurance, short-term disability, long-term disability, flexible spending accounts, education assistance, and training and development. Applications are accepted on a rolling basis.\n\nMinimum Rate\n\n$22.60 Hourly\n\nMaximum Rate\n\n$47.95 Hourly",
     "job_is_remote": false,
     "job_posted_at": "5 days ago",
     "job_posted_at_timestamp": 1770768000,
     "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Portsmouth, VA",
-    "job_city": "Portsmouth",
-    "job_state": "Virginia",
+    "job_location": "Laurel, MD",
+    "job_city": "Laurel",
+    "job_state": "Maryland",
     "job_country": "US",
-    "job_latitude": 36.835425799999996,
-    "job_longitude": -76.2982742,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DCFS_Zqx1mYjHoxvsAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_latitude": 39.0992752,
+    "job_longitude": -76.8483061,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D-eeVjzQGLRE0WSm2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Currently enrolled in a degree program in Data Science, Computer Science, or a related field",
-        "Ability to work both remotely and in-office as required",
-        "Interest in gaining real-world experience in AI and machine learning",
-        "Willingness to comply with policies protecting patient rights and confidentiality",
-        "Commitment to complete required training for the position"
+        "Are pursuing a Bachelor’s or Master’s degree in Computer Science, Mathematics, Engineering, Physics, or similar degrees with a minimum 3.0 GPA on a 4.0 scale",
+        "Are fluent in Python, C/C++, or MATLAB, with the ability to translate mathematical concepts into well-documented and efficient code",
+        "Have a desire to apply software engineering techniques to complex problems",
+        "Have good written and verbal communication skills",
+        "Are able to obtain an Interim Secret level security clearance by your start date and can ultimately obtain Secret level clearance",
+        "Eligibility requirements include U.S. citizenship",
+        "Have basic knowledge in AI/ML or have taken AI/ML courses",
+        "Have prior experience developing AI/ML algorithms, used Generative AI or LLMs",
+        "Have demonstrated experience in working with version control software like Git"
+      ],
+      "Benefits": [
+        "Our employees enjoy generous benefits, including a robust education assistance program, unparalleled retirement contributions, and a healthy work/life balance",
+        "For salaried employees scheduled to work less than 40 hours per week, annual salary will be prorated based on the number of hours worked",
+        "APL may offer bonuses or other forms of compensation per internal policy and/or contractual designation",
+        "Additional compensation may be provided in the form of a sign-on bonus, relocation benefits, locality allowance or discretionary payments for exceptional performance",
+        "APL provides eligible staff with a comprehensive benefits package including retirement plans, paid time off, medical, dental, vision, life insurance, short-term disability, long-term disability, flexible spending accounts, education assistance, and training and development",
+        "$22.60 Hourly",
+        "$47.95 Hourly"
       ],
       "Responsibilities": [
-        "Develop custom machine learning models using Python and Scikit-learn",
-        "Engage in model monitoring and data analytics using Azure Fabric Lakehouse",
-        "Gain exposure to HIPAA regulations and their impact on AI / ML applications"
+        "You will research, implement, prototype, and analyze algorithms, quantify and document the performance capabilities and limitations of algorithms for specific tasks, and provide metrics of robustness and confidence in specific approaches",
+        "You will interact with large data sets of various types, formats, and structures for algorithm training and testing, data cleaning, pre-processing, normalization, or manipulation as needed",
+        "You will create, develop, and debug code to contribute to various multi-user software test beds",
+        "You will create effective visualizations and documentation to explain complex topics to a variety of audiences"
       ]
     },
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
-    "id": "www-talent-com-view",
+    "id": "careers-jhuapl-edu-internships-jobs-58136",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "OesaUXnQjjl8RGz6AAAAAA==",
+    "job_title": "AI Machine Learning Engineer 1 – Intern, United States",
+    "employer_name": "Cisco",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReNRhjsjixK7ul3kpGhsSNW5iHEO71SG1O9B7j&s=0",
+    "employer_website": "https://www.cisco.com",
+    "job_publisher": "Simplify",
+    "job_employment_type": "Internship",
+    "job_employment_types": [
+      "INTERN"
+    ],
+    "job_apply_link": "https://simplify.jobs/p/1cde2689-d3c8-4c81-bfd1-624897f66d01/AI-Machine-Learning-Engineer-1--Intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Simplify",
+        "apply_link": "https://simplify.jobs/p/1cde2689-d3c8-4c81-bfd1-624897f66d01/AI-Machine-Learning-Engineer-1--Intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Please note this posting is to advertise potential job opportunities. This exact role may not be open today but could open in the near future. When you apply, a Cisco representative may contact you directly if a relevant position opens.\n\nApplications are accepted until further notice.\n\nMeet the Team\n\nJoin our innovative engineering team focused on building next-generation AI/ML solutions. You’ll collaborate with skilled colleagues across platform, security, release engineering, and support teams to deliver high-impact products and ensure their flawless operation.\n\nYour Impact\n\nDive into the development and implementation of innovative generative AI applications using the latest large language models—think GPT-4, Claude, Llama, and beyond! Take on the challenge of optimizing neural networks for natural language processing and machine perception, drawing on a toolkit that includes convolutional and transformer-based models, student-teacher frameworks, distillation, and generative adversarial networks (GANs). Performance, scalability, and reliability are front and center as models are trained, fine-tuned, and put through their paces for real-world deployment.\n\nCollaboration is at the heart of this role—work alongside talented engineers and cross-functional teams to gather and prep data, design custom layers, and automate model deployment. Experimentation with new technologies and ongoing learning are always encouraged. Production-ready code, robust testing, and creative problem-solving all play a part in bringing innovative AI solutions to life. What an exciting place to grow and make an impact!\n\nMinimum Qualifications\n• Currently enrolled in an undergraduate degree program in a relevant field, such as Computer Science, Electrical Engineering, Data Science, Machine Learning, Artificial Intelligence, Statistics, Mathematics, Software Engineering, or a related discipline.\n• Previous experience with model building, AI/LLM development, and programming in Python, SQL, or Go, including the use of common AI libraries, in an academic, project, or professional capacity.\n• Able to legally live and work in the country for which you’re applying, without visa support or sponsorship.\n\nPreferred Qualifications\n• Experience with cloud-native solutions, Docker container orchestration, or modern rapid deployment platforms.\n• Knowledge of data pipeline design, tools, and maintenance.\n• Exposure to AI security, cybersecurity, or AI validation techniques (e.g., Guardrail).\n• Familiarity with MCP/Agent workflows or supply chain processes.\n• Experience contributing to AI-focused platforms or open tools (e.g., AI Defense Open Tools Portal, AI-SPM), data science toolkits such as Pandas, NumPy, SciPy, or Scikit-learn, and an understanding of Natural Language Processing (NLP) concepts.\n\nProductIntern26\n\nWhy Cisco?\n\nAt Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\n\nWe are Cisco, and our power starts with you.\n\nMessage to applicants applying to work in the U.S. and/or Canada:\n\nIndividual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process.\n\nU.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks. Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time.\n\nU.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:\n• 10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees\n• 1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco\n• Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees\n• Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)\n• 80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next\n• Additional paid time away may be requested to deal with critical or emergency issues for family members\n• Optional 10 paid days per full calendar year to volunteer\n\nFor non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies.\n\nEmployees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows:\n• .75% of incentive target for each 1% of revenue attainment up to 50% of quota;\n• 1.5% of incentive target for each 1% of attainment between 50% and 75%;\n• 1% of incentive target for each 1% of attainment between 75% and 100%; and\n• Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.\n\nFor non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.\n\nThe applicable full salary ranges for this position, by specific state, are listed below:\n\nNew York City Metro Area:\n$44,000.00 - $185,000.00\n\nNon-Metro New York state & Washington state:\n$44,000.00 - $185,000.00\n• For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined.\n• * Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements.",
+    "job_is_remote": false,
+    "job_posted_at": "11 days ago",
+    "job_posted_at_timestamp": 1770249600,
+    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
+    "job_location": "San Jose, CA",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.33874,
+    "job_longitude": -121.88525249999999,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DOesaUXnQjjl8RGz6AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 21.15,
+    "job_max_salary": 88.94,
+    "job_salary_period": "HOUR",
+    "job_highlights": {
+      "Qualifications": [
+        "Currently enrolled in an undergraduate degree program in a relevant field, such as Computer Science, Electrical Engineering, Data Science, Machine Learning, Artificial Intelligence, Statistics, Mathematics, Software Engineering, or a related discipline",
+        "Previous experience with model building, AI/LLM development, and programming in Python, SQL, or Go, including the use of common AI libraries, in an academic, project, or professional capacity",
+        "Able to legally live and work in the country for which you’re applying, without visa support or sponsorship"
+      ],
+      "Benefits": [
+        "The full salary range for certain locations is listed below",
+        "For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process",
+        "U.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance",
+        "Please see the Cisco careers site to discover more benefits and perks",
+        "Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time",
+        "U.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:",
+        "10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees",
+        "1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco",
+        "Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees",
+        "Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)",
+        "80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next",
+        "Additional paid time away may be requested to deal with critical or emergency issues for family members",
+        "Optional 10 paid days per full calendar year to volunteer",
+        "For non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies",
+        "Employees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan",
+        "For quota-based incentive pay, Cisco typically pays as follows:",
+        ".75% of incentive target for each 1% of revenue attainment up to 50% of quota;",
+        "1.5% of incentive target for each 1% of attainment between 50% and 75%;",
+        "1% of incentive target for each 1% of attainment between 75% and 100%; and",
+        "Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation",
+        "For non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target",
+        "Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid",
+        "For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined",
+        "Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements"
+      ],
+      "Responsibilities": [
+        "You’ll collaborate with skilled colleagues across platform, security, release engineering, and support teams to deliver high-impact products and ensure their flawless operation",
+        "Dive into the development and implementation of innovative generative AI applications using the latest large language models—think GPT-4, Claude, Llama, and beyond!",
+        "Take on the challenge of optimizing neural networks for natural language processing and machine perception, drawing on a toolkit that includes convolutional and transformer-based models, student-teacher frameworks, distillation, and generative adversarial networks (GANs)"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "simplify-jobs-p-1cde2689-d3c8-4c81-bfd1-624897f66d01-ai-machine-learning-engineer-1-intern",
     "_source": "new_jobs"
   },
   {
@@ -935,124 +1071,59 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "pmbIsnRwIg_j5jZNAAAAAA==",
-    "job_title": "AI Operations Engineer I (Intern) - United States",
-    "employer_name": "Cisco",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgthNpO3rocjBOmZqIhYrkphz9zbGG6DQ5B9CQ&s=0",
-    "employer_website": "https://www.cisco.com",
-    "job_publisher": "Cisco Careers",
+    "job_id": "CFS_Zqx1mYjHoxvsAAAAAA==",
+    "job_title": "AI and Machine Learning Intern",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2000463EXTERNALENGLOBAL/AI-Operations-Engineer-I-Intern-United-States?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.talent.com/view?id=41b45364e0e0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Cisco Careers",
-        "apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2000463EXTERNALENGLOBAL/AI-Operations-Engineer-I-Intern-United-States?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=a64bd868594a48a6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "CareerOneStop",
-        "apply_link": "https://www.careeronestop.org/Toolkit/Jobs/find-jobs-details.aspx?keyword=Web%2Band%2BDigital%2BInterface%2BDesigners&location=California&radius=25&lang=en&fc=1&jvid=3530aad5e723403b88a8b1d0c9d64a688003&detailpage=true&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Cisco-Systems,-Inc./Job/AI-Operations-Engineer-I-(Intern)-United-States/-in-San-Jose,CA?jid=6df83a796f28cd8a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/senior-software-engineer-san-jose-cisco-systems-inc-c58ddc560df80fae72e6514359a1976d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "LocalJobs.com",
-        "apply_link": "https://www.localjobs.com/job/san-jose-ca-hardware-engineer-i-intern-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/hardware-engineer-i-intern-united-states-cisco-systems-JV_IC1147436_KO0,40_KE41,54.htm?jl=1009959867097&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Purpose Jobs",
-        "apply_link": "https://www.purpose.jobs/discover/companies/duo-security/jobs/66508559-software-engineer-i-intern-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=41b45364e0e0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Please note this posting is to advertise potential job opportunities. This exact role may not be open today but could open in the near future. When you apply, a Cisco representative may contact you directly if a relevant position opens.\n\nApplications are accepted until further notice.\n\nMeet the team\n\nJoin an engineering group that thrives with building the next wave of AI and machine learning solutions! Work side-by-side with authorities in platform, security, release engineering, and support as we solve real technical challenges and deliver products that make a difference.\n\nYour impact\n\nDive into the fast-paced world of AI Ops, where your work will automate and streamline IT operations in ways that truly matter. Build smart solutions that cut down on repetitive tasks, speed up incident response, and spot problems before they grow. Get hands-on with network performance analysis and set up monitoring tools that keep everything running smoothly—because every second counts!\n\nBring your creativity and team spirit as you partner with data scientists, software engineers, and infrastructure pros to weave AI Ops into day-to-day workflows. Whether you’re building machine learning pipelines, rolling out CI/CD automations, or jumping in to solve and optimize, your efforts will keep systems sharp, resilient, and ready for anything. There’s never a dull moment—your work helps ensure our technology just works, every time!\n\nMinimum Qualifications\n• Currently enrolled in an undergraduate degree program in a relevant field, such as Computer Science, Electrical Engineering, Data Science, Machine Learning, Artificial Intelligence, Statistics, Mathematics, Software Engineering, or a related discipline.\n• Proficiency in scripting languages such as Python or Bash, evidenced through a coding challenge, technical assessment, or submission of automation scripts/workflow samples.\n• Able to legally live and work in the country for which you’re applying, without visa support or sponsorship.\n\nPreferred Qualifications\n• Familiarity with systems and network administration concepts.\n• Experience with tools such as GitHub Actions and Kubernetes for automation and deployment.\n• Ability to support AI production environments and manage sandbox environments.\n• Experience working with AWS or other cloud platforms.\n• Understanding of DevOps practices, including CI/CD pipeline creation and management.\n\nProductIntern26\n\nWhy Cisco?\n\nAt Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.\n\nFueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.\n\nWe are Cisco, and our power starts with you.\n\nMessage to applicants applying to work in the U.S. and/or Canada:\n\nIndividual pay is determined by the candidate's hiring location, market conditions, job-related skillset, experience, qualifications, education, certifications, and/or training. The full salary range for certain locations is listed below. For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process.\n\nU.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance. Please see the Cisco careers site to discover more benefits and perks. Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time.\n\nU.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:\n• 10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees\n• 1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco\n• Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees\n• Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)\n• 80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next\n• Additional paid time away may be requested to deal with critical or emergency issues for family members\n• Optional 10 paid days per full calendar year to volunteer\n\nFor non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies.\n\nEmployees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan. For quota-based incentive pay, Cisco typically pays as follows:\n• .75% of incentive target for each 1% of revenue attainment up to 50% of quota;\n• 1.5% of incentive target for each 1% of attainment between 50% and 75%;\n• 1% of incentive target for each 1% of attainment between 75% and 100%; and\n• Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation.\n\nFor non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.\n\nThe applicable full salary ranges for this position, by specific state, are listed below:\n\nNew York City Metro Area:\n$44,000.00 - $185,000.00\n\nNon-Metro New York state & Washington state:\n$44,000.00 - $185,000.00\n• For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined.\n• * Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements.",
+    "job_description": "A company is looking for a Student II in Information Services focusing on AI and Machine Learning.\n\nKey Responsibilities\n\nDevelop custom machine learning models using Python and Scikit-learn\n\nEngage in model monitoring and data analytics using Azure Fabric Lakehouse\n\nGain exposure to HIPAA regulations and their impact on AI / ML applications\n\nRequired Qualifications\n\nCurrently enrolled in a degree program in Data Science, Computer Science, or a related field\n\nAbility to work both remotely and in-office as required\n\nInterest in gaining real-world experience in AI and machine learning\n\nWillingness to comply with policies protecting patient rights and confidentiality\n\nCommitment to complete required training for the position",
     "job_is_remote": false,
-    "job_posted_at": "9 days ago",
-    "job_posted_at_timestamp": 1770422400,
-    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
-    "job_location": "San Jose, CA",
-    "job_city": "San Jose",
-    "job_state": "California",
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Portsmouth, VA",
+    "job_city": "Portsmouth",
+    "job_state": "Virginia",
     "job_country": "US",
-    "job_latitude": 37.33874,
-    "job_longitude": -121.88525249999999,
-    "job_benefits": [
-      "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DpmbIsnRwIg_j5jZNAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_latitude": 36.835425799999996,
+    "job_longitude": -76.2982742,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DCFS_Zqx1mYjHoxvsAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Currently enrolled in an undergraduate degree program in a relevant field, such as Computer Science, Electrical Engineering, Data Science, Machine Learning, Artificial Intelligence, Statistics, Mathematics, Software Engineering, or a related discipline",
-        "Proficiency in scripting languages such as Python or Bash, evidenced through a coding challenge, technical assessment, or submission of automation scripts/workflow samples",
-        "Able to legally live and work in the country for which you’re applying, without visa support or sponsorship"
-      ],
-      "Benefits": [
-        "The full salary range for certain locations is listed below",
-        "For locations not listed below, the recruiter can share more details about compensation for the role in your location during the hiring process",
-        "U.S. employees are offered benefits, subject to Cisco’s plan eligibility rules, which include medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, paid parental leave, short and long-term disability coverage, and basic life insurance",
-        "Please see the Cisco careers site to discover more benefits and perks",
-        "Employees may be eligible to receive grants of Cisco restricted stock units, which vest following continued employment with Cisco for defined periods of time",
-        "U.S. employees are eligible for paid time away as described below, subject to Cisco’s policies:",
-        "10 paid holidays per full calendar year, plus 1 floating holiday for non-exempt employees",
-        "1 paid day off for employee’s birthday, paid year-end holiday shutdown, and 4 paid days off for personal wellness determined by Cisco",
-        "Non-exempt employees** receive 16 days of paid vacation time per full calendar year, accrued at rate of 4.92 hours per pay period for full-time employees",
-        "Exempt employees participate in Cisco’s flexible vacation time off program, which has no defined limit on how much vacation time eligible employees may use (subject to availability and some business limitations)",
-        "80 hours of sick time off provided on hire date and each January 1st thereafter, and up to 80 hours of unused sick time carried forward from one calendar year to the next",
-        "Additional paid time away may be requested to deal with critical or emergency issues for family members",
-        "Optional 10 paid days per full calendar year to volunteer",
-        "For non-sales roles, employees are also eligible to earn annual bonuses subject to Cisco’s policies",
-        "Employees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components, subject to the applicable Cisco plan",
-        "For quota-based incentive pay, Cisco typically pays as follows:",
-        ".75% of incentive target for each 1% of revenue attainment up to 50% of quota;",
-        "1.5% of incentive target for each 1% of attainment between 50% and 75%;",
-        "1% of incentive target for each 1% of attainment between 75% and 100%; and",
-        "Once performance exceeds 100% attainment, incentive rates are at or above 1% for each 1% of attainment with no cap on incentive compensation",
-        "For non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay 0% up to 125% of target",
-        "Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid",
-        "For quota-based sales roles on Cisco’s sales plan, the ranges provided in this posting include base pay and sales target incentive compensation combined",
-        "Employees in Illinois, whether exempt or non-exempt, will participate in a unique time off program to meet local requirements"
+        "Currently enrolled in a degree program in Data Science, Computer Science, or a related field",
+        "Ability to work both remotely and in-office as required",
+        "Interest in gaining real-world experience in AI and machine learning",
+        "Willingness to comply with policies protecting patient rights and confidentiality",
+        "Commitment to complete required training for the position"
       ],
       "Responsibilities": [
-        "Dive into the fast-paced world of AI Ops, where your work will automate and streamline IT operations in ways that truly matter",
-        "Build smart solutions that cut down on repetitive tasks, speed up incident response, and spot problems before they grow",
-        "Get hands-on with network performance analysis and set up monitoring tools that keep everything running smoothly—because every second counts!",
-        "Bring your creativity and team spirit as you partner with data scientists, software engineers, and infrastructure pros to weave AI Ops into day-to-day workflows",
-        "Whether you’re building machine learning pipelines, rolling out CI/CD automations, or jumping in to solve and optimize, your efforts will keep systems sharp, resilient, and ready for anything"
+        "Develop custom machine learning models using Python and Scikit-learn",
+        "Engage in model monitoring and data analytics using Azure Fabric Lakehouse",
+        "Gain exposure to HIPAA regulations and their impact on AI / ML applications"
       ]
     },
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
-    "id": "careers-cisco-com-global-en-job-ciscisglobal2000463externalenglobal-ai-operations-engineer-i-intern-united-states",
+    "id": "www-talent-com-view",
     "_source": "new_jobs"
   },
   {
@@ -1077,6 +1148,11 @@
       {
         "publisher": "BeBee",
         "apply_link": "https://us.bebee.com/job/d5c16c18264c1d8b6f1fa3acc348f46b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Empleos",
+        "apply_link": "https://empleos.io/jobs/view/143135?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
@@ -1302,89 +1378,12 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "ZD1Hl-HJdicm_03fAAAAAA==",
-    "job_title": "Machine Learning Intern/Co-op  (Spring 2026)",
-    "employer_name": "Cohere",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbXIpv87P5nMClSCLPkd0pZzFxEYy16ppphSry&s=0",
-    "employer_website": "https://cohere.com",
-    "job_publisher": "LinkedIn",
-    "job_employment_type": "Internship",
-    "job_employment_types": [
-      "INTERN"
-    ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/machine-learning-intern-co-op-spring-2026-at-cohere-4357649891?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/machine-learning-intern-co-op-spring-2026-at-cohere-4357649891?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Who are we?\n\nOur mission is to scale intelligence to serve humanity. We’re training and deploying frontier models for developers and enterprises who are building AI systems to power magical experiences like content generation, semantic search, RAG, and agents. We believe that our work is instrumental to the widespread adoption of AI.\n\nWe obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. We like to work hard and move fast to do what’s best for our customers.\n\nCohere is a team of researchers, engineers, designers, and more, who are passionate about their craft. Each person is one of the best in the world at what they do. We believe that a diverse range of perspectives is a requirement for building great products.\n\nJoin us on our mission and shape the future!\n\nWhy this role?\n\nShip state of the art models to production.\n\nDesign and implement novel research ideas.\n\nBuild elegant training/deployment pipelines.\n\nJoin us at a pivotal moment, shape what we build and wear multiple hats as an intern!\n\nOur recruitment process will begin in the upcoming weeks, and we will be carefully reviewing applications and assessing potential candidates for our internships. Should we find a suitable match with your qualifications and our requirements, we will be in touch to discuss the opportunity further and to advance your application to the next stage\n\nPlease Note: To be eligible for this position you should be a student currently enrolled in a post-secondary program, available for a full-time 3-6 month internship, co-op, or research work term.\n\nAs a Machine Learning Intern, You Will\n• Design, train and improve upon cutting-edge models.\n• Help us develop new techniques to train and serve models safer, better, and faster.\n• Train extremely large-scale models on massive datasets.\n• Explore continual and active learning strategies for streaming data.\n• Learn from experienced senior machine learning technical staff.\n• Work closely with product teams to develop solutions.\n\nYou May Be a Good Fit If You Have\n• Proficiency in Python and related ML frameworks such as Tensorflow, TF-Serving, JAX, and XLA/MLIR.\n• Experience using large-scale distributed training strategies.\n• Familiarity with autoregressive sequence models, such as Transformers.\n• Strong communication and problem-solving skills.\n• A demonstrated passion for applied NLP models and products.\n• Bonus: experience writing kernels for GPUs using CUDA.\n• Bonus: experience training on TPUs.\n• Bonus: papers at top-tier venues (such as NeurIPS, ICML, ICLR, AIStats, MLSys, JMLR, AAAI, Nature, COLING, ACL, EMNLP).\n\nIf some of the above doesn’t line up perfectly with your experience, we still encourage you to apply!\n\nWe value and celebrate diversity and strive to create an inclusive work environment for all. We welcome applicants from all backgrounds and are committed to providing equal opportunities. Should you require any accommodations during the recruitment process, please submit an Accommodations Request Form, and we will work together to meet your needs.\n\nFull-Time Employees At Cohere Enjoy These Perks\n\n🤝 An open and inclusive culture and work environment\n\n🧑💻 Work closely with a team on the cutting edge of AI research\n\n🍽 Weekly lunch stipend, in-office lunches & snacks\n\n🦷 Full health and dental benefits, including a separate budget to take care of your mental health\n\n🐣 100% Parental Leave top-up for up to 6 months\n\n🎨 Personal enrichment benefits towards arts and culture, fitness and well-being, quality time, and workspace improvement\n\n🏙 Remote-flexible, offices in Toronto, New York, San Francisco, London and Paris, as well as a co-working stipend\n\n✈️ 6 weeks of vacation (30 working days!)",
-    "job_is_remote": false,
-    "job_posted_at": "10 days ago",
-    "job_posted_at_timestamp": 1770336000,
-    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
-    "job_location": "San Francisco, CA",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.7749295,
-    "job_longitude": -122.4194155,
-    "job_benefits": [
-      "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DZD1Hl-HJdicm_03fAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Please Note: To be eligible for this position you should be a student currently enrolled in a post-secondary program, available for a full-time 3-6 month internship, co-op, or research work term",
-        "You May Be a Good Fit If You Have",
-        "Proficiency in Python and related ML frameworks such as Tensorflow, TF-Serving, JAX, and XLA/MLIR",
-        "Experience using large-scale distributed training strategies",
-        "Familiarity with autoregressive sequence models, such as Transformers",
-        "Strong communication and problem-solving skills",
-        "A demonstrated passion for applied NLP models and products",
-        "Bonus: experience writing kernels for GPUs using CUDA"
-      ],
-      "Benefits": [
-        "Bonus: papers at top-tier venues (such as NeurIPS, ICML, ICLR, AIStats, MLSys, JMLR, AAAI, Nature, COLING, ACL, EMNLP)",
-        "Full-Time Employees At Cohere Enjoy These Perks",
-        "🍽 Weekly lunch stipend, in-office lunches & snacks",
-        "🦷 Full health and dental benefits, including a separate budget to take care of your mental health",
-        "🐣 100% Parental Leave top-up for up to 6 months",
-        "✈️ 6 weeks of vacation (30 working days!)"
-      ],
-      "Responsibilities": [
-        "Ship state of the art models to production",
-        "Design and implement novel research ideas",
-        "Build elegant training/deployment pipelines",
-        "Design, train and improve upon cutting-edge models",
-        "Help us develop new techniques to train and serve models safer, better, and faster",
-        "Train extremely large-scale models on massive datasets",
-        "Explore continual and active learning strategies for streaming data",
-        "Learn from experienced senior machine learning technical staff",
-        "Work closely with product teams to develop solutions"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-linkedin-com-jobs-view-machine-learning-intern-co-op-spring-2026-at-cohere-4357649891",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "cUoC8xCen9td_vWPAAAAAA==",
     "job_title": "ML Engineering Intern",
     "employer_name": "Intuitive Surgical",
     "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMEnQfc5v8O_TIGnAOVJ-e_I3n5nc-F6ZQNqmp&s=0",
     "employer_website": "https://www.intuitive.com",
-    "job_publisher": "Careers At Intuitive",
+    "job_publisher": "Intuitive Careers",
     "job_employment_type": "Internship",
     "job_employment_types": [
       "INTERN"
@@ -1393,7 +1392,7 @@
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Careers At Intuitive",
+        "publisher": "Intuitive Careers",
         "apply_link": "https://careers.intuitive.com/en/jobs/744000107840054/JOB212194/ml-engineering-intern/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
@@ -1462,62 +1461,6 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "careers-intuitive-com-en-jobs-744000107840054-job212194-ml-engineering-intern",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "thRD1XlmBBC84VgbAAAAAA==",
-    "job_title": "AI and Machine Learning Intern",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=57435c3697da&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=57435c3697da&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A company is looking for a Student II in Information Services focusing on AI and Machine Learning.\n\nKey Responsibilities\n\nDevelop custom machine learning models using Python and Scikit-learn\n\nEngage in model monitoring and data analytics using Azure Fabric Lakehouse\n\nGain exposure to HIPAA regulations and their impact on AI / ML applications\n\nRequired Qualifications\n\nCurrently enrolled in a degree program in Data Science, Computer Science, or a related field\n\nAbility to work both remotely and in-office as required\n\nInterest in gaining real-world experience in AI and machine learning\n\nWillingness to comply with policies protecting patient rights and confidentiality\n\nCommitment to complete required training for the position",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Torrance, CA",
-    "job_city": "Torrance",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 33.8369217,
-    "job_longitude": -118.34074509999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DthRD1XlmBBC84VgbAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Currently enrolled in a degree program in Data Science, Computer Science, or a related field",
-        "Ability to work both remotely and in-office as required",
-        "Interest in gaining real-world experience in AI and machine learning",
-        "Willingness to comply with policies protecting patient rights and confidentiality",
-        "Commitment to complete required training for the position"
-      ],
-      "Responsibilities": [
-        "Develop custom machine learning models using Python and Scikit-learn",
-        "Engage in model monitoring and data analytics using Azure Fabric Lakehouse",
-        "Gain exposure to HIPAA regulations and their impact on AI / ML applications"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-talent-com-view",
     "_source": "new_jobs"
   },
   {
@@ -1626,94 +1569,6 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "www-pinterestcareers-com-jobs-7211004-phd-machine-learning-internship-2026-usa",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "jUTR-altetnlyTvkAAAAAA==",
-    "job_title": "Machine Learning Researcher - PhD Intern (US)",
-    "employer_name": "Citadel",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyqNjgZwMw5Ee0MqrUElt0p6LzGVh11eSM3Whz&s=0",
-    "employer_website": "https://www.citadel.com",
-    "job_publisher": "Citadel Securities",
-    "job_employment_type": "Internship",
-    "job_employment_types": [
-      "INTERN"
-    ],
-    "job_apply_link": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Citadel Securities",
-        "apply_link": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Citadel/Job/Machine-Learning-Researcher-PhD-Intern-(US)/-in-Miami,FL?jid=7d86773deb617ff1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Built In",
-        "apply_link": "https://builtin.com/job/machine-learning-researcher-phd-intern-us/6532905?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/machine-learning-researcher-phd-intern-miami-citadel-enterprise-americas-llc-c622156cce9c454368d0687d4d62e51f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Ladders",
-        "apply_link": "https://www.theladders.com/job/machine-learning-researcher-phd-intern-us-bluehalo-miami-fl_82155564?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Lensa",
-        "apply_link": "https://lensa.com/job-v1/citadel/miami-fl/machine-learning-intern/d24dd80cfad3ad62a18b7fcaf3a584e7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "At Citadel Securities, a leading global market maker, our team of quantitative researchers models the markets and brings trading strategies to life every day. Specifically, the goal of this team is to leverage and tailor the state-of-the-art machine learning and AI algorithms to modernize the quantitative trading industry. We’re looking for extraordinary and highly motivated researchers who are excited about solving challenging problems and iterating in a fast-paced environment.\n\nAs an intern, you’ll get to challenge the impossible in research through an 11 week program that will allow you to collaborate and connect with senior team members. In addition, you’ll get the opportunity to network and socialize with peers throughout the internship.\n\nOur signature internship program takes place June through August. Occasionally, we can be flexible to other times of the year. You will be able to indicate your timing preference in the application.\n\nYour Objectives\n• Use statistics, machine learning or AI (e.g. deep learning, NLP) to extract patterns from various kinds of datasets through innovative and rigorous research\n• Implement algorithms in high-quality code\n• Work with large data sets, including unconventional and unstructured data sources\n• Back-test models and document research findings\n\nYour Skills & Talents\n• PhD degree in mathematics, statistics, physics, computer science, or another highly quantitative field\n• Advanced training and strong research track record in statistics, machine learning, AI, or another highly quantitative field\n• Hands on programming experience in scripting (e.g. Python) and/or compiled languages (e.g. C++)\n• A background demonstrating strong problem-solving skills\n• An ability to communicate advanced concepts in a concise and logical way\n• Proficiency in creating and using algorithms to meticulously investigate and work through large data or error-checking problems\n\nOpportunities available in Miami and New York.\n\nIn accordance with applicable law, the base salary range for this role is $4,300 to $5,800 per week.",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "Miami, FL",
-    "job_city": "Miami",
-    "job_state": "Florida",
-    "job_country": "US",
-    "job_latitude": 25.7616798,
-    "job_longitude": -80.1917902,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DjUTR-altetnlyTvkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "PhD degree in mathematics, statistics, physics, computer science, or another highly quantitative field",
-        "Advanced training and strong research track record in statistics, machine learning, AI, or another highly quantitative field",
-        "Hands on programming experience in scripting (e.g. Python) and/or compiled languages (e.g. C++)",
-        "A background demonstrating strong problem-solving skills",
-        "An ability to communicate advanced concepts in a concise and logical way",
-        "Proficiency in creating and using algorithms to meticulously investigate and work through large data or error-checking problems"
-      ],
-      "Benefits": [
-        "In addition, you’ll get the opportunity to network and socialize with peers throughout the internship",
-        "In accordance with applicable law, the base salary range for this role is $4,300 to $5,800 per week"
-      ],
-      "Responsibilities": [
-        "As an intern, you’ll get to challenge the impossible in research through an 11 week program that will allow you to collaborate and connect with senior team members",
-        "Use statistics, machine learning or AI (e.g. deep learning, NLP) to extract patterns from various kinds of datasets through innovative and rigorous research",
-        "Implement algorithms in high-quality code",
-        "Work with large data sets, including unconventional and unstructured data sources",
-        "Back-test models and document research findings"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-citadelsecurities-com-careers-details-machine-learning-researcher-phd-intern-us",
     "_source": "new_jobs"
   },
   {
@@ -1900,6 +1755,94 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "careers-cisco-com-global-en-job-ciscisglobal2000473externalenglobal-ai-research-scientist-phd-intern-united-states",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "jUTR-altetnlyTvkAAAAAA==",
+    "job_title": "Machine Learning Researcher - PhD Intern (US)",
+    "employer_name": "Citadel",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyqNjgZwMw5Ee0MqrUElt0p6LzGVh11eSM3Whz&s=0",
+    "employer_website": "https://www.citadel.com",
+    "job_publisher": "Citadel Securities",
+    "job_employment_type": "Internship",
+    "job_employment_types": [
+      "INTERN"
+    ],
+    "job_apply_link": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Citadel Securities",
+        "apply_link": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Citadel/Job/Machine-Learning-Researcher-PhD-Intern-(US)/-in-Miami,FL?jid=7d86773deb617ff1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Built In",
+        "apply_link": "https://builtin.com/job/machine-learning-researcher-phd-intern-us/6532905?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/machine-learning-researcher-phd-intern-miami-citadel-enterprise-americas-llc-c622156cce9c454368d0687d4d62e51f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Ladders",
+        "apply_link": "https://www.theladders.com/job/machine-learning-researcher-phd-intern-us-bluehalo-miami-fl_82155564?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Lensa",
+        "apply_link": "https://lensa.com/job-v1/citadel/miami-fl/machine-learning-intern/d24dd80cfad3ad62a18b7fcaf3a584e7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "At Citadel Securities, a leading global market maker, our team of quantitative researchers models the markets and brings trading strategies to life every day. Specifically, the goal of this team is to leverage and tailor the state-of-the-art machine learning and AI algorithms to modernize the quantitative trading industry. We’re looking for extraordinary and highly motivated researchers who are excited about solving challenging problems and iterating in a fast-paced environment.\n\nAs an intern, you’ll get to challenge the impossible in research through an 11 week program that will allow you to collaborate and connect with senior team members. In addition, you’ll get the opportunity to network and socialize with peers throughout the internship.\n\nOur signature internship program takes place June through August. Occasionally, we can be flexible to other times of the year. You will be able to indicate your timing preference in the application.\n\nYour Objectives\n• Use statistics, machine learning or AI (e.g. deep learning, NLP) to extract patterns from various kinds of datasets through innovative and rigorous research\n• Implement algorithms in high-quality code\n• Work with large data sets, including unconventional and unstructured data sources\n• Back-test models and document research findings\n\nYour Skills & Talents\n• PhD degree in mathematics, statistics, physics, computer science, or another highly quantitative field\n• Advanced training and strong research track record in statistics, machine learning, AI, or another highly quantitative field\n• Hands on programming experience in scripting (e.g. Python) and/or compiled languages (e.g. C++)\n• A background demonstrating strong problem-solving skills\n• An ability to communicate advanced concepts in a concise and logical way\n• Proficiency in creating and using algorithms to meticulously investigate and work through large data or error-checking problems\n\nOpportunities available in Miami and New York.\n\nIn accordance with applicable law, the base salary range for this role is $4,300 to $5,800 per week.",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Miami, FL",
+    "job_city": "Miami",
+    "job_state": "Florida",
+    "job_country": "US",
+    "job_latitude": 25.7616798,
+    "job_longitude": -80.1917902,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DjUTR-altetnlyTvkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "PhD degree in mathematics, statistics, physics, computer science, or another highly quantitative field",
+        "Advanced training and strong research track record in statistics, machine learning, AI, or another highly quantitative field",
+        "Hands on programming experience in scripting (e.g. Python) and/or compiled languages (e.g. C++)",
+        "A background demonstrating strong problem-solving skills",
+        "An ability to communicate advanced concepts in a concise and logical way",
+        "Proficiency in creating and using algorithms to meticulously investigate and work through large data or error-checking problems"
+      ],
+      "Benefits": [
+        "In addition, you’ll get the opportunity to network and socialize with peers throughout the internship",
+        "In accordance with applicable law, the base salary range for this role is $4,300 to $5,800 per week"
+      ],
+      "Responsibilities": [
+        "As an intern, you’ll get to challenge the impossible in research through an 11 week program that will allow you to collaborate and connect with senior team members",
+        "Use statistics, machine learning or AI (e.g. deep learning, NLP) to extract patterns from various kinds of datasets through innovative and rigorous research",
+        "Implement algorithms in high-quality code",
+        "Work with large data sets, including unconventional and unstructured data sources",
+        "Back-test models and document research findings"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-citadelsecurities-com-careers-details-machine-learning-researcher-phd-intern-us",
     "_source": "new_jobs"
   }
 ]
