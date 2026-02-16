@@ -66,8 +66,8 @@
     "job_latitude": 42.376435799999996,
     "job_longitude": -71.23575009999999,
     "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DEfJGZMjFWl3x-zFeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -147,9 +147,9 @@
     ],
     "job_description": "Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challenges—and we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every day—working for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities for career growth, and a culture of innovation that embraces adaptability, collaboration, technical excellence, and people in partnership. If this sounds like the choice you want to make, then choose MITRE - and make a difference with us.\n\nNOTE: Thank you for your interest in MITRE’s internship opportunities. Please be aware that this is not an application for a specific position. By submitting your information and providing your resume, you will be included in a pool of candidates for various internship roles across the company. If you are selected for consideration for a particular internship, a member of MITRE’s Student Programs team will reach out to you. The primary hiring season for MITRE internships runs from September through March. You can monitor your application status here: Workday (myworkdayjobs.com).\n\nJob Responsibilities\n\nAs an intern working in data science, operations research, math or statistics, you will work alongside a team of experts to apply your knowledge and gain hands-on experience in one or more of the following areas:\n• Data analysis and visualization\n• Augmented decision-making and trusted analytics\n• Applied mathematics, statistics, and optimization\n• Simulation and computational analytics\n• Systems modeling and analysis\n• Operational effectiveness and efficiency\n• Knowledge discovery\n• Next-generation data environments\n\nBasic Qualifications\n• Must be a full-time student pursuing an accredited degree program in Data Science, Math, Statistics, Operations Research or related disciplines.\n• Must continue to be enrolled the semester following the internship.\n• Foundational knowledge of data science, math, statistics or operations research methodologies, frameworks, tools and/or programming languages.\n• Must have sustained excellence in academic performance.\n\nPreferred Qualifications\n• Experience applying data science, math, statistics or operations research concepts in an internship, research, or lab setting.\n• Proficiency using data science, math, statistics or operations research methodologies, frameworks, tools and/or programming languages.\n• Demonstrated interest in serving the public through previous work experience, volunteer activities, or other relevant engagements.\n\nClearance: In addition to passing MITRE’s employment background check, you may be submitted for a U.S. Government Security clearance. This is determined by the Department of Defense’s adjudicative guidelines for receiving a clearance, to include U.S. citizenship. Other jobs may require vetting for various levels of agency public trust, fitness, suitability, controlled access, and special programs access determination consistent with the work program to which you are assigned.\n\nThis requisition requires the candidate to have a minimum of the following clearance(s):\n\nThis requisition requires the hired candidate to have or obtain, within one year from the date of hire, the following clearance(s):\n\nSalary compensation range and midpoint:\n$46,500 - $58,000 - $69,500 Annual\n\nWork Location Type:\nHybrid\n\nIt is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.\n\nCommitment to Non-Discrimination\n\nAll qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local or international law.\n\nMITRE intends to maintain a website that is fully accessible to all individuals. If you are unable to search or apply for jobs and would like to request a reasonable accommodation for any part of MITRE’s employment process, please email recruitinghelp@mitre.org for general support and collegerecruiting@mitre.org for intern positions. This service is for individuals requiring reasonable accommodation requests. Please note that vendor solicitations will not receive a reply.\n\nBenefits information may be found here.\n\nCopyright © 1997-2026, The MITRE Corporation. All rights reserved. MITRE is a registered trademark of The MITRE Corporation. Material on this site may be copied and distributed with permission only.",
     "job_is_remote": false,
-    "job_posted_at": "12 hours ago",
-    "job_posted_at_timestamp": 1771200000,
-    "job_posted_at_datetime_utc": "2026-02-16T00:00:00.000Z",
+    "job_posted_at": "13 hours ago",
+    "job_posted_at_timestamp": 1771196400,
+    "job_posted_at_datetime_utc": "2026-02-15T23:00:00.000Z",
     "job_location": "McLean, VA",
     "job_city": "McLean",
     "job_state": "Virginia",
@@ -228,6 +228,11 @@
         "is_direct": false
       },
       {
+        "publisher": "Jobgether",
+        "apply_link": "https://jobgether.com/offer/698fec58da7696de2f51c074-intern---data-science-and-artificial-intelligence?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
         "publisher": "Teal",
         "apply_link": "https://www.tealhq.com/job/intern-data-science-and-artificial-intelligence_7ea1a10f4a7849d8a8b125f21c4579e4819c7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
@@ -240,11 +245,6 @@
       {
         "publisher": "Indeed",
         "apply_link": "https://www.indeed.com/viewjob?jk=09dde0e316d54fdb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "StemCareers",
-        "apply_link": "https://stemcareers.com/posting/7320573?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
@@ -260,9 +260,9 @@
     "job_latitude": 35.995568399999996,
     "job_longitude": -78.9002077,
     "job_benefits": [
+      "paid_time_off",
       "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DxJhdgOILWT1UI0K5AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -512,7 +512,7 @@
     "job_title": "INTERN - Intergovernmental Affairs, Data Science & Computer Science",
     "employer_name": "UN - United Nations",
     "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA8AQ-S8c6imZt4g4g9Ts6a2M3R1H33-epWT8K&s=0",
-    "employer_website": "https://www.nations-united.org",
+    "employer_website": null,
     "job_publisher": "UN Talent",
     "job_employment_type": "Internship",
     "job_employment_types": [
@@ -525,11 +525,6 @@
         "publisher": "UN Talent",
         "apply_link": "https://untalent.org/jobs/intern-intergovernmental-affairs-data-science-computer-science-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
-      },
-      {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/intern-intergovernmental-affairs-data-science-new-york-united-nations-996118eefbaebe0f38d45b0314de9952?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
       },
       {
         "publisher": "UNjobnet",
@@ -872,6 +867,79 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "pOLy-uCJuvsxHytlAAAAAA==",
+    "job_title": "Internship - Data Science",
+    "employer_name": "Novo Nordisk",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg6LZinGhGGu_Z_vaVWfSNZSondCiSRqDbATaZ&s=0",
+    "employer_website": "https://www.novonordisk.com",
+    "job_publisher": "BeBee",
+    "job_employment_type": "Internship",
+    "job_employment_types": [
+      "INTERN"
+    ],
+    "job_apply_link": "https://us.bebee.com/job/09bfc157f13b9cf66fbe63d425d2dedf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/09bfc157f13b9cf66fbe63d425d2dedf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Breakroom",
+        "apply_link": "https://www.breakroom.cc/en-us/jobs/listing/27951764-novo-nordisk-internship-data-science-lexington-massachusetts?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "About The Department\nOur Research & Development organization brings together the best minds in life science innovation. The teams located in facilities in Lexington, Watertown, Cambridge and Plainsboro reflect the full R&D continuum, from early research through late-stage clinical development. Here, we are building for the future, creating a distinct R&D community based on collaboration, partnerships, and cutting-edge research across multiple modalities and therapeutic areas. We recognize that improving human health starts here and that patients rely on us. Our R&D hub merges biotech speed and agility with large pharmaceutical company quality, resources, and stability, uniting the best of both worlds to develop new medicines for patients\n\nThe Program\nAt Novo Nordisk, interns will have the opportunity to work closely with experienced industry professionals and gain valuable, hands-on, full-time work experience. For ten working weeks, interns will be immersed in the environment of a global pharmaceutical company and contribute to the line of business by providing sustainable and meaningful project work. Our internship program also includes instructor led trainings, a leadership engagement series, and a guided mentorship program to offer professional and personal development.\n\nProgram Start: June 1st, 2026\n\nProgram End: August 14th, 2026\n\nScope of Position\nIn this position, the Data Science intern will be part of a collaborative data science team and will work on analyzing/visualizing and/or developing algorithms on wearable and digital devices data. With inputs and guidance from their daily supervisor, the intern will develop Python code for signal processing, AI and machine learning algorithms and/or analyze and visualize data related to wearable devices (e.g. actigraphy device) and time series signals (e.g. ECG data). In their work, the intern will use tools like Databricks or SageMaker for development, Azure Devops for code versioning and agile project management. The intern will meet regularly with their supervisor, prepare and give regular presentations on their work progress to the supervisor and the rest of the team. Our team is highly collaborative, so the intern will participate in regular team meetings and may collaborate with the rest of the team on items that facilitate their work.\n\nPhysical Requirements\n0% overnight travel required.\n\nQualifications\n• Must be a current student enrolled at an accredited college or university pursuing at least a bachelor's degree\n• An in progress doctorate degree in Biomedical Engineering, Electrical Engineering, Mechanical Engineering, or a related discipline preferred\n• Strong academic record with a preferred cumulative GPA of 3.0 or higher\n• Conscientious self-starter with good organizational skills, project management skills and attention to detail\n• Ability to balance multiple projects and priorities, must be able to multi-task\n• Strong interpersonal communication and ability to collaborate with teams; must effectively operate independently, across functional lines, and with internal customers\n• Demonstrated personal initiative, self-motivation, flexibility, adaptability and willingness to learn\n• Proficient in Microsoft Office Tools including Word, Excel, PowerPoint, etc.\n\nAt this time, Novo Nordisk is not currently hiring individuals for this position who now or in the future would require sponsorship for employment visa status.\n\nThe base compensation range for this position is $52,000 to $89,000 on an hourly basis. Due to the temporary nature of this program, this position is not eligible to participate in any of the Company's benefit plans and will not be entitled to any paid time off unless otherwise required by applicable law.\n\nWe commit to an inclusive recruitment process and equality of opportunity for all our job applicants.\n\nAt Novo Nordisk, we're not chasing quick fixes – we're creating lasting change for long-term health. For over 100 years, we've been driven by a single purpose: to defeat serious chronic diseases and help millions of people live healthier lives. This dedication fuels our constant curiosity and inspires us to push the boundaries of what's possible in healthcare. We embrace diverse perspectives, seek out bold ideas, and build partnerships rooted in shared purpose. Together, we're making healthcare more accessible, treating and defeating diseases, and pioneering solutions that create change spanning generations. When you join us, you become part of something bigger – a legacy of impact that reaches far beyond today.\n\nNovo Nordisk is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, gender identity, sexual orientation, national origin, disability, protected veteran status or any other characteristic protected by local, state or federal laws, rules or regulations.\n\nIf you are interested in applying to Novo Nordisk and need special assistance or an accommodation to apply, please call us at This contact is for accommodation requests only and cannot be used to inquire about the status of applications.",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Lexington, MA",
+    "job_city": "Lexington",
+    "job_state": "Massachusetts",
+    "job_country": "US",
+    "job_latitude": 42.4473497,
+    "job_longitude": -71.2271531,
+    "job_benefits": [
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DpOLy-uCJuvsxHytlAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "0% overnight travel required",
+        "Must be a current student enrolled at an accredited college or university pursuing at least a bachelor's degree",
+        "Conscientious self-starter with good organizational skills, project management skills and attention to detail",
+        "Ability to balance multiple projects and priorities, must be able to multi-task",
+        "Strong interpersonal communication and ability to collaborate with teams; must effectively operate independently, across functional lines, and with internal customers",
+        "Demonstrated personal initiative, self-motivation, flexibility, adaptability and willingness to learn",
+        "Proficient in Microsoft Office Tools including Word, Excel, PowerPoint, etc",
+        "At this time, Novo Nordisk is not currently hiring individuals for this position who now or in the future would require sponsorship for employment visa status"
+      ],
+      "Benefits": [
+        "The base compensation range for this position is $52,000 to $89,000 on an hourly basis",
+        "Due to the temporary nature of this program, this position is not eligible to participate in any of the Company's benefit plans and will not be entitled to any paid time off unless otherwise required by applicable law"
+      ],
+      "Responsibilities": [
+        "In this position, the Data Science intern will be part of a collaborative data science team and will work on analyzing/visualizing and/or developing algorithms on wearable and digital devices data",
+        "With inputs and guidance from their daily supervisor, the intern will develop Python code for signal processing, AI and machine learning algorithms and/or analyze and visualize data related to wearable devices (e.g. actigraphy device) and time series signals (e.g",
+        "ECG data)",
+        "In their work, the intern will use tools like Databricks or SageMaker for development, Azure Devops for code versioning and agile project management",
+        "The intern will meet regularly with their supervisor, prepare and give regular presentations on their work progress to the supervisor and the rest of the team",
+        "Our team is highly collaborative, so the intern will participate in regular team meetings and may collaborate with the rest of the team on items that facilitate their work"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "us-bebee-com-job-09bfc157f13b9cf66fbe63d425d2dedf",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "2HhzWnYxHLNPM_iNAAAAAA==",
     "job_title": "Data Science, GIS, and Asset Analytics Intern - Summer 2026",
     "employer_name": "HNTB",
@@ -1119,208 +1187,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "YU5ZeSDIg9i0eIR3AAAAAA==",
-    "job_title": "Operations Intern- Data Science",
-    "employer_name": "Safran Electronics & Defense",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfRjvAIhjQ147G65OhK93AAQ6lBI2OBSu_-XbC&s=0",
-    "employer_website": "https://www.safran-group.com",
-    "job_publisher": "Welcome To The Jungle",
-    "job_employment_type": "Internship",
-    "job_employment_types": [
-      "INTERN"
-    ],
-    "job_apply_link": "https://www.welcometothejungle.com/en/companies/safran-electronics-defense-fr/jobs/operations-intern_grand-prairie_SED_kl5aKP3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Welcome To The Jungle",
-        "apply_link": "https://www.welcometothejungle.com/en/companies/safran-electronics-defense-fr/jobs/operations-intern_grand-prairie_SED_kl5aKP3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "WIZBII Jobs",
-        "apply_link": "https://en.wizbii.com/company/safran/job/operations-intern-4147?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Dejobs.org",
-        "apply_link": "https://dejobs.org/457974416BD44D9A8DD52663A4875ECA23?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Breakroom",
-        "apply_link": "https://www.breakroom.cc/en-us/jobs/listing/28390140-safran-operations-intern-data-science-grand-prairie-texas?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Aero Careers",
-        "apply_link": "https://aerocareers.co.uk/job/operations-intern-data-science/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "Job Summary:\n\nThis role involves supporting efforts to enhance shop floor performance within an aerospace repair environment by developing Key Performance Indicators (KPIs) and implementing visual manufacturing tools. The position works closely with the operations team to analyze workflows, design practical solutions, and introduce systems that improve transparency, efficiency, and productivity. This internship provides a hands-on opportunity to apply analytical skills and operational knowledge in a fast-paced aerospace repair setting, contributing to impactful, real-world projects.\n\nEssential Job Functions:\n\n‐ Collaborate with the operations team to identify critical performance metrics and develop effective KPIs to measure shop floor performance.\n‐ Assist in the design and implementation of visual management tools such as dashboards, scoreboards, and floor-level communication boards.\n‐ Conduct time studies, data collection, and analysis to identify areas for process improvement.\n‐ Work with cross-functional teams to understand workflow and operational challenges to propose practical solutions.\n‐ Support the creation and deployment of standard operating procedures (SOPs) to ensure consistent use of visual manufacturing tools.\n‐ Provide training and guidance to shop floor employees on understanding and utilizing KPIs and visual tools.\n‐ Gather and report on feedback from operators and supervisors regarding the effectiveness of the implemented systems.\n‐ Participate in continuous improvement initiatives.\n\nEducation / Experience:\n‐ Currently pursuing a degree in Industrial Engineering, Operations Management, Manufacturing, or a related field.\n‐ Strong analytical and problem-solving skills, with the ability to work with data and generate actionable insights.\n‐ Familiarity with Lean Manufacturing principles and visual management tools is a plus.\n‐ Excellent verbal and written communication skills to work effectively with team members at all levels.\n‐ Proficiency in Microsoft Office Suite (Excel, PowerPoint, Word, PowerBI); experience with data visualization tools is a plus.\n‐ Self-motivated, organized, and capable of managing multiple tasks and deadlines.\n‐ This position requires use of information or access to hardware that is subject to the International Traffic in Arms Regulations (ITAR). All applicants must be U.S. persons within the meaning of ITAR. ITAR defines a U.S. person as a U.S. Citizen, U.S. Permanent Resident (i.e. 'Green Card Holder'), Political Asylee, or Refugee",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Grand Prairie, TX",
-    "job_city": "Grand Prairie",
-    "job_state": "Texas",
-    "job_country": "US",
-    "job_latitude": 32.7459645,
-    "job_longitude": -96.99778459999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DYU5ZeSDIg9i0eIR3AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "‐ Currently pursuing a degree in Industrial Engineering, Operations Management, Manufacturing, or a related field",
-        "‐ Strong analytical and problem-solving skills, with the ability to work with data and generate actionable insights",
-        "‐ Excellent verbal and written communication skills to work effectively with team members at all levels",
-        "‐ Self-motivated, organized, and capable of managing multiple tasks and deadlines",
-        "‐ This position requires use of information or access to hardware that is subject to the International Traffic in Arms Regulations (ITAR)",
-        "All applicants must be U.S. persons within the meaning of ITAR",
-        "ITAR defines a U.S. person as a U.S. Citizen, U.S. Permanent Resident (i.e"
-      ],
-      "Responsibilities": [
-        "This role involves supporting efforts to enhance shop floor performance within an aerospace repair environment by developing Key Performance Indicators (KPIs) and implementing visual manufacturing tools",
-        "The position works closely with the operations team to analyze workflows, design practical solutions, and introduce systems that improve transparency, efficiency, and productivity",
-        "This internship provides a hands-on opportunity to apply analytical skills and operational knowledge in a fast-paced aerospace repair setting, contributing to impactful, real-world projects",
-        "‐ Collaborate with the operations team to identify critical performance metrics and develop effective KPIs to measure shop floor performance",
-        "‐ Assist in the design and implementation of visual management tools such as dashboards, scoreboards, and floor-level communication boards",
-        "‐ Conduct time studies, data collection, and analysis to identify areas for process improvement",
-        "‐ Work with cross-functional teams to understand workflow and operational challenges to propose practical solutions",
-        "‐ Support the creation and deployment of standard operating procedures (SOPs) to ensure consistent use of visual manufacturing tools",
-        "‐ Provide training and guidance to shop floor employees on understanding and utilizing KPIs and visual tools",
-        "‐ Gather and report on feedback from operators and supervisors regarding the effectiveness of the implemented systems",
-        "‐ Participate in continuous improvement initiatives"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-welcometothejungle-com-en-companies-safran-electronics-defense-fr-jobs-operations-intern_grand-prairie_sed_kl5akp3",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "s3WKlG8rQn3-60IPAAAAAA==",
-    "job_title": "Data Scientist Intern 2026",
-    "employer_name": "Boats Group",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDgdWvST05gkT99uf4kFjkqBEqzJCId6jV-u80&s=0",
-    "employer_website": "https://www.boatsgroup.com",
-    "job_publisher": "Indeed",
-    "job_employment_type": "Internship",
-    "job_employment_types": [
-      "INTERN"
-    ],
-    "job_apply_link": "https://www.indeed.com/viewjob?jk=f9fcb12874037826&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=f9fcb12874037826&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/winter-intern_7ea1a7fa15f985ac79ae20fa4238b4db53de0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Boats-Group/Job/Data-Scientist-Intern-2026/-in-Miami,FL?jid=319027e2119d0d50&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/7682aa238ef818917faa2ad8807fc2d1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Joinrs",
-        "apply_link": "https://www.joinrs.com/pt/job-offers/337446/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/data-scientist-intern-2026-at-boats-group-4371497067?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/698d11d70f6f7e7a2ce8c58a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/tpPkJ0ARCE0vPAifvlM_nOjuJCD5Ykx9jgWbIv8oB8RYJ3rLAgO4iQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Data Scientist Summer Internship - 2026\nMiami, FL\n\nAs a Boats Group Data Scientist Intern, you’ll report to our Head of Data and work closely with our Principal Data Scientist and Data & AI team to support the development of internal machine learning and advanced analytics models that inform product, marketplace, and business decisions.\n\nOver the summer, you'll work on projects, tackle daily tasks, and work collaboratively with our team. In general, your responsibilities will include:\n• Partner directly with a Principal Data Scientist on internal ML and analytics initiatives\n• Explore and prepare large datasets for modeling (data cleaning, joins, feature creation)\n• Build and evaluate internal-facing models, such as:\n• Propensity or scoring models (e.g., conversion likelihood, lead quality)\n• Classification and regression models for forecasting or prioritization\n• Segmentation or clustering models to identify behavioral patterns\n• Analyze model outputs to generate actionable insights for product, sales, and operations teams\n• Create clear summaries, visualizations, and documentation explaining:\n• Model approach and assumptions\n• Key drivers and insights\n• Limitations and next steps\n• Collaborate with data engineers and analysts to ensure models align with available data and pipelines\n\nWe know you're just starting your career. But here are a few things that you should have to succeed in this internship:\n• Currently pursuing a Bachelor’s degree in Data Science, Statistics, Computer Science, Mathematics, Economics, or a related field\n• Strong foundation in statistics, probability, and data analysis\n• Hands-on experience with Python (pandas, numpy, scikit-learn)\n• Working knowledge of SQL and relational data modeling\n• Ability to clearly explain analytical findings and tradeoffs\n• Curiosity, attention to detail, and comfort working with ambiguity\n• Exposure to cloud data warehouses (e.g., Snowflake, BigQuery)\n• Experience with visualization tools or Python plotting libraries\n\nEssential Details:\n• Internship Duration: Our internship program will be 10 weeks, with a start date of Tuesday, June 2nd, and ending Thursday, August 6th.\n• Hybrid Work Schedule: Work remotely on Mondays and join us in the office Tuesdays - Thursdays with no work on Fridays – enjoy your 3-day weekend!\n• Office Location: Join us at our vibrant & amazing office, located at 1221 Brickell Ave, Miami, FL\n• Work Eligibility: Must be eligible to work in the U.S.\n• Location: Must be based in Miami, FL with no relocation accepted\n\nTo join us on this adventure, candidates must meet the following criteria:\n• Work Authorization: Must be eligible to work in the United States.\n• Local to Miami: To guarantee a seamless and enriching experience, candidates must be based in Miami, FL. (Relocation not accepted.) Join us in the heart of Miami for an unforgettable journey!\n\nIn addition to professional and personal growth, here’s what you’ll receive:\n• Hourly Rate: This paid internship has a pay rate of $20 an hour, with the eligibility to earn an end-of-program bonus – a true treasure for your efforts!\n• Commuter Benefits: Navigate to work with ease, enjoying commuter benefits (monthly parking or rail pass) for a smoother journey to our Brickell Office.\n• Three-Day Weekend (No Work on Fridays): Immerse yourself in exciting projects Monday to Thursday, enjoying a three-day weekend with no work on Fridays, ensuring you have time to recharge and explore the vibrant surroundings of Miami.\n• *Application: Applications are currently open and will close on February 27, 2026. Drop your anchor and seize the opportunity to join our crew!**\n\n#LI-Hybrid",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Miami, FL",
-    "job_city": "Miami",
-    "job_state": "Florida",
-    "job_country": "US",
-    "job_latitude": 25.7616798,
-    "job_longitude": -80.1917902,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Ds3WKlG8rQn3-60IPAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Currently pursuing a Bachelor’s degree in Data Science, Statistics, Computer Science, Mathematics, Economics, or a related field",
-        "Strong foundation in statistics, probability, and data analysis",
-        "Hands-on experience with Python (pandas, numpy, scikit-learn)",
-        "Working knowledge of SQL and relational data modeling",
-        "Ability to clearly explain analytical findings and tradeoffs",
-        "Curiosity, attention to detail, and comfort working with ambiguity",
-        "Exposure to cloud data warehouses (e.g., Snowflake, BigQuery)",
-        "Experience with visualization tools or Python plotting libraries",
-        "Work Eligibility: Must be eligible to work in the U.S",
-        "Location: Must be based in Miami, FL with no relocation accepted",
-        "Work Authorization: Must be eligible to work in the United States",
-        "Local to Miami: To guarantee a seamless and enriching experience, candidates must be based in Miami, FL"
-      ],
-      "Benefits": [
-        "Hourly Rate: This paid internship has a pay rate of $20 an hour, with the eligibility to earn an end-of-program bonus – a true treasure for your efforts!",
-        "Commuter Benefits: Navigate to work with ease, enjoying commuter benefits (monthly parking or rail pass) for a smoother journey to our Brickell Office",
-        "Three-Day Weekend (No Work on Fridays): Immerse yourself in exciting projects Monday to Thursday, enjoying a three-day weekend with no work on Fridays, ensuring you have time to recharge and explore the vibrant surroundings of Miami"
-      ],
-      "Responsibilities": [
-        "As a Boats Group Data Scientist Intern, you’ll report to our Head of Data and work closely with our Principal Data Scientist and Data & AI team to support the development of internal machine learning and advanced analytics models that inform product, marketplace, and business decisions",
-        "Over the summer, you'll work on projects, tackle daily tasks, and work collaboratively with our team",
-        "Partner directly with a Principal Data Scientist on internal ML and analytics initiatives",
-        "Explore and prepare large datasets for modeling (data cleaning, joins, feature creation)",
-        "Build and evaluate internal-facing models, such as:",
-        "Propensity or scoring models (e.g., conversion likelihood, lead quality)",
-        "Classification and regression models for forecasting or prioritization",
-        "Segmentation or clustering models to identify behavioral patterns",
-        "Analyze model outputs to generate actionable insights for product, sales, and operations teams",
-        "Create clear summaries, visualizations, and documentation explaining:",
-        "Model approach and assumptions",
-        "Key drivers and insights",
-        "Limitations and next steps",
-        "Collaborate with data engineers and analysts to ensure models align with available data and pipelines",
-        "Internship Duration: Our internship program will be 10 weeks, with a start date of Tuesday, June 2nd, and ending Thursday, August 6th",
-        "Hybrid Work Schedule: Work remotely on Mondays and join us in the office Tuesdays - Thursdays with no work on Fridays – enjoy your 3-day weekend!"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-indeed-com-viewjob",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "FPItT7Ih4Feh3BKFAAAAAA==",
     "job_title": "Data Scientist Intern",
     "employer_name": "Woodward L'Orange",
@@ -1352,8 +1218,8 @@
     "job_latitude": 42.2677214,
     "job_longitude": -89.08777479999999,
     "job_benefits": [
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFPItT7Ih4Feh3BKFAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1592,6 +1458,84 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "TNlWas22O6gBdaZdAAAAAA==",
+    "job_title": "R&D DSDH Integrated Data Products Intern",
+    "employer_name": "Jj",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Jj/Job/R&D-DSDH-Integrated-Data-Products-Intern/-in-Cambridge,MA?jid=0db0089b73b505b0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Jj/Job/R&D-DSDH-Integrated-Data-Products-Intern/-in-Cambridge,MA?jid=0db0089b73b505b0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "At Johnson & Johnson,we believe health is everything. Our strength in healthcare innovation empowers us to build aworld where complex diseases are prevented, treated, and cured,where treatments are smarter and less invasive, andsolutions are personal.Through our expertise in Innovative Medicine and MedTech, we are uniquely positioned to innovate across the full spectrum of healthcare solutions today to deliver the breakthroughs of tomorrow, and profoundly impact health for humanity.Learn more at jnj.com\n\nAs guided by Our Credo, Johnson & Johnson is responsible to our employees who work with us throughout the world. We provide an inclusive work environment where each person is considered as an individual. At Johnson & Johnson, we respect the diversity and dignity of our employees and recognize their merit.\n\nJob Function:\nCareer Programs\n\nJob Sub Function:\nNon-LDP Intern/Co-Op\n\nJob Category:\nCareer Program\n\nAll Job Posting Locations:\nCambridge, Massachusetts, United States of America, New Brunswick, New Jersey, United States of America, Raritan, New Jersey, United States of America, San Diego, California, United States of America, South San Francisco, California, United States of America, Spring House, Pennsylvania, United States of America, Titusville, New Jersey, United States of America\n\nJob Description:\nAbout Innovative Medicine\n\nOur expertise in Innovative Medicine is informed and inspired by patients, whose insights fuel our science-based advancements. Visionaries like you work on teams that save lives by developing the medicines of tomorrow.\n\nJoin us in developing treatments, finding cures, and pioneering the path from lab to life while championing patients every step of the way. Learn more at https://www.jnj.com/innovative-medicine\n\nWe are searching for the best talent for R&D DSDH Integrated Data Products Intern to be in NJ New Brunswick.\n• The Intern term is from May to August, 2026.\n• Full time requirement (40 hours per week).\n\nPurpose:\n\nIn this role, you will work with colleagues in the R&D Data Science & Digital Health organization and partner with key businesses across Johnson and Johnson Innovative Medicine to apply advanced data science and analytics engineering principles to answer key research questions. The intern will contribute to projects that enhance patient care through technology, collaborate with cross-functional teams, and gain hands-on experience in the rapidly growing field of digital health. Interns could be located out of our US locations in San Diego, San Francisco, Titusville, Raritan, Spring House, Boston as well as remote.\n\nQualifications / Requirements:\n• Completion of Undergraduate Freshman year at an accredited University is required.\n• Currently pursuing a bachelor's degree in master's or PhD program in Statistics, Biostatistics, Epidemiology, Data Science, Computer Science, Electrical Engineering, Computational Biology, Biomedical or Health Informatics or related quantitative discipline or related fields.\n• Have a cumulative GPA of 3.0 or higher, which is reflective of all college coursework.\n• Strong working knowledge of data science and machine learning methodologies, with understanding of software development best practices including version control, unit testing, and code review.\n• Proficiency in one or more of the following programming languages: Python, R, SQL\n• Familiarity with predictive modeling and analysis of large datasets.\n• Strong technical communication and presentation skills.\n• Understanding of healthcare systems and digital health technologies.\n\nPreferred qualifications:\n\nExperience in one or more of the following:\n• Knowledge of epidemiology and experience in analysis of healthcare datasets: clinical trials, claims, EMR/EHR, survey, observation studies.\n• Familiarity with Git and version-control, plus hands-on experience building and maintaining CI/CD pipelines to automate builds, tests, and deployments.\n• Experience with one of the cloud providers like AWS/Azure/GCP, have knowledge developing both cloud-native applications\n• Conduct research on the latest trends in digital health and propose innovative ideas for new initiatives or improvements.\n• Possess a strong knowledge of GPU and high-performance computing techniques for efficient data processing.\n\nPermanently authorized to work in the U.S., must not require sponsorship of an employment visa (e.g., H-1B or green card) at the time of application or in the future. Students currently on CPT, OPT, or STEM OPT usually requires future sponsorship for long term employment and do not meet the requirements for this program unless eligible for an alternative long-term status that does not require company sponsorship.\n\nThe expected pay range for this position is between $23.00 per hour and $51.50 per hour but will be based on candidate's program year, discipline, degree and/or experience. Co-Ops/Interns are eligible to participate in Company sponsored employee medical benefits in accordance with the terms of the plan. Co-Ops and Interns are eligible for the following sick time benefits: up to 40 hours per calendar year; for employees who reside in the State of Washington, up to 56 hours per calendar year. Co-Ops and Interns are eligible to participate in the Company's consolidated retirement plan (pension).\n\nFor additional general information on Company benefits, please go to: https://www.careers.jnj.com/employee-benefits. This job posting is anticipated to close on [03/01/2026]. The Company may however extend this time-period, in which case the posting will remain available on https://www.careers.jnj.com to accept additional applications.\n\nIneligibility for severance.\n\nJohnson & Johnson is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, national origin, disability, protected veteran status or other characteristics protected by federal, state or local law. We actively seek qualified candidates who are protected veterans and individuals with disabilities as defined under VEVRAA and Section 503 of the Rehabilitation Act.\n\nJohnson & Johnson is committed to providing an interview process that is inclusive of our applicants' needs. If you are an individual with a disability and would like to request an accommodation, please contact us via https://www.jnj.com/contact-us/careers or contact AskGS to be directed to your accommodation resource.\n\n#LI-Remote\nRemote work options may be considered on a case-by-case basis and if approved by the Company.\n\nRequired Skills:\n\nPreferred Skills:\n\nThe anticipated base pay range for this position is :\n$23.00/hr to $51.50/hr\n\nAdditional Description for Pay Transparency:\nThe expected pay range for this position is between $23.00 per hour and $51.50 per hour but will be based on candidate's program year, discipline, degree and/or experience. Co-Ops/Interns are eligible to participate in Company sponsored employee medical benefits in accordance with the terms of the plan. Co-Ops and Interns are eligible for the following sick time benefits: up to 40 hours per calendar year; for employees who reside in the State of Washington, up to 56 hours per calendar year. Co-Ops and Interns are eligible to participate in the Company's consolidated retirement plan (pension). For additional general information on Company benefits, please go to: https://www.careers.jnj.com/employee-benefits. This job posting is anticipated to close on [03/01/2026]. The Company may however extend this time-period, in which case the posting will remain available on https://www.careers.jnj.com to accept additional applications.",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Massachusetts",
+    "job_city": null,
+    "job_state": "Massachusetts",
+    "job_country": "US",
+    "job_latitude": 42.4072107,
+    "job_longitude": -71.3824374,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DTNlWas22O6gBdaZdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": "HOUR",
+    "job_highlights": {
+      "Qualifications": [
+        "Full time requirement (40 hours per week)",
+        "Completion of Undergraduate Freshman year at an accredited University is required",
+        "Currently pursuing a bachelor's degree in master's or PhD program in Statistics, Biostatistics, Epidemiology, Data Science, Computer Science, Electrical Engineering, Computational Biology, Biomedical or Health Informatics or related quantitative discipline or related fields",
+        "Have a cumulative GPA of 3.0 or higher, which is reflective of all college coursework",
+        "Strong working knowledge of data science and machine learning methodologies, with understanding of software development best practices including version control, unit testing, and code review",
+        "Proficiency in one or more of the following programming languages: Python, R, SQL",
+        "Familiarity with predictive modeling and analysis of large datasets",
+        "Strong technical communication and presentation skills",
+        "Understanding of healthcare systems and digital health technologies",
+        "Knowledge of epidemiology and experience in analysis of healthcare datasets: clinical trials, claims, EMR/EHR, survey, observation studies",
+        "Familiarity with Git and version-control, plus hands-on experience building and maintaining CI/CD pipelines to automate builds, tests, and deployments",
+        "Experience with one of the cloud providers like AWS/Azure/GCP, have knowledge developing both cloud-native applications",
+        "Conduct research on the latest trends in digital health and propose innovative ideas for new initiatives or improvements",
+        "Possess a strong knowledge of GPU and high-performance computing techniques for efficient data processing",
+        "Permanently authorized to work in the U.S., must not require sponsorship of an employment visa (e.g., H-1B or green card) at the time of application or in the future",
+        "Students currently on CPT, OPT, or STEM OPT usually requires future sponsorship for long term employment and do not meet the requirements for this program unless eligible for an alternative long-term status that does not require company sponsorship"
+      ],
+      "Benefits": [
+        "The expected pay range for this position is between $23.00 per hour and $51.50 per hour but will be based on candidate's program year, discipline, degree and/or experience",
+        "Co-Ops/Interns are eligible to participate in Company sponsored employee medical benefits in accordance with the terms of the plan",
+        "Co-Ops and Interns are eligible for the following sick time benefits: up to 40 hours per calendar year; for employees who reside in the State of Washington, up to 56 hours per calendar year",
+        "Co-Ops and Interns are eligible to participate in the Company's consolidated retirement plan (pension)",
+        "$23.00/hr to $51.50/hr",
+        "The expected pay range for this position is between $23.00 per hour and $51.50 per hour but will be based on candidate's program year, discipline, degree and/or experience",
+        "Co-Ops/Interns are eligible to participate in Company sponsored employee medical benefits in accordance with the terms of the plan",
+        "Co-Ops and Interns are eligible for the following sick time benefits: up to 40 hours per calendar year; for employees who reside in the State of Washington, up to 56 hours per calendar year",
+        "Co-Ops and Interns are eligible to participate in the Company's consolidated retirement plan (pension)"
+      ],
+      "Responsibilities": [
+        "In this role, you will work with colleagues in the R&D Data Science & Digital Health organization and partner with key businesses across Johnson and Johnson Innovative Medicine to apply advanced data science and analytics engineering principles to answer key research questions",
+        "The intern will contribute to projects that enhance patient care through technology, collaborate with cross-functional teams, and gain hands-on experience in the rapidly growing field of digital health"
+      ]
+    },
+    "job_onet_soc": "15204100",
+    "job_onet_job_zone": "5",
+    "id": "www-ziprecruiter-com-c-jj-job-r-d-dsdh-integrated-data-products-intern-in-cambridge-ma",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "nx-wdJqao1DbR0QtAAAAAA==",
     "job_title": "Data Scientist Intern - In Office, Lincoln, NE only",
     "employer_name": "Sandhills Global, Inc.",
@@ -1691,84 +1635,6 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "www-glassdoor-com-job-listing-data-scientist-intern-in-office-lincoln-ne-only-sandhills-global-jv_ic1136371_ko0-47_ke48-64-htm",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "TNlWas22O6gBdaZdAAAAAA==",
-    "job_title": "R&D DSDH Integrated Data Products Intern",
-    "employer_name": "Jj",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Jj/Job/R&D-DSDH-Integrated-Data-Products-Intern/-in-Cambridge,MA?jid=0db0089b73b505b0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Jj/Job/R&D-DSDH-Integrated-Data-Products-Intern/-in-Cambridge,MA?jid=0db0089b73b505b0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "At Johnson & Johnson,we believe health is everything. Our strength in healthcare innovation empowers us to build aworld where complex diseases are prevented, treated, and cured,where treatments are smarter and less invasive, andsolutions are personal.Through our expertise in Innovative Medicine and MedTech, we are uniquely positioned to innovate across the full spectrum of healthcare solutions today to deliver the breakthroughs of tomorrow, and profoundly impact health for humanity.Learn more at jnj.com\n\nAs guided by Our Credo, Johnson & Johnson is responsible to our employees who work with us throughout the world. We provide an inclusive work environment where each person is considered as an individual. At Johnson & Johnson, we respect the diversity and dignity of our employees and recognize their merit.\n\nJob Function:\nCareer Programs\n\nJob Sub Function:\nNon-LDP Intern/Co-Op\n\nJob Category:\nCareer Program\n\nAll Job Posting Locations:\nCambridge, Massachusetts, United States of America, New Brunswick, New Jersey, United States of America, Raritan, New Jersey, United States of America, San Diego, California, United States of America, South San Francisco, California, United States of America, Spring House, Pennsylvania, United States of America, Titusville, New Jersey, United States of America\n\nJob Description:\nAbout Innovative Medicine\n\nOur expertise in Innovative Medicine is informed and inspired by patients, whose insights fuel our science-based advancements. Visionaries like you work on teams that save lives by developing the medicines of tomorrow.\n\nJoin us in developing treatments, finding cures, and pioneering the path from lab to life while championing patients every step of the way. Learn more at https://www.jnj.com/innovative-medicine\n\nWe are searching for the best talent for R&D DSDH Integrated Data Products Intern to be in NJ New Brunswick.\n• The Intern term is from May to August, 2026.\n• Full time requirement (40 hours per week).\n\nPurpose:\n\nIn this role, you will work with colleagues in the R&D Data Science & Digital Health organization and partner with key businesses across Johnson and Johnson Innovative Medicine to apply advanced data science and analytics engineering principles to answer key research questions. The intern will contribute to projects that enhance patient care through technology, collaborate with cross-functional teams, and gain hands-on experience in the rapidly growing field of digital health. Interns could be located out of our US locations in San Diego, San Francisco, Titusville, Raritan, Spring House, Boston as well as remote.\n\nQualifications / Requirements:\n• Completion of Undergraduate Freshman year at an accredited University is required.\n• Currently pursuing a bachelor's degree in master's or PhD program in Statistics, Biostatistics, Epidemiology, Data Science, Computer Science, Electrical Engineering, Computational Biology, Biomedical or Health Informatics or related quantitative discipline or related fields.\n• Have a cumulative GPA of 3.0 or higher, which is reflective of all college coursework.\n• Strong working knowledge of data science and machine learning methodologies, with understanding of software development best practices including version control, unit testing, and code review.\n• Proficiency in one or more of the following programming languages: Python, R, SQL\n• Familiarity with predictive modeling and analysis of large datasets.\n• Strong technical communication and presentation skills.\n• Understanding of healthcare systems and digital health technologies.\n\nPreferred qualifications:\n\nExperience in one or more of the following:\n• Knowledge of epidemiology and experience in analysis of healthcare datasets: clinical trials, claims, EMR/EHR, survey, observation studies.\n• Familiarity with Git and version-control, plus hands-on experience building and maintaining CI/CD pipelines to automate builds, tests, and deployments.\n• Experience with one of the cloud providers like AWS/Azure/GCP, have knowledge developing both cloud-native applications\n• Conduct research on the latest trends in digital health and propose innovative ideas for new initiatives or improvements.\n• Possess a strong knowledge of GPU and high-performance computing techniques for efficient data processing.\n\nPermanently authorized to work in the U.S., must not require sponsorship of an employment visa (e.g., H-1B or green card) at the time of application or in the future. Students currently on CPT, OPT, or STEM OPT usually requires future sponsorship for long term employment and do not meet the requirements for this program unless eligible for an alternative long-term status that does not require company sponsorship.\n\nThe expected pay range for this position is between $23.00 per hour and $51.50 per hour but will be based on candidate's program year, discipline, degree and/or experience. Co-Ops/Interns are eligible to participate in Company sponsored employee medical benefits in accordance with the terms of the plan. Co-Ops and Interns are eligible for the following sick time benefits: up to 40 hours per calendar year; for employees who reside in the State of Washington, up to 56 hours per calendar year. Co-Ops and Interns are eligible to participate in the Company's consolidated retirement plan (pension).\n\nFor additional general information on Company benefits, please go to: https://www.careers.jnj.com/employee-benefits. This job posting is anticipated to close on [03/01/2026]. The Company may however extend this time-period, in which case the posting will remain available on https://www.careers.jnj.com to accept additional applications.\n\nIneligibility for severance.\n\nJohnson & Johnson is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, national origin, disability, protected veteran status or other characteristics protected by federal, state or local law. We actively seek qualified candidates who are protected veterans and individuals with disabilities as defined under VEVRAA and Section 503 of the Rehabilitation Act.\n\nJohnson & Johnson is committed to providing an interview process that is inclusive of our applicants' needs. If you are an individual with a disability and would like to request an accommodation, please contact us via https://www.jnj.com/contact-us/careers or contact AskGS to be directed to your accommodation resource.\n\n#LI-Remote\nRemote work options may be considered on a case-by-case basis and if approved by the Company.\n\nRequired Skills:\n\nPreferred Skills:\n\nThe anticipated base pay range for this position is :\n$23.00/hr to $51.50/hr\n\nAdditional Description for Pay Transparency:\nThe expected pay range for this position is between $23.00 per hour and $51.50 per hour but will be based on candidate's program year, discipline, degree and/or experience. Co-Ops/Interns are eligible to participate in Company sponsored employee medical benefits in accordance with the terms of the plan. Co-Ops and Interns are eligible for the following sick time benefits: up to 40 hours per calendar year; for employees who reside in the State of Washington, up to 56 hours per calendar year. Co-Ops and Interns are eligible to participate in the Company's consolidated retirement plan (pension). For additional general information on Company benefits, please go to: https://www.careers.jnj.com/employee-benefits. This job posting is anticipated to close on [03/01/2026]. The Company may however extend this time-period, in which case the posting will remain available on https://www.careers.jnj.com to accept additional applications.",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "Massachusetts",
-    "job_city": null,
-    "job_state": "Massachusetts",
-    "job_country": "US",
-    "job_latitude": 42.4072107,
-    "job_longitude": -71.3824374,
-    "job_benefits": [
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DTNlWas22O6gBdaZdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": "HOUR",
-    "job_highlights": {
-      "Qualifications": [
-        "Full time requirement (40 hours per week)",
-        "Completion of Undergraduate Freshman year at an accredited University is required",
-        "Currently pursuing a bachelor's degree in master's or PhD program in Statistics, Biostatistics, Epidemiology, Data Science, Computer Science, Electrical Engineering, Computational Biology, Biomedical or Health Informatics or related quantitative discipline or related fields",
-        "Have a cumulative GPA of 3.0 or higher, which is reflective of all college coursework",
-        "Strong working knowledge of data science and machine learning methodologies, with understanding of software development best practices including version control, unit testing, and code review",
-        "Proficiency in one or more of the following programming languages: Python, R, SQL",
-        "Familiarity with predictive modeling and analysis of large datasets",
-        "Strong technical communication and presentation skills",
-        "Understanding of healthcare systems and digital health technologies",
-        "Knowledge of epidemiology and experience in analysis of healthcare datasets: clinical trials, claims, EMR/EHR, survey, observation studies",
-        "Familiarity with Git and version-control, plus hands-on experience building and maintaining CI/CD pipelines to automate builds, tests, and deployments",
-        "Experience with one of the cloud providers like AWS/Azure/GCP, have knowledge developing both cloud-native applications",
-        "Conduct research on the latest trends in digital health and propose innovative ideas for new initiatives or improvements",
-        "Possess a strong knowledge of GPU and high-performance computing techniques for efficient data processing",
-        "Permanently authorized to work in the U.S., must not require sponsorship of an employment visa (e.g., H-1B or green card) at the time of application or in the future",
-        "Students currently on CPT, OPT, or STEM OPT usually requires future sponsorship for long term employment and do not meet the requirements for this program unless eligible for an alternative long-term status that does not require company sponsorship"
-      ],
-      "Benefits": [
-        "The expected pay range for this position is between $23.00 per hour and $51.50 per hour but will be based on candidate's program year, discipline, degree and/or experience",
-        "Co-Ops/Interns are eligible to participate in Company sponsored employee medical benefits in accordance with the terms of the plan",
-        "Co-Ops and Interns are eligible for the following sick time benefits: up to 40 hours per calendar year; for employees who reside in the State of Washington, up to 56 hours per calendar year",
-        "Co-Ops and Interns are eligible to participate in the Company's consolidated retirement plan (pension)",
-        "$23.00/hr to $51.50/hr",
-        "The expected pay range for this position is between $23.00 per hour and $51.50 per hour but will be based on candidate's program year, discipline, degree and/or experience",
-        "Co-Ops/Interns are eligible to participate in Company sponsored employee medical benefits in accordance with the terms of the plan",
-        "Co-Ops and Interns are eligible for the following sick time benefits: up to 40 hours per calendar year; for employees who reside in the State of Washington, up to 56 hours per calendar year",
-        "Co-Ops and Interns are eligible to participate in the Company's consolidated retirement plan (pension)"
-      ],
-      "Responsibilities": [
-        "In this role, you will work with colleagues in the R&D Data Science & Digital Health organization and partner with key businesses across Johnson and Johnson Innovative Medicine to apply advanced data science and analytics engineering principles to answer key research questions",
-        "The intern will contribute to projects that enhance patient care through technology, collaborate with cross-functional teams, and gain hands-on experience in the rapidly growing field of digital health"
-      ]
-    },
-    "job_onet_soc": "15204100",
-    "job_onet_job_zone": "5",
-    "id": "www-ziprecruiter-com-c-jj-job-r-d-dsdh-integrated-data-products-intern-in-cambridge-ma",
     "_source": "new_jobs"
   },
   {
@@ -1975,6 +1841,113 @@
     "job_onet_soc": "43911100",
     "job_onet_job_zone": "4",
     "id": "jobs-merck-com-us-en-job-r384659-2026-future-talent-program-image-data-analytics-intern",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "T38F5kMrzNzsBjWkAAAAAA==",
+    "job_title": "Data Analytics Internship (Retail Performance)",
+    "employer_name": "Samsung Electronics America, Inc.",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIYygVxd601YvJgp8b4DP75zsarnFo5H9UciG0&s=0",
+    "employer_website": "https://www.samsung.com",
+    "job_publisher": "Workday",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6625-excellence-way-plano-tx-usa/data-analytics-internship--retail-performance-_r114119?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Workday",
+        "apply_link": "https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6625-excellence-way-plano-tx-usa/data-analytics-internship--retail-performance-_r114119?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Upwork",
+        "apply_link": "https://www.upwork.com/freelance-jobs/apply/Data-Analytics-Course-Developer-Architect_~022018735642906360542/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/data-analytics-developer-ab-initio_7ea1af233b0241ba3deafb52467206ac09b6f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Talents By Vaia",
+        "apply_link": "https://talents.vaia.com/companies/futureshaper-com/curriculum-developer-data-analytics-36385790/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/6e980c433cb5d3e67485eb788f591e72?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/amp/job/us-data-analytics-course-developer-architect-freelancejobs-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Recruit.net",
+        "apply_link": "https://www.recruit.net/job/data-analytics-retail-performance-jobs/700A486D13665E54?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Trabajo.org",
+        "apply_link": "https://us.trabajo.org/job-4023-3324561cc184cad8fa4c99bd9ab554a9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Position Summary Samsung Electronics America, Inc. is now accepting applications for its Summer 2026 Intern Program. This exciting opportunity offers a paid, 10-week experience for selected UNDERGRAD OR GRAD (based on HM request) students. The program will run from June 1 to August 7. Eligible students will be seniors or recent graduates, possess U.S. work authorization, and be able to work full-time on a 5-day-per-week on-site schedule. Additionally, participation in this program requires that you be located in the United States for the duration of the engagement. Applications will be reviewed on a rolling basis, so early submission is encouraged. The application window is open until March 15, 2026; however, it may close earlier if all available roles are filled. Applications submitted after the application window or once a role is closed/projects are full will not be considered. Headquartered in Englewood Cliffs, N.J., Samsung Electronics America, Inc. (SEA), the U.S. Sales and Marketing subsidiary, is a leader in mobile technologies, consumer electronics, home appliances, enterprise solutions and networks systems. For more than four decades, Samsung has driven innovation, economic growth and workforce opportunity across the United States—investing over $100 billion and employing more than 20,000 people nationwide. By integrating our large portfolio of products, services and AI technology, we’re creating smarter, sustainable and more connected experiences that empower people to live better. SEA is a wholly owned subsidiary of Samsung Electronics Co., Ltd. To learn more, visit Samsung.com. For the latest news, visit news.samsung.com/us. Role and Responsibilities Position Summary This internship opportunity is with the Retail Performance Analytics team, which focuses on evaluating and improving store tiering, Go-to-Market (GTM) strategy, and overall retail performance through data-driven insights. As an intern, you will support tiering post-mortem evaluations by analyzing historical performance, designing and executing A/B testing, and applying classification and machine learning techniques to refine tiering methodologies. You will collaborate with analytics and business stakeholders to translate model outputs into actionable recommendations that enhance store coverage, training effectiveness, and sales performance. Responsibilities Conduct in-depth analysis of historical retail performance data to identify trends and insights. Design and execute A/B testing experiments to evaluate the effectiveness of store tiering strategies. Apply classification and machine learning techniques to refine and improve tiering methodologies. Collaborate with cross-functional teams to translate analytical findings into actionable business recommendations. Develop and present data visualizations and reports using tools like Excel, PowerPoint, or Tableau. Support the evaluation of Go-to-Market (GTM) strategies by analyzing their impact on retail performance. Assist in the development of predictive models to forecast store performance and optimize resource allocation. Contribute to the documentation of analytical processes and methodologies for future reference. Qualifications Education: Currently pursuing a Master's Degree. Preferred academic fields of study: Data Science, Statistics, Computer Science, Analytics, or a related field. Final-year students or recent graduates are strongly preferred. Skills: Currently pursuing a degree in Data Science, Statistics, Computer Science, Analytics, or a related field. Strong analytical and problem-solving skills. Basic understanding of retail, sales performance, or GTM concepts is a plus. Good communication skills and the ability to work in a cross-functional team environment. Technical Skills: Experience with data analysis and statistical testing (A/B testing, hypothesis testing). Machine learning fundamentals, especially classification models (e.g., logistic regression, random forest, gradient boosting). Data processing and modeling using Python or similar tools. Ability to visualize and present insights clearly using tools like Excel, PowerPoint, or Tableau. This internship offers a unique opportunity to apply your analytical skills in a real-world retail environment while gaining hands-on experience with advanced data science techniques. Skills and Qualifications #LI-DNI * Please visit Samsung membership to see Privacy Policy, which defaults according to your location. You can change Country/Language at the bottom of the page. If you are European Economic Resident, please click here. At Samsung, we believe that innovation and growth are driven by an inclusive culture and a diverse workforce. We aim to create a global team where everyone belongs and has equal opportunities, inspiring our talent to be their true selves. Together, we are building a better tomorrow for our customers, partners, and communities. * Samsung Electronics America, Inc. and its subsidiaries are committed to employing a diverse workforce, and provide Equal Employment Opportunity for all individuals regardless of race, color, religion, gender, age, national origin, marital status, sexual orientation, gender identity, status as a protected veteran, genetic information, status as a qualified individual with a disability, or any other characteristic protected by law. Reasonable Accommodations for Qualified Individuals with Disabilities During the Application Process Samsung Electronics America is committed to providing reasonable accommodations for qualified individuals with disabilities in our job application process. If you have a disability and require a reasonable accommodation in order to participate in the application process, please contact our Reasonable Accommodation Team (855-557-3247) or SEA_Accommodations_Ext@sea.samsung.com for assistance. This number is for accommodation requests only and is not intended for general employment inquiries. Job Alerts: If you would like to be notified of new opportunities when they are posted, please click here. You will be asked to create an account first if you do not already have one. Samsung Electronics is a global leader in technology, opening new possibilities for people everywhere. Through relentless innovation and discovery, we are transforming the worlds of TVs, smartphones, wearable devices, tablets, digital appliances, and network systems, and the entire semiconductor industry with our memory, system LSI, foundry, and LED solutions. Samsung is also leading in the development of the Internet of Things through, among others, our Smart Home and Digital Health initiatives. Since being established in 1969, Samsung Electronics has grown into one of the world’s leading technology companies, and become recognized as one of the top global brands. Our network now extends across the world, and Samsung takes great pride in the creativity and diversity of its talented people, who drive our growth. To discover more, please visit our official newsroom at (https://news.samsung.com/global/).",
+    "job_is_remote": true,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "United States",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 38.794595199999996,
+    "job_longitude": -106.5348379,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DT38F5kMrzNzsBjWkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Additionally, participation in this program requires that you be located in the United States for the duration of the engagement",
+        "Qualifications Education: Currently pursuing a Master's Degree",
+        "Skills: Currently pursuing a degree in Data Science, Statistics, Computer Science, Analytics, or a related field",
+        "Strong analytical and problem-solving skills",
+        "Good communication skills and the ability to work in a cross-functional team environment",
+        "Technical Skills: Experience with data analysis and statistical testing (A/B testing, hypothesis testing)",
+        "Machine learning fundamentals, especially classification models (e.g., logistic regression, random forest, gradient boosting)",
+        "Data processing and modeling using Python or similar tools",
+        "Ability to visualize and present insights clearly using tools like Excel, PowerPoint, or Tableau",
+        "This internship offers a unique opportunity to apply your analytical skills in a real-world retail environment while gaining hands-on experience with advanced data science techniques",
+        "Please visit Samsung membership to see Privacy Policy, which defaults according to your location"
+      ],
+      "Responsibilities": [
+        "The program will run from June 1 to August 7",
+        "Eligible students will be seniors or recent graduates, possess U.S. work authorization, and be able to work full-time on a 5-day-per-week on-site schedule",
+        "Role and Responsibilities Position Summary This internship opportunity is with the Retail Performance Analytics team, which focuses on evaluating and improving store tiering, Go-to-Market (GTM) strategy, and overall retail performance through data-driven insights",
+        "As an intern, you will support tiering post-mortem evaluations by analyzing historical performance, designing and executing A/B testing, and applying classification and machine learning techniques to refine tiering methodologies",
+        "You will collaborate with analytics and business stakeholders to translate model outputs into actionable recommendations that enhance store coverage, training effectiveness, and sales performance",
+        "Responsibilities Conduct in-depth analysis of historical retail performance data to identify trends and insights",
+        "Design and execute A/B testing experiments to evaluate the effectiveness of store tiering strategies",
+        "Apply classification and machine learning techniques to refine and improve tiering methodologies",
+        "Collaborate with cross-functional teams to translate analytical findings into actionable business recommendations",
+        "Develop and present data visualizations and reports using tools like Excel, PowerPoint, or Tableau",
+        "Support the evaluation of Go-to-Market (GTM) strategies by analyzing their impact on retail performance",
+        "Assist in the development of predictive models to forecast store performance and optimize resource allocation",
+        "Contribute to the documentation of analytical processes and methodologies for future reference"
+      ]
+    },
+    "job_onet_soc": "43911100",
+    "job_onet_job_zone": "4",
+    "id": "sec-wd3-myworkdayjobs-com-samsung_careers-job-6625-excellence-way-plano-tx-usa-data-analytics-internship-retail-performance-_r114119",
     "_source": "new_jobs"
   }
 ]
