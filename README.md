@@ -147,12 +147,12 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 2 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 2 positions
+- **📁 Total Jobs**: 1 positions
 - **🏢 Companies**: 6 companies
-- **🏷️ Top Category**: Data Analyst
+- **🏷️ Top Category**: Data Scientist
 
 <details>
 <summary><h3>🔬 <strong>Data Scientist</strong> (1 positions)</h3></summary>
@@ -160,15 +160,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🏢 **IDR, Inc.** | Statistician (Part-Time/REMOTE) | Spring Hill, Tennessee | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://us.trabajo.org/job-2850-78bf9c5310284d98815e011ef7dc7fe9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-</details>
-
-<details>
-<summary><h3>📊 <strong>Data Analyst</strong> (1 positions)</h3></summary>
-
-| Company | Role | Location | Posted | Level | Apply |
-|---------|------|----------|--------|-------|-------|
-| 🏢 **SD Department of Veterans Affairs** | WOC Research Statistician | Ann Arbor, Michigan | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/SD-Department-of-Veterans-Affairs/Job/WOC-Research-Statistician/-in-Ann-Arbor,MI?jid=89d45570f6d20ad5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
