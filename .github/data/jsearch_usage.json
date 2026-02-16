@@ -1,7 +1,7 @@
 {
   "date": "Mon Feb 16 2026",
-  "requests": 13,
-  "remaining": 17,
+  "requests": 14,
+  "remaining": 16,
   "queries_executed": [
     "data scientist",
     "data scientist",
@@ -15,6 +15,7 @@
     "research scientist",
     "business analyst",
     "business analyst",
+    "business intelligence analyst",
     "business intelligence analyst"
   ]
 }
