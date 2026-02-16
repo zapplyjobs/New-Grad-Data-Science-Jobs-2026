@@ -39,11 +39,6 @@
         "is_direct": false
       },
       {
-        "publisher": "Talents By Vaia",
-        "apply_link": "https://talents.vaia.com/companies/penn-state-university/research-and-development-engineer-intern-36043376/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
         "publisher": "Breakroom",
         "apply_link": "https://www.breakroom.cc/en-us/jobs/listing/3399619-penn-state-university-ai-ml-research-and-development-intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
@@ -51,6 +46,11 @@
       {
         "publisher": "Adzuna",
         "apply_link": "https://www.adzuna.com/details/5621845640?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.com",
+        "apply_link": "https://www.career.com/job/penn-state/research-and-development-engineer-intern/j202510240011147275118?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
@@ -103,7 +103,7 @@
     "employer_name": "Cisco",
     "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgthNpO3rocjBOmZqIhYrkphz9zbGG6DQ5B9CQ&s=0",
     "employer_website": "https://www.cisco.com",
-    "job_publisher": "Careers - Cisco",
+    "job_publisher": "Cisco Careers",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
@@ -112,7 +112,7 @@
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Careers - Cisco",
+        "publisher": "Cisco Careers",
         "apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2001608EXTERNALENGLOBAL/AI-Researcher?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
@@ -164,8 +164,8 @@
     "job_latitude": 42.355507599999996,
     "job_longitude": -71.0565364,
     "job_benefits": [
-      "paid_time_off",
       "health_insurance",
+      "paid_time_off",
       "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DBTvR2zXCIjuSc7N4AAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -632,6 +632,106 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "QlQYhhEniA2KAqp9AAAAAA==",
+    "job_title": "Junior Data Scientist - AI Practice Team",
+    "employer_name": "American Bureau of Shipping",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoaJkhLOiHNVtvugpSv-QLkvsttUNh-qQuOPBk&s=0",
+    "employer_website": null,
+    "job_publisher": "Ladders",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.theladders.com/job/junior-data-scientist-ai-practice-team-americanbureauofshipping-houston-tx_85510466?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Ladders",
+        "apply_link": "https://www.theladders.com/job/junior-data-scientist-ai-practice-team-americanbureauofshipping-houston-tx_85510466?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/machine-learning?id=2395618180&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "JobLeads",
+        "apply_link": "https://www.jobleads.com/us/job/junior-data-scientist-ai-practice-team--houston--e12221710d3efe4c1851dfb4f7d1d5393?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jooble",
+        "apply_link": "https://jooble.org/jdp/-2549434856489087408?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobrapido",
+        "apply_link": "https://us.jobrapido.com/jobpreview/6876411168970244096?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Description\n\nABS is seeking an exceptional Junior Data Scientist to join us full-time on our Artificial Intelligence (AI) Practice Team. In this role, you will support AI consulting engagements focused on policy, data, and document-centric solutions by preparing, analyzing, and modeling client data as part of a multidisciplinary delivery team.\n\nLocation:\n\nThis position can be based in Houston, Texas; Knoxville, Tennessee; or Washington, DC.\n\nWhat You Will Do:\n• Support AI consulting engagements by cleaning, structuring, and analyzing client data (tabular, time-series, and document-based) to enable modeling and insight generation.\n• Contribute to development, testing, and documentation of machine learning models, analytics pipelines, and proof-of-concept solutions under guidance from senior data scientists.\n• Work with our document and data services to extract, transform, and enrich information from reports, PDFs, logs, and other unstructured sources using NLP and related techniques.\n• Build and maintain basic dashboards, reports, and visualizations (e.g., in Python, Power BI, or similar tools) to communicate findings to consultants and client stakeholders.\n• Collaborate with consultants and domain experts to translate business questions into analytical tasks, validate results, and refine approaches based on feedback.\n• Help maintain clean, reproducible project assets (code, notebooks, datasets, documentation) using modern collaboration and version control tools.\n\nWhat You Will Need:\n\nEducation and Experience\n• Bachelor's degree in a STEM discipline (e.g., Data Science, Computer Science, Engineering, Mathematics, Statistics) or related field, or equivalent practical experience.\n• 2+ years of combined experience through projects, internships, or professional roles applying data science/ML methods and tools.\n• Practical experience applying core techniques in data preprocessing, modeling, and evaluation using Python, SQL, and common ML libraries.\n• Exposure to AI/ML or analytics projects in academic, research, or professional environments, ideally with real-world or messy datasets.\n• Familiarity with cloud-based and modern data platforms (e.g., Azure, AWS, GCP, Databricks) and BI tools is a plus but not mandatory.\n\nKnowledge, Skills, and Abilities\n• Strong foundation in data science/ML concepts and statistics, with hands-on experience in Python (e.g., pandas, scikit-learn) and working with SQL-based data sources.\n• Ability to clean, structure, and analyze real-world datasets, including unstructured or semi-structured data (e.g., documents, logs, text).\n• Comfortable working with Jupyter notebooks and Git-based workflows for reproducible and version-controlled analysis.\n• Clear, structured communication skills, including the ability to explain analytical work and findings to non-technical stakeholders in a concise, business-relevant way.\n• Collaborative mindset and willingness to learn, taking feedback from senior team members and adapting quickly to new tools, methods, and domains.\n• Organized, detail-oriented working style, with the ability to manage tasks across multiple projects and meet deadlines reliably.\n\nNice to Have\n• Experience applying ML/NLP to real datasets (e.g., classification, forecasting, document information extraction, OCR, LLMs, or search/retrieval systems).\n• Any exposure to industrial, maritime, or asset-intensive domains, or to consulting/client-facing environments.\n\nReporting Relationships:\n\nThiis role reports to the Senior Data Scientist and does not include direct reports.\n\nSalary Range:\n\n$75,000 - $100,000 USD\n\nStarting salary is based on multiple factors including skillset and experience.\n\nAbout Us\n\nWe set out more than 160 years ago to promote the security of life and property at sea and preserve the natural environment. Today, we remain true to our mission and continue to support organizations facing a rapidly evolving seascape of challenging regulations and new technologies. Through it all, we are anchored by a vision and mission that help our clients find clarity in uncertain times.\n\nABS is a global leader in marine and offshore classification and other innovative safety, quality, and environmental services. We're at the forefront of supporting the global energy transition at sea, the application of remote and autonomous marine systems, cutting-edge technical solutions, and many more exciting advancements. Our commitment to safety, reliability, and efficiency is ever-present, guiding our clients to safer and more efficient operations.\n\nAbout Our Benefits\n\nABS Group proudly offers a variety of industry-leading benefits designed to enhance the life and well-being of our employees and their families. These benefits include, but are not limited to, medical insurance (PPO and HD), dental and vision insurance, Health Savings account (HSA), Flexible Savings Account (FSA), life insurance, accidental death and dismemberment insurance, disability leave programs, parental leave program, paid holidays, and paid vacation time. The Company provides an Employee Assistance Plan (EAP) that offers additional support in personal wellness, including work-life services. ABS Group also offers a 401K plan with a generous company match, subject to plan requirements.\n\nEqual Opportunity\n\nThe ABS Group of Companies is committed to the equal employment opportunity of its employees and prohibits discrimination against any employee or qualified applicant based on race, color, creed, religion, national origin, sex, gender identity, age, disability, marital status, sexual orientation, citizenship status or veteran status, or other non-work-related characteristics that may be protected under the law of the Federal Government or specific state employment laws.\n\nNotice\n\nABS and Affiliated Companies (ABS) will not pay a fee to any third-party agency without a valid ABS Master Service Agreement (MSA) authorized and signed by Human Resources. Any resume, CV, application, or other forms of candidate submission provided to any employee of ABS without a valid MSA on file will be considered property of ABS, and no fee will be paid.\n\nOther\n\nThis job description is not intended, and should not be construed, to be an all-inclusive list of responsibilities, skills, efforts or working conditions associated with the job of the incumbent. It is intended to be an accurate reflection of the principal job elements essential for making a fair decision regarding the pay structure of the job. #ogjs",
+    "job_is_remote": false,
+    "job_posted_at": "11 days ago",
+    "job_posted_at_timestamp": 1770249600,
+    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
+    "job_location": "Houston, TX",
+    "job_city": "Houston",
+    "job_state": "Texas",
+    "job_country": "US",
+    "job_latitude": 29.7600771,
+    "job_longitude": -95.37011079999999,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DQlQYhhEniA2KAqp9AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 75000,
+    "job_max_salary": 100000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "Bachelor's degree in a STEM discipline (e.g., Data Science, Computer Science, Engineering, Mathematics, Statistics) or related field, or equivalent practical experience",
+        "2+ years of combined experience through projects, internships, or professional roles applying data science/ML methods and tools",
+        "Practical experience applying core techniques in data preprocessing, modeling, and evaluation using Python, SQL, and common ML libraries",
+        "Exposure to AI/ML or analytics projects in academic, research, or professional environments, ideally with real-world or messy datasets",
+        "Knowledge, Skills, and Abilities",
+        "Strong foundation in data science/ML concepts and statistics, with hands-on experience in Python (e.g., pandas, scikit-learn) and working with SQL-based data sources",
+        "Ability to clean, structure, and analyze real-world datasets, including unstructured or semi-structured data (e.g., documents, logs, text)",
+        "Comfortable working with Jupyter notebooks and Git-based workflows for reproducible and version-controlled analysis",
+        "Clear, structured communication skills, including the ability to explain analytical work and findings to non-technical stakeholders in a concise, business-relevant way",
+        "Collaborative mindset and willingness to learn, taking feedback from senior team members and adapting quickly to new tools, methods, and domains",
+        "Organized, detail-oriented working style, with the ability to manage tasks across multiple projects and meet deadlines reliably",
+        "Experience applying ML/NLP to real datasets (e.g., classification, forecasting, document information extraction, OCR, LLMs, or search/retrieval systems)",
+        "Any exposure to industrial, maritime, or asset-intensive domains, or to consulting/client-facing environments"
+      ],
+      "Benefits": [
+        "$75,000 - $100,000 USD",
+        "Starting salary is based on multiple factors including skillset and experience",
+        "ABS Group proudly offers a variety of industry-leading benefits designed to enhance the life and well-being of our employees and their families",
+        "These benefits include, but are not limited to, medical insurance (PPO and HD), dental and vision insurance, Health Savings account (HSA), Flexible Savings Account (FSA), life insurance, accidental death and dismemberment insurance, disability leave programs, parental leave program, paid holidays, and paid vacation time",
+        "The Company provides an Employee Assistance Plan (EAP) that offers additional support in personal wellness, including work-life services",
+        "ABS Group also offers a 401K plan with a generous company match, subject to plan requirements"
+      ],
+      "Responsibilities": [
+        "In this role, you will support AI consulting engagements focused on policy, data, and document-centric solutions by preparing, analyzing, and modeling client data as part of a multidisciplinary delivery team",
+        "Support AI consulting engagements by cleaning, structuring, and analyzing client data (tabular, time-series, and document-based) to enable modeling and insight generation",
+        "Contribute to development, testing, and documentation of machine learning models, analytics pipelines, and proof-of-concept solutions under guidance from senior data scientists",
+        "Work with our document and data services to extract, transform, and enrich information from reports, PDFs, logs, and other unstructured sources using NLP and related techniques",
+        "Build and maintain basic dashboards, reports, and visualizations (e.g., in Python, Power BI, or similar tools) to communicate findings to consultants and client stakeholders",
+        "Collaborate with consultants and domain experts to translate business questions into analytical tasks, validate results, and refine approaches based on feedback",
+        "Help maintain clean, reproducible project assets (code, notebooks, datasets, documentation) using modern collaboration and version control tools",
+        "Thiis role reports to the Senior Data Scientist and does not include direct reports"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-theladders-com-job-junior-data-scientist-ai-practice-team-americanbureauofshipping-houston-tx_85510466",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "SllHtqpEz9SyDP-tAAAAAA==",
     "job_title": "PhD Research Assistant - Machine Learning Research Group",
     "employer_name": "Oracle",
@@ -673,8 +773,8 @@
     "job_latitude": 42.6518095,
     "job_longitude": -73.7544707,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
+      "paid_time_off",
       "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DSllHtqpEz9SyDP-tAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -778,106 +878,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "QlQYhhEniA2KAqp9AAAAAA==",
-    "job_title": "Junior Data Scientist - AI Practice Team",
-    "employer_name": "American Bureau of Shipping",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoaJkhLOiHNVtvugpSv-QLkvsttUNh-qQuOPBk&s=0",
-    "employer_website": null,
-    "job_publisher": "Ladders",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.theladders.com/job/junior-data-scientist-ai-practice-team-americanbureauofshipping-houston-tx_85510466?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Ladders",
-        "apply_link": "https://www.theladders.com/job/junior-data-scientist-ai-practice-team-americanbureauofshipping-houston-tx_85510466?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/machine-learning?id=2395618180&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "JobLeads",
-        "apply_link": "https://www.jobleads.com/us/job/junior-data-scientist-ai-practice-team--houston--e12221710d3efe4c1851dfb4f7d1d5393?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jooble",
-        "apply_link": "https://jooble.org/jdp/-2549434856489087408?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobrapido",
-        "apply_link": "https://us.jobrapido.com/jobpreview/6876411168970244096?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Job Description\n\nABS is seeking an exceptional Junior Data Scientist to join us full-time on our Artificial Intelligence (AI) Practice Team. In this role, you will support AI consulting engagements focused on policy, data, and document-centric solutions by preparing, analyzing, and modeling client data as part of a multidisciplinary delivery team.\n\nLocation:\n\nThis position can be based in Houston, Texas; Knoxville, Tennessee; or Washington, DC.\n\nWhat You Will Do:\n• Support AI consulting engagements by cleaning, structuring, and analyzing client data (tabular, time-series, and document-based) to enable modeling and insight generation.\n• Contribute to development, testing, and documentation of machine learning models, analytics pipelines, and proof-of-concept solutions under guidance from senior data scientists.\n• Work with our document and data services to extract, transform, and enrich information from reports, PDFs, logs, and other unstructured sources using NLP and related techniques.\n• Build and maintain basic dashboards, reports, and visualizations (e.g., in Python, Power BI, or similar tools) to communicate findings to consultants and client stakeholders.\n• Collaborate with consultants and domain experts to translate business questions into analytical tasks, validate results, and refine approaches based on feedback.\n• Help maintain clean, reproducible project assets (code, notebooks, datasets, documentation) using modern collaboration and version control tools.\n\nWhat You Will Need:\n\nEducation and Experience\n• Bachelor's degree in a STEM discipline (e.g., Data Science, Computer Science, Engineering, Mathematics, Statistics) or related field, or equivalent practical experience.\n• 2+ years of combined experience through projects, internships, or professional roles applying data science/ML methods and tools.\n• Practical experience applying core techniques in data preprocessing, modeling, and evaluation using Python, SQL, and common ML libraries.\n• Exposure to AI/ML or analytics projects in academic, research, or professional environments, ideally with real-world or messy datasets.\n• Familiarity with cloud-based and modern data platforms (e.g., Azure, AWS, GCP, Databricks) and BI tools is a plus but not mandatory.\n\nKnowledge, Skills, and Abilities\n• Strong foundation in data science/ML concepts and statistics, with hands-on experience in Python (e.g., pandas, scikit-learn) and working with SQL-based data sources.\n• Ability to clean, structure, and analyze real-world datasets, including unstructured or semi-structured data (e.g., documents, logs, text).\n• Comfortable working with Jupyter notebooks and Git-based workflows for reproducible and version-controlled analysis.\n• Clear, structured communication skills, including the ability to explain analytical work and findings to non-technical stakeholders in a concise, business-relevant way.\n• Collaborative mindset and willingness to learn, taking feedback from senior team members and adapting quickly to new tools, methods, and domains.\n• Organized, detail-oriented working style, with the ability to manage tasks across multiple projects and meet deadlines reliably.\n\nNice to Have\n• Experience applying ML/NLP to real datasets (e.g., classification, forecasting, document information extraction, OCR, LLMs, or search/retrieval systems).\n• Any exposure to industrial, maritime, or asset-intensive domains, or to consulting/client-facing environments.\n\nReporting Relationships:\n\nThiis role reports to the Senior Data Scientist and does not include direct reports.\n\nSalary Range:\n\n$75,000 - $100,000 USD\n\nStarting salary is based on multiple factors including skillset and experience.\n\nAbout Us\n\nWe set out more than 160 years ago to promote the security of life and property at sea and preserve the natural environment. Today, we remain true to our mission and continue to support organizations facing a rapidly evolving seascape of challenging regulations and new technologies. Through it all, we are anchored by a vision and mission that help our clients find clarity in uncertain times.\n\nABS is a global leader in marine and offshore classification and other innovative safety, quality, and environmental services. We're at the forefront of supporting the global energy transition at sea, the application of remote and autonomous marine systems, cutting-edge technical solutions, and many more exciting advancements. Our commitment to safety, reliability, and efficiency is ever-present, guiding our clients to safer and more efficient operations.\n\nAbout Our Benefits\n\nABS Group proudly offers a variety of industry-leading benefits designed to enhance the life and well-being of our employees and their families. These benefits include, but are not limited to, medical insurance (PPO and HD), dental and vision insurance, Health Savings account (HSA), Flexible Savings Account (FSA), life insurance, accidental death and dismemberment insurance, disability leave programs, parental leave program, paid holidays, and paid vacation time. The Company provides an Employee Assistance Plan (EAP) that offers additional support in personal wellness, including work-life services. ABS Group also offers a 401K plan with a generous company match, subject to plan requirements.\n\nEqual Opportunity\n\nThe ABS Group of Companies is committed to the equal employment opportunity of its employees and prohibits discrimination against any employee or qualified applicant based on race, color, creed, religion, national origin, sex, gender identity, age, disability, marital status, sexual orientation, citizenship status or veteran status, or other non-work-related characteristics that may be protected under the law of the Federal Government or specific state employment laws.\n\nNotice\n\nABS and Affiliated Companies (ABS) will not pay a fee to any third-party agency without a valid ABS Master Service Agreement (MSA) authorized and signed by Human Resources. Any resume, CV, application, or other forms of candidate submission provided to any employee of ABS without a valid MSA on file will be considered property of ABS, and no fee will be paid.\n\nOther\n\nThis job description is not intended, and should not be construed, to be an all-inclusive list of responsibilities, skills, efforts or working conditions associated with the job of the incumbent. It is intended to be an accurate reflection of the principal job elements essential for making a fair decision regarding the pay structure of the job. #ogjs",
-    "job_is_remote": false,
-    "job_posted_at": "11 days ago",
-    "job_posted_at_timestamp": 1770249600,
-    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
-    "job_location": "Houston, TX",
-    "job_city": "Houston",
-    "job_state": "Texas",
-    "job_country": "US",
-    "job_latitude": 29.7600771,
-    "job_longitude": -95.37011079999999,
-    "job_benefits": [
-      "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DQlQYhhEniA2KAqp9AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 75000,
-    "job_max_salary": 100000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "Bachelor's degree in a STEM discipline (e.g., Data Science, Computer Science, Engineering, Mathematics, Statistics) or related field, or equivalent practical experience",
-        "2+ years of combined experience through projects, internships, or professional roles applying data science/ML methods and tools",
-        "Practical experience applying core techniques in data preprocessing, modeling, and evaluation using Python, SQL, and common ML libraries",
-        "Exposure to AI/ML or analytics projects in academic, research, or professional environments, ideally with real-world or messy datasets",
-        "Knowledge, Skills, and Abilities",
-        "Strong foundation in data science/ML concepts and statistics, with hands-on experience in Python (e.g., pandas, scikit-learn) and working with SQL-based data sources",
-        "Ability to clean, structure, and analyze real-world datasets, including unstructured or semi-structured data (e.g., documents, logs, text)",
-        "Comfortable working with Jupyter notebooks and Git-based workflows for reproducible and version-controlled analysis",
-        "Clear, structured communication skills, including the ability to explain analytical work and findings to non-technical stakeholders in a concise, business-relevant way",
-        "Collaborative mindset and willingness to learn, taking feedback from senior team members and adapting quickly to new tools, methods, and domains",
-        "Organized, detail-oriented working style, with the ability to manage tasks across multiple projects and meet deadlines reliably",
-        "Experience applying ML/NLP to real datasets (e.g., classification, forecasting, document information extraction, OCR, LLMs, or search/retrieval systems)",
-        "Any exposure to industrial, maritime, or asset-intensive domains, or to consulting/client-facing environments"
-      ],
-      "Benefits": [
-        "$75,000 - $100,000 USD",
-        "Starting salary is based on multiple factors including skillset and experience",
-        "ABS Group proudly offers a variety of industry-leading benefits designed to enhance the life and well-being of our employees and their families",
-        "These benefits include, but are not limited to, medical insurance (PPO and HD), dental and vision insurance, Health Savings account (HSA), Flexible Savings Account (FSA), life insurance, accidental death and dismemberment insurance, disability leave programs, parental leave program, paid holidays, and paid vacation time",
-        "The Company provides an Employee Assistance Plan (EAP) that offers additional support in personal wellness, including work-life services",
-        "ABS Group also offers a 401K plan with a generous company match, subject to plan requirements"
-      ],
-      "Responsibilities": [
-        "In this role, you will support AI consulting engagements focused on policy, data, and document-centric solutions by preparing, analyzing, and modeling client data as part of a multidisciplinary delivery team",
-        "Support AI consulting engagements by cleaning, structuring, and analyzing client data (tabular, time-series, and document-based) to enable modeling and insight generation",
-        "Contribute to development, testing, and documentation of machine learning models, analytics pipelines, and proof-of-concept solutions under guidance from senior data scientists",
-        "Work with our document and data services to extract, transform, and enrich information from reports, PDFs, logs, and other unstructured sources using NLP and related techniques",
-        "Build and maintain basic dashboards, reports, and visualizations (e.g., in Python, Power BI, or similar tools) to communicate findings to consultants and client stakeholders",
-        "Collaborate with consultants and domain experts to translate business questions into analytical tasks, validate results, and refine approaches based on feedback",
-        "Help maintain clean, reproducible project assets (code, notebooks, datasets, documentation) using modern collaboration and version control tools",
-        "Thiis role reports to the Senior Data Scientist and does not include direct reports"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-theladders-com-job-junior-data-scientist-ai-practice-team-americanbureauofshipping-houston-tx_85510466",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "L03YGa3jKOUWV-B6AAAAAA==",
     "job_title": "AI Experimental Systems Research Scientist (Causal Learning & Adaptive Experimentation)",
     "employer_name": "3M",
@@ -929,8 +929,8 @@
     "job_latitude": 44.9530215,
     "job_longitude": -92.9952153,
     "job_benefits": [
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DL03YGa3jKOUWV-B6AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1046,6 +1046,81 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "hP9WKpGb5Dg3sPI2AAAAAA==",
+    "job_title": "Senior AI Research Scientist",
+    "employer_name": "Icad Inc",
+    "employer_logo": null,
+    "employer_website": "https://www.icadmed.com",
+    "job_publisher": "BeBee",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://us.bebee.com/job/86ac0041d38e15eea5103c413b2fb061?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/86ac0041d38e15eea5103c413b2fb061?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-nh-nashua-senior-ai-research-scientist-icad-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "SENIOR AI RESEARCH SCIENTIST\n\nAbout iCAD:\n\niCAD, a global leader on a mission to create a world where cancer can't hide by providing clinically proven AI-powered solutions that enable medical providers to accurately and reliably detect cancer earlier and improve patient outcomes. iCAD's industry-leading ProFound Breast Health Suite provides AI-powered mammography analysis for breast cancer detection, density assessment and risk evaluation. The ProFound Breast Health Suite is cleared by the U.S. Food & Drug Administration (FDA) and has received CE mark and Health Canada licensing. Used by thousands of providers serving millions of patients, ProFound is available in over 50 countries.\n\nPOSITION DESCRIPTION:\n\niCAD is seeking a talented and motivated Senior AI Researcher to join our dynamic and innovative team. As a critical contributor to our research and development efforts, you will play a pivotal role in designing, developing, and improving AI-based medical devices that will drive the next generation of solutions in medical imaging and healthcare, particularly in breast cancer detection and diagnosis. This position offers the opportunity to work in a fast-paced environment with cutting-edge technology while directly contributing to saving lives through improved healthcare solutions.\n\nRESPONSIBILITIES:\n• AI Model Development: Design, develop, and optimize AI/ML models, specifically deep learning algorithms, to advance our breast cancer detection and imaging tools.\n• Algorithm Research: Conduct research to identify new methodologies, techniques, and technologies in artificial intelligence and machine learning that can be applied to medical image analysis.\n• Collaboration with Product Management: Work closely with Product Management to identify key innovation areas where AI can drive meaningful product functionality and market differentiation improvements. Contribute to strategic roadmaps by providing insights on AI trends and potential research breakthroughs that align with customer needs and business goals.\n• Data Analysis: Work with large medical datasets, performing data preprocessing, annotation, and enhancement tasks to improve the accuracy and efficiency of AI models.\n• Collaborate Across Teams: Partner with software engineers, radiologists, clinical teams, and other stakeholders to integrate AI solutions into production environments and evaluate their real-world performance.\n• Validation and Testing: Lead the testing and validation of AI models to ensure they meet regulatory standards, including FDA clearance, and are robust for clinical use.\n• Research Publications and Product Marketing Support: Provide write-ups, white papers, and technical documentation that clearly describe the functionality, benefits, and impact of AI models and innovations. Collaborate with Product Management and Marketing teams to highlight the key benefits of research deliverables for external audiences, including customers, investors, and healthcare professionals.\n• Mentorship: Provide mentorship and guidance to junior researchers and collaborate with cross-functional teams to accelerate research and development efforts.\n• Regulatory Compliance: Ensure all AI development activities comply with healthcare industry regulations and are accompanied by supporting documentation for submissions to regulatory bodies.\n\nREQUIREMENTS:\n• Ph.D. in Computer Science, Artificial Intelligence, Data Science, or a related field.\n• 5+ years of R&D experience in medical imaging, computer vision, or machine learning, with a proven track record of developing AI solutions.\n• Expertise in deep learning frameworks such as TensorFlow, Keras, or PyTorch.\n• Advanced knowledge of Python and C++ for implementing AI solutions.\n• Demonstrated experience with large-scale data processing and managing complex datasets.\n• Experience with medical imaging datasets (e.g., DICOM, mammography, CT, MRI) is highly preferred.\n• Solid understanding of AI model validation techniques, regulatory requirements (e.g., FDA 510(k)), and experience working in a healthcare environment.\n• Strong publication history in top-tier conferences and journals, showcasing original research.\n• Strong communication skills, with the ability to present complex research results to technical and non-technical stakeholders.\n• Excellent analytical, organizational, and communication skills with the ability to present complex ideas clearly.\n• A proactive team player, capable of working independently while contributing to cross-functional teams.\n• Ability to generate patentable ideas and contribute to intellectual property development.\n\nPreferred Qualifications:\n• Experience with explainable AI (XAI) and model interpretability in medical applications.\n• Familiarity with cloud platforms (Google Cloud, AWS) and deploying AI solutions in cloud environments.\n• Knowledge of biostatistics, healthcare regulations, and clinical workflows.\n• Experience working in cross-functional teams and fast-paced R&D environments.\n\nLOCATION:\n\nFull Remote.",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Nashua, NH",
+    "job_city": "Nashua",
+    "job_state": "New Hampshire",
+    "job_country": "US",
+    "job_latitude": 42.757495299999995,
+    "job_longitude": -71.4654961,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DhP9WKpGb5Dg3sPI2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Ph.D. in Computer Science, Artificial Intelligence, Data Science, or a related field",
+        "5+ years of R&D experience in medical imaging, computer vision, or machine learning, with a proven track record of developing AI solutions",
+        "Expertise in deep learning frameworks such as TensorFlow, Keras, or PyTorch",
+        "Advanced knowledge of Python and C++ for implementing AI solutions",
+        "Demonstrated experience with large-scale data processing and managing complex datasets",
+        "Solid understanding of AI model validation techniques, regulatory requirements (e.g., FDA 510(k)), and experience working in a healthcare environment",
+        "Strong publication history in top-tier conferences and journals, showcasing original research",
+        "Strong communication skills, with the ability to present complex research results to technical and non-technical stakeholders",
+        "Excellent analytical, organizational, and communication skills with the ability to present complex ideas clearly",
+        "A proactive team player, capable of working independently while contributing to cross-functional teams",
+        "Ability to generate patentable ideas and contribute to intellectual property development"
+      ],
+      "Responsibilities": [
+        "AI Model Development: Design, develop, and optimize AI/ML models, specifically deep learning algorithms, to advance our breast cancer detection and imaging tools",
+        "Algorithm Research: Conduct research to identify new methodologies, techniques, and technologies in artificial intelligence and machine learning that can be applied to medical image analysis",
+        "Collaboration with Product Management: Work closely with Product Management to identify key innovation areas where AI can drive meaningful product functionality and market differentiation improvements",
+        "Contribute to strategic roadmaps by providing insights on AI trends and potential research breakthroughs that align with customer needs and business goals",
+        "Data Analysis: Work with large medical datasets, performing data preprocessing, annotation, and enhancement tasks to improve the accuracy and efficiency of AI models",
+        "Collaborate Across Teams: Partner with software engineers, radiologists, clinical teams, and other stakeholders to integrate AI solutions into production environments and evaluate their real-world performance",
+        "Validation and Testing: Lead the testing and validation of AI models to ensure they meet regulatory standards, including FDA clearance, and are robust for clinical use",
+        "Research Publications and Product Marketing Support: Provide write-ups, white papers, and technical documentation that clearly describe the functionality, benefits, and impact of AI models and innovations",
+        "Collaborate with Product Management and Marketing teams to highlight the key benefits of research deliverables for external audiences, including customers, investors, and healthcare professionals",
+        "Mentorship: Provide mentorship and guidance to junior researchers and collaborate with cross-functional teams to accelerate research and development efforts",
+        "Regulatory Compliance: Ensure all AI development activities comply with healthcare industry regulations and are accompanied by supporting documentation for submissions to regulatory bodies"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "us-bebee-com-job-86ac0041d38e15eea5103c413b2fb061",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "M1_7GHeU8wVI_amAAAAAAA==",
     "job_title": "AI Anime Researcher",
     "employer_name": "Spellbrush",
@@ -1082,9 +1157,9 @@
     ],
     "job_description": "The Research Role:\n\nWe're looking for an experienced AI Researcher to join our team and help us push the boundaries of AI and anime. You'll design and develop large-scale diffusion models with a primary focus on images, and secondary focus on other modalities like 3d, text, video and audio.\n\nYou may be a good fit if:\n\nYou love anime and the anime aesthetic.\n\nThis one of the only labs in the world where you can combine your expertise on anime and deep learning to work on state-of-the-art anime models.\n\nYou understand diffusion, or can get up to speed quickly.\n\nWe're looking for experienced researchers who aren't afraid of jumping headfirst into experimenting and designing massive models.\n\nYou're proficient in Pytorch (and maybe JAX too)\n\nWe have a very large Pytorch codebase, and an equally large JAX codebase for large-scale TPU training.\n\nYou enjoy a tight loop between research and production.\n\nWe pride ourselves on getting models from the lab into production quickly. Our research team works closely with our internal studio to both develop game-ready models, and deploy regular quality updates to niji・journey.\n\nYou're comfortable working on small, fast-paced teams\n\nWe currently have a team of four on AI. You'll be working closely alongside some of the best AI researchers in the world, on the literal best image model in the world.\n\nWe also believe in the unmatched speed of in-person teams, and prefer on-site collaboration in either our primary research office in Tokyo (downtown Akihabara), or San Francisco. Visa sponsorships are available.",
     "job_is_remote": false,
-    "job_posted_at": "14 hours ago",
-    "job_posted_at_timestamp": 1771200000,
-    "job_posted_at_datetime_utc": "2026-02-16T00:00:00.000Z",
+    "job_posted_at": "15 hours ago",
+    "job_posted_at_timestamp": 1771196400,
+    "job_posted_at_datetime_utc": "2026-02-15T23:00:00.000Z",
     "job_location": "San Francisco, CA",
     "job_city": "San Francisco",
     "job_state": "California",
@@ -1104,76 +1179,59 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "3zvl15iaAUTQWABCAAAAAA==",
-    "job_title": "Research Scientist, Artificial Intelligence (PhD)",
-    "employer_name": "Synaptrix Labs",
-    "employer_logo": null,
-    "employer_website": "https://www.synaptrix-labs.com",
-    "job_publisher": "Glassdoor",
+    "job_id": "5DyzUZoxVOSIepgfAAAAAA==",
+    "job_title": "Principal Applied Scientist, AI Development",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.glassdoor.com/job-listing/research-scientist-artificial-intelligence-phd-synaptrix-labs-JV_IC1132348_KO0,46_KE47,61.htm?jl=1009933377568&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
+    "job_apply_link": "https://www.talent.com/view?id=56483d965cdb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/research-scientist-artificial-intelligence-phd-synaptrix-labs-JV_IC1132348_KO0,46_KE47,61.htm?jl=1009933377568&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=56483d965cdb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
       }
     ],
-    "job_description": "About Synaptrix Labs Inc.\n\nSynaptrix is on a mission to revolutionize brain-computer interfaces through non-invasive approaches. We believe that the power to diagnose and treat neurological conditions safely, and to expand human potential, will become a reality with the right fusion of deep learning, signal processing, and computational neuroscience.\n\nWe're seeking a full time Research Scientist, Artificial Intelligence (PhD) to join our growing team of researchers & engineers. If you're passionate about shaping the future of brain-computer interfaces and excited by the potential of deep learning in neurotechnology, we want to hear from you!\n\nResponsibilities:\n• Design, prototype, and optimize state-of-the-art AI systems for neural decoding, including diffusion models, graph neural networks, contrastive/self-supervised frameworks, and transformer-based sequence models.\n• Conduct foundational research on neural time-series representation learning: build architectures that extract latent dynamics from EEG, EMG, or related biosignals.\n• Develop high-fidelity simulation environments for testing decoding algorithms, incorporating stochastic signal noise and realistic biophysical constraints.\n• Scale model training across multi-GPU and multi-node clusters using PyTorch Distributed, DeepSpeed, or JAX/Flax; profile and tune system performance for sub-10 ms inference latency.\n• Build and maintain end-to-end research pipelines for large-scale signal datasets, including preprocessing, artifact rejection, and multimodal fusion with video, audio, and IMU data.\n• Collaborate with neuroscientists and hardware engineers to integrate learned models into real-time BCI control loops and embedded systems.\n• Contribute to core ML infrastructure: experiment tracking, model versioning, dataset lineage, and reproducibility standards.\n• Publish at top-tier ML or neurotech venues (NeurIPS, ICLR, Nature Neuro, EMBC) and present findings to the research community.\n\nMinimum Qualifications:\n• PhD or equivalent deep technical expertise in Machine Learning, Artificial Intelligence, Computer Science, Computational Neuroscience, or related fields.\n• Strong command of PyTorch or JAX, with experience implementing custom training loops, loss functions, and model architectures.\n• Proven ability to conduct end-to-end research, from conceptual design to reproducible experiments and evaluation.\n• Strong mathematical foundations in linear algebra, probability, optimization, and information theory.\n• Experience working with high-dimensional time-series or sensory data (EEG, speech, video, motion capture, etc.).\n• Skilled in Python, NumPy, Pandas, and scientific computing workflows; experience with CUDA or low-level GPU debugging is highly valued.\n• Demonstrated ability to operate independently on open-ended problems and drive original research with limited supervision.\n\nPreferred Qualifications:\n• Deep familiarity with neural signal modeling, neural decoding, or biosignal preprocessing (EEG/MEG/ECoG/EMG).\n• Experience designing self-supervised or generative models (diffusion, VAEs, contrastive, masked modeling) for noisy, non-stationary data.\n• Background in reinforcement learning, optimal control, or human-in-the-loop systems, especially in continuous domains.\n• Publications or preprints in top venues (NeurIPS, ICML, ICLR, CVPR, EMBC, Nature Neuro).\n• Familiarity with distributed training, mixed-precision, multi-GPU orchestration, and cloud ML infrastructure (AWS/GCP/Azure).\n• Contributions to open-source ML frameworks or custom CUDA kernels.\n• Understanding of neural signal acquisition hardware, embedded inference, or edge ML deployment.\n• Track record of curiosity-driven, independent research resulting in practical systems or open-source codebases.\n\nAbout our Culture:\n\nAt Synaptrix Labs, we celebrate curiosity, open collaboration, and scientific rigor. Our interdisciplinary team spans neuroscience, AI, and clinical research, and we are united by the belief that non-invasive BCI is the key to unlocking a new era in healthcare, accessibility, and human augmentation.\n\nExpected Compensation:\n\nThe base salary for this role is anticipated to fall within the following range. Actual compensation will depend on your experience, technical expertise, and relevant education or training. In addition to base pay, Synaptrix offers equity to all full-time employees, reflecting our commitment to shared success and long-term company growth.\n\nBase Salary Range:\n\n$85,000 - $150,000 USD\n\nWhat We Offer:\n• An opportunity to change the world and work with some of the smartest and most talented experts from different fields\n• Growth potential; we rapidly advance team members who have an outsized impact\n• Paid holidays, unlimited PTO",
+    "job_description": "A company is looking for a Sr Principal Applied Scientist, Cost of Cloud Optimization ML / AI.\n\nKey Responsibilities\n\nLead the development and productionalization of advanced machine learning models for cloud capacity management and cost optimization\n\nCollaborate with data engineers and business teams to integrate models into production and provide actionable insights\n\nManage AI projects focusing on timely delivery and continuous improvement of AI solutions\n\nRequired Qualifications\n\n6-10+ years of experience in developing and deploying machine learning and AI in a cloud environment\n\nAdvanced degree (Ph.D. or Masters) in Computer Science, AI, Machine Learning, Data Science, or a related field\n\nStrong expertise in SQL, Python, and deep learning frameworks such as PyTorch and TensorFlow\n\nExperience with cloud services (e.g., AWS, Azure, Oracle Cloud Infrastructure) and deploying AI models\n\nProven leadership skills with the ability to engage and influence stakeholders across organizations",
     "job_is_remote": false,
-    "job_posted_at": "9 days ago",
-    "job_posted_at_timestamp": 1770422400,
-    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
-    "job_location": "United States",
-    "job_city": null,
-    "job_state": null,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "Chicago, IL",
+    "job_city": "Chicago",
+    "job_state": "Illinois",
     "job_country": "US",
-    "job_latitude": 38.794595199999996,
-    "job_longitude": -106.5348379,
-    "job_benefits": [
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D3zvl15iaAUTQWABCAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 85000,
-    "job_max_salary": 150000,
-    "job_salary_period": "YEAR",
+    "job_latitude": 41.88325,
+    "job_longitude": -87.6323879,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D5DyzUZoxVOSIepgfAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "PhD or equivalent deep technical expertise in Machine Learning, Artificial Intelligence, Computer Science, Computational Neuroscience, or related fields",
-        "Strong command of PyTorch or JAX, with experience implementing custom training loops, loss functions, and model architectures",
-        "Proven ability to conduct end-to-end research, from conceptual design to reproducible experiments and evaluation",
-        "Strong mathematical foundations in linear algebra, probability, optimization, and information theory",
-        "Experience working with high-dimensional time-series or sensory data (EEG, speech, video, motion capture, etc.)",
-        "Skilled in Python, NumPy, Pandas, and scientific computing workflows; experience with CUDA or low-level GPU debugging is highly valued",
-        "Demonstrated ability to operate independently on open-ended problems and drive original research with limited supervision"
-      ],
-      "Benefits": [
-        "The base salary for this role is anticipated to fall within the following range",
-        "Actual compensation will depend on your experience, technical expertise, and relevant education or training",
-        "In addition to base pay, Synaptrix offers equity to all full-time employees, reflecting our commitment to shared success and long-term company growth",
-        "$85,000 - $150,000 USD",
-        "An opportunity to change the world and work with some of the smartest and most talented experts from different fields",
-        "Growth potential; we rapidly advance team members who have an outsized impact",
-        "Paid holidays, unlimited PTO"
+        "6-10+ years of experience in developing and deploying machine learning and AI in a cloud environment",
+        "Advanced degree (Ph.D. or Masters) in Computer Science, AI, Machine Learning, Data Science, or a related field",
+        "Strong expertise in SQL, Python, and deep learning frameworks such as PyTorch and TensorFlow",
+        "Experience with cloud services (e.g., AWS, Azure, Oracle Cloud Infrastructure) and deploying AI models",
+        "Proven leadership skills with the ability to engage and influence stakeholders across organizations"
       ],
       "Responsibilities": [
-        "Design, prototype, and optimize state-of-the-art AI systems for neural decoding, including diffusion models, graph neural networks, contrastive/self-supervised frameworks, and transformer-based sequence models",
-        "Conduct foundational research on neural time-series representation learning: build architectures that extract latent dynamics from EEG, EMG, or related biosignals",
-        "Develop high-fidelity simulation environments for testing decoding algorithms, incorporating stochastic signal noise and realistic biophysical constraints",
-        "Scale model training across multi-GPU and multi-node clusters using PyTorch Distributed, DeepSpeed, or JAX/Flax; profile and tune system performance for sub-10 ms inference latency",
-        "Build and maintain end-to-end research pipelines for large-scale signal datasets, including preprocessing, artifact rejection, and multimodal fusion with video, audio, and IMU data",
-        "Collaborate with neuroscientists and hardware engineers to integrate learned models into real-time BCI control loops and embedded systems",
-        "Contribute to core ML infrastructure: experiment tracking, model versioning, dataset lineage, and reproducibility standards",
-        "Publish at top-tier ML or neurotech venues (NeurIPS, ICLR, Nature Neuro, EMBC) and present findings to the research community"
+        "Lead the development and productionalization of advanced machine learning models for cloud capacity management and cost optimization",
+        "Collaborate with data engineers and business teams to integrate models into production and provide actionable insights",
+        "Manage AI projects focusing on timely delivery and continuous improvement of AI solutions"
       ]
     },
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
-    "id": "www-glassdoor-com-job-listing-research-scientist-artificial-intelligence-phd-synaptrix-labs-jv_ic1132348_ko0-46_ke47-61-htm",
+    "id": "www-talent-com-view",
     "_source": "new_jobs"
   },
   {
@@ -1215,8 +1273,8 @@
     "job_longitude": -122.0812304,
     "job_benefits": [
       "health_insurance",
-      "paid_time_off",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLpHs9_do_19e-GaHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 143000,
@@ -1347,62 +1405,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "5DyzUZoxVOSIepgfAAAAAA==",
-    "job_title": "Principal Applied Scientist, AI Development",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=56483d965cdb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=56483d965cdb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A company is looking for a Sr Principal Applied Scientist, Cost of Cloud Optimization ML / AI.\n\nKey Responsibilities\n\nLead the development and productionalization of advanced machine learning models for cloud capacity management and cost optimization\n\nCollaborate with data engineers and business teams to integrate models into production and provide actionable insights\n\nManage AI projects focusing on timely delivery and continuous improvement of AI solutions\n\nRequired Qualifications\n\n6-10+ years of experience in developing and deploying machine learning and AI in a cloud environment\n\nAdvanced degree (Ph.D. or Masters) in Computer Science, AI, Machine Learning, Data Science, or a related field\n\nStrong expertise in SQL, Python, and deep learning frameworks such as PyTorch and TensorFlow\n\nExperience with cloud services (e.g., AWS, Azure, Oracle Cloud Infrastructure) and deploying AI models\n\nProven leadership skills with the ability to engage and influence stakeholders across organizations",
-    "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "Chicago, IL",
-    "job_city": "Chicago",
-    "job_state": "Illinois",
-    "job_country": "US",
-    "job_latitude": 41.88325,
-    "job_longitude": -87.6323879,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D5DyzUZoxVOSIepgfAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "6-10+ years of experience in developing and deploying machine learning and AI in a cloud environment",
-        "Advanced degree (Ph.D. or Masters) in Computer Science, AI, Machine Learning, Data Science, or a related field",
-        "Strong expertise in SQL, Python, and deep learning frameworks such as PyTorch and TensorFlow",
-        "Experience with cloud services (e.g., AWS, Azure, Oracle Cloud Infrastructure) and deploying AI models",
-        "Proven leadership skills with the ability to engage and influence stakeholders across organizations"
-      ],
-      "Responsibilities": [
-        "Lead the development and productionalization of advanced machine learning models for cloud capacity management and cost optimization",
-        "Collaborate with data engineers and business teams to integrate models into production and provide actionable insights",
-        "Manage AI projects focusing on timely delivery and continuous improvement of AI solutions"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "aGGwlXrckRFQ7y7zAAAAAA==",
     "job_title": "AI / Data Scientist",
     "employer_name": "VirtualVocations",
@@ -1495,9 +1497,9 @@
     "job_latitude": 42.4072107,
     "job_longitude": -71.3824374,
     "job_benefits": [
+      "health_insurance",
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D24e1Qa4y2K4OShFnAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 141000,
@@ -1538,6 +1540,85 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "www-linkedin-com-jobs-view-research-scientist-quantum-error-correction-quantum-ai-at-google-4371399820",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "Ax2ZFmDJM7djRFpPAAAAAA==",
+    "job_title": "Research Scientist Intern (2025) - Now Hiring",
+    "employer_name": "Whiterabbit.ai",
+    "employer_logo": null,
+    "employer_website": "https://www.whiterabbit.ai",
+    "job_publisher": "Snagajob",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.snagajob.com/jobs/1144854895?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Snagajob",
+        "apply_link": "https://www.snagajob.com/jobs/1144854895?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "We are looking for a Research Scientist Intern to push the state of the art of our AI models. As a Research Scientist Intern at Whiterabbit.ai, you will:\n• Play a key role in architecting the algorithms and models that will power our products\n• Train on a dedicated high-performance compute cluster specialized for deep learning research\n• Work with doctors and healthcare professionals to identify serious problems and leverage their domain expertise to build robust solutions\n• Remain an active contributor to the research community by partnering with universities and publishing high impact papers\n\nWho we are:\n\nOur mission at Whiterabbit.ai is to save lives and eliminate suffering through the early detection of cancer with artificial intelligence. We collaborate closely with one of the top medical schools in the country and have exclusive access to one of the world’s largest cancer datasets with millions of images. We invent algorithms that make doctors more productive, more accurate, and more capable. We build products and services with a relentless focus on transforming the patient’s healthcare experience.\n\nResponsibilities\n• Develop highly scalable classifiers and detectors that solve real-world problems\n• Learn and understand a large body of research in deep learning and machine learning\n• Participate in cutting-edge research for medical applications of computer vision\n\nMust Have Experience\n• Experience with deep learning and convolutional networks\n• Strong theoretical and empirical research background\n• Fluency with a deep learning framework and Python\n\nNice to Have Experience\n• Contributions to research communities and efforts, such as publications at conferences like CVPR, NeurIPS, ICCV, ECCV, ICML, and ICLR\n• Large scale machine learning experience working with terabytes of data\n• Implemented custom operations/modules in a deep learning framework\n• Imagination, ambition, and curiosity\n\nWe are looking for a Research Scientist Intern to push the state of the art of our AI models. As a Research Scientist Intern at Whiterabbit.ai, you will:\n• Play a key role in architecting the algorithms and models that will power our products\n• Train on a dedicated high-performance compute cluster specialized for deep learning research\n• Work with doctors and healthcare professionals to identify serious problems and leverage their domain expertise to build robust solutions\n• Remain an active contributor to the research community by partnering with universities and publishing high impact papers\n\nWho we are:\n\nOur mission at Whiterabbit.ai is to save lives and eliminate suffering through the early detection of cancer with artificial intelligence. We collaborate closely with one of the top medical schools in the country and have exclusive access to one of the world’s largest cancer datasets with millions of images. We invent algorithms that make doctors more productive, more accurate, and more capable. We build products and services with a relentless focus on transforming the patient’s healthcare experience.\n\nResponsibilities\n• Develop highly scalable classifiers and detectors that solve real-world problems\n• Learn and understand a large body of research in deep learning and machine learning\n• Participate in cutting-edge research for medical applications of computer vision\n\nMust Have Experience\n• Experience with deep learning and convolutional networks\n• Strong theoretical and empirical research background\n• Fluency with a deep learning framework and Python\n\nNice to Have Experience\n• Contributions to research communities and efforts, such as publications at conferences like CVPR, NeurIPS, ICCV, ECCV, ICML, and ICLR\n• Large scale machine learning experience working with terabytes of data\n• Implemented custom operations/modules in a deep learning framework\n• Imagination, ambition, and curiosity",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Lawton, OK",
+    "job_city": "Lawton",
+    "job_state": "Oklahoma",
+    "job_country": "US",
+    "job_latitude": 34.6075126,
+    "job_longitude": -98.3920462,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DAx2ZFmDJM7djRFpPAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Must Have Experience",
+        "Experience with deep learning and convolutional networks",
+        "Strong theoretical and empirical research background",
+        "Fluency with a deep learning framework and Python",
+        "Contributions to research communities and efforts, such as publications at conferences like CVPR, NeurIPS, ICCV, ECCV, ICML, and ICLR",
+        "Large scale machine learning experience working with terabytes of data",
+        "Implemented custom operations/modules in a deep learning framework",
+        "Imagination, ambition, and curiosity",
+        "We are looking for a Research Scientist Intern to push the state of the art of our AI models",
+        "Must Have Experience",
+        "Experience with deep learning and convolutional networks",
+        "Strong theoretical and empirical research background",
+        "Fluency with a deep learning framework and Python",
+        "Contributions to research communities and efforts, such as publications at conferences like CVPR, NeurIPS, ICCV, ECCV, ICML, and ICLR",
+        "Large scale machine learning experience working with terabytes of data",
+        "Implemented custom operations/modules in a deep learning framework",
+        "Imagination, ambition, and curiosity"
+      ],
+      "Responsibilities": [
+        "Play a key role in architecting the algorithms and models that will power our products",
+        "Train on a dedicated high-performance compute cluster specialized for deep learning research",
+        "Work with doctors and healthcare professionals to identify serious problems and leverage their domain expertise to build robust solutions",
+        "Remain an active contributor to the research community by partnering with universities and publishing high impact papers",
+        "Develop highly scalable classifiers and detectors that solve real-world problems",
+        "Learn and understand a large body of research in deep learning and machine learning",
+        "Participate in cutting-edge research for medical applications of computer vision",
+        "Play a key role in architecting the algorithms and models that will power our products",
+        "Train on a dedicated high-performance compute cluster specialized for deep learning research",
+        "Work with doctors and healthcare professionals to identify serious problems and leverage their domain expertise to build robust solutions",
+        "Remain an active contributor to the research community by partnering with universities and publishing high impact papers",
+        "Develop highly scalable classifiers and detectors that solve real-world problems",
+        "Learn and understand a large body of research in deep learning and machine learning",
+        "Participate in cutting-edge research for medical applications of computer vision"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-snagajob-com-jobs-1144854895",
     "_source": "new_jobs"
   }
 ]
