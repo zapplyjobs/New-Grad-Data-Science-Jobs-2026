@@ -66,9 +66,9 @@
     "job_latitude": 36.0948221,
     "job_longitude": -80.2434028,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DD-LGq5o0FMB3KQT1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 30.7,
@@ -204,6 +204,11 @@
         "is_direct": true
       },
       {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/analytics-engineer-charlotte-hearst-communications-b17bfbb0a880de508a0d7afa6d4c3e88?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
         "publisher": "LinkedIn",
         "apply_link": "https://www.linkedin.com/jobs/view/analytics-engineer-at-hearst-television-charlotte-4364464181?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
@@ -226,11 +231,6 @@
       {
         "publisher": "Experteer",
         "apply_link": "https://us.experteer.com/career/view-jobs/analytics-engineer-charlotte-nc-usa-56181061?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Ladders",
-        "apply_link": "https://www.theladders.com/job/analytics-engineer-assetmark-inc-charlotte-nc_84759740?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
@@ -358,8 +358,8 @@
     "job_latitude": 27.951689599999998,
     "job_longitude": -82.45875269999999,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
+      "health_insurance",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DtYKJ_R_W-BuLd6exAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -371,109 +371,6 @@
     "job_onet_soc": "11302100",
     "job_onet_job_zone": "4",
     "id": "pfizer-wd1-myworkdayjobs-com-en-us-pfizercareers-job-manager-hr-corporate-functions-data-analytics-engineering_4939096-2",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "_rvXxbAeuJ7yr3ORAAAAAA==",
-    "job_title": "Staff Analytics Engineer",
-    "employer_name": "Coinbase",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5OL4_4viaeK1GNWKlusWTU0WPLNurfsu9Lsbt&s=0",
-    "employer_website": "https://www.coinbase.com",
-    "job_publisher": "WhatJobs",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.whatjobs.com/jobs/staff-analytics-engineer?id=2454709003&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/staff-analytics-engineer?id=2454709003&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Ready to be pushed beyond what you think you’re capable of?\n\nAt Coinbase, our mission is to increase economic freedom in the world. It’s a massive, ambitious opportunity that demands the best of us, every day, as we build the emerging onchain platform — and with it, the future global financial system.\n\nTo achieve our mission, we’re seeking a very specific candidate. We want someone who is passionate about our mission and who believes in the power of crypto and blockchain technology to update the financial system. We want someone who is eager to leave their mark on the world, who relishes the pressure and privilege of working with high caliber colleagues, and who actively seeks feedback to keep leveling up. We want someone who will run towards, not away from, solving the company’s hardest problems.\n\nOur work culture is intense and isn’t for everyone. But if you want to build the future alongside others who excel in their disciplines and expect the same from you, there’s no better place to be.\n\nWhile many roles at Coinbase are remote-first, we are not remote-only. In-person participation is required throughout the year. Team and company-wide offsites are held multiple times annually to foster collaboration, connection, and alignment. Attendance is expected and fully supported.\n\nThe CX Analytics Engineering team bridges the gap between data engineering, data science, and business analytics by building scalable, impactful data solutions. We transform raw data into actionable insights through robust pipelines, well-designed data models, and tools that empower stakeholders across the organization to make data-driven decisions. As an Analytics Engineer on our team, you will function as a force multiplier, enabling Analytics and Operations to function seamlessly at scale. You’ll have the opportunity to translate complex technical and operational requirements into easily consumable front end data solutions, while also heavily influencing the overarching strategy for CX Analytics and its partners.\n\nOur team combines technical expertise with a deep understanding of the business to unlock the full potential of our data. We prioritize data quality, reliability, and usability, ensuring stakeholders can rely on our data to drive meaningful outcomes.\n\nWhat We Do\n\nTrusted Data Sources : Develop and maintain foundational data models that serve as the single source of truth for analytics across the organization.\n\nActionable Insights : Empower stakeholders by translating business requirements into scalable data models, dashboards, and tools.\n\nCross-Functional Collaboration : Partner with engineering, data science, product, and business teams to ensure alignment on priorities and data solutions.\n\nScalable Data Products : Build frameworks, tools, and workflows that maximize efficiency for data users, while maintaining high standards of data quality and performance.\n\nOutcome-Focused Solutions : Use modern development and analytics tools to deliver value quickly, while ensuring long-term maintainability.\n\nWhat you’ll be doing (ie. job duties):**.\n\nAnalytics engineer is a hybrid Data Engineer/Data Scientist/Business Analyst role that has the expertise to understand data flows end to end, and the engineering toolkit to extract the most value out of it indirectly (building tables) or directly (solving problems, delivering insights).\n\nExpectations\n• Be the expert: *Quickly build subject matter expertise in a specific business area and data domain. Understand the data flows from creation, ingestion, transformation, and delivery.\n\nExamples:\n\nStep into a new line of business and work with Engineering and Product partners to deliver first data pipelines and insights.Communicate with engineering teams to fix data gaps for downstream data users.Take initiative and accountability for fixing issues anywhere in the stack.\n\nGenerate business value: Interface with stakeholders on data and product teams to deliver the most commercial value from data (directly or indirectly).\n\nExamples:\n\nBuild out a new data model allowing multiple downstream DS teams to more easily unlock business value through experimentation and ad hoc analysis.Combine Eng details of the algo engine with stats and data expertise to come up with feasible solutions for Eng to make the algo better.Work with PMs to tie together new x-PG, and x-Product data into one holistic framework to optimize key financing product business metrics.\n\nFocus on outcomes not tools: Use a variety of frameworks and paradigms to identify the best-fit tools to deliver value.\n\nExamples:\n\nDevelop new abstractions (e.g. UDFs, Python packages, dashboards) to support scalable data workflows/infra.Stand up a framework for building data apps internally, enabling other DS teams to quickly add value.Use established tools with mastery (e.g. Google Sheets, SQL) to quickly deliver impact when speed is top priority.**\n\nWhat We Look For in You\n\nIn addition to out of the box thinking, attention to detail, a sense of urgency and a high degree of autonomy and accountability, we expect you to have the following skills:\n• Customer Support Data Experience: *Familiarity with data elements and processes supporting successful Customer Support initiatives, including employee performance monitoring, workforce/staffing inputs, and the handling of sensitive PII across a broad stakeholder base.\n\nData Modeling Expertise : Strong understanding of best practices for designing modular and reusable data models (e.g., star schemas, snowflake schemas).\n• Prompt Design and Engineering: *Expertise in prompt engineering and design for LLMs (e.g., GPT), including creating, refining, and optimizing prompts to improve response accuracy, relevance, and performance for internal tools and use cases.\n\nAdvanced SQL : Proficiency in advanced SQL techniques for data transformation, querying, and optimization.\n\nIntermediate to Advanced Python : Expertise in scripting and automation, with experience in Object-Oriented Programming (OOP) and building scalable frameworks.\n\nCollaboration and Communication : Strong ability to translate technical concepts into business value for cross-functional stakeholders. Proven ability to manage projects and communicate effectively across teams.\n\nData Pipeline Development : Experience building, maintaining, and optimizing ETL/ELT pipelines, using modern tools like dbt, Airflow, or similar.\n\nData Visualization : Proficiency in building polished dashboards using tools like Looker, Tableau, Superset, or Python visualization libraries (Matplotlib, Plotly).\n\nDevelopment Tools : Familiarity with version control (GitHub), CI/CD, and modern development workflows.\n\nData Architecture : Knowledge of modern data lake/warehouse architectures (e.g., Snowflake, Databricks) and transformation frameworks.\n\nBusiness Acumen : Ability to understand and address business challenges through analytics engineering.\n• Data savvy: *Familiarity with statistics and probability.\n\nBonus Skills :\n\nExperience with cloud platforms (e.g., AWS, GCP).\n\nFamiliarity with Docker or Kubernetes.\n\nJob #: P71393\n\nPay Transparency Notice : Depending on your work location, the target annual *base *salary for this position can range as detailed below. Full time offers from Coinbase also include bonus eligibility + equity eligibility + benefits (including medical, dental, vision and 401(k)).\n\nBase salary range shown. Total compensation also includes equity and bonus eligibility and benefits:\n\n$207,485—$244,100 USD\n\nPlease be advised that each candidate may submit a maximum of four applications within any 30-day period. We encourage you to carefully evaluate how your skills and interests align with Coinbase's roles before applying.\n\nCommitment to Equal Opportunity\n\nCoinbase is proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, sex, gender expression or identity, sexual orientation or any other basis protected by applicable law. Coinbase will also consider for employment qualified applicants with criminal histories in a manner consistent with applicable federal, state and local law. For US applicants, you may view the Employee Rights and the Know Your Rights notices by clicking on their corresponding links. Additionally, Coinbase participates in the E-Verify program in certain locations, as required by law.\n\nCoinbase is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please contact us at accommodations(at)coinbase.com to let us know the nature of your request and your contact information. For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here).\n\nGlobal Data Privacy Notice for Job Candidates and Applicants\n\nDepending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required. For US applicants only, by submitting your application you are agreeing to arbitration of disputes as outlined here.\n\nAI Disclosure\n\nFor select roles, Coinbase is piloting an AI tool based on machine learning technologies to conduct initial screening interviews to qualified applicants. The tool simulates realistic interview scenarios and engages in dynamic conversation. A human recruiter will review your interview responses, provided in the form of a voice recording and/or transcript, to assess them against the qualifications and characteristics outlined in the job description.\n\nFor select roles, Coinbase is also piloting an AI interview intelligence platform to transcribe and summarize interview notes, allowing our interviewers to fully focus on you as the candidate.\n\nThe above pilots are for testing purposes and Coinbase will not use AI to make decisions impacting employment . To request a reasonable accommodation due to disability, please contact accommodations(at)coinbase.com",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Willow Creek, MT",
-    "job_city": "Willow Creek",
-    "job_state": "Montana",
-    "job_country": "US",
-    "job_latitude": 45.825206,
-    "job_longitude": -111.64469659999999,
-    "job_benefits": [
-      "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_rvXxbAeuJ7yr3ORAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "We want someone who is eager to leave their mark on the world, who relishes the pressure and privilege of working with high caliber colleagues, and who actively seeks feedback to keep leveling up",
-        "We want someone who will run towards, not away from, solving the company’s hardest problems",
-        "Use established tools with mastery (e.g",
-        "Google Sheets, SQL) to quickly deliver impact when speed is top priority.**",
-        "In addition to out of the box thinking, attention to detail, a sense of urgency and a high degree of autonomy and accountability, we expect you to have the following skills:",
-        "Data Modeling Expertise : Strong understanding of best practices for designing modular and reusable data models (e.g., star schemas, snowflake schemas)",
-        "Prompt Design and Engineering: *Expertise in prompt engineering and design for LLMs (e.g., GPT), including creating, refining, and optimizing prompts to improve response accuracy, relevance, and performance for internal tools and use cases",
-        "Advanced SQL : Proficiency in advanced SQL techniques for data transformation, querying, and optimization",
-        "Intermediate to Advanced Python : Expertise in scripting and automation, with experience in Object-Oriented Programming (OOP) and building scalable frameworks",
-        "Collaboration and Communication : Strong ability to translate technical concepts into business value for cross-functional stakeholders",
-        "Proven ability to manage projects and communicate effectively across teams",
-        "Data Pipeline Development : Experience building, maintaining, and optimizing ETL/ELT pipelines, using modern tools like dbt, Airflow, or similar",
-        "Data Visualization : Proficiency in building polished dashboards using tools like Looker, Tableau, Superset, or Python visualization libraries (Matplotlib, Plotly)",
-        "Development Tools : Familiarity with version control (GitHub), CI/CD, and modern development workflows",
-        "Data Architecture : Knowledge of modern data lake/warehouse architectures (e.g., Snowflake, Databricks) and transformation frameworks",
-        "Business Acumen : Ability to understand and address business challenges through analytics engineering",
-        "Data savvy: *Familiarity with statistics and probability",
-        "Experience with cloud platforms (e.g., AWS, GCP)",
-        "Familiarity with Docker or Kubernetes"
-      ],
-      "Benefits": [
-        "Pay Transparency Notice : Depending on your work location, the target annual *base *salary for this position can range as detailed below",
-        "Full time offers from Coinbase also include bonus eligibility + equity eligibility + benefits (including medical, dental, vision and 401(k))",
-        "Base salary range shown",
-        "Total compensation also includes equity and bonus eligibility and benefits:",
-        "$207,485—$244,100 USD"
-      ],
-      "Responsibilities": [
-        "In-person participation is required throughout the year",
-        "Team and company-wide offsites are held multiple times annually to foster collaboration, connection, and alignment",
-        "Attendance is expected and fully supported",
-        "We transform raw data into actionable insights through robust pipelines, well-designed data models, and tools that empower stakeholders across the organization to make data-driven decisions",
-        "As an Analytics Engineer on our team, you will function as a force multiplier, enabling Analytics and Operations to function seamlessly at scale",
-        "You’ll have the opportunity to translate complex technical and operational requirements into easily consumable front end data solutions, while also heavily influencing the overarching strategy for CX Analytics and its partners",
-        "Trusted Data Sources : Develop and maintain foundational data models that serve as the single source of truth for analytics across the organization",
-        "Actionable Insights : Empower stakeholders by translating business requirements into scalable data models, dashboards, and tools",
-        "Cross-Functional Collaboration : Partner with engineering, data science, product, and business teams to ensure alignment on priorities and data solutions",
-        "Scalable Data Products : Build frameworks, tools, and workflows that maximize efficiency for data users, while maintaining high standards of data quality and performance",
-        "Outcome-Focused Solutions : Use modern development and analytics tools to deliver value quickly, while ensuring long-term maintainability",
-        "Analytics engineer is a hybrid Data Engineer/Data Scientist/Business Analyst role that has the expertise to understand data flows end to end, and the engineering toolkit to extract the most value out of it indirectly (building tables) or directly (solving problems, delivering insights)",
-        "Be the expert: *Quickly build subject matter expertise in a specific business area and data domain",
-        "Understand the data flows from creation, ingestion, transformation, and delivery",
-        "Step into a new line of business and work with Engineering and Product partners to deliver first data pipelines and insights",
-        "Communicate with engineering teams to fix data gaps for downstream data users",
-        "Take initiative and accountability for fixing issues anywhere in the stack",
-        "Generate business value: Interface with stakeholders on data and product teams to deliver the most commercial value from data (directly or indirectly)",
-        "Build out a new data model allowing multiple downstream DS teams to more easily unlock business value through experimentation and ad hoc analysis",
-        "Combine Eng details of the algo engine with stats and data expertise to come up with feasible solutions for Eng to make the algo better",
-        "Work with PMs to tie together new x-PG, and x-Product data into one holistic framework to optimize key financing product business metrics",
-        "Focus on outcomes not tools: Use a variety of frameworks and paradigms to identify the best-fit tools to deliver value",
-        "Develop new abstractions (e.g",
-        "UDFs, Python packages, dashboards) to support scalable data workflows/infra.Stand up a framework for building data apps internally, enabling other DS teams to quickly add value",
-        "Customer Support Data Experience: *Familiarity with data elements and processes supporting successful Customer Support initiatives, including employee performance monitoring, workforce/staffing inputs, and the handling of sensitive PII across a broad stakeholder base"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-whatjobs-com-jobs-staff-analytics-engineer",
     "_source": "new_jobs"
   },
   {
@@ -594,6 +491,194 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "_rvXxbAeuJ7yr3ORAAAAAA==",
+    "job_title": "Staff Analytics Engineer",
+    "employer_name": "Coinbase",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5OL4_4viaeK1GNWKlusWTU0WPLNurfsu9Lsbt&s=0",
+    "employer_website": "https://www.coinbase.com",
+    "job_publisher": "WhatJobs",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.whatjobs.com/jobs/staff-analytics-engineer?id=2454709003&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/staff-analytics-engineer?id=2454709003&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Ready to be pushed beyond what you think you’re capable of?\n\nAt Coinbase, our mission is to increase economic freedom in the world. It’s a massive, ambitious opportunity that demands the best of us, every day, as we build the emerging onchain platform — and with it, the future global financial system.\n\nTo achieve our mission, we’re seeking a very specific candidate. We want someone who is passionate about our mission and who believes in the power of crypto and blockchain technology to update the financial system. We want someone who is eager to leave their mark on the world, who relishes the pressure and privilege of working with high caliber colleagues, and who actively seeks feedback to keep leveling up. We want someone who will run towards, not away from, solving the company’s hardest problems.\n\nOur work culture is intense and isn’t for everyone. But if you want to build the future alongside others who excel in their disciplines and expect the same from you, there’s no better place to be.\n\nWhile many roles at Coinbase are remote-first, we are not remote-only. In-person participation is required throughout the year. Team and company-wide offsites are held multiple times annually to foster collaboration, connection, and alignment. Attendance is expected and fully supported.\n\nThe CX Analytics Engineering team bridges the gap between data engineering, data science, and business analytics by building scalable, impactful data solutions. We transform raw data into actionable insights through robust pipelines, well-designed data models, and tools that empower stakeholders across the organization to make data-driven decisions. As an Analytics Engineer on our team, you will function as a force multiplier, enabling Analytics and Operations to function seamlessly at scale. You’ll have the opportunity to translate complex technical and operational requirements into easily consumable front end data solutions, while also heavily influencing the overarching strategy for CX Analytics and its partners.\n\nOur team combines technical expertise with a deep understanding of the business to unlock the full potential of our data. We prioritize data quality, reliability, and usability, ensuring stakeholders can rely on our data to drive meaningful outcomes.\n\nWhat We Do\n\nTrusted Data Sources : Develop and maintain foundational data models that serve as the single source of truth for analytics across the organization.\n\nActionable Insights : Empower stakeholders by translating business requirements into scalable data models, dashboards, and tools.\n\nCross-Functional Collaboration : Partner with engineering, data science, product, and business teams to ensure alignment on priorities and data solutions.\n\nScalable Data Products : Build frameworks, tools, and workflows that maximize efficiency for data users, while maintaining high standards of data quality and performance.\n\nOutcome-Focused Solutions : Use modern development and analytics tools to deliver value quickly, while ensuring long-term maintainability.\n\nWhat you’ll be doing (ie. job duties):**.\n\nAnalytics engineer is a hybrid Data Engineer/Data Scientist/Business Analyst role that has the expertise to understand data flows end to end, and the engineering toolkit to extract the most value out of it indirectly (building tables) or directly (solving problems, delivering insights).\n\nExpectations\n• Be the expert: *Quickly build subject matter expertise in a specific business area and data domain. Understand the data flows from creation, ingestion, transformation, and delivery.\n\nExamples:\n\nStep into a new line of business and work with Engineering and Product partners to deliver first data pipelines and insights.Communicate with engineering teams to fix data gaps for downstream data users.Take initiative and accountability for fixing issues anywhere in the stack.\n\nGenerate business value: Interface with stakeholders on data and product teams to deliver the most commercial value from data (directly or indirectly).\n\nExamples:\n\nBuild out a new data model allowing multiple downstream DS teams to more easily unlock business value through experimentation and ad hoc analysis.Combine Eng details of the algo engine with stats and data expertise to come up with feasible solutions for Eng to make the algo better.Work with PMs to tie together new x-PG, and x-Product data into one holistic framework to optimize key financing product business metrics.\n\nFocus on outcomes not tools: Use a variety of frameworks and paradigms to identify the best-fit tools to deliver value.\n\nExamples:\n\nDevelop new abstractions (e.g. UDFs, Python packages, dashboards) to support scalable data workflows/infra.Stand up a framework for building data apps internally, enabling other DS teams to quickly add value.Use established tools with mastery (e.g. Google Sheets, SQL) to quickly deliver impact when speed is top priority.**\n\nWhat We Look For in You\n\nIn addition to out of the box thinking, attention to detail, a sense of urgency and a high degree of autonomy and accountability, we expect you to have the following skills:\n• Customer Support Data Experience: *Familiarity with data elements and processes supporting successful Customer Support initiatives, including employee performance monitoring, workforce/staffing inputs, and the handling of sensitive PII across a broad stakeholder base.\n\nData Modeling Expertise : Strong understanding of best practices for designing modular and reusable data models (e.g., star schemas, snowflake schemas).\n• Prompt Design and Engineering: *Expertise in prompt engineering and design for LLMs (e.g., GPT), including creating, refining, and optimizing prompts to improve response accuracy, relevance, and performance for internal tools and use cases.\n\nAdvanced SQL : Proficiency in advanced SQL techniques for data transformation, querying, and optimization.\n\nIntermediate to Advanced Python : Expertise in scripting and automation, with experience in Object-Oriented Programming (OOP) and building scalable frameworks.\n\nCollaboration and Communication : Strong ability to translate technical concepts into business value for cross-functional stakeholders. Proven ability to manage projects and communicate effectively across teams.\n\nData Pipeline Development : Experience building, maintaining, and optimizing ETL/ELT pipelines, using modern tools like dbt, Airflow, or similar.\n\nData Visualization : Proficiency in building polished dashboards using tools like Looker, Tableau, Superset, or Python visualization libraries (Matplotlib, Plotly).\n\nDevelopment Tools : Familiarity with version control (GitHub), CI/CD, and modern development workflows.\n\nData Architecture : Knowledge of modern data lake/warehouse architectures (e.g., Snowflake, Databricks) and transformation frameworks.\n\nBusiness Acumen : Ability to understand and address business challenges through analytics engineering.\n• Data savvy: *Familiarity with statistics and probability.\n\nBonus Skills :\n\nExperience with cloud platforms (e.g., AWS, GCP).\n\nFamiliarity with Docker or Kubernetes.\n\nJob #: P71393\n\nPay Transparency Notice : Depending on your work location, the target annual *base *salary for this position can range as detailed below. Full time offers from Coinbase also include bonus eligibility + equity eligibility + benefits (including medical, dental, vision and 401(k)).\n\nBase salary range shown. Total compensation also includes equity and bonus eligibility and benefits:\n\n$207,485—$244,100 USD\n\nPlease be advised that each candidate may submit a maximum of four applications within any 30-day period. We encourage you to carefully evaluate how your skills and interests align with Coinbase's roles before applying.\n\nCommitment to Equal Opportunity\n\nCoinbase is proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, sex, gender expression or identity, sexual orientation or any other basis protected by applicable law. Coinbase will also consider for employment qualified applicants with criminal histories in a manner consistent with applicable federal, state and local law. For US applicants, you may view the Employee Rights and the Know Your Rights notices by clicking on their corresponding links. Additionally, Coinbase participates in the E-Verify program in certain locations, as required by law.\n\nCoinbase is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please contact us at accommodations(at)coinbase.com to let us know the nature of your request and your contact information. For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here).\n\nGlobal Data Privacy Notice for Job Candidates and Applicants\n\nDepending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required. For US applicants only, by submitting your application you are agreeing to arbitration of disputes as outlined here.\n\nAI Disclosure\n\nFor select roles, Coinbase is piloting an AI tool based on machine learning technologies to conduct initial screening interviews to qualified applicants. The tool simulates realistic interview scenarios and engages in dynamic conversation. A human recruiter will review your interview responses, provided in the form of a voice recording and/or transcript, to assess them against the qualifications and characteristics outlined in the job description.\n\nFor select roles, Coinbase is also piloting an AI interview intelligence platform to transcribe and summarize interview notes, allowing our interviewers to fully focus on you as the candidate.\n\nThe above pilots are for testing purposes and Coinbase will not use AI to make decisions impacting employment . To request a reasonable accommodation due to disability, please contact accommodations(at)coinbase.com",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Willow Creek, MT",
+    "job_city": "Willow Creek",
+    "job_state": "Montana",
+    "job_country": "US",
+    "job_latitude": 45.825206,
+    "job_longitude": -111.64469659999999,
+    "job_benefits": [
+      "paid_time_off",
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_rvXxbAeuJ7yr3ORAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "We want someone who is eager to leave their mark on the world, who relishes the pressure and privilege of working with high caliber colleagues, and who actively seeks feedback to keep leveling up",
+        "We want someone who will run towards, not away from, solving the company’s hardest problems",
+        "Use established tools with mastery (e.g",
+        "Google Sheets, SQL) to quickly deliver impact when speed is top priority.**",
+        "In addition to out of the box thinking, attention to detail, a sense of urgency and a high degree of autonomy and accountability, we expect you to have the following skills:",
+        "Data Modeling Expertise : Strong understanding of best practices for designing modular and reusable data models (e.g., star schemas, snowflake schemas)",
+        "Prompt Design and Engineering: *Expertise in prompt engineering and design for LLMs (e.g., GPT), including creating, refining, and optimizing prompts to improve response accuracy, relevance, and performance for internal tools and use cases",
+        "Advanced SQL : Proficiency in advanced SQL techniques for data transformation, querying, and optimization",
+        "Intermediate to Advanced Python : Expertise in scripting and automation, with experience in Object-Oriented Programming (OOP) and building scalable frameworks",
+        "Collaboration and Communication : Strong ability to translate technical concepts into business value for cross-functional stakeholders",
+        "Proven ability to manage projects and communicate effectively across teams",
+        "Data Pipeline Development : Experience building, maintaining, and optimizing ETL/ELT pipelines, using modern tools like dbt, Airflow, or similar",
+        "Data Visualization : Proficiency in building polished dashboards using tools like Looker, Tableau, Superset, or Python visualization libraries (Matplotlib, Plotly)",
+        "Development Tools : Familiarity with version control (GitHub), CI/CD, and modern development workflows",
+        "Data Architecture : Knowledge of modern data lake/warehouse architectures (e.g., Snowflake, Databricks) and transformation frameworks",
+        "Business Acumen : Ability to understand and address business challenges through analytics engineering",
+        "Data savvy: *Familiarity with statistics and probability",
+        "Experience with cloud platforms (e.g., AWS, GCP)",
+        "Familiarity with Docker or Kubernetes"
+      ],
+      "Benefits": [
+        "Pay Transparency Notice : Depending on your work location, the target annual *base *salary for this position can range as detailed below",
+        "Full time offers from Coinbase also include bonus eligibility + equity eligibility + benefits (including medical, dental, vision and 401(k))",
+        "Base salary range shown",
+        "Total compensation also includes equity and bonus eligibility and benefits:",
+        "$207,485—$244,100 USD"
+      ],
+      "Responsibilities": [
+        "In-person participation is required throughout the year",
+        "Team and company-wide offsites are held multiple times annually to foster collaboration, connection, and alignment",
+        "Attendance is expected and fully supported",
+        "We transform raw data into actionable insights through robust pipelines, well-designed data models, and tools that empower stakeholders across the organization to make data-driven decisions",
+        "As an Analytics Engineer on our team, you will function as a force multiplier, enabling Analytics and Operations to function seamlessly at scale",
+        "You’ll have the opportunity to translate complex technical and operational requirements into easily consumable front end data solutions, while also heavily influencing the overarching strategy for CX Analytics and its partners",
+        "Trusted Data Sources : Develop and maintain foundational data models that serve as the single source of truth for analytics across the organization",
+        "Actionable Insights : Empower stakeholders by translating business requirements into scalable data models, dashboards, and tools",
+        "Cross-Functional Collaboration : Partner with engineering, data science, product, and business teams to ensure alignment on priorities and data solutions",
+        "Scalable Data Products : Build frameworks, tools, and workflows that maximize efficiency for data users, while maintaining high standards of data quality and performance",
+        "Outcome-Focused Solutions : Use modern development and analytics tools to deliver value quickly, while ensuring long-term maintainability",
+        "Analytics engineer is a hybrid Data Engineer/Data Scientist/Business Analyst role that has the expertise to understand data flows end to end, and the engineering toolkit to extract the most value out of it indirectly (building tables) or directly (solving problems, delivering insights)",
+        "Be the expert: *Quickly build subject matter expertise in a specific business area and data domain",
+        "Understand the data flows from creation, ingestion, transformation, and delivery",
+        "Step into a new line of business and work with Engineering and Product partners to deliver first data pipelines and insights",
+        "Communicate with engineering teams to fix data gaps for downstream data users",
+        "Take initiative and accountability for fixing issues anywhere in the stack",
+        "Generate business value: Interface with stakeholders on data and product teams to deliver the most commercial value from data (directly or indirectly)",
+        "Build out a new data model allowing multiple downstream DS teams to more easily unlock business value through experimentation and ad hoc analysis",
+        "Combine Eng details of the algo engine with stats and data expertise to come up with feasible solutions for Eng to make the algo better",
+        "Work with PMs to tie together new x-PG, and x-Product data into one holistic framework to optimize key financing product business metrics",
+        "Focus on outcomes not tools: Use a variety of frameworks and paradigms to identify the best-fit tools to deliver value",
+        "Develop new abstractions (e.g",
+        "UDFs, Python packages, dashboards) to support scalable data workflows/infra.Stand up a framework for building data apps internally, enabling other DS teams to quickly add value",
+        "Customer Support Data Experience: *Familiarity with data elements and processes supporting successful Customer Support initiatives, including employee performance monitoring, workforce/staffing inputs, and the handling of sensitive PII across a broad stakeholder base"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-whatjobs-com-jobs-staff-analytics-engineer",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "DnJQNbAuRHlzHfYrAAAAAA==",
+    "job_title": "Software Engineer, Data Analytics",
+    "employer_name": "Intelliforce-IT Solutions Group, LLC.",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSztnTy3445oeJJPPShY_ifG8fv49mr8rUJZf4w&s=0",
+    "employer_website": "https://intelliforce-itsg.com",
+    "job_publisher": "BeBee",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://us.bebee.com/job/24659c2a46e74f6da35287fa63f6dfaf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/24659c2a46e74f6da35287fa63f6dfaf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Make an Impact Where It Matters Most\n\nAt Intelliforce, we build mission-focused solutions where engineering excellence directly supports national security outcomes.\n\nIn this role, you will help modernize and extend a critical data analytics user interface, transforming a prototype into a production-ready capability.\n\nYou will work alongside mission partners to enhance how data is explored, visualized, and delivered, ensuring analysts have intuitive, reliable tools that scale beyond the enterprise.\nThis position sits squarely within Intelliforce's core strengths in software engineering, data analytics, and mission delivery.\n\nSchedule and Work Details\n\nLocation:\nOPS 1\n\nSchedule:\nOnsite\n\nTelework:\nNot Available\n\nClearance:\nActive Top Secret Clearance with Full Scope Polygraph required\n\nHere's What Your Day-to-Day Might Include\n\nYou will enhance and mature a Streamlit-based UI prototype into a robust, scalable interface with a forward path to external availability.\nYou will design and implement new features, refine existing workflows, and ensure performance, usability, and data integrity.\n\nYour work will include developing front-end components, integrating back-end services, handling diverse data formats, and collaborating with engineers and stakeholders to translate requirements into clean, functional solutions.\nYou will also contribute to testing, documentation, and continuous improvement of the platform.\n\nMinimum Qualifications\n\nClearance:\nActive Top Secret Clearance with Full Scope Polygraph required\n\nCitizenship:\nMust be a U.S. Citizen\n\nEducation And Experience\n\nBachelor's degree in Computer Science or a related technical discipline with seven years of software engineering experience supporting programs of similar scope, type, and complexity, or a Master's degree with five years of experience, or nine years of relevant experience in lieu of a degree.\nRequired Skills\n\nYou bring strong experience developing software in Linux environments, including use of the Linux command line and Bash scripting to automate manual processes.\nYou have recent hands-on experience with Python and Java, and familiarity building interactive applications using Streamlit.\n\nYou are comfortable developing front-end applications using TypeScript, HTML, and CSS, and have experience with modern JavaScript frameworks such as React, Angular, or Vue.\n\nYou have worked with distributed data processing engines like Apache Spark, use Jupyter Notebooks effectively, and perform data wrangling with tools such as pandas and NumPy.\n\nYou are experienced working with structured, semi-structured, and unstructured data formats including Parquet, JSON, CSV, and XML, and understand data quality, validation, and anomaly detection concepts.\nYou use Git for source control and collaborative development.\n\nDesired Skills\n\nExperience orchestrating workflows with Apache Airflow, including DAG design and scheduling. Experience querying and aggregating data using SQL technologies such as MySQL, MariaDB, or PostgreSQL. Familiarity with HPC job scheduling tools such as Slurm. Experience using the Atlassian tool suite, including Jira and Confluence.\n\nTechnology Stack\n\nThis role operates across Python and Java development, Streamlit for UI construction, TypeScript, HTML, CSS, and modern JavaScript frameworks such as React, Angular, or Vue.\n\nThe environment includes Apache Spark for distributed processing, Jupyter Notebooks for analysis, pandas and NumPy for data preparation, Git for source control, Linux-based systems, and supporting technologies such as SQL databases, Airflow, and HPC scheduling tools.\n\nCompensation Range:\n$179, $237,000.00\n\nThe salary range provided reflects an estimate based on current market trends and may be adjusted based on factors such as the candidate's experience, skills, and qualifications.\nThe final offer will be tailored after a thorough evaluation of the candidate's background and suitability for the role. Please note that this range is intended as a guideline and is subject to flexibility\n\nWhy Intelliforce? Because you matter—your work, your growth, and your well-being.\n\nAt Intelliforce, we don't just push the boundaries of technology—we partner with some of the most mission-driven teams in defense and beyond to solve challenges that truly matter.\nAs a Systems Engineer here, you won't just contribute to projects—you'll help shape outcomes that make a real-world impact.\n\nWe also know that great work starts with a great environment.\n\nThat's why we invest in you:\nAmple PTO to rest and recharge—plus all federal holidays and your birthday off, just because.\nMultiple medical plan options, including ones with zero deductible or premium for employees.\nGenerous 401(k) with immediate vesting—because your future matters now.\nExciting bonus opportunities, from profit sharing to quarterly awards and President's Club recognition.\nA culture of collaboration, connection, and fun, with regular team activities that go beyond the work.\n\nReady to grow with purpose?\n\nAt Intelliforce, your career will flourish in a place where innovation thrives and people come first. Join us—and let's build something meaningful together.\n\nYou can reach us at - or schedule a call with our Director of Recruitment, just visit this link to view their calendar:\n.\n\nEqual Opportunity Matters\n\nIntelliforce-IT Solutions Group, LLC is proud to be an Equal Opportunity/Affirmative Action Employer. U.S. Citizenship is required for most positions.\n\nNeed accommodations during the application process? We're happy to help. Reach out to us at - with your specific request.\n\nPowered by JazzHR\n\nCoIz4oRKgb\n\nSeniority level\nMid-Senior level\nEmployment type\nFull-time\nJob function\nEngineering and Information Technology\nIndustries\nInternet Publishing",
+    "job_is_remote": false,
+    "job_posted_at": "9 days ago",
+    "job_posted_at_timestamp": 1770422400,
+    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
+    "job_location": "Annapolis Junction, MD",
+    "job_city": "Annapolis Junction",
+    "job_state": "Maryland",
+    "job_country": "US",
+    "job_latitude": 39.1209588,
+    "job_longitude": -76.77564459999999,
+    "job_benefits": [
+      "health_insurance",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DDnJQNbAuRHlzHfYrAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Active Top Secret Clearance with Full Scope Polygraph required",
+        "Active Top Secret Clearance with Full Scope Polygraph required",
+        "Must be a U.S. Citizen",
+        "Bachelor's degree in Computer Science or a related technical discipline with seven years of software engineering experience supporting programs of similar scope, type, and complexity, or a Master's degree with five years of experience, or nine years of relevant experience in lieu of a degree",
+        "You bring strong experience developing software in Linux environments, including use of the Linux command line and Bash scripting to automate manual processes",
+        "You have recent hands-on experience with Python and Java, and familiarity building interactive applications using Streamlit",
+        "You are comfortable developing front-end applications using TypeScript, HTML, and CSS, and have experience with modern JavaScript frameworks such as React, Angular, or Vue",
+        "You have worked with distributed data processing engines like Apache Spark, use Jupyter Notebooks effectively, and perform data wrangling with tools such as pandas and NumPy",
+        "You are experienced working with structured, semi-structured, and unstructured data formats including Parquet, JSON, CSV, and XML, and understand data quality, validation, and anomaly detection concepts",
+        "You use Git for source control and collaborative development",
+        "Experience orchestrating workflows with Apache Airflow, including DAG design and scheduling",
+        "Experience querying and aggregating data using SQL technologies such as MySQL, MariaDB, or PostgreSQL",
+        "Familiarity with HPC job scheduling tools such as Slurm",
+        "Experience using the Atlassian tool suite, including Jira and Confluence",
+        "U.S. Citizenship is required for most positions"
+      ],
+      "Benefits": [
+        "Compensation Range:",
+        "$179, $237,000.00",
+        "The salary range provided reflects an estimate based on current market trends and may be adjusted based on factors such as the candidate's experience, skills, and qualifications",
+        "Ample PTO to rest and recharge—plus all federal holidays and your birthday off, just because",
+        "Multiple medical plan options, including ones with zero deductible or premium for employees",
+        "Generous 401(k) with immediate vesting—because your future matters now",
+        "Exciting bonus opportunities, from profit sharing to quarterly awards and President's Club recognition",
+        "A culture of collaboration, connection, and fun, with regular team activities that go beyond the work"
+      ],
+      "Responsibilities": [
+        "In this role, you will help modernize and extend a critical data analytics user interface, transforming a prototype into a production-ready capability",
+        "You will work alongside mission partners to enhance how data is explored, visualized, and delivered, ensuring analysts have intuitive, reliable tools that scale beyond the enterprise",
+        "This position sits squarely within Intelliforce's core strengths in software engineering, data analytics, and mission delivery",
+        "You will enhance and mature a Streamlit-based UI prototype into a robust, scalable interface with a forward path to external availability",
+        "You will design and implement new features, refine existing workflows, and ensure performance, usability, and data integrity",
+        "Your work will include developing front-end components, integrating back-end services, handling diverse data formats, and collaborating with engineers and stakeholders to translate requirements into clean, functional solutions",
+        "You will also contribute to testing, documentation, and continuous improvement of the platform",
+        "This role operates across Python and Java development, Streamlit for UI construction, TypeScript, HTML, CSS, and modern JavaScript frameworks such as React, Angular, or Vue",
+        "The environment includes Apache Spark for distributed processing, Jupyter Notebooks for analysis, pandas and NumPy for data preparation, Git for source control, Linux-based systems, and supporting technologies such as SQL databases, Airflow, and HPC scheduling tools"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "us-bebee-com-job-24659c2a46e74f6da35287fa63f6dfaf",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "MNfi2T5-f63RyD9hAAAAAA==",
     "job_title": "Platform Intelligence Engineer(Data Engineer) - Innovative Global Technology Leader",
     "employer_name": "Andiamo",
@@ -685,6 +770,101 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "www-linkedin-com-jobs-view-platform-intelligence-engineer-data-engineer-innovative-global-technology-leader-at-andiamo-4362561414",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "aFi9I2wuRtpwexnLAAAAAA==",
+    "job_title": "Analytics Engineer Hybrid 43",
+    "employer_name": "WeedMaps",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpHMJ_XBl8h2_45sDfzi3fdrC7sEmmeZlNeXkU&s=0",
+    "employer_website": "https://weedmaps.com",
+    "job_publisher": "Jobilize",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.jobilize.com/job/us-tn-all-cities-analytics-engineer-hybrid-43-weedmaps-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-tn-all-cities-analytics-engineer-hybrid-43-weedmaps-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Analytics Engineer (Hybrid)\n\nOverview:\n\nThe Analytics Engineer at Weedmaps will be a key technical contributor within our Data organization, supporting various aspects of the business. In this role, you will build and maintain data pipelines and analytics frameworks to answer business questions and enable root cause problem solving. You will collaborate extensively with business, engineering, product, and data science teams to drive data-informed decision making across our customer acquisition and retention strategies. The ideal candidate combines strong technical skills with e-commerce domain knowledge and can translate business requirements into scalable data solutions that deliver measurable impact on our growth metrics.\n\nAs part of our Data organization, you will develop robust analytics systems that address unique challenges in our marketplace, including user journey exploration, customer and product analytics. The explosive growth of the cannabis industry requires increasingly sophisticated analytics solutions that can scale with our business and comply with complex regulatory requirements.\n\nThe impact you'll make:\n• Design fault-tolerant dbt models to synthesize data from multiple sources into mart tables\n• Design and implement Sigma dashboards and Streamplit apps to provide clear insights into performance\n• Automate regular reporting workflows to reduce manual effort and increase data consistency\n• Create self-service tools that empower business teams to access insights independently\n• Analyze experiment results to identify opportunities for improving ROI\n• Develop and maintain data pipelines using SQL within modern data stack tools (Snowflake, DBT, Metaplane)\n• Create and document data models that transform raw data into reliable, business-ready datasets with accompanying dictionaries and testing\n• Implement data quality checks and testing frameworks to ensure the accuracy and reliability of analytics\nWhat you've accomplished:\n• 4+ years of experience in data engineering, or similar technical role\n• 2+ years of experience in analytics engineering\n• Experience with modern data warehouse platforms, preferably Snowflake\n• Expertise in SQL and data modeling with dbt\n• Proficiency in Python\nBonus points:\n• Experience with business intelligence tools, preferably Sigma\n• E-commerce or marketplace business experience preferred\n• Regulated industry experience - nice to have\nThe base pay range for this position is $172,000- $193,363 per year\n\n2026 US Benefits for Full Time, Regular Employees:\n• Physical Health (Medical, Dental & Vision)\n• 100% employer-paid premium for employees\n• Up to 80% coverage for dependents\n• Company HSA contribution with the High Deductible Health Plan\n• 401(k) Retirement Plan (employer will match contribution up to 3. 5% of employee contribution)\n• Basic Life, Voluntary Life and AD&D Insurance options\n• Supplemental, voluntary benefits\n• Student Loan Repayment/529 Education Savings with a monthly company contribution\n• FSA (Medical, Dependent, Transit and Parking)\n• Voluntary Life and AD&D Insurance\n• Critical Illness Insurance\n• Accident Insurance\n• Short- and Long-term Disability Insurance\n• Pet Insurance\n• Identity theft protection\n• Legal access to a network of attorneys\n• PTO, paid sick leave, and company holidays (including a 2026 holiday shutdown)\n• Paid parental leave\nWhy Work at Weedmaps?\n\nLife at Weedmaps means innovation and heart. Come join us if you care about the plant, the people who love it, and are ready to let your talent shine. We foster a bustling and collaborative culture that revolves around an environment that focuses on the benefits of weed, and the community that supports it.\n\nYou too can have a hand in shaping the industry's future; ready to roll with us?\n\nSee how we've grown-our journey, leadership team, and what's next at Weedmaps. com/corporate\n\nAbout Weedmaps:\n\nFounded in 2008, we've grown from a small startup to a global leader in the cannabis industry. Our dedication to transparency, education, and community has set us apart, and today, we proudly serve cannabis to consumers and businesses in the U. S. and worldwide.\n\n\"Freedom to choose. Freedom to access. Freedom to enjoy. \"\n\nNotice to prospective Weedmaps job applicants:\n\nOur team has been made aware of incidents involving LinkedIn, Telegram, and Facebook accounts impersonating Weedmaps recruiters. These individuals are attempting to use our company name to solicit payment from prospective candidates interested in applying for jobs at our company. Our team is actively working to combat these attempts, but in the meantime, please be mindful of the following:\n• Our recruiters will always communicate with candidates through an @weedmaps. com email address.\n• CORRECT: . @weedmaps. com\n• INCORRECT: . @gmail. com\n• Our recruiters will NEVER ask for or attempt to solicit payment from applicants in order to apply, interview, or work for Weedmaps.\n• If you are interested in a role at Weedmaps, please apply through our established channels.\n• Weedmaps Careers Page or LinkedIn\n\nIf you are unsure if a communication is legitimate, please contact our recruitment team at . @weedmaps. com and they will happily confirm for you. Thank you for your vigilance and we appreciate your interest in working with us!\n\nWeedmaps is an equal opportunity employer and makes employment decisions on the basis of merit. The Company prohibits unlawful discrimination against employees or applicants based on race (including traits historically associated with race, such as hair texture and protective hairstyles), religion and religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, age, military status, veteran status, uniformed service member status, sexual orientation, transgender identity, citizenship status, pregnancy, or any other consideration made unlawful by federal, state, or local laws. The Company also prohibits unlawful discrimination based on the perception that anyone has any of those characteristics, or is associated with a person who has or is perceived as having any of those characteristics. Our company uses E-Verify to confirm the employment eligibility of all newly hired employees. To learn more about E-Verify, including your rights and responsibilities, please visit dhs. gov/E-Verify.\n\nApplicants are entitled to reasonable accommodations under the terms of the Americans with Disabilities Act and applicable state/local laws, unless the accommodation presents undue hardship. Please email us at peopleoperations at weedmaps. com if you would like to confidentially discuss a potential accommodation during the interview process.",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Tennessee",
+    "job_city": null,
+    "job_state": "Tennessee",
+    "job_country": "US",
+    "job_latitude": 35.517491299999996,
+    "job_longitude": -86.5804473,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DaFi9I2wuRtpwexnLAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "The ideal candidate combines strong technical skills with e-commerce domain knowledge and can translate business requirements into scalable data solutions that deliver measurable impact on our growth metrics",
+        "4+ years of experience in data engineering, or similar technical role",
+        "2+ years of experience in analytics engineering",
+        "Experience with modern data warehouse platforms, preferably Snowflake",
+        "Expertise in SQL and data modeling with dbt",
+        "Proficiency in Python",
+        "Experience with business intelligence tools, preferably Sigma",
+        "Regulated industry experience - nice to have",
+        "Legal access to a network of attorneys"
+      ],
+      "Benefits": [
+        "The base pay range for this position is $172,000- $193,363 per year",
+        "2026 US Benefits for Full Time, Regular Employees:",
+        "Physical Health (Medical, Dental & Vision)",
+        "100% employer-paid premium for employees",
+        "Up to 80% coverage for dependents",
+        "Company HSA contribution with the High Deductible Health Plan",
+        "401(k) Retirement Plan (employer will match contribution up to 3",
+        "5% of employee contribution)",
+        "Basic Life, Voluntary Life and AD&D Insurance options",
+        "Supplemental, voluntary benefits",
+        "Student Loan Repayment/529 Education Savings with a monthly company contribution",
+        "FSA (Medical, Dependent, Transit and Parking)",
+        "Voluntary Life and AD&D Insurance",
+        "Critical Illness Insurance",
+        "Accident Insurance",
+        "Short- and Long-term Disability Insurance",
+        "Pet Insurance",
+        "PTO, paid sick leave, and company holidays (including a 2026 holiday shutdown)",
+        "Paid parental leave",
+        "Freedom to access",
+        "Freedom to enjoy"
+      ],
+      "Responsibilities": [
+        "The Analytics Engineer at Weedmaps will be a key technical contributor within our Data organization, supporting various aspects of the business",
+        "In this role, you will build and maintain data pipelines and analytics frameworks to answer business questions and enable root cause problem solving",
+        "You will collaborate extensively with business, engineering, product, and data science teams to drive data-informed decision making across our customer acquisition and retention strategies",
+        "Design fault-tolerant dbt models to synthesize data from multiple sources into mart tables",
+        "Design and implement Sigma dashboards and Streamplit apps to provide clear insights into performance",
+        "Automate regular reporting workflows to reduce manual effort and increase data consistency",
+        "Create self-service tools that empower business teams to access insights independently",
+        "Analyze experiment results to identify opportunities for improving ROI",
+        "Develop and maintain data pipelines using SQL within modern data stack tools (Snowflake, DBT, Metaplane)",
+        "Create and document data models that transform raw data into reliable, business-ready datasets with accompanying dictionaries and testing",
+        "Implement data quality checks and testing frameworks to ensure the accuracy and reliability of analytics"
+      ]
+    },
+    "job_onet_soc": "43911100",
+    "job_onet_job_zone": "4",
+    "id": "www-jobilize-com-job-us-tn-all-cities-analytics-engineer-hybrid-43-weedmaps-hiring-now",
     "_source": "new_jobs"
   },
   {
@@ -838,185 +1018,6 @@
     "job_onet_soc": "43911100",
     "job_onet_job_zone": "4",
     "id": "www-ziprecruiter-com-c-dnsfilter-job-senior-analytics-engineer-revenue-operations-in-tampa-fl",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "GJe7t_NJZN-bb34PAAAAAA==",
-    "job_title": "GTM Engineer (Clay & Cold Email Experience)",
-    "employer_name": "Pump",
-    "employer_logo": null,
-    "employer_website": "https://www.pump.co",
-    "job_publisher": "WhatJobs",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.whatjobs.com/jobs/analytics-engineer?id=2454857449&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/analytics-engineer?id=2454857449&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "California Careers",
-        "apply_link": "https://california.topstatecareers.com/jobs/gtm-engineer-clay-cold-email-experience-san-francisco-california/2608924333-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Overview\n\nJoin to apply for the GTM Engineer (Clay & Cold Email Experience) role at Pump.co .\n\nThis range is provided by Pump.co. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.\nBase pay range\n\n$80,000.00/yr - $120,000.00/yr\n\nThis role is based in our San Francisco office 5 days a week. Through commission and our highly valuable equity, OTE will be around $300K.\n\nWe’re growing fast and looking for a scrappy GTM Engineer to supercharge our outbound motion and fuel sales growth. This is an onsite role that blends technical chops with go-to-market instinct—perfect for someone who thrives at the intersection of code and hustle.\n\nDeep familiarity with Clay is a must. You should know how to build, automate, and scale workflows in Clay without hand-holding. We’re looking for someone who can push the limits of what Clay can do and turn it into a competitive advantage across our outbound strategy.\nResponsibilities Partner with sales and marketing to accelerate outbound efforts. Build scrappy tools, scripts, and automations that improve how we find, convert, and support customers. Create and maintain demo setups, sales enablement docs, and outbound playbooks. Enrich lead data and contribute to outreach strategies using Clay , LinkedIn, and scraping utilities. Troubleshoot blockers during handoff or onboarding and relay insights to the GTM team. Continuously test new outbound approaches and find creative ways to scale what works. Qualifications Must have hands-on experience using Clay for outbound workflows. Bachelor’s in STEM (Computer Science, Engineering, Data Science, or similar). Strong technical foundation—comfortable with APIs, no-code tools, and writing lightweight scripts. Fast learner who enjoys diving into new tools, problems, and workflows. Excellent communicator—able to explain technical ideas in simple terms. Excited to work cross-functionally with sales & marketing. Bonus: Internship at a startup or B2B SaaS company. Bonus: Side projects, hackathons, or real-world builds that show initiative and follow-through. Ability to work 5 days a week in office. Competitive salary and equity. Full benefits package, including premium healthcare coverage. Professional development and learning reimbursements. 3–4x/year company-paid team retreats. A smart, kind, and high-performing team that loves building together. Compensation\n\n$80,000 USD - $120,000 USD\nEmployment details Seniority level: Entry level Employment type: Full-time Job function: Engineering and Information Technology Industries: Technology, Information and Internet\n\nSan Francisco, CA and related compensation ranges were provided within the posting. We’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI.\n#J-18808-Ljbffr",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "San Francisco, CA",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.7749295,
-    "job_longitude": -122.4194155,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DGJe7t_NJZN-bb34PAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Deep familiarity with Clay is a must",
-        "You should know how to build, automate, and scale workflows in Clay without hand-holding",
-        "We’re looking for someone who can push the limits of what Clay can do and turn it into a competitive advantage across our outbound strategy",
-        "Qualifications Must have hands-on experience using Clay for outbound workflows",
-        "Bachelor’s in STEM (Computer Science, Engineering, Data Science, or similar)",
-        "Strong technical foundation—comfortable with APIs, no-code tools, and writing lightweight scripts",
-        "Fast learner who enjoys diving into new tools, problems, and workflows",
-        "Excellent communicator—able to explain technical ideas in simple terms",
-        "Bonus: Side projects, hackathons, or real-world builds that show initiative and follow-through",
-        "Ability to work 5 days a week in office"
-      ],
-      "Benefits": [
-        "Your actual pay will be based on your skills and experience — talk with your recruiter to learn more",
-        "Base pay range",
-        "$80,000.00/yr - $120,000.00/yr",
-        "Through commission and our highly valuable equity, OTE will be around $300K",
-        "Bonus: Internship at a startup or B2B SaaS company",
-        "Competitive salary and equity",
-        "Full benefits package, including premium healthcare coverage",
-        "Professional development and learning reimbursements",
-        "3–4x/year company-paid team retreats",
-        "$80,000 USD - $120,000 USD"
-      ],
-      "Responsibilities": [
-        "Responsibilities Partner with sales and marketing to accelerate outbound efforts",
-        "Build scrappy tools, scripts, and automations that improve how we find, convert, and support customers",
-        "Create and maintain demo setups, sales enablement docs, and outbound playbooks",
-        "Enrich lead data and contribute to outreach strategies using Clay , LinkedIn, and scraping utilities",
-        "Troubleshoot blockers during handoff or onboarding and relay insights to the GTM team",
-        "Continuously test new outbound approaches and find creative ways to scale what works"
-      ]
-    },
-    "job_onet_soc": "41903100",
-    "job_onet_job_zone": "4",
-    "id": "www-whatjobs-com-jobs-analytics-engineer",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "aFi9I2wuRtpwexnLAAAAAA==",
-    "job_title": "Analytics Engineer Hybrid 43",
-    "employer_name": "WeedMaps",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpHMJ_XBl8h2_45sDfzi3fdrC7sEmmeZlNeXkU&s=0",
-    "employer_website": "https://weedmaps.com",
-    "job_publisher": "Jobilize",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.jobilize.com/job/us-tn-all-cities-analytics-engineer-hybrid-43-weedmaps-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-tn-all-cities-analytics-engineer-hybrid-43-weedmaps-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Analytics Engineer (Hybrid)\n\nOverview:\n\nThe Analytics Engineer at Weedmaps will be a key technical contributor within our Data organization, supporting various aspects of the business. In this role, you will build and maintain data pipelines and analytics frameworks to answer business questions and enable root cause problem solving. You will collaborate extensively with business, engineering, product, and data science teams to drive data-informed decision making across our customer acquisition and retention strategies. The ideal candidate combines strong technical skills with e-commerce domain knowledge and can translate business requirements into scalable data solutions that deliver measurable impact on our growth metrics.\n\nAs part of our Data organization, you will develop robust analytics systems that address unique challenges in our marketplace, including user journey exploration, customer and product analytics. The explosive growth of the cannabis industry requires increasingly sophisticated analytics solutions that can scale with our business and comply with complex regulatory requirements.\n\nThe impact you'll make:\n• Design fault-tolerant dbt models to synthesize data from multiple sources into mart tables\n• Design and implement Sigma dashboards and Streamplit apps to provide clear insights into performance\n• Automate regular reporting workflows to reduce manual effort and increase data consistency\n• Create self-service tools that empower business teams to access insights independently\n• Analyze experiment results to identify opportunities for improving ROI\n• Develop and maintain data pipelines using SQL within modern data stack tools (Snowflake, DBT, Metaplane)\n• Create and document data models that transform raw data into reliable, business-ready datasets with accompanying dictionaries and testing\n• Implement data quality checks and testing frameworks to ensure the accuracy and reliability of analytics\nWhat you've accomplished:\n• 4+ years of experience in data engineering, or similar technical role\n• 2+ years of experience in analytics engineering\n• Experience with modern data warehouse platforms, preferably Snowflake\n• Expertise in SQL and data modeling with dbt\n• Proficiency in Python\nBonus points:\n• Experience with business intelligence tools, preferably Sigma\n• E-commerce or marketplace business experience preferred\n• Regulated industry experience - nice to have\nThe base pay range for this position is $172,000- $193,363 per year\n\n2026 US Benefits for Full Time, Regular Employees:\n• Physical Health (Medical, Dental & Vision)\n• 100% employer-paid premium for employees\n• Up to 80% coverage for dependents\n• Company HSA contribution with the High Deductible Health Plan\n• 401(k) Retirement Plan (employer will match contribution up to 3. 5% of employee contribution)\n• Basic Life, Voluntary Life and AD&D Insurance options\n• Supplemental, voluntary benefits\n• Student Loan Repayment/529 Education Savings with a monthly company contribution\n• FSA (Medical, Dependent, Transit and Parking)\n• Voluntary Life and AD&D Insurance\n• Critical Illness Insurance\n• Accident Insurance\n• Short- and Long-term Disability Insurance\n• Pet Insurance\n• Identity theft protection\n• Legal access to a network of attorneys\n• PTO, paid sick leave, and company holidays (including a 2026 holiday shutdown)\n• Paid parental leave\nWhy Work at Weedmaps?\n\nLife at Weedmaps means innovation and heart. Come join us if you care about the plant, the people who love it, and are ready to let your talent shine. We foster a bustling and collaborative culture that revolves around an environment that focuses on the benefits of weed, and the community that supports it.\n\nYou too can have a hand in shaping the industry's future; ready to roll with us?\n\nSee how we've grown-our journey, leadership team, and what's next at Weedmaps. com/corporate\n\nAbout Weedmaps:\n\nFounded in 2008, we've grown from a small startup to a global leader in the cannabis industry. Our dedication to transparency, education, and community has set us apart, and today, we proudly serve cannabis to consumers and businesses in the U. S. and worldwide.\n\n\"Freedom to choose. Freedom to access. Freedom to enjoy. \"\n\nNotice to prospective Weedmaps job applicants:\n\nOur team has been made aware of incidents involving LinkedIn, Telegram, and Facebook accounts impersonating Weedmaps recruiters. These individuals are attempting to use our company name to solicit payment from prospective candidates interested in applying for jobs at our company. Our team is actively working to combat these attempts, but in the meantime, please be mindful of the following:\n• Our recruiters will always communicate with candidates through an @weedmaps. com email address.\n• CORRECT: . @weedmaps. com\n• INCORRECT: . @gmail. com\n• Our recruiters will NEVER ask for or attempt to solicit payment from applicants in order to apply, interview, or work for Weedmaps.\n• If you are interested in a role at Weedmaps, please apply through our established channels.\n• Weedmaps Careers Page or LinkedIn\n\nIf you are unsure if a communication is legitimate, please contact our recruitment team at . @weedmaps. com and they will happily confirm for you. Thank you for your vigilance and we appreciate your interest in working with us!\n\nWeedmaps is an equal opportunity employer and makes employment decisions on the basis of merit. The Company prohibits unlawful discrimination against employees or applicants based on race (including traits historically associated with race, such as hair texture and protective hairstyles), religion and religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, age, military status, veteran status, uniformed service member status, sexual orientation, transgender identity, citizenship status, pregnancy, or any other consideration made unlawful by federal, state, or local laws. The Company also prohibits unlawful discrimination based on the perception that anyone has any of those characteristics, or is associated with a person who has or is perceived as having any of those characteristics. Our company uses E-Verify to confirm the employment eligibility of all newly hired employees. To learn more about E-Verify, including your rights and responsibilities, please visit dhs. gov/E-Verify.\n\nApplicants are entitled to reasonable accommodations under the terms of the Americans with Disabilities Act and applicable state/local laws, unless the accommodation presents undue hardship. Please email us at peopleoperations at weedmaps. com if you would like to confidentially discuss a potential accommodation during the interview process.",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Tennessee",
-    "job_city": null,
-    "job_state": "Tennessee",
-    "job_country": "US",
-    "job_latitude": 35.517491299999996,
-    "job_longitude": -86.5804473,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DaFi9I2wuRtpwexnLAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "The ideal candidate combines strong technical skills with e-commerce domain knowledge and can translate business requirements into scalable data solutions that deliver measurable impact on our growth metrics",
-        "4+ years of experience in data engineering, or similar technical role",
-        "2+ years of experience in analytics engineering",
-        "Experience with modern data warehouse platforms, preferably Snowflake",
-        "Expertise in SQL and data modeling with dbt",
-        "Proficiency in Python",
-        "Experience with business intelligence tools, preferably Sigma",
-        "Regulated industry experience - nice to have",
-        "Legal access to a network of attorneys"
-      ],
-      "Benefits": [
-        "The base pay range for this position is $172,000- $193,363 per year",
-        "2026 US Benefits for Full Time, Regular Employees:",
-        "Physical Health (Medical, Dental & Vision)",
-        "100% employer-paid premium for employees",
-        "Up to 80% coverage for dependents",
-        "Company HSA contribution with the High Deductible Health Plan",
-        "401(k) Retirement Plan (employer will match contribution up to 3",
-        "5% of employee contribution)",
-        "Basic Life, Voluntary Life and AD&D Insurance options",
-        "Supplemental, voluntary benefits",
-        "Student Loan Repayment/529 Education Savings with a monthly company contribution",
-        "FSA (Medical, Dependent, Transit and Parking)",
-        "Voluntary Life and AD&D Insurance",
-        "Critical Illness Insurance",
-        "Accident Insurance",
-        "Short- and Long-term Disability Insurance",
-        "Pet Insurance",
-        "PTO, paid sick leave, and company holidays (including a 2026 holiday shutdown)",
-        "Paid parental leave",
-        "Freedom to access",
-        "Freedom to enjoy"
-      ],
-      "Responsibilities": [
-        "The Analytics Engineer at Weedmaps will be a key technical contributor within our Data organization, supporting various aspects of the business",
-        "In this role, you will build and maintain data pipelines and analytics frameworks to answer business questions and enable root cause problem solving",
-        "You will collaborate extensively with business, engineering, product, and data science teams to drive data-informed decision making across our customer acquisition and retention strategies",
-        "Design fault-tolerant dbt models to synthesize data from multiple sources into mart tables",
-        "Design and implement Sigma dashboards and Streamplit apps to provide clear insights into performance",
-        "Automate regular reporting workflows to reduce manual effort and increase data consistency",
-        "Create self-service tools that empower business teams to access insights independently",
-        "Analyze experiment results to identify opportunities for improving ROI",
-        "Develop and maintain data pipelines using SQL within modern data stack tools (Snowflake, DBT, Metaplane)",
-        "Create and document data models that transform raw data into reliable, business-ready datasets with accompanying dictionaries and testing",
-        "Implement data quality checks and testing frameworks to ensure the accuracy and reliability of analytics"
-      ]
-    },
-    "job_onet_soc": "43911100",
-    "job_onet_job_zone": "4",
-    "id": "www-jobilize-com-job-us-tn-all-cities-analytics-engineer-hybrid-43-weedmaps-hiring-now",
     "_source": "new_jobs"
   },
   {
@@ -1228,6 +1229,90 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "GJe7t_NJZN-bb34PAAAAAA==",
+    "job_title": "GTM Engineer (Clay & Cold Email Experience)",
+    "employer_name": "Pump",
+    "employer_logo": null,
+    "employer_website": "https://www.pump.co",
+    "job_publisher": "WhatJobs",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.whatjobs.com/jobs/analytics-engineer?id=2454857449&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/analytics-engineer?id=2454857449&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "California Careers",
+        "apply_link": "https://california.topstatecareers.com/jobs/gtm-engineer-clay-cold-email-experience-san-francisco-california/2608924333-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Overview\n\nJoin to apply for the GTM Engineer (Clay & Cold Email Experience) role at Pump.co .\n\nThis range is provided by Pump.co. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.\nBase pay range\n\n$80,000.00/yr - $120,000.00/yr\n\nThis role is based in our San Francisco office 5 days a week. Through commission and our highly valuable equity, OTE will be around $300K.\n\nWe’re growing fast and looking for a scrappy GTM Engineer to supercharge our outbound motion and fuel sales growth. This is an onsite role that blends technical chops with go-to-market instinct—perfect for someone who thrives at the intersection of code and hustle.\n\nDeep familiarity with Clay is a must. You should know how to build, automate, and scale workflows in Clay without hand-holding. We’re looking for someone who can push the limits of what Clay can do and turn it into a competitive advantage across our outbound strategy.\nResponsibilities Partner with sales and marketing to accelerate outbound efforts. Build scrappy tools, scripts, and automations that improve how we find, convert, and support customers. Create and maintain demo setups, sales enablement docs, and outbound playbooks. Enrich lead data and contribute to outreach strategies using Clay , LinkedIn, and scraping utilities. Troubleshoot blockers during handoff or onboarding and relay insights to the GTM team. Continuously test new outbound approaches and find creative ways to scale what works. Qualifications Must have hands-on experience using Clay for outbound workflows. Bachelor’s in STEM (Computer Science, Engineering, Data Science, or similar). Strong technical foundation—comfortable with APIs, no-code tools, and writing lightweight scripts. Fast learner who enjoys diving into new tools, problems, and workflows. Excellent communicator—able to explain technical ideas in simple terms. Excited to work cross-functionally with sales & marketing. Bonus: Internship at a startup or B2B SaaS company. Bonus: Side projects, hackathons, or real-world builds that show initiative and follow-through. Ability to work 5 days a week in office. Competitive salary and equity. Full benefits package, including premium healthcare coverage. Professional development and learning reimbursements. 3–4x/year company-paid team retreats. A smart, kind, and high-performing team that loves building together. Compensation\n\n$80,000 USD - $120,000 USD\nEmployment details Seniority level: Entry level Employment type: Full-time Job function: Engineering and Information Technology Industries: Technology, Information and Internet\n\nSan Francisco, CA and related compensation ranges were provided within the posting. We’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI.\n#J-18808-Ljbffr",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "San Francisco, CA",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.7749295,
+    "job_longitude": -122.4194155,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DGJe7t_NJZN-bb34PAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Deep familiarity with Clay is a must",
+        "You should know how to build, automate, and scale workflows in Clay without hand-holding",
+        "We’re looking for someone who can push the limits of what Clay can do and turn it into a competitive advantage across our outbound strategy",
+        "Qualifications Must have hands-on experience using Clay for outbound workflows",
+        "Bachelor’s in STEM (Computer Science, Engineering, Data Science, or similar)",
+        "Strong technical foundation—comfortable with APIs, no-code tools, and writing lightweight scripts",
+        "Fast learner who enjoys diving into new tools, problems, and workflows",
+        "Excellent communicator—able to explain technical ideas in simple terms",
+        "Bonus: Side projects, hackathons, or real-world builds that show initiative and follow-through",
+        "Ability to work 5 days a week in office"
+      ],
+      "Benefits": [
+        "Your actual pay will be based on your skills and experience — talk with your recruiter to learn more",
+        "Base pay range",
+        "$80,000.00/yr - $120,000.00/yr",
+        "Through commission and our highly valuable equity, OTE will be around $300K",
+        "Bonus: Internship at a startup or B2B SaaS company",
+        "Competitive salary and equity",
+        "Full benefits package, including premium healthcare coverage",
+        "Professional development and learning reimbursements",
+        "3–4x/year company-paid team retreats",
+        "$80,000 USD - $120,000 USD"
+      ],
+      "Responsibilities": [
+        "Responsibilities Partner with sales and marketing to accelerate outbound efforts",
+        "Build scrappy tools, scripts, and automations that improve how we find, convert, and support customers",
+        "Create and maintain demo setups, sales enablement docs, and outbound playbooks",
+        "Enrich lead data and contribute to outreach strategies using Clay , LinkedIn, and scraping utilities",
+        "Troubleshoot blockers during handoff or onboarding and relay insights to the GTM team",
+        "Continuously test new outbound approaches and find creative ways to scale what works"
+      ]
+    },
+    "job_onet_soc": "41903100",
+    "job_onet_job_zone": "4",
+    "id": "www-whatjobs-com-jobs-analytics-engineer",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "4GHeUqb67eilko0QAAAAAA==",
     "job_title": "Simulation Engineer- Supply Chain",
     "employer_name": "Cencora",
@@ -1263,11 +1348,11 @@
     "job_posted_at_timestamp": 1770249600,
     "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
     "job_location": "W CNSHOHOCKEN, PA",
-    "job_city": "Conshohocken",
+    "job_city": "West Conshohocken",
     "job_state": "Pennsylvania",
     "job_country": "US",
-    "job_latitude": 40.0792766,
-    "job_longitude": -75.3015714,
+    "job_latitude": 40.0698321,
+    "job_longitude": -75.31629509999999,
     "job_benefits": [
       "health_insurance",
       "dental_coverage"
@@ -1331,6 +1416,134 @@
     "job_onet_soc": "13108100",
     "job_onet_job_zone": "4",
     "id": "careers-cencora-com-us-en-job-r2523242-simulation-engineer-supply-chain",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "QMFI59Aeon5OiMxQAAAAAA==",
+    "job_title": "Data Solutions Engineer",
+    "employer_name": "Early Career",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "Citi Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.citi.com/job/irving/data-solutions-engineer/287/91594717280?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Citi Careers",
+        "apply_link": "https://jobs.citi.com/job/irving/data-solutions-engineer/287/91594717280?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=12272bb5413dda94&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/data-solutions-engineer-citi-JV_IC1140006_KO0,23_KE24,28.htm?jl=1010030029481&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/data-solutions-engineer-at-citi-4370775693?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Experteer",
+        "apply_link": "https://us.experteer.com/career/view-jobs/data-solutions-engineer-irving-tx-usa-56103968?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/18342d1b3a5230bb8ebc6b74cb10e255?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "PowerToFly",
+        "apply_link": "https://powertofly.com/jobs/detail/2498189?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/data-solutions-engineer_7ea1adfb6462bb256686e6a2ee741ff3fd39e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "This Data Solutions Engineer (Applications Development Senior Programmer Analyst - C12) is responsible for building next-generation Data Engineering solutions. This intermediate-level position involves active participation in the establishment and implementation of new or revised application systems and programs in coordination with the Technology team. A key aspect of this role is liaising between business users and technologists to facilitate the exchange of information regarding solutions, including requirements and usage.\n\nResponsibilities:\n• Serve as an integral team member of our Data Engineering team, responsible for the design and development of Big Data solutions.\n• Partner with domain experts, product managers, analysts, and data scientists to develop robust Big Data pipelines in Hadoop or Snowflake environments.\n• Responsible for delivering a data-as-a-service framework.\n• Responsible for moving all legacy workloads to cloud platform.\n• Lead the migration of all legacy workloads to cloud platforms.\n• Engage with key stakeholders to elicit and document requirements, including detailed data flow specifications.\n• Assess appropriate solutions and collaborate with relevant teams to drive optimal implementations.\n• Work with data scientists to build client pipelines using heterogeneous sources and provide essential engineering services for data science applications.\n• Research and evaluate open-source technologies and components, recommending and integrating them into design and implementation efforts.\n• Act as a technical expert, mentoring other team members on Big Data and Cloud technology stacks.\n• Define comprehensive requirements for maintainability, testability, performance, security, quality, and usability across the data platform.\n• Drive the implementation of consistent patterns, reusable components, and coding standards for all data engineering processes.\n• Convert SAS-based pipelines into modern languages like PySpark and Scala for execution on Hadoop and non-Hadoop ecosystems.\n• Optimize Big Data applications on both Hadoop and non-Hadoop platforms for peak performance.\n• Evaluate new IT developments and evolving business requirements, recommending appropriate system alternatives and/or enhancements to current systems through analysis of business processes, systems, and industry standards.\n• Appropriately assess risk when making business decisions, demonstrating consideration for the firm's reputation and safeguarding Citigroup, its clients, and assets. This includes driving compliance with applicable laws, rules, and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct, and business practices, and escalating, managing, and reporting control issues with transparency.\n\nRequired Qualifications:\n• 5+ years of experience with Hadoop and Big Data technologies\n• Demonstrated proficiency in Python, PySpark, and Scala, including practical experience with fundamental machine learning libraries\n• Experience in developing robust data solutions leveraging Google Cloud or AWS platforms; relevant certifications are preferred\n• Experience with SAS\n• Experience with containerization and related technologies (e.g., Docker, Kubernetes)\n• Comprehensive understanding of software engineering and data analytics\n• In-depth knowledge and hands-on experience with the Hadoop ecosystem and Big Data technologies (e.g., HDFS, MapReduce, Hive, Pig, Impala, Kafka, Kudu, Solr)\n• Knowledge of Agile (Scrum) development methodologies.\n• Strong development and automation skills.\n• System-level understanding of data structures, algorithms, distributed storage, and compute.\n• A proactive approach to solving complex business problems, complemented by strong interpersonal and teamwork skills.\n\nDesired Qualifications\n• Familiarity with Hadoop administration and Snowflake.\n• Proficiency in Java or additional experience with Apache Beam.\n\nEducation:\n• Bachelor’s degree/University degree or equivalent experience\n\nApplicants must be authorized to work in the U.S for this position; Citi will not sponsor applicants for U.S. work authorization for this role. Candidate must be located within commuting distance or be willing to relocate to the area.\n\nThis job description provides a high-level review of the types of work performed. Other job-related duties may be assigned as required.\n\n------------------------------------------------------\n\nJob Family Group:\nTechnology\n\n------------------------------------------------------\n\nJob Family:\nApplications Development\n\n------------------------------------------------------\n\nTime Type:\nFull time\n\n------------------------------------------------------\n\nPrimary Location:\nIrving Texas United States\n\n------------------------------------------------------\n\nPrimary Location Full Time Salary Range:\n$107,120.00 - $160,680.00\n\nIn addition to salary, Citi’s offerings may also include, for eligible employees, discretionary and formulaic incentive and retention awards. Citi offers competitive employee benefits, including: medical, dental & vision coverage; 401(k); life, accident, and disability insurance; and wellness programs. Citi also offers paid time off packages, including planned time off (vacation), unplanned time off (sick leave), and paid holidays. For additional information regarding Citi employee benefits, please visit citibenefits.com. Available offerings may vary by jurisdiction, job level, and date of hire.\n\n------------------------------------------------------\n\nMost Relevant Skills\nPlease see the requirements listed above.\n\n------------------------------------------------------\n\nOther Relevant Skills\nFor complementary skills, please see above and/or contact the recruiter.\n\n------------------------------------------------------\n\nAnticipated Posting Close Date:\nFeb 24, 2026\n\n------------------------------------------------------\n\nCiti is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.\n\nIf you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.\n\nView Citi’s EEO Policy Statement and the Know Your Rights poster.",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Jacksonville, FL",
+    "job_city": "Jacksonville",
+    "job_state": "Florida",
+    "job_country": "US",
+    "job_latitude": 30.3297566,
+    "job_longitude": -81.6591529,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DQMFI59Aeon5OiMxQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "5+ years of experience with Hadoop and Big Data technologies",
+        "Demonstrated proficiency in Python, PySpark, and Scala, including practical experience with fundamental machine learning libraries",
+        "Experience with SAS",
+        "Experience with containerization and related technologies (e.g., Docker, Kubernetes)",
+        "Comprehensive understanding of software engineering and data analytics",
+        "In-depth knowledge and hands-on experience with the Hadoop ecosystem and Big Data technologies (e.g., HDFS, MapReduce, Hive, Pig, Impala, Kafka, Kudu, Solr)",
+        "Knowledge of Agile (Scrum) development methodologies",
+        "Strong development and automation skills",
+        "System-level understanding of data structures, algorithms, distributed storage, and compute",
+        "A proactive approach to solving complex business problems, complemented by strong interpersonal and teamwork skills",
+        "Bachelor’s degree/University degree or equivalent experience",
+        "Applicants must be authorized to work in the U.S for this position; Citi will not sponsor applicants for U.S. work authorization for this role",
+        "Candidate must be located within commuting distance or be willing to relocate to the area",
+        "Please see the requirements listed above",
+        "For complementary skills, please see above and/or contact the recruiter"
+      ],
+      "Benefits": [
+        "$107,120.00 - $160,680.00",
+        "In addition to salary, Citi’s offerings may also include, for eligible employees, discretionary and formulaic incentive and retention awards",
+        "Citi offers competitive employee benefits, including: medical, dental & vision coverage; 401(k); life, accident, and disability insurance; and wellness programs",
+        "Citi also offers paid time off packages, including planned time off (vacation), unplanned time off (sick leave), and paid holidays"
+      ],
+      "Responsibilities": [
+        "This intermediate-level position involves active participation in the establishment and implementation of new or revised application systems and programs in coordination with the Technology team",
+        "A key aspect of this role is liaising between business users and technologists to facilitate the exchange of information regarding solutions, including requirements and usage",
+        "Serve as an integral team member of our Data Engineering team, responsible for the design and development of Big Data solutions",
+        "Partner with domain experts, product managers, analysts, and data scientists to develop robust Big Data pipelines in Hadoop or Snowflake environments",
+        "Responsible for delivering a data-as-a-service framework",
+        "Responsible for moving all legacy workloads to cloud platform",
+        "Lead the migration of all legacy workloads to cloud platforms",
+        "Engage with key stakeholders to elicit and document requirements, including detailed data flow specifications",
+        "Assess appropriate solutions and collaborate with relevant teams to drive optimal implementations",
+        "Work with data scientists to build client pipelines using heterogeneous sources and provide essential engineering services for data science applications",
+        "Research and evaluate open-source technologies and components, recommending and integrating them into design and implementation efforts",
+        "Act as a technical expert, mentoring other team members on Big Data and Cloud technology stacks",
+        "Define comprehensive requirements for maintainability, testability, performance, security, quality, and usability across the data platform",
+        "Drive the implementation of consistent patterns, reusable components, and coding standards for all data engineering processes",
+        "Convert SAS-based pipelines into modern languages like PySpark and Scala for execution on Hadoop and non-Hadoop ecosystems",
+        "Optimize Big Data applications on both Hadoop and non-Hadoop platforms for peak performance",
+        "Evaluate new IT developments and evolving business requirements, recommending appropriate system alternatives and/or enhancements to current systems through analysis of business processes, systems, and industry standards",
+        "Appropriately assess risk when making business decisions, demonstrating consideration for the firm's reputation and safeguarding Citigroup, its clients, and assets",
+        "This includes driving compliance with applicable laws, rules, and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct, and business practices, and escalating, managing, and reporting control issues with transparency",
+        "This job description provides a high-level review of the types of work performed"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "jobs-citi-com-job-irving-data-solutions-engineer-287-91594717280",
     "_source": "new_jobs"
   },
   {
@@ -1428,134 +1641,6 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "careers-circle-com-us-en-job-ciicirusjr100826externalenus-staff-software-engineer-data-platform",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "QMFI59Aeon5OiMxQAAAAAA==",
-    "job_title": "Data Solutions Engineer",
-    "employer_name": "Early Career",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "Citi Careers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobs.citi.com/job/irving/data-solutions-engineer/287/91594717280?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Citi Careers",
-        "apply_link": "https://jobs.citi.com/job/irving/data-solutions-engineer/287/91594717280?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=12272bb5413dda94&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/data-solutions-engineer-citi-JV_IC1140006_KO0,23_KE24,28.htm?jl=1010030029481&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/data-solutions-engineer-at-citi-4370775693?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Experteer",
-        "apply_link": "https://us.experteer.com/career/view-jobs/data-solutions-engineer-irving-tx-usa-56103968?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/18342d1b3a5230bb8ebc6b74cb10e255?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "PowerToFly",
-        "apply_link": "https://powertofly.com/jobs/detail/2498189?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/data-solutions-engineer_7ea1adfb6462bb256686e6a2ee741ff3fd39e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "This Data Solutions Engineer (Applications Development Senior Programmer Analyst - C12) is responsible for building next-generation Data Engineering solutions. This intermediate-level position involves active participation in the establishment and implementation of new or revised application systems and programs in coordination with the Technology team. A key aspect of this role is liaising between business users and technologists to facilitate the exchange of information regarding solutions, including requirements and usage.\n\nResponsibilities:\n• Serve as an integral team member of our Data Engineering team, responsible for the design and development of Big Data solutions.\n• Partner with domain experts, product managers, analysts, and data scientists to develop robust Big Data pipelines in Hadoop or Snowflake environments.\n• Responsible for delivering a data-as-a-service framework.\n• Responsible for moving all legacy workloads to cloud platform.\n• Lead the migration of all legacy workloads to cloud platforms.\n• Engage with key stakeholders to elicit and document requirements, including detailed data flow specifications.\n• Assess appropriate solutions and collaborate with relevant teams to drive optimal implementations.\n• Work with data scientists to build client pipelines using heterogeneous sources and provide essential engineering services for data science applications.\n• Research and evaluate open-source technologies and components, recommending and integrating them into design and implementation efforts.\n• Act as a technical expert, mentoring other team members on Big Data and Cloud technology stacks.\n• Define comprehensive requirements for maintainability, testability, performance, security, quality, and usability across the data platform.\n• Drive the implementation of consistent patterns, reusable components, and coding standards for all data engineering processes.\n• Convert SAS-based pipelines into modern languages like PySpark and Scala for execution on Hadoop and non-Hadoop ecosystems.\n• Optimize Big Data applications on both Hadoop and non-Hadoop platforms for peak performance.\n• Evaluate new IT developments and evolving business requirements, recommending appropriate system alternatives and/or enhancements to current systems through analysis of business processes, systems, and industry standards.\n• Appropriately assess risk when making business decisions, demonstrating consideration for the firm's reputation and safeguarding Citigroup, its clients, and assets. This includes driving compliance with applicable laws, rules, and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct, and business practices, and escalating, managing, and reporting control issues with transparency.\n\nRequired Qualifications:\n• 5+ years of experience with Hadoop and Big Data technologies\n• Demonstrated proficiency in Python, PySpark, and Scala, including practical experience with fundamental machine learning libraries\n• Experience in developing robust data solutions leveraging Google Cloud or AWS platforms; relevant certifications are preferred\n• Experience with SAS\n• Experience with containerization and related technologies (e.g., Docker, Kubernetes)\n• Comprehensive understanding of software engineering and data analytics\n• In-depth knowledge and hands-on experience with the Hadoop ecosystem and Big Data technologies (e.g., HDFS, MapReduce, Hive, Pig, Impala, Kafka, Kudu, Solr)\n• Knowledge of Agile (Scrum) development methodologies.\n• Strong development and automation skills.\n• System-level understanding of data structures, algorithms, distributed storage, and compute.\n• A proactive approach to solving complex business problems, complemented by strong interpersonal and teamwork skills.\n\nDesired Qualifications\n• Familiarity with Hadoop administration and Snowflake.\n• Proficiency in Java or additional experience with Apache Beam.\n\nEducation:\n• Bachelor’s degree/University degree or equivalent experience\n\nApplicants must be authorized to work in the U.S for this position; Citi will not sponsor applicants for U.S. work authorization for this role. Candidate must be located within commuting distance or be willing to relocate to the area.\n\nThis job description provides a high-level review of the types of work performed. Other job-related duties may be assigned as required.\n\n------------------------------------------------------\n\nJob Family Group:\nTechnology\n\n------------------------------------------------------\n\nJob Family:\nApplications Development\n\n------------------------------------------------------\n\nTime Type:\nFull time\n\n------------------------------------------------------\n\nPrimary Location:\nIrving Texas United States\n\n------------------------------------------------------\n\nPrimary Location Full Time Salary Range:\n$107,120.00 - $160,680.00\n\nIn addition to salary, Citi’s offerings may also include, for eligible employees, discretionary and formulaic incentive and retention awards. Citi offers competitive employee benefits, including: medical, dental & vision coverage; 401(k); life, accident, and disability insurance; and wellness programs. Citi also offers paid time off packages, including planned time off (vacation), unplanned time off (sick leave), and paid holidays. For additional information regarding Citi employee benefits, please visit citibenefits.com. Available offerings may vary by jurisdiction, job level, and date of hire.\n\n------------------------------------------------------\n\nMost Relevant Skills\nPlease see the requirements listed above.\n\n------------------------------------------------------\n\nOther Relevant Skills\nFor complementary skills, please see above and/or contact the recruiter.\n\n------------------------------------------------------\n\nAnticipated Posting Close Date:\nFeb 24, 2026\n\n------------------------------------------------------\n\nCiti is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.\n\nIf you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.\n\nView Citi’s EEO Policy Statement and the Know Your Rights poster.",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Jacksonville, FL",
-    "job_city": "Jacksonville",
-    "job_state": "Florida",
-    "job_country": "US",
-    "job_latitude": 30.3297566,
-    "job_longitude": -81.6591529,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DQMFI59Aeon5OiMxQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "5+ years of experience with Hadoop and Big Data technologies",
-        "Demonstrated proficiency in Python, PySpark, and Scala, including practical experience with fundamental machine learning libraries",
-        "Experience with SAS",
-        "Experience with containerization and related technologies (e.g., Docker, Kubernetes)",
-        "Comprehensive understanding of software engineering and data analytics",
-        "In-depth knowledge and hands-on experience with the Hadoop ecosystem and Big Data technologies (e.g., HDFS, MapReduce, Hive, Pig, Impala, Kafka, Kudu, Solr)",
-        "Knowledge of Agile (Scrum) development methodologies",
-        "Strong development and automation skills",
-        "System-level understanding of data structures, algorithms, distributed storage, and compute",
-        "A proactive approach to solving complex business problems, complemented by strong interpersonal and teamwork skills",
-        "Bachelor’s degree/University degree or equivalent experience",
-        "Applicants must be authorized to work in the U.S for this position; Citi will not sponsor applicants for U.S. work authorization for this role",
-        "Candidate must be located within commuting distance or be willing to relocate to the area",
-        "Please see the requirements listed above",
-        "For complementary skills, please see above and/or contact the recruiter"
-      ],
-      "Benefits": [
-        "$107,120.00 - $160,680.00",
-        "In addition to salary, Citi’s offerings may also include, for eligible employees, discretionary and formulaic incentive and retention awards",
-        "Citi offers competitive employee benefits, including: medical, dental & vision coverage; 401(k); life, accident, and disability insurance; and wellness programs",
-        "Citi also offers paid time off packages, including planned time off (vacation), unplanned time off (sick leave), and paid holidays"
-      ],
-      "Responsibilities": [
-        "This intermediate-level position involves active participation in the establishment and implementation of new or revised application systems and programs in coordination with the Technology team",
-        "A key aspect of this role is liaising between business users and technologists to facilitate the exchange of information regarding solutions, including requirements and usage",
-        "Serve as an integral team member of our Data Engineering team, responsible for the design and development of Big Data solutions",
-        "Partner with domain experts, product managers, analysts, and data scientists to develop robust Big Data pipelines in Hadoop or Snowflake environments",
-        "Responsible for delivering a data-as-a-service framework",
-        "Responsible for moving all legacy workloads to cloud platform",
-        "Lead the migration of all legacy workloads to cloud platforms",
-        "Engage with key stakeholders to elicit and document requirements, including detailed data flow specifications",
-        "Assess appropriate solutions and collaborate with relevant teams to drive optimal implementations",
-        "Work with data scientists to build client pipelines using heterogeneous sources and provide essential engineering services for data science applications",
-        "Research and evaluate open-source technologies and components, recommending and integrating them into design and implementation efforts",
-        "Act as a technical expert, mentoring other team members on Big Data and Cloud technology stacks",
-        "Define comprehensive requirements for maintainability, testability, performance, security, quality, and usability across the data platform",
-        "Drive the implementation of consistent patterns, reusable components, and coding standards for all data engineering processes",
-        "Convert SAS-based pipelines into modern languages like PySpark and Scala for execution on Hadoop and non-Hadoop ecosystems",
-        "Optimize Big Data applications on both Hadoop and non-Hadoop platforms for peak performance",
-        "Evaluate new IT developments and evolving business requirements, recommending appropriate system alternatives and/or enhancements to current systems through analysis of business processes, systems, and industry standards",
-        "Appropriately assess risk when making business decisions, demonstrating consideration for the firm's reputation and safeguarding Citigroup, its clients, and assets",
-        "This includes driving compliance with applicable laws, rules, and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct, and business practices, and escalating, managing, and reporting control issues with transparency",
-        "This job description provides a high-level review of the types of work performed"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "jobs-citi-com-job-irving-data-solutions-engineer-287-91594717280",
     "_source": "new_jobs"
   },
   {
@@ -1790,61 +1875,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "8JZA4-i-u69bI9q_AAAAAA==",
-    "job_title": "Senior Analytics Developer",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=e89889122b9c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=e89889122b9c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A company is looking for a Senior Analytics Developer, Brokerage & Ledger Product Data Science.\n\nKey Responsibilities\n\nDesign, build, and maintain high-quality analytical data models for brokerage and ledger workflows\n\nOwn critical datasets that support client-facing metrics, operational decision-making, and regulatory reporting\n\nCollaborate with cross-functional teams to translate stakeholder needs into durable data solutions\n\nRequired Qualifications\n\nExperience working with large, complex analytical datasets in a production environment\n\nStrong SQL skills and experience building analytical models or data marts\n\nProduct-oriented mindset focused on data usability and long-term ownership\n\nFamiliarity with modern analytics tooling such as dbt, Airflow, Python, and cloud data warehouses\n\nExperience in financial services, trading, or accounting is a plus",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Davie, FL",
-    "job_city": "Davie",
-    "job_state": "Florida",
-    "job_country": "US",
-    "job_latitude": 26.076478299999998,
-    "job_longitude": -80.25211569999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D8JZA4-i-u69bI9q_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Experience working with large, complex analytical datasets in a production environment",
-        "Strong SQL skills and experience building analytical models or data marts",
-        "Product-oriented mindset focused on data usability and long-term ownership",
-        "Familiarity with modern analytics tooling such as dbt, Airflow, Python, and cloud data warehouses"
-      ],
-      "Responsibilities": [
-        "Design, build, and maintain high-quality analytical data models for brokerage and ledger workflows",
-        "Own critical datasets that support client-facing metrics, operational decision-making, and regulatory reporting",
-        "Collaborate with cross-functional teams to translate stakeholder needs into durable data solutions"
-      ]
-    },
-    "job_onet_soc": "43911100",
-    "job_onet_job_zone": "4",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "oaZhJr3jQehnUEK1AAAAAA==",
     "job_title": "Lead Analytics Engineer",
     "employer_name": "Parachute Health",
@@ -1942,6 +1972,61 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "8JZA4-i-u69bI9q_AAAAAA==",
+    "job_title": "Senior Analytics Developer",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=e89889122b9c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=e89889122b9c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A company is looking for a Senior Analytics Developer, Brokerage & Ledger Product Data Science.\n\nKey Responsibilities\n\nDesign, build, and maintain high-quality analytical data models for brokerage and ledger workflows\n\nOwn critical datasets that support client-facing metrics, operational decision-making, and regulatory reporting\n\nCollaborate with cross-functional teams to translate stakeholder needs into durable data solutions\n\nRequired Qualifications\n\nExperience working with large, complex analytical datasets in a production environment\n\nStrong SQL skills and experience building analytical models or data marts\n\nProduct-oriented mindset focused on data usability and long-term ownership\n\nFamiliarity with modern analytics tooling such as dbt, Airflow, Python, and cloud data warehouses\n\nExperience in financial services, trading, or accounting is a plus",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Davie, FL",
+    "job_city": "Davie",
+    "job_state": "Florida",
+    "job_country": "US",
+    "job_latitude": 26.076478299999998,
+    "job_longitude": -80.25211569999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D8JZA4-i-u69bI9q_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Experience working with large, complex analytical datasets in a production environment",
+        "Strong SQL skills and experience building analytical models or data marts",
+        "Product-oriented mindset focused on data usability and long-term ownership",
+        "Familiarity with modern analytics tooling such as dbt, Airflow, Python, and cloud data warehouses"
+      ],
+      "Responsibilities": [
+        "Design, build, and maintain high-quality analytical data models for brokerage and ledger workflows",
+        "Own critical datasets that support client-facing metrics, operational decision-making, and regulatory reporting",
+        "Collaborate with cross-functional teams to translate stakeholder needs into durable data solutions"
+      ]
+    },
+    "job_onet_soc": "43911100",
+    "job_onet_job_zone": "4",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "dr4deofs-aDqrKQDAAAAAA==",
     "job_title": "Thermal Analysis Engineer",
     "employer_name": "VirtualVocations",
@@ -1993,61 +2078,6 @@
       ]
     },
     "job_onet_soc": "17214100",
-    "job_onet_job_zone": "4",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "0ihmnDaGYARMqeWnAAAAAA==",
-    "job_title": "Data Integration Engineer",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=dcaee1d2df8d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=dcaee1d2df8d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A company is looking for a Structured Data Integration & Testing Engineer to enhance its member-facing AI assistant through reliable data integration and testing.\n\nKey Responsibilities\n\nLead the development and implementation of AI solutions for healthcare payer use cases\n\nArchitect and deploy scalable AI models using Python and cloud platforms\n\nCollaborate with product teams to identify and prioritize AI opportunities that address business challenges\n\nRequired Qualifications\n\nBachelor's degree in STEM or equivalent work experience required; Master's or PhD preferred\n\n5+ years of experience in analytics, technology, or software engineering, with 3+ years in machine learning\n\nProven experience with large datasets and data science pipelines\n\nDeep knowledge of machine learning frameworks and natural language processing\n\nExperience deploying ML models in cloud environments, preferably GCP Vertex AI",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "New Orleans, LA",
-    "job_city": "New Orleans",
-    "job_state": "Louisiana",
-    "job_country": "US",
-    "job_latitude": 29.9508941,
-    "job_longitude": -90.07583559999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D0ihmnDaGYARMqeWnAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "5+ years of experience in analytics, technology, or software engineering, with 3+ years in machine learning",
-        "Proven experience with large datasets and data science pipelines",
-        "Deep knowledge of machine learning frameworks and natural language processing",
-        "Experience deploying ML models in cloud environments, preferably GCP Vertex AI"
-      ],
-      "Responsibilities": [
-        "Lead the development and implementation of AI solutions for healthcare payer use cases",
-        "Architect and deploy scalable AI models using Python and cloud platforms",
-        "Collaborate with product teams to identify and prioritize AI opportunities that address business challenges"
-      ]
-    },
-    "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "www-talent-com-view",
     "_source": "new_jobs"
@@ -2119,8 +2149,8 @@
     "job_latitude": 38.9072873,
     "job_longitude": -77.0369274,
     "job_benefits": [
-      "dental_coverage",
       "health_insurance",
+      "dental_coverage",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DxIy-w4lp_7eHIBzJAAAAAA%3D%3D&vssid=jobs-detail-viewer",
