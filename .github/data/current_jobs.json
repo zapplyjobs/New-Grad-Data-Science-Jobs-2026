@@ -88,6 +88,11 @@
         "is_direct": false
       },
       {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/supervisory-survey-statistician-washington-us-government-other-agencies-cdee5a04bf026e63c4b78766eb53408b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
         "publisher": "ZipRecruiter",
         "apply_link": "https://www.ziprecruiter.com/c/U.S.-International-Trade-Commission/Job/Supervisory-Survey-Statistician/-in-Washington,DC?jid=c519a623d55b2d3a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
@@ -95,11 +100,6 @@
       {
         "publisher": "JobzMall",
         "apply_link": "https://www.jobzmall.com/u-s-department-of-commerce/job/survey-statistician-5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/supervisory-survey-statistician-washington-us-government-other-agencies-cdee5a04bf026e63c4b78766eb53408b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
       },
       {
@@ -143,60 +143,6 @@
     "job_onet_soc": "15204100",
     "job_onet_job_zone": "5",
     "id": "www-usajobs-gov-job-857059300",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "lxwCyVZsrZPAaM9fAAAAAA==",
-    "job_title": "Statistician",
-    "employer_name": "The United States Secret Service",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.secretservice.gov",
-    "job_publisher": "BeBee",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://us.bebee.com/job/ebcc8432ee1e92d82a3375dc3793a05f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/ebcc8432ee1e92d82a3375dc3793a05f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Get.It",
-        "apply_link": "https://www.get.it/job/statistician-in-greenbelt-md-at-the-united-states-secret-service-605875057608623112?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "Statistician Job Description\n\nThe selected Statistician will work in the Office of Strategy, Planning, and Innovation's Enterprise Analytics Division.\n• Plans comprehensive quantitative studies on sensitive issues by determining analysis objectives and methods.\n• Supports evaluating alternatives by providing input on criteria, conducting feasibility studies, optimizing office locations based on workload and population, and preparing statistical reports on mission performance.",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Greenbelt, MD",
-    "job_city": "Greenbelt",
-    "job_state": "Maryland",
-    "job_country": "US",
-    "job_latitude": 39.004554399999996,
-    "job_longitude": -76.87552819999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DlxwCyVZsrZPAaM9fAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Responsibilities": [
-        "The selected Statistician will work in the Office of Strategy, Planning, and Innovation's Enterprise Analytics Division",
-        "Plans comprehensive quantitative studies on sensitive issues by determining analysis objectives and methods",
-        "Supports evaluating alternatives by providing input on criteria, conducting feasibility studies, optimizing office locations based on workload and population, and preparing statistical reports on mission performance"
-      ]
-    },
-    "job_onet_soc": "15204100",
-    "job_onet_job_zone": "5",
-    "id": "us-bebee-com-job-ebcc8432ee1e92d82a3375dc3793a05f",
     "_source": "new_jobs"
   },
   {
@@ -266,9 +212,9 @@
     "job_latitude": 39.1439689,
     "job_longitude": -77.2016062,
     "job_benefits": [
+      "health_insurance",
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUNWgSwcBSTCfiTxcAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -310,6 +256,55 @@
     "job_onet_soc": "15204100",
     "job_onet_job_zone": "5",
     "id": "careers-astrazeneca-com-job-gaithersburg-statistical-science-associate-director-7684-91683956992",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "lxwCyVZsrZPAaM9fAAAAAA==",
+    "job_title": "Statistician",
+    "employer_name": "The United States Secret Service",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.secretservice.gov",
+    "job_publisher": "BeBee",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://us.bebee.com/job/ebcc8432ee1e92d82a3375dc3793a05f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/ebcc8432ee1e92d82a3375dc3793a05f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Statistician Job Description\n\nThe selected Statistician will work in the Office of Strategy, Planning, and Innovation's Enterprise Analytics Division.\n• Plans comprehensive quantitative studies on sensitive issues by determining analysis objectives and methods.\n• Supports evaluating alternatives by providing input on criteria, conducting feasibility studies, optimizing office locations based on workload and population, and preparing statistical reports on mission performance.",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Greenbelt, MD",
+    "job_city": "Greenbelt",
+    "job_state": "Maryland",
+    "job_country": "US",
+    "job_latitude": 39.004554399999996,
+    "job_longitude": -76.87552819999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DlxwCyVZsrZPAaM9fAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Responsibilities": [
+        "The selected Statistician will work in the Office of Strategy, Planning, and Innovation's Enterprise Analytics Division",
+        "Plans comprehensive quantitative studies on sensitive issues by determining analysis objectives and methods",
+        "Supports evaluating alternatives by providing input on criteria, conducting feasibility studies, optimizing office locations based on workload and population, and preparing statistical reports on mission performance"
+      ]
+    },
+    "job_onet_soc": "15204100",
+    "job_onet_job_zone": "5",
+    "id": "us-bebee-com-job-ebcc8432ee1e92d82a3375dc3793a05f",
     "_source": "new_jobs"
   },
   {
@@ -581,79 +576,6 @@
     "job_onet_soc": "15204100",
     "job_onet_job_zone": "5",
     "id": "benjaminlapidus-com-list-job-statistician-at-iqvia-united-states-tnjlbffcsxrswwfuy0tpsvn6bedjoxhfb0e9pq",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "QRmbs5OBDHOyMYU4AAAAAA==",
-    "job_title": "Statistics Director, Immunology",
-    "employer_name": "GlaxoSmithKline",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl224djCNZxOoLgP_b3diEjmKBymcQEdYKGZSn&s=0",
-    "employer_website": null,
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/GlaxoSmithKline/Job/Statistics-Director,-Immunology/-in-Upper-Providence,PA?jid=d30f38ffc433ceb3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/GlaxoSmithKline/Job/Statistics-Director,-Immunology/-in-Upper-Providence,PA?jid=d30f38ffc433ceb3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "Company Overview\n\nAt GSK, we have bold ambitions for patients, aiming to positively impact the health of 2.5 billion people by the end of the decade. Our R&D focuses on discovering and delivering vaccines and medicines, combining our understanding of the immune system with cutting-edge technology to transform people's lives.GSK fosters a culture ambitious for patients, accountable for impact, and committed to doing the right thing, making sure that we focus our efforts on accelerating significant assets that meet patients' needs and have the highest probability of success. GSK enters 2026 with strong momentum, building on 2025 growth and advancing a robust pipeline. We expect key regulatory milestones, including new approvals and expanded indications, supported by 15 pivotal trials. By uniting science, technology, and talent, we remain committed to getting ahead of disease together.\n\nJob Purpose\n\nYou will lead the statistical strategy and delivery for one or more key Immunology development programs. You will work across clinical teams, regulatory affairs, real-world evidence and external partners. We value clear scientific thinking, practical problem solving, and collaborative leadership. This role offers growth, high-impact responsibility and a chance to help GSK unite science, technology and talent to get ahead of disease together. If you have a passion for innovation, deep expertise in statistics, and a desire to make a meaningful impact, we invite you to apply for this exciting opportunity.\n\nKey Responsibilities:\n• Lead statistical strategy for one or more key immunology programs across phases of clinical development and lifecycle activities, ensuring alignment with business objectives and scientific rigor.\n• Act as the statistical lead in cross-functional project teams and in interactions with regulatory authorities.\n• Design robust clinical trials and observational analyses and approve analysis plans and final statistical reporting.\n• Provide technical leadership, mentoring and development for statisticians and statistical programmers.\n• Drive improvements in statistical methods, standards, and governance for immunology projects.\nChampion innovation by introducing cutting-edge approaches that enhance project outcomes. Collaborate with other statistical leaders within the company to drive a culture of innovation and continuous learning.\n\nWhy you?Basic Qualifications:\n• Master's degree in Statistics, Biostatistics or related field with relevant industry experience and a proven track record of innovation and strategic influence.\n• Prior experience in immunology or related therapeutic areas.\n• Experience with advanced methodologies such as Bayesian approaches, longitudinal modelling, causal inference or machine learning.\n• Demonstrated leadership in a matrix environment, influencing senior stakeholders and cross-functional teams.\n• Experience leading statistical activities from protocol design through final analysis and dissemination.\n• Proven experience with regulatory interactions and preparation of statistical sections for submissions.\n• Strong written and verbal communication skills, able to explain statistical concepts to diverse audiences.\n\nPreferred Qualifications:\n• PhD in Statistics, Biostatistics or related field with relevant industry experience and a proven track record of innovation and strategic influence\n\n#LI-GSK*\nIf you are based in Cambridge, MA; Waltham, MA; Rockville, MD; or San Francisco, CA, the annual base salary for new hires in this position ranges $185,625 to $309,375.\n\nThe US salary ranges take into account a number of factors including work location within the US market, the candidate's skills, experience, education level and the market rate for the role. In addition, this position offers an annual bonus and eligibility to participate in our share based long term incentive program which is dependent on the level of the role. Available benefits include health care and other insurance benefits (for employee and family), retirement benefits, paid holidays, vacation, and paid caregiver/parental and medical leave.\n\nIf salary ranges are not displayed in the job posting for a specific country, the relevant compensation will be discussed during the recruitment process.\n\nWhy GSK?\n\nUniting science, technology and talent to get ahead of disease together.\n\nGSK is a global biopharma company with a purpose to unite science, technology and talent to get ahead of disease together. We aim to positively impact the health of 2.5 billion people by the end of the decade, as a successful, growing company where people can thrive.\n\nWe get ahead of disease by preventing and treating it with innovation in specialty medicines and vaccines. We focus on four therapeutic areas: respiratory, immunology and inflammation; oncology; HIV; and infectious diseases - to impact health at scale.\n\nPeople and patients around the world count on the medicines and vaccines we make, so we're committed to creating an environment where our people can thrive and focus on what matters most. Our culture of being ambitious for patients, accountable for impact and doing the right thing is the foundation for how, together, we deliver for patients, shareholders and our people.\n\nGSK is an Equal Opportunity Employer. This ensures that all qualified applicants will receive equal consideration for employment without regard to race, color, religion, sex (including pregnancy, gender identity, and sexual orientation), parental status, national origin, age, disability, genetic information (including family medical history), military service or any basis prohibited under federal, state or local law.\n\nWe believe in an agile working culture for all our roles. If flexibility is important to you, we encourage you to explore with our hiring team what the opportunities are.\n\nShould you require any adjustments to our process to assist you in demonstrating your strengths and capabilities contact us at UKRecruitment.Adjustments@gsk.com where you can also request a call.\n\nPlease note should your enquiry not relate to adjustments, we will not be able to support you through these channels. However, we have created a Recruitment FAQ guide. Click the Link where you will find answers to multiple questions we receive\n\nImportant notice to Employment businesses/ Agencies\n\nGSK does not accept referrals from employment businesses and/or employment agencies in respect of the vacancies posted on this site. All employment businesses/agencies are required to contact GSK's commercial and general procurement/human resources department to obtain prior written authorization before referring any candidates to GSK. The obtaining of prior written authorization is a condition precedent to any agreement (verbal or written) between the employment business/ agency and GSK. In the absence of such written authorization being obtained any actions undertaken by the employment business/agency shall be deemed to have been performed without the consent or contractual agreement of GSK. GSK shall therefore not be liable for any fees arising from such actions or any fees arising from any referrals by employment businesses/agencies in respect of the vacancies posted on this site.\n\nPlease note that if you are a US Licensed Healthcare Professional or Healthcare Professional as defined by the laws of the state issuing your license, GSK may be required to capture and report expenses GSK incurs, on your behalf, in the event you are afforded an interview for employment. This capture of applicable transfers of value is necessary to ensure GSK's compliance to all federal and state US Transparency requirements. For more information, please visit the Centers for Medicare and Medicaid Services (CMS) website at https://openpaymentsdata.cms.gov/",
-    "job_is_remote": false,
-    "job_posted_at": "13 days ago",
-    "job_posted_at_timestamp": 1770163200,
-    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
-    "job_location": "Rose Valley, PA",
-    "job_city": "Rose Valley",
-    "job_state": "Pennsylvania",
-    "job_country": "US",
-    "job_latitude": 39.8962229,
-    "job_longitude": -75.38491479999999,
-    "job_benefits": [
-      "dental_coverage",
-      "paid_time_off",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DQRmbs5OBDHOyMYU4AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 185625,
-    "job_max_salary": 309375,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "Master's degree in Statistics, Biostatistics or related field with relevant industry experience and a proven track record of innovation and strategic influence",
-        "Prior experience in immunology or related therapeutic areas",
-        "Experience with advanced methodologies such as Bayesian approaches, longitudinal modelling, causal inference or machine learning",
-        "Demonstrated leadership in a matrix environment, influencing senior stakeholders and cross-functional teams",
-        "Experience leading statistical activities from protocol design through final analysis and dissemination",
-        "Proven experience with regulatory interactions and preparation of statistical sections for submissions",
-        "Strong written and verbal communication skills, able to explain statistical concepts to diverse audiences"
-      ],
-      "Benefits": [
-        "If you are based in Cambridge, MA; Waltham, MA; Rockville, MD; or San Francisco, CA, the annual base salary for new hires in this position ranges $185,625 to $309,375",
-        "The US salary ranges take into account a number of factors including work location within the US market, the candidate's skills, experience, education level and the market rate for the role",
-        "In addition, this position offers an annual bonus and eligibility to participate in our share based long term incentive program which is dependent on the level of the role",
-        "Available benefits include health care and other insurance benefits (for employee and family), retirement benefits, paid holidays, vacation, and paid caregiver/parental and medical leave"
-      ],
-      "Responsibilities": [
-        "You will lead the statistical strategy and delivery for one or more key Immunology development programs",
-        "You will work across clinical teams, regulatory affairs, real-world evidence and external partners",
-        "We value clear scientific thinking, practical problem solving, and collaborative leadership",
-        "Lead statistical strategy for one or more key immunology programs across phases of clinical development and lifecycle activities, ensuring alignment with business objectives and scientific rigor",
-        "Act as the statistical lead in cross-functional project teams and in interactions with regulatory authorities",
-        "Design robust clinical trials and observational analyses and approve analysis plans and final statistical reporting",
-        "Provide technical leadership, mentoring and development for statisticians and statistical programmers",
-        "Drive improvements in statistical methods, standards, and governance for immunology projects",
-        "Champion innovation by introducing cutting-edge approaches that enhance project outcomes"
-      ]
-    },
-    "job_onet_soc": "15204100",
-    "job_onet_job_zone": "5",
-    "id": "www-ziprecruiter-com-c-glaxosmithkline-job-statistics-director-immunology-in-upper-providence-pa",
     "_source": "new_jobs"
   },
   {
@@ -1046,6 +968,118 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "fo3UhAae99Y0zC00AAAAAA==",
+    "job_title": "Sr. Manager/Associate Director, statistician",
+    "employer_name": "Pharmaceutical Company",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/sr-manager-associate-director-statistician-at-pharmaceutical-company-4371732724?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/sr-manager-associate-director-statistician-at-pharmaceutical-company-4371732724?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/c02e50563a14bddd022301bf65a0d039?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Senior Manager / Associate Director, Biostatistics\n\nTherapeutic Area: Oncology (Late Phase)\n\nLocations: NJ (preferred) or CA\n\nVisa Sponsorship: Available\n\nWe are partnering with our client, a leading pharmaceutical organization, to identify a highly skilled Senior Manager or Associate Director of Biostatistics to support late-phase oncology programs. This is an exciting opportunity to contribute to pivotal clinical development activities within a large pharma environment.\n\nPosition Summary\n\nThe selected candidate will provide statistical leadership for late-phase oncology clinical trials and collaborate cross-functionally to support regulatory submissions and strategic development initiatives.\n\nKey Qualifications\n\nEducation\n• PhD in Statistics or Biostatistics (required)\n\nExperience\n• Senior Manager: 4–5 years of industry experience (post-PhD)\n• Associate Director: 6+ years of industry experience (post-PhD)\n• Demonstrated experience in late-phase oncology clinical development\n• Prior experience within a large pharmaceutical company environment\n\nPreferred Qualifications\n• Publications in statistical methodology (strong plus, not required)\n• Proven ability to lead statistical strategy for complex clinical trials\n• Strong collaboration and communication skills in cross-functional settings\n\nAdditional Details\n• Visa sponsorship is available\n\nIf you are interested in leading statistical strategy for late-stage oncology programs within a well-established pharmaceutical organization, we would welcome the opportunity to connect.",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "United States",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 38.794595199999996,
+    "job_longitude": -106.5348379,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dfo3UhAae99Y0zC00AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "PhD in Statistics or Biostatistics (required)",
+        "Senior Manager: 4–5 years of industry experience (post-PhD)",
+        "Associate Director: 6+ years of industry experience (post-PhD)",
+        "Demonstrated experience in late-phase oncology clinical development",
+        "Prior experience within a large pharmaceutical company environment"
+      ],
+      "Responsibilities": [
+        "The selected candidate will provide statistical leadership for late-phase oncology clinical trials and collaborate cross-functionally to support regulatory submissions and strategic development initiatives"
+      ]
+    },
+    "job_onet_soc": "15204100",
+    "job_onet_job_zone": "5",
+    "id": "www-linkedin-com-jobs-view-sr-manager-associate-director-statistician-at-pharmaceutical-company-4371732724",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "fT9ZFOXmiZV8BLczAAAAAA==",
+    "job_title": "Study Design Statistician",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=e0cda0eba122&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=e0cda0eba122&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A company is looking for a Study Design Statistician (Remote).\n\nKey Responsibilities\n\nAssist customers with study design, focusing on simulation using KerusCloud\n\nPrepare study protocols and develop Statistical Analysis Plans and Reports\n\nProvide statistical consultancy support and oversee third-party deliverables\n\nRequired Qualifications\n\nBachelor's degree in mathematics, statistics, physics, pharmacology, or a related field; Master's or PhD preferred\n\n5-7 years of experience in medical statistics (pharma, CRO, academic)\n\nExperience with SAS and / or R statistical software packages\n\nExperience in study design and protocol / report writing preferred\n\nFamiliarity with modelling, simulation techniques, and early-phase drug development processes preferred",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Boca Raton, FL",
+    "job_city": "Boca Raton",
+    "job_state": "Florida",
+    "job_country": "US",
+    "job_latitude": 26.368306399999998,
+    "job_longitude": -80.1289321,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DfT9ZFOXmiZV8BLczAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "5-7 years of experience in medical statistics (pharma, CRO, academic)",
+        "Experience with SAS and / or R statistical software packages"
+      ],
+      "Responsibilities": [
+        "Assist customers with study design, focusing on simulation using KerusCloud",
+        "Prepare study protocols and develop Statistical Analysis Plans and Reports",
+        "Provide statistical consultancy support and oversee third-party deliverables"
+      ]
+    },
+    "job_onet_soc": "15204100",
+    "job_onet_job_zone": "5",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "xlDmavEq4xxxxplyAAAAAA==",
     "job_title": "Study Design Statistician",
     "employer_name": "VirtualVocations",
@@ -1099,8 +1133,8 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "wbdZRa3Jzll0doqYAAAAAA==",
-    "job_title": "Freelance Statistician",
+    "job_id": "oBhyfa-NIg2PcVp_AAAAAA==",
+    "job_title": "Study Design Statistician",
     "employer_name": "VirtualVocations",
     "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
     "employer_website": "https://www.virtualvocations.com",
@@ -1109,49 +1143,110 @@
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=818ddbcdd367&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.talent.com/view?id=afc321f09082&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
         "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=818ddbcdd367&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.talent.com/view?id=afc321f09082&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "A company is looking for a Freelance Statistician with Python Experience - AI Trainer.\n\nKey Responsibilities\n\nDesign rigorous statistics problems reflecting professional practice\n\nEvaluate AI solutions for correctness, assumptions, and constraints\n\nValidate calculations or simulations using Python libraries\n\nRequired Qualifications\n\nDegree in Statistics or related fields\n\n3+ years of professional mathematics experience\n\nStrong Python proficiency for numerical validation\n\nStable internet connection\n\nProfessional certifications and experience in international or applied projects are an advantage",
+    "job_description": "A company is looking for a Study Design Statistician (Remote).\n\nKey Responsibilities\n\nAssist customers with study design, focusing on simulation using KerusCloud\n\nPrepare study protocols and develop Statistical Analysis Plans and Reports\n\nProvide statistical consultancy support and oversee third-party deliverables\n\nRequired Qualifications\n\nBachelor's degree in mathematics, statistics, physics, pharmacology, or a related field; Master's or PhD preferred\n\n5-7 years of experience in medical statistics (pharma, CRO, academic)\n\nExperience with SAS and / or R statistical software packages\n\nExperience in study design and protocol / report writing preferred\n\nFamiliarity with modelling, simulation techniques, and early-phase drug development processes preferred",
     "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Southport, IN",
-    "job_city": "Southport",
-    "job_state": "Indiana",
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Littleton, CO",
+    "job_city": "Littleton",
+    "job_state": "Colorado",
     "job_country": "US",
-    "job_latitude": 39.6618814,
-    "job_longitude": -86.1166506,
+    "job_latitude": 39.613321,
+    "job_longitude": -105.0166498,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwbdZRa3Jzll0doqYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DoBhyfa-NIg2PcVp_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Degree in Statistics or related fields",
-        "3+ years of professional mathematics experience",
-        "Strong Python proficiency for numerical validation",
-        "Stable internet connection",
-        "Professional certifications and experience in international or applied projects are an advantage"
+        "5-7 years of experience in medical statistics (pharma, CRO, academic)",
+        "Experience with SAS and / or R statistical software packages"
       ],
       "Responsibilities": [
-        "Design rigorous statistics problems reflecting professional practice",
-        "Evaluate AI solutions for correctness, assumptions, and constraints",
-        "Validate calculations or simulations using Python libraries"
+        "Assist customers with study design, focusing on simulation using KerusCloud",
+        "Prepare study protocols and develop Statistical Analysis Plans and Reports",
+        "Provide statistical consultancy support and oversee third-party deliverables"
       ]
     },
     "job_onet_soc": "15204100",
     "job_onet_job_zone": "5",
     "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "91SKnXpIAueaxQlSAAAAAA==",
+    "job_title": "Statistician/SAS Programming Paid Internship",
+    "employer_name": "LLX Solutions",
+    "employer_logo": null,
+    "employer_website": "https://www.llxsolutions.com",
+    "job_publisher": "BeBee",
+    "job_employment_type": "Full-time and Internship",
+    "job_employment_types": [
+      "FULLTIME",
+      "INTERN"
+    ],
+    "job_apply_link": "https://us.bebee.com/job/dea8f8531320711efbbad795b5a84c1c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/dea8f8531320711efbbad795b5a84c1c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "We have an immediate opening for an entry-level Statistician/SAS Programming Intern with a possibility for a full-time position after the internship and assessment.\n\nResponsibilities:\n\n- Conduct clinical programming to support clinical data management, data cleaning, and data review, as well as external data reconciliation in accordance with standards (CDISC, MedDRA, WHO-DD, FDA)/SOPs or study specific guidelines\n\n- Work with Data Manager to generate and review database specification documents, CRF specifications, edit checks specifications and data management documents\n\n- Conduct clinical programming to create data sets, tables, figures, and listings for reports\n\n- Perform data checks, program/document validation as needed to ensure integrity and correctness of data\n\n- Support the development, delivery and maintenance of clinical data review standards, tools and systems\n\n- Responsible for documentation to support the programming and inspection\n\n- Perform other duties as assigned\n\nQualifications:\n\n- Master's degree or above in biostatistics or statistics only.\n\n- 3 months of experience with clinical trials or related coursework is required.\n\n- Able to work on multiple, concurrent projects\n\n- A high degree of accuracy and attention to detail\n\nKnowledge, Skills, and Abilities:\n\n- Proficiency in statistical programming (SAS preferred)\n\n- Good communication skills\n\n- Knowledge of FDA requirements and experience in the pharmaceutical or biotechnology industries is desired.\n\nJob Details:\n\nThis is a full-time on-site position with great career development and advancement opportunities.\n\nCandidates selected for employment must pass a background check before employment begins.\n\nJob Types: Full-time, Internship\n\nExpected hours: 40 per week\n\nWork Location: In person",
+    "job_is_remote": false,
+    "job_posted_at": "12 days ago",
+    "job_posted_at_timestamp": 1770249600,
+    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
+    "job_location": "Waltham, MA",
+    "job_city": "Waltham",
+    "job_state": "Massachusetts",
+    "job_country": "US",
+    "job_latitude": 42.376435799999996,
+    "job_longitude": -71.23575009999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D91SKnXpIAueaxQlSAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Master's degree or above in biostatistics or statistics only",
+        "3 months of experience with clinical trials or related coursework is required",
+        "Able to work on multiple, concurrent projects",
+        "A high degree of accuracy and attention to detail",
+        "Good communication skills"
+      ],
+      "Benefits": [
+        "Expected hours: 40 per week"
+      ],
+      "Responsibilities": [
+        "Conduct clinical programming to support clinical data management, data cleaning, and data review, as well as external data reconciliation in accordance with standards (CDISC, MedDRA, WHO-DD, FDA)/SOPs or study specific guidelines",
+        "Work with Data Manager to generate and review database specification documents, CRF specifications, edit checks specifications and data management documents",
+        "Conduct clinical programming to create data sets, tables, figures, and listings for reports",
+        "Perform data checks, program/document validation as needed to ensure integrity and correctness of data",
+        "Support the development, delivery and maintenance of clinical data review standards, tools and systems",
+        "Responsible for documentation to support the programming and inspection",
+        "Perform other duties as assigned"
+      ]
+    },
+    "job_onet_soc": "15113100",
+    "job_onet_job_zone": "4",
+    "id": "us-bebee-com-job-dea8f8531320711efbbad795b5a84c1c",
     "_source": "new_jobs"
   },
   {
@@ -1221,9 +1316,9 @@
     "job_latitude": 39.169574,
     "job_longitude": -86.5385549,
     "job_benefits": [
-      "health_insurance",
+      "dental_coverage",
       "paid_time_off",
-      "dental_coverage"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DIx0-QsbHOgZ0E7z7AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": null,
@@ -1272,70 +1367,6 @@
     "job_onet_soc": "15204100",
     "job_onet_job_zone": "5",
     "id": "elmahaft-com-pl-jobs-job-remote-medical-device-statistician-at-akkodis-bloomington-in-m0xuwg9qakrrngxtyssvmghublhydmzfm2c9pq",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "91SKnXpIAueaxQlSAAAAAA==",
-    "job_title": "Statistician/SAS Programming Paid Internship",
-    "employer_name": "LLX Solutions",
-    "employer_logo": null,
-    "employer_website": "https://www.llxsolutions.com",
-    "job_publisher": "BeBee",
-    "job_employment_type": "Full-time and Internship",
-    "job_employment_types": [
-      "FULLTIME",
-      "INTERN"
-    ],
-    "job_apply_link": "https://us.bebee.com/job/dea8f8531320711efbbad795b5a84c1c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/dea8f8531320711efbbad795b5a84c1c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "We have an immediate opening for an entry-level Statistician/SAS Programming Intern with a possibility for a full-time position after the internship and assessment.\n\nResponsibilities:\n\n- Conduct clinical programming to support clinical data management, data cleaning, and data review, as well as external data reconciliation in accordance with standards (CDISC, MedDRA, WHO-DD, FDA)/SOPs or study specific guidelines\n\n- Work with Data Manager to generate and review database specification documents, CRF specifications, edit checks specifications and data management documents\n\n- Conduct clinical programming to create data sets, tables, figures, and listings for reports\n\n- Perform data checks, program/document validation as needed to ensure integrity and correctness of data\n\n- Support the development, delivery and maintenance of clinical data review standards, tools and systems\n\n- Responsible for documentation to support the programming and inspection\n\n- Perform other duties as assigned\n\nQualifications:\n\n- Master's degree or above in biostatistics or statistics only.\n\n- 3 months of experience with clinical trials or related coursework is required.\n\n- Able to work on multiple, concurrent projects\n\n- A high degree of accuracy and attention to detail\n\nKnowledge, Skills, and Abilities:\n\n- Proficiency in statistical programming (SAS preferred)\n\n- Good communication skills\n\n- Knowledge of FDA requirements and experience in the pharmaceutical or biotechnology industries is desired.\n\nJob Details:\n\nThis is a full-time on-site position with great career development and advancement opportunities.\n\nCandidates selected for employment must pass a background check before employment begins.\n\nJob Types: Full-time, Internship\n\nExpected hours: 40 per week\n\nWork Location: In person",
-    "job_is_remote": false,
-    "job_posted_at": "12 days ago",
-    "job_posted_at_timestamp": 1770249600,
-    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
-    "job_location": "Waltham, MA",
-    "job_city": "Waltham",
-    "job_state": "Massachusetts",
-    "job_country": "US",
-    "job_latitude": 42.376435799999996,
-    "job_longitude": -71.23575009999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D91SKnXpIAueaxQlSAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Master's degree or above in biostatistics or statistics only",
-        "3 months of experience with clinical trials or related coursework is required",
-        "Able to work on multiple, concurrent projects",
-        "A high degree of accuracy and attention to detail",
-        "Good communication skills"
-      ],
-      "Benefits": [
-        "Expected hours: 40 per week"
-      ],
-      "Responsibilities": [
-        "Conduct clinical programming to support clinical data management, data cleaning, and data review, as well as external data reconciliation in accordance with standards (CDISC, MedDRA, WHO-DD, FDA)/SOPs or study specific guidelines",
-        "Work with Data Manager to generate and review database specification documents, CRF specifications, edit checks specifications and data management documents",
-        "Conduct clinical programming to create data sets, tables, figures, and listings for reports",
-        "Perform data checks, program/document validation as needed to ensure integrity and correctness of data",
-        "Support the development, delivery and maintenance of clinical data review standards, tools and systems",
-        "Responsible for documentation to support the programming and inspection",
-        "Perform other duties as assigned"
-      ]
-    },
-    "job_onet_soc": "15113100",
-    "job_onet_job_zone": "4",
-    "id": "us-bebee-com-job-dea8f8531320711efbbad795b5a84c1c",
     "_source": "new_jobs"
   }
 ]
