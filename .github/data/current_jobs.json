@@ -181,6 +181,11 @@
         "publisher": "LinkedIn",
         "apply_link": "https://www.linkedin.com/jobs/view/quantitative-developer-top-tier-global-hedge-fund-at-venture-search-4371913874?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/6993368ece78e77b4fd70eb0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
       }
     ],
     "job_description": "Venture Search have partnered with a top-tier systematic hedge fund, that are looking for a Quantitative Developer to work closely with quantitative researchers and portfolio managers to design, implement, and maintain scalable, high-performance trading and research systems. The role sits at the intersection of quantitative research, software engineering, and trading, with a focus on building robust tools and infrastructure that support systematic investment strategies.\n\nResponsibilities\n• Design, develop, and maintain production-quality software for quantitative trading strategies\n• Partner with quantitative researchers to translate models and research prototypes into efficient, scalable code\n• Build and optimize data pipelines for market, reference, and alternative data\n• Implement backtesting frameworks, simulation tools, and research platforms\n• Enhance trading infrastructure, including execution, risk, and monitoring systems\n• Optimize performance, reliability, and scalability of existing systems\n• Collaborate with technology, risk, and operations teams to support live trading environments\n• Ensure best practices in software development, testing, and documentation\n\nRequired Qualifications\n• Strong programming skills in Python and/or C++ (Java or other languages a plus)\n• Solid understanding of data structures, algorithms, and software engineering principles\n• Experience working with large datasets and time-series data\n• Familiarity with Linux/Unix environments and version control systems (e.g., Git)\n• Ability to work closely with quantitative researchers and traders in a fast-paced environment\n• Strong problem-solving skills and attention to detail\n\nPreferred Qualifications\n• Experience in quantitative finance, systematic trading, or financial technology\n• Knowledge of capital markets, derivatives, or market microstructure\n• Experience with databases (SQL, NoSQL), distributed systems, or cloud platforms\n• Exposure to backtesting frameworks, execution systems, or real-time trading platforms\n• Advanced degree in Computer Science, Engineering, Mathematics, Physics, or a related field",
@@ -292,9 +297,9 @@
     "job_latitude": 36.0948221,
     "job_longitude": -80.2434028,
     "job_benefits": [
+      "health_insurance",
       "dental_coverage",
-      "paid_time_off",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DWFJLQyhOyqmN6f6iAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -377,11 +382,6 @@
         "is_direct": false
       },
       {
-        "publisher": "AdaMarie",
-        "apply_link": "https://app.weareadamarie.com/jobs/213110512-quantitative-research-analyst-intern-bs-ms-us?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
         "publisher": "Tech Jobs Personalized",
         "apply_link": "https://builtin.com/job/quantitative-research-analyst-intern-bs-ms-us/6554165?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
@@ -444,78 +444,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "2tgModkXHjJq2M51AAAAAA==",
-    "job_title": "Senior Quantitative Analyst - Risk Management",
-    "employer_name": "WhatJobs Direct",
-    "employer_logo": null,
-    "employer_website": "https://en-ng.whatjobs.com",
-    "job_publisher": "WhatJobs",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.whatjobs.com/jobs/quant-analyst?id=2443675293&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/quant-analyst?id=2443675293&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Our client, a prominent financial institution, is seeking an exceptional Senior Quantitative Analyst to bolster their risk management team in **Phoenix, Arizona, US**. This highly analytical role requires a deep understanding of financial markets, statistical modeling, and risk quantification techniques. The successful candidate will be responsible for developing, validating, and implementing sophisticated quantitative models to assess and manage various financial risks, including market risk, credit risk, and operational risk. You will work closely with trading desks, portfolio managers, and IT to translate complex financial concepts into actionable risk insights and ensure compliance with regulatory requirements.\n\nKey Responsibilities include:\nDeveloping, implementing, and backtesting sophisticated quantitative models for pricing, risk management, and valuation of financial instruments. Performing in-depth statistical analysis of market data, credit portfolios, and operational risk events. Validating existing models and ensuring their accuracy, robustness, and compliance with regulatory standards (e.g., Basel III, CCAR). Collaborating with IT teams to deploy models into production environments and ensure data integrity. Providing quantitative support and analysis to trading desks, portfolio managers, and other business units. Assessing the impact of market events and economic trends on risk exposures. Contributing to the development of new risk management frameworks and methodologies. Preparing comprehensive reports and presentations on model performance and risk analysis for senior management and regulatory bodies. Staying abreast of advancements in quantitative finance, econometrics, and financial engineering. Mentoring junior quantitative analysts and contributing to the team's technical growth.\nQualifications:\nMaster's degree or Ph.D. in Quantitative Finance, Financial Engineering, Mathematics, Statistics, Physics, Economics, or a related highly quantitative field. Minimum of 7 years of experience in quantitative analysis within the financial services industry, focusing on risk management. Expertise in developing and implementing statistical and econometric models. Proficiency in programming languages such as Python, R, C++, or MATLAB. Strong understanding of financial markets, derivatives, and portfolio theory. In-depth knowledge of risk management principles and regulatory requirements (e.g., VaR, CVA, Expected Shortfall). Excellent analytical, problem-solving, and communication skills. Experience with large datasets and database technologies (e.g., SQL). Ability to translate complex quantitative concepts into clear, concise explanations for non-technical audiences. This is a challenging and rewarding role for a highly skilled quantitative professional seeking to make a significant impact on the risk management capabilities of a leading financial firm. If you possess a strong analytical mindset and a passion for financial markets, we encourage you to apply.",
-    "job_is_remote": false,
-    "job_posted_at": "12 days ago",
-    "job_posted_at_timestamp": 1770249600,
-    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
-    "job_location": "Whispering Pines, AZ",
-    "job_city": "Whispering Pines",
-    "job_state": "Arizona",
-    "job_country": "US",
-    "job_latitude": 34.3711421,
-    "job_longitude": -111.2834692,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D2tgModkXHjJq2M51AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Master's degree or Ph.D. in Quantitative Finance, Financial Engineering, Mathematics, Statistics, Physics, Economics, or a related highly quantitative field",
-        "Minimum of 7 years of experience in quantitative analysis within the financial services industry, focusing on risk management",
-        "Expertise in developing and implementing statistical and econometric models",
-        "Proficiency in programming languages such as Python, R, C++, or MATLAB",
-        "Strong understanding of financial markets, derivatives, and portfolio theory",
-        "In-depth knowledge of risk management principles and regulatory requirements (e.g., VaR, CVA, Expected Shortfall)",
-        "Excellent analytical, problem-solving, and communication skills",
-        "Experience with large datasets and database technologies (e.g., SQL)",
-        "Ability to translate complex quantitative concepts into clear, concise explanations for non-technical audiences",
-        "This is a challenging and rewarding role for a highly skilled quantitative professional seeking to make a significant impact on the risk management capabilities of a leading financial firm",
-        "If you possess a strong analytical mindset and a passion for financial markets, we encourage you to apply"
-      ],
-      "Responsibilities": [
-        "This highly analytical role requires a deep understanding of financial markets, statistical modeling, and risk quantification techniques",
-        "The successful candidate will be responsible for developing, validating, and implementing sophisticated quantitative models to assess and manage various financial risks, including market risk, credit risk, and operational risk",
-        "You will work closely with trading desks, portfolio managers, and IT to translate complex financial concepts into actionable risk insights and ensure compliance with regulatory requirements",
-        "Developing, implementing, and backtesting sophisticated quantitative models for pricing, risk management, and valuation of financial instruments",
-        "Performing in-depth statistical analysis of market data, credit portfolios, and operational risk events",
-        "Validating existing models and ensuring their accuracy, robustness, and compliance with regulatory standards (e.g., Basel III, CCAR)",
-        "Collaborating with IT teams to deploy models into production environments and ensure data integrity",
-        "Providing quantitative support and analysis to trading desks, portfolio managers, and other business units",
-        "Assessing the impact of market events and economic trends on risk exposures",
-        "Contributing to the development of new risk management frameworks and methodologies",
-        "Preparing comprehensive reports and presentations on model performance and risk analysis for senior management and regulatory bodies",
-        "Staying abreast of advancements in quantitative finance, econometrics, and financial engineering",
-        "Mentoring junior quantitative analysts and contributing to the team's technical growth"
-      ]
-    },
-    "job_onet_soc": "13209900",
-    "job_onet_job_zone": "4",
-    "id": "www-whatjobs-com-jobs-quant-analyst",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "XZH-jENS2LuyEKxgAAAAAA==",
     "job_title": "Quantitative Analytics Specialist",
     "employer_name": "TD Bank",
@@ -567,9 +495,9 @@
     "job_latitude": 39.924151599999995,
     "job_longitude": -74.94999659999999,
     "job_benefits": [
-      "dental_coverage",
+      "health_insurance",
       "paid_time_off",
-      "health_insurance"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DXZH-jENS2LuyEKxgAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -736,71 +664,75 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "IToMI2bedJSTVHyKAAAAAA==",
-    "job_title": "Quantitative Analyst Associate Spring/Summer",
-    "employer_name": "Philadelphia Phillies Baseball Operations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOeRiRM5OZeItPlqiU7DJfiG7BaR9tVMaP86YG&s=0",
-    "employer_website": null,
-    "job_publisher": "Jobilize",
+    "job_id": "2tgModkXHjJq2M51AAAAAA==",
+    "job_title": "Senior Quantitative Analyst - Risk Management",
+    "employer_name": "WhatJobs Direct",
+    "employer_logo": null,
+    "employer_website": "https://en-ke.whatjobs.com",
+    "job_publisher": "WhatJobs",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.jobilize.com/amp/job/us-pennsylvania-philadelphia-quantitative-analyst-associate-spring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.whatjobs.com/jobs/quant-analyst?id=2443675293&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/amp/job/us-pennsylvania-philadelphia-quantitative-analyst-associate-spring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/quant-analyst?id=2443675293&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
-      },
-      {
-        "publisher": "Trabajo.org",
-        "apply_link": "https://us.trabajo.org/job-4111-55c5d36e8f2b96ea96fb235a24379eb9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
       }
     ],
-    "job_description": "Title:\nQuantitative Analyst Associate\nDepartment:\nBaseball Research & Development\nReports to:\nLead/Senior Quantitative Analyst\nStatus:\nHourly Part-Time Seasonal\n\nPosition Overview:\n\nAs a Quantitative Analyst (QA) Associate, you help shape The Phillies Baseball Operations strategies by processing, analyzing, and interpreting large and complex data. You do more than just crunch the numbers; you carefully plan the design of your own studies by asking and answering the right questions, while also working collaboratively with other analysts and software engineers on larger projects.\n\nUsing analytical rigor, you work with your team as you mine through data and see opportunities for The Phillies to improve. After communicating the results of your studies and experiments to Baseball Operations leadership and executive staff, you collaborate with front office executives, scouts, coaches, and trainers to incorporate your findings into Phillies practices. Identifying the challenge is only half the job; you also work to figure out and implement the solution.\n\nResponsibilities:\n• Conduct statistical research projects and manage the integration of their outputs into our proprietary tools and applications (e.g., performance projections, player valuations, draft assessments, injury analyses, etc.)\n• Communicate with front office executives, scouts, coaches, and medical staff to design and interpret statistical studies\n• Assist the rest of the QA team with their projects by providing guidance and feedback on your areas of expertise within baseball, statistics, data visualization, and programming\n• Continually enhance your knowledge of baseball and data science through reading, research, and discussion with your teammates and the rest of the front office\n• Provide input to database architecture to ensure efficient application of baseball data\n\nRequired Qualifications:\n• Deep understanding of statistics, including supervised and unsupervised learning, regularization, model assessment and selection, model inference and averaging, ensemble methods, etc.\n• Meaningful experience programming, using analytical software (Python, R, or similar), and interacting with databases\n• Proven willingness to both teach others and learn new techniques\n• Willingness to work as part of a team on complex projects\n• Proven leadership and self-direction\n\nPreferred Qualifications:\n• Possess or are pursuing a BS, MS or PhD in Statistics or related (e.g., mathematics, physics, or ops research) or equivalent practical experience\n• 0-5+ years of relevant work experience\n• Experience drawing conclusions from data, communicating those conclusions to decision makers, and recommending actions\n\nTo be considered, all candidates must submit a response for the prompt below:\n\nThe R&D department has been asked to identify the best defensive first baseman in baseball. What models would you build to answer that question, and how would you apply those models to decision-making? (250-word limit)\n\nWe are an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, age, disability, gender identity, marital or veteran status, or any other protected class.",
+    "job_description": "Our client, a prominent financial institution, is seeking an exceptional Senior Quantitative Analyst to bolster their risk management team in **Phoenix, Arizona, US**. This highly analytical role requires a deep understanding of financial markets, statistical modeling, and risk quantification techniques. The successful candidate will be responsible for developing, validating, and implementing sophisticated quantitative models to assess and manage various financial risks, including market risk, credit risk, and operational risk. You will work closely with trading desks, portfolio managers, and IT to translate complex financial concepts into actionable risk insights and ensure compliance with regulatory requirements.\n\nKey Responsibilities include:\nDeveloping, implementing, and backtesting sophisticated quantitative models for pricing, risk management, and valuation of financial instruments. Performing in-depth statistical analysis of market data, credit portfolios, and operational risk events. Validating existing models and ensuring their accuracy, robustness, and compliance with regulatory standards (e.g., Basel III, CCAR). Collaborating with IT teams to deploy models into production environments and ensure data integrity. Providing quantitative support and analysis to trading desks, portfolio managers, and other business units. Assessing the impact of market events and economic trends on risk exposures. Contributing to the development of new risk management frameworks and methodologies. Preparing comprehensive reports and presentations on model performance and risk analysis for senior management and regulatory bodies. Staying abreast of advancements in quantitative finance, econometrics, and financial engineering. Mentoring junior quantitative analysts and contributing to the team's technical growth.\nQualifications:\nMaster's degree or Ph.D. in Quantitative Finance, Financial Engineering, Mathematics, Statistics, Physics, Economics, or a related highly quantitative field. Minimum of 7 years of experience in quantitative analysis within the financial services industry, focusing on risk management. Expertise in developing and implementing statistical and econometric models. Proficiency in programming languages such as Python, R, C++, or MATLAB. Strong understanding of financial markets, derivatives, and portfolio theory. In-depth knowledge of risk management principles and regulatory requirements (e.g., VaR, CVA, Expected Shortfall). Excellent analytical, problem-solving, and communication skills. Experience with large datasets and database technologies (e.g., SQL). Ability to translate complex quantitative concepts into clear, concise explanations for non-technical audiences. This is a challenging and rewarding role for a highly skilled quantitative professional seeking to make a significant impact on the risk management capabilities of a leading financial firm. If you possess a strong analytical mindset and a passion for financial markets, we encourage you to apply.",
     "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "Philadelphia, PA",
-    "job_city": "Philadelphia",
-    "job_state": "Pennsylvania",
+    "job_posted_at": "12 days ago",
+    "job_posted_at_timestamp": 1770249600,
+    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
+    "job_location": "Whispering Pines, AZ",
+    "job_city": "Whispering Pines",
+    "job_state": "Arizona",
     "job_country": "US",
-    "job_latitude": 39.9525839,
-    "job_longitude": -75.1652215,
+    "job_latitude": 34.3711421,
+    "job_longitude": -111.2834692,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DIToMI2bedJSTVHyKAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D2tgModkXHjJq2M51AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Deep understanding of statistics, including supervised and unsupervised learning, regularization, model assessment and selection, model inference and averaging, ensemble methods, etc",
-        "Meaningful experience programming, using analytical software (Python, R, or similar), and interacting with databases",
-        "Proven willingness to both teach others and learn new techniques",
-        "Willingness to work as part of a team on complex projects",
-        "Proven leadership and self-direction"
+        "Master's degree or Ph.D. in Quantitative Finance, Financial Engineering, Mathematics, Statistics, Physics, Economics, or a related highly quantitative field",
+        "Minimum of 7 years of experience in quantitative analysis within the financial services industry, focusing on risk management",
+        "Expertise in developing and implementing statistical and econometric models",
+        "Proficiency in programming languages such as Python, R, C++, or MATLAB",
+        "Strong understanding of financial markets, derivatives, and portfolio theory",
+        "In-depth knowledge of risk management principles and regulatory requirements (e.g., VaR, CVA, Expected Shortfall)",
+        "Excellent analytical, problem-solving, and communication skills",
+        "Experience with large datasets and database technologies (e.g., SQL)",
+        "Ability to translate complex quantitative concepts into clear, concise explanations for non-technical audiences",
+        "This is a challenging and rewarding role for a highly skilled quantitative professional seeking to make a significant impact on the risk management capabilities of a leading financial firm",
+        "If you possess a strong analytical mindset and a passion for financial markets, we encourage you to apply"
       ],
       "Responsibilities": [
-        "As a Quantitative Analyst (QA) Associate, you help shape The Phillies Baseball Operations strategies by processing, analyzing, and interpreting large and complex data",
-        "You do more than just crunch the numbers; you carefully plan the design of your own studies by asking and answering the right questions, while also working collaboratively with other analysts and software engineers on larger projects",
-        "Using analytical rigor, you work with your team as you mine through data and see opportunities for The Phillies to improve",
-        "After communicating the results of your studies and experiments to Baseball Operations leadership and executive staff, you collaborate with front office executives, scouts, coaches, and trainers to incorporate your findings into Phillies practices",
-        "Identifying the challenge is only half the job; you also work to figure out and implement the solution",
-        "Conduct statistical research projects and manage the integration of their outputs into our proprietary tools and applications (e.g., performance projections, player valuations, draft assessments, injury analyses, etc.)",
-        "Communicate with front office executives, scouts, coaches, and medical staff to design and interpret statistical studies",
-        "Assist the rest of the QA team with their projects by providing guidance and feedback on your areas of expertise within baseball, statistics, data visualization, and programming",
-        "Continually enhance your knowledge of baseball and data science through reading, research, and discussion with your teammates and the rest of the front office",
-        "Provide input to database architecture to ensure efficient application of baseball data"
+        "This highly analytical role requires a deep understanding of financial markets, statistical modeling, and risk quantification techniques",
+        "The successful candidate will be responsible for developing, validating, and implementing sophisticated quantitative models to assess and manage various financial risks, including market risk, credit risk, and operational risk",
+        "You will work closely with trading desks, portfolio managers, and IT to translate complex financial concepts into actionable risk insights and ensure compliance with regulatory requirements",
+        "Developing, implementing, and backtesting sophisticated quantitative models for pricing, risk management, and valuation of financial instruments",
+        "Performing in-depth statistical analysis of market data, credit portfolios, and operational risk events",
+        "Validating existing models and ensuring their accuracy, robustness, and compliance with regulatory standards (e.g., Basel III, CCAR)",
+        "Collaborating with IT teams to deploy models into production environments and ensure data integrity",
+        "Providing quantitative support and analysis to trading desks, portfolio managers, and other business units",
+        "Assessing the impact of market events and economic trends on risk exposures",
+        "Contributing to the development of new risk management frameworks and methodologies",
+        "Preparing comprehensive reports and presentations on model performance and risk analysis for senior management and regulatory bodies",
+        "Staying abreast of advancements in quantitative finance, econometrics, and financial engineering",
+        "Mentoring junior quantitative analysts and contributing to the team's technical growth"
       ]
     },
-    "job_onet_soc": "43911100",
+    "job_onet_soc": "13209900",
     "job_onet_job_zone": "4",
-    "id": "www-jobilize-com-amp-job-us-pennsylvania-philadelphia-quantitative-analyst-associate-spring",
+    "id": "www-whatjobs-com-jobs-quant-analyst",
     "_source": "new_jobs"
   },
   {
@@ -940,6 +872,74 @@
     "job_onet_soc": "13206100",
     "job_onet_job_zone": "4",
     "id": "www-indeed-com-viewjob",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "IToMI2bedJSTVHyKAAAAAA==",
+    "job_title": "Quantitative Analyst Associate Spring/Summer",
+    "employer_name": "Philadelphia Phillies Baseball Operations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOeRiRM5OZeItPlqiU7DJfiG7BaR9tVMaP86YG&s=0",
+    "employer_website": null,
+    "job_publisher": "Jobilize",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.jobilize.com/amp/job/us-pennsylvania-philadelphia-quantitative-analyst-associate-spring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/amp/job/us-pennsylvania-philadelphia-quantitative-analyst-associate-spring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Trabajo.org",
+        "apply_link": "https://us.trabajo.org/job-4111-55c5d36e8f2b96ea96fb235a24379eb9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Title:\nQuantitative Analyst Associate\nDepartment:\nBaseball Research & Development\nReports to:\nLead/Senior Quantitative Analyst\nStatus:\nHourly Part-Time Seasonal\n\nPosition Overview:\n\nAs a Quantitative Analyst (QA) Associate, you help shape The Phillies Baseball Operations strategies by processing, analyzing, and interpreting large and complex data. You do more than just crunch the numbers; you carefully plan the design of your own studies by asking and answering the right questions, while also working collaboratively with other analysts and software engineers on larger projects.\n\nUsing analytical rigor, you work with your team as you mine through data and see opportunities for The Phillies to improve. After communicating the results of your studies and experiments to Baseball Operations leadership and executive staff, you collaborate with front office executives, scouts, coaches, and trainers to incorporate your findings into Phillies practices. Identifying the challenge is only half the job; you also work to figure out and implement the solution.\n\nResponsibilities:\n• Conduct statistical research projects and manage the integration of their outputs into our proprietary tools and applications (e.g., performance projections, player valuations, draft assessments, injury analyses, etc.)\n• Communicate with front office executives, scouts, coaches, and medical staff to design and interpret statistical studies\n• Assist the rest of the QA team with their projects by providing guidance and feedback on your areas of expertise within baseball, statistics, data visualization, and programming\n• Continually enhance your knowledge of baseball and data science through reading, research, and discussion with your teammates and the rest of the front office\n• Provide input to database architecture to ensure efficient application of baseball data\n\nRequired Qualifications:\n• Deep understanding of statistics, including supervised and unsupervised learning, regularization, model assessment and selection, model inference and averaging, ensemble methods, etc.\n• Meaningful experience programming, using analytical software (Python, R, or similar), and interacting with databases\n• Proven willingness to both teach others and learn new techniques\n• Willingness to work as part of a team on complex projects\n• Proven leadership and self-direction\n\nPreferred Qualifications:\n• Possess or are pursuing a BS, MS or PhD in Statistics or related (e.g., mathematics, physics, or ops research) or equivalent practical experience\n• 0-5+ years of relevant work experience\n• Experience drawing conclusions from data, communicating those conclusions to decision makers, and recommending actions\n\nTo be considered, all candidates must submit a response for the prompt below:\n\nThe R&D department has been asked to identify the best defensive first baseman in baseball. What models would you build to answer that question, and how would you apply those models to decision-making? (250-word limit)\n\nWe are an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, age, disability, gender identity, marital or veteran status, or any other protected class.",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Philadelphia, PA",
+    "job_city": "Philadelphia",
+    "job_state": "Pennsylvania",
+    "job_country": "US",
+    "job_latitude": 39.9525839,
+    "job_longitude": -75.1652215,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DIToMI2bedJSTVHyKAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Deep understanding of statistics, including supervised and unsupervised learning, regularization, model assessment and selection, model inference and averaging, ensemble methods, etc",
+        "Meaningful experience programming, using analytical software (Python, R, or similar), and interacting with databases",
+        "Proven willingness to both teach others and learn new techniques",
+        "Willingness to work as part of a team on complex projects",
+        "Proven leadership and self-direction"
+      ],
+      "Responsibilities": [
+        "As a Quantitative Analyst (QA) Associate, you help shape The Phillies Baseball Operations strategies by processing, analyzing, and interpreting large and complex data",
+        "You do more than just crunch the numbers; you carefully plan the design of your own studies by asking and answering the right questions, while also working collaboratively with other analysts and software engineers on larger projects",
+        "Using analytical rigor, you work with your team as you mine through data and see opportunities for The Phillies to improve",
+        "After communicating the results of your studies and experiments to Baseball Operations leadership and executive staff, you collaborate with front office executives, scouts, coaches, and trainers to incorporate your findings into Phillies practices",
+        "Identifying the challenge is only half the job; you also work to figure out and implement the solution",
+        "Conduct statistical research projects and manage the integration of their outputs into our proprietary tools and applications (e.g., performance projections, player valuations, draft assessments, injury analyses, etc.)",
+        "Communicate with front office executives, scouts, coaches, and medical staff to design and interpret statistical studies",
+        "Assist the rest of the QA team with their projects by providing guidance and feedback on your areas of expertise within baseball, statistics, data visualization, and programming",
+        "Continually enhance your knowledge of baseball and data science through reading, research, and discussion with your teammates and the rest of the front office",
+        "Provide input to database architecture to ensure efficient application of baseball data"
+      ]
+    },
+    "job_onet_soc": "43911100",
+    "job_onet_job_zone": "4",
+    "id": "www-jobilize-com-amp-job-us-pennsylvania-philadelphia-quantitative-analyst-associate-spring",
     "_source": "new_jobs"
   },
   {
@@ -1128,8 +1128,8 @@
     "job_longitude": -122.27262479999999,
     "job_benefits": [
       "health_insurance",
-      "paid_time_off",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DCtoBnVmesP676zg1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1166,133 +1166,6 @@
     "job_onet_soc": "13209900",
     "job_onet_job_zone": "4",
     "id": "becu-wd1-myworkdayjobs-com-en-us-external-job-erm-quantitative-analyst_r-13015",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "fLCKY6yi-Al7jlDnAAAAAA==",
-    "job_title": "Senior Quantitative Analyst (Quant)",
-    "employer_name": "WhatJobs Direct",
-    "employer_logo": null,
-    "employer_website": "https://en-ng.whatjobs.com",
-    "job_publisher": "WhatJobs",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.whatjobs.com/jobs/quantitative-analyst?id=2440140593&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/quantitative-analyst?id=2440140593&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Our client, a prestigious and rapidly growing financial institution, is looking for a highly analytical and mathematically inclined Senior Quantitative Analyst (Quant) to join their innovative team in Provo, Utah . This role is instrumental in developing sophisticated financial models and strategies that drive investment performance and risk management.\n\nThe Senior Quant will be responsible for designing, implementing, and validating complex mathematical models used for pricing derivatives, managing risk, optimizing portfolios, and algorithmic trading strategies. This position requires a deep understanding of financial markets, advanced statistical techniques, and programming proficiency. The successful candidate will work closely with traders, portfolio managers, and risk officers to provide actionable insights and solutions.\n\nKey responsibilities include:\nDeveloping, testing, and deploying quantitative models for derivative pricing, risk assessment, and portfolio optimization. Implementing and backtesting trading algorithms and strategies using historical and real-time market data. Performing rigorous statistical analysis on large datasets to identify market patterns, trends, and opportunities. Collaborating with front-office teams to understand their needs and translate them into quantitative solutions. Communicating complex quantitative concepts and results clearly and effectively to both technical and non-technical audiences. Maintaining and improving existing models, ensuring their accuracy, robustness, and compliance with regulatory requirements. Conducting research into new methodologies and technologies to enhance quantitative capabilities. Working with IT and data engineering teams to ensure efficient data sourcing and model deployment pipelines. Monitoring model performance and identifying potential risks or areas for improvement. Staying abreast of the latest developments in financial mathematics, econometrics, and computational finance. A Master's or Ph.D. in a quantitative field such as Financial Mathematics, Physics, Statistics, Computer Science, or Economics is required, along with a minimum of 5 years of relevant experience in quantitative finance. Proven expertise in programming languages like Python, C++, or R, and experience with financial libraries and databases are essential. Strong knowledge of stochastic calculus, time series analysis, machine learning, and financial derivatives is highly desirable. Exceptional analytical, problem-solving, and communication skills are critical for success in this challenging role. This is an outstanding opportunity to contribute to a leading firm in a stimulating and rewarding environment.",
-    "job_is_remote": false,
-    "job_posted_at": "13 days ago",
-    "job_posted_at_timestamp": 1770163200,
-    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
-    "job_location": "Provo, UT",
-    "job_city": "Provo",
-    "job_state": "Utah",
-    "job_country": "US",
-    "job_latitude": 40.233534899999995,
-    "job_longitude": -111.66697889999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DfLCKY6yi-Al7jlDnAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "This position requires a deep understanding of financial markets, advanced statistical techniques, and programming proficiency",
-        "Staying abreast of the latest developments in financial mathematics, econometrics, and computational finance",
-        "A Master's or Ph.D. in a quantitative field such as Financial Mathematics, Physics, Statistics, Computer Science, or Economics is required, along with a minimum of 5 years of relevant experience in quantitative finance",
-        "Proven expertise in programming languages like Python, C++, or R, and experience with financial libraries and databases are essential",
-        "Exceptional analytical, problem-solving, and communication skills are critical for success in this challenging role"
-      ],
-      "Responsibilities": [
-        "The Senior Quant will be responsible for designing, implementing, and validating complex mathematical models used for pricing derivatives, managing risk, optimizing portfolios, and algorithmic trading strategies",
-        "The successful candidate will work closely with traders, portfolio managers, and risk officers to provide actionable insights and solutions",
-        "Developing, testing, and deploying quantitative models for derivative pricing, risk assessment, and portfolio optimization",
-        "Implementing and backtesting trading algorithms and strategies using historical and real-time market data",
-        "Performing rigorous statistical analysis on large datasets to identify market patterns, trends, and opportunities",
-        "Collaborating with front-office teams to understand their needs and translate them into quantitative solutions",
-        "Communicating complex quantitative concepts and results clearly and effectively to both technical and non-technical audiences",
-        "Maintaining and improving existing models, ensuring their accuracy, robustness, and compliance with regulatory requirements",
-        "Conducting research into new methodologies and technologies to enhance quantitative capabilities",
-        "Working with IT and data engineering teams to ensure efficient data sourcing and model deployment pipelines",
-        "Monitoring model performance and identifying potential risks or areas for improvement"
-      ]
-    },
-    "job_onet_soc": "13209900",
-    "job_onet_job_zone": "4",
-    "id": "www-whatjobs-com-jobs-quantitative-analyst",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "V8nCmowtoU_lZUKMAAAAAA==",
-    "job_title": "Quantitative Analyst - AI Trainer",
-    "employer_name": "DataAnnotation",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmFAEbGBGuTC86qHygLnrmWCQHe6qjTH1FkcGK&s=0",
-    "employer_website": "https://dataannotation.tech",
-    "job_publisher": "Jobs.venturebeat.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobs.venturebeat.com/job/quantitative-analyst-ai-trainer--frG-VfHrB-at-dataannotation?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Jobs.venturebeat.com",
-        "apply_link": "https://jobs.venturebeat.com/job/quantitative-analyst-ai-trainer--frG-VfHrB-at-dataannotation?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BusinessBecause Jobs",
-        "apply_link": "https://jobs.businessbecause.com/job/quantitative-analyst-ai-trainer--frG-VfHrB-at-dataannotation?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Seth Lui Job Search",
-        "apply_link": "https://jobs.sethlui.com/job/quantitative-analyst-ai-trainer--frG-VfHrB-at-dataannotation?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Www.talent.com",
-        "apply_link": "https://www.talent.com/view?id=547ae171d8b2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobs ExForces",
-        "apply_link": "https://jobsforces.net/jobs/financial-analyst-ai-trainer-50-60-hour-alpharetta-georgia/2600120848-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "We are looking for a quantitative analyst to join our team to train AI models. You will measure the progress of these AI chatbots, evaluate their logic, and solve problems to improve the quality of each model.In this role you will need to hold an expert level of mathematical reasoning- a completed or in progress Masters/PhD is preferred but not required. Other related fields include, but are not limited to: Applied Math and/or Computer Science.Benefits:* This is a full-time or part-time REMOTE position* You’ll be able to choose which projects you want to work on* You can work on your own schedule* Projects are paid hourly starting at $40+ per hour, with bonuses on high-quality and high-volume workResponsibilities:* Give AI chatbots diverse and complex mathematics problems and evaluate their outputs* Evaluate the quality produced by AI models for correctness and performanceQualifications:* Fluency in English (native or bilingual level)* Detail-oriented* Proficient in mathematics, arithmetic, algebra, geometry, calculus, probability, statistics, and inductive/ deductive reasoning* A current, in progress, or completed Masters and/or PhD is preferred but not requiredNote: Payment is made via PayPal. We will never ask for any money from you.#INDUSMAJob Types: Full-time, Part-timePay: From $40.00 per hourWork Location: Remote",
-    "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Alpharetta, GA",
-    "job_city": "Alpharetta",
-    "job_state": "Georgia",
-    "job_country": "US",
-    "job_latitude": 34.0746204,
-    "job_longitude": -84.29228619999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DV8nCmowtoU_lZUKMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {},
-    "job_onet_soc": "13209900",
-    "job_onet_job_zone": "4",
-    "id": "jobs-venturebeat-com-job-quantitative-analyst-ai-trainer-frg-vfhrb-at-dataannotation",
     "_source": "new_jobs"
   },
   {
@@ -1377,130 +1250,112 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "7CM7ZADy8XQIzeEqAAAAAA==",
-    "job_title": "Quantitative Model Validation Analyst - Credit Risk",
-    "employer_name": "US Bank",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUN_Wj6nP0ShxAYUbT3iK5aOcyUsw9ESXd-QxD&s=0",
-    "employer_website": "https://www.usbank.com",
-    "job_publisher": "ZipRecruiter",
+    "job_id": "rZcV645aELkxOlf7AAAAAA==",
+    "job_title": "Trader/Quant Analyst",
+    "employer_name": "Point72",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs1ydbtGCa8bSD5x-_7fDGxR8J4BkP5YNvEQcd&s=0",
+    "employer_website": "https://point72.com",
+    "job_publisher": "Glassdoor",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/U.S.-Bank/Job/Quantitative-Model-Validation-Analyst-Credit-Risk/-in-Charlotte,NC?jid=ec6969c5c907b900&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
+    "job_apply_link": "https://www.glassdoor.com/job-listing/trader-quant-analyst-point72-JV_IC1131609_KO0,20_KE21,28.htm?jl=1009998192667&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/U.S.-Bank/Job/Quantitative-Model-Validation-Analyst-Credit-Risk/-in-Charlotte,NC?jid=ec6969c5c907b900&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/trader-quant-analyst-point72-JV_IC1131609_KO0,20_KE21,28.htm?jl=1009998192667&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
       },
       {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/quantitative-model-validation-analyst-credit-charlotte-us-bank-b730e4f257dfabe7c9ffbf21d5f041d9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "IHireBanking",
-        "apply_link": "https://www.ihirebanking.com/jobs/view/508342676?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "OPTnation",
+        "apply_link": "https://www.optnation.com/jrbusiness-analyst-job-in-stanford-ct-view-jobid-23559?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/quantitative-model-analyst-model-risk-management-fraud-validation_1a49bba4-4a59-4369-9db5-362ebb77e2d4?target_titles=risk+management+analyst&page=23&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.tealhq.com/job/trader-quant-analyst_7ea1a682068956d35381350fed18a82e123b4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "EarnBetter",
-        "apply_link": "https://earnbetter.com/app/job/01KG8W2G4MS2FE4H4GWBB2DHP5/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/qkL08sNRjURvwVDOqEypBGabc_YDh2C6SCNEOvuXlQGiiGlZztgsTg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/quantitative-analysis?id=2425735574&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/6968803a1703f05405aa3df9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Adzuna",
-        "apply_link": "https://www.adzuna.com/details/5607014276?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Wall Street Careers",
+        "apply_link": "https://jobs.wallstreetcareers.com/jobs/269379298-trader-quant-analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/trader-quant-analyst-at-point72-4362347869?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/560bfb34c40e842e861cc59e5a12a201?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "At U.S. Bank, we're on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and discover what you excel at-all from Day One.\n\nJob Description\n\nThis role will be part of a highly visible and dynamic quantitative risk function within U.S. Bank that leads Stress Testing (CCAR) and Current Expected Credit Losses (CECL) estimations. The primary duty of the job is to create, validate, test, document, implement and/or oversee usage of complex statistical models that are used as part of financial decision-making process. Deliverable to regulatory and senior management includes the creation of comprehensive written reports, modeling code, business requirements, monitoring reports and related code, and procedures.\n\nJob Description:\n\nThis position will work on a combination of Stress Testing (CCAR) and Credit Expected Credit Losses (CECL) estimations statistical models. The role requires to develop, validate risk forecasting models, probability of Default (PD), Loss Given Default (LGD), Exposure at Default (EAD), Net Charge-off (NetCo), and Economic Factor Models.\n\nThis role emphasizes complex statistical models under CCAR stress testing guidance and CECL ASU rule. This role requires experience with development process, quarterly continuous monitoring process, inaugural validation process, and capital reconciliation process. Also, the role requires knowledge of the bank's reporting data system to complete development/validation data compilation and implementation verification, and experience to manage and track recommendations.\n\nSpecifically:\n\nThree plus years of large size commercial bank working experience in risk model validation. Advanced experience of financial statistical modeling methods (Hazard models, Regression models, Decision Tree models, Time Series, Machine Learning, etc.) Related experience with Probability of Default (PD), Loss Given Default (LGD), and Exposure at Default (EAD) models for CCAR and CECL. Working experience in CCAR and CECL estimation for both retail and wholesale portfolios, including portfolio such as Residential Mortgage, Consumer Credit Cards/Lines, Wholesale C&I, Wholesale CRE, and Small Business. Familiar with the bank reporting and data system. Have advanced ability to deal with large data and complete model validation and implementation verification process. Ability to write and enhance automated testing programs for model performance assessment.\n\nBasic Qualifications:\n• Bachelor's degree in a quantitative field, and five or more years of relevant experience\nOR\n• MA/MS in a quantitative field, and three or more years of related experience\nOR\n• PhD in a quantitative field, and less than two years of related experience\n\nPreferred Skills/Experience\n\nAn advanced quantitative field degree (MA/MS or PHD) is required. The role should have financial industry experience in statistical programming including Python, SAS, R, and SQL. The analyst is also responsible for ensuring models are consistent with the bank's risk management policies, procedures, and practices by directly interacting with model owners, senior managers such as portfolio risk management, corporate finance, external reporting, audit services, and industry experts, which requires advanced level of presentation, relationship building, and negotiation skills.\n• Advanced degree in quantitative discipline (MS/MA/PHD).\n• This role prefers education background to cover both quantitative skills and business or financial knowledge such as Mathematical plus finance degrees, Statistic plus Economics, Scientific Computation, Operational research engineering plus business administration.\n• Strong statistical programming skills in Python, SAS, R, SQL. A programming certification is a plus.\n• Strong oral and written communication skills, capable of addressing both technical and non-technical audience.\n• Experience interpreting and applying complex financial regulations or accounting standards.\n• Responsible for delivering and reviewing comprehensive written model technical documents to present outcomes to senior management of related department across the bank and regulatory agencies.\n\nLOCATION EXPECTATIONS: This role requires working from a U.S. Bank Location three (3) or more days per week.\n\nIf there's anything we can do to accommodate a disability during any portion of the application or hiring process, please refer to ourdisability accommodations for applicants.\n\nBenefits:\n\nOur approach to benefits and total rewards considers our team members' whole selves and what may be needed to thrive in and outside work. That's why our benefits are designed to help you and your family boost your health, protect your financial security and give you peace of mind. Our benefits include the following:\n• Healthcare (medical, dental, vision)\n• Basic term and optional term life insurance\n• Short-term and long-term disability\n• Pregnancy disability and parental leave\n• 401(k) and employer-funded retirement plan\n• Paid vacation (from two to five weeks depending on salary grade and tenure)\n• Up to 11 paid holiday opportunities\n• Adoption assistance\n• Sick and Safe Leave accruals of one hour for every 30 worked, up to 80 hours per calendar year unless otherwise provided by law\n\nReview our full benefits available by employment status here.\n\nU.S. Bank is an equal opportunity employer. We consider all qualified applicants without regard to race, religion, color, sex, national origin, age, sexual orientation, gender identity, disability or veteran status, and other factors protected under applicable law.\n\nE-Verify\n\nU.S. Bank participates in the U.S. Department of Homeland Security E-Verify program in all facilities located in the United States and certain U.S. territories. The E-Verify program is an Internet-based employment eligibility verification system operated by the U.S. Citizenship and Immigration Services. Learn more about theE-Verify program.\n\nThe salary range reflects figures based on the primary location, which is listed first. The actual range for the role may differ based on the location of the role. In addition to salary, U.S. Bank offers a comprehensive benefits package, including incentive and recognition programs, equity stock purchase 401(k) contribution and pension (all benefits are subject to eligibility requirements). Pay Range: $105,400.00 - $124,000.00\n\nU.S. Bank will consider qualified applicants with arrest or conviction records for employment. U.S. Bank conducts background checks consistent with applicable local laws, including the Los Angeles County Fair Chance Ordinance and the California Fair Chance Act as well as the San Francisco Fair Chance Ordinance. U.S. Bank is subject to, and conducts background checks consistent with the requirements of Section 19 of the Federal Deposit Insurance Act (FDIA). In addition, certain positions may also be subject to the requirements of FINRA, NMLS registration, Reg Z, Reg G, OFAC, the NFA, the FCPA, the Bank Secrecy Act, the SAFE Act, and/or federal guidelines applicable to an agreement, such as those related to ethics, safety, or operational procedures.\n\nApplicants must be able to comply with U.S. Bank policies and procedures including the Code of Ethics and Business Conduct and related workplace conduct and safety policies.\n\nPosting may be closed earlier due to high volume of applicants.",
+    "job_description": "EXPERIENCE\n\nExperienced Professionals\n\nLOCATION\n\nNew York | Stamford\n\nFOCUS\n\nGlobal Macro Investing\n\nBUSINESS\n\nPoint72\n\nSummary:\n\nWe are seeking a highly motivated and detail-oriented Trader/Quant Analyst with a strong background in trading and data analysis to join our investment team. The ideal candidate will have at least 3 years of experience in convertible securities (or equity/FX/rates derivatives), relative value trading strategies, and quant data analysis. The role will combine active trading and risk management and quantitative analysis to identify and execute profitable opportunities in the convertible space.\n\nRole/Responsibilities:\n• Identify relative value opportunities between convertible bonds, the underlying equity, and credit derivatives.\n• Execute trades in convertible securities, related equities, and hedges in alignment with investment theses and risk parameters.\n• Manage existing positions proactively, assessing changes in valuation, liquidity, and market sentiment.\n• Conduct in-depth quant data analysis on the convertible bond universe, including historical pricing and valuation.\n• Model and evaluate convertible securities across multiple scenarios, analyzing risks related to credit, interest rates, volatility, and equity sensitivity.\n• Build front-office tools to analyze convert universe data for idea generation, trade optimization, and risk management.\n• Coordinate with the portfolio manager and risk team to size positions appropriately and adhere to pre-defined risk limits.\n• Track and analyze P&L drivers on a daily basis and provide attribution reports.\n• Hedge exposures dynamically using equity, credit, and derivative instruments.\n• Work closely with other analysts, traders, and portfolio managers across strategies to share insights and generate synergies.\n• Maintain strong relationships with sell-side counterparties and market participants to source information and enhance trade execution.\n\nRequirements:\n• Bachelor’s degree in finance, economics, mathematics, engineering, or related field; advanced degree or CFA preferred.\n• 3+ years of experience in convertible bond trading with a quant/programming skillset.\n• Strong understanding of credit markets, bond math, equity derivatives, and volatility analysis.\n• Proficiency in modeling convertible securities and scenario analysis.\n• Familiarity with risk management systems and trading platforms (e.g., Bloomberg, Tradeweb).\n• Strong analytical and quantitative data skills; proficiency in Excel and at least one programming language (Python, R, VBA) is required.\n• Excellent communication skills and ability to work in a fast-paced, team-oriented environment.\n• Commitment to the highest ethical standards.\n\nAbout Point72:\n\nPoint72 is a leading global alternative investment firm led by Steven A. Cohen. Building on more than 30 years of investing experience, Point72 seeks to deliver superior returns for its investors through fundamental and systematic investing strategies across asset classes and geographies. We aim to attract and retain the industry’s brightest talent by cultivating an investor-led culture and committing to our people’s long-term growth.\n\nThe annual base salary for this role is $150,000 (USD) , which does not include discretionary bonus compensation or our comprehensive benefits package. Actual compensation offered to the successful candidate may vary from posted hiring based upon geographic location, work experience, education, and/or skill level, among other things.",
     "job_is_remote": false,
-    "job_posted_at": "8 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "Charlotte, NC",
-    "job_city": "Charlotte",
-    "job_state": "North Carolina",
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Stamford, CT",
+    "job_city": "Stamford",
+    "job_state": "Connecticut",
     "job_country": "US",
-    "job_latitude": 35.2270768,
-    "job_longitude": -80.84089329999999,
+    "job_latitude": 41.052798599999996,
+    "job_longitude": -73.5394821,
     "job_benefits": [
-      "dental_coverage",
-      "paid_time_off",
       "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D7CM7ZADy8XQIzeEqAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DrZcV645aELkxOlf7AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": null,
     "job_max_salary": null,
-    "job_salary_period": null,
+    "job_salary_period": "YEAR",
     "job_highlights": {
       "Qualifications": [
-        "Also, the role requires knowledge of the bank's reporting data system to complete development/validation data compilation and implementation verification, and experience to manage and track recommendations",
-        "Three plus years of large size commercial bank working experience in risk model validation",
-        "Advanced experience of financial statistical modeling methods (Hazard models, Regression models, Decision Tree models, Time Series, Machine Learning, etc.)",
-        "Related experience with Probability of Default (PD), Loss Given Default (LGD), and Exposure at Default (EAD) models for CCAR and CECL",
-        "Working experience in CCAR and CECL estimation for both retail and wholesale portfolios, including portfolio such as Residential Mortgage, Consumer Credit Cards/Lines, Wholesale C&I, Wholesale CRE, and Small Business",
-        "Familiar with the bank reporting and data system",
-        "Have advanced ability to deal with large data and complete model validation and implementation verification process",
-        "Ability to write and enhance automated testing programs for model performance assessment",
-        "Bachelor's degree in a quantitative field, and five or more years of relevant experience",
-        "MA/MS in a quantitative field, and three or more years of related experience",
-        "PhD in a quantitative field, and less than two years of related experience",
-        "An advanced quantitative field degree (MA/MS or PHD) is required",
-        "The role should have financial industry experience in statistical programming including Python, SAS, R, and SQL",
-        "The analyst is also responsible for ensuring models are consistent with the bank's risk management policies, procedures, and practices by directly interacting with model owners, senior managers such as portfolio risk management, corporate finance, external reporting, audit services, and industry experts, which requires advanced level of presentation, relationship building, and negotiation skills",
-        "Advanced degree in quantitative discipline (MS/MA/PHD)",
-        "This role prefers education background to cover both quantitative skills and business or financial knowledge such as Mathematical plus finance degrees, Statistic plus Economics, Scientific Computation, Operational research engineering plus business administration",
-        "Strong statistical programming skills in Python, SAS, R, SQL",
-        "Strong oral and written communication skills, capable of addressing both technical and non-technical audience",
-        "Experience interpreting and applying complex financial regulations or accounting standards",
-        "Responsible for delivering and reviewing comprehensive written model technical documents to present outcomes to senior management of related department across the bank and regulatory agencies",
-        "In addition, certain positions may also be subject to the requirements of FINRA, NMLS registration, Reg Z, Reg G, OFAC, the NFA, the FCPA, the Bank Secrecy Act, the SAFE Act, and/or federal guidelines applicable to an agreement, such as those related to ethics, safety, or operational procedures",
-        "Applicants must be able to comply with U.S. Bank policies and procedures including the Code of Ethics and Business Conduct and related workplace conduct and safety policies"
+        "We are seeking a highly motivated and detail-oriented Trader/Quant Analyst with a strong background in trading and data analysis to join our investment team",
+        "The ideal candidate will have at least 3 years of experience in convertible securities (or equity/FX/rates derivatives), relative value trading strategies, and quant data analysis",
+        "3+ years of experience in convertible bond trading with a quant/programming skillset",
+        "Strong understanding of credit markets, bond math, equity derivatives, and volatility analysis",
+        "Proficiency in modeling convertible securities and scenario analysis",
+        "Familiarity with risk management systems and trading platforms (e.g., Bloomberg, Tradeweb)",
+        "Strong analytical and quantitative data skills; proficiency in Excel and at least one programming language (Python, R, VBA) is required",
+        "Excellent communication skills and ability to work in a fast-paced, team-oriented environment",
+        "Commitment to the highest ethical standards"
       ],
       "Benefits": [
-        "Our approach to benefits and total rewards considers our team members' whole selves and what may be needed to thrive in and outside work",
-        "That's why our benefits are designed to help you and your family boost your health, protect your financial security and give you peace of mind",
-        "Healthcare (medical, dental, vision)",
-        "Basic term and optional term life insurance",
-        "Short-term and long-term disability",
-        "Pregnancy disability and parental leave",
-        "401(k) and employer-funded retirement plan",
-        "Paid vacation (from two to five weeks depending on salary grade and tenure)",
-        "Up to 11 paid holiday opportunities",
-        "Adoption assistance",
-        "Sick and Safe Leave accruals of one hour for every 30 worked, up to 80 hours per calendar year unless otherwise provided by law",
-        "In addition to salary, U.S. Bank offers a comprehensive benefits package, including incentive and recognition programs, equity stock purchase 401(k) contribution and pension (all benefits are subject to eligibility requirements)",
-        "Pay Range: $105,400.00 - $124,000.00"
+        "The annual base salary for this role is $150,000 (USD) , which does not include discretionary bonus compensation or our comprehensive benefits package",
+        "Actual compensation offered to the successful candidate may vary from posted hiring based upon geographic location, work experience, education, and/or skill level, among other things"
       ],
       "Responsibilities": [
-        "This role will be part of a highly visible and dynamic quantitative risk function within U.S. Bank that leads Stress Testing (CCAR) and Current Expected Credit Losses (CECL) estimations",
-        "The primary duty of the job is to create, validate, test, document, implement and/or oversee usage of complex statistical models that are used as part of financial decision-making process",
-        "Deliverable to regulatory and senior management includes the creation of comprehensive written reports, modeling code, business requirements, monitoring reports and related code, and procedures",
-        "This position will work on a combination of Stress Testing (CCAR) and Credit Expected Credit Losses (CECL) estimations statistical models",
-        "The role requires to develop, validate risk forecasting models, probability of Default (PD), Loss Given Default (LGD), Exposure at Default (EAD), Net Charge-off (NetCo), and Economic Factor Models",
-        "This role emphasizes complex statistical models under CCAR stress testing guidance and CECL ASU rule",
-        "This role requires experience with development process, quarterly continuous monitoring process, inaugural validation process, and capital reconciliation process",
-        "LOCATION EXPECTATIONS: This role requires working from a U.S. Bank Location three (3) or more days per week"
+        "The role will combine active trading and risk management and quantitative analysis to identify and execute profitable opportunities in the convertible space",
+        "Identify relative value opportunities between convertible bonds, the underlying equity, and credit derivatives",
+        "Execute trades in convertible securities, related equities, and hedges in alignment with investment theses and risk parameters",
+        "Manage existing positions proactively, assessing changes in valuation, liquidity, and market sentiment",
+        "Conduct in-depth quant data analysis on the convertible bond universe, including historical pricing and valuation",
+        "Model and evaluate convertible securities across multiple scenarios, analyzing risks related to credit, interest rates, volatility, and equity sensitivity",
+        "Build front-office tools to analyze convert universe data for idea generation, trade optimization, and risk management",
+        "Coordinate with the portfolio manager and risk team to size positions appropriately and adhere to pre-defined risk limits",
+        "Track and analyze P&L drivers on a daily basis and provide attribution reports",
+        "Hedge exposures dynamically using equity, credit, and derivative instruments",
+        "Work closely with other analysts, traders, and portfolio managers across strategies to share insights and generate synergies",
+        "Maintain strong relationships with sell-side counterparties and market participants to source information and enhance trade execution"
       ]
     },
-    "job_onet_soc": "13204100",
-    "job_onet_job_zone": "4",
-    "id": "www-ziprecruiter-com-c-u-s-bank-job-quantitative-model-validation-analyst-credit-risk-in-charlotte-nc",
+    "job_onet_soc": "41303100",
+    "job_onet_job_zone": "3",
+    "id": "www-glassdoor-com-job-listing-trader-quant-analyst-point72-jv_ic1131609_ko0-20_ke21-28-htm",
     "_source": "new_jobs"
   },
   {
@@ -1585,6 +1440,123 @@
     "job_onet_soc": "19309400",
     "job_onet_job_zone": "5",
     "id": "careers-cfainstitute-org-job-senior-quantitative-researcher-futures-in-personhybridremote-82331195",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "V8nCmowtoU_lZUKMAAAAAA==",
+    "job_title": "Quantitative Analyst - AI Trainer",
+    "employer_name": "DataAnnotation",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmFAEbGBGuTC86qHygLnrmWCQHe6qjTH1FkcGK&s=0",
+    "employer_website": "https://www.dataannotation.tech",
+    "job_publisher": "Jobs.venturebeat.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.venturebeat.com/job/quantitative-analyst-ai-trainer--frG-VfHrB-at-dataannotation?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Jobs.venturebeat.com",
+        "apply_link": "https://jobs.venturebeat.com/job/quantitative-analyst-ai-trainer--frG-VfHrB-at-dataannotation?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BusinessBecause Jobs",
+        "apply_link": "https://jobs.businessbecause.com/job/quantitative-analyst-ai-trainer--frG-VfHrB-at-dataannotation?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Seth Lui Job Search",
+        "apply_link": "https://jobs.sethlui.com/job/quantitative-analyst-ai-trainer--frG-VfHrB-at-dataannotation?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Www.talent.com",
+        "apply_link": "https://www.talent.com/view?id=547ae171d8b2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobs ExForces",
+        "apply_link": "https://jobsforces.net/jobs/financial-analyst-ai-trainer-50-60-hour-alpharetta-georgia/2600120848-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "We are looking for a quantitative analyst to join our team to train AI models. You will measure the progress of these AI chatbots, evaluate their logic, and solve problems to improve the quality of each model.In this role you will need to hold an expert level of mathematical reasoning- a completed or in progress Masters/PhD is preferred but not required. Other related fields include, but are not limited to: Applied Math and/or Computer Science.Benefits:* This is a full-time or part-time REMOTE position* You’ll be able to choose which projects you want to work on* You can work on your own schedule* Projects are paid hourly starting at $40+ per hour, with bonuses on high-quality and high-volume workResponsibilities:* Give AI chatbots diverse and complex mathematics problems and evaluate their outputs* Evaluate the quality produced by AI models for correctness and performanceQualifications:* Fluency in English (native or bilingual level)* Detail-oriented* Proficient in mathematics, arithmetic, algebra, geometry, calculus, probability, statistics, and inductive/ deductive reasoning* A current, in progress, or completed Masters and/or PhD is preferred but not requiredNote: Payment is made via PayPal. We will never ask for any money from you.#INDUSMAJob Types: Full-time, Part-timePay: From $40.00 per hourWork Location: Remote",
+    "job_is_remote": false,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Alpharetta, GA",
+    "job_city": "Alpharetta",
+    "job_state": "Georgia",
+    "job_country": "US",
+    "job_latitude": 34.0746204,
+    "job_longitude": -84.29228619999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DV8nCmowtoU_lZUKMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {},
+    "job_onet_soc": "13209900",
+    "job_onet_job_zone": "4",
+    "id": "jobs-venturebeat-com-job-quantitative-analyst-ai-trainer-frg-vfhrb-at-dataannotation",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "E82rXG8vPOzO7qX9AAAAAA==",
+    "job_title": "Quant Execution Trader (Cash Equities) - $80bn AUM Hedge Fund (NOT a pod shop, path to managing risk), NYC",
+    "employer_name": "Aurum Search Limited",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4mCcqfBnScTjC15maAc7aolAjvJAU0kZSdb7g&s=0",
+    "employer_website": null,
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/quant-execution-trader-cash-equities-%2480bn-aum-hedge-fund-not-a-pod-shop-path-to-managing-risk-nyc-at-aurum-search-limited-4359575424?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/quant-execution-trader-cash-equities-%2480bn-aum-hedge-fund-not-a-pod-shop-path-to-managing-risk-nyc-at-aurum-search-limited-4359575424?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/698498f90f6f7e7a2cdf0bc8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "My client is an $80bn AUM, multi-strategy hedge fund, but NOT pod shop. They have a very different culture and op model to the likes of Citadel and Millennium.\n\nThere is an immediate requirement for a quantitative execution trader, with a cash equities focus, to join a global team responsible for the management and enhancement of the firms automated trading processes.\n\nThis is a role that requires the incumbent to manage large order flows, maximize execution quality and aggressively source external liquidity. This individual will be highly analytical and pro-active in driving performance improvements, possessing the skillset to move into a role managing their own capital going forward.\n\nIf you would be interested in learning more about this opportunity please respond to this ad or email me at swiggins@aurumsearch.com",
+    "job_is_remote": false,
+    "job_posted_at": "12 days ago",
+    "job_posted_at_timestamp": 1770249600,
+    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
+    "job_location": "New York, NY",
+    "job_city": "New York",
+    "job_state": "New York",
+    "job_country": "US",
+    "job_latitude": 40.7127753,
+    "job_longitude": -74.0059728,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DE82rXG8vPOzO7qX9AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Responsibilities": [
+        "There is an immediate requirement for a quantitative execution trader, with a cash equities focus, to join a global team responsible for the management and enhancement of the firms automated trading processes",
+        "This is a role that requires the incumbent to manage large order flows, maximize execution quality and aggressively source external liquidity",
+        "This individual will be highly analytical and pro-active in driving performance improvements, possessing the skillset to move into a role managing their own capital going forward"
+      ]
+    },
+    "job_onet_soc": "41303100",
+    "job_onet_job_zone": "3",
+    "id": "www-linkedin-com-jobs-view-quant-execution-trader-cash-equities-2480bn-aum-hedge-fund-not-a-pod-shop-path-to-managing-risk-nyc-at-aurum-search-limited-4359575424",
     "_source": "new_jobs"
   }
 ]
