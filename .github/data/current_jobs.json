@@ -126,8 +126,8 @@
     "job_latitude": 41.3164856,
     "job_longitude": -73.0931641,
     "job_benefits": [
-      "health_insurance",
-      "paid_time_off"
+      "paid_time_off",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DoYDzdGwTWe3rS-Y_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -491,9 +491,9 @@
     "job_latitude": 37.33874,
     "job_longitude": -121.88525249999999,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwVWF3pg9aRcXvjI6AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -752,6 +752,133 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "www-builtinsf-com-job-ai-machine-learning-engineering-intern-ms-ph-d-new-grad-8052815",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "oT226yqIsfd8MMI2AAAAAA==",
+    "job_title": "2026 Annapurna Labs at AWS Internships (US) - Machine Learning Systems & Silicon Innovation",
+    "employer_name": "Annapurna Labs (U.S.) Inc. - D63",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNhvF9EGO240KecCy-EZXI--1oeDiOBgHLdexL&s=0",
+    "employer_website": null,
+    "job_publisher": "Indeed",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.indeed.com/viewjob?jk=c55f1283ecf9df81&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=c55f1283ecf9df81&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Amazon/Job/2026-Annapurna-Labs-at-AWS-Internships-(US)-Machine-Learning-Systems-&-Silicon-Innovation/-in-Cupertino,CA?jid=94599c096c59dd77&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/693279fea0dde7020e2e72fa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/3c92a54ce11d8cad34c6a8f73ea70cd2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/2026-annapurna-labs-at-aws-internships-us-machine-learning-systems-silicon-innovation-at-amazon-web-services-aws-4342235544?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/2026-annapurna-labs-at-aws-internships-us-machine-learning-systems-and-silicon-innovation-amazon-web-services-JV_IC1147422_KO0,89_KE90,109.htm?jl=1010036138756&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "| USNLX Veterans Jobs - National Labor Exchange",
+        "apply_link": "https://veterans.usnlx.com/cupertino-ca/2026-annapurna-labs-at-aws-internships-us-machine-learning-systems-silicon-innovation/C683C75C4D31417096F44E2A8421CDC9/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/2026-annapurna-labs-at-aws-internships-cupertino-amazoncom-inc-6adf7c3c41660be027dad8f86b36283f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "DESCRIPTION\n\nWhat if you could help build something that's never existed before? At Annapurna Labs, an Amazon company, we're not just participating in the AI revolution, we're accelerating it. We design custom silicon and revolutionary software systems that were considered impossible just yesterday, powering the world's most advanced AI infrastructure at AWS. From training the largest language models on Earth to developing breakthrough ML accelerator chips, we're inventing the future of cloud computing.\n\nWe're seeking bold innovators and builders for our 2026 internship program. At Annapurna Labs, you'll work on projects that directly impact millions of AWS customers worldwide, tackling real technical challenges that push the boundaries of what's possible in AI acceleration. Our program offers multiple technical tracks, matching your skills and interests with projects across our organization.\n\nWant to architect next-generation AI chips that process billions of parameters? Build distributed systems that scale across thousands of accelerators? Create compiler optimizations that make ML training blazingly fast? Whether your passion lies in hardware design, distributed systems, compiler development, or ML infrastructure, we'll help you find your perfect fit and make meaningful contributions from day one.\n\nSome of our technical tracks include:\n\nML Systems & Compilers\n• Framework Optimization (PyTorch, JAX)\n• Compiler Development & Optimization\n• Distributed Training Systems\n• Performance Engineering\n• ML Infrastructure Development\n\nSystems Software & Infrastructure\n• Firmware & Driver Development\n• Runtime Systems\n• Fleet Management & Automation\n• Hardware/Software Integration\n• Performance Analysis Tools\n\nSilicon Innovation & Design\n• RTL Development for ML Accelerators\n• Hardware Architecture & Modeling\n• Physical Design & Power Optimization\n• Custom Circuit Design\n• Pre/Post Silicon Validation\n\nYour placement will be determined through our interview process, taking into account your technical background, interests, and the exciting projects we have in development. One application opens the door to all these opportunities, so we'll work together to find where you can learn the most and have the biggest impact.\n\nA day in the life\n(*Real innovation rarely follows a perfect schedule, but here's a glimpse!)\n\n9:00 AM - Arrive at the office. First stop: Our micro-kitchen for coffee and breakfast snacks. Join other early (and not-so-early) birds as you fuel up for the day ahead.\n\n9:30 AM - Daily team stand-up. Share updates on your project, whether it's distributed training systems or chip design. Your mentor helps navigate any unfamiliar territory.\n\n10:00 AM - Deep work time. Dive into your project - optimizing ML frameworks, developing firmware, or designing next-gen AI accelerator chips.\n\n12:00 PM - Intern cohort lunch. Compare notes with fellow interns and learn about the different technical challenges across teams.\n\n1:30 PM - Collaboration with your mentor. Debug issues, brainstorm solutions, and ask those questions that have been on your mind.\n\n3:00 PM - Team meeting. See how your work connects to Annapurna Labs' broader mission of revolutionizing cloud computing.\n\n4:00 PM - Back to development. Continue project work, testing, or documentation.\n\n5:30 PM - Wrap up your day, having contributed to systems that will impact millions of AWS customers.\n\n6:00 PM - (Optional) Social time with the intern cohort. Pizza, bowling, tech talks, etc. There's usually something happening!\n\nRemember: While each day brings different challenges, you'll always be doing meaningful work that pushes the boundaries of AI acceleration, supported by a team that's as passionate about innovation as you are.\n\nAbout the team\nAt Annapurna Labs, our internship program is built on a foundation of meaningful work and genuine mentorship. You'll be part of a diverse cohort of interns from universities nationwide, each bringing unique perspectives to our mission of accelerating AI innovation. What sets us apart? Many of our senior engineers began their careers as interns here, creating a culture where mentorship isn't just a program - it's part of our DNA. Your experience will blend hands-on technical work with opportunities to connect with fellow interns through team events, tech talks, and social activities. We're proud that many of our interns return as full-time engineers, continuing to push the boundaries of what's possible in AI acceleration.\n\nBASIC QUALIFICATIONS\n• Work 40 hours/week minimum and commit to 12 week internship maximum\n• Currently pursuing a BS, MS, or PhD in Computer Science, Computer Engineering, Electrical Engineering, or related technical field\n• Must be enrolled in a full-time degree program at time of application and returning to school after the internship\n• Programming experience in C, C++, Python, or similar languages\n• Experience in two or more of the following areas: 1. Systems programming or low-level software development 2. Compiler design or optimization 3. Machine learning frameworks (PyTorch, JAX, TensorFlow) 4. Distributed systems or parallel computing 5. Performance analysis and optimization 6. Hardware design (RTL, Verilog, FPGA development)\n\nPREFERRED QUALIFICATIONS\n• Previous internship, research, or project experience in hardware/software co-design, ML systems, or computer architecture\n• Contributions to open-source projects or research publications\n• Completed or currently enrolled in coursework covering machine learning, parallel computing, computer architecture and/or compiler construction\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nLos Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe starting pay for this position is listed below. Final starting pay will be based on factors including experience, qualifications, and location. Starting Day 1 of employment, Amazon offers EAP, Mental Health Support, Medical Advice Line, 401(k) matching. Learn more about our benefits at https://hiring.amazon.com/why-amazon/benefits.\n\nUSA, CA, Cupertino - 127,100.00 - 185,000.00 USD annually\nUSA, TX, AUSTIN - 110,500.00 - 160,000.00 USD annually\nUSA, TX, Austin - 110,500.00 - 160,000.00 USD annually\nUSA, WA, SEATTLE - 110,500.00 - 160,000.00 USD annually\nUSA, WA, Seattle - 110,500.00 - 160,000.00 USD annually",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Cupertino, CA",
+    "job_city": "Cupertino",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.322997799999996,
+    "job_longitude": -122.03218229999999,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DoT226yqIsfd8MMI2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 110000,
+    "job_max_salary": 185000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "Hardware/Software Integration",
+        "Work 40 hours/week minimum and commit to 12 week internship maximum",
+        "Currently pursuing a BS, MS, or PhD in Computer Science, Computer Engineering, Electrical Engineering, or related technical field",
+        "Must be enrolled in a full-time degree program at time of application and returning to school after the internship",
+        "Programming experience in C, C++, Python, or similar languages",
+        "Experience in two or more of the following areas: 1",
+        "Systems programming or low-level software development 2",
+        "Compiler design or optimization 3. Machine learning frameworks (PyTorch, JAX, TensorFlow) 4",
+        "These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation"
+      ],
+      "Benefits": [
+        "Performance Engineering",
+        "Join other early (and not-so-early) birds as you fuel up for the day ahead",
+        "Final starting pay will be based on factors including experience, qualifications, and location",
+        "Starting Day 1 of employment, Amazon offers EAP, Mental Health Support, Medical Advice Line, 401(k) matching",
+        "USA, WA, SEATTLE - 110,500.00 - 160,000.00 USD annually",
+        "USA, WA, Seattle - 110,500.00 - 160,000.00 USD annually"
+      ],
+      "Responsibilities": [
+        "Whether your passion lies in hardware design, distributed systems, compiler development, or ML infrastructure, we'll help you find your perfect fit and make meaningful contributions from day one",
+        "Framework Optimization (PyTorch, JAX)",
+        "Compiler Development & Optimization",
+        "Distributed Training Systems",
+        "Runtime Systems",
+        "Fleet Management & Automation",
+        "RTL Development for ML Accelerators",
+        "Hardware Architecture & Modeling",
+        "Physical Design & Power Optimization",
+        "Custom Circuit Design",
+        "First stop: Our micro-kitchen for coffee and breakfast snacks",
+        "9:30 AM - Daily team stand-up",
+        "Share updates on your project, whether it's distributed training systems or chip design",
+        "Your mentor helps navigate any unfamiliar territory",
+        "10:00 AM - Deep work time",
+        "Dive into your project - optimizing ML frameworks, developing firmware, or designing next-gen AI accelerator chips",
+        "12:00 PM - Intern cohort lunch",
+        "Compare notes with fellow interns and learn about the different technical challenges across teams",
+        "1:30 PM - Collaboration with your mentor",
+        "Debug issues, brainstorm solutions, and ask those questions that have been on your mind",
+        "3:00 PM - Team meeting",
+        "4:00 PM - Back to development",
+        "Continue project work, testing, or documentation",
+        "5:30 PM - Wrap up your day, having contributed to systems that will impact millions of AWS customers",
+        "Distributed systems or parallel computing 5",
+        "Hardware design (RTL, Verilog, FPGA development)"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-indeed-com-viewjob",
     "_source": "new_jobs"
   },
   {
@@ -1209,6 +1336,62 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "thRD1XlmBBC84VgbAAAAAA==",
+    "job_title": "AI and Machine Learning Intern",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=57435c3697da&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=57435c3697da&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A company is looking for a Student II in Information Services focusing on AI and Machine Learning.\n\nKey Responsibilities\n\nDevelop custom machine learning models using Python and Scikit-learn\n\nEngage in model monitoring and data analytics using Azure Fabric Lakehouse\n\nGain exposure to HIPAA regulations and their impact on AI / ML applications\n\nRequired Qualifications\n\nCurrently enrolled in a degree program in Data Science, Computer Science, or a related field\n\nAbility to work both remotely and in-office as required\n\nInterest in gaining real-world experience in AI and machine learning\n\nWillingness to comply with policies protecting patient rights and confidentiality\n\nCommitment to complete required training for the position",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Torrance, CA",
+    "job_city": "Torrance",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 33.8369217,
+    "job_longitude": -118.34074509999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DthRD1XlmBBC84VgbAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Currently enrolled in a degree program in Data Science, Computer Science, or a related field",
+        "Ability to work both remotely and in-office as required",
+        "Interest in gaining real-world experience in AI and machine learning",
+        "Willingness to comply with policies protecting patient rights and confidentiality",
+        "Commitment to complete required training for the position"
+      ],
+      "Responsibilities": [
+        "Develop custom machine learning models using Python and Scikit-learn",
+        "Engage in model monitoring and data analytics using Azure Fabric Lakehouse",
+        "Gain exposure to HIPAA regulations and their impact on AI / ML applications"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "gDXKtA1JfhHtiSm6AAAAAA==",
     "job_title": "Machine Learning Intern - Protein Group",
     "employer_name": "Zymo Research Corporation",
@@ -1301,83 +1484,6 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "www-ziprecruiter-com-c-zymo-research-corporation-job-machine-learning-intern-protein-group-in-tustin-ca",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "ZD1Hl-HJdicm_03fAAAAAA==",
-    "job_title": "Machine Learning Intern/Co-op  (Spring 2026)",
-    "employer_name": "Cohere",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbXIpv87P5nMClSCLPkd0pZzFxEYy16ppphSry&s=0",
-    "employer_website": "https://cohere.com",
-    "job_publisher": "LinkedIn",
-    "job_employment_type": "Internship",
-    "job_employment_types": [
-      "INTERN"
-    ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/machine-learning-intern-co-op-spring-2026-at-cohere-4357649891?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/machine-learning-intern-co-op-spring-2026-at-cohere-4357649891?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Who are we?\n\nOur mission is to scale intelligence to serve humanity. We’re training and deploying frontier models for developers and enterprises who are building AI systems to power magical experiences like content generation, semantic search, RAG, and agents. We believe that our work is instrumental to the widespread adoption of AI.\n\nWe obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. We like to work hard and move fast to do what’s best for our customers.\n\nCohere is a team of researchers, engineers, designers, and more, who are passionate about their craft. Each person is one of the best in the world at what they do. We believe that a diverse range of perspectives is a requirement for building great products.\n\nJoin us on our mission and shape the future!\n\nWhy this role?\n\nShip state of the art models to production.\n\nDesign and implement novel research ideas.\n\nBuild elegant training/deployment pipelines.\n\nJoin us at a pivotal moment, shape what we build and wear multiple hats as an intern!\n\nOur recruitment process will begin in the upcoming weeks, and we will be carefully reviewing applications and assessing potential candidates for our internships. Should we find a suitable match with your qualifications and our requirements, we will be in touch to discuss the opportunity further and to advance your application to the next stage\n\nPlease Note: To be eligible for this position you should be a student currently enrolled in a post-secondary program, available for a full-time 3-6 month internship, co-op, or research work term.\n\nAs a Machine Learning Intern, You Will\n• Design, train and improve upon cutting-edge models.\n• Help us develop new techniques to train and serve models safer, better, and faster.\n• Train extremely large-scale models on massive datasets.\n• Explore continual and active learning strategies for streaming data.\n• Learn from experienced senior machine learning technical staff.\n• Work closely with product teams to develop solutions.\n\nYou May Be a Good Fit If You Have\n• Proficiency in Python and related ML frameworks such as Tensorflow, TF-Serving, JAX, and XLA/MLIR.\n• Experience using large-scale distributed training strategies.\n• Familiarity with autoregressive sequence models, such as Transformers.\n• Strong communication and problem-solving skills.\n• A demonstrated passion for applied NLP models and products.\n• Bonus: experience writing kernels for GPUs using CUDA.\n• Bonus: experience training on TPUs.\n• Bonus: papers at top-tier venues (such as NeurIPS, ICML, ICLR, AIStats, MLSys, JMLR, AAAI, Nature, COLING, ACL, EMNLP).\n\nIf some of the above doesn’t line up perfectly with your experience, we still encourage you to apply!\n\nWe value and celebrate diversity and strive to create an inclusive work environment for all. We welcome applicants from all backgrounds and are committed to providing equal opportunities. Should you require any accommodations during the recruitment process, please submit an Accommodations Request Form, and we will work together to meet your needs.\n\nFull-Time Employees At Cohere Enjoy These Perks\n\n🤝 An open and inclusive culture and work environment\n\n🧑💻 Work closely with a team on the cutting edge of AI research\n\n🍽 Weekly lunch stipend, in-office lunches & snacks\n\n🦷 Full health and dental benefits, including a separate budget to take care of your mental health\n\n🐣 100% Parental Leave top-up for up to 6 months\n\n🎨 Personal enrichment benefits towards arts and culture, fitness and well-being, quality time, and workspace improvement\n\n🏙 Remote-flexible, offices in Toronto, New York, San Francisco, London and Paris, as well as a co-working stipend\n\n✈️ 6 weeks of vacation (30 working days!)",
-    "job_is_remote": false,
-    "job_posted_at": "11 days ago",
-    "job_posted_at_timestamp": 1770336000,
-    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
-    "job_location": "San Francisco, CA",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.7749295,
-    "job_longitude": -122.4194155,
-    "job_benefits": [
-      "dental_coverage",
-      "paid_time_off",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DZD1Hl-HJdicm_03fAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Please Note: To be eligible for this position you should be a student currently enrolled in a post-secondary program, available for a full-time 3-6 month internship, co-op, or research work term",
-        "You May Be a Good Fit If You Have",
-        "Proficiency in Python and related ML frameworks such as Tensorflow, TF-Serving, JAX, and XLA/MLIR",
-        "Experience using large-scale distributed training strategies",
-        "Familiarity with autoregressive sequence models, such as Transformers",
-        "Strong communication and problem-solving skills",
-        "A demonstrated passion for applied NLP models and products",
-        "Bonus: experience writing kernels for GPUs using CUDA"
-      ],
-      "Benefits": [
-        "Bonus: papers at top-tier venues (such as NeurIPS, ICML, ICLR, AIStats, MLSys, JMLR, AAAI, Nature, COLING, ACL, EMNLP)",
-        "Full-Time Employees At Cohere Enjoy These Perks",
-        "🍽 Weekly lunch stipend, in-office lunches & snacks",
-        "🦷 Full health and dental benefits, including a separate budget to take care of your mental health",
-        "🐣 100% Parental Leave top-up for up to 6 months",
-        "✈️ 6 weeks of vacation (30 working days!)"
-      ],
-      "Responsibilities": [
-        "Ship state of the art models to production",
-        "Design and implement novel research ideas",
-        "Build elegant training/deployment pipelines",
-        "Design, train and improve upon cutting-edge models",
-        "Help us develop new techniques to train and serve models safer, better, and faster",
-        "Train extremely large-scale models on massive datasets",
-        "Explore continual and active learning strategies for streaming data",
-        "Learn from experienced senior machine learning technical staff",
-        "Work closely with product teams to develop solutions"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-linkedin-com-jobs-view-machine-learning-intern-co-op-spring-2026-at-cohere-4357649891",
     "_source": "new_jobs"
   },
   {
@@ -1494,7 +1600,7 @@
     "employer_name": "Intuitive Surgical",
     "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMEnQfc5v8O_TIGnAOVJ-e_I3n5nc-F6ZQNqmp&s=0",
     "employer_website": "https://www.intuitive.com",
-    "job_publisher": "Intuitive Careers",
+    "job_publisher": "Careers At Intuitive",
     "job_employment_type": "Internship",
     "job_employment_types": [
       "INTERN"
@@ -1503,7 +1609,7 @@
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Intuitive Careers",
+        "publisher": "Careers At Intuitive",
         "apply_link": "https://careers.intuitive.com/en/jobs/744000107840054/JOB212194/ml-engineering-intern/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
@@ -1575,91 +1681,59 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "jUTR-altetnlyTvkAAAAAA==",
-    "job_title": "Machine Learning Researcher - PhD Intern (US)",
-    "employer_name": "Citadel",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyqNjgZwMw5Ee0MqrUElt0p6LzGVh11eSM3Whz&s=0",
-    "employer_website": "https://www.citadel.com",
-    "job_publisher": "Citadel Securities",
+    "job_id": "nq1GVLmfU86jkPSzAAAAAA==",
+    "job_title": "NLP/Machine Learning Intern",
+    "employer_name": "Wisdom AI",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlUAceFHgIfhipPV6_RbZ6WIybNwM7PqpXA51y&s=0",
+    "employer_website": "https://www.wisdom.ai",
+    "job_publisher": "BeBee",
     "job_employment_type": "Internship",
     "job_employment_types": [
       "INTERN"
     ],
-    "job_apply_link": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://us.bebee.com/job/a9a877d975cf7bb031f2f2fa32a8e727?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Citadel Securities",
-        "apply_link": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Citadel/Job/Machine-Learning-Researcher-PhD-Intern-(US)/-in-Miami,FL?jid=7d86773deb617ff1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Built In",
-        "apply_link": "https://builtin.com/job/machine-learning-researcher-phd-intern-us/6532905?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/machine-learning-researcher-phd-intern-miami-citadel-enterprise-americas-llc-c622156cce9c454368d0687d4d62e51f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Ladders",
-        "apply_link": "https://www.theladders.com/job/machine-learning-researcher-phd-intern-us-bluehalo-miami-fl_82155564?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Lensa",
-        "apply_link": "https://lensa.com/job-v1/citadel/miami-fl/machine-learning-intern/d24dd80cfad3ad62a18b7fcaf3a584e7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/a9a877d975cf7bb031f2f2fa32a8e727?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "At Citadel Securities, a leading global market maker, our team of quantitative researchers models the markets and brings trading strategies to life every day. Specifically, the goal of this team is to leverage and tailor the state-of-the-art machine learning and AI algorithms to modernize the quantitative trading industry. We’re looking for extraordinary and highly motivated researchers who are excited about solving challenging problems and iterating in a fast-paced environment.\n\nAs an intern, you’ll get to challenge the impossible in research through an 11 week program that will allow you to collaborate and connect with senior team members. In addition, you’ll get the opportunity to network and socialize with peers throughout the internship.\n\nOur signature internship program takes place June through August. Occasionally, we can be flexible to other times of the year. You will be able to indicate your timing preference in the application.\n\nYour Objectives\n• Use statistics, machine learning or AI (e.g. deep learning, NLP) to extract patterns from various kinds of datasets through innovative and rigorous research\n• Implement algorithms in high-quality code\n• Work with large data sets, including unconventional and unstructured data sources\n• Back-test models and document research findings\n\nYour Skills & Talents\n• PhD degree in mathematics, statistics, physics, computer science, or another highly quantitative field\n• Advanced training and strong research track record in statistics, machine learning, AI, or another highly quantitative field\n• Hands on programming experience in scripting (e.g. Python) and/or compiled languages (e.g. C++)\n• A background demonstrating strong problem-solving skills\n• An ability to communicate advanced concepts in a concise and logical way\n• Proficiency in creating and using algorithms to meticulously investigate and work through large data or error-checking problems\n\nOpportunities available in Miami and New York.\n\nIn accordance with applicable law, the base salary range for this role is $4,300 to $5,800 per week.",
+    "job_description": "About Wisdom\n\nWisdomAI has the mission to provide access and insights from data to everyone. We believe in the power of data to drive better decisions and we believe with Generative AI, there is an opportunity to bring a disruptive change in how employees access insights within their organization. This is a great time to join the company as we have multiple Fortune 100 companies as paying customers and still are early enough that you will get to define a lot of the product/engineering roadmap.\n\nRole\n\nWe are looking for exceptional ML/NLP engineering interns to join our team. We are working on fundamental problems in LLM based code-generation, document understanding, context synthesis and LLM based agents. Our team consists of experts from companies like Glean, Apple, Rubrik, Google and Meta.\n\nJob responsibilities\n• Build, train, fine-tune NLP / ML models for tasks such as natural language queries, document understanding, metric extraction, etc.\n• Build workflows/agentic pipelines for complex analytical workloads.\n• Design evaluation framework and carry out evaluations of our query processing engine.\n• Collaborate to define and build features in the WisdomAI product that leverage NLP (e.g. natural language query parsing, semantic modeling).\n• Stay up-to-date with latest NLP / ML techniques (research papers, tools, open source frameworks).\n\nQualifications\n• Strong analytical skills and proven ability to work with hard NLP problems.\n• Background in search/retrieval, LLMs, and evaluation pipelines is plus.\n• Experience working in startup/fast paced teams is highly desirable.\n• Bachelor's or Master's degree in Computer Science or related field.",
     "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1771113600,
-    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
-    "job_location": "Miami, FL",
-    "job_city": "Miami",
-    "job_state": "Florida",
+    "job_posted_at": "8 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "San Mateo, CA",
+    "job_city": "San Mateo",
+    "job_state": "California",
     "job_country": "US",
-    "job_latitude": 25.7616798,
-    "job_longitude": -80.1917902,
+    "job_latitude": 37.5629917,
+    "job_longitude": -122.32552539999999,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DjUTR-altetnlyTvkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dnq1GVLmfU86jkPSzAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "PhD degree in mathematics, statistics, physics, computer science, or another highly quantitative field",
-        "Advanced training and strong research track record in statistics, machine learning, AI, or another highly quantitative field",
-        "Hands on programming experience in scripting (e.g. Python) and/or compiled languages (e.g. C++)",
-        "A background demonstrating strong problem-solving skills",
-        "An ability to communicate advanced concepts in a concise and logical way",
-        "Proficiency in creating and using algorithms to meticulously investigate and work through large data or error-checking problems"
-      ],
-      "Benefits": [
-        "In addition, you’ll get the opportunity to network and socialize with peers throughout the internship",
-        "In accordance with applicable law, the base salary range for this role is $4,300 to $5,800 per week"
+        "Strong analytical skills and proven ability to work with hard NLP problems",
+        "Background in search/retrieval, LLMs, and evaluation pipelines is plus",
+        "Bachelor's or Master's degree in Computer Science or related field"
       ],
       "Responsibilities": [
-        "As an intern, you’ll get to challenge the impossible in research through an 11 week program that will allow you to collaborate and connect with senior team members",
-        "Use statistics, machine learning or AI (e.g. deep learning, NLP) to extract patterns from various kinds of datasets through innovative and rigorous research",
-        "Implement algorithms in high-quality code",
-        "Work with large data sets, including unconventional and unstructured data sources",
-        "Back-test models and document research findings"
+        "Build, train, fine-tune NLP / ML models for tasks such as natural language queries, document understanding, metric extraction, etc",
+        "Build workflows/agentic pipelines for complex analytical workloads",
+        "Design evaluation framework and carry out evaluations of our query processing engine",
+        "Collaborate to define and build features in the WisdomAI product that leverage NLP (e.g. natural language query parsing, semantic modeling)",
+        "Stay up-to-date with latest NLP / ML techniques (research papers, tools, open source frameworks)"
       ]
     },
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
-    "id": "www-citadelsecurities-com-careers-details-machine-learning-researcher-phd-intern-us",
+    "id": "us-bebee-com-job-a9a877d975cf7bb031f2f2fa32a8e727",
     "_source": "new_jobs"
   },
   {
@@ -1729,8 +1803,8 @@
     "job_latitude": 37.7749295,
     "job_longitude": -122.4194155,
     "job_benefits": [
-      "dental_coverage",
       "paid_time_off",
+      "dental_coverage",
       "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DemmMa8H8TuEbItHeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -1769,62 +1843,6 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "www-ziprecruiter-com-c-doordash-job-machine-learning-intern-masters-summer-2026-in-san-francisco-ca",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "nq1GVLmfU86jkPSzAAAAAA==",
-    "job_title": "NLP/Machine Learning Intern",
-    "employer_name": "Wisdom AI",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlUAceFHgIfhipPV6_RbZ6WIybNwM7PqpXA51y&s=0",
-    "employer_website": "https://www.wisdom.ai",
-    "job_publisher": "BeBee",
-    "job_employment_type": "Internship",
-    "job_employment_types": [
-      "INTERN"
-    ],
-    "job_apply_link": "https://us.bebee.com/job/a9a877d975cf7bb031f2f2fa32a8e727?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/a9a877d975cf7bb031f2f2fa32a8e727?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "About Wisdom\n\nWisdomAI has the mission to provide access and insights from data to everyone. We believe in the power of data to drive better decisions and we believe with Generative AI, there is an opportunity to bring a disruptive change in how employees access insights within their organization. This is a great time to join the company as we have multiple Fortune 100 companies as paying customers and still are early enough that you will get to define a lot of the product/engineering roadmap.\n\nRole\n\nWe are looking for exceptional ML/NLP engineering interns to join our team. We are working on fundamental problems in LLM based code-generation, document understanding, context synthesis and LLM based agents. Our team consists of experts from companies like Glean, Apple, Rubrik, Google and Meta.\n\nJob responsibilities\n• Build, train, fine-tune NLP / ML models for tasks such as natural language queries, document understanding, metric extraction, etc.\n• Build workflows/agentic pipelines for complex analytical workloads.\n• Design evaluation framework and carry out evaluations of our query processing engine.\n• Collaborate to define and build features in the WisdomAI product that leverage NLP (e.g. natural language query parsing, semantic modeling).\n• Stay up-to-date with latest NLP / ML techniques (research papers, tools, open source frameworks).\n\nQualifications\n• Strong analytical skills and proven ability to work with hard NLP problems.\n• Background in search/retrieval, LLMs, and evaluation pipelines is plus.\n• Experience working in startup/fast paced teams is highly desirable.\n• Bachelor's or Master's degree in Computer Science or related field.",
-    "job_is_remote": false,
-    "job_posted_at": "8 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "San Mateo, CA",
-    "job_city": "San Mateo",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.5629917,
-    "job_longitude": -122.32552539999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dnq1GVLmfU86jkPSzAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Strong analytical skills and proven ability to work with hard NLP problems",
-        "Background in search/retrieval, LLMs, and evaluation pipelines is plus",
-        "Bachelor's or Master's degree in Computer Science or related field"
-      ],
-      "Responsibilities": [
-        "Build, train, fine-tune NLP / ML models for tasks such as natural language queries, document understanding, metric extraction, etc",
-        "Build workflows/agentic pipelines for complex analytical workloads",
-        "Design evaluation framework and carry out evaluations of our query processing engine",
-        "Collaborate to define and build features in the WisdomAI product that leverage NLP (e.g. natural language query parsing, semantic modeling)",
-        "Stay up-to-date with latest NLP / ML techniques (research papers, tools, open source frameworks)"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "us-bebee-com-job-a9a877d975cf7bb031f2f2fa32a8e727",
     "_source": "new_jobs"
   }
 ]
