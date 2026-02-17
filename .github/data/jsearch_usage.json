@@ -1,7 +1,7 @@
 {
   "date": "Tue Feb 17 2026",
-  "requests": 28,
-  "remaining": 2,
+  "requests": 29,
+  "remaining": 1,
   "queries_executed": [
     "data scientist",
     "data scientist",
@@ -30,6 +30,7 @@
     "machine learning intern",
     "ai researcher",
     "ai researcher",
+    "applied scientist",
     "applied scientist"
   ]
 }
