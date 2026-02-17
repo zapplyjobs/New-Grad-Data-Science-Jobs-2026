@@ -9,16 +9,16 @@
 
 # Data Science Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-4-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-4-blue?style=flat&logo=building)
-![Data Analyst](https://img.shields.io/badge/Data_Analyst-2-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-5-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-5-blue?style=flat&logo=building)
+![Data Scientist](https://img.shields.io/badge/Data_Scientist-4-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time data science, analytics, and machine learning jobs from 4+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 4+ fresh opportunities for new graduates, data science students, and entry-level data analysts.</p>
+<p align="center">🚀 Real-time data science, analytics, and machine learning jobs from 5+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 5+ fresh opportunities for new graduates, data science students, and entry-level data analysts.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -69,21 +69,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/dsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>🔬 <strong>Data Scientist</strong> (1 positions)</h3></summary>
+<summary><h3>🔬 <strong>Data Scientist</strong> (4 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **U.S. Department of Defense (DOD)** | Program Analyst | Whitehall, Ohio | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/U.S.-Department-of-Defense-(DOD)/Job/Program-Analyst/-in-Whitehall,OH?jid=e4c6df2ba3ca3272&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-</details>
-
-<details>
-<summary><h3>📊 <strong>Data Analyst</strong> (2 positions)</h3></summary>
-
-| Company | Role | Location | Posted | Level | Apply |
-|---------|------|----------|--------|-------|-------|
-| 🏢 **VirtualVocations** | Advanced Cloud Data Engineer 🏠 | Raleigh, North Carolina | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=4d4ccca8d83f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Mount Sinai Health System** | Data Analyst I – Artificial Inte... | New York, New York | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://tallo.com/jobs/technology/data-data-mining-analyst/ny/new-york/data-analyst-i-artificial-intelligence-human-e53d7c2aa5af/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Neuralink** | Machine Learning Engineer Intern... | Fremont, California | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://avzgeoeng.com/vacancy/job/machine-learning-engineer-intern-at-neuralink-fremont-ca-ZFpIYXYrWDZRZjBJVVVNVUtUMjl5WTczSkE9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **VirtualVocations** | AI and Machine Learning Intern 🏠 | Greensboro, North Carolina | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=c70e7dbe2c9c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Shield Consulting Solutions, Inc.** | Artificial Intelligence Machine ... | Annapolis, Maryland | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Shield-Consulting-Solutions,-Inc./Job/Artificial-Intelligence-Machine-Learning-Engineer-(Annapolis-Junction,-MD)/-in-Annapolis,MD?jid=c2fa4b505edb4aba&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Snap Inc.** | Machine Learning Engineer, Level 5 | New York, New York | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.builtinnyc.com/job/machine-learning-engineer-level-5/8106441?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -157,7 +150,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ### 📊 **Archived Job Stats**
 - **📁 Total Jobs**: 0 positions
-- **🏢 Companies**: 4 companies
+- **🏢 Companies**: 5 companies
 - **🏷️ Top Category**: Software Engineering
 
 | Company | Role | Location | Posted | Level | Apply |
@@ -172,7 +165,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 4 current opportunities from 4 companies**
+**🎯 5 current opportunities from 5 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
