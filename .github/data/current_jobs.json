@@ -144,9 +144,9 @@
     "job_latitude": 38.9848328,
     "job_longitude": -77.09431719999999,
     "job_benefits": [
+      "health_insurance",
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DzMxPbz0gMUynJRooAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -338,8 +338,8 @@
     "job_latitude": 33.4482948,
     "job_longitude": -112.07254879999999,
     "job_benefits": [
-      "health_insurance",
-      "paid_time_off"
+      "paid_time_off",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DmeWtBKHyQc55J5JmAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -583,9 +583,9 @@
     "job_latitude": 39.9425241,
     "job_longitude": -75.1164689,
     "job_benefits": [
-      "health_insurance",
       "paid_time_off",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DIqmXeGXDTjbT6kv3AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 88000,
@@ -1136,103 +1136,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "l8mRl5BfOnqF75_AAAAAAA==",
-    "job_title": "Manager, Business Analysis And Insights - Sales",
-    "employer_name": "Walmart",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XcK_pPTIiFuiAYrGraOGjkX3xDSPgjHRhL3B&s=0",
-    "employer_website": "https://corporate.walmart.com",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time and Part-time",
-    "job_employment_types": [
-      "FULLTIME",
-      "PARTTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Manager,-Business-Analysis-And-Insights-Sales/-in-Yonkers,NY?jid=b424b033c0a628fa&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Walmart/Job/Manager,-Business-Analysis-And-Insights-Sales/-in-Yonkers,NY?jid=b424b033c0a628fa&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "Position Summary...The role supports the development, administration, and execution of sales compensation programs designed to drive performance across the organization. In this role, you will collaborate closely with Finance, HR, and Total Rewards to calculate commissions and bonuses, maintain accurate compensation documentation, and ensure sales teams receive timely updates on plan changes. You will manage key operational processes such as validating data for commission payouts, maintaining sales team roster and hierarchy records, and supporting quota setting and territory assignments. Additionally, you will prepare quarterly performance reports, respond to compensation-related inquiries, and participate in special projects focused on enhancing compensation tools, processes, and overall sales performance. This position requires strong attention to detail, analytical skills, and the ability to communicate effectively with cross‑functional partners and sales teams.\n\nWhat you'll do...\n• Assist in developing and administrating sales compensation plans while working with Finance to calculate commissions and bonuses.\n• Partner with HR and Total Rewards to maintains compensation documentation and ensures timely communication of plan changes to the sales team\n• Supporting commission payouts process, validating data and ensuring accuracy\n• Responds to compensation-related inquiries from sales team\n• Maintaining up-to-date sales team rosters, hierarchies, and compensation plan records\n• Supports quota setting and territory assignment and distributing letters for the sales team\n• Quarterly reporting as it relates to individual or team performance\n• Participate in special projects related to compensation, planning tools, or sales performance initiatives\n• Audit payments against plan and communicate with plan stakeholders to address issues\nWhat you’ll bring…\n• Bachelor’s degree in Business, Operations, Finance, HR or related field.\n• At least 3 years of work experience in a role requiring analytical and strategic skills, such as business analyst, compensation analyst, or business development.\n• The ability to communicate findings and make recommendations for improvement clearly and effectively either via presentation or whitepaper.\n• The capability to model and simulate improvements to existing business processes, evaluate 'what-if' scenarios, and conduct dry runs to identify and resolve gaps before implementation.\n• Aptitude for cross-functional collaboration across various teams, with a strong ability to multitask with a sense of urgency.\n\nRespect the Individual: Demonstrates and encourages respect for all builds a highperforming team seeks and embraces differences in people cultures ideas and experiences creates a workplace where all associates feel seen supported and connected through culture of belonging so associates thrive and perform drives a positive associate and customermember experience for all identifies attracts and retains the best team members\nRespect the Individual: Creates a discipline and focus around developing talent through feedback coaching mentoring and developmental opportunities promotes an environment allowing everyone to bring their best selves to work empowers associates and partners to act in the best interest of the customermember and company and regularly recognizes others contributions and accomplishments\nRespect the Individual: Builds strong and trusting relationships with team members and business partners works collaboratively and crossfunctionally to achieve objectives and communicates and listens attentively with energy and positivity to motivate influence and inspire commitment and action\nAct with Integrity: Maintains and promotes the highest standards of integrity ethics and compliance models the Walmart values and leads by example to foster our culture supports Walmarts goal of becoming a regenerative company by making a positive impact for associates customers and the world around us eg creating a sense of belonging eliminating waste participating in local giving\nAct with Integrity: Follows the law our code of conduct and company policies and sets expectations for others to do the same promotes an environment where associates feel comfortable sharing concerns and reinforces our culture of nonretaliation listens to concerns raised by associates takes action and encourages others to do the same holds self and others accountable for achieving results in a way that is consistent with our values\nAct with Integrity: Acts as an altruistic servant leader and is consistently humble selfaware honest and transparent\nServe our Customers and Members Delivers expected business results while putting the customermember first and consistently applying an omnimerchant mindset and acts with an Every Day LowCost mindset to drive value and Every Day Low Prices for customersmembers\nServe our Customers and Members Adopts a holistic perspective that considers data analytics customermember insights and different parts of the business when making plans and shaping the teams strategy\nStrive for Excellence: Consistently raises the bar and seeks to improve demonstrates curiosity and a growth mindset seeks feedback asks thoughtful questions fosters an environment that supports learning innovation and learning from mistakes and intelligent risktaking and exhibits resilience in the face of setbacks\nStrive for Excellence: Seeks and implements continuous improvements and encourages the team to leverage new digital tools and ways of working\n\nAt Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet. Health benefits include medical, vision and dental coverage. Financial benefits include 401(k), stock purchase and company-paid life insurance. Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting. Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more. You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes. The amount you receive depends on your job classification and length of employment. It will meet or exceed the requirements of paid sick leave laws, where applicable. For information about PTO, see https://one.walmart.com/notices. Live Better U is a Walmart-paid education benefit program for full-time and part-time associates in Walmart and Sam's Club facilities. Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates. Tuition, books, and fees are completely paid for by Walmart.\nEligibility requirements apply to some benefits and may depend on your job classification and length of employment. Benefits are subject to change and may be subject to a specific plan or program terms.\nFor information about benefits and eligibility, see One.Walmart.\nHoboken, New Jersey US-10279: The annual salary range for this position is $84,000.00 - $156,000.00\nBentonville, Arkansas US-09401: The annual salary range for this position is $70,000.00 - $130,000.00 Additional compensation includes annual or quarterly performance bonuses. Additional compensation for certain positions may also include :\n- Stock\n\nㅤ\n\nㅤ\n\nㅤ\n\nㅤ\n\n‎\nMinimum Qualifications...\n\nOutlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.\n\nBachelor's degree in Business, Analytics, Statistics, or related field and 2 years’ experience in data analytics, project management, business, or related area OR 4 years' experience in data analytics, project management, business, or related area.\n\nPreferred Qualifications...\n\nOutlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.\n\nMaster's degree in Business, Analytics, or related field, Project Management Certification, Six Sigma certification, Statistical Programming Language\n\nPrimary Location...\n\n221 River St, Hoboken, NJ 07030, United States of America\n\nWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
-    "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Yonkers, NY",
-    "job_city": "Yonkers",
-    "job_state": "New York",
-    "job_country": "US",
-    "job_latitude": 40.931858899999995,
-    "job_longitude": -73.899008,
-    "job_benefits": [
-      "dental_coverage",
-      "paid_time_off",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dl8mRl5BfOnqF75_AAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 84000,
-    "job_max_salary": 156000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "Bachelor’s degree in Business, Operations, Finance, HR or related field",
-        "At least 3 years of work experience in a role requiring analytical and strategic skills, such as business analyst, compensation analyst, or business development",
-        "The ability to communicate findings and make recommendations for improvement clearly and effectively either via presentation or whitepaper",
-        "The capability to model and simulate improvements to existing business processes, evaluate 'what-if' scenarios, and conduct dry runs to identify and resolve gaps before implementation",
-        "Aptitude for cross-functional collaboration across various teams, with a strong ability to multitask with a sense of urgency",
-        "Respect the Individual: Demonstrates and encourages respect for all builds a highperforming team seeks and embraces differences in people cultures ideas and experiences creates a workplace where all associates feel seen supported and connected through culture of belonging so associates thrive and perform drives a positive associate and customermember experience for all identifies attracts and retains the best team members",
-        "Bachelor's degree in Business, Analytics, Statistics, or related field and 2 years’ experience in data analytics, project management, business, or related area OR 4 years' experience in data analytics, project management, business, or related area",
-        "Master's degree in Business, Analytics, or related field, Project Management Certification, Six Sigma certification, Statistical Programming Language"
-      ],
-      "Benefits": [
-        "At Walmart, we offer competitive pay as well as performance-based bonus awards and other great benefits for a happier mind, body, and wallet",
-        "Health benefits include medical, vision and dental coverage",
-        "Financial benefits include 401(k), stock purchase and company-paid life insurance",
-        "Paid time off benefits include PTO (including sick leave), parental leave, family care leave, bereavement, jury duty, and voting",
-        "Other benefits include short-term and long-term disability, company discounts, Military Leave Pay, adoption and surrogacy expense reimbursement, and more",
-        "You will also receive PTO and/or PPTO that can be used for vacation, sick leave, holidays, or other purposes",
-        "The amount you receive depends on your job classification and length of employment",
-        "It will meet or exceed the requirements of paid sick leave laws, where applicable",
-        "Programs range from high school completion to bachelor's degrees, including English Language Learning and short-form certificates",
-        "Tuition, books, and fees are completely paid for by Walmart",
-        "Eligibility requirements apply to some benefits and may depend on your job classification and length of employment",
-        "Benefits are subject to change and may be subject to a specific plan or program terms",
-        "Hoboken, New Jersey US-10279: The annual salary range for this position is $84,000.00 - $156,000.00",
-        "Bentonville, Arkansas US-09401: The annual salary range for this position is $70,000.00 - $130,000.00 Additional compensation includes annual or quarterly performance bonuses",
-        "Additional compensation for certain positions may also include :"
-      ],
-      "Responsibilities": [
-        "Position Summary...The role supports the development, administration, and execution of sales compensation programs designed to drive performance across the organization",
-        "In this role, you will collaborate closely with Finance, HR, and Total Rewards to calculate commissions and bonuses, maintain accurate compensation documentation, and ensure sales teams receive timely updates on plan changes",
-        "You will manage key operational processes such as validating data for commission payouts, maintaining sales team roster and hierarchy records, and supporting quota setting and territory assignments",
-        "Additionally, you will prepare quarterly performance reports, respond to compensation-related inquiries, and participate in special projects focused on enhancing compensation tools, processes, and overall sales performance",
-        "This position requires strong attention to detail, analytical skills, and the ability to communicate effectively with cross‑functional partners and sales teams",
-        "Assist in developing and administrating sales compensation plans while working with Finance to calculate commissions and bonuses",
-        "Partner with HR and Total Rewards to maintains compensation documentation and ensures timely communication of plan changes to the sales team",
-        "Supporting commission payouts process, validating data and ensuring accuracy",
-        "Responds to compensation-related inquiries from sales team",
-        "Maintaining up-to-date sales team rosters, hierarchies, and compensation plan records",
-        "Supports quota setting and territory assignment and distributing letters for the sales team",
-        "Quarterly reporting as it relates to individual or team performance",
-        "Participate in special projects related to compensation, planning tools, or sales performance initiatives",
-        "Audit payments against plan and communicate with plan stakeholders to address issues",
-        "Respect the Individual: Builds strong and trusting relationships with team members and business partners works collaboratively and crossfunctionally to achieve objectives and communicates and listens attentively with energy and positivity to motivate influence and inspire commitment and action",
-        "Act with Integrity: Maintains and promotes the highest standards of integrity ethics and compliance models the Walmart values and leads by example to foster our culture supports Walmarts goal of becoming a regenerative company by making a positive impact for associates customers and the world around us eg creating a sense of belonging eliminating waste participating in local giving",
-        "Act with Integrity: Acts as an altruistic servant leader and is consistently humble selfaware honest and transparent",
-        "Serve our Customers and Members Delivers expected business results while putting the customermember first and consistently applying an omnimerchant mindset and acts with an Every Day LowCost mindset to drive value and Every Day Low Prices for customersmembers",
-        "Serve our Customers and Members Adopts a holistic perspective that considers data analytics customermember insights and different parts of the business when making plans and shaping the teams strategy",
-        "Strive for Excellence: Consistently raises the bar and seeks to improve demonstrates curiosity and a growth mindset seeks feedback asks thoughtful questions fosters an environment that supports learning innovation and learning from mistakes and intelligent risktaking and exhibits resilience in the face of setbacks"
-      ]
-    },
-    "job_onet_soc": "13111100",
-    "job_onet_job_zone": "5",
-    "id": "www-ziprecruiter-com-c-walmart-job-manager-business-analysis-and-insights-sales-in-yonkers-ny",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "ybf0b662C9Kh2-0FAAAAAA==",
     "job_title": "Technology ServiceDesk Process and Data Analyst/Sr Business Systems Analyst (US)",
     "employer_name": "TD Bank Group",
@@ -1396,148 +1299,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "U3LAJ_Ibf828Be0iAAAAAA==",
-    "job_title": "Business Analyst, Pricing and Underwriting - Now Hiring",
-    "employer_name": "Maxor National Pharmacy Services",
-    "employer_logo": null,
-    "employer_website": "https://careers-maxor.icims.com",
-    "job_publisher": "Snagajob",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.snagajob.com/jobs/1144859495?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Snagajob",
-        "apply_link": "https://www.snagajob.com/jobs/1144859495?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "The Business Analyst, Pricing and Underwriting, is responsible for the compilation, analysis, and reporting of data to support pricing contracts for Specialty services within a Pharmacy Benefit Manager (PBM) setting. Partner cross-functionally with Underwriting, Finance, Clinical, and Account Management teams to develop custom reports, assess the impact of client-driven changes, and perform data-driven analyses. Utilize SQL, Excel, and data visualization tools to maintain and monitor Specialty pricing models, support financial forecasting, and contribute to strategic economic modeling. Design and generate reports to inform daily operations and executive decision-making. Collaborate within the Pricing & Underwriting department to develop queries across multiple systems, offering robust analytical support to key business units.\n\nPosition Location:\n\nThis is a remote-based position within the Continental US.\n\nOur Company\nFounded in 1926, Maxor is a leading, independent pharmacy solutions platform that improves prescription drug affordability and outcomes. Over time, Maxor has built a unique and complementary suite of clinically integrated services and technology offerings that deliver clinical, financial and strategic value to patients, payors and providers across the pharmacy supply chain. Maxor has a proud heritage of growth and innovation earned over the decades. Amarillo, Texas is the legacy headquarters for Maxor, but our talent base is national. We operate pharmacies and other business operation sites across the United States with employees working from 44 states.\n\nWhy Join Maxor?\n\nAt Maxor, we recognize that our employees are our most valuable assets. We actively seek and retain talented professionals who are mission-driven to improve healthcare outcomes for patients. Likewise, our employees are essential to their own well-being, finding fulfillment in meaningful work, competitive compensation, diverse and inclusive teams, and limitless career possibilities. With a growing workforce of 1,500+ and almost a century of pharmacy experience, we offer the stability of a Fortune 500 company and the energy and innovation of a startup. Our expertise and technology support the entire pharmacy ecosystem, but our impact goes beyond pharmacy services. We enable pharmacy care.\nResponsibilities\n• Create and maintain custom data-mining queries to produce actionable insights for pricing and business strategy.\n• Analyze pharmacy claims, drug pricing, rebate models, and utilization trends for internal teams and client reporting.\n• Interpret complex pharmacy benefit structures and clearly communicate findings to varied audiences.\n• Provide forecasting, reporting, and analytical support to senior management for strategic planning.\n• Automate and streamline reporting to increase efficiency and reduce manual processes within PBM pricing operations.\n• Contribute to Specialty Pricing operations by:\n• Managing pricing appeals, coordinating with Maxor Specialty, and compiling data for automated processing.\n• Executing weekly pricing tasks to ensure accuracy and implementation consistency.\n• Gathering and preparing input data from pricing resources to support core processes.\n• Documenting procedures to meet audit and compliance requirements.\n• Execute dynamic pricing strategies in response to market changes to ensure competitive positioning and profitability.\n• Collaborate with Pricing, Underwriting, Sales, and Account Management teams to evaluate and support new/existing client opportunities.\n• Enhance financial models and streamline operational processes for greater accuracy and efficiency.\n• Create and distribute ad hoc reports and financial models tailored to business needs.\n• Develop tools for performance monitoring and key metric tracking across business units.\n• Maintain current knowledge of financial tools, market conditions, and PBM industry trends.\n• Author and manage Standard Operating Procedures (SOPs) for custom and standardized tasks.\n• Communicate complex analytical findings effectively across technical and non-technical audiences.\n• Foster continuous improvement with a strong focus on operational excellence and process optimization.\nQualifications\n\nEducation: Bachelor’s Degree in Finance, Business Analytics, Computer Information Systems, Data Science, or Economics. Or similarly related degree preferred.\n\nExperience: Minimum of 2 years’ experience completing complex analytical, financial analysis for PBM services. Minimum of 1 year experience using SQL or other applicable programming language (Python/VBA/C++/etc).\n\nKnowledge, Skills, and Abilities:\n• Knowledge of pricing components and service mix, including plan design, prescription utilization, retail networks, rebates, Specialty/Mail pharmacy services, and brand/generic dynamics.\n• Advanced Excel and Word expertise, with experience in building complex financial models and reports.\n• Proficient in SQL, using SELECT, CASE, JOIN, and conditional logic to extract and analyze large datasets.\n• Strong analytical skills to assess client-specific data within the broader context of business strategy, delivering actionable pricing recommendations.\n• Experience working with complex, unstructured datasets to drive insights and decisions.\n• Proven ability to manage multiple priorities, coordinate deliverables, and meet critical deadlines.\n• Effective cross-functional collaborator in fast-paced environments involving Operations, Sales, Account Management, and Finance.\n• Skilled communicator with experience presenting findings to senior leadership.\nSelf-motivated project manager with excellent follow-through and organizational discipline.\n• Detail-oriented with exceptional time management and process documentation skills.\n\nWE OFFER\n\nAt Maxor, we foster a diverse and progressive culture that promotes a work-from-home model and a \"dress-for-your-day\" approach to work attire. Our team-oriented environment encourages collaboration and innovation.\n\nWe offer highly competitive compensation and comprehensive health benefits including:\n• Comprehensive mental health and wellbeing resources\n• Nationwide Blue Cross Blue Shield PPO with employee-friendly plan design, including a $850 individual annual medical deductible and $25 office visit copays, with low biweekly premiums\n• Company-paid basic life/AD&D, short-term and long-term disability insurance\n• Rx, dental, vision, other voluntary benefits, and FSA\n• Employer-matched 401k Plan\n• Industry-leading PTO plan\n• And more!\n\nThe Business Analyst, Pricing and Underwriting, is responsible for the compilation, analysis, and reporting of data to support pricing contracts for Specialty services within a Pharmacy Benefit Manager (PBM) setting. Partner cross-functionally with Underwriting, Finance, Clinical, and Account Management teams to develop custom reports, assess the impact of client-driven changes, and perform data-driven analyses. Utilize SQL, Excel, and data visualization tools to maintain and monitor Specialty pricing models, support financial forecasting, and contribute to strategic economic modeling. Design and generate reports to inform daily operations and executive decision-making. Collaborate within the Pricing & Underwriting department to develop queries across multiple systems, offering robust analytical support to key business units.\n\nPosition Location:\n\nThis is a remote-based position within the Continental US.\n\nOur Company\nFounded in 1926, Maxor is a leading, independent pharmacy solutions platform that improves prescription drug affordability and outcomes. Over time, Maxor has built a unique and complementary suite of clinically integrated services and technology offerings that deliver clinical, financial and strategic value to patients, payors and providers across the pharmacy supply chain. Maxor has a proud heritage of growth and innovation earned over the decades. Amarillo, Texas is the legacy headquarters for Maxor, but our talent base is national. We operate pharmacies and other business operation sites across the United States with employees working from 44 states.\n\nWhy Join Maxor?\n\nAt Maxor, we recognize that our employees are our most valuable assets. We actively seek and retain talented professionals who are mission-driven to improve healthcare outcomes for patients. Likewise, our employees are essential to their own well-being, finding fulfillment in meaningful work, competitive compensation, diverse and inclusive teams, and limitless career possibilities. With a growing workforce of 1,500+ and almost a century of pharmacy experience, we offer the stability of a Fortune 500 company and the energy and innovation of a startup. Our expertise and technology support the entire pharmacy ecosystem, but our impact goes beyond pharmacy services. We enable pharmacy care.\nResponsibilities\n• Create and maintain custom data-mining queries to produce actionable insights for pricing and business strategy.\n• Analyze pharmacy claims, drug pricing, rebate models, and utilization trends for internal teams and client reporting.\n• Interpret complex pharmacy benefit structures and clearly communicate findings to varied audiences.\n• Provide forecasting, reporting, and analytical support to senior management for strategic planning.\n• Automate and streamline reporting to increase efficiency and reduce manual processes within PBM pricing operations.\n• Contribute to Specialty Pricing operations by:\n• Managing pricing appeals, coordinating with Maxor Specialty, and compiling data for automated processing.\n• Executing weekly pricing tasks to ensure accuracy and implementation consistency.\n• Gathering and preparing input data from pricing resources to support core processes.\n• Documenting procedures to meet audit and compliance requirements.\n• Execute dynamic pricing strategies in response to market changes to ensure competitive positioning and profitability.\n• Collaborate with Pricing, Underwriting, Sales, and Account Management teams to evaluate and support new/existing client opportunities.\n• Enhance financial models and streamline operational processes for greater accuracy and efficiency.\n• Create and distribute ad hoc reports and financial models tailored to business needs.\n• Develop tools for performance monitoring and key metric tracking across business units.\n• Maintain current knowledge of financial tools, market conditions, and PBM industry trends.\n• Author and manage Standard Operating Procedures (SOPs) for custom and standardized tasks.\n• Communicate complex analytical findings effectively across technical and non-technical audiences.\n• Foster continuous improvement with a strong focus on operational excellence and process optimization.\nQualifications\n\nEducation: Bachelor’s Degree in Finance, Business Analytics, Computer Information Systems, Data Science, or Economics. Or similarly related degree preferred.\n\nExperience: Minimum of 2 years’ experience completing complex analytical, financial analysis for PBM services. Minimum of 1 year experience using SQL or other applicable programming language (Python/VBA/C++/etc).\n\nKnowledge, Skills, and Abilities:\n• Knowledge of pricing components and service mix, including plan design, prescription utilization, retail networks, rebates, Specialty/Mail pharmacy services, and brand/generic dynamics.\n• Advanced Excel and Word expertise, with experience in building complex financial models and reports.\n• Proficient in SQL, using SELECT, CASE, JOIN, and conditional logic to extract and analyze large datasets.\n• Strong analytical skills to assess client-specific data within the broader context of business strategy, delivering actionable pricing recommendations.\n• Experience working with complex, unstructured datasets to drive insights and decisions.\n• Proven ability to manage multiple priorities, coordinate deliverables, and meet critical deadlines.\n• Effective cross-functional collaborator in fast-paced environments involving Operations, Sales, Account Management, and Finance.\n• Skilled communicator with experience presenting findings to senior leadership.\nSelf-motivated project manager with excellent follow-through and organizational discipline.\n• Detail-oriented with exceptional time management and process documentation skills.\n\nWE OFFER\n\nAt Maxor, we foster a diverse and progressive culture that promotes a work-from-home model and a \"dress-for-your-day\" approach to work attire. Our team-oriented environment encourages collaboration and innovation.\n\nWe offer highly competitive compensation and comprehensive health benefits including:\n• Comprehensive mental health and wellbeing resources\n• Nationwide Blue Cross Blue Shield PPO with employee-friendly plan design, including a $850 individual annual medical deductible and $25 office visit copays, with low biweekly premiums\n• Company-paid basic life/AD&D, short-term and long-term disability insurance\n• Rx, dental, vision, other voluntary benefits, and FSA\n• Employer-matched 401k Plan\n• Industry-leading PTO plan\n• And more!",
-    "job_is_remote": false,
-    "job_posted_at": "6 hours ago",
-    "job_posted_at_timestamp": 1771290000,
-    "job_posted_at_datetime_utc": "2026-02-17T01:00:00.000Z",
-    "job_location": "Kalamazoo, MI",
-    "job_city": "Kalamazoo",
-    "job_state": "Michigan",
-    "job_country": "US",
-    "job_latitude": 42.2896532,
-    "job_longitude": -85.58562789999999,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DU3LAJ_Ibf828Be0iAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Education: Bachelor’s Degree in Finance, Business Analytics, Computer Information Systems, Data Science, or Economics",
-        "Experience: Minimum of 2 years’ experience completing complex analytical, financial analysis for PBM services",
-        "Minimum of 1 year experience using SQL or other applicable programming language (Python/VBA/C++/etc)",
-        "Knowledge of pricing components and service mix, including plan design, prescription utilization, retail networks, rebates, Specialty/Mail pharmacy services, and brand/generic dynamics",
-        "Advanced Excel and Word expertise, with experience in building complex financial models and reports",
-        "Proficient in SQL, using SELECT, CASE, JOIN, and conditional logic to extract and analyze large datasets",
-        "Strong analytical skills to assess client-specific data within the broader context of business strategy, delivering actionable pricing recommendations",
-        "Experience working with complex, unstructured datasets to drive insights and decisions",
-        "Proven ability to manage multiple priorities, coordinate deliverables, and meet critical deadlines",
-        "Effective cross-functional collaborator in fast-paced environments involving Operations, Sales, Account Management, and Finance",
-        "Skilled communicator with experience presenting findings to senior leadership",
-        "Self-motivated project manager with excellent follow-through and organizational discipline",
-        "Detail-oriented with exceptional time management and process documentation skills",
-        "Education: Bachelor’s Degree in Finance, Business Analytics, Computer Information Systems, Data Science, or Economics",
-        "Experience: Minimum of 2 years’ experience completing complex analytical, financial analysis for PBM services",
-        "Minimum of 1 year experience using SQL or other applicable programming language (Python/VBA/C++/etc)",
-        "Knowledge of pricing components and service mix, including plan design, prescription utilization, retail networks, rebates, Specialty/Mail pharmacy services, and brand/generic dynamics",
-        "Advanced Excel and Word expertise, with experience in building complex financial models and reports",
-        "Proficient in SQL, using SELECT, CASE, JOIN, and conditional logic to extract and analyze large datasets",
-        "Strong analytical skills to assess client-specific data within the broader context of business strategy, delivering actionable pricing recommendations",
-        "Experience working with complex, unstructured datasets to drive insights and decisions",
-        "Proven ability to manage multiple priorities, coordinate deliverables, and meet critical deadlines",
-        "Effective cross-functional collaborator in fast-paced environments involving Operations, Sales, Account Management, and Finance",
-        "Skilled communicator with experience presenting findings to senior leadership",
-        "Self-motivated project manager with excellent follow-through and organizational discipline",
-        "Detail-oriented with exceptional time management and process documentation skills"
-      ],
-      "Benefits": [
-        "We offer highly competitive compensation and comprehensive health benefits including:",
-        "Comprehensive mental health and wellbeing resources",
-        "Nationwide Blue Cross Blue Shield PPO with employee-friendly plan design, including a $850 individual annual medical deductible and $25 office visit copays, with low biweekly premiums",
-        "Company-paid basic life/AD&D, short-term and long-term disability insurance",
-        "Rx, dental, vision, other voluntary benefits, and FSA",
-        "Employer-matched 401k Plan",
-        "Industry-leading PTO plan",
-        "We offer highly competitive compensation and comprehensive health benefits including:",
-        "Comprehensive mental health and wellbeing resources",
-        "Nationwide Blue Cross Blue Shield PPO with employee-friendly plan design, including a $850 individual annual medical deductible and $25 office visit copays, with low biweekly premiums",
-        "Company-paid basic life/AD&D, short-term and long-term disability insurance",
-        "Rx, dental, vision, other voluntary benefits, and FSA",
-        "Employer-matched 401k Plan",
-        "Industry-leading PTO plan"
-      ],
-      "Responsibilities": [
-        "The Business Analyst, Pricing and Underwriting, is responsible for the compilation, analysis, and reporting of data to support pricing contracts for Specialty services within a Pharmacy Benefit Manager (PBM) setting",
-        "Partner cross-functionally with Underwriting, Finance, Clinical, and Account Management teams to develop custom reports, assess the impact of client-driven changes, and perform data-driven analyses",
-        "Utilize SQL, Excel, and data visualization tools to maintain and monitor Specialty pricing models, support financial forecasting, and contribute to strategic economic modeling",
-        "Design and generate reports to inform daily operations and executive decision-making",
-        "Collaborate within the Pricing & Underwriting department to develop queries across multiple systems, offering robust analytical support to key business units",
-        "Create and maintain custom data-mining queries to produce actionable insights for pricing and business strategy",
-        "Analyze pharmacy claims, drug pricing, rebate models, and utilization trends for internal teams and client reporting",
-        "Interpret complex pharmacy benefit structures and clearly communicate findings to varied audiences",
-        "Provide forecasting, reporting, and analytical support to senior management for strategic planning",
-        "Automate and streamline reporting to increase efficiency and reduce manual processes within PBM pricing operations",
-        "Contribute to Specialty Pricing operations by:",
-        "Managing pricing appeals, coordinating with Maxor Specialty, and compiling data for automated processing",
-        "Executing weekly pricing tasks to ensure accuracy and implementation consistency",
-        "Gathering and preparing input data from pricing resources to support core processes",
-        "Documenting procedures to meet audit and compliance requirements",
-        "Execute dynamic pricing strategies in response to market changes to ensure competitive positioning and profitability",
-        "Collaborate with Pricing, Underwriting, Sales, and Account Management teams to evaluate and support new/existing client opportunities",
-        "Enhance financial models and streamline operational processes for greater accuracy and efficiency",
-        "Create and distribute ad hoc reports and financial models tailored to business needs",
-        "Develop tools for performance monitoring and key metric tracking across business units",
-        "Maintain current knowledge of financial tools, market conditions, and PBM industry trends",
-        "Author and manage Standard Operating Procedures (SOPs) for custom and standardized tasks",
-        "Communicate complex analytical findings effectively across technical and non-technical audiences",
-        "Foster continuous improvement with a strong focus on operational excellence and process optimization",
-        "The Business Analyst, Pricing and Underwriting, is responsible for the compilation, analysis, and reporting of data to support pricing contracts for Specialty services within a Pharmacy Benefit Manager (PBM) setting",
-        "Partner cross-functionally with Underwriting, Finance, Clinical, and Account Management teams to develop custom reports, assess the impact of client-driven changes, and perform data-driven analyses",
-        "Utilize SQL, Excel, and data visualization tools to maintain and monitor Specialty pricing models, support financial forecasting, and contribute to strategic economic modeling",
-        "Design and generate reports to inform daily operations and executive decision-making",
-        "Collaborate within the Pricing & Underwriting department to develop queries across multiple systems, offering robust analytical support to key business units",
-        "Create and maintain custom data-mining queries to produce actionable insights for pricing and business strategy",
-        "Analyze pharmacy claims, drug pricing, rebate models, and utilization trends for internal teams and client reporting",
-        "Interpret complex pharmacy benefit structures and clearly communicate findings to varied audiences",
-        "Provide forecasting, reporting, and analytical support to senior management for strategic planning",
-        "Automate and streamline reporting to increase efficiency and reduce manual processes within PBM pricing operations",
-        "Contribute to Specialty Pricing operations by:",
-        "Managing pricing appeals, coordinating with Maxor Specialty, and compiling data for automated processing",
-        "Executing weekly pricing tasks to ensure accuracy and implementation consistency",
-        "Gathering and preparing input data from pricing resources to support core processes",
-        "Documenting procedures to meet audit and compliance requirements",
-        "Execute dynamic pricing strategies in response to market changes to ensure competitive positioning and profitability",
-        "Collaborate with Pricing, Underwriting, Sales, and Account Management teams to evaluate and support new/existing client opportunities",
-        "Enhance financial models and streamline operational processes for greater accuracy and efficiency",
-        "Create and distribute ad hoc reports and financial models tailored to business needs",
-        "Develop tools for performance monitoring and key metric tracking across business units",
-        "Maintain current knowledge of financial tools, market conditions, and PBM industry trends",
-        "Author and manage Standard Operating Procedures (SOPs) for custom and standardized tasks",
-        "Communicate complex analytical findings effectively across technical and non-technical audiences",
-        "Foster continuous improvement with a strong focus on operational excellence and process optimization"
-      ]
-    },
-    "job_onet_soc": "13205300",
-    "job_onet_job_zone": "4",
-    "id": "www-snagajob-com-jobs-1144859495",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "KB9GXLqfaaHmbxKDAAAAAA==",
     "job_title": "Business Analyst Strategic Program Management",
     "employer_name": "Publicis Groupe Holdings B.V",
@@ -1580,8 +1341,8 @@
     "job_longitude": -71.0565364,
     "job_benefits": [
       "health_insurance",
-      "paid_time_off",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DKB9GXLqfaaHmbxKDAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1745,91 +1506,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "2HyxaoeB298x9eJmAAAAAA==",
-    "job_title": "SRP - Engineering Business Analyst - P3 - (Onsite)",
-    "employer_name": "RTX Corporation",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "Adzuna",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.adzuna.com/details/5631349958?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Adzuna",
-        "apply_link": "https://www.adzuna.com/details/5631349958?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "**Date Posted:**\n\n2026-02-13\n• *Country:**\n\nUnited States of America\n• *Location:**\n\nUS-MA-WOBURN-WB2 ~ 225 Presidential Way ~ GODDARD BLDG\n• *Position Role Type:**\n\nOnsite\n• *U.S. Citizen, U.S. Person, or Immigration Status Requirements:**\n\nU.S. citizenship is required, as only U.S. citizens are authorized to access information under this program/contract.\n• *Security Clearance Type:**\n\nNone/Not Required\n• *Security Clearance Status:**\n\nNot Required\n\nAt Raytheon, the foundation of everything we do is rooted in our values and a higher calling - to help our nation and allies defend freedoms and deter aggression. We bring the strength of more than 100 years of experience and renowned engineering expertise to meet the needs of today's mission and stay ahead of tomorrow's threat. Our team solves tough, meaningful problems that create a safer, more secure world.\n\nThe Raytheon Functional Finance team is seeking a Principal Engineering Business Analyst (Grade P3). The successful candidate will support Engineering Product Team Leads, Control Account Managers, and Program leads in the successful completion of monthly Earned Value Management (EVM) inputs, reporting and analysis, monthly Budget Change Requests (BCRs), facilitate EAC and LRE inputs, and demonstrate the ability to perform meaningful analysis and effective communication to drive predictable results. Scope of work includes partnering with engineering and program leads for EVMS process inputs, EAC/LRE development, monthly variance reporting, and weekly analysis of cost and labor runs.\n\nThe role focuses on driving cost control and schedule using APEX/SAP EV, IMS, and PMX management reporting tools. The candidate will be required to perform analyses and prepare reports to drive predictable cost and schedule. The ability to be self-sufficient as well as operating in a team environment, supporting both the Functional organizations, and ensuring program financial commitments are met are fundamental to success in this role.\n• *What You Will Do**\n\n+ Support the creation of Estimates at Complete (EACs) on a quarterly basis and Latest Revised Estimates (LRE) on a monthly basis including estimate of costs, test of reasonableness analysis, and risk and opportunities assessment at the Program / Product / Mission area level.\n\n+ Perform detailed EV and financial analysis to budget baseline, schedule, and EAC positions.\n\n+ Prepare forecasts, monitor actual costs, and document variances to plans and forecasts\n\n+ Partner with Operations and Supply Chain to understand program cost and schedule variance\n• *Qualifications You Must Have**\n\n+ **Typically requires:** A University Degree or equivalent experience and minimum 5 years prior relevant experience, _or_ An Advanced Degree in a related field and minimum 3 years experience\n\n+ Experience with the Microsoft Office Tool Suite, focus on Excel.\n• *Qualifications We Prefer**\n\n+ Experience with Federal Acquisition Regulation (FAR), Defense Federal Acquisition Regulation Supplement (DFARS) and/or other Government Procurement regulations as they pertain to Bid/Cost proposals\n\n+ Knowledge in leading and managing the execution of processes, projects and tactics within one work area.\n\n+ Knowledge and skills within a specific technical or professional discipline with understanding of the impact of work on other areas of the organization.\n\n+ Demonstrated ability to work effectively with coworkers\n\n+ Knowledge or experience with Operations and Supply Chain Scope\n• *What We Offer**\n\n+ Our values drive our actions, behaviors, and performance with a vision for a safer, more connected world. At RTX we value: Trust, Respect, Accountability, Collaboration, and Innovation.\n• *Learn More & Apply Now!**\n\n+ Please consider the following role type definition as you apply for this role. Onsite: Employees who are working in Onsite roles will work primarily onsite. This includes all production and maintenance employees, as they are essential to the development of our products.\n• *_As part of our commitment to maintaining a secure hiring process, candidates may be asked to attend select steps of the interview process in-person at one of our office locations, regardless of whether the role is designated as on-site, hybrid or remote._**\n\nThe salary range for this role is 86,800 USD - 165,200 USD. The salary range provided is a good faith estimate representative of all experience levels.\n\nRTX considers several factors when extending an offer, including but not limited to, the role, function and associated responsibilities, a candidate's work experience, location, education/training, and key skills.\n\nHired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays. Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement.\n\nHired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement. Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company's performance.\n\nThis role is a U.S.-based role. If the successful candidate resides in a U.S. territory, the appropriate pay structure and benefits will apply.\n\nRTX anticipates the application window closing approximately 40 days from the date the notice was posted. However, factors such as candidate flow and business necessity may require RTX to shorten or extend the application window.\n\n_RTX is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status, or any other applicable state or federal protected class. RTX provides affirmative action in employment for qualified Individuals with a Disability and Protected Veterans in compliance with Section 503 of the Rehabilitation Act and the Vietnam Era Veterans' Readjustment Assistance Act._\n• *Privacy Policy and Terms:**\n\nClick on this link (http://www.rtx.com/privacy/Job-Applicant-Privacy-Notice) to read the Policy and Terms\n\nRaytheon Technologies is An Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status, age or any other federally protected class.",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1771113600,
-    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
-    "job_location": "Reading, MA",
-    "job_city": "Reading",
-    "job_state": "Massachusetts",
-    "job_country": "US",
-    "job_latitude": 42.5235564,
-    "job_longitude": -71.1029921,
-    "job_benefits": [
-      "health_insurance",
-      "paid_time_off",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D2HyxaoeB298x9eJmAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "*U.S. Citizen, U.S. Person, or Immigration Status Requirements:**",
-        "U.S. citizenship is required, as only U.S. citizens are authorized to access information under this program/contract",
-        "*Security Clearance Type:**",
-        "*Security Clearance Status:**",
-        "*Qualifications You Must Have**",
-        "**Typically requires:*",
-        "A University Degree or equivalent experience and minimum 5 years prior relevant experience, _or_ An Advanced Degree in a related field and minimum 3 years experience",
-        "Experience with the Microsoft Office Tool Suite, focus on Excel",
-        "*Qualifications We Prefer**",
-        "Experience with Federal Acquisition Regulation (FAR), Defense Federal Acquisition Regulation Supplement (DFARS) and/or other Government Procurement regulations as they pertain to Bid/Cost proposals",
-        "Knowledge in leading and managing the execution of processes, projects and tactics within one work area",
-        "Knowledge and skills within a specific technical or professional discipline with understanding of the impact of work on other areas of the organization",
-        "Demonstrated ability to work effectively with coworkers",
-        "Knowledge or experience with Operations and Supply Chain Scope"
-      ],
-      "Benefits": [
-        "The salary range provided is a good faith estimate representative of all experience levels",
-        "Hired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays",
-        "Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement",
-        "Hired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement",
-        "Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company's performance"
-      ],
-      "Responsibilities": [
-        "The successful candidate will support Engineering Product Team Leads, Control Account Managers, and Program leads in the successful completion of monthly Earned Value Management (EVM) inputs, reporting and analysis, monthly Budget Change Requests (BCRs), facilitate EAC and LRE inputs, and demonstrate the ability to perform meaningful analysis and effective communication to drive predictable results",
-        "Scope of work includes partnering with engineering and program leads for EVMS process inputs, EAC/LRE development, monthly variance reporting, and weekly analysis of cost and labor runs",
-        "The role focuses on driving cost control and schedule using APEX/SAP EV, IMS, and PMX management reporting tools",
-        "The candidate will be required to perform analyses and prepare reports to drive predictable cost and schedule",
-        "The ability to be self-sufficient as well as operating in a team environment, supporting both the Functional organizations, and ensuring program financial commitments are met are fundamental to success in this role",
-        "Support the creation of Estimates at Complete (EACs) on a quarterly basis and Latest Revised Estimates (LRE) on a monthly basis including estimate of costs, test of reasonableness analysis, and risk and opportunities assessment at the Program / Product / Mission area level",
-        "Perform detailed EV and financial analysis to budget baseline, schedule, and EAC positions",
-        "Prepare forecasts, monitor actual costs, and document variances to plans and forecasts",
-        "Partner with Operations and Supply Chain to understand program cost and schedule variance",
-        "Onsite: Employees who are working in Onsite roles will work primarily onsite",
-        "This includes all production and maintenance employees, as they are essential to the development of our products",
-        "*_As part of our commitment to maintaining a secure hiring process, candidates may be asked to attend select steps of the interview process in-person at one of our office locations, regardless of whether the role is designated as on-site, hybrid or remote._**"
-      ]
-    },
-    "job_onet_soc": "13111100",
-    "job_onet_job_zone": "5",
-    "id": "www-adzuna-com-details-5631349958",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "c1shJhJYn_9GorNiAAAAAA==",
     "job_title": "Senior Business Analyst - Finance and Regulatory Reporting",
     "employer_name": "PNC",
@@ -1897,8 +1573,8 @@
     "job_longitude": -79.99723519999999,
     "job_benefits": [
       "health_insurance",
-      "paid_time_off",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dc1shJhJYn_9GorNiAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1952,95 +1628,207 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "kk59z3lHOHn0WI4tAAAAAA==",
-    "job_title": "Fraud and Digital Acquisition Business Intelligence  Analyst",
-    "employer_name": "WEXWEXUS",
+    "job_id": "2HyxaoeB298x9eJmAAAAAA==",
+    "job_title": "SRP - Engineering Business Analyst - P3 - (Onsite)",
+    "employer_name": "RTX Corporation",
     "employer_logo": null,
     "employer_website": null,
-    "job_publisher": "Careers At WEX",
+    "job_publisher": "Adzuna",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://careers.wexinc.com/us/en/job/R19462/Fraud-and-Digital-Acquisition-Business-Intelligence-Analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.adzuna.com/details/5631349958?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Careers At WEX",
-        "apply_link": "https://careers.wexinc.com/us/en/job/R19462/Fraud-and-Digital-Acquisition-Business-Intelligence-Analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Adzuna",
+        "apply_link": "https://www.adzuna.com/details/5631349958?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Job Description\n\nHow you'll make an impact\n• Data Analysis & Insight Generation:\n• Connect business problems with data to produce insightful, data-driven analysis.\n• Leverage analytics and risk models to drive operational improvements in areas such as fraud detection and customer onboarding.\n• Analyze portfolio behavior to identify anomalies, emerging trends, drop-off points, and areas for improvement across customer funnels.\n• Conduct root cause analysis on performance issues and fraud events to uncover underlying causes and continuously improve coverage and efficiency.\n• Identify proxy variables or creative data substitutes when ideal data is not available.\n• Reporting & Dashboard Development:\n• Design and maintain dashboards and analytical tools that track overall business performance, including DCA metrics (e.g., approval rates, automation rates, conversion trends) and fraud performance (e.g., fraud loss performance, rule efficiency, alert-to-case conversion rates) over time.\n• Monitor system KPIs, evaluate performance trends, and recommend improvements.\n• Deliver insights to the organization that optimize revenue and risk.\n• Strategy & System Optimization Support:\n• Support the implementation of data-driven strategies that transform processes to enable efficiency and scale.\n• Contribute to optimizing fraud detection systems to capture fraud and minimize customer disruptions.\n• Collaborate with Data Scientists to support the building and operationalization of machine learning models to solve risk problems and enhance fraud detection.\n• Assist in incorporating external threat intelligence and business context into strategic recommendations.\n• Cross-Functional Collaboration & Communication:\n• Partner across internal stakeholders—including Fraud, Risk, Product, Technology, Sales, Marketing, Legal, and Compliance—to align analytics with business goals and support cross-functional initiatives.\n• Communicate complex analytical concepts and findings to non-technical stakeholders effectively.\n• Build and maintain strong relationships with internal stakeholders.\n\nEarly Success Expectations (First 100 Days):\n• Improve capture rate of fraud or decrease false positive alerts by 3%.\n• Establish working relationships with key stakeholders across various departments.\n• Gain a comprehensive understanding of WEX’s products, customers, and key business systems, including the Digital Credit Application (DCA) and fraud prevention architecture.\n\nExperience you'll bring\n• Education & Experience:\n• Bachelor’s degree in a quantitative field (e.g., Data Science, Economics, Computer Science, Statistics, Industrial Engineering, Data Analytics, Risk Management).\n• 3-5 years of experience in business intelligence, fraud analytics, financial risk modeling, or digital operations, preferably in fintech, commercial payments, or customer onboarding environments.\n• Experience with Digital Credit Application platforms or similar customer onboarding analytics is preferred.\n• Experience with Artificial Intelligence and Machine Learning Solutions is desirable.\n• Skills & Attributes:\n• Strong data skills: Proficient in SQL, Python, and data visualization tools (e.g., Tableau, Power BI, Snowflake, Data Lake).\n• Proven ability to contribute to building and managing fraud rules and detection policies.\n• Analytical thinker with excellent problem-solving abilities and a strong grasp of statistical and modeling techniques.\n• Highly collaborative and engaging, willing to drive execution.\n• Ability to excel at detailed execution and deliver results on-time in a fast-paced, complex environment.\n• Familiarity with fraud decision platforms, third-party vendor tools, and fraud scoring techniques is a plus.\n• Strong understanding of fraud typologies and detection principles (e.g., Account Takeover, synthetic identity, application fraud, transaction fraud).\n• Good project management, cross-functional communication, and analytical problem-solving skills.\n\nThe base pay range represents the anticipated low and high end of the pay range for this position. Actual pay rates will vary and will be based on various factors, such as your qualifications, skills, competencies, and proficiency for the role. Base pay is one component of WEX's total compensation package. Most sales positions are eligible for commission under the terms of an applicable plan. Non-sales roles are typically eligible for a quarterly or annual bonus based on their role and applicable plan. WEX's comprehensive and market competitive benefits are designed to support your personal and professional well-being. Benefits include health, dental and vision insurances, retirement savings plan, paid time off, health savings account, flexible spending accounts, life insurance, disability insurance, tuition reimbursement, and more. For more information, check out the \"About Us\" section.\n\nPay Range: $71,200.00 - $84,900.00",
+    "job_description": "**Date Posted:**\n\n2026-02-13\n• *Country:**\n\nUnited States of America\n• *Location:**\n\nUS-MA-WOBURN-WB2 ~ 225 Presidential Way ~ GODDARD BLDG\n• *Position Role Type:**\n\nOnsite\n• *U.S. Citizen, U.S. Person, or Immigration Status Requirements:**\n\nU.S. citizenship is required, as only U.S. citizens are authorized to access information under this program/contract.\n• *Security Clearance Type:**\n\nNone/Not Required\n• *Security Clearance Status:**\n\nNot Required\n\nAt Raytheon, the foundation of everything we do is rooted in our values and a higher calling - to help our nation and allies defend freedoms and deter aggression. We bring the strength of more than 100 years of experience and renowned engineering expertise to meet the needs of today's mission and stay ahead of tomorrow's threat. Our team solves tough, meaningful problems that create a safer, more secure world.\n\nThe Raytheon Functional Finance team is seeking a Principal Engineering Business Analyst (Grade P3). The successful candidate will support Engineering Product Team Leads, Control Account Managers, and Program leads in the successful completion of monthly Earned Value Management (EVM) inputs, reporting and analysis, monthly Budget Change Requests (BCRs), facilitate EAC and LRE inputs, and demonstrate the ability to perform meaningful analysis and effective communication to drive predictable results. Scope of work includes partnering with engineering and program leads for EVMS process inputs, EAC/LRE development, monthly variance reporting, and weekly analysis of cost and labor runs.\n\nThe role focuses on driving cost control and schedule using APEX/SAP EV, IMS, and PMX management reporting tools. The candidate will be required to perform analyses and prepare reports to drive predictable cost and schedule. The ability to be self-sufficient as well as operating in a team environment, supporting both the Functional organizations, and ensuring program financial commitments are met are fundamental to success in this role.\n• *What You Will Do**\n\n+ Support the creation of Estimates at Complete (EACs) on a quarterly basis and Latest Revised Estimates (LRE) on a monthly basis including estimate of costs, test of reasonableness analysis, and risk and opportunities assessment at the Program / Product / Mission area level.\n\n+ Perform detailed EV and financial analysis to budget baseline, schedule, and EAC positions.\n\n+ Prepare forecasts, monitor actual costs, and document variances to plans and forecasts\n\n+ Partner with Operations and Supply Chain to understand program cost and schedule variance\n• *Qualifications You Must Have**\n\n+ **Typically requires:** A University Degree or equivalent experience and minimum 5 years prior relevant experience, _or_ An Advanced Degree in a related field and minimum 3 years experience\n\n+ Experience with the Microsoft Office Tool Suite, focus on Excel.\n• *Qualifications We Prefer**\n\n+ Experience with Federal Acquisition Regulation (FAR), Defense Federal Acquisition Regulation Supplement (DFARS) and/or other Government Procurement regulations as they pertain to Bid/Cost proposals\n\n+ Knowledge in leading and managing the execution of processes, projects and tactics within one work area.\n\n+ Knowledge and skills within a specific technical or professional discipline with understanding of the impact of work on other areas of the organization.\n\n+ Demonstrated ability to work effectively with coworkers\n\n+ Knowledge or experience with Operations and Supply Chain Scope\n• *What We Offer**\n\n+ Our values drive our actions, behaviors, and performance with a vision for a safer, more connected world. At RTX we value: Trust, Respect, Accountability, Collaboration, and Innovation.\n• *Learn More & Apply Now!**\n\n+ Please consider the following role type definition as you apply for this role. Onsite: Employees who are working in Onsite roles will work primarily onsite. This includes all production and maintenance employees, as they are essential to the development of our products.\n• *_As part of our commitment to maintaining a secure hiring process, candidates may be asked to attend select steps of the interview process in-person at one of our office locations, regardless of whether the role is designated as on-site, hybrid or remote._**\n\nThe salary range for this role is 86,800 USD - 165,200 USD. The salary range provided is a good faith estimate representative of all experience levels.\n\nRTX considers several factors when extending an offer, including but not limited to, the role, function and associated responsibilities, a candidate's work experience, location, education/training, and key skills.\n\nHired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays. Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement.\n\nHired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement. Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company's performance.\n\nThis role is a U.S.-based role. If the successful candidate resides in a U.S. territory, the appropriate pay structure and benefits will apply.\n\nRTX anticipates the application window closing approximately 40 days from the date the notice was posted. However, factors such as candidate flow and business necessity may require RTX to shorten or extend the application window.\n\n_RTX is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status, or any other applicable state or federal protected class. RTX provides affirmative action in employment for qualified Individuals with a Disability and Protected Veterans in compliance with Section 503 of the Rehabilitation Act and the Vietnam Era Veterans' Readjustment Assistance Act._\n• *Privacy Policy and Terms:**\n\nClick on this link (http://www.rtx.com/privacy/Job-Applicant-Privacy-Notice) to read the Policy and Terms\n\nRaytheon Technologies is An Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status, age or any other federally protected class.",
     "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "Maine",
-    "job_city": null,
-    "job_state": "Maine",
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1771113600,
+    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
+    "job_location": "Reading, MA",
+    "job_city": "Reading",
+    "job_state": "Massachusetts",
     "job_country": "US",
-    "job_latitude": 45.253783,
-    "job_longitude": -69.4454689,
+    "job_latitude": 42.5235564,
+    "job_longitude": -71.1029921,
     "job_benefits": [
-      "dental_coverage",
       "paid_time_off",
+      "dental_coverage",
       "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dkk59z3lHOHn0WI4tAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D2HyxaoeB298x9eJmAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Bachelor’s degree in a quantitative field (e.g., Data Science, Economics, Computer Science, Statistics, Industrial Engineering, Data Analytics, Risk Management)",
-        "3-5 years of experience in business intelligence, fraud analytics, financial risk modeling, or digital operations, preferably in fintech, commercial payments, or customer onboarding environments",
-        "Strong data skills: Proficient in SQL, Python, and data visualization tools (e.g., Tableau, Power BI, Snowflake, Data Lake)",
-        "Proven ability to contribute to building and managing fraud rules and detection policies",
-        "Analytical thinker with excellent problem-solving abilities and a strong grasp of statistical and modeling techniques",
-        "Highly collaborative and engaging, willing to drive execution",
-        "Ability to excel at detailed execution and deliver results on-time in a fast-paced, complex environment",
-        "Strong understanding of fraud typologies and detection principles (e.g., Account Takeover, synthetic identity, application fraud, transaction fraud)",
-        "Good project management, cross-functional communication, and analytical problem-solving skills"
+        "*U.S. Citizen, U.S. Person, or Immigration Status Requirements:**",
+        "U.S. citizenship is required, as only U.S. citizens are authorized to access information under this program/contract",
+        "*Security Clearance Type:**",
+        "*Security Clearance Status:**",
+        "*Qualifications You Must Have**",
+        "**Typically requires:*",
+        "A University Degree or equivalent experience and minimum 5 years prior relevant experience, _or_ An Advanced Degree in a related field and minimum 3 years experience",
+        "Experience with the Microsoft Office Tool Suite, focus on Excel",
+        "*Qualifications We Prefer**",
+        "Experience with Federal Acquisition Regulation (FAR), Defense Federal Acquisition Regulation Supplement (DFARS) and/or other Government Procurement regulations as they pertain to Bid/Cost proposals",
+        "Knowledge in leading and managing the execution of processes, projects and tactics within one work area",
+        "Knowledge and skills within a specific technical or professional discipline with understanding of the impact of work on other areas of the organization",
+        "Demonstrated ability to work effectively with coworkers",
+        "Knowledge or experience with Operations and Supply Chain Scope"
       ],
       "Benefits": [
-        "Actual pay rates will vary and will be based on various factors, such as your qualifications, skills, competencies, and proficiency for the role",
-        "Base pay is one component of WEX's total compensation package",
-        "Most sales positions are eligible for commission under the terms of an applicable plan",
-        "Non-sales roles are typically eligible for a quarterly or annual bonus based on their role and applicable plan",
-        "WEX's comprehensive and market competitive benefits are designed to support your personal and professional well-being",
-        "Benefits include health, dental and vision insurances, retirement savings plan, paid time off, health savings account, flexible spending accounts, life insurance, disability insurance, tuition reimbursement, and more",
-        "Pay Range: $71,200.00 - $84,900.00"
+        "The salary range provided is a good faith estimate representative of all experience levels",
+        "Hired applicants may be eligible for benefits, including but not limited to, medical, dental, vision, life insurance, short-term disability, long-term disability, 401(k) match, flexible spending accounts, flexible work schedules, employee assistance program, Employee Scholar Program, parental leave, paid time off, and holidays",
+        "Specific benefits are dependent upon the specific business unit as well as whether or not the position is covered by a collective-bargaining agreement",
+        "Hired applicants may be eligible for annual short-term and/or long-term incentive compensation programs depending on the level of the position and whether or not it is covered by a collective-bargaining agreement",
+        "Payments under these annual programs are not guaranteed and are dependent upon a variety of factors including, but not limited to, individual performance, business unit performance, and/or the company's performance"
       ],
       "Responsibilities": [
-        "Data Analysis & Insight Generation:",
-        "Connect business problems with data to produce insightful, data-driven analysis",
-        "Leverage analytics and risk models to drive operational improvements in areas such as fraud detection and customer onboarding",
-        "Analyze portfolio behavior to identify anomalies, emerging trends, drop-off points, and areas for improvement across customer funnels",
-        "Conduct root cause analysis on performance issues and fraud events to uncover underlying causes and continuously improve coverage and efficiency",
-        "Identify proxy variables or creative data substitutes when ideal data is not available",
-        "Reporting & Dashboard Development:",
-        "Design and maintain dashboards and analytical tools that track overall business performance, including DCA metrics (e.g., approval rates, automation rates, conversion trends) and fraud performance (e.g., fraud loss performance, rule efficiency, alert-to-case conversion rates) over time",
-        "Monitor system KPIs, evaluate performance trends, and recommend improvements",
-        "Deliver insights to the organization that optimize revenue and risk",
-        "Strategy & System Optimization Support:",
-        "Support the implementation of data-driven strategies that transform processes to enable efficiency and scale",
-        "Contribute to optimizing fraud detection systems to capture fraud and minimize customer disruptions",
-        "Collaborate with Data Scientists to support the building and operationalization of machine learning models to solve risk problems and enhance fraud detection",
-        "Assist in incorporating external threat intelligence and business context into strategic recommendations",
-        "Cross-Functional Collaboration & Communication:",
-        "Partner across internal stakeholders—including Fraud, Risk, Product, Technology, Sales, Marketing, Legal, and Compliance—to align analytics with business goals and support cross-functional initiatives",
-        "Communicate complex analytical concepts and findings to non-technical stakeholders effectively",
-        "Build and maintain strong relationships with internal stakeholders",
-        "Improve capture rate of fraud or decrease false positive alerts by 3%",
-        "Establish working relationships with key stakeholders across various departments",
-        "Gain a comprehensive understanding of WEX’s products, customers, and key business systems, including the Digital Credit Application (DCA) and fraud prevention architecture"
+        "The successful candidate will support Engineering Product Team Leads, Control Account Managers, and Program leads in the successful completion of monthly Earned Value Management (EVM) inputs, reporting and analysis, monthly Budget Change Requests (BCRs), facilitate EAC and LRE inputs, and demonstrate the ability to perform meaningful analysis and effective communication to drive predictable results",
+        "Scope of work includes partnering with engineering and program leads for EVMS process inputs, EAC/LRE development, monthly variance reporting, and weekly analysis of cost and labor runs",
+        "The role focuses on driving cost control and schedule using APEX/SAP EV, IMS, and PMX management reporting tools",
+        "The candidate will be required to perform analyses and prepare reports to drive predictable cost and schedule",
+        "The ability to be self-sufficient as well as operating in a team environment, supporting both the Functional organizations, and ensuring program financial commitments are met are fundamental to success in this role",
+        "Support the creation of Estimates at Complete (EACs) on a quarterly basis and Latest Revised Estimates (LRE) on a monthly basis including estimate of costs, test of reasonableness analysis, and risk and opportunities assessment at the Program / Product / Mission area level",
+        "Perform detailed EV and financial analysis to budget baseline, schedule, and EAC positions",
+        "Prepare forecasts, monitor actual costs, and document variances to plans and forecasts",
+        "Partner with Operations and Supply Chain to understand program cost and schedule variance",
+        "Onsite: Employees who are working in Onsite roles will work primarily onsite",
+        "This includes all production and maintenance employees, as they are essential to the development of our products",
+        "*_As part of our commitment to maintaining a secure hiring process, candidates may be asked to attend select steps of the interview process in-person at one of our office locations, regardless of whether the role is designated as on-site, hybrid or remote._**"
       ]
     },
-    "job_onet_soc": "15119900",
-    "job_onet_job_zone": "4",
-    "id": "careers-wexinc-com-us-en-job-r19462-fraud-and-digital-acquisition-business-intelligence-analyst",
+    "job_onet_soc": "13111100",
+    "job_onet_job_zone": "5",
+    "id": "www-adzuna-com-details-5631349958",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "ccdgd28QKBAhXsjZAAAAAA==",
+    "job_title": "Senior Business Analyst - Portfolio Optimization",
+    "employer_name": "Charles Schwab",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjLZJv0c4eUiAPTL24rSh52v-541rhsjwKrZ1E&s=0",
+    "employer_website": "https://www.schwab.com",
+    "job_publisher": "Schwab Jobs",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.schwabjobs.com/job/southlake/senior-business-analyst-portfolio-optimization/33727/87253709280?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Schwab Jobs",
+        "apply_link": "https://www.schwabjobs.com/job/southlake/senior-business-analyst-portfolio-optimization/33727/87253709280?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/senior-business-analyst-portfolio-optimization-charles-schwab-JV_IC1140065_KO0,46_KE47,61.htm?jl=1009908272693&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/senior-business-analyst-portfolio-optimization-southlake-charles-schwab-corporation-f977a8c9316ee41513627f88d8bfa132?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=e40f0db893348d24&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Charles-Schwab-Inc./Job/Senior-Business-Analyst-Portfolio-Optimization/-in-Southlake,TX?jid=354350fa104b1a54&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/senior-business-analyst-portfolio-optimization_23453b86-425e-45b6-979a-6d7c57a37b67?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/iEqBCF8JxHHc3R0M_K_6Xq6IJ9GYu4JV6w37kLypPr3ragiYEYjzWg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/senior-business-analyst-portfolio-optimization-at-charles-schwab-4364180579?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Your opportunity\n\nAt Schwab, you’re empowered to make an impact on your career. Here, innovative thought meets creative problem solving, helping us “challenge the status quo” and transform the finance industry together. We believe in the importance of in-office collaboration and fully intend for the selected candidate for this role to work on site in the specified location(s).\n\nSchwab Wealth & Asset Management Engineering (WAME) Technology is part of the Schwab Technology Services (STS) organization supporting Schwab's Research, Investment management, and Trading platforms to provide products, advice and services to institutional and retail clients manage investments.\n\nThis team is essentially the front-office for Schwab Asset Management that continues to harness the state-of-the-art technologies for differentiating Schwab portfolio research and asset management. The team has won several industry awards such as the “Best IT Team of the Year” and the “Asset Manager Digital Tool of the Year”.\n\nTeam is high performing and plays a key role in developing the technical strategy, designing systems, and delivering to high quality standards.\n• Serving as subject matter expert for business partners and technology, working through the financial application enhancements, issues or questions related to Portfolio Optimization and performance attribution.\n• Conducting requirements-gathering meetings with users, developers, system design architects, system integrators and vendors.\n• Partnering with Agile team members to generate requirement stories, UAT test scripts, release notes, and other project artifacts.\n• Coordinating user acceptance testing between vendor, business and WAM technology team.\n• Ensuring that system solutions are delivered successfully to the business stakeholders.\n• Providing deep data support and maintenance of vendor applications and in-house systems, as needed.\n• Gaining in-depth business knowledge to successfully represent the business community in arriving at technical solutions that support business strategies.\n• Adapting to changing priorities and managing multiple tasks.\n• Knowledge Visio, Lucid chart or other visualization software, experience building flowcharts to represent workflows.\n• Strong knowledge of webservices and/or API specifications and ability to transform business requirements to stories in JIRA and confluence.\n• Experience with collaborative tools such as Jira, Confluence is required.\n\nWhat you have\n• Extensive experience in the financial Asset management, particularly equity trading, portfolio management, operations, and accounting.\n• Subject matter expertise and experience with optimizers – preferably Axioma and Gurobi.\n• Subject matter expertise and experience with IBOR Systems – preferably Vestmark.\n• Ability to manage and communicate multiple and changing priorities and deadlines to the business in a matrixed organization, comfortable supporting multiple line of stakeholders in trading, portfolio management, compliance, and risk.\n• Demonstrated ability to analyze and provide technology recommendations to the business.\n• Experience in systems development life cycle including the ability to define and document specifications, work with developers to design/analyze alternative technical solutions, test completed code and complete a smooth implementation with the business partners.\n• Confidence in presenting both strategic and tactical vision to the business team for both big-picture planning and day-to-day management of project goal.\n• Desire to work with both in-house developed systems and third-party vendor packages.\n• Excellent communication, interpersonal, analytical, problem solving, organizational and negotiation skills.\n• Education: BA/BS in finance, computer science or related field. Finance CFA Foundation or CFA certification would also be accepted.\n• 8+ years of relevant experience working as an IT business systems analyst or individuals with business analyst experience looking to transition to technology.\n• Preferred Proficiencies: Experience in component-based development (integrating vendor products with in-house developed code); strong data analysis skills; working experience in an agile development environment.\n\nIn addition to the salary range, this role is also eligible for bonus or incentive opportunities.\n\nWhat’s in it for you\n\nAt Schwab, you’re empowered to shape your future. We champion your growth through meaningful work, continuous learning, and a culture of trust and collaboration—so you can build the skills to make a lasting impact. Our Hybrid Work and Flexibility approach balances our ongoing commitment to workplace flexibility, serving our clients, and our strong belief in the value of being together in person on a regular basis.\n\nWe offer a competitive benefits package that takes care of the whole you – both today and in the future:\n• 401(k) with company match and Employee stock purchase plan\n• Paid time for vacation, volunteering, and 28-day sabbatical after every 5 years of service for eligible positions\n• Paid parental leave and family building benefits\n• Tuition reimbursement\n• Health, dental, and vision insurance",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Southlake, TX",
+    "job_city": "Southlake",
+    "job_state": "Texas",
+    "job_country": "US",
+    "job_latitude": 32.9412363,
+    "job_longitude": -97.1341783,
+    "job_benefits": [
+      "dental_coverage",
+      "paid_time_off",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dccdgd28QKBAhXsjZAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 200000,
+    "job_max_salary": 250000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "Knowledge Visio, Lucid chart or other visualization software, experience building flowcharts to represent workflows",
+        "Strong knowledge of webservices and/or API specifications and ability to transform business requirements to stories in JIRA and confluence",
+        "Experience with collaborative tools such as Jira, Confluence is required",
+        "Extensive experience in the financial Asset management, particularly equity trading, portfolio management, operations, and accounting",
+        "Subject matter expertise and experience with optimizers – preferably Axioma and Gurobi",
+        "Subject matter expertise and experience with IBOR Systems – preferably Vestmark",
+        "Ability to manage and communicate multiple and changing priorities and deadlines to the business in a matrixed organization, comfortable supporting multiple line of stakeholders in trading, portfolio management, compliance, and risk",
+        "Demonstrated ability to analyze and provide technology recommendations to the business",
+        "Experience in systems development life cycle including the ability to define and document specifications, work with developers to design/analyze alternative technical solutions, test completed code and complete a smooth implementation with the business partners",
+        "Confidence in presenting both strategic and tactical vision to the business team for both big-picture planning and day-to-day management of project goal",
+        "Desire to work with both in-house developed systems and third-party vendor packages",
+        "Excellent communication, interpersonal, analytical, problem solving, organizational and negotiation skills",
+        "Education: BA/BS in finance, computer science or related field",
+        "Finance CFA Foundation or CFA certification would also be accepted",
+        "8+ years of relevant experience working as an IT business systems analyst or individuals with business analyst experience looking to transition to technology"
+      ],
+      "Benefits": [
+        "In addition to the salary range, this role is also eligible for bonus or incentive opportunities",
+        "We offer a competitive benefits package that takes care of the whole you – both today and in the future:",
+        "401(k) with company match and Employee stock purchase plan",
+        "Paid time for vacation, volunteering, and 28-day sabbatical after every 5 years of service for eligible positions",
+        "Paid parental leave and family building benefits",
+        "Tuition reimbursement",
+        "Health, dental, and vision insurance"
+      ],
+      "Responsibilities": [
+        "Team is high performing and plays a key role in developing the technical strategy, designing systems, and delivering to high quality standards",
+        "Serving as subject matter expert for business partners and technology, working through the financial application enhancements, issues or questions related to Portfolio Optimization and performance attribution",
+        "Conducting requirements-gathering meetings with users, developers, system design architects, system integrators and vendors",
+        "Partnering with Agile team members to generate requirement stories, UAT test scripts, release notes, and other project artifacts",
+        "Coordinating user acceptance testing between vendor, business and WAM technology team",
+        "Ensuring that system solutions are delivered successfully to the business stakeholders",
+        "Providing deep data support and maintenance of vendor applications and in-house systems, as needed",
+        "Gaining in-depth business knowledge to successfully represent the business community in arriving at technical solutions that support business strategies",
+        "Adapting to changing priorities and managing multiple tasks"
+      ]
+    },
+    "job_onet_soc": "13111100",
+    "job_onet_job_zone": "5",
+    "id": "www-schwabjobs-com-job-southlake-senior-business-analyst-portfolio-optimization-33727-87253709280",
     "_source": "new_jobs"
   }
 ]
