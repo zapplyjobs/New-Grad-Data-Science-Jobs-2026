@@ -31,9 +31,9 @@
     "job_latitude": 38.9764364,
     "job_longitude": -76.489642,
     "job_benefits": [
+      "health_insurance",
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D1GDRo-kJ2LBcvkpvAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -166,9 +166,9 @@
     ],
     "job_description": "DESCRIPTION\n\nJoin the next science and engineering revolution at Amazon's Delivery Foundation Model team, where you'll work alongside world-class scientists and engineers to pioneer the next frontier of logistics through advanced AI and foundation models.\n\nWe are seeking an exceptional Principal Applied Scientist to help develop innovative foundation models that enable delivery of billions of packages worldwide. In this role, you'll combine highly technical work with scientific leadership, ensuring the team delivers robust solutions for dynamic real-world environments. Your team will leverage Amazon's vast data and computational resources to tackle ambitious problems across a diverse set of Amazon delivery use cases.\n\nKey job responsibilities\n• Design and implement novel deep learning architectures combining a multitude of modalities, including image, video, and geospatial data.\n• Solve computational problems to train foundation models on vast amounts of Amazon data and infer at Amazon scale, taking advantage of latest developments in hardware and deep learning libraries.\n• As a foundation model developer, collaborate with multiple science and engineering teams to help build adaptations that power use cases across Amazon Last Mile deliveries, improving experience and safety of a delivery driver, an Amazon customer, and improving efficiency of Amazon delivery network.\n• Guide technical direction for specific research initiatives, ensuring robust performance in production environments.\n• Mentor fellow scientists while maintaining strong individual technical contributions.\n\nA day in the life\n\nAs a member of the Delivery Foundation Model team, you’ll spend your day on the following:\n• Develop and implement novel foundation model architectures, working hands-on with data and our extensive training and evaluation infrastructure\n• Guide and support fellow scientists in solving complex technical challenges, from trajectory planning to efficient multi-task learning\n• Guide and support fellow engineers in building scalable and reusable infra to support model training, evaluation, and inference\n\n- Lead focused technical initiatives from conception through deployment, ensuring successful integration with production systems- Drive technical discussions within the team and and key stakeholders\n• Conduct experiments and prototype new ideas\n• Mentor team members while maintaining significant hands-on contribution to technical solutions\n\nAbout the team\n\nThe Delivery Foundation Model team combines ambitious research vision with real-world impact. Our foundation models provide generative reasoning capabilities required to meet the demands of Amazon's global Last Mile delivery network. We leverage Amazon's unparalleled computational infrastructure and extensive datasets to deploy state-of-the-art foundation models to improve the safety, quality, and efficiency of Amazon deliveries. Our work spans the full spectrum of foundation model development, from multimodal training using images, videos, and sensor data, to sophisticated modeling strategies that can handle diverse real-world scenarios. We build everything end to end, from data preparation to model training and evaluation to inference, along with all the tooling needed to understand and analyze model performance.\n\nJoin us if you're excited about pushing the boundaries of what's possible in logistics, working with world-class scientists and engineers, and seeing your innovations deployed at unprecedented scale.\n\nBASIC QUALIFICATIONS\n• PhD or Master's degree and 8+ years of applied machine learning experience.\n• Experience designing novel deep learning model architectures, building models from scratch\n• Proficient with Data, experience with SQL and Spark\n• Expert coders comfortable working in production environments using Python, C++ or other languages\n• Strong publication record at top-tier conferences (NeurIPS, ICML, ICLR, CVPR, ICCV, RSS, CoRL) OR Demonstrated experience in applying machine learning innovation in industry\n• Extensive track record of leading technical projects\n• Experience mentoring junior scientists / engineers.\n\nPREFERRED QUALIFICATIONS\n• Experience building foundation models for industry or research\n• Experience designing multi-modal model architectures\n• Experience building models for motion prediction, e.g. for autonomous driving\n• Track record of successful production ML deployments\n• Experience with large-scale distributed environments for ML training and inference\n• History of impactful first-author publications at major conferences\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nLos Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.\n\nUSA, CA, Santa Clara - 228,700.00 - 309,400.00 USD annually\n\nUSA, NY, New York - 218,800.00 - 295,900.00 USD annually\n\nUSA, TX, Austin - 198,900.00 - 269,000.00 USD annually\n\nUSA, WA, Bellevue - 198,900.00 - 269,000.00 USD annually",
     "job_is_remote": false,
-    "job_posted_at": "15 hours ago",
-    "job_posted_at_timestamp": 1771286400,
-    "job_posted_at_datetime_utc": "2026-02-17T00:00:00.000Z",
+    "job_posted_at": "16 hours ago",
+    "job_posted_at_timestamp": 1771282800,
+    "job_posted_at_datetime_utc": "2026-02-16T23:00:00.000Z",
     "job_location": "New York, NY",
     "job_city": "New York",
     "job_state": "New York",
@@ -176,9 +176,9 @@
     "job_latitude": 40.7127753,
     "job_longitude": -74.0059728,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwLWZfsd_L40MvSczAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 199000,
@@ -338,9 +338,9 @@
     "job_latitude": 38.9072873,
     "job_longitude": -77.0369274,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DWcK1ZVOCOsExOoulAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -408,6 +408,48 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "veterans-usnlx-com-washington-dc-principal-applied-scientist-b4cec9f284564493b1ca4c1d0e754900-job",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "VVvlG9sCSufRyzAtAAAAAA==",
+    "job_title": "Applied Scientist, AWS Agentic AI",
+    "employer_name": "Amazon Web Services, Inc.",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFk0Hyp3R4-a70U_C_-LqsdYE3Ycb1NVmAJYB&s=0",
+    "employer_website": "https://aws.amazon.com",
+    "job_publisher": "Tallo",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://tallo.com/jobs/science/researcher-research-associate/wa/king/applied-scientist-aws-agentic-ai-02b199b76149/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Tallo",
+        "apply_link": "https://tallo.com/jobs/science/researcher-research-associate/wa/king/applied-scientist-aws-agentic-ai-02b199b76149/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "This job listing in King - WA has been recently added. Tallo will add a summary here for this job shortly.",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Washington",
+    "job_city": null,
+    "job_state": "Washington",
+    "job_country": "US",
+    "job_latitude": 47.7510741,
+    "job_longitude": -120.7401385,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DVVvlG9sCSufRyzAtAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": "YEAR",
+    "job_highlights": {},
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "tallo-com-jobs-science-researcher-research-associate-wa-king-applied-scientist-aws-agentic-ai-02b199b76149",
     "_source": "new_jobs"
   },
   {
@@ -505,48 +547,6 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "www-linkedin-com-jobs-view-senior-applied-scientist-at-alibaba-com-4370983190",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "VVvlG9sCSufRyzAtAAAAAA==",
-    "job_title": "Applied Scientist, AWS Agentic AI",
-    "employer_name": "Amazon Web Services, Inc.",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFk0Hyp3R4-a70U_C_-LqsdYE3Ycb1NVmAJYB&s=0",
-    "employer_website": "https://aws.amazon.com",
-    "job_publisher": "Tallo",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://tallo.com/jobs/science/researcher-research-associate/wa/king/applied-scientist-aws-agentic-ai-02b199b76149/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Tallo",
-        "apply_link": "https://tallo.com/jobs/science/researcher-research-associate/wa/king/applied-scientist-aws-agentic-ai-02b199b76149/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "This job listing in King - WA has been recently added. Tallo will add a summary here for this job shortly.",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Washington",
-    "job_city": null,
-    "job_state": "Washington",
-    "job_country": "US",
-    "job_latitude": 47.7510741,
-    "job_longitude": -120.7401385,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DVVvlG9sCSufRyzAtAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": "YEAR",
-    "job_highlights": {},
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "tallo-com-jobs-science-researcher-research-associate-wa-king-applied-scientist-aws-agentic-ai-02b199b76149",
     "_source": "new_jobs"
   },
   {
@@ -756,9 +756,9 @@
     "job_latitude": 38.794595199999996,
     "job_longitude": -106.5348379,
     "job_benefits": [
-      "health_insurance",
+      "paid_time_off",
       "dental_coverage",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3De138d36qlunJygmzAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 148000,
@@ -999,9 +999,9 @@
     "job_latitude": 38.9764364,
     "job_longitude": -76.489642,
     "job_benefits": [
-      "health_insurance",
+      "dental_coverage",
       "paid_time_off",
-      "dental_coverage"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DM5xINsdGdRGDQKaWAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1095,9 +1095,9 @@
     "job_latitude": 32.3798244,
     "job_longitude": -86.3075741,
     "job_benefits": [
-      "health_insurance",
+      "dental_coverage",
       "paid_time_off",
-      "dental_coverage"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DC-xrsdG15DmJB69hAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 207485,
@@ -1141,79 +1141,7 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "fFEK33S5CBCXkH9CAAAAAA==",
-    "job_title": "AI Applied Scientist - PhD Intern, Foundational IQ 35",
-    "employer_name": "Zillow Group",
-    "employer_logo": null,
-    "employer_website": "https://www.zillow.com",
-    "job_publisher": "Jobilize",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.jobilize.com/job/us-ny-all-cities-ai-applied-scientist-phd-intern-foundational-iq-35?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-ny-all-cities-ai-applied-scientist-phd-intern-foundational-iq-35?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "About the team\nZillow AI's Foundational IQ group builds the core intelligence that powers search, discovery, and conversational experiences like Zillow Copilot.\nWe combine text, imagery, geospatial and time-series signals to learn rich representations of homes, neighborhoods, and shopper intent, then use them to improve user experiences on Zillow.\nOur team operates as applied researchers who ship:\nwe prototype quickly, evaluate rigorously (offline metrics and online experiments), and partner closely with product and engineering to bring models to production.\nWe care deeply about helpfulness, safety, and fairness, including domain-specific, fair-housing-aware evaluation, and we invest in modern ML platforms, data governance, and observability to run at national scale.\nThe result is AI that reduces friction, increases confidence, and makes complex home decisions feel simpler for millions of people.\n\nAbout the role\n\nAs a PhD Research Intern on the Foundational IQ team, you will help train and adapt large models that better understand homes and users, advancing representation learning, multimodal modeling, user modeling, and reinforcement/sequential decision-making for real-world problems at Zillow scale.\nYou'll tailor and evaluate LLMs and multimodal foundation models to our domain, build agentic workflows that plan and act across multi-step tasks, and define success via domain-specific metrics emphasizing helpfulness, safety, and fairness.\nYou'll move quickly from prototype to impact, running rigorous offline evaluations and online experiments, collaborating with applied scientists, engineers, and product partners, and contributing to platform capabilities that power experiences like Zillow Copilot.\nAlong the way you'll author clear research docs, share results internally, and have opportunities to publish and present your work.\n\nResponsibilities include:\n• Research and develop methods for adapting LLMs and foundation models with Zillow's domain-specific data\n• Build and evaluate multimodal models that combine text, images, geospatial and tabular signals for home and user understanding.\n• Explore reinforcement learning and sequential decision-making for long-horizon, user-centric outcomes\n• Prototype agentic workflows; define success metrics and run rigorous offline/online evaluations\n• Partner across science, engineering, product, and design; share results via docs, presentations, and publications\n\nThis role has been categorized as a Remote position.\n\"Remote\" employees do not have a permanent corporate office workplace and, instead, work from a physical location of their choice, which must be identified to the Company.\nU.S.\nemployees may live in any of the 50 United States, with limited exceptions.\n\nIn California, Connecticut, Maryland, Massachusetts, New Jersey, New York, Washington state, and Washington DC the standard base pay range for this role is $104,000.00 - $166,000.00 annually.\nThis base pay range is specific to these locations and may not be applicable to other locations.In Colorado, Hawaii, Illinois, Minnesota, Nevada, Ohio, Rhode Island, and Vermont the standard base pay range for this role is $104,000.00 - $166,000.00 annually.\nThe base pay range is specific to these locations and may not be applicable to other locations.\n\nWho you are\n• Currently enrolled in a PhD program in Computer Science, Machine Learning, Artificial Intelligence or a related field with a strong research track record\n• Experience in one or more of the following:\n• LLMs:\ninstruction tuning/fine-tuning, prompting, and evaluation/measurement\n• Multimodal learning (image + text; familiarity with audio or geospatial a plus)\n• Representation learning with limited labels (self/semi/weakly-supervised)\n• User modeling for personalization systems\n• Reinforcement learning or sequential decision-making\n• Evaluating generative/agentic systems; privacy-aware and responsible AI practices (e.g., fair-housing considerations) are a plus\n• Proficiency in Python and modern ML frameworks (e.g., PyTorch, TensorFlow, Hugging Face)\n• Clear communication and a collaborative mindset; motivated to publish at top venues\n\nHere at Zillow - we value the experience and perspective of candidates with non-traditional backgrounds.\nWe encourage you to apply if you have transferable skills or related experiences.\n\nGet to know us\n\nAt Zillow, we're reimagining how people move-through the real estate market and through their careers.\nAs the most-visited real estate platform in the U.S., we help customers navigate buying, selling, financing and renting with greater ease and confidence.\nWhether you're working in tech, sales, operations, or design, you'll be part of a company that's reshaping an industry and helping more people make home a reality.\n\nZillow is honored to be recognized among the best workplaces in the country.\nZillow was named one of FORTUNE 100 Best Companies to Work For in 2025, and included on the PEOPLE Companies That Care 2025 list, reflecting our commitment to creating an innovative, inclusive, and engaging culture where employees are empowered to grow.\n\nNo matter where you sit in the organization, your work will help drive innovation, support our customers, and move the industry-and your career-forward, together.\n\nZillow Group is an equal opportunity employer committed to fostering an inclusive, innovative environment with the best employees.\nWe are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.\nIf you have a disability or special need that requires accommodation, please contact your recruiter directly.\n\nQualified applicants with arrest or conviction records will be considered for employment in accordance with applicable state and local law.\n\nLos Angeles County applicants:\nJob duties for this position include:\nwork safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies.\nCriminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position.\nThese include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company's reputation.\nPursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.",
-    "job_is_remote": false,
-    "job_posted_at": "13 days ago",
-    "job_posted_at_timestamp": 1770163200,
-    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
-    "job_location": "New York, NY",
-    "job_city": "New York",
-    "job_state": "New York",
-    "job_country": "US",
-    "job_latitude": 40.7127753,
-    "job_longitude": -74.0059728,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DfFEK33S5CBCXkH9CAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Currently enrolled in a PhD program in Computer Science, Machine Learning, Artificial Intelligence or a related field with a strong research track record",
-        "instruction tuning/fine-tuning, prompting, and evaluation/measurement",
-        "Proficiency in Python and modern ML frameworks (e.g., PyTorch, TensorFlow, Hugging Face)",
-        "Clear communication and a collaborative mindset; motivated to publish at top venues",
-        "We encourage you to apply if you have transferable skills or related experiences",
-        "These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company's reputation"
-      ],
-      "Benefits": [
-        "In California, Connecticut, Maryland, Massachusetts, New Jersey, New York, Washington state, and Washington DC the standard base pay range for this role is $104,000.00 - $166,000.00 annually",
-        "This base pay range is specific to these locations and may not be applicable to other locations.In Colorado, Hawaii, Illinois, Minnesota, Nevada, Ohio, Rhode Island, and Vermont the standard base pay range for this role is $104,000.00 - $166,000.00 annually"
-      ],
-      "Responsibilities": [
-        "As a PhD Research Intern on the Foundational IQ team, you will help train and adapt large models that better understand homes and users, advancing representation learning, multimodal modeling, user modeling, and reinforcement/sequential decision-making for real-world problems at Zillow scale",
-        "You'll tailor and evaluate LLMs and multimodal foundation models to our domain, build agentic workflows that plan and act across multi-step tasks, and define success via domain-specific metrics emphasizing helpfulness, safety, and fairness",
-        "You'll move quickly from prototype to impact, running rigorous offline evaluations and online experiments, collaborating with applied scientists, engineers, and product partners, and contributing to platform capabilities that power experiences like Zillow Copilot",
-        "Along the way you'll author clear research docs, share results internally, and have opportunities to publish and present your work",
-        "Research and develop methods for adapting LLMs and foundation models with Zillow's domain-specific data",
-        "Build and evaluate multimodal models that combine text, images, geospatial and tabular signals for home and user understanding",
-        "Explore reinforcement learning and sequential decision-making for long-horizon, user-centric outcomes",
-        "Prototype agentic workflows; define success metrics and run rigorous offline/online evaluations",
-        "Partner across science, engineering, product, and design; share results via docs, presentations, and publications",
-        "This role has been categorized as a Remote position",
-        "Representation learning with limited labels (self/semi/weakly-supervised)",
-        "User modeling for personalization systems",
-        "Reinforcement learning or sequential decision-making",
-        "work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-jobilize-com-job-us-ny-all-cities-ai-applied-scientist-phd-intern-foundational-iq-35",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "adW9VB4zATiLTL_CAAAAAA==",
+    "job_id": "8oW1F2cJ0aUz6bzlAAAAAA==",
     "job_title": "[Remote] Principal Applied Scientist- Oracle Health - Full-time",
     "employer_name": "Oracle",
     "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Ob8wBy30IQeYJfM4qn_PksuLPYaC4sUtJLRK&s=0",
@@ -1223,32 +1151,32 @@
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.snagajob.com/jobs/1189875297?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.snagajob.com/jobs/1189874621?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
         "publisher": "Snagajob",
-        "apply_link": "https://www.snagajob.com/jobs/1189875297?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.snagajob.com/jobs/1189874621?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
     "job_description": "**Job Description**\n\nBuilding off our Cloud momentum, Oracle has formed a new organization - Oracle Health & AI. This team will focus on product development and product strategy for Oracle Health, while building out a complete platform supporting modernized, automated healthcare. This is a net new line of business, constructed with an entrepreneurial spirit that promotes an energetic and creative environment. We are unencumbered and will need your contribution to make it a world class engineering center with the focus on excellence.\n\nAs our Principal Applied Scientist, you will play a key role in shaping the future of AI at Oracle, with an emphasis on Large Language Models (LLMs) and Generative AI. Your contributions will be pivotal in delivering our new Generative AI-powered solutions for healthcare and enterprise customers.\n• *Responsibilities**\n\n+ Collaborate with product managers to translate business and product requirements into AI projects.\n\n+ Collaborate with fellow technical leaders to ensure the successful and timely delivery of models and integration of services.\n\n+ Coordinate with multinational teams to drive projects from research POC to production.\n\n+ Develop new healthcare and enterprise services and features leveraging recent advances in generative AI, machine learning and deep learning.\n\n+ Design and review the architecture of AI solutions, including data, model, training, and evaluation, employing best practices.\n\n+ Lead and mentor both junior and senior applied scientists.\n\n+ Develop production code and advocate for the best coding and engineering practices.\n\n+ Participate in project planning, review, and retrospective sessions.\n\n+ Identify and mitigate risks in our plans and executions, especially at the intersection of business and engineering.\n• *Qualifications and Experience**\n\n+ Demonstrated experience in designing and implementing scalable AI models for production.\n\n+ Deep technical understanding of Machine Learning, Deep Learning architectures like Transformers, training methods, and optimizers.\n\n+ Practical experience with the latest technologies in LLM and generative AI, such as parameter-efficient fine-tuning, instruction fine-tuning, and advanced prompt engineering techniques like Tree-of-Thoughts.\n\n+ Hands-on experience with emerging LLM frameworks and plugins, such as LangChain, LlamaIndex, VectorStores and Retrievers, LLM Cache, LLMOps (MLFlow), LMQL, Guidance, etc.\n\n+ Proven experience in designing data collection/annotation solutions and systematic evaluation necessary for developing and maintaining production systems.\n\n+ Commitment to staying up-to-date with the field and applying academic advances to solve complex business problems, and bringing them into production.\n\n+ Strong publication record, including as a lead author or reviewer, in top-tier journals or conferences.\n\n+ Experienced leading senior scientists and early-career scientists.\n• *Preferred Qualifications**\n\n+ Knowledge of healthcare and experience delivering healthcare AI models are a significant plus.\n\n+ Familiarity and experience with the latest advancements in computer vision and multimodal modeling is a plus.\n• *Education**\n\n+ PhD Computer Science, Mathematics, Statistics, Physics, Linguistics or a related field with a dissertation, thesis or final project centered in Machine Learning and Deep Learning) with 3+ years relevant experience is preferred but not a must; OR\n\n+ Masters or Bachelor’s in related field with 5+ years relevant experience\n\nOracle is committed to incorporating generative AI into our applications and workflows for business users. This role presents a unique opportunity to work on pioneering AI technologies and contribute to Oracle's Generative AI strategy. At Oracle, we value diversity and encourage continuous learning for career growth. Come join our team to make a significant difference!\n\nCareer Level - IC4\n• *Responsibilities**\n• *Responsibilities**\n\n+ Collaborate with product managers to translate business and product requirements into AI projects.\n\n+ Collaborate with fellow technical leaders to ensure the successful and timely delivery of models and integration of services.\n\n+ Coordinate with multinational teams to drive projects from research POC to production.\n\n+ Develop new healthcare and enterprise services and features leveraging recent advances in generative AI, machine learning and deep learning.\n\n+ Design and review the architecture of AI solutions, including data, model, training, and evaluation, employing best practices.\n\n+ Lead and mentor both junior and senior applied scientists.\n\n+ Develop production code and advocate for the best coding and engineering practices.\n\n+ Participate in project planning, review, and retrospective sessions.\n\n+ Identify and mitigate risks in our plans and executions, especially at the intersection of business and engineering.\n\nDisclaimer:\n• *Certain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates.**\n• *Range and benefit information provided in this posting are specific to the stated locations only**\n\nUS: Hiring Range in USD from: $120,100 to $251,600 per annum. May be eligible for bonus, equity, and compensation deferral.\n\nOracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle’s differing products, industries and lines of business.\n\nCandidates are typically placed into the range based on the preceding factors as well as internal peer equity.\n\nOracle US offers a comprehensive benefits package which includes the following:\n\n1. Medical, dental, and vision insurance, including expert medical opinion\n\n2. Short term disability and long term disability\n\n3. Life insurance and AD&D\n\n4. Supplemental life insurance (Employee/Spouse/Child)\n\n5. Health care and dependent care Flexible Spending Accounts\n\n6. Pre-tax commuter and parking benefits\n\n7. 401(k) Savings and Investment Plan with company match\n\n8. Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position. Accrued Vacation is provided to all other employees eligible for vacation benefits. For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment. Vacation accrual is prorated for employees working between 20 and 34 hours per week. Employees working fewer than 20 hours per week are not eligible for vacation.\n\n9. 11 paid holidays\n\n10. Paid sick leave: 72 hours of paid sick leave upon date of hire. Refreshes each calendar year. Unused balance will carry over each year up to a maximum cap of 112 hours.\n\n11. Paid parental leave\n\n12. Adoption assistance\n\n13. Employee Stock Purchase Plan\n\n14. Financial planning and group legal\n\n15. Voluntary benefits including auto, homeowner and pet insurance\n\nThe role will generally accept applications for at least three calendar days from the posting date or as long as the job remains posted.\n\nCareer Level - IC4\n• *About Us**\n\nOnly Oracle brings together the data, infrastructure, applications, and expertise to power everything from industry innovations to life-saving care. And with AI embedded across our products and services, we help customers turn that promise into a better future for all. Discover your potential at a company leading the way in AI and cloud solutions that impact billions of lives.\n\nTrue innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.\n\nWe’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing accommodation-request_mb@oracle.com or by calling 1-888-404-2494 in the United States.\n\nOracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.\n• *Job Description**\n\nBuilding off our Cloud momentum, Oracle has formed a new organization - Oracle Health & AI. This team will focus on product development and product strategy for Oracle Health, while building out a complete platform supporting modernized, automated healthcare. This is a net new line of business, constructed with an entrepreneurial spirit that promotes an energetic and creative environment. We are unencumbered and will need your contribution to make it a world class engineering center with the focus on excellence.\n\nAs our Principal Applied Scientist, you will play a key role in shaping the future of AI at Oracle, with an emphasis on Large Language Models (LLMs) and Generative AI. Your contributions will be pivotal in delivering our new Generative AI-powered solutions for healthcare and enterprise customers.\n• *Responsibilities**\n\n+ Collaborate with product managers to translate business and product requirements into AI projects.\n\n+ Collaborate with fellow technical leaders to ensure the successful and timely delivery of models and integration of services.\n\n+ Coordinate with multinational teams to drive projects from research POC to production.\n\n+ Develop new healthcare and enterprise services and features leveraging recent advances in generative AI, machine learning and deep learning.\n\n+ Design and review the architecture of AI solutions, including data, model, training, and evaluation, employing best practices.\n\n+ Lead and mentor both junior and senior applied scientists.\n\n+ Develop production code and advocate for the best coding and engineering practices.\n\n+ Participate in project planning, review, and retrospective sessions.\n\n+ Identify and mitigate risks in our plans and executions, especially at the intersection of business and engineering.\n• *Qualifications and Experience**\n\n+ Demonstrated experience in designing and implementing scalable AI models for production.\n\n+ Deep technical understanding of Machine Learning, Deep Learning architectures like Transformers, training methods, and optimizers.\n\n+ Practical experience with the latest technologies in LLM and generative AI, such as parameter-efficient fine-tuning, instruction fine-tuning, and advanced prompt engineering techniques like Tree-of-Thoughts.\n\n+ Hands-on experience with emerging LLM frameworks and plugins, such as LangChain, LlamaIndex, VectorStores and Retrievers, LLM Cache, LLMOps (MLFlow), LMQL, Guidance, etc.\n\n+ Proven experience in designing data collection/annotation solutions and systematic evaluation necessary for developing and maintaining production systems.\n\n+ Commitment to staying up-to-date with the field and applying academic advances to solve complex business problems, and bringing them into production.\n\n+ Strong publication record, including as a lead author or reviewer, in top-tier journals or conferences.\n\n+ Experienced leading senior scientists and early-career scientists.\n• *Preferred Qualifications**\n\n+ Knowledge of healthcare and experience delivering healthcare AI models are a significant plus.\n\n+ Familiarity and experience with the latest advancements in computer vision and multimodal modeling is a plus.\n• *Education**\n\n+ PhD Computer Science, Mathematics, Statistics, Physics, Linguistics or a related field with a dissertation, thesis or final project centered in Machine Learning and Deep Learning) with 3+ years relevant experience is preferred but not a must; OR\n\n+ Masters or Bachelor’s in related field with 5+ years relevant experience\n\nOracle is committed to incorporating generative AI into our applications and workflows for business users. This role presents a unique opportunity to work on pioneering AI technologies and contribute to Oracle's Generative AI strategy. At Oracle, we value diversity and encourage continuous learning for career growth. Come join our team to make a significant difference!\n\nCareer Level - IC4\n• *Responsibilities**\n• *Responsibilities**\n\n+ Collaborate with product managers to translate business and product requirements into AI projects.\n\n+ Collaborate with fellow technical leaders to ensure the successful and timely delivery of models and integration of services.\n\n+ Coordinate with multinational teams to drive projects from research POC to production.\n\n+ Develop new healthcare and enterprise services and features leveraging recent advances in generative AI, machine learning and deep learning.\n\n+ Design and review the architecture of AI solutions, including data, model, training, and evaluation, employing best practices.\n\n+ Lead and mentor both junior and senior applied scientists.\n\n+ Develop production code and advocate for the best coding and engineering practices.\n\n+ Participate in project planning, review, and retrospective sessions.\n\n+ Identify and mitigate risks in our plans and executions, especially at the intersection of business and engineering.\n\nDisclaimer:\n• *Certain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates.**\n• *Range and benefit information provided in this posting are specific to the stated locations only**\n\nUS: Hiring Range in USD from: $120,100 to $251,600 per annum. May be eligible for bonus, equity, and compensation deferral.\n\nOracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle’s differing products, industries and lines of business.\n\nCandidates are typically placed into the range based on the preceding factors as well as internal peer equity.\n\nOracle US offers a comprehensive benefits package which includes the following:\n\n1. Medical, dental, and vision insurance, including expert medical opinion\n\n2. Short term disability and long term disability\n\n3. Life insurance and AD&D\n\n4. Supplemental life insurance (Employee/Spouse/Child)\n\n5. Health care and dependent care Flexible Spending Accounts\n\n6. Pre-tax commuter and parking benefits\n\n7. 401(k) Savings and Investment Plan with company match\n\n8. Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position. Accrued Vacation is provided to all other employees eligible for vacation benefits. For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment. Vacation accrual is prorated for employees working between 20 and 34 hours per week. Employees working fewer than 20 hours per week are not eligible for vacation.\n\n9. 11 paid holidays\n\n10. Paid sick leave: 72 hours of paid sick leave upon date of hire. Refreshes each calendar year. Unused balance will carry over each year up to a maximum cap of 112 hours.\n\n11. Paid parental leave\n\n12. Adoption assistance\n\n13. Employee Stock Purchase Plan\n\n14. Financial planning and group legal\n\n15. Voluntary benefits including auto, homeowner and pet insurance\n\nThe role will generally accept applications for at least three calendar days from the posting date or as long as the job remains posted.\n\nCareer Level - IC4\n• *About Us**\n\nOnly Oracle brings together the data, infrastructure, applications, and expertise to power everything from industry innovations to life-saving care. And with AI embedded across our products and services, we help customers turn that promise into a better future for all. Discover your potential at a company leading the way in AI and cloud solutions that impact billions of lives.\n\nTrue innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.\n\nWe’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing accommodation-request_mb@oracle.com or by calling 1-888-404-2494 in the United States.\n\nOracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.",
     "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Montpelier, VT",
-    "job_city": "Montpelier",
-    "job_state": "Vermont",
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Charleston, WV",
+    "job_city": "Charleston",
+    "job_state": "West Virginia",
     "job_country": "US",
-    "job_latitude": 44.260059299999995,
-    "job_longitude": -72.5753869,
+    "job_latitude": 38.349819499999995,
+    "job_longitude": -81.6326234,
     "job_benefits": [
       "dental_coverage",
       "paid_time_off",
       "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DadW9VB4zATiLTL_CAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D8oW1F2cJ0aUz6bzlAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
@@ -1375,7 +1303,79 @@
     },
     "job_onet_soc": "15112100",
     "job_onet_job_zone": "4",
-    "id": "www-snagajob-com-jobs-1189875297",
+    "id": "www-snagajob-com-jobs-1189874621",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "fFEK33S5CBCXkH9CAAAAAA==",
+    "job_title": "AI Applied Scientist - PhD Intern, Foundational IQ 35",
+    "employer_name": "Zillow Group",
+    "employer_logo": null,
+    "employer_website": "https://www.zillow.com",
+    "job_publisher": "Jobilize",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.jobilize.com/job/us-ny-all-cities-ai-applied-scientist-phd-intern-foundational-iq-35?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-ny-all-cities-ai-applied-scientist-phd-intern-foundational-iq-35?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "About the team\nZillow AI's Foundational IQ group builds the core intelligence that powers search, discovery, and conversational experiences like Zillow Copilot.\nWe combine text, imagery, geospatial and time-series signals to learn rich representations of homes, neighborhoods, and shopper intent, then use them to improve user experiences on Zillow.\nOur team operates as applied researchers who ship:\nwe prototype quickly, evaluate rigorously (offline metrics and online experiments), and partner closely with product and engineering to bring models to production.\nWe care deeply about helpfulness, safety, and fairness, including domain-specific, fair-housing-aware evaluation, and we invest in modern ML platforms, data governance, and observability to run at national scale.\nThe result is AI that reduces friction, increases confidence, and makes complex home decisions feel simpler for millions of people.\n\nAbout the role\n\nAs a PhD Research Intern on the Foundational IQ team, you will help train and adapt large models that better understand homes and users, advancing representation learning, multimodal modeling, user modeling, and reinforcement/sequential decision-making for real-world problems at Zillow scale.\nYou'll tailor and evaluate LLMs and multimodal foundation models to our domain, build agentic workflows that plan and act across multi-step tasks, and define success via domain-specific metrics emphasizing helpfulness, safety, and fairness.\nYou'll move quickly from prototype to impact, running rigorous offline evaluations and online experiments, collaborating with applied scientists, engineers, and product partners, and contributing to platform capabilities that power experiences like Zillow Copilot.\nAlong the way you'll author clear research docs, share results internally, and have opportunities to publish and present your work.\n\nResponsibilities include:\n• Research and develop methods for adapting LLMs and foundation models with Zillow's domain-specific data\n• Build and evaluate multimodal models that combine text, images, geospatial and tabular signals for home and user understanding.\n• Explore reinforcement learning and sequential decision-making for long-horizon, user-centric outcomes\n• Prototype agentic workflows; define success metrics and run rigorous offline/online evaluations\n• Partner across science, engineering, product, and design; share results via docs, presentations, and publications\n\nThis role has been categorized as a Remote position.\n\"Remote\" employees do not have a permanent corporate office workplace and, instead, work from a physical location of their choice, which must be identified to the Company.\nU.S.\nemployees may live in any of the 50 United States, with limited exceptions.\n\nIn California, Connecticut, Maryland, Massachusetts, New Jersey, New York, Washington state, and Washington DC the standard base pay range for this role is $104,000.00 - $166,000.00 annually.\nThis base pay range is specific to these locations and may not be applicable to other locations.In Colorado, Hawaii, Illinois, Minnesota, Nevada, Ohio, Rhode Island, and Vermont the standard base pay range for this role is $104,000.00 - $166,000.00 annually.\nThe base pay range is specific to these locations and may not be applicable to other locations.\n\nWho you are\n• Currently enrolled in a PhD program in Computer Science, Machine Learning, Artificial Intelligence or a related field with a strong research track record\n• Experience in one or more of the following:\n• LLMs:\ninstruction tuning/fine-tuning, prompting, and evaluation/measurement\n• Multimodal learning (image + text; familiarity with audio or geospatial a plus)\n• Representation learning with limited labels (self/semi/weakly-supervised)\n• User modeling for personalization systems\n• Reinforcement learning or sequential decision-making\n• Evaluating generative/agentic systems; privacy-aware and responsible AI practices (e.g., fair-housing considerations) are a plus\n• Proficiency in Python and modern ML frameworks (e.g., PyTorch, TensorFlow, Hugging Face)\n• Clear communication and a collaborative mindset; motivated to publish at top venues\n\nHere at Zillow - we value the experience and perspective of candidates with non-traditional backgrounds.\nWe encourage you to apply if you have transferable skills or related experiences.\n\nGet to know us\n\nAt Zillow, we're reimagining how people move-through the real estate market and through their careers.\nAs the most-visited real estate platform in the U.S., we help customers navigate buying, selling, financing and renting with greater ease and confidence.\nWhether you're working in tech, sales, operations, or design, you'll be part of a company that's reshaping an industry and helping more people make home a reality.\n\nZillow is honored to be recognized among the best workplaces in the country.\nZillow was named one of FORTUNE 100 Best Companies to Work For in 2025, and included on the PEOPLE Companies That Care 2025 list, reflecting our commitment to creating an innovative, inclusive, and engaging culture where employees are empowered to grow.\n\nNo matter where you sit in the organization, your work will help drive innovation, support our customers, and move the industry-and your career-forward, together.\n\nZillow Group is an equal opportunity employer committed to fostering an inclusive, innovative environment with the best employees.\nWe are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.\nIf you have a disability or special need that requires accommodation, please contact your recruiter directly.\n\nQualified applicants with arrest or conviction records will be considered for employment in accordance with applicable state and local law.\n\nLos Angeles County applicants:\nJob duties for this position include:\nwork safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies.\nCriminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position.\nThese include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company's reputation.\nPursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.",
+    "job_is_remote": false,
+    "job_posted_at": "13 days ago",
+    "job_posted_at_timestamp": 1770163200,
+    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
+    "job_location": "New York, NY",
+    "job_city": "New York",
+    "job_state": "New York",
+    "job_country": "US",
+    "job_latitude": 40.7127753,
+    "job_longitude": -74.0059728,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DfFEK33S5CBCXkH9CAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Currently enrolled in a PhD program in Computer Science, Machine Learning, Artificial Intelligence or a related field with a strong research track record",
+        "instruction tuning/fine-tuning, prompting, and evaluation/measurement",
+        "Proficiency in Python and modern ML frameworks (e.g., PyTorch, TensorFlow, Hugging Face)",
+        "Clear communication and a collaborative mindset; motivated to publish at top venues",
+        "We encourage you to apply if you have transferable skills or related experiences",
+        "These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company's reputation"
+      ],
+      "Benefits": [
+        "In California, Connecticut, Maryland, Massachusetts, New Jersey, New York, Washington state, and Washington DC the standard base pay range for this role is $104,000.00 - $166,000.00 annually",
+        "This base pay range is specific to these locations and may not be applicable to other locations.In Colorado, Hawaii, Illinois, Minnesota, Nevada, Ohio, Rhode Island, and Vermont the standard base pay range for this role is $104,000.00 - $166,000.00 annually"
+      ],
+      "Responsibilities": [
+        "As a PhD Research Intern on the Foundational IQ team, you will help train and adapt large models that better understand homes and users, advancing representation learning, multimodal modeling, user modeling, and reinforcement/sequential decision-making for real-world problems at Zillow scale",
+        "You'll tailor and evaluate LLMs and multimodal foundation models to our domain, build agentic workflows that plan and act across multi-step tasks, and define success via domain-specific metrics emphasizing helpfulness, safety, and fairness",
+        "You'll move quickly from prototype to impact, running rigorous offline evaluations and online experiments, collaborating with applied scientists, engineers, and product partners, and contributing to platform capabilities that power experiences like Zillow Copilot",
+        "Along the way you'll author clear research docs, share results internally, and have opportunities to publish and present your work",
+        "Research and develop methods for adapting LLMs and foundation models with Zillow's domain-specific data",
+        "Build and evaluate multimodal models that combine text, images, geospatial and tabular signals for home and user understanding",
+        "Explore reinforcement learning and sequential decision-making for long-horizon, user-centric outcomes",
+        "Prototype agentic workflows; define success metrics and run rigorous offline/online evaluations",
+        "Partner across science, engineering, product, and design; share results via docs, presentations, and publications",
+        "This role has been categorized as a Remote position",
+        "Representation learning with limited labels (self/semi/weakly-supervised)",
+        "User modeling for personalization systems",
+        "Reinforcement learning or sequential decision-making",
+        "work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-jobilize-com-job-us-ny-all-cities-ai-applied-scientist-phd-intern-foundational-iq-35",
     "_source": "new_jobs"
   },
   {
@@ -1410,9 +1410,9 @@
     "job_latitude": 39.2635236,
     "job_longitude": -119.64045499999999,
     "job_benefits": [
+      "health_insurance",
       "dental_coverage",
-      "paid_time_off",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DzvCXTDT_tZktkFUdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1528,8 +1528,8 @@
     "job_latitude": 41.5800945,
     "job_longitude": -71.4774291,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
+      "paid_time_off",
       "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwgpbPyN9prlN6wu0AAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -1810,8 +1810,8 @@
     "job_longitude": -75.5243682,
     "job_benefits": [
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DOUYPFssfXOfv9z21AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
