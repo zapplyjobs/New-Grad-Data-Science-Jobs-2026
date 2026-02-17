@@ -66,8 +66,8 @@
     "job_latitude": 42.376435799999996,
     "job_longitude": -71.23575009999999,
     "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DEfJGZMjFWl3x-zFeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -108,6 +108,104 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "careers-globalp-com-data-science-intern-job-p1-4209304-0",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "gesPK8Y9hxqqUF-2AAAAAA==",
+    "job_title": "Internships in Data Science, Math, Statistics or Operations Research",
+    "employer_name": "The MITRE Corporation",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvN3G6Bhf3gxoVsaGZLyNlvY_O-H4KroJnmSts&s=0",
+    "employer_website": null,
+    "job_publisher": "Careers At MITRE",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.mitre.org/us/en/job/R115478/Internships-in-Data-Science-Math-Statistics-or-Operations-Research?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Careers At MITRE",
+        "apply_link": "https://careers.mitre.org/us/en/job/R115478/Internships-in-Data-Science-Math-Statistics-or-Operations-Research?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/internships-in-data-science-math-statistics-charlottesville-the-mitre-corporation-d873b4cd7f64e0db7b83baadaa2a6f4d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Talents By Vaia",
+        "apply_link": "https://talents.vaia.com/companies/the-mitre-corporation/internships-in-data-science-math-statistics-or-operations-research-37927667/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Women In Business & Industry",
+        "apply_link": "https://wib-i.com/charlottesville-va/internships-in-data-science-math-statistics-or-operations-research/9993C96F0E58481EA468FBB67D944FCE/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobrapido",
+        "apply_link": "https://us.jobrapido.com/jobpreview/6562554750187864064?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-va-charlottesville-internships-data-science-math-statistics-operations?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Trabajo.org",
+        "apply_link": "https://us.trabajo.org/job-2914-db3f19c36eeff421abe9d825cfd6b6ce?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challenges—and we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every day—working for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities for career growth, and a culture of innovation that embraces adaptability, collaboration, technical excellence, and people in partnership. If this sounds like the choice you want to make, then choose MITRE - and make a difference with us.\n\nNOTE: Thank you for your interest in MITRE’s internship opportunities. Please be aware that this is not an application for a specific position. By submitting your information and providing your resume, you will be included in a pool of candidates for various internship roles across the company. If you are selected for consideration for a particular internship, a member of MITRE’s Student Programs team will reach out to you. The primary hiring season for MITRE internships runs from September through March. You can monitor your application status here: Workday (myworkdayjobs.com).\n\nJob Responsibilities\n\nAs an intern working in data science, operations research, math or statistics, you will work alongside a team of experts to apply your knowledge and gain hands-on experience in one or more of the following areas:\n• Data analysis and visualization\n• Augmented decision-making and trusted analytics\n• Applied mathematics, statistics, and optimization\n• Simulation and computational analytics\n• Systems modeling and analysis\n• Operational effectiveness and efficiency\n• Knowledge discovery\n• Next-generation data environments\n\nBasic Qualifications\n• Must be a full-time student pursuing an accredited degree program in Data Science, Math, Statistics, Operations Research or related disciplines.\n• Must continue to be enrolled the semester following the internship.\n• Foundational knowledge of data science, math, statistics or operations research methodologies, frameworks, tools and/or programming languages.\n• Must have sustained excellence in academic performance.\n\nPreferred Qualifications\n• Experience applying data science, math, statistics or operations research concepts in an internship, research, or lab setting.\n• Proficiency using data science, math, statistics or operations research methodologies, frameworks, tools and/or programming languages.\n• Demonstrated interest in serving the public through previous work experience, volunteer activities, or other relevant engagements.\n\nClearance: In addition to passing MITRE’s employment background check, you may be submitted for a U.S. Government Security clearance. This is determined by the Department of Defense’s adjudicative guidelines for receiving a clearance, to include U.S. citizenship. Other jobs may require vetting for various levels of agency public trust, fitness, suitability, controlled access, and special programs access determination consistent with the work program to which you are assigned.\n\nThis requisition requires the candidate to have a minimum of the following clearance(s):\n\nThis requisition requires the hired candidate to have or obtain, within one year from the date of hire, the following clearance(s):\n\nSalary compensation range and midpoint:\n$46,500 - $58,000 - $69,500 Annual\n\nWork Location Type:\nHybrid\n\nIt is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.\n\nCommitment to Non-Discrimination\n\nAll qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local or international law.\n\nMITRE intends to maintain a website that is fully accessible to all individuals. If you are unable to search or apply for jobs and would like to request a reasonable accommodation for any part of MITRE’s employment process, please email recruitinghelp@mitre.org for general support and collegerecruiting@mitre.org for intern positions. This service is for individuals requiring reasonable accommodation requests. Please note that vendor solicitations will not receive a reply.\n\nBenefits information may be found here.\n\nCopyright © 1997-2026, The MITRE Corporation. All rights reserved. MITRE is a registered trademark of The MITRE Corporation. Material on this site may be copied and distributed with permission only.",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1771113600,
+    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
+    "job_location": "McLean, VA",
+    "job_city": "McLean",
+    "job_state": "Virginia",
+    "job_country": "US",
+    "job_latitude": 38.9338676,
+    "job_longitude": -77.1772604,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DgesPK8Y9hxqqUF-2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Must be a full-time student pursuing an accredited degree program in Data Science, Math, Statistics, Operations Research or related disciplines",
+        "Must continue to be enrolled the semester following the internship",
+        "Foundational knowledge of data science, math, statistics or operations research methodologies, frameworks, tools and/or programming languages",
+        "Must have sustained excellence in academic performance",
+        "Clearance: In addition to passing MITRE’s employment background check, you may be submitted for a U.S. Government Security clearance",
+        "This is determined by the Department of Defense’s adjudicative guidelines for receiving a clearance, to include U.S. citizenship",
+        "Other jobs may require vetting for various levels of agency public trust, fitness, suitability, controlled access, and special programs access determination consistent with the work program to which you are assigned",
+        "This requisition requires the hired candidate to have or obtain, within one year from the date of hire, the following clearance(s):"
+      ],
+      "Benefits": [
+        "Salary compensation range and midpoint:",
+        "$46,500 - $58,000 - $69,500 Annual"
+      ],
+      "Responsibilities": [
+        "As an intern working in data science, operations research, math or statistics, you will work alongside a team of experts to apply your knowledge and gain hands-on experience in one or more of the following areas:",
+        "Data analysis and visualization",
+        "Augmented decision-making and trusted analytics",
+        "Applied mathematics, statistics, and optimization",
+        "Simulation and computational analytics",
+        "Systems modeling and analysis",
+        "Operational effectiveness and efficiency",
+        "Next-generation data environments"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "careers-mitre-org-us-en-job-r115478-internships-in-data-science-math-statistics-or-operations-research",
     "_source": "new_jobs"
   },
   {
@@ -435,40 +533,107 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "hsg75ooY47bkYzpGAAAAAA==",
-    "job_title": "Internship - Data Science",
-    "employer_name": "Novo Nordisk",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHeVCfe1R68AiIVg_MHgSbtlOAdI3-8xQGgUXC&s=0",
-    "employer_website": "https://www.novonordisk.com",
-    "job_publisher": "Lensa",
+    "job_id": "l7Q15LxudnjIN_T3AAAAAA==",
+    "job_title": "Data Science Internship - 2026",
+    "employer_name": "United Talent Agency LLC",
+    "employer_logo": null,
+    "employer_website": "https://www.unitedtalent.com",
+    "job_publisher": "Digitalhire",
     "job_employment_type": "Internship",
     "job_employment_types": [
       "INTERN"
     ],
-    "job_apply_link": "https://lensa.com/job-v1/novo-nordisk/lexington-ma/data-science-intern/cab4ee5d9564f6be5367097cc80c7b7e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/3JZGxhqYbWzfeA5MDWEeNT?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "Digitalhire",
+        "apply_link": "https://jobs.digitalhire.com/job-listing/opening/3JZGxhqYbWzfeA5MDWEeNT?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Position Overview\n\nUnited Talent Agency (UTA) is excited to offer a part-time Data Science Internship for current college seniors with a passion for data. This remote position (20 hours per week) provides hands-on experience in data analytics at the intersection of entertainment and innovation, allowing interns to work on real business challenges while gaining exposure to industry stakeholders.\n\nCompensation: $20-22 per hour based on skills and experience.\n\nKey Responsibilities\n• Support the collection, cleaning, and transformation of data from multiple business sources.\n• Build and maintain spreadsheets, dashboards, and reporting tools to track business performance.\n• Assist in exploratory data analysis to surface patterns, outliers, and opportunities.\n• Create clear visualizations and summaries to communicate findings to nontechnical audiences.\n• Partner with cross-functional teams to translate business needs into data questions and analytical approaches.\n• Present findings via dashboards, memos, and presentations while participating in best practice sessions.\n• Learn and apply data governance, privacy, and security standards.\n\nRequired Qualifications\n• Current senior pursuing a Bachelor’s in Data Science, Statistics, Computer Science, Business Analytics, Economics, or a related field.\n• Strong analytical mindset with demonstrated comfort working with data.\n• Proficiency in Excel or Google Sheets, including pivot tables, lookups, and formulas.\n• Foundational proficiency in Python using libraries such as pandas, numpy, and matplotlib.\n\nPreferred Qualifications\n• Familiarity with visualization tools such as Tableau or Sigma.\n• Exposure to SQL and relational databases.\n• Clear written and verbal communication skills with a collaborative approach.\n• High attention to detail with the ability to manage multiple tasks and deadlines.\n\nBenefits & Perks\n• Remote Work – Experience the flexibility of a remote, part-time role.\n• Compensation – Enjoy competitive hourly pay based on skills and experience.\n• Mentorship-driven environment with meaningful exposure to business stakeholders.\n• Opportunity to make a real impact on projects at the intersection of data and entertainment.",
+    "job_is_remote": false,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Los Angeles, CA",
+    "job_city": "Los Angeles",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 34.0549076,
+    "job_longitude": -118.242643,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dl7Q15LxudnjIN_T3AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Current senior pursuing a Bachelor’s in Data Science, Statistics, Computer Science, Business Analytics, Economics, or a related field",
+        "Strong analytical mindset with demonstrated comfort working with data",
+        "Proficiency in Excel or Google Sheets, including pivot tables, lookups, and formulas",
+        "Foundational proficiency in Python using libraries such as pandas, numpy, and matplotlib"
+      ],
+      "Benefits": [
+        "This remote position (20 hours per week) provides hands-on experience in data analytics at the intersection of entertainment and innovation, allowing interns to work on real business challenges while gaining exposure to industry stakeholders",
+        "Compensation: $20-22 per hour based on skills and experience",
+        "Remote Work – Experience the flexibility of a remote, part-time role",
+        "Compensation – Enjoy competitive hourly pay based on skills and experience",
+        "Mentorship-driven environment with meaningful exposure to business stakeholders",
+        "Opportunity to make a real impact on projects at the intersection of data and entertainment"
+      ],
+      "Responsibilities": [
+        "Support the collection, cleaning, and transformation of data from multiple business sources",
+        "Build and maintain spreadsheets, dashboards, and reporting tools to track business performance",
+        "Assist in exploratory data analysis to surface patterns, outliers, and opportunities",
+        "Create clear visualizations and summaries to communicate findings to nontechnical audiences",
+        "Partner with cross-functional teams to translate business needs into data questions and analytical approaches",
+        "Present findings via dashboards, memos, and presentations while participating in best practice sessions",
+        "Learn and apply data governance, privacy, and security standards"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "jobs-digitalhire-com-job-listing-opening-3jzgxhqybwzfea5mdweent",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "pOLy-uCJuvsxHytlAAAAAA==",
+    "job_title": "Internship - Data Science",
+    "employer_name": "Novo Nordisk",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg6LZinGhGGu_Z_vaVWfSNZSondCiSRqDbATaZ&s=0",
+    "employer_website": "https://www.novonordisk.com",
+    "job_publisher": "BeBee",
+    "job_employment_type": "Internship",
+    "job_employment_types": [
+      "INTERN"
+    ],
+    "job_apply_link": "https://us.bebee.com/job/09bfc157f13b9cf66fbe63d425d2dedf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Lensa",
-        "apply_link": "https://lensa.com/job-v1/novo-nordisk/lexington-ma/data-science-intern/cab4ee5d9564f6be5367097cc80c7b7e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/09bfc157f13b9cf66fbe63d425d2dedf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "About the Department\n\nOur Research & Development organization brings together the best minds in life science innovation. The teams located in facilities in Lexington, Watertown, Cambridge and Plainsboro reflect the full R&D continuum, from early research through late-stage clinical development. Here, we are building for the future, creating a distinct R&D community based on collaboration, partnerships, and cutting-edge research across multiple modalities and therapeutic areas. We recognize that improving human health starts here and that patients rely on us. Our R&D hub merges biotech speed and agility with large pharmaceutical company quality, resources, and stability, uniting the best of both worlds to develop new medicines for patients\n\nThe Program\n\nAt Novo Nordisk, interns will have the opportunity to work closely with experienced industry professionals and gain valuable, hands-on, full-time work experience. For ten working weeks, interns will be immersed in the environment of a global pharmaceutical company and contribute to the line of business by providing sustainable and meaningful project work. Our internship program also includes instructor led trainings, a leadership engagement series, and a guided mentorship program to offer professional and personal development.\n\nProgram Start: June 1st, 2026\n\nProgram End: August 14th, 2026\n\nScope of Position\n\nIn this position, the Data Science intern will be part of a collaborative data science team and will work on analyzing/visualizing and/or developing algorithms on wearable and digital devices data. With inputs and guidance from their daily supervisor, the intern will develop Python code for signal processing, AI and machine learning algorithms and/or analyze and visualize data related to wearable devices (e.g. actigraphy device) and time series signals (e.g. ECG data). In their work, the intern will use tools like Databricks or SageMaker for development, Azure Devops for code versioning and agile project management. The intern will meet regularly with their supervisor, prepare and give regular presentations on their work progress to the supervisor and the rest of the team. Our team is highly collaborative, so the intern will participate in regular team meetings and may collaborate with the rest of the team on items that facilitate their work.\n\nPhysical Requirements\n\n0% overnight travel required.\n\nQualifications\n• Must be a current student enrolled at an accredited college or university pursuing at least a bachelor's degree\n• An in progress doctorate degree in Biomedical Engineering, Electrical Engineering, Mechanical Engineering, or a related discipline preferred\n• Strong academic record with a preferred cumulative GPA of 3.0 or higher\n• Conscientious self-starter with good organizational skills, project management skills and attention to detail\n• Ability to balance multiple projects and priorities, must be able to multi-task\n• Strong interpersonal communication and ability to collaborate with teams; must effectively operate independently, across functional lines, and with internal customers\n• Demonstrated personal initiative, self-motivation, flexibility, adaptability and willingness to learn\n• Proficient in Microsoft Office Tools including Word, Excel, PowerPoint, etc.\n\nAt this time, Novo Nordisk is not currently hiring individuals for this position who now or in the future would require sponsorship for employment visa status.\n\nThe base compensation range for this position is $52,000 to $89,000 on an hourly basis. Due to the temporary nature of this program, this position is not eligible to participate in any of the Company's benefit plans and will not be entitled to any paid time off unless otherwise required by applicable law.\n\nWe commit to an inclusive recruitment process and equality of opportunity for all our job applicants.\n\nAt Novo Nordisk, we're not chasing quick fixes - we're creating lasting change for long-term health. For over 100 years, we've been driven by a single purpose: to defeat serious chronic diseases and help millions of people live healthier lives. This dedication fuels our constant curiosity and inspires us to push the boundaries of what's possible in healthcare. We embrace diverse perspectives, seek out bold ideas, and build partnerships rooted in shared purpose. Together, we're making healthcare more accessible, treating and defeating diseases, and pioneering solutions that create change spanning generations. When you join us, you become part of something bigger - a legacy of impact that reaches far beyond today.\n\nNovo Nordisk is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, gender identity, sexual orientation, national origin, disability, protected veteran status or any other characteristic protected by local, state or federal laws, rules or regulations.\n\nIf you are interested in applying to Novo Nordisk and need special assistance or an accommodation to apply, please call us at 1-855-411-5290. This contact is for accommodation requests only and cannot be used to inquire about the status of applications.",
+    "job_description": "About The Department\nOur Research & Development organization brings together the best minds in life science innovation. The teams located in facilities in Lexington, Watertown, Cambridge and Plainsboro reflect the full R&D continuum, from early research through late-stage clinical development. Here, we are building for the future, creating a distinct R&D community based on collaboration, partnerships, and cutting-edge research across multiple modalities and therapeutic areas. We recognize that improving human health starts here and that patients rely on us. Our R&D hub merges biotech speed and agility with large pharmaceutical company quality, resources, and stability, uniting the best of both worlds to develop new medicines for patients\n\nThe Program\nAt Novo Nordisk, interns will have the opportunity to work closely with experienced industry professionals and gain valuable, hands-on, full-time work experience. For ten working weeks, interns will be immersed in the environment of a global pharmaceutical company and contribute to the line of business by providing sustainable and meaningful project work. Our internship program also includes instructor led trainings, a leadership engagement series, and a guided mentorship program to offer professional and personal development.\n\nProgram Start: June 1st, 2026\n\nProgram End: August 14th, 2026\n\nScope of Position\nIn this position, the Data Science intern will be part of a collaborative data science team and will work on analyzing/visualizing and/or developing algorithms on wearable and digital devices data. With inputs and guidance from their daily supervisor, the intern will develop Python code for signal processing, AI and machine learning algorithms and/or analyze and visualize data related to wearable devices (e.g. actigraphy device) and time series signals (e.g. ECG data). In their work, the intern will use tools like Databricks or SageMaker for development, Azure Devops for code versioning and agile project management. The intern will meet regularly with their supervisor, prepare and give regular presentations on their work progress to the supervisor and the rest of the team. Our team is highly collaborative, so the intern will participate in regular team meetings and may collaborate with the rest of the team on items that facilitate their work.\n\nPhysical Requirements\n0% overnight travel required.\n\nQualifications\n• Must be a current student enrolled at an accredited college or university pursuing at least a bachelor's degree\n• An in progress doctorate degree in Biomedical Engineering, Electrical Engineering, Mechanical Engineering, or a related discipline preferred\n• Strong academic record with a preferred cumulative GPA of 3.0 or higher\n• Conscientious self-starter with good organizational skills, project management skills and attention to detail\n• Ability to balance multiple projects and priorities, must be able to multi-task\n• Strong interpersonal communication and ability to collaborate with teams; must effectively operate independently, across functional lines, and with internal customers\n• Demonstrated personal initiative, self-motivation, flexibility, adaptability and willingness to learn\n• Proficient in Microsoft Office Tools including Word, Excel, PowerPoint, etc.\n\nAt this time, Novo Nordisk is not currently hiring individuals for this position who now or in the future would require sponsorship for employment visa status.\n\nThe base compensation range for this position is $52,000 to $89,000 on an hourly basis. Due to the temporary nature of this program, this position is not eligible to participate in any of the Company's benefit plans and will not be entitled to any paid time off unless otherwise required by applicable law.\n\nWe commit to an inclusive recruitment process and equality of opportunity for all our job applicants.\n\nAt Novo Nordisk, we're not chasing quick fixes – we're creating lasting change for long-term health. For over 100 years, we've been driven by a single purpose: to defeat serious chronic diseases and help millions of people live healthier lives. This dedication fuels our constant curiosity and inspires us to push the boundaries of what's possible in healthcare. We embrace diverse perspectives, seek out bold ideas, and build partnerships rooted in shared purpose. Together, we're making healthcare more accessible, treating and defeating diseases, and pioneering solutions that create change spanning generations. When you join us, you become part of something bigger – a legacy of impact that reaches far beyond today.\n\nNovo Nordisk is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, gender identity, sexual orientation, national origin, disability, protected veteran status or any other characteristic protected by local, state or federal laws, rules or regulations.\n\nIf you are interested in applying to Novo Nordisk and need special assistance or an accommodation to apply, please call us at This contact is for accommodation requests only and cannot be used to inquire about the status of applications.",
     "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Massachusetts",
-    "job_city": null,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Lexington, MA",
+    "job_city": "Lexington",
     "job_state": "Massachusetts",
     "job_country": "US",
-    "job_latitude": 42.4072107,
-    "job_longitude": -71.3824374,
+    "job_latitude": 42.4473497,
+    "job_longitude": -71.2271531,
     "job_benefits": [
       "paid_time_off"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dhsg75ooY47bkYzpGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DpOLy-uCJuvsxHytlAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
@@ -499,65 +664,7 @@
     },
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
-    "id": "lensa-com-job-v1-novo-nordisk-lexington-ma-data-science-intern-cab4ee5d9564f6be5367097cc80c7b7e",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "Bw0oqSbky7ROFJ55AAAAAA==",
-    "job_title": "INTERN - Intergovernmental Affairs, Data Science & Computer Science",
-    "employer_name": "UN - United Nations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA8AQ-S8c6imZt4g4g9Ts6a2M3R1H33-epWT8K&s=0",
-    "employer_website": "https://www.nations-united.org",
-    "job_publisher": "UN Talent",
-    "job_employment_type": "Internship",
-    "job_employment_types": [
-      "INTERN"
-    ],
-    "job_apply_link": "https://untalent.org/jobs/intern-intergovernmental-affairs-data-science-computer-science-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "UN Talent",
-        "apply_link": "https://untalent.org/jobs/intern-intergovernmental-affairs-data-science-computer-science-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/intern-intergovernmental-affairs-data-science-new-york-united-nations-996118eefbaebe0f38d45b0314de9952?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "UNjobnet",
-        "apply_link": "https://www.unjobnet.org/jobs/detail/84354357?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/1053f822da19f82ef7dd4688814aae99?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Work Location\n\nNew York\n\nExpected duration\n\n3 months, with possibility of extension of up to 6 months\n\nDuties and Responsibilities\n\nThe Intergovernmental Affairs intern will support the General Assembly Affairs Branch of the General Assembly and ECOSOC Affairs Division, which serves as the technical secretariat for a number of intergovernmental bodies at United Nations Headquarters. In this context, the division seeks motivated interns to support its work. Responsibilities Interns report to full-time professional staff and will focus on the following work areas, as assigned: AREA 1: INTERGOVERNMENTAL RESEARCH, DATA SCIENCE & COMPUTER SCIENCE - Conduct research on intergovernmental procedure and practice of the General Assembly and the Economic and Social Council and their subsidiary bodies; - Support the tracking of intergovernmental activity in assigned bodies and maintain the related data sets; and - Support the development of the procedure data model and assist with the integration of reporting tools and technologies. - Have a basic understanding of computer programming, database management, and familiarity with data visualization tools is desirable AREA 2: INTERGOVERNMENTAL SERVICES - Assist in the preparation of procedural scripts for meetings, and undertake other preparatory tasks; - Attend and summarize discussions held in meetings; - Assist with logistics during meetings, including interactive presentations and assisting with the list of speakers; and - Contribute to the preparation of talking points, and other papers and briefing materials. AREA 3: PROJECT MANAGEMENT - Support the day-to-day management of internal databases, including in user acceptance, quality assurance and change management processes; - Support issue management related processes and prepare related correspondence; - Assist in the formulation of project related strategies and policies; and - Prepare meetings with different internal stakeholders. Competencies Professionalism: Ability to demonstrate a high level of concentration. Ability to work under stress. Shows pride in work and in achievements; demonstrates professional competence; is conscientious and efficient in meeting commitments, observing deadlines and achieving results; shows persistence when faced with difficult problems or challenges; remains calm in stressful situations. Interns must have a demonstrated ability to successfully interact with individuals of different cultural backgrounds and beliefs, which include willingness to try and understand and be tolerant of differing opinions and views. Communication: Speaks and writes clearly and effectively; listens to others, correctly interprets messages from others and responds appropriately; asks questions to clarify, and exhibits interest in having two-way communication; tailors language, tone, style and format to match audience; demonstrates openness in sharing information and keeping people informed. Planning and Organizing: Develops clear goals that are consistent with agreed strategies; identifies priority activities and assignments; adjusts priorities where necessary; allocates appropriate amount of time and resources for completing work; foresees risks and allows for contingencies when planning; monitors and adjusts plans and actions as necessary; uses time efficiently. Technological Awareness: Keeps abreast of available technology. Understands applicability and limitations of technology to the work of the office. Actively seeks to apply technology to appropriate tasks Shows willingness to learn new technology.\n\nQualifications/special skills\n\nTo qualify for an internship with the United Nations Internship Programme, the following conditions must be met: • Applicants must meet one of the following requirements: (a) be enrolled in a graduate school programme (second university degree or equivalent, or higher); (b) be enrolled in the final academic year of a first university degree programme (minimum Bachelor's level or equivalent); or (c) have recently graduated with a university degree (as defined above) (OFFICIAL WRITTEN PROOF FROM THE UNIVERSITY SUPPORTING ONE OF THE ABOVE POSSIBILITIES MUST BE ATTACHED TO THE INSPIRA APPLICATION); • Be computer literate in standard software applications • Have basic understanding of computer programming, database management, and familiarity with data visualization tools is desirable • Have a demonstrated keen interest in the work of the United Nations and have a personal commitment to the ideals of the Charter; and • Have a demonstrated ability to successfully interact with individuals of different cultural backgrounds and beliefs, which include willingness to try and understand and be tolerant of differing opinions and views. No working experience is required to apply for the United Nations Internship Programme. Your training, education, advance course work or skills should benefit the United Nations during your internship. Interest in the work of the General Assembly and the Economic and Social Council is desirable. Please explain your interest. Familiarity with compiter programming, database management, data modeling, data mining or statistical analysis is desirable. Please explain your experience, training, education, course work or skills in this regard.\n\nLanguages\n\nNot available.\n\nAdditional Information\n\nNot available.\n\nIntern Specific text\n\nInterns are not financially remunerated by the United Nations. Costs and arrangements for travel, visas, accommodation and living expenses are the responsibility of interns or their sponsoring institutions. Interns who are not citizens or permanent residents of the country where the internship is undertaken, may be required to obtain the appropriate visa and work/employment authorization. Successful candidates should discuss their specific visa requirements before accepting the internship offer.\n\nNo Fee\n\nTHE UNITED NATIONS DOES NOT CHARGE A FEE AT ANY STAGE OF THE RECRUITMENT PROCESS (APPLICATION, INTERVIEW MEETING, PROCESSING, OR TRAINING). THE UNITED NATIONS DOES NOT CONCERN ITSELF WITH INFORMATION ON APPLICANTS’ BANK ACCOUNTS.",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "New York, NY",
-    "job_city": "New York",
-    "job_state": "New York",
-    "job_country": "US",
-    "job_latitude": 40.7127753,
-    "job_longitude": -74.0059728,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DBw0oqSbky7ROFJ55AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {},
-    "job_onet_soc": "19309400",
-    "job_onet_job_zone": "5",
-    "id": "untalent-org-jobs-intern-intergovernmental-affairs-data-science-computer-science-2",
+    "id": "us-bebee-com-job-09bfc157f13b9cf66fbe63d425d2dedf",
     "_source": "new_jobs"
   },
   {
@@ -686,71 +793,117 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "pOLy-uCJuvsxHytlAAAAAA==",
-    "job_title": "Internship - Data Science",
-    "employer_name": "Novo Nordisk",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg6LZinGhGGu_Z_vaVWfSNZSondCiSRqDbATaZ&s=0",
-    "employer_website": "https://www.novonordisk.com",
-    "job_publisher": "BeBee",
-    "job_employment_type": "Internship",
+    "job_id": "EemZ0DlHijzEbpcMAAAAAA==",
+    "job_title": "Data Science Intern",
+    "employer_name": "Impinj",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz6_JX54UQwfC-jO5n6h_mywntBgxcp-L0zkrx&s=0",
+    "employer_website": "https://www.impinj.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time and Internship",
     "job_employment_types": [
+      "FULLTIME",
       "INTERN"
     ],
-    "job_apply_link": "https://us.bebee.com/job/09bfc157f13b9cf66fbe63d425d2dedf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
+    "job_apply_link": "https://www.ziprecruiter.com/c/Impinj/Job/Data-Science-Intern/-in-Seattle,WA?jid=f571ce914f73d657&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
     "apply_options": [
       {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Impinj/Job/Data-Science-Intern/-in-Seattle,WA?jid=f571ce914f73d657&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/data-science-intern-seattle-impinj-inc-9cd630ed720a0a561057755a41450cbe?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Monster",
+        "apply_link": "https://www.monster.com/job-openings/data-science-intern-seattle-wa--b34c0394-9575-4d1d-b633-16a5e9885dd8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/m-O5noO3FG8UvspxtkKWXsRm8rX0zWmCv694nlaDpB5cskPR2ayBqw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/data-science-intern-at-impinj-4361074947?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
         "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/09bfc157f13b9cf66fbe63d425d2dedf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://us.bebee.com/job/cd6505bf2afc6e756a07b798bac2458c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Swooped",
+        "apply_link": "https://swooped.co/job-postings/data-science-intern-seattle-impinj-38e8f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/69863cc90f6f7e7a2ce11f14?utm_campaign=1066&utm_source=git&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "About The Department\nOur Research & Development organization brings together the best minds in life science innovation. The teams located in facilities in Lexington, Watertown, Cambridge and Plainsboro reflect the full R&D continuum, from early research through late-stage clinical development. Here, we are building for the future, creating a distinct R&D community based on collaboration, partnerships, and cutting-edge research across multiple modalities and therapeutic areas. We recognize that improving human health starts here and that patients rely on us. Our R&D hub merges biotech speed and agility with large pharmaceutical company quality, resources, and stability, uniting the best of both worlds to develop new medicines for patients\n\nThe Program\nAt Novo Nordisk, interns will have the opportunity to work closely with experienced industry professionals and gain valuable, hands-on, full-time work experience. For ten working weeks, interns will be immersed in the environment of a global pharmaceutical company and contribute to the line of business by providing sustainable and meaningful project work. Our internship program also includes instructor led trainings, a leadership engagement series, and a guided mentorship program to offer professional and personal development.\n\nProgram Start: June 1st, 2026\n\nProgram End: August 14th, 2026\n\nScope of Position\nIn this position, the Data Science intern will be part of a collaborative data science team and will work on analyzing/visualizing and/or developing algorithms on wearable and digital devices data. With inputs and guidance from their daily supervisor, the intern will develop Python code for signal processing, AI and machine learning algorithms and/or analyze and visualize data related to wearable devices (e.g. actigraphy device) and time series signals (e.g. ECG data). In their work, the intern will use tools like Databricks or SageMaker for development, Azure Devops for code versioning and agile project management. The intern will meet regularly with their supervisor, prepare and give regular presentations on their work progress to the supervisor and the rest of the team. Our team is highly collaborative, so the intern will participate in regular team meetings and may collaborate with the rest of the team on items that facilitate their work.\n\nPhysical Requirements\n0% overnight travel required.\n\nQualifications\n• Must be a current student enrolled at an accredited college or university pursuing at least a bachelor's degree\n• An in progress doctorate degree in Biomedical Engineering, Electrical Engineering, Mechanical Engineering, or a related discipline preferred\n• Strong academic record with a preferred cumulative GPA of 3.0 or higher\n• Conscientious self-starter with good organizational skills, project management skills and attention to detail\n• Ability to balance multiple projects and priorities, must be able to multi-task\n• Strong interpersonal communication and ability to collaborate with teams; must effectively operate independently, across functional lines, and with internal customers\n• Demonstrated personal initiative, self-motivation, flexibility, adaptability and willingness to learn\n• Proficient in Microsoft Office Tools including Word, Excel, PowerPoint, etc.\n\nAt this time, Novo Nordisk is not currently hiring individuals for this position who now or in the future would require sponsorship for employment visa status.\n\nThe base compensation range for this position is $52,000 to $89,000 on an hourly basis. Due to the temporary nature of this program, this position is not eligible to participate in any of the Company's benefit plans and will not be entitled to any paid time off unless otherwise required by applicable law.\n\nWe commit to an inclusive recruitment process and equality of opportunity for all our job applicants.\n\nAt Novo Nordisk, we're not chasing quick fixes – we're creating lasting change for long-term health. For over 100 years, we've been driven by a single purpose: to defeat serious chronic diseases and help millions of people live healthier lives. This dedication fuels our constant curiosity and inspires us to push the boundaries of what's possible in healthcare. We embrace diverse perspectives, seek out bold ideas, and build partnerships rooted in shared purpose. Together, we're making healthcare more accessible, treating and defeating diseases, and pioneering solutions that create change spanning generations. When you join us, you become part of something bigger – a legacy of impact that reaches far beyond today.\n\nNovo Nordisk is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, gender identity, sexual orientation, national origin, disability, protected veteran status or any other characteristic protected by local, state or federal laws, rules or regulations.\n\nIf you are interested in applying to Novo Nordisk and need special assistance or an accommodation to apply, please call us at This contact is for accommodation requests only and cannot be used to inquire about the status of applications.",
+    "job_description": "Impinj is a leading RAIN RFID provider and Internet of Things pioneer. We're inventing ways to connect every thing to the Internet — including retail apparel, retail general merchandise, healthcare items, automobile parts, airline baggage, food and much more. With more than 100 billion items connected to date, and multiple Fortune 500 enterprises around the world using our platform, we solve for a better understanding of our world. If it's a thing, we're working to connect it. Join Impinj and help us realize our vision of a boundless IoT— connecting trillions of everyday items to the Internet.\n\nTeam Overview:\n\nImpinj is seeking a Data Science Intern specializing in machine learning model development and data analysis to join our silicon process engineering team. This role will work closely with endpoint IC engineering teams including product and test engineering, industrialization and factory software. In this position, you will design and develop algorithms and models to improve product quality and manufacturing yield and extract critical data to improve customer experience. If you have a passion for working with data to solve real-life challenges on the scale of billions of chips, this is the role for you.\nWhat You Will Do:\n• Develop traditional algorithms and machine learning models to improve manufacturing quality and productivity\n• Collaborate with multi-functional partners to efficiently deploy the solutions to support manufacturing\n• Redefine raw data into a high-quality, structured format, including data cleaning, correcting errors, handling missing values, integrating data from multiple sources, and scaling variables to enhance model performance and ensure accurate, reliable predictions\nWhat You Will Bring:\n• Currently enrolled in a Bachelor's or Master's program in Data Science, Computer Science, Statistics, or related programs\n• Experience of machine learning model development\n• Knowledge of programming in python, JMP scripting language, R or C++\n• Experience with data management, critical analysis, and attention to detail\n• Clear communication skills and ability to document technical information for a variety of intended audiences\nWhy Intern with Impinj:\n\nThe Impinj Summer Internship Program is designed to provide undergraduate and graduate students with a comprehensive learning experience that goes beyond traditional work assignments. It offers a unique blend of professional development, mentorship, and networking opportunities to help interns thrive in their roles and prepare for successful careers. Students develop valuable skills through interactive learning sessions and receive personalized mentorship and guidance from early-career colleagues.\n\nThe program offers more than just a resume boost. It's a chance to access hands-on experience, leadership insights, and a network of peers and mentors that lasts well beyond the summer.\n\nLearn what our interns last year had to say about their experience: Impinj Intern Program: A Season of Learning, Connection, and Fun (Impinj blog).\n\nThis Summer Internship Cohort begins on Monday, June 15 and ends September 4. The start date is firm; the end date is flexible to end early. All internship positions report at least on a hybrid basis to our Seattle office. There is opportunity for full time employment for those graduates or those entering their senior year.\n\nCompensation & Benefits:\n\nThe benefits listed below may vary depending on the nature of your employment with Impinj and the country where you work.\n\nThe typical base pay range for this role across the US is $26.00/hr - $40.00/hr. Individual base pay depends on various factors such as complexity and responsibility of role, job duties, requirements, and relevant experience and skills. Both market wage data and the mid-point of the pay range is reviewed and used as the starting point for all new hire offers. Offers are made within the base pay range applicable at the time.\n\nAt Impinj certain roles are eligible for additional rewards, including merit increases, annual bonus and stock. These awards are allocated based on individual performance. In addition, certain roles also have the opportunity to earn sales incentives based on revenue or utilization, depending on the terms of the plan and the employee's role. US based employees have access to healthcare benefits; a 401(k) plan and company match among others.\n\nFor a more comprehensive list of US employment benefits, click here.\nUS Export Controls:\n\nThis position has access to technologies or data subject to U.S. export control regulations. Under these laws, the release or transfer of export-controlled items or information to individuals who are not classified as \"U.S. persons\" (as defined by Immigration & Nationality Act) may require prior authorization from the U.S. government. We may require additional documentation related to national identity to determine whether an export compliance license is required for any export-controlled items. This information is requested solely for the purpose of complying with U.S. export control laws and will not be used for other purposes. Learn more about export compliance here.\n\nWhy work at Impinj:\n\nKnow you're making a difference. Competitive benefits. Support for remote work or a desk with a view. Weekly Q&A sessions with our executive team. Impinj provides an environment that fosters openness and innovation and is developing technology that delivers a positive impact on the world. Collaboration and teamwork are highly valued, and accomplishments are duly celebrated. We have an open paid time-off policy paired with a respect for work/life balance. Our headquarters is located in Seattle with spectacular views of the Olympics, Lake Union, and Mt Baker, which can be enjoyed from our rooftop deck. Our Brazilian site is in Porto Alegre, Rio Grande do Sul state, at \"Tecnopuc,\" a technology park that offers a very nice workplace for the development of groundbreaking technologies. Impinj is committed to creating a diverse and inclusive work environment and welcomes applicants from all backgrounds.\n\nWe are an equal opportunity employer and do not discriminate on the basis of race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, or disability status. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.",
     "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Lexington, MA",
-    "job_city": "Lexington",
-    "job_state": "Massachusetts",
+    "job_posted_at": "10 days ago",
+    "job_posted_at_timestamp": 1770422400,
+    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
+    "job_location": "Seattle, WA",
+    "job_city": "Seattle",
+    "job_state": "Washington",
     "job_country": "US",
-    "job_latitude": 42.4473497,
-    "job_longitude": -71.2271531,
+    "job_latitude": 47.6061389,
+    "job_longitude": -122.33284809999999,
     "job_benefits": [
-      "paid_time_off"
+      "paid_time_off",
+      "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DpOLy-uCJuvsxHytlAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DEemZ0DlHijzEbpcMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 26,
+    "job_max_salary": 40,
+    "job_salary_period": "HOUR",
     "job_highlights": {
       "Qualifications": [
-        "0% overnight travel required",
-        "Must be a current student enrolled at an accredited college or university pursuing at least a bachelor's degree",
-        "Conscientious self-starter with good organizational skills, project management skills and attention to detail",
-        "Ability to balance multiple projects and priorities, must be able to multi-task",
-        "Strong interpersonal communication and ability to collaborate with teams; must effectively operate independently, across functional lines, and with internal customers",
-        "Demonstrated personal initiative, self-motivation, flexibility, adaptability and willingness to learn",
-        "Proficient in Microsoft Office Tools including Word, Excel, PowerPoint, etc",
-        "At this time, Novo Nordisk is not currently hiring individuals for this position who now or in the future would require sponsorship for employment visa status"
+        "Currently enrolled in a Bachelor's or Master's program in Data Science, Computer Science, Statistics, or related programs",
+        "Experience of machine learning model development",
+        "Knowledge of programming in python, JMP scripting language, R or C++",
+        "Experience with data management, critical analysis, and attention to detail",
+        "Clear communication skills and ability to document technical information for a variety of intended audiences",
+        "Under these laws, the release or transfer of export-controlled items or information to individuals who are not classified as \"U.S. persons\" (as defined by Immigration & Nationality Act) may require prior authorization from the U.S. government",
+        "We may require additional documentation related to national identity to determine whether an export compliance license is required for any export-controlled items"
       ],
       "Benefits": [
-        "The base compensation range for this position is $52,000 to $89,000 on an hourly basis",
-        "Due to the temporary nature of this program, this position is not eligible to participate in any of the Company's benefit plans and will not be entitled to any paid time off unless otherwise required by applicable law"
+        "Students develop valuable skills through interactive learning sessions and receive personalized mentorship and guidance from early-career colleagues",
+        "The program offers more than just a resume boost",
+        "There is opportunity for full time employment for those graduates or those entering their senior year",
+        "The benefits listed below may vary depending on the nature of your employment with Impinj and the country where you work",
+        "The typical base pay range for this role across the US is $26.00/hr - $40.00/hr",
+        "Both market wage data and the mid-point of the pay range is reviewed and used as the starting point for all new hire offers",
+        "Offers are made within the base pay range applicable at the time",
+        "At Impinj certain roles are eligible for additional rewards, including merit increases, annual bonus and stock",
+        "These awards are allocated based on individual performance",
+        "In addition, certain roles also have the opportunity to earn sales incentives based on revenue or utilization, depending on the terms of the plan and the employee's role",
+        "US based employees have access to healthcare benefits; a 401(k) plan and company match among others",
+        "Competitive benefits",
+        "Support for remote work or a desk with a view",
+        "We have an open paid time-off policy paired with a respect for work/life balance"
       ],
       "Responsibilities": [
-        "In this position, the Data Science intern will be part of a collaborative data science team and will work on analyzing/visualizing and/or developing algorithms on wearable and digital devices data",
-        "With inputs and guidance from their daily supervisor, the intern will develop Python code for signal processing, AI and machine learning algorithms and/or analyze and visualize data related to wearable devices (e.g. actigraphy device) and time series signals (e.g",
-        "ECG data)",
-        "In their work, the intern will use tools like Databricks or SageMaker for development, Azure Devops for code versioning and agile project management",
-        "The intern will meet regularly with their supervisor, prepare and give regular presentations on their work progress to the supervisor and the rest of the team",
-        "Our team is highly collaborative, so the intern will participate in regular team meetings and may collaborate with the rest of the team on items that facilitate their work"
+        "This role will work closely with endpoint IC engineering teams including product and test engineering, industrialization and factory software",
+        "In this position, you will design and develop algorithms and models to improve product quality and manufacturing yield and extract critical data to improve customer experience",
+        "Develop traditional algorithms and machine learning models to improve manufacturing quality and productivity",
+        "Collaborate with multi-functional partners to efficiently deploy the solutions to support manufacturing",
+        "Redefine raw data into a high-quality, structured format, including data cleaning, correcting errors, handling missing values, integrating data from multiple sources, and scaling variables to enhance model performance and ensure accurate, reliable predictions"
       ]
     },
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
-    "id": "us-bebee-com-job-09bfc157f13b9cf66fbe63d425d2dedf",
+    "id": "www-ziprecruiter-com-c-impinj-job-data-science-intern-in-seattle-wa",
     "_source": "new_jobs"
   },
   {
@@ -821,117 +974,292 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "EemZ0DlHijzEbpcMAAAAAA==",
-    "job_title": "Data Science Intern",
-    "employer_name": "Impinj",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz6_JX54UQwfC-jO5n6h_mywntBgxcp-L0zkrx&s=0",
-    "employer_website": "https://www.impinj.com",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time and Internship",
+    "job_id": "s3WKlG8rQn3-60IPAAAAAA==",
+    "job_title": "Data Scientist Intern 2026",
+    "employer_name": "Boats Group",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDgdWvST05gkT99uf4kFjkqBEqzJCId6jV-u80&s=0",
+    "employer_website": "https://www.boatsgroup.com",
+    "job_publisher": "Indeed",
+    "job_employment_type": "Internship",
     "job_employment_types": [
-      "FULLTIME",
       "INTERN"
     ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Impinj/Job/Data-Science-Intern/-in-Seattle,WA?jid=f571ce914f73d657&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.indeed.com/viewjob?jk=f9fcb12874037826&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": true,
     "apply_options": [
       {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Impinj/Job/Data-Science-Intern/-in-Seattle,WA?jid=f571ce914f73d657&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=f9fcb12874037826&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
       },
       {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/data-science-intern-seattle-impinj-inc-9cd630ed720a0a561057755a41450cbe?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Monster",
-        "apply_link": "https://www.monster.com/job-openings/data-science-intern-seattle-wa--b34c0394-9575-4d1d-b633-16a5e9885dd8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/winter-intern_7ea1a7fa15f985ac79ae20fa4238b4db53de0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/m-O5noO3FG8UvspxtkKWXsRm8rX0zWmCv694nlaDpB5cskPR2ayBqw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Boats-Group/Job/Data-Scientist-Intern-2026/-in-Miami,FL?jid=319027e2119d0d50&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/7682aa238ef818917faa2ad8807fc2d1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Joinrs",
+        "apply_link": "https://www.joinrs.com/pt/job-offers/337446/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/data-science-intern-at-impinj-4361074947?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/cd6505bf2afc6e756a07b798bac2458c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Swooped",
-        "apply_link": "https://swooped.co/job-postings/data-science-intern-seattle-impinj-38e8f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.linkedin.com/jobs/view/data-scientist-intern-2026-at-boats-group-4371497067?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/69863cc90f6f7e7a2ce11f14?utm_campaign=1066&utm_source=git&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://jobright.ai/jobs/info/698d11d70f6f7e7a2ce8c58a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/tpPkJ0ARCE0vPAifvlM_nOjuJCD5Ykx9jgWbIv8oB8RYJ3rLAgO4iQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Impinj is a leading RAIN RFID provider and Internet of Things pioneer. We're inventing ways to connect every thing to the Internet — including retail apparel, retail general merchandise, healthcare items, automobile parts, airline baggage, food and much more. With more than 100 billion items connected to date, and multiple Fortune 500 enterprises around the world using our platform, we solve for a better understanding of our world. If it's a thing, we're working to connect it. Join Impinj and help us realize our vision of a boundless IoT— connecting trillions of everyday items to the Internet.\n\nTeam Overview:\n\nImpinj is seeking a Data Science Intern specializing in machine learning model development and data analysis to join our silicon process engineering team. This role will work closely with endpoint IC engineering teams including product and test engineering, industrialization and factory software. In this position, you will design and develop algorithms and models to improve product quality and manufacturing yield and extract critical data to improve customer experience. If you have a passion for working with data to solve real-life challenges on the scale of billions of chips, this is the role for you.\nWhat You Will Do:\n• Develop traditional algorithms and machine learning models to improve manufacturing quality and productivity\n• Collaborate with multi-functional partners to efficiently deploy the solutions to support manufacturing\n• Redefine raw data into a high-quality, structured format, including data cleaning, correcting errors, handling missing values, integrating data from multiple sources, and scaling variables to enhance model performance and ensure accurate, reliable predictions\nWhat You Will Bring:\n• Currently enrolled in a Bachelor's or Master's program in Data Science, Computer Science, Statistics, or related programs\n• Experience of machine learning model development\n• Knowledge of programming in python, JMP scripting language, R or C++\n• Experience with data management, critical analysis, and attention to detail\n• Clear communication skills and ability to document technical information for a variety of intended audiences\nWhy Intern with Impinj:\n\nThe Impinj Summer Internship Program is designed to provide undergraduate and graduate students with a comprehensive learning experience that goes beyond traditional work assignments. It offers a unique blend of professional development, mentorship, and networking opportunities to help interns thrive in their roles and prepare for successful careers. Students develop valuable skills through interactive learning sessions and receive personalized mentorship and guidance from early-career colleagues.\n\nThe program offers more than just a resume boost. It's a chance to access hands-on experience, leadership insights, and a network of peers and mentors that lasts well beyond the summer.\n\nLearn what our interns last year had to say about their experience: Impinj Intern Program: A Season of Learning, Connection, and Fun (Impinj blog).\n\nThis Summer Internship Cohort begins on Monday, June 15 and ends September 4. The start date is firm; the end date is flexible to end early. All internship positions report at least on a hybrid basis to our Seattle office. There is opportunity for full time employment for those graduates or those entering their senior year.\n\nCompensation & Benefits:\n\nThe benefits listed below may vary depending on the nature of your employment with Impinj and the country where you work.\n\nThe typical base pay range for this role across the US is $26.00/hr - $40.00/hr. Individual base pay depends on various factors such as complexity and responsibility of role, job duties, requirements, and relevant experience and skills. Both market wage data and the mid-point of the pay range is reviewed and used as the starting point for all new hire offers. Offers are made within the base pay range applicable at the time.\n\nAt Impinj certain roles are eligible for additional rewards, including merit increases, annual bonus and stock. These awards are allocated based on individual performance. In addition, certain roles also have the opportunity to earn sales incentives based on revenue or utilization, depending on the terms of the plan and the employee's role. US based employees have access to healthcare benefits; a 401(k) plan and company match among others.\n\nFor a more comprehensive list of US employment benefits, click here.\nUS Export Controls:\n\nThis position has access to technologies or data subject to U.S. export control regulations. Under these laws, the release or transfer of export-controlled items or information to individuals who are not classified as \"U.S. persons\" (as defined by Immigration & Nationality Act) may require prior authorization from the U.S. government. We may require additional documentation related to national identity to determine whether an export compliance license is required for any export-controlled items. This information is requested solely for the purpose of complying with U.S. export control laws and will not be used for other purposes. Learn more about export compliance here.\n\nWhy work at Impinj:\n\nKnow you're making a difference. Competitive benefits. Support for remote work or a desk with a view. Weekly Q&A sessions with our executive team. Impinj provides an environment that fosters openness and innovation and is developing technology that delivers a positive impact on the world. Collaboration and teamwork are highly valued, and accomplishments are duly celebrated. We have an open paid time-off policy paired with a respect for work/life balance. Our headquarters is located in Seattle with spectacular views of the Olympics, Lake Union, and Mt Baker, which can be enjoyed from our rooftop deck. Our Brazilian site is in Porto Alegre, Rio Grande do Sul state, at \"Tecnopuc,\" a technology park that offers a very nice workplace for the development of groundbreaking technologies. Impinj is committed to creating a diverse and inclusive work environment and welcomes applicants from all backgrounds.\n\nWe are an equal opportunity employer and do not discriminate on the basis of race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, or disability status. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.",
+    "job_description": "Data Scientist Summer Internship - 2026\nMiami, FL\n\nAs a Boats Group Data Scientist Intern, you’ll report to our Head of Data and work closely with our Principal Data Scientist and Data & AI team to support the development of internal machine learning and advanced analytics models that inform product, marketplace, and business decisions.\n\nOver the summer, you'll work on projects, tackle daily tasks, and work collaboratively with our team. In general, your responsibilities will include:\n• Partner directly with a Principal Data Scientist on internal ML and analytics initiatives\n• Explore and prepare large datasets for modeling (data cleaning, joins, feature creation)\n• Build and evaluate internal-facing models, such as:\n• Propensity or scoring models (e.g., conversion likelihood, lead quality)\n• Classification and regression models for forecasting or prioritization\n• Segmentation or clustering models to identify behavioral patterns\n• Analyze model outputs to generate actionable insights for product, sales, and operations teams\n• Create clear summaries, visualizations, and documentation explaining:\n• Model approach and assumptions\n• Key drivers and insights\n• Limitations and next steps\n• Collaborate with data engineers and analysts to ensure models align with available data and pipelines\n\nWe know you're just starting your career. But here are a few things that you should have to succeed in this internship:\n• Currently pursuing a Bachelor’s degree in Data Science, Statistics, Computer Science, Mathematics, Economics, or a related field\n• Strong foundation in statistics, probability, and data analysis\n• Hands-on experience with Python (pandas, numpy, scikit-learn)\n• Working knowledge of SQL and relational data modeling\n• Ability to clearly explain analytical findings and tradeoffs\n• Curiosity, attention to detail, and comfort working with ambiguity\n• Exposure to cloud data warehouses (e.g., Snowflake, BigQuery)\n• Experience with visualization tools or Python plotting libraries\n\nEssential Details:\n• Internship Duration: Our internship program will be 10 weeks, with a start date of Tuesday, June 2nd, and ending Thursday, August 6th.\n• Hybrid Work Schedule: Work remotely on Mondays and join us in the office Tuesdays - Thursdays with no work on Fridays – enjoy your 3-day weekend!\n• Office Location: Join us at our vibrant & amazing office, located at 1221 Brickell Ave, Miami, FL\n• Work Eligibility: Must be eligible to work in the U.S.\n• Location: Must be based in Miami, FL with no relocation accepted\n\nTo join us on this adventure, candidates must meet the following criteria:\n• Work Authorization: Must be eligible to work in the United States.\n• Local to Miami: To guarantee a seamless and enriching experience, candidates must be based in Miami, FL. (Relocation not accepted.) Join us in the heart of Miami for an unforgettable journey!\n\nIn addition to professional and personal growth, here’s what you’ll receive:\n• Hourly Rate: This paid internship has a pay rate of $20 an hour, with the eligibility to earn an end-of-program bonus – a true treasure for your efforts!\n• Commuter Benefits: Navigate to work with ease, enjoying commuter benefits (monthly parking or rail pass) for a smoother journey to our Brickell Office.\n• Three-Day Weekend (No Work on Fridays): Immerse yourself in exciting projects Monday to Thursday, enjoying a three-day weekend with no work on Fridays, ensuring you have time to recharge and explore the vibrant surroundings of Miami.\n• *Application: Applications are currently open and will close on February 27, 2026. Drop your anchor and seize the opportunity to join our crew!**\n\n#LI-Hybrid",
     "job_is_remote": false,
-    "job_posted_at": "10 days ago",
-    "job_posted_at_timestamp": 1770422400,
-    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
-    "job_location": "Seattle, WA",
-    "job_city": "Seattle",
-    "job_state": "Washington",
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Miami, FL",
+    "job_city": "Miami",
+    "job_state": "Florida",
     "job_country": "US",
-    "job_latitude": 47.6061389,
-    "job_longitude": -122.33284809999999,
-    "job_benefits": [
-      "health_insurance",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DEemZ0DlHijzEbpcMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 26,
-    "job_max_salary": 40,
-    "job_salary_period": "HOUR",
+    "job_latitude": 25.7616798,
+    "job_longitude": -80.1917902,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Ds3WKlG8rQn3-60IPAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Currently enrolled in a Bachelor's or Master's program in Data Science, Computer Science, Statistics, or related programs",
-        "Experience of machine learning model development",
-        "Knowledge of programming in python, JMP scripting language, R or C++",
-        "Experience with data management, critical analysis, and attention to detail",
-        "Clear communication skills and ability to document technical information for a variety of intended audiences",
-        "Under these laws, the release or transfer of export-controlled items or information to individuals who are not classified as \"U.S. persons\" (as defined by Immigration & Nationality Act) may require prior authorization from the U.S. government",
-        "We may require additional documentation related to national identity to determine whether an export compliance license is required for any export-controlled items"
+        "Currently pursuing a Bachelor’s degree in Data Science, Statistics, Computer Science, Mathematics, Economics, or a related field",
+        "Strong foundation in statistics, probability, and data analysis",
+        "Hands-on experience with Python (pandas, numpy, scikit-learn)",
+        "Working knowledge of SQL and relational data modeling",
+        "Ability to clearly explain analytical findings and tradeoffs",
+        "Curiosity, attention to detail, and comfort working with ambiguity",
+        "Exposure to cloud data warehouses (e.g., Snowflake, BigQuery)",
+        "Experience with visualization tools or Python plotting libraries",
+        "Work Eligibility: Must be eligible to work in the U.S",
+        "Location: Must be based in Miami, FL with no relocation accepted",
+        "Work Authorization: Must be eligible to work in the United States",
+        "Local to Miami: To guarantee a seamless and enriching experience, candidates must be based in Miami, FL"
       ],
       "Benefits": [
-        "Students develop valuable skills through interactive learning sessions and receive personalized mentorship and guidance from early-career colleagues",
-        "The program offers more than just a resume boost",
-        "There is opportunity for full time employment for those graduates or those entering their senior year",
-        "The benefits listed below may vary depending on the nature of your employment with Impinj and the country where you work",
-        "The typical base pay range for this role across the US is $26.00/hr - $40.00/hr",
-        "Both market wage data and the mid-point of the pay range is reviewed and used as the starting point for all new hire offers",
-        "Offers are made within the base pay range applicable at the time",
-        "At Impinj certain roles are eligible for additional rewards, including merit increases, annual bonus and stock",
-        "These awards are allocated based on individual performance",
-        "In addition, certain roles also have the opportunity to earn sales incentives based on revenue or utilization, depending on the terms of the plan and the employee's role",
-        "US based employees have access to healthcare benefits; a 401(k) plan and company match among others",
-        "Competitive benefits",
-        "Support for remote work or a desk with a view",
-        "We have an open paid time-off policy paired with a respect for work/life balance"
+        "Hourly Rate: This paid internship has a pay rate of $20 an hour, with the eligibility to earn an end-of-program bonus – a true treasure for your efforts!",
+        "Commuter Benefits: Navigate to work with ease, enjoying commuter benefits (monthly parking or rail pass) for a smoother journey to our Brickell Office",
+        "Three-Day Weekend (No Work on Fridays): Immerse yourself in exciting projects Monday to Thursday, enjoying a three-day weekend with no work on Fridays, ensuring you have time to recharge and explore the vibrant surroundings of Miami"
       ],
       "Responsibilities": [
-        "This role will work closely with endpoint IC engineering teams including product and test engineering, industrialization and factory software",
-        "In this position, you will design and develop algorithms and models to improve product quality and manufacturing yield and extract critical data to improve customer experience",
-        "Develop traditional algorithms and machine learning models to improve manufacturing quality and productivity",
-        "Collaborate with multi-functional partners to efficiently deploy the solutions to support manufacturing",
-        "Redefine raw data into a high-quality, structured format, including data cleaning, correcting errors, handling missing values, integrating data from multiple sources, and scaling variables to enhance model performance and ensure accurate, reliable predictions"
+        "As a Boats Group Data Scientist Intern, you’ll report to our Head of Data and work closely with our Principal Data Scientist and Data & AI team to support the development of internal machine learning and advanced analytics models that inform product, marketplace, and business decisions",
+        "Over the summer, you'll work on projects, tackle daily tasks, and work collaboratively with our team",
+        "Partner directly with a Principal Data Scientist on internal ML and analytics initiatives",
+        "Explore and prepare large datasets for modeling (data cleaning, joins, feature creation)",
+        "Build and evaluate internal-facing models, such as:",
+        "Propensity or scoring models (e.g., conversion likelihood, lead quality)",
+        "Classification and regression models for forecasting or prioritization",
+        "Segmentation or clustering models to identify behavioral patterns",
+        "Analyze model outputs to generate actionable insights for product, sales, and operations teams",
+        "Create clear summaries, visualizations, and documentation explaining:",
+        "Model approach and assumptions",
+        "Key drivers and insights",
+        "Limitations and next steps",
+        "Collaborate with data engineers and analysts to ensure models align with available data and pipelines",
+        "Internship Duration: Our internship program will be 10 weeks, with a start date of Tuesday, June 2nd, and ending Thursday, August 6th",
+        "Hybrid Work Schedule: Work remotely on Mondays and join us in the office Tuesdays - Thursdays with no work on Fridays – enjoy your 3-day weekend!"
       ]
     },
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
-    "id": "www-ziprecruiter-com-c-impinj-job-data-science-intern-in-seattle-wa",
+    "id": "www-indeed-com-viewjob",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "UucHN-8_fWKTRjRQAAAAAA==",
+    "job_title": "Data Science Undergraduate",
+    "employer_name": "Dell USA",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ749cEhRJ1RM7wgAYOY4BOyvWlIEfgEsVNuNz&s=0",
+    "employer_website": "https://www.dell.com",
+    "job_publisher": "Prosple",
+    "job_employment_type": "Internship",
+    "job_employment_types": [
+      "INTERN"
+    ],
+    "job_apply_link": "https://prosple.com/graduate-employers/dell/jobs-internships/data-science-undergraduate?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Prosple",
+        "apply_link": "https://prosple.com/graduate-employers/dell/jobs-internships/data-science-undergraduate?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Undergraduate Data Science intern responsible for data analysis, programming, and growth initiatives at Dell Technologies.\n\nYour Role\n\nHere’s what you will be doing:\n• Analyze data and drive growth through programming.\n• Be part of a large, passionate data science community sharing learnings and best practices.\n• Work on projects ranging from basic effective methods to cutting-edge experimental methods.\n• Collaborate with peers throughout the 12-week program.\n\nAbout You\n\nThe company is looking for:\n• Enrollment in a Bachelor’s (BA or BS) program in Computer Science, Data Science, Natural Sciences, Engineering, or related field.\n• Excellent written and verbal communication skills, including presenting to stakeholders.\n• Proficiency in programming languages such as Python or R, and database languages such as SQL.\n• Experience with visualization libraries and tools such as matplotlib, Tableau, or Power BI is a plus.\n• Comfortable working with global teams across multiple regions.\n• Solid programming skills to retrieve, process, and analyze data (desirable).\n• Passion for data visualization and communicating data stories (desirable).\n\nCompensation & Benefits\n• Hourly pay range: $18.00 - $37.15 depending on location.\n• Commitment to fair and equitable compensation practices.\n\nTraining & Development\n• Opportunity to work alongside peers in a 12-week program within a supportive data science community.\n\nCareer Progression\n• Opportunity to grow your career with advanced technology and some of the best minds in the industry.\n\nThis job may close before the stated closing date, you are encouraged to apply as soon as possible\n\nReport this job",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Round Rock, TX",
+    "job_city": "Round Rock",
+    "job_state": "Texas",
+    "job_country": "US",
+    "job_latitude": 30.5082551,
+    "job_longitude": -97.678896,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUucHN-8_fWKTRjRQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 18,
+    "job_max_salary": 37,
+    "job_salary_period": "HOUR",
+    "job_highlights": {
+      "Qualifications": [
+        "Enrollment in a Bachelor’s (BA or BS) program in Computer Science, Data Science, Natural Sciences, Engineering, or related field",
+        "Excellent written and verbal communication skills, including presenting to stakeholders",
+        "Proficiency in programming languages such as Python or R, and database languages such as SQL",
+        "Comfortable working with global teams across multiple regions"
+      ],
+      "Benefits": [
+        "Compensation & Benefits",
+        "Hourly pay range: $18.00 - $37.15 depending on location",
+        "Commitment to fair and equitable compensation practices",
+        "Opportunity to work alongside peers in a 12-week program within a supportive data science community",
+        "Opportunity to grow your career with advanced technology and some of the best minds in the industry"
+      ],
+      "Responsibilities": [
+        "Analyze data and drive growth through programming",
+        "Be part of a large, passionate data science community sharing learnings and best practices",
+        "Work on projects ranging from basic effective methods to cutting-edge experimental methods",
+        "Collaborate with peers throughout the 12-week program"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "prosple-com-graduate-employers-dell-jobs-internships-data-science-undergraduate",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "PP1O9I6v5xsIhG5PAAAAAA==",
+    "job_title": "Student Intern- Data Analytics",
+    "employer_name": "Advocate Aurora Health",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmPrUobFkxZ6o2Sn3cafDGFnva_mdPRfZBzxfr&s=0",
+    "employer_website": "https://www.advocatehealth.org",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Advocate-Aurora-Health/Job/Student-Intern-Data-Analytics/-in-Charlotte,NC?jid=88abf7c3be3c7b56&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Advocate-Aurora-Health/Job/Student-Intern-Data-Analytics/-in-Charlotte,NC?jid=88abf7c3be3c7b56&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/student-intern-data-analytics_7ea1a9b94035b5e3181f016ece05e458bfcb4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/31ac71bf8f2f8e94e1683b4867e93bfa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Swooped",
+        "apply_link": "https://swooped.co/job-postings/student-intern-data-analytics-charlotte-julesburg-advocate-ebf3a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Talentify",
+        "apply_link": "https://www.talentify.io/job/student-intern-data-analytics-charlotte-north-carolina-us-advocate-aurora-health-r214483?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-north-carolina-charlotte-student-intern-data-analytics-american?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Department:\n\n09120 GCMG SHVI Administration: CORPORATE - General Administration\n\nStatus:\n\nFull time\n\nBenefits Eligible:\n\nYes\n\nHours Per Week:\n\n40\n\nSchedule Details/Additional Information:\n\n8-5 M-F\n\nPay Range\n$18.85 - $28.30\n\nEssential Functions\n• Performs duties including patient and family visits, delivery of support services, studies, investigations, research projects, and other assignments.\n• Provides administrative coverage of the office such as answering phone and maintaining computer data. Types documents such as letters and creates spreadsheets and presentations.\n• Assists with research projects, data analysis, and/or creating various reports. Assists with entering data and filing.\n• Communicates verbally and in writing with all levels within the System and with the public.\n\nPhysical Requirements\nWork requires walking, sitting, lifting and reaching overhead. Must be able to lift a minimum of 10 pounds, shoulder height. Must be able to push patients in wheelchairs or supplies on a rolling cart. Intact sense of sight and hearing is required. Responsible for working in a safe manner.\n\nEducation, Experience and Certifications\n\nHigh School, Undergraduate, Master's or Postgraduate enrollment required. Excellent planning, prioritizing, oral/written communication, interpersonal, problem solving, and team skills required. Excellent planning, prioritizing, oral/written communication, interpersonal, problem solving, and team skills required. Ability to work collaboratively as a team member and ability to respond creatively to a rapidly changing environment required. Computer skills required.\n\nOur CommitmenttoYou:\n\nAdvocate Health offers a comprehensive suite of Total Rewards: benefits and well-being programs, competitive compensation, generous retirement offerings, programs that invest in your career development and so much more - so you can live fully at and away from work, including:\n\nCompensation\n• Base compensation listed within the listed pay range based on factors such as qualifications, skills, relevant experience, and/or training\n• Premium pay such as shift, on call, and more based on a teammate's job\n• Incentive pay for select positions\n• Opportunity for annual increases based on performance\n\nBenefits and more\n• Paid Time Off programs\n• Health and welfare benefits such as medical, dental, vision, life, andShort- and Long-Term Disability\n• Flexible Spending Accounts for eligible health care and dependent care expenses\n• Family benefits such as adoption assistance and paid parental leave\n• Defined contribution retirement plans with employer match and other financial wellness programs\n• Educational Assistance Program\n\nAbout Advocate Health\n\nAdvocate Health is the third-largest nonprofit, integrated health system in the United States, created from the combination of Advocate Aurora Health and Atrium Health. Providing care under the names Advocate Health Care in Illinois; Atrium Health in the Carolinas, Georgia and Alabama; and Aurora Health Care in Wisconsin, Advocate Health is a national leader in clinical innovation, health outcomes, consumer experience and value-based care. Headquartered in Charlotte, North Carolina, Advocate Health services nearly 6 million patients and is engaged in hundreds of clinical trials and research studies, with Wake Forest University School of Medicine serving as the academic core of the enterprise. It is nationally recognized for its expertise in cardiology, neurosciences, oncology, pediatrics and rehabilitation, as well as organ transplants, burn treatments and specialized musculoskeletal programs. Advocate Health employs 155,000 teammates across 69 hospitals and over 1,000 care locations, and offers one of the nation's largest graduate medical education programs with over 2,000 residents and fellows across more than 200 programs. Committed to providing equitable care for all, Advocate Health provides more than $6 billion in annual community benefits.",
+    "job_is_remote": false,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Charlotte, NC",
+    "job_city": "Charlotte",
+    "job_state": "North Carolina",
+    "job_country": "US",
+    "job_latitude": 35.2270768,
+    "job_longitude": -80.84089329999999,
+    "job_benefits": [
+      "dental_coverage",
+      "paid_time_off",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DPP1O9I6v5xsIhG5PAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Work requires walking, sitting, lifting and reaching overhead",
+        "Must be able to lift a minimum of 10 pounds, shoulder height",
+        "Must be able to push patients in wheelchairs or supplies on a rolling cart",
+        "Intact sense of sight and hearing is required",
+        "High School, Undergraduate, Master's or Postgraduate enrollment required",
+        "Excellent planning, prioritizing, oral/written communication, interpersonal, problem solving, and team skills required",
+        "Excellent planning, prioritizing, oral/written communication, interpersonal, problem solving, and team skills required",
+        "Ability to work collaboratively as a team member and ability to respond creatively to a rapidly changing environment required",
+        "Computer skills required"
+      ],
+      "Benefits": [
+        "$18.85 - $28.30",
+        "Advocate Health offers a comprehensive suite of Total Rewards: benefits and well-being programs, competitive compensation, generous retirement offerings, programs that invest in your career development and so much more - so you can live fully at and away from work, including:",
+        "Base compensation listed within the listed pay range based on factors such as qualifications, skills, relevant experience, and/or training",
+        "Premium pay such as shift, on call, and more based on a teammate's job",
+        "Incentive pay for select positions",
+        "Opportunity for annual increases based on performance",
+        "Benefits and more",
+        "Paid Time Off programs",
+        "Health and welfare benefits such as medical, dental, vision, life, andShort- and Long-Term Disability",
+        "Flexible Spending Accounts for eligible health care and dependent care expenses",
+        "Family benefits such as adoption assistance and paid parental leave",
+        "Defined contribution retirement plans with employer match and other financial wellness programs",
+        "Educational Assistance Program",
+        "Committed to providing equitable care for all, Advocate Health provides more than $6 billion in annual community benefits"
+      ],
+      "Responsibilities": [
+        "Performs duties including patient and family visits, delivery of support services, studies, investigations, research projects, and other assignments",
+        "Provides administrative coverage of the office such as answering phone and maintaining computer data",
+        "Types documents such as letters and creates spreadsheets and presentations",
+        "Assists with research projects, data analysis, and/or creating various reports",
+        "Assists with entering data and filing",
+        "Communicates verbally and in writing with all levels within the System and with the public",
+        "Responsible for working in a safe manner"
+      ]
+    },
+    "job_onet_soc": "43911100",
+    "job_onet_job_zone": "4",
+    "id": "www-ziprecruiter-com-c-advocate-aurora-health-job-student-intern-data-analytics-in-charlotte-nc",
     "_source": "new_jobs"
   },
   {
@@ -1023,366 +1351,52 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "PP1O9I6v5xsIhG5PAAAAAA==",
-    "job_title": "Student Intern- Data Analytics",
-    "employer_name": "Advocate Aurora Health",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmPrUobFkxZ6o2Sn3cafDGFnva_mdPRfZBzxfr&s=0",
-    "employer_website": "https://www.advocatehealth.org",
-    "job_publisher": "ZipRecruiter",
+    "job_id": "p-Z7xvmh7PJ9qMcvAAAAAA==",
+    "job_title": "Current PhD - Data Science Internship - Summer",
+    "employer_name": "Capital One",
+    "employer_logo": null,
+    "employer_website": "https://www.capitalone.com",
+    "job_publisher": "Jobilize",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Advocate-Aurora-Health/Job/Student-Intern-Data-Analytics/-in-Charlotte,NC?jid=88abf7c3be3c7b56&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Advocate-Aurora-Health/Job/Student-Intern-Data-Analytics/-in-Charlotte,NC?jid=88abf7c3be3c7b56&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/31ac71bf8f2f8e94e1683b4867e93bfa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Swooped",
-        "apply_link": "https://swooped.co/job-postings/student-intern-data-analytics-charlotte-julesburg-advocate-ebf3a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Talentify",
-        "apply_link": "https://www.talentify.io/job/student-intern-data-analytics-charlotte-north-carolina-us-advocate-aurora-health-r214483?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-north-carolina-charlotte-student-intern-data-analytics-american?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Department:\n\n09120 GCMG SHVI Administration: CORPORATE - General Administration\n\nStatus:\n\nFull time\n\nBenefits Eligible:\n\nYes\n\nHours Per Week:\n\n40\n\nSchedule Details/Additional Information:\n\n8-5 M-F\n\nPay Range\n$18.85 - $28.30\n\nEssential Functions\n• Performs duties including patient and family visits, delivery of support services, studies, investigations, research projects, and other assignments.\n• Provides administrative coverage of the office such as answering phone and maintaining computer data. Types documents such as letters and creates spreadsheets and presentations.\n• Assists with research projects, data analysis, and/or creating various reports. Assists with entering data and filing.\n• Communicates verbally and in writing with all levels within the System and with the public.\n\nPhysical Requirements\nWork requires walking, sitting, lifting and reaching overhead. Must be able to lift a minimum of 10 pounds, shoulder height. Must be able to push patients in wheelchairs or supplies on a rolling cart. Intact sense of sight and hearing is required. Responsible for working in a safe manner.\n\nEducation, Experience and Certifications\n\nHigh School, Undergraduate, Master's or Postgraduate enrollment required. Excellent planning, prioritizing, oral/written communication, interpersonal, problem solving, and team skills required. Excellent planning, prioritizing, oral/written communication, interpersonal, problem solving, and team skills required. Ability to work collaboratively as a team member and ability to respond creatively to a rapidly changing environment required. Computer skills required.\n\nOur CommitmenttoYou:\n\nAdvocate Health offers a comprehensive suite of Total Rewards: benefits and well-being programs, competitive compensation, generous retirement offerings, programs that invest in your career development and so much more - so you can live fully at and away from work, including:\n\nCompensation\n• Base compensation listed within the listed pay range based on factors such as qualifications, skills, relevant experience, and/or training\n• Premium pay such as shift, on call, and more based on a teammate's job\n• Incentive pay for select positions\n• Opportunity for annual increases based on performance\n\nBenefits and more\n• Paid Time Off programs\n• Health and welfare benefits such as medical, dental, vision, life, andShort- and Long-Term Disability\n• Flexible Spending Accounts for eligible health care and dependent care expenses\n• Family benefits such as adoption assistance and paid parental leave\n• Defined contribution retirement plans with employer match and other financial wellness programs\n• Educational Assistance Program\n\nAbout Advocate Health\n\nAdvocate Health is the third-largest nonprofit, integrated health system in the United States, created from the combination of Advocate Aurora Health and Atrium Health. Providing care under the names Advocate Health Care in Illinois; Atrium Health in the Carolinas, Georgia and Alabama; and Aurora Health Care in Wisconsin, Advocate Health is a national leader in clinical innovation, health outcomes, consumer experience and value-based care. Headquartered in Charlotte, North Carolina, Advocate Health services nearly 6 million patients and is engaged in hundreds of clinical trials and research studies, with Wake Forest University School of Medicine serving as the academic core of the enterprise. It is nationally recognized for its expertise in cardiology, neurosciences, oncology, pediatrics and rehabilitation, as well as organ transplants, burn treatments and specialized musculoskeletal programs. Advocate Health employs 155,000 teammates across 69 hospitals and over 1,000 care locations, and offers one of the nation's largest graduate medical education programs with over 2,000 residents and fellows across more than 200 programs. Committed to providing equitable care for all, Advocate Health provides more than $6 billion in annual community benefits.",
-    "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Charlotte, NC",
-    "job_city": "Charlotte",
-    "job_state": "North Carolina",
-    "job_country": "US",
-    "job_latitude": 35.2270768,
-    "job_longitude": -80.84089329999999,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DPP1O9I6v5xsIhG5PAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Work requires walking, sitting, lifting and reaching overhead",
-        "Must be able to lift a minimum of 10 pounds, shoulder height",
-        "Must be able to push patients in wheelchairs or supplies on a rolling cart",
-        "Intact sense of sight and hearing is required",
-        "High School, Undergraduate, Master's or Postgraduate enrollment required",
-        "Excellent planning, prioritizing, oral/written communication, interpersonal, problem solving, and team skills required",
-        "Excellent planning, prioritizing, oral/written communication, interpersonal, problem solving, and team skills required",
-        "Ability to work collaboratively as a team member and ability to respond creatively to a rapidly changing environment required",
-        "Computer skills required"
-      ],
-      "Benefits": [
-        "$18.85 - $28.30",
-        "Advocate Health offers a comprehensive suite of Total Rewards: benefits and well-being programs, competitive compensation, generous retirement offerings, programs that invest in your career development and so much more - so you can live fully at and away from work, including:",
-        "Base compensation listed within the listed pay range based on factors such as qualifications, skills, relevant experience, and/or training",
-        "Premium pay such as shift, on call, and more based on a teammate's job",
-        "Incentive pay for select positions",
-        "Opportunity for annual increases based on performance",
-        "Benefits and more",
-        "Paid Time Off programs",
-        "Health and welfare benefits such as medical, dental, vision, life, andShort- and Long-Term Disability",
-        "Flexible Spending Accounts for eligible health care and dependent care expenses",
-        "Family benefits such as adoption assistance and paid parental leave",
-        "Defined contribution retirement plans with employer match and other financial wellness programs",
-        "Educational Assistance Program",
-        "Committed to providing equitable care for all, Advocate Health provides more than $6 billion in annual community benefits"
-      ],
-      "Responsibilities": [
-        "Performs duties including patient and family visits, delivery of support services, studies, investigations, research projects, and other assignments",
-        "Provides administrative coverage of the office such as answering phone and maintaining computer data",
-        "Types documents such as letters and creates spreadsheets and presentations",
-        "Assists with research projects, data analysis, and/or creating various reports",
-        "Assists with entering data and filing",
-        "Communicates verbally and in writing with all levels within the System and with the public",
-        "Responsible for working in a safe manner"
-      ]
-    },
-    "job_onet_soc": "43911100",
-    "job_onet_job_zone": "4",
-    "id": "www-ziprecruiter-com-c-advocate-aurora-health-job-student-intern-data-analytics-in-charlotte-nc",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "UucHN-8_fWKTRjRQAAAAAA==",
-    "job_title": "Data Science Undergraduate",
-    "employer_name": "Dell USA",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuI58nwNs-JAvui4NF6gfpvZMIgmpvYxw6wM6F&s=0",
-    "employer_website": "https://www.dell.com",
-    "job_publisher": "Prosple",
-    "job_employment_type": "Internship",
-    "job_employment_types": [
-      "INTERN"
-    ],
-    "job_apply_link": "https://prosple.com/graduate-employers/dell/jobs-internships/data-science-undergraduate?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.jobilize.com/job/us-va-falls-church-current-phd-data-science-internship-summer-capital?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Prosple",
-        "apply_link": "https://prosple.com/graduate-employers/dell/jobs-internships/data-science-undergraduate?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Undergraduate Data Science intern responsible for data analysis, programming, and growth initiatives at Dell Technologies.\n\nYour Role\n\nHere’s what you will be doing:\n• Analyze data and drive growth through programming.\n• Be part of a large, passionate data science community sharing learnings and best practices.\n• Work on projects ranging from basic effective methods to cutting-edge experimental methods.\n• Collaborate with peers throughout the 12-week program.\n\nAbout You\n\nThe company is looking for:\n• Enrollment in a Bachelor’s (BA or BS) program in Computer Science, Data Science, Natural Sciences, Engineering, or related field.\n• Excellent written and verbal communication skills, including presenting to stakeholders.\n• Proficiency in programming languages such as Python or R, and database languages such as SQL.\n• Experience with visualization libraries and tools such as matplotlib, Tableau, or Power BI is a plus.\n• Comfortable working with global teams across multiple regions.\n• Solid programming skills to retrieve, process, and analyze data (desirable).\n• Passion for data visualization and communicating data stories (desirable).\n\nCompensation & Benefits\n• Hourly pay range: $18.00 - $37.15 depending on location.\n• Commitment to fair and equitable compensation practices.\n\nTraining & Development\n• Opportunity to work alongside peers in a 12-week program within a supportive data science community.\n\nCareer Progression\n• Opportunity to grow your career with advanced technology and some of the best minds in the industry.\n\nThis job may close before the stated closing date, you are encouraged to apply as soon as possible\n\nReport this job",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Round Rock, TX",
-    "job_city": "Round Rock",
-    "job_state": "Texas",
-    "job_country": "US",
-    "job_latitude": 30.5082551,
-    "job_longitude": -97.678896,
-    "job_benefits": [
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUucHN-8_fWKTRjRQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 18,
-    "job_max_salary": 37,
-    "job_salary_period": "HOUR",
-    "job_highlights": {
-      "Qualifications": [
-        "Enrollment in a Bachelor’s (BA or BS) program in Computer Science, Data Science, Natural Sciences, Engineering, or related field",
-        "Excellent written and verbal communication skills, including presenting to stakeholders",
-        "Proficiency in programming languages such as Python or R, and database languages such as SQL",
-        "Comfortable working with global teams across multiple regions"
-      ],
-      "Benefits": [
-        "Compensation & Benefits",
-        "Hourly pay range: $18.00 - $37.15 depending on location",
-        "Commitment to fair and equitable compensation practices",
-        "Opportunity to work alongside peers in a 12-week program within a supportive data science community",
-        "Opportunity to grow your career with advanced technology and some of the best minds in the industry"
-      ],
-      "Responsibilities": [
-        "Analyze data and drive growth through programming",
-        "Be part of a large, passionate data science community sharing learnings and best practices",
-        "Work on projects ranging from basic effective methods to cutting-edge experimental methods",
-        "Collaborate with peers throughout the 12-week program"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "prosple-com-graduate-employers-dell-jobs-internships-data-science-undergraduate",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "EiJBsumzByoKjbHRAAAAAA==",
-    "job_title": "2026 Summer Internship - Data Science",
-    "employer_name": "CareSource",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKA2Iw-yAPKH17UFODeWs7Yk6yyaSHw5J2-zTS&s=0",
-    "employer_website": "https://www.caresource.com",
-    "job_publisher": "Lensa",
-    "job_employment_type": "Internship",
-    "job_employment_types": [
-      "INTERN"
-    ],
-    "job_apply_link": "https://lensa.com/job-v1/caresource/dayton-oh/data-science-intern/e16eb42c00d305e28446894a8c9e533c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Lensa",
-        "apply_link": "https://lensa.com/job-v1/caresource/dayton-oh/data-science-intern/e16eb42c00d305e28446894a8c9e533c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
         "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-oh-dayton-2026-summer-internship-data-science-caresource-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.jobilize.com/job/us-va-falls-church-current-phd-data-science-internship-summer-capital?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Internship Program\n\nThe CareSource Intern is responsible for providing support on special projects, initiatives, and specific activities which will vary by assignment. We offer a 12-week, paid summer internship program for college students who want to separate themselves from the pack. This is an exciting opportunity to obtain real-world experience and prepare yourself for your career after college. The program offers:\n• The opportunity to work on projects that truly impact the company\n• Journey-to-the-Job seminars with CareSource leaders to network and learn about their career paths\n• An assigned mentor and access to former interns who earned full-time positions with CareSource\n• An opportunity to test what you have learned and discover where you want to go\n• The satisfaction of working with smart and motivated people while building new skills\n• The chance to experience a new city and a culture that reflects your values (flexibility for on-site, hybrid, and remote opportunities)\n\nEssential Functions:\n• Learn the in's and out's of the end-to-end data science process\n• Collaborate with data science mentor to understand background, purpose, and business application of a given project\n• Perform descriptive, statistical, and predictive analysis on large datasets for assigned projects\n• Assist in creation of deliverables including visualizations and interpretation of findings for analyses\n• Participate in peer reviews and feedback sessions\n• Participate in team/department meetings\n• Perform any other job duties as requested\n\nEducation and Experience:\n• High School Diploma or equivalent is required\n• Current Rising Junior or Senior in an accredited degree program or graduated within the last 6 months is required\n\nCompetencies, Knowledge and Skills:\n• Proficient with Microsoft Office Suite to include Outlook, Word, Excel and PowerPoint\n• Good written and verbal communication skills\n• Ability to work in a fast-paced environment\n• Ability to work independently and within a team environment\n• Effective listening and critical thinking skills\n• Dependable, flexible and ability to maintain confidential information\n• Effective problem-solving skills with attention to detail\n\nLicensure and Certification:\n• None\n\nWorking Conditions:\n• General office environment; may be required to sit or stand for extended periods of time\n• Personalized orientation and mentoring programs\n• Company and job-specific training\n• Feedback opportunities throughout your first 90 days\n• Inclusive culture withemployee resource groups\n• Flexible work environment with remote opportunities and paid volunteer hours\n• Performance and personal growth goals with defined success metrics\n• Ongoing feedback process with your manager to discuss your progress and identify actions for continued growth\n• Potential for internal and external training and development programs, stretch assignments, expanded responsibilities and more\n\nCompensation Range:\n$35,900.00 - $57,300.00 CareSource takes into consideration a combination of a candidate's education, training, and experience as well as the position's scope and complexity, the discretion and latitude required for the role, and other external and internal data when establishing a salary level. In addition to base compensation, you may qualify for a bonus tied to company and individual performance. We are highly invested in every employee's total well-being and offer a substantial and comprehensive total rewards package.\n\nCompensation Type:\nHourly\n\nCompetencies:\n- Fostering a Collaborative Workplace Culture - Cultivate Partnerships - Develop Self and Others - Drive Execution - Influence Others - Pursue Personal Excellence - Understand the Business\n\nThis job description is not all inclusive. CareSource reserves the right to amend this job description at any time. CareSource is an Equal Opportunity Employer. We are dedicated to fostering an environment of belonging that welcomes and supports individuals of all backgrounds.\n\n#LI-JH1",
+    "job_description": "Current PhD - Data Science Internship - Summer 2026\n\nThis is a full-time paid internship program spanning ten weeks from June through August 2026.\nParticipation in the internship requires that you are located in the continental United States with in-person attendance at your assigned location, in accordance with Capital One's hybrid working model, for the duration of the program.\nInterns will be evaluated for a full-time position with their team and will work with their manager on identifying a start date upon graduation.\n\nThis is a paid internship.\nThis is a limited-time internship position, and Capital One will not sponsor a new applicant for employment authorization for this position.\nHowever, a full-time Data Science role, for which you may be considered upon completion of the internship (subject to business need, market conditions, and other factors) is eligible for employer immigration sponsorship.\n\nBasic Qualifications:\n• Currently has, or is in the process of obtaining a PhD in one of the following areas with an expectation that the required degree will be obtained by August 2028 or earlier:\nA PhD in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field)\n• Must be continuing in the same course of study of your PhD degree following completion of the internship\n• At least 6 months experience or academic work using open source programming languages for data analysis\n• At least 6 months of experience or academic work using machine learning techniques\n• At least 6 months of experience with either Python, R or SQL\n\nPreferred Qualifications:\n• Experience or academic work in inferential statistics\n• Experience or academic work with relational databases\n• Experience or academic work with large scale data analysis\n\nAs a Data Scientist at Capital One, you'll be part of a high-performing team that's embracing the latest in computing technologies to unlock opportunities that help everyday people save money and improve their financial lives.\nYou'll help our customers solve their financial services challenges by using groundbreaking techniques.\nYou'll make valuable contributions from day one by continuously learning, engaging in diverse sets of experiences, and building close-knit relationships across the company.\nRole / team focus areas could include supporting machine learning, deep learning, or quant initiatives across the enterprise.\n\nOn any given day, you might:\n• Evaluate open-source and internally-developed modeling and analytics tools using real business data\n• Integrate internal data with external data sources and APIs to discover and implement actionable insights\n• Design and craft data science models to communicate solutions to customers and company leadership\n\nWe'd love to find someone who is\n• Intellectually curious.\nYou ask why, you explore, and you are excited to imagine and create new ideas by inventing self-adaptive models or by tapping into unstructured data sources.\nYou love mining data for insights into behaviors, intent and sentiment\n• A builder.\nYou are passionate about delivering better experiences and better products to our customers and have a deep sense of ownership for your craft\n• An experimental scientist.\nYou love putting on your lab coat and trying new things, new combinations of tools, techniques and feature engineering approaches even if you sometimes fail\n• A Communicator.\nYou seek to connect with teammates and business partners to share technical ideas that resonate with audience needs across verbal and written channels\n\nAre you ready to join a community of talented individuals who embrace customer problems and use their passion and capabilities to make a difference every single day? If you're interested in a long-term career at Capital One, the Data Science internship could be a great way to begin your career journey!\n\nThe minimum and maximum full-time annual salaries for this role are listed below, by location.\nPlease note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting.\nSalaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.\n\nCambridge, MA:\n$174,000 - $174,000 for Data Science PhD Intern\n\nChicago, IL:\n$158,000 - $158,000 for Data Science PhD Intern\n\nMcLean, VA:\n$174,000 - $174,000 for Data Science PhD Intern\n\nNew York, NY:\n$190,000 - $190,000 for Data Science PhD Intern\n\nPlano, TX:\n$158,000 - $158,000 for Data Science PhD Intern\n\nRichmond, VA:\n$158,000 - $158,000 for Data Science PhD Intern\n\nSan Francisco, CA:\n$190,000 - $190,000 for Data Science PhD Intern\n\nSan Jose, CA:\n$190,000 - $190,000 for Data Science PhD Intern\n\nCandidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate's offer letter.\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being.\nLearn more at the Capital One Careers website.\nEligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\n\nThis role is expected to accept applications for a minimum of 5 business days.\nNo agencies please.\nCapital One is an equal opportunity employer (EOE, including disability/vet) committed to non-discrimination in compliance with applicable federal, state, and local laws.\nCapital One promotes a drug-free workplace.\nCapital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City's Fair Chance Act; Philadelphia's Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.",
     "job_is_remote": false,
     "job_posted_at": "3 days ago",
     "job_posted_at_timestamp": 1771027200,
     "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "Ohio",
-    "job_city": null,
-    "job_state": "Ohio",
+    "job_location": "Falls Church, VA",
+    "job_city": "Falls Church",
+    "job_state": "Virginia",
     "job_country": "US",
-    "job_latitude": 40.417287099999996,
-    "job_longitude": -82.907123,
+    "job_latitude": 38.882334,
+    "job_longitude": -77.1710914,
     "job_benefits": [
       "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DEiJBsumzByoKjbHRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dp-Z7xvmh7PJ9qMcvAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "High School Diploma or equivalent is required",
-        "Current Rising Junior or Senior in an accredited degree program or graduated within the last 6 months is required",
-        "Proficient with Microsoft Office Suite to include Outlook, Word, Excel and PowerPoint",
-        "Good written and verbal communication skills",
-        "Ability to work in a fast-paced environment",
-        "Ability to work independently and within a team environment",
-        "Effective listening and critical thinking skills",
-        "Dependable, flexible and ability to maintain confidential information",
-        "Effective problem-solving skills with attention to detail",
-        "Fostering a Collaborative Workplace Culture - Cultivate Partnerships - Develop Self and Others - Drive Execution - Influence Others - Pursue Personal Excellence - Understand the Business"
-      ],
-      "Benefits": [
-        "The opportunity to work on projects that truly impact the company",
-        "Journey-to-the-Job seminars with CareSource leaders to network and learn about their career paths",
-        "An assigned mentor and access to former interns who earned full-time positions with CareSource",
-        "An opportunity to test what you have learned and discover where you want to go",
-        "The satisfaction of working with smart and motivated people while building new skills",
-        "The chance to experience a new city and a culture that reflects your values (flexibility for on-site, hybrid, and remote opportunities)",
-        "$35,900.00 - $57,300.00 CareSource takes into consideration a combination of a candidate's education, training, and experience as well as the position's scope and complexity, the discretion and latitude required for the role, and other external and internal data when establishing a salary level",
-        "In addition to base compensation, you may qualify for a bonus tied to company and individual performance",
-        "We are highly invested in every employee's total well-being and offer a substantial and comprehensive total rewards package"
-      ],
-      "Responsibilities": [
-        "The CareSource Intern is responsible for providing support on special projects, initiatives, and specific activities which will vary by assignment",
-        "Learn the in's and out's of the end-to-end data science process",
-        "Collaborate with data science mentor to understand background, purpose, and business application of a given project",
-        "Perform descriptive, statistical, and predictive analysis on large datasets for assigned projects",
-        "Assist in creation of deliverables including visualizations and interpretation of findings for analyses",
-        "Participate in peer reviews and feedback sessions",
-        "Participate in team/department meetings",
-        "Perform any other job duties as requested",
-        "General office environment; may be required to sit or stand for extended periods of time",
-        "Personalized orientation and mentoring programs",
-        "Company and job-specific training",
-        "Feedback opportunities throughout your first 90 days",
-        "Inclusive culture withemployee resource groups",
-        "Flexible work environment with remote opportunities and paid volunteer hours",
-        "Performance and personal growth goals with defined success metrics",
-        "Ongoing feedback process with your manager to discuss your progress and identify actions for continued growth",
-        "Potential for internal and external training and development programs, stretch assignments, expanded responsibilities and more"
-      ]
-    },
-    "job_onet_soc": "55301800",
-    "job_onet_job_zone": null,
-    "id": "lensa-com-job-v1-caresource-dayton-oh-data-science-intern-e16eb42c00d305e28446894a8c9e533c",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "kDZwsZjw_KCy41wFAAAAAA==",
-    "job_title": "Current PhD - Data Science Internship - Summer 2026 - Now Hiring",
-    "employer_name": "Capital One",
-    "employer_logo": null,
-    "employer_website": "https://www.capitalone.com",
-    "job_publisher": "Snagajob",
-    "job_employment_type": "Full-time and Part-time",
-    "job_employment_types": [
-      "FULLTIME",
-      "PARTTIME"
-    ],
-    "job_apply_link": "https://www.snagajob.com/jobs/1149898481?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Snagajob",
-        "apply_link": "https://www.snagajob.com/jobs/1149898481?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/6963b4432cbf4e44756d6357?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Bandana.com",
-        "apply_link": "https://bandana.com/jobs/6dd62236-d7d1-4306-82b5-9e48663980f8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/9910b0bb6e41e955f64935c8eed554ee?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "| USNLX Veterans Jobs - National Labor Exchange",
-        "apply_link": "https://veterans.usnlx.com/richmond-va/current-phd-data-science-internship-summer-2026/80B3CC237A6641C7A21C68B76336E256/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/current-phd-data-science-internship-summer-2026-at-capital-one-4359906395?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Ladders",
-        "apply_link": "https://www.theladders.com/job/current-phd-data-science-internship-summer-2026-capitalonefinancialcorporation-richmond-va_82798225?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "VetJobs",
-        "apply_link": "https://jobs.vetjobs.org/richmond-va/current-phd-data-science-internship-summer-2026/80B3CC237A6641C7A21C68B76336E256/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Current PhD - Data Science Internship - Summer 2026\n\nKey Role Details\n• This is a full-time paid internship program spanning ten weeks from June through August 2026.\n• Participation in the internship requires that you are located in the continental United States with in-person attendance at your assigned location, in accordance with Capital One’s , for the duration of the program.\n• Interns will be evaluated for a full-time position with their team and will work with their manager on identifying a start date upon graduation\n\nThis is a paid internship. This is a limited-time internship position, and Capital One will not sponsor a new applicant for employment authorization for this position. However, a full-time Data Science role, for which you may be considered upon completion of the internship (subject to business need, market conditions, and other factors) is eligible for employer immigration sponsorship.\n\nBasic Qualifications\n• Currently has, or is in the process of obtaining a PhD in one of the following areas with an expectation that the required degree will be obtained by August 2028 or earlier:\n• A PhD in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field)\n• Must be continuing in the same course of study of your PhD degree following completion of the internship\n• At least 6 months experience or academic work using open source programming languages for data analysis\n• At least 6 months of experience or academic work using machine learning techniques\n• At least 6 months of experience with either Python, R or SQL\n\nPreferred Qualifications:\n• Experience or academic work in inferential statistics\n• Experience or academic work with relational databases\n• Experience or academic work with large scale data analysis\n\nData Science Internship - 2026\n\nAs a Data Scientist at Capital One, you’ll be part of a high-performing team that’s embracing the latest in computing technologies to unlock opportunities that help everyday people save money and improve their financial lives. You'll help our customers solve their financial services challenges by using groundbreaking techniques. You'll make valuable contributions from day one by continuously learning, engaging in diverse sets of experiences, and building close-knit relationships across the company. Role / team focus areas could include supporting machine learning, deep learning, or quant initiatives across the enterprise.\n\nOn any given day, you might:\n• Evaluate open-source and internally-developed modeling and analytics tools using real business data\n• Integrate internal data with external data sources and APIs to discover and implement actionable insights\n• Design and craft data science models to communicate solutions to customers and company leadership\n\nWe'd love to find someone who is…\n• Intellectually curious. You ask why, you explore, and you are excited to imagine and create new ideas by inventing self-adaptive models or by tapping into unstructured data sources. You love mining data for insights into behaviors, intent and sentiment\n• A builder. You are passionate about delivering better experiences and better products to our customers and have a deep sense of ownership for your craft.\n• An experimental scientist. You love putting on your lab coat and trying new things, new combinations of tools, techniques and feature engineering approaches even if you sometimes fail.\n• A Communicator. You seek to connect with teammates and business partners to share technical ideas that resonate with audience needs across verbal and written channels.\n\nAre you ready to join a community of talented individuals who embrace customer problems and use their passion and capabilities to make a difference every single day? If you're interested in a long-term career at Capital One, the Data Science internship could be a great way to begin your career journey!\n\nThe minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.\n\nCambridge, MA: $174,000 - $174,000 for Data Science PhD Intern\n\nChicago, IL: $158,000 - $158,000 for Data Science PhD Intern\n\nMcLean, VA: $174,000 - $174,000 for Data Science PhD Intern\n\nNew York, NY: $190,000 - $190,000 for Data Science PhD Intern\n\nPlano, TX: $158,000 - $158,000 for Data Science PhD Intern\n\nRichmond, VA: $158,000 - $158,000 for Data Science PhD Intern\n\nSan Francisco, CA: $190,000 - $190,000 for Data Science PhD Intern\n\nSan Jose, CA: $190,000 - $190,000 for Data Science PhD Intern\n\nCandidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.\n\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the . Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\n\nThis role is expected to accept applications for a minimum of 5 business days.\n\nNo agencies please. Capital One is an equal opportunity employer (EOE, including disability/vet) committed to non-discrimination in compliance with applicable federal, state, and local laws. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at . All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\nFor technical support or questions about Capital One's recruiting process, please send an email to\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).\n\nCurrent PhD - Data Science Internship - Summer 2026\n\nKey Role Details\n• This is a full-time paid internship program spanning ten weeks from June through August 2026.\n• Participation in the internship requires that you are located in the continental United States with in-person attendance at your assigned location, in accordance with Capital One’s , for the duration of the program.\n• Interns will be evaluated for a full-time position with their team and will work with their manager on identifying a start date upon graduation\n\nThis is a paid internship. This is a limited-time internship position, and Capital One will not sponsor a new applicant for employment authorization for this position. However, a full-time Data Science role, for which you may be considered upon completion of the internship (subject to business need, market conditions, and other factors) is eligible for employer immigration sponsorship.\n\nBasic Qualifications\n• Currently has, or is in the process of obtaining a PhD in one of the following areas with an expectation that the required degree will be obtained by August 2028 or earlier:\n• A PhD in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field)\n• Must be continuing in the same course of study of your PhD degree following completion of the internship\n• At least 6 months experience or academic work using open source programming languages for data analysis\n• At least 6 months of experience or academic work using machine learning techniques\n• At least 6 months of experience with either Python, R or SQL\n\nPreferred Qualifications:\n• Experience or academic work in inferential statistics\n• Experience or academic work with relational databases\n• Experience or academic work with large scale data analysis\n\nData Science Internship - 2026\n\nAs a Data Scientist at Capital One, you’ll be part of a high-performing team that’s embracing the latest in computing technologies to unlock opportunities that help everyday people save money and improve their financial lives. You'll help our customers solve their financial services challenges by using groundbreaking techniques. You'll make valuable contributions from day one by continuously learning, engaging in diverse sets of experiences, and building close-knit relationships across the company. Role / team focus areas could include supporting machine learning, deep learning, or quant initiatives across the enterprise.\n\nOn any given day, you might:\n• Evaluate open-source and internally-developed modeling and analytics tools using real business data\n• Integrate internal data with external data sources and APIs to discover and implement actionable insights\n• Design and craft data science models to communicate solutions to customers and company leadership\n\nWe'd love to find someone who is…\n• Intellectually curious. You ask why, you explore, and you are excited to imagine and create new ideas by inventing self-adaptive models or by tapping into unstructured data sources. You love mining data for insights into behaviors, intent and sentiment\n• A builder. You are passionate about delivering better experiences and better products to our customers and have a deep sense of ownership for your craft.\n• An experimental scientist. You love putting on your lab coat and trying new things, new combinations of tools, techniques and feature engineering approaches even if you sometimes fail.\n• A Communicator. You seek to connect with teammates and business partners to share technical ideas that resonate with audience needs across verbal and written channels.\n\nAre you ready to join a community of talented individuals who embrace customer problems and use their passion and capabilities to make a difference every single day? If you're interested in a long-term career at Capital One, the Data Science internship could be a great way to begin your career journey!\n\nThe minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.\n\nCambridge, MA: $174,000 - $174,000 for Data Science PhD Intern\n\nChicago, IL: $158,000 - $158,000 for Data Science PhD Intern\n\nMcLean, VA: $174,000 - $174,000 for Data Science PhD Intern\n\nNew York, NY: $190,000 - $190,000 for Data Science PhD Intern\n\nPlano, TX: $158,000 - $158,000 for Data Science PhD Intern\n\nRichmond, VA: $158,000 - $158,000 for Data Science PhD Intern\n\nSan Francisco, CA: $190,000 - $190,000 for Data Science PhD Intern\n\nSan Jose, CA: $190,000 - $190,000 for Data Science PhD Intern\n\nCandidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.\n\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the . Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\n\nThis role is expected to accept applications for a minimum of 5 business days.\n\nNo agencies please. Capital One is an equal opportunity employer (EOE, including disability/vet) committed to non-discrimination in compliance with applicable federal, state, and local laws. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at . All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\nFor technical support or questions about Capital One's recruiting process, please send an email to\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1771113600,
-    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
-    "job_location": "Richmond, VA",
-    "job_city": "Richmond",
-    "job_state": "Virginia",
-    "job_country": "US",
-    "job_latitude": 37.5407246,
-    "job_longitude": -77.4360481,
-    "job_benefits": [
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DkDZwsZjw_KCy41wFAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": "HOUR",
-    "job_highlights": {
-      "Qualifications": [
         "Currently has, or is in the process of obtaining a PhD in one of the following areas with an expectation that the required degree will be obtained by August 2028 or earlier:",
         "A PhD in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field)",
         "Must be continuing in the same course of study of your PhD degree following completion of the internship",
         "At least 6 months experience or academic work using open source programming languages for data analysis",
         "At least 6 months of experience or academic work using machine learning techniques",
         "At least 6 months of experience with either Python, R or SQL",
-        "Intellectually curious",
-        "You ask why, you explore, and you are excited to imagine and create new ideas by inventing self-adaptive models or by tapping into unstructured data sources",
-        "You love mining data for insights into behaviors, intent and sentiment",
-        "You are passionate about delivering better experiences and better products to our customers and have a deep sense of ownership for your craft",
-        "An experimental scientist",
-        "You love putting on your lab coat and trying new things, new combinations of tools, techniques and feature engineering approaches even if you sometimes fail",
-        "A Communicator",
-        "You seek to connect with teammates and business partners to share technical ideas that resonate with audience needs across verbal and written channels",
-        "Current PhD - Data Science Internship - Summer 2026",
-        "However, a full-time Data Science role, for which you may be considered upon completion of the internship (subject to business need, market conditions, and other factors) is eligible for employer immigration sponsorship",
-        "Currently has, or is in the process of obtaining a PhD in one of the following areas with an expectation that the required degree will be obtained by August 2028 or earlier:",
-        "A PhD in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field)",
-        "Must be continuing in the same course of study of your PhD degree following completion of the internship",
-        "At least 6 months experience or academic work using open source programming languages for data analysis",
-        "At least 6 months of experience or academic work using machine learning techniques",
-        "At least 6 months of experience with either Python, R or SQL",
-        "Data Science Internship - 2026",
-        "We'd love to find someone who is…",
         "Intellectually curious",
         "You ask why, you explore, and you are excited to imagine and create new ideas by inventing self-adaptive models or by tapping into unstructured data sources",
         "You love mining data for insights into behaviors, intent and sentiment",
@@ -1395,23 +1409,12 @@
       ],
       "Benefits": [
         "Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked",
-        "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being",
-        "Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked",
         "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being"
       ],
       "Responsibilities": [
-        "This is a full-time paid internship program spanning ten weeks from June through August 2026",
-        "Participation in the internship requires that you are located in the continental United States with in-person attendance at your assigned location, in accordance with Capital One’s , for the duration of the program",
+        "Participation in the internship requires that you are located in the continental United States with in-person attendance at your assigned location, in accordance with Capital One's hybrid working model, for the duration of the program",
         "Interns will be evaluated for a full-time position with their team and will work with their manager on identifying a start date upon graduation",
         "However, a full-time Data Science role, for which you may be considered upon completion of the internship (subject to business need, market conditions, and other factors) is eligible for employer immigration sponsorship",
-        "You'll make valuable contributions from day one by continuously learning, engaging in diverse sets of experiences, and building close-knit relationships across the company",
-        "Role / team focus areas could include supporting machine learning, deep learning, or quant initiatives across the enterprise",
-        "Evaluate open-source and internally-developed modeling and analytics tools using real business data",
-        "Integrate internal data with external data sources and APIs to discover and implement actionable insights",
-        "Design and craft data science models to communicate solutions to customers and company leadership",
-        "This is a full-time paid internship program spanning ten weeks from June through August 2026",
-        "Participation in the internship requires that you are located in the continental United States with in-person attendance at your assigned location, in accordance with Capital One’s , for the duration of the program",
-        "Interns will be evaluated for a full-time position with their team and will work with their manager on identifying a start date upon graduation",
         "You'll make valuable contributions from day one by continuously learning, engaging in diverse sets of experiences, and building close-knit relationships across the company",
         "Role / team focus areas could include supporting machine learning, deep learning, or quant initiatives across the enterprise",
         "Evaluate open-source and internally-developed modeling and analytics tools using real business data",
@@ -1421,112 +1424,117 @@
     },
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
-    "id": "www-snagajob-com-jobs-1149898481",
+    "id": "www-jobilize-com-job-us-va-falls-church-current-phd-data-science-internship-summer-capital",
     "_source": "new_jobs"
   },
   {
-    "job_id": "YAnBu8P-8l8mmT9GAAAAAA==",
-    "job_title": "Data Science Project Intern (Advertising Team) - 2026 Start (BS/MS)",
-    "employer_name": "TikTok",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7ouq9Zz9UdCoEGYCasFxvWTNgOWqbvN-f8PMv&s=0",
-    "employer_website": "https://www.tiktok.com",
-    "job_publisher": "Indeed",
+    "job_id": "T0iFE0G9GS8EheU_AAAAAA==",
+    "job_title": "2026 Biologics Analytical R&D Intern - Data Science (AI/ML) Applications (PhD)",
+    "employer_name": "AbbVie",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbCRhcjBPx1f1v5q3V1b6UYNVmjFMT-pCgeCCr&s=0",
+    "employer_website": "https://www.abbvie.com",
+    "job_publisher": "Abbvie Careers",
     "job_employment_type": "Internship",
     "job_employment_types": [
       "INTERN"
     ],
-    "job_apply_link": "https://www.indeed.com/viewjob?jk=1ed2eabcf615fa9f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://careers.abbvie.com/en/job/2026-biologics-analytical-r-and-d-intern-data-science-ai-ml-applications-phd-in-north-chicago-il-jid-21742?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=1ed2eabcf615fa9f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Abbvie Careers",
+        "apply_link": "https://careers.abbvie.com/en/job/2026-biologics-analytical-r-and-d-intern-data-science-ai-ml-applications-phd-in-north-chicago-il-jid-21742?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Anthropology Careers & Employment | Jobs - American Anthropological Association",
+        "apply_link": "https://careercenter.americananthro.org/job/709783/2026-biologics-analytical-r-and-d-intern-data-science-ai-ml-applications-phd-/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Smart Recruiters Jobs",
+        "apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990011654096-2026-biologics-analytical-r-d-intern-data-science-ai-ml-applications-phd-?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/TikTok/Job/Data-Science-Project-Intern-(Advertising-Team)-2026-Start-(BS-MS)/-in-San-Jose,CA?jid=1387d7f89ac3f6e6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.ziprecruiter.com/c/AbbVie/Job/2026-Biologics-Analytical-R&D-Intern-Data-Science-(AI-ML)-Applications-(PhD)/-in-North-Chicago,IL?jid=d63102819ca61cdc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
       },
       {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=3a8ba34a6b4ace3c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
         "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/data-science-project-intern-advertising-team-2026-start-bs-ms-at-tiktok-4371105797?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Dice",
-        "apply_link": "https://www.dice.com/job-detail/ddeae970-377b-472c-8299-44259e0d1b4b?q=Web+API&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/3a7865a1a689be97cc70ee9ca7582f9d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.linkedin.com/jobs/view/2026-biologics-analytical-r-d-intern-data-science-ai-ml-applications-phd-at-abbvie-4322400837?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/data-science-project-intern-advertising-team-2026-start-bs-ms-tiktok-JV_IC1147436_KO0,61_KE62,68.htm?jl=1010030198423&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.glassdoor.com/job-listing/2026-biologics-analytical-r-and-d-intern-data-science-ai-ml-applications-phd-abbvie-JV_IC1128933_KO0,76_KE77,83.htm?jl=1009938620236&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/698c5e8d78b4502f12a2e4b0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Breakroom",
-        "apply_link": "https://www.breakroom.cc/en-us/jobs/listing/27963739-tiktok-data-science-project-intern-advertising-team-2026?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/2026-biologics-analytical-r-d-intern-data-science-ai-ml-applications-phd_7ea1abfa11cdb630779a1373b25f02d5669e5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Data analysis\n\nData Science Project Intern (Advertising Team) - 2026 Start (BS/MS)\n\nLocation\n:\n\nSan Jose\n\nEmployment Type\n:\n\nIntern\n\nJob Code\n:\n\nA219558\n\nResponsibilities\n\nAbout the Team:\nJoin the TikTok Ads Targeting & Privacy Data Science team, a specialized group operating at the intersection of algorithmic efficiency and user protection. As the digital advertising landscape shifts toward a privacy-first era, our team is responsible for designing the next generation of targeting signals and privacy-preserving frameworks.\n\nWe are dedicated to solving one of the industry's most complex challenges: How do we maximize advertiser ROI and personalization while rigorously protecting user privacy? We leverage advanced machine learning, causal inference, and differential privacy techniques to build resilient monetization products.\n\nAs a project intern, you will have the opportunity to engage in impactful short-term projects that provide you with a glimpse of professional real-world experience. You will gain practical skills through on-the-job learning in a fast-paced work environment and develop a deeper understanding of your career interests.\n\nApplications will be reviewed on a rolling basis - we encourage you to apply early.\n\nResponsibilities\n• Analyze Targeting Efficacy: Apply expertise in quantitative analysis to evaluate the performance of ads targeting logic and identify signal loss impact on advertiser outcomes.\n• Privacy-First Measurement: Collaborate with Engineering and Product teams to design metrics and experiments that assess the trade-offs between targeting granularity and user privacy.\n• Strategic Insights: Analyze large-scale datasets to extract insights on user consent rates, non-personalized ad inventory, and signal resilience, directly influencing the roadmap for privacy-safe monetization.\n• Product Experimentation: Design and analyze A/B tests to validate new targeting features and privacy-enhancing technologies (PETs).\n• Reporting & Monitoring: Develop dashboards to monitor the health of targeting systems and the stability of ad delivery in a changing regulatory environment.\n\nQualifications\n\nMinimum Qualifications:\n• Currently pursuing a degree in a quantitative science field such as Math, Statistics, Engineering, or a related field.\n• Proficiency in SQL and at least one scripting language (preferably R/Python).\n• Experience in using data visualization tools\n• Experience with large data sets and distributed computing (Hive/Hadoop) is a plus.\n• Proactive and independent in driving projects to completion with minimal guidance, including effective prioritization and time management skills.\n• Excellent communication skills, capable of effectively presenting analysis results and working collaboratively across diverse teams.\n• Strong curiosity; sensitive to data; good at extracting insights from data.\n\nJob Information\n\n【For Pay Transparency】Compensation Description (Hourly) - Campus Intern\n\nThe hourly rate range for this position in the selected city is $35- $55.\n\n​\n\nBenefits may vary depending on the nature of employment and the country work location. Interns have day one access to health insurance, life insurance, wellbeing benefits and more. Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second half of year). Interns who are not working 100% remote may also be eligible for housing allowance.\n\n​\n\nThe Company reserves the right to modify or change these benefits programs at any time, with or without notice.\n\n​\n\nFor Los Angeles County (unincorporated) Candidates:\n​\n\nQualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state, and local laws including the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Our company believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of the conditional offer of employment:\n\n​\n\n1. Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;\n\n​\n\n2. Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and\n\n​\n\n3. Exercising sound judgment.\n\n​\n\nAbout TikTok\n\nTikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and we also have offices in New York City, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.\n\n​\n\nWhy Join Us\n\nInspiring creativity is at the core of TikTok's mission. Our innovative product is built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and bring joy - a mission we work towards every day.\n\n​\n\nWe strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. Every challenge is an opportunity to learn and innovate as one team. We're resilient and embrace challenges as they come. By constantly iterating and fostering an \"Always Day 1\" mindset, we achieve meaningful breakthroughs for ourselves, our company, and our users. When we create and grow together, the possibilities are limitless. Join us.\n\n​\n\n​\n\nDiversity & Inclusion\n\n​\n\nTikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.\n\n​\n\nTikTok Accommodation\n\nTikTok is committed to providing reasonable accommodations in our recruitment processes for candidates with disabilities, pregnancy, sincerely held religious beliefs or other reasons protected by applicable laws. If you need assistance or a reasonable accommodation, please reach out to us at\n\nhttps://tinyurl.com/RA-request",
+    "job_description": "Company Description\n\nAbbVie's mission is to discover and deliver innovative medicines and solutions that solve serious health issues today and address the medical challenges of tomorrow. We strive to have a remarkable impact on people's lives across several key therapeutic areas – immunology, oncology, neuroscience, and eye care – and products and services in our Allergan Aesthetics portfolio. For more information about AbbVie, please visit us at www.abbvie.com. Follow @abbvie on X, Facebook, Instagram, YouTube, LinkedIn and Tik Tok.\n\nJob Description\n\nBiologics Analytical Research and Development Internship Overview\n\nEnvision spending your summer working with energetic colleagues and inspirational leaders, all while gaining world-class experience in one of the most dynamic organizations in the pharmaceutical industry. This is a reality for AbbVie Interns.\n\nThe intern in the agile and innovative Biologics Analytical Research and Development (R&D) organization will help to create and develop artificial intelligence (AI) and machine learning (ML) engines for one or more pharmaceutical development projects. This could include:\n• Evaluating various software configurations against pharmaceutical regulatory requirements to determine best options based on pre-established acceptance parameters.\n• Classifying incoming information from different external sources into specific categories, providing meaningful summaries, and identifying the appropriate subject matter experts with automated communications.\n• Designing a tool to screen and summarize available financial information and invoices of pre-defined work packages to generate an accurate estimate or prediction of costs for future work.\n• Creating a dynamic tool to automate resource planning and work package projections to predict time and financial efficiencies, allowing real-time adjustment of resources, task re-prioritizations and/or outsourcing opportunities.\n\nIn addition to delivering on AI/ML projects, key internship expectations include:\n• Following a dynamic regulatory environment to maintain quality standards, where applicable.\n• Effectively managing local and global interfaces across impacted stakeholders, including R&D and IT functions.\n• Influencing mid- and long-term strategic focus areas while articulating new opportunities for AI/ML applications within the business.\n• Building strong relationships with peers to create and implement technology solutions.\n• Learning fast, grasping the essence, changing course quickly, and demonstrating an openness to suggestions where indicated.\n\nQualifications\n\nMinimum Qualifications \n• Currently enrolled in university, pursuing a PhD in computer or data science (or other related field) with a focus on artificial intelligence, machine learning, computational linguistics, natural language processing, or equivalent.\n• Must be enrolled in university for at least one semester following the internship.\n• Strong written and verbal communication skills.\n• Strong critical thinking and collaboration skills.\n• Skilled in managing tasks efficiently with an emphasis on prioritization and productivity.\n• Demonstrates reliability, responsibility, and dedication in all aspects of work.\n\nPreferred Qualifications \n• Expected graduation date between December 2026 – July 2027.\n• Familiarity with pharmaceutical development preferred.\n• Demonstrated knowledge and experience in the application of artificial intelligence and machine learning in professional industries.\n\nAdditional Information\n\nApplicable only to applicants applying to a position in any location with pay disclosure requirements under state or local law: ​\n\nBenefits and Amenities:​\n• Competitive pay​\n• Relocation support for eligible students​\n• Select wellness benefits and paid holiday / sick time ​\n• The compensation range described below is the range of possible base pay compensation that the Company believes in good faith it will pay for this role at the time of this posting based on the job grade for this position. Individual compensation paid within this range will depend on many factors including geographic location, and we may ultimately pay more or less than the posted range. This range may be modified in the future.​\n\nNote: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, incentive, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole and absolute discretion unless and until paid and may be modified at the Company’s sole and absolute discretion, consistent with applicable law.\n\nAbbVie is an equal opportunity employer and is committed to operating with integrity, driving innovation, transforming lives and serving our community.  Equal Opportunity Employer/Veterans/Disabled.\n\nUS & Puerto Rico only - to learn more, visit https://www.abbvie.com/join-us/equal-employment-opportunity-employer.html\n\nUS & Puerto Rico applicants seeking a reasonable accommodation, click here to learn more:\n\nhttps://www.abbvie.com/join-us/reasonable-accommodations.html",
     "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "San Jose, CA",
-    "job_city": "San Jose",
-    "job_state": "California",
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "North Chicago, IL",
+    "job_city": "North Chicago",
+    "job_state": "Illinois",
     "job_country": "US",
-    "job_latitude": 37.33874,
-    "job_longitude": -121.88525249999999,
+    "job_latitude": 42.325578,
+    "job_longitude": -87.8411818,
     "job_benefits": [
-      "health_insurance",
-      "paid_time_off"
+      "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DYAnBu8P-8l8mmT9GAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 35,
-    "job_max_salary": 55,
-    "job_salary_period": "HOUR",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DT0iFE0G9GS8EheU_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Currently pursuing a degree in a quantitative science field such as Math, Statistics, Engineering, or a related field",
-        "Proficiency in SQL and at least one scripting language (preferably R/Python)",
-        "Experience in using data visualization tools",
-        "Proactive and independent in driving projects to completion with minimal guidance, including effective prioritization and time management skills",
-        "Excellent communication skills, capable of effectively presenting analysis results and working collaboratively across diverse teams",
-        "Strong curiosity; sensitive to data; good at extracting insights from data"
+        "Currently enrolled in university, pursuing a PhD in computer or data science (or other related field) with a focus on artificial intelligence, machine learning, computational linguistics, natural language processing, or equivalent",
+        "Must be enrolled in university for at least one semester following the internship",
+        "Strong written and verbal communication skills",
+        "Strong critical thinking and collaboration skills",
+        "Skilled in managing tasks efficiently with an emphasis on prioritization and productivity",
+        "Demonstrates reliability, responsibility, and dedication in all aspects of work"
       ],
       "Benefits": [
-        "The hourly rate range for this position in the selected city is $35- $55",
-        "Interns have day one access to health insurance, life insurance, wellbeing benefits and more",
-        "Interns also receive 10 paid holidays per year and paid sick time (56 hours if hired in first half of year, 40 if hired in second half of year)"
+        "Competitive pay​",
+        "Relocation support for eligible students​",
+        "Select wellness benefits and paid holiday / sick time ​",
+        "The compensation range described below is the range of possible base pay compensation that the Company believes in good faith it will pay for this role at the time of this posting based on the job grade for this position",
+        "Individual compensation paid within this range will depend on many factors including geographic location, and we may ultimately pay more or less than the posted range",
+        "The amount and availability of any bonus, commission, incentive, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole and absolute discretion unless and until paid and may be modified at the Company’s sole and absolute discretion, consistent with applicable law"
       ],
       "Responsibilities": [
-        "As a project intern, you will have the opportunity to engage in impactful short-term projects that provide you with a glimpse of professional real-world experience",
-        "You will gain practical skills through on-the-job learning in a fast-paced work environment and develop a deeper understanding of your career interests",
-        "Analyze Targeting Efficacy: Apply expertise in quantitative analysis to evaluate the performance of ads targeting logic and identify signal loss impact on advertiser outcomes",
-        "Privacy-First Measurement: Collaborate with Engineering and Product teams to design metrics and experiments that assess the trade-offs between targeting granularity and user privacy",
-        "Strategic Insights: Analyze large-scale datasets to extract insights on user consent rates, non-personalized ad inventory, and signal resilience, directly influencing the roadmap for privacy-safe monetization",
-        "Product Experimentation: Design and analyze A/B tests to validate new targeting features and privacy-enhancing technologies (PETs)",
-        "Reporting & Monitoring: Develop dashboards to monitor the health of targeting systems and the stability of ad delivery in a changing regulatory environment",
-        "Interacting and occasionally having unsupervised contact with internal/external clients and/or colleagues;",
-        "Appropriately handling and managing confidential information including proprietary and trade secret information and access to information technology systems; and"
+        "Envision spending your summer working with energetic colleagues and inspirational leaders, all while gaining world-class experience in one of the most dynamic organizations in the pharmaceutical industry",
+        "The intern in the agile and innovative Biologics Analytical Research and Development (R&D) organization will help to create and develop artificial intelligence (AI) and machine learning (ML) engines for one or more pharmaceutical development projects",
+        "Evaluating various software configurations against pharmaceutical regulatory requirements to determine best options based on pre-established acceptance parameters",
+        "Classifying incoming information from different external sources into specific categories, providing meaningful summaries, and identifying the appropriate subject matter experts with automated communications",
+        "Designing a tool to screen and summarize available financial information and invoices of pre-defined work packages to generate an accurate estimate or prediction of costs for future work",
+        "Creating a dynamic tool to automate resource planning and work package projections to predict time and financial efficiencies, allowing real-time adjustment of resources, task re-prioritizations and/or outsourcing opportunities",
+        "Following a dynamic regulatory environment to maintain quality standards, where applicable",
+        "Effectively managing local and global interfaces across impacted stakeholders, including R&D and IT functions",
+        "Influencing mid- and long-term strategic focus areas while articulating new opportunities for AI/ML applications within the business",
+        "Building strong relationships with peers to create and implement technology solutions",
+        "Learning fast, grasping the essence, changing course quickly, and demonstrating an openness to suggestions where indicated"
       ]
     },
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
-    "id": "www-indeed-com-viewjob",
+    "id": "careers-abbvie-com-en-job-2026-biologics-analytical-r-and-d-intern-data-science-ai-ml-applications-phd-in-north-chicago-il-jid-21742",
     "_source": "new_jobs"
   }
 ]
