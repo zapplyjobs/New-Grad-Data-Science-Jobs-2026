@@ -9,16 +9,16 @@
 
 # Data Science Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-4-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-4-blue?style=flat&logo=building)
-![Data Analyst](https://img.shields.io/badge/Data_Analyst-4-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-2-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-2-blue?style=flat&logo=building)
+![Data Scientist](https://img.shields.io/badge/Data_Scientist-2-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time data science, analytics, and machine learning jobs from 4+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 4+ fresh opportunities for new graduates, data science students, and entry-level data analysts.</p>
+<p align="center">🚀 Real-time data science, analytics, and machine learning jobs from 2+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 2+ fresh opportunities for new graduates, data science students, and entry-level data analysts.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -69,14 +69,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/dsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>📊 <strong>Data Analyst</strong> (4 positions)</h3></summary>
+<summary><h3>🔬 <strong>Data Scientist</strong> (2 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Patriot Group International Inc.** | Data Automation Analyst (INTERNS... 🏠 | Herndon, Virginia | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/data-automation-analyst-internship-at-patriot-group-international-inc-4374180142?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Wayne RESA** | Student Application Business Ana... | Detroit, Michigan | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://career.io/job/student-application-business-analyst-detroit-wayne-resa-036b0f10b4122a3071c21873a85baefd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Intuitive Surgical** | Business Systems Analyst | Sunnyvale, California | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.intuitive.com/en/jobs/744000108317327/JOB210784/business-systems-analyst/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Walmart** | Manager, Business Analysis And I... | Goshen, Arkansas | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Walmart/Job/Manager,-Business-Analysis-And-Insights-Sales-Strategy/-in-Goshen,AR?jid=36418b4ed2ee2af3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **IIIIIIUS** | Data Mining and Analytics (Datab... 🇺🇸 🏠 | Arlington, Virginia | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.icf.com/us/en/job/R2502772/Data-Mining-and-Analytics-Databricks-Engineer-Future-Need-Security-Clearance-Required?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Northrop Grumman** | Data Analytics Engineer Level 3/4 🇺🇸 | Sunnyvale, California | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.northropgrumman.com/careers/job/1340069874797-data-analytics-engineer-level-3-4-united-states-california-sunnyvale?domain=ngc.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -134,10 +132,29 @@ Our team reviews within 24-48 hours and approved jobs are added to the main list
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 
+---
+
+<details>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 0 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+
+### 📊 **Archived Job Stats**
+- **📁 Total Jobs**: 0 positions
+- **🏢 Companies**: 2 companies
+- **🏷️ Top Category**: Software Engineering
+
+| Company | Role | Location | Posted | Level | Apply |
+|---------|------|----------|--------|-------|-------|
+| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
+
+</details>
+
+---
+
+
 
 <div align="center">
 
-**🎯 4 current opportunities from 4 companies**
+**🎯 2 current opportunities from 2 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
