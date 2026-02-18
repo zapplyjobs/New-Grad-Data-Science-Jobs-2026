@@ -1,5 +1,82 @@
 [
   {
+    "job_id": "I7qI5yGwFyuN4u8zAAAAAA==",
+    "job_title": "Quantitative Researcher (Cross-Asset) – Systematic Fund – up to $300,000 base + exceptional bonus – New York",
+    "employer_name": "Hunter Bond",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgqf5DgpCX6Ql6O9h7qJZbMNAzeB-yWjfsIfG&s=0",
+    "employer_website": "https://www.hunterbond.com",
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/quantitative-researcher-cross-asset-%E2%80%93-systematic-fund-%E2%80%93-up-to-%24300-000-base-%2B-exceptional-bonus-%E2%80%93-new-york-at-hunter-bond-4371987275?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/quantitative-researcher-cross-asset-%E2%80%93-systematic-fund-%E2%80%93-up-to-%24300-000-base-%2B-exceptional-bonus-%E2%80%93-new-york-at-hunter-bond-4371987275?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/6994b556ce78e77b4fd8b4ca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/27235ab4c6ea7a5a99c349e26d7268a0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job title: Quantitative Researcher (Cross-Asset)\n\nFirm: Pioneering Quantitative Buy-Side Fund – Multidisciplinary team of Mathematicians, Physicists, Technologists, Academics, and finance industry experts.\n\nSalary: Up to $300,000 starting base + exceptional bonus and package.\n\nLocation: New York (Hybrid 2/3days onsite)\n\nThis firm is a scientific and data-driven systematic fund who are currently at the forefront of computational finance.\n\nAs a result of their stellar and continued success in the industry, they’re currently aggressively scaling their quantitative strategies businesses in New York. This is an invaluable opportunity to develop and implement systematic strategies alongside genuine experts in the field of quantitative trading.\n\nAdditional Information:\n• Pioneer of computational finance. Performing at the forefront of the quant industry for the last 3 decades.\n• Developing quantitative strategies in systematic trading since the 1990s.\n• Trading across an array of investment strategies and products (Equities, Futures, FI, Macro, Vol).\n• Multidisciplinary team of exceptional subject matter STEM experts across Mathematics, Physics, CompSci, and Engineering.\n• Highly collaborative trading environment with data and execution managed centrally.\n\nRole:\n• Explore an array of complex and noisy data sets using mathematical models and sophisticated data analysis techniques to identify statistical patterns.\n• Contribute towards conceptualizing systematic strategies by developing and combining novel alphas.\n• Leverage sophisticated statistical methods to understand and manage risk, profitability and transaction costs in conceptualizing new trading ideas.\n• Back test and implement productionized trading models in a live trading environment.\n• Lead the full research lifecycle strategy from data ingestion to alpha generation.\n\nRequired skills:\n• Academic degree in mathematics, statistics, physics, computer science, or another highly quantitative discipline.\n• Knowledge of algorithms, data structures, probability and statistics.\n• Experience of dealing with a multitude of noisy data challenges of working in a data-driven environment.\n• Proficient in either C++ or Python.\n\nDesirable skills:\n• Experience with translating mathematical models and algorithms into code.\n• Proficient in exploring and attaining value from noisy and complex data sets (alt, market, options, tick).\n\nIf this opportunity is of interest, please apply direct or email me directly at asalim@hunterbond.com .",
+    "job_is_remote": false,
+    "job_posted_at": "18 hours ago",
+    "job_posted_at_timestamp": 1771347600,
+    "job_posted_at_datetime_utc": "2026-02-17T17:00:00.000Z",
+    "job_location": "New York, NY",
+    "job_city": "New York",
+    "job_state": "New York",
+    "job_country": "US",
+    "job_latitude": 40.7127753,
+    "job_longitude": -74.0059728,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DI7qI5yGwFyuN4u8zAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Multidisciplinary team of exceptional subject matter STEM experts across Mathematics, Physics, CompSci, and Engineering",
+        "Highly collaborative trading environment with data and execution managed centrally",
+        "Academic degree in mathematics, statistics, physics, computer science, or another highly quantitative discipline",
+        "Knowledge of algorithms, data structures, probability and statistics",
+        "Experience of dealing with a multitude of noisy data challenges of working in a data-driven environment",
+        "Proficient in either C++ or Python",
+        "Experience with translating mathematical models and algorithms into code",
+        "Proficient in exploring and attaining value from noisy and complex data sets (alt, market, options, tick)"
+      ],
+      "Benefits": [
+        "Salary: Up to $300,000 starting base + exceptional bonus and package"
+      ],
+      "Responsibilities": [
+        "Performing at the forefront of the quant industry for the last 3 decades",
+        "Developing quantitative strategies in systematic trading since the 1990s",
+        "Trading across an array of investment strategies and products (Equities, Futures, FI, Macro, Vol)",
+        "Explore an array of complex and noisy data sets using mathematical models and sophisticated data analysis techniques to identify statistical patterns",
+        "Contribute towards conceptualizing systematic strategies by developing and combining novel alphas",
+        "Leverage sophisticated statistical methods to understand and manage risk, profitability and transaction costs in conceptualizing new trading ideas",
+        "Back test and implement productionized trading models in a live trading environment",
+        "Lead the full research lifecycle strategy from data ingestion to alpha generation"
+      ]
+    },
+    "job_onet_soc": "41303100",
+    "job_onet_job_zone": "3",
+    "id": "www-linkedin-com-jobs-view-quantitative-researcher-cross-asset-e2-80-93-systematic-fund-e2-80-93-up-to-24300-000-base-2b-exceptional-bonus-e2-80-93-new-york-at-hunter-bond-4371987275",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "XvVIKIGDo2vaAMHLAAAAAA==",
     "job_title": "Quantitative Analyst",
     "employer_name": "The D. E. Shaw Group",
@@ -75,83 +152,6 @@
     "job_onet_soc": "13205100",
     "job_onet_job_zone": "4",
     "id": "www-deshaw-com-careers-quantitative-analyst-2636",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "I7qI5yGwFyuN4u8zAAAAAA==",
-    "job_title": "Quantitative Researcher (Cross-Asset) – Systematic Fund – up to $300,000 base + exceptional bonus – New York",
-    "employer_name": "Hunter Bond",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgqf5DgpCX6Ql6O9h7qJZbMNAzeB-yWjfsIfG&s=0",
-    "employer_website": "https://www.hunterbond.com",
-    "job_publisher": "LinkedIn",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/quantitative-researcher-cross-asset-%E2%80%93-systematic-fund-%E2%80%93-up-to-%24300-000-base-%2B-exceptional-bonus-%E2%80%93-new-york-at-hunter-bond-4371987275?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/quantitative-researcher-cross-asset-%E2%80%93-systematic-fund-%E2%80%93-up-to-%24300-000-base-%2B-exceptional-bonus-%E2%80%93-new-york-at-hunter-bond-4371987275?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/6994b556ce78e77b4fd8b4ca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/27235ab4c6ea7a5a99c349e26d7268a0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Job title: Quantitative Researcher (Cross-Asset)\n\nFirm: Pioneering Quantitative Buy-Side Fund – Multidisciplinary team of Mathematicians, Physicists, Technologists, Academics, and finance industry experts.\n\nSalary: Up to $300,000 starting base + exceptional bonus and package.\n\nLocation: New York (Hybrid 2/3days onsite)\n\nThis firm is a scientific and data-driven systematic fund who are currently at the forefront of computational finance.\n\nAs a result of their stellar and continued success in the industry, they’re currently aggressively scaling their quantitative strategies businesses in New York. This is an invaluable opportunity to develop and implement systematic strategies alongside genuine experts in the field of quantitative trading.\n\nAdditional Information:\n• Pioneer of computational finance. Performing at the forefront of the quant industry for the last 3 decades.\n• Developing quantitative strategies in systematic trading since the 1990s.\n• Trading across an array of investment strategies and products (Equities, Futures, FI, Macro, Vol).\n• Multidisciplinary team of exceptional subject matter STEM experts across Mathematics, Physics, CompSci, and Engineering.\n• Highly collaborative trading environment with data and execution managed centrally.\n\nRole:\n• Explore an array of complex and noisy data sets using mathematical models and sophisticated data analysis techniques to identify statistical patterns.\n• Contribute towards conceptualizing systematic strategies by developing and combining novel alphas.\n• Leverage sophisticated statistical methods to understand and manage risk, profitability and transaction costs in conceptualizing new trading ideas.\n• Back test and implement productionized trading models in a live trading environment.\n• Lead the full research lifecycle strategy from data ingestion to alpha generation.\n\nRequired skills:\n• Academic degree in mathematics, statistics, physics, computer science, or another highly quantitative discipline.\n• Knowledge of algorithms, data structures, probability and statistics.\n• Experience of dealing with a multitude of noisy data challenges of working in a data-driven environment.\n• Proficient in either C++ or Python.\n\nDesirable skills:\n• Experience with translating mathematical models and algorithms into code.\n• Proficient in exploring and attaining value from noisy and complex data sets (alt, market, options, tick).\n\nIf this opportunity is of interest, please apply direct or email me directly at asalim@hunterbond.com .",
-    "job_is_remote": false,
-    "job_posted_at": "17 hours ago",
-    "job_posted_at_timestamp": 1771351200,
-    "job_posted_at_datetime_utc": "2026-02-17T18:00:00.000Z",
-    "job_location": "New York, NY",
-    "job_city": "New York",
-    "job_state": "New York",
-    "job_country": "US",
-    "job_latitude": 40.7127753,
-    "job_longitude": -74.0059728,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DI7qI5yGwFyuN4u8zAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Multidisciplinary team of exceptional subject matter STEM experts across Mathematics, Physics, CompSci, and Engineering",
-        "Highly collaborative trading environment with data and execution managed centrally",
-        "Academic degree in mathematics, statistics, physics, computer science, or another highly quantitative discipline",
-        "Knowledge of algorithms, data structures, probability and statistics",
-        "Experience of dealing with a multitude of noisy data challenges of working in a data-driven environment",
-        "Proficient in either C++ or Python",
-        "Experience with translating mathematical models and algorithms into code",
-        "Proficient in exploring and attaining value from noisy and complex data sets (alt, market, options, tick)"
-      ],
-      "Benefits": [
-        "Salary: Up to $300,000 starting base + exceptional bonus and package"
-      ],
-      "Responsibilities": [
-        "Performing at the forefront of the quant industry for the last 3 decades",
-        "Developing quantitative strategies in systematic trading since the 1990s",
-        "Trading across an array of investment strategies and products (Equities, Futures, FI, Macro, Vol)",
-        "Explore an array of complex and noisy data sets using mathematical models and sophisticated data analysis techniques to identify statistical patterns",
-        "Contribute towards conceptualizing systematic strategies by developing and combining novel alphas",
-        "Leverage sophisticated statistical methods to understand and manage risk, profitability and transaction costs in conceptualizing new trading ideas",
-        "Back test and implement productionized trading models in a live trading environment",
-        "Lead the full research lifecycle strategy from data ingestion to alpha generation"
-      ]
-    },
-    "job_onet_soc": "41303100",
-    "job_onet_job_zone": "3",
-    "id": "www-linkedin-com-jobs-view-quantitative-researcher-cross-asset-e2-80-93-systematic-fund-e2-80-93-up-to-24300-000-base-2b-exceptional-bonus-e2-80-93-new-york-at-hunter-bond-4371987275",
     "_source": "new_jobs"
   },
   {
@@ -233,67 +233,6 @@
     "job_onet_soc": "13205100",
     "job_onet_job_zone": "4",
     "id": "www-efinancialcareers-com-jobs-usa-va-mclean-senior_associate_quantitative_analyst_-_funds_transfer_pricing_cma-id23820373",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "WRVyTPJP2SpcwSyaAAAAAA==",
-    "job_title": "Quantitative Foundation Associate or Distinguished Full Professor of Data Science",
-    "employer_name": "Inside Higher Ed",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK_QXHiaVrFdqnJ7u6bmQkN28cM10ChdZuUekm&s=0",
-    "employer_website": "https://www.insidehighered.com",
-    "job_publisher": "LinkedIn",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/quantitative-foundation-associate-or-distinguished-full-professor-of-data-science-at-inside-higher-ed-4373219139?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/quantitative-foundation-associate-or-distinguished-full-professor-of-data-science-at-inside-higher-ed-4373219139?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Description\n\nThe School of Data Science at the University of Virginia (UVA) is assembling a world-class faculty with broad expertise in data science to foster and advance our research agenda and educational programs. We seek candidates for the Quantitative Foundation professorship in data science, at the rank of tenured associate professor or distinguished full professor. Ideal candidates will have demonstrated internationally recognized achievement in data science and made fundamental contributions to the discipline. The endowed positions are made possible by a generous gift from the Quantitative Foundation to establish the School of Data Science.\n\nCandidates for endowed faculty positions (associate and full professor with tenure) must demonstrate a record of excellence in research, teaching, and advising, in data science and/or closely related fields, and must have established a national/international reputation for contribution to the field in methodology, application, and impact. Quantitative Foundation endowed faculty are expected to maintain internationally recognized research programs, successfully compete for external research funding, instruct classes (in-person and online), and advise and mentor undergraduate and graduate students. They are expected to elevate the school’s reputation as an internationally recognized leader in data science. Enthusiasm for growing and educating the next generation of data scientists, both at the undergraduate and graduate level, is highly desirable. Faculty will have a unique opportunity to shape the culture and direction of both a new discipline and a new school.\n\nQualifiations\n\nCandidates must have earned a PhD in Data Science or a related field (e.g., STEM, social science or humanities degree with a data science focus). Appointments are made in the School of Data Science with the potential for joint or courtesy appointments in other schools as applicable.\n\nCandidates with backgrounds and experiences that are underrepresented in data science are especially encouraged to apply. A commitment to advancing the University's mission is essential for all candidates (https://provost.virginia.edu/faculty-handbook/mission-statement-university-virginia).\n\nRank will be commensurate with academic and industry experience. Appointments will be available on 9-month contracts.\n\nApplication Instructions\n\nComplete an online application and include the following.\n• A current Curriculum Vitae or Resume.\n• A Cover Letter that addresses your experience and qualification for this position and your interest in data science.\n• Please describe your past research endeavors and contributions as well as your future research goals (1-3 pages).\n• A teaching statement that describes your teaching and mentoring experiences, and how they align with the UVA’s mission statement (https://provost.virginia.edu/faculty-handbook/mission-statement-university-virginia). This statement should focus on your past or planned educational activities and how you see data science education evolving over the next decade (1-3 pages).\n• Three reference letters.\n• If available, reviews & course evaluations from up to 3 educational courses, seminars, and/or short courses.\n\nReview of applicants will begin on or around November 22, 2025 and the positions will remain open until filled. For questions about the application process please contact Jennifer Kirkham, Manager for Faculty Affairs at the School of Data Science, at sdsfacultyaffairs@virginia.edu.",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "Rose Hill, VA",
-    "job_city": "Rose Hill",
-    "job_state": "Virginia",
-    "job_country": "US",
-    "job_latitude": 36.6718216,
-    "job_longitude": -83.3675988,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DWRVyTPJP2SpcwSyaAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Candidates must have earned a PhD in Data Science or a related field (e.g., STEM, social science or humanities degree with a data science focus)",
-        "Candidates with backgrounds and experiences that are underrepresented in data science are especially encouraged to apply",
-        "A commitment to advancing the University's mission is essential for all candidates (https://provost.virginia.edu/faculty-handbook/mission-statement-university-virginia)",
-        "Rank will be commensurate with academic and industry experience",
-        "A current Curriculum Vitae or Resume",
-        "A Cover Letter that addresses your experience and qualification for this position and your interest in data science",
-        "This statement should focus on your past or planned educational activities and how you see data science education evolving over the next decade (1-3 pages)"
-      ],
-      "Responsibilities": [
-        "Candidates for endowed faculty positions (associate and full professor with tenure) must demonstrate a record of excellence in research, teaching, and advising, in data science and/or closely related fields, and must have established a national/international reputation for contribution to the field in methodology, application, and impact",
-        "Quantitative Foundation endowed faculty are expected to maintain internationally recognized research programs, successfully compete for external research funding, instruct classes (in-person and online), and advise and mentor undergraduate and graduate students",
-        "They are expected to elevate the school’s reputation as an internationally recognized leader in data science",
-        "Enthusiasm for growing and educating the next generation of data scientists, both at the undergraduate and graduate level, is highly desirable",
-        "Appointments are made in the School of Data Science with the potential for joint or courtesy appointments in other schools as applicable",
-        "If available, reviews & course evaluations from up to 3 educational courses, seminars, and/or short courses"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-linkedin-com-jobs-view-quantitative-foundation-associate-or-distinguished-full-professor-of-data-science-at-inside-higher-ed-4373219139",
     "_source": "new_jobs"
   },
   {
@@ -406,125 +345,137 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "WFJLQyhOyqmN6f6iAAAAAA==",
-    "job_title": "Quantitative Model Development Analyst",
-    "employer_name": "Truist Bank",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAQvHtKgBfNLGa9Q4Q9VhW1_ciInIadv0KKU0D&s=0",
-    "employer_website": "https://www.truist.com",
-    "job_publisher": "Careers At Truist Bank",
+    "job_id": "DKS99ftQ0yRGudAiAAAAAA==",
+    "job_title": "Quantitative Researcher: Monetization",
+    "employer_name": "SOTA Search",
+    "employer_logo": null,
+    "employer_website": "https://sotasearch.ai",
+    "job_publisher": "LinkedIn",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://careers.truist.com/us/en/job/TBJTBFUSR0111214EXTERNALENUS/Quantitative-Model-Development-Analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/quantitative-researcher-monetization-at-sota-search-4373956229?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Careers At Truist Bank",
-        "apply_link": "https://careers.truist.com/us/en/job/TBJTBFUSR0111214EXTERNALENUS/Quantitative-Model-Development-Analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Truist/Job/Quantitative-Model-Development-Analyst/-in-Winston-Salem,NC?jid=b3ab04f52d933632&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
         "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/quantitative-model-development-analyst-at-truist-4371824116?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.linkedin.com/jobs/view/quantitative-researcher-monetization-at-sota-search-4373956229?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Georgia Fintech Academy Job Board",
-        "apply_link": "https://jobs.georgiafintechacademy.org/companies/truist/jobs/67530067-quantitative-model-development-analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Black Career Network",
-        "apply_link": "https://www.blackcareernetwork.com/job/quantitative-model-development-analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/698d1bb40f6f7e7a2ce8d620?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Breakroom",
-        "apply_link": "https://www.breakroom.cc/en-us/jobs/listing/28318057-truist-quantitative-model-development-analyst-winston-salem?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=fda91dd0dccd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/ceca52e555f8b7d797abefd6140ca48c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "The position is described below. If you want to apply, click the Apply Now button at the top or bottom of this page. After you click Apply Now and complete your application, you'll be invited to create a profile, which will let you see your application status and any communications. If you already have a profile with us, you can log in to check status.\n\nNeed Help?\n\nIf you have a disability and need assistance with the application, you can request a reasonable accommodation. Send an email to Accessibility (accommodation requests only; other inquiries won't receive a response).\n\nRegular or Temporary:\nRegular\n\nLanguage Fluency: English (Required)\n\nWork Shift:\n1st shift (United States of America)\n\nPlease review the following job description:\n• Focus on aspects of model development specific to finance and risk measurement estimation methodologies.\n• Responsible for aspects of the development life cycle of quantitative models.\n• Assist with identifying and escalating model risks.\n• Develop awareness of key partnerships specific to models within targeted scope of responsibility.\n• Area of model development include market, commercial, retail, credit, financial crimes, CCAR, CECL, finance and compliance risk.\n• Participate in model reviews and validation finding mitigation following deployment.\n• Conduct specific aspects of the model development life cycle. The model development life cycle includes data acquisition, assessing data integrity, model development, documentation, implementation assistance and assisting with closing assurance provider issue related to the model.\n• Maintain and execute monitoring, performance reporting, and change-management processes. Work with stakeholders to ensure models fulfill the business objectives set for them.\n• Ensure assigned parts of model development projects and processes comply with Truist requirements for model risk management and other policy requirements.\n• Participate in mentoring and training to accelerate model development in areas of techniques, process and business knowledge.\n• Assist with user understanding and acceptance of models and associate analytics, including written and verbal presentations to model users, stakeholders, managers and oversight groups.\n• Address model questions from partners within the firm as needed, including assurance providers.\n• Assist with identifying, recruiting, and maintaining, quantitative talent.\n\nRequirements\n• Must have a Master’s degree in Statistics, Econometrics, Applied Mathematics, or other applied quantitative science.\n• Must have 1 year of experience in positions performing quantitative or data analytics with the following:\n• Model development using SAS, Python (including Pandas and Numpy), R, Stata, Excel, and Tableau.\n• Writing SAS data step code, SQL queries using SAS PROC SQL, and Excel VBA code.\n• Model development methodology, including data collection, data cleaning, variable identification and selection and model testing.\n• Statistical methods, including classical statistics, statistical deep learning, machine learning, categorical analysis, A/B testing, time-series, and multivariate statistical analysis.\n• Analyzing and profiling data.\n• Developing statistical models.\n• Writing technical documentation.\n• Presenting project results.\n• Position may be eligible to work hybrid/remotely but is based out of and reports to Truist offices in Winston-Salem, NC. Must be available to travel to Winston-Salem, NC regularly for meetings and reviews with manager and project teams within 24-hours’ notice.\n\nGeneral Description of Available Benefits for Eligible Employees of Truist Financial Corporation: All regular teammates (not temporary or contingent workers) working 20 hours or more per week are eligible for benefits, though eligibility for specific benefits may be determined by the division of Truist offering the position. Truist offers medical, dental, vision, life insurance, disability, accidental death and dismemberment, tax-preferred savings accounts, and a 401k plan to teammates. Teammates also receive no less than 10 days of vacation (prorated based on date of hire and by full-time or part-time status) during their first year of employment, along with 10 sick days (also prorated), and paid holidays. For more details on Truist’s generous benefit plans, please visit our Benefits site. Depending on the position and division, this job may also be eligible for Truist’s defined benefit pension plan, restricted stock units, and/or a deferred compensation plan. As you advance through the hiring process, you will also learn more about the specific benefits available for any non-temporary position for which you apply, based on full-time or part-time status, position, and division of work.\n\nTruist is an Equal Opportunity Employer that does not discriminate on the basis of race, gender, color, religion, citizenship or national origin, age, sexual orientation, gender identity, disability, veteran status, or other classification protected by law. Truist is a Drug Free Workplace.\n\nEEO is the Law E-Verify IER Right to Work",
+    "job_description": "About the job\n\nRole: Quantitative Researcher (Monetization - Intraday)\n\nSeniority: Mid-Level\n\nLocation: NYC\n\nIndustry: Hedge Funds\n\nOverview\n\nA leading systematic trading group is expanding a newly formed monetization team in their NYC office. We’re seeking mid-level quantitative researchers to contribute across the investment lifecycle and drive profitability.\n\nYou’ll join a collaborative, intellectually rigorous environment, partnering closely with portfolio managers and senior systematic research leads. The ideal candidate combines hands on experience with actionable domain knowledge to drive measurable trading profitability.\n\nThe Role\n• Drive improvements across the investment lifecycle: Alpha research, portfolio construction, backtesting, simulation and execution research.\n• Research and enhance execution tactics using high resolution market microstructure data.\n• Collaborate closely with PMs, data engineers, and technologists to deploy models into production and continuously optimise performance.\n• Proactively adapt strategies to evolving market dynamics.\n\nExperience & Qualifications\n• 5+ Years industry experience.\n• Proven analysis experience in intraday equities execution\n• Proficient coding skills in Python, C++, or similar.\n• Background in Stats, ML or CS.\n\nA generous total compensation package is on offer.\n\nFor more information, reach out in confidence -> www.linkedin.com/in/zachary-g-b300789b/",
     "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1771200000,
-    "job_posted_at_datetime_utc": "2026-02-16T00:00:00.000Z",
-    "job_location": "Winston-Salem, NC",
-    "job_city": "Winston-Salem",
-    "job_state": "North Carolina",
+    "job_posted_at": "24 hours ago",
+    "job_posted_at_timestamp": 1771286400,
+    "job_posted_at_datetime_utc": "2026-02-17T00:00:00.000Z",
+    "job_location": "New York, NY",
+    "job_city": "New York",
+    "job_state": "New York",
     "job_country": "US",
-    "job_latitude": 36.0948221,
-    "job_longitude": -80.2434028,
-    "job_benefits": [
-      "dental_coverage",
-      "paid_time_off",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DWFJLQyhOyqmN6f6iAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_latitude": 40.7127753,
+    "job_longitude": -74.0059728,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DDKS99ftQ0yRGudAiAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Language Fluency: English (Required)",
-        "Must have a Master’s degree in Statistics, Econometrics, Applied Mathematics, or other applied quantitative science",
-        "Must have 1 year of experience in positions performing quantitative or data analytics with the following:",
-        "Model development using SAS, Python (including Pandas and Numpy), R, Stata, Excel, and Tableau",
-        "Writing SAS data step code, SQL queries using SAS PROC SQL, and Excel VBA code",
-        "Model development methodology, including data collection, data cleaning, variable identification and selection and model testing",
-        "Statistical methods, including classical statistics, statistical deep learning, machine learning, categorical analysis, A/B testing, time-series, and multivariate statistical analysis",
-        "Analyzing and profiling data",
-        "Position may be eligible to work hybrid/remotely but is based out of and reports to Truist offices in Winston-Salem, NC",
-        "Must be available to travel to Winston-Salem, NC regularly for meetings and reviews with manager and project teams within 24-hours’ notice"
+        "The ideal candidate combines hands on experience with actionable domain knowledge to drive measurable trading profitability",
+        "5+ Years industry experience",
+        "Proven analysis experience in intraday equities execution",
+        "Proficient coding skills in Python, C++, or similar",
+        "Background in Stats, ML or CS"
       ],
       "Benefits": [
-        "General Description of Available Benefits for Eligible Employees of Truist Financial Corporation: All regular teammates (not temporary or contingent workers) working 20 hours or more per week are eligible for benefits, though eligibility for specific benefits may be determined by the division of Truist offering the position",
-        "Truist offers medical, dental, vision, life insurance, disability, accidental death and dismemberment, tax-preferred savings accounts, and a 401k plan to teammates",
-        "Teammates also receive no less than 10 days of vacation (prorated based on date of hire and by full-time or part-time status) during their first year of employment, along with 10 sick days (also prorated), and paid holidays",
-        "For more details on Truist’s generous benefit plans, please visit our Benefits site",
-        "Depending on the position and division, this job may also be eligible for Truist’s defined benefit pension plan, restricted stock units, and/or a deferred compensation plan"
+        "Seniority: Mid-Level",
+        "A generous total compensation package is on offer"
       ],
       "Responsibilities": [
-        "Focus on aspects of model development specific to finance and risk measurement estimation methodologies",
-        "Responsible for aspects of the development life cycle of quantitative models",
-        "Assist with identifying and escalating model risks",
-        "Develop awareness of key partnerships specific to models within targeted scope of responsibility",
-        "Area of model development include market, commercial, retail, credit, financial crimes, CCAR, CECL, finance and compliance risk",
-        "Participate in model reviews and validation finding mitigation following deployment",
-        "Conduct specific aspects of the model development life cycle",
-        "The model development life cycle includes data acquisition, assessing data integrity, model development, documentation, implementation assistance and assisting with closing assurance provider issue related to the model",
-        "Maintain and execute monitoring, performance reporting, and change-management processes",
-        "Work with stakeholders to ensure models fulfill the business objectives set for them",
-        "Ensure assigned parts of model development projects and processes comply with Truist requirements for model risk management and other policy requirements",
-        "Participate in mentoring and training to accelerate model development in areas of techniques, process and business knowledge",
-        "Assist with user understanding and acceptance of models and associate analytics, including written and verbal presentations to model users, stakeholders, managers and oversight groups",
-        "Address model questions from partners within the firm as needed, including assurance providers",
-        "Assist with identifying, recruiting, and maintaining, quantitative talent",
-        "Developing statistical models",
-        "Writing technical documentation",
-        "Presenting project results"
+        "You’ll join a collaborative, intellectually rigorous environment, partnering closely with portfolio managers and senior systematic research leads",
+        "Drive improvements across the investment lifecycle: Alpha research, portfolio construction, backtesting, simulation and execution research",
+        "Research and enhance execution tactics using high resolution market microstructure data",
+        "Collaborate closely with PMs, data engineers, and technologists to deploy models into production and continuously optimise performance",
+        "Proactively adapt strategies to evolving market dynamics"
       ]
     },
-    "job_onet_soc": "13209900",
+    "job_onet_soc": "15202100",
+    "job_onet_job_zone": "5",
+    "id": "www-linkedin-com-jobs-view-quantitative-researcher-monetization-at-sota-search-4373956229",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "n-1QWKax-Lcyqz3pAAAAAA==",
+    "job_title": "Quantitative Developer (Top Tier Global Hedge Fund)",
+    "employer_name": "Venture Search",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgMvvT5SdDhMwYYD0KuxxHyWlQdSPFG556r32L&s=0",
+    "employer_website": "https://www.venturesearch.com",
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/quantitative-developer-top-tier-global-hedge-fund-at-venture-search-4371913874?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/quantitative-developer-top-tier-global-hedge-fund-at-venture-search-4371913874?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/6993368ece78e77b4fd70eb0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Venture Search have partnered with a top-tier systematic hedge fund, that are looking for a Quantitative Developer to work closely with quantitative researchers and portfolio managers to design, implement, and maintain scalable, high-performance trading and research systems. The role sits at the intersection of quantitative research, software engineering, and trading, with a focus on building robust tools and infrastructure that support systematic investment strategies.\n\nResponsibilities\n• Design, develop, and maintain production-quality software for quantitative trading strategies\n• Partner with quantitative researchers to translate models and research prototypes into efficient, scalable code\n• Build and optimize data pipelines for market, reference, and alternative data\n• Implement backtesting frameworks, simulation tools, and research platforms\n• Enhance trading infrastructure, including execution, risk, and monitoring systems\n• Optimize performance, reliability, and scalability of existing systems\n• Collaborate with technology, risk, and operations teams to support live trading environments\n• Ensure best practices in software development, testing, and documentation\n\nRequired Qualifications\n• Strong programming skills in Python and/or C++ (Java or other languages a plus)\n• Solid understanding of data structures, algorithms, and software engineering principles\n• Experience working with large datasets and time-series data\n• Familiarity with Linux/Unix environments and version control systems (e.g., Git)\n• Ability to work closely with quantitative researchers and traders in a fast-paced environment\n• Strong problem-solving skills and attention to detail\n\nPreferred Qualifications\n• Experience in quantitative finance, systematic trading, or financial technology\n• Knowledge of capital markets, derivatives, or market microstructure\n• Experience with databases (SQL, NoSQL), distributed systems, or cloud platforms\n• Exposure to backtesting frameworks, execution systems, or real-time trading platforms\n• Advanced degree in Computer Science, Engineering, Mathematics, Physics, or a related field",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1771200000,
+    "job_posted_at_datetime_utc": "2026-02-16T00:00:00.000Z",
+    "job_location": "New York, NY",
+    "job_city": "New York",
+    "job_state": "New York",
+    "job_country": "US",
+    "job_latitude": 40.7127753,
+    "job_longitude": -74.0059728,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dn-1QWKax-Lcyqz3pAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Solid understanding of data structures, algorithms, and software engineering principles",
+        "Experience working with large datasets and time-series data",
+        "Familiarity with Linux/Unix environments and version control systems (e.g., Git)",
+        "Ability to work closely with quantitative researchers and traders in a fast-paced environment",
+        "Strong problem-solving skills and attention to detail"
+      ],
+      "Responsibilities": [
+        "The role sits at the intersection of quantitative research, software engineering, and trading, with a focus on building robust tools and infrastructure that support systematic investment strategies",
+        "Design, develop, and maintain production-quality software for quantitative trading strategies",
+        "Partner with quantitative researchers to translate models and research prototypes into efficient, scalable code",
+        "Build and optimize data pipelines for market, reference, and alternative data",
+        "Implement backtesting frameworks, simulation tools, and research platforms",
+        "Enhance trading infrastructure, including execution, risk, and monitoring systems",
+        "Optimize performance, reliability, and scalability of existing systems",
+        "Collaborate with technology, risk, and operations teams to support live trading environments",
+        "Ensure best practices in software development, testing, and documentation"
+      ]
+    },
+    "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
-    "id": "careers-truist-com-us-en-job-tbjtbfusr0111214externalenus-quantitative-model-development-analyst",
+    "id": "www-linkedin-com-jobs-view-quantitative-developer-top-tier-global-hedge-fund-at-venture-search-4371913874",
     "_source": "new_jobs"
   },
   {
@@ -600,70 +551,91 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "n-1QWKax-Lcyqz3pAAAAAA==",
-    "job_title": "Quantitative Developer (Top Tier Global Hedge Fund)",
-    "employer_name": "Venture Search",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgMvvT5SdDhMwYYD0KuxxHyWlQdSPFG556r32L&s=0",
-    "employer_website": "https://www.venturesearch.com",
-    "job_publisher": "LinkedIn",
+    "job_id": "wSJ95qC3xqKmFn9QAAAAAA==",
+    "job_title": "Quantitative Analyst, Equities Algorithmic Trading, Vice President",
+    "employer_name": "Citi",
+    "employer_logo": null,
+    "employer_website": "https://www.citi.com",
+    "job_publisher": "JobLeads",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/quantitative-developer-top-tier-global-hedge-fund-at-venture-search-4371913874?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.jobleads.com/us/job/quantitative-analyst-equities-algorithmic-trading-vp--new-york--ef962685daaf846169b3ea21a3614bcca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/quantitative-developer-top-tier-global-hedge-fund-at-venture-search-4371913874?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/6993368ece78e77b4fd70eb0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "JobLeads",
+        "apply_link": "https://www.jobleads.com/us/job/quantitative-analyst-equities-algorithmic-trading-vp--new-york--ef962685daaf846169b3ea21a3614bcca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Venture Search have partnered with a top-tier systematic hedge fund, that are looking for a Quantitative Developer to work closely with quantitative researchers and portfolio managers to design, implement, and maintain scalable, high-performance trading and research systems. The role sits at the intersection of quantitative research, software engineering, and trading, with a focus on building robust tools and infrastructure that support systematic investment strategies.\n\nResponsibilities\n• Design, develop, and maintain production-quality software for quantitative trading strategies\n• Partner with quantitative researchers to translate models and research prototypes into efficient, scalable code\n• Build and optimize data pipelines for market, reference, and alternative data\n• Implement backtesting frameworks, simulation tools, and research platforms\n• Enhance trading infrastructure, including execution, risk, and monitoring systems\n• Optimize performance, reliability, and scalability of existing systems\n• Collaborate with technology, risk, and operations teams to support live trading environments\n• Ensure best practices in software development, testing, and documentation\n\nRequired Qualifications\n• Strong programming skills in Python and/or C++ (Java or other languages a plus)\n• Solid understanding of data structures, algorithms, and software engineering principles\n• Experience working with large datasets and time-series data\n• Familiarity with Linux/Unix environments and version control systems (e.g., Git)\n• Ability to work closely with quantitative researchers and traders in a fast-paced environment\n• Strong problem-solving skills and attention to detail\n\nPreferred Qualifications\n• Experience in quantitative finance, systematic trading, or financial technology\n• Knowledge of capital markets, derivatives, or market microstructure\n• Experience with databases (SQL, NoSQL), distributed systems, or cloud platforms\n• Exposure to backtesting frameworks, execution systems, or real-time trading platforms\n• Advanced degree in Computer Science, Engineering, Mathematics, Physics, or a related field",
+    "job_description": "Overview\n\nCiti's Markets Quantitative Analysis (MQA) group is seeking a highly skilled VP Quantitative Analyst to join its Equities team. This role is central to the research, design, implementation, and maintenance of cutting-edge Equities Execution Algorithms for Citi's clients and internal trading desks, with a specific focus on North America and LATAM markets. This position offers an opportunity to apply strong quantitative, technical, and soft skills to foster innovation within a collaborative team culture, directly impacting trading businesses, control functions, and the global client base.\nResponsibilities\n• Algorithmic Development & Enhancement\n• Research, design, and implement improvements for existing and new algorithmic trading strategies (e.g., VWAP, liquidity seeking).\n• Develop and enhance quantitative models, including optimal schedule, market impact models, and short-term predictive signals (e.g., fair value).\n• Implement algorithm enhancements and customizations with production-quality code, applying best practices for modular, reusable, and robust trading components.\n• Data Analysis & Modeling\n• Perform in-depth analysis of large datasets comprising market data, orders, executions, and derived analytics.\n• Apply statistical modeling and machine learning techniques for data analysis and signal generation.\n• Conduct flow analysis and performance tuning for various client flows.\n• Provide data and analysis to support initial model validation and ongoing performance analysis.\n• Collaboration & Support\n• Collaborate closely with traders, risk managers, product, sales, and technology teams to integrate quantitative tools into daily workflows and address complex client requests.\n• Provide quantitative support and expertise for new product development.\n• Risk Management & Compliance\n• Design and execute backtesting frameworks to assess model performance and robustness under different market conditions.\n• Maintain comprehensive documentation of models, methodologies, and validation processes, ensuring adherence to internal standards and regulatory requirements.\n• Work in partnership with Risk & Control, Legal, Compliance & Audit teams to ensure appropriate governance and compliance with industry regulations.\n• Appropriately assess risk when making business decisions, safeguarding Citigroup, its clients, and assets, and escalating control issues with transparency.\n• Adhere to Citi’s Code of Conduct, policies, and procedures, fostering a culture of responsible finance and ethics.\n• Qualifications & Skills\n• Education: Advanced degree (Master's or Ph.D.) in a quantitative field such as Financial Engineering, Mathematics, Statistics, Physics, Computer Science, or a related discipline.\n• Experience: Minimum 5 years of experience in quantitative analysis or model development within a trading environment at a financial institution, with at least 3 years focused on research and development of agency execution algorithms, smart order routing strategies, liquidity seeking strategies, market making strategies, or high-frequency trading strategies. Strong understanding of US Equity Algorithmic Trading and Market Microstructure. Knowledge of ETF trading is a plus. Experience with Predictive signal, Market Impact, and Optimal Trading schedule models is desirable.\n• Technical Skills: Strong analytical and quantitative skills with a solid understanding of stochastic calculus, probability theory, and statistical modeling techniques. Programming, software design skills and Java experience desirable. Strong programming skills in Python or R (statistical programming languages). Experience with numerical libraries and data manipulation. Experience with Q/KDB or other time series databases is desirable.\n• Licenses: Will be required to either already possess or apply upon arrival for Series 7 and 63 licenses.\n\nWhat Citi Offers\n\nJoining Citi means becoming part of a global institution committed to fostering an inclusive and diverse workplace where talent thrives. We believe in providing an environment where everyone feels comfortable coming to work as their whole self, every day. As a Quantitative Analyst VP, you will be offered competitive compensation, comprehensive benefits, and a wealth of opportunities for professional development and career growth. You will have access to a vast array of learning resources and the chance to work alongside some of the brightest minds in the financial industry. We encourage our employees to continuously expand their skill sets, take on new challenges, and contribute to innovative solutions that shape the future of finance.\n\n------------------------------------------------------\n\nJob Family Group: Institutional Trading\n\n------------------------------------------------------\n\nJob Family: Quantitative Analysis\n\n------------------------------------------------------\n\nTime Type: Full time\n\n------------------------------------------------------\n\nPrimary Location: New York New York United States\n\n------------------------------------------------------\n\nPrimary Location Full Time Salary Range: $175,000.00 - $250,000.00\n\nIn addition to salary, Citi’s offerings may also include, for eligible employees, discretionary and formulaic incentive and retention awards. Citi offers competitive employee benefits, including: medical, dental & vision coverage; 401(k); life, accident, and disability insurance; and wellness programs. Citi also offers paid time off packages, including planned time off (vacation), unplanned time off (sick leave), and paid holidays. For additional information regarding Citi employee benefits, please visit citibenefits.com. Available offerings may vary by jurisdiction, job level, and date of hire.\n\n------------------------------------------------------\n\nMost Relevant Skills\nPlease see the requirements listed above.\n\n------------------------------------------------------\n\nOther Relevant Skills\nFor complementary skills, please see above and/or contact the recruiter.\n\n------------------------------------------------------\n\nAnticipated Posting Close Date: Feb 22, 2026\n\n------------------------------------------------------\n\nCiti is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi. View Citi’s EEO Policy Statement and the Know Your Rights poster.",
     "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1771200000,
-    "job_posted_at_datetime_utc": "2026-02-16T00:00:00.000Z",
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
     "job_location": "New York, NY",
     "job_city": "New York",
     "job_state": "New York",
     "job_country": "US",
     "job_latitude": 40.7127753,
     "job_longitude": -74.0059728,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dn-1QWKax-Lcyqz3pAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwSJ95qC3xqKmFn9QAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 175000,
+    "job_max_salary": 250000,
+    "job_salary_period": "YEAR",
     "job_highlights": {
       "Qualifications": [
-        "Solid understanding of data structures, algorithms, and software engineering principles",
-        "Experience working with large datasets and time-series data",
-        "Familiarity with Linux/Unix environments and version control systems (e.g., Git)",
-        "Ability to work closely with quantitative researchers and traders in a fast-paced environment",
-        "Strong problem-solving skills and attention to detail"
+        "Education: Advanced degree (Master's or Ph.D.) in a quantitative field such as Financial Engineering, Mathematics, Statistics, Physics, Computer Science, or a related discipline",
+        "Experience: Minimum 5 years of experience in quantitative analysis or model development within a trading environment at a financial institution, with at least 3 years focused on research and development of agency execution algorithms, smart order routing strategies, liquidity seeking strategies, market making strategies, or high-frequency trading strategies",
+        "Strong understanding of US Equity Algorithmic Trading and Market Microstructure",
+        "Technical Skills: Strong analytical and quantitative skills with a solid understanding of stochastic calculus, probability theory, and statistical modeling techniques",
+        "Strong programming skills in Python or R (statistical programming languages)",
+        "Experience with numerical libraries and data manipulation",
+        "Licenses: Will be required to either already possess or apply upon arrival for Series 7 and 63 licenses",
+        "Please see the requirements listed above",
+        "For complementary skills, please see above and/or contact the recruiter"
+      ],
+      "Benefits": [
+        "As a Quantitative Analyst VP, you will be offered competitive compensation, comprehensive benefits, and a wealth of opportunities for professional development and career growth",
+        "You will have access to a vast array of learning resources and the chance to work alongside some of the brightest minds in the financial industry",
+        "Primary Location Full Time Salary Range: $175,000.00 - $250,000.00",
+        "In addition to salary, Citi’s offerings may also include, for eligible employees, discretionary and formulaic incentive and retention awards",
+        "Citi offers competitive employee benefits, including: medical, dental & vision coverage; 401(k); life, accident, and disability insurance; and wellness programs",
+        "Citi also offers paid time off packages, including planned time off (vacation), unplanned time off (sick leave), and paid holidays"
       ],
       "Responsibilities": [
-        "The role sits at the intersection of quantitative research, software engineering, and trading, with a focus on building robust tools and infrastructure that support systematic investment strategies",
-        "Design, develop, and maintain production-quality software for quantitative trading strategies",
-        "Partner with quantitative researchers to translate models and research prototypes into efficient, scalable code",
-        "Build and optimize data pipelines for market, reference, and alternative data",
-        "Implement backtesting frameworks, simulation tools, and research platforms",
-        "Enhance trading infrastructure, including execution, risk, and monitoring systems",
-        "Optimize performance, reliability, and scalability of existing systems",
-        "Collaborate with technology, risk, and operations teams to support live trading environments",
-        "Ensure best practices in software development, testing, and documentation"
+        "This role is central to the research, design, implementation, and maintenance of cutting-edge Equities Execution Algorithms for Citi's clients and internal trading desks, with a specific focus on North America and LATAM markets",
+        "This position offers an opportunity to apply strong quantitative, technical, and soft skills to foster innovation within a collaborative team culture, directly impacting trading businesses, control functions, and the global client base",
+        "Algorithmic Development & Enhancement",
+        "Research, design, and implement improvements for existing and new algorithmic trading strategies (e.g., VWAP, liquidity seeking)",
+        "Develop and enhance quantitative models, including optimal schedule, market impact models, and short-term predictive signals (e.g., fair value)",
+        "Implement algorithm enhancements and customizations with production-quality code, applying best practices for modular, reusable, and robust trading components",
+        "Data Analysis & Modeling",
+        "Perform in-depth analysis of large datasets comprising market data, orders, executions, and derived analytics",
+        "Apply statistical modeling and machine learning techniques for data analysis and signal generation",
+        "Conduct flow analysis and performance tuning for various client flows",
+        "Provide data and analysis to support initial model validation and ongoing performance analysis",
+        "Collaboration & Support",
+        "Collaborate closely with traders, risk managers, product, sales, and technology teams to integrate quantitative tools into daily workflows and address complex client requests",
+        "Provide quantitative support and expertise for new product development",
+        "Risk Management & Compliance",
+        "Design and execute backtesting frameworks to assess model performance and robustness under different market conditions",
+        "Maintain comprehensive documentation of models, methodologies, and validation processes, ensuring adherence to internal standards and regulatory requirements",
+        "Work in partnership with Risk & Control, Legal, Compliance & Audit teams to ensure appropriate governance and compliance with industry regulations",
+        "Appropriately assess risk when making business decisions, safeguarding Citigroup, its clients, and assets, and escalating control issues with transparency",
+        "Adhere to Citi’s Code of Conduct, policies, and procedures, fostering a culture of responsible finance and ethics"
       ]
     },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-linkedin-com-jobs-view-quantitative-developer-top-tier-global-hedge-fund-at-venture-search-4371913874",
+    "job_onet_soc": "41303100",
+    "job_onet_job_zone": "3",
+    "id": "www-jobleads-com-us-job-quantitative-analyst-equities-algorithmic-trading-vp-new-york-ef962685daaf846169b3ea21a3614bcca",
     "_source": "new_jobs"
   },
   {
@@ -774,6 +746,145 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "RNlSdvmN5kGp-hdUAAAAAA==",
+    "job_title": "Senior Associate, Quantitative Analyst - MLRO",
+    "employer_name": "Information Technology Senior Management Forum",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbzSbuY-XtosNhhG6lP3hhUl8Y-jBtPKs9yV47&s=0",
+    "employer_website": null,
+    "job_publisher": "Indeed",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.indeed.com/viewjob?jk=767e96a4a8facd50&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=767e96a4a8facd50&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Capital-One/Job/Senior-Associate,-Quantitative-Analyst-MLRO/-in-New-York,NY?jid=9579558452640db1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Built In NYC",
+        "apply_link": "https://www.builtinnyc.com/job/quantitative-research-analyst-university-graduate-us/6554854?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Built In",
+        "apply_link": "https://builtin.com/job/quantitative-research-analyst-university-graduate-us/6554854?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Ladders",
+        "apply_link": "https://www.theladders.com/job/senior-quantitative-analyst-interest-rate-modeling-risk-analytics-bloomberg-new-york-ny_82931854?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/senior-associate-quantitative-analyst-mlro-capital-one-JV_IC1132348_KO0,42_KE43,54.htm?jl=1010025722406&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Justia Legal Jobs",
+        "apply_link": "https://jobs.justia.jobs/job/55e81297b87ca1c693eac367b7cbef85?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/quantitative-analyst?id=2397403127&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Posted Date\n\n2/05/2026\n\nDescription\n\nSenior Associate, Quantitative Analyst - MLRO\n\nAt Capital One data is at the center of everything we do. As a startup, we disrupted the credit card industry by individually personalizing every credit card offer using statistical modeling and the relational database, cutting edge technology in 1988! Fast-forward a few years, and this little innovation and our passion for data has skyrocketed us to a Fortune 200 company and a leader in the world of data-driven decision-making.\n\nAs a Quantitative Analyst at Capital One, you’ll be part of a team that’s leading the next wave of disruption at a whole new scale, using the latest in cloud computing and machine learning technologies and operating across billions of customer records to unlock the big opportunities that help everyday people save money, time and agony in their financial lives.\n\nThis position works on developing market and counterparty credit risk models for the Capital Markets line of business. These models are critical to enabling continued prudent growth of the Commercial Bank and other trading activity. The outputs of these models will be used in hedging trading risks, stress testing, risk-weighted assets, and limits monitoring.\n\nResponsibilities and Skills:\n• Partner with the various lines of business to enhance modeling and analytical framework. Particularly focused on Value-at-Risk (VaR), Greeks (sensitivities), Potential Future Exposure (PFE), and Credit Value Adjustment (CVA)\n• Work across Capital One entities to create novel analytical solutions to the challenging business problems\n• Identify opportunities to apply quantitative methods and automation solutions to improve business performance and process efficiencies\n• Collaborate in a cross-disciplinary team to build cloud-based solutions grounded in data\n• Identify opportunities to apply quantitative methods to improve business performance\n• Providing technical guidance to business leadership\n• Communicate technical subject matter clearly and concisely to individuals from various backgrounds.\n\nExpertise in quantitative analysis is central to our success in all markets. Our modelers thrive in a culture of mutual respect, excellence and innovation.\n\nSuccessful candidates would possess:\n• Strong understanding of quantitative analysis methods in relation to derivatives.\n• Strong coding skills in modern scripting languages such as .NET or Python.\n• Ability to clearly communicate modeling results to a wide range of audiences.\n• Strong written and verbal communication skills and ability to document analyses for reproducibility.\n• Ability to fully own the model development process: from conceptualization through data exploration, model selection, validation, deployment, business user training, and monitoring.\n• Demonstrated track-record in econometric analysis.\n\nBasic Qualifications:\n• Currently has, or is in the process of obtaining one of the following with an expectation that the required degree will be obtained on or before the scheduled start date:\n• A Bachelor's Degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) plus 3 years of experience performing data analytics\n• A Master's Degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) or an MBA with a quantitative concentration plus 1 year of experience performing data analytics\n\nPreferred Qualifications:\n• Master’s Degree in a highly quantitative field (Statistics, Economics, Mathematics, Financial Engineering, Operations Research or Technology related discipline)\n• Experience with developing and implementing models using languages (.NET or Python) and working with data using query languages such as SQL\n• Experience in statistical techniques such as classification, clustering, and regression\n• Experience working with large-scale, cloud-based coding environments and databases\n\nCapital One will consider sponsoring a new qualified applicant for employment authorization for this position.\n\nThe minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.\nMcLean, VA: $135,600 - $154,800 for Sr Assoc,Quantitative Analysis\n\nNew York, NY: $148,000 - $168,900 for Sr Assoc,Quantitative Analysis\n\nCandidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.\nThis role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.\n\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\nThis role is expected to accept applications for a minimum of 5 business days.No agencies please. Capital One is an equal opportunity employer (EOE, including disability/vet) committed to non-discrimination in compliance with applicable federal, state, and local laws. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).\nSenior Associate, Quantitative Analyst - MLRO\n\nAt Capital One data is at the center of everything we do. As a startup, we disrupted the credit card industry by individually personalizing every credit card offer using statistical modeling and the relational database, cutting edge technology in 1988! Fast-forward a few years, and this little innovation and our passion for data has skyrocketed us to a Fortune 200 company and a leader in the world of data-driven decision-making.\n\nAs a Quantitative Analyst at Capital One, you’ll be part of a team that’s leading the next wave of disruption at a whole new scale, using the latest in cloud computing and machine learning technologies and operating across billions of customer records to unlock the big opportunities that help everyday people save money, time and agony in their financial lives.\n\nThis position works on developing market and counterparty credit risk models for the Capital Markets line of business. These models are critical to enabling continued prudent growth of the Commercial Bank and other trading activity. The outputs of these models will be used in hedging trading risks, stress testing, risk-weighted assets, and limits monitoring.\n\nResponsibilities and Skills:\n• Partner with the various lines of business to enhance modeling and analytical framework. Particularly focused on Value-at-Risk (VaR), Greeks (sensitivities), Potential Future Exposure (PFE), and Credit Value Adjustment (CVA)\n• Work across Capital One entities to create novel analytical solutions to the challenging business problems\n• Identify opportunities to apply quantitative methods and automation solutions to improve business performance and process efficiencies\n• Collaborate in a cross-disciplinary team to build cloud-based solutions grounded in data\n• Identify opportunities to apply quantitative methods to improve business performance\n• Providing technical guidance to business leadership\n• Communicate technical subject matter clearly and concisely to individuals from various backgrounds.\n\nExpertise in quantitative analysis is central to our success in all markets. Our modelers thrive in a culture of mutual respect, excellence and innovation.\n\nSuccessful candidates would possess:\n• Strong understanding of quantitative analysis methods in relation to derivatives.\n• Strong coding skills in modern scripting languages such as .NET or Python.\n• Ability to clearly communicate modeling results to a wide range of audiences.\n• Strong written and verbal communication skills and ability to document analyses for reproducibility.\n• Ability to fully own the model development process: from conceptualization through data exploration, model selection, validation, deployment, business user training, and monitoring.\n• Demonstrated track-record in econometric analysis.\n\nBasic Qualifications:\n• Currently has, or is in the process of obtaining one of the following with an expectation that the required degree will be obtained on or before the scheduled start date:\n• A Bachelor's Degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) plus 3 years of experience performing data analytics\n• A Master's Degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) or an MBA with a quantitative concentration plus 1 year of experience performing data analytics\n\nPreferred Qualifications:\n• Master’s Degree in a highly quantitative field (Statistics, Economics, Mathematics, Financial Engineering, Operations Research or Technology related discipline)\n• Experience with developing and implementing models using languages (.NET or Python) and working with data using query languages such as SQL\n• Experience in statistical techniques such as classification, clustering, and regression\n• Experience working with large-scale, cloud-based coding environments and databases\n\nCapital One will consider sponsoring a new qualified applicant for employment authorization for this position.\n\nThe minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.\nMcLean, VA: $135,600 - $154,800 for Sr Assoc,Quantitative Analysis\n\nNew York, NY: $148,000 - $168,900 for Sr Assoc,Quantitative Analysis\n\nCandidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.\nThis role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.\n\nCapital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.\nThis role is expected to accept applications for a minimum of 5 business days.No agencies please. Capital One is an equal opportunity employer (EOE, including disability/vet) committed to non-discrimination in compliance with applicable federal, state, and local laws. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.\n\nIf you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\n\nFor technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com\n\nCapital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.\n\nCapital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).\n\nSalary\n\n135,600.00 - 154,800.00 Annual\n\nType\n\nFull-time",
+    "job_is_remote": false,
+    "job_posted_at": "11 days ago",
+    "job_posted_at_timestamp": 1770422400,
+    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
+    "job_location": "New York, NY",
+    "job_city": "New York",
+    "job_state": "New York",
+    "job_country": "US",
+    "job_latitude": 40.7127753,
+    "job_longitude": -74.0059728,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DRNlSdvmN5kGp-hdUAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 136000,
+    "job_max_salary": 169000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "Strong understanding of quantitative analysis methods in relation to derivatives",
+        "Strong coding skills in modern scripting languages such as .NET or Python",
+        "Ability to clearly communicate modeling results to a wide range of audiences",
+        "Strong written and verbal communication skills and ability to document analyses for reproducibility",
+        "Ability to fully own the model development process: from conceptualization through data exploration, model selection, validation, deployment, business user training, and monitoring",
+        "Demonstrated track-record in econometric analysis",
+        "Currently has, or is in the process of obtaining one of the following with an expectation that the required degree will be obtained on or before the scheduled start date:",
+        "A Bachelor's Degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) plus 3 years of experience performing data analytics",
+        "A Master's Degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) or an MBA with a quantitative concentration plus 1 year of experience performing data analytics",
+        "Strong understanding of quantitative analysis methods in relation to derivatives",
+        "Strong coding skills in modern scripting languages such as .NET or Python",
+        "Ability to clearly communicate modeling results to a wide range of audiences",
+        "Strong written and verbal communication skills and ability to document analyses for reproducibility",
+        "Ability to fully own the model development process: from conceptualization through data exploration, model selection, validation, deployment, business user training, and monitoring",
+        "Demonstrated track-record in econometric analysis",
+        "Currently has, or is in the process of obtaining one of the following with an expectation that the required degree will be obtained on or before the scheduled start date:",
+        "A Bachelor's Degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) plus 3 years of experience performing data analytics",
+        "A Master's Degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) or an MBA with a quantitative concentration plus 1 year of experience performing data analytics"
+      ],
+      "Benefits": [
+        "Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked",
+        "McLean, VA: $135,600 - $154,800 for Sr Assoc,Quantitative Analysis",
+        "Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter",
+        "This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI)",
+        "Incentives could be discretionary or non discretionary depending on the plan",
+        "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being",
+        "Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked",
+        "McLean, VA: $135,600 - $154,800 for Sr Assoc,Quantitative Analysis",
+        "Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter",
+        "This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI)",
+        "Incentives could be discretionary or non discretionary depending on the plan",
+        "Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being",
+        "135,600.00 - 154,800.00 Annual"
+      ],
+      "Responsibilities": [
+        "This position works on developing market and counterparty credit risk models for the Capital Markets line of business",
+        "These models are critical to enabling continued prudent growth of the Commercial Bank and other trading activity",
+        "The outputs of these models will be used in hedging trading risks, stress testing, risk-weighted assets, and limits monitoring",
+        "Partner with the various lines of business to enhance modeling and analytical framework",
+        "Particularly focused on Value-at-Risk (VaR), Greeks (sensitivities), Potential Future Exposure (PFE), and Credit Value Adjustment (CVA)",
+        "Work across Capital One entities to create novel analytical solutions to the challenging business problems",
+        "Identify opportunities to apply quantitative methods and automation solutions to improve business performance and process efficiencies",
+        "Collaborate in a cross-disciplinary team to build cloud-based solutions grounded in data",
+        "Identify opportunities to apply quantitative methods to improve business performance",
+        "Providing technical guidance to business leadership",
+        "Communicate technical subject matter clearly and concisely to individuals from various backgrounds",
+        "This position works on developing market and counterparty credit risk models for the Capital Markets line of business",
+        "These models are critical to enabling continued prudent growth of the Commercial Bank and other trading activity",
+        "The outputs of these models will be used in hedging trading risks, stress testing, risk-weighted assets, and limits monitoring",
+        "Partner with the various lines of business to enhance modeling and analytical framework",
+        "Particularly focused on Value-at-Risk (VaR), Greeks (sensitivities), Potential Future Exposure (PFE), and Credit Value Adjustment (CVA)",
+        "Work across Capital One entities to create novel analytical solutions to the challenging business problems",
+        "Identify opportunities to apply quantitative methods and automation solutions to improve business performance and process efficiencies",
+        "Collaborate in a cross-disciplinary team to build cloud-based solutions grounded in data",
+        "Identify opportunities to apply quantitative methods to improve business performance",
+        "Providing technical guidance to business leadership",
+        "Communicate technical subject matter clearly and concisely to individuals from various backgrounds"
+      ]
+    },
+    "job_onet_soc": "13206100",
+    "job_onet_job_zone": "4",
+    "id": "www-indeed-com-viewjob",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "IToMI2bedJSTVHyKAAAAAA==",
     "job_title": "Quantitative Analyst Associate Spring/Summer",
     "employer_name": "Philadelphia Phillies Baseball Operations",
@@ -837,86 +948,111 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "2NH1lTHu5pAK-tG2AAAAAA==",
-    "job_title": "Quantitative Risk Analyst",
-    "employer_name": "Initio Capital",
+    "job_id": "CtoBnVmesP676zg1AAAAAA==",
+    "job_title": "ERM Quantitative Analyst",
+    "employer_name": "Boeing Employees' Credit Union",
     "employer_logo": null,
-    "employer_website": "https://initiocapital.com",
-    "job_publisher": "Indeed",
-    "job_employment_type": "Full-time and Part-time",
+    "employer_website": null,
+    "job_publisher": "Workday",
+    "job_employment_type": "Full-time",
     "job_employment_types": [
-      "FULLTIME",
-      "PARTTIME"
+      "FULLTIME"
     ],
-    "job_apply_link": "https://www.indeed.com/viewjob?jk=fd85598f7ae071fd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
+    "job_apply_link": "https://becu.wd1.myworkdayjobs.com/en-US/External/job/ERM-Quantitative-Analyst_R-13015?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
     "apply_options": [
       {
+        "publisher": "Workday",
+        "apply_link": "https://becu.wd1.myworkdayjobs.com/en-US/External/job/ERM-Quantitative-Analyst_R-13015?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
         "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=fd85598f7ae071fd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
+        "apply_link": "https://www.indeed.com/viewjob?jk=236d4c44d3e6ae07&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
       },
       {
         "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Quanta-Search/Job/Quantitative-Risk-Analyst/-in-New-York,NY?jid=3be63ec07570a2d0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.ziprecruiter.com/c/BECU/Job/ERM-Quantitative-Analyst/-in-Tukwila,WA?jid=90be320af0d89852&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
       },
       {
-        "publisher": "Tallo",
-        "apply_link": "https://tallo.com/jobs/finance/risk-analyst/ny/new-york/quantitative-risk-analyst-53ac8686dd01/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Monster",
+        "apply_link": "https://www.monster.com/job-openings/erm-quantitative-analyst-tukwila-wa--623e828a-ff2a-467a-a1fb-7ae85528fa89?mstr_dist=true&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "CATSone",
-        "apply_link": "https://quantasearch.catsone.com/careers/1547-General/jobs/14460063-Quantitative-Risk-Analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/erm-quantitative-analyst-becu-JV_IC1164776_KO0,24_KE25,29.htm?jl=1010023423208&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/quantitative-risk-analyst?id=2389989588&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/AvUv62nZ4Q7CBbVKxnYTvH1saZkps6AKBX4AVAiyBHuHvmCiPg6NJA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "JobzMall",
-        "apply_link": "https://www.jobzmall.com/franklin-templeton-investments/job/quantitative-risk-analyst-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/f45f257c532b67ac5b1499853dc27abf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
       },
       {
         "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/quantitative-risk-analyst-at-quanta-search-4247620180?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Talents By Vaia",
-        "apply_link": "https://talents.vaia.com/companies/insight-global/quantitative-risk-analyst-16817107/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.linkedin.com/jobs/view/erm-quantitative-analyst-at-becu-4369421860?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Job Summary\n\nQuantitative Risk Analyst\n\nInitio Capital\n\nPart-time, Full-time, Contract, Temporary, Internship, Casual\n\nHybrid | New York, NY, United States\n\nQuantitative Risk Analyst – Initio Capital\n\nLocation: New York, NY\nEmployment Type: Full-Time\nEstimated Compensation: $145,000 – $185,000 total annual compensation (varies by employer)\n\nAbout This Posting\n\nThis job description represents a sample Quantitative Risk Analyst position commonly found through the Career Launch AI Talent Network. It is provided to help job seekers understand the responsibilities and qualifications typically associated with quantitative risk roles that blend analytics, statistics, and finance. Actual openings vary depending on employer needs.\n\nFor more information on the Career Launch AI Talent Network, visit:\nhttps://initiocapital.com/assessment\n#Workwolf",
+    "job_description": "Is it surprising to hear that a financial institution of 1.5 million members and over $30 billion in managed assets say that success comes from focusing on people, not profits? Our “people helping people” philosophy has guided us since 1935, driving our deep commitment to serving our members, communities, and each other. When you join our team, you become part of a purpose-driven organization where your work makes a real difference. While we’re proud of our history, we’re even more excited about our future. With business and technology transformation on the horizon, there’s never been a better time to be part of BECU. PAY RANGE The Target Pay Range for this position is $80,800 - $150,200 annually. At BECU, compensation decisions are determined using factors such as relevant job-related skills, experience, and education or training. Should an offer for employment be made, we will consider individual qualifications. In addition to your salary, compensation incentives are available for the hired applicant. Incentives are performance based and targets vary by role. BENEFITS – because people helping people starts with supporting you 401(k) Company Match (up to 3%) 4% annual contribution to your 401(k) by BECU Medical, Dental and Vision (family contributions as well) PTO Program + Exchange Program Tuition Reimbursement Program BECU Cares volunteer time off + donation match ERM Quantitative Analyst – Credit Unions in the State of Washington Boeing Employees' Credit Union d/b/a Boeing Employees' Credit Union d/b/a/ BECU. (Tukwila, WA). Responsibilities: Assist in independent validations of quantitative statistical models, as defined in regulatory guidance OCC 2011-12 and Federal Reserve SR 11-7, using advanced statistical, quantitative, or econometric techniques. Provide assessments and analysis of data and data quality to ERM and model owners for analytical and modeling purposes. Maintain the firmwide Model Inventory and processes around model maintenance and performance tracking. Apply mathematical and statistical techniques to support counterparty credit risk and market risk management, analytics, and reporting of Treasury activities and functions, including interest rate and liquidity risk management. In addition, support the build out of an economic capital framework. Support risk modeling of securities, deposits, loans, and derivatives, through the use of cash flow engine tools such as PolyPaths and prepayment models. Research and gain expertise on existing and new financial product offerings at BECU. In addition, understand risks relation to investment products, asset liability management and fixed income hedging tools. Create independent challenger models for the benchmarking of existing and proposed champion models. Monitor risk activities by developing automated reporting tools. Support risk report generation and analysis for senior management. Requires: Master’s degree or foreign equivalent in Mathematics, Applied Mathematics, Statistics, Financial Engineering, Economics, Quantitative Finance, or a closely related field AND knowledge of statistical analysis tools including both R and Python; and knowledge of market and credit risk. Additional Information Telecommuting permitted 3 days per week within Seattle, WA metropolitan area. Health care, retirement, and PTO benefits. EEO Statement: BECU is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, veteran status, disability, sexual orientation, gender identity, or any other protected status. Job Alerts: If you would like to be kept informed of new potential opportunities, click here. You will be asked to create an account if you do not already have one. From our very beginning, BECU has been about people helping people. As a financial services cooperative, our purpose has and always will be the same: we work together to best serve our members and improve the financial well-being of our community. With 90 years and over one million members later, we're still rooted in our values, practices and mission - and even more passionate about our future. As one of the nation's leading credit unions, we're not driven by profit. We're owned by our members and their interests are at the core of everything we do. Now we're growing faster than ever before--but we'll never forget our roots. To continue doing right by our members, we believe we must first do right by our people. Here, you'll receive the resources and support you need to learn, grow and build a meaningful career. Because we know it's our people who make us special.",
     "job_is_remote": false,
-    "job_posted_at": "11 days ago",
-    "job_posted_at_timestamp": 1770422400,
-    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
-    "job_location": "New York, NY",
-    "job_city": "New York",
-    "job_state": "New York",
+    "job_posted_at": "8 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Tukwila, WA",
+    "job_city": "Tukwila",
+    "job_state": "Washington",
     "job_country": "US",
-    "job_latitude": 40.7127753,
-    "job_longitude": -74.0059728,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D2NH1lTHu5pAK-tG2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 145000,
-    "job_max_salary": 185000,
-    "job_salary_period": "YEAR",
+    "job_latitude": 47.4748399,
+    "job_longitude": -122.27262479999999,
+    "job_benefits": [
+      "health_insurance",
+      "paid_time_off",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DCtoBnVmesP676zg1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
     "job_highlights": {
+      "Qualifications": [
+        "Requires: Master’s degree or foreign equivalent in Mathematics, Applied Mathematics, Statistics, Financial Engineering, Economics, Quantitative Finance, or a closely related field AND knowledge of statistical analysis tools including both R and Python; and knowledge of market and credit risk",
+        "Additional Information Telecommuting permitted 3 days per week within Seattle, WA metropolitan area"
+      ],
       "Benefits": [
-        "Part-time, Full-time, Contract, Temporary, Internship, Casual",
-        "Estimated Compensation: $145,000 – $185,000 total annual compensation (varies by employer)"
+        "PAY RANGE The Target Pay Range for this position is $80,800 - $150,200 annually",
+        "At BECU, compensation decisions are determined using factors such as relevant job-related skills, experience, and education or training",
+        "In addition to your salary, compensation incentives are available for the hired applicant",
+        "Incentives are performance based and targets vary by role",
+        "BENEFITS – because people helping people starts with supporting you 401(k) Company Match (up to 3%) 4% annual contribution to your 401(k) by BECU Medical, Dental and Vision (family contributions as well) PTO Program + Exchange Program Tuition Reimbursement Program BECU Cares volunteer time off + donation match ERM Quantitative Analyst – Credit Unions in the State of Washington Boeing Employees' Credit Union d/b/a Boeing Employees' Credit Union d/b/a/ BECU. (Tukwila, WA)",
+        "Health care, retirement, and PTO benefits"
+      ],
+      "Responsibilities": [
+        "Responsibilities: Assist in independent validations of quantitative statistical models, as defined in regulatory guidance OCC 2011-12 and Federal Reserve SR 11-7, using advanced statistical, quantitative, or econometric techniques",
+        "Provide assessments and analysis of data and data quality to ERM and model owners for analytical and modeling purposes",
+        "Maintain the firmwide Model Inventory and processes around model maintenance and performance tracking",
+        "Apply mathematical and statistical techniques to support counterparty credit risk and market risk management, analytics, and reporting of Treasury activities and functions, including interest rate and liquidity risk management",
+        "In addition, support the build out of an economic capital framework",
+        "Support risk modeling of securities, deposits, loans, and derivatives, through the use of cash flow engine tools such as PolyPaths and prepayment models",
+        "Research and gain expertise on existing and new financial product offerings at BECU",
+        "In addition, understand risks relation to investment products, asset liability management and fixed income hedging tools",
+        "Create independent challenger models for the benchmarking of existing and proposed champion models",
+        "Monitor risk activities by developing automated reporting tools",
+        "Support risk report generation and analysis for senior management"
       ]
     },
     "job_onet_soc": "13209900",
     "job_onet_job_zone": "4",
-    "id": "www-indeed-com-viewjob",
+    "id": "becu-wd1-myworkdayjobs-com-en-us-external-job-erm-quantitative-analyst_r-13015",
     "_source": "new_jobs"
   },
   {
@@ -1007,6 +1143,11 @@
         "is_direct": false
       },
       {
+        "publisher": "EarnBetter",
+        "apply_link": "https://earnbetter.com/app/job/01KG8W2G4MS2FE4H4GWBB2DHP5/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
         "publisher": "WhatJobs",
         "apply_link": "https://www.whatjobs.com/jobs/quantitative-analysis?id=2425735574&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
@@ -1029,9 +1170,9 @@
     "job_latitude": 35.2270768,
     "job_longitude": -80.84089329999999,
     "job_benefits": [
+      "health_insurance",
       "dental_coverage",
-      "paid_time_off",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D7CM7ZADy8XQIzeEqAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1262,119 +1403,6 @@
     "job_onet_soc": "39301200",
     "job_onet_job_zone": "2",
     "id": "www-glassdoor-com-job-listing-quantitative-analyst-sports-betting-hard-rock-international-jv_ko0-35_ke36-59-htm",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "_OjrAOaCCKvFdVYQAAAAAA==",
-    "job_title": "Quantitative Financial Analyst",
-    "employer_name": "Bank of America",
-    "employer_logo": null,
-    "employer_website": "https://www.bankofamerica.com",
-    "job_publisher": "Careers - Bank Of America",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://careers.bankofamerica.com/en-us/job-detail/25030802/quantitative-financial-analyst-multiple-locations?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Careers - Bank Of America",
-        "apply_link": "https://careers.bankofamerica.com/en-us/job-detail/25030802/quantitative-financial-analyst-multiple-locations?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Bank-of-America/Job/Quantitative-Financial-Analyst/-in-Wilmington,DE?jid=e85d16f9e43dcc6f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/quantitative-financial-analyst-wilmington-bank-of-america-corporation-7493f3f2b62652d934df3596971c7971?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "LocalJobs.com",
-        "apply_link": "https://www.localjobs.com/job/wilmington-de-quantitative-financial-analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/quantitative-financial-analyst-at-bank-of-america-4350122269?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/12fc3f7b0247d77fc5bdc9ccdc78e705?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "AccountingJobsToday",
-        "apply_link": "https://jobboard.accountingjobstoday.com/job/quantitative-financial-analyst/82206781/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Job Description:\n\nAt Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. We do this by driving Responsible Growth and delivering for our clients, teammates, communities and shareholders every day.\n\nBeing a Great Place to Work is core to how we drive Responsible Growth. This includes our commitment to being an inclusive workplace, attracting and developing exceptional talent, supporting our teammates’ physical, emotional, and financial wellness, recognizing and rewarding performance, and how we make an impact in the communities we serve.\n\nBank of America is committed to an in-office culture with specific requirements for office-based attendance and which allows for an appropriate level of flexibility for our teammates and businesses based on role-specific considerations.\n\nAt Bank of America, you can build a successful career with opportunities to learn, grow, and make an impact. Join us!\n\nJob Description:\nThis job is responsible for conducting auditing activities of model risk management across the company and for specific business units or control functions. Key responsibilities include leading the audit assessment of effectiveness of controls supporting the model life cycle including model governance, development, validation, on-going monitoring, and model change management. Job expectations may include the ability to influence management’s strategic direction and actions to strengthen the model risk control environment.\n\nResponsibilities:\n• Conducts audit assessment of effectiveness of controls supporting the model life cycle including model governance, development, validation, on-going monitoring, and model change management.\n• Performs review of model development analysis and on-going model performance testing to assess the conceptual soundness of the model methodology, reasonableness of the model assumptions and the completeness and accuracy of the model testing.\n• Conducts review the model validation analysis to assess the effectiveness of the model validation process. Assesses the completeness and reasonableness of the model assumptions, limitations and independent model testing.\n• Provides insightful challenges to management, identifies control deficiencies or enhancement opportunities, conducts root cause investigation, documents and reports audit findings.\n• Works closely with teammates from multiple internal audit teams to ensure a comprehensive coverage of model uses across the various lines of business of control functions.\n• Works closely with model stakeholders and senior management with regard to communication of audit assessment outcomes.\n\nRequired Qualifications:\n• Bachelor's Degree or above in a quantitative discipline such as Mathematics, Statistics, Finance, Economics, Engineering, or Science\n• 5+ years of industry experience relating to financial modelling and model uses, particularly in trading models, market risk models and Counterparty Credit Risk models\n• Familiar with regulations and regulatory guidance on model risk management\n\nDesired Qualifications:\n• Master's degree or above\n• Prior auditing background preferred\n\nSkills:\n• Critical Thinking\n• Quantitative Development/Validation\n• Risk Analytics\n• Risk Modeling\n• Technical Documentation\n• Collaboration\n• Problem Solving\n• Risk Management\n• Data Modeling and Trend Analysis\n• Written Communications\n\nShift:\n1st shift (United States of America)\n\nHours Per Week:\n40\n\nPay Transparency details\n\nUS - NJ - Pennington - 1500 American Blvd - Hopewell Bldg 5 (NJ2150), US - NY - New York - 114 W 47th St - 114 W 47th St - Ust (NY8114)\n\nPay and benefits information\n\nPay range\n\n$85,000.00 - $130,000.00 annualized salary, offers to be determined based on experience, education and skill set.\n\nDiscretionary incentive eligible\n\nThis role is eligible to participate in the annual discretionary plan. Employees are eligible for an annual discretionary award based on their overall individual performance results and behaviors, the performance and contributions of their line of business and/or group; and the overall success of the Company.\n\nBenefits\n\nThis role is currently benefits eligible. We provide industry-leading benefits, access to paid time off, resources and support to our employees so they can make a genuine impact and contribute to the sustainable growth of our business and the communities we serve.",
-    "job_is_remote": false,
-    "job_posted_at": "13 days ago",
-    "job_posted_at_timestamp": 1770249600,
-    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
-    "job_location": "Wilmington, DE",
-    "job_city": "Wilmington",
-    "job_state": "Delaware",
-    "job_country": "US",
-    "job_latitude": 39.744655,
-    "job_longitude": -75.5483909,
-    "job_benefits": [
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_OjrAOaCCKvFdVYQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Bachelor's Degree or above in a quantitative discipline such as Mathematics, Statistics, Finance, Economics, Engineering, or Science",
-        "5+ years of industry experience relating to financial modelling and model uses, particularly in trading models, market risk models and Counterparty Credit Risk models",
-        "Familiar with regulations and regulatory guidance on model risk management",
-        "Critical Thinking",
-        "Quantitative Development/Validation",
-        "Risk Analytics",
-        "Risk Modeling",
-        "Technical Documentation",
-        "Collaboration",
-        "Problem Solving",
-        "Risk Management",
-        "Data Modeling and Trend Analysis",
-        "Written Communications"
-      ],
-      "Benefits": [
-        "40",
-        "Pay range",
-        "$85,000.00 - $130,000.00 annualized salary, offers to be determined based on experience, education and skill set",
-        "Discretionary incentive eligible",
-        "This role is eligible to participate in the annual discretionary plan",
-        "Employees are eligible for an annual discretionary award based on their overall individual performance results and behaviors, the performance and contributions of their line of business and/or group; and the overall success of the Company",
-        "This role is currently benefits eligible",
-        "We provide industry-leading benefits, access to paid time off, resources and support to our employees so they can make a genuine impact and contribute to the sustainable growth of our business and the communities we serve"
-      ],
-      "Responsibilities": [
-        "This job is responsible for conducting auditing activities of model risk management across the company and for specific business units or control functions",
-        "Key responsibilities include leading the audit assessment of effectiveness of controls supporting the model life cycle including model governance, development, validation, on-going monitoring, and model change management",
-        "Job expectations may include the ability to influence management’s strategic direction and actions to strengthen the model risk control environment",
-        "Conducts audit assessment of effectiveness of controls supporting the model life cycle including model governance, development, validation, on-going monitoring, and model change management",
-        "Performs review of model development analysis and on-going model performance testing to assess the conceptual soundness of the model methodology, reasonableness of the model assumptions and the completeness and accuracy of the model testing",
-        "Conducts review the model validation analysis to assess the effectiveness of the model validation process",
-        "Assesses the completeness and reasonableness of the model assumptions, limitations and independent model testing",
-        "Provides insightful challenges to management, identifies control deficiencies or enhancement opportunities, conducts root cause investigation, documents and reports audit findings",
-        "Works closely with teammates from multiple internal audit teams to ensure a comprehensive coverage of model uses across the various lines of business of control functions",
-        "Works closely with model stakeholders and senior management with regard to communication of audit assessment outcomes"
-      ]
-    },
-    "job_onet_soc": "13205100",
-    "job_onet_job_zone": "4",
-    "id": "careers-bankofamerica-com-en-us-job-detail-25030802-quantitative-financial-analyst-multiple-locations",
     "_source": "new_jobs"
   }
 ]
