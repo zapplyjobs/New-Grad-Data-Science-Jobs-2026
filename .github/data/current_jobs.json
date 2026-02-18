@@ -66,8 +66,8 @@
     "job_latitude": 37.368829999999996,
     "job_longitude": -122.0363496,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
+      "paid_time_off",
       "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DT9iATWXFpDt6gkCWAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -161,8 +161,8 @@
     "job_latitude": 46.729552999999996,
     "job_longitude": -94.6858998,
     "job_benefits": [
-      "health_insurance",
-      "paid_time_off"
+      "paid_time_off",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DVtUm40K6nxadOu5rAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -503,8 +503,8 @@
     "job_latitude": 35.2270768,
     "job_longitude": -80.84089329999999,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
+      "paid_time_off",
       "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DzfD8D0M8uxVfRNpfAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -546,252 +546,6 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "eevd-fa-us6-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_1-requisitions-preview-2026058",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "XAY1ZGCPVXZ2djEhAAAAAA==",
-    "job_title": "Senior Analytics Engineer, Revenue Operations",
-    "employer_name": "DNSFilter",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNX15ECaIW708N2bP7xkfHys6oDsq3bdDMp-jE&s=0",
-    "employer_website": "https://www.dnsfilter.com",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/DNSFilter/Job/Senior-Analytics-Engineer,-Revenue-Operations/-in-Tampa,FL?jid=2bd1004a3b8d5fcc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/DNSFilter/Job/Senior-Analytics-Engineer,-Revenue-Operations/-in-Tampa,FL?jid=2bd1004a3b8d5fcc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Energy Jobline",
-        "apply_link": "https://www.energyjobline.com/job/senior-analytics-engineer-revenue-operations-tampa-29339333?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Monster",
-        "apply_link": "https://www.monster.com/job-openings/senior-analytics-engineer-revenue-operations-tampa-fl--5b88feb5-7b6b-4dae-88b1-d4fe5bc04a4b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/b349576177e17bb28ec69bd9b5a00a28?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/6983dc5b01214b4cdacbfbfc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "JobLeads",
-        "apply_link": "https://www.jobleads.com/us/job/senior-analytics-engineer-revenue-operations--tampa--e3fcc5e3d10e3b4e113602d5a797a69c3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/tampa/florida/info_technology/4862446604/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LifeworQ",
-        "apply_link": "https://lifeworq.com/job/500e9772-2bdd-4470-9cac-e2b4e2716170?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "DNSFilter's mission is to protect our customers and partners with products they love to use! We are revolutionizing network security by providing fast, accurate, and reliable threat protection and content filtering. We're a rapidly growing company dedicated to creating a safer internet for businesses and organizations worldwide. Leveraging AI-driven threat intelligence, DNSFilter empowers our customers to proactively block threats before they impact their networks. We foster a collaborative, innovative, and results-oriented culture where every team member contributes to our mission of making the internet safer.\n\nAs we continue our product-fueled growth by adding new features and broadening our solution to meet the needs of the global market, it's clear there's a missing piece. That's where you come in!\n\nWe're seeking a Senior Analytics Engineer, Revenue Operations, to own and scale the RevOps data domain. This role sits on the Revenue Operations team, will report to the Senior Director, RevOps, and partners closely with Sales, Marketing, Customer Support, Customer Success, Finance, Product, and the Data Platform team to deliver trusted, analytics-ready data that powers GTM systems, reporting, and decision-making.\n\nThis is a senior individual contributor role with deep ownership. You'll treat the RevOps data domain as a product, not a collection of dashboards—balancing rigor, scalability, and stakeholder alignment in a fast-moving environment.\n\nEligible candidates have and can work successfully in a small to mid-sized fast-paced, hyper-growth, SaaS start-up or scale-up. This is a full-time role open to candidates in the United States and Canada.\n\nWe recognize that people come with a wealth of experience and talent beyond just the technical requirements of a job. If you feel like this job is for you, please apply. We believe diversity of experience and skills, including transferable skills, combined with passion, is a key to innovation and excellence; therefore, we encourage people from all backgrounds to apply to our positions!\n\nAt DNSFilter, You Will:\n\nOwn the RevOps Data Domain\n• Architect and own the RevOps / BizOps data zone within our Data Mesh, treating it as a product that is high-quality, discoverable, well-documented, and the authoritative source of truth for revenue data\n• Establish clear ownership, documentation, and governance for core RevOps datasets and metrics\n\nBuild & Scale Analytics Foundations\n• Own the end-to-end design, development, and maintenance of analytics solutions that power downstream GTM systems, reporting, and decision-making\n• Partner with the Data Platform (Data Engineering) team to transform data landed from internal databases, third-party APIs, and Airflow-managed pipelines into analytics-ready models\n• Develop, optimize, and maintain ELT pipelines using dbt Cloud, transforming PostgreSQL and other source data into analytics-ready datasets in Amazon Athena\n• Ensure reliable data availability, performance, and quality within our Athena-based analytics data zone\n\nOwn Data State, History, and Performance\n• Lead our approach to capturing data evolution and history, making heavy use of dbt snapshots and incremental models to support point-in-time and trend analysis\n• Write performant, cost-aware SQL optimized for distributed query engines (Amazon Athena), including queries operating over tens of billions of rows\n• Design models with scalability and maintainability in mind, prioritizing long-term clarity over clever but fragile solutions\n\nDefine, Govern & Operationalize Metrics\n• Design, implement, and maintain a semantic layer (e.g., dbt semantic models/metrics) that serves as the authoritative source for business definitions and revenue metrics\n• Introduce and steward a centralized data dictionary and metric catalog, ensuring consistent definitions across dashboards, reports, and GTM systems\n• Partner closely with RevOps, Finance, Product, and GTM stakeholders to define, govern, and evolve shared metrics—aligning on \"what is what\" as the business grows\n• Act as a trusted arbiter for metric definitions, managing versioning, documentation, and change communication\n\nModel Revenue Data for Downstream GTM Systems\n• Design data models that are consumable by the GTM Systems team for use in downstream operational tools such as Salesforce, Hubspot, and Zendesk\n• Expose clean, well-documented datasets and metrics that can be reliably reused across reporting, automation, and operational workflows\n• Partner with the GTM Systems team to ensure data models meet operational needs, performance requirements, and system constraints\n• Ensure consistency between analytical models and operational system logic, minimizing metric drift between analytics and GTM tooling\n\nOwn BI Reporting & Visualization\n• Own the design, development, and ongoing maintenance of RevOps dashboards, reports, and visualizations in our BI tool\n• Ensure all reporting is powered by governed, well-modeled, and tested datasets—avoiding one-off queries and metric drift\n• Partner with GTM, RevOps, and executive stakeholders to translate business needs into scalable, self-service dashboards\n• Continuously audit and improve existing dashboards for accuracy, performance, usability, and clarity\n• Define standards and best practices for dashboard design, metric presentation, and reporting governance\n\nDrive Accuracy, Simplicity & Trust\n• Get \"down in the weeds\" to validate data end-to-end, using SQL, spreadsheets, and source-system analysis to trace and resolve discrepancies\n• Uphold a \"simplicity at scale\" philosophy—choosing readable, maintainable SQL over over-engineered abstractions that accrue technical debt\n• Maintain logic at the appropriate layer: when metrics require new or corrected product data, partner with upstream owners rather than introducing brittle downstream workarounds\n• Review, audit, and refactor existing dbt models, ELT jobs, and dashboards to improve accuracy, performance, and maintainability\n\nEnable the Business & Look Forward\n• Design, build, and maintain dashboards and reports powered by well-modeled, tested data—avoiding one-off queries and metric drift\n• Support the GTM Systems team by ensuring analytics and reporting dependencies are reliable and well-documented\n• Leverage AI-assisted development tools to accelerate SQL development, dbt modeling, testing, documentation, and refactoring\n• Explore and pilot AI-enabled approaches to improve data quality, observability, and operational efficiency with sound judgment around accuracy and governance\n• Establish and promote best practices for data modeling, testing, documentation, and dashboard governance\n\nTo Qualify for this Role, You Have:\n• 5+ years of experience in analytics engineering or data engineering, specifically supporting GTM, RevOps, or BizOps functions\n• Expert dbt knowledge, including advanced use of incremental strategies, snapshotting, and modular project structure—you know when to use a macro and when not to\n• Deep proficiency in SQL with experience optimizing queries for modern distributed warehouses (e.g., Amazon Athena, BigQuery, Snowflake), including partitioning and cost optimization\n• Hands-on experience designing and maintaining analytics-ready data models and ELT pipelines from application and operational data sources\n• Experience implementing or working with semantic layers or governed metrics frameworks (e.g., dbt semantic layer or equivalent)\n• A meticulous, almost obsessive approach to data accuracy—you aren't satisfied until the numbers tie out 1:1 and you can prove it\n• Demonstrated ability to reconcile complex datasets across systems and identify root causes of discrepancies\n• A strong \"do it right\" mindset, including the ability to push back on unscalable requests and prioritize durable solutions over short-term fixes\n• Understanding of data mesh principles, domain ownership, and the discipline required to maintain a standalone analytics data zone\n• Strong communication skills and comfort level in influencing both technical and non-technical stakeholders\n\nBonus points for:\n• Direct experience working on a Revenue Operations team\n• Experience supporting Sales, Marketing, Customer Support, and Customer Success analytics\n• Experience introducing or maturing a centralized data dictionary and driving organizational adoption of governed metrics\n• Exposure to data mesh or domain-oriented data ownership models in production environments\n• Experience applying AI-assisted development tools to analytics engineering workflows (SQL, dbt, testing, documentation, refactoring)\n• Familiarity with revenue lifecycle metrics (pipeline, conversion rates, ARR/MRR, churn, expansion, forecasting)\n\nWe Offer:\n• Pathway to promotion to additional organizational positions and responsibilities based upon results and performance, not just time in the chair. You help us grow, and we will help you grow.\n• Passionate and intelligent colleagues who work hard and have a good time doing it\n• Paid company-wide week off at the end of each year\n• Flexible Vacation Policy\n• Awesome company swag\n• Full medical, dental, and vision benefits for US, UK, and Canada-based employees\n• Full short-term disability and life benefits; available long-term disability\n• Retirement savings account options with vested company matching for qualifying employees\n• In-person annual gatherings. Last time we all spent a week on a beach in Cancun!\n\nDNSFilter is a pay-for-performance organization, which means there is an opportunity to advance your compensation based on performance over time. The hiring base pay is dependent on several factors, including level, function, training, transferable skills, work experience, business needs, and geographic location. As a hybrid company, our compensation reflects the cost of labor across several U.S. and global geographic markets. We pay differently based on those defined markets. Our Talent Team can share more about the specific salary range for the job location during the hiring process.\n\nDNSFilter participates in the E-Verify program.\n\nAt DNSFilter, we utilize sophisticated software and tools to identify and eliminate Deepfake candidates. This approach helps us maintain the integrity of our hiring process, ensuring that we select the most qualified and genuine individuals to join our team.\nU.S. hiring salary range\n$130,000—$170,000 USD",
-    "job_is_remote": false,
-    "job_posted_at": "13 days ago",
-    "job_posted_at_timestamp": 1770249600,
-    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
-    "job_location": "Tampa, FL",
-    "job_city": "Tampa",
-    "job_state": "Florida",
-    "job_country": "US",
-    "job_latitude": 27.951689599999998,
-    "job_longitude": -82.45875269999999,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DXAY1ZGCPVXZ2djEhAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Eligible candidates have and can work successfully in a small to mid-sized fast-paced, hyper-growth, SaaS start-up or scale-up",
-        "Drive Accuracy, Simplicity & Trust",
-        "Get \"down in the weeds\" to validate data end-to-end, using SQL, spreadsheets, and source-system analysis to trace and resolve discrepancies",
-        "5+ years of experience in analytics engineering or data engineering, specifically supporting GTM, RevOps, or BizOps functions",
-        "Expert dbt knowledge, including advanced use of incremental strategies, snapshotting, and modular project structure—you know when to use a macro and when not to",
-        "Deep proficiency in SQL with experience optimizing queries for modern distributed warehouses (e.g., Amazon Athena, BigQuery, Snowflake), including partitioning and cost optimization",
-        "Hands-on experience designing and maintaining analytics-ready data models and ELT pipelines from application and operational data sources",
-        "Experience implementing or working with semantic layers or governed metrics frameworks (e.g., dbt semantic layer or equivalent)",
-        "A meticulous, almost obsessive approach to data accuracy—you aren't satisfied until the numbers tie out 1:1 and you can prove it",
-        "Demonstrated ability to reconcile complex datasets across systems and identify root causes of discrepancies",
-        "A strong \"do it right\" mindset, including the ability to push back on unscalable requests and prioritize durable solutions over short-term fixes",
-        "Understanding of data mesh principles, domain ownership, and the discipline required to maintain a standalone analytics data zone",
-        "Strong communication skills and comfort level in influencing both technical and non-technical stakeholders",
-        "Direct experience working on a Revenue Operations team",
-        "Experience supporting Sales, Marketing, Customer Support, and Customer Success analytics",
-        "Experience introducing or maturing a centralized data dictionary and driving organizational adoption of governed metrics",
-        "Exposure to data mesh or domain-oriented data ownership models in production environments",
-        "Experience applying AI-assisted development tools to analytics engineering workflows (SQL, dbt, testing, documentation, refactoring)",
-        "Familiarity with revenue lifecycle metrics (pipeline, conversion rates, ARR/MRR, churn, expansion, forecasting)"
-      ],
-      "Benefits": [
-        "Pathway to promotion to additional organizational positions and responsibilities based upon results and performance, not just time in the chair",
-        "Passionate and intelligent colleagues who work hard and have a good time doing it",
-        "Paid company-wide week off at the end of each year",
-        "Flexible Vacation Policy",
-        "Awesome company swag",
-        "Full medical, dental, and vision benefits for US, UK, and Canada-based employees",
-        "Full short-term disability and life benefits; available long-term disability",
-        "Retirement savings account options with vested company matching for qualifying employees",
-        "In-person annual gatherings",
-        "DNSFilter is a pay-for-performance organization, which means there is an opportunity to advance your compensation based on performance over time",
-        "The hiring base pay is dependent on several factors, including level, function, training, transferable skills, work experience, business needs, and geographic location",
-        "$130,000—$170,000 USD"
-      ],
-      "Responsibilities": [
-        "We're seeking a Senior Analytics Engineer, Revenue Operations, to own and scale the RevOps data domain",
-        "This role sits on the Revenue Operations team, will report to the Senior Director, RevOps, and partners closely with Sales, Marketing, Customer Support, Customer Success, Finance, Product, and the Data Platform team to deliver trusted, analytics-ready data that powers GTM systems, reporting, and decision-making",
-        "This is a senior individual contributor role with deep ownership",
-        "You'll treat the RevOps data domain as a product, not a collection of dashboards—balancing rigor, scalability, and stakeholder alignment in a fast-moving environment",
-        "Architect and own the RevOps / BizOps data zone within our Data Mesh, treating it as a product that is high-quality, discoverable, well-documented, and the authoritative source of truth for revenue data",
-        "Establish clear ownership, documentation, and governance for core RevOps datasets and metrics",
-        "Build & Scale Analytics Foundations",
-        "Own the end-to-end design, development, and maintenance of analytics solutions that power downstream GTM systems, reporting, and decision-making",
-        "Partner with the Data Platform (Data Engineering) team to transform data landed from internal databases, third-party APIs, and Airflow-managed pipelines into analytics-ready models",
-        "Develop, optimize, and maintain ELT pipelines using dbt Cloud, transforming PostgreSQL and other source data into analytics-ready datasets in Amazon Athena",
-        "Ensure reliable data availability, performance, and quality within our Athena-based analytics data zone",
-        "Own Data State, History, and Performance",
-        "Lead our approach to capturing data evolution and history, making heavy use of dbt snapshots and incremental models to support point-in-time and trend analysis",
-        "Write performant, cost-aware SQL optimized for distributed query engines (Amazon Athena), including queries operating over tens of billions of rows",
-        "Design models with scalability and maintainability in mind, prioritizing long-term clarity over clever but fragile solutions",
-        "Design, implement, and maintain a semantic layer (e.g., dbt semantic models/metrics) that serves as the authoritative source for business definitions and revenue metrics",
-        "Introduce and steward a centralized data dictionary and metric catalog, ensuring consistent definitions across dashboards, reports, and GTM systems",
-        "Partner closely with RevOps, Finance, Product, and GTM stakeholders to define, govern, and evolve shared metrics—aligning on \"what is what\" as the business grows",
-        "Act as a trusted arbiter for metric definitions, managing versioning, documentation, and change communication",
-        "Model Revenue Data for Downstream GTM Systems",
-        "Design data models that are consumable by the GTM Systems team for use in downstream operational tools such as Salesforce, Hubspot, and Zendesk",
-        "Expose clean, well-documented datasets and metrics that can be reliably reused across reporting, automation, and operational workflows",
-        "Partner with the GTM Systems team to ensure data models meet operational needs, performance requirements, and system constraints",
-        "Ensure consistency between analytical models and operational system logic, minimizing metric drift between analytics and GTM tooling",
-        "Own BI Reporting & Visualization",
-        "Own the design, development, and ongoing maintenance of RevOps dashboards, reports, and visualizations in our BI tool",
-        "Ensure all reporting is powered by governed, well-modeled, and tested datasets—avoiding one-off queries and metric drift",
-        "Partner with GTM, RevOps, and executive stakeholders to translate business needs into scalable, self-service dashboards",
-        "Continuously audit and improve existing dashboards for accuracy, performance, usability, and clarity",
-        "Define standards and best practices for dashboard design, metric presentation, and reporting governance",
-        "Uphold a \"simplicity at scale\" philosophy—choosing readable, maintainable SQL over over-engineered abstractions that accrue technical debt",
-        "Maintain logic at the appropriate layer: when metrics require new or corrected product data, partner with upstream owners rather than introducing brittle downstream workarounds",
-        "Review, audit, and refactor existing dbt models, ELT jobs, and dashboards to improve accuracy, performance, and maintainability",
-        "Enable the Business & Look Forward",
-        "Design, build, and maintain dashboards and reports powered by well-modeled, tested data—avoiding one-off queries and metric drift",
-        "Support the GTM Systems team by ensuring analytics and reporting dependencies are reliable and well-documented",
-        "Leverage AI-assisted development tools to accelerate SQL development, dbt modeling, testing, documentation, and refactoring",
-        "Explore and pilot AI-enabled approaches to improve data quality, observability, and operational efficiency with sound judgment around accuracy and governance",
-        "Establish and promote best practices for data modeling, testing, documentation, and dashboard governance"
-      ]
-    },
-    "job_onet_soc": "43911100",
-    "job_onet_job_zone": "4",
-    "id": "www-ziprecruiter-com-c-dnsfilter-job-senior-analytics-engineer-revenue-operations-in-tampa-fl",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "FBlRk5khvOty77PNAAAAAA==",
-    "job_title": "Senior Analytics Engineer",
-    "employer_name": "Breakthrough",
-    "employer_logo": null,
-    "employer_website": "https://www.breakthroughclean.com",
-    "job_publisher": "WhatJobs",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.whatjobs.com/jobs/senior-analytics-engineer?id=2459354831&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/senior-analytics-engineer?id=2459354831&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-wi-all-cities-senior-analytics-engineer-49-airgarage-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Position Summary\nAbout Breakthrough\n\nAt Breakthrough, we empower our clients with data, technology, and market knowledge to reduce costs, create efficient networks, and decarbonize transportation. As a strategic partner to our clients, we challenge legacy practices in the $700 billion transportation industry, delivering sustainable fuel and freight products that foster fair partnerships and environmental responsibility.\n\nAs a digital product company, our culture thrives on curiosity, autonomy, and purpose-driven innovation. Here, you're not just executing tasks; you're collaborating with a team dedicated to transforming transportation and making a tangible impact on the global economy and the planet.\n\nThe Role\n\nAs a Senior Analytics Engineer, you will play a crucial role in the design, development, and implementation of robust, scalable, and high-performance analytics solutions. You will be responsible for analytic data modeling, building efficient ETL processes, and seamless integrations with SaaS products and visualization tools, leveraging your expertise to drive technical excellence across the team.\n\nWe're seeking individuals who excel in collaborative environments, are driven by the \"why\" behind their work and the core problems they're trying to solve, and are eager to develop innovative solutions while influencing the evolution of our systems, teams, and culture.\n\n\"At Breakthrough, we're figuring out things for the first time; things that no one else has ever done before\" - Engineering leader, Breakthrough\n\nThis role is open to work on-site in Green Bay or remote/hybrid options based on relevancy of candidate experience.\n\nJob Responsibilities\nWhat You'll Do\nCollaborate with cross-functional teams—including product owners, designers, and fellow engineers—to build reliable, scalable systems. Working closely with our clients, market experts, and the broader Breakthrough team, you will build innovative solutions that solve industry problems. Lead the end-to-end design and implementation of new product features and services. Learn and apply the latest technologies to our cloud native solutions. Write clean, maintainable code accompanied by comprehensive automated tests. Review pull requests, mentor other engineers, and elevate the technical standards within the team. Contribute to technical strategy, system design, and process improvements. Participate in our on-call rotation and support production systems, embracing a shared ownership model.\n\nLearn more about the work you'll do at Breakthrough and our culture here.\n\nThis Role Might Be a Great Fit If…\nYou're enthusiastic about tackling complex challenges and can distill them into actionable solutions. You prioritize writing clean, readable, and testable code, while understanding the importance of pragmatism. Understanding the underlying purpose of your work motivates you, beyond merely delivering features. You thrive in collaborative settings, engaging with engineers, product owners, and designers to achieve common goals. You're committed to advancing sustainability in transportation and reducing environmental impact through technological innovation.\n\nThis Role Might Not Be the Best Fit If…\nYou prefer working in isolation or solely on predefined tasks without broader context. Adaptability to shifting priorities in a dynamic environment is challenging for you. Collaborating with non-engineering disciplines, such as product and design, doesn't align with your working style. You seek a rigid hierarchical structure to guide all decision-making processes. Mentoring others and contributing to team growth aren't areas of interest for you.\n\nHow We Work\nHybrid-Friendly: While many team members are based in Green Bay, we embrace remote work and prioritize impact over location. Cross-Functional Teams: You'll be part of an agile team of fellow engineers, fostering a holistic approach to product development by working with Product Owners, Quality Assurance, and others throughout the organization. Continuous Improvement: We regularly conduct retrospectives, refine our processes, and invest in addressing technical debt to enhance our workflows. Empowered Engineers: Beyond task execution, you're encouraged to influence both what we build and how we build it, ensuring alignment with our strategic objectives.\n\nQualifications\nWhat you bring\nBachelor's degree in Computer Science or a related technical field involving coding (e.g, physics or mathematics), or equivalent technical experience. 10+ years as a data or analytics engineer, with a focus on a combination of data modeling and engineering. Experience in designing and implementing scalable and high-performance analytics features. Proficiency in multiple programming languages, frameworks, and technologies, specifically dbt, SQL, Jinja, BigQuery, cube, and Python. Knowledge of data architectures, security best practices, and data integration concepts. Experience with ETL technologies and data engineering with a focus on building and maintaining data platforms, data pipelines, and data ingestion tools. Exposure to modern infrastructure such as code technologies like Docker, Kubernetes, Terraform, and Airflow. In depth understanding of database concepts, data modeling, and data warehousing principles. Understanding of distributed data management systems and related applications. Familiarity with public cloud infrastructure design, tools, and strategies. Experience with software development methodologies including Agile, Kanban, and Scrum A growth mindset and excitement for using AI to drive innovation, improve workflows and solve complex problems. Collaborative by nature, you value pairing, whiteboarding sessions, and learning from diverse perspectives. Passionate about delivering high-quality products that enhance client experiences and drive sustainability in transportation.\n\nTech We Use\nBackend: Python, Postgres Frontend: Node, React, TypeScript, graphQL Cloud & Infrastructure: Google Cloud Platform (GCP), Terraform, Docker Data & Analytics: BigQuery, dbt Monitoring & Observability: GCP Monitoring\n\nWhy Breakthrough\nMission-Driven Work: Engage in projects that have a tangible impact on the economy and the environment. Hear more about our innovation in this video. Supportive Culture: Experience a workplace that values autonomy, growth, and meaningful contributions. Leadership Opportunities: Take on roles that allow you to mentor, guide, and shape the future of our products and technological direction. Established Backing: As a U.S. Venture company, we benefit from a legacy of innovation and a commitment to sustainable practices.\n\nApply Now\nIf you're driven to develop smarter, cleaner transportation solutions and want to be part of a team that's making a difference, we'd love to hear from you\nBreakthrough\n\nDIVISION\n:\n\nBreakthrough\n\nU.S. Venture requires that a team member have and maintain authorization to work in the country in which the role is based. In general, U.S. Venture does not sponsor candidates for nonimmigrant visas or permanent residency unless based on business need.\nU.S. Venture will not accept unsolicited resumes from recruiters or employment agencies. In the absence of an executed recruitment Master Service Agreement, there will be no obligation to any referral compensation or recruiter fee. In the event a recruiter or agency submits a resume or candidate without an agreement, U.S. Venture shall reserve the right to pursue and hire those candidate(s) without any financial obligation to the recruiter or agency. Any unsolicited resumes, including those submitted to hiring managers, shall be deemed the property of U.S. Venture.\nU.S. Venture, Inc. is an equal opportunity employer that is committed to inclusion and diversity. We ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender, gender identity or expression, marital status, age, national origin, disability, veteran status, genetic information, or other protected characteristic.\nIf you need assistance or an accommodation due to a disability, you may call Human Resources",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Wisconsin",
-    "job_city": null,
-    "job_state": "Wisconsin",
-    "job_country": "US",
-    "job_latitude": 43.7844397,
-    "job_longitude": -88.7878678,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFBlRk5khvOty77PNAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "You're enthusiastic about tackling complex challenges and can distill them into actionable solutions",
-        "You prioritize writing clean, readable, and testable code, while understanding the importance of pragmatism",
-        "You prefer working in isolation or solely on predefined tasks without broader context",
-        "Adaptability to shifting priorities in a dynamic environment is challenging for you",
-        "Collaborating with non-engineering disciplines, such as product and design, doesn't align with your working style",
-        "Bachelor's degree in Computer Science or a related technical field involving coding (e.g, physics or mathematics), or equivalent technical experience",
-        "10+ years as a data or analytics engineer, with a focus on a combination of data modeling and engineering",
-        "Experience in designing and implementing scalable and high-performance analytics features",
-        "Proficiency in multiple programming languages, frameworks, and technologies, specifically dbt, SQL, Jinja, BigQuery, cube, and Python",
-        "Knowledge of data architectures, security best practices, and data integration concepts",
-        "Experience with ETL technologies and data engineering with a focus on building and maintaining data platforms, data pipelines, and data ingestion tools",
-        "Exposure to modern infrastructure such as code technologies like Docker, Kubernetes, Terraform, and Airflow",
-        "In depth understanding of database concepts, data modeling, and data warehousing principles",
-        "Understanding of distributed data management systems and related applications",
-        "Familiarity with public cloud infrastructure design, tools, and strategies",
-        "Experience with software development methodologies including Agile, Kanban, and Scrum A growth mindset and excitement for using AI to drive innovation, improve workflows and solve complex problems",
-        "Collaborative by nature, you value pairing, whiteboarding sessions, and learning from diverse perspectives",
-        "Passionate about delivering high-quality products that enhance client experiences and drive sustainability in transportation"
-      ],
-      "Responsibilities": [
-        "As a Senior Analytics Engineer, you will play a crucial role in the design, development, and implementation of robust, scalable, and high-performance analytics solutions",
-        "You will be responsible for analytic data modeling, building efficient ETL processes, and seamless integrations with SaaS products and visualization tools, leveraging your expertise to drive technical excellence across the team",
-        "Collaborate with cross-functional teams—including product owners, designers, and fellow engineers—to build reliable, scalable systems",
-        "Working closely with our clients, market experts, and the broader Breakthrough team, you will build innovative solutions that solve industry problems",
-        "Lead the end-to-end design and implementation of new product features and services",
-        "Learn and apply the latest technologies to our cloud native solutions",
-        "Write clean, maintainable code accompanied by comprehensive automated tests",
-        "Review pull requests, mentor other engineers, and elevate the technical standards within the team",
-        "Contribute to technical strategy, system design, and process improvements",
-        "Participate in our on-call rotation and support production systems, embracing a shared ownership model",
-        "Understanding the underlying purpose of your work motivates you, beyond merely delivering features",
-        "You thrive in collaborative settings, engaging with engineers, product owners, and designers to achieve common goals",
-        "You're committed to advancing sustainability in transportation and reducing environmental impact through technological innovation",
-        "You seek a rigid hierarchical structure to guide all decision-making processes",
-        "Cross-Functional Teams: You'll be part of an agile team of fellow engineers, fostering a holistic approach to product development by working with Product Owners, Quality Assurance, and others throughout the organization",
-        "Continuous Improvement: We regularly conduct retrospectives, refine our processes, and invest in addressing technical debt to enhance our workflows",
-        "Empowered Engineers: Beyond task execution, you're encouraged to influence both what we build and how we build it, ensuring alignment with our strategic objectives"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-whatjobs-com-jobs-senior-analytics-engineer",
     "_source": "new_jobs"
   },
   {
@@ -904,6 +658,252 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "www-disneycareers-com-en-job-glendale-lead-data-product-engineer-391-87077257008",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "FBlRk5khvOty77PNAAAAAA==",
+    "job_title": "Senior Analytics Engineer",
+    "employer_name": "Breakthrough",
+    "employer_logo": null,
+    "employer_website": "https://www.breakthroughclean.com",
+    "job_publisher": "WhatJobs",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.whatjobs.com/jobs/senior-analytics-engineer?id=2459354831&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/senior-analytics-engineer?id=2459354831&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-wi-all-cities-senior-analytics-engineer-49-airgarage-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Position Summary\nAbout Breakthrough\n\nAt Breakthrough, we empower our clients with data, technology, and market knowledge to reduce costs, create efficient networks, and decarbonize transportation. As a strategic partner to our clients, we challenge legacy practices in the $700 billion transportation industry, delivering sustainable fuel and freight products that foster fair partnerships and environmental responsibility.\n\nAs a digital product company, our culture thrives on curiosity, autonomy, and purpose-driven innovation. Here, you're not just executing tasks; you're collaborating with a team dedicated to transforming transportation and making a tangible impact on the global economy and the planet.\n\nThe Role\n\nAs a Senior Analytics Engineer, you will play a crucial role in the design, development, and implementation of robust, scalable, and high-performance analytics solutions. You will be responsible for analytic data modeling, building efficient ETL processes, and seamless integrations with SaaS products and visualization tools, leveraging your expertise to drive technical excellence across the team.\n\nWe're seeking individuals who excel in collaborative environments, are driven by the \"why\" behind their work and the core problems they're trying to solve, and are eager to develop innovative solutions while influencing the evolution of our systems, teams, and culture.\n\n\"At Breakthrough, we're figuring out things for the first time; things that no one else has ever done before\" - Engineering leader, Breakthrough\n\nThis role is open to work on-site in Green Bay or remote/hybrid options based on relevancy of candidate experience.\n\nJob Responsibilities\nWhat You'll Do\nCollaborate with cross-functional teams—including product owners, designers, and fellow engineers—to build reliable, scalable systems. Working closely with our clients, market experts, and the broader Breakthrough team, you will build innovative solutions that solve industry problems. Lead the end-to-end design and implementation of new product features and services. Learn and apply the latest technologies to our cloud native solutions. Write clean, maintainable code accompanied by comprehensive automated tests. Review pull requests, mentor other engineers, and elevate the technical standards within the team. Contribute to technical strategy, system design, and process improvements. Participate in our on-call rotation and support production systems, embracing a shared ownership model.\n\nLearn more about the work you'll do at Breakthrough and our culture here.\n\nThis Role Might Be a Great Fit If…\nYou're enthusiastic about tackling complex challenges and can distill them into actionable solutions. You prioritize writing clean, readable, and testable code, while understanding the importance of pragmatism. Understanding the underlying purpose of your work motivates you, beyond merely delivering features. You thrive in collaborative settings, engaging with engineers, product owners, and designers to achieve common goals. You're committed to advancing sustainability in transportation and reducing environmental impact through technological innovation.\n\nThis Role Might Not Be the Best Fit If…\nYou prefer working in isolation or solely on predefined tasks without broader context. Adaptability to shifting priorities in a dynamic environment is challenging for you. Collaborating with non-engineering disciplines, such as product and design, doesn't align with your working style. You seek a rigid hierarchical structure to guide all decision-making processes. Mentoring others and contributing to team growth aren't areas of interest for you.\n\nHow We Work\nHybrid-Friendly: While many team members are based in Green Bay, we embrace remote work and prioritize impact over location. Cross-Functional Teams: You'll be part of an agile team of fellow engineers, fostering a holistic approach to product development by working with Product Owners, Quality Assurance, and others throughout the organization. Continuous Improvement: We regularly conduct retrospectives, refine our processes, and invest in addressing technical debt to enhance our workflows. Empowered Engineers: Beyond task execution, you're encouraged to influence both what we build and how we build it, ensuring alignment with our strategic objectives.\n\nQualifications\nWhat you bring\nBachelor's degree in Computer Science or a related technical field involving coding (e.g, physics or mathematics), or equivalent technical experience. 10+ years as a data or analytics engineer, with a focus on a combination of data modeling and engineering. Experience in designing and implementing scalable and high-performance analytics features. Proficiency in multiple programming languages, frameworks, and technologies, specifically dbt, SQL, Jinja, BigQuery, cube, and Python. Knowledge of data architectures, security best practices, and data integration concepts. Experience with ETL technologies and data engineering with a focus on building and maintaining data platforms, data pipelines, and data ingestion tools. Exposure to modern infrastructure such as code technologies like Docker, Kubernetes, Terraform, and Airflow. In depth understanding of database concepts, data modeling, and data warehousing principles. Understanding of distributed data management systems and related applications. Familiarity with public cloud infrastructure design, tools, and strategies. Experience with software development methodologies including Agile, Kanban, and Scrum A growth mindset and excitement for using AI to drive innovation, improve workflows and solve complex problems. Collaborative by nature, you value pairing, whiteboarding sessions, and learning from diverse perspectives. Passionate about delivering high-quality products that enhance client experiences and drive sustainability in transportation.\n\nTech We Use\nBackend: Python, Postgres Frontend: Node, React, TypeScript, graphQL Cloud & Infrastructure: Google Cloud Platform (GCP), Terraform, Docker Data & Analytics: BigQuery, dbt Monitoring & Observability: GCP Monitoring\n\nWhy Breakthrough\nMission-Driven Work: Engage in projects that have a tangible impact on the economy and the environment. Hear more about our innovation in this video. Supportive Culture: Experience a workplace that values autonomy, growth, and meaningful contributions. Leadership Opportunities: Take on roles that allow you to mentor, guide, and shape the future of our products and technological direction. Established Backing: As a U.S. Venture company, we benefit from a legacy of innovation and a commitment to sustainable practices.\n\nApply Now\nIf you're driven to develop smarter, cleaner transportation solutions and want to be part of a team that's making a difference, we'd love to hear from you\nBreakthrough\n\nDIVISION\n:\n\nBreakthrough\n\nU.S. Venture requires that a team member have and maintain authorization to work in the country in which the role is based. In general, U.S. Venture does not sponsor candidates for nonimmigrant visas or permanent residency unless based on business need.\nU.S. Venture will not accept unsolicited resumes from recruiters or employment agencies. In the absence of an executed recruitment Master Service Agreement, there will be no obligation to any referral compensation or recruiter fee. In the event a recruiter or agency submits a resume or candidate without an agreement, U.S. Venture shall reserve the right to pursue and hire those candidate(s) without any financial obligation to the recruiter or agency. Any unsolicited resumes, including those submitted to hiring managers, shall be deemed the property of U.S. Venture.\nU.S. Venture, Inc. is an equal opportunity employer that is committed to inclusion and diversity. We ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender, gender identity or expression, marital status, age, national origin, disability, veteran status, genetic information, or other protected characteristic.\nIf you need assistance or an accommodation due to a disability, you may call Human Resources",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Wisconsin",
+    "job_city": null,
+    "job_state": "Wisconsin",
+    "job_country": "US",
+    "job_latitude": 43.7844397,
+    "job_longitude": -88.7878678,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFBlRk5khvOty77PNAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "You're enthusiastic about tackling complex challenges and can distill them into actionable solutions",
+        "You prioritize writing clean, readable, and testable code, while understanding the importance of pragmatism",
+        "You prefer working in isolation or solely on predefined tasks without broader context",
+        "Adaptability to shifting priorities in a dynamic environment is challenging for you",
+        "Collaborating with non-engineering disciplines, such as product and design, doesn't align with your working style",
+        "Bachelor's degree in Computer Science or a related technical field involving coding (e.g, physics or mathematics), or equivalent technical experience",
+        "10+ years as a data or analytics engineer, with a focus on a combination of data modeling and engineering",
+        "Experience in designing and implementing scalable and high-performance analytics features",
+        "Proficiency in multiple programming languages, frameworks, and technologies, specifically dbt, SQL, Jinja, BigQuery, cube, and Python",
+        "Knowledge of data architectures, security best practices, and data integration concepts",
+        "Experience with ETL technologies and data engineering with a focus on building and maintaining data platforms, data pipelines, and data ingestion tools",
+        "Exposure to modern infrastructure such as code technologies like Docker, Kubernetes, Terraform, and Airflow",
+        "In depth understanding of database concepts, data modeling, and data warehousing principles",
+        "Understanding of distributed data management systems and related applications",
+        "Familiarity with public cloud infrastructure design, tools, and strategies",
+        "Experience with software development methodologies including Agile, Kanban, and Scrum A growth mindset and excitement for using AI to drive innovation, improve workflows and solve complex problems",
+        "Collaborative by nature, you value pairing, whiteboarding sessions, and learning from diverse perspectives",
+        "Passionate about delivering high-quality products that enhance client experiences and drive sustainability in transportation"
+      ],
+      "Responsibilities": [
+        "As a Senior Analytics Engineer, you will play a crucial role in the design, development, and implementation of robust, scalable, and high-performance analytics solutions",
+        "You will be responsible for analytic data modeling, building efficient ETL processes, and seamless integrations with SaaS products and visualization tools, leveraging your expertise to drive technical excellence across the team",
+        "Collaborate with cross-functional teams—including product owners, designers, and fellow engineers—to build reliable, scalable systems",
+        "Working closely with our clients, market experts, and the broader Breakthrough team, you will build innovative solutions that solve industry problems",
+        "Lead the end-to-end design and implementation of new product features and services",
+        "Learn and apply the latest technologies to our cloud native solutions",
+        "Write clean, maintainable code accompanied by comprehensive automated tests",
+        "Review pull requests, mentor other engineers, and elevate the technical standards within the team",
+        "Contribute to technical strategy, system design, and process improvements",
+        "Participate in our on-call rotation and support production systems, embracing a shared ownership model",
+        "Understanding the underlying purpose of your work motivates you, beyond merely delivering features",
+        "You thrive in collaborative settings, engaging with engineers, product owners, and designers to achieve common goals",
+        "You're committed to advancing sustainability in transportation and reducing environmental impact through technological innovation",
+        "You seek a rigid hierarchical structure to guide all decision-making processes",
+        "Cross-Functional Teams: You'll be part of an agile team of fellow engineers, fostering a holistic approach to product development by working with Product Owners, Quality Assurance, and others throughout the organization",
+        "Continuous Improvement: We regularly conduct retrospectives, refine our processes, and invest in addressing technical debt to enhance our workflows",
+        "Empowered Engineers: Beyond task execution, you're encouraged to influence both what we build and how we build it, ensuring alignment with our strategic objectives"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-whatjobs-com-jobs-senior-analytics-engineer",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "XAY1ZGCPVXZ2djEhAAAAAA==",
+    "job_title": "Senior Analytics Engineer, Revenue Operations",
+    "employer_name": "DNSFilter",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNX15ECaIW708N2bP7xkfHys6oDsq3bdDMp-jE&s=0",
+    "employer_website": "https://www.dnsfilter.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/DNSFilter/Job/Senior-Analytics-Engineer,-Revenue-Operations/-in-Tampa,FL?jid=2bd1004a3b8d5fcc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/DNSFilter/Job/Senior-Analytics-Engineer,-Revenue-Operations/-in-Tampa,FL?jid=2bd1004a3b8d5fcc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Energy Jobline",
+        "apply_link": "https://www.energyjobline.com/job/senior-analytics-engineer-revenue-operations-tampa-29339333?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Monster",
+        "apply_link": "https://www.monster.com/job-openings/senior-analytics-engineer-revenue-operations-tampa-fl--5b88feb5-7b6b-4dae-88b1-d4fe5bc04a4b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/b349576177e17bb28ec69bd9b5a00a28?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/6983dc5b01214b4cdacbfbfc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "JobLeads",
+        "apply_link": "https://www.jobleads.com/us/job/senior-analytics-engineer-revenue-operations--tampa--e3fcc5e3d10e3b4e113602d5a797a69c3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Learn4Good",
+        "apply_link": "https://www.learn4good.com/jobs/tampa/florida/info_technology/4862446604/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LifeworQ",
+        "apply_link": "https://lifeworq.com/job/500e9772-2bdd-4470-9cac-e2b4e2716170?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "DNSFilter's mission is to protect our customers and partners with products they love to use! We are revolutionizing network security by providing fast, accurate, and reliable threat protection and content filtering. We're a rapidly growing company dedicated to creating a safer internet for businesses and organizations worldwide. Leveraging AI-driven threat intelligence, DNSFilter empowers our customers to proactively block threats before they impact their networks. We foster a collaborative, innovative, and results-oriented culture where every team member contributes to our mission of making the internet safer.\n\nAs we continue our product-fueled growth by adding new features and broadening our solution to meet the needs of the global market, it's clear there's a missing piece. That's where you come in!\n\nWe're seeking a Senior Analytics Engineer, Revenue Operations, to own and scale the RevOps data domain. This role sits on the Revenue Operations team, will report to the Senior Director, RevOps, and partners closely with Sales, Marketing, Customer Support, Customer Success, Finance, Product, and the Data Platform team to deliver trusted, analytics-ready data that powers GTM systems, reporting, and decision-making.\n\nThis is a senior individual contributor role with deep ownership. You'll treat the RevOps data domain as a product, not a collection of dashboards—balancing rigor, scalability, and stakeholder alignment in a fast-moving environment.\n\nEligible candidates have and can work successfully in a small to mid-sized fast-paced, hyper-growth, SaaS start-up or scale-up. This is a full-time role open to candidates in the United States and Canada.\n\nWe recognize that people come with a wealth of experience and talent beyond just the technical requirements of a job. If you feel like this job is for you, please apply. We believe diversity of experience and skills, including transferable skills, combined with passion, is a key to innovation and excellence; therefore, we encourage people from all backgrounds to apply to our positions!\n\nAt DNSFilter, You Will:\n\nOwn the RevOps Data Domain\n• Architect and own the RevOps / BizOps data zone within our Data Mesh, treating it as a product that is high-quality, discoverable, well-documented, and the authoritative source of truth for revenue data\n• Establish clear ownership, documentation, and governance for core RevOps datasets and metrics\n\nBuild & Scale Analytics Foundations\n• Own the end-to-end design, development, and maintenance of analytics solutions that power downstream GTM systems, reporting, and decision-making\n• Partner with the Data Platform (Data Engineering) team to transform data landed from internal databases, third-party APIs, and Airflow-managed pipelines into analytics-ready models\n• Develop, optimize, and maintain ELT pipelines using dbt Cloud, transforming PostgreSQL and other source data into analytics-ready datasets in Amazon Athena\n• Ensure reliable data availability, performance, and quality within our Athena-based analytics data zone\n\nOwn Data State, History, and Performance\n• Lead our approach to capturing data evolution and history, making heavy use of dbt snapshots and incremental models to support point-in-time and trend analysis\n• Write performant, cost-aware SQL optimized for distributed query engines (Amazon Athena), including queries operating over tens of billions of rows\n• Design models with scalability and maintainability in mind, prioritizing long-term clarity over clever but fragile solutions\n\nDefine, Govern & Operationalize Metrics\n• Design, implement, and maintain a semantic layer (e.g., dbt semantic models/metrics) that serves as the authoritative source for business definitions and revenue metrics\n• Introduce and steward a centralized data dictionary and metric catalog, ensuring consistent definitions across dashboards, reports, and GTM systems\n• Partner closely with RevOps, Finance, Product, and GTM stakeholders to define, govern, and evolve shared metrics—aligning on \"what is what\" as the business grows\n• Act as a trusted arbiter for metric definitions, managing versioning, documentation, and change communication\n\nModel Revenue Data for Downstream GTM Systems\n• Design data models that are consumable by the GTM Systems team for use in downstream operational tools such as Salesforce, Hubspot, and Zendesk\n• Expose clean, well-documented datasets and metrics that can be reliably reused across reporting, automation, and operational workflows\n• Partner with the GTM Systems team to ensure data models meet operational needs, performance requirements, and system constraints\n• Ensure consistency between analytical models and operational system logic, minimizing metric drift between analytics and GTM tooling\n\nOwn BI Reporting & Visualization\n• Own the design, development, and ongoing maintenance of RevOps dashboards, reports, and visualizations in our BI tool\n• Ensure all reporting is powered by governed, well-modeled, and tested datasets—avoiding one-off queries and metric drift\n• Partner with GTM, RevOps, and executive stakeholders to translate business needs into scalable, self-service dashboards\n• Continuously audit and improve existing dashboards for accuracy, performance, usability, and clarity\n• Define standards and best practices for dashboard design, metric presentation, and reporting governance\n\nDrive Accuracy, Simplicity & Trust\n• Get \"down in the weeds\" to validate data end-to-end, using SQL, spreadsheets, and source-system analysis to trace and resolve discrepancies\n• Uphold a \"simplicity at scale\" philosophy—choosing readable, maintainable SQL over over-engineered abstractions that accrue technical debt\n• Maintain logic at the appropriate layer: when metrics require new or corrected product data, partner with upstream owners rather than introducing brittle downstream workarounds\n• Review, audit, and refactor existing dbt models, ELT jobs, and dashboards to improve accuracy, performance, and maintainability\n\nEnable the Business & Look Forward\n• Design, build, and maintain dashboards and reports powered by well-modeled, tested data—avoiding one-off queries and metric drift\n• Support the GTM Systems team by ensuring analytics and reporting dependencies are reliable and well-documented\n• Leverage AI-assisted development tools to accelerate SQL development, dbt modeling, testing, documentation, and refactoring\n• Explore and pilot AI-enabled approaches to improve data quality, observability, and operational efficiency with sound judgment around accuracy and governance\n• Establish and promote best practices for data modeling, testing, documentation, and dashboard governance\n\nTo Qualify for this Role, You Have:\n• 5+ years of experience in analytics engineering or data engineering, specifically supporting GTM, RevOps, or BizOps functions\n• Expert dbt knowledge, including advanced use of incremental strategies, snapshotting, and modular project structure—you know when to use a macro and when not to\n• Deep proficiency in SQL with experience optimizing queries for modern distributed warehouses (e.g., Amazon Athena, BigQuery, Snowflake), including partitioning and cost optimization\n• Hands-on experience designing and maintaining analytics-ready data models and ELT pipelines from application and operational data sources\n• Experience implementing or working with semantic layers or governed metrics frameworks (e.g., dbt semantic layer or equivalent)\n• A meticulous, almost obsessive approach to data accuracy—you aren't satisfied until the numbers tie out 1:1 and you can prove it\n• Demonstrated ability to reconcile complex datasets across systems and identify root causes of discrepancies\n• A strong \"do it right\" mindset, including the ability to push back on unscalable requests and prioritize durable solutions over short-term fixes\n• Understanding of data mesh principles, domain ownership, and the discipline required to maintain a standalone analytics data zone\n• Strong communication skills and comfort level in influencing both technical and non-technical stakeholders\n\nBonus points for:\n• Direct experience working on a Revenue Operations team\n• Experience supporting Sales, Marketing, Customer Support, and Customer Success analytics\n• Experience introducing or maturing a centralized data dictionary and driving organizational adoption of governed metrics\n• Exposure to data mesh or domain-oriented data ownership models in production environments\n• Experience applying AI-assisted development tools to analytics engineering workflows (SQL, dbt, testing, documentation, refactoring)\n• Familiarity with revenue lifecycle metrics (pipeline, conversion rates, ARR/MRR, churn, expansion, forecasting)\n\nWe Offer:\n• Pathway to promotion to additional organizational positions and responsibilities based upon results and performance, not just time in the chair. You help us grow, and we will help you grow.\n• Passionate and intelligent colleagues who work hard and have a good time doing it\n• Paid company-wide week off at the end of each year\n• Flexible Vacation Policy\n• Awesome company swag\n• Full medical, dental, and vision benefits for US, UK, and Canada-based employees\n• Full short-term disability and life benefits; available long-term disability\n• Retirement savings account options with vested company matching for qualifying employees\n• In-person annual gatherings. Last time we all spent a week on a beach in Cancun!\n\nDNSFilter is a pay-for-performance organization, which means there is an opportunity to advance your compensation based on performance over time. The hiring base pay is dependent on several factors, including level, function, training, transferable skills, work experience, business needs, and geographic location. As a hybrid company, our compensation reflects the cost of labor across several U.S. and global geographic markets. We pay differently based on those defined markets. Our Talent Team can share more about the specific salary range for the job location during the hiring process.\n\nDNSFilter participates in the E-Verify program.\n\nAt DNSFilter, we utilize sophisticated software and tools to identify and eliminate Deepfake candidates. This approach helps us maintain the integrity of our hiring process, ensuring that we select the most qualified and genuine individuals to join our team.\nU.S. hiring salary range\n$130,000—$170,000 USD",
+    "job_is_remote": false,
+    "job_posted_at": "13 days ago",
+    "job_posted_at_timestamp": 1770249600,
+    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
+    "job_location": "Tampa, FL",
+    "job_city": "Tampa",
+    "job_state": "Florida",
+    "job_country": "US",
+    "job_latitude": 27.951689599999998,
+    "job_longitude": -82.45875269999999,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DXAY1ZGCPVXZ2djEhAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Eligible candidates have and can work successfully in a small to mid-sized fast-paced, hyper-growth, SaaS start-up or scale-up",
+        "Drive Accuracy, Simplicity & Trust",
+        "Get \"down in the weeds\" to validate data end-to-end, using SQL, spreadsheets, and source-system analysis to trace and resolve discrepancies",
+        "5+ years of experience in analytics engineering or data engineering, specifically supporting GTM, RevOps, or BizOps functions",
+        "Expert dbt knowledge, including advanced use of incremental strategies, snapshotting, and modular project structure—you know when to use a macro and when not to",
+        "Deep proficiency in SQL with experience optimizing queries for modern distributed warehouses (e.g., Amazon Athena, BigQuery, Snowflake), including partitioning and cost optimization",
+        "Hands-on experience designing and maintaining analytics-ready data models and ELT pipelines from application and operational data sources",
+        "Experience implementing or working with semantic layers or governed metrics frameworks (e.g., dbt semantic layer or equivalent)",
+        "A meticulous, almost obsessive approach to data accuracy—you aren't satisfied until the numbers tie out 1:1 and you can prove it",
+        "Demonstrated ability to reconcile complex datasets across systems and identify root causes of discrepancies",
+        "A strong \"do it right\" mindset, including the ability to push back on unscalable requests and prioritize durable solutions over short-term fixes",
+        "Understanding of data mesh principles, domain ownership, and the discipline required to maintain a standalone analytics data zone",
+        "Strong communication skills and comfort level in influencing both technical and non-technical stakeholders",
+        "Direct experience working on a Revenue Operations team",
+        "Experience supporting Sales, Marketing, Customer Support, and Customer Success analytics",
+        "Experience introducing or maturing a centralized data dictionary and driving organizational adoption of governed metrics",
+        "Exposure to data mesh or domain-oriented data ownership models in production environments",
+        "Experience applying AI-assisted development tools to analytics engineering workflows (SQL, dbt, testing, documentation, refactoring)",
+        "Familiarity with revenue lifecycle metrics (pipeline, conversion rates, ARR/MRR, churn, expansion, forecasting)"
+      ],
+      "Benefits": [
+        "Pathway to promotion to additional organizational positions and responsibilities based upon results and performance, not just time in the chair",
+        "Passionate and intelligent colleagues who work hard and have a good time doing it",
+        "Paid company-wide week off at the end of each year",
+        "Flexible Vacation Policy",
+        "Awesome company swag",
+        "Full medical, dental, and vision benefits for US, UK, and Canada-based employees",
+        "Full short-term disability and life benefits; available long-term disability",
+        "Retirement savings account options with vested company matching for qualifying employees",
+        "In-person annual gatherings",
+        "DNSFilter is a pay-for-performance organization, which means there is an opportunity to advance your compensation based on performance over time",
+        "The hiring base pay is dependent on several factors, including level, function, training, transferable skills, work experience, business needs, and geographic location",
+        "$130,000—$170,000 USD"
+      ],
+      "Responsibilities": [
+        "We're seeking a Senior Analytics Engineer, Revenue Operations, to own and scale the RevOps data domain",
+        "This role sits on the Revenue Operations team, will report to the Senior Director, RevOps, and partners closely with Sales, Marketing, Customer Support, Customer Success, Finance, Product, and the Data Platform team to deliver trusted, analytics-ready data that powers GTM systems, reporting, and decision-making",
+        "This is a senior individual contributor role with deep ownership",
+        "You'll treat the RevOps data domain as a product, not a collection of dashboards—balancing rigor, scalability, and stakeholder alignment in a fast-moving environment",
+        "Architect and own the RevOps / BizOps data zone within our Data Mesh, treating it as a product that is high-quality, discoverable, well-documented, and the authoritative source of truth for revenue data",
+        "Establish clear ownership, documentation, and governance for core RevOps datasets and metrics",
+        "Build & Scale Analytics Foundations",
+        "Own the end-to-end design, development, and maintenance of analytics solutions that power downstream GTM systems, reporting, and decision-making",
+        "Partner with the Data Platform (Data Engineering) team to transform data landed from internal databases, third-party APIs, and Airflow-managed pipelines into analytics-ready models",
+        "Develop, optimize, and maintain ELT pipelines using dbt Cloud, transforming PostgreSQL and other source data into analytics-ready datasets in Amazon Athena",
+        "Ensure reliable data availability, performance, and quality within our Athena-based analytics data zone",
+        "Own Data State, History, and Performance",
+        "Lead our approach to capturing data evolution and history, making heavy use of dbt snapshots and incremental models to support point-in-time and trend analysis",
+        "Write performant, cost-aware SQL optimized for distributed query engines (Amazon Athena), including queries operating over tens of billions of rows",
+        "Design models with scalability and maintainability in mind, prioritizing long-term clarity over clever but fragile solutions",
+        "Design, implement, and maintain a semantic layer (e.g., dbt semantic models/metrics) that serves as the authoritative source for business definitions and revenue metrics",
+        "Introduce and steward a centralized data dictionary and metric catalog, ensuring consistent definitions across dashboards, reports, and GTM systems",
+        "Partner closely with RevOps, Finance, Product, and GTM stakeholders to define, govern, and evolve shared metrics—aligning on \"what is what\" as the business grows",
+        "Act as a trusted arbiter for metric definitions, managing versioning, documentation, and change communication",
+        "Model Revenue Data for Downstream GTM Systems",
+        "Design data models that are consumable by the GTM Systems team for use in downstream operational tools such as Salesforce, Hubspot, and Zendesk",
+        "Expose clean, well-documented datasets and metrics that can be reliably reused across reporting, automation, and operational workflows",
+        "Partner with the GTM Systems team to ensure data models meet operational needs, performance requirements, and system constraints",
+        "Ensure consistency between analytical models and operational system logic, minimizing metric drift between analytics and GTM tooling",
+        "Own BI Reporting & Visualization",
+        "Own the design, development, and ongoing maintenance of RevOps dashboards, reports, and visualizations in our BI tool",
+        "Ensure all reporting is powered by governed, well-modeled, and tested datasets—avoiding one-off queries and metric drift",
+        "Partner with GTM, RevOps, and executive stakeholders to translate business needs into scalable, self-service dashboards",
+        "Continuously audit and improve existing dashboards for accuracy, performance, usability, and clarity",
+        "Define standards and best practices for dashboard design, metric presentation, and reporting governance",
+        "Uphold a \"simplicity at scale\" philosophy—choosing readable, maintainable SQL over over-engineered abstractions that accrue technical debt",
+        "Maintain logic at the appropriate layer: when metrics require new or corrected product data, partner with upstream owners rather than introducing brittle downstream workarounds",
+        "Review, audit, and refactor existing dbt models, ELT jobs, and dashboards to improve accuracy, performance, and maintainability",
+        "Enable the Business & Look Forward",
+        "Design, build, and maintain dashboards and reports powered by well-modeled, tested data—avoiding one-off queries and metric drift",
+        "Support the GTM Systems team by ensuring analytics and reporting dependencies are reliable and well-documented",
+        "Leverage AI-assisted development tools to accelerate SQL development, dbt modeling, testing, documentation, and refactoring",
+        "Explore and pilot AI-enabled approaches to improve data quality, observability, and operational efficiency with sound judgment around accuracy and governance",
+        "Establish and promote best practices for data modeling, testing, documentation, and dashboard governance"
+      ]
+    },
+    "job_onet_soc": "43911100",
+    "job_onet_job_zone": "4",
+    "id": "www-ziprecruiter-com-c-dnsfilter-job-senior-analytics-engineer-revenue-operations-in-tampa-fl",
     "_source": "new_jobs"
   },
   {
@@ -1034,6 +1034,117 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "careers-bcg-com-global-en-job-55729-global-it-data-engineer-expert-director",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "4GHeUqb67eilko0QAAAAAA==",
+    "job_title": "Simulation Engineer- Supply Chain",
+    "employer_name": "Cencora",
+    "employer_logo": null,
+    "employer_website": "https://www.cencora.com",
+    "job_publisher": "Cencora Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.cencora.com/us/en/job/R2523242/Simulation-Engineer-Supply-Chain?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Cencora Careers",
+        "apply_link": "https://careers.cencora.com/us/en/job/R2523242/Simulation-Engineer-Supply-Chain?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/cCMwXHk6HcfhsFhWMSOkJvsMbRYzJa1VoQehAqbdWDeno7Y_Oz0JNQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/8a691ec6b6682787516e82bdcee83da8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Bandana.com",
+        "apply_link": "https://bandana.com/jobs/5a9763e9-b513-41d2-8e16-b08333bbbf2a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Our team members are at the heart of everything we do. At Cencora, we are united in our responsibility to create healthier futures, and every person here is essential to us being able to deliver on that purpose. If you want to make a difference at the center of health, come join our innovative company and help us improve the lives of people and animals everywhere. Apply today!\n\nJob Details\n\nWe are seeking a talented and experienced Supply Chain Simulation Engineer to lead and collaborate on the design, development, and deployment of tools and strategies that will enable more effective data-driven decision making.\n\nThis individual will provide guidance through advanced analytics modeling and optimizing facilities within the Supply Chain.\n\nThe Simulation Engineer should have a firm understanding of distribution operational and automation processes.\n\nThe ideal candidate will be a skilled communicator with experience telling compelling stories through data-driven insights.\n\nRoles and Responsibilities:\n• Create simulation models of our distribution centers that will help determine efficiency opportunities.\n• Understand and have experience with design and / or implementation of automation solutions such as conveyors, sorters, high speed picking and packaging lines, robotic work cells.\n• Work closely with other teams, such as Engineering and Operations, in the validation of the models and in the design of potential scenarios that will improve the total outcome.\n• Collaborate in developing a cost to serve model.\n• Implement and support the new inhouse simulation capabilities – process, tools, training.\n• Collaborate in the creation of business cases to close gaps and define capex requirements.\n• Provide advice and insights on improving existing simulation capabilities.\n• Design interactive business intelligence dashboards to share input and outputs.\n• Develop and train team to utilize self-service modeling functionality.\n• Stay up to date with modeling and simulations trends.\n• Perform other duties as assigned.\n\nEducation:\n• A Bachelors degree in Industrial Engineering, Operations Research, Quantitative Methods, Data Science or related field or equivalent professional qualification/workplace skills.\n• Master’s degree preferred.\n\nExperience:\n• Requires five (5) to seven (7) years of directly related and progressively responsible experience.\n• Hands-on experience using simulation and analytical tools to solve operational problems.\n• Practical experience with Simulation frameworks (discrete-event, agent-based) and technologies such as AnyLogic/Arena/EnterpriseDynamics/FlexSim/etc\n• Project Management / Agile hands-on experience.\n• Experience working in an Operations environment.\n• Experience with business intelligence tools (PowerBI, Tableau, Qlik).\n• Experience pulling and cleaning data from Cloud Platforms (Google, Azure), or Supply Chain Tools (including ERP, WMS, TMS, Inventory & Forecasting Tools).\n• Experience programming with data analytic tools such as SQL, Python, DataBricks, etc.\n• Experience transforming CAD data into simulation tools.\n• Experience building business cases and cost/benefit analysis to support strategic decision making.\n\nSkills and Abilities:\n• Strong analytical and critical thinking skills, with the ability to identify and resolve complex issues quickly and innovative. Experience leveraging analytic based approaches to problem solving, such as Statistical Process Control, Design of Experiments, Six Sigma, or other statistical analysis frameworks.\n• Team oriented and collaborative working style.\n• Growth mindset, positive attitude and strong interest in solving business challenges and adapting to a changing work environment.\n• Ability to communicate effectively both orally and in writing; ability to communicate (and work) effectively with people from different technical and business backgrounds, acting as a liaison, understanding, and appreciating different perspectives and translating into terms necessary for any group or individual to understand.\n• Presentation skills: ability to present and discuss technical information in a manner that establishes rapport, persuades others, and establishes understanding for technical and non-technical audiences.\n• Strong organizational skills; attention to detail.\n• Must be able to interact well with others both directly (face-to-face) and remotely within a multi-discipline shared work environment.\n• Ability to influence through the use of data and insights while showing tactful discretion with difficult/sensitive information.\n• Travel required per project, estimated at 2 weeks per quarter.\n• Ability to manage multiple projects\n\nWhat Cencora offers\n\nWe provide compensation, benefits, and resources that enable a highly inclusive culture and support our team members’ ability to live with purpose every day. In addition to traditional offerings like medical, dental, and vision care, we also provide a comprehensive suite of benefits that focus on the physical, emotional, financial, and social aspects of wellness. This encompasses support for working families, which may include backup dependent care, adoption assistance, infertility coverage, family building support, behavioral health solutions, paid parental leave, and paid caregiver leave. To encourage your personal growth, we also offer a variety of training programs, professional development resources, and opportunities to participate in mentorship programs, employee resource groups, volunteer activities, and much more. For details, visit https://www.virtualfairhub.com/cencora\n\nFull time\n\nSalary Range*\n\n$88,700 - 126,940\n• This Salary Range reflects a National Average for this job. The actual range may vary based on your locale. Ranges in Colorado/California/Washington/New York/Hawaii/Vermont/Minnesota/Massachusetts/Illinois State-specific locations may be up to 10% lower than the minimum salary range, and 12% higher than the maximum salary range.\n\nEqual Employment Opportunity\n\nCencora is committed to providing equal employment opportunity without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status or membership in any other class protected by federal, state or local law.\n\nThe company’s continued success depends on the full and effective utilization of qualified individuals. Therefore, harassment is prohibited and all matters related to recruiting, training, compensation, benefits, promotions and transfers comply with equal opportunity principles and are non-discriminatory.\n\nCencora is committed to providing reasonable accommodations to individuals with disabilities during the employment process which are consistent with legal requirements. If you wish to request an accommodation while seeking employment, please call 888.692.2272 or email hrsc@cencora.com. We will make accommodation determinations on a request-by-request basis. Messages and emails regarding anything other than accommodations requests will not be returned\n\n.\nAffiliated Companies:\nAffiliated Companies: AmerisourceBergen Drug Corporation",
+    "job_is_remote": false,
+    "job_posted_at": "13 days ago",
+    "job_posted_at_timestamp": 1770249600,
+    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
+    "job_location": "W CNSHOHOCKEN, PA",
+    "job_city": "Conshohocken",
+    "job_state": "Pennsylvania",
+    "job_country": "US",
+    "job_latitude": 40.0792766,
+    "job_longitude": -75.3015714,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4GHeUqb67eilko0QAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "The ideal candidate will be a skilled communicator with experience telling compelling stories through data-driven insights",
+        "A Bachelors degree in Industrial Engineering, Operations Research, Quantitative Methods, Data Science or related field or equivalent professional qualification/workplace skills",
+        "Requires five (5) to seven (7) years of directly related and progressively responsible experience",
+        "Hands-on experience using simulation and analytical tools to solve operational problems",
+        "Practical experience with Simulation frameworks (discrete-event, agent-based) and technologies such as AnyLogic/Arena/EnterpriseDynamics/FlexSim/etc",
+        "Project Management / Agile hands-on experience",
+        "Experience working in an Operations environment",
+        "Experience with business intelligence tools (PowerBI, Tableau, Qlik)",
+        "Experience pulling and cleaning data from Cloud Platforms (Google, Azure), or Supply Chain Tools (including ERP, WMS, TMS, Inventory & Forecasting Tools)",
+        "Experience programming with data analytic tools such as SQL, Python, DataBricks, etc",
+        "Experience transforming CAD data into simulation tools",
+        "Experience building business cases and cost/benefit analysis to support strategic decision making",
+        "Strong analytical and critical thinking skills, with the ability to identify and resolve complex issues quickly and innovative",
+        "Experience leveraging analytic based approaches to problem solving, such as Statistical Process Control, Design of Experiments, Six Sigma, or other statistical analysis frameworks",
+        "Growth mindset, positive attitude and strong interest in solving business challenges and adapting to a changing work environment",
+        "Ability to communicate effectively both orally and in writing; ability to communicate (and work) effectively with people from different technical and business backgrounds, acting as a liaison, understanding, and appreciating different perspectives and translating into terms necessary for any group or individual to understand",
+        "Presentation skills: ability to present and discuss technical information in a manner that establishes rapport, persuades others, and establishes understanding for technical and non-technical audiences",
+        "Strong organizational skills; attention to detail",
+        "Must be able to interact well with others both directly (face-to-face) and remotely within a multi-discipline shared work environment"
+      ],
+      "Benefits": [
+        "We provide compensation, benefits, and resources that enable a highly inclusive culture and support our team members’ ability to live with purpose every day",
+        "In addition to traditional offerings like medical, dental, and vision care, we also provide a comprehensive suite of benefits that focus on the physical, emotional, financial, and social aspects of wellness",
+        "This encompasses support for working families, which may include backup dependent care, adoption assistance, infertility coverage, family building support, behavioral health solutions, paid parental leave, and paid caregiver leave",
+        "To encourage your personal growth, we also offer a variety of training programs, professional development resources, and opportunities to participate in mentorship programs, employee resource groups, volunteer activities, and much more",
+        "Salary Range*",
+        "$88,700 - 126,940",
+        "This Salary Range reflects a National Average for this job"
+      ],
+      "Responsibilities": [
+        "This individual will provide guidance through advanced analytics modeling and optimizing facilities within the Supply Chain",
+        "The Simulation Engineer should have a firm understanding of distribution operational and automation processes",
+        "Create simulation models of our distribution centers that will help determine efficiency opportunities",
+        "Understand and have experience with design and / or implementation of automation solutions such as conveyors, sorters, high speed picking and packaging lines, robotic work cells",
+        "Work closely with other teams, such as Engineering and Operations, in the validation of the models and in the design of potential scenarios that will improve the total outcome",
+        "Collaborate in developing a cost to serve model",
+        "Implement and support the new inhouse simulation capabilities – process, tools, training",
+        "Collaborate in the creation of business cases to close gaps and define capex requirements",
+        "Provide advice and insights on improving existing simulation capabilities",
+        "Design interactive business intelligence dashboards to share input and outputs",
+        "Develop and train team to utilize self-service modeling functionality",
+        "Stay up to date with modeling and simulations trends",
+        "Perform other duties as assigned",
+        "Team oriented and collaborative working style",
+        "Ability to influence through the use of data and insights while showing tactful discretion with difficult/sensitive information",
+        "Travel required per project, estimated at 2 weeks per quarter",
+        "Ability to manage multiple projects"
+      ]
+    },
+    "job_onet_soc": "13108100",
+    "job_onet_job_zone": "4",
+    "id": "careers-cencora-com-us-en-job-r2523242-simulation-engineer-supply-chain",
     "_source": "new_jobs"
   },
   {
@@ -1179,117 +1290,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "4GHeUqb67eilko0QAAAAAA==",
-    "job_title": "Simulation Engineer- Supply Chain",
-    "employer_name": "Cencora",
-    "employer_logo": null,
-    "employer_website": "https://www.cencora.com",
-    "job_publisher": "Cencora Careers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://careers.cencora.com/us/en/job/R2523242/Simulation-Engineer-Supply-Chain?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Cencora Careers",
-        "apply_link": "https://careers.cencora.com/us/en/job/R2523242/Simulation-Engineer-Supply-Chain?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/cCMwXHk6HcfhsFhWMSOkJvsMbRYzJa1VoQehAqbdWDeno7Y_Oz0JNQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/8a691ec6b6682787516e82bdcee83da8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Bandana.com",
-        "apply_link": "https://bandana.com/jobs/5a9763e9-b513-41d2-8e16-b08333bbbf2a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Our team members are at the heart of everything we do. At Cencora, we are united in our responsibility to create healthier futures, and every person here is essential to us being able to deliver on that purpose. If you want to make a difference at the center of health, come join our innovative company and help us improve the lives of people and animals everywhere. Apply today!\n\nJob Details\n\nWe are seeking a talented and experienced Supply Chain Simulation Engineer to lead and collaborate on the design, development, and deployment of tools and strategies that will enable more effective data-driven decision making.\n\nThis individual will provide guidance through advanced analytics modeling and optimizing facilities within the Supply Chain.\n\nThe Simulation Engineer should have a firm understanding of distribution operational and automation processes.\n\nThe ideal candidate will be a skilled communicator with experience telling compelling stories through data-driven insights.\n\nRoles and Responsibilities:\n• Create simulation models of our distribution centers that will help determine efficiency opportunities.\n• Understand and have experience with design and / or implementation of automation solutions such as conveyors, sorters, high speed picking and packaging lines, robotic work cells.\n• Work closely with other teams, such as Engineering and Operations, in the validation of the models and in the design of potential scenarios that will improve the total outcome.\n• Collaborate in developing a cost to serve model.\n• Implement and support the new inhouse simulation capabilities – process, tools, training.\n• Collaborate in the creation of business cases to close gaps and define capex requirements.\n• Provide advice and insights on improving existing simulation capabilities.\n• Design interactive business intelligence dashboards to share input and outputs.\n• Develop and train team to utilize self-service modeling functionality.\n• Stay up to date with modeling and simulations trends.\n• Perform other duties as assigned.\n\nEducation:\n• A Bachelors degree in Industrial Engineering, Operations Research, Quantitative Methods, Data Science or related field or equivalent professional qualification/workplace skills.\n• Master’s degree preferred.\n\nExperience:\n• Requires five (5) to seven (7) years of directly related and progressively responsible experience.\n• Hands-on experience using simulation and analytical tools to solve operational problems.\n• Practical experience with Simulation frameworks (discrete-event, agent-based) and technologies such as AnyLogic/Arena/EnterpriseDynamics/FlexSim/etc\n• Project Management / Agile hands-on experience.\n• Experience working in an Operations environment.\n• Experience with business intelligence tools (PowerBI, Tableau, Qlik).\n• Experience pulling and cleaning data from Cloud Platforms (Google, Azure), or Supply Chain Tools (including ERP, WMS, TMS, Inventory & Forecasting Tools).\n• Experience programming with data analytic tools such as SQL, Python, DataBricks, etc.\n• Experience transforming CAD data into simulation tools.\n• Experience building business cases and cost/benefit analysis to support strategic decision making.\n\nSkills and Abilities:\n• Strong analytical and critical thinking skills, with the ability to identify and resolve complex issues quickly and innovative. Experience leveraging analytic based approaches to problem solving, such as Statistical Process Control, Design of Experiments, Six Sigma, or other statistical analysis frameworks.\n• Team oriented and collaborative working style.\n• Growth mindset, positive attitude and strong interest in solving business challenges and adapting to a changing work environment.\n• Ability to communicate effectively both orally and in writing; ability to communicate (and work) effectively with people from different technical and business backgrounds, acting as a liaison, understanding, and appreciating different perspectives and translating into terms necessary for any group or individual to understand.\n• Presentation skills: ability to present and discuss technical information in a manner that establishes rapport, persuades others, and establishes understanding for technical and non-technical audiences.\n• Strong organizational skills; attention to detail.\n• Must be able to interact well with others both directly (face-to-face) and remotely within a multi-discipline shared work environment.\n• Ability to influence through the use of data and insights while showing tactful discretion with difficult/sensitive information.\n• Travel required per project, estimated at 2 weeks per quarter.\n• Ability to manage multiple projects\n\nWhat Cencora offers\n\nWe provide compensation, benefits, and resources that enable a highly inclusive culture and support our team members’ ability to live with purpose every day. In addition to traditional offerings like medical, dental, and vision care, we also provide a comprehensive suite of benefits that focus on the physical, emotional, financial, and social aspects of wellness. This encompasses support for working families, which may include backup dependent care, adoption assistance, infertility coverage, family building support, behavioral health solutions, paid parental leave, and paid caregiver leave. To encourage your personal growth, we also offer a variety of training programs, professional development resources, and opportunities to participate in mentorship programs, employee resource groups, volunteer activities, and much more. For details, visit https://www.virtualfairhub.com/cencora\n\nFull time\n\nSalary Range*\n\n$88,700 - 126,940\n• This Salary Range reflects a National Average for this job. The actual range may vary based on your locale. Ranges in Colorado/California/Washington/New York/Hawaii/Vermont/Minnesota/Massachusetts/Illinois State-specific locations may be up to 10% lower than the minimum salary range, and 12% higher than the maximum salary range.\n\nEqual Employment Opportunity\n\nCencora is committed to providing equal employment opportunity without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status or membership in any other class protected by federal, state or local law.\n\nThe company’s continued success depends on the full and effective utilization of qualified individuals. Therefore, harassment is prohibited and all matters related to recruiting, training, compensation, benefits, promotions and transfers comply with equal opportunity principles and are non-discriminatory.\n\nCencora is committed to providing reasonable accommodations to individuals with disabilities during the employment process which are consistent with legal requirements. If you wish to request an accommodation while seeking employment, please call 888.692.2272 or email hrsc@cencora.com. We will make accommodation determinations on a request-by-request basis. Messages and emails regarding anything other than accommodations requests will not be returned\n\n.\nAffiliated Companies:\nAffiliated Companies: AmerisourceBergen Drug Corporation",
-    "job_is_remote": false,
-    "job_posted_at": "13 days ago",
-    "job_posted_at_timestamp": 1770249600,
-    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
-    "job_location": "W CNSHOHOCKEN, PA",
-    "job_city": "Conshohocken",
-    "job_state": "Pennsylvania",
-    "job_country": "US",
-    "job_latitude": 40.0792766,
-    "job_longitude": -75.3015714,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4GHeUqb67eilko0QAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "The ideal candidate will be a skilled communicator with experience telling compelling stories through data-driven insights",
-        "A Bachelors degree in Industrial Engineering, Operations Research, Quantitative Methods, Data Science or related field or equivalent professional qualification/workplace skills",
-        "Requires five (5) to seven (7) years of directly related and progressively responsible experience",
-        "Hands-on experience using simulation and analytical tools to solve operational problems",
-        "Practical experience with Simulation frameworks (discrete-event, agent-based) and technologies such as AnyLogic/Arena/EnterpriseDynamics/FlexSim/etc",
-        "Project Management / Agile hands-on experience",
-        "Experience working in an Operations environment",
-        "Experience with business intelligence tools (PowerBI, Tableau, Qlik)",
-        "Experience pulling and cleaning data from Cloud Platforms (Google, Azure), or Supply Chain Tools (including ERP, WMS, TMS, Inventory & Forecasting Tools)",
-        "Experience programming with data analytic tools such as SQL, Python, DataBricks, etc",
-        "Experience transforming CAD data into simulation tools",
-        "Experience building business cases and cost/benefit analysis to support strategic decision making",
-        "Strong analytical and critical thinking skills, with the ability to identify and resolve complex issues quickly and innovative",
-        "Experience leveraging analytic based approaches to problem solving, such as Statistical Process Control, Design of Experiments, Six Sigma, or other statistical analysis frameworks",
-        "Growth mindset, positive attitude and strong interest in solving business challenges and adapting to a changing work environment",
-        "Ability to communicate effectively both orally and in writing; ability to communicate (and work) effectively with people from different technical and business backgrounds, acting as a liaison, understanding, and appreciating different perspectives and translating into terms necessary for any group or individual to understand",
-        "Presentation skills: ability to present and discuss technical information in a manner that establishes rapport, persuades others, and establishes understanding for technical and non-technical audiences",
-        "Strong organizational skills; attention to detail",
-        "Must be able to interact well with others both directly (face-to-face) and remotely within a multi-discipline shared work environment"
-      ],
-      "Benefits": [
-        "We provide compensation, benefits, and resources that enable a highly inclusive culture and support our team members’ ability to live with purpose every day",
-        "In addition to traditional offerings like medical, dental, and vision care, we also provide a comprehensive suite of benefits that focus on the physical, emotional, financial, and social aspects of wellness",
-        "This encompasses support for working families, which may include backup dependent care, adoption assistance, infertility coverage, family building support, behavioral health solutions, paid parental leave, and paid caregiver leave",
-        "To encourage your personal growth, we also offer a variety of training programs, professional development resources, and opportunities to participate in mentorship programs, employee resource groups, volunteer activities, and much more",
-        "Salary Range*",
-        "$88,700 - 126,940",
-        "This Salary Range reflects a National Average for this job"
-      ],
-      "Responsibilities": [
-        "This individual will provide guidance through advanced analytics modeling and optimizing facilities within the Supply Chain",
-        "The Simulation Engineer should have a firm understanding of distribution operational and automation processes",
-        "Create simulation models of our distribution centers that will help determine efficiency opportunities",
-        "Understand and have experience with design and / or implementation of automation solutions such as conveyors, sorters, high speed picking and packaging lines, robotic work cells",
-        "Work closely with other teams, such as Engineering and Operations, in the validation of the models and in the design of potential scenarios that will improve the total outcome",
-        "Collaborate in developing a cost to serve model",
-        "Implement and support the new inhouse simulation capabilities – process, tools, training",
-        "Collaborate in the creation of business cases to close gaps and define capex requirements",
-        "Provide advice and insights on improving existing simulation capabilities",
-        "Design interactive business intelligence dashboards to share input and outputs",
-        "Develop and train team to utilize self-service modeling functionality",
-        "Stay up to date with modeling and simulations trends",
-        "Perform other duties as assigned",
-        "Team oriented and collaborative working style",
-        "Ability to influence through the use of data and insights while showing tactful discretion with difficult/sensitive information",
-        "Travel required per project, estimated at 2 weeks per quarter",
-        "Ability to manage multiple projects"
-      ]
-    },
-    "job_onet_soc": "13108100",
-    "job_onet_job_zone": "4",
-    "id": "careers-cencora-com-us-en-job-r2523242-simulation-engineer-supply-chain",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "5FJGrJp-KLWXkkHBAAAAAA==",
     "job_title": "Staff Analytics Engineer",
     "employer_name": "VirtualVocations",
@@ -1355,7 +1355,7 @@
     "job_title": "Staff Data Engineer – Cloud Data Platform",
     "employer_name": "01 Calix North America",
     "employer_logo": null,
-    "employer_website": null,
+    "employer_website": "https://www.calix.com",
     "job_publisher": "Workday",
     "job_employment_type": "Full-time",
     "job_employment_types": [
@@ -1419,129 +1419,6 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "calix-wd1-myworkdayjobs-com-en-us-external-job-staff-data-engineer-cloud-data-platform_r-10714",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "QMFI59Aeon5OiMxQAAAAAA==",
-    "job_title": "Data Solutions Engineer",
-    "employer_name": "Early Career",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "Citi Careers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobs.citi.com/job/irving/data-solutions-engineer/287/91594717280?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Citi Careers",
-        "apply_link": "https://jobs.citi.com/job/irving/data-solutions-engineer/287/91594717280?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=12272bb5413dda94&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/data-solutions-engineer-citi-JV_IC1140006_KO0,23_KE24,28.htm?jl=1010030029481&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/-ZBW4eiGrDb3Dr5czTYeI2QaJErXFTVKY7CiC8HcO-gC_AN4pjITwg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/data-solutions-engineer-at-citi-4370775693?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Experteer",
-        "apply_link": "https://us.experteer.com/career/view-jobs/data-solutions-engineer-irving-tx-usa-56103968?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/18342d1b3a5230bb8ebc6b74cb10e255?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "This Data Solutions Engineer (Applications Development Senior Programmer Analyst - C12) is responsible for building next-generation Data Engineering solutions. This intermediate-level position involves active participation in the establishment and implementation of new or revised application systems and programs in coordination with the Technology team. A key aspect of this role is liaising between business users and technologists to facilitate the exchange of information regarding solutions, including requirements and usage.\n\nResponsibilities:\n• Serve as an integral team member of our Data Engineering team, responsible for the design and development of Big Data solutions.\n• Partner with domain experts, product managers, analysts, and data scientists to develop robust Big Data pipelines in Hadoop or Snowflake environments.\n• Responsible for delivering a data-as-a-service framework.\n• Responsible for moving all legacy workloads to cloud platform.\n• Lead the migration of all legacy workloads to cloud platforms.\n• Engage with key stakeholders to elicit and document requirements, including detailed data flow specifications.\n• Assess appropriate solutions and collaborate with relevant teams to drive optimal implementations.\n• Work with data scientists to build client pipelines using heterogeneous sources and provide essential engineering services for data science applications.\n• Research and evaluate open-source technologies and components, recommending and integrating them into design and implementation efforts.\n• Act as a technical expert, mentoring other team members on Big Data and Cloud technology stacks.\n• Define comprehensive requirements for maintainability, testability, performance, security, quality, and usability across the data platform.\n• Drive the implementation of consistent patterns, reusable components, and coding standards for all data engineering processes.\n• Convert SAS-based pipelines into modern languages like PySpark and Scala for execution on Hadoop and non-Hadoop ecosystems.\n• Optimize Big Data applications on both Hadoop and non-Hadoop platforms for peak performance.\n• Evaluate new IT developments and evolving business requirements, recommending appropriate system alternatives and/or enhancements to current systems through analysis of business processes, systems, and industry standards.\n• Appropriately assess risk when making business decisions, demonstrating consideration for the firm's reputation and safeguarding Citigroup, its clients, and assets. This includes driving compliance with applicable laws, rules, and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct, and business practices, and escalating, managing, and reporting control issues with transparency.\n\nRequired Qualifications:\n• 5+ years of experience with Hadoop and Big Data technologies\n• Demonstrated proficiency in Python, PySpark, and Scala, including practical experience with fundamental machine learning libraries\n• Experience in developing robust data solutions leveraging Google Cloud or AWS platforms; relevant certifications are preferred\n• Experience with SAS\n• Experience with containerization and related technologies (e.g., Docker, Kubernetes)\n• Comprehensive understanding of software engineering and data analytics\n• In-depth knowledge and hands-on experience with the Hadoop ecosystem and Big Data technologies (e.g., HDFS, MapReduce, Hive, Pig, Impala, Kafka, Kudu, Solr)\n• Knowledge of Agile (Scrum) development methodologies.\n• Strong development and automation skills.\n• System-level understanding of data structures, algorithms, distributed storage, and compute.\n• A proactive approach to solving complex business problems, complemented by strong interpersonal and teamwork skills.\n\nDesired Qualifications\n• Familiarity with Hadoop administration and Snowflake.\n• Proficiency in Java or additional experience with Apache Beam.\n\nEducation:\n• Bachelor’s degree/University degree or equivalent experience\n\nApplicants must be authorized to work in the U.S for this position; Citi will not sponsor applicants for U.S. work authorization for this role. Candidate must be located within commuting distance or be willing to relocate to the area.\n\nThis job description provides a high-level review of the types of work performed. Other job-related duties may be assigned as required.\n\n------------------------------------------------------\n\nJob Family Group:\nTechnology\n\n------------------------------------------------------\n\nJob Family:\nApplications Development\n\n------------------------------------------------------\n\nTime Type:\nFull time\n\n------------------------------------------------------\n\nPrimary Location:\nIrving Texas United States\n\n------------------------------------------------------\n\nPrimary Location Full Time Salary Range:\n$107,120.00 - $160,680.00\n\nIn addition to salary, Citi’s offerings may also include, for eligible employees, discretionary and formulaic incentive and retention awards. Citi offers competitive employee benefits, including: medical, dental & vision coverage; 401(k); life, accident, and disability insurance; and wellness programs. Citi also offers paid time off packages, including planned time off (vacation), unplanned time off (sick leave), and paid holidays. For additional information regarding Citi employee benefits, please visit citibenefits.com. Available offerings may vary by jurisdiction, job level, and date of hire.\n\n------------------------------------------------------\n\nMost Relevant Skills\nPlease see the requirements listed above.\n\n------------------------------------------------------\n\nOther Relevant Skills\nFor complementary skills, please see above and/or contact the recruiter.\n\n------------------------------------------------------\n\nAnticipated Posting Close Date:\nFeb 24, 2026\n\n------------------------------------------------------\n\nCiti is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.\n\nIf you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.\n\nView Citi’s EEO Policy Statement and the Know Your Rights poster.",
-    "job_is_remote": false,
-    "job_posted_at": "8 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Jacksonville, FL",
-    "job_city": "Jacksonville",
-    "job_state": "Florida",
-    "job_country": "US",
-    "job_latitude": 30.3297566,
-    "job_longitude": -81.6591529,
-    "job_benefits": [
-      "health_insurance",
-      "paid_time_off",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DQMFI59Aeon5OiMxQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "5+ years of experience with Hadoop and Big Data technologies",
-        "Demonstrated proficiency in Python, PySpark, and Scala, including practical experience with fundamental machine learning libraries",
-        "Experience with SAS",
-        "Experience with containerization and related technologies (e.g., Docker, Kubernetes)",
-        "Comprehensive understanding of software engineering and data analytics",
-        "In-depth knowledge and hands-on experience with the Hadoop ecosystem and Big Data technologies (e.g., HDFS, MapReduce, Hive, Pig, Impala, Kafka, Kudu, Solr)",
-        "Knowledge of Agile (Scrum) development methodologies",
-        "Strong development and automation skills",
-        "System-level understanding of data structures, algorithms, distributed storage, and compute",
-        "A proactive approach to solving complex business problems, complemented by strong interpersonal and teamwork skills",
-        "Bachelor’s degree/University degree or equivalent experience",
-        "Applicants must be authorized to work in the U.S for this position; Citi will not sponsor applicants for U.S. work authorization for this role",
-        "Candidate must be located within commuting distance or be willing to relocate to the area",
-        "Please see the requirements listed above",
-        "For complementary skills, please see above and/or contact the recruiter"
-      ],
-      "Benefits": [
-        "$107,120.00 - $160,680.00",
-        "In addition to salary, Citi’s offerings may also include, for eligible employees, discretionary and formulaic incentive and retention awards",
-        "Citi offers competitive employee benefits, including: medical, dental & vision coverage; 401(k); life, accident, and disability insurance; and wellness programs",
-        "Citi also offers paid time off packages, including planned time off (vacation), unplanned time off (sick leave), and paid holidays"
-      ],
-      "Responsibilities": [
-        "This intermediate-level position involves active participation in the establishment and implementation of new or revised application systems and programs in coordination with the Technology team",
-        "A key aspect of this role is liaising between business users and technologists to facilitate the exchange of information regarding solutions, including requirements and usage",
-        "Serve as an integral team member of our Data Engineering team, responsible for the design and development of Big Data solutions",
-        "Partner with domain experts, product managers, analysts, and data scientists to develop robust Big Data pipelines in Hadoop or Snowflake environments",
-        "Responsible for delivering a data-as-a-service framework",
-        "Responsible for moving all legacy workloads to cloud platform",
-        "Lead the migration of all legacy workloads to cloud platforms",
-        "Engage with key stakeholders to elicit and document requirements, including detailed data flow specifications",
-        "Assess appropriate solutions and collaborate with relevant teams to drive optimal implementations",
-        "Work with data scientists to build client pipelines using heterogeneous sources and provide essential engineering services for data science applications",
-        "Research and evaluate open-source technologies and components, recommending and integrating them into design and implementation efforts",
-        "Act as a technical expert, mentoring other team members on Big Data and Cloud technology stacks",
-        "Define comprehensive requirements for maintainability, testability, performance, security, quality, and usability across the data platform",
-        "Drive the implementation of consistent patterns, reusable components, and coding standards for all data engineering processes",
-        "Convert SAS-based pipelines into modern languages like PySpark and Scala for execution on Hadoop and non-Hadoop ecosystems",
-        "Optimize Big Data applications on both Hadoop and non-Hadoop platforms for peak performance",
-        "Evaluate new IT developments and evolving business requirements, recommending appropriate system alternatives and/or enhancements to current systems through analysis of business processes, systems, and industry standards",
-        "Appropriately assess risk when making business decisions, demonstrating consideration for the firm's reputation and safeguarding Citigroup, its clients, and assets",
-        "This includes driving compliance with applicable laws, rules, and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct, and business practices, and escalating, managing, and reporting control issues with transparency",
-        "This job description provides a high-level review of the types of work performed"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "jobs-citi-com-job-irving-data-solutions-engineer-287-91594717280",
     "_source": "new_jobs"
   },
   {
@@ -1655,6 +1532,61 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "0ihmnDaGYARMqeWnAAAAAA==",
+    "job_title": "Data Integration Engineer",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=dcaee1d2df8d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=dcaee1d2df8d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A company is looking for a Structured Data Integration & Testing Engineer to enhance its member-facing AI assistant through reliable data integration and testing.\n\nKey Responsibilities\n\nLead the development and implementation of AI solutions for healthcare payer use cases\n\nArchitect and deploy scalable AI models using Python and cloud platforms\n\nCollaborate with product teams to identify and prioritize AI opportunities that address business challenges\n\nRequired Qualifications\n\nBachelor's degree in STEM or equivalent work experience required; Master's or PhD preferred\n\n5+ years of experience in analytics, technology, or software engineering, with 3+ years in machine learning\n\nProven experience with large datasets and data science pipelines\n\nDeep knowledge of machine learning frameworks and natural language processing\n\nExperience deploying ML models in cloud environments, preferably GCP Vertex AI",
+    "job_is_remote": false,
+    "job_posted_at": "8 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "New Orleans, LA",
+    "job_city": "New Orleans",
+    "job_state": "Louisiana",
+    "job_country": "US",
+    "job_latitude": 29.9508941,
+    "job_longitude": -90.07583559999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D0ihmnDaGYARMqeWnAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "5+ years of experience in analytics, technology, or software engineering, with 3+ years in machine learning",
+        "Proven experience with large datasets and data science pipelines",
+        "Deep knowledge of machine learning frameworks and natural language processing",
+        "Experience deploying ML models in cloud environments, preferably GCP Vertex AI"
+      ],
+      "Responsibilities": [
+        "Lead the development and implementation of AI solutions for healthcare payer use cases",
+        "Architect and deploy scalable AI models using Python and cloud platforms",
+        "Collaborate with product teams to identify and prioritize AI opportunities that address business challenges"
+      ]
+    },
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "oiOUmKiJy99QiKAiAAAAAA==",
     "job_title": "Healthcare Data Engineer",
     "employer_name": "VirtualVocations",
@@ -1703,61 +1635,6 @@
         "Support the development and maintenance of secure, scalable data systems for analytics in a HIPAA regulated environment",
         "Contribute to building and operating data pipelines from various healthcare sources",
         "Assist in documenting data processes and participate in data quality efforts"
-      ]
-    },
-    "job_onet_soc": "15113200",
-    "job_onet_job_zone": "4",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "0ihmnDaGYARMqeWnAAAAAA==",
-    "job_title": "Data Integration Engineer",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=dcaee1d2df8d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=dcaee1d2df8d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A company is looking for a Structured Data Integration & Testing Engineer to enhance its member-facing AI assistant through reliable data integration and testing.\n\nKey Responsibilities\n\nLead the development and implementation of AI solutions for healthcare payer use cases\n\nArchitect and deploy scalable AI models using Python and cloud platforms\n\nCollaborate with product teams to identify and prioritize AI opportunities that address business challenges\n\nRequired Qualifications\n\nBachelor's degree in STEM or equivalent work experience required; Master's or PhD preferred\n\n5+ years of experience in analytics, technology, or software engineering, with 3+ years in machine learning\n\nProven experience with large datasets and data science pipelines\n\nDeep knowledge of machine learning frameworks and natural language processing\n\nExperience deploying ML models in cloud environments, preferably GCP Vertex AI",
-    "job_is_remote": false,
-    "job_posted_at": "8 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "New Orleans, LA",
-    "job_city": "New Orleans",
-    "job_state": "Louisiana",
-    "job_country": "US",
-    "job_latitude": 29.9508941,
-    "job_longitude": -90.07583559999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D0ihmnDaGYARMqeWnAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "5+ years of experience in analytics, technology, or software engineering, with 3+ years in machine learning",
-        "Proven experience with large datasets and data science pipelines",
-        "Deep knowledge of machine learning frameworks and natural language processing",
-        "Experience deploying ML models in cloud environments, preferably GCP Vertex AI"
-      ],
-      "Responsibilities": [
-        "Lead the development and implementation of AI solutions for healthcare payer use cases",
-        "Architect and deploy scalable AI models using Python and cloud platforms",
-        "Collaborate with product teams to identify and prioritize AI opportunities that address business challenges"
       ]
     },
     "job_onet_soc": "15113200",
@@ -1819,6 +1696,132 @@
     "job_onet_soc": "15113200",
     "job_onet_job_zone": "4",
     "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "F3YNoAGYzMQ4ombjAAAAAA==",
+    "job_title": "US Tech - AI Evaluation Engineer (QA) Senior Associate",
+    "employer_name": "Line of Service:Internal Firm Services",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbISADYwodxUByAAwOWWSxMKSDRSb_NgVyIy99&s=0",
+    "employer_website": null,
+    "job_publisher": "PwC",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.us.pwc.com/job/tampa/us-tech-ai-evaluation-engineer-qa-senior-associate/932/90837388896?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "PwC",
+        "apply_link": "https://jobs.us.pwc.com/job/tampa/us-tech-ai-evaluation-engineer-qa-senior-associate/932/90837388896?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/PwC/Job/US-Tech-AI-Evaluation-Engineer-Manager/-in-Kansas-City,MO?jid=4cd5917815944191&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=4259bcf542e81040&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/n_j1HuxdCF6LJtKkdmMaJ-ZAEMVLFn09BeBfjs5y3HQvelArqHHnKg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/us-tech-ai-evaluation-engineer-manager-pwc-JV_IC1131040_KO0,38_KE39,42.htm?jl=1010007156756&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobs For Stevenage Fans",
+        "apply_link": "https://jobs.stevenagefc.com/jobs/ai-evaluation-engineer-qa-manager-kansas-city-missouri/2608389714-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Talents By Vaia",
+        "apply_link": "https://talents.vaia.com/companies/pwc/us-tech-ai-ux-designer-manager-31302115/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "KSNT Jobs",
+        "apply_link": "https://jobs.ksnt.com/jobs/ai-evaluation-engineer-qa-manager-kansas-city-missouri/2608389714-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "At PwC, our people in data and analytics engineering focus on leveraging advanced technologies and techniques to design and develop robust data solutions for clients. They play a crucial role in transforming raw data into actionable insights, enabling informed decision-making and driving business growth. Those in data science and machine learning engineering at PwC will focus on leveraging advanced analytics and machine learning techniques to extract insights from large datasets and drive data-driven decision making. You will work on developing predictive models, conducting statistical analysis, and creating data visualisations to solve complex business problems.\n\nFocused on relationships, you are building meaningful client connections, and learning how to manage and inspire others. Navigating increasingly complex situations, you are growing your personal brand, deepening technical expertise and awareness of your strengths. You are expected to anticipate the needs of your teams and clients, and to deliver quality. Embracing increased ambiguity, you are comfortable when the path forward isn’t clear, you ask questions, and you use these moments as opportunities to grow.\n\nExamples of the skills, knowledge, and experiences you need to lead and deliver value at this level include but are not limited to:\n• Respond effectively to the diverse perspectives, needs, and feelings of others.\n• Use a broad range of tools, methodologies and techniques to generate new ideas and solve problems.\n• Use critical thinking to break down complex concepts.\n• Understand the broader objectives of your project or role and how your work fits into the overall strategy.\n• Develop a deeper understanding of the business context and how it is changing.\n• Use reflection to develop self awareness, enhance strengths and address development areas.\n• Interpret data to inform insights and recommendations.\n• Uphold and reinforce professional and technical standards (e.g. refer to specific PwC tax and audit guidance), the Firm's code of conduct, and independence requirements.\n\nThe Opportunity\n\nAs part of the People Tech & AI team you will develop, test, and validate Generative AI agents and data pipelines, promoting reliability, scalability, and alignment with PwC standards. As a Senior Associate you will analyze complex problems, mentor others, and maintain elevated standards while collaborating with multidisciplinary teams to support AI-enabled client solutions. This position provides an exciting opportunity to enhance your skills in automated testing and governance controls while contributing to innovative AI-driven solutions.\n\nResponsibilities\n\n- Apply automated testing and governance controls effectively\n\n- Analyze complex issues and provide actionable insights\n\n- Mentor and guide junior associates in their tasks\n\n- Uphold rigorous standards of quality and technical excellence\n\nWhat You Must Have\n\n- Bachelor's Degree in Computer Science, Data Processing/Analytics/Science\n\n- At least 2 years of experience in data engineering, AI/ML engineering, or quality engineering\n\n- In lieu of a Bachelor's Degree, demonstrating, in addition to the minimum years of experience required for the role, three years of specialized training and/or progressively responsible work experience in technology for each missing year of college\n\nWhat Sets You Apart\n\n- Demonstrating three years of specialized training in technology preferred\n\n- Experience with test automation and CI/CD pipelines\n\n- Familiarity with LLMs and prompt engineering concepts\n\n- Understanding enterprise data patterns and quality frameworks\n\n- Building and maintaining automated test suites for AI agents\n\n- Validating integrations with Power Automate platform\n\n- Executing LLM evaluation frameworks using defined metrics\n\n- Working with data scientists and ML engineers\n\n- Upholding professional standards and documentation expectations\n\nLearn more about how we work: https://pwc.to/how-we-work\n\nPwC does not intend to hire experienced or entry level job seekers who will need, now or in the future, PwC sponsorship through the H-1B lottery, except as set forth within the following policy: https://pwc.to/H-1B-Lottery-Policy.\n\nAs PwC is an equal opportunity employer, all qualified applicants will receive consideration for employment at PwC without regard to race; color; religion; national origin; sex (including pregnancy, sexual orientation, and gender identity); age; disability; genetic information (including family medical history); veteran, marital, or citizenship status; or, any other status protected by law. \n\nFor only those qualified applicants that are impacted by the Los Angeles County Fair Chance Ordinance for Employers, the Los Angeles' Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, San Diego County Fair Chance Ordinance, and the California Fair Chance Act, where applicable, arrest or conviction records will be considered for Employment in accordance with these laws. At PwC, we recognize that conviction records may have a direct, adverse, and negative relationship to responsibilities such as accessing sensitive company or customer information, handling proprietary assets, or collaborating closely with team members. We evaluate these factors thoughtfully to establish a secure and trusted workplace for all.\n\nApplications will be accepted until the position is filled or the posting is removed, unless otherwise set forth on the following webpage. Please visit this link for information about anticipated application deadlines: https://pwc.to/us-application-deadlines\n\nThe salary range for this position is: $55,000 - $151,470. For residents of Washington state the salary range for this position is: $55,000 - $187,000. Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications and location, and applicable employment laws. All hired individuals are eligible for an annual discretionary bonus. PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation, personal and family sick leave, and more. To view our benefits at a glance, please visit the following link: https://pwc.to/benefits-at-a-glance\n\n#LI-Remote\n\n#LI-Hybrid",
+    "job_is_remote": false,
+    "job_posted_at": "9 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "Washington, DC",
+    "job_city": "Washington",
+    "job_state": "District of Columbia",
+    "job_country": "US",
+    "job_latitude": 38.9072873,
+    "job_longitude": -77.0369274,
+    "job_benefits": [
+      "dental_coverage",
+      "paid_time_off",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DF3YNoAGYzMQ4ombjAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Bachelor's Degree in Computer Science, Data Processing/Analytics/Science",
+        "At least 2 years of experience in data engineering, AI/ML engineering, or quality engineering",
+        "In lieu of a Bachelor's Degree, demonstrating, in addition to the minimum years of experience required for the role, three years of specialized training and/or progressively responsible work experience in technology for each missing year of college",
+        "Experience with test automation and CI/CD pipelines",
+        "Familiarity with LLMs and prompt engineering concepts",
+        "Understanding enterprise data patterns and quality frameworks",
+        "Building and maintaining automated test suites for AI agents",
+        "Executing LLM evaluation frameworks using defined metrics",
+        "Working with data scientists and ML engineers",
+        "Upholding professional standards and documentation expectations"
+      ],
+      "Benefits": [
+        "The salary range for this position is: $55,000 - $151,470",
+        "For residents of Washington state the salary range for this position is: $55,000 - $187,000",
+        "Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications and location, and applicable employment laws",
+        "All hired individuals are eligible for an annual discretionary bonus",
+        "PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation, personal and family sick leave, and more"
+      ],
+      "Responsibilities": [
+        "They play a crucial role in transforming raw data into actionable insights, enabling informed decision-making and driving business growth",
+        "Those in data science and machine learning engineering at PwC will focus on leveraging advanced analytics and machine learning techniques to extract insights from large datasets and drive data-driven decision making",
+        "You will work on developing predictive models, conducting statistical analysis, and creating data visualisations to solve complex business problems",
+        "Focused on relationships, you are building meaningful client connections, and learning how to manage and inspire others",
+        "Navigating increasingly complex situations, you are growing your personal brand, deepening technical expertise and awareness of your strengths",
+        "You are expected to anticipate the needs of your teams and clients, and to deliver quality",
+        "Respond effectively to the diverse perspectives, needs, and feelings of others",
+        "Use a broad range of tools, methodologies and techniques to generate new ideas and solve problems",
+        "Use critical thinking to break down complex concepts",
+        "Understand the broader objectives of your project or role and how your work fits into the overall strategy",
+        "Develop a deeper understanding of the business context and how it is changing",
+        "Use reflection to develop self awareness, enhance strengths and address development areas",
+        "Interpret data to inform insights and recommendations",
+        "Uphold and reinforce professional and technical standards (e.g. refer to specific PwC tax and audit guidance), the Firm's code of conduct, and independence requirements",
+        "As part of the People Tech & AI team you will develop, test, and validate Generative AI agents and data pipelines, promoting reliability, scalability, and alignment with PwC standards",
+        "As a Senior Associate you will analyze complex problems, mentor others, and maintain elevated standards while collaborating with multidisciplinary teams to support AI-enabled client solutions",
+        "This position provides an exciting opportunity to enhance your skills in automated testing and governance controls while contributing to innovative AI-driven solutions",
+        "Apply automated testing and governance controls effectively",
+        "Analyze complex issues and provide actionable insights",
+        "Mentor and guide junior associates in their tasks",
+        "Uphold rigorous standards of quality and technical excellence",
+        "Validating integrations with Power Automate platform"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "jobs-us-pwc-com-job-tampa-us-tech-ai-evaluation-engineer-qa-senior-associate-932-90837388896",
     "_source": "new_jobs"
   }
 ]
