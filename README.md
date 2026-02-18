@@ -9,16 +9,16 @@
 
 # Data Science Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-5-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-5-blue?style=flat&logo=building)
-![Data Scientist](https://img.shields.io/badge/Data_Scientist-5-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-10-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
+![Data Scientist](https://img.shields.io/badge/Data_Scientist-10-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time data science, analytics, and machine learning jobs from 5+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 5+ fresh opportunities for new graduates, data science students, and entry-level data analysts.</p>
+<p align="center">🚀 Real-time data science, analytics, and machine learning jobs from 9+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 10+ fresh opportunities for new graduates, data science students, and entry-level data analysts.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -69,15 +69,20 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/dsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>🔬 <strong>Data Scientist</strong> (5 positions)</h3></summary>
+<summary><h3>🔬 <strong>Data Scientist</strong> (10 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🏢 **The MITRE Corporation** | Internships in Data Science, Mat... | McLean, Virginia | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115478/Internships-in-Data-Science-Math-Statistics-or-Operations-Research?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Southern California Edison** | 2026 Summer Internship - Data An... 🏠 | Rosemead, California | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/3v1Uxhjvc5vdoviuOTP4fb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Xometry** | Machine Learning Intern - Full-t... | North Bethesda, Maryland | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.snagajob.com/jobs/1202259953?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Amentum** | Data Science Intern | Houston, Texas | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amentumcareers.com/jobs/data-science-intern-houston-texas-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Avionics USA** | Operations Intern- Data Science | Grand Prairie, Texas | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.safran-group.com/jobs/united-states/grand-prairie/operations-intern-172032?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Dell USA** | Data Science Undergraduate | Round Rock, Texas | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://prosple.com/graduate-employers/dell/jobs-internships/data-science-undergraduate?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **VirtualVocations** | AI and Machine Learning Intern 🏠 | Torrance, California | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=57435c3697da&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Instacart** | Machine Learning Engineer, PhD I... | Remote 🏠 | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Instacart/Job/Machine-Learning-Engineer,-PhD-Intern/-in-Remote,OR?jid=8afc6caf65ecc2ba&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Intuitive Surgical** | Machine Learning Scientist Intern | Sunnyvale, California | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.intuitive.com/en/jobs/744000107834945/JOB211953/machine-learning-scientist-intern/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Intuitive Surgical** | ML Engineering Intern | Peachtree Corners, Georgia | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.intuitive.com/en/jobs/744000107840054/JOB212194/ml-engineering-intern/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -138,20 +143,30 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 2 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 4 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 2 positions
-- **🏢 Companies**: 5 companies
+- **📁 Total Jobs**: 4 positions
+- **🏢 Companies**: 9 companies
 - **🏷️ Top Category**: Data Scientist
 
 <details>
-<summary><h3>🔬 <strong>Data Scientist</strong> (2 positions)</h3></summary>
+<summary><h3>🔬 <strong>Data Scientist</strong> (3 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Virtua** | IT Data Science Intern | Evesham, New Jersey | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.virtuacareers.com/job/marlton/it-data-science-intern/1234/91137098496?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Hyundai Motor Company** | Data Science Intern (Internship ... | Irvine, California | 4w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-americas.hyundai.com/hatci/job/Irvine-Data-Science-Intern-%28Internship-Summer-2026%29-CA-92618/1337723300/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **DoorDash** | Machine Learning Intern (Masters... 🏠 | San Francisco, California | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/DoorDash/Job/Machine-Learning-Intern-(Masters)-Summer-2026/-in-San-Francisco,CA?jid=f8aed0b2473fefe5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🎵 **Spotify** | 2026 Summer Internship, Machine ... | Stockholm, Maine | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.careerbuilder.com/job/J3R4DW6YY2JCVZFCXK5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Under Armour** | Summer 2026 Internship, AI & Adv... | Remote 🏠 | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.underarmour.com/job/Remote-Summer-2026-Internship%2C-AI-&-Advanced-Analytics/1330070200/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+</details>
+
+<details>
+<summary><h3>🤖 <strong>Machine Learning</strong> (1 positions)</h3></summary>
+
+| Company | Role | Location | Posted | Level | Apply |
+|---------|------|----------|--------|-------|-------|
+| 🏢 **Persona AI** | Machine Learning Internship, Man... | Houston, Texas | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://us.bebee.com/job/8992323cddc6ee5c0c3168f5064a32f2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -165,7 +180,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 5 current opportunities from 5 companies**
+**🎯 10 current opportunities from 9 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
