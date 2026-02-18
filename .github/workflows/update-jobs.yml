@@ -44,6 +44,7 @@ jobs:
         node .github/scripts/job-fetcher/index.js 2>&1 | tee .github/logs/job-fetcher.log
       env:
         JSEARCH_API_KEY: ${{ secrets.JSEARCH_API_KEY }}
+        GH_PAT: ${{ secrets.GH_PAT }}
 
     - name: Write current_jobs.json for aggregator
       run: |
