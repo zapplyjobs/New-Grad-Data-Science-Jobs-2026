@@ -133,8 +133,8 @@
     "job_latitude": 36.778261,
     "job_longitude": -119.4179324,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
+      "paid_time_off",
       "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DjVB6CWaK1VR2FGY5AAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -262,9 +262,9 @@
     ],
     "job_description": "Job Description Summary\nGE Vernova Advanced Research Center is seeking a highly motivated and technically skilled Junior PhD Engineer to join our Controls and Optimization team. As part of a multidisciplinary group of scientists and engineers, you will contribute to solving complex industrial challenges using mathematical modeling, optimization, and simulation. You will work on projects spanning energy systems, manufacturing, logistics, supply chain management and emerging technologies, collaborating with domain experts to deliver impactful solutions. This role offers a unique opportunity to apply cutting-edge research in a dynamic, real-world environment while continuing to grow your expertise in operations research and analytics.\n\nAs a GE Vernova accelerator, GE Vernova Advanced Research is driving strategy and leading research & development efforts to execute on the business's mission to help power the energy transition. We forge the collaborations and help invent the technologies required to electrify and decarbonize for a zero-carbon future.\n\nRepresenting virtually every major scientific and engineering discipline, our researchers are collaborating with GE Vernova's businesses, the U.S. government, and more than 420 entities at the forefront of technology to execute on 150+ energy-focused projects. Collectively, these research programs and initiatives aim to solve near term technical challenges, deliver next generation product advances, and drive long term breakthrough innovation to enable more affordable, reliable, sustainable, and secure energy.\n\nJob Description\n\nRoles and Responsibilities\n• Develop and implement mathematical models for optimization, scheduling, resource allocation, logistics and supply chain management\n• Design and execute simulation studies to evaluate system performance under uncertainty\n• Collaborate with cross-functional teams to translate business problems into analytical frameworks\n• Prototype and validate algorithms using Python, MATLAB, or similar platforms\n• Communicate technical findings through presentations, reports, and publications\n• Contribute to proposal development and support external funding initiatives\n• Stay current with advancements in operations research and related fields\n\nRequired Qualifications\n• PhD in Operations Research, Industrial Engineering, Applied Mathematics, or related field\n• Strong foundation in linear, nonlinear, and integer optimization\n• Proficiency in programming languages such as Python, C++, or MATLAB\n• Experience with optimization solvers (e.g., Gurobi, CPLEX, or SCIP)\n• Demonstrated ability to conduct independent research and publish in peer-reviewed venues\n• Legal authorization to work in the US is required. We will not sponsor individuals at the Master's level, now or in the future, for this position.\n• You must be 18 years of age or older\n• Must be willing to work out of an office located in Niskayuna, NY\n• You must submit your application for employment on the careers page at www.careers.gevernova.com to be considered.\n\nDesired Characteristics\n• Familiarity with machine learning techniques and integration with optimization\n• Experience with stochastic modeling, queuing theory, or game theory\n• Strong communication and interpersonal skills for working in multidisciplinary teams\n• Intellectual curiosity and a passion for solving real-world problems\n• Ability to manage multiple projects and adapt to evolving priorities\n• Prior internship or collaboration with industry or government research labs\n\nThe salary range for this position is $98,400 - $164,000 USD, annually. The specific salary offered to a candidate may be influenced by a variety of factors including the candidate’s experience, their education, and the work location. This position is also eligible for a performance bonus. This position will remain posted until at least September 6th 2025.\n\nGE Vernova provides a comprehensive benefits package that provides access to plans which support the overall wellbeing of our employees and their dependents. These benefits include, but are not limited to, health care coverage (medical, dental, vision, pharmacy), a retirement plan that includes Company Retirement Savings and a 401K with Company matching, Life Insurance options, Disability coverage, paid time-off, EAP, and more.\n\nGE Vernova offers a great work environment, professional development, challenging careers, and competitive compensation. GE Vernova is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.\n\nGE Vernova will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a drug screen (as applicable).\n\nRelocation Assistance Provided: Yes\n\nFor candidates applying to a U.S. based position, the pay range for this position is between $98,400.00 and $164,000.00. The Company pays a geographic differential of 110%, 120% or 130% of salary in certain areas. The specific pay offered may be influenced by a variety of factors, including the candidate’s experience, education, and skill set.\n\nBonus eligibility: discretionary annual bonus.\n\nThis posting is expected to remain open for at least seven days after it was posted on January 16, 2026.\n\nAvailable benefits include medical, dental, vision, and prescription drug coverage; access to Health Coach from GE Vernova, a 24/7 nurse-based resource; and access to the Employee Assistance Program, providing 24/7 confidential assessment, counseling and referral services. Retirement benefits include the GE Vernova Retirement Savings Plan, a tax-advantaged 401(k) savings opportunity with company matching contributions and company retirement contributions, as well as access to Fidelity resources and financial planning consultants. Other benefits include tuition assistance, adoption assistance, paid parental leave, disability benefits, life insurance, 12 paid holidays, and permissive time off.\n\nGE Vernova Inc. or its affiliates (collectively or individually, “GE Vernova”) sponsor certain employee benefit plans or programs GE Vernova reserves the right to terminate, amend, suspend, replace, or modify its benefit plans and programs at any time and for any reason, in its sole discretion. No individual has a vested right to any benefit under a GE Vernova welfare benefit plan or program. This document does not create a contract of employment with any individual.",
     "job_is_remote": false,
-    "job_posted_at": "9 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_posted_at": "10 days ago",
+    "job_posted_at_timestamp": 1770508800,
+    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
     "job_location": "Niskayuna",
     "job_city": "Niskayuna",
     "job_state": "New York",
@@ -272,9 +272,9 @@
     "job_latitude": 42.8000049,
     "job_longitude": -73.89144069999999,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D35SmjIIjy-8bWho0AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -393,8 +393,8 @@
     "job_latitude": 35.0523673,
     "job_longitude": -78.87837739999999,
     "job_benefits": [
-      "paid_time_off",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DVlqY3iOPnG0NG2gHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -524,9 +524,9 @@
     "job_latitude": 44.2711706,
     "job_longitude": -72.48705029999999,
     "job_benefits": [
-      "health_insurance",
       "paid_time_off",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D-umlWXISAmY0lPv3AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -803,9 +803,9 @@
     "job_latitude": 38.9764364,
     "job_longitude": -76.489642,
     "job_benefits": [
+      "health_insurance",
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DHBPHQ30BgG5m3QvsAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1381,8 +1381,8 @@
     "job_latitude": 40.4386612,
     "job_longitude": -79.99723519999999,
     "job_benefits": [
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwAPBHT21QkpjbQQ-AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1431,62 +1431,6 @@
     "job_onet_soc": "17102100",
     "job_onet_job_zone": "4",
     "id": "builtin-com-job-research-engineer-online-mapping-7062686",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "YRRJZFeS0DglJ67vAAAAAA==",
-    "job_title": "Junior Security Research Engineer",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=199eafdd2f50&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=199eafdd2f50&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A company is looking for a Junior Security Research Engineer (Remote).\n\nKey Responsibilities\n\nResearch current vulnerabilities and exploits using trusted sources and stay updated with threat intelligence\n\nWrite Nuclei templates to identify applications, misconfigured services, and vulnerable software\n\nAnalyze network traffic and write network protocol parsers and probes in Go for integration into the platform\n\nRequired Qualifications\n\nHands-on experience with common vulnerability classes and exploitation techniques\n\nFamiliarity with CVE, CWE, and CVSS\n\nExperience using vulnerability and compliance scanning tools\n\nFamiliarity with at least one programming language for task automation (e.g., Python or Go)\n\nProficiency with standard development tools and paradigms (Git, GitHub, CI / CD)",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "St Paul, MN",
-    "job_city": "St Paul",
-    "job_state": "Minnesota",
-    "job_country": "US",
-    "job_latitude": 44.953702899999996,
-    "job_longitude": -93.0899578,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DYRRJZFeS0DglJ67vAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Hands-on experience with common vulnerability classes and exploitation techniques",
-        "Familiarity with CVE, CWE, and CVSS",
-        "Experience using vulnerability and compliance scanning tools",
-        "Familiarity with at least one programming language for task automation (e.g., Python or Go)",
-        "Proficiency with standard development tools and paradigms (Git, GitHub, CI / CD)"
-      ],
-      "Responsibilities": [
-        "Research current vulnerabilities and exploits using trusted sources and stay updated with threat intelligence",
-        "Write Nuclei templates to identify applications, misconfigured services, and vulnerable software",
-        "Analyze network traffic and write network protocol parsers and probes in Go for integration into the platform"
-      ]
-    },
-    "job_onet_soc": "15112200",
-    "job_onet_job_zone": "4",
-    "id": "www-talent-com-view",
     "_source": "new_jobs"
   },
   {
@@ -1551,9 +1495,9 @@
     "job_latitude": 42.8000049,
     "job_longitude": -73.89144069999999,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DrMI8ldsOgpbIQqBQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1613,8 +1557,8 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "wueq_P4Kwf8UaWxQAAAAAA==",
-    "job_title": "Junior Research Engineer",
+    "job_id": "YRRJZFeS0DglJ67vAAAAAA==",
+    "job_title": "Junior Security Research Engineer",
     "employer_name": "VirtualVocations",
     "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
     "employer_website": "https://www.virtualvocations.com",
@@ -1623,48 +1567,48 @@
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=a435eb00fd4b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.talent.com/view?id=199eafdd2f50&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
         "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=a435eb00fd4b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.talent.com/view?id=199eafdd2f50&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "A company is looking for a Junior Research Enablement Engineer to support their LanguageAI research team remotely in the United States.\n\nKey Responsibilities\n\nArchitect, design, implement, and maintain applications, frameworks, and infrastructure components\n\nWork with data to implement and deploy machine learning services and frameworks\n\nConduct architecture and code reviews, and design testing strategies to enhance product quality\n\nRequired Qualifications\n\nFluency in Python and experience with Java or Kotlin\n\nFundamental understanding of probability and statistics\n\nFamiliarity with relational databases and asynchronous patterns\n\nUnderstanding of distributed computing principles and algorithms\n\nBS+ degree in computer science or equivalent experience",
+    "job_description": "A company is looking for a Junior Security Research Engineer (Remote).\n\nKey Responsibilities\n\nResearch current vulnerabilities and exploits using trusted sources and stay updated with threat intelligence\n\nWrite Nuclei templates to identify applications, misconfigured services, and vulnerable software\n\nAnalyze network traffic and write network protocol parsers and probes in Go for integration into the platform\n\nRequired Qualifications\n\nHands-on experience with common vulnerability classes and exploitation techniques\n\nFamiliarity with CVE, CWE, and CVSS\n\nExperience using vulnerability and compliance scanning tools\n\nFamiliarity with at least one programming language for task automation (e.g., Python or Go)\n\nProficiency with standard development tools and paradigms (Git, GitHub, CI / CD)",
     "job_is_remote": false,
-    "job_posted_at": "8 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Columbus, OH",
-    "job_city": "Columbus",
-    "job_state": "Ohio",
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "St Paul, MN",
+    "job_city": "St Paul",
+    "job_state": "Minnesota",
     "job_country": "US",
-    "job_latitude": 39.9625112,
-    "job_longitude": -83.00322179999999,
+    "job_latitude": 44.953702899999996,
+    "job_longitude": -93.0899578,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dwueq_P4Kwf8UaWxQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DYRRJZFeS0DglJ67vAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Fluency in Python and experience with Java or Kotlin",
-        "Fundamental understanding of probability and statistics",
-        "Familiarity with relational databases and asynchronous patterns",
-        "Understanding of distributed computing principles and algorithms",
-        "BS+ degree in computer science or equivalent experience"
+        "Hands-on experience with common vulnerability classes and exploitation techniques",
+        "Familiarity with CVE, CWE, and CVSS",
+        "Experience using vulnerability and compliance scanning tools",
+        "Familiarity with at least one programming language for task automation (e.g., Python or Go)",
+        "Proficiency with standard development tools and paradigms (Git, GitHub, CI / CD)"
       ],
       "Responsibilities": [
-        "Architect, design, implement, and maintain applications, frameworks, and infrastructure components",
-        "Work with data to implement and deploy machine learning services and frameworks",
-        "Conduct architecture and code reviews, and design testing strategies to enhance product quality"
+        "Research current vulnerabilities and exploits using trusted sources and stay updated with threat intelligence",
+        "Write Nuclei templates to identify applications, misconfigured services, and vulnerable software",
+        "Analyze network traffic and write network protocol parsers and probes in Go for integration into the platform"
       ]
     },
-    "job_onet_soc": "19203200",
-    "job_onet_job_zone": "5",
+    "job_onet_soc": "15112200",
+    "job_onet_job_zone": "4",
     "id": "www-talent-com-view",
     "_source": "new_jobs"
   },
@@ -1720,9 +1664,9 @@
     ],
     "job_description": "Working at Abbott\n\nAt Abbott, you can do work that matters, grow, and learn, care for yourself and family, be your true self and live a full life. You’ll also have access to:\n• Career development with an international company where you can grow the career you dream of.\n• Employees can qualify for free medical coverage in our Health Investment Plan (HIP) PPO medical plan in the next calendar year.\n• An excellent retirement savings plan with high employer contribution.\n• Tuition reimbursement, the Freedom 2 Save student debt program and FreeU education benefit - an affordable and convenient path to getting a bachelor’s degree.\n• A company recognized as a great place to work in dozens of countries around the world and named one of the most admired companies in the world by Fortune.\n• A company that is recognized as one of the best big companies to work for as well as a best place to work for diversity, working mothers, female executives, and scientists.\n\nThe Opportunity\n\nThis position works out of our Sylmar, CA location in the Cardiac Rhythm Management. As a global leader in Cardiac Rhythm Technologies, we focus on innovative technologies that can improve the way doctors treat people with heart arrhythmias, or irregular heartbeats.\n\nWhat You’ll Work On\n• Leads programs while exercising significant novelty and integration across various disciplines as well as team members. Applies a demonstrated portfolio-centric approach to developing programs which are incorporated into platform strategies that achieve “win/win” scenarios for assigned efforts and platforms.\n• Plans and executes the department strategy to deliver upon responsibilities; gathers information, frames problems, devises/executes plans, tracks progress, and adjusts/measures success within scope of responsibility to improve development efforts as well as the organization. Applies skills to planning product development work; capturing requirements, designing solutions, defining behaviors, investigating issues, evaluating trade-offs, and verifying output.\n• ​Organizes and manages work to deliver programs, leads in the execution of assigned work. Prioritizes tasks by distinguishing urgent from important tasks and assess cost/benefit trade-offs.\n• Design and conduct system level characterization/verification of complex systems; collect, organize, analyze, and document test results.\n• Develops and applies an expert understand of designated systems as well as serves as a subject matter expert for the development team regarding behaviors, implementation trade-offs, customer needs, satisfaction of customer needs, clinical applications, and the applicable technologies required to solve problems and deliver upon business objectives. Participates in broad cross-functional reviews of work output.\n• Fosters collaboration with cross-functional teams, platform architects and other leaders to drive work to completion and resolve issues. Successfully influences stakeholders. Communicates effectively with cross-functional teams and senior management. Keeps leadership informed of progress and issues.\n• Innovates within program work to improve the organization, solve technical challenges, and develop intellectual property.\n• Support all Company initiatives as identified by management and in support of Quality Management Systems (QMS), Environmental Management Systems (EMS), and other regulatory requirements.\n• Complies with U.S. Food and Drug Administration (FDA) regulations, other regulatory requirements, Company policies, operating procedures, processes, and task assignments. Maintains positive and cooperative communications and collaboration with all levels of employees, customers, contractors, and vendors.\n\nRequired Qualifications\n• Bachelor's degree in software engineering, computer science, or a related engineering field an equivalent combination of education and work experience\n• Minimum of 8 years of progressively more responsible work experience system engineering with product development experience in Engineering or physical science.\n• Experienced in one or more of the following: electrical, electro-mechanical, software, mathematical, chemical or biomedical technologies as they pertain to the design, integration, evaluation and commercialization of implantable systems.\n\nPreferred Qualifications\n• Domain knowledge of cardiac rhythm management (CRM) devices strongly preferred.\n• Medical device experience in the cardiac space preferred.\n• Masters Degreel in a relevant discipline/concentration, including Biomedical Engineering, preferred.\n• Demonstrated ability to apply an expert understanding of systems to issues in order to bring tasks to resolution within assigned projects.\n• Demonstrated ability to effectively integrate information from varied disciplines including Clinical Medicine, Engineering, Marketing and Regulatory Affairs required.\n• Strong knowledge of defined development process that is consistent with ISO, FDA design control standards or requirements.\n• Professional certification or designation preferred.\n• Ability to work within a team and as an individual contributor in a fast-paced, changing environment.\n• Ability to leverage and/or engage others to accomplish projects.\n• Strong verbal and written communications with ability to effectively communicate at multiple levels in the organization.\n• Ability to travel approximately 10%, including internationally.\n\nApply Now\n\nLearn more about our health and wellness benefits, which provide the security to help you and your family live full lives: www.abbottbenefits.com\n\nFollow your career aspirations to Abbott for diverse opportunities with a company that can help you build your future and live your best life. Abbott is an Equal Opportunity Employer, committed to employee diversity.\n\nConnect with us at www.abbott.com, on Facebook at www.facebook.com/Abbott and on Twitter @AbbottNews.\n\nThe base pay for this position is $114,000.00 – $228,000.00. In specific locations, the pay range may vary from the range posted.",
     "job_is_remote": false,
-    "job_posted_at": "16 hours ago",
-    "job_posted_at_timestamp": 1771372800,
-    "job_posted_at_datetime_utc": "2026-02-18T00:00:00.000Z",
+    "job_posted_at": "17 hours ago",
+    "job_posted_at_timestamp": 1771369200,
+    "job_posted_at_datetime_utc": "2026-02-17T23:00:00.000Z",
     "job_location": "California",
     "job_city": null,
     "job_state": "California",
@@ -1774,6 +1718,108 @@
     "job_onet_soc": "15113300",
     "job_onet_job_zone": "4",
     "id": "www-jobs-abbott-us-en-job-31129302-staff-systems-engineer",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "LYcN0MBfCasPMXnSAAAAAA==",
+    "job_title": "Principal Research Engineer",
+    "employer_name": "Oracle",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Ob8wBy30IQeYJfM4qn_PksuLPYaC4sUtJLRK&s=0",
+    "employer_website": "https://www.oracle.com",
+    "job_publisher": "| USNLX Veterans Jobs - National Labor Exchange",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://veterans.usnlx.com/helena-mt/principal-research-engineer/57E7A830A5FB491F9E07A335DA848CC9/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "| USNLX Veterans Jobs - National Labor Exchange",
+        "apply_link": "https://veterans.usnlx.com/helena-mt/principal-research-engineer/57E7A830A5FB491F9E07A335DA848CC9/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/scientific-research?id=2345584977&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Description\n\nAt Oracle Analytics, we are building the next generation of enterprise AI products to enable intelligent data analysis at scale. Leveraging our foundational strengths in data management and enterprise software applications, we are advancing our platforms and applications by deeply embedding cutting-edge agentic AI, generative AI, and innovations in machine learning and optimization.\n\nOur AI and Applied Science team is looking for a Principal Research Engineer to work on foundational technology for our AI Data platform and intelligent applications. In this role you will bridge core AI development and production implementation and take responsibility for building codebases and infrastructure for highly visibly AI products from the ground up. You will partner with teams of applied scientists and production engineers to prototype AI solutions, optimize code for performance and speed, and deploy your solutions into products with a global customer reach.\n\nResponsibilities\n\nThe role requires a deep technical understanding of LLM architectures, training, and inference. Hands-on experience in LLM adaptation, model hosting, and inference\n\nefficiency optimization are a must. Experience in foundation models for structured data, tabular representation learning, graph-based learning, or time series modeling is a strong plus. We are looking for candidates who flourish in a fast-paced startup setting, excel at translating ambiguity into clarity, and value end-to-end ownership.\n\nResponsibilities:\n\n• Collaborate with a applied scientists and engineers to transition science solutions into production codebases.\n\n• Write high quality production-ready code; refactor, optimize and scale existing code.\n\n• Identify new opportunities for engineering improvements; actively contribute to improving existing infrastructure and development practices.\n\n• Maintain a deep understanding of industry trends and developments in engineering for AI.\n\nQualifications and Experience:\n\n• MSc or PhD in Computer Science, Mathematics, Statistics, Engineering, or a related field and a minimum of 5 years of work experience in AI/Generative AI/Machine Learning in an industry setting\n\n• Hands-on development experience and a history of transitioning science solutions into successfully deployed products\n\n• Deep understanding of state-of-the-art AI models for structured and unstructured data and their engineering implementations\n\n• Excellent problem-solving and analytical skills\n\n• Strong communication skills and a flexible, collaborative mindset.\n\n• Excellent coding skills (Python, SQL, C/C++); familiarity with vLLM, Tensor-RT, DeepSpeed, and similar frameworks.\n\nCareer Level - IC4\n\nDisclaimer:\n\nCertain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates.\n\nRange and benefit information provided in this posting are specific to the stated locations only\n\nUS: Hiring Range in USD from: $96,800 to $223,400 per annum. May be eligible for bonus and equity.\n\nOracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle’s differing products, industries and lines of business.\n\nCandidates are typically placed into the range based on the preceding factors as well as internal peer equity.\n\nOracle US offers a comprehensive benefits package which includes the following:\n• Medical, dental, and vision insurance, including expert medical opinion\n• Short term disability and long term disability\n• Life insurance and AD&D\n• Supplemental life insurance (Employee/Spouse/Child)\n• Health care and dependent care Flexible Spending Accounts\n• Pre-tax commuter and parking benefits\n• 401(k) Savings and Investment Plan with company match\n• Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position. Accrued Vacation is provided to all other employees eligible for vacation benefits. For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment. Vacation accrual is prorated for employees working between 20 and 34 hours per week. Employees working fewer than 20 hours per week are not eligible for vacation.\n• 11 paid holidays\n• Paid sick leave: 72 hours of paid sick leave upon date of hire. Refreshes each calendar year. Unused balance will carry over each year up to a maximum cap of 112 hours.\n• Paid parental leave\n• Adoption assistance\n• Employee Stock Purchase Plan\n• Financial planning and group legal\n• Voluntary benefits including auto, homeowner and pet insurance\n\nThe role will generally accept applications for at least three calendar days from the posting date or as long as the job remains posted.\n\nCareer Level - IC4\n\nAbout Us\n\nOnly Oracle brings together the data, infrastructure, applications, and expertise to power everything from industry innovations to life-saving care. And with AI embedded across our products and services, we help customers turn that promise into a better future for all. Discover your potential at a company leading the way in AI and cloud solutions that impact billions of lives.\n\nTrue innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.\n\nWe’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing accommodation-request_mb@oracle.com or by calling 1-888-404-2494 in the United States.\n\nOracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.",
+    "job_is_remote": false,
+    "job_posted_at": "12 days ago",
+    "job_posted_at_timestamp": 1770336000,
+    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
+    "job_location": "Helena, MT",
+    "job_city": "Helena",
+    "job_state": "Montana",
+    "job_country": "US",
+    "job_latitude": 46.5891452,
+    "job_longitude": -112.0391057,
+    "job_benefits": [
+      "dental_coverage",
+      "paid_time_off",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLYcN0MBfCasPMXnSAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Hands-on experience in LLM adaptation, model hosting, and inference",
+        "Experience in foundation models for structured data, tabular representation learning, graph-based learning, or time series modeling is a strong plus",
+        "MSc or PhD in Computer Science, Mathematics, Statistics, Engineering, or a related field and a minimum of 5 years of work experience in AI/Generative AI/Machine Learning in an industry setting",
+        "Hands-on development experience and a history of transitioning science solutions into successfully deployed products",
+        "Deep understanding of state-of-the-art AI models for structured and unstructured data and their engineering implementations",
+        "Excellent problem-solving and analytical skills",
+        "Strong communication skills and a flexible, collaborative mindset",
+        "Excellent coding skills (Python, SQL, C/C++); familiarity with vLLM, Tensor-RT, DeepSpeed, and similar frameworks",
+        "Career Level - IC4",
+        "Certain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates"
+      ],
+      "Benefits": [
+        "US: Hiring Range in USD from: $96,800 to $223,400 per annum",
+        "May be eligible for bonus and equity",
+        "Oracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle’s differing products, industries and lines of business",
+        "Oracle US offers a comprehensive benefits package which includes the following:",
+        "Medical, dental, and vision insurance, including expert medical opinion",
+        "Short term disability and long term disability",
+        "Life insurance and AD&D",
+        "Supplemental life insurance (Employee/Spouse/Child)",
+        "Health care and dependent care Flexible Spending Accounts",
+        "Pre-tax commuter and parking benefits",
+        "401(k) Savings and Investment Plan with company match",
+        "Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position",
+        "Accrued Vacation is provided to all other employees eligible for vacation benefits",
+        "For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment",
+        "Vacation accrual is prorated for employees working between 20 and 34 hours per week",
+        "Employees working fewer than 20 hours per week are not eligible for vacation",
+        "11 paid holidays",
+        "Paid sick leave: 72 hours of paid sick leave upon date of hire",
+        "Refreshes each calendar year",
+        "Unused balance will carry over each year up to a maximum cap of 112 hours",
+        "Paid parental leave",
+        "Adoption assistance",
+        "Employee Stock Purchase Plan",
+        "Financial planning and group legal",
+        "Voluntary benefits including auto, homeowner and pet insurance",
+        "That’s why we’re committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options"
+      ],
+      "Responsibilities": [
+        "In this role you will bridge core AI development and production implementation and take responsibility for building codebases and infrastructure for highly visibly AI products from the ground up",
+        "You will partner with teams of applied scientists and production engineers to prototype AI solutions, optimize code for performance and speed, and deploy your solutions into products with a global customer reach",
+        "The role requires a deep technical understanding of LLM architectures, training, and inference",
+        "Collaborate with a applied scientists and engineers to transition science solutions into production codebases",
+        "Write high quality production-ready code; refactor, optimize and scale existing code",
+        "Identify new opportunities for engineering improvements; actively contribute to improving existing infrastructure and development practices",
+        "Maintain a deep understanding of industry trends and developments in engineering for AI"
+      ]
+    },
+    "job_onet_soc": "19203200",
+    "job_onet_job_zone": "5",
+    "id": "veterans-usnlx-com-helena-mt-principal-research-engineer-57e7a830a5fb491f9e07a335da848cc9-job",
     "_source": "new_jobs"
   },
   {
@@ -1857,108 +1903,6 @@
     "job_onet_soc": "17211200",
     "job_onet_job_zone": "4",
     "id": "www-linkedin-com-jobs-view-human-factors-engineer-auto-test-at-consumer-reports-4372162566",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "LYcN0MBfCasPMXnSAAAAAA==",
-    "job_title": "Principal Research Engineer",
-    "employer_name": "Oracle",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Ob8wBy30IQeYJfM4qn_PksuLPYaC4sUtJLRK&s=0",
-    "employer_website": "https://www.oracle.com",
-    "job_publisher": "| USNLX Veterans Jobs - National Labor Exchange",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://veterans.usnlx.com/helena-mt/principal-research-engineer/57E7A830A5FB491F9E07A335DA848CC9/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "| USNLX Veterans Jobs - National Labor Exchange",
-        "apply_link": "https://veterans.usnlx.com/helena-mt/principal-research-engineer/57E7A830A5FB491F9E07A335DA848CC9/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/scientific-research?id=2345584977&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Job Description\n\nAt Oracle Analytics, we are building the next generation of enterprise AI products to enable intelligent data analysis at scale. Leveraging our foundational strengths in data management and enterprise software applications, we are advancing our platforms and applications by deeply embedding cutting-edge agentic AI, generative AI, and innovations in machine learning and optimization.\n\nOur AI and Applied Science team is looking for a Principal Research Engineer to work on foundational technology for our AI Data platform and intelligent applications. In this role you will bridge core AI development and production implementation and take responsibility for building codebases and infrastructure for highly visibly AI products from the ground up. You will partner with teams of applied scientists and production engineers to prototype AI solutions, optimize code for performance and speed, and deploy your solutions into products with a global customer reach.\n\nResponsibilities\n\nThe role requires a deep technical understanding of LLM architectures, training, and inference. Hands-on experience in LLM adaptation, model hosting, and inference\n\nefficiency optimization are a must. Experience in foundation models for structured data, tabular representation learning, graph-based learning, or time series modeling is a strong plus. We are looking for candidates who flourish in a fast-paced startup setting, excel at translating ambiguity into clarity, and value end-to-end ownership.\n\nResponsibilities:\n\n• Collaborate with a applied scientists and engineers to transition science solutions into production codebases.\n\n• Write high quality production-ready code; refactor, optimize and scale existing code.\n\n• Identify new opportunities for engineering improvements; actively contribute to improving existing infrastructure and development practices.\n\n• Maintain a deep understanding of industry trends and developments in engineering for AI.\n\nQualifications and Experience:\n\n• MSc or PhD in Computer Science, Mathematics, Statistics, Engineering, or a related field and a minimum of 5 years of work experience in AI/Generative AI/Machine Learning in an industry setting\n\n• Hands-on development experience and a history of transitioning science solutions into successfully deployed products\n\n• Deep understanding of state-of-the-art AI models for structured and unstructured data and their engineering implementations\n\n• Excellent problem-solving and analytical skills\n\n• Strong communication skills and a flexible, collaborative mindset.\n\n• Excellent coding skills (Python, SQL, C/C++); familiarity with vLLM, Tensor-RT, DeepSpeed, and similar frameworks.\n\nCareer Level - IC4\n\nDisclaimer:\n\nCertain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates.\n\nRange and benefit information provided in this posting are specific to the stated locations only\n\nUS: Hiring Range in USD from: $96,800 to $223,400 per annum. May be eligible for bonus and equity.\n\nOracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle’s differing products, industries and lines of business.\n\nCandidates are typically placed into the range based on the preceding factors as well as internal peer equity.\n\nOracle US offers a comprehensive benefits package which includes the following:\n• Medical, dental, and vision insurance, including expert medical opinion\n• Short term disability and long term disability\n• Life insurance and AD&D\n• Supplemental life insurance (Employee/Spouse/Child)\n• Health care and dependent care Flexible Spending Accounts\n• Pre-tax commuter and parking benefits\n• 401(k) Savings and Investment Plan with company match\n• Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position. Accrued Vacation is provided to all other employees eligible for vacation benefits. For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment. Vacation accrual is prorated for employees working between 20 and 34 hours per week. Employees working fewer than 20 hours per week are not eligible for vacation.\n• 11 paid holidays\n• Paid sick leave: 72 hours of paid sick leave upon date of hire. Refreshes each calendar year. Unused balance will carry over each year up to a maximum cap of 112 hours.\n• Paid parental leave\n• Adoption assistance\n• Employee Stock Purchase Plan\n• Financial planning and group legal\n• Voluntary benefits including auto, homeowner and pet insurance\n\nThe role will generally accept applications for at least three calendar days from the posting date or as long as the job remains posted.\n\nCareer Level - IC4\n\nAbout Us\n\nOnly Oracle brings together the data, infrastructure, applications, and expertise to power everything from industry innovations to life-saving care. And with AI embedded across our products and services, we help customers turn that promise into a better future for all. Discover your potential at a company leading the way in AI and cloud solutions that impact billions of lives.\n\nTrue innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.\n\nWe’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing accommodation-request_mb@oracle.com or by calling 1-888-404-2494 in the United States.\n\nOracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.",
-    "job_is_remote": false,
-    "job_posted_at": "12 days ago",
-    "job_posted_at_timestamp": 1770336000,
-    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
-    "job_location": "Helena, MT",
-    "job_city": "Helena",
-    "job_state": "Montana",
-    "job_country": "US",
-    "job_latitude": 46.5891452,
-    "job_longitude": -112.0391057,
-    "job_benefits": [
-      "health_insurance",
-      "paid_time_off",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLYcN0MBfCasPMXnSAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Hands-on experience in LLM adaptation, model hosting, and inference",
-        "Experience in foundation models for structured data, tabular representation learning, graph-based learning, or time series modeling is a strong plus",
-        "MSc or PhD in Computer Science, Mathematics, Statistics, Engineering, or a related field and a minimum of 5 years of work experience in AI/Generative AI/Machine Learning in an industry setting",
-        "Hands-on development experience and a history of transitioning science solutions into successfully deployed products",
-        "Deep understanding of state-of-the-art AI models for structured and unstructured data and their engineering implementations",
-        "Excellent problem-solving and analytical skills",
-        "Strong communication skills and a flexible, collaborative mindset",
-        "Excellent coding skills (Python, SQL, C/C++); familiarity with vLLM, Tensor-RT, DeepSpeed, and similar frameworks",
-        "Career Level - IC4",
-        "Certain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates"
-      ],
-      "Benefits": [
-        "US: Hiring Range in USD from: $96,800 to $223,400 per annum",
-        "May be eligible for bonus and equity",
-        "Oracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle’s differing products, industries and lines of business",
-        "Oracle US offers a comprehensive benefits package which includes the following:",
-        "Medical, dental, and vision insurance, including expert medical opinion",
-        "Short term disability and long term disability",
-        "Life insurance and AD&D",
-        "Supplemental life insurance (Employee/Spouse/Child)",
-        "Health care and dependent care Flexible Spending Accounts",
-        "Pre-tax commuter and parking benefits",
-        "401(k) Savings and Investment Plan with company match",
-        "Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position",
-        "Accrued Vacation is provided to all other employees eligible for vacation benefits",
-        "For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment",
-        "Vacation accrual is prorated for employees working between 20 and 34 hours per week",
-        "Employees working fewer than 20 hours per week are not eligible for vacation",
-        "11 paid holidays",
-        "Paid sick leave: 72 hours of paid sick leave upon date of hire",
-        "Refreshes each calendar year",
-        "Unused balance will carry over each year up to a maximum cap of 112 hours",
-        "Paid parental leave",
-        "Adoption assistance",
-        "Employee Stock Purchase Plan",
-        "Financial planning and group legal",
-        "Voluntary benefits including auto, homeowner and pet insurance",
-        "That’s why we’re committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options"
-      ],
-      "Responsibilities": [
-        "In this role you will bridge core AI development and production implementation and take responsibility for building codebases and infrastructure for highly visibly AI products from the ground up",
-        "You will partner with teams of applied scientists and production engineers to prototype AI solutions, optimize code for performance and speed, and deploy your solutions into products with a global customer reach",
-        "The role requires a deep technical understanding of LLM architectures, training, and inference",
-        "Collaborate with a applied scientists and engineers to transition science solutions into production codebases",
-        "Write high quality production-ready code; refactor, optimize and scale existing code",
-        "Identify new opportunities for engineering improvements; actively contribute to improving existing infrastructure and development practices",
-        "Maintain a deep understanding of industry trends and developments in engineering for AI"
-      ]
-    },
-    "job_onet_soc": "19203200",
-    "job_onet_job_zone": "5",
-    "id": "veterans-usnlx-com-helena-mt-principal-research-engineer-57e7a830a5fb491f9e07a335da848cc9-job",
     "_source": "new_jobs"
   },
   {
