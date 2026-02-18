@@ -120,9 +120,9 @@
     "job_latitude": 39.1439689,
     "job_longitude": -77.2016062,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUNWgSwcBSTCfiTxcAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -698,98 +698,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "sPgfrMGdvaPrFjBzAAAAAA==",
-    "job_title": "Survey Statistician",
-    "employer_name": "Priwils, Inc",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo5qKuYD00yZiD-Te3OFGbq4dtjyKOhfK3uGXI&s=0",
-    "employer_website": null,
-    "job_publisher": "Himalayas",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://himalayas.app/companies/priwils-inc/jobs/survey-statistician?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Himalayas",
-        "apply_link": "https://himalayas.app/companies/priwils-inc/jobs/survey-statistician?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/54e17dfd9e913d4ab5cd45b8ba9e2772?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Cloud Sign In",
-        "apply_link": "https://eubt.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3010/job/REQUISITION_VT_A-4261/?lastSelectedFacet=CATEGORIES&selectedCategoriesFacet=300000005817939&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Adzuna",
-        "apply_link": "https://www.adzuna.com/details/5626434415?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "JobLeads",
-        "apply_link": "https://www.jobleads.com/us/job/survey-statistician--united-states--e2639eccc5b1a6a3f8e8f11f7116be2e3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/online_remote/info_technology/4877385046/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Summary\n\nThe Statistician supports the Division of Health Interview Statistics (DHIS) by performing survey data analysis, verification, and quality assurance activities for National Health Information System (NHIS), Routine Surveillance System (RSS), and other District Health Information System (DHIS) surveys. The role focuses on analyzing survey microdata, validating estimates, supporting data dissemination products, and ensuring accuracy and consistency of statistical outputs.\nKey Responsibilities\n• Respond to data requests by performing analysis of NHIS, RSS, or other DHIS survey data using SAS to generate basic descriptive statistics and prevalence estimates.\n• This is a Remote (work from home) position.\n• Provide independent verification of estimates by analyzing survey data prior to the release of products.\n• Prepare data for updates to data query products by exporting estimates into appropriate formats for input into query tools.\n• Review data query products to ensure changes, updates, and minor modifications have been correctly implemented.\n• Review print and electronic data products to verify consistency of estimates across text, tables, figures, statistical output, footnotes, and methodological notes.\n• Review survey microdata by checking frequencies, skip patterns, and accompanying documentation prior to data release.\n• Perform additional quality assurance activities as required.\n• Assist with automating quality assurance activities by using SAS and Excel to assemble large volumes of output.\nQualifications\n• Minimum four (4) years of college-level education and 3–5 years of relevant experience.\n• Intermediate experience with descriptive procedures, data management, and manipulation in the SAS statistical programming environment.\n• Beginner experience or some familiarity with R is useful but not required.\n• Intermediate experience using Microsoft Word and Excel.\n• Intermediate knowledge of statistical methods and techniques and their application to data analysis and evaluation.\n• Advanced writing skills for reporting statistical results and conveying technical information.\n• Strong interpersonal and communication skills to work collaboratively in a multidisciplinary team environment.\n• Ability to plan, organize, and carry out tasks independently, respond quickly to requests, and meet production deadlines.\n\nWe will never send communications through any other domain, including @Priwilscareers.com, @gmail.com or@yahoo.com). We will never request payment from you, nor will we send payment to you, prior to your start date. If you have been asked to send or receive any payment, or if you have any doubt about whether you have been contacted by a Priwils employee, please contact us at jobs@Priwils.com",
-    "job_is_remote": true,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "United States",
-    "job_city": null,
-    "job_state": null,
-    "job_country": "US",
-    "job_latitude": 38.794595199999996,
-    "job_longitude": -106.5348379,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DsPgfrMGdvaPrFjBzAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Minimum four (4) years of college-level education and 3–5 years of relevant experience",
-        "Intermediate experience with descriptive procedures, data management, and manipulation in the SAS statistical programming environment",
-        "Beginner experience or some familiarity with R is useful but not required",
-        "Intermediate experience using Microsoft Word and Excel",
-        "Intermediate knowledge of statistical methods and techniques and their application to data analysis and evaluation",
-        "Advanced writing skills for reporting statistical results and conveying technical information",
-        "Strong interpersonal and communication skills to work collaboratively in a multidisciplinary team environment",
-        "Ability to plan, organize, and carry out tasks independently, respond quickly to requests, and meet production deadlines"
-      ],
-      "Responsibilities": [
-        "The Statistician supports the Division of Health Interview Statistics (DHIS) by performing survey data analysis, verification, and quality assurance activities for National Health Information System (NHIS), Routine Surveillance System (RSS), and other District Health Information System (DHIS) surveys",
-        "The role focuses on analyzing survey microdata, validating estimates, supporting data dissemination products, and ensuring accuracy and consistency of statistical outputs",
-        "Respond to data requests by performing analysis of NHIS, RSS, or other DHIS survey data using SAS to generate basic descriptive statistics and prevalence estimates",
-        "This is a Remote (work from home) position",
-        "Provide independent verification of estimates by analyzing survey data prior to the release of products",
-        "Prepare data for updates to data query products by exporting estimates into appropriate formats for input into query tools",
-        "Review data query products to ensure changes, updates, and minor modifications have been correctly implemented",
-        "Review print and electronic data products to verify consistency of estimates across text, tables, figures, statistical output, footnotes, and methodological notes",
-        "Review survey microdata by checking frequencies, skip patterns, and accompanying documentation prior to data release",
-        "Perform additional quality assurance activities as required",
-        "Assist with automating quality assurance activities by using SAS and Excel to assemble large volumes of output"
-      ]
-    },
-    "job_onet_soc": "15204100",
-    "job_onet_job_zone": "5",
-    "id": "himalayas-app-companies-priwils-inc-jobs-survey-statistician",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "VJ5wlL-AUGIIzs9JAAAAAA==",
     "job_title": "Real World Statistician",
     "employer_name": "VirtualVocations",
@@ -1004,109 +912,154 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "EFtHpOUszsA0ORL6AAAAAA==",
-    "job_title": "Study Design Statistician",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
+    "job_id": "sPgfrMGdvaPrFjBzAAAAAA==",
+    "job_title": "Survey Statistician",
+    "employer_name": "Priwils, Inc",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo5qKuYD00yZiD-Te3OFGbq4dtjyKOhfK3uGXI&s=0",
+    "employer_website": null,
+    "job_publisher": "Himalayas",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=5cb5486cb1c5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://himalayas.app/companies/priwils-inc/jobs/survey-statistician?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=5cb5486cb1c5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Himalayas",
+        "apply_link": "https://himalayas.app/companies/priwils-inc/jobs/survey-statistician?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/54e17dfd9e913d4ab5cd45b8ba9e2772?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Cloud Sign In",
+        "apply_link": "https://eubt.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3010/job/REQUISITION_VT_A-4261/?lastSelectedFacet=CATEGORIES&selectedCategoriesFacet=300000005817939&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Adzuna",
+        "apply_link": "https://www.adzuna.com/details/5626434415?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "JobLeads",
+        "apply_link": "https://www.jobleads.com/us/job/survey-statistician--united-states--e2639eccc5b1a6a3f8e8f11f7116be2e3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Learn4Good",
+        "apply_link": "https://www.learn4good.com/jobs/online_remote/info_technology/4877385046/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "A company is looking for a Study Design Statistician (Remote).\n\nKey Responsibilities\n\nAssist customers with study design, focusing on simulation using KerusCloud\n\nPrepare study protocols and develop Statistical Analysis Plans and Reports\n\nProvide statistical consultancy support and oversee third-party deliverables\n\nRequired Qualifications\n\nBachelor's degree in mathematics, statistics, physics, pharmacology, or a related field; Master's or PhD preferred\n\n5-7 years of experience in medical statistics (pharma, CRO, academic)\n\nExperience with SAS and / or R statistical software packages\n\nExperience in study design and protocol / report writing preferred\n\nFamiliarity with modelling, simulation techniques, and early-phase drug development processes preferred",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Fayetteville, NC",
-    "job_city": "Fayetteville",
-    "job_state": "North Carolina",
+    "job_description": "Summary\n\nThe Statistician supports the Division of Health Interview Statistics (DHIS) by performing survey data analysis, verification, and quality assurance activities for National Health Information System (NHIS), Routine Surveillance System (RSS), and other District Health Information System (DHIS) surveys. The role focuses on analyzing survey microdata, validating estimates, supporting data dissemination products, and ensuring accuracy and consistency of statistical outputs.\nKey Responsibilities\n• Respond to data requests by performing analysis of NHIS, RSS, or other DHIS survey data using SAS to generate basic descriptive statistics and prevalence estimates.\n• This is a Remote (work from home) position.\n• Provide independent verification of estimates by analyzing survey data prior to the release of products.\n• Prepare data for updates to data query products by exporting estimates into appropriate formats for input into query tools.\n• Review data query products to ensure changes, updates, and minor modifications have been correctly implemented.\n• Review print and electronic data products to verify consistency of estimates across text, tables, figures, statistical output, footnotes, and methodological notes.\n• Review survey microdata by checking frequencies, skip patterns, and accompanying documentation prior to data release.\n• Perform additional quality assurance activities as required.\n• Assist with automating quality assurance activities by using SAS and Excel to assemble large volumes of output.\nQualifications\n• Minimum four (4) years of college-level education and 3–5 years of relevant experience.\n• Intermediate experience with descriptive procedures, data management, and manipulation in the SAS statistical programming environment.\n• Beginner experience or some familiarity with R is useful but not required.\n• Intermediate experience using Microsoft Word and Excel.\n• Intermediate knowledge of statistical methods and techniques and their application to data analysis and evaluation.\n• Advanced writing skills for reporting statistical results and conveying technical information.\n• Strong interpersonal and communication skills to work collaboratively in a multidisciplinary team environment.\n• Ability to plan, organize, and carry out tasks independently, respond quickly to requests, and meet production deadlines.\n\nWe will never send communications through any other domain, including @Priwilscareers.com, @gmail.com or@yahoo.com). We will never request payment from you, nor will we send payment to you, prior to your start date. If you have been asked to send or receive any payment, or if you have any doubt about whether you have been contacted by a Priwils employee, please contact us at jobs@Priwils.com",
+    "job_is_remote": true,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "United States",
+    "job_city": null,
+    "job_state": null,
     "job_country": "US",
-    "job_latitude": 35.0523673,
-    "job_longitude": -78.87837739999999,
+    "job_latitude": 38.794595199999996,
+    "job_longitude": -106.5348379,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DEFtHpOUszsA0ORL6AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DsPgfrMGdvaPrFjBzAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "5-7 years of experience in medical statistics (pharma, CRO, academic)",
-        "Experience with SAS and / or R statistical software packages"
+        "Minimum four (4) years of college-level education and 3–5 years of relevant experience",
+        "Intermediate experience with descriptive procedures, data management, and manipulation in the SAS statistical programming environment",
+        "Beginner experience or some familiarity with R is useful but not required",
+        "Intermediate experience using Microsoft Word and Excel",
+        "Intermediate knowledge of statistical methods and techniques and their application to data analysis and evaluation",
+        "Advanced writing skills for reporting statistical results and conveying technical information",
+        "Strong interpersonal and communication skills to work collaboratively in a multidisciplinary team environment",
+        "Ability to plan, organize, and carry out tasks independently, respond quickly to requests, and meet production deadlines"
       ],
       "Responsibilities": [
-        "Assist customers with study design, focusing on simulation using KerusCloud",
-        "Prepare study protocols and develop Statistical Analysis Plans and Reports",
-        "Provide statistical consultancy support and oversee third-party deliverables"
+        "The Statistician supports the Division of Health Interview Statistics (DHIS) by performing survey data analysis, verification, and quality assurance activities for National Health Information System (NHIS), Routine Surveillance System (RSS), and other District Health Information System (DHIS) surveys",
+        "The role focuses on analyzing survey microdata, validating estimates, supporting data dissemination products, and ensuring accuracy and consistency of statistical outputs",
+        "Respond to data requests by performing analysis of NHIS, RSS, or other DHIS survey data using SAS to generate basic descriptive statistics and prevalence estimates",
+        "This is a Remote (work from home) position",
+        "Provide independent verification of estimates by analyzing survey data prior to the release of products",
+        "Prepare data for updates to data query products by exporting estimates into appropriate formats for input into query tools",
+        "Review data query products to ensure changes, updates, and minor modifications have been correctly implemented",
+        "Review print and electronic data products to verify consistency of estimates across text, tables, figures, statistical output, footnotes, and methodological notes",
+        "Review survey microdata by checking frequencies, skip patterns, and accompanying documentation prior to data release",
+        "Perform additional quality assurance activities as required",
+        "Assist with automating quality assurance activities by using SAS and Excel to assemble large volumes of output"
       ]
     },
     "job_onet_soc": "15204100",
     "job_onet_job_zone": "5",
-    "id": "www-talent-com-view",
+    "id": "himalayas-app-companies-priwils-inc-jobs-survey-statistician",
     "_source": "new_jobs"
   },
   {
-    "job_id": "fT9ZFOXmiZV8BLczAAAAAA==",
-    "job_title": "Study Design Statistician",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
+    "job_id": "fo3UhAae99Y0zC00AAAAAA==",
+    "job_title": "Sr. Manager/Associate Director, statistician",
+    "employer_name": "Pharmaceutical Company",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "LinkedIn",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=e0cda0eba122&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/sr-manager-associate-director-statistician-at-pharmaceutical-company-4371732724?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=e0cda0eba122&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/sr-manager-associate-director-statistician-at-pharmaceutical-company-4371732724?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/c02e50563a14bddd022301bf65a0d039?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "A company is looking for a Study Design Statistician (Remote).\n\nKey Responsibilities\n\nAssist customers with study design, focusing on simulation using KerusCloud\n\nPrepare study protocols and develop Statistical Analysis Plans and Reports\n\nProvide statistical consultancy support and oversee third-party deliverables\n\nRequired Qualifications\n\nBachelor's degree in mathematics, statistics, physics, pharmacology, or a related field; Master's or PhD preferred\n\n5-7 years of experience in medical statistics (pharma, CRO, academic)\n\nExperience with SAS and / or R statistical software packages\n\nExperience in study design and protocol / report writing preferred\n\nFamiliarity with modelling, simulation techniques, and early-phase drug development processes preferred",
+    "job_description": "Senior Manager / Associate Director, Biostatistics\n\nTherapeutic Area: Oncology (Late Phase)\n\nLocations: NJ (preferred) or CA\n\nVisa Sponsorship: Available\n\nWe are partnering with our client, a leading pharmaceutical organization, to identify a highly skilled Senior Manager or Associate Director of Biostatistics to support late-phase oncology programs. This is an exciting opportunity to contribute to pivotal clinical development activities within a large pharma environment.\n\nPosition Summary\n\nThe selected candidate will provide statistical leadership for late-phase oncology clinical trials and collaborate cross-functionally to support regulatory submissions and strategic development initiatives.\n\nKey Qualifications\n\nEducation\n• PhD in Statistics or Biostatistics (required)\n\nExperience\n• Senior Manager: 4–5 years of industry experience (post-PhD)\n• Associate Director: 6+ years of industry experience (post-PhD)\n• Demonstrated experience in late-phase oncology clinical development\n• Prior experience within a large pharmaceutical company environment\n\nPreferred Qualifications\n• Publications in statistical methodology (strong plus, not required)\n• Proven ability to lead statistical strategy for complex clinical trials\n• Strong collaboration and communication skills in cross-functional settings\n\nAdditional Details\n• Visa sponsorship is available\n\nIf you are interested in leading statistical strategy for late-stage oncology programs within a well-established pharmaceutical organization, we would welcome the opportunity to connect.",
     "job_is_remote": false,
     "job_posted_at": "5 days ago",
     "job_posted_at_timestamp": 1770940800,
     "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Boca Raton, FL",
-    "job_city": "Boca Raton",
-    "job_state": "Florida",
+    "job_location": "United States",
+    "job_city": null,
+    "job_state": null,
     "job_country": "US",
-    "job_latitude": 26.368306399999998,
-    "job_longitude": -80.1289321,
+    "job_latitude": 38.794595199999996,
+    "job_longitude": -106.5348379,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DfT9ZFOXmiZV8BLczAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dfo3UhAae99Y0zC00AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "5-7 years of experience in medical statistics (pharma, CRO, academic)",
-        "Experience with SAS and / or R statistical software packages"
+        "PhD in Statistics or Biostatistics (required)",
+        "Senior Manager: 4–5 years of industry experience (post-PhD)",
+        "Associate Director: 6+ years of industry experience (post-PhD)",
+        "Demonstrated experience in late-phase oncology clinical development",
+        "Prior experience within a large pharmaceutical company environment"
       ],
       "Responsibilities": [
-        "Assist customers with study design, focusing on simulation using KerusCloud",
-        "Prepare study protocols and develop Statistical Analysis Plans and Reports",
-        "Provide statistical consultancy support and oversee third-party deliverables"
+        "The selected candidate will provide statistical leadership for late-phase oncology clinical trials and collaborate cross-functionally to support regulatory submissions and strategic development initiatives"
       ]
     },
     "job_onet_soc": "15204100",
     "job_onet_job_zone": "5",
-    "id": "www-talent-com-view",
+    "id": "www-linkedin-com-jobs-view-sr-manager-associate-director-statistician-at-pharmaceutical-company-4371732724",
     "_source": "new_jobs"
   },
   {
@@ -1269,6 +1222,70 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "w8UC_gQnB-qkqGVRAAAAAA==",
+    "job_title": "Sports Statistician - USA Only at Genius Sports Group United States",
+    "employer_name": "Genius Sports Group",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkbee4Km-uRugthjkE504VHMc2IZLPG-0QWemF&s=0",
+    "employer_website": "https://www.geniussports.com",
+    "job_publisher": "Serenity Homes!",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://serenityhomes.com/library/job/sports-statistician-usa-only-at-genius-sports-group-united-states-OUl4c1ptcm5MNERFZ0w1bG9rK240ZllSdFE9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Serenity Homes!",
+        "apply_link": "https://serenityhomes.com/library/job/sports-statistician-usa-only-at-genius-sports-group-united-states-OUl4c1ptcm5MNERFZ0w1bG9rK240ZllSdFE9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Sports Statistician - USA Only job at Genius Sports Group. United States.\n\nA bit about us\n\nDo you want to join one of the world’s fastest growing sports technology companies?\n\nGenius Sports is at the epicentre of the global network connecting sports, brands and fans through official live data. Our mission is simple. We champion a more sustainable sports data ecosystem that benefits all parties.\n\nWe’re looking for enthusiastic and ambitious people to join our talented team.\n\nIf you see yourself becoming part of a global family building the future of sports entertainment together, then come and grow with us. \n\nWe put trust in our people to deliver the difference for our clients around the world . It’s why many of the world’s largest leagues & federations such as the NFL, English Premier League, FIBA and NCAA choose to work with Genius Sports.\n\nPlease note, if you are OUTSIDE of the USA, please apply here:\n\n_____________________________________________________________________\n\nLove sports?\n\nDo you speak English? We're looking for someone like you.\n\nWe're hiring - Worldwide\nJob type - Independent Contractor - paid per game covered\nGet to know us -\n\nThis is an opportunity for exciting and fast-paced work as a Sports Statistician .\n\nIf you enjoy sports and would like to become a part of the sports industry, this could be your chance! You will get thorough training in using the company software which is used for entering the data in order to provide the best analyses of the game possible.\n\nRequirements:\n• You are reliable, committed, organized and honest.\n• Above average American Football, Soccer, Basketball or Ice Hockey knowledge with regards to the Laws of the Game, basic tactics and jargon\n• Regular availability on weekends and weekday evenings\n• Regular internet access\n• Access to Skype and YouTube for meetings and training tools\n\nWhat you'll be doing:\n• You'll be watching games and inputting stats through our company software\n\nInterested and want to learn more?\n\nTell us a bit about yourself and we'll be in touch with you for more information about becoming а sports statistician. You must be 18 or older to apply.\n\nNOTE: If you are located in the USA, please see map below to select the appropriate region in the country drop-down list for your location.\n\nWhat’s in it for you?\n\nAs well as a competitive salary and annual leave allowance, our benefits include health insurance, skills training and much more, depending on the location. We also offer a host of softer benefits, including many social events throughout the year such as summer and winter holiday parties, monthly team building events, sports tournaments, charity days and wellbeing activities.\n\nHow we work\n\nWe have adapted a forward-thinking ‘Ways of Working’ framework, which sets out (amongst other things) the opportunities for Geniuses to work flexibly, remotely and on working holidays. It affects different teams and locations differently, so please ask for further information in how it would work with this role.\n\nOur employees are empowered to stretch the boundaries of what’s achievable, always reaching further and pushing the edges to see what gives. We collaborate, we innovate, and we celebrate. We will continue to grow as an organisation and continue to invest in our highly talented and diverse team of Geniuses. \n\nGenius Sports Group is proud to be an equal opportunities employer. We recognize and celebrate the benefits that a diverse and inclusive workforce bring to our business, our customers and our staff. We welcome and will consider all applications regardless of age, different abilities or disability, gender re-assignment, marriage, pregnancy, maternity, race or nationality, religion or belief, sex and sexual orientation ( and any other applicable status) . Please let us know when you apply if you need any assistance during the recruiting process due to a disability.",
+    "job_is_remote": false,
+    "job_posted_at": "10 days ago",
+    "job_posted_at_timestamp": 1770508800,
+    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
+    "job_location": "Montgomery, AL",
+    "job_city": "Montgomery",
+    "job_state": "Alabama",
+    "job_country": "US",
+    "job_latitude": 32.3798244,
+    "job_longitude": -86.3075741,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dw8UC_gQnB-qkqGVRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "You are reliable, committed, organized and honest",
+        "Above average American Football, Soccer, Basketball or Ice Hockey knowledge with regards to the Laws of the Game, basic tactics and jargon",
+        "Regular availability on weekends and weekday evenings",
+        "Regular internet access",
+        "Access to Skype and YouTube for meetings and training tools",
+        "You must be 18 or older to apply"
+      ],
+      "Benefits": [
+        "As well as a competitive salary and annual leave allowance, our benefits include health insurance, skills training and much more, depending on the location",
+        "We also offer a host of softer benefits, including many social events throughout the year such as summer and winter holiday parties, monthly team building events, sports tournaments, charity days and wellbeing activities"
+      ],
+      "Responsibilities": [
+        "This is an opportunity for exciting and fast-paced work as a Sports Statistician ",
+        "If you enjoy sports and would like to become a part of the sports industry, this could be your chance!",
+        "You will get thorough training in using the company software which is used for entering the data in order to provide the best analyses of the game possible",
+        "You'll be watching games and inputting stats through our company software"
+      ]
+    },
+    "job_onet_soc": "15204100",
+    "job_onet_job_zone": "5",
+    "id": "serenityhomes-com-library-job-sports-statistician-usa-only-at-genius-sports-group-united-states-oul4c1ptcm5mnerfz0w1bg9rk240zllsdfe9pq",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "f8uTjW0xzsuemX0JAAAAAA==",
     "job_title": "Study Design Statistician",
     "employer_name": "VirtualVocations",
@@ -1301,6 +1318,59 @@
     "job_longitude": -90.0518955,
     "job_benefits": null,
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Df8uTjW0xzsuemX0JAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "5-7 years of experience in medical statistics (pharma, CRO, academic)",
+        "Experience with SAS and / or R statistical software packages"
+      ],
+      "Responsibilities": [
+        "Assist customers with study design, focusing on simulation using KerusCloud",
+        "Prepare study protocols and develop Statistical Analysis Plans and Reports",
+        "Provide statistical consultancy support and oversee third-party deliverables"
+      ]
+    },
+    "job_onet_soc": "15204100",
+    "job_onet_job_zone": "5",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "oBhyfa-NIg2PcVp_AAAAAA==",
+    "job_title": "Study Design Statistician",
+    "employer_name": "VirtualVocations",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": "https://www.virtualvocations.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=afc321f09082&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=afc321f09082&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A company is looking for a Study Design Statistician (Remote).\n\nKey Responsibilities\n\nAssist customers with study design, focusing on simulation using KerusCloud\n\nPrepare study protocols and develop Statistical Analysis Plans and Reports\n\nProvide statistical consultancy support and oversee third-party deliverables\n\nRequired Qualifications\n\nBachelor's degree in mathematics, statistics, physics, pharmacology, or a related field; Master's or PhD preferred\n\n5-7 years of experience in medical statistics (pharma, CRO, academic)\n\nExperience with SAS and / or R statistical software packages\n\nExperience in study design and protocol / report writing preferred\n\nFamiliarity with modelling, simulation techniques, and early-phase drug development processes preferred",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Littleton, CO",
+    "job_city": "Littleton",
+    "job_state": "Colorado",
+    "job_country": "US",
+    "job_latitude": 39.613321,
+    "job_longitude": -105.0166498,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DoBhyfa-NIg2PcVp_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
@@ -1383,123 +1453,6 @@
     "job_onet_soc": "15113100",
     "job_onet_job_zone": "4",
     "id": "us-bebee-com-job-dea8f8531320711efbbad795b5a84c1c",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "w8UC_gQnB-qkqGVRAAAAAA==",
-    "job_title": "Sports Statistician - USA Only at Genius Sports Group United States",
-    "employer_name": "Genius Sports Group",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkbee4Km-uRugthjkE504VHMc2IZLPG-0QWemF&s=0",
-    "employer_website": "https://www.geniussports.com",
-    "job_publisher": "Serenity Homes!",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://serenityhomes.com/library/job/sports-statistician-usa-only-at-genius-sports-group-united-states-OUl4c1ptcm5MNERFZ0w1bG9rK240ZllSdFE9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Serenity Homes!",
-        "apply_link": "https://serenityhomes.com/library/job/sports-statistician-usa-only-at-genius-sports-group-united-states-OUl4c1ptcm5MNERFZ0w1bG9rK240ZllSdFE9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Sports Statistician - USA Only job at Genius Sports Group. United States.\n\nA bit about us\n\nDo you want to join one of the world’s fastest growing sports technology companies?\n\nGenius Sports is at the epicentre of the global network connecting sports, brands and fans through official live data. Our mission is simple. We champion a more sustainable sports data ecosystem that benefits all parties.\n\nWe’re looking for enthusiastic and ambitious people to join our talented team.\n\nIf you see yourself becoming part of a global family building the future of sports entertainment together, then come and grow with us. \n\nWe put trust in our people to deliver the difference for our clients around the world . It’s why many of the world’s largest leagues & federations such as the NFL, English Premier League, FIBA and NCAA choose to work with Genius Sports.\n\nPlease note, if you are OUTSIDE of the USA, please apply here:\n\n_____________________________________________________________________\n\nLove sports?\n\nDo you speak English? We're looking for someone like you.\n\nWe're hiring - Worldwide\nJob type - Independent Contractor - paid per game covered\nGet to know us -\n\nThis is an opportunity for exciting and fast-paced work as a Sports Statistician .\n\nIf you enjoy sports and would like to become a part of the sports industry, this could be your chance! You will get thorough training in using the company software which is used for entering the data in order to provide the best analyses of the game possible.\n\nRequirements:\n• You are reliable, committed, organized and honest.\n• Above average American Football, Soccer, Basketball or Ice Hockey knowledge with regards to the Laws of the Game, basic tactics and jargon\n• Regular availability on weekends and weekday evenings\n• Regular internet access\n• Access to Skype and YouTube for meetings and training tools\n\nWhat you'll be doing:\n• You'll be watching games and inputting stats through our company software\n\nInterested and want to learn more?\n\nTell us a bit about yourself and we'll be in touch with you for more information about becoming а sports statistician. You must be 18 or older to apply.\n\nNOTE: If you are located in the USA, please see map below to select the appropriate region in the country drop-down list for your location.\n\nWhat’s in it for you?\n\nAs well as a competitive salary and annual leave allowance, our benefits include health insurance, skills training and much more, depending on the location. We also offer a host of softer benefits, including many social events throughout the year such as summer and winter holiday parties, monthly team building events, sports tournaments, charity days and wellbeing activities.\n\nHow we work\n\nWe have adapted a forward-thinking ‘Ways of Working’ framework, which sets out (amongst other things) the opportunities for Geniuses to work flexibly, remotely and on working holidays. It affects different teams and locations differently, so please ask for further information in how it would work with this role.\n\nOur employees are empowered to stretch the boundaries of what’s achievable, always reaching further and pushing the edges to see what gives. We collaborate, we innovate, and we celebrate. We will continue to grow as an organisation and continue to invest in our highly talented and diverse team of Geniuses. \n\nGenius Sports Group is proud to be an equal opportunities employer. We recognize and celebrate the benefits that a diverse and inclusive workforce bring to our business, our customers and our staff. We welcome and will consider all applications regardless of age, different abilities or disability, gender re-assignment, marriage, pregnancy, maternity, race or nationality, religion or belief, sex and sexual orientation ( and any other applicable status) . Please let us know when you apply if you need any assistance during the recruiting process due to a disability.",
-    "job_is_remote": false,
-    "job_posted_at": "10 days ago",
-    "job_posted_at_timestamp": 1770508800,
-    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
-    "job_location": "Montgomery, AL",
-    "job_city": "Montgomery",
-    "job_state": "Alabama",
-    "job_country": "US",
-    "job_latitude": 32.3798244,
-    "job_longitude": -86.3075741,
-    "job_benefits": [
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dw8UC_gQnB-qkqGVRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "You are reliable, committed, organized and honest",
-        "Above average American Football, Soccer, Basketball or Ice Hockey knowledge with regards to the Laws of the Game, basic tactics and jargon",
-        "Regular availability on weekends and weekday evenings",
-        "Regular internet access",
-        "Access to Skype and YouTube for meetings and training tools",
-        "You must be 18 or older to apply"
-      ],
-      "Benefits": [
-        "As well as a competitive salary and annual leave allowance, our benefits include health insurance, skills training and much more, depending on the location",
-        "We also offer a host of softer benefits, including many social events throughout the year such as summer and winter holiday parties, monthly team building events, sports tournaments, charity days and wellbeing activities"
-      ],
-      "Responsibilities": [
-        "This is an opportunity for exciting and fast-paced work as a Sports Statistician ",
-        "If you enjoy sports and would like to become a part of the sports industry, this could be your chance!",
-        "You will get thorough training in using the company software which is used for entering the data in order to provide the best analyses of the game possible",
-        "You'll be watching games and inputting stats through our company software"
-      ]
-    },
-    "job_onet_soc": "15204100",
-    "job_onet_job_zone": "5",
-    "id": "serenityhomes-com-library-job-sports-statistician-usa-only-at-genius-sports-group-united-states-oul4c1ptcm5mnerfz0w1bg9rk240zllsdfe9pq",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "oBhyfa-NIg2PcVp_AAAAAA==",
-    "job_title": "Study Design Statistician",
-    "employer_name": "VirtualVocations",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": "https://www.virtualvocations.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=afc321f09082&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=afc321f09082&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A company is looking for a Study Design Statistician (Remote).\n\nKey Responsibilities\n\nAssist customers with study design, focusing on simulation using KerusCloud\n\nPrepare study protocols and develop Statistical Analysis Plans and Reports\n\nProvide statistical consultancy support and oversee third-party deliverables\n\nRequired Qualifications\n\nBachelor's degree in mathematics, statistics, physics, pharmacology, or a related field; Master's or PhD preferred\n\n5-7 years of experience in medical statistics (pharma, CRO, academic)\n\nExperience with SAS and / or R statistical software packages\n\nExperience in study design and protocol / report writing preferred\n\nFamiliarity with modelling, simulation techniques, and early-phase drug development processes preferred",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Littleton, CO",
-    "job_city": "Littleton",
-    "job_state": "Colorado",
-    "job_country": "US",
-    "job_latitude": 39.613321,
-    "job_longitude": -105.0166498,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DoBhyfa-NIg2PcVp_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "5-7 years of experience in medical statistics (pharma, CRO, academic)",
-        "Experience with SAS and / or R statistical software packages"
-      ],
-      "Responsibilities": [
-        "Assist customers with study design, focusing on simulation using KerusCloud",
-        "Prepare study protocols and develop Statistical Analysis Plans and Reports",
-        "Provide statistical consultancy support and oversee third-party deliverables"
-      ]
-    },
-    "job_onet_soc": "15204100",
-    "job_onet_job_zone": "5",
-    "id": "www-talent-com-view",
     "_source": "new_jobs"
   }
 ]
