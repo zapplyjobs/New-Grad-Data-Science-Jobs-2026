@@ -9,16 +9,16 @@
 
 # Data Science Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-5-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-4-blue?style=flat&logo=building)
-![Data Scientist](https://img.shields.io/badge/Data_Scientist-5-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-1-blue?style=flat&logo=building)
+![Data Scientist](https://img.shields.io/badge/Data_Scientist-1-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time data science, analytics, and machine learning jobs from 4+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 5+ fresh opportunities for new graduates, data science students, and entry-level data analysts.</p>
+<p align="center">🚀 Real-time data science, analytics, and machine learning jobs from 1+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 1+ fresh opportunities for new graduates, data science students, and entry-level data analysts.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -69,15 +69,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/dsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>🔬 <strong>Data Scientist</strong> (5 positions)</h3></summary>
+<summary><h3>🔬 <strong>Data Scientist</strong> (1 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🏢 **Atlassian** | PhD AI Research Intern, 2026 Sum... | Seattle, Washington | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Atlassian/Job/PhD-AI-Research-Intern,-2026-Summer-U.S./-in-Seattle,WA?jid=dbf254dc7df90e07&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Xometry** | Machine Learning Intern - Full-t... | North Bethesda, Maryland | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.snagajob.com/jobs/1202259953?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Instacart** | Machine Learning Engineer, PhD I... | Remote 🏠 | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Instacart/Job/Machine-Learning-Engineer,-PhD-Intern/-in-Remote,OR?jid=8afc6caf65ecc2ba&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Intuitive Surgical** | Machine Learning Scientist Intern | Sunnyvale, California | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.intuitive.com/en/jobs/744000107834945/JOB211953/machine-learning-scientist-intern/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Intuitive Surgical** | ML Engineering Intern | Peachtree Corners, Georgia | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.intuitive.com/en/jobs/744000107840054/JOB212194/ml-engineering-intern/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -142,7 +138,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ### 📊 **Archived Job Stats**
 - **📁 Total Jobs**: 2 positions
-- **🏢 Companies**: 4 companies
+- **🏢 Companies**: 1 companies
 - **🏷️ Top Category**: Data Scientist
 
 <details>
@@ -165,7 +161,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 5 current opportunities from 4 companies**
+**🎯 1 current opportunities from 1 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
