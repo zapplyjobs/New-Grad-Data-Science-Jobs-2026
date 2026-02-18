@@ -391,7 +391,7 @@
         "is_direct": false
       }
     ],
-    "job_description": "Senior AI/ML Engineer - (LLMs / RAG / Agentic Systems) - Aerospace - NYC - $500k+ Equity\n\nWe’re hiring for a world class team at one of the fastest growing & most innovative next-gen aerospace AI companies in North America. They're building LLMs, RAG & high-performance AI systems to power mission-critical operations in defence & space.\n\nOnly the top 0.1% of America's AI Engineers can do this. If you’ve built real mission critical LLM systems that can’t fail - this could be your next move.\n\nThe Role\n\nYou’ll own & scale a RAG-driven AI system powering critical aerospace operations. Expect to tackle retrieval quality, latency bottlenecks, & eval-driven fine-tuning head-on for the most innovative & exciting real-time systems in Aerospace today. This is full production ownership - from architecture to metrics.\n\nYou should have experience with:\n• Deploying LLM-based systems at scale (Llama, Mistral, GPT-4, Claude)\n• Retrieval optimisation - hybrid search (BM25 + vector), reranking, caching\n• Evaluation - recall@k, precision@k, groundedness, hallucination metrics\n• Fine-tuning (LoRA/QLoRA), RAG architecture, LangChain / LlamaIndex\n• Tooling: Hugging Face, Weaviate/Pinecone, FastAPI, PyTorch, Redis, Postgres\n• Monitoring inference, eval automation, & continuous improvement loops\n\nBonus:\n• IoT or Hardware integration or real-time systems experience exp.\n\nIdeal background:\n• CS or Applied ML degree from a top-tier university\n• Proven 0-1 experience in a fast-moving AI startup, or Defence related company\n• You’ve shipped reliable GenAI systems under pressure\n• Degree in Computer Science from a top-tier university\n• Prior experience in high-performance teams (0-1, startups)\n• You’ve shipped real systems - not demos\n\nYou’ll be expected to:\n• Own the LLM pipeline end-to-end – retrieval → evaluation → fine-tuning\n• Improve accuracy, grounding, and eval metrics continuously\n• Make architecture decisions for scale, reliability & speed\n• Collaborate directly with founders & domain experts\n\nStack:\n\nPython / PyTorch / LangChain / Transformers / FastAPI / Hugging Face / Weaviate / Redis / Postgres / Docker / Kubernetes\n\nOffer:\n• Up to $500,000+ base salary + equity\n• Hybrid in NYC\n• Tight-knit, high-output team\n• High ownership, real impact, flat structure\n\nInterview Process:\n\n1) Technical Deep Dive\n\n2) Technical Assessment or Live Pairing\n\n3) Panel focused on mindset & team fit\n\nEqual Opportunity\n\nWe're hiring for an Equal Opportunity Employer.\n\nIf you’ve shipped real GenAI systems, thrive under pressure, and want to see your models power live aerospace systems - this is where theory meets orbit.\n\nTL;DR - Senior AI Engineer (NYC, On-site)\n• Build & scale production-grade GenAI systems from 0 to 1\n• Own and improve RAG pipelines - accuracy and latency matter\n• Deep experience with LLMs, LangChain, Hugging Face & real deployments\n• Must have shipped working GenAI products, not just prototypes\n�� Ideal: startup DNA, top-tier CS degree, fast execution mindset\n• $350K+ base + equity - on-site at a VC-backed aerospace startup in NYC\n• All our new jobs are posted here 1st:\n\nlinkedin.com/in/sufyanbashir/",
+    "job_description": "Senior AI/ML Engineer - (LLMs / RAG / Agentic Systems) - Aerospace - NYC - $500k+ Equity\n\nWe’re hiring for a world class team at one of the fastest growing & most innovative next-gen aerospace AI companies in North America. They're building LLMs, RAG & high-performance AI systems to power mission-critical operations in defence & space.\n\nOnly the top 0.1% of America's AI Engineers can do this. If you’ve built real mission critical LLM systems that can’t fail - this could be your next move.\n\nThe Role\n\nYou’ll own & scale a RAG-driven AI system powering critical aerospace operations. Expect to tackle retrieval quality, latency bottlenecks, & eval-driven fine-tuning head-on for the most innovative & exciting real-time systems in Aerospace today. This is full production ownership - from architecture to metrics.\n\nYou should have experience with:\n• Deploying LLM-based systems at scale (Llama, Mistral, GPT-4, Claude)\n• Retrieval optimisation - hybrid search (BM25 + vector), reranking, caching\n• Evaluation - recall@k, precision@k, groundedness, hallucination metrics\n• Fine-tuning (LoRA/QLoRA), RAG architecture, LangChain / LlamaIndex\n• Tooling: Hugging Face, Weaviate/Pinecone, FastAPI, PyTorch, Redis, Postgres\n• Monitoring inference, eval automation, & continuous improvement loops\n\nBonus:\n• IoT or Hardware integration or real-time systems experience exp.\n\nIdeal background:\n• CS or Applied ML degree from a top-tier university\n• Proven 0-1 experience in a fast-moving AI startup, or Defence related company\n• You’ve shipped reliable GenAI systems under pressure\n• Degree in Computer Science from a top-tier university\n• Prior experience in high-performance teams (0-1, startups)\n• You’ve shipped real systems - not demos\n\nYou’ll be expected to:\n• Own the LLM pipeline end-to-end – retrieval → evaluation → fine-tuning\n• Improve accuracy, grounding, and eval metrics continuously\n• Make architecture decisions for scale, reliability & speed\n• Collaborate directly with founders & domain experts\n\nStack:\n\nPython / PyTorch / LangChain / Transformers / FastAPI / Hugging Face / Weaviate / Redis / Postgres / Docker / Kubernetes\n\nOffer:\n• Up to $500,000+ base salary + equity\n• Hybrid in NYC\n• Tight-knit, high-output team\n• High ownership, real impact, flat structure\n\nInterview Process:\n\n1) Technical Deep Dive\n\n2) Technical Assessment or Live Pairing\n\n3) Panel focused on mindset & team fit\n\nEqual Opportunity\n\nWe're hiring for an Equal Opportunity Employer.\n\nIf you’ve shipped real GenAI systems, thrive under pressure, and want to see your models power live aerospace systems - this is where theory meets orbit.\n\nTL;DR - Senior AI Engineer (NYC, On-site)\n• Build & scale production-grade GenAI systems from 0 to 1\n• Own and improve RAG pipelines - accuracy and latency matter\n• Deep experience with LLMs, LangChain, Hugging Face & real deployments\n• Must have shipped working GenAI products, not just prototypes\n• Ideal: startup DNA, top-tier CS degree, fast execution mindset\n• $350K+ base + equity - on-site at a VC-backed aerospace startup in NYC\n• All our new jobs are posted here 1st:\n\nlinkedin.com/in/sufyanbashir/",
     "job_is_remote": false,
     "job_posted_at": "17 hours ago",
     "job_posted_at_timestamp": 1771329600,
@@ -518,9 +518,9 @@
     "job_latitude": 38.9072873,
     "job_longitude": -77.0369274,
     "job_benefits": [
-      "health_insurance",
       "paid_time_off",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DF3YNoAGYzMQ4ombjAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -575,6 +575,83 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "jobs-us-pwc-com-job-tampa-us-tech-ai-evaluation-engineer-qa-senior-associate-932-90837388896",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "4vYBHIi7ozu4w1KkAAAAAA==",
+    "job_title": "Artificial Intelligence Specialist",
+    "employer_name": "A.C.Coy Company",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStGzxoqq9PuSKLYMVRsOTjSj3XWKLcwnpFl-GP&s=0",
+    "employer_website": null,
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/artificial-intelligence-specialist-at-a-c-coy-company-4373810267?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/artificial-intelligence-specialist-at-a-c-coy-company-4373810267?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "A.C.Coy is currently seeking candidates for a AI Specialist role. This individual will be responsible for driving the successful integration of artificial intelligence tools and workflows across the organization. This role bridges business needs, technical capabilities, and change management to ensure AI solutions deliver measurable value and are responsibly used.\n\nOur ideal candidate will have 2+ years of professional experience utilizing ChatGPT and other AI tools to solve problems and meet business requirements. This candidate should have a level of advanced proficiency which will allow them to train others throughout the organization in best practices and risk management.\n\nAI Strategy & Use Case Development\n• Identify, prioritize, and evaluate AI use cases aligned with business goals\n• Translate business problems into AI-enabled solutions\n\nImplementation & Enablement\n• Lead or support the deployment of AI tools (e.g., ChatGPT, Copilot, Gemini, etc.)\n• Collaborate with IT, data, security, and legal teams to ensure safe and compliant usage\n• Customize workflows and prompts to fit team-specific needs\n• Pilot, iterate, and scale AI solutions across departments\n\nChange Management & Training\n• Design and deliver AI training programs, workshops, and documentation\n• Coach teams on practical, responsible, and effective AI usage\n• Act as a trusted advisor for teams adopting AI into daily workflows\n• Address adoption barriers such as resistance, skill gaps, and misuse concerns\n\nGovernance & Responsible AI\n• Establish guidelines for ethical, secure, and compliant AI usage\n• Monitor risks related to data privacy, bias, and model limitations\n• Stay current on AI regulations, best practices, and emerging standards\n\nMeasurement & Continuous Improvement\n• Track adoption, performance, and business impact of AI initiatives\n• Gather feedback and continuously refine tools and processes\n• Report outcomes and recommendations to leadership\n\nQualifications:\n• 1+ years of specific experience using AI tools to meet business requirements\n• Hands-on experience with any AI tools (e.g., ChatGPT, Copilot, RPA, ML platforms)\n• Strong understanding of AI capabilities, limitations, and risks\n• Ability to utilize AI tools for data and reporting analysis.\n• Excellent communication and stakeholder management skills\n• Bachelor’s degree in Business, Technology, Data Science, or related field (or equivalent experience)",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1771200000,
+    "job_posted_at_datetime_utc": "2026-02-16T00:00:00.000Z",
+    "job_location": "Pennsylvania",
+    "job_city": null,
+    "job_state": "Pennsylvania",
+    "job_country": "US",
+    "job_latitude": 41.203321599999995,
+    "job_longitude": -77.1945247,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4vYBHIi7ozu4w1KkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 75000,
+    "job_max_salary": 110000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "Our ideal candidate will have 2+ years of professional experience utilizing ChatGPT and other AI tools to solve problems and meet business requirements",
+        "This candidate should have a level of advanced proficiency which will allow them to train others throughout the organization in best practices and risk management",
+        "AI Strategy & Use Case Development",
+        "1+ years of specific experience using AI tools to meet business requirements",
+        "Hands-on experience with any AI tools (e.g., ChatGPT, Copilot, RPA, ML platforms)",
+        "Strong understanding of AI capabilities, limitations, and risks",
+        "Ability to utilize AI tools for data and reporting analysis",
+        "Excellent communication and stakeholder management skills",
+        "Bachelor’s degree in Business, Technology, Data Science, or related field (or equivalent experience)"
+      ],
+      "Responsibilities": [
+        "This individual will be responsible for driving the successful integration of artificial intelligence tools and workflows across the organization",
+        "This role bridges business needs, technical capabilities, and change management to ensure AI solutions deliver measurable value and are responsibly used",
+        "Identify, prioritize, and evaluate AI use cases aligned with business goals",
+        "Translate business problems into AI-enabled solutions",
+        "Implementation & Enablement",
+        "Lead or support the deployment of AI tools (e.g., ChatGPT, Copilot, Gemini, etc.)",
+        "Collaborate with IT, data, security, and legal teams to ensure safe and compliant usage",
+        "Customize workflows and prompts to fit team-specific needs",
+        "Pilot, iterate, and scale AI solutions across departments",
+        "Change Management & Training",
+        "Design and deliver AI training programs, workshops, and documentation",
+        "Coach teams on practical, responsible, and effective AI usage",
+        "Act as a trusted advisor for teams adopting AI into daily workflows",
+        "Address adoption barriers such as resistance, skill gaps, and misuse concerns",
+        "Establish guidelines for ethical, secure, and compliant AI usage",
+        "Monitor risks related to data privacy, bias, and model limitations",
+        "Stay current on AI regulations, best practices, and emerging standards",
+        "Measurement & Continuous Improvement",
+        "Track adoption, performance, and business impact of AI initiatives",
+        "Gather feedback and continuously refine tools and processes",
+        "Report outcomes and recommendations to leadership"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-linkedin-com-jobs-view-artificial-intelligence-specialist-at-a-c-coy-company-4373810267",
     "_source": "new_jobs"
   },
   {
@@ -640,98 +717,6 @@
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
     "id": "jobs-womenforhire-com-job-usa-chicopee-ma-ai-engineer-582230",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "3kY1G5XkxOUVtdydAAAAAA==",
-    "job_title": "Sr.Physical AI engineer(locals Only)",
-    "employer_name": "Akkodis",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Hw-C6yyo-mhwbWG3p6ue-WYCRTjnZL9blppV&s=0",
-    "employer_website": "https://www.akkodis.com",
-    "job_publisher": "LinkedIn",
-    "job_employment_type": "Contractor",
-    "job_employment_types": [
-      "CONTRACTOR"
-    ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/sr-physical-ai-engineer-locals-only-at-akkodis-4372536671?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/sr-physical-ai-engineer-locals-only-at-akkodis-4372536671?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/69935562ce78e77b4fd7220c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/497875bff8ee1532d61d1c77be600ca6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Trabajo.org",
-        "apply_link": "https://us.trabajo.org/job-4112-3ba83f3a19458e2862bdb67fb89d6932?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "Akkodis is seeking an Sr.Physical AI engineer in San Francisco Bay Area. Ideally, looking for someone who has minimum of 3 years’ experience in Robotics, Digital Twin, and Computer Vision/Deep Learning/Reinforcement Learning.\n\nRate Range: $100/hour -$130/hour on W2; The rate may be negotiable based on experience, education, geographic location, and other factors.\n\nResponsibilities:\n\n• Developing and implementing scalable demos that highlight the integration of software and hardware in Physical AI applications.\n\n• Conduct analytics and monitor market trends to inform solution development, identify emerging opportunities, and position the teams capabilities strategically within the evolving Physical AI landscape.\n\n• Leading development in robotics, focusing on kinetics, perception, and decision making to enhance operational efficiency and safety.\n\n• Collaborating with a variety of stakeholders to understand requirements and provide technical leadership throughout the project lifecycle.\n\nSkills and Attributes for Success\n\nTo thrive in this role, you will need a combination of technical expertise and strong interpersonal skills.\n\nRequired Skills:\n\n• A Bachelors degree in a relevant field (e.g., Robotics, Computer Science, Mechanical Engineering, Electrical Engineering).\n\n• 3-6 years of full-time working experience in Robotics, Digital Twin, and Computer Vision/Deep Learning/Reinforcement Learning.\n\n• Proven experience in developing and implementing scalable AI systems that integrate software and hardware components effectively.\n\n• Strong proficiency in programming languages such as Python, C++, or Java, with hands-on experience in robotics frameworks (e.g., ROS) and simulation environments (e.g., Isaac Sim).\n\n• Extensive knowledge of the NVIDIA ecosystem, including experience with their offerings and implementation strategies for robotics and AI applications.\n\n• Solid understanding of robotic systems, including kinematics, dynamics, control algorithms, and sensor integration (e.g., LIDAR, cameras).\n\n• Familiarity with machine learning techniques and algorithms, particularly in the context of robotics, automation, and decision-making processes.\n\n• Experience designing, building, and maintaining robotics systems and digital twin models, with a focus on real-time data integration and simulation.\n\n• Proficiency in using data manipulation and analysis tools (e.g., Pandas, NumPy) to derive insights from sensor data and simulations, along with experience in popular ML frameworks such as TensorFlow or PyTorch.\n\n• Experience with DevOps tools (e.g., GIT, Azure DevOps) and Agile methodologies (e.g., Jira) to develop and deploy analytical solutions with multiple features, pipelines, and releases.\n\n• Excellent communication skills to clearly convey findings, recommendations, and opportunities for improvement to clients and team members.\n\n• Willingness to travel as needed to engage with clients and stakeholders.\n\nFor other opportunities available at Akkodis, go to www.akkodis.com\n\nIf you have questions about the position, please contact Mohammed Irfan Murtuza at irfan.murtuza@akkodisgroup.com\n\nEqual Opportunity Employer/Veterans/Disabled\n\nBenefit offerings available for our associates include medical, dental, vision, life insurance, short-te\n\nrm disability, additional voluntary benefits, an EAP program, commuter benefits, and a 401K plan. Our benefit offerings provide employees the flexibility to choose the type of coverage that meets their individual needs. In addition, our associates may be eligible for paid leave including Paid Sick Leave or any other paid leave required by Federal, State, or local law, as well as Holiday pay where applicable. Disclaimer: These benefit offerings do not apply to client-recruited jobs and jobs that are direct hires to a client.\n\nTo read our Candidate Privacy Information Statement, which explains how we will use your information, please visit https://www.akkodis.com/en/privacy-policy.\n\nThe Company will consider qualified applicants with arrest and conviction records in accordance with federal, state, and local laws and/or security clearance requirements, including, as applicable:\n\n· The California Fair Chance Act\n\n· Los Angeles City Fair Chance Ordinance\n\n· Los Angeles County Fair Chance Ordinance for Employers\n\n· San Francisco Fair Chance Ordinance",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1771200000,
-    "job_posted_at_datetime_utc": "2026-02-16T00:00:00.000Z",
-    "job_location": "San Francisco, CA",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.7749295,
-    "job_longitude": -122.4194155,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D3kY1G5XkxOUVtdydAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Ideally, looking for someone who has minimum of 3 years’ experience in Robotics, Digital Twin, and Computer Vision/Deep Learning/Reinforcement Learning",
-        "To thrive in this role, you will need a combination of technical expertise and strong interpersonal skills",
-        "A Bachelors degree in a relevant field (e.g., Robotics, Computer Science, Mechanical Engineering, Electrical Engineering)",
-        "3-6 years of full-time working experience in Robotics, Digital Twin, and Computer Vision/Deep Learning/Reinforcement Learning",
-        "Proven experience in developing and implementing scalable AI systems that integrate software and hardware components effectively",
-        "Strong proficiency in programming languages such as Python, C++, or Java, with hands-on experience in robotics frameworks (e.g., ROS) and simulation environments (e.g., Isaac Sim)",
-        "Extensive knowledge of the NVIDIA ecosystem, including experience with their offerings and implementation strategies for robotics and AI applications",
-        "Solid understanding of robotic systems, including kinematics, dynamics, control algorithms, and sensor integration (e.g., LIDAR, cameras)",
-        "Familiarity with machine learning techniques and algorithms, particularly in the context of robotics, automation, and decision-making processes",
-        "Experience designing, building, and maintaining robotics systems and digital twin models, with a focus on real-time data integration and simulation",
-        "Proficiency in using data manipulation and analysis tools (e.g., Pandas, NumPy) to derive insights from sensor data and simulations, along with experience in popular ML frameworks such as TensorFlow or PyTorch",
-        "Experience with DevOps tools (e.g., GIT, Azure DevOps) and Agile methodologies (e.g., Jira) to develop and deploy analytical solutions with multiple features, pipelines, and releases",
-        "Excellent communication skills to clearly convey findings, recommendations, and opportunities for improvement to clients and team members",
-        "Willingness to travel as needed to engage with clients and stakeholders"
-      ],
-      "Benefits": [
-        "Rate Range: $100/hour -$130/hour on W2; The rate may be negotiable based on experience, education, geographic location, and other factors",
-        "Benefit offerings available for our associates include medical, dental, vision, life insurance, short-te",
-        "rm disability, additional voluntary benefits, an EAP program, commuter benefits, and a 401K plan",
-        "Our benefit offerings provide employees the flexibility to choose the type of coverage that meets their individual needs",
-        "In addition, our associates may be eligible for paid leave including Paid Sick Leave or any other paid leave required by Federal, State, or local law, as well as Holiday pay where applicable"
-      ],
-      "Responsibilities": [
-        "Developing and implementing scalable demos that highlight the integration of software and hardware in Physical AI applications",
-        "Conduct analytics and monitor market trends to inform solution development, identify emerging opportunities, and position the teams capabilities strategically within the evolving Physical AI landscape",
-        "Leading development in robotics, focusing on kinetics, perception, and decision making to enhance operational efficiency and safety",
-        "Collaborating with a variety of stakeholders to understand requirements and provide technical leadership throughout the project lifecycle"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-linkedin-com-jobs-view-sr-physical-ai-engineer-locals-only-at-akkodis-4372536671",
     "_source": "new_jobs"
   },
   {
@@ -981,8 +966,8 @@
     "job_longitude": -71.4127462,
     "job_benefits": [
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D2IO-n13T37uIA1-3AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1039,6 +1024,98 @@
     "job_onet_soc": "23101100",
     "job_onet_job_zone": "5",
     "id": "www-ziprecruiter-com-c-husch-blackwell-job-legal-ai-engineer-in-providence-ri",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "3kY1G5XkxOUVtdydAAAAAA==",
+    "job_title": "Sr.Physical AI engineer(locals Only)",
+    "employer_name": "Akkodis",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Hw-C6yyo-mhwbWG3p6ue-WYCRTjnZL9blppV&s=0",
+    "employer_website": "https://www.akkodis.com",
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "Contractor",
+    "job_employment_types": [
+      "CONTRACTOR"
+    ],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/sr-physical-ai-engineer-locals-only-at-akkodis-4372536671?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/sr-physical-ai-engineer-locals-only-at-akkodis-4372536671?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobright",
+        "apply_link": "https://jobright.ai/jobs/info/69935562ce78e77b4fd7220c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/497875bff8ee1532d61d1c77be600ca6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Trabajo.org",
+        "apply_link": "https://us.trabajo.org/job-4112-3ba83f3a19458e2862bdb67fb89d6932?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Akkodis is seeking an Sr.Physical AI engineer in San Francisco Bay Area. Ideally, looking for someone who has minimum of 3 years’ experience in Robotics, Digital Twin, and Computer Vision/Deep Learning/Reinforcement Learning.\n\nRate Range: $100/hour -$130/hour on W2; The rate may be negotiable based on experience, education, geographic location, and other factors.\n\nResponsibilities:\n\n• Developing and implementing scalable demos that highlight the integration of software and hardware in Physical AI applications.\n\n• Conduct analytics and monitor market trends to inform solution development, identify emerging opportunities, and position the teams capabilities strategically within the evolving Physical AI landscape.\n\n• Leading development in robotics, focusing on kinetics, perception, and decision making to enhance operational efficiency and safety.\n\n• Collaborating with a variety of stakeholders to understand requirements and provide technical leadership throughout the project lifecycle.\n\nSkills and Attributes for Success\n\nTo thrive in this role, you will need a combination of technical expertise and strong interpersonal skills.\n\nRequired Skills:\n\n• A Bachelors degree in a relevant field (e.g., Robotics, Computer Science, Mechanical Engineering, Electrical Engineering).\n\n• 3-6 years of full-time working experience in Robotics, Digital Twin, and Computer Vision/Deep Learning/Reinforcement Learning.\n\n• Proven experience in developing and implementing scalable AI systems that integrate software and hardware components effectively.\n\n• Strong proficiency in programming languages such as Python, C++, or Java, with hands-on experience in robotics frameworks (e.g., ROS) and simulation environments (e.g., Isaac Sim).\n\n• Extensive knowledge of the NVIDIA ecosystem, including experience with their offerings and implementation strategies for robotics and AI applications.\n\n• Solid understanding of robotic systems, including kinematics, dynamics, control algorithms, and sensor integration (e.g., LIDAR, cameras).\n\n• Familiarity with machine learning techniques and algorithms, particularly in the context of robotics, automation, and decision-making processes.\n\n• Experience designing, building, and maintaining robotics systems and digital twin models, with a focus on real-time data integration and simulation.\n\n• Proficiency in using data manipulation and analysis tools (e.g., Pandas, NumPy) to derive insights from sensor data and simulations, along with experience in popular ML frameworks such as TensorFlow or PyTorch.\n\n• Experience with DevOps tools (e.g., GIT, Azure DevOps) and Agile methodologies (e.g., Jira) to develop and deploy analytical solutions with multiple features, pipelines, and releases.\n\n• Excellent communication skills to clearly convey findings, recommendations, and opportunities for improvement to clients and team members.\n\n• Willingness to travel as needed to engage with clients and stakeholders.\n\nFor other opportunities available at Akkodis, go to www.akkodis.com\n\nIf you have questions about the position, please contact Mohammed Irfan Murtuza at irfan.murtuza@akkodisgroup.com\n\nEqual Opportunity Employer/Veterans/Disabled\n\nBenefit offerings available for our associates include medical, dental, vision, life insurance, short-te\n\nrm disability, additional voluntary benefits, an EAP program, commuter benefits, and a 401K plan. Our benefit offerings provide employees the flexibility to choose the type of coverage that meets their individual needs. In addition, our associates may be eligible for paid leave including Paid Sick Leave or any other paid leave required by Federal, State, or local law, as well as Holiday pay where applicable. Disclaimer: These benefit offerings do not apply to client-recruited jobs and jobs that are direct hires to a client.\n\nTo read our Candidate Privacy Information Statement, which explains how we will use your information, please visit https://www.akkodis.com/en/privacy-policy.\n\nThe Company will consider qualified applicants with arrest and conviction records in accordance with federal, state, and local laws and/or security clearance requirements, including, as applicable:\n\n· The California Fair Chance Act\n\n· Los Angeles City Fair Chance Ordinance\n\n· Los Angeles County Fair Chance Ordinance for Employers\n\n· San Francisco Fair Chance Ordinance",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1771200000,
+    "job_posted_at_datetime_utc": "2026-02-16T00:00:00.000Z",
+    "job_location": "San Francisco, CA",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.7749295,
+    "job_longitude": -122.4194155,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D3kY1G5XkxOUVtdydAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Ideally, looking for someone who has minimum of 3 years’ experience in Robotics, Digital Twin, and Computer Vision/Deep Learning/Reinforcement Learning",
+        "To thrive in this role, you will need a combination of technical expertise and strong interpersonal skills",
+        "A Bachelors degree in a relevant field (e.g., Robotics, Computer Science, Mechanical Engineering, Electrical Engineering)",
+        "3-6 years of full-time working experience in Robotics, Digital Twin, and Computer Vision/Deep Learning/Reinforcement Learning",
+        "Proven experience in developing and implementing scalable AI systems that integrate software and hardware components effectively",
+        "Strong proficiency in programming languages such as Python, C++, or Java, with hands-on experience in robotics frameworks (e.g., ROS) and simulation environments (e.g., Isaac Sim)",
+        "Extensive knowledge of the NVIDIA ecosystem, including experience with their offerings and implementation strategies for robotics and AI applications",
+        "Solid understanding of robotic systems, including kinematics, dynamics, control algorithms, and sensor integration (e.g., LIDAR, cameras)",
+        "Familiarity with machine learning techniques and algorithms, particularly in the context of robotics, automation, and decision-making processes",
+        "Experience designing, building, and maintaining robotics systems and digital twin models, with a focus on real-time data integration and simulation",
+        "Proficiency in using data manipulation and analysis tools (e.g., Pandas, NumPy) to derive insights from sensor data and simulations, along with experience in popular ML frameworks such as TensorFlow or PyTorch",
+        "Experience with DevOps tools (e.g., GIT, Azure DevOps) and Agile methodologies (e.g., Jira) to develop and deploy analytical solutions with multiple features, pipelines, and releases",
+        "Excellent communication skills to clearly convey findings, recommendations, and opportunities for improvement to clients and team members",
+        "Willingness to travel as needed to engage with clients and stakeholders"
+      ],
+      "Benefits": [
+        "Rate Range: $100/hour -$130/hour on W2; The rate may be negotiable based on experience, education, geographic location, and other factors",
+        "Benefit offerings available for our associates include medical, dental, vision, life insurance, short-te",
+        "rm disability, additional voluntary benefits, an EAP program, commuter benefits, and a 401K plan",
+        "Our benefit offerings provide employees the flexibility to choose the type of coverage that meets their individual needs",
+        "In addition, our associates may be eligible for paid leave including Paid Sick Leave or any other paid leave required by Federal, State, or local law, as well as Holiday pay where applicable"
+      ],
+      "Responsibilities": [
+        "Developing and implementing scalable demos that highlight the integration of software and hardware in Physical AI applications",
+        "Conduct analytics and monitor market trends to inform solution development, identify emerging opportunities, and position the teams capabilities strategically within the evolving Physical AI landscape",
+        "Leading development in robotics, focusing on kinetics, perception, and decision making to enhance operational efficiency and safety",
+        "Collaborating with a variety of stakeholders to understand requirements and provide technical leadership throughout the project lifecycle"
+      ]
+    },
+    "job_onet_soc": "15111100",
+    "job_onet_job_zone": "5",
+    "id": "www-linkedin-com-jobs-view-sr-physical-ai-engineer-locals-only-at-akkodis-4372536671",
     "_source": "new_jobs"
   },
   {
@@ -1161,83 +1238,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "4vYBHIi7ozu4w1KkAAAAAA==",
-    "job_title": "Artificial Intelligence Specialist",
-    "employer_name": "A.C.Coy Company",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStGzxoqq9PuSKLYMVRsOTjSj3XWKLcwnpFl-GP&s=0",
-    "employer_website": null,
-    "job_publisher": "LinkedIn",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/artificial-intelligence-specialist-at-a-c-coy-company-4373810267?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/artificial-intelligence-specialist-at-a-c-coy-company-4373810267?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "A.C.Coy is currently seeking candidates for a AI Specialist role. This individual will be responsible for driving the successful integration of artificial intelligence tools and workflows across the organization. This role bridges business needs, technical capabilities, and change management to ensure AI solutions deliver measurable value and are responsibly used.\n\nOur ideal candidate will have 2+ years of professional experience utilizing ChatGPT and other AI tools to solve problems and meet business requirements. This candidate should have a level of advanced proficiency which will allow them to train others throughout the organization in best practices and risk management.\n\nAI Strategy & Use Case Development\n• Identify, prioritize, and evaluate AI use cases aligned with business goals\n• Translate business problems into AI-enabled solutions\n\nImplementation & Enablement\n• Lead or support the deployment of AI tools (e.g., ChatGPT, Copilot, Gemini, etc.)\n• Collaborate with IT, data, security, and legal teams to ensure safe and compliant usage\n• Customize workflows and prompts to fit team-specific needs\n• Pilot, iterate, and scale AI solutions across departments\n\nChange Management & Training\n• Design and deliver AI training programs, workshops, and documentation\n• Coach teams on practical, responsible, and effective AI usage\n• Act as a trusted advisor for teams adopting AI into daily workflows\n• Address adoption barriers such as resistance, skill gaps, and misuse concerns\n\nGovernance & Responsible AI\n• Establish guidelines for ethical, secure, and compliant AI usage\n• Monitor risks related to data privacy, bias, and model limitations\n• Stay current on AI regulations, best practices, and emerging standards\n\nMeasurement & Continuous Improvement\n• Track adoption, performance, and business impact of AI initiatives\n• Gather feedback and continuously refine tools and processes\n• Report outcomes and recommendations to leadership\n\nQualifications:\n• 1+ years of specific experience using AI tools to meet business requirements\n• Hands-on experience with any AI tools (e.g., ChatGPT, Copilot, RPA, ML platforms)\n• Strong understanding of AI capabilities, limitations, and risks\n• Ability to utilize AI tools for data and reporting analysis.\n• Excellent communication and stakeholder management skills\n• Bachelor’s degree in Business, Technology, Data Science, or related field (or equivalent experience)",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1771200000,
-    "job_posted_at_datetime_utc": "2026-02-16T00:00:00.000Z",
-    "job_location": "Pennsylvania",
-    "job_city": null,
-    "job_state": "Pennsylvania",
-    "job_country": "US",
-    "job_latitude": 41.203321599999995,
-    "job_longitude": -77.1945247,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4vYBHIi7ozu4w1KkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 75000,
-    "job_max_salary": 110000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "Our ideal candidate will have 2+ years of professional experience utilizing ChatGPT and other AI tools to solve problems and meet business requirements",
-        "This candidate should have a level of advanced proficiency which will allow them to train others throughout the organization in best practices and risk management",
-        "AI Strategy & Use Case Development",
-        "1+ years of specific experience using AI tools to meet business requirements",
-        "Hands-on experience with any AI tools (e.g., ChatGPT, Copilot, RPA, ML platforms)",
-        "Strong understanding of AI capabilities, limitations, and risks",
-        "Ability to utilize AI tools for data and reporting analysis",
-        "Excellent communication and stakeholder management skills",
-        "Bachelor’s degree in Business, Technology, Data Science, or related field (or equivalent experience)"
-      ],
-      "Responsibilities": [
-        "This individual will be responsible for driving the successful integration of artificial intelligence tools and workflows across the organization",
-        "This role bridges business needs, technical capabilities, and change management to ensure AI solutions deliver measurable value and are responsibly used",
-        "Identify, prioritize, and evaluate AI use cases aligned with business goals",
-        "Translate business problems into AI-enabled solutions",
-        "Implementation & Enablement",
-        "Lead or support the deployment of AI tools (e.g., ChatGPT, Copilot, Gemini, etc.)",
-        "Collaborate with IT, data, security, and legal teams to ensure safe and compliant usage",
-        "Customize workflows and prompts to fit team-specific needs",
-        "Pilot, iterate, and scale AI solutions across departments",
-        "Change Management & Training",
-        "Design and deliver AI training programs, workshops, and documentation",
-        "Coach teams on practical, responsible, and effective AI usage",
-        "Act as a trusted advisor for teams adopting AI into daily workflows",
-        "Address adoption barriers such as resistance, skill gaps, and misuse concerns",
-        "Establish guidelines for ethical, secure, and compliant AI usage",
-        "Monitor risks related to data privacy, bias, and model limitations",
-        "Stay current on AI regulations, best practices, and emerging standards",
-        "Measurement & Continuous Improvement",
-        "Track adoption, performance, and business impact of AI initiatives",
-        "Gather feedback and continuously refine tools and processes",
-        "Report outcomes and recommendations to leadership"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-linkedin-com-jobs-view-artificial-intelligence-specialist-at-a-c-coy-company-4373810267",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "kwvm4l-z1P_W-6ypAAAAAA==",
     "job_title": "AI Engineer: Agentic Systems & On-Premise Infrastructure - MADISON WISCONSIN, NO REMOTE",
     "employer_name": "EVO Tech (WI)",
@@ -1310,224 +1310,75 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "aec7xPGW2b410twFAAAAAA==",
-    "job_title": "Senior AI Engineer",
-    "employer_name": "Collibra Inc.",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8SSWgNfPRONTBJxdnd0wnMOnAv3YcoWxtpjeZ&s=0",
-    "employer_website": "https://www.collibra.com",
-    "job_publisher": "Collibra",
+    "job_id": "urSYnQmo3dYV0aKKAAAAAA==",
+    "job_title": "AI Engineer - Core Education Remote 21",
+    "employer_name": "STEMuli",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTrltvjDtCBl6FHcvIf40DubNLcvE_gLcMrAUC&s=0",
+    "employer_website": "https://stemuli.ai",
+    "job_publisher": "Jobilize",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.collibra.com/company/careers/jobs/7588987?gh_jid=7588987&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
+    "job_apply_link": "https://www.jobilize.com/job/us-md-all-cities-ai-engineer-core-education-remote-21-stemuli-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Collibra",
-        "apply_link": "https://www.collibra.com/company/careers/jobs/7588987?gh_jid=7588987&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Capital One Career",
-        "apply_link": "https://www.capitalonecareers.com/job/mclean/senior-ai-engineer/1732/90659105376?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-md-all-cities-ai-engineer-core-education-remote-21-stemuli-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
-      },
-      {
-        "publisher": "Oakwell Hampton",
-        "apply_link": "https://www.oakwellhampton.com/job/senior-ai-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Landing Point",
-        "apply_link": "https://landingpoint.com/job/24309-senior-ai-engineer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Recursion/Job/Senior-AI-Engineer/-in-New-York,NY?jid=7c46df8efa0d639f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Jobs",
-        "apply_link": "https://jobs.ashbyhq.com/spara/523871d0-32bc-4ef4-8da0-daca542122ea/application?embed=js&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Jobs By Workable",
-        "apply_link": "https://apply.workable.com/resonance/j/2679212BE5/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Wellfound",
-        "apply_link": "https://wellfound.com/jobs/3727545-senior-ai-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
       }
     ],
-    "job_description": "Joining Collibra’s Artificial Intelligence team\n\nWe are looking for an experienced AI Engineer who will design and deliver Artificial Intelligence solutions that improve our customers' experience and enable informed, data-driven decision making. We seek someone excited about working with cutting-edge technologies to build pragmatic, performant AI solutions. You'll collaborate with a team of outstanding builders around the world, characterized by a love for innovative technology, a desire to solve problems, and a continuous pursuit of building simple, elegant products that delight customers and simplify all levels of data engagement. You will work primarily with Data Scientists, other AI Engineers, and Machine Learning Operations Engineers, as well as teams across Collibra.\n\nThis is a hybrid role based in our New York office. Our hybrid model means you’ll work from the office at least two days each week. This setup helps us stay connected, work more closely together, and keep making progress as a team.\n\nAI Engineers at Collibra are responsible for:\n• Monitoring of the larger AI/ML landscape, including emerging techniques and current state-of-the-art approaches\n• Transforming prototypes into pragmatic, production-ready solutions which solve impactful business problems\n• Creating, operationalizing, and supporting AI/ML models and visualizations to power actionable value and insights\n• Evaluating algorithmic results for quality, adaptability, and efficiency\n• Contributing to evolving our platforms for Artificial Intelligence and Machine Learning capabilities in support of Collibra’s data products\n• Collaborating with cross-functional teams and mentoring junior engineers on AI best practices\n\nYou Have:\n• 5+ years of experience delivering production-grade AI/ML projects related to business functions, incorporating advanced techniques (e.g., LLM-based applications, RAG systems, NLP, neural networks, recommendation engines)\n• Experience with SQL and relational databases, query authoring as well as working familiarity with a variety of databases (e.g., time series, graph, vector)\n• Built and deployed production code in Python with associated AI modules (LangChain, LangGraph, Pandas, Numpy, Tensorflow, etc.)\n• Experience with model evaluation, testing frameworks, and validation methodologies\n• This position is not eligible for visa sponsorship\n• A bachelor’s degree or equivalent related working experience is required\n\nYou Are:\n• Deeply technical, driven, and analytical about the insights data can deliver\n• Able to cut through hype and noise to identify foundational problems and build maintainable, performant solution\n• Passionate about the mathematical principles powering the Generative AI revolution and how to drive sustainable value from LLMs and other GenAI technologies\n• Experienced supporting diverse stakeholders and working with cross-functional teams in dynamic environments\n• A clear communicator who can explain complex technical concepts to both technical and non-technical audiences\n• Product-minded with empathy for end users—you consider how people will actually interact with AI features, not just technical sophistication\n• Eager to both learn from others and share knowledge ; AI is evolving rapidly and no one has all the answers\n\nReporting to Collibra’s Senior Manager of AI Engineering, measures of success are:\n• Within your first month, you will familiarize yourself with the existing data platform and data products by diving into the architecture, existing products, and the Collibra platform ecosystem\n• Within your third month, you will start to deliver new AI/ML features into our SaaS platform\n• Within your sixth month, you will operationalize AI products into production environments and contribute to our AI roadmap\n\nCompensation for this role\n\nThe standard base salary range for this position is 204,000 - 255,000 per year. This position is not eligible for additional commission-based compensation. Salary offers are based on a combination of factors, including, but not limited to, experience, skills, and location.\n\nIn addition to base salary, we offer a competitive total rewards package, including bonus potential, equity for eligible roles, a Flex Fund monthly stipend, pension/401k plans, and more.\nBenefits at Collibra\n\nCollibra recognizes and values that everyone has different needs, interests, and life goals. We built our benefits program with flexibility in mind to support you and your loved ones through a diverse range of circumstances and life events. These flexible offerings sit on a foundation of competitive compensation, health coverage, and time off. Learn more about Collibra’s benefits.\n\nWe create inclusion and belonging through how we onboard, meet, connect, engage, and communicate. Learn more about diversity, equity, and inclusion at Collibra.\n\nAt Collibra, we’re proud to be an equal opportunity employer. We realize the key to creating a company with a world-class culture and employee experience comes from who we hire and creating a workplace that celebrates everyone.\n\nWith this, we proudly consider qualified applicants without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, sexual orientation, pregnancy, sex, gender identity, gender expression, genetic information, physical or mental disability, HIV status, registered domestic partner status, caregiver status, marital status, veteran or military status, citizenship status or any other legally protected category. If you have a need that requires accommodation, let us know by completing our Accommodations for Applicants form.",
+    "job_description": "Overview\n\nAs an AI Engineer Core Education, you will play a pivotal role in advancing the intelligence of ORB Chat, our personalized AI learning companion. Youll build the core AI systems that power daily motivational dialogues, adaptive tutoring, and real-time guidance that helps students connect their academic progress (e.g., math and AI literacy) with future career opportunities. Your work will be central to scaling ORB to serve hundreds of thousands of students across Stride schools, Heartland Forwards 20-state initiative, and our international partnerships.\nResponsibilities\n• Build and scale LLM-powered educational assistants (ORB Chat) that deliver personalized, culturally responsive learning experiences.\n• Design and maintain ETL pipelines for K-12 curricular data, AI literacy modules, and workforce skills content.\n• Develop and fine-tune generative AI models for problem creation, explanations, and adaptive feedback in math and career-learning contexts.\n• Ensure reliability and safety of AI outputs through structured output validation, re-asking strategies, and bias-mitigation techniques.\n• Partner with game designers and Unity engineers to bring AI-driven NPCs to life inside the 3D City and Founder Tycoon experiences.\n• Collaborate with education researchers to ensure models align with industry and standards-aligned curricula and support equitable outcomes for all learners.\nWhat Were Looking For\n• 3+ years of experience with large language models (LLMs), including prompting, RAG pipelines, and fine-tuning.\n• Strong skills in Python and experience with LLMOps platforms (e.g., Weights & Biases).\n• Experience building AI-driven tutoring, chatbots, or content-generation systems.\n• Strong foundation in data structures, algorithms, and software engineering principles.\n• Creative, mission-driven mindset with a passion for transforming how students learn through play and AI.\nWhat We Offer\n• Opportunity to define and scale the core AI companion (ORB) at the center of a new global education platform.\n• Collaboration with a diverse, world-class team across game design, Unity, backend, and education research.\n• $160K $185K annual salary + meaningful equity.\n• Hybrid: Seattle-based AI team with flexibility.\n• Comprehensive benefits package.\nDetails\n• Seniority level: Mid-Senior level\n• Employment type: Full-time\n• Job function: Engineering and Information Technology\n• Industries: Education\n\n•",
     "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "New York, NY",
-    "job_city": "New York",
-    "job_state": "New York",
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Maryland",
+    "job_city": null,
+    "job_state": "Maryland",
     "job_country": "US",
-    "job_latitude": 40.7127753,
-    "job_longitude": -74.0059728,
+    "job_latitude": 39.0457549,
+    "job_longitude": -76.64127119999999,
     "job_benefits": [
       "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Daec7xPGW2b410twFAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DurSYnQmo3dYV0aKKAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "5+ years of experience delivering production-grade AI/ML projects related to business functions, incorporating advanced techniques (e.g., LLM-based applications, RAG systems, NLP, neural networks, recommendation engines)",
-        "Experience with SQL and relational databases, query authoring as well as working familiarity with a variety of databases (e.g., time series, graph, vector)",
-        "Built and deployed production code in Python with associated AI modules (LangChain, LangGraph, Pandas, Numpy, Tensorflow, etc.)",
-        "Experience with model evaluation, testing frameworks, and validation methodologies",
-        "This position is not eligible for visa sponsorship",
-        "A bachelor’s degree or equivalent related working experience is required",
-        "Deeply technical, driven, and analytical about the insights data can deliver",
-        "Able to cut through hype and noise to identify foundational problems and build maintainable, performant solution",
-        "Passionate about the mathematical principles powering the Generative AI revolution and how to drive sustainable value from LLMs and other GenAI technologies",
-        "Experienced supporting diverse stakeholders and working with cross-functional teams in dynamic environments",
-        "A clear communicator who can explain complex technical concepts to both technical and non-technical audiences",
-        "Product-minded with empathy for end users—you consider how people will actually interact with AI features, not just technical sophistication",
-        "Eager to both learn from others and share knowledge ; AI is evolving rapidly and no one has all the answers"
+        "3+ years of experience with large language models (LLMs), including prompting, RAG pipelines, and fine-tuning",
+        "Strong skills in Python and experience with LLMOps platforms (e.g., Weights & Biases)",
+        "Experience building AI-driven tutoring, chatbots, or content-generation systems",
+        "Strong foundation in data structures, algorithms, and software engineering principles",
+        "Creative, mission-driven mindset with a passion for transforming how students learn through play and AI"
       ],
       "Benefits": [
-        "The standard base salary range for this position is 204,000 - 255,000 per year",
-        "This position is not eligible for additional commission-based compensation",
-        "Salary offers are based on a combination of factors, including, but not limited to, experience, skills, and location",
-        "In addition to base salary, we offer a competitive total rewards package, including bonus potential, equity for eligible roles, a Flex Fund monthly stipend, pension/401k plans, and more",
-        "These flexible offerings sit on a foundation of competitive compensation, health coverage, and time off"
+        "Opportunity to define and scale the core AI companion (ORB) at the center of a new global education platform",
+        "Collaboration with a diverse, world-class team across game design, Unity, backend, and education research",
+        "$160K $185K annual salary + meaningful equity",
+        "Hybrid: Seattle-based AI team with flexibility",
+        "Comprehensive benefits package",
+        "Seniority level: Mid-Senior level"
       ],
       "Responsibilities": [
-        "You will work primarily with Data Scientists, other AI Engineers, and Machine Learning Operations Engineers, as well as teams across Collibra",
-        "Monitoring of the larger AI/ML landscape, including emerging techniques and current state-of-the-art approaches",
-        "Transforming prototypes into pragmatic, production-ready solutions which solve impactful business problems",
-        "Creating, operationalizing, and supporting AI/ML models and visualizations to power actionable value and insights",
-        "Evaluating algorithmic results for quality, adaptability, and efficiency",
-        "Contributing to evolving our platforms for Artificial Intelligence and Machine Learning capabilities in support of Collibra’s data products",
-        "Collaborating with cross-functional teams and mentoring junior engineers on AI best practices",
-        "Within your first month, you will familiarize yourself with the existing data platform and data products by diving into the architecture, existing products, and the Collibra platform ecosystem",
-        "Within your third month, you will start to deliver new AI/ML features into our SaaS platform",
-        "Within your sixth month, you will operationalize AI products into production environments and contribute to our AI roadmap"
+        "As an AI Engineer Core Education, you will play a pivotal role in advancing the intelligence of ORB Chat, our personalized AI learning companion",
+        "Youll build the core AI systems that power daily motivational dialogues, adaptive tutoring, and real-time guidance that helps students connect their academic progress (e.g., math and AI literacy) with future career opportunities",
+        "Your work will be central to scaling ORB to serve hundreds of thousands of students across Stride schools, Heartland Forwards 20-state initiative, and our international partnerships",
+        "Build and scale LLM-powered educational assistants (ORB Chat) that deliver personalized, culturally responsive learning experiences",
+        "Design and maintain ETL pipelines for K-12 curricular data, AI literacy modules, and workforce skills content",
+        "Develop and fine-tune generative AI models for problem creation, explanations, and adaptive feedback in math and career-learning contexts",
+        "Ensure reliability and safety of AI outputs through structured output validation, re-asking strategies, and bias-mitigation techniques",
+        "Partner with game designers and Unity engineers to bring AI-driven NPCs to life inside the 3D City and Founder Tycoon experiences",
+        "Collaborate with education researchers to ensure models align with industry and standards-aligned curricula and support equitable outcomes for all learners"
       ]
     },
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
-    "id": "www-collibra-com-company-careers-jobs-7588987",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "7hh5d18aAQDXMsNXAAAAAA==",
-    "job_title": "Senior Data Engineering Lead- AI Engineering & Operations team",
-    "employer_name": "Charles Schwab",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjLZJv0c4eUiAPTL24rSh52v-541rhsjwKrZ1E&s=0",
-    "employer_website": "https://www.schwab.com",
-    "job_publisher": "Schwab Jobs",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.schwabjobs.com/job/austin/senior-data-engineering-lead-ai-engineering-and-operations-team/33727/89311402832?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Schwab Jobs",
-        "apply_link": "https://www.schwabjobs.com/job/austin/senior-data-engineering-lead-ai-engineering-and-operations-team/33727/89311402832?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/senior-data-engineering-lead-ai-engineering-operations-team-charles-schwab-JV_IC1139761_KO0,59_KE60,74.htm?jl=1009963658364&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/GP09t4TliHU5RAkX7h2utVbuseLex_puk43XTHaK74jro8Oe6Wz8Kg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Charles-Schwab/Job/Senior-Data-Engineering-Lead-AI-Engineering-&-Operations-team/-in-Austin,TX?jid=46d7612e7abd4f5b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Jobright",
-        "apply_link": "https://jobright.ai/jobs/info/698e9b0c78b4502f12a57407?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/senior-data-engineering-lead-ai-engineering-operations-team-at-charles-schwab-4351597740?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Dice",
-        "apply_link": "https://www.dice.com/job-detail/51b932c2-37c8-4984-ba4a-ad4a64c5e868?q=Control+Systems+Engineer&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "FinancialJobsWeb.com",
-        "apply_link": "https://www.financialjobsweb.com/job/senior-data-engineering-lead-ai-engineering-operations-team/82452413/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Your opportunity\n\nAt Schwab, you’re empowered to make an impact on your career. Here, innovative thought meets creative problem solving, helping us “challenge the status quo” and transform the finance industry together.\n\nWe believe in the importance of in-office collaboration and fully intend for the selected candidate for this role to work on site in the specified location(s).\n\nThis role is expected to be in the office 4 days a week.\n\nSchwab Technology Services enables the future of how clients manage their money by providing innovative and reliable technology products and services as a part of our ongoing commitment to democratize access to investing and financial planning.\n\nAs part of Schwab's AI Engineering & Operations team, you will be building the next generation Generative AI solutions that shape the future of technology at Schwab. In this role, you will contribute to the development and deployment of AI products that are instrumental in driving data-informed business decisions and elevating client experiences. You’ll collaborate across teams to deliver scalable, secure, and high-performing AI systems that align with Schwab’s innovation strategy and operational goals.\nWhat you have\n\nTo ensure that we fulfill our promise of “challenging the status quo,” this role has specific qualifications that successful candidates should have:\n\nRequired Qualifications:\n• 8+ years of ETL engineering experience, with 4+ years as a hands-on senior engineer\n• 5+ years designing and developing scalable data pipelines that integrate with large, complex datasets across diverse environments including structured and unstructured data formats. Must be proficient in working with various API types (REST, SOAP, Graph), handling authenticated data sources, and implementing complex extraction procedures.\n• 5+ years building and maintaining production-grade data pipelines across multiple data delivery modes (streaming, batch) and data classification protocols (internal, confidential, PII).\n• 5+ years of experience with data governance and risk frameworks, including metadata management and classification.\n• Bachelor’s degree in Computer Science, Data Engineering, Mathematics, Analytics, or related field.\n• 3+ years working hands-on with containers and cloud-native applications.\n\nPreferred Qualifications:\n• Strong ETL/data engineering fundamentals and experience across the tech stack.\n• Commitment to quality—driving high standards including writing tests at all levels.\n• Strong written and verbal communication skills to clearly convey ideas and feedback.\n• Mentoring junior engineers and supporting their technical growth through code reviews and guidance.\n• Mindset of continuous learning and improvement.\n• Ability to solve complex problems with ambiguous or incomplete data in distributed systems.\n• Demonstrated business domain knowledge relevant to previous products.\n• Curiosity about new technologies and processes, proactively sharing knowledge and seeking improvement.\n• Experience with Python preferred but not required.\n• Master’s or advanced degree in Computer Science, Data Engineering, Mathematics, Analytics, or related field.\n\nIn addition to the salary range, this role is also eligible for bonus or incentive opportunities.\n\nApplicants must be currently authorized to work in the United States on a full-time basis without employer sponsorship.\n\nWhat’s in it for you\n\nAt Schwab, you’re empowered to shape your future. We champion your growth through meaningful work, continuous learning, and a culture of trust and collaboration—so you can build the skills to make a lasting impact. Our Hybrid Work and Flexibility approach balances our ongoing commitment to workplace flexibility, serving our clients, and our strong belief in the value of being together in person on a regular basis.\n\nWe offer a competitive benefits package that takes care of the whole you – both today and in the future:\n• 401(k) with company match and Employee stock purchase plan\n• Paid time for vacation, volunteering, and 28-day sabbatical after every 5 years of service for eligible positions\n• Paid parental leave and family building benefits\n• Tuition reimbursement\n• Health, dental, and vision insurance",
-    "job_is_remote": false,
-    "job_posted_at": "12 days ago",
-    "job_posted_at_timestamp": 1770336000,
-    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
-    "job_location": "Austin, TX",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_country": "US",
-    "job_latitude": 30.267152999999997,
-    "job_longitude": -97.7430608,
-    "job_benefits": [
-      "dental_coverage",
-      "paid_time_off",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D7hh5d18aAQDXMsNXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 150000,
-    "job_max_salary": 165000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "8+ years of ETL engineering experience, with 4+ years as a hands-on senior engineer",
-        "5+ years designing and developing scalable data pipelines that integrate with large, complex datasets across diverse environments including structured and unstructured data formats",
-        "Must be proficient in working with various API types (REST, SOAP, Graph), handling authenticated data sources, and implementing complex extraction procedures",
-        "5+ years building and maintaining production-grade data pipelines across multiple data delivery modes (streaming, batch) and data classification protocols (internal, confidential, PII)",
-        "5+ years of experience with data governance and risk frameworks, including metadata management and classification",
-        "Bachelor’s degree in Computer Science, Data Engineering, Mathematics, Analytics, or related field",
-        "3+ years working hands-on with containers and cloud-native applications",
-        "Applicants must be currently authorized to work in the United States on a full-time basis without employer sponsorship"
-      ],
-      "Benefits": [
-        "In addition to the salary range, this role is also eligible for bonus or incentive opportunities",
-        "We offer a competitive benefits package that takes care of the whole you – both today and in the future:",
-        "401(k) with company match and Employee stock purchase plan",
-        "Paid time for vacation, volunteering, and 28-day sabbatical after every 5 years of service for eligible positions",
-        "Paid parental leave and family building benefits",
-        "Tuition reimbursement",
-        "Health, dental, and vision insurance"
-      ],
-      "Responsibilities": [
-        "This role is expected to be in the office 4 days a week",
-        "In this role, you will contribute to the development and deployment of AI products that are instrumental in driving data-informed business decisions and elevating client experiences",
-        "You’ll collaborate across teams to deliver scalable, secure, and high-performing AI systems that align with Schwab’s innovation strategy and operational goals"
-      ]
-    },
-    "job_onet_soc": "15111100",
-    "job_onet_job_zone": "5",
-    "id": "www-schwabjobs-com-job-austin-senior-data-engineering-lead-ai-engineering-and-operations-team-33727-89311402832",
+    "id": "www-jobilize-com-job-us-md-all-cities-ai-engineer-core-education-remote-21-stemuli-hiring",
     "_source": "new_jobs"
   },
   {
@@ -1752,72 +1603,119 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "C7d1OoZAPRdFteBGAAAAAA==",
-    "job_title": "Senior Generative AI Developer - Full Time Only -Irving, TX / Tampa, FL/ Jersey City, NJ (3 Days onsite/ week)",
-    "employer_name": "Programmers.io",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJHi0adX5oSnIQilbOt7GrVdQtwD-f9ZE9SV2l&s=0",
-    "employer_website": "https://programmers.io",
-    "job_publisher": "LinkedIn",
+    "job_id": "kbtWtiX89yDTND2vAAAAAA==",
+    "job_title": "Sr AI Engineer",
+    "employer_name": "WEXWEXUS",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "WEX Careers",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/senior-generative-ai-developer-full-time-only-irving-tx-tampa-fl-jersey-city-nj-3-days-onsite-week-at-programmers-io-4371525354?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://careers.wexinc.com/us/en/job/R20720/Sr-AI-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
+        "publisher": "WEX Careers",
+        "apply_link": "https://careers.wexinc.com/us/en/job/R20720/Sr-AI-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/WEX/Job/Sr-AI-Engineer/-in-Seattle,WA?jid=b5e00070eb8f1815&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
         "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/senior-generative-ai-developer-full-time-only-irving-tx-tampa-fl-jersey-city-nj-3-days-onsite-week-at-programmers-io-4371525354?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.linkedin.com/jobs/view/sr-ai-engineer-at-wex-4370113760?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Ladders",
+        "apply_link": "https://www.theladders.com/job/ai-knowledge-engineer-sr-manager-accenture-seattle-wa_84843472?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Experteer",
+        "apply_link": "https://us.experteer.com/career/view-jobs/sr-ai-engineer-98101-seattle-wa-usa-56056291?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "KSNT Jobs",
+        "apply_link": "https://jobs.ksnt.com/jobs/sr-ai-engineer-seattle-washington/2617786578-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "KHON2 Jobs",
+        "apply_link": "https://jobs.khon2.com/jobs/sr-ai-engineer-seattle-washington/2617786578-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/60a1f518a38fe5864cd83548500c932f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Role: Senior Generative AI Developer\n\nLocation: Irving, TX / Tampa, FL/ Jersey City, NJ (3 Days onsite/ week)\n\nFull Time Only No C2C\n\nJob Description:\n\nWe are seeking an experienced Senior Generative AI Developer to design and implement cutting-edge AI solutions leveraging Retrieval-Augmented Generation (RAG) techniques. The ideal candidate will have strong expertise in Python programming, FastAPI, and cloud platforms (AWS, Azure, or GCP). This role requires a deep understanding of system architecture design, scalable APIs, and end-to-end AI solution development.\n\nKey Responsibilities:\n\nArchitect and develop Generative AI applications using RAG frameworks for enterprise-scale solutions.\n\nDesign and implement robust system architectures for AI-driven platforms ensuring scalability, security, and performance.\n\nBuild and optimize APIs using FastAPI for seamless integration with AI models and data pipelines.\n\nCollaborate with cross-functional teams to integrate AI solutions into existing systems and workflows.\n\nImplement data ingestion, preprocessing, and retrieval mechanisms for large-scale knowledge bases.\n\nEnsure compliance with best practices for cloud deployment (AWS, Azure, or GCP).\n\nConduct performance tuning and optimization of AI models and APIs.\n\nStay updated with the latest advancements in Generative AI, LLMs, and RAG methodologies.\n\nRequired Skills & Qualifications\n\n8+ years of professional experience in software development and system design.\n\nStrong proficiency in Python and experience with FastAPI for API development.\n\nHands-on experience with Generative AI frameworks and RAG architectures.\n\nSolid understanding of system and architecture design principles for distributed applications.\n\nExperience deploying solutions on any major cloud platform (AWS, Azure, GCP).\n\nFamiliarity with vector databases, embedding models, and retrieval pipelines.\n\nStrong problem-solving skills and ability to work in a fast-paced environment.\n\nPreferred Qualifications\n\nExperience with LLM fine-tuning, prompt engineering, and model evaluation.\n\nKnowledge of containerization (Docker) and orchestration (Kubernetes).\n\nExposure to CI/CD pipelines and DevOps practices.",
+    "job_description": "This is a remote position; however, the candidate must reside within 30 miles of one of the following locations: Portland, ME; Boston, MA; Chicago, IL; Dallas, TX; San Francisco Bay Area, CA; and Seattle/WA.\n\nAbout the Team/Role\n\nWe are a fast-growing AI Engineering team, driving WEX's strategic vision to integrate artificial intelligence into the core of our product and business. Our team thrives on collaboration, working directly with stakeholders and domain experts to develop innovative AI platforms and solutions that enhance decision-making and create groundbreaking products that benefit our customers and help them to effectively grow their business. We foster a culture of continuous learning and believe that the best work stems from a shared purpose and an enjoyable, engaging environment.\n\nHow You’ll Make an Impact\n\nYou are an experienced technical leader and subject matter expert with a deep passion for AI, Machine Learning, and software engineering. You possess a proven track record of architecting scalable systems and solving complex ambiguity using data-driven tools. You will act as a force multiplier for the team—setting technical standards, mentoring junior engineers, and partnering with product leadership to turn abstract business goals into production-grade AI solutions.\n\nResponsibilities\n• Technical Strategy & Architecture: Partner with stakeholders to translate complex customer challenges into robust technical designs and AI strategies.\n• End-to-End Ownership: Architect, build, and deploy high-performance AI/ML platforms and tools, ensuring scalability, reliability, and security.\n• Advanced Model Development: Lead the development, evaluation, fine-tuning, and monitoring of production-grade AI/ML models (including LLMs and RAG architectures).\n• Operational Excellence: Design and standardize CI/CD pipelines (GitHub Actions) and Infrastructure as Code (Terraform) to ensure reproducible and automated deployments.\n• Reliability & Scale: Proactively monitor system health, lead incident response for critical AI systems, and drive architectural refactoring to remove bottlenecks.\n• Mentorship: Mentor L1/L2 engineers, conduct code reviews, and foster a culture of engineering excellence and best practices.\n• Innovation: Evaluate emerging AI technologies/vendors and prototype new approaches to keep the organization at the cutting edge of the industry.\n\nExperience You’ll Bring\n• 5+ years of experience as an AI/ML Engineer, Data Scientist, or Software Engineer with a heavy focus on production ML systems.\n• Bachelor's degree in Computer Science, Software Engineering, or related field; a Master’s or PhD in AI/ML is preferred.\n• Production expertise: Proven track record of taking AI solutions from concept to high-scale production using Java, C#, GoLang, or Python.\n• LLM Proficiency: Deep experience with Generative AI, including prompting strategies, RAG (Retrieval-Augmented Generation), fine-tuning, and agentic workflows.\n• System Design: Strong ability to design distributed systems and microservices architectures for model serving.\n• Collaboration: Demonstrated ability to lead technical discussions with non-technical stakeholders and drive consensus.\n• Experience in the financial or fintech industry is a plus.\n\nTechnical Skills\n• Expert proficiency in Python (preferred) or other core languages (Java, Go, C#).\n• Deep knowledge of modern ML frameworks (PyTorch, TensorFlow, Scikit-learn) and LLM orchestration (LangChain, LlamaIndex, vLLM).\n• Advanced understanding of MLOps principles, feature stores, and model monitoring.\n• Solid grasp of advanced probability, statistics, and linear algebra.\n• Extensive hands-on experience with Kubernetes (deploying and managing clusters) and Cloud platforms (AWS preferred).\n• Strong command of CI/CD methodologies and Infrastructure as Code (Terraform).\n• Excellent data engineering skills (SQL, NoSQL, data lakes, and processing pipelines).\n\nThe base pay range represents the anticipated low and high end of the pay range for this position. Actual pay rates will vary and will be based on various factors, such as your qualifications, skills, competencies, and proficiency for the role. Base pay is one component of WEX's total compensation package. Most sales positions are eligible for commission under the terms of an applicable plan. Non-sales roles are typically eligible for a quarterly or annual bonus based on their role and applicable plan. WEX's comprehensive and market competitive benefits are designed to support your personal and professional well-being. Benefits include health, dental and vision insurances, retirement savings plan, paid time off, health savings account, flexible spending accounts, life insurance, disability insurance, tuition reimbursement, and more. For more information, check out the \"About Us\" section.\n\nPay Range: $121,500.00 - $145,500.00",
     "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Irving, TX",
-    "job_city": "Irving",
-    "job_state": "Texas",
+    "job_posted_at": "11 days ago",
+    "job_posted_at_timestamp": 1770422400,
+    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
+    "job_location": "Boston, MA",
+    "job_city": "Boston",
+    "job_state": "Massachusetts",
     "job_country": "US",
-    "job_latitude": 32.8136151,
-    "job_longitude": -96.95468989999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DC7d1OoZAPRdFteBGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_latitude": 42.355507599999996,
+    "job_longitude": -71.0565364,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DkbtWtiX89yDTND2vAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "The ideal candidate will have strong expertise in Python programming, FastAPI, and cloud platforms (AWS, Azure, or GCP)",
-        "This role requires a deep understanding of system architecture design, scalable APIs, and end-to-end AI solution development",
-        "8+ years of professional experience in software development and system design",
-        "Strong proficiency in Python and experience with FastAPI for API development",
-        "Hands-on experience with Generative AI frameworks and RAG architectures",
-        "Solid understanding of system and architecture design principles for distributed applications",
-        "Experience deploying solutions on any major cloud platform (AWS, Azure, GCP)",
-        "Familiarity with vector databases, embedding models, and retrieval pipelines",
-        "Strong problem-solving skills and ability to work in a fast-paced environment",
-        "Experience with LLM fine-tuning, prompt engineering, and model evaluation",
-        "Knowledge of containerization (Docker) and orchestration (Kubernetes)",
-        "Exposure to CI/CD pipelines and DevOps practices"
+        "You are an experienced technical leader and subject matter expert with a deep passion for AI, Machine Learning, and software engineering",
+        "You possess a proven track record of architecting scalable systems and solving complex ambiguity using data-driven tools",
+        "5+ years of experience as an AI/ML Engineer, Data Scientist, or Software Engineer with a heavy focus on production ML systems",
+        "Production expertise: Proven track record of taking AI solutions from concept to high-scale production using Java, C#, GoLang, or Python",
+        "LLM Proficiency: Deep experience with Generative AI, including prompting strategies, RAG (Retrieval-Augmented Generation), fine-tuning, and agentic workflows",
+        "System Design: Strong ability to design distributed systems and microservices architectures for model serving",
+        "Collaboration: Demonstrated ability to lead technical discussions with non-technical stakeholders and drive consensus",
+        "Deep knowledge of modern ML frameworks (PyTorch, TensorFlow, Scikit-learn) and LLM orchestration (LangChain, LlamaIndex, vLLM)",
+        "Advanced understanding of MLOps principles, feature stores, and model monitoring",
+        "Solid grasp of advanced probability, statistics, and linear algebra",
+        "Strong command of CI/CD methodologies and Infrastructure as Code (Terraform)",
+        "Excellent data engineering skills (SQL, NoSQL, data lakes, and processing pipelines)"
+      ],
+      "Benefits": [
+        "Actual pay rates will vary and will be based on various factors, such as your qualifications, skills, competencies, and proficiency for the role",
+        "Base pay is one component of WEX's total compensation package",
+        "Most sales positions are eligible for commission under the terms of an applicable plan",
+        "Non-sales roles are typically eligible for a quarterly or annual bonus based on their role and applicable plan",
+        "WEX's comprehensive and market competitive benefits are designed to support your personal and professional well-being",
+        "Benefits include health, dental and vision insurances, retirement savings plan, paid time off, health savings account, flexible spending accounts, life insurance, disability insurance, tuition reimbursement, and more",
+        "Pay Range: $121,500.00 - $145,500.00"
       ],
       "Responsibilities": [
-        "We are seeking an experienced Senior Generative AI Developer to design and implement cutting-edge AI solutions leveraging Retrieval-Augmented Generation (RAG) techniques",
-        "Architect and develop Generative AI applications using RAG frameworks for enterprise-scale solutions",
-        "Design and implement robust system architectures for AI-driven platforms ensuring scalability, security, and performance",
-        "Build and optimize APIs using FastAPI for seamless integration with AI models and data pipelines",
-        "Collaborate with cross-functional teams to integrate AI solutions into existing systems and workflows",
-        "Implement data ingestion, preprocessing, and retrieval mechanisms for large-scale knowledge bases",
-        "Ensure compliance with best practices for cloud deployment (AWS, Azure, or GCP)",
-        "Conduct performance tuning and optimization of AI models and APIs",
-        "Stay updated with the latest advancements in Generative AI, LLMs, and RAG methodologies"
+        "You will act as a force multiplier for the team—setting technical standards, mentoring junior engineers, and partnering with product leadership to turn abstract business goals into production-grade AI solutions",
+        "Technical Strategy & Architecture: Partner with stakeholders to translate complex customer challenges into robust technical designs and AI strategies",
+        "End-to-End Ownership: Architect, build, and deploy high-performance AI/ML platforms and tools, ensuring scalability, reliability, and security",
+        "Advanced Model Development: Lead the development, evaluation, fine-tuning, and monitoring of production-grade AI/ML models (including LLMs and RAG architectures)",
+        "Operational Excellence: Design and standardize CI/CD pipelines (GitHub Actions) and Infrastructure as Code (Terraform) to ensure reproducible and automated deployments",
+        "Reliability & Scale: Proactively monitor system health, lead incident response for critical AI systems, and drive architectural refactoring to remove bottlenecks",
+        "Mentorship: Mentor L1/L2 engineers, conduct code reviews, and foster a culture of engineering excellence and best practices",
+        "Innovation: Evaluate emerging AI technologies/vendors and prototype new approaches to keep the organization at the cutting edge of the industry"
       ]
     },
     "job_onet_soc": "15111100",
     "job_onet_job_zone": "5",
-    "id": "www-linkedin-com-jobs-view-senior-generative-ai-developer-full-time-only-irving-tx-tampa-fl-jersey-city-nj-3-days-onsite-week-at-programmers-io-4371525354",
+    "id": "careers-wexinc-com-us-en-job-r20720-sr-ai-engineer",
     "_source": "new_jobs"
   }
 ]
