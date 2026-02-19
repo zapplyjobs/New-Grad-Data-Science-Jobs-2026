@@ -76,7 +76,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Role | Location | Posted | Level | Apply |
 |------|----------|--------|-------|-------|
 | 2026 Summer Internship, Research... | Stockholm | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/8a5ff03f-efaf-4c45-a86b-e24e4c0d8dc8/apply) |
-| Data Scientist - Music Mission | New York | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/c4a86464-a90d-4e16-9890-1f79355a41ac/apply) |
+| Data Scientist - Music Mission | New York | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/c4a86464-a90d-4e16-9890-1f79355a41ac/apply) |
 | 2026 Summer Internship, Research... | New York | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/89d92385-9e48-4bb8-bf74-96e75532562f/apply) |
 | 2026 Summer Internship, Research... | London | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/5d940b07-35a3-4e69-a173-8e9f8c9c3093/apply) |
 | Data Scientist - User Fraud | London | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/a52081f6-0535-4645-9b87-dae79148ff9e/apply) |
