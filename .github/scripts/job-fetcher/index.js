@@ -27,7 +27,7 @@ async function main() {
 
     // Fetch data science jobs from aggregator
     const consumer = createAggregatorConsumer({
-      filters: { domains: ['data_science'] },
+      filters: { domains: ['data_science'], employment: 'new_grad', locations: ['us'] },
       verbose: true
     });
 
