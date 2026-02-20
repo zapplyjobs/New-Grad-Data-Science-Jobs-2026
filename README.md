@@ -9,16 +9,16 @@
 
 # Data Science Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-21-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-7-blue?style=flat&logo=building)
-![Data Scientist](https://img.shields.io/badge/Data_Scientist-16-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-20-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-6-blue?style=flat&logo=building)
+![Data Scientist](https://img.shields.io/badge/Data_Scientist-15-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time data science, analytics, and machine learning jobs from 7+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 21+ fresh opportunities for new graduates, data science students, and entry-level data analysts.</p>
+<p align="center">🚀 Real-time data science, analytics, and machine learning jobs from 6+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 20+ fresh opportunities for new graduates, data science students, and entry-level data analysts.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -69,7 +69,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/dsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>🔬 <strong>Data Scientist</strong> (16 positions)</h3></summary>
+<summary><h3>🔬 <strong>Data Scientist</strong> (15 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
@@ -88,7 +88,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **reddit** | Machine Learning Engineer, Ads 🏠 | Remote - Ontario | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7131934) |
 | 🏢 **instacart** | Machine Learning PhD Intern, Eco... 🏠 | United States - Remote | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://instacart.careers/job/?gh_jid=7532267) |
 | 🏢 **instacart** | Machine Learning Engineer, PhD I... 🏠 | United States - Remote | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://instacart.careers/job/?gh_jid=5917202) |
-| 🎵 **spotify** | 2026 Summer Internship, Research... | Stockholm | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/8a5ff03f-efaf-4c45-a86b-e24e4c0d8dc8/apply) |
 
 </details>
 
@@ -170,7 +169,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 21 current opportunities from 7 companies**
+**🎯 20 current opportunities from 6 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
