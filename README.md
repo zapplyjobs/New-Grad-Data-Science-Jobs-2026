@@ -9,8 +9,8 @@
 
 # Data Science Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-20-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-6-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-19-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-5-blue?style=flat&logo=building)
 ![Data Scientist](https://img.shields.io/badge/Data_Scientist-15-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -18,7 +18,7 @@
 
 </div>
 
-<p align="center">🚀 Real-time data science, analytics, and machine learning jobs from 6+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 20+ fresh opportunities for new graduates, data science students, and entry-level data analysts.</p>
+<p align="center">🚀 Real-time data science, analytics, and machine learning jobs from 5+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 19+ fresh opportunities for new graduates, data science students, and entry-level data analysts.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -92,14 +92,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>📊 <strong>Data Analyst</strong> (4 positions)</h3></summary>
+<summary><h3>📊 <strong>Data Analyst</strong> (3 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🏢 **stripe** | Financial Data Analyst | Dublin | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7440547) |
 | 🏢 **stripe** | Financial Data Analyst - Regulat... | Bengaluru | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7393401) |
 | 🏢 **stripe** | Financial Data Analyst-User Billing | Bengaluru | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7278434) |
-| 🏢 **cloudflare** | Software Engineer, Engagement & ... | Hybrid | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/6897110?gh_jid=6897110) |
 
 </details>
 
@@ -169,7 +168,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 20 current opportunities from 6 companies**
+**🎯 19 current opportunities from 5 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
