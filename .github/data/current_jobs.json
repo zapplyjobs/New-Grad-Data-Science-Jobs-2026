@@ -1457,31 +1457,5 @@
     "_source": "aggregator",
     "_original_source": "unknown",
     "job_posted_at": "2026-02-06T10:04:45-05:00"
-  },
-  {
-    "job_id": "lever-spotify-8a5ff03f-efaf-4c45-a86b-e24e4c0d8dc8",
-    "job_title": "2026 Summer Internship, Research Scientist - PhD (Stockholm)",
-    "employer_name": "spotify",
-    "job_city": "Stockholm",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/spotify/8a5ff03f-efaf-4c45-a86b-e24e4c0d8dc8/apply",
-    "job_posted_at_datetime_utc": "2026-02-06T12:25:32.016Z",
-    "job_description": "Spotify is looking for enthusiastic students/recent graduates with a passion for music, podcasts, audiobooks, or video and an ambition to go far. This isn’t just any internship! Our paid internship program will give you the chance to gain in-depth knowledge of what it’s like to be a Spotify employee, as well as get the opportunity to see the technology side of a fast growing company. Our summer internships will last for approximately 10 or 12 weeks and start in mid-June 2026.\n\nWe are looking for exceptional Research Scientist Interns who have applied experience in signal processing, audio and video analysis, perceptual quality, Music & Video Information Retrieval (MIR/VIR), or related fields. The Media Quality Lab (MQL) works at the intersection of media quality, perception, and technology, inventing and testing foundational approaches that inform future product experiences.\n",
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "d08ea00ab2d68556882dc459012c81f6d1c7dc618fc1c17203717d0fdfc2b313",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [],
-      "experience": "no_experience",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "unknown",
-    "job_posted_at": "2026-02-06T12:25:32.016Z"
   }
 ]
