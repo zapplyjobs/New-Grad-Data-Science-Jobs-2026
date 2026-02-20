@@ -9,16 +9,16 @@
 
 # Data Science Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-19-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-5-blue?style=flat&logo=building)
-![Data Scientist](https://img.shields.io/badge/Data_Scientist-15-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-0-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-0-blue?style=flat&logo=building)
+![Software Engine](https://img.shields.io/badge/Software_Engineering-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time data science, analytics, and machine learning jobs from 5+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 19+ fresh opportunities for new graduates, data science students, and entry-level data analysts.</p>
+<p align="center">🚀 Real-time data science, analytics, and machine learning jobs from 0+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 0+ fresh opportunities for new graduates, data science students, and entry-level data analysts.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -68,50 +68,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 <img src="images/dsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
-<details>
-<summary><h3>🔬 <strong>Data Scientist</strong> (15 positions)</h3></summary>
-
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **stripe** | Data Scientist | Toronto | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7357460) |
-| 🏢 **stripe** | Data Analyst, Intern (Master's d... | Toronto | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7285986) |
-| 🏢 **stripe** | PhD Data Scientist, Intern | Toronto | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7285974) |
-| 🏢 **stripe** | PhD Machine Learning Engineer, I... | San Francisco | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7216664) |
-| 🏢 **stripe** | PhD Machine Learning Engineer, N... | San Francisco | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7216668) |
-| 🏢 **coinbase** | Data Scientist II - Consumer 🏠 | Remote - USA | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7583657?gh_jid=7583657) |
-| 🏢 **coinbase** | Data Scientist II - Platform 🏠 | Remote - USA | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/6679661?gh_jid=6679661) |
-| 🏢 **reddit** | Data Scientist, Ads 🏠 | Remote - Ontario | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7607124) |
-| 🏢 **reddit** | Data Scientist, Ads 🏠 | Remote - United States | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/6580815) |
-| 🏢 **instacart** | Analytics Engineer, Lifecycle Ef... 🏠 | United States - Remote | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://instacart.careers/job/?gh_jid=7603076) |
-| 🏢 **instacart** | Analytics Engineer, Lifecycle Ef... 🏠 | Canada - Remote (ON | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://instacart.careers/job/?gh_jid=7603074) |
-| 🏢 **reddit** | Machine Learning Engineer, Ads 🏠 | Remote - United States | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7131932) |
-| 🏢 **reddit** | Machine Learning Engineer, Ads 🏠 | Remote - Ontario | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7131934) |
-| 🏢 **instacart** | Machine Learning PhD Intern, Eco... 🏠 | United States - Remote | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://instacart.careers/job/?gh_jid=7532267) |
-| 🏢 **instacart** | Machine Learning Engineer, PhD I... 🏠 | United States - Remote | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://instacart.careers/job/?gh_jid=5917202) |
-
-</details>
-
-<details>
-<summary><h3>📊 <strong>Data Analyst</strong> (3 positions)</h3></summary>
-
-| Company | Role | Location | Posted | Level | Apply |
-|---------|------|----------|--------|-------|-------|
-| 🏢 **stripe** | Financial Data Analyst | Dublin | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7440547) |
-| 🏢 **stripe** | Financial Data Analyst - Regulat... | Bengaluru | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7393401) |
-| 🏢 **stripe** | Financial Data Analyst-User Billing | Bengaluru | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7278434) |
-
-</details>
-
-<details>
-<summary><h3>🤖 <strong>Machine Learning</strong> (1 positions)</h3></summary>
-
-| Company | Role | Location | Posted | Level | Apply |
-|---------|------|----------|--------|-------|-------|
-| 🏢 **dropbox** | PhD Machine Learning Intern (Sum... | Remote - US: All locations | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7368677?gh_jid=7368677) |
-
-</details>
-
-
+| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
 
 
 
@@ -168,7 +127,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 19 current opportunities from 5 companies**
+**🎯 0 current opportunities from 0 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
