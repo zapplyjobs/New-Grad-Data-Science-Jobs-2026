@@ -73,9 +73,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **stripe** | PhD Machine Learning Engineer, N... | San Francisco | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7216668) |
-| 🏢 **coinbase** | Data Scientist II - Consumer 🏠 | Remote - USA | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7583657?gh_jid=7583657) |
-| 🏢 **coinbase** | Data Scientist II - Platform 🏠 | Remote - USA | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/6679661?gh_jid=6679661) |
+| 🏢 **stripe** | PhD Machine Learning Engineer, N... | San Francisco | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7216668) |
+| 🏢 **coinbase** | Data Scientist II - Consumer 🏠 | Remote - USA | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7583657?gh_jid=7583657) |
+| 🏢 **coinbase** | Data Scientist II - Platform 🏠 | Remote - USA | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/6679661?gh_jid=6679661) |
 | 🏢 **reddit** | Data Scientist, Ads 🏠 | Remote - United States | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/6580815) |
 | 🏢 **reddit** | Machine Learning Engineer, Ads 🏠 | Remote - United States | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7131932) |
 
@@ -146,6 +146,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: February 20, 2026
+**Last Updated**: February 21, 2026
 
 </div>
