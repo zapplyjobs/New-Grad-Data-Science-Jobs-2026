@@ -66,7 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 ## Fresh Data Science Jobs 2026
 
-<img src="images/dsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
+<img src="images/dsj-listings.png" alt="Fresh 2026 job listings (under 14 days).">
 
 <details>
 <summary><h3>🔬 <strong>Data Scientist</strong> (7 positions)</h3></summary>
@@ -117,8 +117,6 @@ Check out our other repos for jobs and free resources:
 <p align="center">
   <a href="https://github.com/zapplyjobs/New-Grad-Nursing-Jobs-2026"><img src="images/repo-nsj.png" alt="Nursing Jobs" height="40"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/zapplyjobs/Remote-Jobs-2026"><img src="images/repo-rmj.png" alt="Remote Jobs" height="40"></a>
-  &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/resume-samples-2026"><img src="images/repo-rss.png" alt="Resume Samples" height="40"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/interview-handbook-2026"><img src="images/repo-ihb.png" alt="Interview Handbook" height="40"></a>
@@ -140,11 +138,11 @@ Check out our other repos for jobs and free resources:
 Add new jobs to our listings keeping in mind the following:
 
 - Located in the US.
-- Openings are currently accepting applications and not older than 1 week.
+- Openings are currently accepting applications and not older than 14 days.
 - Create a new issue to submit different job positions.
 - Update a job by submitting an issue with the job URL and required changes.
 
-Our team reviews within 24-48 hours and approved jobs are added to the main list!
+Jobs are added automatically by our pipeline every 15 minutes.
 
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
 

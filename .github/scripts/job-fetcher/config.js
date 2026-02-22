@@ -22,8 +22,8 @@ module.exports = {
   tagline: '',  // No tagline for SEO repos
 
   // Description paragraphs (with template variables)
-  descriptionLine1: '🚀 Real-time data science, analytics, and machine learning jobs from {totalCompanies}+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with {currentJobs}+ fresh opportunities for new graduates, data science students, and entry-level data analysts.',
-  descriptionLine2: '🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.',
+  descriptionLine1: '🚀 Real-time data science, analytics, and machine learning jobs from {totalCompanies}+ top companies like Anthropic, Coinbase, and Instacart. Updated every 15 minutes with {currentJobs}+ fresh opportunities for new graduates, data science students, and entry-level data analysts.',
+  descriptionLine2: '🎯 Includes roles across tech giants, fast-growing startups, and data-first companies like Anthropic, Coinbase, and Instacart.',
 
   // Note box
   noteType: 'TIP',
@@ -39,5 +39,5 @@ module.exports = {
   },
 
   // Job categorization
-  defaultCategory: 'data_scientist'
+  defaultCategory: 'data_analyst'  // Broadest DS fallback — reduces wrong-section display
 };
