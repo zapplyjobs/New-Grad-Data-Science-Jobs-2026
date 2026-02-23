@@ -235,7 +235,7 @@
         /* Stats */
         .stats {
             display: grid;
-            grid-template-columns: repeat(4, 1fr);
+            grid-template-columns: repeat(2, 1fr);
             gap: 40px;
             animation: fadeInUp 0.8s ease 0.4s both;
             max-width: 800px;
@@ -605,11 +605,6 @@
                 align-items: center;
             }
             
-            .stats {
-                grid-template-columns: repeat(2, 1fr);
-                gap: 24px;
-            }
-            
             .companies-grid {
                 grid-template-columns: repeat(3, 1fr);
                 gap: 12px;
@@ -705,10 +700,10 @@
             <div class="hero-content">
                 <div class="hero-badge">
                     <span>🔥</span>
-                    <span>825+ Live Positions</span>
+                    <span id="hero-badge-count">Live Positions</span>
                 </div>
-                
-                <h1 class="hero-title">Elite Tech Jobs<br>for <span id="typed-text" class="typed-highlight">New Grads</span><span class="cursor">|</span></h1>
+
+                <h1 class="hero-title">Data Science Jobs<br>for <span id="typed-text" class="typed-highlight">New Grads</span><span class="cursor">|</span></h1>
                 
                 <p class="hero-subtitle">
                     Curated opportunities from top tech companies.<br>
@@ -731,22 +726,14 @@
                 </div>
                 
 
-                <div class="stats">
+                <div class="stats" id="stats-section">
                     <div class="stat">
-                        <div class="stat-number">825</div>
+                        <div class="stat-number" id="stat-jobs">—</div>
                         <div class="stat-label">Active Jobs</div>
                     </div>
                     <div class="stat">
-                        <div class="stat-number">82</div>
+                        <div class="stat-number" id="stat-companies">—</div>
                         <div class="stat-label">Companies</div>
-                    </div>
-                    <div class="stat">
-                        <div class="stat-number">15</div>
-                        <div class="stat-label">FAANG+ Roles</div>
-                    </div>
-                    <div class="stat">
-                        <div class="stat-number">24h</div>
-                        <div class="stat-label">Update Cycle</div>
                     </div>
                 </div>
             </div>
@@ -875,7 +862,7 @@
     <!-- Footer -->
     <footer class="footer">
         <div class="container">
-            <div class="footer-stats">825 opportunities from 82 companies</div>
+            <div class="footer-stats" id="footer-stats">Opportunities updated every 15 minutes</div>
             <div class="footer-note">Updated every 15 minutes</div>
             
             <div class="footer-links">
@@ -957,7 +944,7 @@
 
         // Typing effect for hero title
         const typedTextElement = document.getElementById('typed-text');
-        const words = ['New Grads', 'Mid-Level', 'Juniors'];
+        const words = ['New Grads', 'Entry Level', 'Juniors'];
         let currentWordIndex = 0;
         let currentCharIndex = 0;
         let isDeleting = false;
@@ -991,6 +978,21 @@
 
         // Start the typing effect after page load
         setTimeout(typeEffect, 1000);
+
+        // Dynamic stats from current_jobs.json
+        fetch('.github/data/current_jobs.json')
+            .then(r => r.json())
+            .then(jobs => {
+                const count = jobs.length;
+                const companies = new Set(jobs.map(j => j.employer_name).filter(Boolean)).size;
+                document.getElementById('stat-jobs').textContent = count;
+                document.getElementById('stat-companies').textContent = companies;
+                document.getElementById('hero-badge-count').textContent = count + '+ Live Positions';
+                document.getElementById('footer-stats').textContent = count + ' opportunities from ' + companies + ' companies';
+            })
+            .catch(() => {
+                document.getElementById('stats-section').style.display = 'none';
+            });
     </script>
 </body>
 </html>
