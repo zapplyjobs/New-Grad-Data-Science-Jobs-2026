@@ -9,16 +9,16 @@
 
 # Data Science Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-118-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-116-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-18-blue?style=flat&logo=building)
-![Data Analyst](https://img.shields.io/badge/Data_Analyst-77-red?style=flat&logo=star)
+![Data Analyst](https://img.shields.io/badge/Data_Analyst-76-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time data science, analytics, and machine learning jobs from 18+ top companies like Anthropic, Coinbase, and Instacart. Updated every 15 minutes with 118+ fresh opportunities for new graduates, data science students, and entry-level data analysts.</p>
+<p align="center">🚀 Real-time data science, analytics, and machine learning jobs from 18+ top companies like Anthropic, Coinbase, and Instacart. Updated every 15 minutes with 116+ fresh opportunities for new graduates, data science students, and entry-level data analysts.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and data-first companies like Anthropic, Coinbase, and Instacart.</p>
 
@@ -100,9 +100,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>📊 <strong>Data Analyst</strong> (77 positions)</h3></summary>
+<summary><h3>📊 <strong>Data Analyst</strong> (76 positions)</h3></summary>
 
-#### 🏢 **coinbase** (19 positions)
+#### 🏢 **coinbase** (18 positions)
 
 | Role | Location | Posted | Level | Apply |
 |------|----------|--------|-------|-------|
@@ -116,7 +116,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Product Designer II, Defi 🏠 | Remote - USA | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7604149?gh_jid=7604149) |
 | Software Engineer, Developer Exp... 🏠 | Remote - USA | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7586664?gh_jid=7586664) |
 | Counsel, Marketing 🏠 | Remote - USA | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7550873?gh_jid=7550873) |
-| Customer Success Specialist 🏠 | Charlotte, NC | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7551492?gh_jid=7551492) |
 | Payments Risk Analyst II 🏠 | Remote - USA | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7569161?gh_jid=7569161) |
 | Software Engineer, Backend - Blo... 🏠 | Remote - USA | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7173250?gh_jid=7173250) |
 | Software Engineer, Backend (Inst... 🏠 | Remote - USA | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7591737?gh_jid=7591737) |
@@ -194,7 +193,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **mongodb** | 2026 - Next in Tech Summit, NORAM | Austin; New York City; Palo Alto; San Francisco; Seattle | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7569187) |
 | 🏢 **mongodb** | Software Engineer 3 | Palo Alto; Seattle | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7523911) |
 | 🏢 **notion** | Model Behavior Engineer | New York | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/notion/4bbfad88-0830-46c5-8d05-d95d17d583ca/application) |
-| 🏢 **databricks** | Forward Deployed Engineer (FDE) | United States; USCA | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8251094002) |
+| 🏢 **databricks** | Forward Deployed Engineer (FDE) | United States; USCA | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8251094002) |
 | 🏢 **databricks** | Software Engineer -  DLT PhD Can... | Mountain View, California | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=7471089002) |
 | 🏢 **instacart** | Program Analyst, Legal Compliance 🏠 | United States - Remote | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://instacart.careers/job/?gh_jid=7536747) |
 | 🏢 **verkada** | Software Engineer - Fleet Manage... | San Mateo, CA United States, CA | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4135093007) |
@@ -215,7 +214,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>🤖 <strong>Machine Learning</strong> (16 positions)</h3></summary>
+<summary><h3>🤖 <strong>Machine Learning</strong> (15 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
@@ -226,7 +225,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **anthropic** | Machine Learning Systems Enginee... | San Francisco, CA | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4952079008) |
 | 🏢 **anthropic** | Machine Learning Systems Enginee... | San Francisco, CA | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4952051008) |
 | 🏢 **anthropic** | Research Engineer, Machine Learn... | San Francisco, CA | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4613568008) |
-| 🏢 **databricks** | AI Engineer - FDE (Forward Deplo... 🏠 | United States | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8024010002) |
 | 🏢 **elastic** | Elastic AI Engineer | United States | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.elastic.co/jobs?gh_jid=7607148&gh_jid=7607148) |
 | 🏢 **stripe** | Software Engineer, Machine Learn... | Seattle, SF | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7528260) |
 | 🏢 **scaleai** | Machine Learning Fellow - Human ... 🏠 | United States | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4660340005) |
@@ -295,7 +293,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 118 current opportunities from 18 companies**
+**🎯 116 current opportunities from 18 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
