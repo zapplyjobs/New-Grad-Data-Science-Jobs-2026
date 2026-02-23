@@ -136,9 +136,9 @@ jobs:
           echo "### Today's Update:" >> $GITHUB_STEP_SUMMARY
           echo "- **$JOB_COUNT total data science positions** from centralized aggregator" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "**Next update**: In ~12 minutes" >> $GITHUB_STEP_SUMMARY
+          echo "**Next update**: In ~15 minutes" >> $GITHUB_STEP_SUMMARY
         else
           echo "No changes detected - job board is current" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "**Next check**: In ~12 minutes" >> $GITHUB_STEP_SUMMARY
+          echo "**Next check**: In ~15 minutes" >> $GITHUB_STEP_SUMMARY
         fi
