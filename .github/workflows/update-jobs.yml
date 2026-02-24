@@ -2,7 +2,7 @@ name: Update Jobs from Aggregator
 
 on:
   schedule:
-    - cron: '6,21,36,51 * * * *'  # Every 15 minutes (staggered schedule)
+    - cron: '*/15 * * * *'  # Every 15 minutes
   workflow_dispatch: # Allow manual triggering
   push:
     branches: [ main ]
