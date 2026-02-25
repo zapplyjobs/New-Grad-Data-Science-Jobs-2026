@@ -14,10 +14,6 @@ const config = require(path.join(process.cwd(), '.github/scripts/job-fetcher/con
 // Load repo-specific job categories
 const jobCategories = require(path.join(process.cwd(), '.github/scripts/job-fetcher/job_categories.json'));
 
-// Validate config before using
-const { validateConfig } = require(path.join(__dirname, '../shared/lib/config-validator.js'));
-validateConfig(config, process.cwd());
-
 // Import shared readme generator
 const { createReadmeGenerator } = require(path.join(__dirname, '../shared/lib/readme-generator.js'));
 
