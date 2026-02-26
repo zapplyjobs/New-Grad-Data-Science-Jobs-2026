@@ -9,9 +9,9 @@
 
 # Data Science Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-156-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-28-blue?style=flat&logo=building)
-![Data Analyst](https://img.shields.io/badge/Data_Analyst-113-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-149-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-22-blue?style=flat&logo=building)
+![Data Analyst](https://img.shields.io/badge/Data_Analyst-108-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
@@ -69,7 +69,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/dsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>🔬 <strong>Data Scientist</strong> (19 positions)</h3></summary>
+<summary><h3>🔬 <strong>Data Scientist</strong> (17 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
@@ -77,17 +77,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Machine Learning Engineer, Quality Analytics | Costa Mesa | 6h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5034660007?gh_jid=5034660007) |
 | 🏢 **Anduril** | Supply Chain Analytics Engineer | Costa Mesa | 6h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5045894007?gh_jid=5045894007) |
 | 🏢 **Block** | Data Scientist - Model Strategy Management 🏠 | Bay Area, CA | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](http://block.xyz/careers/jobs/4963850008?gh_jid=4963850008) |
-| 🏢 **Synergistic it** | Remote Data Scientist/Analyst (Entry/Junior Level) 🏠 | Remote | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.monster.com/job-openings/remote-data-scientist-analyst-entry-junior-level-washington-dc--da2dd95e-f8ba-454d-801f-06a952ed30aa?mstr_dist=true) |
 | 🏢 **Stripe** | PhD Machine Learning Engineer, New Grad | San Francisco | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7216668) |
 | 🏢 **Anthropic** | Biological Safety Research Scientist | San Francisco, CA | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5066977008) |
 | 🏢 **Anthropic** | Research Engineer / Scientist, Alignment Science | San Francisco, CA | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4631822008) |
 | 🏢 **Anthropic** | Research Engineer / Scientist, Societal Impacts | San Francisco, CA | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5076606008) |
 | 🏢 **Anthropic** | Research Scientist, Societal Impacts | San Francisco, CA | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5076616008) |
-| 🏢 **SynergisticIT** | Entry Level Python Programmer/Data scientist/Analyst 🇺🇸 | Killeen | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/6VkAnCzWeBVyeIH4EeFzGn) |
 | 🏢 **OpenAI** | Data Scientist, Integrity Measurement | San Francisco | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/be4e1098-f7ac-46f4-babe-44ef08f47fcb/application) |
 | 🏢 **Datadog** | AI Research Scientist – Datadog AI Research (DAIR) | New York | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669) |
-| 🏢 **Lyft** | Data Scientist, Decisions - Central Market Management | San Francisco, CA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8376875002?gh_jid=8376875002) |
 | 🏢 **Lyft** | Data Scientist, Decisions - Central Market Management | New York, NY | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8378473002?gh_jid=8378473002) |
+| 🏢 **Lyft** | Data Scientist, Decisions - Central Market Management | San Francisco, CA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8376875002?gh_jid=8376875002) |
 | 🏢 **OpenAI** | Research Engineer / Machine Learning Engineer - B2B Applications | San Francisco | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/46cd47bc-d4de-4826-aa2e-8b2e0da3c409/application) |
 | 🏢 **Lyft** | Applied Scientist - Pricing, Rider Engagement | New York, NY | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8404373002?gh_jid=8404373002) |
 | 🏢 **Lyft** | Applied Scientist - Pricing, Rider Engagement | San Francisco, CA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8403401002?gh_jid=8403401002) |
@@ -96,7 +94,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>📊 <strong>Data Analyst</strong> (113 positions)</h3></summary>
+<summary><h3>📊 <strong>Data Analyst</strong> (108 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
@@ -105,8 +103,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Mission Operations Analysis Engineer, Space | Costa Mesa | 6h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4984579007?gh_jid=4984579007) |
 | 🏢 **Anduril** | Mission Operations Engineer, Connected Warfare (Active Clearance) | Costa Mesa | 6h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4159543007?gh_jid=4159543007) |
 | 🏢 **Anduril** | Planning Analyst | Costa Mesa | 6h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4657698007?gh_jid=4657698007) |
-| 🏢 **Anduril** | Robotics Engineer, Maritime | Quincy | 6h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5047315007?gh_jid=5047315007) |
 | 🏢 **Anduril** | Robotics Engineer, Maritime | Costa Mesa | 6h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5051580007?gh_jid=5051580007) |
+| 🏢 **Anduril** | Robotics Engineer, Maritime | Quincy | 6h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5047315007?gh_jid=5047315007) |
 | 🏢 **Anduril** | Robotics Software Engineer, Path Planning  | Costa Mesa | 6h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5030896007?gh_jid=5030896007) |
 | 🏢 **Anduril** | Software Engineer | Broomfield | 6h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4869264007?gh_jid=4869264007) |
 | 🏢 **Anduril** | Software Engineer | Huntsville | 6h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5025619007?gh_jid=5025619007) |
@@ -114,12 +112,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Software Engineer, DevOps, Discovery | Washington | 6h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4981660007?gh_jid=4981660007) |
 | 🏢 **Anduril** | Software Engineer, DevOps, Discovery | Seattle | 6h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5038025007?gh_jid=5038025007) |
 | 🏢 **Anduril** | Software Engineer, Ghost 🏠 | Costa Mesa | 6h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4932891007?gh_jid=4932891007) |
-| 🏢 **Coinbase** | Trade Surveillance Associate 🏠 | Remote | 6h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7647593?gh_jid=7647593) |
-| 🏢 **Verkada** | Software Engineer - Fleet Management | San Mateo, CA | 8h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4135093007) |
+| 🏢 **Coinbase** | Trade Surveillance Associate 🏠 | Remote | 7h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7647593?gh_jid=7647593) |
+| 🏢 **Verkada** | Software Engineer - Fleet Management | San Mateo, CA | 9h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4135093007) |
 | 🏢 **OpenAI** | Software Engineer, Marketing Innovation | San Francisco | 10h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/1bb1f351-41a2-43a5-bac1-259859886cb3/application) |
 | 🏢 **Perplexity** | AI Software Engineer - Agents | San Francisco | 11h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/perplexity/bc1a6878-8de9-48c2-a791-95b2f8f27261/application) |
-| 🏢 **Okta** | Strategic Account Executive  🏠 | San Francisco | 12h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7653966?gh_jid=7653966) |
-| 🏢 **Databricks** | Forward Deployed Engineer (FDE) | United States; USCA | 12h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8251094002) |
+| 🏢 **Okta** | Strategic Account Executive  🏠 | San Francisco | 13h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7653966?gh_jid=7653966) |
+| 🏢 **Databricks** | Forward Deployed Engineer (FDE) | United States; USCA | 13h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8251094002) |
 | 🏢 **SpaceX** | Hardware Reliability Specialist (Starlink) | Bastrop, TX | 15h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8434475002?gh_jid=8434475002) |
 | 🏢 **SpaceX** | Software Engineer (Starshield) | Hawthorne, CA | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8385191002?gh_jid=8385191002) |
 | 🏢 **Ripple** | Business Insights Analyst | Chicago | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://ripple.com/careers/all-jobs/job/7651754?gh_jid=7651754) |
@@ -130,8 +128,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Coinbase** | Security Engineer, CorpSec 🏠 | Remote | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7611268?gh_jid=7611268) |
 | 🏢 **Coinbase** | Software Engineer, DevSec 🏠 | Remote | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7595352?gh_jid=7595352) |
 | 🏢 **SpaceX** | Operations Engineer, Security  | Hawthorne, CA | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8397366002?gh_jid=8397366002) |
-| 🏢 **Jobsultant Solutions** | Data Analyst - Entry Level (Remote) 🏠 | Charlotte | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/30vrATe8fuKVJhmTCjpDWp) |
-| 🏢 **jobright com** | Virtual Data Analyst / Entry level Remote at Jobright.ai Phoenix, AZ 19 🏠 | Louisiana | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobilize.com/job/us-la-all-cities-virtual-data-analyst-entry-level-remote-jobright) |
 | 🏢 **Okta** | Account Executive, Strategic Inside Sales (Chicago) | Chicago | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7086125?gh_jid=7086125) |
 | 🏢 **Okta** | Account Executive, Strategic  Inside Sales (DC) | Washington, DC | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/6807866?gh_jid=6807866) |
 | 🏢 **Okta** | Business Development Representative, Bellevue | Bellevue, WA | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7013555?gh_jid=7013555) |
@@ -148,9 +144,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Okta** | Strategic Account Executive- MN 🏠 | Minnesota | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7578626?gh_jid=7578626) |
 | 🏢 **Okta** | Strategic Account Executive-Tennessee 🏠 | Tennessee | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7554807?gh_jid=7554807) |
 | 🏢 **OpenAI** | Recruiter, AI/ML Research 🏠 | San Francisco | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/ed871ac9-44ae-47fa-beaa-b9ab7ff31012/application) |
-| 🏢 **DetaPent** | Junior Data Analyst | Houston | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/DetaPent/Job/Junior-Data-Analyst/-in-Houston,TX?jid=4913ee2be0067679) |
-| 🏢 **VirtualVocations** | Entry-Level Data Analyst | Canton | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=607898427301368109) |
-| 🏢 **VirtualVocations** | Entry-Level Data Analyst | Unknown | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=607898431779377453) |
 | 🏢 **Coinbase** | Software Engineer, Backend (Consumer - Advanced Trading) 🏠 | Remote | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7591861?gh_jid=7591861) |
 | 🏢 **Discord** | Data Engineer, Analytics | San Francisco Bay... | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8371252002) |
 | 🏢 **Anthropic** | Applied Safety Research Engineer, Safeguards | San Francisco, CA | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5062955008) |
@@ -207,8 +200,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **SpaceX** | Data Analyst, Supply Chain (Starlink) | Redmond, WA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8330510002?gh_jid=8330510002) |
 | 🏢 **SpaceX** | Full Stack Software Engineer (Starshield) 🏠 | Hawthorne, CA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8365490002?gh_jid=8365490002) |
 | 🏢 **SpaceX** | Mission Integration Engineer, Applied Computing (Starshield) | Hawthorne, CA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8320099002?gh_jid=8320099002) |
-| 🏢 **SpaceX** | NDE Engineer | Cape Canaveral, FL | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8330557002?gh_jid=8330557002) |
 | 🏢 **SpaceX** | NDE Engineer | Hawthorne, CA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8328629002?gh_jid=8328629002) |
+| 🏢 **SpaceX** | NDE Engineer | Cape Canaveral, FL | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8330557002?gh_jid=8330557002) |
 | 🏢 **SpaceX** | NDE Engineer (Starship) | Starbase, TX | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8402832002?gh_jid=8402832002) |
 | 🏢 **SpaceX** | Operations Engineer (Starlink Aviation) | Woodinville, WA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8378412002?gh_jid=8378412002) |
 | 🏢 **SpaceX** | Software Engineer, Geospatial Data (Starshield) 🏠 | Hawthorne, CA | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8389619002?gh_jid=8389619002) |
@@ -319,7 +312,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 156 current opportunities from 28 companies**
+**🎯 149 current opportunities from 22 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
