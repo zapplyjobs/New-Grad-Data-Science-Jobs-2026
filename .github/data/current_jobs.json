@@ -1446,6 +1446,127 @@
     "job_posted_at": "2026-02-26T16:34:52.661+00:00"
   },
   {
+    "job_id": "js-synergisticit-30ky2tqphjasoettaaaaaa==",
+    "job_title": "Entry/Junior Level Data Analyst",
+    "employer_name": "SynergisticIT",
+    "job_city": "Meridian",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://us.bebee.com/job/7f2b226fb23844a1756fd021096d3df1",
+    "job_posted_at_datetime_utc": "2026-02-26T00:00:00.000Z",
+    "job_description": "Join a leading tech company as a Data Analyst.\nAbout Us\nSynergisticit has helped thousands of candidates get employed in the tech industry since 2010 by providing them with the necessary skills and experience.\nRequirements:\n• Bachelor's degree in Computer Science or related field\n• Proficiency in programming languages Java and Python",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "91cfc0ddd712a9b621dffbb483ca170611f3375b0f3c70e316aceb11129ecb38",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-26T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-job-on-remote-online-usa-gtmhffjq-t11gtwvaaaaaa==",
+    "job_title": "Entry Level Data Analyst",
+    "employer_name": "Job On Remote Online USA",
+    "job_city": "Pleasanton",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://us.bebee.com/job/e49c0156aa6879008f9a0f86f16650e6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-26T00:00:00.000Z",
+    "job_description": "NOTE: Only for US residence\n\nResponsibilities\n\nWork hand-in-hand with the business side of an organization to help in process improvements.\n\nWorking primarily on design and analysis in the areas of organization, planning cum information technology.\n\nWorks as the middle man between the technical team and business team so as to assist in the development of requirements needed for the business.\n\nHe/ She will be responsible for documenting customer requirements as outlined by the business users.\n\nThe analysts role also includes making sure that the designs meet the companys technical standards.\n\nQualification And Experience\n• Entry Level / Fresh Graduates / Engineers - BS / MS in Business/Data Analytics, Management Information systems, Computer Science ,Software engineering, IT, Industrial Engineering/Engineering management.\n• Prior experience is a \"plus\" but not required.\n• Candidates with strong communication/presentation skills, strong aptitude to learn and interest in Software programming, Testing or Business Analysis.\n• Work Authorization: Must be authorized to work in the US",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "4f7ed9e4f9abd13c2998732a5e2f69f2d6e859e31150830c740a007209660756",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-26T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-emonics-llc-gk1lasxiur7lmkrzaaaaaa==",
+    "job_title": "Machine Learning Engineer, Entry Level",
+    "employer_name": "Emonics LLC",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/40v8ZgOH0eXb4b2Cx6PtHK",
+    "job_posted_at_datetime_utc": "2026-02-26T00:00:00.000Z",
+    "job_description": "About the role\n\nWe are hiring a Machine Learning Engineer to help design, build, and deploy ML solutions. This role focuses on turning models into reliable systems and collaborating with engineering teams to operationalize ML.\n\nWhat you will do\n\n• Develop and train ML models with reproducible pipelines\n\n• Build data preprocessing workflows and feature generation\n\n• Deploy models to production and monitor performance\n\n• Work with stakeholders to define success metrics and test outcomes\n\n• Document experiments and contribute to best practices\n\nWhat you are looking for\n\n• Degree in CS, Data Science, Engineering, or related field\n\n• Strong Python, data handling (pandas), and ML fundamentals\n\n• Familiarity with scikit-learn and basic model evaluation\n\n• Understanding of software engineering basics (Git, testing, modular code)\n\nNice to have\n\n• PyTorch or TensorFlow\n\n• Experience with ML pipelines, Airflow, or workflow orchestration\n\n• Exposure to CI/CD, Docker, and cloud services",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "09ff58e5cddf32c58956e7880f3ff8adf59fc210bfc9e401d16b5e4ce2bfbebb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-26T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-synergisticit-69owsnemvyy68zkdaaaaaa==",
+    "job_title": "Junior Machine Learning Engineer / Jr Java DevOps Developer ( remote )",
+    "employer_name": "SynergisticIT",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/72y6R4WkyqvzRAVFYXrtCH",
+    "job_posted_at_datetime_utc": "2026-02-26T00:00:00.000Z",
+    "job_description": "Position Overview\n\nSYNERGISTICIT is helping talented candidates stand out in a challenging job market by connecting them with top technology clients such as Apple, Google, Paypal, Western Union, Visa, and Walmart Labs. Since 2010, we have successfully bridged the gap between employer requirements and employee skills. We are currently seeking entry-level software programmers, IT enthusiasts, Python/Java developers, as well as Data Analysts and Data Scientists. Positions are open to all visas and US citizens.\n\nKey Responsibilities\n\n• Guide candidates through our placement process and interview preparation.\n\n• Facilitate skill enhancement programs for candidates lacking technical competencies or with career gaps.\n\n• Match candidate qualifications with client requirements for high-profile technology positions.\n\n• Support recent graduates in Computer Science, Engineering, Mathematics, Statistics, or Science in launching their IT careers.\n\nRequired Qualifications\n\nFor Java/Software Programmers:\n• Bachelor’s or Master’s degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, or IT.\n\n• Highly motivated, self-learner, and technically inquisitive.\n\n• Experience in Java programming and a clear understanding of the software development life cycle.\n\n• Knowledge of Core Java, JavaScript, C++, or similar programming languages.\n\n• Experience with Spring Boot, Microservices, and REST APIs.\n\n• Excellent written and verbal communication skills.\n\nFor Data Science/Machine Learning:\n• Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field.\n\n• Highly motivated, self-learner, and technically inquisitive.\n\n• Experience in Java programming with insights into the software development life cycle.\n\n• Sound knowledge of Statistics, Python, and data visualization tools.\n\n• Excellent written and verbal communication skills.\n\nPreferred Qualifications\n\n• Experience with NLP and Text Mining\n\n• Familiarity with Tableau\n\n• Expertise in Time Series Analysis\n\nBenefits & Perks\n\n• Inclusive Employment: Open to candidates on all visas and US citizens.\n\n• Skill Enhancement Programs: Opportunities to upgrade technical skills and address experience gaps.\n\n• Career growth potential working with prestigious technology clients.\n\n• Join a reputable organization known for aligning candidate skills with top industry requirements.",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "a5b1317372f0702b4bcd25bd9926ba307e8961a06b9ff83a130086a0dbadf6be",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-26T00:00:00.000Z"
+  },
+  {
     "job_id": "greenhouse-verkada-4135093007",
     "job_title": "Software Engineer - Fleet Management",
     "employer_name": "Verkada",
@@ -1680,6 +1801,36 @@
     "job_posted_at": "2026-02-24T20:08:48-05:00"
   },
   {
+    "job_id": "js-synergisticit-aqymhwppneeoqpryaaaaaa==",
+    "job_title": "Data Scientist/Machine Learning Engineer Entry/Junior Level",
+    "employer_name": "SynergisticIT",
+    "job_city": "Miami",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://us.bebee.com/job/a144e82ceda36e83f2e4fe7ad5f67af3",
+    "job_posted_at_datetime_utc": "2026-02-25T00:00:00.000Z",
+    "job_description": "Job Overview\nSynergisticit is recognized as one of the world's best places to work.\n• Diversity and inclusion champion\n• Model social responsibility",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "4274268bdfdad82b4dae22e9193f2925fdcd3fe904b111b190a2e42a306b2cc5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-25T00:00:00.000Z"
+  },
+  {
     "job_id": "js-virtualvocations-7vcidwghwj2mmujqaaaaaa==",
     "job_title": "Associate MLOps Engineer",
     "employer_name": "VirtualVocations",
@@ -1826,65 +1977,6 @@
     "job_posted_at": "2026-02-23T19:44:41-05:00"
   },
   {
-    "job_id": "js-virtualvocations-2_slfz2drqlrnk6maaaaaa==",
-    "job_title": "Associate MLOps Engineer",
-    "employer_name": "VirtualVocations",
-    "job_city": "Costa Mesa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.talent.com/view?id=608075126366017940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-24T00:00:00.000Z",
-    "job_description": "A company is looking for an Associate MLOps Engineer to support data science teams in building, deploying, and operating machine learning solutions at scale.\n\nKey Responsibilities\n\nEnsure efficient and reliable deployment of machine learning models into production environments\n\nContinuously monitor model performance to detect issues and maintain accuracy\n\nAutomate the machine learning pipeline, including data preprocessing and model training\n\nRequired Qualifications\n\nBachelor's degree in computer science or equivalent work experience (4 years in a corporate environment)\n\n2 years of experience in software engineering and analytics technology\n\nExperience handling large datasets and building data pipelines\n\nProficiency in programming languages such as Python\n\nStrong understanding of data processing and storage solutions",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "220506f52d659fd7ca35ad4fe4d4adcea651bfd3223881bc53807bf6ae962648",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-24T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-pnc-ujkxqg0q8yypmzaaaaaaaa==",
-    "job_title": "Data Engineer Associate",
-    "employer_name": "PNC",
-    "job_city": "Pittsburgh",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://us.bebee.com/job/cf2bdb97d206130005a7b1a0a281ec54",
-    "job_posted_at_datetime_utc": "2026-02-24T00:00:00.000Z",
-    "job_description": "Data Engineer Associate\n\n• • • •\nPNC Employees take pride reputation continuing build upon that we expect employees be:\n\n,",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "329315caf29861339ab6675c6ea743e6422c81da3776043c94c938f1c9ba69bb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-24T00:00:00.000Z"
-  },
-  {
     "job_id": "js-synergistic-it-egkxbtam4sjoe0kqaaaaaa==",
     "job_title": "Remote Data Scientist/Analyst (Entry/Junior Level)",
     "employer_name": "Synergistic it",
@@ -1951,9 +2043,9 @@
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": true,
-    "job_apply_link": "https://www.jobilize.com/job/us-ne-all-cities-virtual-data-analyst-entry-level-remote-jobright",
+    "job_apply_link": "https://www.jobilize.com/job/us-ne-all-cities-virtual-data-analyst-entry-level-remote-jobright?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_posted_at_datetime_utc": "2026-02-24T00:00:00.000Z",
-    "job_description": "Virtual Data Analyst / Entry level (Remote) job at Jobright.ai. Phoenix, AZ.\nJob Summary\nNew iTalent Digital is seeking a highly motivated and detail-oriented Virtual Data Analyst to join their team. The role involves analyzing large datasets, generating insights, and communicating findings to stakeholders, offering the opportunity to work remotely and make a meaningful impact on the organization.\nResponsibilities\n• Collect and analyze large datasets using a variety of tools and techniques.\n• Identify trends, patterns, and anomalies in data and communicate findings to stakeholders.\n• Develop and maintain dashboards and visualizations to provide stakeholders with a clear understanding of data trends.\n• Assist with the development of data-driven strategies to improve business outcomes.\n• Collaborate with cross-functional teams to support business needs and provide insights.\n\nQualifications\n• Required: Bachelor's degree in a related field such as Mathematics, Statistics, Economics, or Computer Science.\n• Strong analytical and problem-solving skills.\n• Proficiency in SQL, Python, and/or R.\n• Knowledge of data visualization tools such as Tableau or Power BI.\n• Excellent communication skills, both written and verbal.\n• Ability to work independently and as part of a team.\n\nCompany\nFounded in , the company is headquartered in , with a team of 2-10 employees. The company is currently Early Stage.\n#",
+    "job_description": "Virtual Data Analyst / Entry level (Remote) job at Jobright.ai. Phoenix, AZ.\nJob Summary\n\nNew iTalent Digital is seeking a highly motivated and detail-oriented Virtual Data Analyst to join their team. The role involves analyzing large datasets, generating insights, and communicating findings to stakeholders, offering the opportunity to work remotely and make a meaningful impact on the organization.\nResponsibilities\n• Collect and analyze large datasets using a variety of tools and techniques.\n• Identify trends, patterns, and anomalies in data and communicate findings to stakeholders.\n• Develop and maintain dashboards and visualizations to provide stakeholders with a clear understanding of data trends.\n• Assist with the development of data-driven strategies to improve business outcomes.\n• Collaborate with cross-functional teams to support business needs and provide insights.\nQualifications\n• Required: Bachelor's degree in a related field such as Mathematics, Statistics, Economics, or Computer Science.\n• Strong analytical and problem-solving skills.\n• Proficiency in SQL, Python, and/or R.\n• Knowledge of data visualization tools such as Tableau or Power BI.\n• Excellent communication skills, both written and verbal.\n• Ability to work independently and as part of a team.\nCompany\n\nFounded in , the company is headquartered in , with a team of 2-10 employees. The company is currently Early Stage.\n#",
     "job_employment_type": "FULL-TIME",
     "fingerprint": "188dae9f147b5e7a85734c59ea3101e56d80af530b42e27ed1432a02a09fa8ba",
     "tags": {
@@ -1964,6 +2056,156 @@
       "locations": [
         "us",
         "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-capgemini-eocu21uzryvlf0iiaaaaaa==",
+    "job_title": "Entry Level- Data Scientist- ML -GenAI Engineer (5 of 6 positions)",
+    "employer_name": "Capgemini",
+    "job_city": "Bellevue",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.capgemini.com/jobs/396218-en_GB+sap_btp/",
+    "job_posted_at_datetime_utc": "2026-02-24T00:00:00.000Z",
+    "job_description": "Choosing Capgemini means choosing a company where you will be empowered to shape your career in the way you’d like, where you’ll be supported and inspired by a collaborative community of colleagues around the world, and where you’ll be able to reimagine what’s possible. Join us and help the world’s leading organizations unlock the value of technology and build a more sustainable, more inclusive world.Job Description About the job you’re considering : The Data Scientist / ML Engineer will demonstrate excellent knowledge of ML algorithms (e.g., Linear Regression, Logistic Regression, Clustering/Segmentation, Decision Tree, Random Forest, GBM, DNN, Naive Bayes, Support Vector Machine, etc.) to lead efforts, teams, projects, and engage with customers. About the RoleResponsible for developing and implementing AI-assisted marketing analytics solutions that address customer needs using data science and machine learning.Work closely with multi-functional teams to deliver innovative solutions that drive business growth and improve customer engagement.Job Description - Grade Specific Your Roles & Responsibilities: Design, implement, and optimize machine learning models (supervised, unsupervised, and reinforcement learning).Work on projects involving NLP, computer vision, recommendation systems, and predictive analytics.Perform feature engineering, data preprocessing, and model selection.Collaborate with Data Engineers to acquire and preprocess large datasets.Build and maintain data pipelines to support model training, testing, and deployment.Ensure data quality, consistency, and reliability.Deploy ML models into production environments using CI/CD and MLOps practices.Monitor model performance, retrain models, and manage model versioning.Optimize inference performance and resource utilization.Stay current with emerging ML/AI technologies, frameworks, and research.Evaluate new algorithms, tools, and libraries to improve model performance.Experiment with novel approaches to solve complex business problems.Work with software engineers, data scientists, and product managers to integrate ML solutions into applications.Mentor junior engineers and share best practices in ML development and deployment. The base compensation range for this role in the posted location is:$46,400 to $111,090.Capgemini provides compensation range information in accordance with applicable national, state, provincial, and local pay transparency laws. The base compensation range listed for this position reflects the minimum and maximum target compensation Capgemini, in good faith, believes it may pay for the role at the time of this posting. This range may be subject to change as permitted by law.The actual compensation offered to any candidate may fall outside of the posted range and will be determined based on multiple factors legally permitted in the applicable jurisdiction.These may include, but are not limited to: Geographic location, Education and qualifications, Certifications and licenses, Relevant experience and skills, Seniority and performance, Market and business consideration, Internal pay equity.It is not typical for candidates to be hired at or near the top of the posted compensation range.In addition to base salary, this role may be eligible for additional compensation such as variable incentives, bonuses, or commissions, depending on the position and applicable laws. Capgemini offers a comprehensive, non-negotiable benefits package to all regular, full-time employees. In the U.S. and Canada, available benefits are determined by local policy and eligibility and may include: Paid time off based on employee grade (A-F), defined by policy: Vacation: 12-25 days, depending on grade, Company paid holidays, Personal Days, Sick LeaveMedical, dental, and vision coverage (or provincial healthcare coordination in Canada)Retirement savings plans (e.g., 401(k) in the U.S., RRSP in Canada)Life and disability insuranceEmployee assistance programsOther benefits as provided by local policy and eligibilityImportant Notice: Compensation (including bonuses, commissions, or other forms of incentive pay) is not considered earned, vested, or payable until it becomes due under the terms of applicable plans or agreements and is subject to Capgemini’s discretion, consistent with applicable laws. The Company reserves the right to amend or withdraw compensation programs at any time, within the limits of applicable legislation. DisclaimersCapgemini is an Equal Opportunity Employer encouraging inclusion in the workplace. Capgemini also participates in the Partnership Accreditation in Indigenous Relations (PAIR) program which supports meaningful engagement with Indigenous communities across Canada by promoting fairness, accessibility, inclusion and respect. We value the rich cultural heritage and contributions of Indigenous Peoples and actively work to create a welcoming and respectful environment. All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age, religion, disability, sexual orientation, genetics, veteran status, marital status or any other characteristic protected by law.This is a general description of the Duties, Responsibilities and Qualifications required for this position. Physical, mental, sensory or environmental demands may be referenced in an attempt to communicate the manner in which this position traditionally is performed. Whenever necessary to provide individuals with disabilities an equal employment opportunity, Capgemini will consider reasonable accommodations that might involve varying job requirements and/or changing the way this job is performed, provided that such accommodation does not pose an undue hardship. Capgemini is committed to providing reasonable accommodation during our recruitment process. If you need assistance or accommodation, please reach out to your recruiting contact.Please be aware that Capgemini may capture your image (video or screenshot) during the interview process and that image may be used for verification, including during the hiring and onboarding process.Click the following link for more information on your rights as an Applicant in the United States. http://www.capgemini.com/resources/equal-employment-opportunity-is-the-law Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem.",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "49f65b9a5092b45765c45c7972465b4a35130b70ac08faa453631f0bcee369f1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-synergistic-it-q_unfsd_dth-o3x_aaaaaa==",
+    "job_title": "Entry Level Software Engineer (Remote)",
+    "employer_name": "Synergistic it",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://www.monster.com/job-openings/entry-level-software-engineer-remote-chula-vista-ca--52fcdc25-5c81-47b6-bcfa-77fdf50bf793?mstr_dist=true",
+    "job_posted_at_datetime_utc": "2026-02-24T00:00:00.000Z",
+    "job_description": "Fresh CS Graduate to Full-Time Offer: A Job Search Strategy That Respects Your Timeline.”\nFor students and professionals who recently graduated, the job search pressure is different. You’re not just looking for a great role—you’re racing a timeline. And when applications don’t convert to interviews, it can feel like you’re running out of runway. The key is to stop playing a volume game and start building a profile that hiring managers recognize as job-ready .\nSynergisticIT has supported candidates since 2010 , helping them land full-time positions with offers commonly ranging from $90,000 to $154,000 , based on role and skill depth. JOPP candidates have landed at companies such as Google, Apple, PayPal, Visa, Western Union, Wells Fargo, Intel, Citi, JPMC, Bank of America, Walmart Labs, AutoZone, Deloitte , and more. The program is designed to close the skills-to-employment gap —especially for candidates who need strong projects, interview readiness, and structured placement support.\nSynergisticIT supports hiring pipelines for roles including entry-level software programmers, Java full stack developers, Python/Java developers, data analysts, data engineers, data scientists, and machine learning engineers . The primary focus areas are Java / Full Stack / DevOps and Data tracks (Analytics/Engineering/Science/BI) + Machine Learning/AI . This matters for OPT candidates because many employers want candidates who can contribute across multiple layers—backend + cloud + data + pipelines—rather than a narrow toolset.\nMany candidates come to SynergisticIT after trying other routes. around 30% of JOPP participants have already completed other bootcamps or online platforms like Udemy and Coursera , or university bootcamps, but still didn’t land jobs. The common reason: those programs often emphasize learning , but not placement execution —resume positioning, interview readiness, and employer-facing preparation.\nSynergisticIT also helps candidates navigate the employment journey with support for STEM extension processes, and guidance for H-1B and green card filing pathways through the employment lifecycle (actual sponsorship and filing depend on employer policy and role). If you’re on OPT, what you need is a program that aligns your skills with the positions employers are actively hiring for today—and that helps you move faster from preparation to interview to offer.\nIf you want to explore the program directly, here are the key links:\n• Job Placement Program (JOPP):\n• Java Job Placement Program\n\n• Data Science / Data Jobs Program\n\n• Event videos (OCW, JavaOne, Gartner):\n• USA Today feature\n\n• Contact: https://www.synergisticit.com/contact-us/\n\nIf your clock is moving and your applications aren’t converting, it’s time to switch from “more applying” to “better positioning.” Fill out the contact form and ask SynergisticIT which JOPP track aligns with your target role.\n\nPlease read our blogs\n\nWhy do Tech Companies not Hire recent Computer Science Graduates | SynergisticIT\n\nWhat Recruiters Look for in Junior Developers | SynergisticIT\n\nSoftware engineering or Data Science as a career?\n\nHow OPT Students Can Land Tech Jobs – SynergisticIT\n\nRemote\n\nAbout the Company:\nSynergistic it",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "a1aebe532cbfb73dd8238c2950f6023c5be43569886de1cd6aa42ff047c2c57a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-jobrightai-6yj3-jozrcui8hdnaaaaaa==",
+    "job_title": "Machine Learning Engineer (Entry Level) at Jobright.ai Irvine, CA",
+    "employer_name": "Jobright.ai",
+    "job_city": "Irvine",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://airmanage.dk/vacancy/job/machine-learning-engineer-entry-level-at-jobrightai-irvine-ca-c1pmdjJQd0ExdUpENkpKb0h3ZThFM2xqalE9PQ==",
+    "job_posted_at_datetime_utc": "2026-02-24T00:00:00.000Z",
+    "job_description": "Machine Learning Engineer (Entry Level) job at Jobright.ai. Irvine, CA. Job_Summary: CoStar Group is a leading real estate data provider, and they are seeking a Machine Learning Engineer to enhance their extensive property database and improve customer experiences. The role involves collaborating on machine learning solutions, designing scalable models, and contributing to the company's growth in the real estate sector.\n\nResponsibilities:\n• Collaborate on the continued improvement of CoStar’s cloud-based machine learning environment.\n• Design, build, test and deploy scalable, reusable, and maintainable models that handle large amounts of data.\n• Collaborate with other engineers, product owners, and leadership to create ML solutions that solve practical problems and improve our customer’s experience.\n• Gain an understanding of the CoStar business and how ML can improve things.\n\nQualifications:\n\n-Required:\n• Bachelor’s Degree required from an accredited, not for profit university or college, with degree preferably in Computer Science, Data Science, or related field. MSc or PhD is a plus.\n• A track record of commitment to prior employers\n• 2+ years of professional development experience as Machine Learning Engineer, Data Scientist or related role\n• 2+ years of programming experience with modern languages such as Python, C#, Java, or Scala.\n• Work experience with Image Classification, Object Detection, NER, or Recommendation Systems.\n• Experience building data pipelines to collect data, train and test models, measure model performance, run inference on large datasets, and output results.\n• Experience with ML libraries such as TensorFlow, Keras, and Scikit-learn.\n• Experience with data manipulation and visualization libraries such as pandas, matplotlib, seaborn, or Plotly.\n• Strong math and analytical skills.\n\n-Preferred:\n• Experience with databases, such as SQL Server, AWS RDS, DynamoDB.\n• Experience solving streaming and batch data processing problems at scale.\n• Experience with ML cloud tools such as Databricks, Amazon Personalize, Comprehend, SageMaker, and Rekognition.\n• Experience with integration of input data from a variety of sources.\n\nCompany:\nReal estate website for finding homes, condos and townhouses for sale and rent, in a neighborhood you love, or near the schools you desire. It is a sub-organization of CoStar Group. Homes.com has a track record of offering H1B sponsorships.",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "19ea652df55eab65875a111b84603136a8ee8966b0958ab583981530557cc4dc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-virtualvocations-2_slfz2drqlrnk6maaaaaa==",
+    "job_title": "Associate MLOps Engineer",
+    "employer_name": "VirtualVocations",
+    "job_city": "Costa Mesa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.talent.com/view?id=608075126366017940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-24T00:00:00.000Z",
+    "job_description": "A company is looking for an Associate MLOps Engineer to support data science teams in building, deploying, and operating machine learning solutions at scale.\n\nKey Responsibilities\n\nEnsure efficient and reliable deployment of machine learning models into production environments\n\nContinuously monitor model performance to detect issues and maintain accuracy\n\nAutomate the machine learning pipeline, including data preprocessing and model training\n\nRequired Qualifications\n\nBachelor's degree in computer science or equivalent work experience (4 years in a corporate environment)\n\n2 years of experience in software engineering and analytics technology\n\nExperience handling large datasets and building data pipelines\n\nProficiency in programming languages such as Python\n\nStrong understanding of data processing and storage solutions",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "220506f52d659fd7ca35ad4fe4d4adcea651bfd3223881bc53807bf6ae962648",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-24T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-pnc-ujkxqg0q8yypmzaaaaaaaa==",
+    "job_title": "Data Engineer Associate",
+    "employer_name": "PNC",
+    "job_city": "Pittsburgh",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://us.bebee.com/job/cf2bdb97d206130005a7b1a0a281ec54",
+    "job_posted_at_datetime_utc": "2026-02-24T00:00:00.000Z",
+    "job_description": "Data Engineer Associate\n\n• • • •\nPNC Employees take pride reputation continuing build upon that we expect employees be:\n\n,",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "329315caf29861339ab6675c6ea743e6422c81da3776043c94c938f1c9ba69bb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
       ],
       "experience": "unknown",
       "special": []
@@ -2146,18 +2388,18 @@
     "job_posted_at": "2026-02-23T16:39:45-05:00"
   },
   {
-    "job_id": "greenhouse-okta-7535219",
+    "job_id": "greenhouse-okta-7535188",
     "job_title": "Key Account Executive, Auth0",
     "employer_name": "Okta",
-    "job_city": "Dallas",
+    "job_city": "San Francisco",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.okta.com/company/careers/opportunity/7535219?gh_jid=7535219",
+    "job_apply_link": "https://www.okta.com/company/careers/opportunity/7535188?gh_jid=7535188",
     "job_posted_at_datetime_utc": "2026-02-23T16:39:45-05:00",
-    "job_description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;Get to know Okta&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/span&gt;Okta is The World’s Identity Company. We free everyone to safely use any technology, anywhere, on any device or app. Our flexible and neutral products, Okta Platform and Auth0 Platform, provide secure access, authentication, and automation, placing identity at the core of business security and growth.&lt;br&gt;&lt;br&gt;At Okta, we celebrate a variety of perspectives and experiences. We are not looking for someone who checks every single box - we’re looking for lifelong learners and people who can make us better with their unique experiences.&amp;nbsp;&lt;br&gt;&lt;br&gt;Join our team! We’re building a world where Identity belongs to you.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Role: Key Accounts Auth0 Account Executive&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Auth0 Account Executive is a specialized product expert responsible for driving the discovery, positioning, and deal strategy for our Auth0 CIAM (Customer Identity and Access Management) solutions within our most strategic, high-value accounts. While the Key Account Director (KAD) owns the overall account relationship and forecast, you are the tactical engine driving Auth0-specific winning tactics and opportunity shaping.&lt;/p&gt;\n&lt;p&gt;This role requires a deep understanding of the CIAM landscape and the ability to partner effectively across a “One Team” ecosystem. You will act as the subject matter expert to accelerate deal velocity and ensure customers receive the optimal technical solution for their complex identity needs, transitioning seamlessly between high-level business outcomes and technical SKU strategies.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Results: What You Will Achieve&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;CIAM Deal Strategy:&lt;/strong&gt; Lead Auth0-specific discovery and positioning, including the development of SKU strategies and pricing models in conjunction with Auth0 SE specialists to meet complex customer requirements.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Opportunity Shaping:&lt;/strong&gt; Partner closely with the KAD on pipeline generation and the proactive shaping of new opportunities to ensure a robust Auth0 presence within the strategic account portfolio.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Competitive Positioning:&lt;/strong&gt; Drive deal execution by maintaining a strong competitive position for Auth0, implementing winning tactics to overcome technical hurdles or market competition.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Solution Alignment:&lt;/strong&gt; Collaborate with Principal SEs to validate when Auth0 is the “best-fit” technology for a customer’s specific use case, ensuring high-quality, sustainable customer outcomes.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Commercial Alignment:&lt;/strong&gt; Support the KAD in aligning commercial terms and ensuring that all Auth0-specific technical and business requirements are accurately reflected in the final proposal.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Relationships: Who You Will Impact&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Key Account Director (KAD):&lt;/strong&gt; Act as the primary specialist partner to the KAD, providing the deep product expertise needed to capture CIAM revenue while supporting the KAD’s overall account ownership and forecasting.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Technical Specialists:&lt;/strong&gt; Work hand-in-hand with Auth0 SE specialists and Principal SEs to lead CIAM-specific discovery sessions and validate technical fit.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;The Customer:&lt;/strong&gt; Serve as the dedicated Auth0 subject matter expert during engagements, leading deep-dive discussions on CIAM business outcomes and technical implementation.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Internal Leadership:&lt;/strong&gt; Collaborate with Front Line Management (FLM) to ensure alignment and resolve any role friction, maintaining a seamless &quot;One Team&quot; experience for the customer.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Cross-Functional Teams:&lt;/strong&gt; Align with the broader account team (Customer Success, Legal, and Finance) to ensure Auth0 messaging and commercials are consistent with the overall strategic account plan framed by the KAD.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Requirements: What You Bring&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Specialized Expertise:&lt;/strong&gt; Proven track record of selling complex SaaS solutions, with a specific focus on Identity (IAM) or Developer-centric platforms (CIAM experience highly preferred).&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Collaborative Selling:&lt;/strong&gt; Demonstrated ability to work in a matrixed environment, successfully partnering with account owners to drive specialized revenue.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Technical Acumen:&lt;/strong&gt; Ability to translate complex technical requirements into business value and navigate SKU-level pricing and strategy.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Strategic Execution:&lt;/strong&gt; Experience navigating multi-million dollar sales cycles within Global or Key accounts, with a focus on deal shaping and competitive displacement.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Communication:&lt;/strong&gt; Exceptional presence and the ability to lead technical discovery sessions with both developer personas and executive stakeholders.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI- Remote&lt;br&gt;P24544_3336656&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Below is the annual On Target Compensation (OTE) range for candidates located in California (excluding San Francisco Bay Area), Colorado, Illinois, New York and Washington. Your actual OTE, which is inclusive of base salary and incentive compensation, will depend on factors such as your skills, qualifications, experience, and work location. In addition, Okta offers equity (where applicable) and benefits, including health, dental and vision insurance, 401(k), flexible spending account, and paid leave (including PTO and parental leave) in accordance with our applicable plans and policies. To learn more about our Total Rewards program please visit:&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://rewards.okta.com/us&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;https://rewards.okta.com/us&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;.&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The annual OTE range for this position for candidates located in California (excluding San Francisco Bay Area), Colorado, Illinois, New York, and Washington is between:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$308,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$462,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #000000;&quot;&gt;What you can look forward to as a Full-Time Okta employee!&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Amazing &lt;a href=&quot;https://rewards.okta.com/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://rewards.okta.com/&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw0Smv8KiGrXS3C1_LQmHF9D&quot;&gt;Benefits&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Making &lt;a href=&quot;https://www.okta.com/okta-for-good/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.okta.com/okta-for-good/&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw2kKFyZVPp9NLrjKMOBXtWi&quot;&gt;Social Impact&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;Developing &lt;a href=&quot;https://www.okta.com/company/&quot;&gt;Talent and Fostering Connection + Community at Okta&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Okta cultivates a dynamic work environment, providing the best tools, technology and benefits to empower our employees to work productively in a setting that best and uniquely suits their needs. Each organization is unique in the degree of flexibility and mobility in which they work so that all employees are enabled to be their most creative and successful versions of themselves, regardless of where they live. Find your place at Okta&lt;a href=&quot;https://www.okta.com/company/careers/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.okta.com/company/careers/&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw0Sy_6hHRhrwzwXgCfEiRV1&quot;&gt; today! &lt;/a&gt;&lt;a href=&quot;https://www.okta.com/company/careers/&quot;&gt;https://www.okta.com/company/careers/&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Some roles may require travel to one of our office locations for in-person onboarding.&lt;/p&gt;\n&lt;p&gt;Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws. &lt;br&gt;&lt;br&gt;If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please use this&lt;a href=&quot;https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw152wP4kqe-oDJRAeGVJrN7&quot;&gt; Form&lt;/a&gt; to request an accommodation.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Notice for New York City Applicants &amp;amp; Employees:&lt;/strong&gt; Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please &lt;a href=&quot;https://talent.okta.com/new-york-city-aedt-notice.html&quot;&gt;&lt;strong&gt;click here&lt;/strong&gt;&lt;/a&gt; to view our full NYC AEDT Notice.&lt;br&gt;&lt;br&gt;Okta is committed to complying with applicable data privacy and security laws and regulations. For more information, please see our Personnel and Job Candidate Privacy Notice at&amp;nbsp;&lt;a href=&quot;https://www.okta.com/legal/personnel-policy/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.okta.com/legal/personnel-policy/&amp;amp;source=gmail&amp;amp;ust=1759599734507000&amp;amp;usg=AOvVaw3KZGmq4Ud_Aq6tycXCiDeT&quot;&gt;https://www.okta.com/legal/personnel-policy/.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;",
+    "job_description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;Get to know Okta&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/span&gt;Okta is The World’s Identity Company. We free everyone to safely use any technology, anywhere, on any device or app. Our flexible and neutral products, Okta Platform and Auth0 Platform, provide secure access, authentication, and automation, placing identity at the core of business security and growth.&lt;br&gt;&lt;br&gt;At Okta, we celebrate a variety of perspectives and experiences. We are not looking for someone who checks every single box - we’re looking for lifelong learners and people who can make us better with their unique experiences.&amp;nbsp;&lt;br&gt;&lt;br&gt;Join our team! We’re building a world where Identity belongs to you.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Role: Key Accounts Auth0 Account Executive&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Auth0 Account Executive is a specialized product expert responsible for driving the discovery, positioning, and deal strategy for our Auth0 CIAM (Customer Identity and Access Management) solutions within our most strategic, high-value accounts. While the Key Account Director (KAD) owns the overall account relationship and forecast, you are the tactical engine driving Auth0-specific winning tactics and opportunity shaping.&lt;/p&gt;\n&lt;p&gt;This role requires a deep understanding of the CIAM landscape and the ability to partner effectively across a “One Team” ecosystem. You will act as the subject matter expert to accelerate deal velocity and ensure customers receive the optimal technical solution for their complex identity needs, transitioning seamlessly between high-level business outcomes and technical SKU strategies.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Results: What You Will Achieve&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;CIAM Deal Strategy:&lt;/strong&gt; Lead Auth0-specific discovery and positioning, including the development of SKU strategies and pricing models in conjunction with Auth0 SE specialists to meet complex customer requirements.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Opportunity Shaping:&lt;/strong&gt; Partner closely with the KAD on pipeline generation and the proactive shaping of new opportunities to ensure a robust Auth0 presence within the strategic account portfolio.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Competitive Positioning:&lt;/strong&gt; Drive deal execution by maintaining a strong competitive position for Auth0, implementing winning tactics to overcome technical hurdles or market competition.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Solution Alignment:&lt;/strong&gt; Collaborate with Principal SEs to validate when Auth0 is the “best-fit” technology for a customer’s specific use case, ensuring high-quality, sustainable customer outcomes.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Commercial Alignment:&lt;/strong&gt; Support the KAD in aligning commercial terms and ensuring that all Auth0-specific technical and business requirements are accurately reflected in the final proposal.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Relationships: Who You Will Impact&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Key Account Director (KAD):&lt;/strong&gt; Act as the primary specialist partner to the KAD, providing the deep product expertise needed to capture CIAM revenue while supporting the KAD’s overall account ownership and forecasting.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Technical Specialists:&lt;/strong&gt; Work hand-in-hand with Auth0 SE specialists and Principal SEs to lead CIAM-specific discovery sessions and validate technical fit.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;The Customer:&lt;/strong&gt; Serve as the dedicated Auth0 subject matter expert during engagements, leading deep-dive discussions on CIAM business outcomes and technical implementation.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Internal Leadership:&lt;/strong&gt; Collaborate with Front Line Management (FLM) to ensure alignment and resolve any role friction, maintaining a seamless &quot;One Team&quot; experience for the customer.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Cross-Functional Teams:&lt;/strong&gt; Align with the broader account team (Customer Success, Legal, and Finance) to ensure Auth0 messaging and commercials are consistent with the overall strategic account plan framed by the KAD.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Requirements: What You Bring&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Specialized Expertise:&lt;/strong&gt; Proven track record of selling complex SaaS solutions, with a specific focus on Identity (IAM) or Developer-centric platforms (CIAM experience highly preferred).&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Collaborative Selling:&lt;/strong&gt; Demonstrated ability to work in a matrixed environment, successfully partnering with account owners to drive specialized revenue.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Technical Acumen:&lt;/strong&gt; Ability to translate complex technical requirements into business value and navigate SKU-level pricing and strategy.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Strategic Execution:&lt;/strong&gt; Experience navigating multi-million dollar sales cycles within Global or Key accounts, with a focus on deal shaping and competitive displacement.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Communication:&lt;/strong&gt; Exceptional presence and the ability to lead technical discovery sessions with both developer personas and executive stakeholders.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI- Remote&lt;br&gt;P24543_3336644&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Below is the annual On Target Compensation (OTE) range for candidates located in San Francisco Bay Area. Your actual OTE, which is inclusive of base salary and incentive compensation, will depend on factors such as your skills, qualifications, experience, and work location. In addition, Okta offers equity (where applicable) and benefits, including health, dental and vision insurance, 401(k), flexible spending account, and paid leave (including PTO and parental leave) in accordance with our applicable plans and policies. To learn more about our Total Rewards program please visit:&lt;a href=&quot;https://rewards.okta.com/us&quot;&gt; https://rewards.okta.com/us&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The OTE range for this position for candidates located in the San Francisco Bay area is between:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$308,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$462,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #000000;&quot;&gt;What you can look forward to as a Full-Time Okta employee!&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Amazing &lt;a href=&quot;https://rewards.okta.com/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://rewards.okta.com/&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw0Smv8KiGrXS3C1_LQmHF9D&quot;&gt;Benefits&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Making &lt;a href=&quot;https://www.okta.com/okta-for-good/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.okta.com/okta-for-good/&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw2kKFyZVPp9NLrjKMOBXtWi&quot;&gt;Social Impact&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;Developing &lt;a href=&quot;https://www.okta.com/company/&quot;&gt;Talent and Fostering Connection + Community at Okta&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Okta cultivates a dynamic work environment, providing the best tools, technology and benefits to empower our employees to work productively in a setting that best and uniquely suits their needs. Each organization is unique in the degree of flexibility and mobility in which they work so that all employees are enabled to be their most creative and successful versions of themselves, regardless of where they live. Find your place at Okta&lt;a href=&quot;https://www.okta.com/company/careers/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.okta.com/company/careers/&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw0Sy_6hHRhrwzwXgCfEiRV1&quot;&gt; today! &lt;/a&gt;&lt;a href=&quot;https://www.okta.com/company/careers/&quot;&gt;https://www.okta.com/company/careers/&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Some roles may require travel to one of our office locations for in-person onboarding.&lt;/p&gt;\n&lt;p&gt;Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws. &lt;br&gt;&lt;br&gt;If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please use this&lt;a href=&quot;https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw152wP4kqe-oDJRAeGVJrN7&quot;&gt; Form&lt;/a&gt; to request an accommodation.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Notice for New York City Applicants &amp;amp; Employees:&lt;/strong&gt; Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please &lt;a href=&quot;https://talent.okta.com/new-york-city-aedt-notice.html&quot;&gt;&lt;strong&gt;click here&lt;/strong&gt;&lt;/a&gt; to view our full NYC AEDT Notice.&lt;br&gt;&lt;br&gt;Okta is committed to complying with applicable data privacy and security laws and regulations. For more information, please see our Personnel and Job Candidate Privacy Notice at&amp;nbsp;&lt;a href=&quot;https://www.okta.com/legal/personnel-policy/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.okta.com/legal/personnel-policy/&amp;amp;source=gmail&amp;amp;ust=1759599734507000&amp;amp;usg=AOvVaw3KZGmq4Ud_Aq6tycXCiDeT&quot;&gt;https://www.okta.com/legal/personnel-policy/.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;",
     "job_employment_type": "FULLTIME",
-    "fingerprint": "0a88c85ef714e80a7521aa2efc1e170539f07cc667d12d15eb1cfa812a3840d1",
+    "fingerprint": "1eef6132d016695db5c3fd00425f5ac96cb05072da1c1b9c671fff054bb3b3f8",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2174,18 +2416,18 @@
     "job_posted_at": "2026-02-23T16:39:45-05:00"
   },
   {
-    "job_id": "greenhouse-okta-7535188",
+    "job_id": "greenhouse-okta-7535219",
     "job_title": "Key Account Executive, Auth0",
     "employer_name": "Okta",
-    "job_city": "San Francisco",
+    "job_city": "Dallas",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.okta.com/company/careers/opportunity/7535188?gh_jid=7535188",
+    "job_apply_link": "https://www.okta.com/company/careers/opportunity/7535219?gh_jid=7535219",
     "job_posted_at_datetime_utc": "2026-02-23T16:39:45-05:00",
-    "job_description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;Get to know Okta&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/span&gt;Okta is The World’s Identity Company. We free everyone to safely use any technology, anywhere, on any device or app. Our flexible and neutral products, Okta Platform and Auth0 Platform, provide secure access, authentication, and automation, placing identity at the core of business security and growth.&lt;br&gt;&lt;br&gt;At Okta, we celebrate a variety of perspectives and experiences. We are not looking for someone who checks every single box - we’re looking for lifelong learners and people who can make us better with their unique experiences.&amp;nbsp;&lt;br&gt;&lt;br&gt;Join our team! We’re building a world where Identity belongs to you.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Role: Key Accounts Auth0 Account Executive&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Auth0 Account Executive is a specialized product expert responsible for driving the discovery, positioning, and deal strategy for our Auth0 CIAM (Customer Identity and Access Management) solutions within our most strategic, high-value accounts. While the Key Account Director (KAD) owns the overall account relationship and forecast, you are the tactical engine driving Auth0-specific winning tactics and opportunity shaping.&lt;/p&gt;\n&lt;p&gt;This role requires a deep understanding of the CIAM landscape and the ability to partner effectively across a “One Team” ecosystem. You will act as the subject matter expert to accelerate deal velocity and ensure customers receive the optimal technical solution for their complex identity needs, transitioning seamlessly between high-level business outcomes and technical SKU strategies.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Results: What You Will Achieve&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;CIAM Deal Strategy:&lt;/strong&gt; Lead Auth0-specific discovery and positioning, including the development of SKU strategies and pricing models in conjunction with Auth0 SE specialists to meet complex customer requirements.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Opportunity Shaping:&lt;/strong&gt; Partner closely with the KAD on pipeline generation and the proactive shaping of new opportunities to ensure a robust Auth0 presence within the strategic account portfolio.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Competitive Positioning:&lt;/strong&gt; Drive deal execution by maintaining a strong competitive position for Auth0, implementing winning tactics to overcome technical hurdles or market competition.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Solution Alignment:&lt;/strong&gt; Collaborate with Principal SEs to validate when Auth0 is the “best-fit” technology for a customer’s specific use case, ensuring high-quality, sustainable customer outcomes.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Commercial Alignment:&lt;/strong&gt; Support the KAD in aligning commercial terms and ensuring that all Auth0-specific technical and business requirements are accurately reflected in the final proposal.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Relationships: Who You Will Impact&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Key Account Director (KAD):&lt;/strong&gt; Act as the primary specialist partner to the KAD, providing the deep product expertise needed to capture CIAM revenue while supporting the KAD’s overall account ownership and forecasting.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Technical Specialists:&lt;/strong&gt; Work hand-in-hand with Auth0 SE specialists and Principal SEs to lead CIAM-specific discovery sessions and validate technical fit.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;The Customer:&lt;/strong&gt; Serve as the dedicated Auth0 subject matter expert during engagements, leading deep-dive discussions on CIAM business outcomes and technical implementation.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Internal Leadership:&lt;/strong&gt; Collaborate with Front Line Management (FLM) to ensure alignment and resolve any role friction, maintaining a seamless &quot;One Team&quot; experience for the customer.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Cross-Functional Teams:&lt;/strong&gt; Align with the broader account team (Customer Success, Legal, and Finance) to ensure Auth0 messaging and commercials are consistent with the overall strategic account plan framed by the KAD.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Requirements: What You Bring&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Specialized Expertise:&lt;/strong&gt; Proven track record of selling complex SaaS solutions, with a specific focus on Identity (IAM) or Developer-centric platforms (CIAM experience highly preferred).&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Collaborative Selling:&lt;/strong&gt; Demonstrated ability to work in a matrixed environment, successfully partnering with account owners to drive specialized revenue.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Technical Acumen:&lt;/strong&gt; Ability to translate complex technical requirements into business value and navigate SKU-level pricing and strategy.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Strategic Execution:&lt;/strong&gt; Experience navigating multi-million dollar sales cycles within Global or Key accounts, with a focus on deal shaping and competitive displacement.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Communication:&lt;/strong&gt; Exceptional presence and the ability to lead technical discovery sessions with both developer personas and executive stakeholders.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI- Remote&lt;br&gt;P24543_3336644&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Below is the annual On Target Compensation (OTE) range for candidates located in San Francisco Bay Area. Your actual OTE, which is inclusive of base salary and incentive compensation, will depend on factors such as your skills, qualifications, experience, and work location. In addition, Okta offers equity (where applicable) and benefits, including health, dental and vision insurance, 401(k), flexible spending account, and paid leave (including PTO and parental leave) in accordance with our applicable plans and policies. To learn more about our Total Rewards program please visit:&lt;a href=&quot;https://rewards.okta.com/us&quot;&gt; https://rewards.okta.com/us&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The OTE range for this position for candidates located in the San Francisco Bay area is between:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$308,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$462,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #000000;&quot;&gt;What you can look forward to as a Full-Time Okta employee!&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Amazing &lt;a href=&quot;https://rewards.okta.com/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://rewards.okta.com/&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw0Smv8KiGrXS3C1_LQmHF9D&quot;&gt;Benefits&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Making &lt;a href=&quot;https://www.okta.com/okta-for-good/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.okta.com/okta-for-good/&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw2kKFyZVPp9NLrjKMOBXtWi&quot;&gt;Social Impact&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;Developing &lt;a href=&quot;https://www.okta.com/company/&quot;&gt;Talent and Fostering Connection + Community at Okta&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Okta cultivates a dynamic work environment, providing the best tools, technology and benefits to empower our employees to work productively in a setting that best and uniquely suits their needs. Each organization is unique in the degree of flexibility and mobility in which they work so that all employees are enabled to be their most creative and successful versions of themselves, regardless of where they live. Find your place at Okta&lt;a href=&quot;https://www.okta.com/company/careers/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.okta.com/company/careers/&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw0Sy_6hHRhrwzwXgCfEiRV1&quot;&gt; today! &lt;/a&gt;&lt;a href=&quot;https://www.okta.com/company/careers/&quot;&gt;https://www.okta.com/company/careers/&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Some roles may require travel to one of our office locations for in-person onboarding.&lt;/p&gt;\n&lt;p&gt;Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws. &lt;br&gt;&lt;br&gt;If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please use this&lt;a href=&quot;https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw152wP4kqe-oDJRAeGVJrN7&quot;&gt; Form&lt;/a&gt; to request an accommodation.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Notice for New York City Applicants &amp;amp; Employees:&lt;/strong&gt; Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please &lt;a href=&quot;https://talent.okta.com/new-york-city-aedt-notice.html&quot;&gt;&lt;strong&gt;click here&lt;/strong&gt;&lt;/a&gt; to view our full NYC AEDT Notice.&lt;br&gt;&lt;br&gt;Okta is committed to complying with applicable data privacy and security laws and regulations. For more information, please see our Personnel and Job Candidate Privacy Notice at&amp;nbsp;&lt;a href=&quot;https://www.okta.com/legal/personnel-policy/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.okta.com/legal/personnel-policy/&amp;amp;source=gmail&amp;amp;ust=1759599734507000&amp;amp;usg=AOvVaw3KZGmq4Ud_Aq6tycXCiDeT&quot;&gt;https://www.okta.com/legal/personnel-policy/.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;",
+    "job_description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;Get to know Okta&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/span&gt;Okta is The World’s Identity Company. We free everyone to safely use any technology, anywhere, on any device or app. Our flexible and neutral products, Okta Platform and Auth0 Platform, provide secure access, authentication, and automation, placing identity at the core of business security and growth.&lt;br&gt;&lt;br&gt;At Okta, we celebrate a variety of perspectives and experiences. We are not looking for someone who checks every single box - we’re looking for lifelong learners and people who can make us better with their unique experiences.&amp;nbsp;&lt;br&gt;&lt;br&gt;Join our team! We’re building a world where Identity belongs to you.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Role: Key Accounts Auth0 Account Executive&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Auth0 Account Executive is a specialized product expert responsible for driving the discovery, positioning, and deal strategy for our Auth0 CIAM (Customer Identity and Access Management) solutions within our most strategic, high-value accounts. While the Key Account Director (KAD) owns the overall account relationship and forecast, you are the tactical engine driving Auth0-specific winning tactics and opportunity shaping.&lt;/p&gt;\n&lt;p&gt;This role requires a deep understanding of the CIAM landscape and the ability to partner effectively across a “One Team” ecosystem. You will act as the subject matter expert to accelerate deal velocity and ensure customers receive the optimal technical solution for their complex identity needs, transitioning seamlessly between high-level business outcomes and technical SKU strategies.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Results: What You Will Achieve&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;CIAM Deal Strategy:&lt;/strong&gt; Lead Auth0-specific discovery and positioning, including the development of SKU strategies and pricing models in conjunction with Auth0 SE specialists to meet complex customer requirements.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Opportunity Shaping:&lt;/strong&gt; Partner closely with the KAD on pipeline generation and the proactive shaping of new opportunities to ensure a robust Auth0 presence within the strategic account portfolio.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Competitive Positioning:&lt;/strong&gt; Drive deal execution by maintaining a strong competitive position for Auth0, implementing winning tactics to overcome technical hurdles or market competition.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Solution Alignment:&lt;/strong&gt; Collaborate with Principal SEs to validate when Auth0 is the “best-fit” technology for a customer’s specific use case, ensuring high-quality, sustainable customer outcomes.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Commercial Alignment:&lt;/strong&gt; Support the KAD in aligning commercial terms and ensuring that all Auth0-specific technical and business requirements are accurately reflected in the final proposal.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Relationships: Who You Will Impact&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Key Account Director (KAD):&lt;/strong&gt; Act as the primary specialist partner to the KAD, providing the deep product expertise needed to capture CIAM revenue while supporting the KAD’s overall account ownership and forecasting.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Technical Specialists:&lt;/strong&gt; Work hand-in-hand with Auth0 SE specialists and Principal SEs to lead CIAM-specific discovery sessions and validate technical fit.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;The Customer:&lt;/strong&gt; Serve as the dedicated Auth0 subject matter expert during engagements, leading deep-dive discussions on CIAM business outcomes and technical implementation.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Internal Leadership:&lt;/strong&gt; Collaborate with Front Line Management (FLM) to ensure alignment and resolve any role friction, maintaining a seamless &quot;One Team&quot; experience for the customer.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Cross-Functional Teams:&lt;/strong&gt; Align with the broader account team (Customer Success, Legal, and Finance) to ensure Auth0 messaging and commercials are consistent with the overall strategic account plan framed by the KAD.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Requirements: What You Bring&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Specialized Expertise:&lt;/strong&gt; Proven track record of selling complex SaaS solutions, with a specific focus on Identity (IAM) or Developer-centric platforms (CIAM experience highly preferred).&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Collaborative Selling:&lt;/strong&gt; Demonstrated ability to work in a matrixed environment, successfully partnering with account owners to drive specialized revenue.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Technical Acumen:&lt;/strong&gt; Ability to translate complex technical requirements into business value and navigate SKU-level pricing and strategy.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Strategic Execution:&lt;/strong&gt; Experience navigating multi-million dollar sales cycles within Global or Key accounts, with a focus on deal shaping and competitive displacement.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Communication:&lt;/strong&gt; Exceptional presence and the ability to lead technical discovery sessions with both developer personas and executive stakeholders.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI- Remote&lt;br&gt;P24544_3336656&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Below is the annual On Target Compensation (OTE) range for candidates located in California (excluding San Francisco Bay Area), Colorado, Illinois, New York and Washington. Your actual OTE, which is inclusive of base salary and incentive compensation, will depend on factors such as your skills, qualifications, experience, and work location. In addition, Okta offers equity (where applicable) and benefits, including health, dental and vision insurance, 401(k), flexible spending account, and paid leave (including PTO and parental leave) in accordance with our applicable plans and policies. To learn more about our Total Rewards program please visit:&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://rewards.okta.com/us&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;https://rewards.okta.com/us&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;.&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The annual OTE range for this position for candidates located in California (excluding San Francisco Bay Area), Colorado, Illinois, New York, and Washington is between:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$308,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$462,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #000000;&quot;&gt;What you can look forward to as a Full-Time Okta employee!&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Amazing &lt;a href=&quot;https://rewards.okta.com/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://rewards.okta.com/&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw0Smv8KiGrXS3C1_LQmHF9D&quot;&gt;Benefits&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Making &lt;a href=&quot;https://www.okta.com/okta-for-good/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.okta.com/okta-for-good/&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw2kKFyZVPp9NLrjKMOBXtWi&quot;&gt;Social Impact&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;Developing &lt;a href=&quot;https://www.okta.com/company/&quot;&gt;Talent and Fostering Connection + Community at Okta&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Okta cultivates a dynamic work environment, providing the best tools, technology and benefits to empower our employees to work productively in a setting that best and uniquely suits their needs. Each organization is unique in the degree of flexibility and mobility in which they work so that all employees are enabled to be their most creative and successful versions of themselves, regardless of where they live. Find your place at Okta&lt;a href=&quot;https://www.okta.com/company/careers/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.okta.com/company/careers/&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw0Sy_6hHRhrwzwXgCfEiRV1&quot;&gt; today! &lt;/a&gt;&lt;a href=&quot;https://www.okta.com/company/careers/&quot;&gt;https://www.okta.com/company/careers/&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Some roles may require travel to one of our office locations for in-person onboarding.&lt;/p&gt;\n&lt;p&gt;Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws. &lt;br&gt;&lt;br&gt;If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please use this&lt;a href=&quot;https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw152wP4kqe-oDJRAeGVJrN7&quot;&gt; Form&lt;/a&gt; to request an accommodation.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Notice for New York City Applicants &amp;amp; Employees:&lt;/strong&gt; Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please &lt;a href=&quot;https://talent.okta.com/new-york-city-aedt-notice.html&quot;&gt;&lt;strong&gt;click here&lt;/strong&gt;&lt;/a&gt; to view our full NYC AEDT Notice.&lt;br&gt;&lt;br&gt;Okta is committed to complying with applicable data privacy and security laws and regulations. For more information, please see our Personnel and Job Candidate Privacy Notice at&amp;nbsp;&lt;a href=&quot;https://www.okta.com/legal/personnel-policy/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.okta.com/legal/personnel-policy/&amp;amp;source=gmail&amp;amp;ust=1759599734507000&amp;amp;usg=AOvVaw3KZGmq4Ud_Aq6tycXCiDeT&quot;&gt;https://www.okta.com/legal/personnel-policy/.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;",
     "job_employment_type": "FULLTIME",
-    "fingerprint": "1eef6132d016695db5c3fd00425f5ac96cb05072da1c1b9c671fff054bb3b3f8",
+    "fingerprint": "0a88c85ef714e80a7521aa2efc1e170539f07cc667d12d15eb1cfa812a3840d1",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2458,18 +2700,18 @@
     "job_posted_at": "2026-02-23T17:09:25.360+00:00"
   },
   {
-    "job_id": "js-virtualvocations-wp_wbkelqnpsjxzoaaaaaa==",
+    "job_id": "js-virtualvocations-vyf0yvyqmpgngnkcaaaaaa==",
     "job_title": "Entry-Level Data Analyst",
     "employer_name": "VirtualVocations",
-    "job_city": "Davenport",
+    "job_city": "North Carolina",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.talent.com/view?id=534882142947512226",
+    "job_apply_link": "https://www.talent.com/view?id=534716600025221829",
     "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
     "job_description": "A company is looking for a Data Analyst (Entry-Level / Early Career) Self Employed.\nKey Responsibilities\nCollect and accurately enter data from various internal and external sources into the CRM system\nMonitor progress and support routine reporting and data summaries\nOrganize collected data within a structured internal database while ensuring data integrity and compliance with GDPR\nRequired Qualifications\nA degree in a relevant discipline is beneficial but not required\n0-4 years of experience, including those seeking their first professional role\nIntermediate Excel skills (sorting, filtering, formulas, VLOOKUP / XLOOKUP, pivot tables)\nAbility to effectively communicate in Czech and English\nProfessional demeanor with a positive, problem-solving mindset",
     "job_employment_type": "FULL-TIME",
-    "fingerprint": "75e26670523410ff10714e0484d27f053ad9d0bf8dec1776d78a214f1ec399c5",
+    "fingerprint": "0a3f8bc8742d1a0897c629639c45bb79533f404d987965c93e6a373e71eef746",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2516,18 +2758,18 @@
     "job_posted_at": "2026-02-23T00:00:00.000Z"
   },
   {
-    "job_id": "js-virtualvocations-xnqy6cn122l7-ul1aaaaaa==",
+    "job_id": "js-virtualvocations-wez-5wp2yzabtm8raaaaaa==",
     "job_title": "Entry-Level Data Analyst",
     "employer_name": "VirtualVocations",
-    "job_city": "New York",
+    "job_city": "Unknown",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.talent.com/view?id=534716615309462213",
+    "job_apply_link": "https://www.talent.com/view?id=607898424781771053",
     "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
-    "job_description": "A company is looking for a Data Analyst (Entry-Level / Early Career) in Greece.\nKey Responsibilities\nCollect and maintain accurate data within the CRM system and perform administrative tasks\nMonitor progress towards targets and prepare basic data summaries for reporting\nCommunicate with internal teams and external entities to gather necessary information\nRequired Qualifications\n0-4 years of experience in a relevant field\nA degree in a relevant field is beneficial but not required\nIntermediate Excel skills including sorting, filtering, and formulas\nAbility to work independently and within a team\nFluency in Greek and English is required",
+    "job_description": "A company is looking for a Data Analyst (Entry-Level / Early Career) Self Employed.\nKey Responsibilities\nCollect and accurately enter data from various internal and external sources into the CRM system\nMonitor progress and support routine reporting and data summaries\nOrganize collected data within a structured internal database while ensuring data integrity and compliance with GDPR\nRequired Qualifications\nA degree in a relevant discipline is beneficial but not required\n0-4 years of experience, including those seeking their first professional role\nIntermediate Excel skills (sorting, filtering, formulas, VLOOKUP / XLOOKUP, pivot tables)\nAbility to effectively communicate in Czech and English\nProfessional demeanor with a positive, problem-solving mindset",
     "job_employment_type": "FULL-TIME",
-    "fingerprint": "0641ff469d90bb5c57c7421d31590c4f507fc0fda2edc73744d6e30ecf6a4e22",
+    "fingerprint": "0a3f8bc8742d1a0897c629639c45bb79533f404d987965c93e6a373e71eef746",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2574,6 +2816,35 @@
     "job_posted_at": "2026-02-23T00:00:00.000Z"
   },
   {
+    "job_id": "js-virtualvocations-xnqy6cn122l7-ul1aaaaaa==",
+    "job_title": "Entry-Level Data Analyst",
+    "employer_name": "VirtualVocations",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.talent.com/view?id=534716615309462213",
+    "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
+    "job_description": "A company is looking for a Data Analyst (Entry-Level / Early Career) in Greece.\nKey Responsibilities\nCollect and maintain accurate data within the CRM system and perform administrative tasks\nMonitor progress towards targets and prepare basic data summaries for reporting\nCommunicate with internal teams and external entities to gather necessary information\nRequired Qualifications\n0-4 years of experience in a relevant field\nA degree in a relevant field is beneficial but not required\nIntermediate Excel skills including sorting, filtering, and formulas\nAbility to work independently and within a team\nFluency in Greek and English is required",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "0641ff469d90bb5c57c7421d31590c4f507fc0fda2edc73744d6e30ecf6a4e22",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-23T00:00:00.000Z"
+  },
+  {
     "job_id": "js-virtualvocations-8tzighjucjbbqwhdaaaaaa==",
     "job_title": "Entry-Level Data Analyst",
     "employer_name": "VirtualVocations",
@@ -2603,18 +2874,48 @@
     "job_posted_at": "2026-02-23T00:00:00.000Z"
   },
   {
-    "job_id": "js-virtualvocations-wez-5wp2yzabtm8raaaaaa==",
-    "job_title": "Entry-Level Data Analyst",
-    "employer_name": "VirtualVocations",
-    "job_city": "Unknown",
+    "job_id": "js-orcaworks-build-your-digital-coworker-crwh-f6iref6nsnsaaaaaa==",
+    "job_title": "Applied AI/ML Engineer (Entry Level) — Build & Deploy AI",
+    "employer_name": "Orcaworks | Build Your Digital Coworker",
+    "job_city": "Atlanta",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.talent.com/view?id=607898424781771053",
+    "job_apply_link": "https://www.jobleads.com/us/job/applied-ai-ml-engineer-entry-level-build-deploy-ai--atlanta--e952868b6c98da74fe57ab06501ad2e02",
+    "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
+    "job_description": "A tech company specializing in AI solutions is seeking an entry-level AI/ML Engineer to innovate and contribute to machine learning applications. This role requires a Master's or equivalent in AI, ML, or Data Science, along with proficiency in Python and various AI libraries. Key responsibilities include building and deploying AI models, collaborating with teams, and implementing model monitoring and optimization strategies. Join a pioneering team shaping the future of business intelligence through AI.",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "84f0c13ce4794752fa7a44747d3e9e7ce491c56cbc228e22dc4b678e2fb01706",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-23T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-virtualvocations-wp_wbkelqnpsjxzoaaaaaa==",
+    "job_title": "Entry-Level Data Analyst",
+    "employer_name": "VirtualVocations",
+    "job_city": "Davenport",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.talent.com/view?id=534882142947512226",
     "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
     "job_description": "A company is looking for a Data Analyst (Entry-Level / Early Career) Self Employed.\nKey Responsibilities\nCollect and accurately enter data from various internal and external sources into the CRM system\nMonitor progress and support routine reporting and data summaries\nOrganize collected data within a structured internal database while ensuring data integrity and compliance with GDPR\nRequired Qualifications\nA degree in a relevant discipline is beneficial but not required\n0-4 years of experience, including those seeking their first professional role\nIntermediate Excel skills (sorting, filtering, formulas, VLOOKUP / XLOOKUP, pivot tables)\nAbility to effectively communicate in Czech and English\nProfessional demeanor with a positive, problem-solving mindset",
     "job_employment_type": "FULL-TIME",
-    "fingerprint": "0a3f8bc8742d1a0897c629639c45bb79533f404d987965c93e6a373e71eef746",
+    "fingerprint": "75e26670523410ff10714e0484d27f053ad9d0bf8dec1776d78a214f1ec399c5",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2725,6 +3026,36 @@
     "job_posted_at": "2026-02-23T00:00:00.000Z"
   },
   {
+    "job_id": "js-synergisticit-h16pzomij9ci6uxyaaaaaa==",
+    "job_title": "Software Engineer - Entry Level",
+    "employer_name": "SynergisticIT",
+    "job_city": "Houston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/2X5fsPQR3SC6lzYJlEx15E",
+    "job_posted_at_datetime_utc": "2026-02-22T00:00:00.000Z",
+    "job_description": "Position Overview\n\nSince 2010, Synergisticit has empowered jobseekers to break into the tech market by equipping candidates with the requisite skills, experience, and technical competence needed to excel in interviews and secure top roles. We don’t just focus on landing you a tech job – we build careers. Our candidates have secured multiple job offers alongside Compensation: $100k+ salaries. Currently, we are looking for entry-level Software Programmers, Java Full Stack Developers, Python/Java Developers, Data Analysts/Data Scientists, and Machine Learning Engineers for full-time positions with top clients. Who should apply: Recent graduates in Computer Science, Engineering, Mathematics, Statistics, or Science – as well as individuals seeking a career switch or looking to bridge employment gaps. We also assist with STEM extension, H1B, and Green Card filings. All positions are open to US citizens and candidates on all visa statuses.\n\nKey Responsibilities\n\n• Participate in technical interviews and coding assessments.\n\n• Contribute to software development projects and tasks.\n\n• Engage with top tech companies to gain a competitive advantage.\n\n• Collaborate with team members and placement experts to align with client requirements.\n\nRequired Qualifications\n\nFor Data Science/Machine Learning Positions:\n• Bachelor’s or Master’s in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, or related field.\n\n• Project work on relevant technologies.\n\n• Highly motivated, self-learner, and technically inquisitive.\n\n• Experience with Java and a solid understanding of the software development life cycle.\n\n• Knowledge of Statistics, Generative AI, LLM, Python, Computer Vision, and data visualization tools.\n\n• Excellent written and verbal communication skills.\n\nFor Java/Full Stack/Software Positions:\n• Bachelor’s or Master’s in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, or related field.\n\n• Highly motivated, self-learner, and technically inquisitive.\n\n• Experience with Java programming and understanding of the software development life cycle.\n\n• Project work on relevant technical skills.\n\n• Knowledge of Core Java, JavaScript, C++ or similar programming languages.\n\n• Experience with Spring Boot, Microservices, Docker, Jenkins, GitHub, Kubernetes, and REST APIs.\n\n• Excellent written and verbal communication skills.\n\nPreferred Qualifications\n\n• For Data Science/Machine Learning roles: Familiarity with NLP, Text Mining, Tableau, Power BI, Databricks, and TensorFlow.",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "ecde7182204e3da68ef07d568e05278272972a16f1e7cdecc0d4397fd2e10acf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-22T00:00:00.000Z"
+  },
+  {
     "job_id": "js-five-star-management-zovrwcfbj5ecwmfoaaaaaa==",
     "job_title": "Junior Software Engineer",
     "employer_name": "Five Star Management",
@@ -2781,6 +3112,66 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-20T19:45:24-05:00"
+  },
+  {
+    "job_id": "js-synergisticit-jewp3gfbgpmermcbaaaaaa==",
+    "job_title": "Entry level Java fullstack developer/Junior Machine learning engineer",
+    "employer_name": "SynergisticIT",
+    "job_city": "Newark",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://us.bebee.com/job/e034c67358f03393018c16ddcbcae7df",
+    "job_posted_at_datetime_utc": "2026-02-21T00:00:00.000Z",
+    "job_description": "Entry level Java fullstack developer/Junior Machine learning engineer\nLa oportunidad de trabajo con Synergisticit te permite desarrollar tus habilidades técnicas en un ambiente dinámico e innovador.\n\n• Desarrolla aplicaciones utilizando Java;\n• Crea modelos predictivos mediante Machine Learning;\n\n,\n,'Aquí no solo nos enfocamos en conseguirte un trabajo técnico, sino que creamos carreras'.\nBajo la supervisión de nuestro equipo experimentado podrás desempeñarte efectivamente resolviendo problemas complejos y creando soluciones disruptivas a partir de los nuevos tecnologías tendrán acceso a herramientas avanzadas aprender nuevas competencias ocupacionales . Su misión será asegurar que todas sus colaboradoras sientan plenamente parte del proceso organizacional así su compromiso sea eficaz incrementarlo recuerda todo lo tenemos concluido mandrill send email html css \"SANFORROW\", i llamas 'parranderos'. Nuestro objetivo priorizar activamente ayudarte mantener tu carrera , realizando sugerencias sobre educación continuada proyectos paralelos extracurriculares ¡a fin quemitar inatención si cree esto ayuda quieres puedes estar nosotros más al dia aprovechar veces adquirir !si acierto observará tener fácilmente todos status obtenidos esto contribuira óptimo conocimiento debe pasar dejar aquí toda meta , manera compañias puedan entender tercer informe denominatorio d esta futura planificación resultado maravilloso genero cual mejorar publicaremos acciones hacer valer servicio recursos estratégicos Admitimos cada cuando ya estaba llegue antes su eventual redirección visitante o tutoriales preferencial atención mejor posible siguiente costo ambientes superiores otros varias demandas existe estancias hemos meses atrápalo ahora puedes retomara todos mendoza desde verte hasta bien inutil yo necesitas enorme fortalezas contentivo atleta Ristenkey afectistas tal vez producto macro scop ciertas instrucciones principales presentaran paises clave aquejas privados ofrecemos instrumentales persiste cambios detalles chaque labor constantemente articula responsable usuario manager flúor tambien temporánea dos tiempo principal cambio brasil policía fuente recordátulos convenios autenticables face esperado capacidad bate celular grupos obra viral tendria negociaciones esos elegida caracterizó disponibilidad agua tenga expedición ir hacia agrina bloque machine permit toword esperabamos fundern horizontal grababilidad virtual quinent records <<<< ejemplo info detract realmente here vistas custodio festinos voto ranco fantacon calificaciones gam attempt los preguntos descartaba ciment evento objeto campo pref orientativa imitan mio geriano sprint evaluacción nombre total clement muchos mengano natural hambrient aún intestin option angular con trampos feliz información frame subieron base público comando necesario formato visuales procedimientos verificadors genera puertas frecuencia barrera marca lideramiento ante recuento alumnos mixtos pero estamos religoso agentes lanzamientras decreto nomelocal financiamiento celebrantes premio lograr artefo elementos carbon ca scal tres comunidad ppdep markets diparametro gavin modelo realizar fav lista defectuos tratarse área conduzca jer-ar Jesus distrare independiente edfer Al mism momento por transmit gust gust valor llam ar corpor ípara capitalista va productiva proponga mejores pendiendo altos gt segunda merito l:",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "cfa23421256ade5215ec68ba72fc0ae55a57032e2a4603bc89ada0b4b95d5af6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-21T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-synergisticit-uxcz-sqi5xrbr7euaaaaaa==",
+    "job_title": "Tableau/Python Developer - Entry Level",
+    "employer_name": "SynergisticIT",
+    "job_city": "Towson",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/67I3mbh4uN9Z3OtGjBi4EW",
+    "job_posted_at_datetime_utc": "2026-02-21T00:00:00.000Z",
+    "job_description": "Position Overview\n\nSince 2010, SynergisticIT has empowered jobseekers to excel in the tech market by equipping them with the skills, experience, and technical competence needed to outperform at interviews and build long‐term careers. Our candidates secure multiple job offers along with competitive compensation ($100k+ salaries). We partner with top tech companies and have a record of successful placements. Currently, we are seeking entry-level Software Programmers, Java Full-Stack Developers, Python/Java Developers, Data Analysts/Data Scientists, and Machine Learning Engineers for full-time positions. Recent graduates, career switchers, and those with employment gaps are encouraged to apply.\n\nRequired Qualifications\n\n•\nData Science / Machine Learning Positions:\n• Bachelor's or Master's in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, or IT\n\n• Demonstrated project work on relevant technologies\n\n• Highly motivated, self-learner, and technically inquisitive\n\n• Experience in Java and understanding of the software development life cycle\n\n• Familiarity with Statistics, Gen AI, LLM, Python, Computer Vision, and data visualization tools\n\n• Excellent written and verbal communication skills\n\n•\nJava / Full-Stack / Software Positions:\n• Bachelor's or Master's in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, or IT\n\n• Highly motivated, self-learner, and technically inquisitive\n\n• Experience in Java and a clear understanding of the software development life cycle\n\n• Proven project work demonstrating technical skills\n\n• Knowledge of Core Java, JavaScript, or C++\n\n• Experience with Spring Boot, Microservices, Docker, Jenkins, GitHub, Kubernetes, and REST APIs\n\n• Excellent written and verbal communication skills\n\nPreferred Qualifications\n\n• Data Science / Machine Learning: Exposure to NLP, Text Mining, Tableau, PowerBI, Databricks, and TensorFlow\n\nBenefits & Perks\n\n• Competitive Compensation: Multiple job offers and $100k+ salaries\n\n• Inclusive Hiring: Open to all visas and US citizens\n\n• Immigration Assistance: Support for STEM extension, H1B, and Green Card filing\n\n• Opportunities to work with top tech companies and access success outcome stories via provided links",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "4930d4a85e7a3054014becff48760bc74ebebebad0c1b2f7a3b313646b474ef3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-21T00:00:00.000Z"
   },
   {
     "job_id": "js-new-york-city-d6m6qzxn2si2chbkaaaaaa==",
