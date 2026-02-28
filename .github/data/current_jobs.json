@@ -8,7 +8,7 @@
     "job_country": "United States",
     "job_is_remote": true,
     "job_apply_link": "https://ccf.wd1.myworkdayjobs.com/job/Remote-Location/Data-Scientist-I---Cancer-Center_312181-1",
-    "job_posted_at_datetime_utc": "2026-02-28T21:02:32.386Z",
+    "job_posted_at_datetime_utc": "2026-02-28T21:15:31.769Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "eba0e479beccd280111924dc4312b132fc9fe6aac4b4a4cb9dabc26cbe852487",
@@ -26,63 +26,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T21:02:32.386Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0233003",
-    "job_title": "Data Scientist, Junior",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Charleston",
-    "job_state": "SC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Charleston-SC/Data-Scientist--Junior_R0233003",
-    "job_posted_at_datetime_utc": "2026-02-28T20:57:29.096Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "220cc3e02ddaa5e299c6f956173f394af2f68c5e1ef8beadca6267150cec35eb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-28T20:57:29.096Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234850",
-    "job_title": "Data Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Camp Lejeune",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Camp-Lejeune-NC/Data-Analyst_R0234850",
-    "job_posted_at_datetime_utc": "2026-02-28T20:57:29.096Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "4202530d9a246d1be54024761a5a47334c7d7a55e9303b1a552ebc7257999736",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-28T20:57:29.096Z"
+    "job_posted_at": "2026-02-28T21:15:31.769Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234257",
@@ -93,7 +37,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Bethesda-MD/Artificial-Intelligence-and-Machine-Learning-Engineer_R0234257",
-    "job_posted_at_datetime_utc": "2026-02-28T20:57:29.095Z",
+    "job_posted_at_datetime_utc": "2026-02-28T21:10:27.031Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "549ae491df14eb6d74b5872dfebf528c8dbb1b2cccd49b0e7e0dcab71a134bd9",
@@ -111,7 +55,63 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T20:57:29.095Z"
+    "job_posted_at": "2026-02-28T21:10:27.031Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0233003",
+    "job_title": "Data Scientist, Junior",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Charleston",
+    "job_state": "SC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Charleston-SC/Data-Scientist--Junior_R0233003",
+    "job_posted_at_datetime_utc": "2026-02-28T21:10:27.031Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "220cc3e02ddaa5e299c6f956173f394af2f68c5e1ef8beadca6267150cec35eb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-28T21:10:27.031Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234850",
+    "job_title": "Data Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Camp Lejeune",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Camp-Lejeune-NC/Data-Analyst_R0234850",
+    "job_posted_at_datetime_utc": "2026-02-28T21:10:27.031Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "4202530d9a246d1be54024761a5a47334c7d7a55e9303b1a552ebc7257999736",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-28T21:10:27.031Z"
   },
   {
     "job_id": "greenhouse-anthropic-4951814008",
@@ -1882,34 +1882,6 @@
     "job_posted_at": "2026-02-26T21:33:19.990+00:00"
   },
   {
-    "job_id": "workday-mass-general-brigham-RQ4052129",
-    "job_title": "Research Data Analyst, per diem Data Innovation",
-    "employer_name": "Mass General Brigham",
-    "job_city": "MA",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Boston-MA/Research-Data-Analyst--per-diem-Data-Innovation_RQ4052129",
-    "job_posted_at_datetime_utc": "2026-02-26T21:03:35.223Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "1072a9ab5132d895dc1668717121ec57fd5502ee9fab8313da8045b540c5a9c3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T21:03:35.223Z"
-  },
-  {
     "job_id": "workday-mass-general-brigham-RQ4052969",
     "job_title": "Research Fellow - Artificial Intelligence/Machine Learning",
     "employer_name": "Mass General Brigham",
@@ -1918,7 +1890,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Boston-MA/Research-Fellow---Artificial-Intelligence-Machine-Learning_RQ4052969",
-    "job_posted_at_datetime_utc": "2026-02-26T21:03:35.223Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:16:38.084Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "8851dde283babaf6deaaf8e974f5fa0641d55f81169a0027e466479c7e0a70ae",
@@ -1936,7 +1908,147 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T21:03:35.223Z"
+    "job_posted_at": "2026-02-26T21:16:38.084Z"
+  },
+  {
+    "job_id": "workday-mass-general-brigham-RQ4052129",
+    "job_title": "Research Data Analyst, per diem Data Innovation",
+    "employer_name": "Mass General Brigham",
+    "job_city": "MA",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Boston-MA/Research-Data-Analyst--per-diem-Data-Innovation_RQ4052129",
+    "job_posted_at_datetime_utc": "2026-02-26T21:16:38.083Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "1072a9ab5132d895dc1668717121ec57fd5502ee9fab8313da8045b540c5a9c3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-26T21:16:38.083Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234832",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fort Meade",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Fort-Meade-MD/Data-Scientist_R0234832",
+    "job_posted_at_datetime_utc": "2026-02-26T21:10:27.033Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "04f3f110e0a8b1dbb56b8a0113941038eadb971a34d24305aeb276239fbb4695",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-26T21:10:27.033Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0229725",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Tampa",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Tampa-FL/Data-Scientist_R0229725",
+    "job_posted_at_datetime_utc": "2026-02-26T21:10:27.033Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "9ecdacff1c9dcad366b2662f36bfe2b79070d204ec02fd92b92e39124c586435",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-26T21:10:27.033Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234929",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Alexandria",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Alexandria-VA/Data-Scientist_R0234929",
+    "job_posted_at_datetime_utc": "2026-02-26T21:10:27.033Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "3cbcd1247e9b17225fca1866d4bce85e501b0e36b252dff7e822a5c37824d35f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-26T21:10:27.033Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234773",
+    "job_title": "Data Scientist and Developer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Lexington Park",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Lexington-Park-MD/Data-Scientist-and-Developer_R0234773",
+    "job_posted_at_datetime_utc": "2026-02-26T21:10:27.033Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "2cac95b6c1292df1f71d71f6b944a2d79393860c400bb6aa84ba54715ad4c163",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-26T21:10:27.033Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234928",
@@ -1947,7 +2059,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Norfolk-VA/Machine-Learning-Engineer_R0234928",
-    "job_posted_at_datetime_utc": "2026-02-26T20:57:29.096Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:10:27.032Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "e6f750d180c7e50e49a4f069adadba4c62dddbc614162015cb703ebcd5f23326",
@@ -1965,119 +2077,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:57:29.096Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234832",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fort Meade",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Fort-Meade-MD/Data-Scientist_R0234832",
-    "job_posted_at_datetime_utc": "2026-02-26T20:57:29.096Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "04f3f110e0a8b1dbb56b8a0113941038eadb971a34d24305aeb276239fbb4695",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:57:29.096Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0229725",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Tampa",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Tampa-FL/Data-Scientist_R0229725",
-    "job_posted_at_datetime_utc": "2026-02-26T20:57:29.096Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "9ecdacff1c9dcad366b2662f36bfe2b79070d204ec02fd92b92e39124c586435",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:57:29.096Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234929",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Alexandria",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Alexandria-VA/Data-Scientist_R0234929",
-    "job_posted_at_datetime_utc": "2026-02-26T20:57:29.096Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "3cbcd1247e9b17225fca1866d4bce85e501b0e36b252dff7e822a5c37824d35f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:57:29.096Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234773",
-    "job_title": "Data Scientist and Developer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Lexington Park",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Lexington-Park-MD/Data-Scientist-and-Developer_R0234773",
-    "job_posted_at_datetime_utc": "2026-02-26T20:57:29.096Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "2cac95b6c1292df1f71d71f6b944a2d79393860c400bb6aa84ba54715ad4c163",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:57:29.096Z"
+    "job_posted_at": "2026-02-26T21:10:27.032Z"
   },
   {
     "job_id": "workday-leidos-R-00177051",
@@ -2088,7 +2088,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/job/3325-Fort-George-G-Meade-MD/Data-Scientist_R-00177051",
-    "job_posted_at_datetime_utc": "2026-02-26T20:57:05.298Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:10:02.959Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "534ca06ddb570b78fd0afa1004ac80ae32be0769af89652f56897ef51413f57a",
@@ -2105,7 +2105,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:57:05.298Z"
+    "job_posted_at": "2026-02-26T21:10:02.959Z"
   },
   {
     "job_id": "workday-leidos-R-00176629",
@@ -2116,7 +2116,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/job/Huntsville-AL/Data-Analyst-w--Secret-Clearance_R-00176629",
-    "job_posted_at_datetime_utc": "2026-02-26T20:57:05.298Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:10:02.959Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "0abb98df2207b7afadbb6296918372dbc3b2f8adccd4384198a3b687133830ab",
@@ -2133,7 +2133,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:57:05.298Z"
+    "job_posted_at": "2026-02-26T21:10:02.959Z"
   },
   {
     "job_id": "ashby-replit-f4e571e4-3505-4149-8930-eefa7a29fabc",
@@ -2529,7 +2529,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/MacDill-AFB-FL/Data-Engineer_R0234716",
-    "job_posted_at_datetime_utc": "2026-02-25T20:57:29.096Z",
+    "job_posted_at_datetime_utc": "2026-02-25T21:10:27.033Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "5ff17ad5f7a79d57bc541f01b29dc6a56fb1f01ef4dd129c02dfc6e2f5555f71",
@@ -2546,7 +2546,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T20:57:29.096Z"
+    "job_posted_at": "2026-02-25T21:10:27.033Z"
   },
   {
     "job_id": "ashby-perplexity-bc1a6878-8de9-48c2-a791-95b2f8f27261",
@@ -2882,7 +2882,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Data-Engineer_R0233775",
-    "job_posted_at_datetime_utc": "2026-02-24T20:57:29.096Z",
+    "job_posted_at_datetime_utc": "2026-02-24T21:10:27.033Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "71789731ba63c432516f7e7e72cfcf7e65e577dbe23475d02453639d8cc8c625",
@@ -2899,7 +2899,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:57:29.096Z"
+    "job_posted_at": "2026-02-24T21:10:27.033Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234643",
@@ -2910,7 +2910,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Nellis-AFB-NV/Data-Scientist_R0234643",
-    "job_posted_at_datetime_utc": "2026-02-24T20:57:29.096Z",
+    "job_posted_at_datetime_utc": "2026-02-24T21:10:27.033Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "3c36656c64e92c24d0dd518037645f1efc03f8b54b852c58f02d0ae683520bce",
@@ -2927,7 +2927,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:57:29.096Z"
+    "job_posted_at": "2026-02-24T21:10:27.033Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0233771",
@@ -2938,7 +2938,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Apache-Iceberg-Data-Engineer_R0233771",
-    "job_posted_at_datetime_utc": "2026-02-24T20:57:29.096Z",
+    "job_posted_at_datetime_utc": "2026-02-24T21:10:27.033Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "b98c8c0a71d01a2e5a764d539b56c6a580d3626e468fc11ac9557c1fef8ac71b",
@@ -2955,7 +2955,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:57:29.096Z"
+    "job_posted_at": "2026-02-24T21:10:27.033Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234571",
@@ -2966,7 +2966,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Charleston-SC/Data-Scientist--Junior_R0234571",
-    "job_posted_at_datetime_utc": "2026-02-24T20:57:29.096Z",
+    "job_posted_at_datetime_utc": "2026-02-24T21:10:27.033Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "220cc3e02ddaa5e299c6f956173f394af2f68c5e1ef8beadca6267150cec35eb",
@@ -2983,7 +2983,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:57:29.096Z"
+    "job_posted_at": "2026-02-24T21:10:27.033Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234642",
@@ -2994,7 +2994,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Langley-AFB-VA/Data-Scientist_R0234642",
-    "job_posted_at_datetime_utc": "2026-02-24T20:57:29.096Z",
+    "job_posted_at_datetime_utc": "2026-02-24T21:10:27.033Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2e1d83721f5f80f0a326a993860e4870921df1802f0e27e1c6c38ba39ebe1e10",
@@ -3011,7 +3011,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:57:29.096Z"
+    "job_posted_at": "2026-02-24T21:10:27.033Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0229274",
@@ -3022,7 +3022,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Fort-Meade-MD/Secure-AI-Engineer_R0229274",
-    "job_posted_at_datetime_utc": "2026-02-24T20:57:29.096Z",
+    "job_posted_at_datetime_utc": "2026-02-24T21:10:27.033Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "5c4125b5f6a38da49bd3385ea2a95240d2422ebae654c2309e1b5c6836e204fc",
@@ -3040,7 +3040,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:57:29.096Z"
+    "job_posted_at": "2026-02-24T21:10:27.033Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234605",
@@ -3051,7 +3051,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Langley-AFB-VA/Data-Scientist_R0234605",
-    "job_posted_at_datetime_utc": "2026-02-24T20:57:29.096Z",
+    "job_posted_at_datetime_utc": "2026-02-24T21:10:27.033Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2e1d83721f5f80f0a326a993860e4870921df1802f0e27e1c6c38ba39ebe1e10",
@@ -3068,7 +3068,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:57:29.096Z"
+    "job_posted_at": "2026-02-24T21:10:27.033Z"
   },
   {
     "job_id": "greenhouse-airtable-7845291002",
@@ -3768,90 +3768,6 @@
     "job_posted_at": "2026-02-23T16:39:45-05:00"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0233902",
-    "job_title": "AI/ML Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Chantilly",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Chantilly-VA/AI-ML-Engineer_R0233902",
-    "job_posted_at_datetime_utc": "2026-02-23T20:57:29.097Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "78553973b04e4fd8a7b180c4c2b26204b11bebad5b23542f1166ffddb83cacb0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-23T20:57:29.097Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234398",
-    "job_title": "Data Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Dayton",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Dayton-OH/Data-Analyst_R0234398",
-    "job_posted_at_datetime_utc": "2026-02-23T20:57:29.097Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "ed5342a911af54faa64c82ffa9ea666461f15d999927433a76a4f1b6fe8e4a76",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-23T20:57:29.097Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234117",
-    "job_title": "Enterprise Cybersecurity Data Engineer and Business Intelligence Developer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Enterprise-Cybersecurity-Data-Engineer-and-Business-Intelligence-Developer_R0234117",
-    "job_posted_at_datetime_utc": "2026-02-23T20:57:29.097Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "3aa19cdbf9e3a360bd081880acd943262bfaaebe76d8c12b3a5cb80311b1891c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-23T20:57:29.097Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0234300",
     "job_title": "Health Services Data Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -3860,7 +3776,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Health-Services-Data-Engineer_R0234300",
-    "job_posted_at_datetime_utc": "2026-02-23T20:57:29.097Z",
+    "job_posted_at_datetime_utc": "2026-02-23T21:10:27.034Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "e1fcff4b3ab93d99c1625eb91a7434506143bd523df6d37d6af6654322432f35",
@@ -3877,7 +3793,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-23T20:57:29.097Z"
+    "job_posted_at": "2026-02-23T21:10:27.034Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0231932",
@@ -3888,7 +3804,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Arlington-VA/Data-Analyst_R0231932",
-    "job_posted_at_datetime_utc": "2026-02-23T20:57:29.097Z",
+    "job_posted_at_datetime_utc": "2026-02-23T21:10:27.034Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "15e89e3ee02d54b3af8d72d28a972e0ac11e16bd878243a4580328079935dc8a",
@@ -3905,7 +3821,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-23T20:57:29.097Z"
+    "job_posted_at": "2026-02-23T21:10:27.034Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234574",
@@ -3916,7 +3832,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/San-Diego-CA/Data-Engineer_R0234574",
-    "job_posted_at_datetime_utc": "2026-02-23T20:57:29.096Z",
+    "job_posted_at_datetime_utc": "2026-02-23T21:10:27.033Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "b5b484f665e689547402bc63ca9475a88f14fc95b1fc1cc4d205a31d578e6e33",
@@ -3933,7 +3849,91 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-23T20:57:29.096Z"
+    "job_posted_at": "2026-02-23T21:10:27.033Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0233902",
+    "job_title": "AI/ML Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Chantilly",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Chantilly-VA/AI-ML-Engineer_R0233902",
+    "job_posted_at_datetime_utc": "2026-02-23T21:10:27.033Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "78553973b04e4fd8a7b180c4c2b26204b11bebad5b23542f1166ffddb83cacb0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-23T21:10:27.033Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234398",
+    "job_title": "Data Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Dayton",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Dayton-OH/Data-Analyst_R0234398",
+    "job_posted_at_datetime_utc": "2026-02-23T21:10:27.033Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "ed5342a911af54faa64c82ffa9ea666461f15d999927433a76a4f1b6fe8e4a76",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-23T21:10:27.033Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234117",
+    "job_title": "Enterprise Cybersecurity Data Engineer and Business Intelligence Developer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Enterprise-Cybersecurity-Data-Engineer-and-Business-Intelligence-Developer_R0234117",
+    "job_posted_at_datetime_utc": "2026-02-23T21:10:27.033Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "3aa19cdbf9e3a360bd081880acd943262bfaaebe76d8c12b3a5cb80311b1891c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-23T21:10:27.033Z"
   },
   {
     "job_id": "ashby-openai-ed871ac9-44ae-47fa-beaa-b9ab7ff31012",
@@ -4304,7 +4304,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/job/San-Jose-California-United-States-of-America/Data-Scientist_1200572",
-    "job_posted_at_datetime_utc": "2026-02-22T20:58:22.562Z",
+    "job_posted_at_datetime_utc": "2026-02-22T21:11:20.273Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "9326966af24e88ab1c22106dc9de636610e8ae27ad2ceea62dc4a66495a19365",
@@ -4321,7 +4321,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-22T20:58:22.562Z"
+    "job_posted_at": "2026-02-22T21:11:20.273Z"
   },
   {
     "job_id": "js-orcaworks-build-your-digital-coworker-crwh-f6iref6nsnsaaaaaa==",
@@ -5356,7 +5356,7 @@
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5042025008",
     "job_posted_at_datetime_utc": "2026-02-20T18:33:18-05:00",
-    "job_description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;div data-qa=&quot;job-description&quot;&gt;\n&lt;h2 class=&quot;text-xl font-bold text-text-100 mt-1 -mb-0.5&quot;&gt;About the role&lt;/h2&gt;\n&lt;p class=&quot;whitespace-normal break-words&quot;&gt;We are looking for growth engineers to join our Claude.AI growth team. This key role will help drive user acquisition, engagement, retention, and monetization through data-driven strategies and technical implementations. At Anthropic, we&#39;re not just building AI tools; we&#39;re reimagining how AI can enhance and expand its user base! As a member of the growth team, you will have a unique opportunity to shape our growth strategy. You will work with a cross-functional team of engineers, data scientists, marketers, and product managers to design, implement, and optimize growth initiatives that scale our AI-powered tools and maximize their impact.&lt;/p&gt;\n&lt;h2 class=&quot;text-xl font-bold text-text-100 mt-1 -mb-0.5&quot;&gt;Responsibilities:&lt;/h2&gt;\n&lt;ul class=&quot;[&amp;amp;:not(:last-child)_ul]:pb-1 [&amp;amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7&quot;&gt;\n&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Develop and implement technical solutions to support user acquisition, activation, retention, and revenue growth&lt;/li&gt;\n&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Design and execute A/B tests and experiments to optimize user onboarding, feature adoption, subscription conversion, and overall product experience&lt;/li&gt;\n&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Collaborate with product and marketing teams to identify growth opportunities and translate them into technical requirements&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2 class=&quot;text-xl font-bold text-text-100 mt-1 -mb-0.5&quot;&gt;You may be a good fit if you:&lt;/h2&gt;\n&lt;ul class=&quot;[&amp;amp;:not(:last-child)_ul]:pb-1 [&amp;amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7&quot;&gt;\n&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Have 2+ years of experience as a software engineer, with experience working on user growth (acquisition, activation, retention) or work on ads or monetization&lt;/li&gt;\n&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Have strong practical coding skills, ideally in full-stack development (web and backend), and experience with data analysis and experimentation frameworks&lt;/li&gt;\n&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Take a data-driven approach to problem-solving, with a keen eye for identifying patterns and opportunities in user behavior and metrics&lt;/li&gt;\n&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Are passionate about the potential of AI to reach and benefit a wide audience, and eager to tackle challenges in scaling AI products&lt;/li&gt;\n&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Thrive in a fast-paced, collaborative environment and enjoy working closely with cross-functional partners and teammates&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2 class=&quot;text-xl font-bold text-text-100 mt-1 -mb-0.5&quot;&gt;Strong candidates may have:&lt;/h2&gt;\n&lt;ul class=&quot;[&amp;amp;:not(:last-child)_ul]:pb-1 [&amp;amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7&quot;&gt;\n&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Have ideas for experiments to run to drive user growth or monetization&lt;/li&gt;\n&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Be able to dive into data and identify opportunities&lt;/li&gt;\n&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Possess a vision for the future of AI product growth and a drive to make that vision a reality&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;The annual compensation range for this role is listed below.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;For sales roles, the range provided is the role’s On Target Earnings (&quot;OTE&quot;) range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Annual Salary:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$300,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$405,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Logistics&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;strong&gt;Education requirements: &lt;/strong&gt;We require at least a Bachelor&#39;s degree in a related field or equivalent experience.&lt;strong&gt;&lt;br&gt;&lt;br&gt;Location-based hybrid policy:&lt;/strong&gt; Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.&lt;/p&gt;\n&lt;p&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Visa sponsorship:&lt;/strong&gt;&amp;nbsp;We do sponsor visas! However, we aren&#39;t able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;We encourage you to apply even if you do not believe you meet every single qualification.&lt;/strong&gt; Not all strong candidates will meet every single qualification as listed.&amp;nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you&#39;re interested in this work. We think AI systems like the ones we&#39;re building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.&lt;br&gt;&lt;br&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Your safety matters to us.&lt;/strong&gt; To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&amp;nbsp;@anthropic.com&amp;nbsp;email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you&#39;re ever unsure about a communication, don&#39;t click any links—visit&amp;nbsp;&lt;u data-stringify-type=&quot;underline&quot;&gt;&lt;a class=&quot;c-link c-link--underline&quot; href=&quot;http://anthropic.com/careers&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://anthropic.com/careers&quot; data-sk=&quot;tooltip_parent&quot; data-remove-tab-index=&quot;true&quot;&gt;anthropic.com/careers&lt;/a&gt;&lt;/u&gt;&amp;nbsp;directly for confirmed position openings.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;How we&#39;re different&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We&#39;re an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.&lt;/p&gt;\n&lt;p&gt;The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp;amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Come work with us!&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. &lt;strong data-stringify-type=&quot;bold&quot;&gt;Guidance on Candidates&#39; AI Usage:&lt;/strong&gt;&amp;nbsp;Learn about&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.anthropic.com/candidate-ai-guidance&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.anthropic.com/candidate-ai-guidance&quot; data-sk=&quot;tooltip_parent&quot;&gt;our policy&lt;/a&gt;&amp;nbsp;for using AI in our application process&lt;/p&gt;&lt;/div&gt;",
+    "job_description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;div data-qa=&quot;job-description&quot;&gt;\n&lt;h2 class=&quot;text-xl font-bold text-text-100 mt-1 -mb-0.5&quot;&gt;About the role&lt;/h2&gt;\n&lt;p class=&quot;whitespace-normal break-words&quot;&gt;We are looking for growth engineers to join our Claude.AI growth team. This key role will help drive user acquisition, engagement, retention, and monetization through data-driven strategies and technical implementations. At Anthropic, we&#39;re not just building AI tools; we&#39;re reimagining how AI can enhance and expand its user base! As a member of the growth team, you will have a unique opportunity to shape our growth strategy. You will work with a cross-functional team of engineers, data scientists, marketers, and product managers to design, implement, and optimize growth initiatives that scale our AI-powered tools and maximize their impact.&lt;/p&gt;\n&lt;h2 class=&quot;text-xl font-bold text-text-100 mt-1 -mb-0.5&quot;&gt;Responsibilities:&lt;/h2&gt;\n&lt;ul class=&quot;[&amp;amp;:not(:last-child)_ul]:pb-1 [&amp;amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7&quot;&gt;\n&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Develop and implement technical solutions to support user acquisition, activation, retention, and revenue growth&lt;/li&gt;\n&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Design and execute A/B tests and experiments to optimize user onboarding, feature adoption, subscription conversion, and overall product experience&lt;/li&gt;\n&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Collaborate with product and marketing teams to identify growth opportunities and translate them into technical requirements&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2 class=&quot;text-xl font-bold text-text-100 mt-1 -mb-0.5&quot;&gt;You may be a good fit if you:&lt;/h2&gt;\n&lt;ul class=&quot;[&amp;amp;:not(:last-child)_ul]:pb-1 [&amp;amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7&quot;&gt;\n&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Have 2+ years of experience as a software engineer, with experience working on user growth (acquisition, activation, retention) or work on ads or monetization&lt;/li&gt;\n&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Have strong practical coding skills, ideally in full-stack development (web and backend), and experience with data analysis and experimentation frameworks&lt;/li&gt;\n&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Take a data-driven approach to problem-solving, with a keen eye for identifying patterns and opportunities in user behavior and metrics&lt;/li&gt;\n&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Are passionate about the potential of AI to reach and benefit a wide audience, and eager to tackle challenges in scaling AI products&lt;/li&gt;\n&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Thrive in a fast-paced, collaborative environment and enjoy working closely with cross-functional partners and teammates&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2 class=&quot;text-xl font-bold text-text-100 mt-1 -mb-0.5&quot;&gt;Strong candidates may have:&lt;/h2&gt;\n&lt;ul class=&quot;[&amp;amp;:not(:last-child)_ul]:pb-1 [&amp;amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7&quot;&gt;\n&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Have ideas for experiments to run to drive user growth or monetization&lt;/li&gt;\n&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Be able to dive into data and identify opportunities&lt;/li&gt;\n&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Possess a vision for the future of AI product growth and a drive to make that vision a reality&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;The annual compensation range for this role is listed below.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;For sales roles, the range provided is the role��s On Target Earnings (&quot;OTE&quot;) range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Annual Salary:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$300,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$405,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Logistics&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;strong&gt;Education requirements: &lt;/strong&gt;We require at least a Bachelor&#39;s degree in a related field or equivalent experience.&lt;strong&gt;&lt;br&gt;&lt;br&gt;Location-based hybrid policy:&lt;/strong&gt; Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.&lt;/p&gt;\n&lt;p&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Visa sponsorship:&lt;/strong&gt;&amp;nbsp;We do sponsor visas! However, we aren&#39;t able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;We encourage you to apply even if you do not believe you meet every single qualification.&lt;/strong&gt; Not all strong candidates will meet every single qualification as listed.&amp;nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you&#39;re interested in this work. We think AI systems like the ones we&#39;re building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.&lt;br&gt;&lt;br&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Your safety matters to us.&lt;/strong&gt; To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&amp;nbsp;@anthropic.com&amp;nbsp;email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you&#39;re ever unsure about a communication, don&#39;t click any links—visit&amp;nbsp;&lt;u data-stringify-type=&quot;underline&quot;&gt;&lt;a class=&quot;c-link c-link--underline&quot; href=&quot;http://anthropic.com/careers&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://anthropic.com/careers&quot; data-sk=&quot;tooltip_parent&quot; data-remove-tab-index=&quot;true&quot;&gt;anthropic.com/careers&lt;/a&gt;&lt;/u&gt;&amp;nbsp;directly for confirmed position openings.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;How we&#39;re different&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact — advancing our long-term goals of steerable, trustworthy AI — rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We&#39;re an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.&lt;/p&gt;\n&lt;p&gt;The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp;amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Come work with us!&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. &lt;strong data-stringify-type=&quot;bold&quot;&gt;Guidance on Candidates&#39; AI Usage:&lt;/strong&gt;&amp;nbsp;Learn about&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.anthropic.com/candidate-ai-guidance&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.anthropic.com/candidate-ai-guidance&quot; data-sk=&quot;tooltip_parent&quot;&gt;our policy&lt;/a&gt;&amp;nbsp;for using AI in our application process&lt;/p&gt;&lt;/div&gt;",
     "job_employment_type": "FULLTIME",
     "fingerprint": "fb825e52b31406863bbce12725ee5b904b261faa692b1ddd626a31bcc3a56228",
     "tags": {
@@ -5616,7 +5616,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Buckley-AFB-CO/Data-Scientist_R0234099",
-    "job_posted_at_datetime_utc": "2026-02-19T20:57:29.098Z",
+    "job_posted_at_datetime_utc": "2026-02-19T21:10:27.034Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "84878e4d4602ad149d16a700e5bf2eb9bb11918aad4eb0b4fe9d9d7dc13ed25b",
@@ -5633,35 +5633,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-19T20:57:29.098Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234099",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Buckley AFB",
-    "job_state": "CO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Buckley-AFB-CO/Data-Scientist_R0234099",
-    "job_posted_at_datetime_utc": "2026-02-19T20:57:29.098Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "84878e4d4602ad149d16a700e5bf2eb9bb11918aad4eb0b4fe9d9d7dc13ed25b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-19T20:57:29.098Z"
+    "job_posted_at": "2026-02-19T21:10:27.034Z"
   },
   {
     "job_id": "greenhouse-databricks-7471089002",
@@ -5880,7 +5852,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Charleston-SC/AI-and-ML-Engineer_R0230985",
-    "job_posted_at_datetime_utc": "2026-02-18T20:57:29.098Z",
+    "job_posted_at_datetime_utc": "2026-02-18T21:10:27.034Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "69ce25cdadfe6228f91dd0a74d42b861aeb28fa1399d2a767860666794ebdb5d",
@@ -5897,7 +5869,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-18T20:57:29.098Z"
+    "job_posted_at": "2026-02-18T21:10:27.034Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234221",
@@ -5908,7 +5880,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/San-Diego-CA/Data-Scientist_R0234221",
-    "job_posted_at_datetime_utc": "2026-02-18T20:57:29.098Z",
+    "job_posted_at_datetime_utc": "2026-02-18T21:10:27.034Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "03805b8e47c31dd2d5c5b3124ae9e615c8ebce9ae9f7c09d2b90c65d9158a4e0",
@@ -5925,7 +5897,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-18T20:57:29.098Z"
+    "job_posted_at": "2026-02-18T21:10:27.034Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234223",
@@ -5936,7 +5908,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Chantilly-VA/Human-Capital-Data-Analyst_R0234223",
-    "job_posted_at_datetime_utc": "2026-02-18T20:57:29.098Z",
+    "job_posted_at_datetime_utc": "2026-02-18T21:10:27.034Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "157fda429f5d4a5d33f5abfb033d57ff8e7ac820fa88d402032406e9699faf55",
@@ -5953,7 +5925,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-18T20:57:29.098Z"
+    "job_posted_at": "2026-02-18T21:10:27.034Z"
   },
   {
     "job_id": "greenhouse-datadog-6572669",
@@ -6051,7 +6023,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/job/Sunnyvale-California-United-States-of-America/Data-Scientist-3_1201030",
-    "job_posted_at_datetime_utc": "2026-02-17T20:58:22.563Z",
+    "job_posted_at_datetime_utc": "2026-02-17T21:11:20.274Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "6179313f912be2ca18fc5b599b78152ab7cbe9f1c007b7966595a863fa9af73d",
@@ -6068,7 +6040,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-17T20:58:22.563Z"
+    "job_posted_at": "2026-02-17T21:11:20.274Z"
   },
   {
     "job_id": "greenhouse-lyft-8378473002",
