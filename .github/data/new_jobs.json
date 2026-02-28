@@ -60,6 +60,35 @@
     "job_posted_at": "2026-02-28T04:00:00.000Z"
   },
   {
+    "job_id": "js-emcor-group-inc-ay8ly5lqlhglxx1paaaaaa==",
+    "job_title": "Business Data Analyst, Construction; Entry Level",
+    "employer_name": "EMCOR Group, Inc.",
+    "job_city": "Baltimore",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/3ya8tbzkJ4hWczj59HMX7K",
+    "job_posted_at_datetime_utc": "2026-02-27T23:00:00.000Z",
+    "job_description": "Position Overview\n\nPosition: Business Data Analyst, Construction. We are one of the leading mechanical contractors in the eastern United States. Our construction and service (mechanical and electrical) experience spans commercial and government projects including data centers, hospitals, sports stadiums, convention centers, hotels, and research laboratories. The Business Data Analyst assists the company in meeting its objectives by supporting management and providing analysis of business data for effective decision making and organizational efficiency improvement. Location: Baltimore, MD 21227. Reports to: Vice President. FLSA Status: Full-Time / Exempt. Work Shift: 8:00 a.m. to 5:00 p.m. / Mon. – Fri.\n\nKey Responsibilities\n• Aggregates and performs statistical analysis on business data based on requests from project teams or senior leadership.\n• Integrates data from multiple sources or functional areas, ensuring data accuracy and integrity, and updates data as needed.\n• Writes queries or reports to provide data for various analytical projects and interprets data to identify business trends and conduct root cause analysis.\n• Generates analytical and statistical information in various formats using advanced features of Microsoft Excel, Microsoft Power BI, and related software.\n• Complies with all company operating policies, procedures, and safety programs as established.\n\nPreferred Qualifications\n• Bachelor of Science degree in Business Administration, Finance, Economics, and/or a related field.\n• One to three years of professional experience, including internship experience.\n• Advanced experience in Microsoft Office Excel and Power BI applications.\n• Familiarity with software applications utilized in data analytics for business.\n• Must possess professional integrity and be trustworthy.\n• Strong interpersonal communication skills to effectively collaborate with internal and external stakeholders.\n• Excellent written and verbal communication skills.\n• Proven ability to organize and manage multiple projects.\n• Ability to independently analyze and solve problems on both strategic and tactical levels.\n• Commitment to company values.\n• Effective communication, cooperation, and collaboration with employees, government agencies, contractors, vendors, and/or suppliers.",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "20c52b24c649dbb11091e0f2b5679172cbe056cbff73a06087a3c40caf1eb2ff",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-27T23:00:00.000Z"
+  },
+  {
     "job_id": "greenhouse-elastic-7607148",
     "job_title": "Elastic AI Engineer",
     "employer_name": "Elastic",
@@ -1860,6 +1889,36 @@
     "job_posted_at": "2026-02-26T16:34:52.661+00:00"
   },
   {
+    "job_id": "js-job-on-remote-online-usa-gtmhffjq-t11gtwvaaaaaa==",
+    "job_title": "Entry Level Data Analyst",
+    "employer_name": "Job On Remote Online USA",
+    "job_city": "Pleasanton",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://us.bebee.com/job/e49c0156aa6879008f9a0f86f16650e6",
+    "job_posted_at_datetime_utc": "2026-02-26T00:00:00.000Z",
+    "job_description": "NOTE: Only for US residence\n\nResponsibilities\n\nWork hand-in-hand with the business side of an organization to help in process improvements.\n\nWorking primarily on design and analysis in the areas of organization, planning cum information technology.\n\nWorks as the middle man between the technical team and business team so as to assist in the development of requirements needed for the business.\n\nHe/ She will be responsible for documenting customer requirements as outlined by the business users.\n\nThe analysts role also includes making sure that the designs meet the companys technical standards.\n\nQualification And Experience\n• Entry Level / Fresh Graduates / Engineers - BS / MS in Business/Data Analytics, Management Information systems, Computer Science ,Software engineering, IT, Industrial Engineering/Engineering management.\n• Prior experience is a \"plus\" but not required.\n• Candidates with strong communication/presentation skills, strong aptitude to learn and interest in Software programming, Testing or Business Analysis.\n• Work Authorization: Must be authorized to work in the US",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "4f7ed9e4f9abd13c2998732a5e2f69f2d6e859e31150830c740a007209660756",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-26T00:00:00.000Z"
+  },
+  {
     "job_id": "js-morningstar-t_myghrricuqjttfaaaaaa==",
     "job_title": "Associate Software Engineer, Credit Tech",
     "employer_name": "Morningstar",
@@ -1883,36 +1942,6 @@
         "on_site"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-26T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-job-on-remote-online-usa-gtmhffjq-t11gtwvaaaaaa==",
-    "job_title": "Entry Level Data Analyst",
-    "employer_name": "Job On Remote Online USA",
-    "job_city": "Pleasanton",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://us.bebee.com/job/e49c0156aa6879008f9a0f86f16650e6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-26T00:00:00.000Z",
-    "job_description": "NOTE: Only for US residence\n\nResponsibilities\n\nWork hand-in-hand with the business side of an organization to help in process improvements.\n\nWorking primarily on design and analysis in the areas of organization, planning cum information technology.\n\nWorks as the middle man between the technical team and business team so as to assist in the development of requirements needed for the business.\n\nHe/ She will be responsible for documenting customer requirements as outlined by the business users.\n\nThe analysts role also includes making sure that the designs meet the companys technical standards.\n\nQualification And Experience\n• Entry Level / Fresh Graduates / Engineers - BS / MS in Business/Data Analytics, Management Information systems, Computer Science ,Software engineering, IT, Industrial Engineering/Engineering management.\n• Prior experience is a \"plus\" but not required.\n• Candidates with strong communication/presentation skills, strong aptitude to learn and interest in Software programming, Testing or Business Analysis.\n• Work Authorization: Must be authorized to work in the US",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "4f7ed9e4f9abd13c2998732a5e2f69f2d6e859e31150830c740a007209660756",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -3114,6 +3143,65 @@
     "job_posted_at": "2026-02-23T17:09:25.360+00:00"
   },
   {
+    "job_id": "js-synergistic-it-egkxbtam4sjoe0kqaaaaaa==",
+    "job_title": "Remote Data Scientist/Analyst (Entry/Junior Level)",
+    "employer_name": "Synergistic it",
+    "job_city": "Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://www.monster.com/job-openings/remote-data-scientist-analyst-entry-junior-level-washington-dc--da2dd95e-f8ba-454d-801f-06a952ed30aa?mstr_dist=true",
+    "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
+    "job_description": "Switch Careers Without Starting Over.\nIf you're coming from business, healthcare, education, operations, retail, QA, finance, or project management and you're thinking, \"I want tech, but I'm not sure I belong,” you're already closer than you think. Career changers often bring advantages that traditional grads don't: real-world accountability, communication skills, stakeholder awareness, and the ability to execute under pressure. What usually holds career changers back isn't intelligence—it's the lack of a structured path that converts potential into hire-ready proof.\nSynergisticIT is a unique blend of software development, specialized staffing, and an industry driven tech bootcamp. Since 2010, we've been dedicated to bridging the gap between top-tier companies and highly skilled tech professionals. Our dual focus allows us to support clients with exceptional talent in Java, Data Science, AI, and Data Engineering, while also helping jobseekers strengthen their expertise through targeted upskilling. Over the years, we've helped candidates secure roles at leading organizations such as Visa, Client, PayPal, Apple, Wayfair, Yum Brands, and hundreds of other innovative companies across the United States.\n\nWe're actively considering candidates for full-time client roles across software and data: entry-level programming, Java full stack, Java/Python development, DevOps automation, and data tracks (analytics, engineering, science, ML/AI). Our core focus remains Java/Full Stack/DevOps and Data/Analytics/Engineering/ML.\n\nThat's why a job oriented approach matters far more than a training-only course. Most bootcamps teach you concepts and then leave you to \"figure it out.” Career changers don't need more uncertainty—they need a program built around outcomes: strong foundational training, portfolio development, interview coaching, and job placement execution. SynergisticIT's Job Placement Program (JOPP) is a placement-first model designed to bridge that gap.\nIf you want to explore the program directly, here are the key links:\n• Job Placement Program (JOPP):\n• Java Job Placement Program\n• Data Science / Data Jobs Program\n• Event videos (OCW, JavaOne, Gartner):\n• USA Today feature\n• Contact form: https://www.synergisticit.com/contact-us/\n\nSynergisticIT since 2010 has supported candidates in landing full-time roles at large employers (often citing examples such as Google, Apple, PayPal, Visa, Client, Western Union, Wells Fargo, Banking, Client, Client, Wayfair, and more), with offers commonly reported in the $95k–$154k range based on role and stack. Career changers tend to do especially well when they combine their domain knowledge (finance, healthcare, ops) with strong tech execution—because employers love candidates who understand both \"the business” and \"the build.”\nWhy career changers struggle\nBootcamps are often designed for speed, not depth. They compress learning, skip fundamentals, and push people into shallow projects. Then graduates face interviews where employers ask:\n• Can you explain your architecture choices?\n• Do you understand data structures and complexity?\n• Can you debug under pressure?\n• Can you design APIs and handle edge cases?\n• Can you write SQL and interpret data correctly?\nCareer changers can absolutely win—if they're trained the right way. That's why SynergisticIT emphasizes deep skill-building aligned to interviews and production expectations, plus structured job placement support.\nA practical view of what roles are hiring (and what SynergisticIT focuses on)\nCareer changers often ask, \"Which roles should I target?” A realistic and employable set includes:\n• Entry-level software programming roles (backend or full stack)\n• Java full stack development roles (often enterprise-friendly)\n• Python/Java developer roles (broad compatibility)\n• DevOps/Cloud automation roles\n• Data roles: Data Analyst, BI Analyst, Data Engineer, Data Scientist\n• ML/AI Engineer roles (when supported by solid fundamentals)\nWho this program is often ideal for\nCareer switchers tend to be a strong fit if they match any of these:\n• Professionals changing careers into tech who need structure and speed\n• Candidates who completed Udemy/Coursera/university bootcamps but still can't land interviews\n• People who can learn quickly but need real portfolio and interview readiness\n• Candidates with gaps, layoffs, or non-traditional resumes\n• International candidates navigating OPT/STEM timelines\nSynergisticIT candidates (often around 30%) join after trying other bootcamps or online courses and still not getting hired—because most programs optimize for \"learning completion,” not job placement execution.\nYour career-change advantage\nIf you've worked in another industry, you bring:\n• Business context (why the software matters)\n• Communication (working across teams)\n• Reliability (showing up, delivering)\n• Problem solving (real deadlines, real constraints)\nYour missing piece is usually: technical depth, modern tools, and interview confidence. That's where a job-placement-first pathway becomes the difference between \"I'm learning” and \"I'm employed.”\nIf you're serious about switching into tech, don't do it alone and don't do it randomly. Build a plan and follow it with support.\nCareer change truth: You don't have to start over—you have to start correctly. In tech, success isn't only about what you know; it's about how you build your profile and who guides your journey.\n\nRemote\n\nAbout the Company:\nSynergistic it",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "24ff99767edec1ced1d70cf66e12949248605699e36cf1697af645de8e81952d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-23T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-jobsultant-solutions-yvpfgfrffp85a5tqaaaaaa==",
+    "job_title": "Data Analyst - Entry Level (Remote)",
+    "employer_name": "Jobsultant Solutions",
+    "job_city": "Charlotte",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/30vrATe8fuKVJhmTCjpDWp",
+    "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
+    "job_description": "Position Overview\n\nData Analyst - Entry Level (Remote). We are looking for the right people who want to innovate, achieve, grow and lead. We attract and retain the best talent by investing in our employees and empowering them to develop themselves and their careers. Experience the challenges, rewards and opportunity of working for one of the world's largest providers of products and services to the global energy industry.\n\nKey Responsibilities\n• Perform data engineering, data modeling and model deployment under general supervision.\n• Analyze large scale complex business data (time series data, structured/unstructured) from various data sources and draw insights.\n• Leverage common open-source Machine Learning/Deep Learning packages for identifying data patterns and/or building predictive models.\n• Conduct statistical analysis to determine trends and significant data relationships.\n• Keep up to date with the latest Machine Learning and Artificial Intelligence advancements.\n• Work with data engineers to design and construct data pipelines for reproducible analysis.\n• Leverage cloud computing technologies like Microsoft Azure and distributed computing technologies like Apache Spark.\n• Present results of analyses, including design of graphs, charts, tables, and other data visualizations.\n\nRequired Qualifications\n• Industry experience in predictive modeling, data science and analysis.\n• Knowledge of Machine Learning frameworks and packages, including Keras, TensorFlow, Scikit-Learn and cloud computing platforms like Azure.\n• Experience handling terabyte size datasets, diving into data to discover hidden patterns and using data visualization tools.\n• Experience writing code in Python, R, Scala, and distributed computing technologies like Spark.\n• Demonstrated teamwork, strong communication skills, and collaboration in complex engineering projects.\n• Completion of an undergraduate degree in STEM.\n\nPreferred Qualifications\n• Master's degree in STEM is preferred.\n• Candidates with qualifications exceeding the minimum requirements will be considered for higher level roles.",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "1d33e24026d68e28227ff3577057ef86dfae16f0dcafcd0cc9cc816eee55c8c3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-23T00:00:00.000Z"
+  },
+  {
     "job_id": "js-capgemini-eocu21uzryvlf0iiaaaaaa==",
     "job_title": "Entry Level- Data Scientist- ML -GenAI Engineer (5 of 6 positions)",
     "employer_name": "Capgemini",
@@ -3198,65 +3286,6 @@
         "on_site"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-23T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-synergistic-it-egkxbtam4sjoe0kqaaaaaa==",
-    "job_title": "Remote Data Scientist/Analyst (Entry/Junior Level)",
-    "employer_name": "Synergistic it",
-    "job_city": "Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://www.monster.com/job-openings/remote-data-scientist-analyst-entry-junior-level-washington-dc--da2dd95e-f8ba-454d-801f-06a952ed30aa?mstr_dist=true&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
-    "job_description": "Switch Careers Without Starting Over.\nIf you're coming from business, healthcare, education, operations, retail, QA, finance, or project management and you're thinking, \"I want tech, but I'm not sure I belong,” you're already closer than you think. Career changers often bring advantages that traditional grads don't: real-world accountability, communication skills, stakeholder awareness, and the ability to execute under pressure. What usually holds career changers back isn't intelligence—it's the lack of a structured path that converts potential into hire-ready proof.\nSynergisticIT is a unique blend of software development, specialized staffing, and an industry driven tech bootcamp. Since 2010, we've been dedicated to bridging the gap between top-tier companies and highly skilled tech professionals. Our dual focus allows us to support clients with exceptional talent in Java, Data Science, AI, and Data Engineering, while also helping jobseekers strengthen their expertise through targeted upskilling. Over the years, we've helped candidates secure roles at leading organizations such as Visa, Client, PayPal, Apple, Wayfair, Yum Brands, and hundreds of other innovative companies across the United States.\n\nWe're actively considering candidates for full-time client roles across software and data: entry-level programming, Java full stack, Java/Python development, DevOps automation, and data tracks (analytics, engineering, science, ML/AI). Our core focus remains Java/Full Stack/DevOps and Data/Analytics/Engineering/ML.\n\nThat's why a job oriented approach matters far more than a training-only course. Most bootcamps teach you concepts and then leave you to \"figure it out.” Career changers don't need more uncertainty—they need a program built around outcomes: strong foundational training, portfolio development, interview coaching, and job placement execution. SynergisticIT's Job Placement Program (JOPP) is a placement-first model designed to bridge that gap.\nIf you want to explore the program directly, here are the key links:\n• Job Placement Program (JOPP):\n• Java Job Placement Program\n• Data Science / Data Jobs Program\n• Event videos (OCW, JavaOne, Gartner):\n• USA Today feature\n• Contact form: https://www.synergisticit.com/contact-us/\n\nSynergisticIT since 2010 has supported candidates in landing full-time roles at large employers (often citing examples such as Google, Apple, PayPal, Visa, Client, Western Union, Wells Fargo, Banking, Client, Client, Wayfair, and more), with offers commonly reported in the $95k–$154k range based on role and stack. Career changers tend to do especially well when they combine their domain knowledge (finance, healthcare, ops) with strong tech execution—because employers love candidates who understand both \"the business” and \"the build.”\nWhy career changers struggle\nBootcamps are often designed for speed, not depth. They compress learning, skip fundamentals, and push people into shallow projects. Then graduates face interviews where employers ask:\n• Can you explain your architecture choices?\n• Do you understand data structures and complexity?\n• Can you debug under pressure?\n• Can you design APIs and handle edge cases?\n• Can you write SQL and interpret data correctly?\nCareer changers can absolutely win—if they're trained the right way. That's why SynergisticIT emphasizes deep skill-building aligned to interviews and production expectations, plus structured job placement support.\nA practical view of what roles are hiring (and what SynergisticIT focuses on)\nCareer changers often ask, \"Which roles should I target?” A realistic and employable set includes:\n• Entry-level software programming roles (backend or full stack)\n• Java full stack development roles (often enterprise-friendly)\n• Python/Java developer roles (broad compatibility)\n• DevOps/Cloud automation roles\n• Data roles: Data Analyst, BI Analyst, Data Engineer, Data Scientist\n• ML/AI Engineer roles (when supported by solid fundamentals)\nWho this program is often ideal for\nCareer switchers tend to be a strong fit if they match any of these:\n• Professionals changing careers into tech who need structure and speed\n• Candidates who completed Udemy/Coursera/university bootcamps but still can't land interviews\n• People who can learn quickly but need real portfolio and interview readiness\n• Candidates with gaps, layoffs, or non-traditional resumes\n• International candidates navigating OPT/STEM timelines\nSynergisticIT candidates (often around 30%) join after trying other bootcamps or online courses and still not getting hired—because most programs optimize for \"learning completion,” not job placement execution.\nYour career-change advantage\nIf you've worked in another industry, you bring:\n• Business context (why the software matters)\n• Communication (working across teams)\n• Reliability (showing up, delivering)\n• Problem solving (real deadlines, real constraints)\nYour missing piece is usually: technical depth, modern tools, and interview confidence. That's where a job-placement-first pathway becomes the difference between \"I'm learning” and \"I'm employed.”\nIf you're serious about switching into tech, don't do it alone and don't do it randomly. Build a plan and follow it with support.\nCareer change truth: You don't have to start over—you have to start correctly. In tech, success isn't only about what you know; it's about how you build your profile and who guides your journey.\n\nRemote\n\nAbout the Company:\nSynergistic it",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "24ff99767edec1ced1d70cf66e12949248605699e36cf1697af645de8e81952d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-23T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-jobsultant-solutions-yvpfgfrffp85a5tqaaaaaa==",
-    "job_title": "Data Analyst - Entry Level (Remote)",
-    "employer_name": "Jobsultant Solutions",
-    "job_city": "Charlotte",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/30vrATe8fuKVJhmTCjpDWp?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
-    "job_description": "Position Overview\n\nData Analyst - Entry Level (Remote). We are looking for the right people who want to innovate, achieve, grow and lead. We attract and retain the best talent by investing in our employees and empowering them to develop themselves and their careers. Experience the challenges, rewards and opportunity of working for one of the world's largest providers of products and services to the global energy industry.\n\nKey Responsibilities\n• Perform data engineering, data modeling and model deployment under general supervision.\n• Analyze large scale complex business data (time series data, structured/unstructured) from various data sources and draw insights.\n• Leverage common open-source Machine Learning/Deep Learning packages for identifying data patterns and/or building predictive models.\n• Conduct statistical analysis to determine trends and significant data relationships.\n• Keep up to date with the latest Machine Learning and Artificial Intelligence advancements.\n• Work with data engineers to design and construct data pipelines for reproducible analysis.\n• Leverage cloud computing technologies like Microsoft Azure and distributed computing technologies like Apache Spark.\n• Present results of analyses, including design of graphs, charts, tables, and other data visualizations.\n\nRequired Qualifications\n• Industry experience in predictive modeling, data science and analysis.\n• Knowledge of Machine Learning frameworks and packages, including Keras, TensorFlow, Scikit-Learn and cloud computing platforms like Azure.\n• Experience handling terabyte size datasets, diving into data to discover hidden patterns and using data visualization tools.\n• Experience writing code in Python, R, Scala, and distributed computing technologies like Spark.\n• Demonstrated teamwork, strong communication skills, and collaboration in complex engineering projects.\n• Completion of an undergraduate degree in STEM.\n\nPreferred Qualifications\n• Master's degree in STEM is preferred.\n• Candidates with qualifications exceeding the minimum requirements will be considered for higher level roles.",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "1d33e24026d68e28227ff3577057ef86dfae16f0dcafcd0cc9cc816eee55c8c3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -3414,35 +3443,6 @@
     "job_posted_at": "2026-02-23T00:00:00.000Z"
   },
   {
-    "job_id": "js-virtualvocations-vyf0yvyqmpgngnkcaaaaaa==",
-    "job_title": "Entry-Level Data Analyst",
-    "employer_name": "VirtualVocations",
-    "job_city": "Greensboro",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.talent.com/view?id=534716600025221829&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
-    "job_description": "A company is looking for a Data Analyst (Entry-Level / Early Career) Self Employed.\n\nKey Responsibilities\n\nCollect and accurately enter data from various internal and external sources into the CRM system\n\nMonitor progress and support routine reporting and data summaries\n\nOrganize collected data within a structured internal database while ensuring data integrity and compliance with GDPR\n\nRequired Qualifications\n\nA degree in a relevant discipline is beneficial but not required\n\n0-4 years of experience, including those seeking their first professional role\n\nIntermediate Excel skills (sorting, filtering, formulas, VLOOKUP / XLOOKUP, pivot tables)\n\nAbility to effectively communicate in Czech and English\n\nProfessional demeanor with a positive, problem-solving mindset",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "b4b853a02c4eb231c26a9adec117563c815bfe59982706518d955fb6d4a3216a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-23T00:00:00.000Z"
-  },
-  {
     "job_id": "js-quora-g-sbik6ez7imj8ikaaaaaa==",
     "job_title": "[Remote] AI Engineer New Grad 2025-2026 - Poe (Remote)",
     "employer_name": "Quora",
@@ -3506,6 +3506,93 @@
     "job_posted_at": "2026-02-23T00:00:00.000Z"
   },
   {
+    "job_id": "js-virtualvocations-vyf0yvyqmpgngnkcaaaaaa==",
+    "job_title": "Entry-Level Data Analyst",
+    "employer_name": "VirtualVocations",
+    "job_city": "Greensboro",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.talent.com/view?id=534716600025221829",
+    "job_posted_at_datetime_utc": "2026-02-22T00:00:00.000Z",
+    "job_description": "A company is looking for a Data Analyst (Entry-Level / Early Career) Self Employed.\n\nKey Responsibilities\n\nCollect and accurately enter data from various internal and external sources into the CRM system\n\nMonitor progress and support routine reporting and data summaries\n\nOrganize collected data within a structured internal database while ensuring data integrity and compliance with GDPR\n\nRequired Qualifications\n\nA degree in a relevant discipline is beneficial but not required\n\n0-4 years of experience, including those seeking their first professional role\n\nIntermediate Excel skills (sorting, filtering, formulas, VLOOKUP / XLOOKUP, pivot tables)\n\nAbility to effectively communicate in Czech and English\n\nProfessional demeanor with a positive, problem-solving mindset",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "b4b853a02c4eb231c26a9adec117563c815bfe59982706518d955fb6d4a3216a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-virtualvocations-btnav1lfgmi3yl0faaaaaa==",
+    "job_title": "Entry-Level Data Analyst",
+    "employer_name": "VirtualVocations",
+    "job_city": "Canton",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.talent.com/view?id=607898427301368109",
+    "job_posted_at_datetime_utc": "2026-02-22T00:00:00.000Z",
+    "job_description": "A company is looking for a Data Analyst (Entry-Level / Early Career) Self Employed.\n\nKey Responsibilities\n\nCollect and accurately enter data from various internal and external sources into the CRM system\n\nMonitor progress and support routine reporting and data summaries\n\nOrganize collected data within a structured internal database while ensuring data integrity and compliance with GDPR\n\nRequired Qualifications\n\nA degree in a relevant discipline is beneficial but not required\n\n0-4 years of experience, including those seeking their first professional role\n\nIntermediate Excel skills (sorting, filtering, formulas, VLOOKUP / XLOOKUP, pivot tables)\n\nAbility to effectively communicate in Czech and English\n\nProfessional demeanor with a positive, problem-solving mindset",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "b9152f41e85b3d775f916a8e341ea5ac13631c45e85f900b20082b9069fd5a16",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-22T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-virtualvocations-xnqy6cn122l7-ul1aaaaaa==",
+    "job_title": "Entry-Level Data Analyst",
+    "employer_name": "VirtualVocations",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.talent.com/view?id=534716615309462213",
+    "job_posted_at_datetime_utc": "2026-02-22T00:00:00.000Z",
+    "job_description": "A company is looking for a Data Analyst (Entry-Level / Early Career) Self Employed in Czechia.\n\nKey Responsibilities\n\nGather information from public sources and maintain accurate records\n\nSupport internal communication while following established processes\n\nContribute to team objectives and participate in ongoing projects\n\nRequired Qualifications\n\nStrong proficiency in Czech and good command of English\n\nGood computer literacy and ability to quickly learn new tools\n\nIntermediate Excel skills, including sorting, filtering, and using formulas\n\nNo degree required; suitable for candidates with 0-4 years of experience\n\nBackground in administrative work, market research, or customer service is ideal",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "0641ff469d90bb5c57c7421d31590c4f507fc0fda2edc73744d6e30ecf6a4e22",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-22T00:00:00.000Z"
+  },
+  {
     "job_id": "js-orcaworks-build-your-digital-coworker-crwh-f6iref6nsnsaaaaaa==",
     "job_title": "Applied AI/ML Engineer (Entry Level) — Build & Deploy AI",
     "employer_name": "Orcaworks | Build Your Digital Coworker",
@@ -3548,64 +3635,6 @@
     "job_description": "A company is looking for a Data Analyst (Entry-Level / Early Career) Self Employed.\n\nKey Responsibilities\n\nCollect and accurately enter data from various internal and external sources into the CRM system\n\nMonitor progress and support routine reporting and data summaries\n\nOrganize collected data within a structured internal database while ensuring data integrity and compliance with GDPR\n\nRequired Qualifications\n\nA degree in a relevant discipline is beneficial but not required\n\n0-4 years of experience, including those seeking their first professional role\n\nIntermediate Excel skills (sorting, filtering, formulas, VLOOKUP / XLOOKUP, pivot tables)\n\nAbility to effectively communicate in Czech and English\n\nProfessional demeanor with a positive, problem-solving mindset",
     "job_employment_type": "FULL-TIME",
     "fingerprint": "75e26670523410ff10714e0484d27f053ad9d0bf8dec1776d78a214f1ec399c5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-22T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-virtualvocations-btnav1lfgmi3yl0faaaaaa==",
-    "job_title": "Entry-Level Data Analyst",
-    "employer_name": "VirtualVocations",
-    "job_city": "Canton",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.talent.com/view?id=607898427301368109&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-22T00:00:00.000Z",
-    "job_description": "A company is looking for a Data Analyst (Entry-Level / Early Career) Self Employed.\n\nKey Responsibilities\n\nCollect and accurately enter data from various internal and external sources into the CRM system\n\nMonitor progress and support routine reporting and data summaries\n\nOrganize collected data within a structured internal database while ensuring data integrity and compliance with GDPR\n\nRequired Qualifications\n\nA degree in a relevant discipline is beneficial but not required\n\n0-4 years of experience, including those seeking their first professional role\n\nIntermediate Excel skills (sorting, filtering, formulas, VLOOKUP / XLOOKUP, pivot tables)\n\nAbility to effectively communicate in Czech and English\n\nProfessional demeanor with a positive, problem-solving mindset",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "b9152f41e85b3d775f916a8e341ea5ac13631c45e85f900b20082b9069fd5a16",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-22T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-virtualvocations-xnqy6cn122l7-ul1aaaaaa==",
-    "job_title": "Entry-Level Data Analyst",
-    "employer_name": "VirtualVocations",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.talent.com/view?id=534716615309462213&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-22T00:00:00.000Z",
-    "job_description": "A company is looking for a Data Analyst (Entry-Level / Early Career) Self Employed in Czechia.\n\nKey Responsibilities\n\nGather information from public sources and maintain accurate records\n\nSupport internal communication while following established processes\n\nContribute to team objectives and participate in ongoing projects\n\nRequired Qualifications\n\nStrong proficiency in Czech and good command of English\n\nGood computer literacy and ability to quickly learn new tools\n\nIntermediate Excel skills, including sorting, filtering, and using formulas\n\nNo degree required; suitable for candidates with 0-4 years of experience\n\nBackground in administrative work, market research, or customer service is ideal",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "0641ff469d90bb5c57c7421d31590c4f507fc0fda2edc73744d6e30ecf6a4e22",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4682,7 +4711,7 @@
     "job_is_remote": false,
     "job_apply_link": "https://jobs.ashbyhq.com/notion/4bbfad88-0830-46c5-8d05-d95d17d583ca/application",
     "job_posted_at_datetime_utc": "2026-02-20T19:09:58.966+00:00",
-    "job_description": "ABOUT US:\n\nNotion helps you build beautiful tools for your life's work. In today's world of endless apps and tabs, Notion provides one place for teams to get everything done, seamlessly connecting docs, notes, projects, calendar, and email—with AI built in to find answers and automate work. Millions of users, from individuals to large organizations like Toyota, Figma, and OpenAI, love Notion for its flexibility and choose it because it helps them save time and money.\n\nIn-person collaboration is essential to Notion's culture. We require all team members to work from our offices on Mondays, Tuesdays, and Thursdays, our designated Anchor Days. Certain teams or positions may require additional in-office workdays.\n\n\nABOUT THE ROLE:\n\nYou'll own the quality bar for Notion AI products. You’ll work with product and engineering teams to build systems to define what “good” looks like, measure our progress, and drive changes to deliver reliable and high-quality AI experiences. Your work directly shapes how Notion's AI products behave for millions of users.\n\nThis isn't a traditional software engineering role. It’s an art & science role. You won't spend your days writing code. Instead, you'll focus on understanding and shaping how our AI products behave through context engineering, designing evaluation systems, and analyzing data. This team sits in our AI engineering team, working directly with engineering, product, design, and data.\n\nThis role is a unique blend of ops, strategy, and product thinking. Day to day, you'll live in production data, ship prompt fixes, run evals and, in effect, shape our quality strategy. As part of that you'll shape Notion's model strategy and work directly with frontier AI labs (OpenAI, Anthropic, Google) to evaluate and launch new models.\n\nWe're looking for problem-seeking generalists interested in 0 → 1: curious people with high agency who thrive in ambiguous, fast-moving product areas. We're building a product, but also building a new function. You'll have real ownership from day one and help write the playbook as we scale.\n\n\nWHAT YOU'LL ACHIEVE:\n\n - Context engineering — Design, test, and iterate on system prompts, tool prompts, and context strategies that shape how Notion's AI products behave. Understand the nuances of how models respond to different context structures and use that knowledge to drive quality improvements directly.\n\n - Understand & debug — Live in production data: transcripts, logs, user feedback. Reproduce issues, identify root causes, and translate symptoms into actionable problem statements. Find signal in noisy data.\n\n - Build evals & Measurement — Design eval strategies, build datasets, run evaluations. Track quality over time. Identify issues before users do. Own the loop: define quality goals, create evals, test and improve\n\n - Evaluate and launch new models with leading research labs �� Evaluate and launch models from OpenAI, Anthropic, Google, and others. Benchmark across dimensions: quality, latency, cost, edge cases. Help shape Notion's model strategy based on real data.\n\n - Drive quality priorities — Work embedded with eng and product teams to surface the most important issues. Own the quality narrative: severity, frequency, what to fix and why. Be the voice of quality in the room.\n\n - Build tooling & systems — Help manage AI observability and eval platforms (e.g., Braintrust). Build the playbooks and tools that enable all teams at Notion to build AI products.\n\n\nSKILLS YOU’LL NEED TO BRING:\n\n - Driver mentality — You treat problems as yours. If something's broken, it's your job to fix it, even if you didn't cause it. You have a bias to action.\n\n - Curiosity －You’re excited about exploring the “jagged frontier” of LLM capabilities and how AI products meet reality\n\n - Analytical instinct — Your first move is to look at data. You can find signal in noise.\n\n - Comfortable working with data — You can self-serve insights from large datasets, whether through SQL, coding agents, or other tools.\n\n - Clear communication — You can explain complex issues simply.\n\n - Experience with LLMs, prompting, or AI products\n   \n   \n\n\nNICE TO HAVE'S:\n\n - Backgrounds in engineering, product, data science, research, consulting\n\n - You've built something on your own to solve a problem — side project, startup, tool, whatever\n\nWe hire talented and passionate people from a variety of backgrounds because we want our global employee base to represent the wide diversity of our customers. If you’re excited about a role but your past experience doesn’t align perfectly with every bullet point listed in the job description, we still encourage you to apply. If you’re a builder at heart, share our company values, and enthusiastic about making software toolmaking ubiquitous, we want to hear from you.\n\nNotion is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Notion considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Notion is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please let your recruiter know.\n\nNotion is committed to providing highly competitive cash compensation, equity, and benefits. The compensation offered for this role will be based on multiple factors such as location, the role’s scope and complexity, and the candidate’s experience and expertise, and may vary from the range provided below. For roles based in San Francisco or New York City, the estimated base salary range for this role is $98,000 - $140,000 per year.\n\nBy clicking \"Submit Application\", I understand and agree that Notion and its affiliates and subsidiaries will collect and process my information in accordance with Notion's Global Recruiting Privacy Policy https://notion.notion.site/Notion-Global-Recruiting-Privacy-Policy-fc3eb4e829354a26a2bb6fd5e289b550?pvs=74 and NYLL 144 https://notion.notion.site/Ashby-AI-Bias-Audit-2b0efdeead05803bbbfae159ec86c528.\n\n#LI-Onsite",
+    "job_description": "ABOUT US:\n\nNotion helps you build beautiful tools for your life's work. In today's world of endless apps and tabs, Notion provides one place for teams to get everything done, seamlessly connecting docs, notes, projects, calendar, and email—with AI built in to find answers and automate work. Millions of users, from individuals to large organizations like Toyota, Figma, and OpenAI, love Notion for its flexibility and choose it because it helps them save time and money.\n\nIn-person collaboration is essential to Notion's culture. We require all team members to work from our offices on Mondays, Tuesdays, and Thursdays, our designated Anchor Days. Certain teams or positions may require additional in-office workdays.\n\n\nABOUT THE ROLE:\n\nYou'll own the quality bar for Notion AI products. You’ll work with product and engineering teams to build systems to define what “good” looks like, measure our progress, and drive changes to deliver reliable and high-quality AI experiences. Your work directly shapes how Notion's AI products behave for millions of users.\n\nThis isn't a traditional software engineering role. It’s an art & science role. You won't spend your days writing code. Instead, you'll focus on understanding and shaping how our AI products behave through context engineering, designing evaluation systems, and analyzing data. This team sits in our AI engineering team, working directly with engineering, product, design, and data.\n\nThis role is a unique blend of ops, strategy, and product thinking. Day to day, you'll live in production data, ship prompt fixes, run evals and, in effect, shape our quality strategy. As part of that you'll shape Notion's model strategy and work directly with frontier AI labs (OpenAI, Anthropic, Google) to evaluate and launch new models.\n\nWe're looking for problem-seeking generalists interested in 0 → 1: curious people with high agency who thrive in ambiguous, fast-moving product areas. We're building a product, but also building a new function. You'll have real ownership from day one and help write the playbook as we scale.\n\n\nWHAT YOU'LL ACHIEVE:\n\n - Context engineering — Design, test, and iterate on system prompts, tool prompts, and context strategies that shape how Notion's AI products behave. Understand the nuances of how models respond to different context structures and use that knowledge to drive quality improvements directly.\n\n - Understand & debug — Live in production data: transcripts, logs, user feedback. Reproduce issues, identify root causes, and translate symptoms into actionable problem statements. Find signal in noisy data.\n\n - Build evals & Measurement — Design eval strategies, build datasets, run evaluations. Track quality over time. Identify issues before users do. Own the loop: define quality goals, create evals, test and improve\n\n - Evaluate and launch new models with leading research labs — Evaluate and launch models from OpenAI, Anthropic, Google, and others. Benchmark across dimensions: quality, latency, cost, edge cases. Help shape Notion's model strategy based on real data.\n\n - Drive quality priorities — Work embedded with eng and product teams to surface the most important issues. Own the quality narrative: severity, frequency, what to fix and why. Be the voice of quality in the room.\n\n - Build tooling & systems — Help manage AI observability and eval platforms (e.g., Braintrust). Build the playbooks and tools that enable all teams at Notion to build AI products.\n\n\nSKILLS YOU’LL NEED TO BRING:\n\n - Driver mentality — You treat problems as yours. If something's broken, it's your job to fix it, even if you didn't cause it. You have a bias to action.\n\n - Curiosity －You’re excited about exploring the “jagged frontier” of LLM capabilities and how AI products meet reality\n\n - Analytical instinct — Your first move is to look at data. You can find signal in noise.\n\n - Comfortable working with data — You can self-serve insights from large datasets, whether through SQL, coding agents, or other tools.\n\n - Clear communication — You can explain complex issues simply.\n\n - Experience with LLMs, prompting, or AI products\n   \n   \n\n\nNICE TO HAVE'S:\n\n - Backgrounds in engineering, product, data science, research, consulting\n\n - You've built something on your own to solve a problem — side project, startup, tool, whatever\n\nWe hire talented and passionate people from a variety of backgrounds because we want our global employee base to represent the wide diversity of our customers. If you’re excited about a role but your past experience doesn’t align perfectly with every bullet point listed in the job description, we still encourage you to apply. If you’re a builder at heart, share our company values, and enthusiastic about making software toolmaking ubiquitous, we want to hear from you.\n\nNotion is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Notion considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Notion is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please let your recruiter know.\n\nNotion is committed to providing highly competitive cash compensation, equity, and benefits. The compensation offered for this role will be based on multiple factors such as location, the role’s scope and complexity, and the candidate’s experience and expertise, and may vary from the range provided below. For roles based in San Francisco or New York City, the estimated base salary range for this role is $98,000 - $140,000 per year.\n\nBy clicking \"Submit Application\", I understand and agree that Notion and its affiliates and subsidiaries will collect and process my information in accordance with Notion's Global Recruiting Privacy Policy https://notion.notion.site/Notion-Global-Recruiting-Privacy-Policy-fc3eb4e829354a26a2bb6fd5e289b550?pvs=74 and NYLL 144 https://notion.notion.site/Ashby-AI-Bias-Audit-2b0efdeead05803bbbfae159ec86c528.\n\n#LI-Onsite",
     "job_employment_type": "FULLTIME",
     "fingerprint": "51735521e5ebe5564564666fa85f18e7091e37f239dcacb999dec4c3035a579e",
     "tags": {
