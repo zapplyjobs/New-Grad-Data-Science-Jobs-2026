@@ -275,7 +275,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://www.linkedin.com/jobs/view/azure-databricks-engineer-at-smart-it-frame-llc-4377936037?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-27T16:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-02-27T15:00:00.000Z",
     "job_description": "Azure Databricks Engineer\n\nDecatur, Illinois Onsite\n\nWe are looking for a Data Replication Specialist with expertise in Microsoft Fabric and Databricks Lake flow connect to design implement and manage data replication and synchronization solutions across multiple data environments The ideal candidate will ensure that business critical data is consistently available accurate and up to date across systems for analytics reporting and operational needs\n\nKey Responsibilities\n\nDesign and implement data replication strategies using Microsoft Fabric Copy Data and Mirroring features\n\nConfigure and maintain replication pipelines between on-premises and cloud-based data sources e.g. SQL Server Azure SQL Synapse Data Lake Power BI Monitor and optimize replication performance latency and reliability\n\nTroubleshoot replication failures data drift and synchronization issues\n\nDevelop and maintain automation scripts for replication monitoring and alerting using PowerShell Python or REST APIs Document replication architectures data flow diagrams and operational procedures\n\nImplement security compliance and data governance standards within replicated environments\n\nStay updated on Microsoft Fabric enhancements and best practices for data replication and integration\n\nDesign develop and maintain data ingestion pipelines using Databricks and Lake flow\n\nConnect Integrate data from various structured and unstructured sources into Delta Lake and other data storage systems\n\nStay up to date with emerging Databricks Lakehouse and data integration technologies and best practices\n\nRequired Qualifications\n\nBachelors or Master's degree in Computer Science Information Systems Data Engineering or a related field\n\n4 years of experience in data engineering or ETL development\n\nHandson experience with Databricks SQL PySpark Delta Lake Proficiency with Lake flow\n\nConnect for building and managing data ingestion workflows Strong understanding of data integration patterns data modelling and data Lakehouse architectures\n\nExperience with cloud platforms Azure AWS or GCP and associated data services\n\nKnowledge of CICD version control Git and infrastructure as code practices\n\nFamiliarity with data governance security and compliance standards\n\nRequired Skills\n\nQualifications\n\nBachelor's degree in computer science information systems or related field\n\nExperience in data replication ETLELT or data integration\n\nHandson experience with Microsoft Fabric Azure Data Factory or Synapse Pipelines\n\nStrong understanding of Copy Data and Mirroring capabilities in Microsoft Fabric\n\nProficiency in SQL and scripting languages PowerShell Python\n\nExperience working with Azure Data Lake One Lake and Power BI Knowledge of change data capture CDC incremental loads and Realtime replication",
     "job_employment_type": "CONTRACTOR",
     "fingerprint": "79334a39b4f151714fc12c7e4a39c470286eef1dfbd9b91efd836002cd00156c",
@@ -293,7 +293,7 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
-    "job_posted_at": "2026-02-27T16:00:00.000Z"
+    "job_posted_at": "2026-02-27T15:00:00.000Z"
   },
   {
     "job_id": "greenhouse-hubspotjobs-7358191",
@@ -2124,6 +2124,96 @@
     "job_posted_at": "2026-02-24T20:08:48-05:00"
   },
   {
+    "job_id": "js-new-york-city-d6m6qzxn2si2chbkaaaaaa==",
+    "job_title": "Junior IT Services Engineer",
+    "employer_name": "New York City",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cityjobs.nyc.gov/job/junior-it-services-engineer-in-manhattan-jid-40968?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-25T00:00:00.000Z",
+    "job_description": "DISCLAIMER:\nAuthorization to work in the United States is required for this position. The NYC Department of City Planning does not offer sponsorship, of any kind, for any type of employment opportunity. Applicants are responsible for ensuring that they meet all minimum qualifying requirements for this position at the time of application.\n\nTHE AGENCY\nThe Department of City Planning (DCP) plans for the future of New York City, working to create thriving and dynamic neighborhoods with access to housing and jobs, resilient infrastructure, and a vibrant public realm. The Department engages communities to develop inclusive plans, expands housing access and economic opportunity, and plans for long-term sustainability.\n\nDCP supports the City Planning Commission in its annual review of hundreds of land use applications. The Department also advises on citywide strategic and capital planning, analyzes data, conducts policy analysis, and creates open data and civic engagement tools.\n\nThe Department of City Planning offers staff meaningful opportunities to help shape the future of New York City and address some of its most pressing challenges. The Department values public service, collaboration, and creativity, and supports professional development. Learn more about DCP and view current job openings at www.nyc.gov/planning.\n\nTHE DIVISION\nInformation Technology Division’s (ITD) vision is to become a dynamic and vibrant technology delivery organization of the New York City government that leads business transformations and technology innovations to enable citizen-centric smart urban planning, while promoting a culture of collaboration, talent development, and equity. ITD is responsible for developing technology solutions to support agency needs and citywide requests, including City Charter mandates, grant funding requirements, and citywide geospatial services, and maintaining systems infrastructure and endpoint assets, to optimize operational efficiency, promote innovation, and collaborate with other city agencies to enhance service accessibility to citizens. The division provides necessary computing infrastructure and productivity-enhancing technology tools in a hybrid mode (on premise and in the cloud), to support DCP’s interdisciplinary staff across five boroughs, including planners, urban designers, project managers, and executive management. The division is comprised of experienced and talented software engineers, geographic specialists, service engineers, and technology leaders who specialize in managing system infrastructure, cyber security, geospatial data engineering, application services, and portfolio management.\n\nWithin ITD, the Technical Support Management (TSM) unit is responsible for ensuring customer success by providing excellent Help Desk services, deploying, and maintaining endpoint devices such as workstations, laptops, phones, video conference systems, and peripheral devices, and performing inventory and asset management. The unit plays the crucial role of being the face of the IT Division, and employs a customer-centric and solution-oriented approach on prioritizing and resolving technical issues promptly and efficiently, by troubleshooting hardware and software problems, network connectivity issues, system errors, and user provisioning, while employing proactive measures on preventive maintenance, customer education, feedback integration, and constant improvement of support processes, and building awareness on cybersecurity best practices for endpoint security. TSM is also responsible for the support and management of the agency’s mission critical audio/video infrastructure.\n\nTHE ROLE\nThe ITD TSM unit is seeking a talented and versatile Junior IT Services Engineer to join its team of dedicated IT Services Engineers to assist with IT Support, technology asset management, and inventory control. Under supervision and general direction, the Junior IT Services Engineer’s responsibilities include, but may not be limited to:\n\n- Conducts the configuration, troubleshooting, and repair of desktop, laptop, and Apple equipment as directed by a member of the Technical Support Management (TSM) team.\n- Conducts the deployment of Laptops, Desktops, and peripheral devices to staff as directed by a member of the Technical Support Management (TSM) team.\n- Performs imaging of desktop and laptop devices as directed by a member of the Technical Support Management (TSM) team.\n- Performs the installation of software applications as directed by a member of the Technical Support Management (TSM) team.\n- Assists with software patch deployment to the Windows, MacOS, iOS and Android endpoint platforms as directed by a member of the Technical Support Management (TSM) team.\n- Provide Meeting Room Technology support for staff.\n- Perform Asset Management tasks as directed by a member of the Technical Support Management (TSM) team.\n- Provides software troubleshooting and resolutions.\n- Assists with the relinquishment of retired IT assets as directed by a member of the Technical Support Management (TSM) team.\n- Provides Audio/Video support for the DCP public engagements as directed by a member of the TSM Support Management (TSM) team.\n- Other duties and responsibilities as required.\n\nTO APPLY:\nPlease visit: https://cityjobs.nyc.gov/ and follow the steps below:\n\n1. Search for job ID number: 770668\n2. Click on the job business title: Junior IT Services Engineer\n3. Click on “Apply Now” at the bottom of the posting\n\nNote: All interested candidates must submit their applications via cityjobs.nyc.gov Applications via regular mail, fax or e-mail will not be accepted.\n\nAuthorization to work in the United States is required for this position. The NYC Department of City Planning does not offer sponsorship, of any kind, for any type of employment opportunity. Applicants are responsible for ensuring that they meet all minimum qualifying requirements for this position at the time of application.\n\nOnly applicants under consideration will be contacted. Appointments are subject to Office of Management and Budget (OMB) approval.\n\nThe City of New York is an inclusive equal opportunity employer committed to recruiting and retaining a diverse workforce and providing a work environment that is free from discrimination and harassment based upon any legally protected status or protected characteristic, including but not limited to an individual's sex, race, color, ethnicity, national origin, age, religion, disability, sexual orientation, veteran status, gender identity, or pregnancy.\n\nThis position may be eligible for remote work up to 2 days per week, pursuant to the Remote Work Pilot Program agreed to between the City and labor unions.\n\nNOTE: If you would like to request a reasonable accommodation during your visit or have questions regarding the accessibility of our facilities, please reach out to accessibilityinfo@planning.nyc.gov or call 212-720-3508 at least three business days prior to your arrival.\n\nIT SERVICE MANAGEMENT SPECIALI - 95713\n\nMinimum Qualifications\n\n1. A baccalaureate degree from an accredited college in computer science, engineering or a related field and four years of satisfactory full-time experience related to information technology service management, process management, operations;\n\n2. A baccalaureate degree from an accredited college and eight years of satisfactory full-time experience related to information technology service management, process management, operations;\n\n3. Education and/or experience which is equivalent to \"1\" or \"2\" above.\n\nPreferred Skills\n\n- One year of full-time desktop support experience in Windows and MacOS platforms.\n- One year of full-time experience supporting Dell Desktops and Laptops, HP Printers, iPhones, iPads and MacBooks.\n- One year of full-time experience with installing, troubleshooting and repair of the following software:\n+ Microsoft Windows 11\n+ Microsoft Office 365 - Outlook, Word, Excel, PowerPoint, OneDrive\n+ Microsoft Teams and Zoom Video Conferencing platforms\n+ ESRI and Adobe creative suite software applications\n- Intermediate experience with the IP Config commands and Windows registry.\n- Strong verbal communication skills.\n- Ability to work with a variety of personality types.\n- Experience working with inventory control is helpful but not necessary.\n- Ability to work well independently and in a group.\n- High level of professionalism and organizational skills.\n- Detail oriented, quick learner and the ability to adapt quickly and efficiently in a fast-paced environment.\n- Ability to lift computer equipment up to a weight of 50 pounds.\nPublic Service Loan Forgiveness\n\nAs a prospective employee of the City of New York, you may be eligible for federal loan forgiveness programs and state repayment assistance programs. For more information, please visit the U.S. Department of Education’s website at https://studentaid.gov/pslf/.\nResidency Requirement\n\nNew York City Residency is not required for this position\nAdditional Information\n\nThe City of New York is an inclusive equal opportunity employer committed to recruiting and retaining a diverse workforce and providing a work environment that is free from discrimination and harassment based upon any legally protected status or protected characteristic, including but not limited to an individual's sex, race, color, ethnicity, national origin, age, religion, disability, sexual orientation, veteran status, gender identity, or pregnancy.",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "222849d31ed7a4c067622f1c6368a14492387e09ed50303801a548b48900a1cb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-25T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-huntington-ingalls-industries-nfgpnnhgbp9ezwcdaaaaaa==",
+    "job_title": "Software Engineer - 27272 | Syracuse, NY, USA",
+    "employer_name": "Huntington Ingalls Industries",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.efinancialcareers.com/jobs-USA-NY-Syracuse-Software_Engineer_-_27272.id23877102?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-25T00:00:00.000Z",
+    "job_description": "Software Engineer - 27272\n\nRequisition Number: 27272\n\nRequired Travel: 0 - 10%\n\nEmployment Type: Full Time/Salaried/Exempt\n\nAnticipated Salary Range: $82,325.00 - $115,000.00\n\nSecurity Clearance: Secret\n\nLevel of Experience: Entry Level\n\nThis opportunity resides with Warfare Systems (WS) , a business group within HII's Mission Technologies division. Warfare Systems comprises cyber and mission IT; electronic warfare; and C5ISR systems.\n\nHII works within our nation's intelligence and cyber operations communities to defend our interests in cyberspace and anticipate emerging threats. Our capabilities in cybersecurity, network architecture, reverse engineering, software and hardware development uniquely enable us to support sensitive missions for the U.S. military and federal agency partners.\n\nMeet HII's Mission Technologies Division\nOur team of more than 7,000 professionals worldwide delivers all-domain expertise and advanced technologies in service of mission partners across the globe. Mission Technologies is leading the next evolution of national defense - the data evolution - by accelerating a breadth of national security solutions for government and commercial customers. Our capabilities range from C5ISR, AI and Big Data, cyber operations and synthetic training environments to fleet sustainment, environmental remediation and the largest family of unmanned underwater vehicles in every class. Find the role that's right for you. Apply today. We look forward to meeting you.\n\nTo learn more about Mission Technologies, click here for a short video: https://vimeo.com/732533072\n\nJob Description\n\nHII, Mission Technologies is seeking self-motivated, talented Software Engineers to design, develop, and test command, control, and communications software for leading edge ISR, SDR, and EW DoD products. This position will be located in Syracuse, New York.\n\nCandidates will be expected to integrate into our multi-disciplinary teams to provide best-in-class solutions and products to a diverse customer baseline with a demanding and intriguing technical problem space. From high-level, self-hosted User Interface software and networking down to low-level Operating System or bare-metal software/drivers running on System-on-a-Chip CPUs/FPGAs/GPUs. HII offers an array of software development opportunities at all layers of the stack for rapid prototypes, new product design, and fielded hardware that protect and support the American warfighter and our nation's interests.\n\nEssential Job Responsibilities\n\n• Participate in all phases of software lifecycle, from requirements definition through design, development, integration, and test with minimal supervision.\n• Apply state-of-the-art programming techniques, software design best practices, and software technologies.\n• Analyze and modify software systems by reverse-engineering, architecting, coding, installing, testing, debugging, and documenting designs/APIs.\n• Stand up development environment and platform application environment from scratch.\n• Guide customers and systems engineers in formulating software requirements, advise on alternative approaches, and conduct feasibility studies, as required.\n• Prepare and communicate daily status information in accordance with required software development lifecycles.\n• Independently derive requirements into actionable tasks.\n• Follow all company policies and guidelines, including familiarity with company-wide software practices.\nMinimum Qualifications\n\n• 2 years relevant experience with Bachelors in related field; 0 years experience with Masters in related field; or High School Diploma or equivalent and 6 years relevant experience.\n• Proficient in various object-oriented and functional programming languages (e.g. Embedded C/C++, C/C++, C#, Java)\n• Proficient in common procedural/scripting languages and object definition files (Python, Bash, MATLAB, JavaScript, JSON, XML)\n• Proficient in industry-standard software documentation methods such as user stories, UML, Agile and supporting tools such as Doxygen, Bamboo, JIRA\n• Must be a U.S. citizen.\n• Clearance: Ability to obtain and maintain a secret government security clearance.\nPreferred Requirements\n\n• Currently hold a U.S. security clearance.\n• Experience in the DoD contractor space, especially maritime.\n• Experience in leading junior software engineers.\n• Strong background in embedded Linux kernels, filesystems, and custom device drivers.\n• Experience with communications and networking libraries in embedded Linux (e.g. networking stacks, Protocol Buffers/Protobuf/data serialization).\n• Passionate about protecting the American warfighter.\n• Experience with RF communication links and/or radio systems.\nPhysical Requirements\n\n• Adequate visual acuity and manual dexterity for meeting the requirements Software Engineer family.\nHII is more than a job - it's an opportunity to build a new future. We offer competitive benefits such as best-in-class medical, dental and vision plan choices; wellness resources; employee assistance programs; Savings Plan Options (401(k)); financial planning tools, life insurance; employee discounts; paid holidays and paid time off; tuition reimbursement; as well as early childhood and post-secondary education scholarships. Bonus/other non-recurrent compensation is occasionally offered for qualified positions, and if applicable to this role will be addressed by the recruiter at the screening phase of application.\n\nWhy HII\nWe build the world's most powerful, survivable naval ships and defense technology solutions that safeguard our seas, sky, land, space and cyber. Our workforce includes skilled tradespeople; artificial intelligence, machine learning (AI/ML) experts; engineers; technologists; scientists; logistics experts; and business administration professionals.\n\nRecognized as one of America's top large company employers, we are a values and ethics driven organization that puts people's safety and well-being first. Regardless of your role or where you serve, at HII, you'll find a supportive and welcoming environment, competitive benefits, and valuable educational and training programs for continual career growth at every stage of your career.\n\nTogether we are working to ensure a future where everyone can be free and thrive.\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, physical or mental disability, age, or veteran status or any other basis protected by federal, state, or local law.\n\nDo You Need Assistance?\nIf you need a reasonable accommodation for any part of the employment process, please send an e-mail to buildyourcareer@hii-co.com and let us know the nature of your request and your contact information. Reasonable accommodations are considered on a case-by-case basis. Please note that only those inquiries concerning a request for reasonable accommodation will be responded to from this email address. Additionally, you may also call 1-844-849-8463 for assistance. Press #3 for HII Mission Technologies.",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "d25c5498d36e4de2b58407629e0143d8256518ebfcc5766e04633ca61c693ac3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-25T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-huntington-ingalls-industries-nfgpnnhgbp9ezwcdaaaaaa==",
+    "job_title": "Software Engineer - 27272 | Syracuse, NY, USA",
+    "employer_name": "Huntington Ingalls Industries",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.efinancialcareers.com/jobs-USA-NY-Syracuse-Software_Engineer_-_27272.id23877102?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-25T00:00:00.000Z",
+    "job_description": "Software Engineer - 27272\n\nRequisition Number: 27272\n\nRequired Travel: 0 - 10%\n\nEmployment Type: Full Time/Salaried/Exempt\n\nAnticipated Salary Range: $82,325.00 - $115,000.00\n\nSecurity Clearance: Secret\n\nLevel of Experience: Entry Level\n\nThis opportunity resides with Warfare Systems (WS) , a business group within HII's Mission Technologies division. Warfare Systems comprises cyber and mission IT; electronic warfare; and C5ISR systems.\n\nHII works within our nation's intelligence and cyber operations communities to defend our interests in cyberspace and anticipate emerging threats. Our capabilities in cybersecurity, network architecture, reverse engineering, software and hardware development uniquely enable us to support sensitive missions for the U.S. military and federal agency partners.\n\nMeet HII's Mission Technologies Division\nOur team of more than 7,000 professionals worldwide delivers all-domain expertise and advanced technologies in service of mission partners across the globe. Mission Technologies is leading the next evolution of national defense - the data evolution - by accelerating a breadth of national security solutions for government and commercial customers. Our capabilities range from C5ISR, AI and Big Data, cyber operations and synthetic training environments to fleet sustainment, environmental remediation and the largest family of unmanned underwater vehicles in every class. Find the role that's right for you. Apply today. We look forward to meeting you.\n\nTo learn more about Mission Technologies, click here for a short video: https://vimeo.com/732533072\n\nJob Description\n\nHII, Mission Technologies is seeking self-motivated, talented Software Engineers to design, develop, and test command, control, and communications software for leading edge ISR, SDR, and EW DoD products. This position will be located in Syracuse, New York.\n\nCandidates will be expected to integrate into our multi-disciplinary teams to provide best-in-class solutions and products to a diverse customer baseline with a demanding and intriguing technical problem space. From high-level, self-hosted User Interface software and networking down to low-level Operating System or bare-metal software/drivers running on System-on-a-Chip CPUs/FPGAs/GPUs. HII offers an array of software development opportunities at all layers of the stack for rapid prototypes, new product design, and fielded hardware that protect and support the American warfighter and our nation's interests.\n\nEssential Job Responsibilities\n\n• Participate in all phases of software lifecycle, from requirements definition through design, development, integration, and test with minimal supervision.\n• Apply state-of-the-art programming techniques, software design best practices, and software technologies.\n• Analyze and modify software systems by reverse-engineering, architecting, coding, installing, testing, debugging, and documenting designs/APIs.\n• Stand up development environment and platform application environment from scratch.\n• Guide customers and systems engineers in formulating software requirements, advise on alternative approaches, and conduct feasibility studies, as required.\n• Prepare and communicate daily status information in accordance with required software development lifecycles.\n• Independently derive requirements into actionable tasks.\n• Follow all company policies and guidelines, including familiarity with company-wide software practices.\nMinimum Qualifications\n\n• 2 years relevant experience with Bachelors in related field; 0 years experience with Masters in related field; or High School Diploma or equivalent and 6 years relevant experience.\n• Proficient in various object-oriented and functional programming languages (e.g. Embedded C/C++, C/C++, C#, Java)\n• Proficient in common procedural/scripting languages and object definition files (Python, Bash, MATLAB, JavaScript, JSON, XML)\n• Proficient in industry-standard software documentation methods such as user stories, UML, Agile and supporting tools such as Doxygen, Bamboo, JIRA\n• Must be a U.S. citizen.\n• Clearance: Ability to obtain and maintain a secret government security clearance.\nPreferred Requirements\n\n• Currently hold a U.S. security clearance.\n• Experience in the DoD contractor space, especially maritime.\n• Experience in leading junior software engineers.\n• Strong background in embedded Linux kernels, filesystems, and custom device drivers.\n• Experience with communications and networking libraries in embedded Linux (e.g. networking stacks, Protocol Buffers/Protobuf/data serialization).\n• Passionate about protecting the American warfighter.\n• Experience with RF communication links and/or radio systems.\nPhysical Requirements\n\n• Adequate visual acuity and manual dexterity for meeting the requirements Software Engineer family.\nHII is more than a job - it's an opportunity to build a new future. We offer competitive benefits such as best-in-class medical, dental and vision plan choices; wellness resources; employee assistance programs; Savings Plan Options (401(k)); financial planning tools, life insurance; employee discounts; paid holidays and paid time off; tuition reimbursement; as well as early childhood and post-secondary education scholarships. Bonus/other non-recurrent compensation is occasionally offered for qualified positions, and if applicable to this role will be addressed by the recruiter at the screening phase of application.\n\nWhy HII\nWe build the world's most powerful, survivable naval ships and defense technology solutions that safeguard our seas, sky, land, space and cyber. Our workforce includes skilled tradespeople; artificial intelligence, machine learning (AI/ML) experts; engineers; technologists; scientists; logistics experts; and business administration professionals.\n\nRecognized as one of America's top large company employers, we are a values and ethics driven organization that puts people's safety and well-being first. Regardless of your role or where you serve, at HII, you'll find a supportive and welcoming environment, competitive benefits, and valuable educational and training programs for continual career growth at every stage of your career.\n\nTogether we are working to ensure a future where everyone can be free and thrive.\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, physical or mental disability, age, or veteran status or any other basis protected by federal, state, or local law.\n\nDo You Need Assistance?\nIf you need a reasonable accommodation for any part of the employment process, please send an e-mail to buildyourcareer@hii-co.com and let us know the nature of your request and your contact information. Reasonable accommodations are considered on a case-by-case basis. Please note that only those inquiries concerning a request for reasonable accommodation will be responded to from this email address. Additionally, you may also call 1-844-849-8463 for assistance. Press #3 for HII Mission Technologies.",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "d25c5498d36e4de2b58407629e0143d8256518ebfcc5766e04633ca61c693ac3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-25T00:00:00.000Z"
+  },
+  {
     "job_id": "js-emonics-llc-gk1lasxiur7lmkrzaaaaaa==",
     "job_title": "Machine Learning Engineer, Entry Level",
     "employer_name": "Emonics LLC",
@@ -2178,66 +2268,6 @@
         "on_site"
       ],
       "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-25T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-new-york-city-d6m6qzxn2si2chbkaaaaaa==",
-    "job_title": "Junior IT Services Engineer",
-    "employer_name": "New York City",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cityjobs.nyc.gov/job/junior-it-services-engineer-in-manhattan-jid-40968?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-25T00:00:00.000Z",
-    "job_description": "DISCLAIMER:\nAuthorization to work in the United States is required for this position. The NYC Department of City Planning does not offer sponsorship, of any kind, for any type of employment opportunity. Applicants are responsible for ensuring that they meet all minimum qualifying requirements for this position at the time of application.\n\nTHE AGENCY\nThe Department of City Planning (DCP) plans for the future of New York City, working to create thriving and dynamic neighborhoods with access to housing and jobs, resilient infrastructure, and a vibrant public realm. The Department engages communities to develop inclusive plans, expands housing access and economic opportunity, and plans for long-term sustainability.\n\nDCP supports the City Planning Commission in its annual review of hundreds of land use applications. The Department also advises on citywide strategic and capital planning, analyzes data, conducts policy analysis, and creates open data and civic engagement tools.\n\nThe Department of City Planning offers staff meaningful opportunities to help shape the future of New York City and address some of its most pressing challenges. The Department values public service, collaboration, and creativity, and supports professional development. Learn more about DCP and view current job openings at www.nyc.gov/planning.\n\nTHE DIVISION\nInformation Technology Division’s (ITD) vision is to become a dynamic and vibrant technology delivery organization of the New York City government that leads business transformations and technology innovations to enable citizen-centric smart urban planning, while promoting a culture of collaboration, talent development, and equity. ITD is responsible for developing technology solutions to support agency needs and citywide requests, including City Charter mandates, grant funding requirements, and citywide geospatial services, and maintaining systems infrastructure and endpoint assets, to optimize operational efficiency, promote innovation, and collaborate with other city agencies to enhance service accessibility to citizens. The division provides necessary computing infrastructure and productivity-enhancing technology tools in a hybrid mode (on premise and in the cloud), to support DCP’s interdisciplinary staff across five boroughs, including planners, urban designers, project managers, and executive management. The division is comprised of experienced and talented software engineers, geographic specialists, service engineers, and technology leaders who specialize in managing system infrastructure, cyber security, geospatial data engineering, application services, and portfolio management.\n\nWithin ITD, the Technical Support Management (TSM) unit is responsible for ensuring customer success by providing excellent Help Desk services, deploying, and maintaining endpoint devices such as workstations, laptops, phones, video conference systems, and peripheral devices, and performing inventory and asset management. The unit plays the crucial role of being the face of the IT Division, and employs a customer-centric and solution-oriented approach on prioritizing and resolving technical issues promptly and efficiently, by troubleshooting hardware and software problems, network connectivity issues, system errors, and user provisioning, while employing proactive measures on preventive maintenance, customer education, feedback integration, and constant improvement of support processes, and building awareness on cybersecurity best practices for endpoint security. TSM is also responsible for the support and management of the agency’s mission critical audio/video infrastructure.\n\nTHE ROLE\nThe ITD TSM unit is seeking a talented and versatile Junior IT Services Engineer to join its team of dedicated IT Services Engineers to assist with IT Support, technology asset management, and inventory control. Under supervision and general direction, the Junior IT Services Engineer’s responsibilities include, but may not be limited to:\n\n- Conducts the configuration, troubleshooting, and repair of desktop, laptop, and Apple equipment as directed by a member of the Technical Support Management (TSM) team.\n- Conducts the deployment of Laptops, Desktops, and peripheral devices to staff as directed by a member of the Technical Support Management (TSM) team.\n- Performs imaging of desktop and laptop devices as directed by a member of the Technical Support Management (TSM) team.\n- Performs the installation of software applications as directed by a member of the Technical Support Management (TSM) team.\n- Assists with software patch deployment to the Windows, MacOS, iOS and Android endpoint platforms as directed by a member of the Technical Support Management (TSM) team.\n- Provide Meeting Room Technology support for staff.\n- Perform Asset Management tasks as directed by a member of the Technical Support Management (TSM) team.\n- Provides software troubleshooting and resolutions.\n- Assists with the relinquishment of retired IT assets as directed by a member of the Technical Support Management (TSM) team.\n- Provides Audio/Video support for the DCP public engagements as directed by a member of the TSM Support Management (TSM) team.\n- Other duties and responsibilities as required.\n\nTO APPLY:\nPlease visit: https://cityjobs.nyc.gov/ and follow the steps below:\n\n1. Search for job ID number: 770668\n2. Click on the job business title: Junior IT Services Engineer\n3. Click on “Apply Now” at the bottom of the posting\n\nNote: All interested candidates must submit their applications via cityjobs.nyc.gov Applications via regular mail, fax or e-mail will not be accepted.\n\nAuthorization to work in the United States is required for this position. The NYC Department of City Planning does not offer sponsorship, of any kind, for any type of employment opportunity. Applicants are responsible for ensuring that they meet all minimum qualifying requirements for this position at the time of application.\n\nOnly applicants under consideration will be contacted. Appointments are subject to Office of Management and Budget (OMB) approval.\n\nThe City of New York is an inclusive equal opportunity employer committed to recruiting and retaining a diverse workforce and providing a work environment that is free from discrimination and harassment based upon any legally protected status or protected characteristic, including but not limited to an individual's sex, race, color, ethnicity, national origin, age, religion, disability, sexual orientation, veteran status, gender identity, or pregnancy.\n\nThis position may be eligible for remote work up to 2 days per week, pursuant to the Remote Work Pilot Program agreed to between the City and labor unions.\n\nNOTE: If you would like to request a reasonable accommodation during your visit or have questions regarding the accessibility of our facilities, please reach out to accessibilityinfo@planning.nyc.gov or call 212-720-3508 at least three business days prior to your arrival.\n\nIT SERVICE MANAGEMENT SPECIALI - 95713\n\nMinimum Qualifications\n\n1. A baccalaureate degree from an accredited college in computer science, engineering or a related field and four years of satisfactory full-time experience related to information technology service management, process management, operations;\n\n2. A baccalaureate degree from an accredited college and eight years of satisfactory full-time experience related to information technology service management, process management, operations;\n\n3. Education and/or experience which is equivalent to \"1\" or \"2\" above.\n\nPreferred Skills\n\n- One year of full-time desktop support experience in Windows and MacOS platforms.\n- One year of full-time experience supporting Dell Desktops and Laptops, HP Printers, iPhones, iPads and MacBooks.\n- One year of full-time experience with installing, troubleshooting and repair of the following software:\n+ Microsoft Windows 11\n+ Microsoft Office 365 - Outlook, Word, Excel, PowerPoint, OneDrive\n+ Microsoft Teams and Zoom Video Conferencing platforms\n+ ESRI and Adobe creative suite software applications\n- Intermediate experience with the IP Config commands and Windows registry.\n- Strong verbal communication skills.\n- Ability to work with a variety of personality types.\n- Experience working with inventory control is helpful but not necessary.\n- Ability to work well independently and in a group.\n- High level of professionalism and organizational skills.\n- Detail oriented, quick learner and the ability to adapt quickly and efficiently in a fast-paced environment.\n- Ability to lift computer equipment up to a weight of 50 pounds.\nPublic Service Loan Forgiveness\n\nAs a prospective employee of the City of New York, you may be eligible for federal loan forgiveness programs and state repayment assistance programs. For more information, please visit the U.S. Department of Education’s website at https://studentaid.gov/pslf/.\nResidency Requirement\n\nNew York City Residency is not required for this position\nAdditional Information\n\nThe City of New York is an inclusive equal opportunity employer committed to recruiting and retaining a diverse workforce and providing a work environment that is free from discrimination and harassment based upon any legally protected status or protected characteristic, including but not limited to an individual's sex, race, color, ethnicity, national origin, age, religion, disability, sexual orientation, veteran status, gender identity, or pregnancy.",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "222849d31ed7a4c067622f1c6368a14492387e09ed50303801a548b48900a1cb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-25T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-huntington-ingalls-industries-nfgpnnhgbp9ezwcdaaaaaa==",
-    "job_title": "Software Engineer - 27272 | Syracuse, NY, USA",
-    "employer_name": "Huntington Ingalls Industries",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.efinancialcareers.com/jobs-USA-NY-Syracuse-Software_Engineer_-_27272.id23877102?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-25T00:00:00.000Z",
-    "job_description": "Software Engineer - 27272\n\nRequisition Number: 27272\n\nRequired Travel: 0 - 10%\n\nEmployment Type: Full Time/Salaried/Exempt\n\nAnticipated Salary Range: $82,325.00 - $115,000.00\n\nSecurity Clearance: Secret\n\nLevel of Experience: Entry Level\n\nThis opportunity resides with Warfare Systems (WS) , a business group within HII's Mission Technologies division. Warfare Systems comprises cyber and mission IT; electronic warfare; and C5ISR systems.\n\nHII works within our nation's intelligence and cyber operations communities to defend our interests in cyberspace and anticipate emerging threats. Our capabilities in cybersecurity, network architecture, reverse engineering, software and hardware development uniquely enable us to support sensitive missions for the U.S. military and federal agency partners.\n\nMeet HII's Mission Technologies Division\nOur team of more than 7,000 professionals worldwide delivers all-domain expertise and advanced technologies in service of mission partners across the globe. Mission Technologies is leading the next evolution of national defense - the data evolution - by accelerating a breadth of national security solutions for government and commercial customers. Our capabilities range from C5ISR, AI and Big Data, cyber operations and synthetic training environments to fleet sustainment, environmental remediation and the largest family of unmanned underwater vehicles in every class. Find the role that's right for you. Apply today. We look forward to meeting you.\n\nTo learn more about Mission Technologies, click here for a short video: https://vimeo.com/732533072\n\nJob Description\n\nHII, Mission Technologies is seeking self-motivated, talented Software Engineers to design, develop, and test command, control, and communications software for leading edge ISR, SDR, and EW DoD products. This position will be located in Syracuse, New York.\n\nCandidates will be expected to integrate into our multi-disciplinary teams to provide best-in-class solutions and products to a diverse customer baseline with a demanding and intriguing technical problem space. From high-level, self-hosted User Interface software and networking down to low-level Operating System or bare-metal software/drivers running on System-on-a-Chip CPUs/FPGAs/GPUs. HII offers an array of software development opportunities at all layers of the stack for rapid prototypes, new product design, and fielded hardware that protect and support the American warfighter and our nation's interests.\n\nEssential Job Responsibilities\n\n• Participate in all phases of software lifecycle, from requirements definition through design, development, integration, and test with minimal supervision.\n• Apply state-of-the-art programming techniques, software design best practices, and software technologies.\n• Analyze and modify software systems by reverse-engineering, architecting, coding, installing, testing, debugging, and documenting designs/APIs.\n• Stand up development environment and platform application environment from scratch.\n• Guide customers and systems engineers in formulating software requirements, advise on alternative approaches, and conduct feasibility studies, as required.\n• Prepare and communicate daily status information in accordance with required software development lifecycles.\n• Independently derive requirements into actionable tasks.\n• Follow all company policies and guidelines, including familiarity with company-wide software practices.\nMinimum Qualifications\n\n• 2 years relevant experience with Bachelors in related field; 0 years experience with Masters in related field; or High School Diploma or equivalent and 6 years relevant experience.\n• Proficient in various object-oriented and functional programming languages (e.g. Embedded C/C++, C/C++, C#, Java)\n• Proficient in common procedural/scripting languages and object definition files (Python, Bash, MATLAB, JavaScript, JSON, XML)\n• Proficient in industry-standard software documentation methods such as user stories, UML, Agile and supporting tools such as Doxygen, Bamboo, JIRA\n• Must be a U.S. citizen.\n• Clearance: Ability to obtain and maintain a secret government security clearance.\nPreferred Requirements\n\n• Currently hold a U.S. security clearance.\n• Experience in the DoD contractor space, especially maritime.\n• Experience in leading junior software engineers.\n• Strong background in embedded Linux kernels, filesystems, and custom device drivers.\n• Experience with communications and networking libraries in embedded Linux (e.g. networking stacks, Protocol Buffers/Protobuf/data serialization).\n• Passionate about protecting the American warfighter.\n• Experience with RF communication links and/or radio systems.\nPhysical Requirements\n\n• Adequate visual acuity and manual dexterity for meeting the requirements Software Engineer family.\nHII is more than a job - it's an opportunity to build a new future. We offer competitive benefits such as best-in-class medical, dental and vision plan choices; wellness resources; employee assistance programs; Savings Plan Options (401(k)); financial planning tools, life insurance; employee discounts; paid holidays and paid time off; tuition reimbursement; as well as early childhood and post-secondary education scholarships. Bonus/other non-recurrent compensation is occasionally offered for qualified positions, and if applicable to this role will be addressed by the recruiter at the screening phase of application.\n\nWhy HII\nWe build the world's most powerful, survivable naval ships and defense technology solutions that safeguard our seas, sky, land, space and cyber. Our workforce includes skilled tradespeople; artificial intelligence, machine learning (AI/ML) experts; engineers; technologists; scientists; logistics experts; and business administration professionals.\n\nRecognized as one of America's top large company employers, we are a values and ethics driven organization that puts people's safety and well-being first. Regardless of your role or where you serve, at HII, you'll find a supportive and welcoming environment, competitive benefits, and valuable educational and training programs for continual career growth at every stage of your career.\n\nTogether we are working to ensure a future where everyone can be free and thrive.\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, physical or mental disability, age, or veteran status or any other basis protected by federal, state, or local law.\n\nDo You Need Assistance?\nIf you need a reasonable accommodation for any part of the employment process, please send an e-mail to buildyourcareer@hii-co.com and let us know the nature of your request and your contact information. Reasonable accommodations are considered on a case-by-case basis. Please note that only those inquiries concerning a request for reasonable accommodation will be responded to from this email address. Additionally, you may also call 1-844-849-8463 for assistance. Press #3 for HII Mission Technologies.",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "d25c5498d36e4de2b58407629e0143d8256518ebfcc5766e04633ca61c693ac3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -2444,36 +2474,6 @@
         "on_site"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-24T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-solerity-g7c8abajdqlnr44eaaaaaa==",
-    "job_title": "Software Engineer I (TS/SCI with Poly)",
-    "employer_name": "SOLERITY",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.glassdoor.com/job-listing/software-engineer-i-ts-sci-with-poly-solerity-JV_KO0,36_KE37,45.htm?jl=1009361974121&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-24T00:00:00.000Z",
-    "job_description": "Description:\n\nTake the next steps to your professional success as Solerity is a recognized leader in providing Information Technology, Engineering Services, Program Management and Consulting Services to the U.S Federal Government and our Intel Community. We enable our clients to achieve their organizational initiatives by applying high quality, innovative and cost-effective professional services, and solutions. Solerity needs your support to help us provide these solutions and continue our path as a recognized leader in providing resources for federal agencies and the Intel Community!\n\nYOUR RESPONSIBILITIES:\n\nSkills Desired (from most- to least- important):\n• Desire to provide value to our end users\n• Experience writing “modern” C++\n• Experience writing Python 3, Java, and GoLang\n• Experience with analytic development implementing algorithms\n\nin code\n• Experience building projects with CMake and Make\n• Experience with Machine Learning\n• Knowledge of tools for software development like git, docker,\n\ngoogletest/Junit, gitlab and gitlab CI\n• Desire to broaden your skillset\n\nRequirements:\n\nBENEFITS YOU'LL ENJOY:\n\n1. Medical, dental and vision coverage\n\n2. Health Savings Accounts and Flexible Spending Accounts for healthcare and dependent care\n\n3. Flexible work schedule to include onsite, hybrid or remote, as dictated by position\n\n4. 401(k) and company-funded life insurance\n\n5. Generous Paid Time Off (PTO)\n\n6. Tuition and training assistance\n\n7. Financial rewards for employee referrals.\n\n8. Pet insurance\n\n9. Employee discount program\n\nEMPLOYMENT OPPORTUNITIES: Solerity is committed to the range of perspectives we bring to the marketplace by being an employer dedicated to hiring a highly qualified team of professionals, providing world class services and products aimed at exceeding our customer’s expectations. Solerity is an equal opportunity employer as to all protected groups, including protected veterans and individuals with disabilities. Solerity is a VEVRAA Federal Contractor.\n\nAPPLY TODAY!",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "3d817d7d55f8bb9b3ed32b362f46de7d32f33e3384789f89a6c52cdc56cb917a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -3027,6 +3027,127 @@
     "job_posted_at": "2026-02-23T17:09:25.360+00:00"
   },
   {
+    "job_id": "js-virtualvocations-xhfxwsdjmcvddr46aaaaaa==",
+    "job_title": "Junior AI Engineer",
+    "employer_name": "VirtualVocations",
+    "job_city": "Bridgeport",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.talent.com/view?id=554693159930628722&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
+    "job_description": "A company is looking for a Junior AI Engineer to design and build AI-enabled helpdesks and contact centers.\n\nKey Responsibilities :\n\nBuild intelligent agents that plan, reason, and interact with users using evolving agentic frameworks\n\nBuild and maintain a configurable front and back end\n\nDesign tactful solutions to a variety of customer problems\n\nRequired Qualifications, Training, and Education :\n\n1-3 years of hands-on experience building and deploying full-stack applications with Node.js\n\nExperience with modern UI frameworks, preferably Angular\n\nCuriosity, autonomy, and the drive to make a real impact\n\nMust be a U.S. citizen due to the security clearance required for this position",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "599bf5ccddf95813d0cc60f774f800495f40caa462fde731454d0493d70b2a8c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-23T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-solerity-g7c8abajdqlnr44eaaaaaa==",
+    "job_title": "Software Engineer I (TS/SCI with Poly)",
+    "employer_name": "SOLERITY",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.glassdoor.com/job-listing/software-engineer-i-ts-sci-with-poly-solerity-JV_KO0,36_KE37,45.htm?jl=1009361974121&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
+    "job_description": "Description:\n\nTake the next steps to your professional success as Solerity is a recognized leader in providing Information Technology, Engineering Services, Program Management and Consulting Services to the U.S Federal Government and our Intel Community. We enable our clients to achieve their organizational initiatives by applying high quality, innovative and cost-effective professional services, and solutions. Solerity needs your support to help us provide these solutions and continue our path as a recognized leader in providing resources for federal agencies and the Intel Community!\n\nYOUR RESPONSIBILITIES:\n\nSkills Desired (from most- to least- important):\n• Desire to provide value to our end users\n• Experience writing “modern” C++\n• Experience writing Python 3, Java, and GoLang\n• Experience with analytic development implementing algorithms\n\nin code\n• Experience building projects with CMake and Make\n• Experience with Machine Learning\n• Knowledge of tools for software development like git, docker,\n\ngoogletest/Junit, gitlab and gitlab CI\n• Desire to broaden your skillset\n\nRequirements:\n\nBENEFITS YOU'LL ENJOY:\n\n1. Medical, dental and vision coverage\n\n2. Health Savings Accounts and Flexible Spending Accounts for healthcare and dependent care\n\n3. Flexible work schedule to include onsite, hybrid or remote, as dictated by position\n\n4. 401(k) and company-funded life insurance\n\n5. Generous Paid Time Off (PTO)\n\n6. Tuition and training assistance\n\n7. Financial rewards for employee referrals.\n\n8. Pet insurance\n\n9. Employee discount program\n\nEMPLOYMENT OPPORTUNITIES: Solerity is committed to the range of perspectives we bring to the marketplace by being an employer dedicated to hiring a highly qualified team of professionals, providing world class services and products aimed at exceeding our customer’s expectations. Solerity is an equal opportunity employer as to all protected groups, including protected veterans and individuals with disabilities. Solerity is a VEVRAA Federal Contractor.\n\nAPPLY TODAY!",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "3d817d7d55f8bb9b3ed32b362f46de7d32f33e3384789f89a6c52cdc56cb917a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-23T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-motion-recruitment-qtlxzrmgsnhp1jw0aaaaaa==",
+    "job_title": "Software Engineer / Agentic AI / LangChain",
+    "employer_name": "Motion Recruitment",
+    "job_city": "Dallas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.linkedin.com/jobs/view/software-engineer-agentic-ai-langchain-at-motion-recruitment-4376884438?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
+    "job_description": "We are looking for a Data Scientist with a focus on building & utilizing Agentic AI. In this position you will be developing everything from chatbots to multi-agent systems to partner with & enhance the work of various technical & non-technical resources (Marketing, data analytics, etc).\n\nThis is an opportunity to join an enterprise organization working with cutting-edge AI applications across the entire organization, embedding AI across the entire company. This is a senior position requiring prior experience building and deploying agents in a real, production environment.\n\nApplicants must be currently authorized to work in the US on a full-time basis now and in the future. Required Skills & Experience\n• 4+ Years of experience in Data Science, software engineering, or similar\n• Building/implementing AI chatbots or agents\n• LLMS: implementing, tuning\n• Claude, Gemini, GPT-4\n• RAG implementation utilizing Vector Databases\n\nWhat You Will Be Doing The Offer You will receive the following benefits:\n• Desired Skills & Experience\n• Bachelor’s or Master’s degree in Computer Science, Data Science, or similar\n• Familiarity with other forms of generative and/or multimodal AI (text/images/videos)\n• Eligible for Annual Salary Bonu\n• Medical Insurance\n• Dental Benefits\n• Vision Benefits\n• Paid Time Off (PTO)\n• 401(k)\n\nPosted By: Connor Ellis",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "26cb9ccb130ba1f94e604ddf3b1d89b398cd6eeedca11f335e0e59dbac0fc2ed",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-23T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-virtualvocations-2_slfz2drqlrnk6maaaaaa==",
+    "job_title": "Associate MLOps Engineer",
+    "employer_name": "VirtualVocations",
+    "job_city": "Costa Mesa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.talent.com/view?id=608075126366017940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
+    "job_description": "A company is looking for an Associate MLOps Engineer to support data science teams in building, deploying, and operating machine learning solutions at scale.\n\nKey Responsibilities\n\nEnsure efficient and reliable deployment of machine learning models into production environments\n\nContinuously monitor model performance to detect issues and maintain accuracy\n\nAutomate the machine learning pipeline, including data preprocessing and model training\n\nRequired Qualifications\n\nBachelor's degree in computer science or equivalent work experience (4 years in a corporate environment)\n\n2 years of experience in software engineering and analytics technology\n\nExperience handling large datasets and building data pipelines\n\nProficiency in programming languages such as Python\n\nStrong understanding of data processing and storage solutions",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "220506f52d659fd7ca35ad4fe4d4adcea651bfd3223881bc53807bf6ae962648",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-23T00:00:00.000Z"
+  },
+  {
     "job_id": "js-synergistic-it-egkxbtam4sjoe0kqaaaaaa==",
     "job_title": "Remote Data Scientist/Analyst (Entry/Junior Level)",
     "employer_name": "Synergistic it",
@@ -3192,97 +3313,6 @@
       "employment": "entry_level",
       "domains": [
         "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-23T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-virtualvocations-xhfxwsdjmcvddr46aaaaaa==",
-    "job_title": "Junior AI Engineer",
-    "employer_name": "VirtualVocations",
-    "job_city": "Bridgeport",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.talent.com/view?id=554693159930628722&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
-    "job_description": "A company is looking for a Junior AI Engineer to design and build AI-enabled helpdesks and contact centers.\n\nKey Responsibilities :\n\nBuild intelligent agents that plan, reason, and interact with users using evolving agentic frameworks\n\nBuild and maintain a configurable front and back end\n\nDesign tactful solutions to a variety of customer problems\n\nRequired Qualifications, Training, and Education :\n\n1-3 years of hands-on experience building and deploying full-stack applications with Node.js\n\nExperience with modern UI frameworks, preferably Angular\n\nCuriosity, autonomy, and the drive to make a real impact\n\nMust be a U.S. citizen due to the security clearance required for this position",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "599bf5ccddf95813d0cc60f774f800495f40caa462fde731454d0493d70b2a8c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-23T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-motion-recruitment-qtlxzrmgsnhp1jw0aaaaaa==",
-    "job_title": "Software Engineer / Agentic AI / LangChain",
-    "employer_name": "Motion Recruitment",
-    "job_city": "Dallas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.linkedin.com/jobs/view/software-engineer-agentic-ai-langchain-at-motion-recruitment-4376884438?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
-    "job_description": "We are looking for a Data Scientist with a focus on building & utilizing Agentic AI. In this position you will be developing everything from chatbots to multi-agent systems to partner with & enhance the work of various technical & non-technical resources (Marketing, data analytics, etc).\n\nThis is an opportunity to join an enterprise organization working with cutting-edge AI applications across the entire organization, embedding AI across the entire company. This is a senior position requiring prior experience building and deploying agents in a real, production environment.\n\nApplicants must be currently authorized to work in the US on a full-time basis now and in the future. Required Skills & Experience\n• 4+ Years of experience in Data Science, software engineering, or similar\n• Building/implementing AI chatbots or agents\n• LLMS: implementing, tuning\n• Claude, Gemini, GPT-4\n• RAG implementation utilizing Vector Databases\n\nWhat You Will Be Doing The Offer You will receive the following benefits:\n• Desired Skills & Experience\n• Bachelor’s or Master’s degree in Computer Science, Data Science, or similar\n• Familiarity with other forms of generative and/or multimodal AI (text/images/videos)\n• Eligible for Annual Salary Bonu\n• Medical Insurance\n• Dental Benefits\n• Vision Benefits\n• Paid Time Off (PTO)\n• 401(k)\n\nPosted By: Connor Ellis",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "26cb9ccb130ba1f94e604ddf3b1d89b398cd6eeedca11f335e0e59dbac0fc2ed",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-23T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-virtualvocations-2_slfz2drqlrnk6maaaaaa==",
-    "job_title": "Associate MLOps Engineer",
-    "employer_name": "VirtualVocations",
-    "job_city": "Costa Mesa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.talent.com/view?id=608075126366017940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
-    "job_description": "A company is looking for an Associate MLOps Engineer to support data science teams in building, deploying, and operating machine learning solutions at scale.\n\nKey Responsibilities\n\nEnsure efficient and reliable deployment of machine learning models into production environments\n\nContinuously monitor model performance to detect issues and maintain accuracy\n\nAutomate the machine learning pipeline, including data preprocessing and model training\n\nRequired Qualifications\n\nBachelor's degree in computer science or equivalent work experience (4 years in a corporate environment)\n\n2 years of experience in software engineering and analytics technology\n\nExperience handling large datasets and building data pipelines\n\nProficiency in programming languages such as Python\n\nStrong understanding of data processing and storage solutions",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "220506f52d659fd7ca35ad4fe4d4adcea651bfd3223881bc53807bf6ae962648",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
         "data_science"
       ],
       "locations": [
@@ -3711,6 +3741,36 @@
     "job_posted_at": "2026-02-20T19:45:24-05:00"
   },
   {
+    "job_id": "js-hiis-mission-technologies-division-_cy5ofriqpcxxvkgaaaaaa==",
+    "job_title": "Software Engineer - 27272",
+    "employer_name": "HII's Mission Technologies division",
+    "job_city": "Syracuse",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.hii-tsd.com/job/Syracuse%2C-NY-Software-Engineer-27272-New/1366854400/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-21T00:00:00.000Z",
+    "job_description": "Requisition Number: 27272\n\nRequired Travel: 0 - 10%\n\nEmployment Type: Full Time/Salaried/Exempt\n\nAnticipated Salary Range: $82,325.00 - $115,000.00\n\nSecurity Clearance: Secret\n\nLevel of Experience: Entry Level\n\nThis opportunity resides with Warfare Systems (WS), a business group within HII’s Mission Technologies division. Warfare Systems comprises cyber and mission IT; electronic warfare; and C5ISR systems.\n\nHII works within our nation’s intelligence and cyber operations communities to defend our interests in cyberspace and anticipate emerging threats. Our capabilities in cybersecurity, network architecture, reverse engineering, software and hardware development uniquely enable us to support sensitive missions for the U.S. military and federal agency partners.\n\nMeet HII’s Mission Technologies Division\nOur team of more than 7,000 professionals worldwide delivers all-domain expertise and advanced technologies in service of mission partners across the globe. Mission Technologies is leading the next evolution of national defense – the data evolution - by accelerating a breadth of national security solutions for government and commercial customers. Our capabilities range from C5ISR, AI and Big Data, cyber operations and synthetic training environments to fleet sustainment, environmental remediation and the largest family of unmanned underwater vehicles in every class. Find the role that’s right for you. Apply today. We look forward to meeting you.\n\nTo learn more about Mission Technologies, click here for a short video: https://vimeo.com/732533072\nJob Description\n\nHII, Mission Technologies is seeking self-motivated, talented Software Engineers to design, develop, and test command, control, and communications software for leading edge ISR, SDR, and EW DoD products. This position will be located in Syracuse, New York.\n\nCandidates will be expected to integrate into our multi-disciplinary teams to provide best-in-class solutions and products to a diverse customer baseline with a demanding and intriguing technical problem space. From high-level, self-hosted User Interface software and networking down to low-level Operating System or bare-metal software/drivers running on System-on-a-Chip CPUs/FPGAs/GPUs. HII offers an array of software development opportunities at all layers of the stack for rapid prototypes, new product design, and fielded hardware that protect and support the American warfighter and our nation’s interests.\n\nEssential Job Responsibilities\n• Participate in all phases of software lifecycle, from requirements definition through design, development, integration, and test with minimal supervision.\n• Apply state-of-the-art programming techniques, software design best practices, and software technologies.\n• Analyze and modify software systems by reverse-engineering, architecting, coding, installing, testing, debugging, and documenting designs/APIs.\n• Stand up development environment and platform application environment from scratch.\n• Guide customers and systems engineers in formulating software requirements, advise on alternative approaches, and conduct feasibility studies, as required.\n• Prepare and communicate daily status information in accordance with required software development lifecycles.\n• Independently derive requirements into actionable tasks.\n• Follow all company policies and guidelines, including familiarity with company-wide software practices.\n\nMinimum Qualifications\n• 2 years relevant experience with Bachelors in related field; 0 years experience with Masters in related field; or High School Diploma or equivalent and 6 years relevant experience.\n• Proficient in various object-oriented and functional programming languages (e.g. Embedded C/C++, C/C++, C#, Java)\n• Proficient in common procedural/scripting languages and object definition files (Python, Bash, MATLAB, JavaScript, JSON, XML)\n• Proficient in industry-standard software documentation methods such as user stories, UML, Agile and supporting tools such as Doxygen, Bamboo, JIRA\n• Must be a U.S. citizen.\n• Clearance: Ability to obtain and maintain a secret government security clearance.\n\nPreferred Requirements\n• Currently hold a U.S. security clearance.\n• Experience in the DoD contractor space, especially maritime.\n• Experience in leading junior software engineers.\n• Strong background in embedded Linux kernels, filesystems, and custom device drivers.\n• Experience with communications and networking libraries in embedded Linux (e.g. networking stacks, Protocol Buffers/Protobuf/data serialization).\n• Passionate about protecting the American warfighter.\n• Experience with RF communication links and/or radio systems.\n\nPhysical Requirements\n• Adequate visual acuity and manual dexterity for meeting the requirements Software Engineer family.\n\nHII is more than a job - it’s an opportunity to build a new future. We offer competitive benefits such as best-in-class medical, dental and vision plan choices; wellness resources; employee assistance programs; Savings Plan Options (401(k)); financial planning tools, life insurance; employee discounts; paid holidays and paid time off; tuition reimbursement; as well as early childhood and post-secondary education scholarships. Bonus/other non-recurrent compensation is occasionally offered for qualified positions, and if applicable to this role will be addressed by the recruiter at the screening phase of application.\n\nWhy HII\nWe build the world’s most powerful, survivable naval ships and defense technology solutions that safeguard our seas, sky, land, space and cyber. Our workforce includes skilled tradespeople; artificial intelligence, machine learning (AI/ML) experts; engineers; technologists; scientists; logistics experts; and business administration professionals.\n\nRecognized as one of America’s top large company employers, we are a values and ethics driven organization that puts people’s safety and well-being first. Regardless of your role or where you serve, at HII, you’ll find a supportive and welcoming environment, competitive benefits, and valuable educational and training programs for continual career growth at every stage of your career.\n\nTogether we are working to ensure a future where everyone can be free and thrive.\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, physical or mental disability, age, or veteran status or any other basis protected by federal, state, or local law.\n\nDo You Need Assistance?\nIf you need a reasonable accommodation for any part of the employment process, please send an e-mail to buildyourcareer@hii-co.com and let us know the nature of your request and your contact information. Reasonable accommodations are considered on a case-by-case basis. Please note that only those inquiries concerning a request for reasonable accommodation will be responded to from this email address. Additionally, you may also call 1-844-849-8463 for assistance. Press #3 for HII Mission Technologies.",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "c890ff2b4fb6eeac5e9427f26e36462af394dc30af6e08ce1257050c6c750525",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-21T00:00:00.000Z"
+  },
+  {
     "job_id": "js-synergisticit-h16pzomij9ci6uxyaaaaaa==",
     "job_title": "Software Engineer - Entry Level",
     "employer_name": "SynergisticIT",
@@ -3765,36 +3825,6 @@
         "on_site"
       ],
       "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-21T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-hiis-mission-technologies-division-_cy5ofriqpcxxvkgaaaaaa==",
-    "job_title": "Software Engineer - 27272",
-    "employer_name": "HII's Mission Technologies division",
-    "job_city": "Syracuse",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.hii-tsd.com/job/Syracuse%2C-NY-Software-Engineer-27272-New/1366854400/",
-    "job_posted_at_datetime_utc": "2026-02-21T00:00:00.000Z",
-    "job_description": "Requisition Number: 27272 Required Travel: 0 - 10% Employment Type: Full Time/Salaried/Exempt Anticipated Salary Range: $82,325.00 - $115,000.00 Security Clearance: Secret Level of Experience: Entry Level This opportunity resides with Warfare Systems (WS), a business group within HII’s Mission Technologies division. Warfare Systems comprises cyber and mission IT; electronic warfare; and C5ISR systems. HII works within our nation’s intelligence and cyber operations communities to defend our interests in cyberspace and anticipate emerging threats. Our capabilities in cybersecurity, network architecture, reverse engineering, software and hardware development uniquely enable us to support sensitive missions for the U.S. military and federal agency partners. Meet HII’s Mission Technologies Division Our team of more than 7,000 professionals worldwide delivers all-domain expertise and advanced technologies in service of mission partners across the globe. Mission Technologies is leading the next evolution of national defense – the data evolution - by accelerating a breadth of national security solutions for government and commercial customers. Our capabilities range from C5ISR, AI and Big Data, cyber operations and synthetic training environments to fleet sustainment, environmental remediation and the largest family of unmanned underwater vehicles in every class. Find the role that’s right for you. Apply today. We look forward to meeting you. To learn more about Mission Technologies, click here for a short video: https://vimeo.com/732533072Job Description HII, Mission Technologies is seeking self-motivated, talented Software Engineers to design, develop, and test command, control, and communications software for leading edge ISR, SDR, and EW DoD products. This position will be located in Syracuse, New York. Candidates will be expected to integrate into our multi-disciplinary teams to provide best-in-class solutions and products to a diverse customer baseline with a demanding and intriguing technical problem space. From high-level, self-hosted User Interface software and networking down to low-level Operating System or bare-metal software/drivers running on System-on-a-Chip CPUs/FPGAs/GPUs. HII offers an array of software development opportunities at all layers of the stack for rapid prototypes, new product design, and fielded hardware that protect and support the American warfighter and our nation’s interests. Essential Job Responsibilities Participate in all phases of software lifecycle, from requirements definition through design, development, integration, and test with minimal supervision. Apply state-of-the-art programming techniques, software design best practices, and software technologies. Analyze and modify software systems by reverse-engineering, architecting, coding, installing, testing, debugging, and documenting designs/APIs. Stand up development environment and platform application environment from scratch. Guide customers and systems engineers in formulating software requirements, advise on alternative approaches, and conduct feasibility studies, as required. Prepare and communicate daily status information in accordance with required software development lifecycles. Independently derive requirements into actionable tasks. Follow all company policies and guidelines, including familiarity with company-wide software practices. Minimum Qualifications 2 years relevant experience with Bachelors in related field; 0 years experience with Masters in related field; or High School Diploma or equivalent and 6 years relevant experience. Proficient in various object-oriented and functional programming languages (e.g. Embedded C/C++, C/C++, C#, Java) Proficient in common procedural/scripting languages and object definition files (Python, Bash, MATLAB, JavaScript, JSON, XML) Proficient in industry-standard software documentation methods such as user stories, UML, Agile and supporting tools such as Doxygen, Bamboo, JIRA Must be a U.S. citizen. Clearance: Ability to obtain and maintain a secret government security clearance. Preferred Requirements Currently hold a U.S. security clearance. Experience in the DoD contractor space, especially maritime. Experience in leading junior software engineers. Strong background in embedded Linux kernels, filesystems, and custom device drivers. Experience with communications and networking libraries in embedded Linux (e.g. networking stacks, Protocol Buffers/Protobuf/data serialization). Passionate about protecting the American warfighter. Experience with RF communication links and/or radio systems. Physical Requirements Adequate visual acuity and manual dexterity for meeting the requirements Software Engineer family. HII is more than a job - it’s an opportunity to build a new future. We offer competitive benefits such as best-in-class medical, dental and vision plan choices; wellness resources; employee assistance programs; Savings Plan Options (401(k)); financial planning tools, life insurance; employee discounts; paid holidays and paid time off; tuition reimbursement; as well as early childhood and post-secondary education scholarships. Bonus/other non-recurrent compensation is occasionally offered for qualified positions, and if applicable to this role will be addressed by the recruiter at the screening phase of application. Why HII We build the world’s most powerful, survivable naval ships and defense technology solutions that safeguard our seas, sky, land, space and cyber. Our workforce includes skilled tradespeople; artificial intelligence, machine learning (AI/ML) experts; engineers; technologists; scientists; logistics experts; and business administration professionals. Recognized as one of America’s top large company employers, we are a values and ethics driven organization that puts people’s safety and well-being first. Regardless of your role or where you serve, at HII, you’ll find a supportive and welcoming environment, competitive benefits, and valuable educational and training programs for continual career growth at every stage of your career. Together we are working to ensure a future where everyone can be free and thrive. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, physical or mental disability, age, or veteran status or any other basis protected by federal, state, or local law. Do You Need Assistance? If you need a reasonable accommodation for any part of the employment process, please send an e-mail to buildyourcareer@hii-co.com and let us know the nature of your request and your contact information. Reasonable accommodations are considered on a case-by-case basis. Please note that only those inquiries concerning a request for reasonable accommodation will be responded to from this email address. Additionally, you may also call 1-844-849-8463 for assistance. Press #3 for HII Mission Technologies.",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "c890ff2b4fb6eeac5e9427f26e36462af394dc30af6e08ce1257050c6c750525",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
