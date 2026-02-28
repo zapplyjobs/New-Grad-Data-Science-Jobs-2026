@@ -152,36 +152,6 @@
     "job_posted_at": "2026-02-27T15:03:44-05:00"
   },
   {
-    "job_id": "js-halvik-ezfjpyc3fv6t_grlaaaaaa==",
-    "job_title": "Junior Full Stack Developer",
-    "employer_name": "Halvik",
-    "job_city": "Alexandria",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.linkedin.com/jobs/view/junior-full-stack-developer-at-halvik-4379044942?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-27T19:00:00.000Z",
-    "job_description": "Halvik Corp delivers a wide range of services to 13 executive agencies and 15 independent agencies. Halvik is a highly successful WOB business with more than 50 prime contracts and 500+ professionals delivering Digital Services, Advanced Analytics, Artificial Intelligence/Machine Learning, Cyber Security and Cutting-Edge Technology across the US Government. Be a part of something special!\n\nWe are seeking a motivated Junior Full-Stack Developer to join our AWS-focused development team. This role provides hands-on experience building secure, scalable web applications and services in AWS, contributing to front-end, back-end, and DevOps activities within a government context. You'll work under the guidance of senior engineers to deliver reliable, compliant software for our USPTO/IDE product lines, while growing your cloud and full-stack capabilities.\n\nResponsibilities\n• Collaborate with product owners and designers to implement features from requirements to deployment in AWS-based environments.\n• Develop and maintain front-end components (e.g., React/TypeScript) and server-side APIs (e.g., Spring Boot 3.x, Node.js, Python) deployed on AWS services (EC2, Lambda, API Gateway, RDS/Aurora, S3).\n• Work with PostgreSQL 17 for relational data storage, schema design, and query optimization.\n• Write clean, testable code, participate in code reviews, and contribute to unit and integration tests.\n• Assist with CI/CD pipelines and infrastructure as code (Terraform/CloudFormation); help maintain secure, auditable deployments.\n• Help monitor application health, respond to incidents with guidance from seniors, and support basic observability (CloudWatch, Splunk).\n• Contribute to documentation, coding standards, and security best practices appropriate for government environments.\n• Support data ingestion, logging, and observability requirements as part of data governance initiatives.\n\nRequired Skills And Experience\n• Bachelor's degree in Computer Science, Engineering, or related field, or equivalent practical experience.\n• 0–2 years of full-stack development experience.\n• Foundational knowledge of at least one front-end framework (React, Angular, or Vue) and one backend framework/language; experience with Spring Boot 3.x is strongly preferred.\n• Practical experience or coursework with PostgreSQL (preferably PostgreSQL 17) and basic database concepts (SQL).\n• Basic familiarity with AWS services (EC2, S3, Lambda, API Gateway, RDS/Aurora, IAM) and core cloud concepts.\n• Understanding of RESTful API design and basic database concepts (SQL or NoSQL).\n• Basic knowledge of version control (Git) and the software development lifecycle.\n• Strong problem-solving mindset and willingness to learn in a regulated environment.\n\nPreferred Qualifications\n• Exposure to infrastructure as code (Terraform or CloudFormation) and CI/CD concepts.\n• Experience with containerization (Docker) and basic orchestration (ECS/EKS) is a plus.\n• Familiarity with monitoring/logging tools (CloudWatch, Splunk, or similar).\n• Awareness of security fundamentals, data privacy, and secure coding practices in government contexts.\n• U.S. Government or regulated industry experience or interest in government work.\n\nPhysical/Data/Other\n• Ability to work on-site or remotely per team policy.\n• Eligible to work in the United States without sponsorship (or per internal policy).\n\nHalvik offers a competitive full benefits package including:Company-supported medical, dental, vision, life, STD, and LTD insuranceBenefits include 11 federal holidays and PTOEligible employees may receive performance-based incentives in recognition of individual and/or team achievements.401(k) with company matchingFlexible Spending Accounts for commuter, medical, and dependent care expensesTuition AssistanceCharitable Contribution matching\n\nHalvik Corp is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.\n\nHalvik's pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.",
-    "job_employment_type": "CONTRACTOR",
-    "fingerprint": "5427e9fccb90c7bc58625bf08a6e9ffcb04ffc8e9023ba007f414a419a5666a5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-27T19:00:00.000Z"
-  },
-  {
     "job_id": "greenhouse-anthropic-5076616008",
     "job_title": "Research Scientist, Societal Impacts",
     "employer_name": "Anthropic",
@@ -236,6 +206,36 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-27T13:59:04-05:00"
+  },
+  {
+    "job_id": "js-halvik-ezfjpyc3fv6t_grlaaaaaa==",
+    "job_title": "Junior Full Stack Developer",
+    "employer_name": "Halvik",
+    "job_city": "Alexandria",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.linkedin.com/jobs/view/junior-full-stack-developer-at-halvik-4379044942?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-27T18:00:00.000Z",
+    "job_description": "Halvik Corp delivers a wide range of services to 13 executive agencies and 15 independent agencies. Halvik is a highly successful WOB business with more than 50 prime contracts and 500+ professionals delivering Digital Services, Advanced Analytics, Artificial Intelligence/Machine Learning, Cyber Security and Cutting-Edge Technology across the US Government. Be a part of something special!\n\nWe are seeking a motivated Junior Full-Stack Developer to join our AWS-focused development team. This role provides hands-on experience building secure, scalable web applications and services in AWS, contributing to front-end, back-end, and DevOps activities within a government context. You'll work under the guidance of senior engineers to deliver reliable, compliant software for our USPTO/IDE product lines, while growing your cloud and full-stack capabilities.\n\nResponsibilities\n• Collaborate with product owners and designers to implement features from requirements to deployment in AWS-based environments.\n• Develop and maintain front-end components (e.g., React/TypeScript) and server-side APIs (e.g., Spring Boot 3.x, Node.js, Python) deployed on AWS services (EC2, Lambda, API Gateway, RDS/Aurora, S3).\n• Work with PostgreSQL 17 for relational data storage, schema design, and query optimization.\n• Write clean, testable code, participate in code reviews, and contribute to unit and integration tests.\n• Assist with CI/CD pipelines and infrastructure as code (Terraform/CloudFormation); help maintain secure, auditable deployments.\n• Help monitor application health, respond to incidents with guidance from seniors, and support basic observability (CloudWatch, Splunk).\n• Contribute to documentation, coding standards, and security best practices appropriate for government environments.\n• Support data ingestion, logging, and observability requirements as part of data governance initiatives.\n\nRequired Skills And Experience\n• Bachelor's degree in Computer Science, Engineering, or related field, or equivalent practical experience.\n• 0–2 years of full-stack development experience.\n• Foundational knowledge of at least one front-end framework (React, Angular, or Vue) and one backend framework/language; experience with Spring Boot 3.x is strongly preferred.\n• Practical experience or coursework with PostgreSQL (preferably PostgreSQL 17) and basic database concepts (SQL).\n• Basic familiarity with AWS services (EC2, S3, Lambda, API Gateway, RDS/Aurora, IAM) and core cloud concepts.\n• Understanding of RESTful API design and basic database concepts (SQL or NoSQL).\n• Basic knowledge of version control (Git) and the software development lifecycle.\n• Strong problem-solving mindset and willingness to learn in a regulated environment.\n\nPreferred Qualifications\n• Exposure to infrastructure as code (Terraform or CloudFormation) and CI/CD concepts.\n• Experience with containerization (Docker) and basic orchestration (ECS/EKS) is a plus.\n• Familiarity with monitoring/logging tools (CloudWatch, Splunk, or similar).\n• Awareness of security fundamentals, data privacy, and secure coding practices in government contexts.\n• U.S. Government or regulated industry experience or interest in government work.\n\nPhysical/Data/Other\n• Ability to work on-site or remotely per team policy.\n• Eligible to work in the United States without sponsorship (or per internal policy).\n\nHalvik offers a competitive full benefits package including:Company-supported medical, dental, vision, life, STD, and LTD insuranceBenefits include 11 federal holidays and PTOEligible employees may receive performance-based incentives in recognition of individual and/or team achievements.401(k) with company matchingFlexible Spending Accounts for commuter, medical, and dependent care expensesTuition AssistanceCharitable Contribution matching\n\nHalvik Corp is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.\n\nHalvik's pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.",
+    "job_employment_type": "CONTRACTOR",
+    "fingerprint": "5427e9fccb90c7bc58625bf08a6e9ffcb04ffc8e9023ba007f414a419a5666a5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-27T18:00:00.000Z"
   },
   {
     "job_id": "greenhouse-mongodb-7569187",
@@ -2184,36 +2184,6 @@
     "job_posted_at": "2026-02-25T00:00:00.000Z"
   },
   {
-    "job_id": "js-huntington-ingalls-industries-nfgpnnhgbp9ezwcdaaaaaa==",
-    "job_title": "Software Engineer - 27272 | Syracuse, NY, USA",
-    "employer_name": "Huntington Ingalls Industries",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.efinancialcareers.com/jobs-USA-NY-Syracuse-Software_Engineer_-_27272.id23877102?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-25T00:00:00.000Z",
-    "job_description": "Software Engineer - 27272\n\nRequisition Number: 27272\n\nRequired Travel: 0 - 10%\n\nEmployment Type: Full Time/Salaried/Exempt\n\nAnticipated Salary Range: $82,325.00 - $115,000.00\n\nSecurity Clearance: Secret\n\nLevel of Experience: Entry Level\n\nThis opportunity resides with Warfare Systems (WS) , a business group within HII's Mission Technologies division. Warfare Systems comprises cyber and mission IT; electronic warfare; and C5ISR systems.\n\nHII works within our nation's intelligence and cyber operations communities to defend our interests in cyberspace and anticipate emerging threats. Our capabilities in cybersecurity, network architecture, reverse engineering, software and hardware development uniquely enable us to support sensitive missions for the U.S. military and federal agency partners.\n\nMeet HII's Mission Technologies Division\nOur team of more than 7,000 professionals worldwide delivers all-domain expertise and advanced technologies in service of mission partners across the globe. Mission Technologies is leading the next evolution of national defense - the data evolution - by accelerating a breadth of national security solutions for government and commercial customers. Our capabilities range from C5ISR, AI and Big Data, cyber operations and synthetic training environments to fleet sustainment, environmental remediation and the largest family of unmanned underwater vehicles in every class. Find the role that's right for you. Apply today. We look forward to meeting you.\n\nTo learn more about Mission Technologies, click here for a short video: https://vimeo.com/732533072\n\nJob Description\n\nHII, Mission Technologies is seeking self-motivated, talented Software Engineers to design, develop, and test command, control, and communications software for leading edge ISR, SDR, and EW DoD products. This position will be located in Syracuse, New York.\n\nCandidates will be expected to integrate into our multi-disciplinary teams to provide best-in-class solutions and products to a diverse customer baseline with a demanding and intriguing technical problem space. From high-level, self-hosted User Interface software and networking down to low-level Operating System or bare-metal software/drivers running on System-on-a-Chip CPUs/FPGAs/GPUs. HII offers an array of software development opportunities at all layers of the stack for rapid prototypes, new product design, and fielded hardware that protect and support the American warfighter and our nation's interests.\n\nEssential Job Responsibilities\n\n• Participate in all phases of software lifecycle, from requirements definition through design, development, integration, and test with minimal supervision.\n• Apply state-of-the-art programming techniques, software design best practices, and software technologies.\n• Analyze and modify software systems by reverse-engineering, architecting, coding, installing, testing, debugging, and documenting designs/APIs.\n• Stand up development environment and platform application environment from scratch.\n• Guide customers and systems engineers in formulating software requirements, advise on alternative approaches, and conduct feasibility studies, as required.\n• Prepare and communicate daily status information in accordance with required software development lifecycles.\n• Independently derive requirements into actionable tasks.\n• Follow all company policies and guidelines, including familiarity with company-wide software practices.\nMinimum Qualifications\n\n• 2 years relevant experience with Bachelors in related field; 0 years experience with Masters in related field; or High School Diploma or equivalent and 6 years relevant experience.\n• Proficient in various object-oriented and functional programming languages (e.g. Embedded C/C++, C/C++, C#, Java)\n• Proficient in common procedural/scripting languages and object definition files (Python, Bash, MATLAB, JavaScript, JSON, XML)\n• Proficient in industry-standard software documentation methods such as user stories, UML, Agile and supporting tools such as Doxygen, Bamboo, JIRA\n• Must be a U.S. citizen.\n• Clearance: Ability to obtain and maintain a secret government security clearance.\nPreferred Requirements\n\n• Currently hold a U.S. security clearance.\n• Experience in the DoD contractor space, especially maritime.\n• Experience in leading junior software engineers.\n• Strong background in embedded Linux kernels, filesystems, and custom device drivers.\n• Experience with communications and networking libraries in embedded Linux (e.g. networking stacks, Protocol Buffers/Protobuf/data serialization).\n• Passionate about protecting the American warfighter.\n• Experience with RF communication links and/or radio systems.\nPhysical Requirements\n\n• Adequate visual acuity and manual dexterity for meeting the requirements Software Engineer family.\nHII is more than a job - it's an opportunity to build a new future. We offer competitive benefits such as best-in-class medical, dental and vision plan choices; wellness resources; employee assistance programs; Savings Plan Options (401(k)); financial planning tools, life insurance; employee discounts; paid holidays and paid time off; tuition reimbursement; as well as early childhood and post-secondary education scholarships. Bonus/other non-recurrent compensation is occasionally offered for qualified positions, and if applicable to this role will be addressed by the recruiter at the screening phase of application.\n\nWhy HII\nWe build the world's most powerful, survivable naval ships and defense technology solutions that safeguard our seas, sky, land, space and cyber. Our workforce includes skilled tradespeople; artificial intelligence, machine learning (AI/ML) experts; engineers; technologists; scientists; logistics experts; and business administration professionals.\n\nRecognized as one of America's top large company employers, we are a values and ethics driven organization that puts people's safety and well-being first. Regardless of your role or where you serve, at HII, you'll find a supportive and welcoming environment, competitive benefits, and valuable educational and training programs for continual career growth at every stage of your career.\n\nTogether we are working to ensure a future where everyone can be free and thrive.\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, physical or mental disability, age, or veteran status or any other basis protected by federal, state, or local law.\n\nDo You Need Assistance?\nIf you need a reasonable accommodation for any part of the employment process, please send an e-mail to buildyourcareer@hii-co.com and let us know the nature of your request and your contact information. Reasonable accommodations are considered on a case-by-case basis. Please note that only those inquiries concerning a request for reasonable accommodation will be responded to from this email address. Additionally, you may also call 1-844-849-8463 for assistance. Press #3 for HII Mission Technologies.",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "d25c5498d36e4de2b58407629e0143d8256518ebfcc5766e04633ca61c693ac3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-25T00:00:00.000Z"
-  },
-  {
     "job_id": "js-emonics-llc-gk1lasxiur7lmkrzaaaaaa==",
     "job_title": "Machine Learning Engineer, Entry Level",
     "employer_name": "Emonics LLC",
@@ -3027,37 +2997,6 @@
     "job_posted_at": "2026-02-23T17:09:25.360+00:00"
   },
   {
-    "job_id": "js-virtualvocations-xhfxwsdjmcvddr46aaaaaa==",
-    "job_title": "Junior AI Engineer",
-    "employer_name": "VirtualVocations",
-    "job_city": "Bridgeport",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.talent.com/view?id=554693159930628722&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
-    "job_description": "A company is looking for a Junior AI Engineer to design and build AI-enabled helpdesks and contact centers.\n\nKey Responsibilities :\n\nBuild intelligent agents that plan, reason, and interact with users using evolving agentic frameworks\n\nBuild and maintain a configurable front and back end\n\nDesign tactful solutions to a variety of customer problems\n\nRequired Qualifications, Training, and Education :\n\n1-3 years of hands-on experience building and deploying full-stack applications with Node.js\n\nExperience with modern UI frameworks, preferably Angular\n\nCuriosity, autonomy, and the drive to make a real impact\n\nMust be a U.S. citizen due to the security clearance required for this position",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "599bf5ccddf95813d0cc60f774f800495f40caa462fde731454d0493d70b2a8c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-23T00:00:00.000Z"
-  },
-  {
     "job_id": "js-solerity-g7c8abajdqlnr44eaaaaaa==",
     "job_title": "Software Engineer I (TS/SCI with Poly)",
     "employer_name": "SOLERITY",
@@ -3134,6 +3073,37 @@
       "employment": "entry_level",
       "domains": [
         "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-23T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-virtualvocations-xhfxwsdjmcvddr46aaaaaa==",
+    "job_title": "Junior AI Engineer",
+    "employer_name": "VirtualVocations",
+    "job_city": "Bridgeport",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.talent.com/view?id=554693159930628722&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
+    "job_description": "A company is looking for a Junior AI Engineer to design and build AI-enabled helpdesks and contact centers.\n\nKey Responsibilities :\n\nBuild intelligent agents that plan, reason, and interact with users using evolving agentic frameworks\n\nBuild and maintain a configurable front and back end\n\nDesign tactful solutions to a variety of customer problems\n\nRequired Qualifications, Training, and Education :\n\n1-3 years of hands-on experience building and deploying full-stack applications with Node.js\n\nExperience with modern UI frameworks, preferably Angular\n\nCuriosity, autonomy, and the drive to make a real impact\n\nMust be a U.S. citizen due to the security clearance required for this position",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "599bf5ccddf95813d0cc60f774f800495f40caa462fde731454d0493d70b2a8c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "ai",
         "data_science"
       ],
       "locations": [
@@ -3419,6 +3389,36 @@
     "job_posted_at": "2026-02-23T00:00:00.000Z"
   },
   {
+    "job_id": "js-five-star-management-zovrwcfbj5ecwmfoaaaaaa==",
+    "job_title": "Junior Software Engineer",
+    "employer_name": "Five Star Management",
+    "job_city": "Jersey Village",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.adzuna.com/details/5641516526?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-22T00:00:00.000Z",
+    "job_description": "Description\n\nJob Overview:\n\nWe are seeking a motivated Junior Software Engineer to join our growing technology team. In this role, you will support the design, development, testing, and maintenance of software applications and AI-driven systems used across our manufacturing and business operations. You will work closely with senior software and machine learning engineers to deploy, monitor, and maintain machine learning models in production environments. This role offers hands-on experience with real-world AI projects, automation, and industrial systems.\n\nKey Responsibilities:\n\n• Assist in developing, testing, and maintaining software applications and internal tools.\n\n• Support deployment, monitoring, and maintenance of machine learning models in production environments.\n\n• Work on AI and computer vision projects related to automation, and analytics.\n\n• Write clean, maintainable, and well-documented code following best practices.\n\n• Integrate software and ML solutions with databases, APIs, and production systems.\n\n• Debug and troubleshoot software and model-related issues under guidance from senior engineers.\n\n• Collaborate with cross-functional teams including production, quality, IT, and R&D.\n\n• Participate in code reviews and continuous improvement initiatives.\n\nRequired Skills and Qualifications:\n\n• Bachelor’s degree in Computer Science, Software Engineering, or a related field (or equivalent experience).\n\n• Basic proficiency in Python or another programming language such as Java, C#, or JavaScript.\n\n• Understanding of software development fundamentals, data structures, and algorithms.\n\n• Basic knowledge of machine learning concepts and model deployment workflows.\n\n• Exposure to ML frameworks such as PyTorch, TensorFlow, or similar is a plus.\n\n• Familiarity with databases, SQL, and REST APIs.",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "a26cb0e250689d9515d6c38932ad4486178c804cb877a128871f3a00c5f99533",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-22T00:00:00.000Z"
+  },
+  {
     "job_id": "js-virtualvocations-wp_wbkelqnpsjxzoaaaaaa==",
     "job_title": "Entry-Level Data Analyst",
     "employer_name": "VirtualVocations",
@@ -3638,36 +3638,6 @@
       "employment": "entry_level",
       "domains": [
         "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-22T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-five-star-management-zovrwcfbj5ecwmfoaaaaaa==",
-    "job_title": "Junior Software Engineer",
-    "employer_name": "Five Star Management",
-    "job_city": "Jersey Village",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.adzuna.com/details/5641516526?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-22T00:00:00.000Z",
-    "job_description": "Description\n\nJob Overview:\n\nWe are seeking a motivated Junior Software Engineer to join our growing technology team. In this role, you will support the design, development, testing, and maintenance of software applications and AI-driven systems used across our manufacturing and business operations. You will work closely with senior software and machine learning engineers to deploy, monitor, and maintain machine learning models in production environments. This role offers hands-on experience with real-world AI projects, automation, and industrial systems.\n\nKey Responsibilities:\n\n• Assist in developing, testing, and maintaining software applications and internal tools.\n\n• Support deployment, monitoring, and maintenance of machine learning models in production environments.\n\n• Work on AI and computer vision projects related to automation, and analytics.\n\n• Write clean, maintainable, and well-documented code following best practices.\n\n• Integrate software and ML solutions with databases, APIs, and production systems.\n\n• Debug and troubleshoot software and model-related issues under guidance from senior engineers.\n\n• Collaborate with cross-functional teams including production, quality, IT, and R&D.\n\n• Participate in code reviews and continuous improvement initiatives.\n\nRequired Skills and Qualifications:\n\n• Bachelor’s degree in Computer Science, Software Engineering, or a related field (or equivalent experience).\n\n• Basic proficiency in Python or another programming language such as Java, C#, or JavaScript.\n\n• Understanding of software development fundamentals, data structures, and algorithms.\n\n• Basic knowledge of machine learning concepts and model deployment workflows.\n\n• Exposure to ML frameworks such as PyTorch, TensorFlow, or similar is a plus.\n\n• Familiarity with databases, SQL, and REST APIs.",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "a26cb0e250689d9515d6c38932ad4486178c804cb877a128871f3a00c5f99533",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
         "data_science"
       ],
       "locations": [
