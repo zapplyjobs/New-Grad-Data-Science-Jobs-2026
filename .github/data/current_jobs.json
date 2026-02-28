@@ -152,6 +152,36 @@
     "job_posted_at": "2026-02-27T15:03:44-05:00"
   },
   {
+    "job_id": "js-halvik-ezfjpyc3fv6t_grlaaaaaa==",
+    "job_title": "Junior Full Stack Developer",
+    "employer_name": "Halvik",
+    "job_city": "Alexandria",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.linkedin.com/jobs/view/junior-full-stack-developer-at-halvik-4379044942?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-27T19:00:00.000Z",
+    "job_description": "Halvik Corp delivers a wide range of services to 13 executive agencies and 15 independent agencies. Halvik is a highly successful WOB business with more than 50 prime contracts and 500+ professionals delivering Digital Services, Advanced Analytics, Artificial Intelligence/Machine Learning, Cyber Security and Cutting-Edge Technology across the US Government. Be a part of something special!\n\nWe are seeking a motivated Junior Full-Stack Developer to join our AWS-focused development team. This role provides hands-on experience building secure, scalable web applications and services in AWS, contributing to front-end, back-end, and DevOps activities within a government context. You'll work under the guidance of senior engineers to deliver reliable, compliant software for our USPTO/IDE product lines, while growing your cloud and full-stack capabilities.\n\nResponsibilities\n• Collaborate with product owners and designers to implement features from requirements to deployment in AWS-based environments.\n• Develop and maintain front-end components (e.g., React/TypeScript) and server-side APIs (e.g., Spring Boot 3.x, Node.js, Python) deployed on AWS services (EC2, Lambda, API Gateway, RDS/Aurora, S3).\n• Work with PostgreSQL 17 for relational data storage, schema design, and query optimization.\n• Write clean, testable code, participate in code reviews, and contribute to unit and integration tests.\n• Assist with CI/CD pipelines and infrastructure as code (Terraform/CloudFormation); help maintain secure, auditable deployments.\n• Help monitor application health, respond to incidents with guidance from seniors, and support basic observability (CloudWatch, Splunk).\n• Contribute to documentation, coding standards, and security best practices appropriate for government environments.\n• Support data ingestion, logging, and observability requirements as part of data governance initiatives.\n\nRequired Skills And Experience\n• Bachelor's degree in Computer Science, Engineering, or related field, or equivalent practical experience.\n• 0–2 years of full-stack development experience.\n• Foundational knowledge of at least one front-end framework (React, Angular, or Vue) and one backend framework/language; experience with Spring Boot 3.x is strongly preferred.\n• Practical experience or coursework with PostgreSQL (preferably PostgreSQL 17) and basic database concepts (SQL).\n• Basic familiarity with AWS services (EC2, S3, Lambda, API Gateway, RDS/Aurora, IAM) and core cloud concepts.\n• Understanding of RESTful API design and basic database concepts (SQL or NoSQL).\n• Basic knowledge of version control (Git) and the software development lifecycle.\n• Strong problem-solving mindset and willingness to learn in a regulated environment.\n\nPreferred Qualifications\n• Exposure to infrastructure as code (Terraform or CloudFormation) and CI/CD concepts.\n• Experience with containerization (Docker) and basic orchestration (ECS/EKS) is a plus.\n• Familiarity with monitoring/logging tools (CloudWatch, Splunk, or similar).\n• Awareness of security fundamentals, data privacy, and secure coding practices in government contexts.\n• U.S. Government or regulated industry experience or interest in government work.\n\nPhysical/Data/Other\n• Ability to work on-site or remotely per team policy.\n• Eligible to work in the United States without sponsorship (or per internal policy).\n\nHalvik offers a competitive full benefits package including:Company-supported medical, dental, vision, life, STD, and LTD insuranceBenefits include 11 federal holidays and PTOEligible employees may receive performance-based incentives in recognition of individual and/or team achievements.401(k) with company matchingFlexible Spending Accounts for commuter, medical, and dependent care expensesTuition AssistanceCharitable Contribution matching\n\nHalvik Corp is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.\n\nHalvik's pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.",
+    "job_employment_type": "CONTRACTOR",
+    "fingerprint": "5427e9fccb90c7bc58625bf08a6e9ffcb04ffc8e9023ba007f414a419a5666a5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-27T19:00:00.000Z"
+  },
+  {
     "job_id": "greenhouse-anthropic-5076616008",
     "job_title": "Research Scientist, Societal Impacts",
     "employer_name": "Anthropic",
@@ -208,36 +238,6 @@
     "job_posted_at": "2026-02-27T13:59:04-05:00"
   },
   {
-    "job_id": "js-halvik-ezfjpyc3fv6t_grlaaaaaa==",
-    "job_title": "Junior Full Stack Developer",
-    "employer_name": "Halvik",
-    "job_city": "Alexandria",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.linkedin.com/jobs/view/junior-full-stack-developer-at-halvik-4379044942?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-27T18:00:00.000Z",
-    "job_description": "Halvik Corp delivers a wide range of services to 13 executive agencies and 15 independent agencies. Halvik is a highly successful WOB business with more than 50 prime contracts and 500+ professionals delivering Digital Services, Advanced Analytics, Artificial Intelligence/Machine Learning, Cyber Security and Cutting-Edge Technology across the US Government. Be a part of something special!\n\nWe are seeking a motivated Junior Full-Stack Developer to join our AWS-focused development team. This role provides hands-on experience building secure, scalable web applications and services in AWS, contributing to front-end, back-end, and DevOps activities within a government context. You'll work under the guidance of senior engineers to deliver reliable, compliant software for our USPTO/IDE product lines, while growing your cloud and full-stack capabilities.\n\nResponsibilities\n• Collaborate with product owners and designers to implement features from requirements to deployment in AWS-based environments.\n• Develop and maintain front-end components (e.g., React/TypeScript) and server-side APIs (e.g., Spring Boot 3.x, Node.js, Python) deployed on AWS services (EC2, Lambda, API Gateway, RDS/Aurora, S3).\n• Work with PostgreSQL 17 for relational data storage, schema design, and query optimization.\n• Write clean, testable code, participate in code reviews, and contribute to unit and integration tests.\n• Assist with CI/CD pipelines and infrastructure as code (Terraform/CloudFormation); help maintain secure, auditable deployments.\n• Help monitor application health, respond to incidents with guidance from seniors, and support basic observability (CloudWatch, Splunk).\n• Contribute to documentation, coding standards, and security best practices appropriate for government environments.\n• Support data ingestion, logging, and observability requirements as part of data governance initiatives.\n\nRequired Skills And Experience\n• Bachelor's degree in Computer Science, Engineering, or related field, or equivalent practical experience.\n• 0–2 years of full-stack development experience.\n• Foundational knowledge of at least one front-end framework (React, Angular, or Vue) and one backend framework/language; experience with Spring Boot 3.x is strongly preferred.\n• Practical experience or coursework with PostgreSQL (preferably PostgreSQL 17) and basic database concepts (SQL).\n• Basic familiarity with AWS services (EC2, S3, Lambda, API Gateway, RDS/Aurora, IAM) and core cloud concepts.\n• Understanding of RESTful API design and basic database concepts (SQL or NoSQL).\n• Basic knowledge of version control (Git) and the software development lifecycle.\n• Strong problem-solving mindset and willingness to learn in a regulated environment.\n\nPreferred Qualifications\n• Exposure to infrastructure as code (Terraform or CloudFormation) and CI/CD concepts.\n• Experience with containerization (Docker) and basic orchestration (ECS/EKS) is a plus.\n• Familiarity with monitoring/logging tools (CloudWatch, Splunk, or similar).\n• Awareness of security fundamentals, data privacy, and secure coding practices in government contexts.\n• U.S. Government or regulated industry experience or interest in government work.\n\nPhysical/Data/Other\n• Ability to work on-site or remotely per team policy.\n• Eligible to work in the United States without sponsorship (or per internal policy).\n\nHalvik offers a competitive full benefits package including:Company-supported medical, dental, vision, life, STD, and LTD insuranceBenefits include 11 federal holidays and PTOEligible employees may receive performance-based incentives in recognition of individual and/or team achievements.401(k) with company matchingFlexible Spending Accounts for commuter, medical, and dependent care expensesTuition AssistanceCharitable Contribution matching\n\nHalvik Corp is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.\n\nHalvik's pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.",
-    "job_employment_type": "CONTRACTOR",
-    "fingerprint": "5427e9fccb90c7bc58625bf08a6e9ffcb04ffc8e9023ba007f414a419a5666a5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-27T18:00:00.000Z"
-  },
-  {
     "job_id": "greenhouse-mongodb-7569187",
     "job_title": "2026 - Next in Tech Summit, NORAM",
     "employer_name": "MongoDB",
@@ -275,7 +275,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://www.linkedin.com/jobs/view/azure-databricks-engineer-at-smart-it-frame-llc-4377936037?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-27T15:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-02-27T16:00:00.000Z",
     "job_description": "Azure Databricks Engineer\n\nDecatur, Illinois Onsite\n\nWe are looking for a Data Replication Specialist with expertise in Microsoft Fabric and Databricks Lake flow connect to design implement and manage data replication and synchronization solutions across multiple data environments The ideal candidate will ensure that business critical data is consistently available accurate and up to date across systems for analytics reporting and operational needs\n\nKey Responsibilities\n\nDesign and implement data replication strategies using Microsoft Fabric Copy Data and Mirroring features\n\nConfigure and maintain replication pipelines between on-premises and cloud-based data sources e.g. SQL Server Azure SQL Synapse Data Lake Power BI Monitor and optimize replication performance latency and reliability\n\nTroubleshoot replication failures data drift and synchronization issues\n\nDevelop and maintain automation scripts for replication monitoring and alerting using PowerShell Python or REST APIs Document replication architectures data flow diagrams and operational procedures\n\nImplement security compliance and data governance standards within replicated environments\n\nStay updated on Microsoft Fabric enhancements and best practices for data replication and integration\n\nDesign develop and maintain data ingestion pipelines using Databricks and Lake flow\n\nConnect Integrate data from various structured and unstructured sources into Delta Lake and other data storage systems\n\nStay up to date with emerging Databricks Lakehouse and data integration technologies and best practices\n\nRequired Qualifications\n\nBachelors or Master's degree in Computer Science Information Systems Data Engineering or a related field\n\n4 years of experience in data engineering or ETL development\n\nHandson experience with Databricks SQL PySpark Delta Lake Proficiency with Lake flow\n\nConnect for building and managing data ingestion workflows Strong understanding of data integration patterns data modelling and data Lakehouse architectures\n\nExperience with cloud platforms Azure AWS or GCP and associated data services\n\nKnowledge of CICD version control Git and infrastructure as code practices\n\nFamiliarity with data governance security and compliance standards\n\nRequired Skills\n\nQualifications\n\nBachelor's degree in computer science information systems or related field\n\nExperience in data replication ETLELT or data integration\n\nHandson experience with Microsoft Fabric Azure Data Factory or Synapse Pipelines\n\nStrong understanding of Copy Data and Mirroring capabilities in Microsoft Fabric\n\nProficiency in SQL and scripting languages PowerShell Python\n\nExperience working with Azure Data Lake One Lake and Power BI Knowledge of change data capture CDC incremental loads and Realtime replication",
     "job_employment_type": "CONTRACTOR",
     "fingerprint": "79334a39b4f151714fc12c7e4a39c470286eef1dfbd9b91efd836002cd00156c",
@@ -293,7 +293,7 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
-    "job_posted_at": "2026-02-27T15:00:00.000Z"
+    "job_posted_at": "2026-02-27T16:00:00.000Z"
   },
   {
     "job_id": "greenhouse-hubspotjobs-7358191",
@@ -2391,6 +2391,36 @@
     "job_posted_at": "2026-02-23T19:44:41-05:00"
   },
   {
+    "job_id": "js-crossing-hurdles-xzu6wsyyqru7urwfaaaaaa==",
+    "job_title": "Software Engineer (SQL, Python) | $95/hr",
+    "employer_name": "Crossing Hurdles",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.linkedin.com/jobs/view/software-engineer-sql-python-%2495-hr-at-crossing-hurdles-4376069120?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-24T00:00:00.000Z",
+    "job_description": "Position: Software Engineer II\n\nType: Full-time position\n\nCompensation: $70–$95 per hour\n\nLocation: Menlo Park, CA, USA\n\nCommitment: 10–40 hours/week\n\nRole Responsibilities\n• Drive technical implementation and testing of complex data pipeline features within the SPECTRA platform\n• Design and develop data processing pipelines using SQL and Python\n• Build and maintain dashboards and visualization tools\n• Create comprehensive end-to-end tests and monitoring alerts\n• Debug and troubleshoot complex data flow issues\n• Collaborate closely with Technical Leads and engineering teams\n• Partner with Product Data Operations teams to coordinate human labeling workflows\n• Work with Taxonomists and Data Labeling Analysts on classification and QA processes\n• Coordinate with vendor partners supporting external data collection operations\n• Support smart sampling initiatives and targeted data collection strategies\n\nRequirements\n• Experience in SQL development writing complex queries and data transformations\n• Proficiency in Python with experience in data processing, automation, and pipeline development\n• Experience with data engineering pipelines including ETL processes and data modeling\n• Hands-on experience with data visualization and dashboard tools such as Tableau\n• Strong analytical and problem-solving skills\n• Experience with data quality monitoring and automated testing frameworks\n• Degree in Computer Science or related field\n• Machine Learning experience and understanding of ML training data requirements\n• Experience building and scaling large products or systems\n• Experience with privacy and ads-related products\n• Experience working with human labeling and annotation systems\n\nApplication Process (Takes 20 Mins)\n\nUpload resume\n\nInterview (15 min)\n\nSubmit form",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "54befda8d9e0141532f55e4a881a58f9faef9640da61643e225e04acbb15065e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-24T00:00:00.000Z"
+  },
+  {
     "job_id": "js-virtualvocations-7vcidwghwj2mmujqaaaaaa==",
     "job_title": "Associate MLOps Engineer",
     "employer_name": "VirtualVocations",
@@ -2612,67 +2642,6 @@
     "job_description": "Description:\n\nTake the next steps to your professional success as Solerity is a recognized leader in providing Information Technology, Engineering Services, Program Management and Consulting Services to the U.S Federal Government and our Intel Community. We enable our clients to achieve their organizational initiatives by applying high quality, innovative and cost-effective professional services, and solutions. Solerity needs your support to help us provide these solutions and continue our path as a recognized leader in providing resources for federal agencies and the Intel Community!\n\nYOUR RESPONSIBILITIES:\n\nSkills Desired (from most- to least- important):\n• Desire to provide value to our end users\n• Experience writing “modern” C++\n• Experience writing Python 3, Java, and GoLang\n• Experience with analytic development implementing algorithms\n\nin code\n• Experience building projects with CMake and Make\n• Experience with Machine Learning\n• Knowledge of tools for software development like git, docker,\n\ngoogletest/Junit, gitlab and gitlab CI\n• Desire to broaden your skillset\n\nRequirements:\n\nBENEFITS YOU'LL ENJOY:\n\n1. Medical, dental and vision coverage\n\n2. Health Savings Accounts and Flexible Spending Accounts for healthcare and dependent care\n\n3. Flexible work schedule to include onsite, hybrid or remote, as dictated by position\n\n4. 401(k) and company-funded life insurance\n\n5. Generous Paid Time Off (PTO)\n\n6. Tuition and training assistance\n\n7. Financial rewards for employee referrals.\n\n8. Pet insurance\n\n9. Employee discount program\n\nEMPLOYMENT OPPORTUNITIES: Solerity is committed to the range of perspectives we bring to the marketplace by being an employer dedicated to hiring a highly qualified team of professionals, providing world class services and products aimed at exceeding our customer’s expectations. Solerity is an equal opportunity employer as to all protected groups, including protected veterans and individuals with disabilities. Solerity is a VEVRAA Federal Contractor.\n\nAPPLY TODAY!",
     "job_employment_type": "FULL-TIME",
     "fingerprint": "3d817d7d55f8bb9b3ed32b362f46de7d32f33e3384789f89a6c52cdc56cb917a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-24T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-virtualvocations-xhfxwsdjmcvddr46aaaaaa==",
-    "job_title": "Junior AI Engineer",
-    "employer_name": "VirtualVocations",
-    "job_city": "Bridgeport",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.talent.com/view?id=554693159930628722&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-24T00:00:00.000Z",
-    "job_description": "A company is looking for a Junior AI Engineer to design and build AI-enabled helpdesks and contact centers.\n\nKey Responsibilities :\n\nBuild intelligent agents that plan, reason, and interact with users using evolving agentic frameworks\n\nBuild and maintain a configurable front and back end\n\nDesign tactful solutions to a variety of customer problems\n\nRequired Qualifications, Training, and Education :\n\n1-3 years of hands-on experience building and deploying full-stack applications with Node.js\n\nExperience with modern UI frameworks, preferably Angular\n\nCuriosity, autonomy, and the drive to make a real impact\n\nMust be a U.S. citizen due to the security clearance required for this position",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "599bf5ccddf95813d0cc60f774f800495f40caa462fde731454d0493d70b2a8c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-24T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-crossing-hurdles-xzu6wsyyqru7urwfaaaaaa==",
-    "job_title": "Software Engineer (SQL, Python) | $95/hr",
-    "employer_name": "Crossing Hurdles",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.linkedin.com/jobs/view/software-engineer-sql-python-%2495-hr-at-crossing-hurdles-4376069120?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-24T00:00:00.000Z",
-    "job_description": "Position: Software Engineer II\n\nType: Full-time position\n\nCompensation: $70–$95 per hour\n\nLocation: Menlo Park, CA, USA\n\nCommitment: 10–40 hours/week\n\nRole Responsibilities\n• Drive technical implementation and testing of complex data pipeline features within the SPECTRA platform\n• Design and develop data processing pipelines using SQL and Python\n• Build and maintain dashboards and visualization tools\n• Create comprehensive end-to-end tests and monitoring alerts\n• Debug and troubleshoot complex data flow issues\n• Collaborate closely with Technical Leads and engineering teams\n• Partner with Product Data Operations teams to coordinate human labeling workflows\n• Work with Taxonomists and Data Labeling Analysts on classification and QA processes\n• Coordinate with vendor partners supporting external data collection operations\n• Support smart sampling initiatives and targeted data collection strategies\n\nRequirements\n• Experience in SQL development writing complex queries and data transformations\n• Proficiency in Python with experience in data processing, automation, and pipeline development\n• Experience with data engineering pipelines including ETL processes and data modeling\n• Hands-on experience with data visualization and dashboard tools such as Tableau\n• Strong analytical and problem-solving skills\n• Experience with data quality monitoring and automated testing frameworks\n• Degree in Computer Science or related field\n• Machine Learning experience and understanding of ML training data requirements\n• Experience building and scaling large products or systems\n• Experience with privacy and ads-related products\n• Experience working with human labeling and annotation systems\n\nApplication Process (Takes 20 Mins)\n\nUpload resume\n\nInterview (15 min)\n\nSubmit form",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "54befda8d9e0141532f55e4a881a58f9faef9640da61643e225e04acbb15065e",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3237,6 +3206,67 @@
     "job_posted_at": "2026-02-23T17:09:25.360+00:00"
   },
   {
+    "job_id": "js-virtualvocations-xhfxwsdjmcvddr46aaaaaa==",
+    "job_title": "Junior AI Engineer",
+    "employer_name": "VirtualVocations",
+    "job_city": "Bridgeport",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.talent.com/view?id=554693159930628722&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
+    "job_description": "A company is looking for a Junior AI Engineer to design and build AI-enabled helpdesks and contact centers.\n\nKey Responsibilities :\n\nBuild intelligent agents that plan, reason, and interact with users using evolving agentic frameworks\n\nBuild and maintain a configurable front and back end\n\nDesign tactful solutions to a variety of customer problems\n\nRequired Qualifications, Training, and Education :\n\n1-3 years of hands-on experience building and deploying full-stack applications with Node.js\n\nExperience with modern UI frameworks, preferably Angular\n\nCuriosity, autonomy, and the drive to make a real impact\n\nMust be a U.S. citizen due to the security clearance required for this position",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "599bf5ccddf95813d0cc60f774f800495f40caa462fde731454d0493d70b2a8c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-23T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-motion-recruitment-qtlxzrmgsnhp1jw0aaaaaa==",
+    "job_title": "Software Engineer / Agentic AI / LangChain",
+    "employer_name": "Motion Recruitment",
+    "job_city": "Dallas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.linkedin.com/jobs/view/software-engineer-agentic-ai-langchain-at-motion-recruitment-4376884438?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
+    "job_description": "We are looking for a Data Scientist with a focus on building & utilizing Agentic AI. In this position you will be developing everything from chatbots to multi-agent systems to partner with & enhance the work of various technical & non-technical resources (Marketing, data analytics, etc).\n\nThis is an opportunity to join an enterprise organization working with cutting-edge AI applications across the entire organization, embedding AI across the entire company. This is a senior position requiring prior experience building and deploying agents in a real, production environment.\n\nApplicants must be currently authorized to work in the US on a full-time basis now and in the future. Required Skills & Experience\n• 4+ Years of experience in Data Science, software engineering, or similar\n• Building/implementing AI chatbots or agents\n• LLMS: implementing, tuning\n• Claude, Gemini, GPT-4\n• RAG implementation utilizing Vector Databases\n\nWhat You Will Be Doing The Offer You will receive the following benefits:\n• Desired Skills & Experience\n• Bachelor’s or Master’s degree in Computer Science, Data Science, or similar\n• Familiarity with other forms of generative and/or multimodal AI (text/images/videos)\n• Eligible for Annual Salary Bonu\n• Medical Insurance\n• Dental Benefits\n• Vision Benefits\n• Paid Time Off (PTO)\n• 401(k)\n\nPosted By: Connor Ellis",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "26cb9ccb130ba1f94e604ddf3b1d89b398cd6eeedca11f335e0e59dbac0fc2ed",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-23T00:00:00.000Z"
+  },
+  {
     "job_id": "js-virtualvocations-2_slfz2drqlrnk6maaaaaa==",
     "job_title": "Associate MLOps Engineer",
     "employer_name": "VirtualVocations",
@@ -3471,36 +3501,6 @@
     "job_posted_at": "2026-02-23T00:00:00.000Z"
   },
   {
-    "job_id": "js-motion-recruitment-qtlxzrmgsnhp1jw0aaaaaa==",
-    "job_title": "Software Engineer / Agentic AI / LangChain",
-    "employer_name": "Motion Recruitment",
-    "job_city": "Dallas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.linkedin.com/jobs/view/software-engineer-agentic-ai-langchain-at-motion-recruitment-4376884438?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
-    "job_description": "We are looking for a Data Scientist with a focus on building & utilizing Agentic AI. In this position you will be developing everything from chatbots to multi-agent systems to partner with & enhance the work of various technical & non-technical resources (Marketing, data analytics, etc).\n\nThis is an opportunity to join an enterprise organization working with cutting-edge AI applications across the entire organization, embedding AI across the entire company. This is a senior position requiring prior experience building and deploying agents in a real, production environment.\n\nApplicants must be currently authorized to work in the US on a full-time basis now and in the future. Required Skills & Experience\n• 4+ Years of experience in Data Science, software engineering, or similar\n• Building/implementing AI chatbots or agents\n• LLMS: implementing, tuning\n• Claude, Gemini, GPT-4\n• RAG implementation utilizing Vector Databases\n\nWhat You Will Be Doing The Offer You will receive the following benefits:\n• Desired Skills & Experience\n• Bachelor’s or Master’s degree in Computer Science, Data Science, or similar\n• Familiarity with other forms of generative and/or multimodal AI (text/images/videos)\n• Eligible for Annual Salary Bonu\n• Medical Insurance\n• Dental Benefits\n• Vision Benefits\n• Paid Time Off (PTO)\n• 401(k)\n\nPosted By: Connor Ellis",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "26cb9ccb130ba1f94e604ddf3b1d89b398cd6eeedca11f335e0e59dbac0fc2ed",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-23T00:00:00.000Z"
-  },
-  {
     "job_id": "js-virtualvocations-vyf0yvyqmpgngnkcaaaaaa==",
     "job_title": "Entry-Level Data Analyst",
     "employer_name": "VirtualVocations",
@@ -3622,6 +3622,36 @@
     "job_posted_at": "2026-02-23T00:00:00.000Z"
   },
   {
+    "job_id": "js-five-star-management-zovrwcfbj5ecwmfoaaaaaa==",
+    "job_title": "Junior Software Engineer",
+    "employer_name": "Five Star Management",
+    "job_city": "Jersey Village",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.adzuna.com/details/5641516526?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_posted_at_datetime_utc": "2026-02-22T00:00:00.000Z",
+    "job_description": "Description\n\nJob Overview:\n\nWe are seeking a motivated Junior Software Engineer to join our growing technology team. In this role, you will support the design, development, testing, and maintenance of software applications and AI-driven systems used across our manufacturing and business operations. You will work closely with senior software and machine learning engineers to deploy, monitor, and maintain machine learning models in production environments. This role offers hands-on experience with real-world AI projects, automation, and industrial systems.\n\nKey Responsibilities:\n\n• Assist in developing, testing, and maintaining software applications and internal tools.\n\n• Support deployment, monitoring, and maintenance of machine learning models in production environments.\n\n• Work on AI and computer vision projects related to automation, and analytics.\n\n• Write clean, maintainable, and well-documented code following best practices.\n\n• Integrate software and ML solutions with databases, APIs, and production systems.\n\n• Debug and troubleshoot software and model-related issues under guidance from senior engineers.\n\n• Collaborate with cross-functional teams including production, quality, IT, and R&D.\n\n• Participate in code reviews and continuous improvement initiatives.\n\nRequired Skills and Qualifications:\n\n• Bachelor’s degree in Computer Science, Software Engineering, or a related field (or equivalent experience).\n\n• Basic proficiency in Python or another programming language such as Java, C#, or JavaScript.\n\n• Understanding of software development fundamentals, data structures, and algorithms.\n\n• Basic knowledge of machine learning concepts and model deployment workflows.\n\n• Exposure to ML frameworks such as PyTorch, TensorFlow, or similar is a plus.\n\n• Familiarity with databases, SQL, and REST APIs.",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "a26cb0e250689d9515d6c38932ad4486178c804cb877a128871f3a00c5f99533",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-22T00:00:00.000Z"
+  },
+  {
     "job_id": "js-synergisticit-q2oa4dnufmslvhntaaaaaa==",
     "job_title": "AI & Machine Learning Engineer (Remote) at SynergisticIT Houston, TX",
     "employer_name": "SynergisticIT",
@@ -3665,36 +3695,6 @@
     "job_description": "Position Overview\n\nSince 2010, Synergisticit has empowered jobseekers to break into the tech market by equipping candidates with the requisite skills, experience, and technical competence needed to excel in interviews and secure top roles. We don’t just focus on landing you a tech job – we build careers. Our candidates have secured multiple job offers alongside Compensation: $100k+ salaries. Currently, we are looking for entry-level Software Programmers, Java Full Stack Developers, Python/Java Developers, Data Analysts/Data Scientists, and Machine Learning Engineers for full-time positions with top clients. Who should apply: Recent graduates in Computer Science, Engineering, Mathematics, Statistics, or Science – as well as individuals seeking a career switch or looking to bridge employment gaps. We also assist with STEM extension, H1B, and Green Card filings. All positions are open to US citizens and candidates on all visa statuses.\n\nKey Responsibilities\n• Participate in technical interviews and coding assessments.\n• Contribute to software development projects and tasks.\n• Engage with top tech companies to gain a competitive advantage.\n• Collaborate with team members and placement experts to align with client requirements.\n\nRequired Qualifications\n\nFor Data Science/Machine Learning Positions:\n• Bachelor’s or Master’s in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, or related field.\n• Project work on relevant technologies.\n• Highly motivated, self-learner, and technically inquisitive.\n• Experience with Java and a solid understanding of the software development life cycle.\n• Knowledge of Statistics, Generative AI, LLM, Python, Computer Vision, and data visualization tools.\n• Excellent written and verbal communication skills.\n\nFor Java/Full Stack/Software Positions:\n• Bachelor’s or Master’s in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, or related field.\n• Highly motivated, self-learner, and technically inquisitive.\n• Experience with Java programming and understanding of the software development life cycle.\n• Project work on relevant technical skills.\n• Knowledge of Core Java, JavaScript, C++ or similar programming languages.\n• Experience with Spring Boot, Microservices, Docker, Jenkins, GitHub, Kubernetes, and REST APIs.\n• Excellent written and verbal communication skills.\n\nPreferred Qualifications\n• For Data Science/Machine Learning roles: Familiarity with NLP, Text Mining, Tableau, Power BI, Databricks, and TensorFlow.",
     "job_employment_type": "FULL-TIME",
     "fingerprint": "ecde7182204e3da68ef07d568e05278272972a16f1e7cdecc0d4397fd2e10acf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-22T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-five-star-management-zovrwcfbj5ecwmfoaaaaaa==",
-    "job_title": "Junior Software Engineer",
-    "employer_name": "Five Star Management",
-    "job_city": "Jersey Village",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.adzuna.com/details/5641516526?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-22T00:00:00.000Z",
-    "job_description": "Description\n\nJob Overview:\n\nWe are seeking a motivated Junior Software Engineer to join our growing technology team. In this role, you will support the design, development, testing, and maintenance of software applications and AI-driven systems used across our manufacturing and business operations. You will work closely with senior software and machine learning engineers to deploy, monitor, and maintain machine learning models in production environments. This role offers hands-on experience with real-world AI projects, automation, and industrial systems.\n\nKey Responsibilities:\n\n• Assist in developing, testing, and maintaining software applications and internal tools.\n\n• Support deployment, monitoring, and maintenance of machine learning models in production environments.\n\n• Work on AI and computer vision projects related to automation, and analytics.\n\n• Write clean, maintainable, and well-documented code following best practices.\n\n• Integrate software and ML solutions with databases, APIs, and production systems.\n\n• Debug and troubleshoot software and model-related issues under guidance from senior engineers.\n\n• Collaborate with cross-functional teams including production, quality, IT, and R&D.\n\n• Participate in code reviews and continuous improvement initiatives.\n\nRequired Skills and Qualifications:\n\n• Bachelor’s degree in Computer Science, Software Engineering, or a related field (or equivalent experience).\n\n• Basic proficiency in Python or another programming language such as Java, C#, or JavaScript.\n\n• Understanding of software development fundamentals, data structures, and algorithms.\n\n• Basic knowledge of machine learning concepts and model deployment workflows.\n\n• Exposure to ML frameworks such as PyTorch, TensorFlow, or similar is a plus.\n\n• Familiarity with databases, SQL, and REST APIs.",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "a26cb0e250689d9515d6c38932ad4486178c804cb877a128871f3a00c5f99533",
     "tags": {
       "employment": "entry_level",
       "domains": [
