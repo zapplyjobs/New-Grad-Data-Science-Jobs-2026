@@ -74,9 +74,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Anthropic** | Research Engineer / Research Scientist, Tokens | New York City, NY | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4951814008) |
-| 🏢 **SynergisticIT** | entry level data scientist/Java Spring developer/Machine learning AI engineer | Gainesville | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobright.ai/jobs/info/69a2684c359fe034b1cda78e) |
-| 🏢 **Anthropic** | Research Scientist, Societal Impacts | San Francisco, CA | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5076616008) |
-| 🏢 **Anthropic** | Research Engineer / Scientist, Societal Impacts | San Francisco, CA | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5076606008) |
+| 🏢 **SynergisticIT** | entry level data scientist/Java Spring developer/Machine learning AI engineer | Gainesville | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobright.ai/jobs/info/69a2684c359fe034b1cda78e) |
+| 🏢 **Anthropic** | Research Scientist, Societal Impacts | San Francisco, CA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5076616008) |
+| 🏢 **Anthropic** | Research Engineer / Scientist, Societal Impacts | San Francisco, CA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5076606008) |
 | 🏢 **HubSpot** | Analytics Engineer 🏠 | Remote | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hubspot.com/careers/jobs/7358191?gh_jid=7358191) |
 | 🏢 **Anduril** | Analytics Engineer, Quality Analytics | Costa Mesa | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5034686007?gh_jid=5034686007) |
 | 🏢 **Anduril** | Machine Learning Engineer, Quality Analytics | Costa Mesa | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5034660007?gh_jid=5034660007) |
@@ -108,11 +108,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **EMCOR Group, Inc.** | Business Data Analyst, Construction; Entry Level | Baltimore | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/3ya8tbzkJ4hWczj59HMX7K) |
+| 🏢 **EMCOR Group, Inc.** | Business Data Analyst, Construction; Entry Level | Baltimore | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/3ya8tbzkJ4hWczj59HMX7K) |
 | 🏢 **Airbnb** | Software Engineer, Trust 🏠 | Remote | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.airbnb.com/positions/7612127?gh_jid=7612127) |
 | 🏢 **Datadog** | Strategic Finance Associate - NYC | New York | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7624017/?gh_jid=7624017) |
-| 🏢 **Coinbase** | Reconciliation Operations & Strategy Associate 🏠 | Remote | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7650231?gh_jid=7650231) |
-| 🏢 **Halvik** | Junior Full Stack Developer 🏠 | Alexandria | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/junior-full-stack-developer-at-halvik-4379044942) |
+| 🏢 **Coinbase** | Reconciliation Operations & Strategy Associate 🏠 | Remote | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7650231?gh_jid=7650231) |
+| 🏢 **Halvik** | Junior Full Stack Developer 🏠 | Alexandria | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/junior-full-stack-developer-at-halvik-4379044942) |
 | 🏢 **Dropbox** | Full Stack Software Engineer, Dash Experiences | Remote | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7569140?gh_jid=7569140) |
 | 🏢 **MongoDB** | 2026 - Next in Tech Summit, NORAM | Austin; New York ... | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7569187) |
 | 🏢 **Smart IT Frame LLC** | Azure Databricks Engineer | Decatur | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/azure-databricks-engineer-at-smart-it-frame-llc-4377936037?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
