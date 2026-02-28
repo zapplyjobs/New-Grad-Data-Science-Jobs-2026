@@ -244,7 +244,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://www.linkedin.com/jobs/view/azure-databricks-engineer-at-smart-it-frame-llc-4377936037?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-27T16:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-02-27T15:00:00.000Z",
     "job_description": "Azure Databricks Engineer\n\nDecatur, Illinois Onsite\n\nWe are looking for a Data Replication Specialist with expertise in Microsoft Fabric and Databricks Lake flow connect to design implement and manage data replication and synchronization solutions across multiple data environments The ideal candidate will ensure that business critical data is consistently available accurate and up to date across systems for analytics reporting and operational needs\n\nKey Responsibilities\n\nDesign and implement data replication strategies using Microsoft Fabric Copy Data and Mirroring features\n\nConfigure and maintain replication pipelines between on-premises and cloud-based data sources e.g. SQL Server Azure SQL Synapse Data Lake Power BI Monitor and optimize replication performance latency and reliability\n\nTroubleshoot replication failures data drift and synchronization issues\n\nDevelop and maintain automation scripts for replication monitoring and alerting using PowerShell Python or REST APIs Document replication architectures data flow diagrams and operational procedures\n\nImplement security compliance and data governance standards within replicated environments\n\nStay updated on Microsoft Fabric enhancements and best practices for data replication and integration\n\nDesign develop and maintain data ingestion pipelines using Databricks and Lake flow\n\nConnect Integrate data from various structured and unstructured sources into Delta Lake and other data storage systems\n\nStay up to date with emerging Databricks Lakehouse and data integration technologies and best practices\n\nRequired Qualifications\n\nBachelors or Master's degree in Computer Science Information Systems Data Engineering or a related field\n\n4 years of experience in data engineering or ETL development\n\nHandson experience with Databricks SQL PySpark Delta Lake Proficiency with Lake flow\n\nConnect for building and managing data ingestion workflows Strong understanding of data integration patterns data modelling and data Lakehouse architectures\n\nExperience with cloud platforms Azure AWS or GCP and associated data services\n\nKnowledge of CICD version control Git and infrastructure as code practices\n\nFamiliarity with data governance security and compliance standards\n\nRequired Skills\n\nQualifications\n\nBachelor's degree in computer science information systems or related field\n\nExperience in data replication ETLELT or data integration\n\nHandson experience with Microsoft Fabric Azure Data Factory or Synapse Pipelines\n\nStrong understanding of Copy Data and Mirroring capabilities in Microsoft Fabric\n\nProficiency in SQL and scripting languages PowerShell Python\n\nExperience working with Azure Data Lake One Lake and Power BI Knowledge of change data capture CDC incremental loads and Realtime replication",
     "job_employment_type": "CONTRACTOR",
     "fingerprint": "79334a39b4f151714fc12c7e4a39c470286eef1dfbd9b91efd836002cd00156c",
@@ -262,7 +262,7 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
-    "job_posted_at": "2026-02-27T16:00:00.000Z"
+    "job_posted_at": "2026-02-27T15:00:00.000Z"
   },
   {
     "job_id": "greenhouse-hubspotjobs-7358191",
@@ -2414,36 +2414,6 @@
         "on_site"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-24T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-solerity-g7c8abajdqlnr44eaaaaaa==",
-    "job_title": "Software Engineer I (TS/SCI with Poly)",
-    "employer_name": "SOLERITY",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.glassdoor.com/job-listing/software-engineer-i-ts-sci-with-poly-solerity-JV_KO0,36_KE37,45.htm?jl=1009361974121&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_posted_at_datetime_utc": "2026-02-24T00:00:00.000Z",
-    "job_description": "Description:\n\nTake the next steps to your professional success as Solerity is a recognized leader in providing Information Technology, Engineering Services, Program Management and Consulting Services to the U.S Federal Government and our Intel Community. We enable our clients to achieve their organizational initiatives by applying high quality, innovative and cost-effective professional services, and solutions. Solerity needs your support to help us provide these solutions and continue our path as a recognized leader in providing resources for federal agencies and the Intel Community!\n\nYOUR RESPONSIBILITIES:\n\nSkills Desired (from most- to least- important):\n• Desire to provide value to our end users\n• Experience writing “modern” C++\n• Experience writing Python 3, Java, and GoLang\n• Experience with analytic development implementing algorithms\n\nin code\n• Experience building projects with CMake and Make\n• Experience with Machine Learning\n• Knowledge of tools for software development like git, docker,\n\ngoogletest/Junit, gitlab and gitlab CI\n• Desire to broaden your skillset\n\nRequirements:\n\nBENEFITS YOU'LL ENJOY:\n\n1. Medical, dental and vision coverage\n\n2. Health Savings Accounts and Flexible Spending Accounts for healthcare and dependent care\n\n3. Flexible work schedule to include onsite, hybrid or remote, as dictated by position\n\n4. 401(k) and company-funded life insurance\n\n5. Generous Paid Time Off (PTO)\n\n6. Tuition and training assistance\n\n7. Financial rewards for employee referrals.\n\n8. Pet insurance\n\n9. Employee discount program\n\nEMPLOYMENT OPPORTUNITIES: Solerity is committed to the range of perspectives we bring to the marketplace by being an employer dedicated to hiring a highly qualified team of professionals, providing world class services and products aimed at exceeding our customer’s expectations. Solerity is an equal opportunity employer as to all protected groups, including protected veterans and individuals with disabilities. Solerity is a VEVRAA Federal Contractor.\n\nAPPLY TODAY!",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "3d817d7d55f8bb9b3ed32b362f46de7d32f33e3384789f89a6c52cdc56cb917a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
