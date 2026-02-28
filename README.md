@@ -74,7 +74,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Anthropic** | Research Engineer / Research Scientist, Tokens | New York City, NY | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4951814008) |
-| 🏢 **SynergisticIT** | entry level data scientist/Java Spring developer/Machine learning AI engineer | Gainesville | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobright.ai/jobs/info/69a2684c359fe034b1cda78e) |
+| 🏢 **SynergisticIT** | entry level data scientist/Java Spring developer/Machine learning AI engineer | Gainesville | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobright.ai/jobs/info/69a2684c359fe034b1cda78e) |
 | 🏢 **Anthropic** | Research Scientist, Societal Impacts | San Francisco, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5076616008) |
 | 🏢 **Anthropic** | Research Engineer / Scientist, Societal Impacts | San Francisco, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5076606008) |
 | 🏢 **HubSpot** | Analytics Engineer 🏠 | Remote | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hubspot.com/careers/jobs/7358191?gh_jid=7358191) |
@@ -108,10 +108,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **EMCOR Group, Inc.** | Business Data Analyst, Construction; Entry Level | Baltimore | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/3ya8tbzkJ4hWczj59HMX7K) |
+| 🏢 **EMCOR Group, Inc.** | Business Data Analyst, Construction; Entry Level | Baltimore | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/3ya8tbzkJ4hWczj59HMX7K) |
 | 🏢 **Airbnb** | Software Engineer, Trust 🏠 | Remote | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.airbnb.com/positions/7612127?gh_jid=7612127) |
 | 🏢 **Datadog** | Strategic Finance Associate - NYC | New York | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7624017/?gh_jid=7624017) |
-| 🏢 **Coinbase** | Reconciliation Operations & Strategy Associate 🏠 | Remote | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7650231?gh_jid=7650231) |
+| 🏢 **Coinbase** | Reconciliation Operations & Strategy Associate 🏠 | Remote | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7650231?gh_jid=7650231) |
 | 🏢 **Dropbox** | Full Stack Software Engineer, Dash Experiences | Remote | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7569140?gh_jid=7569140) |
 | 🏢 **MongoDB** | 2026 - Next in Tech Summit, NORAM | Austin; New York ... | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7569187) |
 | 🏢 **Smart IT Frame LLC** | Azure Databricks Engineer | Decatur | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/azure-databricks-engineer-at-smart-it-frame-llc-4377936037?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -166,8 +166,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **New York City** | Junior IT Services Engineer 🏠 | New York | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://cityjobs.nyc.gov/job/junior-it-services-engineer-in-manhattan-jid-40968?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Huntington Ingalls Industries** | Software Engineer - 27272   Syracuse, NY, USA | New York | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.efinancialcareers.com/jobs-USA-NY-Syracuse-Software_Engineer_-_27272.id23877102?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Okta** | Strategic Account Executive, St. Louis, MO 🏠 | Kansas City | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7354266?gh_jid=7354266) |
-| 🏢 **Airtable** | Software Engineer, Product Backend (2-8 YOE) 🏠 | San Francisco, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/7845291002) |
-| 🏢 **Airtable** | Software Engineer, Product Frontend (2-8 YOE) 🏠 | San Francisco, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/7845265002) |
+| 🏢 **Airtable** | Software Engineer, Product Backend (2-8 YOE) 🏠 | San Francisco, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/7845291002) |
+| 🏢 **Airtable** | Software Engineer, Product Frontend (2-8 YOE) 🏠 | San Francisco, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/7845265002) |
 | 🏢 **SpaceX** | Operations Engineer, Security | Hawthorne, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8397366002?gh_jid=8397366002) |
 | 🏢 **Walmart** | Java, Javascript, Python, NodeJS Software Engineer | Centreville | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Walmart/Job/Java,-Javascript,-Python,-NodeJS-Software-Engineer/-in-Centreville,VA?jid=5365c333c3b2fb5d) |
 | 🏢 **Crossing Hurdles** | Software Engineer (SQL, Python)   $95/hr | Unknown | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/software-engineer-sql-python-%2495-hr-at-crossing-hurdles-4376069120?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
