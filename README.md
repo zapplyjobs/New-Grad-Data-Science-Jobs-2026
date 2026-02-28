@@ -73,9 +73,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Apply |
 |---------|------|----------|--------|-------|
-| 🏢 **SynergisticIT** | entry level data scientist/Java Spring developer/Machine learning AI engineer | Gainesville | 10h | [🔗 Apply](https://jobright.ai/jobs/info/69a2684c359fe034b1cda78e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Anthropic** | Research Scientist, Societal Impacts | San Francisco, CA | 18h | [🔗 Apply](https://job-boards.greenhouse.io/anthropic/jobs/5076616008) |
-| 🏢 **Anthropic** | Research Engineer / Scientist, Societal Impacts | San Francisco, CA | 18h | [🔗 Apply](https://job-boards.greenhouse.io/anthropic/jobs/5076606008) |
+| 🏢 **SynergisticIT** | entry level data scientist/Java Spring developer/Machine learning AI engineer | Gainesville | 11h | [🔗 Apply](https://jobright.ai/jobs/info/69a2684c359fe034b1cda78e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Anthropic** | Research Scientist, Societal Impacts | San Francisco, CA | 19h | [🔗 Apply](https://job-boards.greenhouse.io/anthropic/jobs/5076616008) |
+| 🏢 **Anthropic** | Research Engineer / Scientist, Societal Impacts | San Francisco, CA | 19h | [🔗 Apply](https://job-boards.greenhouse.io/anthropic/jobs/5076606008) |
 | 🏢 **HubSpot** | Analytics Engineer 🏠 | Remote | 1d | [🔗 Apply](https://www.hubspot.com/careers/jobs/7358191?gh_jid=7358191) |
 | 🏢 **Anduril** | Analytics Engineer, Quality Analytics | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5034686007?gh_jid=5034686007) |
 | 🏢 **Anduril** | Machine Learning Engineer, Quality Analytics | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5034660007?gh_jid=5034660007) |
@@ -108,10 +108,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|-------|
 | 🏢 **Airbnb** | Software Engineer, Trust 🏠 | Remote | 16h | [🔗 Apply](https://careers.airbnb.com/positions/7612127?gh_jid=7612127) |
 | 🏢 **Datadog** | Strategic Finance Associate - NYC | New York | 17h | [🔗 Apply](https://careers.datadoghq.com/detail/7624017/?gh_jid=7624017) |
-| 🏢 **Coinbase** | Reconciliation Operations & Strategy Associate 🏠 | Remote | 17h | [🔗 Apply](https://www.coinbase.com/careers/positions/7650231?gh_jid=7650231) |
-| 🏢 **Halvik** | Junior Full Stack Developer 🏠 | Alexandria | 18h | [🔗 Apply](https://www.linkedin.com/jobs/view/junior-full-stack-developer-at-halvik-4379044942?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Coinbase** | Reconciliation Operations & Strategy Associate 🏠 | Remote | 18h | [🔗 Apply](https://www.coinbase.com/careers/positions/7650231?gh_jid=7650231) |
+| 🏢 **Halvik** | Junior Full Stack Developer 🏠 | Alexandria | 19h | [🔗 Apply](https://www.linkedin.com/jobs/view/junior-full-stack-developer-at-halvik-4379044942?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **MongoDB** | 2026 - Next in Tech Summit, NORAM | Austin; New York ... | 20h | [🔗 Apply](https://www.mongodb.com/careers/job/?gh_jid=7569187) |
-| 🏢 **Smart IT Frame LLC** | Azure Databricks Engineer | Decatur | 21h | [🔗 Apply](https://www.linkedin.com/jobs/view/azure-databricks-engineer-at-smart-it-frame-llc-4377936037?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Smart IT Frame LLC** | Azure Databricks Engineer | Decatur | 22h | [🔗 Apply](https://www.linkedin.com/jobs/view/azure-databricks-engineer-at-smart-it-frame-llc-4377936037?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Anduril** | Data Analyst, Corporate Operations | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5027763007?gh_jid=5027763007) |
 | 🏢 **Anduril** | Embedded Haskell Engineer | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/5043620007?gh_jid=5043620007) |
 | 🏢 **Anduril** | Mission Operations Analysis Engineer, Space | Costa Mesa | 1d | [🔗 Apply](https://boards.greenhouse.io/andurilindustries/jobs/4984579007?gh_jid=4984579007) |
