@@ -27,33 +27,19 @@ const path = require('path');
 // Import shared utilities library
 const sharedUtils = require('../shared/lib/utils');
 
-// Try to load company database (different filenames for different repos)
-// Main repos: companies.json
-// SEO repos: software.json, data-science.json, hardware.json, etc.
+// Load company database if present (New-Grad and Internships repos have companies.json;
+// SEO repos do not — company emoji/career URL features degrade gracefully to defaults)
 let companies = {};
-const possibleFiles = ['companies.json', 'software.json', 'data-science.json', 'hardware.json', 'nursing.json'];
 
-for (const file of possibleFiles) {
-  const filePath = path.join(__dirname, file);
-  if (fs.existsSync(filePath)) {
-    companies = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-    break;
-  }
-}
+const companiesPath = path.join(__dirname, 'companies.json');
+if (fs.existsSync(companiesPath)) {
+  companies = JSON.parse(fs.readFileSync(companiesPath, 'utf8'));
 
-// Initialize shared library with this repo's company data (if found and compatible format)
-// Main repos use format: {category: [{name, api_names}, ...]}
-// SEO repos use format: {category: {title, companies: [names]}}
-// Only initialize for Main repo format to avoid errors
-if (Object.keys(companies).length > 0) {
+  // Only initialize for the expected format: {category: [{name, api_names}, ...]}
   const firstCategory = Object.values(companies)[0];
-
-  // Check if Main repo format (array of company objects)
   if (Array.isArray(firstCategory)) {
     sharedUtils.initCompanyDatabase(companies);
   }
-  // SEO repo format - skip company init, just use shared filtering logic
-  // Company-specific features won't work, but core filtering (US location, experience level) will
 }
 
 // Re-export all shared utilities
