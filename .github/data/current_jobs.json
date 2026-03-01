@@ -127,7 +127,7 @@
     "job_is_remote": false,
     "job_apply_link": "https://careers.morningstar.com/us/en/job/AP-23077420/Associate-Software-Engineer-Credit-Tech",
     "job_posted_at_datetime_utc": "2026-02-28T23:00:00.000Z",
-    "job_description": "Responsibilities\n• GEO/SEO: Leverage GEO engineering best practices to help ensure Morningstar DBRS Content is indexed by top AI assistants such that people use popular AI assistants like ChatGPT/Gemini etc. and search for credit ratings related content or data, these tools should surface Morningstar DBRS content and refer users to dbrs.morningstar.com website.\n• Prompt Engineering: The practice of designing, refining, and optimizing input prompts to guide AI models (such as large language models, e.g., GPT-4) toward generating high-quality, relevant, and accurate outputs.\n• Cutting Edge AI Development: Use latest AI techniques and tools like computer use to drive to power accelerated Insights, Discovery and Action.\n• Backend & Data Development: Support the design and development of backend services to handle data processing, publication, and delivery to downstream applications. Assist in developing APIs and cloud-native components using AWS services.\n• Application Maintenance & Modernization: Help maintain, refactor, and migrate existing applications and services to modern, scalable AWS-based architectures.\n• Collaboration: Work closely with senior engineers, product teams, data engineers, and DevOps/SRE partners to align backend and cloud solutions with business needs.\n• Engineering Practices: Write clean, maintainable, and testable code. Participate in code reviews and adhere to modern engineering standards.\n• Learning & Growth: Stay up to date on AWS cloud technologies and AI-assisted development tools. Demonstrate curiosity about applying AI and automation to improve engineering productivity and system efficiency.\n\nQualifications\n• Problem-Solving: Ability to analyze technical challenges, propose solutions, and deliver reliable results with guidance.\n• Methodology: Familiarity with Agile/Scrum practices and modern software development methodologies.\n• Security Awareness: Basic understanding of secure service design, API security concepts, and AWS security best practices.\n• Education: Bachelor’s degree in computer science or related field, or equivalent practical experience.\n• Experience: 0–2 years of professional software development experience, with exposure to backend development and cloud-based systems.\n\nTechnical Skills\n• Experience building or consuming REST APIs; familiarity with event-driven patterns is a plus.\n• Hands-on exposure to AWS services such as Bedrock, Lambda, SQS, SNS, API Gateway, S3, and RDS; basic understanding of serverless patterns is preferred.\n• Experience with SQL/NoSQL databases and basic data workflows (plus).\n• Scripting experience with Python for automation, small data tasks, or AI experimentation (plus).\n• Frontend exposure to Vue.js or other modern JavaScript frameworks (plus).\n• AI/ML Exposure: Interest or basic experience with AI-assisted development tools (e.g., GitHub Copilot), prompt engineering, or integrating simple AI APIs. Understanding how AI can support automation, testing, or data workflows is a strong plus.\n• Analytical thinking to break down complex tasks into clear instructions. Understanding of AI model strengths, limitations, and context windows. Experimentation with prompt phrasing for improved results.\n\nCompensation and Benefits\n\nAt Morningstar we believe people are at their best when they are at their healthiest. That’s why we champion your wellness through a wide range of programs that support all stages of your personal and professional life. Here are some examples of the offerings we provide:\n• Financial Health\n• 100% 401k match up to 6% of salary\n• Stock Ownership Potential\n• Company provided life insurance - 1x salary + commission\n• Physical Health\n• Comprehensive health benefits (medical/dental/vision) including potential premium discounts and company-provided HSA contributions (up to $500-$2,000 annually) for specific plans and coverages\n• Additional medical Wellness Incentives - up to $300-$600 annual\n• Company-provided long- and short-term disability insurance\n• Emotional Health\n• Trust-Based Time Off\n• 6-week Paid Sabbatical Program\n• 6-Week Paid Family Caregiving Leave\n• Competitive 8-24 Week Paid Parental Leave\n• Adoption Assistance\n• Leadership Coaching & Formal Mentorship Opportunities\n• Annual Flex Stipend - $1000 annually to cover personal education & well-being expenses\n• Tuition Reimbursement\n• Social Health\n• Charitable Matching Gifts program\n• Dollars for Doers volunteer program\n• Paid volunteering days\n• 15+ Employee Resource & Affinity Groups\n\nTotal Cash Compensation Range\n$70,825.00 - 120,425.00 USD Annual\n\nInclusive of annual base salary and target incentive\n\nMorningstar's hybrid work environment gives you the opportunity to collaborate in-person each week as we've found that we're at our best when we're purposely together on a regular basis. In most of our locations, our hybrid work model is four days in-office each week. A range of other benefits are also available to enhance flexibility as needs change. No matter where you are, you'll have tools and resources to engage meaningfully with your global colleagues.\n\nR06_DBRSInc DBRS, Inc. - US Legal Entity",
+    "job_description": "Responsibilities\n• GEO/SEO: Leverage GEO engineering best practices to help ensure Morningstar DBRS Content is indexed by top AI assistants such that people use popular AI assistants like ChatGPT/Gemini etc. and search for credit ratings related content or data, these tools should surface Morningstar DBRS content and refer users to dbrs.morningstar.com website.\n• Prompt Engineering: The practice of designing, refining, and optimizing input prompts to guide AI models (such as large language models, e.g., GPT-4) toward generating high-quality, relevant, and accurate outputs.\n��� Cutting Edge AI Development: Use latest AI techniques and tools like computer use to drive to power accelerated Insights, Discovery and Action.\n• Backend & Data Development: Support the design and development of backend services to handle data processing, publication, and delivery to downstream applications. Assist in developing APIs and cloud-native components using AWS services.\n• Application Maintenance & Modernization: Help maintain, refactor, and migrate existing applications and services to modern, scalable AWS-based architectures.\n• Collaboration: Work closely with senior engineers, product teams, data engineers, and DevOps/SRE partners to align backend and cloud solutions with business needs.\n• Engineering Practices: Write clean, maintainable, and testable code. Participate in code reviews and adhere to modern engineering standards.\n• Learning & Growth: Stay up to date on AWS cloud technologies and AI-assisted development tools. Demonstrate curiosity about applying AI and automation to improve engineering productivity and system efficiency.\n\nQualifications\n• Problem-Solving: Ability to analyze technical challenges, propose solutions, and deliver reliable results with guidance.\n• Methodology: Familiarity with Agile/Scrum practices and modern software development methodologies.\n• Security Awareness: Basic understanding of secure service design, API security concepts, and AWS security best practices.\n• Education: Bachelor’s degree in computer science or related field, or equivalent practical experience.\n• Experience: 0–2 years of professional software development experience, with exposure to backend development and cloud-based systems.\n\nTechnical Skills\n• Experience building or consuming REST APIs; familiarity with event-driven patterns is a plus.\n• Hands-on exposure to AWS services such as Bedrock, Lambda, SQS, SNS, API Gateway, S3, and RDS; basic understanding of serverless patterns is preferred.\n• Experience with SQL/NoSQL databases and basic data workflows (plus).\n• Scripting experience with Python for automation, small data tasks, or AI experimentation (plus).\n• Frontend exposure to Vue.js or other modern JavaScript frameworks (plus).\n• AI/ML Exposure: Interest or basic experience with AI-assisted development tools (e.g., GitHub Copilot), prompt engineering, or integrating simple AI APIs. Understanding how AI can support automation, testing, or data workflows is a strong plus.\n• Analytical thinking to break down complex tasks into clear instructions. Understanding of AI model strengths, limitations, and context windows. Experimentation with prompt phrasing for improved results.\n\nCompensation and Benefits\n\nAt Morningstar we believe people are at their best when they are at their healthiest. That’s why we champion your wellness through a wide range of programs that support all stages of your personal and professional life. Here are some examples of the offerings we provide:\n• Financial Health\n• 100% 401k match up to 6% of salary\n• Stock Ownership Potential\n• Company provided life insurance - 1x salary + commission\n• Physical Health\n• Comprehensive health benefits (medical/dental/vision) including potential premium discounts and company-provided HSA contributions (up to $500-$2,000 annually) for specific plans and coverages\n• Additional medical Wellness Incentives - up to $300-$600 annual\n• Company-provided long- and short-term disability insurance\n• Emotional Health\n• Trust-Based Time Off\n• 6-week Paid Sabbatical Program\n• 6-Week Paid Family Caregiving Leave\n• Competitive 8-24 Week Paid Parental Leave\n• Adoption Assistance\n• Leadership Coaching & Formal Mentorship Opportunities\n• Annual Flex Stipend - $1000 annually to cover personal education & well-being expenses\n• Tuition Reimbursement\n• Social Health\n• Charitable Matching Gifts program\n• Dollars for Doers volunteer program\n• Paid volunteering days\n• 15+ Employee Resource & Affinity Groups\n\nTotal Cash Compensation Range\n$70,825.00 - 120,425.00 USD Annual\n\nInclusive of annual base salary and target incentive\n\nMorningstar's hybrid work environment gives you the opportunity to collaborate in-person each week as we've found that we're at our best when we're purposely together on a regular basis. In most of our locations, our hybrid work model is four days in-office each week. A range of other benefits are also available to enhance flexibility as needs change. No matter where you are, you'll have tools and resources to engage meaningfully with your global colleagues.\n\nR06_DBRSInc DBRS, Inc. - US Legal Entity",
     "job_employment_type": "FULL-TIME",
     "fingerprint": "df6e4dc5d226fc42b08c778a78d962ba209106c127991c3c79d00fe34f9c7043",
     "tags": {
@@ -336,7 +336,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Bethesda-MD/Artificial-Intelligence-and-Machine-Learning-Engineer_R0234257",
-    "job_posted_at_datetime_utc": "2026-02-27T21:35:00.862Z",
+    "job_posted_at_datetime_utc": "2026-02-27T21:48:26.475Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "549ae491df14eb6d74b5872dfebf528c8dbb1b2cccd49b0e7e0dcab71a134bd9",
@@ -354,7 +354,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T21:35:00.862Z"
+    "job_posted_at": "2026-02-27T21:48:26.475Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0232422",
@@ -365,7 +365,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Bethesda-MD/Health-Data-Engineer_R0232422",
-    "job_posted_at_datetime_utc": "2026-02-27T21:35:00.862Z",
+    "job_posted_at_datetime_utc": "2026-02-27T21:48:26.475Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "6ba7006749dda96c52b791ac8566b9c0f5ebebf1a56e9de2fefc4c28807735cb",
@@ -382,7 +382,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T21:35:00.862Z"
+    "job_posted_at": "2026-02-27T21:48:26.475Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234498",
@@ -393,7 +393,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Data-Scientist_R0234498",
-    "job_posted_at_datetime_utc": "2026-02-27T21:35:00.862Z",
+    "job_posted_at_datetime_utc": "2026-02-27T21:48:26.475Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "a16bfe88c7a2270015141c391f408207033d4f10d460b3629783295854281c9e",
@@ -410,7 +410,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T21:35:00.862Z"
+    "job_posted_at": "2026-02-27T21:48:26.475Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0233003",
@@ -421,7 +421,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Charleston-SC/Data-Scientist--Junior_R0233003",
-    "job_posted_at_datetime_utc": "2026-02-27T21:35:00.862Z",
+    "job_posted_at_datetime_utc": "2026-02-27T21:48:26.475Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "220cc3e02ddaa5e299c6f956173f394af2f68c5e1ef8beadca6267150cec35eb",
@@ -438,7 +438,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T21:35:00.862Z"
+    "job_posted_at": "2026-02-27T21:48:26.475Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234850",
@@ -449,7 +449,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Camp-Lejeune-NC/Data-Analyst_R0234850",
-    "job_posted_at_datetime_utc": "2026-02-27T21:35:00.862Z",
+    "job_posted_at_datetime_utc": "2026-02-27T21:48:26.475Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "4202530d9a246d1be54024761a5a47334c7d7a55e9303b1a552ebc7257999736",
@@ -466,7 +466,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T21:35:00.862Z"
+    "job_posted_at": "2026-02-27T21:48:26.475Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234847",
@@ -477,7 +477,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Honolulu-HI/Agentic-AI-and-Data-Engineer_R0234847",
-    "job_posted_at_datetime_utc": "2026-02-27T21:35:00.862Z",
+    "job_posted_at_datetime_utc": "2026-02-27T21:48:26.475Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "859b1504afcbac78b9661e405d837846f850994ca8511f2d74e18549775cfa80",
@@ -494,7 +494,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T21:35:00.862Z"
+    "job_posted_at": "2026-02-27T21:48:26.475Z"
   },
   {
     "job_id": "greenhouse-airbnb-7612127",
@@ -538,7 +538,7 @@
     "job_is_remote": false,
     "job_apply_link": "https://careers.datadoghq.com/detail/7624017/?gh_jid=7624017",
     "job_posted_at_datetime_utc": "2026-02-27T15:23:37-05:00",
-    "job_description": "&lt;p&gt;Datadog&#39;s Strategic Finance team transforms data from Datadog and external sources into actionable analytical insights on a cross-departmental basis, to drive positive change at Datadog. Building bottom-up and top-down analysis about our products and business activity, this team delivers insights on longer-term company opportunities, forecasts, and goals. This team delivers industry and competitive insights to executives and business leaders, and delivers near-term insights by analyzing internal usage data. This team also partners cross-functionally to evaluate strategic business and go-to-market opportunities. The Strategic Finance Associate will report to the SVP, Investor Relations &amp;amp; Strategic Finance, and will interact with colleagues in the finance team and across the company.&lt;/p&gt;\n&lt;p&gt;We are seeking a Strategic Finance Associate to join Datadog. They will play an integral role in the data collection and transformation, analysis, delivery, and communication of material and information to internal stakeholders across multiple divisions. They will be instrumental in turning data into meaningful insights, crafting reports illuminating takeaways and action items from those insights, and communicating these across the company. By doing so, this team will drive positive change to help Datadog grow and scale our business.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What You���ll Do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Use advanced analytics to study revenue, product / platform, customer usage, and penetration trends.&lt;/li&gt;\n&lt;li&gt;Develop meaningful insights on those trends, and disseminate analytical insights and action items using dashboards, presentations and reports tuned to various stakeholders and their interests.&lt;/li&gt;\n&lt;li&gt;Participate in transformation projects to improve processes, automate repetitive tasks, increase data quality, and enable more stakeholders with data insights&lt;/li&gt;\n&lt;li&gt;Create deliverables around near-term insights and provide analytical support on forecasting and planning processes.&lt;/li&gt;\n&lt;li&gt;Craft top-down and bottom-up analyses to deliver long-term insights on the business and growth opportunities&lt;/li&gt;\n&lt;li&gt;Support the preparation of presentations&lt;/li&gt;\n&lt;li&gt;Collaborate across the organization, including finance, sales ops, product, marketing, and sales.&lt;/li&gt;\n&lt;li&gt;Support ad hoc analytical projects from senior management, finance, etc.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Who You Are:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Strong sense of ownership, intellectual curiosity, and an ability to think creatively and critically&lt;/li&gt;\n&lt;li&gt;Strong understanding of the financials and metrics performance, as well as the ability to gain understanding the product &amp;amp; market, to distill into accessible and informative reports and narratives&lt;/li&gt;\n&lt;li&gt;Excellent written and verbal communication skills. Experience communicating data heavy insights to technical and non-technical audiences.&lt;/li&gt;\n&lt;li&gt;Ability to create and derive analytical implications from complex analyses and forecasting models&lt;/li&gt;\n&lt;li&gt;Ability to craft impactful visualizations, reports, and presentations, making analyses&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;BA/BS in Data Science, Computer Science/Engineering, Mathematics, Statistics, Economics, or other quantitative fields&lt;/li&gt;\n&lt;li&gt;At least 1-3 years of professional experience, likely as a business analyst, data analyst, or in a quantitative finance or consulting role.&lt;/li&gt;\n&lt;li&gt;Experience manipulating and analyzing complex datasets using SQL and/or Python.&lt;/li&gt;\n&lt;li&gt;Proficiency with Excel&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That&#39;s okay. If you’re passionate about technology and want to grow your skills, we encourage you to apply.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Benefits &amp;amp; Growth:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Generous and competitive benefits package&lt;/li&gt;\n&lt;li&gt;New hire stock equity (RSUs) and employee stock purchase plan&lt;/li&gt;\n&lt;li&gt;Continuous career development and pathing opportunities&lt;/li&gt;\n&lt;li&gt;Employee-focused best in class onboarding&lt;/li&gt;\n&lt;li&gt;Internal mentor and cross-departmental buddy program&lt;/li&gt;\n&lt;li&gt;Friendly and inclusive workplace culture&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;Benefits and Growth listed above may vary based on the country of your employment and the nature of your employment with Datadog.&lt;/em&gt;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Datadog offers a competitive salary and equity package, and may include variable compensation. Actual compensation is based on factors such as the candidate&#39;s skills, qualifications, and experience. In addition, Datadog offers a wide range of best in class, comprehensive and inclusive employee benefits for this role including healthcare, dental, parental planning, and mental health benefits, a 401(k) plan and match, paid time off, fitness reimbursements, and a discounted employee stock purchase plan.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The reasonably estimated yearly salary for this role at Datadog is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$80,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$115,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt;\n&lt;p&gt;&lt;strong&gt;About Datadog:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog (NASDAQ: DDOG) is a global SaaS business, delivering a rare combination of growth and profitability. We are on a mission to break down silos and solve complexity in the cloud age by enabling digital transformation, cloud migration, and infrastructure monitoring of our customers’ entire technology stacks. Built by engineers, for engineers, Datadog is used by organizations of all sizes across a wide range of industries. Together, we champion professional development, diversity of thought, innovation, and work excellence to empower continuous growth. Join the pack and become part of a collaborative, pragmatic, and thoughtful people-first community where we solve tough problems, take smart risks, and celebrate one another. Learn more about #DatadogLife on &lt;a href=&quot;https://www.instagram.com/datadoghq/?hl=en&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/company/datadog&quot; target=&quot;_blank&quot;&gt;LinkedIn,&lt;/a&gt; and &lt;a href=&quot;https://learn.datadoghq.com/&quot; target=&quot;_blank&quot;&gt;Datadog Learning Center. &lt;/a&gt;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p data-renderer-start-pos=&quot;215&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Equal Opportunity at Datadog:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is proud to offer &lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot; target=&quot;_blank&quot;&gt;equal employment opportunity&lt;/a&gt; to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our &lt;a href=&quot;https://www.datadoghq.com/legal/candidate-legal-notices/&quot; target=&quot;_blank&quot;&gt;Candidate Legal Notices&lt;/a&gt; for your reference.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeoJeduEZ2NdZF_65uZmWUrCM-zee7yADXX1s6Xr9zAGq8iKA/viewform&quot; target=&quot;_blank&quot;&gt;this form&lt;/a&gt;. This form is for accommodation requests only and cannot be used to inquire about the status of applications.&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Privacy and AI Guidelines:&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Applicant and Candidate Privacy Notice&lt;/a&gt;. For information on our AI policy, please visit &lt;a href=&quot;https://www.datadoghq.com/legal/interviewing-at-datadog-ai-guidelines/&quot; target=&quot;_blank&quot;&gt;Interviewing at Datadog AI Guidelines&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;",
+    "job_description": "&lt;p&gt;Datadog&#39;s Strategic Finance team transforms data from Datadog and external sources into actionable analytical insights on a cross-departmental basis, to drive positive change at Datadog. Building bottom-up and top-down analysis about our products and business activity, this team delivers insights on longer-term company opportunities, forecasts, and goals. This team delivers industry and competitive insights to executives and business leaders, and delivers near-term insights by analyzing internal usage data. This team also partners cross-functionally to evaluate strategic business and go-to-market opportunities. The Strategic Finance Associate will report to the SVP, Investor Relations &amp;amp; Strategic Finance, and will interact with colleagues in the finance team and across the company.&lt;/p&gt;\n&lt;p&gt;We are seeking a Strategic Finance Associate to join Datadog. They will play an integral role in the data collection and transformation, analysis, delivery, and communication of material and information to internal stakeholders across multiple divisions. They will be instrumental in turning data into meaningful insights, crafting reports illuminating takeaways and action items from those insights, and communicating these across the company. By doing so, this team will drive positive change to help Datadog grow and scale our business.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What You’ll Do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Use advanced analytics to study revenue, product / platform, customer usage, and penetration trends.&lt;/li&gt;\n&lt;li&gt;Develop meaningful insights on those trends, and disseminate analytical insights and action items using dashboards, presentations and reports tuned to various stakeholders and their interests.&lt;/li&gt;\n&lt;li&gt;Participate in transformation projects to improve processes, automate repetitive tasks, increase data quality, and enable more stakeholders with data insights&lt;/li&gt;\n&lt;li&gt;Create deliverables around near-term insights and provide analytical support on forecasting and planning processes.&lt;/li&gt;\n&lt;li&gt;Craft top-down and bottom-up analyses to deliver long-term insights on the business and growth opportunities&lt;/li&gt;\n&lt;li&gt;Support the preparation of presentations&lt;/li&gt;\n&lt;li&gt;Collaborate across the organization, including finance, sales ops, product, marketing, and sales.&lt;/li&gt;\n&lt;li&gt;Support ad hoc analytical projects from senior management, finance, etc.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Who You Are:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Strong sense of ownership, intellectual curiosity, and an ability to think creatively and critically&lt;/li&gt;\n&lt;li&gt;Strong understanding of the financials and metrics performance, as well as the ability to gain understanding the product &amp;amp; market, to distill into accessible and informative reports and narratives&lt;/li&gt;\n&lt;li&gt;Excellent written and verbal communication skills. Experience communicating data heavy insights to technical and non-technical audiences.&lt;/li&gt;\n&lt;li&gt;Ability to create and derive analytical implications from complex analyses and forecasting models&lt;/li&gt;\n&lt;li&gt;Ability to craft impactful visualizations, reports, and presentations, making analyses&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;BA/BS in Data Science, Computer Science/Engineering, Mathematics, Statistics, Economics, or other quantitative fields&lt;/li&gt;\n&lt;li&gt;At least 1-3 years of professional experience, likely as a business analyst, data analyst, or in a quantitative finance or consulting role.&lt;/li&gt;\n&lt;li&gt;Experience manipulating and analyzing complex datasets using SQL and/or Python.&lt;/li&gt;\n&lt;li&gt;Proficiency with Excel&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That&#39;s okay. If you’re passionate about technology and want to grow your skills, we encourage you to apply.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Benefits &amp;amp; Growth:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Generous and competitive benefits package&lt;/li&gt;\n&lt;li&gt;New hire stock equity (RSUs) and employee stock purchase plan&lt;/li&gt;\n&lt;li&gt;Continuous career development and pathing opportunities&lt;/li&gt;\n&lt;li&gt;Employee-focused best in class onboarding&lt;/li&gt;\n&lt;li&gt;Internal mentor and cross-departmental buddy program&lt;/li&gt;\n&lt;li&gt;Friendly and inclusive workplace culture&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;Benefits and Growth listed above may vary based on the country of your employment and the nature of your employment with Datadog.&lt;/em&gt;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Datadog offers a competitive salary and equity package, and may include variable compensation. Actual compensation is based on factors such as the candidate&#39;s skills, qualifications, and experience. In addition, Datadog offers a wide range of best in class, comprehensive and inclusive employee benefits for this role including healthcare, dental, parental planning, and mental health benefits, a 401(k) plan and match, paid time off, fitness reimbursements, and a discounted employee stock purchase plan.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The reasonably estimated yearly salary for this role at Datadog is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$80,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$115,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt;\n&lt;p&gt;&lt;strong&gt;About Datadog:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog (NASDAQ: DDOG) is a global SaaS business, delivering a rare combination of growth and profitability. We are on a mission to break down silos and solve complexity in the cloud age by enabling digital transformation, cloud migration, and infrastructure monitoring of our customers’ entire technology stacks. Built by engineers, for engineers, Datadog is used by organizations of all sizes across a wide range of industries. Together, we champion professional development, diversity of thought, innovation, and work excellence to empower continuous growth. Join the pack and become part of a collaborative, pragmatic, and thoughtful people-first community where we solve tough problems, take smart risks, and celebrate one another. Learn more about #DatadogLife on &lt;a href=&quot;https://www.instagram.com/datadoghq/?hl=en&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/company/datadog&quot; target=&quot;_blank&quot;&gt;LinkedIn,&lt;/a&gt; and &lt;a href=&quot;https://learn.datadoghq.com/&quot; target=&quot;_blank&quot;&gt;Datadog Learning Center. &lt;/a&gt;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p data-renderer-start-pos=&quot;215&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Equal Opportunity at Datadog:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is proud to offer &lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot; target=&quot;_blank&quot;&gt;equal employment opportunity&lt;/a&gt; to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our &lt;a href=&quot;https://www.datadoghq.com/legal/candidate-legal-notices/&quot; target=&quot;_blank&quot;&gt;Candidate Legal Notices&lt;/a&gt; for your reference.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeoJeduEZ2NdZF_65uZmWUrCM-zee7yADXX1s6Xr9zAGq8iKA/viewform&quot; target=&quot;_blank&quot;&gt;this form&lt;/a&gt;. This form is for accommodation requests only and cannot be used to inquire about the status of applications.&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Privacy and AI Guidelines:&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Applicant and Candidate Privacy Notice&lt;/a&gt;. For information on our AI policy, please visit &lt;a href=&quot;https://www.datadoghq.com/legal/interviewing-at-datadog-ai-guidelines/&quot; target=&quot;_blank&quot;&gt;Interviewing at Datadog AI Guidelines&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;",
     "job_employment_type": "FULLTIME",
     "fingerprint": "a0eb3b7bf0fa837db726d9534e8ea5eb6d3149d75e5663349873656bfc82b285",
     "tags": {
@@ -642,6 +642,93 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-27T13:59:04-05:00"
+  },
+  {
+    "job_id": "greenhouse-akunacapital-7063563",
+    "job_title": "Junior Quantitative Developer & Strategist",
+    "employer_name": "Akuna Capital",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.akunacapital.com/job-details?gh_jid=7063563",
+    "job_posted_at_datetime_utc": "2026-02-27T13:52:27-05:00",
+    "job_description": "&lt;p&gt;&lt;strong&gt;About Akuna:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data driven solutions and automation. We specialize in providing liquidity as an options market-maker – meaning we are committed to providing competitive quotes that we are willing to both buy and sell. To do this successfully we design and implement our own low latency technologies, trading strategies and mathematical models.&lt;/p&gt;\n&lt;p&gt;Our Founding Partners&lt;em&gt; &lt;/em&gt;first conceptualized Akuna in their hometown of Sydney. They opened the firm’s first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to operate from additional offices in Sydney, Shanghai, London, and Singapore.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll do as a Junior Quantitative Developer &amp;amp; Junior Quantitative Strategist at Akuna:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Akuna’s Quant team creates trading strategies scientifically by combining its quantitative expertise with sophisticated understanding of derivatives and financial markets. The team is looking to add both Junior Quant Developers and Junior Quant Strategists who will make a direct and measurable impact on our trading decisions and performance.&lt;/p&gt;\n&lt;p&gt;We are searching for creative thinkers with strong programming backgrounds who can convert ideas into trading solutions, tighten our innovation cycle through rapid prototyping of performant production code, and have the desire to develop a deep understanding of financial markets. No prior experience with financial markets is required.&lt;/p&gt;\n&lt;p&gt;In these roles you will:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design and develop production code of trading strategies: pricing models, execution logic and performance optimization along with researchers, traders, and system engineers.&lt;/li&gt;\n&lt;li&gt;Analyze and incorporate market signals in our trading systems.&lt;/li&gt;\n&lt;li&gt;Advance existing codebase and propose new solutions and improvements.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;strong&gt;Qualities that make great candidates:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Bachelors, masters, or PhD degree in a technical field – Engineering, Computer Science, Math, Physics (or related subject) must be completed upon employment&lt;/li&gt;\n&lt;li&gt;Strong Python programming background&lt;/li&gt;\n&lt;li&gt;Experience in object-oriented programming&lt;/li&gt;\n&lt;li&gt;Exposure to linear algebra and introductory statistics&lt;/li&gt;\n&lt;li&gt;Desire and ability to learn the intricacies of financial markets&lt;/li&gt;\n&lt;li&gt;Must be graduating August 2026 or prior&lt;/li&gt;\n&lt;li&gt;GPA of 3.5 or above&lt;/li&gt;\n&lt;li&gt;Legal authorization to work in the U.S. is required on the first day of employment including F-1 students using OPT or STEM&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Additional qualities that make great candidates:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with generic and/or parallel programming&lt;/li&gt;\n&lt;li&gt;Deeper understanding of any of the following fields: Linear Algebra, Numerical Methods, Statistics, Optimization, Signal Processing, Computer Architecture, Machine Learning, Heterogeneous/High Performance computing&lt;/li&gt;\n&lt;li&gt;The ability to react quickly and accurately to rapidly changing market conditions, including the ability to quickly and accurately respond and/or solve math and coding problems are essential functions of the role&lt;/li&gt;\n&lt;li&gt;Exposure to financial markets and trading&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p style=&quot;font-weight: 400;&quot;&gt;**Resumes must be submitted in PDF format.&amp;nbsp;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;In addition to technical skillsets, Akuna values the unique perspectives people can bring to the table to collaboratively solve complex problems and drive Akuna forward. We want everyone to feel empowered to apply. We welcome your application and encourage you to take the first steps toward your future with us!&lt;/strong&gt;&lt;/p&gt;\n&lt;p style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;Please note:&lt;/strong&gt; By submitting an application to this role, you are indicating this is your top preference and acknowledge you will not be considered for other Quant and/or Tech roles at Akuna this recruiting season. This acknowledgement does not limit applications to Trading roles - in addition to this role, you may apply to any Trader roles of interest.&amp;nbsp;&lt;/p&gt;\n&lt;p style=&quot;font-weight: 400;&quot;&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;In accordance with Illinois Equal Pay Act, the minimum base salary starts at $145,000. &lt;em&gt;Exact compensation offered may vary based on many factors including, but not limited to, the candidate’s experience, qualifications, and skill set. This role is also eligible for a discretionary performance bonus as part of the total compensation package and includes a comprehensive benefits package that may encompass employer-paid medical, dental, vision, retirement contributions, paid time off, and other benefits. The minimum base salary herein was determined in good faith by Akuna Capital LLC.&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;",
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "9602706912444b0875229a9c4777e91876f8c30e2e964fb8530743daa90fe25b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-02-27T13:52:27-05:00"
+  },
+  {
+    "job_id": "greenhouse-akunacapital-7496416",
+    "job_title": "Quantitative Researcher",
+    "employer_name": "Akuna Capital",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.akunacapital.com/job-details?gh_jid=7496416",
+    "job_posted_at_datetime_utc": "2026-02-27T13:52:27-05:00",
+    "job_description": "&lt;p&gt;&lt;strong&gt;About Akuna:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;none&quot;&gt;&lt;span data-ccp-parastyle=&quot;Normal (Web)&quot;&gt;Akuna Capital is an innovative trading firm with a strong focus on collaboration, &lt;/span&gt;&lt;span data-ccp-parastyle=&quot;Normal (Web)&quot;&gt;cutting-edge&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;Normal (Web)&quot;&gt; technology, data driven solutions, and automation. We specialize in providing liquidity as an options market-maker – meaning we are committed to providing competitive quotes that we are willing to both buy and sell. To do this successfully, we design and implement our own low latency technologies, trading strategies, and mathematical models.&lt;/span&gt;&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:false,&amp;quot;201341983&amp;quot;:2,&amp;quot;335559739&amp;quot;:300,&amp;quot;335559740&amp;quot;:350}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;none&quot;&gt;&lt;span data-ccp-parastyle=&quot;Normal (Web)&quot;&gt;Our Founding Partners&lt;/span&gt;&lt;/span&gt;&lt;em&gt; &lt;/em&gt;&lt;span data-contrast=&quot;none&quot;&gt;&lt;span data-ccp-parastyle=&quot;Normal (Web)&quot;&gt;first conceptualized Akuna in their hometown of Sydney. They opened the firm’s first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to &lt;/span&gt;&lt;span data-ccp-parastyle=&quot;Normal (Web)&quot;&gt;operate&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;Normal (Web)&quot;&gt; from &lt;/span&gt;&lt;span data-ccp-parastyle=&quot;Normal (Web)&quot;&gt;additional&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;Normal (Web)&quot;&gt; offices in &lt;/span&gt;&lt;span data-ccp-parastyle=&quot;Normal (Web)&quot;&gt;Sydney, Shanghai, London, and &lt;/span&gt;&lt;span data-ccp-parastyle=&quot;Normal (Web)&quot;&gt;Singapore&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;Normal (Web)&quot;&gt;.&lt;/span&gt;&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:false,&amp;quot;201341983&amp;quot;:2,&amp;quot;335559739&amp;quot;:300,&amp;quot;335559740&amp;quot;:350}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll do as a Quantitative Researcher at Akuna:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Akuna’s Trading and Research teams are seeking Quant Researchers to join a multidisciplinary group of mathematicians, statisticians, technologists and traders. These teams drive the development of trading strategies and predictive models by combining quantitative rigor with deep expertise in financial markets.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:2,&amp;quot;335559738&amp;quot;:240,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;We are looking for talented researchers who can apply and develop machine learning algorithms to contribute to Akuna’s strategy portfolio. In this role, you will:&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:2,&amp;quot;335559738&amp;quot;:240,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;3&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Develop trading strategies using statistical and machine learning algorithms&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;3&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;Drive improvements in predictive models through rigorous signal and feature research&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;3&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;Design and optimize machine learning workflows to support scalable, efficient, and reproducible research&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;3&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;Bring a results-driven mindset paired with strong collaboration and communication skills.&lt;span data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:2,&amp;quot;335559738&amp;quot;:240,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Qualities that make great candidates:&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:2,&amp;quot;335559738&amp;quot;:240,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;3&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;5&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;3+ years of strong professional work experience in statistics, machine learning or related area&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;3&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;5&quot; data-aria-level=&quot;1&quot;&gt;BS/MS/PhD degree in a technical field – Engineering, Computer Science, Math, Physics, or similar&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;3&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;5&quot; data-aria-level=&quot;1&quot;&gt;Proven research background in academic or professional environment&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;3&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;5&quot; data-aria-level=&quot;1&quot;&gt;Programming experience in Python or C++&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;3&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;5&quot; data-aria-level=&quot;1&quot;&gt;Expertise in statistics and machine learning&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;3&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;5&quot; data-aria-level=&quot;1&quot;&gt;Financial experience or knowledge of trading is a plus&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;3&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;5&quot; data-aria-level=&quot;1&quot;&gt;The ability to react quickly and accurately to rapidly changing market conditions, including the ability to quickly and accurately respond and/or solve math and coding problems are essential functions of the role&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;In addition to technical skillsets, Akuna values the unique perspectives people can bring to the table to collaboratively solve complex problems and drive Akuna forward. We want all groups to feel empowered to apply, even if you don’t meet every qualification. We welcome your application and encourage you to take the first steps toward your future with us!&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:279}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;span data-contrast=&quot;none&quot;&gt;Please note that level/title, as well as team placement, will be determined upon the conclusion of the interview process. If you are a current student or recent graduate, please take a look at our Entry Level and Intern positions.&lt;/span&gt;&lt;/em&gt;&lt;span data-contrast=&quot;none&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;none&quot;&gt;&lt;em&gt;In accordance with Illinois Equal Pay Act, the minimum base salary starts at $145,000. Exact compensation offered may vary based on many factors including, but not limited to, the candidate’s experience, qualifications, and skill set. This role is also eligible for a discretionary performance bonus as part of the total compensation package and includes a comprehensive benefits package that may encompass employer-paid medical, dental, vision, retirement contributions, paid time off, and other benefits. The minimum base salary herein was determined in good faith by Akuna Capital LLC.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;",
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "396b04d5a8b053e5ce53c11db6151c82054f792c5d60024946c3ef9c45e98602",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-02-27T13:52:27-05:00"
+  },
+  {
+    "job_id": "greenhouse-akunacapital-6812905",
+    "job_title": "Quant Strategist",
+    "employer_name": "Akuna Capital",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.akunacapital.com/job-details?gh_jid=6812905",
+    "job_posted_at_datetime_utc": "2026-02-27T13:52:27-05:00",
+    "job_description": "&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;About Akuna:&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:200,&amp;quot;335559740&amp;quot;:276}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;none&quot;&gt;Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data driven solutions, and automation. We specialize in providing liquidity as an options market-maker – meaning we are committed to providing competitive quotes that we are willing to both buy and sell. To do this successfully, we design and implement our own low latency technologies, trading strategies, and mathematical models.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;201341983&amp;quot;:2,&amp;quot;335559739&amp;quot;:300,&amp;quot;335559740&amp;quot;:350}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;none&quot;&gt;Our Founding Partners&lt;/span&gt;&lt;em&gt; &lt;/em&gt;&lt;span data-contrast=&quot;none&quot;&gt;first conceptualized Akuna in their hometown of Sydney. They opened the firm’s first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to operate from additional offices in Sydney, Shanghai, London, and Singapore.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;201341983&amp;quot;:2,&amp;quot;335559739&amp;quot;:300,&amp;quot;335559740&amp;quot;:350}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;What you’ll do as a Quantitative Strategist at Akuna:&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:200,&amp;quot;335559740&amp;quot;:276}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;none&quot;&gt;Akuna&#39;s Quantitative Trading and Research team is looking to add Quant Strategists to a team of mathematicians, statisticians and technologists. &lt;/span&gt;&lt;span data-contrast=&quot;auto&quot;&gt;The successful candidate will play a crucial role in developing and enhancing our trading strategies by leveraging quantitative expertise and a deep understanding of financial markets. This position offers the opportunity to make a direct impact on our trading decisions and overall performance. The ideal candidate will possess strong programming skills, a creative mindset, and a passion for the intricacies of financial markets. In this role you will:&lt;/span&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;1&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559683&amp;quot;:0,&amp;quot;335559684&amp;quot;:-2,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;hybridMultilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Design and develop production code for trading strategies, including pricing models, execution logic, and performance optimization while collaborating closely with researchers, traders, and system engineers.&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;1&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559683&amp;quot;:0,&amp;quot;335559684&amp;quot;:-2,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;hybridMultilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Analyze and incorporate market signals into our trading systems to enhance decision-making and performance outcomes.&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;1&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559683&amp;quot;:0,&amp;quot;335559684&amp;quot;:-2,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;hybridMultilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Advance our existing codebase by proposing new solutions, optimizations, and improvements that align with trading goals.&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;1&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559683&amp;quot;:0,&amp;quot;335559684&amp;quot;:-2,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;hybridMultilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Participate in the rapid prototyping of cutting-edge trading solutions driven by quantitative analysis and market research.&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;1&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559683&amp;quot;:0,&amp;quot;335559684&amp;quot;:-2,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;hybridMultilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Stay ahead of industry trends and developments in financial markets to inform strategy adjustments and innovations.&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;1&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559683&amp;quot;:0,&amp;quot;335559684&amp;quot;:-2,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;hybridMultilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Respond quickly and accurately to rapidly changing market conditions, solving mathematical and coding challenges as they arise.&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;1&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559683&amp;quot;:0,&amp;quot;335559684&amp;quot;:-2,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;hybridMultilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Engage in ongoing learning and development to deepen understanding of financial markets and enhance strategic initiatives.&lt;/span&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;Qualities that make great candidates:&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:200,&amp;quot;335559740&amp;quot;:276}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;2&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559683&amp;quot;:0,&amp;quot;335559684&amp;quot;:-2,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;hybridMultilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Bachelor’s, Master’s, or PhD degree in a technical field, such as Engineering, Computer Science, Mathematics, or Physics (or a related subject), with degree completion required upon employment.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;2&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559683&amp;quot;:0,&amp;quot;335559684&amp;quot;:-2,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;hybridMultilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;3+ years of experience in a quantitative or programming role, preferably within the finance or trading sectors.&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;2&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559683&amp;quot;:0,&amp;quot;335559684&amp;quot;:-2,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;hybridMultilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Proficient programming skills in Python (C++ is a plus)&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;2&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559683&amp;quot;:0,&amp;quot;335559684&amp;quot;:-2,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;hybridMultilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Desire and ability to learn the complexities of financial markets and trading mechanisms.&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;2&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559683&amp;quot;:0,&amp;quot;335559684&amp;quot;:-2,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;hybridMultilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Deep understanding of fields such as Linear Algebra, Numerical Methods, Statistics, Optimization, Signal Processing, Computer Architecture, Machine Learning, and Heterogeneous/High-Performance Computing.&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;2&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559683&amp;quot;:0,&amp;quot;335559684&amp;quot;:-2,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;hybridMultilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Exceptional analytical and problem-solving skills, with the ability to react quickly and effectively to rapidly changing market conditions.&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;2&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559683&amp;quot;:0,&amp;quot;335559684&amp;quot;:-2,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;hybridMultilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Strong interest in financial markets and trading is highly valued.&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;2&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559683&amp;quot;:0,&amp;quot;335559684&amp;quot;:-2,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;hybridMultilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;auto&quot;&gt;The ability to react quickly and accurately to rapidly changing market conditions, including the ability to quickly and accurately respond and/or solve math and coding problems are essential functions of the role &amp;nbsp;&lt;/span&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;&lt;em&gt;In addition to technical skillsets, Akuna values the unique perspectives people can bring to the table to collaboratively solve complex problems and drive Akuna forward. We want everyone to feel empowered to apply. We welcome your application and encourage you to take the first steps toward your future with us!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;In accordance with Illinois Equal Pay Act, the minimum base salary starts at $145,000. Exact compensation offered may vary based on many factors including, but not limited to, the candidate’s experience, qualifications, and skill set. This role is also eligible for a discretionary performance bonus as part of the total compensation package and includes a comprehensive benefits package that may encompass employer-paid medical, dental, vision, retirement contributions, paid time off, and other benefits. The minimum base salary herein was determined in good faith by Akuna Capital LLC.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "e05e62043a5224826bff65b60a7fdd0540f7fd7c20c8b3b786c040ce1f5554da",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-02-27T13:52:27-05:00"
   },
   {
     "job_id": "greenhouse-dropbox-7569140",
@@ -1371,6 +1458,209 @@
     "job_posted_at": "2026-02-27T07:06:59-05:00"
   },
   {
+    "job_id": "greenhouse-imc-4749997101",
+    "job_title": "Compliance Data Analyst",
+    "employer_name": "IMC Trading",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.eu.greenhouse.io/imc/jobs/4749997101",
+    "job_posted_at_datetime_utc": "2026-02-27T03:38:19-05:00",
+    "job_description": "&lt;p&gt;As a Compliance Data Analyst at IMC, you will manage day-to-day compliance data support, analysis functions, and compliance initiatives. You will also:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Serve as the first line of defense in keeping our business compliant. This means you&#39;ll maintain accurate, organized, and current compliance records that allow the Firm to respond quickly to any inquiry or audit.&lt;/li&gt;\n&lt;li&gt;Work with a wide variety of data on a massive scale, investigating and solving data-driven problems using a modern data science approach.&lt;/li&gt;\n&lt;li&gt;Analyze and compile data into meaningful summaries, identify trends promptly, and share findings with the team.&lt;/li&gt;\n&lt;li&gt;Collaborate and communicate with cross-functional teams, particularly IT Systems, to create solutions across multiple departments and improve quality and efficiency.&lt;/li&gt;\n&lt;li&gt;Have access to extensive internal technical training and skills development programs; come hungry to learn.&lt;/li&gt;\n&lt;li&gt;Work as part of a team and independently. You should be able to work through a problem and come to a solution on your own through asking great questions and doing research. An analytical and inquisitive mind is essential to your success.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;WHAT MAKES IT FUN?&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;One of the most fun aspects of the job is how closely you will work with trading and other areas of the firm. As part of the Compliance team, you will interact with most teams within the organization and achieve a high-level understanding of how the business operates.&lt;/li&gt;\n&lt;li&gt;We strive to create strong teams with strong individuals. You will learn a lot from your peers and will continue to develop your skills and business knowledge as the business grows and changes.&lt;/li&gt;\n&lt;li&gt;Working at IMC is also an opportunity to learn about financial markets. We know from experience that a lot of people really enjoy learning about a field beyond their immediate area of expertise—it&#39;s one of the things that makes this job more attractive than others.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;YOUR CORE RESPONSIBILITIES:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Partner with Compliance officers to drive IMC&#39;s regulatory vision and compliance efforts&lt;/li&gt;\n&lt;li&gt;Design, build, and maintain trade surveillance applications and data ETL pipelines in Python&lt;/li&gt;\n&lt;li&gt;Support internal and external compliance surveillance tools&lt;/li&gt;\n&lt;li&gt;Monitor and troubleshoot data pipelines for data availability and fidelity&lt;/li&gt;\n&lt;li&gt;Operational support for key external Compliance Data Reporting platforms (e.g., Consolidated Audit Trail, MIFID Transaction Reporting, Futures Audit Trail)&lt;/li&gt;\n&lt;li&gt;Maintain detailed, accurate, and organized documentation of execution of the Firm&#39;s processes and procedures&lt;/li&gt;\n&lt;li&gt;Work closely with traders and developers to automate compliance functions&lt;/li&gt;\n&lt;li&gt;Assist in investigating compliance data issues, responding to data requests, audits, and regulatory exams, including trade data review and analysis&lt;/li&gt;\n&lt;li&gt;Collaborate with compliance teams in other regions where applicable&lt;/li&gt;\n&lt;li&gt;Balance immediate risk and compliance exposure with the longer-term needs of the firm&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;YOUR SKILLS AND EXPERIENCE:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Strong skills in Python and SQL, with experience using data analysis and visualization tools such as pandas, Polars, PySpark, Jupyter, and Plotly Strong proficiency in Python and SQL&lt;/li&gt;\n&lt;li&gt;Comfortable with Linux shell commands, scripting, and Git&lt;/li&gt;\n&lt;li&gt;Experience with Docker and Kubernetes&lt;/li&gt;\n&lt;li&gt;Familiarity with agentic coding tools&lt;/li&gt;\n&lt;li&gt;Experience with data visualization and dashboard platforms&lt;/li&gt;\n&lt;li&gt;Experience querying TB-scale datasets and solving data-driven problems (Hadoop experience a plus)&lt;/li&gt;\n&lt;li&gt;Strong analytical, problem-solving, organizational, and time-management skills, with exceptional attention to detail&lt;/li&gt;\n&lt;li&gt;Ability to communicate complex concepts clearly to both technical and non-technical stakeholders&lt;/li&gt;\n&lt;li&gt;Demonstrated ownership and accountability for deliverables&lt;/li&gt;\n&lt;li&gt;Basic understanding of the financial industry&lt;/li&gt;\n&lt;li&gt;Experience with meeting business requirements for regulatory requests, audits, examinations, and investigations a plus&lt;/li&gt;\n&lt;li&gt;Ability to work independently as well as with others in a small team&lt;/li&gt;\n&lt;li&gt;2+ years of experience working for a proprietary trading firm, exchange, regulatory organization, broker dealer, futures commission merchant, or similar organization&lt;/li&gt;\n&lt;li&gt;A Bachelor&#39;s degree with a financial or technical focus; Master&#39;s degree a plus&lt;/li&gt;\n&lt;li&gt;FINRA Series License SIE and 57 will be required within 1 year of employment&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;Please note that immigration sponsorship is not offered for this specific opening.&lt;/em&gt;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;The Base Salary range for the role is included below. Base salary is only one component of total compensation; all full-time, permanent positions are eligible for a discretionary bonus and benefits, including paid leave and insurance.&amp;nbsp;Please visit &lt;a href=&quot;https://www.imc.com/us/careers/benefits&quot;&gt;Benefits - US | IMC Trading&lt;/a&gt; for more comprehensive information.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Salary Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$80,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$115,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;IMC is a global trading firm powered by a cutting-edge research environment and a world-class technology backbone. Since 1989, we’ve been a stabilizing force in financial markets, providing essential liquidity upon which market participants depend. Across our offices in the US, Europe, Asia Pacific, and India, our talented quant researchers, engineers, traders, and business operations professionals are united by our uniquely collaborative, high-performance culture, and our commitment to giving back. From entering dynamic new markets to embracing disruptive technologies, and from developing an innovative research environment to diversifying our trading strategies, we dare to continuously innovate and collaborate to succeed.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "207445e4ecd71d9e5a5595ee64e51d3dce529d5487d351a778ccfdaccb77ab71",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-02-27T03:38:19-05:00"
+  },
+  {
+    "job_id": "greenhouse-imc-4608585101",
+    "job_title": "Graduate Machine Learning Researcher",
+    "employer_name": "IMC Trading",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.eu.greenhouse.io/imc/jobs/4608585101",
+    "job_posted_at_datetime_utc": "2026-02-27T03:38:19-05:00",
+    "job_description": "&lt;p&gt;As a Machine Learning Researcher at IMC, your work will directly impact our global trading strategies. You will leverage your superior analytical, mathematical, and computing skills to improve existing models and develop new ones.&amp;nbsp; We will empower you to discover your unique niche and excel, taking on responsibility and ownership from the start. Machine Learning Researchers work closely with Traders and Developers in an environment where problem solving, innovation and teamwork are recognized and rewarded.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Your Core Responsibilities:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Develop and evaluate machine learning models tailored to real trading environments&lt;/li&gt;\n&lt;li&gt;Apply rigorous statistical techniques to measure performance, control overfitting, and understand model risk and interpretability&lt;/li&gt;\n&lt;li&gt;Design models based upon trading ideas, implement and deploy these models into production&lt;/li&gt;\n&lt;li&gt;Maintain best practices to keep our systems logical and consistent&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Your Skills and Experience:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Advanced degree such as a PhD in an applied technical field such as machine learning, computer science, computer engineering, physics, statistics or mathematics is preferred&lt;/li&gt;\n&lt;li&gt;Direct experience in applying deep learning, or alternatively an academic track record of publications in a related domain&lt;/li&gt;\n&lt;li&gt;Approaches data analysis with rigorous thought processes and strong intuition&lt;/li&gt;\n&lt;li&gt;Is a creative thinker who is driven and eager to solve challenging problems collaboratively&lt;/li&gt;\n&lt;li&gt;Proficiency in a programming language (Python, C, C++, etc) is highly desired&lt;/li&gt;\n&lt;li&gt;Ability to commence full-time employment in February or August 2026&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;You may submit one application per role each year.&amp;nbsp; We strongly encourage you to focus on applying to a single role that best matches your skills and interests.&amp;nbsp; Though you may apply to multiple roles, please note that each application will be evaluated based on the specific criteria established for that particular role. If you have already applied for this position during the current recruitment season and were not selected, you may reapply when the next recruitment season begins in 2026.&lt;/p&gt;\n&lt;p&gt;The Base Salary range for the role is included below. Base salary is only one component of total compensation; all full-time, permanent positions are eligible for a discretionary bonus and benefits, including paid leave and insurance. Please visit &lt;a href=&quot;https://www.imc.com/us/careers/benefits&quot;&gt;Benefits - US | IMC Trading&lt;/a&gt; for more comprehensive information.&lt;/p&gt;\n&lt;p&gt;Base Salary: $250,000 - $300,000&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(221, 234, 255);&quot;&gt;#LI-DNP&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;IMC is a global trading firm powered by a cutting-edge research environment and a world-class technology backbone. Since 1989, we’ve been a stabilizing force in financial markets, providing essential liquidity upon which market participants depend. Across our offices in the US, Europe, Asia Pacific, and India, our talented quant researchers, engineers, traders, and business operations professionals are united by our uniquely collaborative, high-performance culture, and our commitment to giving back. From entering dynamic new markets to embracing disruptive technologies, and from developing an innovative research environment to diversifying our trading strategies, we dare to continuously innovate and collaborate to succeed.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "e8708bff620c868146499f9727d9fa444b7dd25ba58d18bc23a382920e070a65",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-02-27T03:38:19-05:00"
+  },
+  {
+    "job_id": "greenhouse-imc-4751808101",
+    "job_title": "Graduate Quant Performance Engineer",
+    "employer_name": "IMC Trading",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.eu.greenhouse.io/imc/jobs/4751808101",
+    "job_posted_at_datetime_utc": "2026-02-27T03:38:19-05:00",
+    "job_description": "&lt;p&gt;Technology is at the heart of modern electronic trading. IMC is seeking highly driven graduates to apply quantitative techniques and practical experimentation to the technology used by exchanges, connectivity providers, and our own systems. You will develop new strategies to outpace other market participants in the highly competitive world of ultra-low-latency trading.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Your Core Responsibilities: &lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Perform quantitative research with large datasets to understand exchange technology.&lt;/li&gt;\n&lt;li&gt;Design novel strategies to optimize IMC’s liquidity taking and quoting strategies for exchange microstructure.&lt;/li&gt;\n&lt;li&gt;Develop AI agents, ETL pipelines and algorithms in Python to optimize IMC’s ultra-low-latency trading strategies.&lt;/li&gt;\n&lt;li&gt;Reverse-engineer and stress-test network and systems programming technologies in order to understand them better than the manufacturers.&lt;/li&gt;\n&lt;li&gt;Collaborate closely with Traders and with the Hardware and Software Engineers who will implement your ideas.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Your Skills and Experience: &lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Current university student graduating between September 2025 – July 2026 that is pursuing a degree in Computer Science, Engineering, or a related technology field.&lt;/li&gt;\n&lt;li&gt;Proficiency in at least one programming language is required.&lt;/li&gt;\n&lt;li&gt;Exceptional quantitative ability and analytical skills.&lt;/li&gt;\n&lt;li&gt;Highly motivated to compete—and win—in one of the world’s most competitive markets.&lt;/li&gt;\n&lt;li&gt;Experience with statistical modeling, machine learning, or network technology is a plus.&lt;/li&gt;\n&lt;li&gt;Strong communication and collaboration skills, with a desire to work cross-functionally across trading and engineering teams.&lt;/li&gt;\n&lt;li&gt;Interest in the Financial Markets; previous knowledge is NOT required&lt;/li&gt;\n&lt;li&gt;Must be available for full-time employment starting in August 2026&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;You may submit one application per role each year.&amp;nbsp; We strongly encourage you to focus on applying to a single role that best matches your skills and interests.&amp;nbsp; Though you may apply to multiple roles, please note that each application will be evaluated based on the specific criteria established for that particular role. If you have already applied for this position during the current recruitment season and were not selected, you may reapply when the next recruitment season begins in summer 2026.&lt;/p&gt;\n&lt;p&gt;The Base Salary range for the role is included below. Base salary is only one component of total compensation; all full-time, permanent positions are eligible for a discretionary bonus and benefits, including paid leave and insurance. Please visit &lt;a href=&quot;https://www.imc.com/us/careers/benefits&quot;&gt;Benefits - US | IMC Trading&lt;/a&gt; for more comprehensive information.&lt;/p&gt;\n&lt;p&gt;Base Salary: $200,000&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(221, 234, 255);&quot;&gt;#LI-DNP&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;IMC is a global trading firm powered by a cutting-edge research environment and a world-class technology backbone. Since 1989, we’ve been a stabilizing force in financial markets, providing essential liquidity upon which market participants depend. Across our offices in the US, Europe, Asia Pacific, and India, our talented quant researchers, engineers, traders, and business operations professionals are united by our uniquely collaborative, high-performance culture, and our commitment to giving back. From entering dynamic new markets to embracing disruptive technologies, and from developing an innovative research environment to diversifying our trading strategies, we dare to continuously innovate and collaborate to succeed.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "e93c5d331e30236218fcb9a6f9ff0e8ebb832cdf988401862dbb68d768b954c8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-02-27T03:38:19-05:00"
+  },
+  {
+    "job_id": "greenhouse-imc-4713602101",
+    "job_title": "Hardware Machine Learning Engineer",
+    "employer_name": "IMC Trading",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.eu.greenhouse.io/imc/jobs/4713602101",
+    "job_posted_at_datetime_utc": "2026-02-27T03:38:19-05:00",
+    "job_description": "&lt;p&gt;We are deploying machine learning directly onto custom hardware – and we want you to help shape it from the ground up. This is an initiative where you&#39;ll have the rare opportunity to architect solutions from scratch, influence technical direction, and see your work drive real impact in one of the most demanding computing environments in the world.&lt;/p&gt;\n&lt;p&gt;We already have one of the most competitive low latency setups in trading. Now, we&#39;re expanding our use cases to bring the power of neural networks and ML algorithms onto our custom hardware infrastructure. If you&#39;ve ever wanted to push the boundaries of what&#39;s computationally possible, this role is for you.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Your Core Responsibilities&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, implement, and deploy machine learning engines on custom hardware, achieving latency that software alone cannot match&lt;/li&gt;\n&lt;li&gt;Through HW/SW co-design, you’ll collaborate closely with traders, quantitative researchers, and software engineers to translate ML models into efficient implementations – combining the strengths of software with the strengths of hardware&lt;/li&gt;\n&lt;li&gt;Shape a greenfield initiative from the ground up, with the freedom to explore novel approaches and set technical direction&lt;/li&gt;\n&lt;li&gt;Research and build cutting-edge techniques for neural network quantization, compression, and tools that bridge high-level ML frameworks to RTL&lt;/li&gt;\n&lt;li&gt;See the results of your work deployed in production within days, not months – our collaborative culture and unified global codebase enable rapid iteration&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Your Skills and Experience&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Extensive experience with&amp;nbsp;FPGA&amp;nbsp;or ASIC technologies, including proficiency in either VHDL, Verilog, or SystemVerilog&lt;/li&gt;\n&lt;li&gt;Solid understanding of digital design principles, including pipelining, flow control, and clock domain crossing&lt;/li&gt;\n&lt;li&gt;Experience with&amp;nbsp;FPGA&amp;nbsp;development tools and toolchains (Vivado, Quartus, Synplify, etc.)&lt;/li&gt;\n&lt;li&gt;Understanding of machine learning fundamentals – neural network architectures, inference optimization, quantization techniques&lt;/li&gt;\n&lt;li&gt;Experience optimizing inference for temporal or sequential ML models (RNNs, Transformers, state-space models) on resource-constrained or latency-sensitive platforms&lt;/li&gt;\n&lt;li&gt;Proficiency in Python, C++, or similar languages for tooling, testing, and simulation&lt;/li&gt;\n&lt;li&gt;Strong communication skills and ability to work collaboratively across disciplines with both technical and non-technical teams&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Nice to Have&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with High-Level Synthesis (HLS) or other hardware description languages beyond traditional RTL&lt;/li&gt;\n&lt;li&gt;Familiarity with ML-to-hardware frameworks such as hls4ml, FINN, or Vitis AI&lt;/li&gt;\n&lt;li&gt;Experience with ML-relevant compiler intermediate representations and optimization passes such as MLIR, LLVM, polyhedral analysis, or production ML compilers (TVM, XLA, IREE)&lt;/li&gt;\n&lt;li&gt;Background in ultra-low-latency systems – whether in high-frequency trading, particle accelerator data acquisition, real-time signal processing, or similar applications&lt;/li&gt;\n&lt;li&gt;Experience with functional verification methodologies (SystemVerilog, UVM, Cocotb)&lt;/li&gt;\n&lt;li&gt;Advanced degree (MS or PhD) in Electrical Engineering, Computer Science, Physics, or related field&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;The Base Salary range for the role is included below. Base salary is only one component of total compensation; all full-time, permanent positions are eligible for a discretionary bonus and benefits, including paid leave and insurance.&amp;nbsp;Please visit &lt;a href=&quot;https://www.imc.com/us/careers/benefits&quot;&gt;Benefits - US | IMC Trading&lt;/a&gt; for more comprehensive information.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Salary Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$200,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$225,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;IMC is a global trading firm powered by a cutting-edge research environment and a world-class technology backbone. Since 1989, we’ve been a stabilizing force in financial markets, providing essential liquidity upon which market participants depend. Across our offices in the US, Europe, Asia Pacific, and India, our talented quant researchers, engineers, traders, and business operations professionals are united by our uniquely collaborative, high-performance culture, and our commitment to giving back. From entering dynamic new markets to embracing disruptive technologies, and from developing an innovative research environment to diversifying our trading strategies, we dare to continuously innovate and collaborate to succeed.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "49005397857cbef829ea82e121558719cd2a460d3b8e8c31d02a58024b3b9fa7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-02-27T03:38:19-05:00"
+  },
+  {
+    "job_id": "greenhouse-imc-4710203101",
+    "job_title": "IMC PhD Fellowship",
+    "employer_name": "IMC Trading",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.eu.greenhouse.io/imc/jobs/4710203101",
+    "job_posted_at_datetime_utc": "2026-02-27T03:38:19-05:00",
+    "job_description": "&lt;p&gt;IMC is offering academic funding to exceptional doctoral candidates studying STEM subjects, such as computer science, applied math, artificial intelligence, machine learning, statistics, and engineering.&lt;/p&gt;\n&lt;p&gt;If you have fewer than two years remaining in your PhD program and have not accepted a fellowship or comparable award from another trading or tech company, the IMC Fellowship could be the next step in your research journey.&lt;/p&gt;\n&lt;p&gt;Please submit your application and all documents by March 15, 2026.&lt;/p&gt;\n&lt;p&gt;Learn more about the award &lt;a href=&quot;https://www.imc.com/us/careers/students-graduates/programs/phd-fellowship&quot;&gt;here&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;IMC PhD Fellowship Award Details:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;The IMC Fellow will receive USD 50,000 towards education-related expenses (e.g., tuition, fees, and research). This award will be paid directly to the IMC Fellow’s university for distribution.&lt;/li&gt;\n&lt;li&gt;The IMC Fellow will also receive an option to participate in a 2027 summer internship at IMC, subject to the successful completion and satisfaction of standard recruitment and onboarding requirements.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;In addition, the IMC Fellow is assigned a dedicated IMC mentor to help them launch a career in quant research for trading.&lt;/li&gt;\n&lt;li&gt;IMC will also provide a travel stipend for the Fellow to attend a research conference, such as NeurIPS or ICML. The stipend will cover flights and a hotel for the Fellow, as well as food and taxi expenses (in accordance with IMC’s internal travel policies) and fees for conference activities or IMC-sponsored conference events.&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;All IMC PhD Fellowship Finalists will receive USD 5,000 in academic support, administered through each Finalists’ university, and the opportunity to participate in IMC Research Connect event in May 2026.&amp;nbsp; The first Finalist will also receive an option to participate in a 2027 summer internship at IMC, subject to the successful completion and satisfaction of standard recruitment and onboarding requirements.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Eligibility criteria:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;PhD students in STEM with emphasis on fields such as CS, Applied Math, Statistics or Engineering who are currently enrolled at an accredited University in the United States&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Graduating between September 2027 – July 2029&lt;/li&gt;\n&lt;li&gt;Ability to participate in an IMC internship in 2027&lt;/li&gt;\n&lt;li&gt;You have not accepted any other Fellowships or comparable awards from another trading or tech company&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;The determination of the IMC Fellow and each Finalist will be at IMC’s sole and absolute discretion.&amp;nbsp;PhD Fellowships typically require coordination with your university for payment. If you’re selected, we’ll partner with you and your program to arrange the award. All awards will be subject to agreement between IMC and the recipient’s university, and between IMC and the recipient, regarding the terms of the IMC Fellowship or Finalist award (as applicable). In addition, all award payments and recipients will be reviewed for compliance with relevant US and international laws, regulations, and policies. IMC reserves the right to withhold or cease funding due to a violation of applicable laws, regulations, IMC’s policies, or the policies and guidelines of the recipient’s university. Recipients must remain enrolled full-time in their PhD program for the duration of the IMC Fellowship or you will forfeit the award.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;a class=&quot;mention-link&quot; href=&quot;https://mattermost.imc.com/imc-fm/messages/@efitzger&quot; data-hashtag=&quot;#LI-DNP&quot;&gt;#LI-DNP&lt;/a&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;IMC is a global trading firm powered by a cutting-edge research environment and a world-class technology backbone. Since 1989, we’ve been a stabilizing force in financial markets, providing essential liquidity upon which market participants depend. Across our offices in the US, Europe, Asia Pacific, and India, our talented quant researchers, engineers, traders, and business operations professionals are united by our uniquely collaborative, high-performance culture, and our commitment to giving back. From entering dynamic new markets to embracing disruptive technologies, and from developing an innovative research environment to diversifying our trading strategies, we dare to continuously innovate and collaborate to succeed.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "f574db997c76e27cba5e6768ce0c2a0500102f829a07a3d35f086eeab5792fb4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-02-27T03:38:19-05:00"
+  },
+  {
+    "job_id": "greenhouse-imc-4699252101",
+    "job_title": "Machine Learning Researcher",
+    "employer_name": "IMC Trading",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.eu.greenhouse.io/imc/jobs/4699252101",
+    "job_posted_at_datetime_utc": "2026-02-27T03:38:19-05:00",
+    "job_description": "&lt;p&gt;IMC Trading is seeking quantitative researchers with a proven track record to apply state-of-the-art machine learning &amp;amp; deep learning to solve challenging trading problems. This role is part of a central ML research team that collaborates across trading teams at IMC. &amp;nbsp;The ideal candidate will have experience working with other researchers and engineers to build and continuously improve models, systems, and research tooling. We firmly believe that success for research-driven efforts lies in bringing together skills in ML, statistics, and trading intuition as well as a problem-solving mindset and pragmatism.&amp;nbsp; This is an opportunity to dive deep into feature engineering and alpha research, and focus on applying a wide range of ML models as well as to perform research on building custom models.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Your Core Responsibilities:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design and deploy machine learning models to enhance trading performance across various asset classes&lt;/li&gt;\n&lt;li&gt;Research, test and prototype new algorithmic ideas; deploy advanced ML techniques applicable to market prediction, signal generation, and portfolio optimization&lt;/li&gt;\n&lt;li&gt;Collaborate with quantitative traders, researchers, and developers to translate market insights into data-driven features and models&lt;/li&gt;\n&lt;li&gt;Manage data acquisition, preprocessing, and feature engineering for structured and unstructured data sources&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Your Skills and Experience:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;PhD or Master’s in Engineering, Math, Statistics, Computer Science, or related quantitative field&lt;/li&gt;\n&lt;li&gt;2+ years of experience building applied ML models; previous experience in trading environment preferred&lt;/li&gt;\n&lt;li&gt;Proven expertise in developing and deploying predictive models&lt;/li&gt;\n&lt;li&gt;Strong programming skills in Python; proficiency in ML libraries such as PyTorch, TensorFlow, and/or high-performance libraries like Jax&lt;/li&gt;\n&lt;li&gt;Strong understanding of theoretical foundations of state-of-the-art ML models&lt;/li&gt;\n&lt;li&gt;Strong publication track record at ICML, ICLR, NeurIPS, or equivalent&lt;/li&gt;\n&lt;li&gt;Ability and desire to work in a collaborative team environment&lt;/li&gt;\n&lt;li&gt;Excellent written and verbal communication skills&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;The Base Salary range for the role is included below. Base salary is only one component of total compensation; all full-time, permanent positions are eligible for a discretionary bonus and benefits, including paid leave and insurance.&amp;nbsp;Please visit &lt;a href=&quot;https://www.imc.com/us/careers/benefits&quot;&gt;Benefits - US | IMC Trading&lt;/a&gt; for more comprehensive information.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Salary Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$250,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$300,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;IMC is a global trading firm powered by a cutting-edge research environment and a world-class technology backbone. Since 1989, we’ve been a stabilizing force in financial markets, providing essential liquidity upon which market participants depend. Across our offices in the US, Europe, Asia Pacific, and India, our talented quant researchers, engineers, traders, and business operations professionals are united by our uniquely collaborative, high-performance culture, and our commitment to giving back. From entering dynamic new markets to embracing disruptive technologies, and from developing an innovative research environment to diversifying our trading strategies, we dare to continuously innovate and collaborate to succeed.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "4c1bb949dbe57aaf8a499ab955f0cc28d24b411fb3735ecd9f66ef16e4a3457e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-02-27T03:38:19-05:00"
+  },
+  {
+    "job_id": "greenhouse-imc-4660792101",
+    "job_title": "Quantitative Researcher - Data Curation",
+    "employer_name": "IMC Trading",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.eu.greenhouse.io/imc/jobs/4660792101",
+    "job_posted_at_datetime_utc": "2026-02-27T03:38:19-05:00",
+    "job_description": "&lt;p&gt;We are seeking a highly analytical and detail-oriented &lt;strong&gt;Quantitative Researcher&lt;/strong&gt; to join our dynamic research team. The ideal candidate will have deep experience curating and analyzing a broad range of trading-related data sources—including traditional market data, fundamental datasets, and other vendor-supplied information. This role will contribute to the development of innovative trading strategies, support data-driven decision-making, and collaborate closely with trading, technology, and data acquisition teams.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Key Responsibilities:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Curate, cleanse, and validate large volumes of market data, focusing on US equity and equity options&lt;/li&gt;\n&lt;li&gt;Integrate, preprocess, and evaluate fundamental &amp;amp; alternative data sources&lt;/li&gt;\n&lt;li&gt;Work closely with data acquisition &amp;amp; global data team to assess data quality&lt;/li&gt;\n&lt;li&gt;Build and maintain robust data pipelines for research and live trading environments&lt;/li&gt;\n&lt;li&gt;Perform data analysis ad statistical modeling to identify patterns and inefficiencies in the market&lt;/li&gt;\n&lt;li&gt;Ensure the accuracy, completeness, and timeliness of datasets used in quantitative modeling.&lt;/li&gt;\n&lt;li&gt;Document research processes, data provenance, and results with high standards of clarity and reproducibility&lt;/li&gt;\n&lt;li&gt;Collaborate with software engineers and traders to translate research into production-grade models and tools&lt;/li&gt;\n&lt;li&gt;Conduct quantitative research and analysis to support and enhance trading strategies&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Required Skills &amp;amp; Experience:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;3+ years of experience in a quantitative research or data-focused role in financial markets, ideally in a systematic trading environment&lt;/li&gt;\n&lt;li&gt;Proven experience working with a diverse range of trading and financial data&lt;/li&gt;\n&lt;li&gt;Must have previous knowledge of options markets and experience working with options data&lt;/li&gt;\n&lt;li&gt;Hands-on experience integrating and analyzing non-market data sources is a plus&lt;/li&gt;\n&lt;li&gt;Strong understanding of data vendor landscape&lt;/li&gt;\n&lt;li&gt;Advanced proficiency in Python&lt;/li&gt;\n&lt;li&gt;Experience with databases (SQL) and handling large datasets efficiently&lt;/li&gt;\n&lt;li&gt;Familiarity with real-time data systems and tick-level data processing&lt;/li&gt;\n&lt;li&gt;Familiarity with statistical and machine learning techniques&lt;/li&gt;\n&lt;li&gt;Exceptional attention to detail and a systematic approach to problem-solving&lt;/li&gt;\n&lt;li&gt;Strong written and verbal communication skills&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(221, 234, 255);&quot;&gt;#LI-DNP&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;The Base Salary range for the role is included below. Base salary is only one component of total compensation; all full-time, permanent positions are eligible for a discretionary bonus and benefits, including paid leave and insurance.&amp;nbsp;Please visit &lt;a href=&quot;https://www.imc.com/us/careers/benefits&quot;&gt;Benefits - US | IMC Trading&lt;/a&gt; for more comprehensive information.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Salary Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$200,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$275,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;IMC is a global trading firm powered by a cutting-edge research environment and a world-class technology backbone. Since 1989, we’ve been a stabilizing force in financial markets, providing essential liquidity upon which market participants depend. Across our offices in the US, Europe, Asia Pacific, and India, our talented quant researchers, engineers, traders, and business operations professionals are united by our uniquely collaborative, high-performance culture, and our commitment to giving back. From entering dynamic new markets to embracing disruptive technologies, and from developing an innovative research environment to diversifying our trading strategies, we dare to continuously innovate and collaborate to succeed.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "48132a903a1e46c34c90ccc37e0de497bbea8729d57940c33d3823bb24d5a5e6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science",
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-02-27T03:38:19-05:00"
+  },
+  {
     "job_id": "greenhouse-ripple-7651754",
     "job_title": "Business Insights Analyst",
     "employer_name": "Ripple",
@@ -1984,8 +2274,7 @@
       "employment": "entry_level",
       "domains": [
         "software",
-        "data_science",
-        "product"
+        "data_science"
       ],
       "locations": [
         "us"
@@ -2126,7 +2415,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Boston-MA/Research-Data-Analyst--per-diem-Data-Innovation_RQ4052129",
-    "job_posted_at_datetime_utc": "2026-02-26T21:41:23.399Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:54:36.725Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "1072a9ab5132d895dc1668717121ec57fd5502ee9fab8313da8045b540c5a9c3",
@@ -2143,7 +2432,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T21:41:23.399Z"
+    "job_posted_at": "2026-02-26T21:54:36.725Z"
   },
   {
     "job_id": "workday-mass-general-brigham-RQ4052969",
@@ -2154,7 +2443,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Boston-MA/Research-Fellow---Artificial-Intelligence-Machine-Learning_RQ4052969",
-    "job_posted_at_datetime_utc": "2026-02-26T21:41:23.399Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:54:36.725Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "8851dde283babaf6deaaf8e974f5fa0641d55f81169a0027e466479c7e0a70ae",
@@ -2172,7 +2461,63 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T21:41:23.399Z"
+    "job_posted_at": "2026-02-26T21:54:36.725Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234773",
+    "job_title": "Data Scientist and Developer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Lexington Park",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Lexington-Park-MD/Data-Scientist-and-Developer_R0234773",
+    "job_posted_at_datetime_utc": "2026-02-26T21:48:26.477Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "2cac95b6c1292df1f71d71f6b944a2d79393860c400bb6aa84ba54715ad4c163",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-26T21:48:26.477Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234929",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Alexandria",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Alexandria-VA/Data-Scientist_R0234929",
+    "job_posted_at_datetime_utc": "2026-02-26T21:48:26.476Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "3cbcd1247e9b17225fca1866d4bce85e501b0e36b252dff7e822a5c37824d35f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-26T21:48:26.476Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234928",
@@ -2183,7 +2528,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Norfolk-VA/Machine-Learning-Engineer_R0234928",
-    "job_posted_at_datetime_utc": "2026-02-26T21:35:00.862Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:48:26.475Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "e6f750d180c7e50e49a4f069adadba4c62dddbc614162015cb703ebcd5f23326",
@@ -2201,7 +2546,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T21:35:00.862Z"
+    "job_posted_at": "2026-02-26T21:48:26.475Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234832",
@@ -2212,7 +2557,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Fort-Meade-MD/Data-Scientist_R0234832",
-    "job_posted_at_datetime_utc": "2026-02-26T21:35:00.862Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:48:26.475Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "04f3f110e0a8b1dbb56b8a0113941038eadb971a34d24305aeb276239fbb4695",
@@ -2229,7 +2574,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T21:35:00.862Z"
+    "job_posted_at": "2026-02-26T21:48:26.475Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234834",
@@ -2240,7 +2585,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Fort-Meade-MD/Data-Scientist_R0234834-1",
-    "job_posted_at_datetime_utc": "2026-02-26T21:35:00.862Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:48:26.475Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "a16bfe88c7a2270015141c391f408207033d4f10d460b3629783295854281c9e",
@@ -2257,7 +2602,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T21:35:00.862Z"
+    "job_posted_at": "2026-02-26T21:48:26.475Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0229725",
@@ -2268,7 +2613,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Tampa-FL/Data-Scientist_R0229725",
-    "job_posted_at_datetime_utc": "2026-02-26T21:35:00.862Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:48:26.475Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "9ecdacff1c9dcad366b2662f36bfe2b79070d204ec02fd92b92e39124c586435",
@@ -2285,7 +2630,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T21:35:00.862Z"
+    "job_posted_at": "2026-02-26T21:48:26.475Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234833",
@@ -2296,7 +2641,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Fort-Meade-MD/Data-Scientist_R0234833",
-    "job_posted_at_datetime_utc": "2026-02-26T21:35:00.862Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:48:26.475Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "a16bfe88c7a2270015141c391f408207033d4f10d460b3629783295854281c9e",
@@ -2313,63 +2658,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T21:35:00.862Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234929",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Alexandria",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Alexandria-VA/Data-Scientist_R0234929",
-    "job_posted_at_datetime_utc": "2026-02-26T21:35:00.862Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "3cbcd1247e9b17225fca1866d4bce85e501b0e36b252dff7e822a5c37824d35f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T21:35:00.862Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234773",
-    "job_title": "Data Scientist and Developer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Lexington Park",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Lexington-Park-MD/Data-Scientist-and-Developer_R0234773",
-    "job_posted_at_datetime_utc": "2026-02-26T21:35:00.862Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "2cac95b6c1292df1f71d71f6b944a2d79393860c400bb6aa84ba54715ad4c163",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T21:35:00.862Z"
+    "job_posted_at": "2026-02-26T21:48:26.475Z"
   },
   {
     "job_id": "workday-leidos-R-00177051",
@@ -2380,7 +2669,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/job/3325-Fort-George-G-Meade-MD/Data-Scientist_R-00177051",
-    "job_posted_at_datetime_utc": "2026-02-26T21:34:34.325Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:48:00.331Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "534ca06ddb570b78fd0afa1004ac80ae32be0769af89652f56897ef51413f57a",
@@ -2397,7 +2686,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T21:34:34.325Z"
+    "job_posted_at": "2026-02-26T21:48:00.331Z"
   },
   {
     "job_id": "workday-leidos-R-00176629",
@@ -2408,7 +2697,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/job/Huntsville-AL/Data-Analyst-w--Secret-Clearance_R-00176629",
-    "job_posted_at_datetime_utc": "2026-02-26T21:34:34.325Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:48:00.331Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "0abb98df2207b7afadbb6296918372dbc3b2f8adccd4384198a3b687133830ab",
@@ -2425,7 +2714,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T21:34:34.325Z"
+    "job_posted_at": "2026-02-26T21:48:00.331Z"
   },
   {
     "job_id": "ashby-openai-29dc246a-2240-4843-8050-463c8ecc726a",
@@ -2732,7 +3021,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cat.wd5.myworkdayjobs.com/job/Irving-Texas/People-Analytics---Data-Scientist_R0000353001-1",
-    "job_posted_at_datetime_utc": "2026-02-25T21:39:34.535Z",
+    "job_posted_at_datetime_utc": "2026-02-25T21:52:50.600Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "743a23c6423a7fdb489512987d53779e0ec865d2687a9a9f14cbc2f5ada67ce7",
@@ -2749,7 +3038,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T21:39:34.535Z"
+    "job_posted_at": "2026-02-25T21:52:50.600Z"
   },
   {
     "job_id": "workday-boeing-JR2026498172",
@@ -2760,7 +3049,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/Experienced-Data-Scientist_JR2026498172-1",
-    "job_posted_at_datetime_utc": "2026-02-25T21:37:25.595Z",
+    "job_posted_at_datetime_utc": "2026-02-25T21:50:41.101Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "7cfbe8007e0e3b820f815bc6096f0ee4022649ec226ad6e59811dd5e1adc08b0",
@@ -2777,7 +3066,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T21:37:25.595Z"
+    "job_posted_at": "2026-02-25T21:50:41.101Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234779",
@@ -2788,7 +3077,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Machine-Learning-Engineer_R0234779",
-    "job_posted_at_datetime_utc": "2026-02-25T21:35:00.862Z",
+    "job_posted_at_datetime_utc": "2026-02-25T21:48:26.477Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2b242fc5848ce1b3da78245d04e77e6ab79bf15813f47051cfc1cb868961fcc0",
@@ -2806,7 +3095,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T21:35:00.862Z"
+    "job_posted_at": "2026-02-25T21:48:26.477Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234801",
@@ -2817,7 +3106,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Machine-Learning-Engineer_R0234801",
-    "job_posted_at_datetime_utc": "2026-02-25T21:35:00.862Z",
+    "job_posted_at_datetime_utc": "2026-02-25T21:48:26.477Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2b242fc5848ce1b3da78245d04e77e6ab79bf15813f47051cfc1cb868961fcc0",
@@ -2835,7 +3124,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T21:35:00.862Z"
+    "job_posted_at": "2026-02-25T21:48:26.477Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234896",
@@ -2846,7 +3135,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Machine-Learning-Engineer_R0234896",
-    "job_posted_at_datetime_utc": "2026-02-25T21:35:00.862Z",
+    "job_posted_at_datetime_utc": "2026-02-25T21:48:26.477Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2b242fc5848ce1b3da78245d04e77e6ab79bf15813f47051cfc1cb868961fcc0",
@@ -2864,7 +3153,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T21:35:00.862Z"
+    "job_posted_at": "2026-02-25T21:48:26.477Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234716",
@@ -2875,7 +3164,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/MacDill-AFB-FL/Data-Engineer_R0234716",
-    "job_posted_at_datetime_utc": "2026-02-25T21:35:00.862Z",
+    "job_posted_at_datetime_utc": "2026-02-25T21:48:26.477Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "5ff17ad5f7a79d57bc541f01b29dc6a56fb1f01ef4dd129c02dfc6e2f5555f71",
@@ -2892,7 +3181,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T21:35:00.862Z"
+    "job_posted_at": "2026-02-25T21:48:26.477Z"
   },
   {
     "job_id": "workday-salesforce-JR329631",
@@ -2903,7 +3192,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/job/California---Palo-Alto/AI-Engineer--Agent-Systems_JR329631",
-    "job_posted_at_datetime_utc": "2026-02-25T21:33:16.643Z",
+    "job_posted_at_datetime_utc": "2026-02-25T21:46:42.453Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "41e36741079ee0b56c0c0aa4a63d4c808fe6418e428b5ce26bace6fb6a5e1100",
@@ -2921,7 +3210,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T21:33:16.643Z"
+    "job_posted_at": "2026-02-25T21:46:42.453Z"
   },
   {
     "job_id": "workday-salesforce-JR329632",
@@ -2932,7 +3221,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/job/California---San-Francisco/AI-Engineer--ML-Systems_JR329632",
-    "job_posted_at_datetime_utc": "2026-02-25T21:33:16.643Z",
+    "job_posted_at_datetime_utc": "2026-02-25T21:46:42.453Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "357967db90f91446e95c2442e85e51d2c738139d9a0f7c3bd73eda0cdeaad7eb",
@@ -2950,7 +3239,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T21:33:16.643Z"
+    "job_posted_at": "2026-02-25T21:46:42.453Z"
   },
   {
     "job_id": "ashby-openai-ae2b93cc-8f6b-4995-9f0e-70e0d1c4d7d1",
@@ -3368,6 +3657,288 @@
     "job_posted_at": "2026-02-25T00:00:00.000Z"
   },
   {
+    "job_id": "workday-boeing-JR2026496879",
+    "job_title": "Experienced Systems and Data Analyst",
+    "employer_name": "Boeing",
+    "job_city": "8 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---Seattle-WA/Experienced-Systems-and-Data-Analyst_JR2026496879-2",
+    "job_posted_at_datetime_utc": "2026-02-24T21:50:41.101Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "a94f65e168daf7fa8aa8cb38d03d1786bacfcee63fd63c6791b3cc4a1e5ffb95",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-24T21:50:41.101Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0229274",
+    "job_title": "Secure AI Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fort Meade",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Fort-Meade-MD/Secure-AI-Engineer_R0229274",
+    "job_posted_at_datetime_utc": "2026-02-24T21:48:26.478Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "5c4125b5f6a38da49bd3385ea2a95240d2422ebae654c2309e1b5c6836e204fc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-24T21:48:26.478Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234605",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Langley AFB",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Langley-AFB-VA/Data-Scientist_R0234605",
+    "job_posted_at_datetime_utc": "2026-02-24T21:48:26.478Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "2e1d83721f5f80f0a326a993860e4870921df1802f0e27e1c6c38ba39ebe1e10",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-24T21:48:26.478Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0232550",
+    "job_title": "Generative AI/ML Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Bethesda-MD/MLOps-Engineer_R0232550",
+    "job_posted_at_datetime_utc": "2026-02-24T21:48:26.478Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "2af305d3d69996262bb2fe86fcecf7e54fc8db938e9ad5a30ca5b99dd6bed722",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-24T21:48:26.478Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234405",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Washington-DC/Data-Scientist_R0234405",
+    "job_posted_at_datetime_utc": "2026-02-24T21:48:26.478Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "a16bfe88c7a2270015141c391f408207033d4f10d460b3629783295854281c9e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-24T21:48:26.478Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0233775",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Data-Engineer_R0233775",
+    "job_posted_at_datetime_utc": "2026-02-24T21:48:26.477Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "71789731ba63c432516f7e7e72cfcf7e65e577dbe23475d02453639d8cc8c625",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-24T21:48:26.477Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234643",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Nellis AFB",
+    "job_state": "NV",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Nellis-AFB-NV/Data-Scientist_R0234643",
+    "job_posted_at_datetime_utc": "2026-02-24T21:48:26.477Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "3c36656c64e92c24d0dd518037645f1efc03f8b54b852c58f02d0ae683520bce",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-24T21:48:26.477Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0233771",
+    "job_title": "Apache Iceberg Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Apache-Iceberg-Data-Engineer_R0233771",
+    "job_posted_at_datetime_utc": "2026-02-24T21:48:26.477Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "b98c8c0a71d01a2e5a764d539b56c6a580d3626e468fc11ac9557c1fef8ac71b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-24T21:48:26.477Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234571",
+    "job_title": "Data Scientist, Junior",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Charleston",
+    "job_state": "SC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Charleston-SC/Data-Scientist--Junior_R0234571",
+    "job_posted_at_datetime_utc": "2026-02-24T21:48:26.477Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "220cc3e02ddaa5e299c6f956173f394af2f68c5e1ef8beadca6267150cec35eb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-24T21:48:26.477Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234642",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Langley AFB",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Langley-AFB-VA/Data-Scientist_R0234642",
+    "job_posted_at_datetime_utc": "2026-02-24T21:48:26.477Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "2e1d83721f5f80f0a326a993860e4870921df1802f0e27e1c6c38ba39ebe1e10",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-24T21:48:26.477Z"
+  },
+  {
     "job_id": "greenhouse-okta-7354266",
     "job_title": "Strategic Account Executive, St. Louis, MO",
     "employer_name": "Okta",
@@ -3394,288 +3965,6 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-24T16:37:45-05:00"
-  },
-  {
-    "job_id": "workday-boeing-JR2026496879",
-    "job_title": "Experienced Systems and Data Analyst",
-    "employer_name": "Boeing",
-    "job_city": "8 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---Seattle-WA/Experienced-Systems-and-Data-Analyst_JR2026496879-2",
-    "job_posted_at_datetime_utc": "2026-02-24T21:37:25.595Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "a94f65e168daf7fa8aa8cb38d03d1786bacfcee63fd63c6791b3cc4a1e5ffb95",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-24T21:37:25.595Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234405",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Washington-DC/Data-Scientist_R0234405",
-    "job_posted_at_datetime_utc": "2026-02-24T21:35:00.864Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "a16bfe88c7a2270015141c391f408207033d4f10d460b3629783295854281c9e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-24T21:35:00.864Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0233775",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Data-Engineer_R0233775",
-    "job_posted_at_datetime_utc": "2026-02-24T21:35:00.863Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "71789731ba63c432516f7e7e72cfcf7e65e577dbe23475d02453639d8cc8c625",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-24T21:35:00.863Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234643",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Nellis AFB",
-    "job_state": "NV",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Nellis-AFB-NV/Data-Scientist_R0234643",
-    "job_posted_at_datetime_utc": "2026-02-24T21:35:00.863Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "3c36656c64e92c24d0dd518037645f1efc03f8b54b852c58f02d0ae683520bce",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-24T21:35:00.863Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0233771",
-    "job_title": "Apache Iceberg Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Apache-Iceberg-Data-Engineer_R0233771",
-    "job_posted_at_datetime_utc": "2026-02-24T21:35:00.863Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "b98c8c0a71d01a2e5a764d539b56c6a580d3626e468fc11ac9557c1fef8ac71b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-24T21:35:00.863Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234571",
-    "job_title": "Data Scientist, Junior",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Charleston",
-    "job_state": "SC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Charleston-SC/Data-Scientist--Junior_R0234571",
-    "job_posted_at_datetime_utc": "2026-02-24T21:35:00.863Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "220cc3e02ddaa5e299c6f956173f394af2f68c5e1ef8beadca6267150cec35eb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-24T21:35:00.863Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234642",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Langley AFB",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Langley-AFB-VA/Data-Scientist_R0234642",
-    "job_posted_at_datetime_utc": "2026-02-24T21:35:00.863Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "2e1d83721f5f80f0a326a993860e4870921df1802f0e27e1c6c38ba39ebe1e10",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-24T21:35:00.863Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0229274",
-    "job_title": "Secure AI Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fort Meade",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Fort-Meade-MD/Secure-AI-Engineer_R0229274",
-    "job_posted_at_datetime_utc": "2026-02-24T21:35:00.863Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "5c4125b5f6a38da49bd3385ea2a95240d2422ebae654c2309e1b5c6836e204fc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-24T21:35:00.863Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234605",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Langley AFB",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Langley-AFB-VA/Data-Scientist_R0234605",
-    "job_posted_at_datetime_utc": "2026-02-24T21:35:00.863Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "2e1d83721f5f80f0a326a993860e4870921df1802f0e27e1c6c38ba39ebe1e10",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-24T21:35:00.863Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0232550",
-    "job_title": "Generative AI/ML Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Bethesda-MD/MLOps-Engineer_R0232550",
-    "job_posted_at_datetime_utc": "2026-02-24T21:35:00.863Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "2af305d3d69996262bb2fe86fcecf7e54fc8db938e9ad5a30ca5b99dd6bed722",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-24T21:35:00.863Z"
   },
   {
     "job_id": "greenhouse-airtable-7845291002",
@@ -3736,6 +4025,34 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-24T14:57:23-05:00"
+  },
+  {
+    "job_id": "greenhouse-janestreet-6558007002",
+    "job_title": "Data Engineer",
+    "employer_name": "Jane Street",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/janestreet/jobs/6558007002",
+    "job_posted_at_datetime_utc": "2026-02-24T12:41:18-05:00",
+    "job_description": "&lt;h3&gt;About the Position&lt;/h3&gt;\n&lt;p&gt;We are looking for a Data Engineer to turn messy, real-world datasets into reliable inputs for research and trading. Jane Street depends on data from a wide variety of sources to understand markets and the global economy—think world news, decades of weather patterns, deidentified credit card spending, or packet captures of stock exchange market data feeds. Clean, well-structured data is the difference between noise and a profitable trading signal.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;You&#39;ll work closely with trading desks to identify Jane Street&#39;s data needs, evaluate datasets, and build pipelines that ingest and transform external data. You&#39;ll figure out what data means and how best to represent it. We build our own tools and software when needed, so you&#39;ll also help shape the systems you use every day.&lt;/p&gt;\n&lt;p&gt;This is a collaborative role, but you&#39;ll own your work from end to end. It requires a mix of engineering, data analysis, and product sense. You&#39;ll develop deep expertise in your data domains and use that understanding to decide what&#39;s worth building next.&lt;/p&gt;\n&lt;h3&gt;About You&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Have strong programming skills in any language (Python a plus); you write clear, correct, and maintainable code&lt;/li&gt;\n&lt;li&gt;Proficient with SQL or DataFrame libraries like pandas or Polars&lt;/li&gt;\n&lt;li&gt;Intellectually curious with a meticulous approach to data investigation; you enjoy the detective work required to make sense of unfamiliar datasets&lt;/li&gt;\n&lt;li&gt;A clear and concise communicator&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Prior experience with financial data is helpful but not required. We’re happy to hire talented engineers and teach them what they need to know.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;If you&#39;re a recruiting agency and want to partner with us, please reach out to&amp;nbsp;&lt;/em&gt;&lt;a href=&quot;mailto:agency-partnerships@janestreet.com&quot;&gt;&lt;em&gt;agency-partnerships@janestreet.com&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;",
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "7fca97ec9c6ee25e1f0b4a16289b5611aedc120cb0ed928174b280cae5abb225",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-02-24T12:41:18-05:00"
   },
   {
     "job_id": "greenhouse-spacex-8397366002",
@@ -4129,6 +4446,203 @@
     "job_posted_at": "2026-02-24T00:00:00.000Z"
   },
   {
+    "job_id": "workday-adobe-R165421",
+    "job_title": "Machine Learning Engineer 50",
+    "employer_name": "Adobe",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/job/San-Jose/Machine-Learning-Engineer-50_R165421",
+    "job_posted_at_datetime_utc": "2026-02-23T21:52:19.344Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "404534ace5b5e95dcc874d26db219d1f490687387df4aea1479d3a2f0fe86709",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-23T21:52:19.344Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234574",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/San-Diego-CA/Data-Engineer_R0234574",
+    "job_posted_at_datetime_utc": "2026-02-23T21:48:26.478Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "b5b484f665e689547402bc63ca9475a88f14fc95b1fc1cc4d205a31d578e6e33",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-23T21:48:26.478Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0233902",
+    "job_title": "AI/ML Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Chantilly",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Chantilly-VA/AI-ML-Engineer_R0233902",
+    "job_posted_at_datetime_utc": "2026-02-23T21:48:26.478Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "78553973b04e4fd8a7b180c4c2b26204b11bebad5b23542f1166ffddb83cacb0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-23T21:48:26.478Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234398",
+    "job_title": "Data Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Dayton",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Dayton-OH/Data-Analyst_R0234398",
+    "job_posted_at_datetime_utc": "2026-02-23T21:48:26.478Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "ed5342a911af54faa64c82ffa9ea666461f15d999927433a76a4f1b6fe8e4a76",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-23T21:48:26.478Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234117",
+    "job_title": "Enterprise Cybersecurity Data Engineer and Business Intelligence Developer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Enterprise-Cybersecurity-Data-Engineer-and-Business-Intelligence-Developer_R0234117",
+    "job_posted_at_datetime_utc": "2026-02-23T21:48:26.478Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "3aa19cdbf9e3a360bd081880acd943262bfaaebe76d8c12b3a5cb80311b1891c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-23T21:48:26.478Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234300",
+    "job_title": "Health Services Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Health-Services-Data-Engineer_R0234300",
+    "job_posted_at_datetime_utc": "2026-02-23T21:48:26.478Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "e1fcff4b3ab93d99c1625eb91a7434506143bd523df6d37d6af6654322432f35",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-23T21:48:26.478Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0231932",
+    "job_title": "Criminal Justice Data Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Arlington-VA/Data-Analyst_R0231932",
+    "job_posted_at_datetime_utc": "2026-02-23T21:48:26.478Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "15e89e3ee02d54b3af8d72d28a972e0ac11e16bd878243a4580328079935dc8a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-23T21:48:26.478Z"
+  },
+  {
     "job_id": "greenhouse-okta-7086125",
     "job_title": "Account Executive, Strategic Inside Sales (Chicago)",
     "employer_name": "Okta",
@@ -4200,8 +4714,7 @@
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "data_science",
-        "product"
+        "data_science"
       ],
       "locations": [
         "us"
@@ -4229,8 +4742,7 @@
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "data_science",
-        "product"
+        "data_science"
       ],
       "locations": [
         "us"
@@ -4428,8 +4940,7 @@
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "data_science",
-        "product"
+        "data_science"
       ],
       "locations": [
         "us"
@@ -4457,8 +4968,7 @@
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "data_science",
-        "product"
+        "data_science"
       ],
       "locations": [
         "us"
@@ -4553,203 +5063,6 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-23T16:39:45-05:00"
-  },
-  {
-    "job_id": "workday-adobe-R165421",
-    "job_title": "Machine Learning Engineer 50",
-    "employer_name": "Adobe",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/job/San-Jose/Machine-Learning-Engineer-50_R165421",
-    "job_posted_at_datetime_utc": "2026-02-23T21:39:03.074Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "404534ace5b5e95dcc874d26db219d1f490687387df4aea1479d3a2f0fe86709",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-23T21:39:03.074Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234574",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/San-Diego-CA/Data-Engineer_R0234574",
-    "job_posted_at_datetime_utc": "2026-02-23T21:35:00.864Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "b5b484f665e689547402bc63ca9475a88f14fc95b1fc1cc4d205a31d578e6e33",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-23T21:35:00.864Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0233902",
-    "job_title": "AI/ML Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Chantilly",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Chantilly-VA/AI-ML-Engineer_R0233902",
-    "job_posted_at_datetime_utc": "2026-02-23T21:35:00.864Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "78553973b04e4fd8a7b180c4c2b26204b11bebad5b23542f1166ffddb83cacb0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-23T21:35:00.864Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234398",
-    "job_title": "Data Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Dayton",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Dayton-OH/Data-Analyst_R0234398",
-    "job_posted_at_datetime_utc": "2026-02-23T21:35:00.864Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "ed5342a911af54faa64c82ffa9ea666461f15d999927433a76a4f1b6fe8e4a76",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-23T21:35:00.864Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234117",
-    "job_title": "Enterprise Cybersecurity Data Engineer and Business Intelligence Developer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Enterprise-Cybersecurity-Data-Engineer-and-Business-Intelligence-Developer_R0234117",
-    "job_posted_at_datetime_utc": "2026-02-23T21:35:00.864Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "3aa19cdbf9e3a360bd081880acd943262bfaaebe76d8c12b3a5cb80311b1891c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-23T21:35:00.864Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234300",
-    "job_title": "Health Services Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Health-Services-Data-Engineer_R0234300",
-    "job_posted_at_datetime_utc": "2026-02-23T21:35:00.864Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "e1fcff4b3ab93d99c1625eb91a7434506143bd523df6d37d6af6654322432f35",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-23T21:35:00.864Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0231932",
-    "job_title": "Criminal Justice Data Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Arlington-VA/Data-Analyst_R0231932",
-    "job_posted_at_datetime_utc": "2026-02-23T21:35:00.864Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "15e89e3ee02d54b3af8d72d28a972e0ac11e16bd878243a4580328079935dc8a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-23T21:35:00.864Z"
   },
   {
     "job_id": "ashby-openai-ed871ac9-44ae-47fa-beaa-b9ab7ff31012",
@@ -5120,7 +5433,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/job/San-Jose-California-United-States-of-America/Data-Scientist_1200572",
-    "job_posted_at_datetime_utc": "2026-02-22T21:35:54.217Z",
+    "job_posted_at_datetime_utc": "2026-02-22T21:49:19.301Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "9326966af24e88ab1c22106dc9de636610e8ae27ad2ceea62dc4a66495a19365",
@@ -5137,7 +5450,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-22T21:35:54.217Z"
+    "job_posted_at": "2026-02-22T21:49:19.301Z"
   },
   {
     "job_id": "js-orcaworks-build-your-digital-coworker-crwh-f6iref6nsnsaaaaaa==",
@@ -6461,7 +6774,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Buckley-AFB-CO/Data-Scientist_R0234099",
-    "job_posted_at_datetime_utc": "2026-02-19T21:35:00.865Z",
+    "job_posted_at_datetime_utc": "2026-02-19T21:48:26.479Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "84878e4d4602ad149d16a700e5bf2eb9bb11918aad4eb0b4fe9d9d7dc13ed25b",
@@ -6478,7 +6791,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-19T21:35:00.865Z"
+    "job_posted_at": "2026-02-19T21:48:26.479Z"
   },
   {
     "job_id": "greenhouse-databricks-7471089002",
@@ -6689,34 +7002,6 @@
     "job_posted_at": "2026-02-18T17:35:31-05:00"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0230985",
-    "job_title": "AI and ML Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Charleston",
-    "job_state": "SC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Charleston-SC/AI-and-ML-Engineer_R0230985",
-    "job_posted_at_datetime_utc": "2026-02-18T21:35:00.865Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "69ce25cdadfe6228f91dd0a74d42b861aeb28fa1399d2a767860666794ebdb5d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-18T21:35:00.865Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0234221",
     "job_title": "Data Scientist",
     "employer_name": "Booz Allen Hamilton",
@@ -6725,7 +7010,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/San-Diego-CA/Data-Scientist_R0234221",
-    "job_posted_at_datetime_utc": "2026-02-18T21:35:00.865Z",
+    "job_posted_at_datetime_utc": "2026-02-18T21:48:26.480Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "03805b8e47c31dd2d5c5b3124ae9e615c8ebce9ae9f7c09d2b90c65d9158a4e0",
@@ -6742,7 +7027,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-18T21:35:00.865Z"
+    "job_posted_at": "2026-02-18T21:48:26.480Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234223",
@@ -6753,7 +7038,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Chantilly-VA/Human-Capital-Data-Analyst_R0234223",
-    "job_posted_at_datetime_utc": "2026-02-18T21:35:00.865Z",
+    "job_posted_at_datetime_utc": "2026-02-18T21:48:26.480Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "157fda429f5d4a5d33f5abfb033d57ff8e7ac820fa88d402032406e9699faf55",
@@ -6770,7 +7055,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-18T21:35:00.865Z"
+    "job_posted_at": "2026-02-18T21:48:26.480Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0230985",
+    "job_title": "AI and ML Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Charleston",
+    "job_state": "SC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Charleston-SC/AI-and-ML-Engineer_R0230985",
+    "job_posted_at_datetime_utc": "2026-02-18T21:48:26.479Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "69ce25cdadfe6228f91dd0a74d42b861aeb28fa1399d2a767860666794ebdb5d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-18T21:48:26.479Z"
   },
   {
     "job_id": "greenhouse-datadog-6572669",
@@ -6868,7 +7181,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/job/Sunnyvale-California-United-States-of-America/Data-Scientist-3_1201030",
-    "job_posted_at_datetime_utc": "2026-02-17T21:35:54.219Z",
+    "job_posted_at_datetime_utc": "2026-02-17T21:49:19.302Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "6179313f912be2ca18fc5b599b78152ab7cbe9f1c007b7966595a863fa9af73d",
@@ -6885,7 +7198,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-17T21:35:54.219Z"
+    "job_posted_at": "2026-02-17T21:49:19.302Z"
   },
   {
     "job_id": "greenhouse-lyft-8376875002",
