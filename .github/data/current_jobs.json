@@ -368,7 +368,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Bethesda-MD/Artificial-Intelligence-and-Machine-Learning-Engineer_R0234257",
-    "job_posted_at_datetime_utc": "2026-02-27T20:55:54.534Z",
+    "job_posted_at_datetime_utc": "2026-02-27T21:09:11.668Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "549ae491df14eb6d74b5872dfebf528c8dbb1b2cccd49b0e7e0dcab71a134bd9",
@@ -386,7 +386,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T20:55:54.534Z"
+    "job_posted_at": "2026-02-27T21:09:11.668Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0232422",
@@ -397,7 +397,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Bethesda-MD/Health-Data-Engineer_R0232422",
-    "job_posted_at_datetime_utc": "2026-02-27T20:55:54.534Z",
+    "job_posted_at_datetime_utc": "2026-02-27T21:09:11.668Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "6ba7006749dda96c52b791ac8566b9c0f5ebebf1a56e9de2fefc4c28807735cb",
@@ -414,7 +414,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T20:55:54.534Z"
+    "job_posted_at": "2026-02-27T21:09:11.668Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234498",
@@ -425,7 +425,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Data-Scientist_R0234498",
-    "job_posted_at_datetime_utc": "2026-02-27T20:55:54.534Z",
+    "job_posted_at_datetime_utc": "2026-02-27T21:09:11.668Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "a16bfe88c7a2270015141c391f408207033d4f10d460b3629783295854281c9e",
@@ -442,7 +442,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T20:55:54.534Z"
+    "job_posted_at": "2026-02-27T21:09:11.668Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0233003",
@@ -453,7 +453,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Charleston-SC/Data-Scientist--Junior_R0233003",
-    "job_posted_at_datetime_utc": "2026-02-27T20:55:54.534Z",
+    "job_posted_at_datetime_utc": "2026-02-27T21:09:11.668Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "220cc3e02ddaa5e299c6f956173f394af2f68c5e1ef8beadca6267150cec35eb",
@@ -470,7 +470,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T20:55:54.534Z"
+    "job_posted_at": "2026-02-27T21:09:11.668Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234850",
@@ -481,7 +481,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Camp-Lejeune-NC/Data-Analyst_R0234850",
-    "job_posted_at_datetime_utc": "2026-02-27T20:55:54.534Z",
+    "job_posted_at_datetime_utc": "2026-02-27T21:09:11.668Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "4202530d9a246d1be54024761a5a47334c7d7a55e9303b1a552ebc7257999736",
@@ -498,7 +498,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T20:55:54.534Z"
+    "job_posted_at": "2026-02-27T21:09:11.668Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234847",
@@ -509,7 +509,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Honolulu-HI/Agentic-AI-and-Data-Engineer_R0234847",
-    "job_posted_at_datetime_utc": "2026-02-27T20:55:54.534Z",
+    "job_posted_at_datetime_utc": "2026-02-27T21:09:11.668Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "859b1504afcbac78b9661e405d837846f850994ca8511f2d74e18549775cfa80",
@@ -526,7 +526,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T20:55:54.534Z"
+    "job_posted_at": "2026-02-27T21:09:11.668Z"
   },
   {
     "job_id": "greenhouse-datadog-7624017",
@@ -2155,7 +2155,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Boston-MA/Research-Data-Analyst--per-diem-Data-Innovation_RQ4052129",
-    "job_posted_at_datetime_utc": "2026-02-26T21:02:04.153Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:15:30.231Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "1072a9ab5132d895dc1668717121ec57fd5502ee9fab8313da8045b540c5a9c3",
@@ -2172,7 +2172,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T21:02:04.153Z"
+    "job_posted_at": "2026-02-26T21:15:30.231Z"
   },
   {
     "job_id": "workday-mass-general-brigham-RQ4052969",
@@ -2183,7 +2183,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Boston-MA/Research-Fellow---Artificial-Intelligence-Machine-Learning_RQ4052969",
-    "job_posted_at_datetime_utc": "2026-02-26T21:02:04.153Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:15:30.231Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "8851dde283babaf6deaaf8e974f5fa0641d55f81169a0027e466479c7e0a70ae",
@@ -2201,7 +2201,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T21:02:04.153Z"
+    "job_posted_at": "2026-02-26T21:15:30.231Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234929",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Alexandria",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Alexandria-VA/Data-Scientist_R0234929",
+    "job_posted_at_datetime_utc": "2026-02-26T21:09:11.669Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "3cbcd1247e9b17225fca1866d4bce85e501b0e36b252dff7e822a5c37824d35f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-26T21:09:11.669Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234773",
@@ -2212,7 +2240,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Lexington-Park-MD/Data-Scientist-and-Developer_R0234773",
-    "job_posted_at_datetime_utc": "2026-02-26T20:55:54.535Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:09:11.669Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2cac95b6c1292df1f71d71f6b944a2d79393860c400bb6aa84ba54715ad4c163",
@@ -2229,7 +2257,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:55:54.535Z"
+    "job_posted_at": "2026-02-26T21:09:11.669Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234928",
@@ -2240,7 +2268,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Norfolk-VA/Machine-Learning-Engineer_R0234928",
-    "job_posted_at_datetime_utc": "2026-02-26T20:55:54.534Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:09:11.668Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "e6f750d180c7e50e49a4f069adadba4c62dddbc614162015cb703ebcd5f23326",
@@ -2258,7 +2286,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:55:54.534Z"
+    "job_posted_at": "2026-02-26T21:09:11.668Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234832",
@@ -2269,7 +2297,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Fort-Meade-MD/Data-Scientist_R0234832",
-    "job_posted_at_datetime_utc": "2026-02-26T20:55:54.534Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:09:11.668Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "04f3f110e0a8b1dbb56b8a0113941038eadb971a34d24305aeb276239fbb4695",
@@ -2286,7 +2314,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:55:54.534Z"
+    "job_posted_at": "2026-02-26T21:09:11.668Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234834",
@@ -2297,7 +2325,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Fort-Meade-MD/Data-Scientist_R0234834-1",
-    "job_posted_at_datetime_utc": "2026-02-26T20:55:54.534Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:09:11.668Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "a16bfe88c7a2270015141c391f408207033d4f10d460b3629783295854281c9e",
@@ -2314,7 +2342,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:55:54.534Z"
+    "job_posted_at": "2026-02-26T21:09:11.668Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0229725",
@@ -2325,7 +2353,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Tampa-FL/Data-Scientist_R0229725",
-    "job_posted_at_datetime_utc": "2026-02-26T20:55:54.534Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:09:11.668Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "9ecdacff1c9dcad366b2662f36bfe2b79070d204ec02fd92b92e39124c586435",
@@ -2342,7 +2370,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:55:54.534Z"
+    "job_posted_at": "2026-02-26T21:09:11.668Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234833",
@@ -2353,7 +2381,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Fort-Meade-MD/Data-Scientist_R0234833",
-    "job_posted_at_datetime_utc": "2026-02-26T20:55:54.534Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:09:11.668Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "a16bfe88c7a2270015141c391f408207033d4f10d460b3629783295854281c9e",
@@ -2370,35 +2398,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:55:54.534Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234929",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Alexandria",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Alexandria-VA/Data-Scientist_R0234929",
-    "job_posted_at_datetime_utc": "2026-02-26T20:55:54.534Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "3cbcd1247e9b17225fca1866d4bce85e501b0e36b252dff7e822a5c37824d35f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:55:54.534Z"
+    "job_posted_at": "2026-02-26T21:09:11.668Z"
   },
   {
     "job_id": "workday-leidos-R-00177051",
@@ -2409,7 +2409,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/job/3325-Fort-George-G-Meade-MD/Data-Scientist_R-00177051",
-    "job_posted_at_datetime_utc": "2026-02-26T20:55:30.452Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:08:45.939Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "534ca06ddb570b78fd0afa1004ac80ae32be0769af89652f56897ef51413f57a",
@@ -2426,7 +2426,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:55:30.452Z"
+    "job_posted_at": "2026-02-26T21:08:45.939Z"
   },
   {
     "job_id": "workday-leidos-R-00176629",
@@ -2437,7 +2437,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/job/Huntsville-AL/Data-Analyst-w--Secret-Clearance_R-00176629",
-    "job_posted_at_datetime_utc": "2026-02-26T20:55:30.452Z",
+    "job_posted_at_datetime_utc": "2026-02-26T21:08:45.939Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "0abb98df2207b7afadbb6296918372dbc3b2f8adccd4384198a3b687133830ab",
@@ -2454,7 +2454,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:55:30.452Z"
+    "job_posted_at": "2026-02-26T21:08:45.939Z"
   },
   {
     "job_id": "ashby-replit-f4e571e4-3505-4149-8930-eefa7a29fabc",
@@ -2675,7 +2675,7 @@
     "job_is_remote": false,
     "job_apply_link": "https://us.bebee.com/job/7f2b226fb23844a1756fd021096d3df1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_posted_at_datetime_utc": "2026-02-26T00:00:00.000Z",
-    "job_description": "Join a leading tech company as a Data Analyst.\nAbout Us\n\nSynergisticit has helped thousands of candidates get employed in the tech industry since 2010 by providing them with the necessary skills and experience.\n• Analyzing complex data sets to identify trends and insights\n• Developing reports to present findings to stakeholders\nRequirements:\n• Bachelor's degree in Computer Science or related field\n• Proficiency in programming languages Java and Python",
+    "job_description": "Join a leading tech company as a Data Analyst.\nAbout Us\n\nSynergisticit has helped thousands of candidates get employed in the tech industry since 2010 by providing them with the necessary skills and experience.\n• Analyzing complex data sets to identify trends and insights\n• Developing reports to present findings to stakeholders\nRequirements:\n��� Bachelor's degree in Computer Science or related field\n• Proficiency in programming languages Java and Python",
     "job_employment_type": "FULL-TIME",
     "fingerprint": "91cfc0ddd712a9b621dffbb483ca170611f3375b0f3c70e316aceb11129ecb38",
     "tags": {
@@ -2753,6 +2753,34 @@
     "job_posted_at": "2026-02-25T21:13:57.131+00:00"
   },
   {
+    "job_id": "workday-caterpillar-R0000353001",
+    "job_title": "People Analytics - Data Scientist",
+    "employer_name": "Caterpillar",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/job/Irving-Texas/People-Analytics---Data-Scientist_R0000353001-1",
+    "job_posted_at_datetime_utc": "2026-02-25T21:13:42.903Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "743a23c6423a7fdb489512987d53779e0ec865d2687a9a9f14cbc2f5ada67ce7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-25T21:13:42.903Z"
+  },
+  {
     "job_id": "ashby-openai-1bb1f351-41a2-43a5-bac1-259859886cb3",
     "job_title": "Software Engineer, Marketing Innovation",
     "employer_name": "OpenAI",
@@ -2783,34 +2811,6 @@
     "job_posted_at": "2026-02-25T21:12:08.897+00:00"
   },
   {
-    "job_id": "workday-caterpillar-R0000353001",
-    "job_title": "People Analytics - Data Scientist",
-    "employer_name": "Caterpillar",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/job/Irving-Texas/People-Analytics---Data-Scientist_R0000353001-1",
-    "job_posted_at_datetime_utc": "2026-02-25T21:00:22.931Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "743a23c6423a7fdb489512987d53779e0ec865d2687a9a9f14cbc2f5ada67ce7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-25T21:00:22.931Z"
-  },
-  {
     "job_id": "workday-boeing-JR2026498172",
     "job_title": "Experienced Data Scientist",
     "employer_name": "Boeing",
@@ -2819,7 +2819,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/Experienced-Data-Scientist_JR2026498172-1",
-    "job_posted_at_datetime_utc": "2026-02-25T20:58:06.951Z",
+    "job_posted_at_datetime_utc": "2026-02-25T21:11:26.841Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "7cfbe8007e0e3b820f815bc6096f0ee4022649ec226ad6e59811dd5e1adc08b0",
@@ -2836,7 +2836,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T20:58:06.951Z"
+    "job_posted_at": "2026-02-25T21:11:26.841Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234779",
@@ -2847,7 +2847,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Machine-Learning-Engineer_R0234779",
-    "job_posted_at_datetime_utc": "2026-02-25T20:55:54.536Z",
+    "job_posted_at_datetime_utc": "2026-02-25T21:09:11.670Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2b242fc5848ce1b3da78245d04e77e6ab79bf15813f47051cfc1cb868961fcc0",
@@ -2865,7 +2865,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T20:55:54.536Z"
+    "job_posted_at": "2026-02-25T21:09:11.670Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234801",
@@ -2876,7 +2876,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Machine-Learning-Engineer_R0234801",
-    "job_posted_at_datetime_utc": "2026-02-25T20:55:54.536Z",
+    "job_posted_at_datetime_utc": "2026-02-25T21:09:11.670Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2b242fc5848ce1b3da78245d04e77e6ab79bf15813f47051cfc1cb868961fcc0",
@@ -2894,7 +2894,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T20:55:54.536Z"
+    "job_posted_at": "2026-02-25T21:09:11.670Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234896",
@@ -2905,7 +2905,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Machine-Learning-Engineer_R0234896",
-    "job_posted_at_datetime_utc": "2026-02-25T20:55:54.536Z",
+    "job_posted_at_datetime_utc": "2026-02-25T21:09:11.670Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2b242fc5848ce1b3da78245d04e77e6ab79bf15813f47051cfc1cb868961fcc0",
@@ -2923,7 +2923,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T20:55:54.536Z"
+    "job_posted_at": "2026-02-25T21:09:11.670Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234716",
@@ -2934,7 +2934,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/MacDill-AFB-FL/Data-Engineer_R0234716",
-    "job_posted_at_datetime_utc": "2026-02-25T20:55:54.536Z",
+    "job_posted_at_datetime_utc": "2026-02-25T21:09:11.670Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "5ff17ad5f7a79d57bc541f01b29dc6a56fb1f01ef4dd129c02dfc6e2f5555f71",
@@ -2951,7 +2951,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T20:55:54.536Z"
+    "job_posted_at": "2026-02-25T21:09:11.670Z"
   },
   {
     "job_id": "workday-salesforce-JR329631",
@@ -2962,7 +2962,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/job/California---Palo-Alto/AI-Engineer--Agent-Systems_JR329631",
-    "job_posted_at_datetime_utc": "2026-02-25T20:54:06.120Z",
+    "job_posted_at_datetime_utc": "2026-02-25T21:07:21.377Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "41e36741079ee0b56c0c0aa4a63d4c808fe6418e428b5ce26bace6fb6a5e1100",
@@ -2980,7 +2980,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T20:54:06.120Z"
+    "job_posted_at": "2026-02-25T21:07:21.377Z"
   },
   {
     "job_id": "workday-salesforce-JR329632",
@@ -2991,7 +2991,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/job/California---San-Francisco/AI-Engineer--ML-Systems_JR329632",
-    "job_posted_at_datetime_utc": "2026-02-25T20:54:06.120Z",
+    "job_posted_at_datetime_utc": "2026-02-25T21:07:21.377Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "357967db90f91446e95c2442e85e51d2c738139d9a0f7c3bd73eda0cdeaad7eb",
@@ -3009,7 +3009,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T20:54:06.120Z"
+    "job_posted_at": "2026-02-25T21:07:21.377Z"
   },
   {
     "job_id": "ashby-perplexity-bc1a6878-8de9-48c2-a791-95b2f8f27261",
@@ -3404,7 +3404,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---Seattle-WA/Experienced-Systems-and-Data-Analyst_JR2026496879-2",
-    "job_posted_at_datetime_utc": "2026-02-24T20:58:06.951Z",
+    "job_posted_at_datetime_utc": "2026-02-24T21:11:26.841Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "a94f65e168daf7fa8aa8cb38d03d1786bacfcee63fd63c6791b3cc4a1e5ffb95",
@@ -3421,7 +3421,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:58:06.951Z"
+    "job_posted_at": "2026-02-24T21:11:26.841Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0233775",
@@ -3432,7 +3432,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Data-Engineer_R0233775",
-    "job_posted_at_datetime_utc": "2026-02-24T20:55:54.536Z",
+    "job_posted_at_datetime_utc": "2026-02-24T21:09:11.670Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "71789731ba63c432516f7e7e72cfcf7e65e577dbe23475d02453639d8cc8c625",
@@ -3449,7 +3449,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:55:54.536Z"
+    "job_posted_at": "2026-02-24T21:09:11.670Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234643",
@@ -3460,7 +3460,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Nellis-AFB-NV/Data-Scientist_R0234643",
-    "job_posted_at_datetime_utc": "2026-02-24T20:55:54.536Z",
+    "job_posted_at_datetime_utc": "2026-02-24T21:09:11.670Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "3c36656c64e92c24d0dd518037645f1efc03f8b54b852c58f02d0ae683520bce",
@@ -3477,7 +3477,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:55:54.536Z"
+    "job_posted_at": "2026-02-24T21:09:11.670Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0233771",
@@ -3488,7 +3488,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Apache-Iceberg-Data-Engineer_R0233771",
-    "job_posted_at_datetime_utc": "2026-02-24T20:55:54.536Z",
+    "job_posted_at_datetime_utc": "2026-02-24T21:09:11.670Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "b98c8c0a71d01a2e5a764d539b56c6a580d3626e468fc11ac9557c1fef8ac71b",
@@ -3505,7 +3505,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:55:54.536Z"
+    "job_posted_at": "2026-02-24T21:09:11.670Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234571",
@@ -3516,7 +3516,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Charleston-SC/Data-Scientist--Junior_R0234571",
-    "job_posted_at_datetime_utc": "2026-02-24T20:55:54.536Z",
+    "job_posted_at_datetime_utc": "2026-02-24T21:09:11.670Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "220cc3e02ddaa5e299c6f956173f394af2f68c5e1ef8beadca6267150cec35eb",
@@ -3533,7 +3533,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:55:54.536Z"
+    "job_posted_at": "2026-02-24T21:09:11.670Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234642",
@@ -3544,7 +3544,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Langley-AFB-VA/Data-Scientist_R0234642",
-    "job_posted_at_datetime_utc": "2026-02-24T20:55:54.536Z",
+    "job_posted_at_datetime_utc": "2026-02-24T21:09:11.670Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2e1d83721f5f80f0a326a993860e4870921df1802f0e27e1c6c38ba39ebe1e10",
@@ -3561,7 +3561,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:55:54.536Z"
+    "job_posted_at": "2026-02-24T21:09:11.670Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0229274",
@@ -3572,7 +3572,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Fort-Meade-MD/Secure-AI-Engineer_R0229274",
-    "job_posted_at_datetime_utc": "2026-02-24T20:55:54.536Z",
+    "job_posted_at_datetime_utc": "2026-02-24T21:09:11.670Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "5c4125b5f6a38da49bd3385ea2a95240d2422ebae654c2309e1b5c6836e204fc",
@@ -3590,7 +3590,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:55:54.536Z"
+    "job_posted_at": "2026-02-24T21:09:11.670Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234605",
@@ -3601,7 +3601,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Langley-AFB-VA/Data-Scientist_R0234605",
-    "job_posted_at_datetime_utc": "2026-02-24T20:55:54.536Z",
+    "job_posted_at_datetime_utc": "2026-02-24T21:09:11.670Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2e1d83721f5f80f0a326a993860e4870921df1802f0e27e1c6c38ba39ebe1e10",
@@ -3618,7 +3618,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:55:54.536Z"
+    "job_posted_at": "2026-02-24T21:09:11.670Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0232550",
@@ -3629,7 +3629,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Bethesda-MD/MLOps-Engineer_R0232550",
-    "job_posted_at_datetime_utc": "2026-02-24T20:55:54.536Z",
+    "job_posted_at_datetime_utc": "2026-02-24T21:09:11.670Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2af305d3d69996262bb2fe86fcecf7e54fc8db938e9ad5a30ca5b99dd6bed722",
@@ -3647,7 +3647,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:55:54.536Z"
+    "job_posted_at": "2026-02-24T21:09:11.670Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234405",
@@ -3658,7 +3658,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Washington-DC/Data-Scientist_R0234405",
-    "job_posted_at_datetime_utc": "2026-02-24T20:55:54.536Z",
+    "job_posted_at_datetime_utc": "2026-02-24T21:09:11.670Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "a16bfe88c7a2270015141c391f408207033d4f10d460b3629783295854281c9e",
@@ -3675,7 +3675,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:55:54.536Z"
+    "job_posted_at": "2026-02-24T21:09:11.670Z"
   },
   {
     "job_id": "greenhouse-airtable-7845291002",
@@ -4480,7 +4480,7 @@
     "job_is_remote": false,
     "job_apply_link": "https://www.okta.com/company/careers/opportunity/7481578?gh_jid=7481578",
     "job_posted_at_datetime_utc": "2026-02-23T16:39:45-05:00",
-    "job_description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;Get to know Okta&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/span&gt;Okta is The World’s Identity Company. We free everyone to safely use any technology, anywhere, on any device or app. Our flexible and neutral products, Okta Platform and Auth0 Platform, provide secure access, authentication, and automation, placing identity at the core of business security and growth.&lt;br&gt;&lt;br&gt;At Okta, we celebrate a variety of perspectives and experiences. We are not looking for someone who checks every single box - we’re looking for lifelong learners and people who can make us better with their unique experiences.&amp;nbsp;&lt;br&gt;&lt;br&gt;Join our team! We’re building a world where Identity belongs to you.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Auth0 Sales Team&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Auth0 supports Okta’s vision of freeing anyone to safely use any technology by providing a secure, highly available, enterprise-grade platform that secures billions of log-ins every year for Consumer and SaaS applications. As an Auth0 AE, you will drive territory growth through both net new logos and cultivating relationships to develop and grow existing Auth0 customers. With the support of your Okta ecosystem, your focus will be on consistent results and an unwavering commitment to our customers.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The Strategic Auth0 Account Executive Opportunity&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The successful Auth0 Account Executive is a highly motivated, self-driven, and experienced Account Executive who is passionate about security and about driving protection against the biggest identity threats.&lt;/p&gt;\n&lt;p&gt;As an Auth0 AE, you will be focused on providing value to Application Development teams (Engineering, Product, Security and Architecture). You will continually drive territory growth through both net new logos as well as through cultivating relationships to develop and grow existing Auth0 customers.&amp;nbsp;&lt;br&gt;&lt;br&gt;This role requires travel to our San Francisco, CA or Chicago, IL office for in-person onboarding during the first week of employment. If reasonable accommodation is needed to participate in the job application, interview process, or onboarding please use this &lt;a href=&quot;https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&quot;&gt;Form&lt;/a&gt; to request an accommodation.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll be doing:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Build a plan to guide your long-term approach to net new logo pipeline generation&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Consistently deliver revenue targets to support YoY territory growth&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Identify, develop and execute account strategies to generate pipeline, drive sales opportunities and deliver repeatable and predictable bookings&lt;/li&gt;\n&lt;li&gt;Identify, target and gain access to appropriate leaders in prospect accounts, building and cultivating your network of decision makers&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Scope, negotiate and close agreements to meet and exceed revenue quota targets&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Holistically embrace, access, and utilize partners to identify and open opportunities&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Build and nurture effective working partnerships within your Okta ecosystem (xDRs, Partners, Presales, Customer First, etc)&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Travel as necessary to build and cultivate customer and prospect relationships&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll bring to the role:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;em&gt;12&lt;/em&gt;+ years success in growing revenue for sophisticated, complex enterprise SaaS products&lt;/li&gt;\n&lt;li&gt;Ability to evangelize, educate and create demand within the CTO organization, with a strong track record of pitching and closing to Product, Engineering, and Architecture decision makers&lt;/li&gt;\n&lt;li&gt;Deep technical discovery skills that resonate with the developer community&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Strong technical acumen with proven ability to connect a technical sale to a companies’ business outcomes&lt;/li&gt;\n&lt;li&gt;Excellent communication and presentation skills with audiences of all levels and all technical aptitudes&lt;/li&gt;\n&lt;li&gt;Confident and self driven with the humility required to successfully work in teams&lt;/li&gt;\n&lt;li&gt;Expertise using a Sales Framework such as MEDDPICC, Challenger or Sandler (we use MEDDPICC)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI-Remote&lt;br&gt;P24299_033236&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Below is the annual On Target Compensation (OTE) range for candidates located in California (excluding San Francisco Bay Area), Colorado, Illinois, New York and Washington. Your actual OTE, which is inclusive of base salary and incentive compensation, will depend on factors such as your skills, qualifications, experience, and work location. In addition, Okta offers equity (where applicable) and benefits, including health, dental and vision insurance, 401(k), flexible spending account, and paid leave (including PTO and parental leave) in accordance with our applicable plans and policies. To learn more about our Total Rewards program please visit:&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://rewards.okta.com/us&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;https://rewards.okta.com/us&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;.&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The annual OTE range for this position for candidates located in California (excluding San Francisco Bay Area), Colorado, Illinois, New York, and Washington is between:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$308,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$462,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #000000;&quot;&gt;What you can look forward to as a Full-Time Okta employee!&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Amazing &lt;a href=&quot;https://rewards.okta.com/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://rewards.okta.com/&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw0Smv8KiGrXS3C1_LQmHF9D&quot;&gt;Benefits&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Making &lt;a href=&quot;https://www.okta.com/okta-for-good/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.okta.com/okta-for-good/&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw2kKFyZVPp9NLrjKMOBXtWi&quot;&gt;Social Impact&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;Developing &lt;a href=&quot;https://www.okta.com/company/&quot;&gt;Talent and Fostering Connection + Community at Okta&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Okta cultivates a dynamic work environment, providing the best tools, technology and benefits to empower our employees to work productively in a setting that best and uniquely suits their needs. Each organization is unique in the degree of flexibility and mobility in which they work so that all employees are enabled to be their most creative and successful versions of themselves, regardless of where they live. Find your place at Okta&lt;a href=&quot;https://www.okta.com/company/careers/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.okta.com/company/careers/&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw0Sy_6hHRhrwzwXgCfEiRV1&quot;&gt; today! &lt;/a&gt;&lt;a href=&quot;https://www.okta.com/company/careers/&quot;&gt;https://www.okta.com/company/careers/&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Some roles may require travel to one of our office locations for in-person onboarding.&lt;/p&gt;\n&lt;p&gt;Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws. &lt;br&gt;&lt;br&gt;If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please use this&lt;a href=&quot;https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw152wP4kqe-oDJRAeGVJrN7&quot;&gt; Form&lt;/a&gt; to request an accommodation.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Notice for New York City Applicants &amp;amp; Employees:&lt;/strong&gt; Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please &lt;a href=&quot;https://talent.okta.com/new-york-city-aedt-notice.html&quot;&gt;&lt;strong&gt;click here&lt;/strong&gt;&lt;/a&gt; to view our full NYC AEDT Notice.&lt;br&gt;&lt;br&gt;Okta is committed to complying with applicable data privacy and security laws and regulations. For more information, please see our Personnel and Job Candidate Privacy Notice at&amp;nbsp;&lt;a href=&quot;https://www.okta.com/legal/personnel-policy/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.okta.com/legal/personnel-policy/&amp;amp;source=gmail&amp;amp;ust=1759599734507000&amp;amp;usg=AOvVaw3KZGmq4Ud_Aq6tycXCiDeT&quot;&gt;https://www.okta.com/legal/personnel-policy/.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;",
+    "job_description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;Get to know Okta&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/span&gt;Okta is The World’s Identity Company. We free everyone to safely use any technology, anywhere, on any device or app. Our flexible and neutral products, Okta Platform and Auth0 Platform, provide secure access, authentication, and automation, placing identity at the core of business security and growth.&lt;br&gt;&lt;br&gt;At Okta, we celebrate a variety of perspectives and experiences. We are not looking for someone who checks every single box - we’re looking for lifelong learners and people who can make us better with their unique experiences.&amp;nbsp;&lt;br&gt;&lt;br&gt;Join our team! We’re building a world where Identity belongs to you.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Auth0 Sales Team&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Auth0 supports Okta’s vision of freeing anyone to safely use any technology by providing a secure, highly available, enterprise-grade platform that secures billions of log-ins every year for Consumer and SaaS applications. As an Auth0 AE, you will drive territory growth through both net new logos and cultivating relationships to develop and grow existing Auth0 customers. With the support of your Okta ecosystem, your focus will be on consistent results and an unwavering commitment to our customers.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The Strategic Auth0 Account Executive Opportunity&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The successful Auth0 Account Executive is a highly motivated, self-driven, and experienced Account Executive who is passionate about security and about driving protection against the biggest identity threats.&lt;/p&gt;\n&lt;p&gt;As an Auth0 AE, you will be focused on providing value to Application Development teams (Engineering, Product, Security and Architecture). You will continually drive territory growth through both net new logos as well as through cultivating relationships to develop and grow existing Auth0 customers.&amp;nbsp;&lt;br&gt;&lt;br&gt;This role requires travel to our San Francisco, CA or Chicago, IL office for in-person onboarding during the first week of employment. If reasonable accommodation is needed to participate in the job application, interview process, or onboarding please use this &lt;a href=&quot;https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&quot;&gt;Form&lt;/a&gt; to request an accommodation.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll be doing:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Build a plan to guide your long-term approach to net new logo pipeline generation&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Consistently deliver revenue targets to support YoY territory growth&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Identify, develop and execute account strategies to generate pipeline, drive sales opportunities and deliver repeatable and predictable bookings&lt;/li&gt;\n&lt;li&gt;Identify, target and gain access to appropriate leaders in prospect accounts, building and cultivating your network of decision makers&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Scope, negotiate and close agreements to meet and exceed revenue quota targets&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Holistically embrace, access, and utilize partners to identify and open opportunities&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Build and nurture effective working partnerships within your Okta ecosystem (xDRs, Partners, Presales, Customer First, etc)&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Travel as necessary to build and cultivate customer and prospect relationships&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll bring to the role:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;em&gt;12&lt;/em&gt;+ years success in growing revenue for sophisticated, complex enterprise SaaS products&lt;/li&gt;\n&lt;li&gt;Ability to evangelize, educate and create demand within the CTO organization, with a strong track record of pitching and closing to Product, Engineering, and Architecture decision makers&lt;/li&gt;\n&lt;li&gt;Deep technical discovery skills that resonate with the developer community&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Strong technical acumen with proven ability to connect a technical sale to a companies��� business outcomes&lt;/li&gt;\n&lt;li&gt;Excellent communication and presentation skills with audiences of all levels and all technical aptitudes&lt;/li&gt;\n&lt;li&gt;Confident and self driven with the humility required to successfully work in teams&lt;/li&gt;\n&lt;li&gt;Expertise using a Sales Framework such as MEDDPICC, Challenger or Sandler (we use MEDDPICC)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI-Remote&lt;br&gt;P24299_033236&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Below is the annual On Target Compensation (OTE) range for candidates located in California (excluding San Francisco Bay Area), Colorado, Illinois, New York and Washington. Your actual OTE, which is inclusive of base salary and incentive compensation, will depend on factors such as your skills, qualifications, experience, and work location. In addition, Okta offers equity (where applicable) and benefits, including health, dental and vision insurance, 401(k), flexible spending account, and paid leave (including PTO and parental leave) in accordance with our applicable plans and policies. To learn more about our Total Rewards program please visit:&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://rewards.okta.com/us&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;https://rewards.okta.com/us&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;.&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The annual OTE range for this position for candidates located in California (excluding San Francisco Bay Area), Colorado, Illinois, New York, and Washington is between:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$308,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$462,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #000000;&quot;&gt;What you can look forward to as a Full-Time Okta employee!&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Amazing &lt;a href=&quot;https://rewards.okta.com/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://rewards.okta.com/&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw0Smv8KiGrXS3C1_LQmHF9D&quot;&gt;Benefits&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Making &lt;a href=&quot;https://www.okta.com/okta-for-good/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.okta.com/okta-for-good/&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw2kKFyZVPp9NLrjKMOBXtWi&quot;&gt;Social Impact&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;Developing &lt;a href=&quot;https://www.okta.com/company/&quot;&gt;Talent and Fostering Connection + Community at Okta&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Okta cultivates a dynamic work environment, providing the best tools, technology and benefits to empower our employees to work productively in a setting that best and uniquely suits their needs. Each organization is unique in the degree of flexibility and mobility in which they work so that all employees are enabled to be their most creative and successful versions of themselves, regardless of where they live. Find your place at Okta&lt;a href=&quot;https://www.okta.com/company/careers/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.okta.com/company/careers/&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw0Sy_6hHRhrwzwXgCfEiRV1&quot;&gt; today! &lt;/a&gt;&lt;a href=&quot;https://www.okta.com/company/careers/&quot;&gt;https://www.okta.com/company/careers/&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Some roles may require travel to one of our office locations for in-person onboarding.&lt;/p&gt;\n&lt;p&gt;Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws. &lt;br&gt;&lt;br&gt;If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please use this&lt;a href=&quot;https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&amp;amp;source=gmail&amp;amp;ust=1677948559087000&amp;amp;usg=AOvVaw152wP4kqe-oDJRAeGVJrN7&quot;&gt; Form&lt;/a&gt; to request an accommodation.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Notice for New York City Applicants &amp;amp; Employees:&lt;/strong&gt; Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please &lt;a href=&quot;https://talent.okta.com/new-york-city-aedt-notice.html&quot;&gt;&lt;strong&gt;click here&lt;/strong&gt;&lt;/a&gt; to view our full NYC AEDT Notice.&lt;br&gt;&lt;br&gt;Okta is committed to complying with applicable data privacy and security laws and regulations. For more information, please see our Personnel and Job Candidate Privacy Notice at&amp;nbsp;&lt;a href=&quot;https://www.okta.com/legal/personnel-policy/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.okta.com/legal/personnel-policy/&amp;amp;source=gmail&amp;amp;ust=1759599734507000&amp;amp;usg=AOvVaw3KZGmq4Ud_Aq6tycXCiDeT&quot;&gt;https://www.okta.com/legal/personnel-policy/.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;",
     "job_employment_type": "FULLTIME",
     "fingerprint": "95cb3c787ef52ab03de03cc67977f5909bbdcf0b082476f618d5ce8d0ebf3024",
     "tags": {
@@ -4563,7 +4563,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/job/San-Jose/Machine-Learning-Engineer-50_R165421",
-    "job_posted_at_datetime_utc": "2026-02-23T20:59:49.291Z",
+    "job_posted_at_datetime_utc": "2026-02-23T21:13:10.394Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "404534ace5b5e95dcc874d26db219d1f490687387df4aea1479d3a2f0fe86709",
@@ -4581,119 +4581,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-23T20:59:49.291Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0233902",
-    "job_title": "AI/ML Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Chantilly",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Chantilly-VA/AI-ML-Engineer_R0233902",
-    "job_posted_at_datetime_utc": "2026-02-23T20:55:54.537Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "78553973b04e4fd8a7b180c4c2b26204b11bebad5b23542f1166ffddb83cacb0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-23T20:55:54.537Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234398",
-    "job_title": "Data Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Dayton",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Dayton-OH/Data-Analyst_R0234398",
-    "job_posted_at_datetime_utc": "2026-02-23T20:55:54.537Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "ed5342a911af54faa64c82ffa9ea666461f15d999927433a76a4f1b6fe8e4a76",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-23T20:55:54.537Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234117",
-    "job_title": "Enterprise Cybersecurity Data Engineer and Business Intelligence Developer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Enterprise-Cybersecurity-Data-Engineer-and-Business-Intelligence-Developer_R0234117",
-    "job_posted_at_datetime_utc": "2026-02-23T20:55:54.537Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "3aa19cdbf9e3a360bd081880acd943262bfaaebe76d8c12b3a5cb80311b1891c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-23T20:55:54.537Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234300",
-    "job_title": "Health Services Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Health-Services-Data-Engineer_R0234300",
-    "job_posted_at_datetime_utc": "2026-02-23T20:55:54.537Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "e1fcff4b3ab93d99c1625eb91a7434506143bd523df6d37d6af6654322432f35",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-23T20:55:54.537Z"
+    "job_posted_at": "2026-02-23T21:13:10.394Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0231932",
@@ -4704,7 +4592,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Arlington-VA/Data-Analyst_R0231932",
-    "job_posted_at_datetime_utc": "2026-02-23T20:55:54.537Z",
+    "job_posted_at_datetime_utc": "2026-02-23T21:09:11.671Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "15e89e3ee02d54b3af8d72d28a972e0ac11e16bd878243a4580328079935dc8a",
@@ -4721,7 +4609,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-23T20:55:54.537Z"
+    "job_posted_at": "2026-02-23T21:09:11.671Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234574",
@@ -4732,7 +4620,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/San-Diego-CA/Data-Engineer_R0234574",
-    "job_posted_at_datetime_utc": "2026-02-23T20:55:54.536Z",
+    "job_posted_at_datetime_utc": "2026-02-23T21:09:11.670Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "b5b484f665e689547402bc63ca9475a88f14fc95b1fc1cc4d205a31d578e6e33",
@@ -4749,7 +4637,119 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-23T20:55:54.536Z"
+    "job_posted_at": "2026-02-23T21:09:11.670Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0233902",
+    "job_title": "AI/ML Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Chantilly",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Chantilly-VA/AI-ML-Engineer_R0233902",
+    "job_posted_at_datetime_utc": "2026-02-23T21:09:11.670Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "78553973b04e4fd8a7b180c4c2b26204b11bebad5b23542f1166ffddb83cacb0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-23T21:09:11.670Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234398",
+    "job_title": "Data Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Dayton",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Dayton-OH/Data-Analyst_R0234398",
+    "job_posted_at_datetime_utc": "2026-02-23T21:09:11.670Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "ed5342a911af54faa64c82ffa9ea666461f15d999927433a76a4f1b6fe8e4a76",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-23T21:09:11.670Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234117",
+    "job_title": "Enterprise Cybersecurity Data Engineer and Business Intelligence Developer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Enterprise-Cybersecurity-Data-Engineer-and-Business-Intelligence-Developer_R0234117",
+    "job_posted_at_datetime_utc": "2026-02-23T21:09:11.670Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "3aa19cdbf9e3a360bd081880acd943262bfaaebe76d8c12b3a5cb80311b1891c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-23T21:09:11.670Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234300",
+    "job_title": "Health Services Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Health-Services-Data-Engineer_R0234300",
+    "job_posted_at_datetime_utc": "2026-02-23T21:09:11.670Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "e1fcff4b3ab93d99c1625eb91a7434506143bd523df6d37d6af6654322432f35",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-23T21:09:11.670Z"
   },
   {
     "job_id": "ashby-openai-ed871ac9-44ae-47fa-beaa-b9ab7ff31012",
@@ -5120,7 +5120,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/job/San-Jose-California-United-States-of-America/Data-Scientist_1200572",
-    "job_posted_at_datetime_utc": "2026-02-22T20:56:46.757Z",
+    "job_posted_at_datetime_utc": "2026-02-22T21:10:06.750Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "9326966af24e88ab1c22106dc9de636610e8ae27ad2ceea62dc4a66495a19365",
@@ -5137,7 +5137,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-22T20:56:46.757Z"
+    "job_posted_at": "2026-02-22T21:10:06.750Z"
   },
   {
     "job_id": "js-orcaworks-build-your-digital-coworker-crwh-f6iref6nsnsaaaaaa==",
@@ -6461,7 +6461,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Buckley-AFB-CO/Data-Scientist_R0234099",
-    "job_posted_at_datetime_utc": "2026-02-19T20:55:54.537Z",
+    "job_posted_at_datetime_utc": "2026-02-19T21:09:11.672Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "84878e4d4602ad149d16a700e5bf2eb9bb11918aad4eb0b4fe9d9d7dc13ed25b",
@@ -6478,7 +6478,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-19T20:55:54.537Z"
+    "job_posted_at": "2026-02-19T21:09:11.672Z"
   },
   {
     "job_id": "greenhouse-databricks-7471089002",
@@ -6697,7 +6697,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Charleston-SC/AI-and-ML-Engineer_R0230985",
-    "job_posted_at_datetime_utc": "2026-02-18T20:55:54.537Z",
+    "job_posted_at_datetime_utc": "2026-02-18T21:09:11.672Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "69ce25cdadfe6228f91dd0a74d42b861aeb28fa1399d2a767860666794ebdb5d",
@@ -6714,7 +6714,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-18T20:55:54.537Z"
+    "job_posted_at": "2026-02-18T21:09:11.672Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234221",
@@ -6725,7 +6725,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/San-Diego-CA/Data-Scientist_R0234221",
-    "job_posted_at_datetime_utc": "2026-02-18T20:55:54.537Z",
+    "job_posted_at_datetime_utc": "2026-02-18T21:09:11.672Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "03805b8e47c31dd2d5c5b3124ae9e615c8ebce9ae9f7c09d2b90c65d9158a4e0",
@@ -6742,7 +6742,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-18T20:55:54.537Z"
+    "job_posted_at": "2026-02-18T21:09:11.672Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234223",
@@ -6753,7 +6753,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Chantilly-VA/Human-Capital-Data-Analyst_R0234223",
-    "job_posted_at_datetime_utc": "2026-02-18T20:55:54.537Z",
+    "job_posted_at_datetime_utc": "2026-02-18T21:09:11.672Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "157fda429f5d4a5d33f5abfb033d57ff8e7ac820fa88d402032406e9699faf55",
@@ -6770,7 +6770,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-18T20:55:54.537Z"
+    "job_posted_at": "2026-02-18T21:09:11.672Z"
   },
   {
     "job_id": "greenhouse-datadog-6572669",
@@ -6868,7 +6868,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/job/Sunnyvale-California-United-States-of-America/Data-Scientist-3_1201030",
-    "job_posted_at_datetime_utc": "2026-02-17T20:56:46.758Z",
+    "job_posted_at_datetime_utc": "2026-02-17T21:10:06.751Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "6179313f912be2ca18fc5b599b78152ab7cbe9f1c007b7966595a863fa9af73d",
@@ -6885,7 +6885,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-17T20:56:46.758Z"
+    "job_posted_at": "2026-02-17T21:10:06.751Z"
   },
   {
     "job_id": "greenhouse-lyft-8378473002",
