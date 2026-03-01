@@ -14,7 +14,7 @@
 ![Data Analyst](https://img.shields.io/badge/Data_Analyst-134-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
-> ⏱ Last updated: Mar 1, 1:59 PM CST
+> ⏱ Last updated: Mar 1, 2:00 PM CST
 
 
 
@@ -77,7 +77,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | 🏢 **Lucid Motors** | Perception Machine Learning Engineer – ADAS | Southfield, MI | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4759229007) |
 | 🏢 **Cleveland Clinic** | Data Scientist I - Cancer Center | Remote | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/job/Remote-Location/Data-Scientist-I---Cancer-Center_312181-1) |
-| 🏢 **The MITRE Corporation** | Entry Level - Data Science, Artificial Intelligence, Operations Research, Math and Statistics | McLean | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115687/Entry-Level-Data-Science-Artificial-Intelligence-Operations-Research-Math-and-Statistics) |
+| 🏢 **The MITRE Corporation** | Entry Level - Data Science, Artificial Intelligence, Operations Research, Math and Statistics | McLean | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115687/Entry-Level-Data-Science-Artificial-Intelligence-Operations-Research-Math-and-Statistics) |
 | 🏢 **Anthropic** | Research Engineer / Research Scientist, Tokens | New York City, NY | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4951814008) |
 | 🏢 **RK Infotech LLC** | Junior Data Scientist – Fresh Graduates Welcome | Dallas | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://us.bebee.com/job/db0806909f5f2b4d5e993b297372d8ff) |
 | 🏢 **SynergisticIT** | entry level data scientist/Java Spring developer/Machine learning AI engineer | Gainesville | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobright.ai/jobs/info/69a2684c359fe034b1cda78e) |
@@ -150,7 +150,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Morningstar** | Associate Software Engineer, Credit Tech | Chicago | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.morningstar.com/us/en/job/AP-23077420/Associate-Software-Engineer-Credit-Tech) |
+| 🏢 **Morningstar** | Associate Software Engineer, Credit Tech | Chicago | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.morningstar.com/us/en/job/AP-23077420/Associate-Software-Engineer-Credit-Tech) |
 | 🏢 **Halvik** | Junior Full Stack Developer 🏠 | Alexandria | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/junior-full-stack-developer-at-halvik-4379044942) |
 | 🏢 **Airbnb** | Software Engineer, Trust 🏠 | Remote | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.airbnb.com/positions/7612127?gh_jid=7612127) |
 | 🏢 **Datadog** | Strategic Finance Associate - NYC | New York | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7624017/?gh_jid=7624017) |
@@ -294,7 +294,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Databricks** | AI Engineer - FDE (Forward Deployed Engineer) 🏠 | United States | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8335860002) |
+| 🏢 **Databricks** | AI Engineer - FDE (Forward Deployed Engineer) 🏠 | United States | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8335860002) |
 | 🏢 **Elastic** | Elastic AI Engineer | United States | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.elastic.co/jobs?gh_jid=7607148&gh_jid=7607148) |
 | 🏢 **Anduril** | Computer Vision Engineer, Space | Costa Mesa | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5016001007?gh_jid=5016001007) |
 | 🏢 **Anduril** | Computer Vision Engineer, Space | Washington | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5016334007?gh_jid=5016334007) |
