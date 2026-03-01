@@ -453,7 +453,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Bethesda-MD/Artificial-Intelligence-and-Machine-Learning-Engineer_R0234257",
-    "job_posted_at_datetime_utc": "2026-02-27T18:32:00.900Z",
+    "job_posted_at_datetime_utc": "2026-02-27T18:45:11.416Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "549ae491df14eb6d74b5872dfebf528c8dbb1b2cccd49b0e7e0dcab71a134bd9",
@@ -471,7 +471,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T18:32:00.900Z"
+    "job_posted_at": "2026-02-27T18:45:11.416Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0232422",
@@ -482,7 +482,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Bethesda-MD/Health-Data-Engineer_R0232422",
-    "job_posted_at_datetime_utc": "2026-02-27T18:32:00.900Z",
+    "job_posted_at_datetime_utc": "2026-02-27T18:45:11.416Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "6ba7006749dda96c52b791ac8566b9c0f5ebebf1a56e9de2fefc4c28807735cb",
@@ -499,7 +499,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T18:32:00.900Z"
+    "job_posted_at": "2026-02-27T18:45:11.416Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234498",
@@ -510,7 +510,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Data-Scientist_R0234498",
-    "job_posted_at_datetime_utc": "2026-02-27T18:32:00.900Z",
+    "job_posted_at_datetime_utc": "2026-02-27T18:45:11.416Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "a16bfe88c7a2270015141c391f408207033d4f10d460b3629783295854281c9e",
@@ -527,7 +527,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T18:32:00.900Z"
+    "job_posted_at": "2026-02-27T18:45:11.416Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0233003",
@@ -538,7 +538,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Charleston-SC/Data-Scientist--Junior_R0233003",
-    "job_posted_at_datetime_utc": "2026-02-27T18:32:00.900Z",
+    "job_posted_at_datetime_utc": "2026-02-27T18:45:11.416Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "220cc3e02ddaa5e299c6f956173f394af2f68c5e1ef8beadca6267150cec35eb",
@@ -555,7 +555,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T18:32:00.900Z"
+    "job_posted_at": "2026-02-27T18:45:11.416Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234850",
@@ -566,7 +566,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Camp-Lejeune-NC/Data-Analyst_R0234850",
-    "job_posted_at_datetime_utc": "2026-02-27T18:32:00.900Z",
+    "job_posted_at_datetime_utc": "2026-02-27T18:45:11.416Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "4202530d9a246d1be54024761a5a47334c7d7a55e9303b1a552ebc7257999736",
@@ -583,7 +583,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T18:32:00.900Z"
+    "job_posted_at": "2026-02-27T18:45:11.416Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234847",
@@ -594,7 +594,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Honolulu-HI/Agentic-AI-and-Data-Engineer_R0234847",
-    "job_posted_at_datetime_utc": "2026-02-27T18:32:00.900Z",
+    "job_posted_at_datetime_utc": "2026-02-27T18:45:11.416Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "859b1504afcbac78b9661e405d837846f850994ca8511f2d74e18549775cfa80",
@@ -611,7 +611,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T18:32:00.900Z"
+    "job_posted_at": "2026-02-27T18:45:11.416Z"
   },
   {
     "job_id": "greenhouse-dropbox-7569140",
@@ -884,7 +884,7 @@
     "job_is_remote": false,
     "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5034660007?gh_jid=5034660007",
     "job_posted_at_datetime_utc": "2026-02-27T07:06:59-05:00",
-    "job_description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span data-contrast=&quot;none&quot;&gt;We are&amp;nbsp;seeking&amp;nbsp;a versatile and hands-on &lt;strong&gt;Machine Learning Engineer &lt;/strong&gt;to join our Quality Analytics team. You will be a critical bridge between data science and engineering, responsible for&amp;nbsp;the development of&amp;nbsp;machine learning solutions that solve real-world manufacturing challenges.&amp;nbsp;You will&amp;nbsp;leverage&amp;nbsp;your&amp;nbsp;expertise&amp;nbsp;in statistical analysis, general machine learning, and software engineering to build and deploy robust models for predictive quality, yield optimization, anomaly detection, and root cause analysis.&amp;nbsp;&amp;nbsp;You will work within existing business systems&amp;nbsp;&lt;/span&gt;&lt;span data-contrast=&quot;none&quot;&gt;(ERP, MES, Inventory Management, Warehouse Management, Quality Incident management system and QMS systems)&lt;/span&gt;&lt;span data-contrast=&quot;none&quot;&gt;&amp;nbsp;to build,&amp;nbsp;maintain, and improve the data analysis.&amp;nbsp;Your work will directly contribute to improving product quality, reducing waste, and increasing operational efficiency on our factory floor.&amp;nbsp;This role combines&amp;nbsp;AIML model development with&amp;nbsp;data pipeline development with deep-dive investigation into data quality as it relates to manufacturing quality.&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;WHAT YOU’LL DO&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;6&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;none&quot;&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot; data-ccp-parastyle-defn=&quot;{&amp;quot;ObjectId&amp;quot;:&amp;quot;8196cb6b-cd51-5eab-845a-560d08e94671|1&amp;quot;,&amp;quot;ClassId&amp;quot;:1073872969,&amp;quot;Properties&amp;quot;:[201342446,&amp;quot;1&amp;quot;,201342447,&amp;quot;5&amp;quot;,201342448,&amp;quot;1&amp;quot;,201342449,&amp;quot;1&amp;quot;,469777841,&amp;quot;Times New Roman&amp;quot;,469777842,&amp;quot;Times New Roman&amp;quot;,469777843,&amp;quot;Times New Roman&amp;quot;,469777844,&amp;quot;Times New Roman&amp;quot;,201341986,&amp;quot;1&amp;quot;,469769226,&amp;quot;Times New Roman&amp;quot;,268442635,&amp;quot;24&amp;quot;,469775450,&amp;quot;text-start&amp;quot;,201340122,&amp;quot;2&amp;quot;,134233614,&amp;quot;true&amp;quot;,469778129,&amp;quot;text-start&amp;quot;,335572020,&amp;quot;1&amp;quot;,335559740,&amp;quot;240&amp;quot;,201341983,&amp;quot;0&amp;quot;,134233118,&amp;quot;true&amp;quot;,134233117,&amp;quot;true&amp;quot;,469778324,&amp;quot;Normal&amp;quot;]}&quot;&gt;Design, build, deploy, and&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;maintain&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt; machine learning models to address key manufacturing problems, including classification (e.g., defect type), regression (e.g., yield prediction), and clustering (e.g., process regime identification).&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;6&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;Perform in-depth exploratory data analysis (EDA) and statistical analysis on complex manufacturing datasets (sensor data, MES records, quality logs) to uncover insights and &lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;validate&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;&amp;nbsp;hypotheses using Python, Pandas, Scikit-learn, and&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;Jupyter&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;&amp;nbsp;notebooks.&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;6&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;Develop and implement computer vision models for automated visual inspection and defect identification where applicable.&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;6&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;Partner with the Data Engineer&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;s&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;&amp;nbsp;to operationalize models within Palantir Foundry, creating scalable and automated training and inference pipelines.&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;6&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;Implement &lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;MLOps&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;&amp;nbsp;best practices for version control, model monitoring, performance tracking, and automated retraining to ensure long-term model health and reliability.&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;6&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;Collaborate closely with Manufacturing Engineers and Data Analysts to understand process nuances, define model requirements, and interpret results for non-technical stakeholders.&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;6&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;Translate complex manufacturing problems, such as sources of variance or defect trends, into solvable machine learning problems.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;REQUIRED QUALIFICATIONS&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559685&amp;quot;:360,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;7&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;none&quot;&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;Bachelor’s or&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;Master’s degree in Computer Science&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;, Engineering, Statistics, or a related quantitative field.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;7&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;3+ years of experience in an ML Engineer, Data Scientist, or similar role with a proven &lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;track record&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;&amp;nbsp;of deploying models into a production environment.&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;7&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;none&quot;&gt;&lt;span data-ccp-charstyle=&quot;Strong&quot;&gt;Demonstrated experience working within a manufacturing, industrial, &lt;/span&gt;&lt;span data-ccp-charstyle=&quot;Strong&quot;&gt;robotics&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-charstyle=&quot;Strong&quot;&gt;or&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-charstyle=&quot;Strong&quot;&gt;other physical&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-charstyle=&quot;Strong&quot;&gt;environment is essential.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;7&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;Strong &lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;proficiency&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;&amp;nbsp;in Python and core data science libraries (Scikit-learn, Pandas, NumPy, Matplotlib/Seaborn).&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;7&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;Solid understanding of both classical machine learning algorithms (e.g., Gradient Boosting, Random Forest, SVMs) and fundamental statistical principles.&lt;/span&gt; &amp;nbsp;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;7&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;Hands-on experience with SQL for data extraction and manipulation.&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;7&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;Experience with the complete ML lifecycle, from data exploration and feature engineering to deployment and monitoring.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;7&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;Eligible to obtain and maintain an active U.S. Secret security clearance.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;PREFERRED QUALIFICATIONS&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559685&amp;quot;:360,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;2&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;none&quot;&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;Experience with deep learning frameworks (e.g., TensorFlow,&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;PyTorch&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;), particularly for computer vision applications.&lt;/span&gt;&lt;/span&gt; &lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;2&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;Experience with big data platforms like Palantir Foundry or Databricks.&lt;/span&gt; &lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;2&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;Knowledge of &lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;MLOps&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;&amp;nbsp;tools and principles (e.g.,&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;MLflow&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;, Kubeflow, model registries).&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;2&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;Familiarity with manufacturing data systems (e.g., MES,&amp;nbsp;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;SFC, ERP&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;).&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;2&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;Familiarity with quality methodologies and concepts like RCCA or 8D, GD&amp;amp;T, FMEA, IQC/OQC, and how data supports them.&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;2&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;Strong software engineering fundamentals, including experience with Git.&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;2&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;Experience building or supporting ML cababilities for complex hardware manufacturing operations, including new product introduction (NPI), ramp-up, and high-volume production phases.&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335557856&amp;quot;:16777215,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;US Salary Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$166,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$220,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;The salary range for this role is an estimate based on a wide range of compensation factors, inclusive of base salary only. Actual salary offer may vary based on (but not limited to) work experience, education and/or training, critical skills, and/or business considerations. Highly competitive equity grants are included in the majority of full time offers; and are considered part of Anduril&#39;s total compensation package. Additionally, Anduril offers top-tier benefits for full-time employees, including:&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:240,&amp;quot;335559739&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Healthcare Benefits&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;US Roles:&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;&amp;nbsp;Comprehensive medical, dental, and vision plans at little to no cost to you.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;UK &amp;amp; AUS Roles:&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;&amp;nbsp;We cover full cost of medical insurance premiums for you and your dependents.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;IE Roles:&lt;/span&gt;&lt;/strong&gt; &lt;span data-contrast=&quot;none&quot;&gt;We offer an annual contribution toward your private health insurance for you and your dependents.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Additional Benefits&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Income Protection&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;: Anduril covers life and disability insurance for all employees.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Generous time off&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;: Highly competitive PTO plans with &lt;/span&gt;&lt;span data-contrast=&quot;none&quot;&gt;a holiday hiatus in December. Caregiver &amp;amp; Wellness Leave is available to care for family members, bond with a new baby, or address your own medical needs.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Family Planning &amp;amp; Parenting Support:&lt;/span&gt;&lt;/strong&gt; &lt;span data-contrast=&quot;none&quot;&gt;Coverage for fertility treatments (e.g., IVF, preservation), adoption, and gestational carriers, along with resources to support you and your partner from planning to parenting.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;Mental Health Resources:&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;&amp;nbsp;Access free mental health resources 24/7, including therapy and life coaching. Additional work-life services, such as legal and financial support, are also available.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335557856&amp;quot;:16777215,&amp;quot;335559738&amp;quot;:240,&amp;quot;335559739&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;Professional Development:&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;&amp;nbsp;Annual reimbursement for professional development&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;Commuter Benefits:&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;&amp;nbsp;Company-funded commuter benefits based on your region.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;Relocation Assistance:&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;&amp;nbsp;Available depending on role eligibility.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Retirement Savings Plan&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;US Roles:&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;&amp;nbsp;Traditional 401(k), Roth, and after-tax (mega backdoor Roth) options.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;UK &amp;amp; IE Roles:&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;&amp;nbsp;Pension plan with employer match.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335557856&amp;quot;:16777215,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;AUS Roles:&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;&amp;nbsp;Superannuation plan.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335557856&amp;quot;:16777215,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;The recruiter assigned to this role can share more information about the specific compensation and benefit details associated with this role during the hiring process.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:240,&amp;quot;335559739&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;To view Anduril&#39;s candidate data privacy policy, please visit &lt;/span&gt;&lt;a href=&quot;https://anduril.com/applicant-privacy-notice/&quot;&gt;&lt;span data-contrast=&quot;none&quot;&gt;&lt;span data-ccp-charstyle=&quot;Hyperlink&quot;&gt;https://anduril.com/applicant-privacy-notice/&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;span data-contrast=&quot;auto&quot;&gt;.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:240,&amp;quot;335559739&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;",
+    "job_description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span data-contrast=&quot;none&quot;&gt;We are&amp;nbsp;seeking&amp;nbsp;a versatile and hands-on &lt;strong&gt;Machine Learning Engineer &lt;/strong&gt;to join our Quality Analytics team. You will be a critical bridge between data science and engineering, responsible for&amp;nbsp;the development of&amp;nbsp;machine learning solutions that solve real-world manufacturing challenges.&amp;nbsp;You will&amp;nbsp;leverage&amp;nbsp;your&amp;nbsp;expertise&amp;nbsp;in statistical analysis, general machine learning, and software engineering to build and deploy robust models for predictive quality, yield optimization, anomaly detection, and root cause analysis.&amp;nbsp;&amp;nbsp;You will work within existing business systems&amp;nbsp;&lt;/span&gt;&lt;span data-contrast=&quot;none&quot;&gt;(ERP, MES, Inventory Management, Warehouse Management, Quality Incident management system and QMS systems)&lt;/span&gt;&lt;span data-contrast=&quot;none&quot;&gt;&amp;nbsp;to build,&amp;nbsp;maintain, and improve the data analysis.&amp;nbsp;Your work will directly contribute to improving product quality, reducing waste, and increasing operational efficiency on our factory floor.&amp;nbsp;This role combines&amp;nbsp;AIML model development with&amp;nbsp;data pipeline development with deep-dive investigation into data quality as it relates to manufacturing quality.&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;WHAT YOU’LL DO&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;6&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;none&quot;&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot; data-ccp-parastyle-defn=&quot;{&amp;quot;ObjectId&amp;quot;:&amp;quot;8196cb6b-cd51-5eab-845a-560d08e94671|1&amp;quot;,&amp;quot;ClassId&amp;quot;:1073872969,&amp;quot;Properties&amp;quot;:[201342446,&amp;quot;1&amp;quot;,201342447,&amp;quot;5&amp;quot;,201342448,&amp;quot;1&amp;quot;,201342449,&amp;quot;1&amp;quot;,469777841,&amp;quot;Times New Roman&amp;quot;,469777842,&amp;quot;Times New Roman&amp;quot;,469777843,&amp;quot;Times New Roman&amp;quot;,469777844,&amp;quot;Times New Roman&amp;quot;,201341986,&amp;quot;1&amp;quot;,469769226,&amp;quot;Times New Roman&amp;quot;,268442635,&amp;quot;24&amp;quot;,469775450,&amp;quot;text-start&amp;quot;,201340122,&amp;quot;2&amp;quot;,134233614,&amp;quot;true&amp;quot;,469778129,&amp;quot;text-start&amp;quot;,335572020,&amp;quot;1&amp;quot;,335559740,&amp;quot;240&amp;quot;,201341983,&amp;quot;0&amp;quot;,134233118,&amp;quot;true&amp;quot;,134233117,&amp;quot;true&amp;quot;,469778324,&amp;quot;Normal&amp;quot;]}&quot;&gt;Design, build, deploy, and&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;maintain&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt; machine learning models to address key manufacturing problems, including classification (e.g., defect type), regression (e.g., yield prediction), and clustering (e.g., process regime identification).&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;6&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;Perform in-depth exploratory data analysis (EDA) and statistical analysis on complex manufacturing datasets (sensor data, MES records, quality logs) to uncover insights and &lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;validate&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;&amp;nbsp;hypotheses using Python, Pandas, Scikit-learn, and&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;Jupyter&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;&amp;nbsp;notebooks.&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;6&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;Develop and implement computer vision models for automated visual inspection and defect identification where applicable.&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;6&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;Partner with the Data Engineer&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;s&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;&amp;nbsp;to operationalize models within Palantir Foundry, creating scalable and automated training and inference pipelines.&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;6&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;Implement &lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;MLOps&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;&amp;nbsp;best practices for version control, model monitoring, performance tracking, and automated retraining to ensure long-term model health and reliability.&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;6&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;Collaborate closely with Manufacturing Engineers and Data Analysts to understand process nuances, define model requirements, and interpret results for non-technical stakeholders.&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;6&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;Translate complex manufacturing problems, such as sources of variance or defect trends, into solvable machine learning problems.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;REQUIRED QUALIFICATIONS&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559685&amp;quot;:360,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;7&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;none&quot;&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;Bachelor’s or&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;Master’s degree in Computer Science&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;, Engineering, Statistics, or a related quantitative field.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;7&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;3+ years of experience in an ML Engineer, Data Scientist, or similar role with a proven &lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;track record&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;&amp;nbsp;of deploying models into a production environment.&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;7&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;none&quot;&gt;&lt;span data-ccp-charstyle=&quot;Strong&quot;&gt;Demonstrated experience working within a manufacturing, industrial, &lt;/span&gt;&lt;span data-ccp-charstyle=&quot;Strong&quot;&gt;robotics&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-charstyle=&quot;Strong&quot;&gt;or&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-charstyle=&quot;Strong&quot;&gt;other physical&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-charstyle=&quot;Strong&quot;&gt;environment is essential.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;7&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;Strong &lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;proficiency&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;&amp;nbsp;in Python and core data science libraries (Scikit-learn, Pandas, NumPy, Matplotlib/Seaborn).&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;7&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;Solid understanding of both classical machine learning algorithms (e.g., Gradient Boosting, Random Forest, SVMs) and fundamental statistical principles.&lt;/span&gt; &amp;nbsp;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;7&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;Hands-on experience with SQL for data extraction and manipulation.&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;7&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;Experience with the complete ML lifecycle, from data exploration and feature engineering to deployment and monitoring.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;7&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;Eligible to obtain and maintain an active U.S. Secret security clearance.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;PREFERRED QUALIFICATIONS&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335559685&amp;quot;:360,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;2&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-contrast=&quot;none&quot;&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;Experience with deep learning frameworks (e.g., TensorFlow,&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;PyTorch&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;), particularly for computer vision applications.&lt;/span&gt;&lt;/span&gt; &lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;2&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;Experience with big data platforms like Palantir Foundry or Databricks.&lt;/span&gt; &lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;2&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;Knowledge of &lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;MLOps&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;&amp;nbsp;tools and principles (e.g.,&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;MLflow&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;, Kubeflow, model registries).&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;2&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;Familiarity with manufacturing data systems (e.g., MES,&amp;nbsp;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;SFC, ERP&lt;/span&gt;&lt;span data-ccp-parastyle=&quot;text-start&quot;&gt;).&lt;/span&gt;&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;2&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;Familiarity with quality methodologies and concepts like RCCA or 8D, GD&amp;amp;T, FMEA, IQC/OQC, and how data supports them.&lt;/li&gt;\n&lt;li data-leveltext=&quot;��&quot; data-font=&quot;Symbol&quot; data-listid=&quot;2&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;Strong software engineering fundamentals, including experience with Git.&lt;/li&gt;\n&lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot; data-listid=&quot;2&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;multilevel&amp;quot;}&quot; data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;Experience building or supporting ML cababilities for complex hardware manufacturing operations, including new product introduction (NPI), ramp-up, and high-volume production phases.&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:true,&amp;quot;134233118&amp;quot;:true,&amp;quot;201341983&amp;quot;:0,&amp;quot;335557856&amp;quot;:16777215,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;US Salary Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$166,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$220,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;The salary range for this role is an estimate based on a wide range of compensation factors, inclusive of base salary only. Actual salary offer may vary based on (but not limited to) work experience, education and/or training, critical skills, and/or business considerations. Highly competitive equity grants are included in the majority of full time offers; and are considered part of Anduril&#39;s total compensation package. Additionally, Anduril offers top-tier benefits for full-time employees, including:&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:240,&amp;quot;335559739&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Healthcare Benefits&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;US Roles:&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;&amp;nbsp;Comprehensive medical, dental, and vision plans at little to no cost to you.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;UK &amp;amp; AUS Roles:&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;&amp;nbsp;We cover full cost of medical insurance premiums for you and your dependents.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;IE Roles:&lt;/span&gt;&lt;/strong&gt; &lt;span data-contrast=&quot;none&quot;&gt;We offer an annual contribution toward your private health insurance for you and your dependents.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Additional Benefits&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Income Protection&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;: Anduril covers life and disability insurance for all employees.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Generous time off&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;: Highly competitive PTO plans with &lt;/span&gt;&lt;span data-contrast=&quot;none&quot;&gt;a holiday hiatus in December. Caregiver &amp;amp; Wellness Leave is available to care for family members, bond with a new baby, or address your own medical needs.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Family Planning &amp;amp; Parenting Support:&lt;/span&gt;&lt;/strong&gt; &lt;span data-contrast=&quot;none&quot;&gt;Coverage for fertility treatments (e.g., IVF, preservation), adoption, and gestational carriers, along with resources to support you and your partner from planning to parenting.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;Mental Health Resources:&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;&amp;nbsp;Access free mental health resources 24/7, including therapy and life coaching. Additional work-life services, such as legal and financial support, are also available.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335557856&amp;quot;:16777215,&amp;quot;335559738&amp;quot;:240,&amp;quot;335559739&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;Professional Development:&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;&amp;nbsp;Annual reimbursement for professional development&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;Commuter Benefits:&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;&amp;nbsp;Company-funded commuter benefits based on your region.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;Relocation Assistance:&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;&amp;nbsp;Available depending on role eligibility.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Retirement Savings Plan&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;US Roles:&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;&amp;nbsp;Traditional 401(k), Roth, and after-tax (mega backdoor Roth) options.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;UK &amp;amp; IE Roles:&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;&amp;nbsp;Pension plan with employer match.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335557856&amp;quot;:16777215,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;AUS Roles:&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;&amp;nbsp;Superannuation plan.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335557856&amp;quot;:16777215,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:0}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;The recruiter assigned to this role can share more information about the specific compensation and benefit details associated with this role during the hiring process.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:240,&amp;quot;335559739&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;To view Anduril&#39;s candidate data privacy policy, please visit &lt;/span&gt;&lt;a href=&quot;https://anduril.com/applicant-privacy-notice/&quot;&gt;&lt;span data-contrast=&quot;none&quot;&gt;&lt;span data-ccp-charstyle=&quot;Hyperlink&quot;&gt;https://anduril.com/applicant-privacy-notice/&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;span data-contrast=&quot;auto&quot;&gt;.&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335551550&amp;quot;:0,&amp;quot;335551620&amp;quot;:0,&amp;quot;335559738&amp;quot;:240,&amp;quot;335559739&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;",
     "job_employment_type": "FULLTIME",
     "fingerprint": "8ea7730eafd66a586d78baa92787661a73d3567bead1fb5d6ab7cc4d037989ac",
     "tags": {
@@ -2087,6 +2087,63 @@
     "job_posted_at": "2026-02-26T21:33:19.990+00:00"
   },
   {
+    "job_id": "workday-mass-general-brigham-RQ4052129",
+    "job_title": "Research Data Analyst, per diem Data Innovation",
+    "employer_name": "Mass General Brigham",
+    "job_city": "MA",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Boston-MA/Research-Data-Analyst--per-diem-Data-Innovation_RQ4052129",
+    "job_posted_at_datetime_utc": "2026-02-26T18:51:19.142Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "1072a9ab5132d895dc1668717121ec57fd5502ee9fab8313da8045b540c5a9c3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-26T18:51:19.142Z"
+  },
+  {
+    "job_id": "workday-mass-general-brigham-RQ4052969",
+    "job_title": "Research Fellow - Artificial Intelligence/Machine Learning",
+    "employer_name": "Mass General Brigham",
+    "job_city": "MA",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Boston-MA/Research-Fellow---Artificial-Intelligence-Machine-Learning_RQ4052969",
+    "job_posted_at_datetime_utc": "2026-02-26T18:51:19.142Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "8851dde283babaf6deaaf8e974f5fa0641d55f81169a0027e466479c7e0a70ae",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-26T18:51:19.142Z"
+  },
+  {
     "job_id": "ashby-replit-f4e571e4-3505-4149-8930-eefa7a29fabc",
     "job_title": "Commercial Account Executive",
     "employer_name": "Replit",
@@ -2116,6 +2173,259 @@
     "job_posted_at": "2026-02-26T18:46:37.910+00:00"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0234773",
+    "job_title": "Data Scientist and Developer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Lexington Park",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Lexington-Park-MD/Data-Scientist-and-Developer_R0234773",
+    "job_posted_at_datetime_utc": "2026-02-26T18:45:11.418Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "2cac95b6c1292df1f71d71f6b944a2d79393860c400bb6aa84ba54715ad4c163",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-26T18:45:11.418Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234928",
+    "job_title": "Machine Learning Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Norfolk",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Norfolk-VA/Machine-Learning-Engineer_R0234928",
+    "job_posted_at_datetime_utc": "2026-02-26T18:45:11.417Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "e6f750d180c7e50e49a4f069adadba4c62dddbc614162015cb703ebcd5f23326",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-26T18:45:11.417Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234832",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fort Meade",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Fort-Meade-MD/Data-Scientist_R0234832",
+    "job_posted_at_datetime_utc": "2026-02-26T18:45:11.417Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "04f3f110e0a8b1dbb56b8a0113941038eadb971a34d24305aeb276239fbb4695",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-26T18:45:11.417Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234834",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Fort-Meade-MD/Data-Scientist_R0234834-1",
+    "job_posted_at_datetime_utc": "2026-02-26T18:45:11.417Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "a16bfe88c7a2270015141c391f408207033d4f10d460b3629783295854281c9e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-26T18:45:11.417Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0229725",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Tampa",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Tampa-FL/Data-Scientist_R0229725",
+    "job_posted_at_datetime_utc": "2026-02-26T18:45:11.417Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "9ecdacff1c9dcad366b2662f36bfe2b79070d204ec02fd92b92e39124c586435",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-26T18:45:11.417Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234833",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Fort-Meade-MD/Data-Scientist_R0234833",
+    "job_posted_at_datetime_utc": "2026-02-26T18:45:11.417Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "a16bfe88c7a2270015141c391f408207033d4f10d460b3629783295854281c9e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-26T18:45:11.417Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234929",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Alexandria",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Alexandria-VA/Data-Scientist_R0234929",
+    "job_posted_at_datetime_utc": "2026-02-26T18:45:11.417Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "3cbcd1247e9b17225fca1866d4bce85e501b0e36b252dff7e822a5c37824d35f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-26T18:45:11.417Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00177051",
+    "job_title": "Data Scientist",
+    "employer_name": "Leidos",
+    "job_city": "3325 Fort George G. Meade MD",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/job/3325-Fort-George-G-Meade-MD/Data-Scientist_R-00177051",
+    "job_posted_at_datetime_utc": "2026-02-26T18:44:46.645Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "534ca06ddb570b78fd0afa1004ac80ae32be0769af89652f56897ef51413f57a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-26T18:44:46.645Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00176629",
+    "job_title": "Data Analyst w/ Secret Clearance",
+    "employer_name": "Leidos",
+    "job_city": "Huntsville",
+    "job_state": "AL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/job/Huntsville-AL/Data-Analyst-w--Secret-Clearance_R-00176629",
+    "job_posted_at_datetime_utc": "2026-02-26T18:44:46.645Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "0abb98df2207b7afadbb6296918372dbc3b2f8adccd4384198a3b687133830ab",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-26T18:44:46.645Z"
+  },
+  {
     "job_id": "greenhouse-mongodb-7523911",
     "job_title": "Software Engineer 3",
     "employer_name": "MongoDB",
@@ -2143,316 +2453,6 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-26T13:41:56-05:00"
-  },
-  {
-    "job_id": "workday-mass-general-brigham-RQ4052129",
-    "job_title": "Research Data Analyst, per diem Data Innovation",
-    "employer_name": "Mass General Brigham",
-    "job_city": "MA",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Boston-MA/Research-Data-Analyst--per-diem-Data-Innovation_RQ4052129",
-    "job_posted_at_datetime_utc": "2026-02-26T18:38:19.878Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "1072a9ab5132d895dc1668717121ec57fd5502ee9fab8313da8045b540c5a9c3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T18:38:19.878Z"
-  },
-  {
-    "job_id": "workday-mass-general-brigham-RQ4052969",
-    "job_title": "Research Fellow - Artificial Intelligence/Machine Learning",
-    "employer_name": "Mass General Brigham",
-    "job_city": "MA",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Boston-MA/Research-Fellow---Artificial-Intelligence-Machine-Learning_RQ4052969",
-    "job_posted_at_datetime_utc": "2026-02-26T18:38:19.878Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "8851dde283babaf6deaaf8e974f5fa0641d55f81169a0027e466479c7e0a70ae",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T18:38:19.878Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234773",
-    "job_title": "Data Scientist and Developer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Lexington Park",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Lexington-Park-MD/Data-Scientist-and-Developer_R0234773",
-    "job_posted_at_datetime_utc": "2026-02-26T18:32:00.902Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "2cac95b6c1292df1f71d71f6b944a2d79393860c400bb6aa84ba54715ad4c163",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T18:32:00.902Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234928",
-    "job_title": "Machine Learning Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Norfolk",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Norfolk-VA/Machine-Learning-Engineer_R0234928",
-    "job_posted_at_datetime_utc": "2026-02-26T18:32:00.900Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "e6f750d180c7e50e49a4f069adadba4c62dddbc614162015cb703ebcd5f23326",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T18:32:00.900Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234832",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fort Meade",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Fort-Meade-MD/Data-Scientist_R0234832",
-    "job_posted_at_datetime_utc": "2026-02-26T18:32:00.900Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "04f3f110e0a8b1dbb56b8a0113941038eadb971a34d24305aeb276239fbb4695",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T18:32:00.900Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234834",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Fort-Meade-MD/Data-Scientist_R0234834-1",
-    "job_posted_at_datetime_utc": "2026-02-26T18:32:00.900Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "a16bfe88c7a2270015141c391f408207033d4f10d460b3629783295854281c9e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T18:32:00.900Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0229725",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Tampa",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Tampa-FL/Data-Scientist_R0229725",
-    "job_posted_at_datetime_utc": "2026-02-26T18:32:00.900Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "9ecdacff1c9dcad366b2662f36bfe2b79070d204ec02fd92b92e39124c586435",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T18:32:00.900Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234833",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Fort-Meade-MD/Data-Scientist_R0234833",
-    "job_posted_at_datetime_utc": "2026-02-26T18:32:00.900Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "a16bfe88c7a2270015141c391f408207033d4f10d460b3629783295854281c9e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T18:32:00.900Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234929",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Alexandria",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Alexandria-VA/Data-Scientist_R0234929",
-    "job_posted_at_datetime_utc": "2026-02-26T18:32:00.900Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "3cbcd1247e9b17225fca1866d4bce85e501b0e36b252dff7e822a5c37824d35f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T18:32:00.900Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00177051",
-    "job_title": "Data Scientist",
-    "employer_name": "Leidos",
-    "job_city": "3325 Fort George G. Meade MD",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/job/3325-Fort-George-G-Meade-MD/Data-Scientist_R-00177051",
-    "job_posted_at_datetime_utc": "2026-02-26T18:31:34.938Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "534ca06ddb570b78fd0afa1004ac80ae32be0769af89652f56897ef51413f57a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T18:31:34.938Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00176629",
-    "job_title": "Data Analyst w/ Secret Clearance",
-    "employer_name": "Leidos",
-    "job_city": "Huntsville",
-    "job_state": "AL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/job/Huntsville-AL/Data-Analyst-w--Secret-Clearance_R-00176629",
-    "job_posted_at_datetime_utc": "2026-02-26T18:31:34.938Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "0abb98df2207b7afadbb6296918372dbc3b2f8adccd4384198a3b687133830ab",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T18:31:34.938Z"
   },
   {
     "job_id": "greenhouse-stripe-7216668",
@@ -2823,7 +2823,7 @@
     "job_is_remote": false,
     "job_apply_link": "https://jobs.ashbyhq.com/openai/1bb1f351-41a2-43a5-bac1-259859886cb3/application",
     "job_posted_at_datetime_utc": "2026-02-25T21:12:08.897+00:00",
-    "job_description": "About the team\nMarketing Innovation is a product engineering team embedded within OpenAI’s broader Demand Gen and Marketing organization. The team builds agentic, AI‑native systems that directly drive revenue, pipeline, and marketing leverage.\n\nOur mandate is to own and scale autonomous, customer‑facing and internal systems that operate at massive scale. This includes building autonomous, customer‑facing systems that engage with prospects, generate pipeline and revenue, and shape the future of how marketing and revenue teams operate in an AI‑native world.\n\nWe focus on problems that exceed the limits of low‑code tools and long‑tail workflow automation. When a problem requires a native product experience, deep system integration, and high standards for precision, safety, and reliability, Marketing Innovation steps in.\n\n\nAbout the role\nWe’re looking for product‑minded software engineers to join the Marketing Innovation team.\n\nAs a Software Engineer on this team, you will build and own autonomous, customer‑facing agentic systems that interface directly with enterprise customers, prospects, and revenue‑critical workflows. You will partner closely with functional leaders across scaled revenue, demand gen, and marketing to understand desired outcomes, then translate those needs into production‑grade systems.\n\nYou will move quickly from ambiguous problem statements to working software in production. Your work will be measured not by output, but by impact: revenue, enterprise pipeline, and Marketing efficiency.\n\nThis role is ideal for engineers who want ownership over real systems, enjoy building 0->1 products, and are excited to define new categories of AI‑native products and workflows.\n\nIn this role, you will:\n\n - Build autonomous and semi‑autonomous customer‑facing and internal agentic systems that directly drive Revenue, Pipeline, and Marketing efficiency.\n\n - Own end‑to‑end product execution, from early prototypes to reliable production systems with strong instrumentation and evals.\n\n - Work across the full stack, including APIs, orchestration, data flows, frontend experiences, and deployment.\n\n - Partner closely with marketing, demand gen, and enterprise sales stakeholders to define success metrics and functional requirements.\n\n - Apply OpenAI models and tooling in novel ways, making informed tradeoffs between models, platforms, and architectures.\n\n - Continuously iterate based on live usage, agent behavior, and performance data.\n\n\nYou’ll thrive in this role if you\n\n - Have 4+ years of experience as a software, product, or ML engineer working on user‑ or customer‑facing systems.\n\n - Have built, deployed, or operated complex systems in production, ideally including agents or automation at scale.\n\n - Are comfortable working without a groomed backlog and enjoy framing problems, proposing solutions, and executing end‑to‑end.\n\n - Are fluent in Python or JavaScript and comfortable building full‑stack applications.\n\n - Have hands‑on experience with APIs, cloud infrastructure, orchestration, and production monitoring.\n\n - Are curious about modern AI models and excited to experiment with how evolving capabilities change system design.\n\n - Have familiarity with sales, marketing, or go‑to‑market workflows, or are eager to learn how revenue systems operate.\n\n - Operate with a strong sense of ownership, move quickly, and care deeply about measurable business outcomes.\n\n - Are collaborative, pragmatic, and motivated to build at the frontier of applied AI.\n\nAbout OpenAI\n\nOpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. \n\nWe are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic.\n\nFor additional information, please see OpenAI’s Affirmative Action and Equal Employment Opportunity Policy Statement https://cdn.openai.com/policies/eeo-policy-statement.pdf.\n\nBackground checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations.\n\nTo notify OpenAI that you believe this job posting is non-compliant, please submit a report through this form https://form.asana.com/?d=57018692298241&k=5MqR40fZd7jlxVUh5J-UeA. No response will be provided to inquiries unrelated to job posting compliance.\n\nWe are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link https://form.asana.com/?k=bQ7w9h3iexRlicUdWRiwvg&d=57018692298241.\n\nOpenAI Global Applicant Privacy Policy https://cdn.openai.com/policies/global-employee-and-contractor-privacy-policy.pdf\n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.",
+    "job_description": "About the team\nMarketing Innovation is a product engineering team embedded within OpenAI’s broader Demand Gen and Marketing organization. The team builds agentic, AI‑native systems that directly drive revenue, pipeline, and marketing leverage.\n\nOur mandate is to own and scale autonomous, customer‑facing and internal systems that operate at massive scale. This includes building autonomous, customer‑facing systems that engage with prospects, generate pipeline and revenue, and shape the future of how marketing and revenue teams operate in an AI���native world.\n\nWe focus on problems that exceed the limits of low‑code tools and long‑tail workflow automation. When a problem requires a native product experience, deep system integration, and high standards for precision, safety, and reliability, Marketing Innovation steps in.\n\n\nAbout the role\nWe’re looking for product‑minded software engineers to join the Marketing Innovation team.\n\nAs a Software Engineer on this team, you will build and own autonomous, customer‑facing agentic systems that interface directly with enterprise customers, prospects, and revenue‑critical workflows. You will partner closely with functional leaders across scaled revenue, demand gen, and marketing to understand desired outcomes, then translate those needs into production‑grade systems.\n\nYou will move quickly from ambiguous problem statements to working software in production. Your work will be measured not by output, but by impact: revenue, enterprise pipeline, and Marketing efficiency.\n\nThis role is ideal for engineers who want ownership over real systems, enjoy building 0->1 products, and are excited to define new categories of AI‑native products and workflows.\n\nIn this role, you will:\n\n - Build autonomous and semi‑autonomous customer‑facing and internal agentic systems that directly drive Revenue, Pipeline, and Marketing efficiency.\n\n - Own end‑to‑end product execution, from early prototypes to reliable production systems with strong instrumentation and evals.\n\n - Work across the full stack, including APIs, orchestration, data flows, frontend experiences, and deployment.\n\n - Partner closely with marketing, demand gen, and enterprise sales stakeholders to define success metrics and functional requirements.\n\n - Apply OpenAI models and tooling in novel ways, making informed tradeoffs between models, platforms, and architectures.\n\n - Continuously iterate based on live usage, agent behavior, and performance data.\n\n\nYou’ll thrive in this role if you\n\n - Have 4+ years of experience as a software, product, or ML engineer working on user‑ or customer‑facing systems.\n\n - Have built, deployed, or operated complex systems in production, ideally including agents or automation at scale.\n\n - Are comfortable working without a groomed backlog and enjoy framing problems, proposing solutions, and executing end‑to‑end.\n\n - Are fluent in Python or JavaScript and comfortable building full‑stack applications.\n\n - Have hands‑on experience with APIs, cloud infrastructure, orchestration, and production monitoring.\n\n - Are curious about modern AI models and excited to experiment with how evolving capabilities change system design.\n\n - Have familiarity with sales, marketing, or go‑to‑market workflows, or are eager to learn how revenue systems operate.\n\n - Operate with a strong sense of ownership, move quickly, and care deeply about measurable business outcomes.\n\n - Are collaborative, pragmatic, and motivated to build at the frontier of applied AI.\n\nAbout OpenAI\n\nOpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. \n\nWe are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic.\n\nFor additional information, please see OpenAI’s Affirmative Action and Equal Employment Opportunity Policy Statement https://cdn.openai.com/policies/eeo-policy-statement.pdf.\n\nBackground checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations.\n\nTo notify OpenAI that you believe this job posting is non-compliant, please submit a report through this form https://form.asana.com/?d=57018692298241&k=5MqR40fZd7jlxVUh5J-UeA. No response will be provided to inquiries unrelated to job posting compliance.\n\nWe are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link https://form.asana.com/?k=bQ7w9h3iexRlicUdWRiwvg&d=57018692298241.\n\nOpenAI Global Applicant Privacy Policy https://cdn.openai.com/policies/global-employee-and-contractor-privacy-policy.pdf\n\nAt OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.",
     "job_employment_type": "FULLTIME",
     "fingerprint": "5855a5ce2549bfbae232954fd932ef86718a8ad9571983cc920d1b8359e38ab3",
     "tags": {
@@ -2941,7 +2941,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cat.wd5.myworkdayjobs.com/job/Irving-Texas/People-Analytics---Data-Scientist_R0000353001-1",
-    "job_posted_at_datetime_utc": "2026-02-25T18:36:35.513Z",
+    "job_posted_at_datetime_utc": "2026-02-25T18:49:39.521Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "743a23c6423a7fdb489512987d53779e0ec865d2687a9a9f14cbc2f5ada67ce7",
@@ -2958,7 +2958,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T18:36:35.513Z"
+    "job_posted_at": "2026-02-25T18:49:39.521Z"
   },
   {
     "job_id": "workday-boeing-JR2026498172",
@@ -2969,7 +2969,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/Experienced-Data-Scientist_JR2026498172-1",
-    "job_posted_at_datetime_utc": "2026-02-25T18:34:17.688Z",
+    "job_posted_at_datetime_utc": "2026-02-25T18:47:23.896Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "7cfbe8007e0e3b820f815bc6096f0ee4022649ec226ad6e59811dd5e1adc08b0",
@@ -2986,7 +2986,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T18:34:17.688Z"
+    "job_posted_at": "2026-02-25T18:47:23.896Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234779",
@@ -2997,7 +2997,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Machine-Learning-Engineer_R0234779",
-    "job_posted_at_datetime_utc": "2026-02-25T18:32:00.902Z",
+    "job_posted_at_datetime_utc": "2026-02-25T18:45:11.418Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2b242fc5848ce1b3da78245d04e77e6ab79bf15813f47051cfc1cb868961fcc0",
@@ -3015,7 +3015,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T18:32:00.902Z"
+    "job_posted_at": "2026-02-25T18:45:11.418Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234801",
@@ -3026,7 +3026,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Machine-Learning-Engineer_R0234801",
-    "job_posted_at_datetime_utc": "2026-02-25T18:32:00.902Z",
+    "job_posted_at_datetime_utc": "2026-02-25T18:45:11.418Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2b242fc5848ce1b3da78245d04e77e6ab79bf15813f47051cfc1cb868961fcc0",
@@ -3044,7 +3044,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T18:32:00.902Z"
+    "job_posted_at": "2026-02-25T18:45:11.418Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234896",
@@ -3055,7 +3055,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Machine-Learning-Engineer_R0234896",
-    "job_posted_at_datetime_utc": "2026-02-25T18:32:00.902Z",
+    "job_posted_at_datetime_utc": "2026-02-25T18:45:11.418Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2b242fc5848ce1b3da78245d04e77e6ab79bf15813f47051cfc1cb868961fcc0",
@@ -3073,7 +3073,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T18:32:00.902Z"
+    "job_posted_at": "2026-02-25T18:45:11.418Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234716",
@@ -3084,7 +3084,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/MacDill-AFB-FL/Data-Engineer_R0234716",
-    "job_posted_at_datetime_utc": "2026-02-25T18:32:00.902Z",
+    "job_posted_at_datetime_utc": "2026-02-25T18:45:11.418Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "5ff17ad5f7a79d57bc541f01b29dc6a56fb1f01ef4dd129c02dfc6e2f5555f71",
@@ -3101,7 +3101,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T18:32:00.902Z"
+    "job_posted_at": "2026-02-25T18:45:11.418Z"
   },
   {
     "job_id": "workday-salesforce-JR329631",
@@ -3112,7 +3112,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/job/California---Palo-Alto/AI-Engineer--Agent-Systems_JR329631",
-    "job_posted_at_datetime_utc": "2026-02-25T18:30:10.278Z",
+    "job_posted_at_datetime_utc": "2026-02-25T18:43:24.142Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "41e36741079ee0b56c0c0aa4a63d4c808fe6418e428b5ce26bace6fb6a5e1100",
@@ -3130,7 +3130,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T18:30:10.278Z"
+    "job_posted_at": "2026-02-25T18:43:24.142Z"
   },
   {
     "job_id": "workday-salesforce-JR329632",
@@ -3141,7 +3141,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/job/California---San-Francisco/AI-Engineer--ML-Systems_JR329632",
-    "job_posted_at_datetime_utc": "2026-02-25T18:30:10.278Z",
+    "job_posted_at_datetime_utc": "2026-02-25T18:43:24.142Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "357967db90f91446e95c2442e85e51d2c738139d9a0f7c3bd73eda0cdeaad7eb",
@@ -3159,7 +3159,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T18:30:10.278Z"
+    "job_posted_at": "2026-02-25T18:43:24.142Z"
   },
   {
     "job_id": "greenhouse-spacex-8434475002",
@@ -3524,7 +3524,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---Seattle-WA/Experienced-Systems-and-Data-Analyst_JR2026496879-2",
-    "job_posted_at_datetime_utc": "2026-02-24T18:34:17.688Z",
+    "job_posted_at_datetime_utc": "2026-02-24T18:47:23.897Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "a94f65e168daf7fa8aa8cb38d03d1786bacfcee63fd63c6791b3cc4a1e5ffb95",
@@ -3541,176 +3541,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T18:34:17.688Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0233775",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Data-Engineer_R0233775",
-    "job_posted_at_datetime_utc": "2026-02-24T18:32:00.902Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "71789731ba63c432516f7e7e72cfcf7e65e577dbe23475d02453639d8cc8c625",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-24T18:32:00.902Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234643",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Nellis AFB",
-    "job_state": "NV",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Nellis-AFB-NV/Data-Scientist_R0234643",
-    "job_posted_at_datetime_utc": "2026-02-24T18:32:00.902Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "3c36656c64e92c24d0dd518037645f1efc03f8b54b852c58f02d0ae683520bce",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-24T18:32:00.902Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0233771",
-    "job_title": "Apache Iceberg Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Apache-Iceberg-Data-Engineer_R0233771",
-    "job_posted_at_datetime_utc": "2026-02-24T18:32:00.902Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "b98c8c0a71d01a2e5a764d539b56c6a580d3626e468fc11ac9557c1fef8ac71b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-24T18:32:00.902Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234571",
-    "job_title": "Data Scientist, Junior",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Charleston",
-    "job_state": "SC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Charleston-SC/Data-Scientist--Junior_R0234571",
-    "job_posted_at_datetime_utc": "2026-02-24T18:32:00.902Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "220cc3e02ddaa5e299c6f956173f394af2f68c5e1ef8beadca6267150cec35eb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-24T18:32:00.902Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234642",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Langley AFB",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Langley-AFB-VA/Data-Scientist_R0234642",
-    "job_posted_at_datetime_utc": "2026-02-24T18:32:00.902Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "2e1d83721f5f80f0a326a993860e4870921df1802f0e27e1c6c38ba39ebe1e10",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-24T18:32:00.902Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0229274",
-    "job_title": "Secure AI Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fort Meade",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Fort-Meade-MD/Secure-AI-Engineer_R0229274",
-    "job_posted_at_datetime_utc": "2026-02-24T18:32:00.902Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "5c4125b5f6a38da49bd3385ea2a95240d2422ebae654c2309e1b5c6836e204fc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-24T18:32:00.902Z"
+    "job_posted_at": "2026-02-24T18:47:23.897Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234605",
@@ -3721,7 +3552,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Langley-AFB-VA/Data-Scientist_R0234605",
-    "job_posted_at_datetime_utc": "2026-02-24T18:32:00.902Z",
+    "job_posted_at_datetime_utc": "2026-02-24T18:45:11.419Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2e1d83721f5f80f0a326a993860e4870921df1802f0e27e1c6c38ba39ebe1e10",
@@ -3738,7 +3569,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T18:32:00.902Z"
+    "job_posted_at": "2026-02-24T18:45:11.419Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0232550",
@@ -3749,7 +3580,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Bethesda-MD/MLOps-Engineer_R0232550",
-    "job_posted_at_datetime_utc": "2026-02-24T18:32:00.902Z",
+    "job_posted_at_datetime_utc": "2026-02-24T18:45:11.419Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2af305d3d69996262bb2fe86fcecf7e54fc8db938e9ad5a30ca5b99dd6bed722",
@@ -3767,7 +3598,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T18:32:00.902Z"
+    "job_posted_at": "2026-02-24T18:45:11.419Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234405",
@@ -3778,7 +3609,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Washington-DC/Data-Scientist_R0234405",
-    "job_posted_at_datetime_utc": "2026-02-24T18:32:00.902Z",
+    "job_posted_at_datetime_utc": "2026-02-24T18:45:11.419Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "a16bfe88c7a2270015141c391f408207033d4f10d460b3629783295854281c9e",
@@ -3795,7 +3626,176 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T18:32:00.902Z"
+    "job_posted_at": "2026-02-24T18:45:11.419Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0233775",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Data-Engineer_R0233775",
+    "job_posted_at_datetime_utc": "2026-02-24T18:45:11.418Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "71789731ba63c432516f7e7e72cfcf7e65e577dbe23475d02453639d8cc8c625",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-24T18:45:11.418Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234643",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Nellis AFB",
+    "job_state": "NV",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Nellis-AFB-NV/Data-Scientist_R0234643",
+    "job_posted_at_datetime_utc": "2026-02-24T18:45:11.418Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "3c36656c64e92c24d0dd518037645f1efc03f8b54b852c58f02d0ae683520bce",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-24T18:45:11.418Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0233771",
+    "job_title": "Apache Iceberg Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Apache-Iceberg-Data-Engineer_R0233771",
+    "job_posted_at_datetime_utc": "2026-02-24T18:45:11.418Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "b98c8c0a71d01a2e5a764d539b56c6a580d3626e468fc11ac9557c1fef8ac71b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-24T18:45:11.418Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234571",
+    "job_title": "Data Scientist, Junior",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Charleston",
+    "job_state": "SC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Charleston-SC/Data-Scientist--Junior_R0234571",
+    "job_posted_at_datetime_utc": "2026-02-24T18:45:11.418Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "220cc3e02ddaa5e299c6f956173f394af2f68c5e1ef8beadca6267150cec35eb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-24T18:45:11.418Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234642",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Langley AFB",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Langley-AFB-VA/Data-Scientist_R0234642",
+    "job_posted_at_datetime_utc": "2026-02-24T18:45:11.418Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "2e1d83721f5f80f0a326a993860e4870921df1802f0e27e1c6c38ba39ebe1e10",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-24T18:45:11.418Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0229274",
+    "job_title": "Secure AI Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fort Meade",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Fort-Meade-MD/Secure-AI-Engineer_R0229274",
+    "job_posted_at_datetime_utc": "2026-02-24T18:45:11.418Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "5c4125b5f6a38da49bd3385ea2a95240d2422ebae654c2309e1b5c6836e204fc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-24T18:45:11.418Z"
   },
   {
     "job_id": "greenhouse-spacex-8397366002",
@@ -4565,7 +4565,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/job/San-Jose/Machine-Learning-Engineer-50_R165421",
-    "job_posted_at_datetime_utc": "2026-02-23T18:36:02.619Z",
+    "job_posted_at_datetime_utc": "2026-02-23T18:49:05.794Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "404534ace5b5e95dcc874d26db219d1f490687387df4aea1479d3a2f0fe86709",
@@ -4583,147 +4583,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-23T18:36:02.619Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0233902",
-    "job_title": "AI/ML Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Chantilly",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Chantilly-VA/AI-ML-Engineer_R0233902",
-    "job_posted_at_datetime_utc": "2026-02-23T18:32:00.903Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "78553973b04e4fd8a7b180c4c2b26204b11bebad5b23542f1166ffddb83cacb0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-23T18:32:00.903Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234398",
-    "job_title": "Data Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Dayton",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Dayton-OH/Data-Analyst_R0234398",
-    "job_posted_at_datetime_utc": "2026-02-23T18:32:00.903Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "ed5342a911af54faa64c82ffa9ea666461f15d999927433a76a4f1b6fe8e4a76",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-23T18:32:00.903Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234117",
-    "job_title": "Enterprise Cybersecurity Data Engineer and Business Intelligence Developer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Enterprise-Cybersecurity-Data-Engineer-and-Business-Intelligence-Developer_R0234117",
-    "job_posted_at_datetime_utc": "2026-02-23T18:32:00.903Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "3aa19cdbf9e3a360bd081880acd943262bfaaebe76d8c12b3a5cb80311b1891c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-23T18:32:00.903Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234300",
-    "job_title": "Health Services Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Health-Services-Data-Engineer_R0234300",
-    "job_posted_at_datetime_utc": "2026-02-23T18:32:00.903Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "e1fcff4b3ab93d99c1625eb91a7434506143bd523df6d37d6af6654322432f35",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-23T18:32:00.903Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0231932",
-    "job_title": "Criminal Justice Data Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Arlington-VA/Data-Analyst_R0231932",
-    "job_posted_at_datetime_utc": "2026-02-23T18:32:00.903Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "15e89e3ee02d54b3af8d72d28a972e0ac11e16bd878243a4580328079935dc8a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-23T18:32:00.903Z"
+    "job_posted_at": "2026-02-23T18:49:05.794Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234574",
@@ -4734,7 +4594,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/San-Diego-CA/Data-Engineer_R0234574",
-    "job_posted_at_datetime_utc": "2026-02-23T18:32:00.902Z",
+    "job_posted_at_datetime_utc": "2026-02-23T18:45:11.419Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "b5b484f665e689547402bc63ca9475a88f14fc95b1fc1cc4d205a31d578e6e33",
@@ -4751,7 +4611,147 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-23T18:32:00.902Z"
+    "job_posted_at": "2026-02-23T18:45:11.419Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0233902",
+    "job_title": "AI/ML Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Chantilly",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Chantilly-VA/AI-ML-Engineer_R0233902",
+    "job_posted_at_datetime_utc": "2026-02-23T18:45:11.419Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "78553973b04e4fd8a7b180c4c2b26204b11bebad5b23542f1166ffddb83cacb0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-23T18:45:11.419Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234398",
+    "job_title": "Data Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Dayton",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Dayton-OH/Data-Analyst_R0234398",
+    "job_posted_at_datetime_utc": "2026-02-23T18:45:11.419Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "ed5342a911af54faa64c82ffa9ea666461f15d999927433a76a4f1b6fe8e4a76",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-23T18:45:11.419Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234117",
+    "job_title": "Enterprise Cybersecurity Data Engineer and Business Intelligence Developer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Enterprise-Cybersecurity-Data-Engineer-and-Business-Intelligence-Developer_R0234117",
+    "job_posted_at_datetime_utc": "2026-02-23T18:45:11.419Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "3aa19cdbf9e3a360bd081880acd943262bfaaebe76d8c12b3a5cb80311b1891c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-23T18:45:11.419Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234300",
+    "job_title": "Health Services Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Health-Services-Data-Engineer_R0234300",
+    "job_posted_at_datetime_utc": "2026-02-23T18:45:11.419Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "e1fcff4b3ab93d99c1625eb91a7434506143bd523df6d37d6af6654322432f35",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-23T18:45:11.419Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0231932",
+    "job_title": "Criminal Justice Data Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Arlington-VA/Data-Analyst_R0231932",
+    "job_posted_at_datetime_utc": "2026-02-23T18:45:11.419Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "15e89e3ee02d54b3af8d72d28a972e0ac11e16bd878243a4580328079935dc8a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-23T18:45:11.419Z"
   },
   {
     "job_id": "ashby-openai-ed871ac9-44ae-47fa-beaa-b9ab7ff31012",
@@ -5092,7 +5092,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/job/San-Jose-California-United-States-of-America/Data-Scientist_1200572",
-    "job_posted_at_datetime_utc": "2026-02-22T18:32:56.410Z",
+    "job_posted_at_datetime_utc": "2026-02-22T18:46:05.660Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "9326966af24e88ab1c22106dc9de636610e8ae27ad2ceea62dc4a66495a19365",
@@ -5109,7 +5109,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-22T18:32:56.410Z"
+    "job_posted_at": "2026-02-22T18:46:05.660Z"
   },
   {
     "job_id": "js-virtualvocations-btnav1lfgmi3yl0faaaaaa==",
@@ -6404,7 +6404,7 @@
     "job_is_remote": false,
     "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7471089002",
     "job_posted_at_datetime_utc": "2026-02-19T14:47:26-05:00",
-    "job_description": "&lt;p&gt;P-187&lt;/p&gt;\n&lt;p&gt;Databricks is radically simplifying the entire data lifecycle, from ingestion to generative AI and everything in-between. We’re doing it cross-cloud with a unified platform, serving over 10k customers, processing exabytes of data/day on 15+ million VMs, and growing exponentially.&lt;/p&gt;\n&lt;p&gt;The Delta Live Tables team (DLT) is looking for recent PhD graduates.&lt;a href=&quot;https://www.databricks.com/product/delta-live-tables&quot;&gt; Delta Live Tables&lt;/a&gt; (DLT) makes it easy to build and manage reliable batch and streaming data pipelines that deliver high-quality data on the&lt;a href=&quot;https://www.databricks.com/product/data-lakehouse&quot;&gt; Databricks Lakehouse Platform&lt;/a&gt;. DLT helps data engineering teams simplify ETL (extract-transform-load) development and management with declarative pipeline development, automatic data testing, and deep visibility for monitoring and recovery. DLT optimizes pipeline execution by logical optimization through query transformations, and physical optimization such as instance type selection and vertical/horizontal autoscaling.&lt;/p&gt;\n&lt;p&gt;Moreover, as part of DLT, we have a new catalyst optimization layer, enzyme, designed specifically to speed up the ETL process and make declarative ETL computation possible by incrementally computing and materializing the intermediate results. Enzyme can create and keep up-to-date a materialization of the results of a given query stored in a Delta table. Enzyme does this by using a cost model to choose between a variety of techniques that borrow from traditional literature on the maintenance of materialized views, delta-to-delta streaming, and manual ETL patterns commonly used by our customers.&lt;/p&gt;\n&lt;p&gt;As a part of the DLT team, there are opportunities to design and implement in many areas that leapfrog existing systems:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Query compilation and optimization&lt;/li&gt;\n&lt;li&gt;Distributed query execution and scheduling&lt;/li&gt;\n&lt;li&gt;Vectorized engine execution&lt;/li&gt;\n&lt;li&gt;Resource Management&lt;/li&gt;\n&lt;li&gt;Transaction coordination&lt;/li&gt;\n&lt;li&gt;Efficient storage structures (encoding, indexes)&lt;/li&gt;\n&lt;li&gt;Automatic physical data optimization&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;What We Look For:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;PhD in databases or systems&lt;/li&gt;\n&lt;li&gt;Knowledge of database systems, storage systems, distributed systems, and performance optimization&lt;/li&gt;\n&lt;li&gt;Motivated by delivering customer value and influence&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Pay Range Transparency&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400; font-size: 14px;&quot;&gt;Databricks is committed to fair and equitable compensation practices. The pay range(s) for this role is listed below and represents the expected salary range for non-commissionable roles or on-target earnings for commissionable roles.&amp;nbsp; Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to job-related skills, depth of experience, relevant certifications and training, and specific work location. Based on the factors above, Databricks anticipates utilizing the full width of the range. The total compensation package for this position may also include eligibility for annual performance bonus, equity, and the benefits listed above. For more information regarding which range your location is in visit our page &lt;a href=&quot;https://www.databricks.com/sites/default/files/2024-08/us-pay-zone-mapping.pdf&quot;&gt;here&lt;/a&gt;.&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Local Pay Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$150,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$190,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About Databricks&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;Databricks is the data and AI company. More than 10,000 organizations worldwide — including Comcast, Condé Nast, Grammarly, and over 50% of the Fortune 500 — rely on the Databricks Data Intelligence Platform to unify and democratize data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe and was founded by the original creators of Lakehouse, Apache Spark™, Delta Lake and MLflow. To learn more, follow Databricks on&amp;nbsp;&lt;span style=&quot;color: rgb(255, 54, 33);&quot;&gt;&lt;a style=&quot;color: rgb(255, 54, 33);&quot; href=&quot;https://twitter.com/databricks&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://twitter.com/databricks&amp;amp;source=gmail&amp;amp;ust=1700237575733000&amp;amp;usg=AOvVaw03FL8fJvOD97ytN02f5G2C&quot;&gt;Twitter&lt;/a&gt;,&amp;nbsp;&lt;a style=&quot;color: rgb(255, 54, 33);&quot; href=&quot;https://www.linkedin.com/company/databricks&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.linkedin.com/company/databricks&amp;amp;source=gmail&amp;amp;ust=1700237575733000&amp;amp;usg=AOvVaw15dLk3q8VxTfHEgCUg7NSt&quot;&gt;LinkedIn&lt;/a&gt;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;and&lt;/span&gt;&amp;nbsp;&lt;a style=&quot;color: rgb(255, 54, 33);&quot; href=&quot;https://www.facebook.com/databricksinc&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.facebook.com/databricksinc&amp;amp;source=gmail&amp;amp;ust=1700237575733000&amp;amp;usg=AOvVaw39EcncitnlqV72EG2-RqXJ&quot;&gt;Facebook&lt;/a&gt;&lt;/span&gt;.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Benefits&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/span&gt;At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region, please visit&amp;nbsp;&lt;a href=&quot;https://www.mybenefitsnow.com/databricks&quot;&gt;https://www.mybenefitsnow.com/databricks&lt;/a&gt;.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Our Commitment to Diversity and Inclusion&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Compliance&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If access to export-controlled technology or source code is required for performance of job duties, it is within Employer&#39;s discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;",
+    "job_description": "&lt;p&gt;P-187&lt;/p&gt;\n&lt;p&gt;Databricks is radically simplifying the entire data lifecycle, from ingestion to generative AI and everything in-between. We��re doing it cross-cloud with a unified platform, serving over 10k customers, processing exabytes of data/day on 15+ million VMs, and growing exponentially.&lt;/p&gt;\n&lt;p&gt;The Delta Live Tables team (DLT) is looking for recent PhD graduates.&lt;a href=&quot;https://www.databricks.com/product/delta-live-tables&quot;&gt; Delta Live Tables&lt;/a&gt; (DLT) makes it easy to build and manage reliable batch and streaming data pipelines that deliver high-quality data on the&lt;a href=&quot;https://www.databricks.com/product/data-lakehouse&quot;&gt; Databricks Lakehouse Platform&lt;/a&gt;. DLT helps data engineering teams simplify ETL (extract-transform-load) development and management with declarative pipeline development, automatic data testing, and deep visibility for monitoring and recovery. DLT optimizes pipeline execution by logical optimization through query transformations, and physical optimization such as instance type selection and vertical/horizontal autoscaling.&lt;/p&gt;\n&lt;p&gt;Moreover, as part of DLT, we have a new catalyst optimization layer, enzyme, designed specifically to speed up the ETL process and make declarative ETL computation possible by incrementally computing and materializing the intermediate results. Enzyme can create and keep up-to-date a materialization of the results of a given query stored in a Delta table. Enzyme does this by using a cost model to choose between a variety of techniques that borrow from traditional literature on the maintenance of materialized views, delta-to-delta streaming, and manual ETL patterns commonly used by our customers.&lt;/p&gt;\n&lt;p&gt;As a part of the DLT team, there are opportunities to design and implement in many areas that leapfrog existing systems:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Query compilation and optimization&lt;/li&gt;\n&lt;li&gt;Distributed query execution and scheduling&lt;/li&gt;\n&lt;li&gt;Vectorized engine execution&lt;/li&gt;\n&lt;li&gt;Resource Management&lt;/li&gt;\n&lt;li&gt;Transaction coordination&lt;/li&gt;\n&lt;li&gt;Efficient storage structures (encoding, indexes)&lt;/li&gt;\n&lt;li&gt;Automatic physical data optimization&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;What We Look For:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;PhD in databases or systems&lt;/li&gt;\n&lt;li&gt;Knowledge of database systems, storage systems, distributed systems, and performance optimization&lt;/li&gt;\n&lt;li&gt;Motivated by delivering customer value and influence&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Pay Range Transparency&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400; font-size: 14px;&quot;&gt;Databricks is committed to fair and equitable compensation practices. The pay range(s) for this role is listed below and represents the expected salary range for non-commissionable roles or on-target earnings for commissionable roles.&amp;nbsp; Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to job-related skills, depth of experience, relevant certifications and training, and specific work location. Based on the factors above, Databricks anticipates utilizing the full width of the range. The total compensation package for this position may also include eligibility for annual performance bonus, equity, and the benefits listed above. For more information regarding which range your location is in visit our page &lt;a href=&quot;https://www.databricks.com/sites/default/files/2024-08/us-pay-zone-mapping.pdf&quot;&gt;here&lt;/a&gt;.&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Local Pay Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$150,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$190,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About Databricks&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;Databricks is the data and AI company. More than 10,000 organizations worldwide — including Comcast, Condé Nast, Grammarly, and over 50% of the Fortune 500 — rely on the Databricks Data Intelligence Platform to unify and democratize data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe and was founded by the original creators of Lakehouse, Apache Spark™, Delta Lake and MLflow. To learn more, follow Databricks on&amp;nbsp;&lt;span style=&quot;color: rgb(255, 54, 33);&quot;&gt;&lt;a style=&quot;color: rgb(255, 54, 33);&quot; href=&quot;https://twitter.com/databricks&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://twitter.com/databricks&amp;amp;source=gmail&amp;amp;ust=1700237575733000&amp;amp;usg=AOvVaw03FL8fJvOD97ytN02f5G2C&quot;&gt;Twitter&lt;/a&gt;,&amp;nbsp;&lt;a style=&quot;color: rgb(255, 54, 33);&quot; href=&quot;https://www.linkedin.com/company/databricks&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.linkedin.com/company/databricks&amp;amp;source=gmail&amp;amp;ust=1700237575733000&amp;amp;usg=AOvVaw15dLk3q8VxTfHEgCUg7NSt&quot;&gt;LinkedIn&lt;/a&gt;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;and&lt;/span&gt;&amp;nbsp;&lt;a style=&quot;color: rgb(255, 54, 33);&quot; href=&quot;https://www.facebook.com/databricksinc&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.facebook.com/databricksinc&amp;amp;source=gmail&amp;amp;ust=1700237575733000&amp;amp;usg=AOvVaw39EcncitnlqV72EG2-RqXJ&quot;&gt;Facebook&lt;/a&gt;&lt;/span&gt;.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Benefits&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/span&gt;At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region, please visit&amp;nbsp;&lt;a href=&quot;https://www.mybenefitsnow.com/databricks&quot;&gt;https://www.mybenefitsnow.com/databricks&lt;/a&gt;.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Our Commitment to Diversity and Inclusion&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Compliance&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If access to export-controlled technology or source code is required for performance of job duties, it is within Employer&#39;s discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;",
     "job_employment_type": "FULLTIME",
     "fingerprint": "35d67a38983d6b719afa938175fa9442f9d91b98338c6450f09e7ae1fa9714fe",
     "tags": {
@@ -6434,7 +6434,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Buckley-AFB-CO/Data-Scientist_R0234099",
-    "job_posted_at_datetime_utc": "2026-02-19T18:32:00.903Z",
+    "job_posted_at_datetime_utc": "2026-02-19T18:45:11.420Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "84878e4d4602ad149d16a700e5bf2eb9bb11918aad4eb0b4fe9d9d7dc13ed25b",
@@ -6451,7 +6451,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-19T18:32:00.903Z"
+    "job_posted_at": "2026-02-19T18:45:11.420Z"
   },
   {
     "job_id": "greenhouse-scaleai-4660340005",
@@ -6668,7 +6668,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Charleston-SC/AI-and-ML-Engineer_R0230985",
-    "job_posted_at_datetime_utc": "2026-02-18T18:32:00.903Z",
+    "job_posted_at_datetime_utc": "2026-02-18T18:45:11.420Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "69ce25cdadfe6228f91dd0a74d42b861aeb28fa1399d2a767860666794ebdb5d",
@@ -6685,7 +6685,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-18T18:32:00.903Z"
+    "job_posted_at": "2026-02-18T18:45:11.420Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234221",
@@ -6696,7 +6696,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/San-Diego-CA/Data-Scientist_R0234221",
-    "job_posted_at_datetime_utc": "2026-02-18T18:32:00.903Z",
+    "job_posted_at_datetime_utc": "2026-02-18T18:45:11.420Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "03805b8e47c31dd2d5c5b3124ae9e615c8ebce9ae9f7c09d2b90c65d9158a4e0",
@@ -6713,7 +6713,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-18T18:32:00.903Z"
+    "job_posted_at": "2026-02-18T18:45:11.420Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234223",
@@ -6724,7 +6724,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Chantilly-VA/Human-Capital-Data-Analyst_R0234223",
-    "job_posted_at_datetime_utc": "2026-02-18T18:32:00.903Z",
+    "job_posted_at_datetime_utc": "2026-02-18T18:45:11.420Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "157fda429f5d4a5d33f5abfb033d57ff8e7ac820fa88d402032406e9699faf55",
@@ -6741,7 +6741,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-18T18:32:00.903Z"
+    "job_posted_at": "2026-02-18T18:45:11.420Z"
   },
   {
     "job_id": "greenhouse-scaleai-4574113005",
@@ -6866,7 +6866,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/job/Sunnyvale-California-United-States-of-America/Data-Scientist-3_1201030",
-    "job_posted_at_datetime_utc": "2026-02-17T18:32:56.412Z",
+    "job_posted_at_datetime_utc": "2026-02-17T18:46:05.662Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "6179313f912be2ca18fc5b599b78152ab7cbe9f1c007b7966595a863fa9af73d",
@@ -6883,7 +6883,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-17T18:32:56.412Z"
+    "job_posted_at": "2026-02-17T18:46:05.662Z"
   },
   {
     "job_id": "ashby-openai-46cd47bc-d4de-4826-aa2e-8b2e0da3c409",
