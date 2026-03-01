@@ -360,62 +360,6 @@
     "job_posted_at": "2026-02-27T16:33:53-05:00"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0234498",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Data-Scientist_R0234498",
-    "job_posted_at_datetime_utc": "2026-02-27T20:30:04.564Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "a16bfe88c7a2270015141c391f408207033d4f10d460b3629783295854281c9e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-27T20:30:04.564Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0233003",
-    "job_title": "Data Scientist, Junior",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Charleston",
-    "job_state": "SC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Charleston-SC/Data-Scientist--Junior_R0233003",
-    "job_posted_at_datetime_utc": "2026-02-27T20:30:04.564Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "220cc3e02ddaa5e299c6f956173f394af2f68c5e1ef8beadca6267150cec35eb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-27T20:30:04.564Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0234850",
     "job_title": "Data Analyst",
     "employer_name": "Booz Allen Hamilton",
@@ -424,7 +368,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Camp-Lejeune-NC/Data-Analyst_R0234850",
-    "job_posted_at_datetime_utc": "2026-02-27T20:30:04.564Z",
+    "job_posted_at_datetime_utc": "2026-02-27T20:43:09.940Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "4202530d9a246d1be54024761a5a47334c7d7a55e9303b1a552ebc7257999736",
@@ -441,7 +385,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T20:30:04.564Z"
+    "job_posted_at": "2026-02-27T20:43:09.940Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234847",
@@ -452,7 +396,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Honolulu-HI/Agentic-AI-and-Data-Engineer_R0234847",
-    "job_posted_at_datetime_utc": "2026-02-27T20:30:04.564Z",
+    "job_posted_at_datetime_utc": "2026-02-27T20:43:09.940Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "859b1504afcbac78b9661e405d837846f850994ca8511f2d74e18549775cfa80",
@@ -469,7 +413,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T20:30:04.564Z"
+    "job_posted_at": "2026-02-27T20:43:09.940Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234257",
@@ -480,7 +424,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Bethesda-MD/Artificial-Intelligence-and-Machine-Learning-Engineer_R0234257",
-    "job_posted_at_datetime_utc": "2026-02-27T20:30:04.563Z",
+    "job_posted_at_datetime_utc": "2026-02-27T20:43:09.939Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "549ae491df14eb6d74b5872dfebf528c8dbb1b2cccd49b0e7e0dcab71a134bd9",
@@ -498,7 +442,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T20:30:04.563Z"
+    "job_posted_at": "2026-02-27T20:43:09.939Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0232422",
@@ -509,7 +453,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Bethesda-MD/Health-Data-Engineer_R0232422",
-    "job_posted_at_datetime_utc": "2026-02-27T20:30:04.563Z",
+    "job_posted_at_datetime_utc": "2026-02-27T20:43:09.939Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "6ba7006749dda96c52b791ac8566b9c0f5ebebf1a56e9de2fefc4c28807735cb",
@@ -526,7 +470,63 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T20:30:04.563Z"
+    "job_posted_at": "2026-02-27T20:43:09.939Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234498",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Data-Scientist_R0234498",
+    "job_posted_at_datetime_utc": "2026-02-27T20:43:09.939Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "a16bfe88c7a2270015141c391f408207033d4f10d460b3629783295854281c9e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-27T20:43:09.939Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0233003",
+    "job_title": "Data Scientist, Junior",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Charleston",
+    "job_state": "SC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Charleston-SC/Data-Scientist--Junior_R0233003",
+    "job_posted_at_datetime_utc": "2026-02-27T20:43:09.939Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "220cc3e02ddaa5e299c6f956173f394af2f68c5e1ef8beadca6267150cec35eb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-27T20:43:09.939Z"
   },
   {
     "job_id": "greenhouse-datadog-7624017",
@@ -1998,6 +1998,35 @@
     "job_posted_at": "2026-02-26T19:43:43-05:00"
   },
   {
+    "job_id": "js-emcor-group-inc-ay8ly5lqlhglxx1paaaaaa==",
+    "job_title": "Business Data Analyst, Construction; Entry Level",
+    "employer_name": "EMCOR Group, Inc.",
+    "job_city": "Baltimore",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/3ya8tbzkJ4hWczj59HMX7K",
+    "job_posted_at_datetime_utc": "2026-02-27T00:00:00.000Z",
+    "job_description": "Position Overview\n\nPosition: Business Data Analyst, Construction. We are one of the leading mechanical contractors in the eastern United States. Our construction and service (mechanical and electrical) experience spans commercial and government projects including data centers, hospitals, sports stadiums, convention centers, hotels, and research laboratories. The Business Data Analyst assists the company in meeting its objectives by supporting management and providing analysis of business data for effective decision making and organizational efficiency improvement. Location: Baltimore, MD 21227. Reports to: Vice President. FLSA Status: Full-Time / Exempt. Work Shift: 8:00 a.m. to 5:00 p.m. / Mon. – Fri.\n\nKey Responsibilities\n• Aggregates and performs statistical analysis on business data based on requests from project teams or senior leadership.\n• Integrates data from multiple sources or functional areas, ensuring data accuracy and integrity, and updates data as needed.\n• Writes queries or reports to provide data for various analytical projects and interprets data to identify business trends and conduct root cause analysis.\n• Generates analytical and statistical information in various formats using advanced features of Microsoft Excel, Microsoft Power BI, and related software.\n• Complies with all company operating policies, procedures, and safety programs as established.\n\nPreferred Qualifications\n• Bachelor of Science degree in Business Administration, Finance, Economics, and/or a related field.\n• One to three years of professional experience, including internship experience.\n• Advanced experience in Microsoft Office Excel and Power BI applications.\n• Familiarity with software applications utilized in data analytics for business.\n• Must possess professional integrity and be trustworthy.\n• Strong interpersonal communication skills to effectively collaborate with internal and external stakeholders.\n• Excellent written and verbal communication skills.\n• Proven ability to organize and manage multiple projects.\n• Ability to independently analyze and solve problems on both strategic and tactical levels.\n• Commitment to company values.\n• Effective communication, cooperation, and collaboration with employees, government agencies, contractors, vendors, and/or suppliers.",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "20c52b24c649dbb11091e0f2b5679172cbe056cbff73a06087a3c40caf1eb2ff",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-27T00:00:00.000Z"
+  },
+  {
     "job_id": "js-carnegie-mellon-university-dvc-deju5-i9oiffaaaaaa==",
     "job_title": "Assistant Machine Learning Engineer",
     "employer_name": "Carnegie Mellon University",
@@ -2015,35 +2044,6 @@
       "domains": [
         "software",
         "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-27T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-emcor-group-inc-ay8ly5lqlhglxx1paaaaaa==",
-    "job_title": "Business Data Analyst, Construction; Entry Level",
-    "employer_name": "EMCOR Group, Inc.",
-    "job_city": "Baltimore",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/3ya8tbzkJ4hWczj59HMX7K",
-    "job_posted_at_datetime_utc": "2026-02-27T00:00:00.000Z",
-    "job_description": "Position Overview\n\nPosition: Business Data Analyst, Construction. We are one of the leading mechanical contractors in the eastern United States. Our construction and service (mechanical and electrical) experience spans commercial and government projects including data centers, hospitals, sports stadiums, convention centers, hotels, and research laboratories. The Business Data Analyst assists the company in meeting its objectives by supporting management and providing analysis of business data for effective decision making and organizational efficiency improvement. Location: Baltimore, MD 21227. Reports to: Vice President. FLSA Status: Full-Time / Exempt. Work Shift: 8:00 a.m. to 5:00 p.m. / Mon. – Fri.\n\nKey Responsibilities\n• Aggregates and performs statistical analysis on business data based on requests from project teams or senior leadership.\n• Integrates data from multiple sources or functional areas, ensuring data accuracy and integrity, and updates data as needed.\n• Writes queries or reports to provide data for various analytical projects and interprets data to identify business trends and conduct root cause analysis.\n• Generates analytical and statistical information in various formats using advanced features of Microsoft Excel, Microsoft Power BI, and related software.\n• Complies with all company operating policies, procedures, and safety programs as established.\n\nPreferred Qualifications\n• Bachelor of Science degree in Business Administration, Finance, Economics, and/or a related field.\n• One to three years of professional experience, including internship experience.\n• Advanced experience in Microsoft Office Excel and Power BI applications.\n• Familiarity with software applications utilized in data analytics for business.\n• Must possess professional integrity and be trustworthy.\n• Strong interpersonal communication skills to effectively collaborate with internal and external stakeholders.\n• Excellent written and verbal communication skills.\n• Proven ability to organize and manage multiple projects.\n• Ability to independently analyze and solve problems on both strategic and tactical levels.\n• Commitment to company values.\n• Effective communication, cooperation, and collaboration with employees, government agencies, contractors, vendors, and/or suppliers.",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "20c52b24c649dbb11091e0f2b5679172cbe056cbff73a06087a3c40caf1eb2ff",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
         "data_science"
       ],
       "locations": [
@@ -2155,7 +2155,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Boston-MA/Research-Data-Analyst--per-diem-Data-Innovation_RQ4052129",
-    "job_posted_at_datetime_utc": "2026-02-26T20:36:19.563Z",
+    "job_posted_at_datetime_utc": "2026-02-26T20:49:17.602Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "1072a9ab5132d895dc1668717121ec57fd5502ee9fab8313da8045b540c5a9c3",
@@ -2172,7 +2172,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:36:19.563Z"
+    "job_posted_at": "2026-02-26T20:49:17.602Z"
   },
   {
     "job_id": "workday-mass-general-brigham-RQ4052969",
@@ -2183,7 +2183,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Boston-MA/Research-Fellow---Artificial-Intelligence-Machine-Learning_RQ4052969",
-    "job_posted_at_datetime_utc": "2026-02-26T20:36:19.563Z",
+    "job_posted_at_datetime_utc": "2026-02-26T20:49:17.602Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "8851dde283babaf6deaaf8e974f5fa0641d55f81169a0027e466479c7e0a70ae",
@@ -2201,35 +2201,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:36:19.563Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234773",
-    "job_title": "Data Scientist and Developer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Lexington Park",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Lexington-Park-MD/Data-Scientist-and-Developer_R0234773",
-    "job_posted_at_datetime_utc": "2026-02-26T20:30:04.565Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "2cac95b6c1292df1f71d71f6b944a2d79393860c400bb6aa84ba54715ad4c163",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:30:04.565Z"
+    "job_posted_at": "2026-02-26T20:49:17.602Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234928",
@@ -2240,7 +2212,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Norfolk-VA/Machine-Learning-Engineer_R0234928",
-    "job_posted_at_datetime_utc": "2026-02-26T20:30:04.564Z",
+    "job_posted_at_datetime_utc": "2026-02-26T20:43:09.940Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "e6f750d180c7e50e49a4f069adadba4c62dddbc614162015cb703ebcd5f23326",
@@ -2258,7 +2230,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:30:04.564Z"
+    "job_posted_at": "2026-02-26T20:43:09.940Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234832",
@@ -2269,7 +2241,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Fort-Meade-MD/Data-Scientist_R0234832",
-    "job_posted_at_datetime_utc": "2026-02-26T20:30:04.564Z",
+    "job_posted_at_datetime_utc": "2026-02-26T20:43:09.940Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "04f3f110e0a8b1dbb56b8a0113941038eadb971a34d24305aeb276239fbb4695",
@@ -2286,7 +2258,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:30:04.564Z"
+    "job_posted_at": "2026-02-26T20:43:09.940Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234834",
@@ -2297,7 +2269,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Fort-Meade-MD/Data-Scientist_R0234834-1",
-    "job_posted_at_datetime_utc": "2026-02-26T20:30:04.564Z",
+    "job_posted_at_datetime_utc": "2026-02-26T20:43:09.940Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "a16bfe88c7a2270015141c391f408207033d4f10d460b3629783295854281c9e",
@@ -2314,7 +2286,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:30:04.564Z"
+    "job_posted_at": "2026-02-26T20:43:09.940Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0229725",
@@ -2325,7 +2297,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Tampa-FL/Data-Scientist_R0229725",
-    "job_posted_at_datetime_utc": "2026-02-26T20:30:04.564Z",
+    "job_posted_at_datetime_utc": "2026-02-26T20:43:09.940Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "9ecdacff1c9dcad366b2662f36bfe2b79070d204ec02fd92b92e39124c586435",
@@ -2342,7 +2314,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:30:04.564Z"
+    "job_posted_at": "2026-02-26T20:43:09.940Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234833",
@@ -2353,7 +2325,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Fort-Meade-MD/Data-Scientist_R0234833",
-    "job_posted_at_datetime_utc": "2026-02-26T20:30:04.564Z",
+    "job_posted_at_datetime_utc": "2026-02-26T20:43:09.940Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "a16bfe88c7a2270015141c391f408207033d4f10d460b3629783295854281c9e",
@@ -2370,7 +2342,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:30:04.564Z"
+    "job_posted_at": "2026-02-26T20:43:09.940Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234929",
@@ -2381,7 +2353,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Alexandria-VA/Data-Scientist_R0234929",
-    "job_posted_at_datetime_utc": "2026-02-26T20:30:04.564Z",
+    "job_posted_at_datetime_utc": "2026-02-26T20:43:09.940Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "3cbcd1247e9b17225fca1866d4bce85e501b0e36b252dff7e822a5c37824d35f",
@@ -2398,7 +2370,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:30:04.564Z"
+    "job_posted_at": "2026-02-26T20:43:09.940Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234773",
+    "job_title": "Data Scientist and Developer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Lexington Park",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Lexington-Park-MD/Data-Scientist-and-Developer_R0234773",
+    "job_posted_at_datetime_utc": "2026-02-26T20:43:09.940Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "2cac95b6c1292df1f71d71f6b944a2d79393860c400bb6aa84ba54715ad4c163",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-26T20:43:09.940Z"
   },
   {
     "job_id": "workday-leidos-R-00177051",
@@ -2409,7 +2409,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/job/3325-Fort-George-G-Meade-MD/Data-Scientist_R-00177051",
-    "job_posted_at_datetime_utc": "2026-02-26T20:29:40.034Z",
+    "job_posted_at_datetime_utc": "2026-02-26T20:42:46.052Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "534ca06ddb570b78fd0afa1004ac80ae32be0769af89652f56897ef51413f57a",
@@ -2426,7 +2426,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:29:40.034Z"
+    "job_posted_at": "2026-02-26T20:42:46.052Z"
   },
   {
     "job_id": "workday-leidos-R-00176629",
@@ -2437,7 +2437,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/job/Huntsville-AL/Data-Analyst-w--Secret-Clearance_R-00176629",
-    "job_posted_at_datetime_utc": "2026-02-26T20:29:40.034Z",
+    "job_posted_at_datetime_utc": "2026-02-26T20:42:46.052Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "0abb98df2207b7afadbb6296918372dbc3b2f8adccd4384198a3b687133830ab",
@@ -2454,7 +2454,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T20:29:40.034Z"
+    "job_posted_at": "2026-02-26T20:42:46.052Z"
   },
   {
     "job_id": "ashby-replit-f4e571e4-3505-4149-8930-eefa7a29fabc",
@@ -2791,7 +2791,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cat.wd5.myworkdayjobs.com/job/Irving-Texas/People-Analytics---Data-Scientist_R0000353001-1",
-    "job_posted_at_datetime_utc": "2026-02-25T20:34:38.768Z",
+    "job_posted_at_datetime_utc": "2026-02-25T20:47:37.551Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "743a23c6423a7fdb489512987d53779e0ec865d2687a9a9f14cbc2f5ada67ce7",
@@ -2808,7 +2808,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T20:34:38.768Z"
+    "job_posted_at": "2026-02-25T20:47:37.551Z"
   },
   {
     "job_id": "workday-boeing-JR2026498172",
@@ -2819,7 +2819,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/Experienced-Data-Scientist_JR2026498172-1",
-    "job_posted_at_datetime_utc": "2026-02-25T20:32:19.890Z",
+    "job_posted_at_datetime_utc": "2026-02-25T20:45:21.511Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "7cfbe8007e0e3b820f815bc6096f0ee4022649ec226ad6e59811dd5e1adc08b0",
@@ -2836,7 +2836,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T20:32:19.890Z"
+    "job_posted_at": "2026-02-25T20:45:21.511Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234779",
@@ -2847,7 +2847,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Machine-Learning-Engineer_R0234779",
-    "job_posted_at_datetime_utc": "2026-02-25T20:30:04.565Z",
+    "job_posted_at_datetime_utc": "2026-02-25T20:43:09.941Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2b242fc5848ce1b3da78245d04e77e6ab79bf15813f47051cfc1cb868961fcc0",
@@ -2865,7 +2865,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T20:30:04.565Z"
+    "job_posted_at": "2026-02-25T20:43:09.941Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234801",
@@ -2876,7 +2876,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Machine-Learning-Engineer_R0234801",
-    "job_posted_at_datetime_utc": "2026-02-25T20:30:04.565Z",
+    "job_posted_at_datetime_utc": "2026-02-25T20:43:09.941Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2b242fc5848ce1b3da78245d04e77e6ab79bf15813f47051cfc1cb868961fcc0",
@@ -2894,7 +2894,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T20:30:04.565Z"
+    "job_posted_at": "2026-02-25T20:43:09.941Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234896",
@@ -2905,7 +2905,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Machine-Learning-Engineer_R0234896",
-    "job_posted_at_datetime_utc": "2026-02-25T20:30:04.565Z",
+    "job_posted_at_datetime_utc": "2026-02-25T20:43:09.941Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2b242fc5848ce1b3da78245d04e77e6ab79bf15813f47051cfc1cb868961fcc0",
@@ -2923,7 +2923,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T20:30:04.565Z"
+    "job_posted_at": "2026-02-25T20:43:09.941Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234716",
@@ -2934,7 +2934,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/MacDill-AFB-FL/Data-Engineer_R0234716",
-    "job_posted_at_datetime_utc": "2026-02-25T20:30:04.565Z",
+    "job_posted_at_datetime_utc": "2026-02-25T20:43:09.941Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "5ff17ad5f7a79d57bc541f01b29dc6a56fb1f01ef4dd129c02dfc6e2f5555f71",
@@ -2951,7 +2951,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T20:30:04.565Z"
+    "job_posted_at": "2026-02-25T20:43:09.941Z"
   },
   {
     "job_id": "workday-salesforce-JR329631",
@@ -2962,7 +2962,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/job/California---Palo-Alto/AI-Engineer--Agent-Systems_JR329631",
-    "job_posted_at_datetime_utc": "2026-02-25T20:28:14.346Z",
+    "job_posted_at_datetime_utc": "2026-02-25T20:41:22.015Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "41e36741079ee0b56c0c0aa4a63d4c808fe6418e428b5ce26bace6fb6a5e1100",
@@ -2980,7 +2980,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T20:28:14.346Z"
+    "job_posted_at": "2026-02-25T20:41:22.015Z"
   },
   {
     "job_id": "workday-salesforce-JR329632",
@@ -2991,7 +2991,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/job/California---San-Francisco/AI-Engineer--ML-Systems_JR329632",
-    "job_posted_at_datetime_utc": "2026-02-25T20:28:14.346Z",
+    "job_posted_at_datetime_utc": "2026-02-25T20:41:22.015Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "357967db90f91446e95c2442e85e51d2c738139d9a0f7c3bd73eda0cdeaad7eb",
@@ -3009,7 +3009,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T20:28:14.346Z"
+    "job_posted_at": "2026-02-25T20:41:22.015Z"
   },
   {
     "job_id": "ashby-perplexity-bc1a6878-8de9-48c2-a791-95b2f8f27261",
@@ -3158,65 +3158,6 @@
     "job_posted_at": "2026-02-24T20:08:48-05:00"
   },
   {
-    "job_id": "js-synergisticit-rq03flqfjym8i8iiaaaaaa==",
-    "job_title": "Entry Level Python Programmer/Data scientist/Analyst",
-    "employer_name": "SynergisticIT",
-    "job_city": "Colorado Springs",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/49W5DChmQwaBAoX8gCSjn1",
-    "job_posted_at_datetime_utc": "2026-02-25T00:00:00.000Z",
-    "job_description": "Position Overview\n\nWe are looking for qualified entry-level Data Scientists who can apply Data Science principles to design, test, implement, and develop data-based solutions, including reporting, auditing, and preparing large databases for statistical analysis.\n\nKey Responsibilities\n• Collaborate with dynamic teams of engineers, developers, and scientists who research and integrate algorithms to develop an application, software, and computer system solutions to address complex data problems.\n• Assess project requirements and develop data analysis algorithms.\n• Engage developers to share their opinions, knowledge, and recommendations to meet the deliverables.\n• Contribute to technical solutions and implement software analyses to unlock the secrets held by big data sets.\n• Integrate components like web-based UI, commercial indexing products, and access control mechanisms to create operational information and knowledge discovery systems.\n\nRequired Qualifications\n• Bachelor's degree or Master's degree in Computer Engineering, Computer Science, Mathematics, Electrical Engineering, Information Systems, or IT\n• Must have Mathematics or Statistics background\n• Experience in Python programming and understanding of the software development life cycle.\n• Knowledge of Linear Algebra, Statistics, and Mathematics concepts.\n• Excellent written and verbal communication skills.\n• Highly motivated, self-learner, team player, and technically inquisitive.\n• Strong work ethics and creative problem-solving abilities.\n\nPreferred Qualifications\n• Deep Learning\n• Data visualization\n• NLP\n• Scala\n• Django\n\nBenefits\n• Competitive salary\n• Flexible work schedule & part-time off\n• E-verified\n• No relocation\n• H1B filing\n• On job technical support\n• Skill Enhancement\n• Opportunity to work with Fortune 500 Companies",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "81f1d536d972984ec1002065e97bfd7f0df107be914fd547361f315fefebce05",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-25T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-huntington-ingalls-industries-nfgpnnhgbp9ezwcdaaaaaa==",
-    "job_title": "Software Engineer - 27272 | Syracuse, NY, USA",
-    "employer_name": "Huntington Ingalls Industries",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.efinancialcareers.com/jobs-USA-NY-Syracuse-Software_Engineer_-_27272.id23877102",
-    "job_posted_at_datetime_utc": "2026-02-25T00:00:00.000Z",
-    "job_description": "Software Engineer - 27272\n\nRequisition Number: 27272\n\nRequired Travel: 0 - 10%\n\nEmployment Type: Full Time/Salaried/Exempt\n\nAnticipated Salary Range: $82,325.00 - $115,000.00\n\nSecurity Clearance: Secret\n\nLevel of Experience: Entry Level\n\nThis opportunity resides with Warfare Systems (WS) , a business group within HII's Mission Technologies division. Warfare Systems comprises cyber and mission IT; electronic warfare; and C5ISR systems.\n\nHII works within our nation's intelligence and cyber operations communities to defend our interests in cyberspace and anticipate emerging threats. Our capabilities in cybersecurity, network architecture, reverse engineering, software and hardware development uniquely enable us to support sensitive missions for the U.S. military and federal agency partners.\n\nMeet HII's Mission Technologies Division\nOur team of more than 7,000 professionals worldwide delivers all-domain expertise and advanced technologies in service of mission partners across the globe. Mission Technologies is leading the next evolution of national defense - the data evolution - by accelerating a breadth of national security solutions for government and commercial customers. Our capabilities range from C5ISR, AI and Big Data, cyber operations and synthetic training environments to fleet sustainment, environmental remediation and the largest family of unmanned underwater vehicles in every class. Find the role that's right for you. Apply today. We look forward to meeting you.\n\nTo learn more about Mission Technologies, click here for a short video: https://vimeo.com/732533072\n\nJob Description\n\nHII, Mission Technologies is seeking self-motivated, talented Software Engineers to design, develop, and test command, control, and communications software for leading edge ISR, SDR, and EW DoD products. This position will be located in Syracuse, New York.\n\nCandidates will be expected to integrate into our multi-disciplinary teams to provide best-in-class solutions and products to a diverse customer baseline with a demanding and intriguing technical problem space. From high-level, self-hosted User Interface software and networking down to low-level Operating System or bare-metal software/drivers running on System-on-a-Chip CPUs/FPGAs/GPUs. HII offers an array of software development opportunities at all layers of the stack for rapid prototypes, new product design, and fielded hardware that protect and support the American warfighter and our nation's interests.\n\nEssential Job Responsibilities\n\n• Participate in all phases of software lifecycle, from requirements definition through design, development, integration, and test with minimal supervision.\n• Apply state-of-the-art programming techniques, software design best practices, and software technologies.\n• Analyze and modify software systems by reverse-engineering, architecting, coding, installing, testing, debugging, and documenting designs/APIs.\n• Stand up development environment and platform application environment from scratch.\n• Guide customers and systems engineers in formulating software requirements, advise on alternative approaches, and conduct feasibility studies, as required.\n• Prepare and communicate daily status information in accordance with required software development lifecycles.\n• Independently derive requirements into actionable tasks.\n• Follow all company policies and guidelines, including familiarity with company-wide software practices.\nMinimum Qualifications\n\n• 2 years relevant experience with Bachelors in related field; 0 years experience with Masters in related field; or High School Diploma or equivalent and 6 years relevant experience.\n• Proficient in various object-oriented and functional programming languages (e.g. Embedded C/C++, C/C++, C#, Java)\n• Proficient in common procedural/scripting languages and object definition files (Python, Bash, MATLAB, JavaScript, JSON, XML)\n• Proficient in industry-standard software documentation methods such as user stories, UML, Agile and supporting tools such as Doxygen, Bamboo, JIRA\n• Must be a U.S. citizen.\n• Clearance: Ability to obtain and maintain a secret government security clearance.\nPreferred Requirements\n\n• Currently hold a U.S. security clearance.\n• Experience in the DoD contractor space, especially maritime.\n• Experience in leading junior software engineers.\n• Strong background in embedded Linux kernels, filesystems, and custom device drivers.\n• Experience with communications and networking libraries in embedded Linux (e.g. networking stacks, Protocol Buffers/Protobuf/data serialization).\n• Passionate about protecting the American warfighter.\n• Experience with RF communication links and/or radio systems.\nPhysical Requirements\n\n• Adequate visual acuity and manual dexterity for meeting the requirements Software Engineer family.\nHII is more than a job - it's an opportunity to build a new future. We offer competitive benefits such as best-in-class medical, dental and vision plan choices; wellness resources; employee assistance programs; Savings Plan Options (401(k)); financial planning tools, life insurance; employee discounts; paid holidays and paid time off; tuition reimbursement; as well as early childhood and post-secondary education scholarships. Bonus/other non-recurrent compensation is occasionally offered for qualified positions, and if applicable to this role will be addressed by the recruiter at the screening phase of application.\n\nWhy HII\nWe build the world's most powerful, survivable naval ships and defense technology solutions that safeguard our seas, sky, land, space and cyber. Our workforce includes skilled tradespeople; artificial intelligence, machine learning (AI/ML) experts; engineers; technologists; scientists; logistics experts; and business administration professionals.\n\nRecognized as one of America's top large company employers, we are a values and ethics driven organization that puts people's safety and well-being first. Regardless of your role or where you serve, at HII, you'll find a supportive and welcoming environment, competitive benefits, and valuable educational and training programs for continual career growth at every stage of your career.\n\nTogether we are working to ensure a future where everyone can be free and thrive.\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, physical or mental disability, age, or veteran status or any other basis protected by federal, state, or local law.\n\nDo You Need Assistance?\nIf you need a reasonable accommodation for any part of the employment process, please send an e-mail to buildyourcareer@hii-co.com and let us know the nature of your request and your contact information. Reasonable accommodations are considered on a case-by-case basis. Please note that only those inquiries concerning a request for reasonable accommodation will be responded to from this email address. Additionally, you may also call 1-844-849-8463 for assistance. Press #3 for HII Mission Technologies.",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "d25c5498d36e4de2b58407629e0143d8256518ebfcc5766e04633ca61c693ac3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-25T00:00:00.000Z"
-  },
-  {
     "job_id": "js-emonics-llc-gk1lasxiur7lmkrzaaaaaa==",
     "job_title": "Machine Learning Engineer, Entry Level",
     "employer_name": "Emonics LLC",
@@ -3271,6 +3212,65 @@
         "on_site"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-25T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-synergisticit-rq03flqfjym8i8iiaaaaaa==",
+    "job_title": "Entry Level Python Programmer/Data scientist/Analyst",
+    "employer_name": "SynergisticIT",
+    "job_city": "Colorado Springs",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/49W5DChmQwaBAoX8gCSjn1",
+    "job_posted_at_datetime_utc": "2026-02-25T00:00:00.000Z",
+    "job_description": "Position Overview\n\nWe are looking for qualified entry-level Data Scientists who can apply Data Science principles to design, test, implement, and develop data-based solutions, including reporting, auditing, and preparing large databases for statistical analysis.\n\nKey Responsibilities\n• Collaborate with dynamic teams of engineers, developers, and scientists who research and integrate algorithms to develop an application, software, and computer system solutions to address complex data problems.\n• Assess project requirements and develop data analysis algorithms.\n• Engage developers to share their opinions, knowledge, and recommendations to meet the deliverables.\n• Contribute to technical solutions and implement software analyses to unlock the secrets held by big data sets.\n• Integrate components like web-based UI, commercial indexing products, and access control mechanisms to create operational information and knowledge discovery systems.\n\nRequired Qualifications\n• Bachelor's degree or Master's degree in Computer Engineering, Computer Science, Mathematics, Electrical Engineering, Information Systems, or IT\n• Must have Mathematics or Statistics background\n• Experience in Python programming and understanding of the software development life cycle.\n• Knowledge of Linear Algebra, Statistics, and Mathematics concepts.\n• Excellent written and verbal communication skills.\n• Highly motivated, self-learner, team player, and technically inquisitive.\n• Strong work ethics and creative problem-solving abilities.\n\nPreferred Qualifications\n• Deep Learning\n• Data visualization\n• NLP\n• Scala\n• Django\n\nBenefits\n• Competitive salary\n• Flexible work schedule & part-time off\n• E-verified\n• No relocation\n• H1B filing\n• On job technical support\n• Skill Enhancement\n• Opportunity to work with Fortune 500 Companies",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "81f1d536d972984ec1002065e97bfd7f0df107be914fd547361f315fefebce05",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-25T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-huntington-ingalls-industries-nfgpnnhgbp9ezwcdaaaaaa==",
+    "job_title": "Software Engineer - 27272 | Syracuse, NY, USA",
+    "employer_name": "Huntington Ingalls Industries",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.efinancialcareers.com/jobs-USA-NY-Syracuse-Software_Engineer_-_27272.id23877102",
+    "job_posted_at_datetime_utc": "2026-02-25T00:00:00.000Z",
+    "job_description": "Software Engineer - 27272\n\nRequisition Number: 27272\n\nRequired Travel: 0 - 10%\n\nEmployment Type: Full Time/Salaried/Exempt\n\nAnticipated Salary Range: $82,325.00 - $115,000.00\n\nSecurity Clearance: Secret\n\nLevel of Experience: Entry Level\n\nThis opportunity resides with Warfare Systems (WS) , a business group within HII's Mission Technologies division. Warfare Systems comprises cyber and mission IT; electronic warfare; and C5ISR systems.\n\nHII works within our nation's intelligence and cyber operations communities to defend our interests in cyberspace and anticipate emerging threats. Our capabilities in cybersecurity, network architecture, reverse engineering, software and hardware development uniquely enable us to support sensitive missions for the U.S. military and federal agency partners.\n\nMeet HII's Mission Technologies Division\nOur team of more than 7,000 professionals worldwide delivers all-domain expertise and advanced technologies in service of mission partners across the globe. Mission Technologies is leading the next evolution of national defense - the data evolution - by accelerating a breadth of national security solutions for government and commercial customers. Our capabilities range from C5ISR, AI and Big Data, cyber operations and synthetic training environments to fleet sustainment, environmental remediation and the largest family of unmanned underwater vehicles in every class. Find the role that's right for you. Apply today. We look forward to meeting you.\n\nTo learn more about Mission Technologies, click here for a short video: https://vimeo.com/732533072\n\nJob Description\n\nHII, Mission Technologies is seeking self-motivated, talented Software Engineers to design, develop, and test command, control, and communications software for leading edge ISR, SDR, and EW DoD products. This position will be located in Syracuse, New York.\n\nCandidates will be expected to integrate into our multi-disciplinary teams to provide best-in-class solutions and products to a diverse customer baseline with a demanding and intriguing technical problem space. From high-level, self-hosted User Interface software and networking down to low-level Operating System or bare-metal software/drivers running on System-on-a-Chip CPUs/FPGAs/GPUs. HII offers an array of software development opportunities at all layers of the stack for rapid prototypes, new product design, and fielded hardware that protect and support the American warfighter and our nation's interests.\n\nEssential Job Responsibilities\n\n• Participate in all phases of software lifecycle, from requirements definition through design, development, integration, and test with minimal supervision.\n• Apply state-of-the-art programming techniques, software design best practices, and software technologies.\n• Analyze and modify software systems by reverse-engineering, architecting, coding, installing, testing, debugging, and documenting designs/APIs.\n• Stand up development environment and platform application environment from scratch.\n• Guide customers and systems engineers in formulating software requirements, advise on alternative approaches, and conduct feasibility studies, as required.\n• Prepare and communicate daily status information in accordance with required software development lifecycles.\n• Independently derive requirements into actionable tasks.\n• Follow all company policies and guidelines, including familiarity with company-wide software practices.\nMinimum Qualifications\n\n• 2 years relevant experience with Bachelors in related field; 0 years experience with Masters in related field; or High School Diploma or equivalent and 6 years relevant experience.\n• Proficient in various object-oriented and functional programming languages (e.g. Embedded C/C++, C/C++, C#, Java)\n• Proficient in common procedural/scripting languages and object definition files (Python, Bash, MATLAB, JavaScript, JSON, XML)\n• Proficient in industry-standard software documentation methods such as user stories, UML, Agile and supporting tools such as Doxygen, Bamboo, JIRA\n• Must be a U.S. citizen.\n• Clearance: Ability to obtain and maintain a secret government security clearance.\nPreferred Requirements\n\n• Currently hold a U.S. security clearance.\n• Experience in the DoD contractor space, especially maritime.\n• Experience in leading junior software engineers.\n• Strong background in embedded Linux kernels, filesystems, and custom device drivers.\n• Experience with communications and networking libraries in embedded Linux (e.g. networking stacks, Protocol Buffers/Protobuf/data serialization).\n• Passionate about protecting the American warfighter.\n• Experience with RF communication links and/or radio systems.\nPhysical Requirements\n\n• Adequate visual acuity and manual dexterity for meeting the requirements Software Engineer family.\nHII is more than a job - it's an opportunity to build a new future. We offer competitive benefits such as best-in-class medical, dental and vision plan choices; wellness resources; employee assistance programs; Savings Plan Options (401(k)); financial planning tools, life insurance; employee discounts; paid holidays and paid time off; tuition reimbursement; as well as early childhood and post-secondary education scholarships. Bonus/other non-recurrent compensation is occasionally offered for qualified positions, and if applicable to this role will be addressed by the recruiter at the screening phase of application.\n\nWhy HII\nWe build the world's most powerful, survivable naval ships and defense technology solutions that safeguard our seas, sky, land, space and cyber. Our workforce includes skilled tradespeople; artificial intelligence, machine learning (AI/ML) experts; engineers; technologists; scientists; logistics experts; and business administration professionals.\n\nRecognized as one of America's top large company employers, we are a values and ethics driven organization that puts people's safety and well-being first. Regardless of your role or where you serve, at HII, you'll find a supportive and welcoming environment, competitive benefits, and valuable educational and training programs for continual career growth at every stage of your career.\n\nTogether we are working to ensure a future where everyone can be free and thrive.\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, physical or mental disability, age, or veteran status or any other basis protected by federal, state, or local law.\n\nDo You Need Assistance?\nIf you need a reasonable accommodation for any part of the employment process, please send an e-mail to buildyourcareer@hii-co.com and let us know the nature of your request and your contact information. Reasonable accommodations are considered on a case-by-case basis. Please note that only those inquiries concerning a request for reasonable accommodation will be responded to from this email address. Additionally, you may also call 1-844-849-8463 for assistance. Press #3 for HII Mission Technologies.",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "d25c5498d36e4de2b58407629e0143d8256518ebfcc5766e04633ca61c693ac3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -3404,7 +3404,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/job/USA---Seattle-WA/Experienced-Systems-and-Data-Analyst_JR2026496879-2",
-    "job_posted_at_datetime_utc": "2026-02-24T20:32:19.891Z",
+    "job_posted_at_datetime_utc": "2026-02-24T20:45:21.511Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "a94f65e168daf7fa8aa8cb38d03d1786bacfcee63fd63c6791b3cc4a1e5ffb95",
@@ -3421,7 +3421,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:32:19.891Z"
+    "job_posted_at": "2026-02-24T20:45:21.511Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0233775",
@@ -3432,7 +3432,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Data-Engineer_R0233775",
-    "job_posted_at_datetime_utc": "2026-02-24T20:30:04.566Z",
+    "job_posted_at_datetime_utc": "2026-02-24T20:43:09.942Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "71789731ba63c432516f7e7e72cfcf7e65e577dbe23475d02453639d8cc8c625",
@@ -3449,7 +3449,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:30:04.566Z"
+    "job_posted_at": "2026-02-24T20:43:09.942Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234643",
@@ -3460,7 +3460,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Nellis-AFB-NV/Data-Scientist_R0234643",
-    "job_posted_at_datetime_utc": "2026-02-24T20:30:04.566Z",
+    "job_posted_at_datetime_utc": "2026-02-24T20:43:09.942Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "3c36656c64e92c24d0dd518037645f1efc03f8b54b852c58f02d0ae683520bce",
@@ -3477,7 +3477,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:30:04.566Z"
+    "job_posted_at": "2026-02-24T20:43:09.942Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0233771",
@@ -3488,7 +3488,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Apache-Iceberg-Data-Engineer_R0233771",
-    "job_posted_at_datetime_utc": "2026-02-24T20:30:04.566Z",
+    "job_posted_at_datetime_utc": "2026-02-24T20:43:09.942Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "b98c8c0a71d01a2e5a764d539b56c6a580d3626e468fc11ac9557c1fef8ac71b",
@@ -3505,7 +3505,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:30:04.566Z"
+    "job_posted_at": "2026-02-24T20:43:09.942Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234571",
@@ -3516,7 +3516,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Charleston-SC/Data-Scientist--Junior_R0234571",
-    "job_posted_at_datetime_utc": "2026-02-24T20:30:04.566Z",
+    "job_posted_at_datetime_utc": "2026-02-24T20:43:09.942Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "220cc3e02ddaa5e299c6f956173f394af2f68c5e1ef8beadca6267150cec35eb",
@@ -3533,7 +3533,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:30:04.566Z"
+    "job_posted_at": "2026-02-24T20:43:09.942Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234642",
@@ -3544,7 +3544,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Langley-AFB-VA/Data-Scientist_R0234642",
-    "job_posted_at_datetime_utc": "2026-02-24T20:30:04.566Z",
+    "job_posted_at_datetime_utc": "2026-02-24T20:43:09.942Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2e1d83721f5f80f0a326a993860e4870921df1802f0e27e1c6c38ba39ebe1e10",
@@ -3561,7 +3561,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:30:04.566Z"
+    "job_posted_at": "2026-02-24T20:43:09.942Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0229274",
@@ -3572,7 +3572,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Fort-Meade-MD/Secure-AI-Engineer_R0229274",
-    "job_posted_at_datetime_utc": "2026-02-24T20:30:04.566Z",
+    "job_posted_at_datetime_utc": "2026-02-24T20:43:09.942Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "5c4125b5f6a38da49bd3385ea2a95240d2422ebae654c2309e1b5c6836e204fc",
@@ -3590,7 +3590,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:30:04.566Z"
+    "job_posted_at": "2026-02-24T20:43:09.942Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234605",
@@ -3601,7 +3601,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Langley-AFB-VA/Data-Scientist_R0234605",
-    "job_posted_at_datetime_utc": "2026-02-24T20:30:04.566Z",
+    "job_posted_at_datetime_utc": "2026-02-24T20:43:09.942Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2e1d83721f5f80f0a326a993860e4870921df1802f0e27e1c6c38ba39ebe1e10",
@@ -3618,7 +3618,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:30:04.566Z"
+    "job_posted_at": "2026-02-24T20:43:09.942Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0232550",
@@ -3629,7 +3629,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Bethesda-MD/MLOps-Engineer_R0232550",
-    "job_posted_at_datetime_utc": "2026-02-24T20:30:04.566Z",
+    "job_posted_at_datetime_utc": "2026-02-24T20:43:09.942Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "2af305d3d69996262bb2fe86fcecf7e54fc8db938e9ad5a30ca5b99dd6bed722",
@@ -3647,7 +3647,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:30:04.566Z"
+    "job_posted_at": "2026-02-24T20:43:09.942Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234405",
@@ -3658,7 +3658,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Washington-DC/Data-Scientist_R0234405",
-    "job_posted_at_datetime_utc": "2026-02-24T20:30:04.566Z",
+    "job_posted_at_datetime_utc": "2026-02-24T20:43:09.942Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "a16bfe88c7a2270015141c391f408207033d4f10d460b3629783295854281c9e",
@@ -3675,7 +3675,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-24T20:30:04.566Z"
+    "job_posted_at": "2026-02-24T20:43:09.942Z"
   },
   {
     "job_id": "greenhouse-airtable-7845291002",
@@ -3766,6 +3766,35 @@
     "job_posted_at": "2026-02-23T19:44:41-05:00"
   },
   {
+    "job_id": "js-wilson-y6wnz4yky1oxout6aaaaaa==",
+    "job_title": "Security Analytics Data Analyst - Entry Level",
+    "employer_name": "wilson",
+    "job_city": "Oregon",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://us.jobrapido.com/jobpreview/3965378199411490816",
+    "job_posted_at_datetime_utc": "2026-02-24T00:00:00.000Z",
+    "job_description": "A tech firm in the United States is seeking a Junior Data Analyst to assist in the development and administration of Analytical Products. This entry-level position involves creating and updating policies, organizing metrics, and performing analysis for decision-making. Ideal candidates must possess a Bachelor's degree or equivalent experience, have programming skills in Python, R Studio, and SQL, and demonstrate strong analytical and problem-solving abilities. Join us to contribute to cybersecurity incident responses and enhance our reporting capabilities.\n#J-18808-Ljbffr",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "e06a70c3a380fdbb1b85969cb24a69b75b13c677f879dbf3f979e9e5b314497e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-24T00:00:00.000Z"
+  },
+  {
     "job_id": "js-synergisticit-1tr-ugs1tge3ahcxaaaaaa==",
     "job_title": "Remote - Data Scientist/Analyst/Engineer(ENTRY LEVEL)",
     "employer_name": "SynergisticIT",
@@ -3841,35 +3870,6 @@
       "employment": "entry_level",
       "domains": [
         "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-24T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-wilson-y6wnz4yky1oxout6aaaaaa==",
-    "job_title": "Security Analytics Data Analyst - Entry Level",
-    "employer_name": "wilson",
-    "job_city": "Oregon",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://us.jobrapido.com/jobpreview/3965378199411490816",
-    "job_posted_at_datetime_utc": "2026-02-24T00:00:00.000Z",
-    "job_description": "A tech firm in the United States is seeking a Junior Data Analyst to assist in the development and administration of Analytical Products. This entry-level position involves creating and updating policies, organizing metrics, and performing analysis for decision-making. Ideal candidates must possess a Bachelor's degree or equivalent experience, have programming skills in Python, R Studio, and SQL, and demonstrate strong analytical and problem-solving abilities. Join us to contribute to cybersecurity incident responses and enhance our reporting capabilities.\n#J-18808-Ljbffr",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "e06a70c3a380fdbb1b85969cb24a69b75b13c677f879dbf3f979e9e5b314497e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
         "data_science"
       ],
       "locations": [
@@ -4563,7 +4563,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/job/San-Jose/Machine-Learning-Engineer-50_R165421",
-    "job_posted_at_datetime_utc": "2026-02-23T20:34:04.917Z",
+    "job_posted_at_datetime_utc": "2026-02-23T20:47:04.951Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "404534ace5b5e95dcc874d26db219d1f490687387df4aea1479d3a2f0fe86709",
@@ -4581,7 +4581,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-23T20:34:04.917Z"
+    "job_posted_at": "2026-02-23T20:47:04.951Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234574",
@@ -4592,7 +4592,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/San-Diego-CA/Data-Engineer_R0234574",
-    "job_posted_at_datetime_utc": "2026-02-23T20:30:04.566Z",
+    "job_posted_at_datetime_utc": "2026-02-23T20:43:09.942Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "b5b484f665e689547402bc63ca9475a88f14fc95b1fc1cc4d205a31d578e6e33",
@@ -4609,7 +4609,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-23T20:30:04.566Z"
+    "job_posted_at": "2026-02-23T20:43:09.942Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0233902",
@@ -4620,7 +4620,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Chantilly-VA/AI-ML-Engineer_R0233902",
-    "job_posted_at_datetime_utc": "2026-02-23T20:30:04.566Z",
+    "job_posted_at_datetime_utc": "2026-02-23T20:43:09.942Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "78553973b04e4fd8a7b180c4c2b26204b11bebad5b23542f1166ffddb83cacb0",
@@ -4637,7 +4637,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-23T20:30:04.566Z"
+    "job_posted_at": "2026-02-23T20:43:09.942Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234398",
@@ -4648,7 +4648,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Dayton-OH/Data-Analyst_R0234398",
-    "job_posted_at_datetime_utc": "2026-02-23T20:30:04.566Z",
+    "job_posted_at_datetime_utc": "2026-02-23T20:43:09.942Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "ed5342a911af54faa64c82ffa9ea666461f15d999927433a76a4f1b6fe8e4a76",
@@ -4665,7 +4665,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-23T20:30:04.566Z"
+    "job_posted_at": "2026-02-23T20:43:09.942Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234117",
@@ -4676,7 +4676,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Enterprise-Cybersecurity-Data-Engineer-and-Business-Intelligence-Developer_R0234117",
-    "job_posted_at_datetime_utc": "2026-02-23T20:30:04.566Z",
+    "job_posted_at_datetime_utc": "2026-02-23T20:43:09.942Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "3aa19cdbf9e3a360bd081880acd943262bfaaebe76d8c12b3a5cb80311b1891c",
@@ -4693,7 +4693,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-23T20:30:04.566Z"
+    "job_posted_at": "2026-02-23T20:43:09.942Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234300",
@@ -4704,7 +4704,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/McLean-VA/Health-Services-Data-Engineer_R0234300",
-    "job_posted_at_datetime_utc": "2026-02-23T20:30:04.566Z",
+    "job_posted_at_datetime_utc": "2026-02-23T20:43:09.942Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "e1fcff4b3ab93d99c1625eb91a7434506143bd523df6d37d6af6654322432f35",
@@ -4721,7 +4721,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-23T20:30:04.566Z"
+    "job_posted_at": "2026-02-23T20:43:09.942Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0231932",
@@ -4732,7 +4732,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Arlington-VA/Data-Analyst_R0231932",
-    "job_posted_at_datetime_utc": "2026-02-23T20:30:04.566Z",
+    "job_posted_at_datetime_utc": "2026-02-23T20:43:09.942Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "15e89e3ee02d54b3af8d72d28a972e0ac11e16bd878243a4580328079935dc8a",
@@ -4749,7 +4749,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-23T20:30:04.566Z"
+    "job_posted_at": "2026-02-23T20:43:09.942Z"
   },
   {
     "job_id": "ashby-openai-ed871ac9-44ae-47fa-beaa-b9ab7ff31012",
@@ -4781,6 +4781,35 @@
     "job_posted_at": "2026-02-23T17:09:25.360+00:00"
   },
   {
+    "job_id": "js-jobsultant-solutions-yvpfgfrffp85a5tqaaaaaa==",
+    "job_title": "Data Analyst - Entry Level (Remote)",
+    "employer_name": "Jobsultant Solutions",
+    "job_city": "Charlotte",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/30vrATe8fuKVJhmTCjpDWp",
+    "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
+    "job_description": "Position Overview\n\nData Analyst - Entry Level (Remote). We are looking for the right people who want to innovate, achieve, grow and lead. We attract and retain the best talent by investing in our employees and empowering them to develop themselves and their careers. Experience the challenges, rewards and opportunity of working for one of the world's largest providers of products and services to the global energy industry.\n\nKey Responsibilities\n• Perform data engineering, data modeling and model deployment under general supervision.\n• Analyze large scale complex business data (time series data, structured/unstructured) from various data sources and draw insights.\n• Leverage common open-source Machine Learning/Deep Learning packages for identifying data patterns and/or building predictive models.\n• Conduct statistical analysis to determine trends and significant data relationships.\n• Keep up to date with the latest Machine Learning and Artificial Intelligence advancements.\n• Work with data engineers to design and construct data pipelines for reproducible analysis.\n• Leverage cloud computing technologies like Microsoft Azure and distributed computing technologies like Apache Spark.\n• Present results of analyses, including design of graphs, charts, tables, and other data visualizations.\n\nRequired Qualifications\n• Industry experience in predictive modeling, data science and analysis.\n• Knowledge of Machine Learning frameworks and packages, including Keras, TensorFlow, Scikit-Learn and cloud computing platforms like Azure.\n• Experience handling terabyte size datasets, diving into data to discover hidden patterns and using data visualization tools.\n• Experience writing code in Python, R, Scala, and distributed computing technologies like Spark.\n• Demonstrated teamwork, strong communication skills, and collaboration in complex engineering projects.\n• Completion of an undergraduate degree in STEM.\n\nPreferred Qualifications\n• Master's degree in STEM is preferred.\n• Candidates with qualifications exceeding the minimum requirements will be considered for higher level roles.",
+    "job_employment_type": "FULL-TIME",
+    "fingerprint": "1d33e24026d68e28227ff3577057ef86dfae16f0dcafcd0cc9cc816eee55c8c3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-02-23T00:00:00.000Z"
+  },
+  {
     "job_id": "js-capgemini-eocu21uzryvlf0iiaaaaaa==",
     "job_title": "Entry Level- Data Scientist- ML -GenAI Engineer (5 of 6 positions)",
     "employer_name": "Capgemini",
@@ -4803,35 +4832,6 @@
       "locations": [
         "us",
         "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-02-23T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-jobsultant-solutions-yvpfgfrffp85a5tqaaaaaa==",
-    "job_title": "Data Analyst - Entry Level (Remote)",
-    "employer_name": "Jobsultant Solutions",
-    "job_city": "Charlotte",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/30vrATe8fuKVJhmTCjpDWp",
-    "job_posted_at_datetime_utc": "2026-02-23T00:00:00.000Z",
-    "job_description": "Position Overview\n\nData Analyst - Entry Level (Remote). We are looking for the right people who want to innovate, achieve, grow and lead. We attract and retain the best talent by investing in our employees and empowering them to develop themselves and their careers. Experience the challenges, rewards and opportunity of working for one of the world's largest providers of products and services to the global energy industry.\n\nKey Responsibilities\n• Perform data engineering, data modeling and model deployment under general supervision.\n• Analyze large scale complex business data (time series data, structured/unstructured) from various data sources and draw insights.\n• Leverage common open-source Machine Learning/Deep Learning packages for identifying data patterns and/or building predictive models.\n• Conduct statistical analysis to determine trends and significant data relationships.\n• Keep up to date with the latest Machine Learning and Artificial Intelligence advancements.\n• Work with data engineers to design and construct data pipelines for reproducible analysis.\n• Leverage cloud computing technologies like Microsoft Azure and distributed computing technologies like Apache Spark.\n• Present results of analyses, including design of graphs, charts, tables, and other data visualizations.\n\nRequired Qualifications\n• Industry experience in predictive modeling, data science and analysis.\n• Knowledge of Machine Learning frameworks and packages, including Keras, TensorFlow, Scikit-Learn and cloud computing platforms like Azure.\n• Experience handling terabyte size datasets, diving into data to discover hidden patterns and using data visualization tools.\n• Experience writing code in Python, R, Scala, and distributed computing technologies like Spark.\n• Demonstrated teamwork, strong communication skills, and collaboration in complex engineering projects.\n• Completion of an undergraduate degree in STEM.\n\nPreferred Qualifications\n• Master's degree in STEM is preferred.\n• Candidates with qualifications exceeding the minimum requirements will be considered for higher level roles.",
-    "job_employment_type": "FULL-TIME",
-    "fingerprint": "1d33e24026d68e28227ff3577057ef86dfae16f0dcafcd0cc9cc816eee55c8c3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
       ],
       "experience": "unknown",
       "special": []
@@ -5120,7 +5120,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/job/San-Jose-California-United-States-of-America/Data-Scientist_1200572",
-    "job_posted_at_datetime_utc": "2026-02-22T20:31:01.343Z",
+    "job_posted_at_datetime_utc": "2026-02-22T20:44:03.042Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "9326966af24e88ab1c22106dc9de636610e8ae27ad2ceea62dc4a66495a19365",
@@ -5137,7 +5137,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-22T20:31:01.343Z"
+    "job_posted_at": "2026-02-22T20:44:03.042Z"
   },
   {
     "job_id": "js-orcaworks-build-your-digital-coworker-crwh-f6iref6nsnsaaaaaa==",
@@ -6461,7 +6461,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Buckley-AFB-CO/Data-Scientist_R0234099",
-    "job_posted_at_datetime_utc": "2026-02-19T20:30:04.567Z",
+    "job_posted_at_datetime_utc": "2026-02-19T20:43:09.943Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "84878e4d4602ad149d16a700e5bf2eb9bb11918aad4eb0b4fe9d9d7dc13ed25b",
@@ -6478,7 +6478,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-19T20:30:04.567Z"
+    "job_posted_at": "2026-02-19T20:43:09.943Z"
   },
   {
     "job_id": "greenhouse-databricks-7471089002",
@@ -6689,62 +6689,6 @@
     "job_posted_at": "2026-02-18T17:35:31-05:00"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0234221",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/San-Diego-CA/Data-Scientist_R0234221",
-    "job_posted_at_datetime_utc": "2026-02-18T20:30:04.568Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "03805b8e47c31dd2d5c5b3124ae9e615c8ebce9ae9f7c09d2b90c65d9158a4e0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-18T20:30:04.568Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234223",
-    "job_title": "Human Capital Data Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Chantilly",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Chantilly-VA/Human-Capital-Data-Analyst_R0234223",
-    "job_posted_at_datetime_utc": "2026-02-18T20:30:04.568Z",
-    "job_description": null,
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "157fda429f5d4a5d33f5abfb033d57ff8e7ac820fa88d402032406e9699faf55",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-18T20:30:04.568Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0230985",
     "job_title": "AI and ML Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -6753,7 +6697,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Charleston-SC/AI-and-ML-Engineer_R0230985",
-    "job_posted_at_datetime_utc": "2026-02-18T20:30:04.567Z",
+    "job_posted_at_datetime_utc": "2026-02-18T20:43:09.943Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "69ce25cdadfe6228f91dd0a74d42b861aeb28fa1399d2a767860666794ebdb5d",
@@ -6770,7 +6714,63 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-18T20:30:04.567Z"
+    "job_posted_at": "2026-02-18T20:43:09.943Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234221",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/San-Diego-CA/Data-Scientist_R0234221",
+    "job_posted_at_datetime_utc": "2026-02-18T20:43:09.943Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "03805b8e47c31dd2d5c5b3124ae9e615c8ebce9ae9f7c09d2b90c65d9158a4e0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-18T20:43:09.943Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234223",
+    "job_title": "Human Capital Data Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Chantilly",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/job/Chantilly-VA/Human-Capital-Data-Analyst_R0234223",
+    "job_posted_at_datetime_utc": "2026-02-18T20:43:09.943Z",
+    "job_description": null,
+    "job_employment_type": "FULLTIME",
+    "fingerprint": "157fda429f5d4a5d33f5abfb033d57ff8e7ac820fa88d402032406e9699faf55",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-02-18T20:43:09.943Z"
   },
   {
     "job_id": "greenhouse-datadog-6572669",
@@ -6868,7 +6868,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/job/Sunnyvale-California-United-States-of-America/Data-Scientist-3_1201030",
-    "job_posted_at_datetime_utc": "2026-02-17T20:31:01.345Z",
+    "job_posted_at_datetime_utc": "2026-02-17T20:44:03.043Z",
     "job_description": null,
     "job_employment_type": "FULLTIME",
     "fingerprint": "6179313f912be2ca18fc5b599b78152ab7cbe9f1c007b7966595a863fa9af73d",
@@ -6885,7 +6885,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-17T20:31:01.345Z"
+    "job_posted_at": "2026-02-17T20:44:03.043Z"
   },
   {
     "job_id": "greenhouse-lyft-8378473002",
