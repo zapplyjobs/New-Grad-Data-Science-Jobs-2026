@@ -73,7 +73,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Lucid Motors** | Perception Machine Learning Engineer – ADAS | Southfield, MI | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4759229007) |
+| 🏢 **Lucid Motors** | Perception Machine Learning Engineer – ADAS | Southfield, MI | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4759229007) |
 | 🏢 **Cleveland Clinic** | Data Scientist I - Cancer Center | Remote | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/job/Remote-Location/Data-Scientist-I---Cancer-Center_312181-1) |
 | 🏢 **The MITRE Corporation** | Entry Level - Data Science, Artificial Intelligence, Operations Research, Math and Statistics | McLean | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115687/Entry-Level-Data-Science-Artificial-Intelligence-Operations-Research-Math-and-Statistics) |
 | 🏢 **Anthropic** | Research Engineer / Research Scientist, Tokens | New York City, NY | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4951814008) |
@@ -180,7 +180,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **IMC Trading** | Graduate Quant Performance Engineer | Chicago | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4751808101) |
 | 🏢 **IMC Trading** | IMC PhD Fellowship | Chicago | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4710203101) |
 | 🏢 **IMC Trading** | Quantitative Researcher - Data Curation | Chicago | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4660792101) |
-| 🏢 **Ripple** | Business Insights Analyst | Chicago | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ripple.com/careers/all-jobs/job/7651754?gh_jid=7651754) |
+| 🏢 **Ripple** | Business Insights Analyst | Chicago | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://ripple.com/careers/all-jobs/job/7651754?gh_jid=7651754) |
 | 🏢 **Coinbase** | Accountant, Prime Financing | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7532645?gh_jid=7532645) |
 | 🏢 **Coinbase** | Counsel, Marketing | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7550873?gh_jid=7550873) |
 | 🏢 **Coinbase** | Executive Assistant | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7648817?gh_jid=7648817) |
