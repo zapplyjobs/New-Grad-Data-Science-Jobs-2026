@@ -84,7 +84,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Booz Allen Hamilton** | Data Scientist, Junior | Charleston, SC | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/Data-Scientist--Junior_R0233003) |
 | 🏢 **Anthropic** | Research Scientist, Societal Impacts | San Francisco, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5076616008) |
 | 🏢 **Anthropic** | Research Engineer / Scientist, Societal Impacts | San Francisco, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5076606008) |
-| 🏢 **HubSpot** | Analytics Engineer 🏠 | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hubspot.com/careers/jobs/7358191?gh_jid=7358191) |
+| 🏢 **HubSpot** | Analytics Engineer | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hubspot.com/careers/jobs/7358191?gh_jid=7358191) |
 | 🏢 **Anduril** | Analytics Engineer, Quality Analytics | Costa Mesa | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5034686007?gh_jid=5034686007) |
 | 🏢 **Anduril** | Machine Learning Engineer, Quality Analytics | Costa Mesa | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5034660007?gh_jid=5034660007) |
 | 🏢 **Anduril** | Supply Chain Analytics Engineer | Costa Mesa | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5045894007?gh_jid=5045894007) |
@@ -95,7 +95,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Booz Allen Hamilton** | Data Scientist | Alexandria, VA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Alexandria-VA/Data-Scientist_R0234929) |
 | 🏢 **Booz Allen Hamilton** | Data Scientist and Developer | Lexington Park, MD | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-Park-MD/Data-Scientist-and-Developer_R0234773) |
 | 🏢 **Leidos** | Data Scientist | 3325 Fort George ... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/3325-Fort-George-G-Meade-MD/Data-Scientist_R-00177051) |
-| 🏢 **SynergisticIT** | Junior Machine Learning Engineer / Jr Java DevOps Developer ( remote ) 🇺🇸 | Unknown | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/72y6R4WkyqvzRAVFYXrtCH?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **SynergisticIT** | Junior Machine Learning Engineer / Jr Java DevOps Developer ( remote ) | Unknown | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/72y6R4WkyqvzRAVFYXrtCH?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **OpenAI** | Research Scientist, PhD | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/29dc246a-2240-4843-8050-463c8ecc726a/application) |
 | 🏢 **Stripe** | PhD Machine Learning Engineer, New Grad | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7216668) |
 | 🏢 **OpenAI** | Data Scientist, Preparedness | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/efcc3430-14c8-4022-8350-8146ffb867ab/application) |
@@ -116,16 +116,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **SynergisticIT** | Data Scientist/Machine Learning Engineer Entry/Junior Level | Miami | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://us.bebee.com/job/a144e82ceda36e83f2e4fe7ad5f67af3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Adobe** | Machine Learning Engineer 50 | San Jose | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer-50_R165421) |
 | 🏢 **Amazon.com Services LLC** | Data Scientist, TSI Science | Seattle, WA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3188465/data-scientist-tsi-science) |
-| 🏢 **SynergisticIT** | Remote - Data Scientist/Analyst/Engineer(ENTRY LEVEL) 🇺🇸 | Baltimore | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/1IIJPt4hohTHBNruVscdDc) |
-| 🏢 **SynergisticIT** | Entry Level Python Programmer/Data scientist/Analyst 🇺🇸 | Hollywood | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/2Po7XauDmRC5gstcpk49bP) |
-| 🏢 **SynergisticIT** | Junior Data Scientist entry level /AI/software programmer(Remote) at SynergisticIT Dover, NH 🇺🇸 🏠 | Dover | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://wynnsgrainandspice.com/office/job/junior-data-scientist-entry-level-aisoftware-programmerremote-at-synergisticit-dover-nh-QnhmaFNwZ1c4czRRUHMyODQ5SUgwWFo3K3c9PQ==) |
+| 🏢 **SynergisticIT** | Remote - Data Scientist/Analyst/Engineer(ENTRY LEVEL) | Baltimore | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/1IIJPt4hohTHBNruVscdDc) |
+| 🏢 **SynergisticIT** | Entry Level Python Programmer/Data scientist/Analyst | Hollywood | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/2Po7XauDmRC5gstcpk49bP) |
+| 🏢 **SynergisticIT** | Junior Data Scientist entry level /AI/software programmer(Remote) at SynergisticIT Dover, NH | Dover | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://wynnsgrainandspice.com/office/job/junior-data-scientist-entry-level-aisoftware-programmerremote-at-synergisticit-dover-nh-QnhmaFNwZ1c4czRRUHMyODQ5SUgwWFo3K3c9PQ==) |
 | 🏢 **Jobright.ai** | Machine Learning Engineer (Entry Level) at Jobright.ai Irvine, CA | Irvine | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://airmanage.dk/vacancy/job/machine-learning-engineer-entry-level-at-jobrightai-irvine-ca-c1pmdjJQd0ExdUpENkpKb0h3ZThFM2xqalE9PQ==) |
 | 🏢 **HPE** | Data Scientist | San Jose | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/San-Jose-California-United-States-of-America/Data-Scientist_1200572) |
 | 🏢 **Amazon.com Services LLC** | Data Scientist, Rapid & Rural Logistics (R2L) | Bellevue, WA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3187361/data-scientist-rapid-rural-logistics-r2l) |
 | 🏢 **Capgemini** | Entry Level- Data Scientist- ML -GenAI Engineer (5 of 6 positions) | Bellevue | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.capgemini.com/jobs/396218-en_GB+sap_btp/) |
-| 🏢 **Synergistic it** | Remote Data Scientist/Analyst (Entry/Junior Level) 🏠 | Washington | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.monster.com/job-openings/remote-data-scientist-analyst-entry-junior-level-washington-dc--da2dd95e-f8ba-454d-801f-06a952ed30aa?mstr_dist=true) |
-| 🏢 **SynergisticIT** | AI & Machine Learning Engineer (Remote) at SynergisticIT Houston, TX 🇺🇸 🏠 | Houston | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://wynnsgrainandspice.com/office/job/ai-and-machine-learning-engineer-remote-at-synergisticit-houston-tx-QWg3b1Fwb1g4TVlZT2N5KzZ0WU8ybmwvK2c9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **SynergisticIT** | Entry Level Python Programmer/Data scientist/Analyst 🇺🇸 | St. Petersburg | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/7CXmiM4xUTjufXbB8H1IES) |
+| 🏢 **Synergistic it** | Remote Data Scientist/Analyst (Entry/Junior Level) | Washington | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.monster.com/job-openings/remote-data-scientist-analyst-entry-junior-level-washington-dc--da2dd95e-f8ba-454d-801f-06a952ed30aa?mstr_dist=true) |
+| 🏢 **SynergisticIT** | AI & Machine Learning Engineer (Remote) at SynergisticIT Houston, TX | Houston | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://wynnsgrainandspice.com/office/job/ai-and-machine-learning-engineer-remote-at-synergisticit-houston-tx-QWg3b1Fwb1g4TVlZT2N5KzZ0WU8ybmwvK2c9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **SynergisticIT** | Entry Level Python Programmer/Data scientist/Analyst | St. Petersburg | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/7CXmiM4xUTjufXbB8H1IES) |
 | 🏢 **SynergisticIT** | Entry level Java fullstack developer/Junior Machine learning engineer | Newark | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://us.bebee.com/job/e034c67358f03393018c16ddcbcae7df?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Anthropic** | Biological Safety Research Scientist | San Francisco, CA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5066977008) |
 | 🏢 **Anthropic** | Research Engineer / Scientist, Alignment Science | San Francisco, CA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4631822008) |
@@ -141,7 +141,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Amazon.com Services LLC** | Applied Scientist, Pricing and Promotion Optimization | Seattle, WA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3183265/applied-scientist-pricing-and-promotion-optimization) |
 | 🏢 **Amazon.com Services LLC** | Applied Scientist - Delivery Experience, DEX Speed & AI | Bellevue, WA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3182630/applied-scientist-delivery-experience-dex-speed-ai) |
 
-<p align="center"><a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -152,10 +152,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | 🏢 **Morningstar** | Associate Software Engineer, Credit Tech | Chicago | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.morningstar.com/us/en/job/AP-23077420/Associate-Software-Engineer-Credit-Tech) |
 | 🏢 **Booz Allen Hamilton** | Data Analyst | Camp Lejeune, NC | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Camp-Lejeune-NC/Data-Analyst_R0234850) |
-| 🏢 **Halvik** | Junior Full Stack Developer 🏠 | Alexandria | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/junior-full-stack-developer-at-halvik-4379044942) |
-| 🏢 **Airbnb** | Software Engineer, Trust 🏠 | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.airbnb.com/positions/7612127?gh_jid=7612127) |
+| 🏢 **Halvik** | Junior Full Stack Developer | Alexandria | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/junior-full-stack-developer-at-halvik-4379044942) |
+| 🏢 **Airbnb** | Software Engineer, Trust | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.airbnb.com/positions/7612127?gh_jid=7612127) |
 | 🏢 **Datadog** | Strategic Finance Associate - NYC | New York | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7624017/?gh_jid=7624017) |
-| 🏢 **Coinbase** | Reconciliation Operations & Strategy Associate 🏠 | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7650231?gh_jid=7650231) |
+| 🏢 **Coinbase** | Reconciliation Operations & Strategy Associate | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7650231?gh_jid=7650231) |
 | 🏢 **Akuna Capital** | Junior Quantitative Developer & Strategist | Chicago, IL | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.akunacapital.com/job-details?gh_jid=7063563) |
 | 🏢 **Akuna Capital** | Quantitative Researcher | Chicago, IL | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.akunacapital.com/job-details?gh_jid=7496416) |
 | 🏢 **Akuna Capital** | Quant Strategist | Chicago, IL | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.akunacapital.com/job-details?gh_jid=6812905) |
@@ -175,30 +175,30 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Software Engineer | Broomfield | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4869264007?gh_jid=4869264007) |
 | 🏢 **Anduril** | Software Engineer, DevOps, Discovery | Seattle | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5038025007?gh_jid=5038025007) |
 | 🏢 **Anduril** | Software Engineer, DevOps, Discovery | Washington | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4981660007?gh_jid=4981660007) |
-| 🏢 **Anduril** | Software Engineer, Ghost 🏠 | Costa Mesa | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4932891007?gh_jid=4932891007) |
+| 🏢 **Anduril** | Software Engineer, Ghost | Costa Mesa | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4932891007?gh_jid=4932891007) |
 | 🏢 **IMC Trading** | Compliance Data Analyst | Chicago | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4749997101) |
 | 🏢 **IMC Trading** | Graduate Quant Performance Engineer | Chicago | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4751808101) |
 | 🏢 **IMC Trading** | IMC PhD Fellowship | Chicago | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4710203101) |
 | 🏢 **IMC Trading** | Quantitative Researcher - Data Curation | Chicago | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4660792101) |
 | 🏢 **Ripple** | Business Insights Analyst | Chicago | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ripple.com/careers/all-jobs/job/7651754?gh_jid=7651754) |
-| 🏢 **Coinbase** | Accountant, Prime Financing 🏠 | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7532645?gh_jid=7532645) |
-| 🏢 **Coinbase** | Counsel, Marketing 🏠 | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7550873?gh_jid=7550873) |
-| 🏢 **Coinbase** | Executive Assistant 🏠 | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7648817?gh_jid=7648817) |
-| 🏢 **Coinbase** | Security Engineer, CorpSec 🏠 | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7611268?gh_jid=7611268) |
-| 🏢 **Coinbase** | Software Engineer, Backend - Blockchain Platform (Staking Validators) 🏠 | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7173250?gh_jid=7173250) |
-| 🏢 **Coinbase** | Software Engineer, Backend (Consumer - Advanced Trading) 🏠 | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7591861?gh_jid=7591861) |
-| 🏢 **Coinbase** | Software Engineer, Backend (Institutional - Custody) 🏠 | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7013955?gh_jid=7013955) |
-| 🏢 **Coinbase** | Software Engineer, Backend (Institutional - Foundations, Transfers) 🏠 | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7591737?gh_jid=7591737) |
-| 🏢 **Coinbase** | Software Engineer, Backend - Platform (Core Automation) 🏠 | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7579370?gh_jid=7579370) |
-| 🏢 **Coinbase** | Software Engineer, Backend - Platform (FinHub - Transfers) 🏠 | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7482100?gh_jid=7482100) |
-| 🏢 **Coinbase** | Software Engineer, Developer Experience 🏠 | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7586664?gh_jid=7586664) |
-| 🏢 **Coinbase** | Software Engineer, DevSec 🏠 | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7595352?gh_jid=7595352) |
-| 🏢 **Coinbase** | Software Engineer, Frontend - Identity 🏠 | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7558035?gh_jid=7558035) |
-| 🏢 **Coinbase** | Software Engineer - Full Stack (EAA - Compliance) 🏠 | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/6233713?gh_jid=6233713) |
-| 🏢 **Coinbase** | Software Engineer - Salesforce Platform (EAA) 🏠 | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7652048?gh_jid=7652048) |
-| 🏢 **Coinbase** | Supervisor, Customer Success Team (Onsite - Relocation Assistance Available) 🏠 | Charlotte, NC | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7156049?gh_jid=7156049) |
-| 🏢 **Coinbase** | Trade Surveillance Associate 🏠 | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7647593?gh_jid=7647593) |
-| 🏢 **Coinbase** | Twitter Content Creator 🏠 | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7589243?gh_jid=7589243) |
+| 🏢 **Coinbase** | Accountant, Prime Financing | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7532645?gh_jid=7532645) |
+| 🏢 **Coinbase** | Counsel, Marketing | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7550873?gh_jid=7550873) |
+| 🏢 **Coinbase** | Executive Assistant | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7648817?gh_jid=7648817) |
+| 🏢 **Coinbase** | Security Engineer, CorpSec | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7611268?gh_jid=7611268) |
+| 🏢 **Coinbase** | Software Engineer, Backend - Blockchain Platform (Staking Validators) | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7173250?gh_jid=7173250) |
+| 🏢 **Coinbase** | Software Engineer, Backend (Consumer - Advanced Trading) | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7591861?gh_jid=7591861) |
+| 🏢 **Coinbase** | Software Engineer, Backend (Institutional - Custody) | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7013955?gh_jid=7013955) |
+| 🏢 **Coinbase** | Software Engineer, Backend (Institutional - Foundations, Transfers) | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7591737?gh_jid=7591737) |
+| 🏢 **Coinbase** | Software Engineer, Backend - Platform (Core Automation) | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7579370?gh_jid=7579370) |
+| 🏢 **Coinbase** | Software Engineer, Backend - Platform (FinHub - Transfers) | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7482100?gh_jid=7482100) |
+| 🏢 **Coinbase** | Software Engineer, Developer Experience | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7586664?gh_jid=7586664) |
+| 🏢 **Coinbase** | Software Engineer, DevSec | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7595352?gh_jid=7595352) |
+| 🏢 **Coinbase** | Software Engineer, Frontend - Identity | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7558035?gh_jid=7558035) |
+| 🏢 **Coinbase** | Software Engineer - Full Stack (EAA - Compliance) | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/6233713?gh_jid=6233713) |
+| 🏢 **Coinbase** | Software Engineer - Salesforce Platform (EAA) | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7652048?gh_jid=7652048) |
+| 🏢 **Coinbase** | Supervisor, Customer Success Team (Onsite - Relocation Assistance Available) | Charlotte, NC | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7156049?gh_jid=7156049) |
+| 🏢 **Coinbase** | Trade Surveillance Associate | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7647593?gh_jid=7647593) |
+| 🏢 **Coinbase** | Twitter Content Creator | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7589243?gh_jid=7589243) |
 | 🏢 **SpaceX** | Operations Development Engineer (Starlink) | Redmond, WA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8406964002?gh_jid=8406964002) |
 | 🏢 **Mass General Brigham** | Research Data Analyst, per diem Data Innovation | MA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Research-Data-Analyst--per-diem-Data-Innovation_RQ4052129) |
 | 🏢 **Leidos** | Data Analyst w/ Secret Clearance | Huntsville, AL | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Data-Analyst-w--Secret-Clearance_R-00176629) |
@@ -210,17 +210,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Verkada** | Software Engineer - Fleet Management | San Mateo, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4135093007) |
 | 🏢 **OpenAI** | Software Engineer, Marketing Innovation | San Francisco | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/1bb1f351-41a2-43a5-bac1-259859886cb3/application) |
 | 🏢 **Perplexity** | AI Software Engineer - Agents | San Francisco | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/perplexity/bc1a6878-8de9-48c2-a791-95b2f8f27261/application) |
-| 🏢 **Okta** | Strategic Account Executive 🏠 | San Francisco | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7653966?gh_jid=7653966) |
+| 🏢 **Okta** | Strategic Account Executive | San Francisco | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7653966?gh_jid=7653966) |
 | 🏢 **Databricks** | Forward Deployed Engineer (FDE) | United States; USCA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8251094002) |
 | 🏢 **SpaceX** | Hardware Reliability Specialist (Starlink) | Bastrop, TX | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8434475002?gh_jid=8434475002) |
 | 🏢 **SpaceX** | Software Engineer (Starshield) | Hawthorne, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8385191002?gh_jid=8385191002) |
 | 🏢 **Boeing** | Experienced Systems and Data Analyst | 8 Locations | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Experienced-Systems-and-Data-Analyst_JR2026496879-2) |
-| 🏢 **SynergisticIT** | Entry Level Software Developer 🇺🇸 | Joliet | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/4YhXs9qajyZSNM2i9aU0xD) |
+| 🏢 **SynergisticIT** | Entry Level Software Developer | Joliet | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/4YhXs9qajyZSNM2i9aU0xD) |
 | 🏢 **Huntington Ingalls Industries** | Software Engineer - 27272   Syracuse, NY, USA | New York | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.efinancialcareers.com/jobs-USA-NY-Syracuse-Software_Engineer_-_27272.id23877102) |
-| 🏢 **New York City** | Junior IT Services Engineer 🏠 | New York | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://cityjobs.nyc.gov/job/junior-it-services-engineer-in-manhattan-jid-40968?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Okta** | Strategic Account Executive, St. Louis, MO 🏠 | Kansas City | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7354266?gh_jid=7354266) |
-| 🏢 **Airtable** | Software Engineer, Product Backend (2-8 YOE) 🏠 | San Francisco, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/7845291002) |
-| 🏢 **Airtable** | Software Engineer, Product Frontend (2-8 YOE) 🏠 | San Francisco, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/7845265002) |
+| 🏢 **New York City** | Junior IT Services Engineer | New York | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://cityjobs.nyc.gov/job/junior-it-services-engineer-in-manhattan-jid-40968?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Okta** | Strategic Account Executive, St. Louis, MO | Kansas City | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7354266?gh_jid=7354266) |
+| 🏢 **Airtable** | Software Engineer, Product Backend (2-8 YOE) | San Francisco, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/7845291002) |
+| 🏢 **Airtable** | Software Engineer, Product Frontend (2-8 YOE) | San Francisco, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/7845265002) |
 | 🏢 **SpaceX** | Operations Engineer, Security | Hawthorne, CA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8397366002?gh_jid=8397366002) |
 | 🏢 **Booz Allen Hamilton** | Criminal Justice Data Analyst | Arlington, VA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Analyst_R0231932) |
 | 🏢 **Booz Allen Hamilton** | Data Analyst | Dayton, OH | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/Data-Analyst_R0234398) |
@@ -229,29 +229,29 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Walmart** | Java, Javascript, Python, NodeJS Software Engineer | Alexandria | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Walmart/Job/Java,-Javascript,-Python,-NodeJS-Software-Engineer/-in-Alexandria,VA?jid=1f213338884d42ec) |
 | 🏢 **Walmart** | Java, Javascript, Python, NodeJS Software Engineer | Centreville | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Walmart/Job/Java,-Javascript,-Python,-NodeJS-Software-Engineer/-in-Centreville,VA?jid=5365c333c3b2fb5d) |
 | 🏢 **Crossing Hurdles** | Software Engineer (SQL, Python)   $95/hr | Unknown | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/software-engineer-sql-python-%2495-hr-at-crossing-hurdles-4376069120?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **SynergisticIT** | Software Developer - Entry Level 🇺🇸 | Dallas | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/6j43ZxGtHxeZFrBJyoUQAl?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Walmart** | Software Engineer - iOS 🏠 | Tontitown | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Walmart/Job/Software-Engineer-iOS/-in-Tontitown,AR?jid=7828183f1e877d0c) |
+| 🏢 **SynergisticIT** | Software Developer - Entry Level | Dallas | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/6j43ZxGtHxeZFrBJyoUQAl?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Walmart** | Software Engineer - iOS | Tontitown | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Walmart/Job/Software-Engineer-iOS/-in-Tontitown,AR?jid=7828183f1e877d0c) |
 | 🏢 **Okta** | Account Executive, Strategic Inside Sales (Chicago) | Chicago | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7086125?gh_jid=7086125) |
 | 🏢 **Okta** | Account Executive, Strategic  Inside Sales (DC) | Washington, DC | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/6807866?gh_jid=6807866) |
 | 🏢 **Okta** | Business Development Representative, Bellevue | Bellevue, WA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7013555?gh_jid=7013555) |
 | 🏢 **Okta** | Business Development Representative, East | Washington, DC | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7013535?gh_jid=7013535) |
 | 🏢 **Okta** | Executive Assistant, Technology, Data & Intelligence (TDI) | San Francisco | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7493907?gh_jid=7493907) |
-| 🏢 **Okta** | Key Account Executive, Auth0 🏠 | New York | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7544341?gh_jid=7544341) |
-| 🏢 **Okta** | Key Account Executive, Auth0 🏠 | Dallas | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7535219?gh_jid=7535219) |
-| 🏢 **Okta** | Key Account Executive, Auth0 🏠 | San Francisco | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7535188?gh_jid=7535188) |
-| 🏢 **Okta** | Key Account Executive, Auth0 🏠 | Pennsylvania | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7543150?gh_jid=7543150) |
-| 🏢 **Okta** | Operations Specialist (Auth0) 🏠 | Chicago | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7624451?gh_jid=7624451) |
+| 🏢 **Okta** | Key Account Executive, Auth0 | New York | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7544341?gh_jid=7544341) |
+| 🏢 **Okta** | Key Account Executive, Auth0 | Dallas | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7535219?gh_jid=7535219) |
+| 🏢 **Okta** | Key Account Executive, Auth0 | San Francisco | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7535188?gh_jid=7535188) |
+| 🏢 **Okta** | Key Account Executive, Auth0 | Pennsylvania | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7543150?gh_jid=7543150) |
+| 🏢 **Okta** | Operations Specialist (Auth0) | Chicago | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7624451?gh_jid=7624451) |
 | 🏢 **Okta** | Sales Development Representative, East | Washington, DC | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7013646?gh_jid=7013646) |
 | 🏢 **Okta** | Sales Development Representative, Latin America | Washington, DC | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7013739?gh_jid=7013739) |
-| 🏢 **Okta** | Strategic Account Executive, Auth0 🏠 | Chicago | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7481578?gh_jid=7481578) |
-| 🏢 **Okta** | Strategic Account Executive- MN 🏠 | Minnesota | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7578626?gh_jid=7578626) |
-| 🏢 **Okta** | Strategic Account Executive-Tennessee 🏠 | Tennessee | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7554807?gh_jid=7554807) |
-| 🏢 **OpenAI** | Recruiter, AI/ML Research 🏠 | San Francisco | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/ed871ac9-44ae-47fa-beaa-b9ab7ff31012/application) |
-| 🏢 **Jobsultant Solutions** | Data Analyst - Entry Level (Remote) 🏠 | Charlotte | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/30vrATe8fuKVJhmTCjpDWp) |
-| 🏢 **Synergistic it** | Entry Level Software Engineer (Remote) 🏠 | Chula Vista | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.monster.com/job-openings/entry-level-software-engineer-remote-chula-vista-ca--52fcdc25-5c81-47b6-bcfa-77fdf50bf793?mstr_dist=true) |
-| 🏢 **jobright com** | Virtual Data Analyst / Entry level Remote at Jobright.ai Phoenix, AZ 30 🏠 | Nebraska | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobilize.com/job/us-ne-all-cities-virtual-data-analyst-entry-level-remote-jobright?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Okta** | Strategic Account Executive, Auth0 | Chicago | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7481578?gh_jid=7481578) |
+| 🏢 **Okta** | Strategic Account Executive- MN | Minnesota | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7578626?gh_jid=7578626) |
+| 🏢 **Okta** | Strategic Account Executive-Tennessee | Tennessee | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7554807?gh_jid=7554807) |
+| 🏢 **OpenAI** | Recruiter, AI/ML Research | San Francisco | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/ed871ac9-44ae-47fa-beaa-b9ab7ff31012/application) |
+| 🏢 **Jobsultant Solutions** | Data Analyst - Entry Level (Remote) | Charlotte | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/30vrATe8fuKVJhmTCjpDWp) |
+| 🏢 **Synergistic it** | Entry Level Software Engineer (Remote) | Chula Vista | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.monster.com/job-openings/entry-level-software-engineer-remote-chula-vista-ca--52fcdc25-5c81-47b6-bcfa-77fdf50bf793?mstr_dist=true) |
+| 🏢 **jobright com** | Virtual Data Analyst / Entry level Remote at Jobright.ai Phoenix, AZ 30 | Nebraska | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobilize.com/job/us-ne-all-cities-virtual-data-analyst-entry-level-remote-jobright?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
-<p align="center"><a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -263,7 +263,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Booz Allen Hamilton** | Health Data Engineer | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Bethesda-MD/Health-Data-Engineer_R0232422) |
 | 🏢 **Booz Allen Hamilton** | Agentic AI and Data Engineer | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Agentic-AI-and-Data-Engineer_R0234847) |
 | 🏢 **Anduril** | Software Engineer, Data Engineering | Costa Mesa | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4991618007?gh_jid=4991618007) |
-| 🏢 **KPMG US** | Associate, Data Engineer 🇺🇸 🏠 | Houston | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/associate-data-engineer-at-kpmg-us-4376437353?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **KPMG US** | Associate, Data Engineer | Houston | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/associate-data-engineer-at-kpmg-us-4376437353?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Booz Allen Hamilton** | Data Engineer | MacDill AFB, FL | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/MacDill-AFB-FL/Data-Engineer_R0234716) |
 | 🏢 **Amazon Web Services, Inc.** | Data Engineer, Marketplace | Austin, TX | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3190726/data-engineer-marketplace) |
 | 🏢 **Slalom** | Data Engineer | Hopewell | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/data-engineer-at-slalom-4355063452?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -277,7 +277,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Amazon Data Services, Inc.** | Data Engineer,  AWS DC Central Operations | Seattle, WA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3185471/data-engineer-aws-dc-central-operations) |
 | 🏢 **Amazon.com Services LLC** | Data Engineer, AMZL Orbit Data Engineering | Austin, TX | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3184381/data-engineer-amzl-orbit-data-engineering) |
 
-<p align="center"><a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -287,9 +287,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **OpenAI** | Data Visualization Analyst | San Francisco | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/ae2b93cc-8f6b-4995-9f0e-70e0d1c4d7d1/application) |
-| 🏢 **SynergisticIT** | Tableau/Python Developer - Entry Level 🇺🇸 | Towson | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/67I3mbh4uN9Z3OtGjBi4EW?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **SynergisticIT** | Tableau/Python Developer - Entry Level | Towson | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/67I3mbh4uN9Z3OtGjBi4EW?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
-<p align="center"><a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -298,7 +298,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Databricks** | AI Engineer - FDE (Forward Deployed Engineer) 🏠 | United States | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8335860002) |
+| 🏢 **Databricks** | AI Engineer - FDE (Forward Deployed Engineer) | United States | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8335860002) |
 | 🏢 **Elastic** | Elastic AI Engineer | United States | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.elastic.co/jobs?gh_jid=7607148&gh_jid=7607148) |
 | 🏢 **Anduril** | Computer Vision Engineer, Space | Washington | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5016334007?gh_jid=5016334007) |
 | 🏢 **Anduril** | Computer Vision Engineer, Space | Costa Mesa | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5016001007?gh_jid=5016001007) |
@@ -316,7 +316,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **VirtualVocations** | Associate MLOps Engineer | Livonia | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=608048320060134397&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **VirtualVocations** | Associate MLOps Engineer | Costa Mesa | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=608075126366017940&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **VirtualVocations** | Junior AI Engineer | Bridgeport | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=554693159930628722&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Quora** | [Remote] AI Engineer New Grad 2025-2026 - Poe (Remote) 🏠 | Remote | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://jobright.ai/jobs/info/699d186fe0bddb6acacc3739?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Quora** | [Remote] AI Engineer New Grad 2025-2026 - Poe (Remote) | Remote | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://jobright.ai/jobs/info/699d186fe0bddb6acacc3739?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Orcaworks  Build Your Digital Coworker** | Applied AI/ML Engineer (Entry Level) — Build & Deploy AI | Atlanta | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobleads.com/us/job/applied-ai-ml-engineer-entry-level-build-deploy-ai--atlanta--e952868b6c98da74fe57ab06501ad2e02) |
 | 🏢 **Anthropic** | Applied AI Engineer, Beneficial Deployments | San Francisco, CA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5068226008) |
 | 🏢 **Anthropic** | Applied AI Engineer (Digital Natives Business) | San Francisco, CA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5057647008) |
@@ -325,12 +325,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anthropic** | Machine Learning Systems Engineer, Research Tools | San Francisco, CA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4952079008) |
 | 🏢 **Anthropic** | Machine Learning Systems Engineer, RL Engineering | San Francisco, CA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4952051008) |
 | 🏢 **Anthropic** | Research Engineer, Machine Learning (Reinforcement Learning) | San Francisco, CA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4613568008) |
-| 🏢 **Scale AI** | Machine Learning Fellow - Human Frontier Collective (US) 🏠 | United States | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4660340005) |
+| 🏢 **Scale AI** | Machine Learning Fellow - Human Frontier Collective (US) | United States | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4660340005) |
 | 🏢 **Booz Allen Hamilton** | AI and ML Engineer | Charleston, SC | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/AI-and-ML-Engineer_R0230985) |
 | 🏢 **Audible, Inc.** | Software Development Engineer, AI/ML Engineering Team | Newark, NJ | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3182831/software-development-engineer-ai-ml-engineering-team) |
 | 🏢 **Annapurna Labs (U.S.) Inc.** | Mechanical Engineer Annapurna Labs , Annapurna Labs, Machine Learning Hardware | Austin, TX | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3183160/mechanical-engineer-annapurna-labs-annapurna-labs-machine-learning-hardware) |
 
-<p align="center"><a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
