@@ -141,7 +141,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Amazon.com Services LLC** | Applied Scientist, Pricing and Promotion Optimization | Seattle, WA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3183265/applied-scientist-pricing-and-promotion-optimization) |
 | 🏢 **Amazon.com Services LLC** | Applied Scientist - Delivery Experience, DEX Speed & AI | Bellevue, WA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3182630/applied-scientist-delivery-experience-dex-speed-ai) |
 
-<p align="center"><a href="https://softwarejobs.dev/"><img src="https://img.shields.io/badge/See_More_Jobs-softwarejobs.dev-4A90E2?style=for-the-badge&logo=briefcase&logoColor=white" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center"><a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -251,7 +251,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Synergistic it** | Entry Level Software Engineer (Remote) 🏠 | Chula Vista | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.monster.com/job-openings/entry-level-software-engineer-remote-chula-vista-ca--52fcdc25-5c81-47b6-bcfa-77fdf50bf793?mstr_dist=true) |
 | 🏢 **jobright com** | Virtual Data Analyst / Entry level Remote at Jobright.ai Phoenix, AZ 30 🏠 | Nebraska | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobilize.com/job/us-ne-all-cities-virtual-data-analyst-entry-level-remote-jobright?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
-<p align="center"><a href="https://softwarejobs.dev/"><img src="https://img.shields.io/badge/See_More_Jobs-softwarejobs.dev-4A90E2?style=for-the-badge&logo=briefcase&logoColor=white" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center"><a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -277,7 +277,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Amazon Data Services, Inc.** | Data Engineer,  AWS DC Central Operations | Seattle, WA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3185471/data-engineer-aws-dc-central-operations) |
 | 🏢 **Amazon.com Services LLC** | Data Engineer, AMZL Orbit Data Engineering | Austin, TX | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3184381/data-engineer-amzl-orbit-data-engineering) |
 
-<p align="center"><a href="https://softwarejobs.dev/"><img src="https://img.shields.io/badge/See_More_Jobs-softwarejobs.dev-4A90E2?style=for-the-badge&logo=briefcase&logoColor=white" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center"><a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -289,7 +289,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **OpenAI** | Data Visualization Analyst | San Francisco | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/ae2b93cc-8f6b-4995-9f0e-70e0d1c4d7d1/application) |
 | 🏢 **SynergisticIT** | Tableau/Python Developer - Entry Level 🇺🇸 | Towson | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/67I3mbh4uN9Z3OtGjBi4EW?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
-<p align="center"><a href="https://softwarejobs.dev/"><img src="https://img.shields.io/badge/See_More_Jobs-softwarejobs.dev-4A90E2?style=for-the-badge&logo=briefcase&logoColor=white" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center"><a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -330,7 +330,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Audible, Inc.** | Software Development Engineer, AI/ML Engineering Team | Newark, NJ | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3182831/software-development-engineer-ai-ml-engineering-team) |
 | 🏢 **Annapurna Labs (U.S.) Inc.** | Mechanical Engineer Annapurna Labs , Annapurna Labs, Machine Learning Hardware | Austin, TX | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3183160/mechanical-engineer-annapurna-labs-annapurna-labs-machine-learning-hardware) |
 
-<p align="center"><a href="https://softwarejobs.dev/"><img src="https://img.shields.io/badge/See_More_Jobs-softwarejobs.dev-4A90E2?style=for-the-badge&logo=briefcase&logoColor=white" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center"><a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
