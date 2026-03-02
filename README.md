@@ -14,7 +14,7 @@
 ![Data Analyst](https://img.shields.io/badge/Data_Analyst-148-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
-> ⏱ Last updated: Mar 1, 6:15 PM CST
+> ⏱ Last updated: Mar 1, 6:30 PM CST
 
 
 
@@ -91,11 +91,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anduril** | Machine Learning Engineer, Quality Analytics | Costa Mesa | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5034660007?gh_jid=5034660007) |
 | 🏢 **Anduril** | Supply Chain Analytics Engineer | Costa Mesa | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5045894007?gh_jid=5045894007) |
 | 🏢 **IMC Trading** | Hardware Machine Learning Engineer | Chicago | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4713602101) |
-| 🏢 **Booz Allen Hamilton** | Data Scientist and Developer | Lexington Park, MD | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-Park-MD/Data-Scientist-and-Developer_R0234773) |
 | 🏢 **Booz Allen Hamilton** | Machine Learning Engineer | Norfolk, VA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Norfolk-VA/Machine-Learning-Engineer_R0234928) |
 | 🏢 **Booz Allen Hamilton** | Data Scientist | Fort Meade, MD | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Data-Scientist_R0234832) |
 | 🏢 **Booz Allen Hamilton** | Data Scientist | Tampa, FL | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Tampa-FL/Data-Scientist_R0229725) |
 | 🏢 **Booz Allen Hamilton** | Data Scientist | Alexandria, VA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Alexandria-VA/Data-Scientist_R0234929) |
+| 🏢 **Booz Allen Hamilton** | Data Scientist and Developer | Lexington Park, MD | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-Park-MD/Data-Scientist-and-Developer_R0234773) |
 | 🏢 **Leidos** | Data Scientist | 3325 Fort George ... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/3325-Fort-George-G-Meade-MD/Data-Scientist_R-00177051) |
 | 🏢 **SynergisticIT** | Junior Machine Learning Engineer / Jr Java DevOps Developer ( remote ) 🇺🇸 | Unknown | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/72y6R4WkyqvzRAVFYXrtCH?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **OpenAI** | Research Scientist, PhD | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/29dc246a-2240-4843-8050-463c8ecc726a/application) |
@@ -224,8 +224,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Airtable** | Software Engineer, Product Backend (2-8 YOE) 🏠 | San Francisco, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/7845291002) |
 | 🏢 **Airtable** | Software Engineer, Product Frontend (2-8 YOE) 🏠 | San Francisco, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/7845265002) |
 | 🏢 **SpaceX** | Operations Engineer, Security | Hawthorne, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8397366002?gh_jid=8397366002) |
-| 🏢 **Booz Allen Hamilton** | Data Analyst | Dayton, OH | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/Data-Analyst_R0234398) |
 | 🏢 **Booz Allen Hamilton** | Criminal Justice Data Analyst | Arlington, VA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Analyst_R0231932) |
+| 🏢 **Booz Allen Hamilton** | Data Analyst | Dayton, OH | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/Data-Analyst_R0234398) |
 | 🏢 **Amazon.com Services LLC** | Software Development Engineer, Data Integration AI and Platform Excellence (APEX) | New York, NY | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3188405/software-development-engineer-data-integration-ai-and-platform-excellence-apex) |
 | 🏢 **wilson** | Security Analytics Data Analyst - Entry Level | Oregon | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://us.jobrapido.com/jobpreview/3965378199411490816) |
 | 🏢 **Walmart** | Java, Javascript, Python, NodeJS Software Engineer | Alexandria | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Walmart/Job/Java,-Javascript,-Python,-NodeJS-Software-Engineer/-in-Alexandria,VA?jid=1f213338884d42ec) |
@@ -269,12 +269,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Booz Allen Hamilton** | Data Engineer | MacDill AFB, FL | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/MacDill-AFB-FL/Data-Engineer_R0234716) |
 | 🏢 **Amazon Web Services, Inc.** | Data Engineer, Marketplace | Austin, TX | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3190726/data-engineer-marketplace) |
 | 🏢 **Slalom** | Data Engineer | Hopewell | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/data-engineer-at-slalom-4355063452?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Booz Allen Hamilton** | Data Engineer | McLean, VA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Engineer_R0233775) |
 | 🏢 **Booz Allen Hamilton** | Apache Iceberg Data Engineer | McLean, VA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Apache-Iceberg-Data-Engineer_R0233771) |
+| 🏢 **Booz Allen Hamilton** | Data Engineer | McLean, VA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Engineer_R0233775) |
 | 🏢 **Jane Street** | Data Engineer | New York | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/6558007002) |
-| 🏢 **Booz Allen Hamilton** | Data Engineer | San Diego, CA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/Data-Engineer_R0234574) |
 | 🏢 **Booz Allen Hamilton** | Enterprise Cybersecurity Data Engineer and Business Intelligence Developer | McLean, VA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Data-Engineer-and-Business-Intelligence-Developer_R0234117) |
 | 🏢 **Booz Allen Hamilton** | Health Services Data Engineer | McLean, VA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Health-Services-Data-Engineer_R0234300) |
+| 🏢 **Booz Allen Hamilton** | Data Engineer | San Diego, CA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/Data-Engineer_R0234574) |
 | 🏢 **PNC** | Data Engineer Associate | Pittsburgh | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://us.bebee.com/job/cf2bdb97d206130005a7b1a0a281ec54?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Amazon Data Services, Inc.** | Data Engineer,  AWS DC Central Operations | Seattle, WA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3185471/data-engineer-aws-dc-central-operations) |
 | 🏢 **Amazon.com Services LLC** | Data Engineer, AMZL Orbit Data Engineering | Austin, TX | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3184381/data-engineer-amzl-orbit-data-engineering) |
