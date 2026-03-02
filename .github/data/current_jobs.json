@@ -9996,32 +9996,5 @@
     "_source": "aggregator",
     "_original_source": "amazon",
     "job_posted_at": "2026-02-17T00:00:00.000Z"
-  },
-  {
-    "job_id": "lever-leantaas-9362c903-75bf-4f03-8f21-203a98e1e074",
-    "job_title": "Office and Accounting Administrator",
-    "employer_name": "LeanTaaS",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/leantaas/9362c903-75bf-4f03-8f21-203a98e1e074/apply",
-    "job_posted_at_datetime_utc": "2026-02-16T19:37:03.903Z",
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "b928b38aef966dbdcdac70f4faaab07b33074ce7a5a2615637d6a85df6c34f14",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-02-16T19:37:03.903Z"
   }
 ]
