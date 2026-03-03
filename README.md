@@ -11,7 +11,7 @@
 
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-355-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-101-blue?style=flat&logo=building)
-![Data Analyst](https://img.shields.io/badge/Data_Analyst-201-red?style=flat&logo=star)
+![Data Analyst](https://img.shields.io/badge/Data_Analyst-202-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
@@ -103,22 +103,22 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Point72** | Machine Learning Engineer, Genai Technology | New York, NY | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8392982002?gh_jid=8392982002) |
 | 🏢 **OpenAI** | Data Scientist, Preparedness | San Francisco | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/efcc3430-14c8-4022-8350-8146ffb867ab/application) |
 | 🏢 **Leidos** | Data Scientist | 3325 Fort George ... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/3325-Fort-George-G-Meade-MD/Data-Scientist_R-00177051) |
+| 🏢 **Booz Allen Hamilton** | Data Scientist and Developer | Lexington Park, MD | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-Park-MD/Data-Scientist-and-Developer_R0234773) |
 | 🏢 **Booz Allen Hamilton** | Machine Learning Engineer | Norfolk, VA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Norfolk-VA/Machine-Learning-Engineer_R0234928) |
 | 🏢 **Booz Allen Hamilton** | Data Scientist | Fort Meade, MD | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Data-Scientist_R0234832) |
 | 🏢 **Booz Allen Hamilton** | Data Scientist | Tampa, FL | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Tampa-FL/Data-Scientist_R0229725) |
 | 🏢 **Booz Allen Hamilton** | Data Scientist | Alexandria, VA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Alexandria-VA/Data-Scientist_R0234929) |
-| 🏢 **Booz Allen Hamilton** | Data Scientist and Developer | Lexington Park, MD | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-Park-MD/Data-Scientist-and-Developer_R0234773) |
+| 🏢 **Emonics LLC** | Machine Learning Engineer, Entry Level | Chicago | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/40v8ZgOH0eXb4b2Cx6PtHK) |
 | 🏢 **Amazon Web Services, Inc.** | Applied Scientist, AWS Applied AI Solutions Core Services | Seattle, WA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3190740/applied-scientist-aws-applied-ai-solutions-core-services) |
 | 🏢 **Amazon Web Services, Inc.** | Applied Scientist, End User Messaging, AWS Applied AI Solutions Core Services | Seattle, WA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3190735/applied-scientist-end-user-messaging-aws-applied-ai-solutions-core-services) |
 | 🏢 **Amazon Web Services, Inc.** | Applied Scientist, Foundational Capabilities, AWS Applied AI Solutions Core Services | Seattle, WA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3190739/applied-scientist-foundational-capabilities-aws-applied-ai-solutions-core-services) |
-| 🏢 **Emonics LLC** | Machine Learning Engineer, Entry Level | Chicago | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/40v8ZgOH0eXb4b2Cx6PtHK) |
 | 🏢 **Carnegie Mellon University** | Assistant Machine Learning Engineer | Pittsburgh | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.higheredjobs.com/admin/details.cfm?JobCode=179376708) |
 | 🏢 **Caterpillar** | People Analytics - Data Scientist | 3 Locations | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Irving-Texas/People-Analytics---Data-Scientist_R0000353001-1) |
 | 🏢 **Boeing** | Experienced Data Scientist | 2 Locations | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Experienced-Data-Scientist_JR2026498172-1) |
 | 🏢 **Booz Allen Hamilton** | Machine Learning Engineer | 3 Locations | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Machine-Learning-Engineer_R0234779) |
-| 🏢 **Amazon.com Services LLC** | Applied Scientist, WWGS Real Estate & Store Development | Seattle, WA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3189250/applied-scientist-wwgs-real-estate-store-development) |
 | 🏢 **SynergisticIT** | Remote - Data Scientist/Analyst/Engineer(ENTRY LEVEL) | Baltimore | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/1IIJPt4hohTHBNruVscdDc) |
 | 🏢 **SynergisticIT** | Entry Level Python Programmer/Data scientist/Analyst | Hollywood | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/2Po7XauDmRC5gstcpk49bP) |
+| 🏢 **Amazon.com Services LLC** | Applied Scientist, WWGS Real Estate & Store Development | Seattle, WA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3189250/applied-scientist-wwgs-real-estate-store-development) |
 | 🏢 **Amazon.com Services LLC** | Applied Scientist, DTx Science | Palo Alto, CA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3189702/applied-scientist-dtx-science) |
 | 🏢 **SynergisticIT** | Entry Level Python Programmer/Data scientist/Analyst | Colorado Springs | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/49W5DChmQwaBAoX8gCSjn1) |
 | 🏢 **SynergisticIT** | Junior data scientist/Entry level software developer | Ann Arbor | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=608252322708336252) |
@@ -167,41 +167,42 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Coinbase** | Executive Assistant | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7648817?gh_jid=7648817) |
-| 🏢 **Coinbase** | Reconciliation Operations & Strategy Associate | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7650231?gh_jid=7650231) |
-| 🏢 **Coinbase** | Software Engineer - Salesforce Platform (EAA) | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7652048?gh_jid=7652048) |
-| 🏢 **Coinbase** | Trade Surveillance Associate | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7647593?gh_jid=7647593) |
-| 🏢 **Coinbase** | Software Engineer | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7642536?gh_jid=7642536) |
-| 🏢 **Coinbase** | Security Engineer, CorpSec | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7611268?gh_jid=7611268) |
-| 🏢 **Coinbase** | Software Engineer, DevSec | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7595352?gh_jid=7595352) |
-| 🏢 **Coinbase** | Software Engineer, Backend (Consumer - Advanced Trading) | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7591861?gh_jid=7591861) |
-| 🏢 **Coinbase** | Software Engineer, Backend (Institutional - Foundations, Transfers) | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7591737?gh_jid=7591737) |
-| 🏢 **Coinbase** | Twitter Content Creator | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7589243?gh_jid=7589243) |
-| 🏢 **Coinbase** | Counsel, Marketing | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7550873?gh_jid=7550873) |
-| 🏢 **Coinbase** | Accountant, Prime Financing | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7532645?gh_jid=7532645) |
-| 🏢 **Coinbase** | Supervisor, Customer Success Team (Onsite - Relocation Assistance Available) | Charlotte, NC | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7156049?gh_jid=7156049) |
-| 🏢 **Coinbase** | Software Engineer, Backend (Institutional - Custody) | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7013955?gh_jid=7013955) |
-| 🏢 **Coinbase** | Software Engineer - Full Stack (EAA - Compliance) | Remote | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/6233713?gh_jid=6233713) |
+| 🏢 **Coinbase** | Executive Assistant | Remote | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7648817?gh_jid=7648817) |
+| 🏢 **Coinbase** | Reconciliation Operations & Strategy Associate | Remote | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7650231?gh_jid=7650231) |
+| 🏢 **Coinbase** | Software Engineer - Salesforce Platform (EAA) | Remote | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7652048?gh_jid=7652048) |
+| 🏢 **Coinbase** | Trade Surveillance Associate | Remote | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7647593?gh_jid=7647593) |
+| 🏢 **Coinbase** | Software Engineer | Remote | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7642536?gh_jid=7642536) |
+| 🏢 **Coinbase** | Security Engineer, CorpSec | Remote | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7611268?gh_jid=7611268) |
+| 🏢 **Coinbase** | Software Engineer, DevSec | Remote | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7595352?gh_jid=7595352) |
+| 🏢 **Coinbase** | Software Engineer, Backend (Consumer - Advanced Trading) | Remote | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7591861?gh_jid=7591861) |
+| 🏢 **Coinbase** | Software Engineer, Backend (Institutional - Foundations, Transfers) | Remote | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7591737?gh_jid=7591737) |
+| 🏢 **Coinbase** | Twitter Content Creator | Remote | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7589243?gh_jid=7589243) |
+| 🏢 **Coinbase** | Counsel, Marketing | Remote | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7550873?gh_jid=7550873) |
+| 🏢 **Coinbase** | Accountant, Prime Financing | Remote | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7532645?gh_jid=7532645) |
+| 🏢 **Coinbase** | Supervisor, Customer Success Team (Onsite - Relocation Assistance Available) | Charlotte, NC | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7156049?gh_jid=7156049) |
+| 🏢 **Coinbase** | Software Engineer, Backend (Institutional - Custody) | Remote | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7013955?gh_jid=7013955) |
+| 🏢 **Coinbase** | Software Engineer - Full Stack (EAA - Compliance) | Remote | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/6233713?gh_jid=6233713) |
 | 🏢 **Scale AI** | STEM Fellow - Human Frontier Collective (US) | United States | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4574113005) |
 | 🏢 **Coinbase** | Software Engineer, Frontend - Identity | Remote | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7558035?gh_jid=7558035) |
 | 🏢 **Anduril** | Robotics Software Engineer, Path Planning | Costa Mesa | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5030896007?gh_jid=5030896007) |
 | 🏢 **xAI** | Hardcore Engineer - Infrastructure/Supercomputing | Palo Alto, CA | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4827533007) |
-| 🏢 **Verkada** | Data Strategy Associate, Global Revenue Informatics | San Mateo, CA | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5064464007) |
-| 🏢 **Chime** | Data Analyst, Lending | San Francisco, CA | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/chime/jobs/8365502002?gh_jid=8365502002) |
+| 🏢 **Verkada** | Data Strategy Associate, Global Revenue Informatics | San Mateo, CA | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5064464007) |
+| 🏢 **Chime** | Data Analyst, Lending | San Francisco, CA | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/chime/jobs/8365502002?gh_jid=8365502002) |
 | 🏢 **Faire** | Verification Associate | San Francisco, CA | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8445021002?gh_jid=8445021002) |
 | 🏢 **Datadog** | Strategic Finance Associate - NYC | New York | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7624017/?gh_jid=7624017) |
 | 🏢 **Faire** | Strategic Finance & Systems Automation Specialist | New York City, NY | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8444503002?gh_jid=8444503002) |
 | 🏢 **Instacart** | Program Analyst, Legal Compliance | United States - R... | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://instacart.careers/job/?gh_jid=7536747) |
-| 🏢 **MongoDB** | 2026 - Next in Tech Summit, NORAM | Austin; New York ... | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7569187) |
-| 🏢 **MongoDB** | Software Engineer 3 | Palo Alto; Seattle | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7523911) |
+| 🏢 **MongoDB** | 2026 - Next in Tech Summit, NORAM | Austin; New York ... | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7569187) |
+| 🏢 **MongoDB** | Software Engineer 3 | Palo Alto; Seattle | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7523911) |
 | 🏢 **Okta** | Strategic Account Executive, Auth0 | San Francisco | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7463775?gh_jid=7463775) |
 | 🏢 **Okta** | Strategic Account Executive, Auth0 | Seattle | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7465810?gh_jid=7465810) |
 | 🏢 **Crusoe** | Strategic Sourcing Data Analyst | Denver, CO | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/crusoe/cf79c92a-3895-4c8d-97a7-984dffc3222c/application) |
 | 🏢 **Okta** | Strategic Account Executive, St. Louis, MO | Kansas City | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7354266?gh_jid=7354266) |
 | 🏢 **Anthropic** | Research Compute Operations | San Francisco, CA | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5120985008) |
 | 🏢 **Ripple** | Business Insights Analyst | Chicago | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://ripple.com/careers/all-jobs/job/7651754?gh_jid=7651754) |
-| 🏢 **Amazon Web Services, Inc.** | Software Development Engineer, IDEAS | Seattle, WA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3193218/software-development-engineer-ideas) |
 | 🏢 **Jobsultant Solutions** | Data Analyst - Entry Level (Remote) | Charlotte | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/30vrATe8fuKVJhmTCjpDWp) |
+| 🏢 **Amazon Web Services, Inc.** | Software Development Engineer, IDEAS | Seattle, WA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3193218/software-development-engineer-ideas) |
+| 🏢 **SynergisticIT** | Remote Software Developer (Entry Level) | Austin | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/6TubNTWm2BMtg51ZlqSRfi) |
 | 🏢 **Morningstar** | Associate Software Engineer, Credit Tech | Chicago | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.morningstar.com/us/en/job/MORMORUSAP23077420EXTERNALENUS/Associate-Software-Engineer-Credit-Tech) |
 | 🏢 **CACI** | RF Data Analyst | US NM Albuquerque | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-NM-Albuquerque/RF-Data-Analyst_321588) |
 | 🏢 **EMCOR Group, Inc.** | Business Data Analyst, Construction; Entry Level | Baltimore | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/3ya8tbzkJ4hWczj59HMX7K) |
@@ -266,7 +267,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Huntington Ingalls Industries** | Software Engineer - 27272   Syracuse, NY, USA | New York | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.efinancialcareers.com/jobs-USA-NY-Syracuse-Software_Engineer_-_27272.id23877102) |
 | 🏢 **New York City** | Junior IT Services Engineer | New York | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://cityjobs.nyc.gov/job/junior-it-services-engineer-in-manhattan-jid-40968?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Baseten** | Software Engineer - AI Enablement | San Francisco | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/baseten/b88a68b7-d2bc-4a30-a79a-3ef292ad7c26/application) |
-| 🏢 **Airtable** | Software Engineer, Product Backend (2-8 YOE) | San Francisco, CA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/airtable/jobs/7845291002) |
 
 <p align="center"><span style="vertical-align: middle;">Apply for more jobs at &nbsp;</span><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" style="vertical-align: middle;" alt="See more jobs on softwarejobs.dev"></a></p>
 
@@ -279,8 +279,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | 🏢 **D.E. Shaw** | Data Engineer, Cumberland/FICCO | Chicago | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/7421010) |
 | 🏢 **Anduril** | Software Engineer, Data Engineering | Costa Mesa | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4991618007?gh_jid=4991618007) |
-| 🏢 **Booz Allen Hamilton** | Health Data Engineer | 2 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Bethesda-MD/Health-Data-Engineer_R0232422) |
 | 🏢 **Booz Allen Hamilton** | Agentic AI and Data Engineer | 2 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Agentic-AI-and-Data-Engineer_R0234847) |
+| 🏢 **Booz Allen Hamilton** | Health Data Engineer | 2 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Bethesda-MD/Health-Data-Engineer_R0232422) |
 | 🏢 **KPMG US** | Associate, Data Engineer | Houston | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/associate-data-engineer-at-kpmg-us-4376437353?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Amazon Web Services, Inc.** | Data Engineer, Marketplace | Austin, TX | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3190726/data-engineer-marketplace) |
 | 🏢 **SynergisticIT** | Junior/Entry Level Data Engineer at SynergisticIT Lacey, WA | Lacey | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/2Ph65zUq8q5ZSMbK1j1KYT) |
@@ -291,9 +291,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Booz Allen Hamilton** | Data Engineer | McLean, VA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Engineer_R0233775) |
 | 🏢 **Booz Allen Hamilton** | Apache Iceberg Data Engineer | McLean, VA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Apache-Iceberg-Data-Engineer_R0233771) |
 | 🏢 **PNC** | Data Engineer Associate | Pittsburgh | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://us.bebee.com/job/cf2bdb97d206130005a7b1a0a281ec54?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Booz Allen Hamilton** | Data Engineer | San Diego, CA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/Data-Engineer_R0234574) |
 | 🏢 **Booz Allen Hamilton** | Enterprise Cybersecurity Data Engineer and Business Intelligence Developer | McLean, VA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Data-Engineer-and-Business-Intelligence-Developer_R0234117) |
 | 🏢 **Booz Allen Hamilton** | Health Services Data Engineer | McLean, VA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Health-Services-Data-Engineer_R0234300) |
-| 🏢 **Booz Allen Hamilton** | Data Engineer | San Diego, CA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/Data-Engineer_R0234574) |
 | 🏢 **Amazon Data Services, Inc.** | Data Engineer , AWS Infrastructure Supply Chain Intelligence | Bellevue, WA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3187071/data-engineer-aws-infrastructure-supply-chain-intelligence) |
 | 🏢 **Marvell** | Advanced Package Yield and Data Engineer | Santa Clara, CA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Advanced-Package-Yield-and-Data-Engineer_2600360) |
 | 🏢 **Amazon Data Services, Inc.** | Data Engineer,  AWS DC Central Operations | Seattle, WA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3185471/data-engineer-aws-dc-central-operations) |
