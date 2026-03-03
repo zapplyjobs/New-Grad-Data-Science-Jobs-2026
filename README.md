@@ -76,7 +76,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Booz Allen Hamilton** | Data Scientist | Washington, DC | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Data-Scientist_R0235037) |
 | 🏢 **Home Depot** | Entry-Level Data Scientist - Tools & Automation | Atlanta | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ksnt.com/jobs/entry-level-data-scientist-tools-automation-atlanta-georgia/2646838322-2/) |
 | 🏢 **Emonics LLC** | Machine Learning Engineer | Brookline | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.disabledperson.com/jobs/70543841-machine-learning-engineer) |
-| 🏢 **Tenstorrent** | C++ Machine Learning Engineer, AI Models Training | Santa Clara | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/4607141007) |
+| 🏢 **Tenstorrent** | C++ Machine Learning Engineer, AI Models Training | Santa Clara | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/4607141007) |
 | 🏢 **Datadog** | AI Research Scientist – Datadog AI Research (DAIR) | New York | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669) |
 | 🏢 **HubSpot** | Analytics Engineer | Remote | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hubspot.com/careers/jobs/7358191?gh_jid=7358191) |
 | 🏢 **Lucid Motors** | Perception Machine Learning Engineer – ADAS | Southfield, MI | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4759229007) |
@@ -209,12 +209,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Coinbase** | Software Engineer, Backend (Institutional - Custody) | Remote | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7013955?gh_jid=7013955) |
 | 🏢 **Coinbase** | Software Engineer - Full Stack (EAA - Compliance) | Remote | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/6233713?gh_jid=6233713) |
 | 🏢 **Scale AI** | STEM Fellow - Human Frontier Collective (US) | United States | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4574113005) |
-| 🏢 **Coinbase** | Software Engineer, Frontend - Identity | Remote | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7558035?gh_jid=7558035) |
+| 🏢 **Coinbase** | Software Engineer, Frontend - Identity | Remote | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7558035?gh_jid=7558035) |
 | 🏢 **Waymo** | ASIC Design Verification Engineer | Mountain View, CA | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7656843) |
 | 🏢 **Anduril** | Robotics Software Engineer, Path Planning | Costa Mesa | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5030896007?gh_jid=5030896007) |
 | 🏢 **xAI** | Hardcore Engineer - Infrastructure/Supercomputing | Palo Alto, CA | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/4827533007) |
 | 🏢 **Verkada** | Data Strategy Associate, Global Revenue Informatics | San Mateo, CA | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5064464007) |
-| 🏢 **Faire** | Verification Associate | San Francisco, CA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8445021002?gh_jid=8445021002) |
+| 🏢 **Faire** | Verification Associate | San Francisco, CA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8445021002?gh_jid=8445021002) |
 | 🏢 **Datadog** | Strategic Finance Associate - NYC | New York | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7624017/?gh_jid=7624017) |
 | 🏢 **Faire** | Strategic Finance & Systems Automation Specialist | New York City, NY | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8444503002?gh_jid=8444503002) |
 | 🏢 **Instacart** | Program Analyst, Legal Compliance | United States - R... | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://instacart.careers/job/?gh_jid=7536747) |
@@ -223,7 +223,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Okta** | Strategic Account Executive, Auth0 | San Francisco | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7463775?gh_jid=7463775) |
 | 🏢 **Okta** | Strategic Account Executive, Auth0 | Seattle | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7465810?gh_jid=7465810) |
 | 🏢 **Crusoe** | Strategic Sourcing Data Analyst | Denver, CO | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/crusoe/cf79c92a-3895-4c8d-97a7-984dffc3222c/application) |
-| 🏢 **Okta** | Strategic Account Executive, St. Louis, MO | Kansas City | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7354266?gh_jid=7354266) |
+| 🏢 **Okta** | Strategic Account Executive, St. Louis, MO | Kansas City | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7354266?gh_jid=7354266) |
 | 🏢 **Anthropic** | Research Compute Operations | San Francisco, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5120985008) |
 | 🏢 **Ripple** | Business Insights Analyst | Chicago | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://ripple.com/careers/all-jobs/job/7651754?gh_jid=7651754) |
 | 🏢 **Amazon Web Services, Inc.** | Software Development Engineer, IDEAS | Seattle, WA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3193218/software-development-engineer-ideas) |
@@ -344,7 +344,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Adobe** | Forward Deployed AI Engineer - Creative Technologist | 4 Locations | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Forward-Deployed-AI-Engineer---Creative-Technologist_R166206) |
 | 🏢 **Scale AI** | Machine Learning Fellow - Human Frontier Collective (US) | United States | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4660340005) |
 | 🏢 **Adobe** | Machine Learning and NLP Engineer | San Jose | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-and-NLP-Engineer_R166111) |
-| 🏢 **Figure AI** | Helix AI Engineer, Agentic Systems | San Jose, CA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4659175006) |
+| 🏢 **Figure AI** | Helix AI Engineer, Agentic Systems | San Jose, CA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4659175006) |
 | 🏢 **Databricks** | AI Engineer - FDE (Forward Deployed Engineer) | United States | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8335860002) |
 | 🏢 **Orcaworks  Build Your Digital Coworker** | Applied AI/ML Engineer (Entry Level) — Build & Deploy AI | Atlanta | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobleads.com/us/job/applied-ai-ml-engineer-entry-level-build-deploy-ai--atlanta--e952868b6c98da74fe57ab06501ad2e02) |
 | 🏢 **Waymo** | ML Engineer, Foundation Model Evaluation | Mountain View, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7536948) |
