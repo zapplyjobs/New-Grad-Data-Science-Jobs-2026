@@ -9,16 +9,16 @@
 
 # Data Science Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-415-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-414-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-108-blue?style=flat&logo=building)
-![Data Analyst](https://img.shields.io/badge/Data_Analyst-228-red?style=flat&logo=star)
+![Data Analyst](https://img.shields.io/badge/Data_Analyst-227-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time data science, analytics, and machine learning jobs from 108+ top companies like Anthropic, Coinbase, and Instacart. Updated every 15 minutes with 415+ fresh opportunities for new graduates, data science students, and entry-level data analysts.</p>
+<p align="center">🚀 Real-time data science, analytics, and machine learning jobs from 108+ top companies like Anthropic, Coinbase, and Instacart. Updated every 15 minutes with 414+ fresh opportunities for new graduates, data science students, and entry-level data analysts.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and data-first companies like Anthropic, Coinbase, and Instacart.</p>
 
@@ -77,9 +77,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Booz Allen Hamilton** | AI Data Scientist | Fort Meade, MD | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/AI-Data-Scientist_R0231049-1) |
 | 🏢 **Booz Allen Hamilton** | Data Scientist, Junior | Charleston, SC | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/Data-Scientist--Junior_R0233003) |
 | 🏢 **Booz Allen Hamilton** | Data Scientist | Washington, DC | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Data-Scientist_R0235037) |
-| 🏢 **DeepMind** | Research Scientist, Safety and Alignment for Humanoid Robotics | New York City, US | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/deepmind/jobs/7576917) |
-| 🏢 **Home Depot** | Entry-Level Data Scientist - Tools & Automation | Atlanta | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ksnt.com/jobs/entry-level-data-scientist-tools-automation-atlanta-georgia/2646838322-2/) |
-| 🏢 **Emonics LLC** | Machine Learning Engineer | Brookline | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.disabledperson.com/jobs/70543841-machine-learning-engineer) |
+| 🏢 **DeepMind** | Research Scientist, Safety and Alignment for Humanoid Robotics | New York City, US | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/deepmind/jobs/7576917) |
+| 🏢 **Home Depot** | Entry-Level Data Scientist - Tools & Automation | Atlanta | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ksnt.com/jobs/entry-level-data-scientist-tools-automation-atlanta-georgia/2646838322-2/) |
+| 🏢 **Emonics LLC** | Machine Learning Engineer | Brookline | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.disabledperson.com/jobs/70543841-machine-learning-engineer) |
 | 🏢 **Tenstorrent** | C++ Machine Learning Engineer, AI Models Training | Santa Clara | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/tenstorrent/jobs/4607141007) |
 | 🏢 **Datadog** | AI Research Scientist – Datadog AI Research (DAIR) | New York | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669) |
 | 🏢 **HubSpot** | Analytics Engineer | Remote | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hubspot.com/careers/jobs/7358191?gh_jid=7358191) |
@@ -196,29 +196,29 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Relativity Space** | Friction Stir Welding Technician I, Second Shift | Long Beach | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8391441002?gh_jid=8391441002) |
 | 🏢 **Relativity Space** | Quality Engineer I | Long Beach | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8225455002?gh_jid=8225455002) |
 | 🏢 **Discord** | Product Designer, Ads | San Francisco Bay... | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8445676002) |
-| 🏢 **Benchling** | Software Engineer, Insights | San Francisco, CA | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/benchling/ee376da3-ed8b-410f-b11b-4ce983ba0ebd/application) |
-| 🏢 **Scale AI** | Technical Sourcer, Contract | San Francisco, CA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4667964005) |
-| 🏢 **Chime** | Data Analyst, Lending | San Francisco, CA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/chime/jobs/8365502002?gh_jid=8365502002) |
+| 🏢 **Benchling** | Software Engineer, Insights | San Francisco, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/benchling/ee376da3-ed8b-410f-b11b-4ce983ba0ebd/application) |
+| 🏢 **Scale AI** | Technical Sourcer, Contract | San Francisco, CA | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4667964005) |
+| 🏢 **Chime** | Data Analyst, Lending | San Francisco, CA | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/chime/jobs/8365502002?gh_jid=8365502002) |
 | 🏢 **Faire** | IT Support Engineer | San Francisco, CA | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8439888002?gh_jid=8439888002) |
-| 🏢 **D.E. Shaw** | Quantitative Researcher | New York | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/7650182) |
-| 🏢 **Coinbase** | Executive Assistant | Remote | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7648817?gh_jid=7648817) |
-| 🏢 **Coinbase** | Reconciliation Operations & Strategy Associate | Remote | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7650231?gh_jid=7650231) |
-| 🏢 **Coinbase** | Software Engineer - Salesforce Platform (EAA) | Remote | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7652048?gh_jid=7652048) |
-| 🏢 **Coinbase** | Trade Surveillance Associate | Remote | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7647593?gh_jid=7647593) |
-| 🏢 **Coinbase** | Software Engineer | Remote | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7642536?gh_jid=7642536) |
-| 🏢 **Coinbase** | Security Engineer, CorpSec | Remote | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7611268?gh_jid=7611268) |
-| 🏢 **Coinbase** | Software Engineer, DevSec | Remote | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7595352?gh_jid=7595352) |
-| 🏢 **Coinbase** | Software Engineer, Backend (Consumer - Advanced Trading) | Remote | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7591861?gh_jid=7591861) |
-| 🏢 **Coinbase** | Software Engineer, Backend (Institutional - Foundations, Transfers) | Remote | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7591737?gh_jid=7591737) |
-| 🏢 **Coinbase** | Twitter Content Creator | Remote | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7589243?gh_jid=7589243) |
-| 🏢 **Coinbase** | Counsel, Marketing | Remote | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7550873?gh_jid=7550873) |
-| 🏢 **Coinbase** | Accountant, Prime Financing | Remote | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7532645?gh_jid=7532645) |
-| 🏢 **Coinbase** | Supervisor, Customer Success Team (Onsite - Relocation Assistance Available) | Charlotte, NC | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7156049?gh_jid=7156049) |
-| 🏢 **Coinbase** | Software Engineer, Backend (Institutional - Custody) | Remote | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7013955?gh_jid=7013955) |
-| 🏢 **Coinbase** | Software Engineer - Full Stack (EAA - Compliance) | Remote | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/6233713?gh_jid=6233713) |
+| 🏢 **D.E. Shaw** | Quantitative Researcher | New York | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/7650182) |
+| 🏢 **Coinbase** | Executive Assistant | Remote | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7648817?gh_jid=7648817) |
+| 🏢 **Coinbase** | Reconciliation Operations & Strategy Associate | Remote | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7650231?gh_jid=7650231) |
+| 🏢 **Coinbase** | Software Engineer - Salesforce Platform (EAA) | Remote | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7652048?gh_jid=7652048) |
+| 🏢 **Coinbase** | Trade Surveillance Associate | Remote | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7647593?gh_jid=7647593) |
+| 🏢 **Coinbase** | Software Engineer | Remote | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7642536?gh_jid=7642536) |
+| 🏢 **Coinbase** | Security Engineer, CorpSec | Remote | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7611268?gh_jid=7611268) |
+| 🏢 **Coinbase** | Software Engineer, DevSec | Remote | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7595352?gh_jid=7595352) |
+| 🏢 **Coinbase** | Software Engineer, Backend (Consumer - Advanced Trading) | Remote | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7591861?gh_jid=7591861) |
+| 🏢 **Coinbase** | Software Engineer, Backend (Institutional - Foundations, Transfers) | Remote | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7591737?gh_jid=7591737) |
+| 🏢 **Coinbase** | Twitter Content Creator | Remote | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7589243?gh_jid=7589243) |
+| 🏢 **Coinbase** | Counsel, Marketing | Remote | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7550873?gh_jid=7550873) |
+| 🏢 **Coinbase** | Accountant, Prime Financing | Remote | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7532645?gh_jid=7532645) |
+| 🏢 **Coinbase** | Supervisor, Customer Success Team (Onsite - Relocation Assistance Available) | Charlotte, NC | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7156049?gh_jid=7156049) |
+| 🏢 **Coinbase** | Software Engineer, Backend (Institutional - Custody) | Remote | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7013955?gh_jid=7013955) |
+| 🏢 **Coinbase** | Software Engineer - Full Stack (EAA - Compliance) | Remote | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/6233713?gh_jid=6233713) |
 | 🏢 **Scale AI** | STEM Fellow - Human Frontier Collective (US) | United States | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4574113005) |
 | 🏢 **Coinbase** | Software Engineer, Frontend - Identity | Remote | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7558035?gh_jid=7558035) |
-| 🏢 **Waymo** | ASIC Design Verification Engineer | Mountain View, CA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7656843) |
+| 🏢 **Waymo** | ASIC Design Verification Engineer | Mountain View, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7656843) |
 | 🏢 **Amazon Development Center U.S., Inc.** | Software Development Engineer, Healthcare AI | Seattle, WA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3194567/software-development-engineer-healthcare-ai) |
 | 🏢 **Jobsultant Solutions** | Data Analyst - Entry Level (Remote) | Boston | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/7AsevZrhRo2GIvcqJiVBqN) |
 | 🏢 **Anduril** | Robotics Software Engineer, Path Planning | Costa Mesa | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5030896007?gh_jid=5030896007) |
@@ -346,7 +346,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Whatnot** | Machine Learning Platform Engineer | San Francisco, CA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/whatnot/11162b1e-e7c9-432d-8ef6-6e89d28b3078/application) |
 | 🏢 **Whatnot** | LLM Platform Engineer | San Francisco, CA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/whatnot/bbf75c51-3a20-4989-bd13-1f24b66dbb16/application) |
 | 🏢 **Anthropic** | Finance AI Engineer | San Francisco, CA | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5079156008) |
-| 🏢 **Anthropic** | Research Engineer, Cybersecurity Reinforcement Learning | San Francisco, CA | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5025624008) |
+| 🏢 **Anthropic** | Research Engineer, Cybersecurity Reinforcement Learning | San Francisco, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5025624008) |
 | 🏢 **Scale AI** | Machine Learning Fellow - Human Frontier Collective (US) | United States | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4660340005) |
 | 🏢 **Adobe** | Machine Learning and NLP Engineer | San Jose | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-and-NLP-Engineer_R166111) |
 | 🏢 **Figure AI** | Helix AI Engineer, Agentic Systems | San Jose, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4659175006) |
@@ -450,7 +450,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 415 current opportunities from 108 companies**
+**🎯 414 current opportunities from 108 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 

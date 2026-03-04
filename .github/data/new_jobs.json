@@ -11678,34 +11678,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-18T17:35:31-05:00"
-  },
-  {
-    "job_id": "greenhouse-scaleai-4663053005",
-    "job_title": "ML Systems Engineer, Robotics",
-    "employer_name": "Scale AI",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4663053005",
-    "job_posted_at_datetime_utc": "2026-02-17T19:47:19-05:00",
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "ff03388fbeb040308b27014a357be1b7cb808d20e24aafd891fec921ed39011e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-02-17T19:47:19-05:00"
   }
 ]
