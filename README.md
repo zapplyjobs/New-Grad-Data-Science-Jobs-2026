@@ -75,14 +75,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | 🏢 **Caterpillar** | Data Scientist - Finance Business Intelligence | Nashville | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Nashville-Tennessee/Business-Intelligence-Analyst_R0000354883) |
 | 🏢 **Booz Allen Hamilton** | Data Scientist | McLean, VA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Scientist_R0229817) |
-| 🏢 **DeepMind** | Research Scientist, Safety and Alignment for Humanoid Robotics | New York City, US | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/deepmind/jobs/7576917) |
+| 🏢 **DeepMind** | Research Scientist, Safety and Alignment for Humanoid Robotics | New York City, US | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/deepmind/jobs/7576917) |
 | 🏢 **Lucid Motors** | Perception Machine Learning Engineer – ADAS | Southfield, MI | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4759229007) |
 | 🏢 **Handshake** | Spatial Data Scientist - AI Trainer | Remote | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/handshake/8330e86c-9f22-47bc-8c68-b9fc9fee9b37/application) |
 | 🏢 **Glean** | Machine Learning Engineer - LLM Evals + Observability | San Francisco Bay... | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/gleanwork/jobs/4669417005) |
 | 🏢 **Library Systems & Services** | Data Scientist at Library Systems & Services Beltsville, MD | Beltsville | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://majoretteevents.com/job-listing/job/data-scientist-at-library-systems-and-services-beltsville-md-T0VZd2RQUXFKQ2Q2bDI0ZVo4MklxOEZZVmc9PQ==) |
 | 🏢 **The MITRE Corporation** | Entry Level - Data Science, Artificial Intelligence, Operations Research, Math and Statistics | McLean | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115687/Entry-Level-Data-Science-Artificial-Intelligence-Operations-Research-Math-and-Statistics) |
-| 🏢 **Faire** | Applied AI / ML Scientist - Ads Bidding | San Francisco, CA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8400765002?gh_jid=8400765002) |
-| 🏢 **Faire** | Applied AI / ML Scientist - Search Ads | San Francisco, CA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8400855002?gh_jid=8400855002) |
+| 🏢 **Faire** | Applied AI / ML Scientist - Ads Bidding | San Francisco, CA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8400765002?gh_jid=8400765002) |
+| 🏢 **Faire** | Applied AI / ML Scientist - Search Ads | San Francisco, CA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8400855002?gh_jid=8400855002) |
 | 🏢 **Reddit** | Machine Learning Engineer, Ads | United States | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7131932) |
 | 🏢 **Reddit** | Data Scientist, Ads | United States | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/6580815) |
 | 🏢 **Amazon.com Services LLC** | Applied Scientist, Amazon Music AI Personalization | San Francisco, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3195394/applied-scientist-amazon-music-ai-personalization) |
@@ -185,8 +185,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Adobe** | Data Engineer - Last Mile & Application Layer (Tron Analytics Platform) | San Jose | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Data-Engineer---Last-Mile---Application-Layer--Tron-Analytics-Platform-_R166064-1) |
-| 🏢 **Anduril** | Software Engineer | Fort Collins | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4997234007?gh_jid=4997234007) |
-| 🏢 **Okta** | Sales Development Representative, East | Washington, DC | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7013646?gh_jid=7013646) |
+| 🏢 **Anduril** | Software Engineer | Fort Collins | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4997234007?gh_jid=4997234007) |
+| 🏢 **Okta** | Sales Development Representative, East | Washington, DC | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7013646?gh_jid=7013646) |
 | 🏢 **Relativity Space** | Orbital Tube Welder I, Second Shift | Long Beach | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8450768002?gh_jid=8450768002) |
 | 🏢 **Relativity Space** | Orbital Tube Welder I, First Shift | Long Beach | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8450762002?gh_jid=8450762002) |
 | 🏢 **Okta** | Account Executive, Strategic Inside Sales (Chicago) | Chicago | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7086125?gh_jid=7086125) |
@@ -211,23 +211,23 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anthropic** | Technical Influence Operations Threat Investigator | United States | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5140239008) |
 | 🏢 **Verkada** | Data Strategy Associate, Global Revenue Informatics | San Mateo, CA | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5064464007) |
 | 🏢 **Verkada** | Software Engineer - Fleet Management | San Mateo, CA | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4135093007) |
-| 🏢 **DeepMind** | Research Engineer, Response Quality/Hermes | Mountain View, US | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/deepmind/jobs/7669124) |
+| 🏢 **DeepMind** | Research Engineer, Response Quality/Hermes | Mountain View, US | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/deepmind/jobs/7669124) |
 | 🏢 **Dropbox** | Full Stack Software Engineer, Dash Experiences | Remote | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7569140?gh_jid=7569140) |
 | 🏢 **Dropbox** | People Team Data Analyst, Talent Acquisition | Remote | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7536371?gh_jid=7536371) |
 | 🏢 **SpaceX** | Software Engineer, Data - Top Secret Clearance (Starlink) | Hawthorne, CA | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8449846002?gh_jid=8449846002) |
 | 🏢 **Coinbase** | Financial Analyst, Corporate FP&A | Remote | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7676111?gh_jid=7676111) |
 | 🏢 **Faire** | Strategic Account Executive | San Francisco, CA | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8324861002?gh_jid=8324861002) |
-| 🏢 **Dropbox** | Associate Product Counsel | Remote | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7477204?gh_jid=7477204) |
+| 🏢 **Dropbox** | Associate Product Counsel | Remote | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dropbox.com/listing/7477204?gh_jid=7477204) |
 | 🏢 **Moloco** | Software Engineer - Ads Applied Data | Seattle | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/moloco/jobs/7593849003) |
-| 🏢 **Faire** | Community Specialist (Temporary, 6 Months) | San Francisco, CA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8403993002?gh_jid=8403993002) |
-| 🏢 **Faire** | Event Marketing Associate | San Francisco, CA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8409045002?gh_jid=8409045002) |
-| 🏢 **Faire** | Fraud Analyst | San Francisco, CA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8400745002?gh_jid=8400745002) |
-| 🏢 **Faire** | HR Business Partner | San Francisco, CA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8431987002?gh_jid=8431987002) |
-| 🏢 **Faire** | IT Support Engineer | San Francisco, CA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8439888002?gh_jid=8439888002) |
-| 🏢 **Faire** | Production Designer | San Francisco, CA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8427503002?gh_jid=8427503002) |
-| 🏢 **Faire** | Sales Development Representative | San Francisco, CA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8392477002?gh_jid=8392477002) |
-| 🏢 **Faire** | Strategic Finance & Systems Automation Specialist | New York City, NY | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8444503002?gh_jid=8444503002) |
-| 🏢 **Faire** | Verification Associate | San Francisco, CA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8445021002?gh_jid=8445021002) |
+| 🏢 **Faire** | Community Specialist (Temporary, 6 Months) | San Francisco, CA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8403993002?gh_jid=8403993002) |
+| 🏢 **Faire** | Event Marketing Associate | San Francisco, CA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8409045002?gh_jid=8409045002) |
+| 🏢 **Faire** | Fraud Analyst | San Francisco, CA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8400745002?gh_jid=8400745002) |
+| 🏢 **Faire** | HR Business Partner | San Francisco, CA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8431987002?gh_jid=8431987002) |
+| 🏢 **Faire** | IT Support Engineer | San Francisco, CA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8439888002?gh_jid=8439888002) |
+| 🏢 **Faire** | Production Designer | San Francisco, CA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8427503002?gh_jid=8427503002) |
+| 🏢 **Faire** | Sales Development Representative | San Francisco, CA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8392477002?gh_jid=8392477002) |
+| 🏢 **Faire** | Strategic Finance & Systems Automation Specialist | New York City, NY | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8444503002?gh_jid=8444503002) |
+| 🏢 **Faire** | Verification Associate | San Francisco, CA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8445021002?gh_jid=8445021002) |
 | 🏢 **Coinbase** | Sourcing Analyst | Remote | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7676109?gh_jid=7676109) |
 | 🏢 **Uptime Crew** | Entry Level AI Software Engineer | Poway | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.disabledperson.com/jobs/70611657-entry-level-ai-software-engineer) |
 | 🏢 **MongoDB** | 2026 - Next in Tech Summit, NORAM | Austin; New York ... | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.mongodb.com/careers/job/?gh_jid=7569187) |
