@@ -12912,33 +12912,5 @@
     "_source": "aggregator",
     "_original_source": "ashby",
     "job_posted_at": "2026-02-20T19:09:58.966+00:00"
-  },
-  {
-    "job_id": "greenhouse-scaleai-4612388005",
-    "job_title": "Technical Recruiter",
-    "employer_name": "Scale AI",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4612388005",
-    "job_posted_at_datetime_utc": "2026-02-20T12:39:21-05:00",
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "4fb3bfd2fe015a60d84b251a509343cebebf18a0cccc091707eb38524b472b97",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-02-20T12:39:21-05:00"
   }
 ]
