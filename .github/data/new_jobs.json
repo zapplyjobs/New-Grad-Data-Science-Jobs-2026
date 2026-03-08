@@ -1803,63 +1803,6 @@
     "job_posted_at": "2026-03-06T09:30:57-05:00"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0235489",
-    "job_title": "Enterprise Reporting Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Enterprise-Reporting-Data-Scientist_R0235489",
-    "job_posted_at_datetime_utc": "2026-03-06T12:33:25.437Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f60e5f42fea506ea867a28259195ec60e95d43505560819fef7d0cb93acb5078",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-06T12:33:25.437Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235352",
-    "job_title": "AI DevOps Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/AI-DevOps-Engineer_R0235352",
-    "job_posted_at_datetime_utc": "2026-03-06T12:33:25.436Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "064e9b2129f4319920d02ea194328144dee7f38de0141ebd508ce3f9b9bc9beb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-06T12:33:25.436Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0235347",
     "job_title": "Machine Learning Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -1868,7 +1811,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Machine-Learning-Engineer_R0235347",
-    "job_posted_at_datetime_utc": "2026-03-06T12:33:25.436Z",
+    "job_posted_at_datetime_utc": "2026-03-06T12:48:28.310Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "2b242fc5848ce1b3da78245d04e77e6ab79bf15813f47051cfc1cb868961fcc0",
@@ -1886,7 +1829,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T12:33:25.436Z"
+    "job_posted_at": "2026-03-06T12:48:28.310Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0235344",
@@ -1897,7 +1840,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/Computer-Vision-Software-Engineer_R0235344-1",
-    "job_posted_at_datetime_utc": "2026-03-06T12:33:25.436Z",
+    "job_posted_at_datetime_utc": "2026-03-06T12:48:28.310Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a81f717036164129464499939e6cde829e59d0b44ec95566b10db27a6b2ac14c",
@@ -1916,7 +1859,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T12:33:25.436Z"
+    "job_posted_at": "2026-03-06T12:48:28.310Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0235323",
@@ -1927,7 +1870,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/Data-Engineer_R0235323",
-    "job_posted_at_datetime_utc": "2026-03-06T12:33:25.436Z",
+    "job_posted_at_datetime_utc": "2026-03-06T12:48:28.310Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b5b484f665e689547402bc63ca9475a88f14fc95b1fc1cc4d205a31d578e6e33",
@@ -1945,7 +1888,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T12:33:25.436Z"
+    "job_posted_at": "2026-03-06T12:48:28.310Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0235305",
@@ -1956,7 +1899,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/Artificial-Intelligence---Machine-Learning-Engineer--Junior_R0235305",
-    "job_posted_at_datetime_utc": "2026-03-06T12:33:25.436Z",
+    "job_posted_at_datetime_utc": "2026-03-06T12:48:28.310Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "66ec627bfd5c0f7356854b6cf85f25e27ec87879c64aaf2eefeef3aed63f0f90",
@@ -1975,7 +1918,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T12:33:25.436Z"
+    "job_posted_at": "2026-03-06T12:48:28.310Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234405",
@@ -1986,7 +1929,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Data-Scientist_R0234405",
-    "job_posted_at_datetime_utc": "2026-03-06T12:33:25.436Z",
+    "job_posted_at_datetime_utc": "2026-03-06T12:48:28.310Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a16bfe88c7a2270015141c391f408207033d4f10d460b3629783295854281c9e",
@@ -2004,7 +1947,64 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-06T12:33:25.436Z"
+    "job_posted_at": "2026-03-06T12:48:28.310Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235489",
+    "job_title": "Enterprise Reporting Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Enterprise-Reporting-Data-Scientist_R0235489",
+    "job_posted_at_datetime_utc": "2026-03-06T12:48:28.310Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f60e5f42fea506ea867a28259195ec60e95d43505560819fef7d0cb93acb5078",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-06T12:48:28.310Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235352",
+    "job_title": "AI DevOps Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/AI-DevOps-Engineer_R0235352",
+    "job_posted_at_datetime_utc": "2026-03-06T12:48:28.309Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "064e9b2129f4319920d02ea194328144dee7f38de0141ebd508ce3f9b9bc9beb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-06T12:48:28.309Z"
   },
   {
     "job_id": "workday-leidos-R-00177577",
@@ -3422,67 +3422,6 @@
     "job_posted_at": "2026-03-05T19:47:41-05:00"
   },
   {
-    "job_id": "js-johns-hopkins-applied-physics-laboratory-7zk_xqcii0d2t6pyaaaaaa==",
-    "job_title": "Artificial Intelligence and Machine Learning (AI/ML) Research Engineer Graduate",
-    "employer_name": "Johns Hopkins Applied Physics Laboratory",
-    "job_city": "Laurel",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://prosple.com/graduate-employers/johns-hopkins-applied-physics-laboratory/jobs-internships/artificial-intelligence-and-machine-learning-aiml-research-engineer-graduate",
-    "job_posted_at_datetime_utc": "2026-03-06T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "d8dd345d14fa3d712551657385d5da0aec07cd601b2186880dda5bc91fc53484",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-06T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-emonics-llc-x0--glyv-kifs9kdaaaaaa==",
-    "job_title": "Machine Learning Engineer, Entry Level",
-    "employer_name": "Emonics LLC",
-    "job_city": "Los Angeles",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/2RxSahiKNlfsGh8l6MrOs4",
-    "job_posted_at_datetime_utc": "2026-03-06T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "63580d78442d8186adce89cb1a9a24490fd6cf3005f6d0f7ad47f54997faf186",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-06T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-3bd93094-2672-408b-915b-ef1f61fb6d54",
     "job_title": "DFT Design Engineer, Machine Learning Acceleration",
     "employer_name": "Annapurna Labs (U.S.) Inc.",
@@ -3542,6 +3481,67 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "job_posted_at": "2026-03-06T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-johns-hopkins-applied-physics-laboratory-7zk_xqcii0d2t6pyaaaaaa==",
+    "job_title": "Artificial Intelligence and Machine Learning (AI/ML) Research Engineer Graduate",
+    "employer_name": "Johns Hopkins Applied Physics Laboratory",
+    "job_city": "Laurel",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://prosple.com/graduate-employers/johns-hopkins-applied-physics-laboratory/jobs-internships/artificial-intelligence-and-machine-learning-aiml-research-engineer-graduate",
+    "job_posted_at_datetime_utc": "2026-03-06T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "d8dd345d14fa3d712551657385d5da0aec07cd601b2186880dda5bc91fc53484",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-06T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-emonics-llc-x0--glyv-kifs9kdaaaaaa==",
+    "job_title": "Machine Learning Engineer, Entry Level",
+    "employer_name": "Emonics LLC",
+    "job_city": "Los Angeles",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/2RxSahiKNlfsGh8l6MrOs4",
+    "job_posted_at_datetime_utc": "2026-03-06T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "63580d78442d8186adce89cb1a9a24490fd6cf3005f6d0f7ad47f54997faf186",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
     "job_posted_at": "2026-03-06T00:00:00.000Z"
   },
   {
@@ -4579,7 +4579,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/XMLNAME-----Associate-Level-Product-Data-Management-Specialist_JR2026498002-1",
-    "job_posted_at_datetime_utc": "2026-03-05T12:33:46.355Z",
+    "job_posted_at_datetime_utc": "2026-03-05T12:48:49.348Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "bb49fff3b4f612b461c791ab0f5f616952261b47e68378c90699a252126a33ed",
@@ -4596,7 +4596,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T12:33:46.355Z"
+    "job_posted_at": "2026-03-05T12:48:49.348Z"
   },
   {
     "job_id": "workday-boeing-JR2025475714",
@@ -4607,7 +4607,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Quality-Engineer--Associate-or-Mid-Level-_JR2025475714-1",
-    "job_posted_at_datetime_utc": "2026-03-05T12:33:46.355Z",
+    "job_posted_at_datetime_utc": "2026-03-05T12:48:49.348Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "9047a0f009ec1a0c350e0d5a237bfda850ac53a7056208163fe2b8bfe5e66f4d",
@@ -4624,7 +4624,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T12:33:46.355Z"
+    "job_posted_at": "2026-03-05T12:48:49.348Z"
   },
   {
     "job_id": "workday-cadence-R52487",
@@ -4635,7 +4635,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-II_R52487-1",
-    "job_posted_at_datetime_utc": "2026-03-05T12:33:40.640Z",
+    "job_posted_at_datetime_utc": "2026-03-05T12:48:44.907Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "cfcde87de196c06ca059a6df8acf16747d609565135ecc12c478ea8cb2f9855f",
@@ -4654,266 +4654,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T12:33:40.640Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235285",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/Data-Scientist_R0235285",
-    "job_posted_at_datetime_utc": "2026-03-05T12:33:25.437Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "03805b8e47c31dd2d5c5b3124ae9e615c8ebce9ae9f7c09d2b90c65d9158a4e0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T12:33:25.437Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235167",
-    "job_title": "AI & ML Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI---ML-Engineer_R0235167",
-    "job_posted_at_datetime_utc": "2026-03-05T12:33:25.437Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5656b9f4c69ea3bee2c2a0d9d852703ed98e247773b94817cc2fdb9975566ba6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T12:33:25.437Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234819",
-    "job_title": "Solutions Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Hanscom-AFB-MA/Solutions-Engineer_R0234819",
-    "job_posted_at_datetime_utc": "2026-03-05T12:33:25.437Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5e320e6198b65bf73dcf37f1b1f9358de03bb1d205b7e6490d37563effba9d25",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T12:33:25.437Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234914",
-    "job_title": "Zero Trust Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Honolulu",
-    "job_state": "HI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Zero-Trust-Engineer_R0234914",
-    "job_posted_at_datetime_utc": "2026-03-05T12:33:25.437Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "23d90c176a5994bf27d17f3b2e5ab27d17a7b102f14a7012dd80593edf275a03",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T12:33:25.437Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235258",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Data-Engineer_R0235258",
-    "job_posted_at_datetime_utc": "2026-03-05T12:33:25.437Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0c582816b952038d2336690ba4ba03325c7b1020e62c9457cd30b6a7af1d2090",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T12:33:25.437Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235233",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Edgewood",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Edgewood-MD/Data-Scientist_R0235233",
-    "job_posted_at_datetime_utc": "2026-03-05T12:33:25.437Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a66a0ed346ff3581c82febd4f4a2963111cd026df38058da292fa3d19fc2f06a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T12:33:25.437Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235224",
-    "job_title": "AI and ML Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Offutt-AFB-NE/AI-and-ML-Engineer_R0235224-1",
-    "job_posted_at_datetime_utc": "2026-03-05T12:33:25.437Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fec404b5dca8df7824005eaac0a4ce1251ff6ff217023e0e169a26bc8d97f530",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T12:33:25.437Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235037",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Data-Scientist_R0235037",
-    "job_posted_at_datetime_utc": "2026-03-05T12:33:25.437Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6d2a6d095e84e4c42252ccbe33e64b2dfee971c4288054d9c757842010684cca",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T12:33:25.437Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235198",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Scientist_R0235198",
-    "job_posted_at_datetime_utc": "2026-03-05T12:33:25.437Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6575aa53265ead8a219a697290777bf8b4d62d6cb22df7ef2eba97c7501e8b2b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-05T12:33:25.437Z"
+    "job_posted_at": "2026-03-05T12:48:44.907Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234215",
@@ -4924,7 +4665,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Machine-Learning-Engineer_R0234215",
-    "job_posted_at_datetime_utc": "2026-03-05T12:33:25.437Z",
+    "job_posted_at_datetime_utc": "2026-03-05T12:48:28.312Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "2b242fc5848ce1b3da78245d04e77e6ab79bf15813f47051cfc1cb868961fcc0",
@@ -4942,7 +4683,266 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-05T12:33:25.437Z"
+    "job_posted_at": "2026-03-05T12:48:28.312Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235224",
+    "job_title": "AI and ML Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Offutt-AFB-NE/AI-and-ML-Engineer_R0235224-1",
+    "job_posted_at_datetime_utc": "2026-03-05T12:48:28.311Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fec404b5dca8df7824005eaac0a4ce1251ff6ff217023e0e169a26bc8d97f530",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T12:48:28.311Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235037",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Data-Scientist_R0235037",
+    "job_posted_at_datetime_utc": "2026-03-05T12:48:28.311Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6d2a6d095e84e4c42252ccbe33e64b2dfee971c4288054d9c757842010684cca",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T12:48:28.311Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235198",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Scientist_R0235198",
+    "job_posted_at_datetime_utc": "2026-03-05T12:48:28.311Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6575aa53265ead8a219a697290777bf8b4d62d6cb22df7ef2eba97c7501e8b2b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T12:48:28.311Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235285",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/Data-Scientist_R0235285",
+    "job_posted_at_datetime_utc": "2026-03-05T12:48:28.310Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "03805b8e47c31dd2d5c5b3124ae9e615c8ebce9ae9f7c09d2b90c65d9158a4e0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T12:48:28.310Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235167",
+    "job_title": "AI & ML Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI---ML-Engineer_R0235167",
+    "job_posted_at_datetime_utc": "2026-03-05T12:48:28.310Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5656b9f4c69ea3bee2c2a0d9d852703ed98e247773b94817cc2fdb9975566ba6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T12:48:28.310Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234819",
+    "job_title": "Solutions Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Hanscom-AFB-MA/Solutions-Engineer_R0234819",
+    "job_posted_at_datetime_utc": "2026-03-05T12:48:28.310Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5e320e6198b65bf73dcf37f1b1f9358de03bb1d205b7e6490d37563effba9d25",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T12:48:28.310Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234914",
+    "job_title": "Zero Trust Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Honolulu",
+    "job_state": "HI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Zero-Trust-Engineer_R0234914",
+    "job_posted_at_datetime_utc": "2026-03-05T12:48:28.310Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "23d90c176a5994bf27d17f3b2e5ab27d17a7b102f14a7012dd80593edf275a03",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T12:48:28.310Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235258",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Data-Engineer_R0235258",
+    "job_posted_at_datetime_utc": "2026-03-05T12:48:28.310Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0c582816b952038d2336690ba4ba03325c7b1020e62c9457cd30b6a7af1d2090",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T12:48:28.310Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235233",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Edgewood",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Edgewood-MD/Data-Scientist_R0235233",
+    "job_posted_at_datetime_utc": "2026-03-05T12:48:28.310Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a66a0ed346ff3581c82febd4f4a2963111cd026df38058da292fa3d19fc2f06a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-05T12:48:28.310Z"
   },
   {
     "job_id": "workday-boeing-JR2026496611",
@@ -6334,7 +6334,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Charlottesville/Data-Scientist-and-Geospatial-Analyst_322790",
-    "job_posted_at_datetime_utc": "2026-03-04T12:34:44.984Z",
+    "job_posted_at_datetime_utc": "2026-03-04T12:49:48.923Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "32e8f0380fcb502eaa98112c34c5cf67b76fcfe28820b3914689f6a4f9023175",
@@ -6351,152 +6351,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T12:34:44.984Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0233772",
-    "job_title": "Data Management Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Management-Engineer_R0233772",
-    "job_posted_at_datetime_utc": "2026-03-04T12:33:25.438Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dbc176ef32ff475e5280c8fb179afb9a9919e8be51b2765f8f73a3bcf6ac5589",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-04T12:33:25.438Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235118",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Scientist_R0235118",
-    "job_posted_at_datetime_utc": "2026-03-04T12:33:25.438Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6575aa53265ead8a219a697290777bf8b4d62d6cb22df7ef2eba97c7501e8b2b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-04T12:33:25.438Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235033",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Tampa",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Tampa-FL/Data-Scientist_R0235033",
-    "job_posted_at_datetime_utc": "2026-03-04T12:33:25.438Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9ecdacff1c9dcad366b2662f36bfe2b79070d204ec02fd92b92e39124c586435",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-04T12:33:25.438Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234300",
-    "job_title": "Health Services Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Health-Services-Data-Engineer_R0234300",
-    "job_posted_at_datetime_utc": "2026-03-04T12:33:25.438Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e1fcff4b3ab93d99c1625eb91a7434506143bd523df6d37d6af6654322432f35",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-04T12:33:25.438Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235105",
-    "job_title": "Data Visualization Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Bremerton",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Bremerton-WA/Data-Visualization-Analyst_R0235105",
-    "job_posted_at_datetime_utc": "2026-03-04T12:33:25.438Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "40f4e12600a3d870ab767438ccbd3f444453fd72d55cfe64610b1107c8a13254",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-04T12:33:25.438Z"
+    "job_posted_at": "2026-03-04T12:49:48.923Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0235181",
@@ -6507,7 +6362,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Machine-Learning-Engineer_R0235181",
-    "job_posted_at_datetime_utc": "2026-03-04T12:33:25.437Z",
+    "job_posted_at_datetime_utc": "2026-03-04T12:48:28.313Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "2b242fc5848ce1b3da78245d04e77e6ab79bf15813f47051cfc1cb868961fcc0",
@@ -6525,7 +6380,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T12:33:25.437Z"
+    "job_posted_at": "2026-03-04T12:48:28.313Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0233210",
@@ -6536,7 +6391,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Scientist_R0233210",
-    "job_posted_at_datetime_utc": "2026-03-04T12:33:25.437Z",
+    "job_posted_at_datetime_utc": "2026-03-04T12:48:28.313Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d0dbb1ee8d86ba6d756936ae6206ce7e68e8c324b4ca3d5da9b6f2332877267b",
@@ -6554,7 +6409,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T12:33:25.437Z"
+    "job_posted_at": "2026-03-04T12:48:28.313Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0235159",
@@ -6565,7 +6420,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/DSP-Software-Engineer_R0235159",
-    "job_posted_at_datetime_utc": "2026-03-04T12:33:25.437Z",
+    "job_posted_at_datetime_utc": "2026-03-04T12:48:28.313Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6957327b62a7dabd4b461a8f1442b0bd65a305187c4442ebd44219f01e778add",
@@ -6583,7 +6438,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T12:33:25.437Z"
+    "job_posted_at": "2026-03-04T12:48:28.313Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0233347",
@@ -6594,7 +6449,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Albuquerque-NM/Project-Control-Specialist_R0233347",
-    "job_posted_at_datetime_utc": "2026-03-04T12:33:25.437Z",
+    "job_posted_at_datetime_utc": "2026-03-04T12:48:28.313Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3cea52037633b535c846c0d1fb23bca3e8f225c9dfe5b68cf8f9f3bed68a6a00",
@@ -6611,7 +6466,152 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-04T12:33:25.437Z"
+    "job_posted_at": "2026-03-04T12:48:28.313Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0233772",
+    "job_title": "Data Management Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Management-Engineer_R0233772",
+    "job_posted_at_datetime_utc": "2026-03-04T12:48:28.313Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dbc176ef32ff475e5280c8fb179afb9a9919e8be51b2765f8f73a3bcf6ac5589",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-04T12:48:28.313Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235118",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Scientist_R0235118",
+    "job_posted_at_datetime_utc": "2026-03-04T12:48:28.313Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6575aa53265ead8a219a697290777bf8b4d62d6cb22df7ef2eba97c7501e8b2b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-04T12:48:28.313Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235033",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Tampa",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Tampa-FL/Data-Scientist_R0235033",
+    "job_posted_at_datetime_utc": "2026-03-04T12:48:28.313Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9ecdacff1c9dcad366b2662f36bfe2b79070d204ec02fd92b92e39124c586435",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-04T12:48:28.313Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234300",
+    "job_title": "Health Services Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Health-Services-Data-Engineer_R0234300",
+    "job_posted_at_datetime_utc": "2026-03-04T12:48:28.313Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e1fcff4b3ab93d99c1625eb91a7434506143bd523df6d37d6af6654322432f35",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-04T12:48:28.313Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235105",
+    "job_title": "Data Visualization Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Bremerton",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Bremerton-WA/Data-Visualization-Analyst_R0235105",
+    "job_posted_at_datetime_utc": "2026-03-04T12:48:28.313Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "40f4e12600a3d870ab767438ccbd3f444453fd72d55cfe64610b1107c8a13254",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-04T12:48:28.313Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0235098",
@@ -7187,7 +7187,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist-1_R0135485",
-    "job_posted_at_datetime_utc": "2026-03-03T12:34:56.785Z",
+    "job_posted_at_datetime_utc": "2026-03-03T12:49:59.598Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b99e713f3574950045cc8c48752ca38db0c23fa1aa60562cb8e9e925e7f71f2c",
@@ -7204,7 +7204,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T12:34:56.785Z"
+    "job_posted_at": "2026-03-03T12:49:59.598Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0235069",
@@ -7215,7 +7215,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Bioinformatics-Specialist_R0235069",
-    "job_posted_at_datetime_utc": "2026-03-03T12:33:25.439Z",
+    "job_posted_at_datetime_utc": "2026-03-03T12:48:28.314Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d268beeec6f042a98e61edb7059ee0f46a2075c3ccf6912cf505681050a38491",
@@ -7233,7 +7233,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T12:33:25.439Z"
+    "job_posted_at": "2026-03-03T12:48:28.314Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0235068",
@@ -7244,7 +7244,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Bioinformatics-Specialist_R0235068",
-    "job_posted_at_datetime_utc": "2026-03-03T12:33:25.439Z",
+    "job_posted_at_datetime_utc": "2026-03-03T12:48:28.314Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d268beeec6f042a98e61edb7059ee0f46a2075c3ccf6912cf505681050a38491",
@@ -7262,7 +7262,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T12:33:25.439Z"
+    "job_posted_at": "2026-03-03T12:48:28.314Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0231457",
@@ -7273,7 +7273,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Aviation-Data-Engineer_R0231457",
-    "job_posted_at_datetime_utc": "2026-03-03T12:33:25.439Z",
+    "job_posted_at_datetime_utc": "2026-03-03T12:48:28.314Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "902855a847dfb2d7212f64ed18aa6f3cfd4d6ca501b2128f95bdbe46aec115cc",
@@ -7291,7 +7291,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T12:33:25.439Z"
+    "job_posted_at": "2026-03-03T12:48:28.314Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0235049",
@@ -7302,7 +7302,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Doral-FL/Data-Governance-Specialist_R0235049",
-    "job_posted_at_datetime_utc": "2026-03-03T12:33:25.439Z",
+    "job_posted_at_datetime_utc": "2026-03-03T12:48:28.314Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4e333db9c8eeb7bfd7bb4a0aab707e004d5a5558a6389321cba89cf6c42aaa01",
@@ -7319,7 +7319,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T12:33:25.439Z"
+    "job_posted_at": "2026-03-03T12:48:28.314Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0233003",
@@ -7330,7 +7330,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/Data-Scientist--Junior_R0233003",
-    "job_posted_at_datetime_utc": "2026-03-03T12:33:25.439Z",
+    "job_posted_at_datetime_utc": "2026-03-03T12:48:28.314Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "220cc3e02ddaa5e299c6f956173f394af2f68c5e1ef8beadca6267150cec35eb",
@@ -7348,7 +7348,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T12:33:25.439Z"
+    "job_posted_at": "2026-03-03T12:48:28.314Z"
   },
   {
     "job_id": "workday-capital-one-R237204",
@@ -7359,7 +7359,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I--AI-Foundations-_R237204",
-    "job_posted_at_datetime_utc": "2026-03-03T12:32:59.379Z",
+    "job_posted_at_datetime_utc": "2026-03-03T12:48:02.238Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "9476ef466cdb7a6ee501969e94f67e7188bad3b3cc7e603322883c650109dcfe",
@@ -7377,7 +7377,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-03T12:32:59.379Z"
+    "job_posted_at": "2026-03-03T12:48:02.238Z"
   },
   {
     "job_id": "workday-adobe-R166206",
@@ -7619,6 +7619,37 @@
     "job_posted_at": "2026-03-02T19:55:49-05:00"
   },
   {
+    "job_id": "amazon-dc5fdb08-6d09-4dae-b1c1-5bc5882fe82f",
+    "job_title": "Software Development Engineer, Healthcare AI",
+    "employer_name": "Amazon Development Center U.S., Inc.",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/3194567/software-development-engineer-healthcare-ai",
+    "job_posted_at_datetime_utc": "2026-03-03T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2e0584f55302727d0194c9d03c7221a9d7f90df39b889ad90e4f296a1b871e9c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "job_posted_at": "2026-03-03T00:00:00.000Z"
+  },
+  {
     "job_id": "js-cosmoquick-nishrcwgr-xg-tmzaaaaaa==",
     "job_title": "Fresher Data Analyst Jobs in Baltimore",
     "employer_name": "Cosmoquick",
@@ -7675,37 +7706,6 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
-    "job_posted_at": "2026-03-03T00:00:00.000Z"
-  },
-  {
-    "job_id": "amazon-dc5fdb08-6d09-4dae-b1c1-5bc5882fe82f",
-    "job_title": "Software Development Engineer, Healthcare AI",
-    "employer_name": "Amazon Development Center U.S., Inc.",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/3194567/software-development-engineer-healthcare-ai",
-    "job_posted_at_datetime_utc": "2026-03-03T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2e0584f55302727d0194c9d03c7221a9d7f90df39b889ad90e4f296a1b871e9c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
     "job_posted_at": "2026-03-03T00:00:00.000Z"
   },
   {
@@ -8421,7 +8421,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Data-Scientist_JR0280682",
-    "job_posted_at_datetime_utc": "2026-03-02T12:35:15.496Z",
+    "job_posted_at_datetime_utc": "2026-03-02T12:50:19.171Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1995cf74ce7fd88395cfa36f640cf4691a5273dcf6ae1fcdc75af32584b32174",
@@ -8438,7 +8438,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T12:35:15.496Z"
+    "job_posted_at": "2026-03-02T12:50:19.171Z"
   },
   {
     "job_id": "workday-sharp-healthcare-JR203377",
@@ -8449,7 +8449,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://sharp.wd1.myworkdayjobs.com/External/job/San-Diego-CA/Credentialing-Data-Analyst---SHP-Health-Services---Telecommuter---Day-Shift---Full-Time_JR203377",
-    "job_posted_at_datetime_utc": "2026-03-02T12:34:20.835Z",
+    "job_posted_at_datetime_utc": "2026-03-02T12:49:24.229Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "25cdbcf52a5ba0192698276415668bdf2ffe9b90f97a27b73f371ec4044824c4",
@@ -8466,7 +8466,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T12:34:20.835Z"
+    "job_posted_at": "2026-03-02T12:49:24.229Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0232545",
@@ -8477,7 +8477,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/Data-Scientist--Junior_R0232545",
-    "job_posted_at_datetime_utc": "2026-03-02T12:33:25.440Z",
+    "job_posted_at_datetime_utc": "2026-03-02T12:48:28.315Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "220cc3e02ddaa5e299c6f956173f394af2f68c5e1ef8beadca6267150cec35eb",
@@ -8495,7 +8495,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T12:33:25.440Z"
+    "job_posted_at": "2026-03-02T12:48:28.315Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234970",
@@ -8506,7 +8506,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/DSP-Software-Engineer_R0234970",
-    "job_posted_at_datetime_utc": "2026-03-02T12:33:25.440Z",
+    "job_posted_at_datetime_utc": "2026-03-02T12:48:28.315Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6957327b62a7dabd4b461a8f1442b0bd65a305187c4442ebd44219f01e778add",
@@ -8524,7 +8524,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T12:33:25.440Z"
+    "job_posted_at": "2026-03-02T12:48:28.315Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234959",
@@ -8535,7 +8535,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University--Data-Engineer--Junior_R0234959",
-    "job_posted_at_datetime_utc": "2026-03-02T12:33:25.440Z",
+    "job_posted_at_datetime_utc": "2026-03-02T12:48:28.315Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c5d378a8a6144cdfeda1e4377a5f4009fbcc05ef6981a0b3f030e08651ffe5ba",
@@ -8553,7 +8553,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T12:33:25.440Z"
+    "job_posted_at": "2026-03-02T12:48:28.315Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0230446",
@@ -8564,7 +8564,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/UI-Full-Stack-Software-Developer_R0230446",
-    "job_posted_at_datetime_utc": "2026-03-02T12:33:25.440Z",
+    "job_posted_at_datetime_utc": "2026-03-02T12:48:28.315Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b0d1e158ca15e04109587f5bae824d890144a81b7be581920d0ce11cfb1bd9b9",
@@ -8582,7 +8582,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T12:33:25.440Z"
+    "job_posted_at": "2026-03-02T12:48:28.315Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234987",
@@ -8593,7 +8593,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Machine-Learning-Engineer_R0234987",
-    "job_posted_at_datetime_utc": "2026-03-02T12:33:25.439Z",
+    "job_posted_at_datetime_utc": "2026-03-02T12:48:28.314Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "2b242fc5848ce1b3da78245d04e77e6ab79bf15813f47051cfc1cb868961fcc0",
@@ -8611,7 +8611,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T12:33:25.439Z"
+    "job_posted_at": "2026-03-02T12:48:28.314Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0229610",
@@ -8622,7 +8622,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Agentic-AI-Machine-Learning-Engineer_R0229610",
-    "job_posted_at_datetime_utc": "2026-03-02T12:33:25.439Z",
+    "job_posted_at_datetime_utc": "2026-03-02T12:48:28.314Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "074d8e80419634e278a7a009cc0cc1f93e916b947a059f832008d1a839f77ebc",
@@ -8641,7 +8641,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T12:33:25.439Z"
+    "job_posted_at": "2026-03-02T12:48:28.314Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0229614",
@@ -8652,7 +8652,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Agentic-AI-Machine-Learning-Engineer_R0229614",
-    "job_posted_at_datetime_utc": "2026-03-02T12:33:25.439Z",
+    "job_posted_at_datetime_utc": "2026-03-02T12:48:28.314Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "074d8e80419634e278a7a009cc0cc1f93e916b947a059f832008d1a839f77ebc",
@@ -8671,7 +8671,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T12:33:25.439Z"
+    "job_posted_at": "2026-03-02T12:48:28.314Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234221",
@@ -8682,7 +8682,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/Data-Scientist_R0234221",
-    "job_posted_at_datetime_utc": "2026-03-02T12:33:25.439Z",
+    "job_posted_at_datetime_utc": "2026-03-02T12:48:28.314Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "03805b8e47c31dd2d5c5b3124ae9e615c8ebce9ae9f7c09d2b90c65d9158a4e0",
@@ -8700,7 +8700,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-02T12:33:25.439Z"
+    "job_posted_at": "2026-03-02T12:48:28.314Z"
   },
   {
     "job_id": "workday-nvidia-JR2014129",
@@ -8819,36 +8819,6 @@
     "job_posted_at": "2026-03-01T22:18:30-05:00"
   },
   {
-    "job_id": "js-emonics-llc-g2pljnprc_tnapfhaaaaaa==",
-    "job_title": "Machine Learning Engineers",
-    "employer_name": "Emonics LLC",
-    "job_city": "Everett",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://tallo.com/talent/job/technology/artificial-intelligence-engineer/ma/everett/machine-learning-engineer-ff4eed02",
-    "job_posted_at_datetime_utc": "2026-03-02T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "545da4183e39a0d61c6cc7338ff34142acd12181101598c560e6d78d2583eb12",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-02T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-48a6d759-0d2a-471a-b45e-ea1d1165773f",
     "job_title": "Software Development Engineer, IDEAS",
     "employer_name": "Amazon Web Services, Inc.",
@@ -8908,6 +8878,36 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "job_posted_at": "2026-03-02T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-emonics-llc-g2pljnprc_tnapfhaaaaaa==",
+    "job_title": "Machine Learning Engineers",
+    "employer_name": "Emonics LLC",
+    "job_city": "Everett",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://tallo.com/talent/job/technology/artificial-intelligence-engineer/ma/everett/machine-learning-engineer-ff4eed02",
+    "job_posted_at_datetime_utc": "2026-03-02T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "545da4183e39a0d61c6cc7338ff34142acd12181101598c560e6d78d2583eb12",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
     "job_posted_at": "2026-03-02T00:00:00.000Z"
   },
   {
@@ -9279,7 +9279,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Data-Scientist_322198",
-    "job_posted_at_datetime_utc": "2026-02-28T12:34:44.985Z",
+    "job_posted_at_datetime_utc": "2026-02-28T12:49:48.925Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f12cc0b5ccc22ef5c89c818bbcb867ffe58ca5d5483a377dbbf4487da01759e2",
@@ -9296,7 +9296,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-28T12:34:44.985Z"
+    "job_posted_at": "2026-02-28T12:49:48.925Z"
   },
   {
     "job_id": "greenhouse-waymo-6608598",
@@ -10974,7 +10974,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Scientist_R0234498",
-    "job_posted_at_datetime_utc": "2026-02-27T12:33:25.440Z",
+    "job_posted_at_datetime_utc": "2026-02-27T12:48:28.315Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a16bfe88c7a2270015141c391f408207033d4f10d460b3629783295854281c9e",
@@ -10992,7 +10992,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T12:33:25.440Z"
+    "job_posted_at": "2026-02-27T12:48:28.315Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234850",
@@ -11003,7 +11003,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Camp-Lejeune-NC/Data-Analyst_R0234850",
-    "job_posted_at_datetime_utc": "2026-02-27T12:33:25.440Z",
+    "job_posted_at_datetime_utc": "2026-02-27T12:48:28.315Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4202530d9a246d1be54024761a5a47334c7d7a55e9303b1a552ebc7257999736",
@@ -11020,7 +11020,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T12:33:25.440Z"
+    "job_posted_at": "2026-02-27T12:48:28.315Z"
   },
   {
     "job_id": "workday-salesforce-JR331617",
@@ -11031,7 +11031,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Software-Engineer--Search-Data-Infrastructure---Slack_JR331617-1",
-    "job_posted_at_datetime_utc": "2026-02-27T12:33:06.050Z",
+    "job_posted_at_datetime_utc": "2026-02-27T12:48:08.914Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4740c0cb8c336bfa5838e1fb6ce6298968058baca34d098c4aa8545317e5e902",
@@ -11049,7 +11049,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T12:33:06.050Z"
+    "job_posted_at": "2026-02-27T12:48:08.914Z"
   },
   {
     "job_id": "workday-salesforce-JR331613",
@@ -11060,7 +11060,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Software-Engineer--Search-Infrastructure_JR331613-2",
-    "job_posted_at_datetime_utc": "2026-02-27T12:33:06.050Z",
+    "job_posted_at_datetime_utc": "2026-02-27T12:48:08.914Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "fec3289bbbaee5ba375063486e59770f04a306f65202e62a4f64915e2d73510f",
@@ -11078,7 +11078,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-27T12:33:06.050Z"
+    "job_posted_at": "2026-02-27T12:48:08.914Z"
   },
   {
     "job_id": "greenhouse-coinbase-7173250",
@@ -11702,18 +11702,18 @@
     "job_posted_at": "2026-02-26T16:34:52.661+00:00"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0234832",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fort Meade",
-    "job_state": "MD",
+    "job_id": "workday-applied-materials-R2519079",
+    "job_title": "Product Line Management Data Science, New College Grad- Bachelor's/Master's (Santa Clara, CA)",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Data-Scientist_R0234832",
-    "job_posted_at_datetime_utc": "2026-02-26T12:33:25.440Z",
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Line-Management-Data-Science--New-College-Grad--Bachelor-s-Master-s--Santa-Clara--CA-_R2519079-1",
+    "job_posted_at_datetime_utc": "2026-02-26T12:48:28.753Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "04f3f110e0a8b1dbb56b8a0113941038eadb971a34d24305aeb276239fbb4695",
+    "fingerprint": "06cf69fe3629c16b227c841c8386e4890e5d3a170b5e10ce65d80e8cb151d5f4",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11723,12 +11723,12 @@
       "locations": [
         "us"
       ],
-      "experience": "entry_level",
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T12:33:25.440Z"
+    "job_posted_at": "2026-02-26T12:48:28.753Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234834",
@@ -11739,7 +11739,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Data-Scientist_R0234834-1",
-    "job_posted_at_datetime_utc": "2026-02-26T12:33:25.440Z",
+    "job_posted_at_datetime_utc": "2026-02-26T12:48:28.316Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a16bfe88c7a2270015141c391f408207033d4f10d460b3629783295854281c9e",
@@ -11757,7 +11757,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T12:33:25.440Z"
+    "job_posted_at": "2026-02-26T12:48:28.316Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0229725",
@@ -11768,7 +11768,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Tampa-FL/Data-Scientist_R0229725",
-    "job_posted_at_datetime_utc": "2026-02-26T12:33:25.440Z",
+    "job_posted_at_datetime_utc": "2026-02-26T12:48:28.316Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "9ecdacff1c9dcad366b2662f36bfe2b79070d204ec02fd92b92e39124c586435",
@@ -11786,7 +11786,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T12:33:25.440Z"
+    "job_posted_at": "2026-02-26T12:48:28.316Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234833",
@@ -11797,7 +11797,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Data-Scientist_R0234833",
-    "job_posted_at_datetime_utc": "2026-02-26T12:33:25.440Z",
+    "job_posted_at_datetime_utc": "2026-02-26T12:48:28.316Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a16bfe88c7a2270015141c391f408207033d4f10d460b3629783295854281c9e",
@@ -11815,7 +11815,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T12:33:25.440Z"
+    "job_posted_at": "2026-02-26T12:48:28.316Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234929",
@@ -11826,7 +11826,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Alexandria-VA/Data-Scientist_R0234929",
-    "job_posted_at_datetime_utc": "2026-02-26T12:33:25.440Z",
+    "job_posted_at_datetime_utc": "2026-02-26T12:48:28.316Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3cbcd1247e9b17225fca1866d4bce85e501b0e36b252dff7e822a5c37824d35f",
@@ -11844,7 +11844,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T12:33:25.440Z"
+    "job_posted_at": "2026-02-26T12:48:28.316Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234823",
@@ -11855,7 +11855,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/FinOps-Analyst_R0234823",
-    "job_posted_at_datetime_utc": "2026-02-26T12:33:25.440Z",
+    "job_posted_at_datetime_utc": "2026-02-26T12:48:28.316Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6a1de4e51fc0462410c3112e8b7af17c5b468db9cfddb1d0c1c3e85200154b7d",
@@ -11872,7 +11872,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T12:33:25.440Z"
+    "job_posted_at": "2026-02-26T12:48:28.316Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234815",
@@ -11883,7 +11883,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/Computer-Vision-Software-Engineer_R0234815",
-    "job_posted_at_datetime_utc": "2026-02-26T12:33:25.440Z",
+    "job_posted_at_datetime_utc": "2026-02-26T12:48:28.316Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a81f717036164129464499939e6cde829e59d0b44ec95566b10db27a6b2ac14c",
@@ -11902,21 +11902,21 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T12:33:25.440Z"
+    "job_posted_at": "2026-02-26T12:48:28.316Z"
   },
   {
-    "job_id": "workday-applied-materials-R2519079",
-    "job_title": "Product Line Management Data Science, New College Grad- Bachelor's/Master's (Santa Clara, CA)",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "job_id": "workday-booz-allen-hamilton-R0234832",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fort Meade",
+    "job_state": "MD",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Line-Management-Data-Science--New-College-Grad--Bachelor-s-Master-s--Santa-Clara--CA-_R2519079-1",
-    "job_posted_at_datetime_utc": "2026-02-26T12:33:25.075Z",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Data-Scientist_R0234832",
+    "job_posted_at_datetime_utc": "2026-02-26T12:48:28.315Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "06cf69fe3629c16b227c841c8386e4890e5d3a170b5e10ce65d80e8cb151d5f4",
+    "fingerprint": "04f3f110e0a8b1dbb56b8a0113941038eadb971a34d24305aeb276239fbb4695",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -11926,12 +11926,12 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T12:33:25.075Z"
+    "job_posted_at": "2026-02-26T12:48:28.315Z"
   },
   {
     "job_id": "workday-capital-one-R236876",
@@ -11942,7 +11942,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Applied-Researcher-I_R236876-1",
-    "job_posted_at_datetime_utc": "2026-02-26T12:32:59.382Z",
+    "job_posted_at_datetime_utc": "2026-02-26T12:48:02.239Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "48c75b9b4ae96e6c52151ac8632d6216785f85d2341700473386fa4f504f9a29",
@@ -11960,7 +11960,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T12:32:59.382Z"
+    "job_posted_at": "2026-02-26T12:48:02.239Z"
   },
   {
     "job_id": "workday-capital-one-R236858",
@@ -11971,7 +11971,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I_R236858-1",
-    "job_posted_at_datetime_utc": "2026-02-26T12:32:59.382Z",
+    "job_posted_at_datetime_utc": "2026-02-26T12:48:02.239Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ca2385498b8399112128406546665035a1581561d41894a7cd664e605a82faf5",
@@ -11989,7 +11989,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T12:32:59.382Z"
+    "job_posted_at": "2026-02-26T12:48:02.239Z"
   },
   {
     "job_id": "workday-capital-one-R236856",
@@ -12000,7 +12000,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I--AI-Foundations--LLM-Core-and-Agentic-AI-_R236856-1",
-    "job_posted_at_datetime_utc": "2026-02-26T12:32:59.382Z",
+    "job_posted_at_datetime_utc": "2026-02-26T12:48:02.239Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "94ed9a07d87f38d19082a8bfbc36b559fe18a53baa65856250eac9dcd0b9a264",
@@ -12019,7 +12019,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T12:32:59.382Z"
+    "job_posted_at": "2026-02-26T12:48:02.239Z"
   },
   {
     "job_id": "workday-capital-one-R236849",
@@ -12030,7 +12030,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/Applied-Researcher-I--AI-Foundations-_R236849-1",
-    "job_posted_at_datetime_utc": "2026-02-26T12:32:59.382Z",
+    "job_posted_at_datetime_utc": "2026-02-26T12:48:02.239Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a5fd56a2ef14413e542343dc76ead15333be322ca9ef4589a5639af749f871b9",
@@ -12048,7 +12048,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T12:32:59.382Z"
+    "job_posted_at": "2026-02-26T12:48:02.239Z"
   },
   {
     "job_id": "workday-capital-one-R236839",
@@ -12059,7 +12059,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I--AI-Foundations--LLM-Core-and-Agentic-AI-_R236839-1",
-    "job_posted_at_datetime_utc": "2026-02-26T12:32:59.382Z",
+    "job_posted_at_datetime_utc": "2026-02-26T12:48:02.239Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "27374e07964872864e20f64333f86c79dc88405e8e9b798607a675c91e262abf",
@@ -12078,7 +12078,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-26T12:32:59.382Z"
+    "job_posted_at": "2026-02-26T12:48:02.239Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0234773",
@@ -12835,7 +12835,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I--AI-Foundations-_R236764-1",
-    "job_posted_at_datetime_utc": "2026-02-25T12:32:59.382Z",
+    "job_posted_at_datetime_utc": "2026-02-25T12:48:02.239Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "9476ef466cdb7a6ee501969e94f67e7188bad3b3cc7e603322883c650109dcfe",
@@ -12853,7 +12853,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-02-25T12:32:59.382Z"
+    "job_posted_at": "2026-02-25T12:48:02.239Z"
   },
   {
     "job_id": "workday-boeing-JR2026498172",
