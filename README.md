@@ -90,9 +90,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Adobe** | Machine Learning Engineer | San Jose | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer_R163760-1) |
 | 🏢 **Caterpillar** | Data Scientist - Finance Business Intelligence | Nashville | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Nashville-Tennessee/Business-Intelligence-Analyst_R0000354883) |
 | 🏢 **Boeing** | Data Scientist (Data Science) | Everett, WA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Data-Scientist--Data-Science-_JR2026496611) |
-| 🏢 **Booz Allen Hamilton** | Data Scientist | Edgewood, MD | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Edgewood-MD/Data-Scientist_R0235233) |
 | 🏢 **Booz Allen Hamilton** | Data Scientist | Washington, DC | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Data-Scientist_R0235037) |
 | 🏢 **Booz Allen Hamilton** | Data Scientist | Arlington, VA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Scientist_R0235198) |
+| 🏢 **Booz Allen Hamilton** | Machine Learning Engineer | 3 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Machine-Learning-Engineer_R0234215) |
 | 🏢 **Anduril** | Supply Chain Analytics Engineer | Costa Mesa | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5045894007?gh_jid=5045894007) |
 | 🏢 **AppLovin** | Foundational Research Scientist | Palo Alto, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/applovin/jobs/4601725006?gh_jid=4601725006) |
 | 🏢 **AppLovin** | Applied Research Scientist | Palo Alto, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/applovin/jobs/4570674006?gh_jid=4570674006) |
@@ -161,7 +161,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **SpaceX** | NDE Engineer | Hawthorne, CA | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8328629002?gh_jid=8328629002) |
+| 🏢 **SpaceX** | NDE Engineer | Hawthorne, CA | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8328629002?gh_jid=8328629002) |
 | 🏢 **Coinbase** | Software Engineer | Remote | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7642536?gh_jid=7642536) |
 | 🏢 **Akuna Capital** | Junior Quantitative Developer & Strategist | Chicago, IL | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.akunacapital.com/careers/job/7063563/?gh_jid=7063563) |
 | 🏢 **Akuna Capital** | Quantitative Researcher | Chicago, IL | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.akunacapital.com/careers/job/7496416/?gh_jid=7496416) |
@@ -228,8 +228,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Scale AI** | Technical Sourcer, Contract | San Francisco, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4667964005) |
 | 🏢 **Chime** | Data Analyst, Lending | San Francisco, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/chime/jobs/8365502002?gh_jid=8365502002) |
 | 🏢 **D.E. Shaw** | Quantitative Researcher | New York | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/7650182) |
-| 🏢 **Scale AI** | STEM Fellow - Human Frontier Collective (US) | United States | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4574113005) |
 | 🏢 **Sharp Healthcare** | Credentialing Data Analyst - SHP Health Services - Telecommuter - Day Shift - Full Time | San Diego, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://sharp.wd1.myworkdayjobs.com/External/job/San-Diego-CA/Credentialing-Data-Analyst---SHP-Health-Services---Telecommuter---Day-Shift---Full-Time_JR203377) |
+| 🏢 **Scale AI** | STEM Fellow - Human Frontier Collective (US) | United States | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4574113005) |
 | 🏢 **Leidos** | Statistical Data Analyst | McLean, VA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Statistical-Data-Analyst_R-00174998) |
 | 🏢 **NVIDIA** | Developer Technology Engineer, High-Performance Databases – New College Grad 2026 | US, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--High-Performance-Databases---New-College-Grad-2026_JR2014129) |
 | 🏢 **NVIDIA** | Developer Technology Engineer, AI - New College Grad 2026 | 6 Locations | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Grad-2026_JR2014130-1) |
@@ -371,7 +371,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Adobe** | Forward Deployed AI Engineer - Creative Technologist | 4 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Forward-Deployed-AI-Engineer---Creative-Technologist_R166206) |
 | 🏢 **Whatnot** | Machine Learning Platform Engineer | San Francisco, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/whatnot/11162b1e-e7c9-432d-8ef6-6e89d28b3078/application) |
 | 🏢 **Whatnot** | LLM Platform Engineer | San Francisco, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/whatnot/bbf75c51-3a20-4989-bd13-1f24b66dbb16/application) |
-| 🏢 **Scale AI** | Machine Learning Fellow - Human Frontier Collective (US) | United States | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4660340005) |
+| 🏢 **Scale AI** | Machine Learning Fellow - Human Frontier Collective (US) | United States | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4660340005) |
 | 🏢 **Adobe** | Machine Learning and NLP Engineer | San Jose | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-and-NLP-Engineer_R166111) |
 | 🏢 **Figure AI** | Helix AI Engineer, Agentic Systems | San Jose, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4659175006) |
 | 🏢 **Emonics LLC** | Entry Level AI Engineer | New York | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobright.ai/jobs/info/69a5b66bb600907a962b666a) |
