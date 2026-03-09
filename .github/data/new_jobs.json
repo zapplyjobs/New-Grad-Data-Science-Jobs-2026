@@ -13576,34 +13576,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-02-23T20:00:26.940Z"
-  },
-  {
-    "job_id": "ashby-openai-ed871ac9-44ae-47fa-beaa-b9ab7ff31012",
-    "job_title": "Recruiter, AI/ML Research",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/ed871ac9-44ae-47fa-beaa-b9ab7ff31012/application",
-    "job_posted_at_datetime_utc": "2026-02-23T17:09:25.360+00:00",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "c16e92f4cda5f49e06656b7c31e0cc39c250d06fd27a5fa31a626aed37442bc2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-02-23T17:09:25.360+00:00"
   }
 ]
