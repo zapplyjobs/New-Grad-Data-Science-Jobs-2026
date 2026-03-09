@@ -9,7 +9,7 @@
 
 # Data Science Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-496-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-495-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-127-blue?style=flat&logo=building)
 ![Data Analyst](https://img.shields.io/badge/Data_Analyst-263-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -18,7 +18,7 @@
 
 </div>
 
-<p align="center">🚀 Real-time data science, analytics, and machine learning jobs from 127+ top companies like Anthropic, Coinbase, and Instacart. Updated every 15 minutes with 496+ fresh opportunities for new graduates, data science students, and entry-level data analysts.</p>
+<p align="center">🚀 Real-time data science, analytics, and machine learning jobs from 127+ top companies like Anthropic, Coinbase, and Instacart. Updated every 15 minutes with 495+ fresh opportunities for new graduates, data science students, and entry-level data analysts.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and data-first companies like Anthropic, Coinbase, and Instacart.</p>
 
@@ -111,9 +111,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Faire** | Applied AI / ML Scientist - Ads Bidding | San Francisco, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8400765002?gh_jid=8400765002) |
 | 🏢 **Faire** | Applied AI / ML Scientist - Search Ads | San Francisco, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8400855002?gh_jid=8400855002) |
 | 🏢 **OpenAI** | Data Scientist, B2B | San Francisco | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/681f9b48-0ebb-451d-ab79-103b4379db27/application) |
+| 🏢 **CACI** | Data Scientist and Geospatial Analyst | US VA Charlottesv... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Charlottesville/Data-Scientist-and-Geospatial-Analyst_322790) |
 | 🏢 **Reddit** | Machine Learning Engineer, Ads | United States | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7131932) |
 | 🏢 **Reddit** | Data Scientist, Ads | United States | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/6580815) |
-| 🏢 **CACI** | Data Scientist and Geospatial Analyst | US VA Charlottesv... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Charlottesville/Data-Scientist-and-Geospatial-Analyst_322790) |
 | 🏢 **PayPal** | Data Scientist 1 | San Jose | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist-1_R0135485) |
 | 🏢 **Home Depot** | Entry-Level Data Scientist - Tools & Automation | Atlanta | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ksnt.com/jobs/entry-level-data-scientist-tools-automation-atlanta-georgia/2646838322-2/) |
 | 🏢 **Emonics LLC** | Machine Learning Engineer | Winthrop | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.disabledperson.com/jobs/70543838-machine-learning-engineer) |
@@ -159,7 +159,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Mass General Brigham** | Data Analyst | MA | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Data-Analyst_RQ4054301) |
+| 🏢 **Mass General Brigham** | Data Analyst | MA | 8m | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Data-Analyst_RQ4054301) |
 | 🏢 **SpaceX** | NDE Engineer | Hawthorne, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8328629002?gh_jid=8328629002) |
 | 🏢 **Coinbase** | Software Engineer | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7642536?gh_jid=7642536) |
 | 🏢 **Akuna Capital** | Junior Quantitative Developer & Strategist | Chicago, IL | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.akunacapital.com/careers/job/7063563/?gh_jid=7063563) |
@@ -233,8 +233,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Benchling** | Software Engineer, Insights | San Francisco, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/benchling/ee376da3-ed8b-410f-b11b-4ce983ba0ebd/application) |
 | 🏢 **Scale AI** | Technical Sourcer, Contract | San Francisco, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4667964005) |
 | 🏢 **Chime** | Data Analyst, Lending | San Francisco, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/chime/jobs/8365502002?gh_jid=8365502002) |
-| 🏢 **D.E. Shaw** | Quantitative Researcher | New York | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/7650182) |
 | 🏢 **Capital One** | Applied Researcher I (AI Foundations) | 4 Locations | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I--AI-Foundations-_R237204) |
+| 🏢 **D.E. Shaw** | Quantitative Researcher | New York | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/7650182) |
 | 🏢 **Scale AI** | STEM Fellow - Human Frontier Collective (US) | United States | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4574113005) |
 | 🏢 **Waymo** | ASIC Design Verification Engineer | Mountain View, CA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7656843) |
 | 🏢 **Amazon Development Center U.S., Inc.** | Software Development Engineer, Healthcare AI | Seattle, WA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3194567/software-development-engineer-healthcare-ai) |
@@ -273,8 +273,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Epic** | Software Developer (Entry Level) | Watertown | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobleads.com/us/job/software-developer-entry-level--watertown--e9544344dda14e1dd950e2bbc7c54ad96) |
 | 🏢 **Figure AI** | Data Quality Analyst | San Jose, CA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4590702006) |
 | 🏢 **Whatnot** | Risk Strategist | San Francisco, CA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/whatnot/e3e94b02-426f-462c-b360-d2776355e731/application) |
-| 🏢 **Capital One** | Applied Researcher I | 4 Locations | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Applied-Researcher-I_R236876-1) |
 | 🏢 **Capital One** | Applied Researcher I | 5 Locations | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I_R236858-1) |
+| 🏢 **Capital One** | Applied Researcher I (AI Foundations) | 5 Locations | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/Applied-Researcher-I--AI-Foundations-_R236849-1) |
 | 🏢 **Tribu Du Grand Lac, Scouts de Morges** | Financial Data Analyst Entry Level | California | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobleads.com/us/job/financial-data-analyst-entry-level--california--e2bac468774d7f87fb5b1924dc61e1e3e) |
 | 🏢 **SynergisticIT** | Entry Level Software Developer | Joliet | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/4YhXs9qajyZSNM2i9aU0xD) |
 | 🏢 **Job On Remote Online USA** | Entry Level Data Analyst | Pleasanton | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://us.bebee.com/job/e49c0156aa6879008f9a0f86f16650e6) |
@@ -465,7 +465,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 496 current opportunities from 127 companies**
+**🎯 495 current opportunities from 127 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
