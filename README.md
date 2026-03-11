@@ -73,8 +73,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Booz Allen Hamilton** | Machine Learning Engineer | 3 Locations | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Machine-Learning-Engineer_R0235667) |
-| 🏢 **Booz Allen Hamilton** | Agentic AI Machine Learning Engineer | 5 Locations | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Agentic-AI-Machine-Learning-Engineer_R0235651) |
+| 🏢 **Booz Allen Hamilton** | Machine Learning Engineer | 3 Locations | 45m | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Machine-Learning-Engineer_R0235667) |
+| 🏢 **Booz Allen Hamilton** | Agentic AI Machine Learning Engineer | 5 Locations | 45m | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Agentic-AI-Machine-Learning-Engineer_R0235651) |
 | 🏢 **OpenAI** | Research Engineer/Scientist - Human Alignment, Consumer Devices | San Francisco | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/09253a0e-a2b8-49d1-80bb-6955ba3b08a3/application) |
 | 🏢 **Torc Robotics** | Data Scientist, I - Decision Science | Ann Arbor, MI | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/torcrobotics/jobs/8445206002) |
 | 🏢 **Anthropic** | Biological Safety Research Scientist | San Francisco, CA | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5066977008) |
@@ -174,10 +174,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **State Street** | Alpha Data Services – Data Analyst  (US) – Officer | Clifton | 26m | [<img src="images/apply.png" width="75" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Clifton-New-Jersey/Alpha-Data-Services---Data-Analyst---US----Officer_R-785720) |
-| 🏢 **CrowdStrike** | GTM Data & Automation Analyst (Remote) | Remote | 31m | [<img src="images/apply.png" width="75" alt="Apply">](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Data---Automation-Analyst--Remote-_R26541-1) |
+| 🏢 **State Street** | Alpha Data Services – Data Analyst  (US) – Officer | Clifton | 40m | [<img src="images/apply.png" width="75" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Clifton-New-Jersey/Alpha-Data-Services---Data-Analyst---US----Officer_R-785720) |
+| 🏢 **CrowdStrike** | GTM Data & Automation Analyst (Remote) | Remote | 46m | [<img src="images/apply.png" width="75" alt="Apply">](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Data---Automation-Analyst--Remote-_R26541-1) |
 | 🏢 **Okta** | Sales Development Representative, Bellevue | Bellevue | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7013711?gh_jid=7013711) |
-| 🏢 **Discord** | Associate Product Counsel, Consumer Revenue | San Francisco Bay... | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8434162002) |
+| 🏢 **Discord** | Associate Product Counsel, Consumer Revenue | San Francisco Bay... | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8434162002) |
 | 🏢 **Anduril** | Manufacturing Test Engineer | Lexington | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5076226007?gh_jid=5076226007) |
 | 🏢 **Anthropic** | Research Engineer, Economic Research | San Francisco, CA | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5071132008) |
 | 🏢 **Anthropic** | Research Economist, Economic Research | San Francisco, CA | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5018472008) |
@@ -188,13 +188,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Anthropic** | Applied Safety Research Engineer, Safeguards | San Francisco, CA | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5062955008) |
 | 🏢 **Annapurna Labs (U.S.) Inc.** | Software Development Engineer, Neuron Foundation Tools | Seattle, WA | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3202423/software-development-engineer-neuron-foundation-tools) |
 | 🏢 **SpaceX** | Operations Engineer (Starlink Growth) | Hawthorne, CA | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8403197002?gh_jid=8403197002) |
-| 🏢 **SpaceX** | Automation Engineer (Starlink Customer Success) | Redmond, WA | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8407790002?gh_jid=8407790002) |
-| 🏢 **SpaceX** | Automation Engineer (Starlink Customer Success) | Hawthorne, CA | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8407774002?gh_jid=8407774002) |
+| 🏢 **SpaceX** | Automation Engineer (Starlink Customer Success) | Redmond, WA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8407790002?gh_jid=8407790002) |
+| 🏢 **SpaceX** | Automation Engineer (Starlink Customer Success) | Hawthorne, CA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8407774002?gh_jid=8407774002) |
 | 🏢 **Scale AI** | Software Engineer, Full Stack – Scale GP | San Francisco, CA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4637485005) |
-| 🏢 **Robinhood** | Customer Experience Representative, Advanced Services | Chicago, IL | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/robinhood/jobs/7659806?t=gh_src=&gh_jid=7659806) |
-| 🏢 **OpenAI** | Research Engineer, SLAM & Multi-View Geometry | San Francisco | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/d9e942a7-a84e-4fb2-8fea-b976a1abaa68/application) |
-| 🏢 **Robinhood** | Software Engineer, Backend | Menlo Park, CA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) |
-| 🏢 **Coinbase** | Blockchain Security Engineer | Remote | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7701657?gh_jid=7701657) |
+| 🏢 **Robinhood** | Customer Experience Representative, Advanced Services | Chicago, IL | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/robinhood/jobs/7659806?t=gh_src=&gh_jid=7659806) |
+| 🏢 **OpenAI** | Research Engineer, SLAM & Multi-View Geometry | San Francisco | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/d9e942a7-a84e-4fb2-8fea-b976a1abaa68/application) |
+| 🏢 **Robinhood** | Software Engineer, Backend | Menlo Park, CA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592) |
+| 🏢 **Coinbase** | Blockchain Security Engineer | Remote | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7701657?gh_jid=7701657) |
 | 🏢 **Point72** | Credit and Structured Products Quant | New York, NY | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8303334002?gh_jid=8303334002) |
 | 🏢 **Point72** | Credit Research Analyst, Global Macro | New York | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/7605647002?gh_jid=7605647002) |
 | 🏢 **Point72** | Cubist 2026 Quant Academy - Researchers | New York | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/7045943002?gh_jid=7045943002) |
@@ -357,13 +357,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Booz Allen Hamilton** | Aviation Data Engineer | Washington, DC | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Aviation-Data-Engineer_R0231457) |
+| 🏢 **Booz Allen Hamilton** | Aviation Data Engineer | Washington, DC | 45m | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Aviation-Data-Engineer_R0231457) |
 | 🏢 **Ramp** | Software Engineer, Data Platform | New York, NY | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/ramp/bca0346c-b843-4795-96df-6091f51e421b/application) |
 | 🏢 **Jane Street** | Data Engineer | New York | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/6558007002) |
 | 🏢 **WorldQuant** | NLP Data Engineer | Hanoi OR Ho Chi M... | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/worldquant/jobs/4653495006) |
-| 🏢 **Anduril** | Software Engineer, Data Engineering | Costa Mesa | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4991618007?gh_jid=4991618007) |
-| 🏢 **SpaceX** | Data Engineer (Starlink Growth) | Hawthorne, CA | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8240611002?gh_jid=8240611002) |
-| 🏢 **SpaceX** | Data Engineer (Starlink Growth) | Redmond, WA | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8243150002?gh_jid=8243150002) |
+| 🏢 **Anduril** | Software Engineer, Data Engineering | Costa Mesa | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4991618007?gh_jid=4991618007) |
+| 🏢 **SpaceX** | Data Engineer (Starlink Growth) | Hawthorne, CA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8240611002?gh_jid=8240611002) |
+| 🏢 **SpaceX** | Data Engineer (Starlink Growth) | Redmond, WA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8243150002?gh_jid=8243150002) |
 | 🏢 **Point72** | Data Engineer | New York | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/7829230002?gh_jid=7829230002) |
 | 🏢 **Point72** | Data Engineer, Knowledge Graph | New York, NY | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8448917002?gh_jid=8448917002) |
 | 🏢 **Point72** | Data Engineer, Proprietary Research | New York, NY | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/7667745002?gh_jid=7667745002) |
