@@ -15033,34 +15033,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-02-25T11:49:40.735Z"
-  },
-  {
-    "job_id": "greenhouse-deepmind-7649738",
-    "job_title": "HR Data Analyst, Fixed Term Contract",
-    "employer_name": "DeepMind",
-    "job_city": "Mountain View",
-    "job_state": "US",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/deepmind/jobs/7649738",
-    "job_posted_at_datetime_utc": "2026-02-25T04:27:33-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f06ce70f6ed2c5bfd342c3c6144a960e0487e18774903ed9d64f6226d056b37b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-02-25T04:27:33-05:00"
   }
 ]
