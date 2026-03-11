@@ -73,8 +73,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Booz Allen Hamilton** | Machine Learning Engineer | 3 Locations | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Machine-Learning-Engineer_R0235634) |
-| 🏢 **Torc Robotics** | Data Scientist, I - Decision Science | Ann Arbor, MI | 21m | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/torcrobotics/jobs/8445206002) |
+| 🏢 **Booz Allen Hamilton** | Machine Learning Engineer | 3 Locations | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Machine-Learning-Engineer_R0235634) |
+| 🏢 **Torc Robotics** | Data Scientist, I - Decision Science | Ann Arbor, MI | 36m | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/torcrobotics/jobs/8445206002) |
 | 🏢 **Anthropic** | Biological Safety Research Scientist | San Francisco, CA | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5066977008) |
 | 🏢 **Anthropic** | Research Engineer / Research Scientist, Tokens | New York City, NY | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4951814008) |
 | 🏢 **Anthropic** | Research Engineer / Scientist, Alignment Science | San Francisco, CA | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4631822008) |
@@ -178,14 +178,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Mass General Brigham** | Data Analyst/Clinical Research Coordinator | MA | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Data-Analyst-Clinical-Research-Coordinator_RQ4055019) |
-| 🏢 **Leidos** | Software Engineer | specific Customer... | 15m | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/9633-McLean-VA-Non-specific-Customer-Site/Software-Engineer_R-00178022) |
+| 🏢 **Mass General Brigham** | Data Analyst/Clinical Research Coordinator | MA | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Data-Analyst-Clinical-Research-Coordinator_RQ4055019) |
+| 🏢 **Leidos** | Software Engineer | specific Customer... | 30m | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/9633-McLean-VA-Non-specific-Customer-Site/Software-Engineer_R-00178022) |
 | 🏢 **Anthropic** | Research Engineer, Economic Research | San Francisco, CA | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5071132008) |
 | 🏢 **Jane Street** | Software Engineer | New York | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/4274288002) |
-| 🏢 **Anduril** | Modeling and Simulation Engineer, Space | Costa Mesa | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4984579007?gh_jid=4984579007) |
+| 🏢 **Anduril** | Modeling and Simulation Engineer, Space | Costa Mesa | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4984579007?gh_jid=4984579007) |
 | 🏢 **Anthropic** | Applied Safety Research Engineer, Safeguards | San Francisco, CA | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5062955008) |
 | 🏢 **Anthropic** | ML/Research Engineer, Safeguards | San Francisco, CA | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4949336008) |
-| 🏢 **Scale AI** | Software Engineer, Full Stack – Scale GP | San Francisco, CA | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4637485005) |
+| 🏢 **Scale AI** | Software Engineer, Full Stack – Scale GP | San Francisco, CA | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4637485005) |
 | 🏢 **OpenAI** | Research Engineer, SLAM & Multi-View Geometry | San Francisco | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/d9e942a7-a84e-4fb2-8fea-b976a1abaa68/application) |
 | 🏢 **Coinbase** | Blockchain Security Engineer | Remote | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7701657?gh_jid=7701657) |
 | 🏢 **Point72** | Credit and Structured Products Quant | New York, NY | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8303334002?gh_jid=8303334002) |
@@ -201,7 +201,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Relativity Space** | Friction Stir Welding Technician I, Second Shift | Long Beach | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8391441002?gh_jid=8391441002) |
 | 🏢 **Relativity Space** | Orbital Tube Welder I, First Shift | Long Beach | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/relativity/jobs/8450762002?gh_jid=8450762002) |
 | 🏢 **CrowdStrike** | Sales Engineer, NG SIEM (Remote) Southeast | Remote 🏠 | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-GA/Sales-Engineer--NG-SIEM--Remote--BRA-_R26644) |
-| 🏢 **DeepMind** | Administrative Business Partner (12 month fixed term contract) | Mountain View, US | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/deepmind/jobs/7602072) |
+| 🏢 **DeepMind** | Administrative Business Partner (12 month fixed term contract) | Mountain View, US | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/deepmind/jobs/7602072) |
 | 🏢 **Jane Street** | Compliance Coordinator | New York | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/8398832002) |
 | 🏢 **Jane Street** | Quantitative Researcher | New York | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/8069351002) |
 | 🏢 **Baseten** | Capacity Ops Associate | San Francisco | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/baseten/844e2c96-690a-4365-9822-f092ffa03944/application) |
@@ -341,7 +341,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Ramp** | Software Engineer, Data Platform | New York, NY | 35m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/ramp/bca0346c-b843-4795-96df-6091f51e421b/application) |
+| 🏢 **Ramp** | Software Engineer, Data Platform | New York, NY | 50m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/ramp/bca0346c-b843-4795-96df-6091f51e421b/application) |
 | 🏢 **Jane Street** | Data Engineer | New York | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/janestreet/jobs/6558007002) |
 | 🏢 **WorldQuant** | NLP Data Engineer | Hanoi OR Ho Chi M... | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/worldquant/jobs/4653495006) |
 | 🏢 **Anduril** | Software Engineer, Data Engineering | Costa Mesa | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4991618007?gh_jid=4991618007) |
