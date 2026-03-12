@@ -19543,40 +19543,5 @@
     "_source": "aggregator",
     "_original_source": "ashby",
     "job_posted_at": "2026-02-26T21:33:19.990+00:00"
-  },
-  {
-    "job_id": "lever-belvederetrading-0a19afb2-27d3-4a06-8600-5e4cd9b9744e",
-    "job_title": "Quantitative Researcher",
-    "employer_name": "Belvedere Trading",
-    "job_city": "Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/belvederetrading/0a19afb2-27d3-4a06-8600-5e4cd9b9744e/apply",
-    "job_posted_at_datetime_utc": "2026-02-26T21:12:40.111Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 140000,
-      "max": 200000,
-      "currency": "USD",
-      "interval": "per-year-salary"
-    },
-    "fingerprint": "0a4952c0420bb8f28af5f30175120c9e2acee1966ad01bef29ba0ff28e8a70d9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science",
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-02-26T21:12:40.111Z"
   }
 ]
