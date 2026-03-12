@@ -18584,34 +18584,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-02-26T12:10:03-05:00"
-  },
-  {
-    "job_id": "greenhouse-doordashusa-7657542",
-    "job_title": "Machine Learning Engineer, Reinforcement Learning",
-    "employer_name": "DoorDash",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7657542",
-    "job_posted_at_datetime_utc": "2026-02-26T11:54:47-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "110c40e178b59e07a6a0742349bf4a3989ad62fccc135e32ee78726a892ea899",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-02-26T11:54:47-05:00"
   }
 ]
