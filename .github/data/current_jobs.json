@@ -20703,33 +20703,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-02-27T17:20:04.197Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0232422",
-    "job_title": "Health Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Bethesda-MD/Health-Data-Engineer_R0232422",
-    "job_posted_at_datetime_utc": "2026-02-27T15:19:47.942Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6ba7006749dda96c52b791ac8566b9c0f5ebebf1a56e9de2fefc4c28807735cb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-27T15:19:47.942Z"
   }
 ]
