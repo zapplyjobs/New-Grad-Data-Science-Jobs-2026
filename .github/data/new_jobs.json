@@ -8,7 +8,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Associate--Artificial-Intelligence-and-Machine-Learning-Technical-Risk---Enterprise-Services-Risk--Cyber-Risk---Analysis_R237931-1",
-    "job_posted_at_datetime_utc": "2026-03-14T06:38:50.337Z",
+    "job_posted_at_datetime_utc": "2026-03-14T06:53:23.350Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "967824fed741310e8f8c1194a91000a3bbd760b12c74b861a9c6b6ae52caa38d",
@@ -27,7 +27,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-14T06:38:50.337Z"
+    "job_posted_at": "2026-03-14T06:53:23.350Z"
   },
   {
     "job_id": "workday-cisco-2007519",
@@ -7681,7 +7681,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Applied-Researcher-I_R237797-1",
-    "job_posted_at_datetime_utc": "2026-03-11T06:38:50.338Z",
+    "job_posted_at_datetime_utc": "2026-03-11T06:53:23.351Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ca2385498b8399112128406546665035a1581561d41894a7cd664e605a82faf5",
@@ -7699,7 +7699,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-11T06:38:50.338Z"
+    "job_posted_at": "2026-03-11T06:53:23.351Z"
   },
   {
     "job_id": "workday-disney-10145527",
@@ -10340,7 +10340,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I--AI-Foundations--LLM-Core-and-Agentic-AI-_R236839-1",
-    "job_posted_at_datetime_utc": "2026-03-10T06:38:50.339Z",
+    "job_posted_at_datetime_utc": "2026-03-10T06:53:23.352Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "27374e07964872864e20f64333f86c79dc88405e8e9b798607a675c91e262abf",
@@ -10359,7 +10359,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-10T06:38:50.339Z"
+    "job_posted_at": "2026-03-10T06:53:23.352Z"
   },
   {
     "job_id": "workday-caci-322347",
