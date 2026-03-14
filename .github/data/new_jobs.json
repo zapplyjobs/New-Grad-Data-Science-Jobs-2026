@@ -8,7 +8,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Associate--Artificial-Intelligence-and-Machine-Learning-Technical-Risk---Enterprise-Services-Risk--Cyber-Risk---Analysis_R237931-1",
-    "job_posted_at_datetime_utc": "2026-03-14T06:12:07.122Z",
+    "job_posted_at_datetime_utc": "2026-03-14T06:25:24.551Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "967824fed741310e8f8c1194a91000a3bbd760b12c74b861a9c6b6ae52caa38d",
@@ -27,7 +27,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-14T06:12:07.122Z"
+    "job_posted_at": "2026-03-14T06:25:24.551Z"
   },
   {
     "job_id": "workday-cisco-2007519",
@@ -1571,14 +1571,14 @@
     "job_posted_at": "2026-03-12T19:38:54-04:00"
   },
   {
-    "job_id": "greenhouse-andurilindustries-5063829007",
+    "job_id": "greenhouse-andurilindustries-4840176007",
     "job_title": "Business Planning Analyst, TRS",
     "employer_name": "Anduril",
     "job_city": "Atlanta",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5063829007?gh_jid=5063829007",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4840176007?gh_jid=4840176007",
     "job_posted_at_datetime_utc": "2026-03-12T19:25:18-04:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -1600,14 +1600,14 @@
     "job_posted_at": "2026-03-12T19:25:18-04:00"
   },
   {
-    "job_id": "greenhouse-andurilindustries-4840176007",
+    "job_id": "greenhouse-andurilindustries-5063829007",
     "job_title": "Business Planning Analyst, TRS",
     "employer_name": "Anduril",
     "job_city": "Atlanta",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4840176007?gh_jid=4840176007",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5063829007?gh_jid=5063829007",
     "job_posted_at_datetime_utc": "2026-03-12T19:25:18-04:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -1776,18 +1776,18 @@
     "job_posted_at": "2026-03-12T19:25:18-04:00"
   },
   {
-    "job_id": "greenhouse-andurilindustries-5074988007",
+    "job_id": "greenhouse-andurilindustries-4159228007",
     "job_title": "Front-End Software Engineer, Connected Warfare",
     "employer_name": "Anduril",
-    "job_city": "Costa Mesa",
+    "job_city": "Washington",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5074988007?gh_jid=5074988007",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4159228007?gh_jid=4159228007",
     "job_posted_at_datetime_utc": "2026-03-12T19:25:18-04:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "9dee270858afeb1d1251ac377b1a3cb047b9c9c4dc43d60934e42f0643372169",
+    "fingerprint": "593cd820bb389183e10cf9bc57ed35233495a44a986e3f4c9251a1fcace712d2",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1805,18 +1805,18 @@
     "job_posted_at": "2026-03-12T19:25:18-04:00"
   },
   {
-    "job_id": "greenhouse-andurilindustries-4159228007",
+    "job_id": "greenhouse-andurilindustries-5074988007",
     "job_title": "Front-End Software Engineer, Connected Warfare",
     "employer_name": "Anduril",
-    "job_city": "Washington",
+    "job_city": "Costa Mesa",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4159228007?gh_jid=4159228007",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5074988007?gh_jid=5074988007",
     "job_posted_at_datetime_utc": "2026-03-12T19:25:18-04:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "593cd820bb389183e10cf9bc57ed35233495a44a986e3f4c9251a1fcace712d2",
+    "fingerprint": "9dee270858afeb1d1251ac377b1a3cb047b9c9c4dc43d60934e42f0643372169",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1979,18 +1979,18 @@
     "job_posted_at": "2026-03-12T19:25:18-04:00"
   },
   {
-    "job_id": "greenhouse-andurilindustries-4674088007",
+    "job_id": "greenhouse-andurilindustries-4673956007",
     "job_title": "Mission Software Engineer, Air Vehicle Autonomy, Frontend",
     "employer_name": "Anduril",
-    "job_city": "Seattle",
+    "job_city": "Costa Mesa",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4674088007?gh_jid=4674088007",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4673956007?gh_jid=4673956007",
     "job_posted_at_datetime_utc": "2026-03-12T19:25:18-04:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "4284a8ef61af9fd39aac55d2e5bd194a47987b669c05e5e1eaaf3f6879a119b6",
+    "fingerprint": "0a8cfa50fb9657e4f0befc34e5c2e5eff05adaae545d3cadf49fb7e29ae288e4",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2008,18 +2008,18 @@
     "job_posted_at": "2026-03-12T19:25:18-04:00"
   },
   {
-    "job_id": "greenhouse-andurilindustries-4673956007",
+    "job_id": "greenhouse-andurilindustries-4674088007",
     "job_title": "Mission Software Engineer, Air Vehicle Autonomy, Frontend",
     "employer_name": "Anduril",
-    "job_city": "Costa Mesa",
+    "job_city": "Seattle",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4673956007?gh_jid=4673956007",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4674088007?gh_jid=4674088007",
     "job_posted_at_datetime_utc": "2026-03-12T19:25:18-04:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "0a8cfa50fb9657e4f0befc34e5c2e5eff05adaae545d3cadf49fb7e29ae288e4",
+    "fingerprint": "4284a8ef61af9fd39aac55d2e5bd194a47987b669c05e5e1eaaf3f6879a119b6",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2271,6 +2271,35 @@
     "job_posted_at": "2026-03-12T19:25:18-04:00"
   },
   {
+    "job_id": "greenhouse-andurilindustries-4869264007",
+    "job_title": "Software Engineer",
+    "employer_name": "Anduril",
+    "job_city": "Broomfield",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4869264007?gh_jid=4869264007",
+    "job_posted_at_datetime_utc": "2026-03-12T19:25:18-04:00",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "90736c65810ee5343fcc8ffabd7ea14e71baadd1dcc51377d58d7d870ed24ead",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-03-12T19:25:18-04:00"
+  },
+  {
     "job_id": "greenhouse-andurilindustries-5070913007",
     "job_title": "Software Engineer",
     "employer_name": "Anduril",
@@ -2329,35 +2358,6 @@
     "job_posted_at": "2026-03-12T19:25:18-04:00"
   },
   {
-    "job_id": "greenhouse-andurilindustries-4869264007",
-    "job_title": "Software Engineer",
-    "employer_name": "Anduril",
-    "job_city": "Broomfield",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4869264007?gh_jid=4869264007",
-    "job_posted_at_datetime_utc": "2026-03-12T19:25:18-04:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "90736c65810ee5343fcc8ffabd7ea14e71baadd1dcc51377d58d7d870ed24ead",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-12T19:25:18-04:00"
-  },
-  {
     "job_id": "greenhouse-andurilindustries-4991618007",
     "job_title": "Software Engineer, Data Engineering",
     "employer_name": "Anduril",
@@ -2387,18 +2387,18 @@
     "job_posted_at": "2026-03-12T19:25:18-04:00"
   },
   {
-    "job_id": "greenhouse-andurilindustries-5038025007",
+    "job_id": "greenhouse-andurilindustries-4981660007",
     "job_title": "Software Engineer, DevOps, Discovery",
     "employer_name": "Anduril",
-    "job_city": "Seattle",
+    "job_city": "Washington",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5038025007?gh_jid=5038025007",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4981660007?gh_jid=4981660007",
     "job_posted_at_datetime_utc": "2026-03-12T19:25:18-04:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "4132f9606da3ae422637560ec6c9a7d41b117ba3033efd01f7b6f136209e668c",
+    "fingerprint": "275c5cd0724c83f86545f5783a8b8dba0155fc170f4f751110890676954f85fd",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2416,18 +2416,18 @@
     "job_posted_at": "2026-03-12T19:25:18-04:00"
   },
   {
-    "job_id": "greenhouse-andurilindustries-4981660007",
+    "job_id": "greenhouse-andurilindustries-5038025007",
     "job_title": "Software Engineer, DevOps, Discovery",
     "employer_name": "Anduril",
-    "job_city": "Washington",
+    "job_city": "Seattle",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4981660007?gh_jid=4981660007",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5038025007?gh_jid=5038025007",
     "job_posted_at_datetime_utc": "2026-03-12T19:25:18-04:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "275c5cd0724c83f86545f5783a8b8dba0155fc170f4f751110890676954f85fd",
+    "fingerprint": "4132f9606da3ae422637560ec6c9a7d41b117ba3033efd01f7b6f136209e668c",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4405,14 +4405,14 @@
     "job_posted_at": "2026-03-12T18:11:16-04:00"
   },
   {
-    "job_id": "greenhouse-waymo-7458066",
+    "job_id": "greenhouse-waymo-7458098",
     "job_title": "Software Quality Operations Specialist",
     "employer_name": "Waymo",
     "job_city": "Mountain View",
     "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7458066",
+    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7458098",
     "job_posted_at_datetime_utc": "2026-03-12T18:11:16-04:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -4434,14 +4434,14 @@
     "job_posted_at": "2026-03-12T18:11:16-04:00"
   },
   {
-    "job_id": "greenhouse-waymo-7458098",
+    "job_id": "greenhouse-waymo-7271413",
     "job_title": "Software Quality Operations Specialist",
     "employer_name": "Waymo",
     "job_city": "Mountain View",
     "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7458098",
+    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7271413",
     "job_posted_at_datetime_utc": "2026-03-12T18:11:16-04:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -4492,14 +4492,14 @@
     "job_posted_at": "2026-03-12T18:11:16-04:00"
   },
   {
-    "job_id": "greenhouse-waymo-7271413",
+    "job_id": "greenhouse-waymo-7458066",
     "job_title": "Software Quality Operations Specialist",
     "employer_name": "Waymo",
     "job_city": "Mountain View",
     "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7271413",
+    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7458066",
     "job_posted_at_datetime_utc": "2026-03-12T18:11:16-04:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -7673,6 +7673,35 @@
     "job_posted_at": "2026-03-11T09:36:44-04:00"
   },
   {
+    "job_id": "workday-capital-one-R237797",
+    "job_title": "Applied Researcher I",
+    "employer_name": "Capital One",
+    "job_city": "5 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Applied-Researcher-I_R237797-1",
+    "job_posted_at_datetime_utc": "2026-03-11T06:25:24.552Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ca2385498b8399112128406546665035a1581561d41894a7cd664e605a82faf5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-11T06:25:24.552Z"
+  },
+  {
     "job_id": "workday-disney-10145527",
     "job_title": "Decision Science Graduate Associate, Summer/Fall 2026",
     "employer_name": "Disney",
@@ -9699,35 +9728,6 @@
     "job_posted_at": "2026-03-10T16:56:32-04:00"
   },
   {
-    "job_id": "greenhouse-point72-8032153002",
-    "job_title": "Quantitative Software Developer",
-    "employer_name": "Point72",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/8032153002?gh_jid=8032153002",
-    "job_posted_at_datetime_utc": "2026-03-10T16:56:32-04:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2741befab71066ec4d3f3db84e1057874aaaa9797b0e7eb5563b3e5aa2f7dcb0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-10T16:56:32-04:00"
-  },
-  {
     "job_id": "greenhouse-point72-7825863002",
     "job_title": "Quantitative Software Developer",
     "employer_name": "Point72",
@@ -9765,6 +9765,35 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boards.greenhouse.io/point72/jobs/8036928002?gh_jid=8036928002",
+    "job_posted_at_datetime_utc": "2026-03-10T16:56:32-04:00",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2741befab71066ec4d3f3db84e1057874aaaa9797b0e7eb5563b3e5aa2f7dcb0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-03-10T16:56:32-04:00"
+  },
+  {
+    "job_id": "greenhouse-point72-8032153002",
+    "job_title": "Quantitative Software Developer",
+    "employer_name": "Point72",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/8032153002?gh_jid=8032153002",
     "job_posted_at_datetime_utc": "2026-03-10T16:56:32-04:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -10301,6 +10330,36 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-03-10T09:02:37-04:00"
+  },
+  {
+    "job_id": "workday-capital-one-R236839",
+    "job_title": "Applied Researcher I (AI Foundations, LLM Core and Agentic AI)",
+    "employer_name": "Capital One",
+    "job_city": "5 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I--AI-Foundations--LLM-Core-and-Agentic-AI-_R236839-1",
+    "job_posted_at_datetime_utc": "2026-03-10T06:25:24.553Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "27374e07964872864e20f64333f86c79dc88405e8e9b798607a675c91e262abf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-10T06:25:24.553Z"
   },
   {
     "job_id": "workday-caci-322347",
@@ -14358,18 +14417,18 @@
     "job_posted_at": "2026-03-05T13:07:56-05:00"
   },
   {
-    "job_id": "greenhouse-okta-7544341",
+    "job_id": "greenhouse-okta-7535188",
     "job_title": "Key Account Executive, Auth0",
     "employer_name": "Okta",
-    "job_city": "New York",
+    "job_city": "San Francisco",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.okta.com/company/careers/opportunity/7544341?gh_jid=7544341",
+    "job_apply_link": "https://www.okta.com/company/careers/opportunity/7535188?gh_jid=7535188",
     "job_posted_at_datetime_utc": "2026-03-05T13:07:56-05:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "185d89a8cec41f2d37b502f36f4afc85204c13a940da5afb9979fced68a15f83",
+    "fingerprint": "1eef6132d016695db5c3fd00425f5ac96cb05072da1c1b9c671fff054bb3b3f8",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -14387,18 +14446,18 @@
     "job_posted_at": "2026-03-05T13:07:56-05:00"
   },
   {
-    "job_id": "greenhouse-okta-7535188",
+    "job_id": "greenhouse-okta-7544341",
     "job_title": "Key Account Executive, Auth0",
     "employer_name": "Okta",
-    "job_city": "San Francisco",
+    "job_city": "New York",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.okta.com/company/careers/opportunity/7535188?gh_jid=7535188",
+    "job_apply_link": "https://www.okta.com/company/careers/opportunity/7544341?gh_jid=7544341",
     "job_posted_at_datetime_utc": "2026-03-05T13:07:56-05:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "1eef6132d016695db5c3fd00425f5ac96cb05072da1c1b9c671fff054bb3b3f8",
+    "fingerprint": "185d89a8cec41f2d37b502f36f4afc85204c13a940da5afb9979fced68a15f83",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -14590,18 +14649,18 @@
     "job_posted_at": "2026-03-05T13:07:56-05:00"
   },
   {
-    "job_id": "greenhouse-okta-7481578",
+    "job_id": "greenhouse-okta-7463561",
     "job_title": "Strategic Account Executive, Auth0",
     "employer_name": "Okta",
-    "job_city": "Chicago",
+    "job_city": "San Francisco",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.okta.com/company/careers/opportunity/7481578?gh_jid=7481578",
+    "job_apply_link": "https://www.okta.com/company/careers/opportunity/7463561?gh_jid=7463561",
     "job_posted_at_datetime_utc": "2026-03-05T13:07:56-05:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "95cb3c787ef52ab03de03cc67977f5909bbdcf0b082476f618d5ce8d0ebf3024",
+    "fingerprint": "5e3d0b1b6ec715203ecce787a4de4b6d1450aec14a41239035b003b8aa674351",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -14619,18 +14678,18 @@
     "job_posted_at": "2026-03-05T13:07:56-05:00"
   },
   {
-    "job_id": "greenhouse-okta-7463561",
+    "job_id": "greenhouse-okta-7465810",
     "job_title": "Strategic Account Executive, Auth0",
     "employer_name": "Okta",
-    "job_city": "San Francisco",
+    "job_city": "Seattle",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.okta.com/company/careers/opportunity/7463561?gh_jid=7463561",
+    "job_apply_link": "https://www.okta.com/company/careers/opportunity/7465810?gh_jid=7465810",
     "job_posted_at_datetime_utc": "2026-03-05T13:07:56-05:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "5e3d0b1b6ec715203ecce787a4de4b6d1450aec14a41239035b003b8aa674351",
+    "fingerprint": "9b9199b96e79b1d6466d00d044bfad36554c97d1a84c1952098916e9bcacb586",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -14677,18 +14736,18 @@
     "job_posted_at": "2026-03-05T13:07:56-05:00"
   },
   {
-    "job_id": "greenhouse-okta-7465810",
+    "job_id": "greenhouse-okta-7481578",
     "job_title": "Strategic Account Executive, Auth0",
     "employer_name": "Okta",
-    "job_city": "Seattle",
+    "job_city": "Chicago",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.okta.com/company/careers/opportunity/7465810?gh_jid=7465810",
+    "job_apply_link": "https://www.okta.com/company/careers/opportunity/7481578?gh_jid=7481578",
     "job_posted_at_datetime_utc": "2026-03-05T13:07:56-05:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "9b9199b96e79b1d6466d00d044bfad36554c97d1a84c1952098916e9bcacb586",
+    "fingerprint": "95cb3c787ef52ab03de03cc67977f5909bbdcf0b082476f618d5ce8d0ebf3024",
     "tags": {
       "employment": "entry_level",
       "domains": [
