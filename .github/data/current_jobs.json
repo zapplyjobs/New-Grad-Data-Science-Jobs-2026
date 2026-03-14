@@ -6477,6 +6477,35 @@
     "job_posted_at": "2026-03-12T06:50:24-04:00"
   },
   {
+    "job_id": "workday-intermountain-health-R164835",
+    "job_title": "Clinical Engineering Tech I",
+    "employer_name": "Intermountain Health",
+    "job_city": "Nevada Central Office",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Nevada-Central-Office/Clinical-Engineering-Tech-I_R164835",
+    "job_posted_at_datetime_utc": "2026-03-12T07:08:25.924Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "87ce22b2ec2162ced70c0df273bfb9910b685a5126e69b7afce2e89d782fa285",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-12T07:08:25.924Z"
+  },
+  {
     "job_id": "workday-broadcom-R025337",
     "job_title": "Applied AI Engineer",
     "employer_name": "Broadcom",
@@ -6993,6 +7022,124 @@
     "job_posted_at": "2026-03-11T20:15:18-04:00"
   },
   {
+    "job_id": "js-jobsultant-solutions-yvpfgfrffp85a5tqaaaaaa==",
+    "job_title": "Data Analyst - Entry Level (Remote)",
+    "employer_name": "Jobsultant Solutions",
+    "job_city": "Charlotte",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/30vrATe8fuKVJhmTCjpDWp",
+    "job_posted_at_datetime_utc": "2026-03-12T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "1d33e24026d68e28227ff3577057ef86dfae16f0dcafcd0cc9cc816eee55c8c3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-northwell-health-pmbxeruaiiuoirxjaaaaaa==",
+    "job_title": "Data Analyst",
+    "employer_name": "Northwell Health",
+    "job_city": "Sleepy Hollow",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.dataanalyst.com/job/data-analyst-cd1",
+    "job_posted_at_datetime_utc": "2026-03-12T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "aeaff618ed54912fef81b1888afe7d5871d9bd4955ba98e05bc0e9db057270c1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-mantech-4nqesj6vdhgg5zmuaaaaaa==",
+    "job_title": "Junior Data Analyst",
+    "employer_name": "ManTech",
+    "job_city": "Colorado Springs",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.dataanalyst.com/job/junior-data-analyst-6f",
+    "job_posted_at_datetime_utc": "2026-03-12T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "8598b280740ac4be450cb5bb7ba7a1e64af6364c616348ec1645dabc9b8da146",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-abt-global-cri5onewgonfkwmwaaaaaa==",
+    "job_title": "Entry Level Data Analyst, Environmental",
+    "employer_name": "Abt Global",
+    "job_city": "Atlanta",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.dataanalyst.com/job/entry-level-data-analyst-environmental",
+    "job_posted_at_datetime_utc": "2026-03-12T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "63e1633b8c93e3f4684406f70ff19a33d4645b27d7e84af342032b9eacb8f33d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-12T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-14e91782-e32b-4b1a-9f43-fd31b6ff3cc9",
     "job_title": "Software Development Engineer, Playback Team",
     "employer_name": "Audible, Inc.",
@@ -7114,153 +7261,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "job_posted_at": "2026-03-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-jobsultant-solutions-yvpfgfrffp85a5tqaaaaaa==",
-    "job_title": "Data Analyst - Entry Level (Remote)",
-    "employer_name": "Jobsultant Solutions",
-    "job_city": "Charlotte",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/30vrATe8fuKVJhmTCjpDWp",
-    "job_posted_at_datetime_utc": "2026-03-12T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "1d33e24026d68e28227ff3577057ef86dfae16f0dcafcd0cc9cc816eee55c8c3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-monte-carlo-i-lmjudac9lykh0daaaaaa==",
-    "job_title": "Data Analyst, East (Eastern Time Zone) (Remote)",
-    "employer_name": "Monte Carlo",
-    "job_city": "Almont",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://bandana.com/jobs/191b29f4-ca71-4417-886e-5915a3980431",
-    "job_posted_at_datetime_utc": "2026-03-12T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "e6f573e2b01aa834d74b35d52444a0be2ec100e62e076e8dbc2d355c236450a5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-northwell-health-pmbxeruaiiuoirxjaaaaaa==",
-    "job_title": "Data Analyst",
-    "employer_name": "Northwell Health",
-    "job_city": "Sleepy Hollow",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.dataanalyst.com/job/data-analyst-cd1",
-    "job_posted_at_datetime_utc": "2026-03-12T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "aeaff618ed54912fef81b1888afe7d5871d9bd4955ba98e05bc0e9db057270c1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-mantech-4nqesj6vdhgg5zmuaaaaaa==",
-    "job_title": "Junior Data Analyst",
-    "employer_name": "ManTech",
-    "job_city": "Colorado Springs",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.dataanalyst.com/job/junior-data-analyst-6f",
-    "job_posted_at_datetime_utc": "2026-03-12T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "8598b280740ac4be450cb5bb7ba7a1e64af6364c616348ec1645dabc9b8da146",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-abt-global-cri5onewgonfkwmwaaaaaa==",
-    "job_title": "Entry Level Data Analyst, Environmental",
-    "employer_name": "Abt Global",
-    "job_city": "Atlanta",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.dataanalyst.com/job/entry-level-data-analyst-environmental",
-    "job_posted_at_datetime_utc": "2026-03-12T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "63e1633b8c93e3f4684406f70ff19a33d4645b27d7e84af342032b9eacb8f33d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
     "job_posted_at": "2026-03-12T00:00:00.000Z"
   },
   {
@@ -8388,6 +8388,35 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-03-11T00:00:34.002Z"
+  },
+  {
+    "job_id": "js-monte-carlo-i-lmjudac9lykh0daaaaaa==",
+    "job_title": "Data Analyst, East (Eastern Time Zone) (Remote)",
+    "employer_name": "Monte Carlo",
+    "job_city": "Almont",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://bandana.com/jobs/191b29f4-ca71-4417-886e-5915a3980431",
+    "job_posted_at_datetime_utc": "2026-03-11T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "e6f573e2b01aa834d74b35d52444a0be2ec100e62e076e8dbc2d355c236450a5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-11T00:00:00.000Z"
   },
   {
     "job_id": "amazon-308ec3c1-b7f7-443c-8b2c-d9b4cddda5d1",
