@@ -22,8 +22,8 @@ module.exports = {
   tagline: '',  // No tagline for SEO repos
 
   // Description paragraphs (with template variables)
-  descriptionLine1: '🚀 Real-time data science, analytics, and machine learning jobs from {totalCompanies}+ top companies like Anthropic, Coinbase, and Instacart. Updated every 15 minutes with {currentJobs}+ fresh opportunities for new graduates, data science students, and entry-level data analysts.',
-  descriptionLine2: '🎯 Includes roles across tech giants, fast-growing startups, and data-first companies like Anthropic, Coinbase, and Instacart.',
+  descriptionLine1: '🚀 Data science, analytics, and ML jobs for new graduates, updated in real time.',
+  descriptionLine2: '',
 
   // Note box
   noteType: 'TIP',
