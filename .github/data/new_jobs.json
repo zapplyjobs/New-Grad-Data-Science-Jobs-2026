@@ -30358,35 +30358,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-03-01T22:18:30-05:00"
-  },
-  {
-    "job_id": "greenhouse-cresta-4759347008",
-    "job_title": "Forward Deployed Engineer (AI Agent)",
-    "employer_name": "Cresta",
-    "job_city": "United States (Remote)",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://job-boards.greenhouse.io/cresta/jobs/4759347008",
-    "job_posted_at_datetime_utc": "2026-03-01T19:24:50-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a8998af0afc3f2621f3d67acef6926bdb9f9b5cdf4040265662eeaa72cf1a8c4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-01T19:24:50-05:00"
   }
 ]
