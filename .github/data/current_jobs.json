@@ -31436,35 +31436,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-03-03T15:37:02-05:00"
-  },
-  {
-    "job_id": "greenhouse-anthropic-5079156008",
-    "job_title": "Finance AI Engineer",
-    "employer_name": "Anthropic",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5079156008",
-    "job_posted_at_datetime_utc": "2026-03-03T15:31:10-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "43e6e85a96dc207ea9b49c80aa7ee0446f4655dcdb0476abe5b82af8a68992f0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-03T15:31:10-05:00"
   }
 ]
