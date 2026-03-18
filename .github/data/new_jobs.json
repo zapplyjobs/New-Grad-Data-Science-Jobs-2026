@@ -32359,34 +32359,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-03-04T17:57:16-05:00"
-  },
-  {
-    "job_id": "greenhouse-faire-8324861002",
-    "job_title": "Strategic Account Executive",
-    "employer_name": "Faire",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/faire/jobs/8324861002?gh_jid=8324861002",
-    "job_posted_at_datetime_utc": "2026-03-04T17:31:52-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1e00afa24787af5c574dba790f990a45d74da16727f213fceb0bddcdf0544f85",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-04T17:31:52-05:00"
   }
 ]
