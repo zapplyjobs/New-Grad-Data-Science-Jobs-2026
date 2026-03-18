@@ -32330,34 +32330,5 @@
     "_source": "aggregator",
     "_original_source": "jsearch",
     "job_posted_at": "2026-03-05T00:00:00.000Z"
-  },
-  {
-    "job_id": "greenhouse-spacex-8449846002",
-    "job_title": "Software Engineer, Data - Top Secret Clearance (Starlink)",
-    "employer_name": "SpaceX",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8449846002?gh_jid=8449846002",
-    "job_posted_at_datetime_utc": "2026-03-04T17:57:16-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "723e5bd35de49e6df6c00617057216235a68fa9fbe6e6bdc51b4b6e7f6656925",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-04T17:57:16-05:00"
   }
 ]
