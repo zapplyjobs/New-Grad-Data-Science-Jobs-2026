@@ -31988,33 +31988,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-04T14:41:13.358Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235098",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Lorton",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lorton-VA/Data-Engineer_R0235098-1",
-    "job_posted_at_datetime_utc": "2026-03-04T13:38:24.794Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b91a412b1cd48e1c3da9c9eb34f7c70d3a019af6824669f5aeea2ecc33afa11b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-04T13:38:24.794Z"
   }
 ]
