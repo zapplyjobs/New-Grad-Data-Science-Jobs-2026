@@ -32515,34 +32515,5 @@
     "_source": "aggregator",
     "_original_source": "jsearch",
     "job_posted_at": "2026-03-05T23:00:00.000Z"
-  },
-  {
-    "job_id": "greenhouse-vercel-5579431004",
-    "job_title": "Fraud Specialist, Trust & Safety",
-    "employer_name": "Vercel",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://job-boards.greenhouse.io/vercel/jobs/5579431004",
-    "job_posted_at_datetime_utc": "2026-03-05T17:36:16-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "39283c18ebbcfa3534cf962f522c8a08c3eb4601ee3827d697a31a3e9a10ebbd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-05T17:36:16-05:00"
   }
 ]
