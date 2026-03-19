@@ -32283,34 +32283,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-05T16:01:21.054Z"
-  },
-  {
-    "job_id": "greenhouse-deepmind-7576917",
-    "job_title": "Research Scientist, Safety and Alignment for Humanoid Robotics",
-    "employer_name": "DeepMind",
-    "job_city": "New York City",
-    "job_state": "US",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/deepmind/jobs/7576917",
-    "job_posted_at_datetime_utc": "2026-03-05T10:07:03-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c5447ac7d4608e3634a887b96a19fcad669c794e129aa9b0ede45093f43e410f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-05T10:07:03-05:00"
   }
 ]
