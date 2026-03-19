@@ -32485,35 +32485,5 @@
     "_source": "aggregator",
     "_original_source": "ashby",
     "job_posted_at": "2026-03-05T23:03:42.323Z"
-  },
-  {
-    "job_id": "js-susquehanna-international-group-llp-sig-xwmmrft0tmickmhkaaaaaa==",
-    "job_title": "Network Engineer - New Grad",
-    "employer_name": "Susquehanna International Group, LLP (SIG)",
-    "job_city": "Bala Cynwyd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.sig.com/job/9201/Network-Engineer-New-Grad",
-    "job_posted_at_datetime_utc": "2026-03-05T23:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "3bb0dbac57e5bb9eda0c22ab374a272cfdfa0d00428b27fb2e1ae7979ad97a3c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-05T23:00:00.000Z"
   }
 ]
