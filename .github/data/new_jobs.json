@@ -31637,34 +31637,5 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-03-06T18:42:59.635Z"
-  },
-  {
-    "job_id": "greenhouse-okta-6948361",
-    "job_title": "Solutions Engineer, Okta",
-    "employer_name": "Okta",
-    "job_city": "Florida; New York",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.okta.com/company/careers/opportunity/6948361?gh_jid=6948361",
-    "job_posted_at_datetime_utc": "2026-03-06T11:45:10-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8b41018394a0f0ce19caf3f1b2aa888970b2627cda22320b24519a5a7245476e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-06T11:45:10-05:00"
   }
 ]
