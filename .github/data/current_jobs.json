@@ -31666,34 +31666,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-03-06T11:45:10-05:00"
-  },
-  {
-    "job_id": "greenhouse-arcinstitute-5820785004",
-    "job_title": "Scientist, Antibody Discovery, Horns Lab",
-    "employer_name": "Arc Institute",
-    "job_city": "Palo Alto",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/arcinstitute/jobs/5820785004",
-    "job_posted_at_datetime_utc": "2026-03-06T11:23:55-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d2030ab4560298876a18c76c0306ed6a8721fbebb938271d7a3585c9174bec68",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-06T11:23:55-05:00"
   }
 ]
