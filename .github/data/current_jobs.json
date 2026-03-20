@@ -31637,34 +31637,5 @@
     "_source": "aggregator",
     "_original_source": "jsearch",
     "job_posted_at": "2026-03-07T00:00:00.000Z"
-  },
-  {
-    "job_id": "ashby-watershed-ac1c3bef-0952-4b5a-9e65-735e2a439b0d",
-    "job_title": "Sustainability platform specialist",
-    "employer_name": "Watershed",
-    "job_city": "New York City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/watershed/ac1c3bef-0952-4b5a-9e65-735e2a439b0d/application",
-    "job_posted_at_datetime_utc": "2026-03-06T23:08:36.865Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "569c5840d14a21408f363c5ac5f8b5ce8b04c5a8f9b1aeddfe650fe523bef1d7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-06T23:08:36.865Z"
   }
 ]
