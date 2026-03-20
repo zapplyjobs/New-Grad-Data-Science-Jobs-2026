@@ -31723,33 +31723,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-03-06T15:24:29-05:00"
-  },
-  {
-    "job_id": "greenhouse-deepmind-7688901",
-    "job_title": "Chemist (FTC - 12 Month Fixed Term Contract)",
-    "employer_name": "DeepMind",
-    "job_city": "Mountain View",
-    "job_state": "US",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/deepmind/jobs/7688901",
-    "job_posted_at_datetime_utc": "2026-03-06T15:07:52-05:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "704771bf4acf7be95a0ec44d2dfa0663e794b2a974a414edb1ea0556fdcc9593",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-06T15:07:52-05:00"
   }
 ]
