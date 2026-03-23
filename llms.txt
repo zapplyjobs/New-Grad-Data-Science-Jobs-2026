@@ -1,0 +1,16 @@
+# Zapply Jobs — New Grad Data Science Jobs 2026
+
+> Curated entry-level Data Science job listings. Updated every 15 minutes. US-focused.
+
+## What this repo provides
+- Entry-level Data Science jobs: data science, machine learning, analytics, BI, data engineering, research
+- Updated every 15 minutes from 500+ companies
+- Structured data with apply links, location, company info
+- Part of the Zapply Jobs ecosystem (zapplyjobs)
+
+## Related repos
+- All Jobs: github.com/zapplyjobs/New-Grad-Jobs-2026
+- Internships: github.com/zapplyjobs/Internships-2026
+
+## Who maintains this
+Zapply Jobs (zapplyjobs) — automated pipeline with human curation
