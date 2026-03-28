@@ -398,6 +398,147 @@
     "job_posted_at": "2026-03-28T12:05:50.569Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0236420",
+    "job_title": "AI/ML Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-ML-Engineer_R0236420",
+    "job_posted_at_datetime_utc": "2026-03-28T12:05:50.568Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6d5692ef44695c23cb5436ac47609b9405655a35d34a4cae1cc5a83a3edbedfb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-28T12:05:50.568Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0236319",
+    "job_title": "Data Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Charlottesville",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charlottesville-VA/Data-Analyst_R0236319",
+    "job_posted_at_datetime_utc": "2026-03-28T12:05:50.568Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d3167722a659161b9b18a0b2260216ebd0ef64e500b9554f4a5834bbd257cd4a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-28T12:05:50.568Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0236337",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/Data-Engineer_R0236337",
+    "job_posted_at_datetime_utc": "2026-03-28T12:05:50.568Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b5b484f665e689547402bc63ca9475a88f14fc95b1fc1cc4d205a31d578e6e33",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-28T12:05:50.568Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0236207",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Data-Scientist_R0236207-1",
+    "job_posted_at_datetime_utc": "2026-03-28T12:05:50.568Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6d2a6d095e84e4c42252ccbe33e64b2dfee971c4288054d9c757842010684cca",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-28T12:05:50.568Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0236305",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Tampa-FL/Data-Scientist_R0236305",
+    "job_posted_at_datetime_utc": "2026-03-28T12:05:50.568Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a16bfe88c7a2270015141c391f408207033d4f10d460b3629783295854281c9e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-28T12:05:50.568Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0236582",
     "job_title": "Operations Research Specialist",
     "employer_name": "Booz Allen Hamilton",
@@ -528,147 +669,6 @@
       "employment": "entry_level",
       "domains": [
         "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-28T12:05:50.568Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0236420",
-    "job_title": "AI/ML Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-ML-Engineer_R0236420",
-    "job_posted_at_datetime_utc": "2026-03-28T12:05:50.568Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6d5692ef44695c23cb5436ac47609b9405655a35d34a4cae1cc5a83a3edbedfb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-28T12:05:50.568Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0236319",
-    "job_title": "Data Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Charlottesville",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charlottesville-VA/Data-Analyst_R0236319",
-    "job_posted_at_datetime_utc": "2026-03-28T12:05:50.568Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d3167722a659161b9b18a0b2260216ebd0ef64e500b9554f4a5834bbd257cd4a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-28T12:05:50.568Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0236337",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/Data-Engineer_R0236337",
-    "job_posted_at_datetime_utc": "2026-03-28T12:05:50.568Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b5b484f665e689547402bc63ca9475a88f14fc95b1fc1cc4d205a31d578e6e33",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-28T12:05:50.568Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0236207",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Data-Scientist_R0236207-1",
-    "job_posted_at_datetime_utc": "2026-03-28T12:05:50.568Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6d2a6d095e84e4c42252ccbe33e64b2dfee971c4288054d9c757842010684cca",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-28T12:05:50.568Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0236305",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Tampa-FL/Data-Scientist_R0236305",
-    "job_posted_at_datetime_utc": "2026-03-28T12:05:50.568Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a16bfe88c7a2270015141c391f408207033d4f10d460b3629783295854281c9e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
         "data_science"
       ],
       "locations": [
@@ -1160,6 +1160,35 @@
     "job_posted_at": "2026-03-28T12:05:50.564Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0229274",
+    "job_title": "Secure AI Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fort Meade",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Secure-AI-Engineer_R0229274",
+    "job_posted_at_datetime_utc": "2026-03-28T12:05:50.563Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5c4125b5f6a38da49bd3385ea2a95240d2422ebae654c2309e1b5c6836e204fc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-28T12:05:50.563Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0232390",
     "job_title": "Machine Learning Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -1275,35 +1304,6 @@
     "job_posted_at": "2026-03-28T12:05:50.563Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0229274",
-    "job_title": "Secure AI Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fort Meade",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Secure-AI-Engineer_R0229274",
-    "job_posted_at_datetime_utc": "2026-03-28T12:05:50.563Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5c4125b5f6a38da49bd3385ea2a95240d2422ebae654c2309e1b5c6836e204fc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-28T12:05:50.563Z"
-  },
-  {
     "job_id": "workday-caci-323962",
     "job_title": "Data Scientist for Analytics (Engineer/Scientist Support)",
     "employer_name": "CACI",
@@ -1358,35 +1358,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-28T12:05:44.544Z"
-  },
-  {
-    "job_id": "workday-boston-dynamics-R2581",
-    "job_title": "Machine Learning Engineer, Large Scale Behavior Cloning",
-    "employer_name": "Boston Dynamics",
-    "job_city": "Waltham Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Machine-Learning-Engineer--Large-Scale-Behavior-Cloning_R2581",
-    "job_posted_at_datetime_utc": "2026-03-28T12:05:35.154Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "61326f29d3f279e2a675a2bdc526357866fce757bf83e2b2c6e6b57812ce0de0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-28T12:05:35.154Z"
   },
   {
     "job_id": "workday-boston-dynamics-R2182",
@@ -1488,6 +1459,35 @@
     "tags": {
       "employment": "entry_level",
       "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-28T12:05:35.154Z"
+  },
+  {
+    "job_id": "workday-boston-dynamics-R2581",
+    "job_title": "Machine Learning Engineer, Large Scale Behavior Cloning",
+    "employer_name": "Boston Dynamics",
+    "job_city": "Waltham Office",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Machine-Learning-Engineer--Large-Scale-Behavior-Cloning_R2581",
+    "job_posted_at_datetime_utc": "2026-03-28T12:05:35.154Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "61326f29d3f279e2a675a2bdc526357866fce757bf83e2b2c6e6b57812ce0de0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
         "data_science"
       ],
       "locations": [
@@ -3372,35 +3372,6 @@
     "job_posted_at": "2026-03-28T11:46:34.013Z"
   },
   {
-    "job_id": "lever-whoop-3b94218d-3a5a-4dd1-91c7-5f18655c93a8",
-    "job_title": "Software Engineer I (Backend)",
-    "employer_name": "WHOOP",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/whoop/3b94218d-3a5a-4dd1-91c7-5f18655c93a8/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:33.834Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "76a33e4ff24b984d0ed32e0ef95f2f8c0281ca393a836abffb915b60fd338aee",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:33.834Z"
-  },
-  {
     "job_id": "lever-whoop-5a69af6c-bcb8-4744-b541-0e2501c3750e",
     "job_title": "AI Risk & Compliance Analyst",
     "employer_name": "WHOOP",
@@ -3487,6 +3458,35 @@
     "job_posted_at": "2026-03-28T11:46:33.834Z"
   },
   {
+    "job_id": "lever-whoop-3b94218d-3a5a-4dd1-91c7-5f18655c93a8",
+    "job_title": "Software Engineer I (Backend)",
+    "employer_name": "WHOOP",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/whoop/3b94218d-3a5a-4dd1-91c7-5f18655c93a8/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:33.834Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "76a33e4ff24b984d0ed32e0ef95f2f8c0281ca393a836abffb915b60fd338aee",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:33.834Z"
+  },
+  {
     "job_id": "lever-uncountable-f634a632-c93e-4110-8cbf-7fb54b8fe244",
     "job_title": "Scientific Data Engineer",
     "employer_name": "Uncountable",
@@ -3518,198 +3518,6 @@
     "_source": "aggregator",
     "_original_source": "lever",
     "job_posted_at": "2026-03-28T11:46:31.975Z"
-  },
-  {
-    "job_id": "ashby-snowflake-a486e499-fc99-4ce9-a994-ea7d61918eee",
-    "job_title": "R&D Finance Analyst",
-    "employer_name": "Snowflake",
-    "job_city": "US-CA-Menlo Park",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/snowflake/a486e499-fc99-4ce9-a994-ea7d61918eee/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:31.622Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "87e831b4e720063e689fe714dc8a950a406199253eeb157e7e859f200ea7f4a5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "unicorn"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:31.622Z"
-  },
-  {
-    "job_id": "ashby-snowflake-38f39127-ead9-477f-92a2-0ae918ba3588",
-    "job_title": "Account Executive, Majors, Financial Services",
-    "employer_name": "Snowflake",
-    "job_city": "US-NY-New York City-Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/snowflake/38f39127-ead9-477f-92a2-0ae918ba3588/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:31.622Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "adc2a7fe82b5c3611cd2027a70563156279aa9cd8382b21b30065f1b5a89cca9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "finance",
-        "sales"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
-      "special": [
-        "unicorn"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:31.622Z"
-  },
-  {
-    "job_id": "ashby-snowflake-4ffedb1a-580e-4abd-a1af-12f3af3fce5b",
-    "job_title": "Account Executive, Majors, Expansion",
-    "employer_name": "Snowflake",
-    "job_city": "US-NY-New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/snowflake/4ffedb1a-580e-4abd-a1af-12f3af3fce5b/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:31.622Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "ff1feabc2f93a6f771686c8c6c11592ac4d7576698dfa8c0429b45dcab6625ec",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "sales"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "senior_level",
-      "special": [
-        "unicorn"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:31.622Z"
-  },
-  {
-    "job_id": "ashby-snowflake-eb7ab527-1b2f-4a8a-b6a2-a425f82be508",
-    "job_title": "Solution Engineer",
-    "employer_name": "Snowflake",
-    "job_city": "US-GA-Atlanta",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/snowflake/eb7ab527-1b2f-4a8a-b6a2-a425f82be508/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:31.622Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "ff99ddc2c425b2f9b07e6f4c78382632515090f941c88060b640808da17d6605",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [
-        "unicorn"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:31.622Z"
-  },
-  {
-    "job_id": "ashby-snowflake-8751a167-bb87-40d8-8dc3-42bfb90673f8",
-    "job_title": "Majors Account Executive, HCLS",
-    "employer_name": "Snowflake",
-    "job_city": "US-MA-Boston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/snowflake/8751a167-bb87-40d8-8dc3-42bfb90673f8/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:31.622Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "83602d06847aaa03f897110d63e109eb4121b386730acecc55545e18b3d1555d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "sales"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "senior_level",
-      "special": [
-        "unicorn"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:31.622Z"
-  },
-  {
-    "job_id": "ashby-snowflake-a0428671-0cdc-47b0-8a5a-007fe52d49e4",
-    "job_title": "Account Executive, Commercial Acquisition",
-    "employer_name": "Snowflake",
-    "job_city": "US-GA-Atlanta",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/snowflake/a0428671-0cdc-47b0-8a5a-007fe52d49e4/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:31.622Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "29ff9a9c8fdaf2cca10a2a5a8f58fabfc5a66628ba95620a25afdaf80f82cb27",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "sales"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": [
-        "unicorn"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:31.622Z"
   },
   {
     "job_id": "ashby-snowflake-c4a7f41e-c977-4d98-8a99-230dd9df8838",
@@ -3863,6 +3671,198 @@
       "locations": [
         "us",
         "remote"
+      ],
+      "experience": "senior_level",
+      "special": [
+        "unicorn"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:31.622Z"
+  },
+  {
+    "job_id": "ashby-snowflake-eb7ab527-1b2f-4a8a-b6a2-a425f82be508",
+    "job_title": "Solution Engineer",
+    "employer_name": "Snowflake",
+    "job_city": "US-GA-Atlanta",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/snowflake/eb7ab527-1b2f-4a8a-b6a2-a425f82be508/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:31.622Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "ff99ddc2c425b2f9b07e6f4c78382632515090f941c88060b640808da17d6605",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": [
+        "unicorn"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:31.622Z"
+  },
+  {
+    "job_id": "ashby-snowflake-8751a167-bb87-40d8-8dc3-42bfb90673f8",
+    "job_title": "Majors Account Executive, HCLS",
+    "employer_name": "Snowflake",
+    "job_city": "US-MA-Boston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/snowflake/8751a167-bb87-40d8-8dc3-42bfb90673f8/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:31.622Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "83602d06847aaa03f897110d63e109eb4121b386730acecc55545e18b3d1555d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "sales"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "senior_level",
+      "special": [
+        "unicorn"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:31.622Z"
+  },
+  {
+    "job_id": "ashby-snowflake-a0428671-0cdc-47b0-8a5a-007fe52d49e4",
+    "job_title": "Account Executive, Commercial Acquisition",
+    "employer_name": "Snowflake",
+    "job_city": "US-GA-Atlanta",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/snowflake/a0428671-0cdc-47b0-8a5a-007fe52d49e4/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:31.622Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "29ff9a9c8fdaf2cca10a2a5a8f58fabfc5a66628ba95620a25afdaf80f82cb27",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "sales"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "unicorn"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:31.622Z"
+  },
+  {
+    "job_id": "ashby-snowflake-a486e499-fc99-4ce9-a994-ea7d61918eee",
+    "job_title": "R&D Finance Analyst",
+    "employer_name": "Snowflake",
+    "job_city": "US-CA-Menlo Park",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/snowflake/a486e499-fc99-4ce9-a994-ea7d61918eee/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:31.622Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "87e831b4e720063e689fe714dc8a950a406199253eeb157e7e859f200ea7f4a5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "unicorn"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:31.622Z"
+  },
+  {
+    "job_id": "ashby-snowflake-38f39127-ead9-477f-92a2-0ae918ba3588",
+    "job_title": "Account Executive, Majors, Financial Services",
+    "employer_name": "Snowflake",
+    "job_city": "US-NY-New York City-Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/snowflake/38f39127-ead9-477f-92a2-0ae918ba3588/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:31.622Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "adc2a7fe82b5c3611cd2027a70563156279aa9cd8382b21b30065f1b5a89cca9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "finance",
+        "sales"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "senior_level",
+      "special": [
+        "unicorn"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:31.622Z"
+  },
+  {
+    "job_id": "ashby-snowflake-4ffedb1a-580e-4abd-a1af-12f3af3fce5b",
+    "job_title": "Account Executive, Majors, Expansion",
+    "employer_name": "Snowflake",
+    "job_city": "US-NY-New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/snowflake/4ffedb1a-580e-4abd-a1af-12f3af3fce5b/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:31.622Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "ff1feabc2f93a6f771686c8c6c11592ac4d7576698dfa8c0429b45dcab6625ec",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "sales"
+      ],
+      "locations": [
+        "us",
+        "on_site"
       ],
       "experience": "senior_level",
       "special": [
@@ -4327,35 +4327,6 @@
     "job_posted_at": "2026-03-28T11:46:29.423Z"
   },
   {
-    "job_id": "ashby-ramp-e577622f-6657-4e53-8941-b3a774b04448",
-    "job_title": "Data Scientist, All Levels",
-    "employer_name": "Ramp",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/ramp/e577622f-6657-4e53-8941-b3a774b04448/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:29.280Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "1dadb98417944381ba4cf06a8abc86fa0465479b8b692194d953ea8ff6627b2a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:29.280Z"
-  },
-  {
     "job_id": "ashby-ramp-25fab813-c74b-460a-9728-c7d9cc93090c",
     "job_title": "Performance Marketing Analyst, Direct Mail",
     "employer_name": "Ramp",
@@ -4373,6 +4344,35 @@
       "domains": [
         "data_science",
         "marketing"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:29.280Z"
+  },
+  {
+    "job_id": "ashby-ramp-e577622f-6657-4e53-8941-b3a774b04448",
+    "job_title": "Data Scientist, All Levels",
+    "employer_name": "Ramp",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/ramp/e577622f-6657-4e53-8941-b3a774b04448/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:29.280Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "1dadb98417944381ba4cf06a8abc86fa0465479b8b692194d953ea8ff6627b2a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
       ],
       "locations": [
         "us",
@@ -4624,6 +4624,125 @@
     "job_posted_at": "2026-03-28T11:46:27.797Z"
   },
   {
+    "job_id": "ashby-openai-50626871-6bbf-4d8f-a534-176f929f1f37",
+    "job_title": "Full Stack Software Engineer, ChatGPT Partnerships",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/50626871-6bbf-4d8f-a534-176f929f1f37/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.796Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "38e3e13cc7f70eed8105790139d571b0130f8751b6c979f72359797ccc1bbc3a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.796Z"
+  },
+  {
+    "job_id": "ashby-openai-4a13c764-18c3-4076-ac87-29e05491be07",
+    "job_title": "Machine Learning Engineer, Distributed Data Systems",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/4a13c764-18c3-4076-ac87-29e05491be07/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.796Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "ddecbe734593f291de2bf7467f05756c33b98cff15da66332c603db24f9ef473",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.796Z"
+  },
+  {
+    "job_id": "ashby-openai-46cd47bc-d4de-4826-aa2e-8b2e0da3c409",
+    "job_title": "Research Engineer / Machine Learning Engineer - Applied Voice",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/46cd47bc-d4de-4826-aa2e-8b2e0da3c409/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.796Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "7a016e8e0928890fc5290485a4220bf6f04bbde00139379e5cf89af03379d01b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.796Z"
+  },
+  {
+    "job_id": "ashby-openai-be4e1098-f7ac-46f4-babe-44ef08f47fcb",
+    "job_title": "Data Scientist, Integrity Measurement",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/be4e1098-f7ac-46f4-babe-44ef08f47fcb/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.796Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "d7053e6239c3004874aa631828d2c3e59fd2f6551cc20e3a40a27db026bc1e77",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.796Z"
+  },
+  {
     "job_id": "ashby-openai-681f9b48-0ebb-451d-ab79-103b4379db27",
     "job_title": "Data Scientist, B2B",
     "employer_name": "OpenAI",
@@ -4763,125 +4882,6 @@
       "locations": [
         "us",
         "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.796Z"
-  },
-  {
-    "job_id": "ashby-openai-50626871-6bbf-4d8f-a534-176f929f1f37",
-    "job_title": "Full Stack Software Engineer, ChatGPT Partnerships",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/50626871-6bbf-4d8f-a534-176f929f1f37/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.796Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "38e3e13cc7f70eed8105790139d571b0130f8751b6c979f72359797ccc1bbc3a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.796Z"
-  },
-  {
-    "job_id": "ashby-openai-4a13c764-18c3-4076-ac87-29e05491be07",
-    "job_title": "Machine Learning Engineer, Distributed Data Systems",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/4a13c764-18c3-4076-ac87-29e05491be07/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.796Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "ddecbe734593f291de2bf7467f05756c33b98cff15da66332c603db24f9ef473",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.796Z"
-  },
-  {
-    "job_id": "ashby-openai-46cd47bc-d4de-4826-aa2e-8b2e0da3c409",
-    "job_title": "Research Engineer / Machine Learning Engineer - Applied Voice",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/46cd47bc-d4de-4826-aa2e-8b2e0da3c409/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.796Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "7a016e8e0928890fc5290485a4220bf6f04bbde00139379e5cf89af03379d01b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.796Z"
-  },
-  {
-    "job_id": "ashby-openai-be4e1098-f7ac-46f4-babe-44ef08f47fcb",
-    "job_title": "Data Scientist, Integrity Measurement",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/be4e1098-f7ac-46f4-babe-44ef08f47fcb/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.796Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "d7053e6239c3004874aa631828d2c3e59fd2f6551cc20e3a40a27db026bc1e77",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
       ],
       "experience": "unknown",
       "special": []
@@ -5155,389 +5155,6 @@
     "_source": "aggregator",
     "_original_source": "ashby",
     "job_posted_at": "2026-03-28T11:46:27.795Z"
-  },
-  {
-    "job_id": "ashby-openai-020b2aae-8be0-408c-ab49-20eefa8541af",
-    "job_title": "Research Engineer / Research Scientist - Foundations Retrieval IC",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/020b2aae-8be0-408c-ab49-20eefa8541af/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "663b791b884004639d51beb55a17a3fc7a4f7a1e6092ee42f538ef2a6720b01f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
-  },
-  {
-    "job_id": "ashby-openai-7e198d81-34e0-48b6-b64e-a501a75f9d53",
-    "job_title": "Research Engineer/Research Scientist, RL/Reasoning",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/7e198d81-34e0-48b6-b64e-a501a75f9d53/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "53222447a0661dc538e87e7088cc1f8204bef3fee928a3fc589fe0e300ad92d7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
-  },
-  {
-    "job_id": "ashby-openai-4d6a5951-9838-434c-830a-22cb938ea228",
-    "job_title": "Software Engineer, Research - Human Data",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/4d6a5951-9838-434c-830a-22cb938ea228/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "b8bf846540ed4d15f075ed8231db40cf0b65cb54db2c2ea3720acafc7f565c74",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
-  },
-  {
-    "job_id": "ashby-openai-c44268f1-717b-4da3-9943-2557f7d739f0",
-    "job_title": "Researcher, Interpretability",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/c44268f1-717b-4da3-9943-2557f7d739f0/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "6ffb940fa146aa912357010cddf49ce8620263f42085f84a1332be3d9fd30ab6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
-  },
-  {
-    "job_id": "ashby-openai-1f37ae5b-791a-4505-9575-183cc4bb9d5e",
-    "job_title": "Data Scientist, Support",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/1f37ae5b-791a-4505-9575-183cc4bb9d5e/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "a3b285acac346555bc59171c0ef6f07241b55c4c0123a4420c2fc7b982bb2f85",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
-  },
-  {
-    "job_id": "ashby-openai-cc434f5b-dc0b-42fd-97ec-e0171545c6e9",
-    "job_title": "Research Engineer, Privacy",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/cc434f5b-dc0b-42fd-97ec-e0171545c6e9/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "b39b9290d6b16072f4c7c46563e2c0a841122f8b2cceddc8204a5186b8d68baa",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
-  },
-  {
-    "job_id": "ashby-openai-7055f010-99f4-4c76-8361-ba5b5f9af1d0",
-    "job_title": "Researcher, Misalignment Research",
-    "employer_name": "OpenAI",
-    "job_city": "New York City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/7055f010-99f4-4c76-8361-ba5b5f9af1d0/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "b4877b66c90a95be7ca876bbbc4f0bbdeb11113f7de22e1d193f9de3f055ce32",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
-  },
-  {
-    "job_id": "ashby-openai-52c72cb9-7c44-4cba-b440-e05262a38491",
-    "job_title": "Fullstack Engineer, Intelligence Systems",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/52c72cb9-7c44-4cba-b440-e05262a38491/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "6e9f8224c6aeedf6fa42df0e605442cdd44b85daca857787675d29948c5374d4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
-  },
-  {
-    "job_id": "ashby-openai-77bc0b3a-35c1-4ecf-99c7-1b3b19d959ca",
-    "job_title": "Full Stack Software Engineer, Growth",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/77bc0b3a-35c1-4ecf-99c7-1b3b19d959ca/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "deab325d3b5d051d38afa10f9dd4cafadef3265f4364709047532aa2a0dcb771",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
-  },
-  {
-    "job_id": "ashby-openai-3d064454-c0c3-4225-bc2c-6d8c0f8735b2",
-    "job_title": "Backend Software Engineer (Evals)",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/3d064454-c0c3-4225-bc2c-6d8c0f8735b2/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "b569c6843ea553f80717efdfbc8e78b904492a0558b19b192852aa4d1f61ddc0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
-  },
-  {
-    "job_id": "ashby-openai-dd2025b9-4d18-4ad7-a78c-7a643419ecc5",
-    "job_title": "Backend Software Engineer, Growth",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/dd2025b9-4d18-4ad7-a78c-7a643419ecc5/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "19212f6011bea79fc8617b577fc103499969081465b45d88b13fb68d9e481af4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
-  },
-  {
-    "job_id": "ashby-openai-8fc7124f-6338-4ff5-93ec-c6050a31cb93",
-    "job_title": "Research Engineer, Notifications",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/8fc7124f-6338-4ff5-93ec-c6050a31cb93/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "e4b362d54f0051e8d1a3d695b20c3b7c1ea93fb6f119801cb56c1874cea54cf8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
-  },
-  {
-    "job_id": "ashby-openai-548fb239-b14d-4ab6-af38-05a84ac0914e",
-    "job_title": "Full-Stack Software Engineer, Social Products",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/548fb239-b14d-4ab6-af38-05a84ac0914e/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "ddc10db10ab2a24d31ea7ea18f2884f4a990b4ebcb9cf2ecd09417f8f589c7b8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
   },
   {
     "job_id": "ashby-openai-240d459b-696d-43eb-8497-fab3e56ecd9b",
@@ -6157,6 +5774,389 @@
     "job_posted_at": "2026-03-28T11:46:27.794Z"
   },
   {
+    "job_id": "ashby-openai-020b2aae-8be0-408c-ab49-20eefa8541af",
+    "job_title": "Research Engineer / Research Scientist - Foundations Retrieval IC",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/020b2aae-8be0-408c-ab49-20eefa8541af/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "663b791b884004639d51beb55a17a3fc7a4f7a1e6092ee42f538ef2a6720b01f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
+    "job_id": "ashby-openai-7e198d81-34e0-48b6-b64e-a501a75f9d53",
+    "job_title": "Research Engineer/Research Scientist, RL/Reasoning",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/7e198d81-34e0-48b6-b64e-a501a75f9d53/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "53222447a0661dc538e87e7088cc1f8204bef3fee928a3fc589fe0e300ad92d7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
+    "job_id": "ashby-openai-4d6a5951-9838-434c-830a-22cb938ea228",
+    "job_title": "Software Engineer, Research - Human Data",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/4d6a5951-9838-434c-830a-22cb938ea228/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "b8bf846540ed4d15f075ed8231db40cf0b65cb54db2c2ea3720acafc7f565c74",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
+    "job_id": "ashby-openai-c44268f1-717b-4da3-9943-2557f7d739f0",
+    "job_title": "Researcher, Interpretability",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/c44268f1-717b-4da3-9943-2557f7d739f0/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "6ffb940fa146aa912357010cddf49ce8620263f42085f84a1332be3d9fd30ab6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
+    "job_id": "ashby-openai-1f37ae5b-791a-4505-9575-183cc4bb9d5e",
+    "job_title": "Data Scientist, Support",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/1f37ae5b-791a-4505-9575-183cc4bb9d5e/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "a3b285acac346555bc59171c0ef6f07241b55c4c0123a4420c2fc7b982bb2f85",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
+    "job_id": "ashby-openai-cc434f5b-dc0b-42fd-97ec-e0171545c6e9",
+    "job_title": "Research Engineer, Privacy",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/cc434f5b-dc0b-42fd-97ec-e0171545c6e9/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "b39b9290d6b16072f4c7c46563e2c0a841122f8b2cceddc8204a5186b8d68baa",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
+    "job_id": "ashby-openai-7055f010-99f4-4c76-8361-ba5b5f9af1d0",
+    "job_title": "Researcher, Misalignment Research",
+    "employer_name": "OpenAI",
+    "job_city": "New York City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/7055f010-99f4-4c76-8361-ba5b5f9af1d0/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "b4877b66c90a95be7ca876bbbc4f0bbdeb11113f7de22e1d193f9de3f055ce32",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
+    "job_id": "ashby-openai-52c72cb9-7c44-4cba-b440-e05262a38491",
+    "job_title": "Fullstack Engineer, Intelligence Systems",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/52c72cb9-7c44-4cba-b440-e05262a38491/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "6e9f8224c6aeedf6fa42df0e605442cdd44b85daca857787675d29948c5374d4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
+    "job_id": "ashby-openai-77bc0b3a-35c1-4ecf-99c7-1b3b19d959ca",
+    "job_title": "Full Stack Software Engineer, Growth",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/77bc0b3a-35c1-4ecf-99c7-1b3b19d959ca/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "deab325d3b5d051d38afa10f9dd4cafadef3265f4364709047532aa2a0dcb771",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
+    "job_id": "ashby-openai-3d064454-c0c3-4225-bc2c-6d8c0f8735b2",
+    "job_title": "Backend Software Engineer (Evals)",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/3d064454-c0c3-4225-bc2c-6d8c0f8735b2/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "b569c6843ea553f80717efdfbc8e78b904492a0558b19b192852aa4d1f61ddc0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
+    "job_id": "ashby-openai-dd2025b9-4d18-4ad7-a78c-7a643419ecc5",
+    "job_title": "Backend Software Engineer, Growth",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/dd2025b9-4d18-4ad7-a78c-7a643419ecc5/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "19212f6011bea79fc8617b577fc103499969081465b45d88b13fb68d9e481af4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
+    "job_id": "ashby-openai-8fc7124f-6338-4ff5-93ec-c6050a31cb93",
+    "job_title": "Research Engineer, Notifications",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/8fc7124f-6338-4ff5-93ec-c6050a31cb93/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "e4b362d54f0051e8d1a3d695b20c3b7c1ea93fb6f119801cb56c1874cea54cf8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
+    "job_id": "ashby-openai-548fb239-b14d-4ab6-af38-05a84ac0914e",
+    "job_title": "Full-Stack Software Engineer, Social Products",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/548fb239-b14d-4ab6-af38-05a84ac0914e/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "ddc10db10ab2a24d31ea7ea18f2884f4a990b4ebcb9cf2ecd09417f8f589c7b8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
     "job_id": "ashby-perplexity-8a976851-9bef-4b07-8d36-567fa9540aef",
     "job_title": "AI Inference Engineer",
     "employer_name": "Perplexity",
@@ -6689,6 +6689,93 @@
     "job_posted_at": "2026-03-28T11:46:25.258Z"
   },
   {
+    "job_id": "ashby-handshake-aced900f-04da-47f5-a750-98a4f24241c3",
+    "job_title": "ParaView Specialist - AI Trainer",
+    "employer_name": "Handshake",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/handshake/aced900f-04da-47f5-a750-98a4f24241c3/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:25.119Z",
+    "job_employment_type": "Contract",
+    "salary": null,
+    "fingerprint": "de5b8f3ba93b066a9da4332da3651567bcf71cea2987049b5fbdc32fc32b7f8d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:25.119Z"
+  },
+  {
+    "job_id": "ashby-handshake-9ec77bf2-bc68-4f0f-a235-7e774cbc41a6",
+    "job_title": "Cartographer/Digital Cartographer - AI Trainer",
+    "employer_name": "Handshake",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/handshake/9ec77bf2-bc68-4f0f-a235-7e774cbc41a6/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:25.119Z",
+    "job_employment_type": "Contract",
+    "salary": null,
+    "fingerprint": "bae80bf36deb224db00700f6f69ebf34a5061607d4ba75334a3bf47a7e19f03b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:25.119Z"
+  },
+  {
+    "job_id": "ashby-handshake-670b5472-0855-4339-9d72-d09f264ea0c8",
+    "job_title": "Medical Image Analyst - AI Trainer",
+    "employer_name": "Handshake",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/handshake/670b5472-0855-4339-9d72-d09f264ea0c8/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:25.119Z",
+    "job_employment_type": "Contract",
+    "salary": null,
+    "fingerprint": "34fe9cd4b59cf3e011a75de20d55ee6ffa5751905dc393c9ae83c14389811b6e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:25.119Z"
+  },
+  {
     "job_id": "ashby-handshake-4a1d14cd-1aec-4974-aa0b-bb911d200c97",
     "job_title": "Medical Imaging Specialist - AI Trainer",
     "employer_name": "Handshake",
@@ -6788,93 +6875,6 @@
     "job_employment_type": "Contract",
     "salary": null,
     "fingerprint": "d9858b951916533cb8f8e82ea063b724c634438069ad9beb3f2a1bb2bb2d7ec3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:25.119Z"
-  },
-  {
-    "job_id": "ashby-handshake-aced900f-04da-47f5-a750-98a4f24241c3",
-    "job_title": "ParaView Specialist - AI Trainer",
-    "employer_name": "Handshake",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/handshake/aced900f-04da-47f5-a750-98a4f24241c3/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:25.119Z",
-    "job_employment_type": "Contract",
-    "salary": null,
-    "fingerprint": "de5b8f3ba93b066a9da4332da3651567bcf71cea2987049b5fbdc32fc32b7f8d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:25.119Z"
-  },
-  {
-    "job_id": "ashby-handshake-9ec77bf2-bc68-4f0f-a235-7e774cbc41a6",
-    "job_title": "Cartographer/Digital Cartographer - AI Trainer",
-    "employer_name": "Handshake",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/handshake/9ec77bf2-bc68-4f0f-a235-7e774cbc41a6/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:25.119Z",
-    "job_employment_type": "Contract",
-    "salary": null,
-    "fingerprint": "bae80bf36deb224db00700f6f69ebf34a5061607d4ba75334a3bf47a7e19f03b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:25.119Z"
-  },
-  {
-    "job_id": "ashby-handshake-670b5472-0855-4339-9d72-d09f264ea0c8",
-    "job_title": "Medical Image Analyst - AI Trainer",
-    "employer_name": "Handshake",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/handshake/670b5472-0855-4339-9d72-d09f264ea0c8/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:25.119Z",
-    "job_employment_type": "Contract",
-    "salary": null,
-    "fingerprint": "34fe9cd4b59cf3e011a75de20d55ee6ffa5751905dc393c9ae83c14389811b6e",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7845,35 +7845,6 @@
     "job_posted_at": "2026-03-28T11:46:16.039Z"
   },
   {
-    "job_id": "lever-palantir-3c84af24-b7aa-483e-b2c3-e1d83494fe15",
-    "job_title": "Software Engineer - Developer Productivity",
-    "employer_name": "Palantir",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/palantir/3c84af24-b7aa-483e-b2c3-e1d83494fe15/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.036Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "082b60e189c850384ff80ea87b1789bd3fff66102b7ae74bd8bc4d16450e70e0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:16.036Z"
-  },
-  {
     "job_id": "lever-palantir-94984771-0704-446c-88c6-91ce748f6d92",
     "job_title": "Software Engineer, New Grad",
     "employer_name": "Palantir",
@@ -8089,6 +8060,35 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3ce17fb23cb53379c5a3433b87d4c74ebb815d198e1f6948465ad41415070434",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:16.036Z"
+  },
+  {
+    "job_id": "lever-palantir-3c84af24-b7aa-483e-b2c3-e1d83494fe15",
+    "job_title": "Software Engineer - Developer Productivity",
+    "employer_name": "Palantir",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/palantir/3c84af24-b7aa-483e-b2c3-e1d83494fe15/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.036Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "082b60e189c850384ff80ea87b1789bd3fff66102b7ae74bd8bc4d16450e70e0",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -13469,64 +13469,6 @@
     "job_posted_at": "2026-03-27T00:00:00.000Z"
   },
   {
-    "job_id": "js-the-mitre-corporation-4eoaimjq-o9ovhztaaaaaa==",
-    "job_title": "Internships in Data Science, Math, Statistics or Operations Research",
-    "employer_name": "The MITRE Corporation",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.mitre.org/us/en/job/R115478/Internships-in-Data-Science-Math-Statistics-or-Operations-Research",
-    "job_posted_at_datetime_utc": "2026-03-27T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "46a0e00ada43ef77c65b94d7915cb4ccf95e88080665ed54f7f0a5be8d145be7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-27T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-the-mitre-corporation-4eoaimjq-o9ovhztaaaaaa==",
-    "job_title": "Internships in Data Science, Math, Statistics or Operations Research",
-    "employer_name": "The MITRE Corporation",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.mitre.org/us/en/job/R115478/Internships-in-Data-Science-Math-Statistics-or-Operations-Research",
-    "job_posted_at_datetime_utc": "2026-03-27T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "46a0e00ada43ef77c65b94d7915cb4ccf95e88080665ed54f7f0a5be8d145be7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-27T00:00:00.000Z"
-  },
-  {
     "job_id": "js-emcor-group-inc-ay8ly5lqlhglxx1paaaaaa==",
     "job_title": "Business Data Analyst, Construction; Entry Level",
     "employer_name": "EMCOR Group, Inc.",
@@ -15806,6 +15748,34 @@
     "job_posted_at": "2026-03-26T11:46:57.994Z"
   },
   {
+    "job_id": "workday-caci-322946",
+    "job_title": "Log Data Engineer (SIEM)",
+    "employer_name": "CACI",
+    "job_city": "US VA Springfield",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Springfield/Cyber-Data-Analytics-Engineer_322946",
+    "job_posted_at_datetime_utc": "2026-03-26T11:46:47.487Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "61a4a351b3d9d138c46fff180bf7d2f1ae5b1fc31578a4078dc1374d9a5f27b4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-26T11:46:47.487Z"
+  },
+  {
     "job_id": "workday-caci-323835",
     "job_title": "AI Engineer",
     "employer_name": "CACI",
@@ -15848,34 +15818,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "05dfd716c757a0d78491ee3b5018d0b44ce2ce5f0f2fa7af2b150abbe174526d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-26T11:46:47.487Z"
-  },
-  {
-    "job_id": "workday-caci-322946",
-    "job_title": "Log Data Engineer (SIEM)",
-    "employer_name": "CACI",
-    "job_city": "US VA Springfield",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Springfield/Cyber-Data-Analytics-Engineer_322946",
-    "job_posted_at_datetime_utc": "2026-03-26T11:46:47.487Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "61a4a351b3d9d138c46fff180bf7d2f1ae5b1fc31578a4078dc1374d9a5f27b4",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -16008,6 +15950,64 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-03-26T04:25:46.906Z"
+  },
+  {
+    "job_id": "js-the-mitre-corporation-4eoaimjq-o9ovhztaaaaaa==",
+    "job_title": "Internships in Data Science, Math, Statistics or Operations Research",
+    "employer_name": "The MITRE Corporation",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.mitre.org/us/en/job/R115478/Internships-in-Data-Science-Math-Statistics-or-Operations-Research",
+    "job_posted_at_datetime_utc": "2026-03-26T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "46a0e00ada43ef77c65b94d7915cb4ccf95e88080665ed54f7f0a5be8d145be7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-26T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-the-mitre-corporation-4eoaimjq-o9ovhztaaaaaa==",
+    "job_title": "Internships in Data Science, Math, Statistics or Operations Research",
+    "employer_name": "The MITRE Corporation",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.mitre.org/us/en/job/R115478/Internships-in-Data-Science-Math-Statistics-or-Operations-Research",
+    "job_posted_at_datetime_utc": "2026-03-26T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "46a0e00ada43ef77c65b94d7915cb4ccf95e88080665ed54f7f0a5be8d145be7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-26T00:00:00.000Z"
   },
   {
     "job_id": "amazon-d21e87e4-b5a9-4402-bb6d-b68cf982ca4b",
@@ -16167,18 +16167,18 @@
     "job_posted_at": "2026-03-26T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-1f3e292f-158a-4d17-a47f-74c3ad761c14",
-    "job_title": "Applied Scientist - Agentic AI, Amazon Fulfillment Technology",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "Bellevue",
+    "job_id": "amazon-86f502be-5599-491e-95c1-c26a69733466",
+    "job_title": "Language Data Scientist, Alexa AI",
+    "employer_name": "Amazon.com LLC",
+    "job_city": "Seattle",
     "job_state": "WA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10377632/applied-scientist-agentic-ai-amazon-fulfillment-technology",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10377559/language-data-scientist-alexa-ai",
     "job_posted_at_datetime_utc": "2026-03-26T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "e7f79de9a059caf126298e1b57aa0702208f46f333e4369a7ed9865eb647a1ac",
+    "fingerprint": "bfd749c32baa5d046197b56bd982c76f512d1ed0d1694ae2b4a20a7a7e29bcb6",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -16198,18 +16198,18 @@
     "job_posted_at": "2026-03-26T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-86f502be-5599-491e-95c1-c26a69733466",
-    "job_title": "Language Data Scientist, Alexa AI",
-    "employer_name": "Amazon.com LLC",
-    "job_city": "Seattle",
+    "job_id": "amazon-1f3e292f-158a-4d17-a47f-74c3ad761c14",
+    "job_title": "Applied Scientist - Agentic AI, Amazon Fulfillment Technology",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "Bellevue",
     "job_state": "WA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10377559/language-data-scientist-alexa-ai",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10377632/applied-scientist-agentic-ai-amazon-fulfillment-technology",
     "job_posted_at_datetime_utc": "2026-03-26T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "bfd749c32baa5d046197b56bd982c76f512d1ed0d1694ae2b4a20a7a7e29bcb6",
+    "fingerprint": "e7f79de9a059caf126298e1b57aa0702208f46f333e4369a7ed9865eb647a1ac",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -25606,37 +25606,6 @@
     "job_posted_at": "2026-03-20T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-017382a1-b97d-4573-b6d5-8048ee909a69",
-    "job_title": "Applied Scientist, Artificial General Intelligence, AGI Data Services",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10372643/applied-scientist-artificial-general-intelligence-agi-data-services",
-    "job_posted_at_datetime_utc": "2026-03-20T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d167ee3273ba6de4ea053ed4c393ee5d4311cfefd6df533693064a0c1a0d89ba",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "job_posted_at": "2026-03-20T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-70145642-887a-48cf-b009-90f4806439f2",
     "job_title": "Applied Scientist, Artificial General Intelligence, AGI Data Services",
     "employer_name": "Amazon.com Services LLC",
@@ -25680,6 +25649,37 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5cfb2754c57b386673a04993151975483a7bbe839a13a5cd6a81a01667414d7b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "job_posted_at": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-017382a1-b97d-4573-b6d5-8048ee909a69",
+    "job_title": "Applied Scientist, Artificial General Intelligence, AGI Data Services",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10372643/applied-scientist-artificial-general-intelligence-agi-data-services",
+    "job_posted_at_datetime_utc": "2026-03-20T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d167ee3273ba6de4ea053ed4c393ee5d4311cfefd6df533693064a0c1a0d89ba",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -32565,6 +32565,35 @@
     "job_posted_at": "2026-03-16T11:46:30.620Z"
   },
   {
+    "job_id": "workday-adobe-R163987",
+    "job_title": "AI/ML Engineer – Gen AI Assistant & Experience Engineering",
+    "employer_name": "Adobe",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/ML-Engineer---Gen-AI-Assistant---Experience-Engineering_R163987",
+    "job_posted_at_datetime_utc": "2026-03-16T11:46:30.616Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2a51f7d7774f2cd025815671e94aef39200ecc88050e105667c591c360f055da",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-16T11:46:30.616Z"
+  },
+  {
     "job_id": "workday-adobe-R163986",
     "job_title": "AI/ML Engineer – Gen AI Assistant & Experience Engineering",
     "employer_name": "Adobe",
@@ -32609,35 +32638,6 @@
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-16T11:46:30.616Z"
-  },
-  {
-    "job_id": "workday-adobe-R163987",
-    "job_title": "AI/ML Engineer – Gen AI Assistant & Experience Engineering",
-    "employer_name": "Adobe",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/ML-Engineer---Gen-AI-Assistant---Experience-Engineering_R163987",
-    "job_posted_at_datetime_utc": "2026-03-16T11:46:30.616Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2a51f7d7774f2cd025815671e94aef39200ecc88050e105667c591c360f055da",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
         "data_science"
       ],
       "locations": [
