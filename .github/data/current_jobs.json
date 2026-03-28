@@ -822,35 +822,6 @@
     "job_posted_at": "2026-03-28T12:05:50.567Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0236788",
-    "job_title": "Data Analytics Platform Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "4 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Analytics-Platform-Engineer_R0236788",
-    "job_posted_at_datetime_utc": "2026-03-28T12:05:50.564Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "99c2b42fc0466bea7dd32dd7719953312ec8739ce8db277306d0d5cd541f2869",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-28T12:05:50.564Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0227894",
     "job_title": "Data Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -1160,6 +1131,35 @@
     "job_posted_at": "2026-03-28T12:05:50.564Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0236788",
+    "job_title": "Data Analytics Platform Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "4 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Analytics-Platform-Engineer_R0236788",
+    "job_posted_at_datetime_utc": "2026-03-28T12:05:50.564Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "99c2b42fc0466bea7dd32dd7719953312ec8739ce8db277306d0d5cd541f2869",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-28T12:05:50.564Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0232390",
     "job_title": "Machine Learning Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -1332,18 +1332,18 @@
     "job_posted_at": "2026-03-28T12:05:50.563Z"
   },
   {
-    "job_id": "workday-caci-323085",
-    "job_title": "Data Scientist Level 3",
+    "job_id": "workday-caci-323962",
+    "job_title": "Data Scientist for Analytics (Engineer/Scientist Support)",
     "employer_name": "CACI",
-    "job_city": "US MD Suitland",
+    "job_city": "US CA Norco",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Suitland/Data-Scientist-Level-3_323085",
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CA-Norco/Data-Scientist-for-Analytics--Engineer-Scientist-Support-_323962",
     "job_posted_at_datetime_utc": "2026-03-28T12:05:44.544Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "90b1a9ac276f9b6fe503405a359aef018e2979ffda27988975e31610ce85d673",
+    "fingerprint": "e0ff68a02f3c6672497a989ff162bcae7ad257476ba58d8953dc59b17dde1664",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1360,18 +1360,18 @@
     "job_posted_at": "2026-03-28T12:05:44.544Z"
   },
   {
-    "job_id": "workday-caci-323962",
-    "job_title": "Data Scientist for Analytics (Engineer/Scientist Support)",
+    "job_id": "workday-caci-323085",
+    "job_title": "Data Scientist Level 3",
     "employer_name": "CACI",
-    "job_city": "US CA Norco",
+    "job_city": "US MD Suitland",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CA-Norco/Data-Scientist-for-Analytics--Engineer-Scientist-Support-_323962",
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Suitland/Data-Scientist-Level-3_323085",
     "job_posted_at_datetime_utc": "2026-03-28T12:05:44.544Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "e0ff68a02f3c6672497a989ff162bcae7ad257476ba58d8953dc59b17dde1664",
+    "fingerprint": "90b1a9ac276f9b6fe503405a359aef018e2979ffda27988975e31610ce85d673",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4924,36 +4924,6 @@
     "job_posted_at": "2026-03-27T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-7cc2d27d-fe91-46e5-92b1-e219d3df4aab",
-    "job_title": "SoC Systems Software Engineer, Annapurna Labs Machine Learning Accelerators, AWS",
-    "employer_name": "Annapurna Labs (U.S.) Inc.",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10378122/soc-systems-software-engineer-annapurna-labs-machine-learning-accelerators-aws",
-    "job_posted_at_datetime_utc": "2026-03-27T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0423fb938ac465c031569dfa3c5a5600a059b6bbab60a55950216fb31566c19d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "job_posted_at": "2026-03-27T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-47cd6da8-6dc2-47e2-8b3c-d9d4361fadeb",
     "job_title": "Lab Engineer, Annapurnna MLA Hardware",
     "employer_name": "Annapurna Labs (U.S.) Inc.",
@@ -6472,18 +6442,18 @@
     "job_posted_at": "2026-03-26T04:25:46.906Z"
   },
   {
-    "job_id": "js-the-mitre-corporation-4eoaimjq-o9ovhztaaaaaa==",
-    "job_title": "Internships in Data Science, Math, Statistics or Operations Research",
-    "employer_name": "The MITRE Corporation",
-    "job_city": "Unknown",
+    "job_id": "js-emcor-group-inc-ay8ly5lqlhglxx1paaaaaa==",
+    "job_title": "Business Data Analyst, Construction; Entry Level",
+    "employer_name": "EMCOR Group, Inc.",
+    "job_city": "Baltimore",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://careers.mitre.org/us/en/job/R115478/Internships-in-Data-Science-Math-Statistics-or-Operations-Research",
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/3ya8tbzkJ4hWczj59HMX7K",
     "job_posted_at_datetime_utc": "2026-03-26T00:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "46a0e00ada43ef77c65b94d7915cb4ccf95e88080665ed54f7f0a5be8d145be7",
+    "fingerprint": "20c52b24c649dbb11091e0f2b5679172cbe056cbff73a06087a3c40caf1eb2ff",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6501,18 +6471,18 @@
     "job_posted_at": "2026-03-26T00:00:00.000Z"
   },
   {
-    "job_id": "js-the-mitre-corporation-4eoaimjq-o9ovhztaaaaaa==",
-    "job_title": "Internships in Data Science, Math, Statistics or Operations Research",
-    "employer_name": "The MITRE Corporation",
-    "job_city": "Unknown",
+    "job_id": "js-cosmoquick-nishrcwgr-xg-tmzaaaaaa==",
+    "job_title": "Fresher Data Analyst Jobs in Baltimore",
+    "employer_name": "Cosmoquick",
+    "job_city": "Baltimore",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://careers.mitre.org/us/en/job/R115478/Internships-in-Data-Science-Math-Statistics-or-Operations-Research",
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/55wOOvdxDbncFQmuQou3x",
     "job_posted_at_datetime_utc": "2026-03-26T00:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "46a0e00ada43ef77c65b94d7915cb4ccf95e88080665ed54f7f0a5be8d145be7",
+    "fingerprint": "ce041e37981b198ee118af8bf027ae7aab99741fd6255d08ca7047b88af6351b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6686,18 +6656,18 @@
     "job_posted_at": "2026-03-26T00:00:00.000Z"
   },
   {
-    "job_id": "js-cosmoquick-nishrcwgr-xg-tmzaaaaaa==",
-    "job_title": "Fresher Data Analyst Jobs in Baltimore",
-    "employer_name": "Cosmoquick",
-    "job_city": "Baltimore",
+    "job_id": "js-the-mitre-corporation-4eoaimjq-o9ovhztaaaaaa==",
+    "job_title": "Internships in Data Science, Math, Statistics or Operations Research",
+    "employer_name": "The MITRE Corporation",
+    "job_city": "Unknown",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/55wOOvdxDbncFQmuQou3x",
+    "job_apply_link": "https://careers.mitre.org/us/en/job/R115478/Internships-in-Data-Science-Math-Statistics-or-Operations-Research",
     "job_posted_at_datetime_utc": "2026-03-26T00:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "ce041e37981b198ee118af8bf027ae7aab99741fd6255d08ca7047b88af6351b",
+    "fingerprint": "46a0e00ada43ef77c65b94d7915cb4ccf95e88080665ed54f7f0a5be8d145be7",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6715,18 +6685,18 @@
     "job_posted_at": "2026-03-26T00:00:00.000Z"
   },
   {
-    "job_id": "js-emcor-group-inc-ay8ly5lqlhglxx1paaaaaa==",
-    "job_title": "Business Data Analyst, Construction; Entry Level",
-    "employer_name": "EMCOR Group, Inc.",
-    "job_city": "Baltimore",
+    "job_id": "js-the-mitre-corporation-4eoaimjq-o9ovhztaaaaaa==",
+    "job_title": "Internships in Data Science, Math, Statistics or Operations Research",
+    "employer_name": "The MITRE Corporation",
+    "job_city": "Unknown",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/3ya8tbzkJ4hWczj59HMX7K",
+    "job_apply_link": "https://careers.mitre.org/us/en/job/R115478/Internships-in-Data-Science-Math-Statistics-or-Operations-Research",
     "job_posted_at_datetime_utc": "2026-03-26T00:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "20c52b24c649dbb11091e0f2b5679172cbe056cbff73a06087a3c40caf1eb2ff",
+    "fingerprint": "46a0e00ada43ef77c65b94d7915cb4ccf95e88080665ed54f7f0a5be8d145be7",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9481,6 +9451,35 @@
     "job_posted_at": "2026-03-24T11:18:47.161Z"
   },
   {
+    "job_id": "js-jobsultant-solutions-yvpfgfrffp85a5tqaaaaaa==",
+    "job_title": "Data Analyst - Entry Level (Remote)",
+    "employer_name": "Jobsultant Solutions",
+    "job_city": "Charlotte",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/30vrATe8fuKVJhmTCjpDWp",
+    "job_posted_at_datetime_utc": "2026-03-24T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "1d33e24026d68e28227ff3577057ef86dfae16f0dcafcd0cc9cc816eee55c8c3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-24T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-018322c9-b2b0-475a-9791-c147307c4bc1",
     "job_title": "Applied Scientist, Brand Protection Machine Learning",
     "employer_name": "Amazon.com Services LLC",
@@ -9542,35 +9541,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "job_posted_at": "2026-03-24T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-jobsultant-solutions-yvpfgfrffp85a5tqaaaaaa==",
-    "job_title": "Data Analyst - Entry Level (Remote)",
-    "employer_name": "Jobsultant Solutions",
-    "job_city": "Charlotte",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/30vrATe8fuKVJhmTCjpDWp",
-    "job_posted_at_datetime_utc": "2026-03-24T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "1d33e24026d68e28227ff3577057ef86dfae16f0dcafcd0cc9cc816eee55c8c3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
     "job_posted_at": "2026-03-24T00:00:00.000Z"
   },
   {
@@ -13079,66 +13049,6 @@
         "faang",
         "fortune500"
       ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "job_posted_at": "2026-03-19T00:00:00.000Z"
-  },
-  {
-    "job_id": "amazon-1c71b1bd-8e24-4b35-a29d-530eeee47d99",
-    "job_title": "AI Hardware Systems Engineer, Annapurna Labs, Trainium Machine Learning Fleet Operations",
-    "employer_name": "Annapurna Labs (U.S.) Inc.",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10370980/ai-hardware-systems-engineer-annapurna-labs-trainium-machine-learning-fleet-operations",
-    "job_posted_at_datetime_utc": "2026-03-19T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2dc592adff1ac6c8c6f4af6b5f12da6fac05cdf05b909b0d05f7235a7566ee25",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "job_posted_at": "2026-03-19T00:00:00.000Z"
-  },
-  {
-    "job_id": "amazon-1c71b1bd-8e24-4b35-a29d-530eeee47d99",
-    "job_title": "AI Hardware Systems Engineer, Annapurna Labs, Trainium Machine Learning Fleet Operations",
-    "employer_name": "Annapurna Labs (U.S.) Inc.",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10370980/ai-hardware-systems-engineer-annapurna-labs-trainium-machine-learning-fleet-operations",
-    "job_posted_at_datetime_utc": "2026-03-19T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2dc592adff1ac6c8c6f4af6b5f12da6fac05cdf05b909b0d05f7235a7566ee25",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
     },
     "_source": "aggregator",
     "_original_source": "amazon",
