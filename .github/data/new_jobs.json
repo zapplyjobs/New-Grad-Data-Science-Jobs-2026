@@ -59,35 +59,6 @@
     "job_posted_at": "2026-03-28T14:01:55.606Z"
   },
   {
-    "job_id": "workday-zoom-R17822",
-    "job_title": "AI Engineer",
-    "employer_name": "Zoom",
-    "job_city": "Seattle",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Software-Development-Engineer---Zoom-AI-API-Suite_R17822-1",
-    "job_posted_at_datetime_utc": "2026-03-28T12:09:33.402Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dbb30b24aa12dc0facbb6c31f798ee2fd5859799359b8bb97e1fbd90d95bc518",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-28T12:09:33.402Z"
-  },
-  {
     "job_id": "workday-zoom-R18240",
     "job_title": "Research Scientist",
     "employer_name": "Zoom",
@@ -138,6 +109,35 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-28T12:09:33.402Z"
+  },
+  {
+    "job_id": "workday-zoom-R17822",
+    "job_title": "AI Engineer",
+    "employer_name": "Zoom",
+    "job_city": "Seattle",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Software-Development-Engineer---Zoom-AI-API-Suite_R17822-1",
+    "job_posted_at_datetime_utc": "2026-03-28T12:09:33.402Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dbb30b24aa12dc0facbb6c31f798ee2fd5859799359b8bb97e1fbd90d95bc518",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -1802,35 +1802,6 @@
     "job_posted_at": "2026-03-28T11:46:27.796Z"
   },
   {
-    "job_id": "ashby-openai-888ad3a1-d534-4f3a-9464-e351ea64fd8b",
-    "job_title": "People Data Automation Analyst",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/888ad3a1-d534-4f3a-9464-e351ea64fd8b/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.795Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "efa3360ec83fa03c6d803fbae6443dc15f19ff86aaa71b33ed94323aada4b10c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.795Z"
-  },
-  {
     "job_id": "ashby-openai-60d3700b-ba82-4fa6-a6bb-7b2b67070510",
     "job_title": "Researcher, Synthetic RL",
     "employer_name": "OpenAI",
@@ -1851,6 +1822,35 @@
       "locations": [
         "us",
         "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.795Z"
+  },
+  {
+    "job_id": "ashby-openai-888ad3a1-d534-4f3a-9464-e351ea64fd8b",
+    "job_title": "People Data Automation Analyst",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/888ad3a1-d534-4f3a-9464-e351ea64fd8b/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.795Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "efa3360ec83fa03c6d803fbae6443dc15f19ff86aaa71b33ed94323aada4b10c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
       ],
       "experience": "unknown",
       "special": []
@@ -2514,6 +2514,35 @@
     "job_posted_at": "2026-03-28T11:46:22.721Z"
   },
   {
+    "job_id": "ashby-eightsleep-38715e93-e8c4-4ee9-8f93-88f76cf58a42",
+    "job_title": "ML Research Scientist (Health & Sensing)",
+    "employer_name": "Eight Sleep",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/eightsleep/38715e93-e8c4-4ee9-8f93-88f76cf58a42/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:21.281Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "1bf3be9f8a1f001c87e900e9d898a6c23c998e94677233a4c73f2c60f592068a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:21.281Z"
+  },
+  {
     "job_id": "ashby-eightsleep-ef81d491-6991-49f7-8195-d3de86d951b0",
     "job_title": "Machine Learning Engineer (Foundation Models & Personalization)",
     "employer_name": "Eight Sleep",
@@ -2530,35 +2559,6 @@
       "employment": "entry_level",
       "domains": [
         "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:21.281Z"
-  },
-  {
-    "job_id": "ashby-eightsleep-38715e93-e8c4-4ee9-8f93-88f76cf58a42",
-    "job_title": "ML Research Scientist (Health & Sensing)",
-    "employer_name": "Eight Sleep",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/eightsleep/38715e93-e8c4-4ee9-8f93-88f76cf58a42/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:21.281Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "1bf3be9f8a1f001c87e900e9d898a6c23c998e94677233a4c73f2c60f592068a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
         "data_science"
       ],
       "locations": [
@@ -4438,6 +4438,35 @@
     "job_posted_at": "2026-03-27T07:03:51.141Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0235656",
+    "job_title": "Machine Learning Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Machine-Learning-Engineer_R0235656",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.897Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2b242fc5848ce1b3da78245d04e77e6ab79bf15813f47051cfc1cb868961fcc0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:36.897Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0236323",
     "job_title": "AI Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -4666,33 +4695,60 @@
     "job_posted_at": "2026-03-27T07:03:36.897Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0235656",
-    "job_title": "Machine Learning Engineer",
+    "job_id": "workday-booz-allen-hamilton-R0236582",
+    "job_title": "Operations Research Specialist",
     "employer_name": "Booz Allen Hamilton",
-    "job_city": "3 Locations",
-    "job_state": "",
+    "job_city": "Honolulu",
+    "job_state": "HI",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Machine-Learning-Engineer_R0235656",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.897Z",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Operations-Research-Specialist_R0236582",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.896Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "2b242fc5848ce1b3da78245d04e77e6ab79bf15813f47051cfc1cb868961fcc0",
+    "fingerprint": "a6ba633724420fd60ae5134fa8f8ed0cd5b2b268aeb9ccc6b1b260c42659fc52",
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "ai",
         "data_science"
       ],
       "locations": [
         "us"
       ],
-      "experience": "mid_level",
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:36.897Z"
+    "job_posted_at": "2026-03-27T07:03:36.896Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234802",
+    "job_title": "Research Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Monterey",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Monterey-CA/Research-Scientist_R0234802",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.896Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3f151867f4ac034eb29fcdf8296d7b31797905fd0638e3dd9c4115d5b874b128",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:36.896Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0236639",
@@ -4861,91 +4917,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-27T07:03:36.896Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0236582",
-    "job_title": "Operations Research Specialist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Honolulu",
-    "job_state": "HI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Operations-Research-Specialist_R0236582",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.896Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a6ba633724420fd60ae5134fa8f8ed0cd5b2b268aeb9ccc6b1b260c42659fc52",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:36.896Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234802",
-    "job_title": "Research Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Monterey",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Monterey-CA/Research-Scientist_R0234802",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.896Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3f151867f4ac034eb29fcdf8296d7b31797905fd0638e3dd9c4115d5b874b128",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:36.896Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0229274",
-    "job_title": "Secure AI Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fort Meade",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Secure-AI-Engineer_R0229274",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.895Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5c4125b5f6a38da49bd3385ea2a95240d2422ebae654c2309e1b5c6836e204fc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:36.895Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0236788",
@@ -5279,6 +5250,35 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:36.895Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0229274",
+    "job_title": "Secure AI Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fort Meade",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Secure-AI-Engineer_R0229274",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.895Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5c4125b5f6a38da49bd3385ea2a95240d2422ebae654c2309e1b5c6836e204fc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -7301,35 +7301,6 @@
     "job_posted_at": "2026-03-26T04:25:46.906Z"
   },
   {
-    "job_id": "js-emcor-group-inc-ay8ly5lqlhglxx1paaaaaa==",
-    "job_title": "Business Data Analyst, Construction; Entry Level",
-    "employer_name": "EMCOR Group, Inc.",
-    "job_city": "Baltimore",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/3ya8tbzkJ4hWczj59HMX7K",
-    "job_posted_at_datetime_utc": "2026-03-26T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "20c52b24c649dbb11091e0f2b5679172cbe056cbff73a06087a3c40caf1eb2ff",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-26T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-750fcd4b-cb58-425f-b1ad-35f8e15aba7b",
     "job_title": "Data Engineer, SPTC",
     "employer_name": "Amazon.com Services LLC",
@@ -7456,6 +7427,37 @@
     "job_posted_at": "2026-03-26T00:00:00.000Z"
   },
   {
+    "job_id": "amazon-1f3e292f-158a-4d17-a47f-74c3ad761c14",
+    "job_title": "Applied Scientist - Agentic AI, Amazon Fulfillment Technology",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10377632/applied-scientist-agentic-ai-amazon-fulfillment-technology",
+    "job_posted_at_datetime_utc": "2026-03-26T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e7f79de9a059caf126298e1b57aa0702208f46f333e4369a7ed9865eb647a1ac",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "job_posted_at": "2026-03-26T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-86f502be-5599-491e-95c1-c26a69733466",
     "job_title": "Language Data Scientist, Alexa AI",
     "employer_name": "Amazon.com LLC",
@@ -7487,34 +7489,32 @@
     "job_posted_at": "2026-03-26T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-1f3e292f-158a-4d17-a47f-74c3ad761c14",
-    "job_title": "Applied Scientist - Agentic AI, Amazon Fulfillment Technology",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "Bellevue",
-    "job_state": "WA",
+    "job_id": "js-emcor-group-inc-ay8ly5lqlhglxx1paaaaaa==",
+    "job_title": "Business Data Analyst, Construction; Entry Level",
+    "employer_name": "EMCOR Group, Inc.",
+    "job_city": "Baltimore",
+    "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10377632/applied-scientist-agentic-ai-amazon-fulfillment-technology",
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/3ya8tbzkJ4hWczj59HMX7K",
     "job_posted_at_datetime_utc": "2026-03-26T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "e7f79de9a059caf126298e1b57aa0702208f46f333e4369a7ed9865eb647a1ac",
+    "fingerprint": "20c52b24c649dbb11091e0f2b5679172cbe056cbff73a06087a3c40caf1eb2ff",
     "tags": {
       "employment": "entry_level",
       "domains": [
         "data_science"
       ],
       "locations": [
-        "us"
+        "us",
+        "on_site"
       ],
       "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
+      "special": []
     },
     "_source": "aggregator",
-    "_original_source": "amazon",
+    "_original_source": "jsearch",
     "job_posted_at": "2026-03-26T00:00:00.000Z"
   },
   {
@@ -8227,34 +8227,6 @@
     "job_posted_at": "2026-03-25T11:46:57.995Z"
   },
   {
-    "job_id": "workday-leidos-R-00179056",
-    "job_title": "GEOINT Innovation Data Scientist",
-    "employer_name": "Leidos",
-    "job_city": "Alexandria",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/GEOINT-Innovation-Data-Scientist_R-00179056",
-    "job_posted_at_datetime_utc": "2026-03-25T11:18:47.161Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c09a24cfbb59813d3c6ce8b24c15db50415a6ce439ab01a471dc353f43ea3b67",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-25T11:18:47.161Z"
-  },
-  {
     "job_id": "greenhouse-datadog-6572669",
     "job_title": "AI Research Scientist – Datadog AI Research (DAIR)",
     "employer_name": "Datadog",
@@ -8310,6 +8282,34 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-03-25T03:47:20-04:00"
+  },
+  {
+    "job_id": "workday-leidos-R-00179056",
+    "job_title": "GEOINT Innovation Data Scientist",
+    "employer_name": "Leidos",
+    "job_city": "Alexandria",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/GEOINT-Innovation-Data-Scientist_R-00179056",
+    "job_posted_at_datetime_utc": "2026-03-25T07:18:57.892Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c09a24cfbb59813d3c6ce8b24c15db50415a6ce439ab01a471dc353f43ea3b67",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-25T07:18:57.892Z"
   },
   {
     "job_id": "workday-vanguard-174107",
@@ -9849,7 +9849,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Omaha-NE/Data-Scientist_R-00173341",
-    "job_posted_at_datetime_utc": "2026-03-24T11:18:47.161Z",
+    "job_posted_at_datetime_utc": "2026-03-24T07:18:57.892Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e244b8a15fb4efce7ef4dcf8f959252115d21ca86c30fe65786a2150bb03dd1c",
@@ -9866,7 +9866,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-24T11:18:47.161Z"
+    "job_posted_at": "2026-03-24T07:18:57.892Z"
   },
   {
     "job_id": "workday-morgan-stanley-PT-JR032448",
@@ -10355,64 +10355,6 @@
     "job_posted_at": "2026-03-24T07:03:28.364Z"
   },
   {
-    "job_id": "js-jobsultant-solutions-yvpfgfrffp85a5tqaaaaaa==",
-    "job_title": "Data Analyst - Entry Level (Remote)",
-    "employer_name": "Jobsultant Solutions",
-    "job_city": "Charlotte",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/30vrATe8fuKVJhmTCjpDWp",
-    "job_posted_at_datetime_utc": "2026-03-24T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "1d33e24026d68e28227ff3577057ef86dfae16f0dcafcd0cc9cc816eee55c8c3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-24T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-cewit-1nuytk6buadzddkxaaaaaa==",
-    "job_title": "Entry-Level Remote Data Analyst at cewit New York, NY",
-    "employer_name": "cewit",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://www.jobleads.com/us/job/entry-level-remote-data-analyst-at-cewit-new-york-ny--new-york--eb0b360b21b9309f5ff6d006ff5800861",
-    "job_posted_at_datetime_utc": "2026-03-24T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "5e44425535cdce3cc88758d94053397cbe5e0a8552843feb03a1a64bb252c9f8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-24T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-018322c9-b2b0-475a-9791-c147307c4bc1",
     "job_title": "Applied Scientist, Brand Protection Machine Learning",
     "employer_name": "Amazon.com Services LLC",
@@ -10505,6 +10447,64 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "job_posted_at": "2026-03-24T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-jobsultant-solutions-yvpfgfrffp85a5tqaaaaaa==",
+    "job_title": "Data Analyst - Entry Level (Remote)",
+    "employer_name": "Jobsultant Solutions",
+    "job_city": "Charlotte",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/30vrATe8fuKVJhmTCjpDWp",
+    "job_posted_at_datetime_utc": "2026-03-24T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "1d33e24026d68e28227ff3577057ef86dfae16f0dcafcd0cc9cc816eee55c8c3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-24T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-cewit-1nuytk6buadzddkxaaaaaa==",
+    "job_title": "Entry-Level Remote Data Analyst at cewit New York, NY",
+    "employer_name": "cewit",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://www.jobleads.com/us/job/entry-level-remote-data-analyst-at-cewit-new-york-ny--new-york--eb0b360b21b9309f5ff6d006ff5800861",
+    "job_posted_at_datetime_utc": "2026-03-24T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "5e44425535cdce3cc88758d94053397cbe5e0a8552843feb03a1a64bb252c9f8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
     "job_posted_at": "2026-03-24T00:00:00.000Z"
   },
   {
@@ -11098,7 +11098,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/9237-Springfield-VA-Home-Office/Research-Scientist-Physicist_R-00178567-1",
-    "job_posted_at_datetime_utc": "2026-03-23T11:18:47.161Z",
+    "job_posted_at_datetime_utc": "2026-03-23T07:18:57.892Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "10bdceeace419868397498c4b4d4aefa75377d0500aa9700add1286503ac0c2a",
@@ -11115,7 +11115,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-03-23T11:18:47.161Z"
+    "job_posted_at": "2026-03-23T07:18:57.892Z"
   },
   {
     "job_id": "workday-paypal-R0126902",
@@ -11202,35 +11202,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-23T07:03:28.364Z"
-  },
-  {
-    "job_id": "js-affordable-land-scaping-services-an0p_yneovry1g9iaaaaaa==",
-    "job_title": "Entry-Level Data Analyst (Remote – Training Provided)",
-    "employer_name": "Affordable land scaping services",
-    "job_city": "Tucker",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://www.careers-page.com/affordable-land-scaping-services/job/7X49W69X",
-    "job_posted_at_datetime_utc": "2026-03-23T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "d8691983c94d30dc31383ba3b7dc2b9ef2e82f708a0b737d88dc78d6e92c52de",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-23T00:00:00.000Z"
   },
   {
     "job_id": "amazon-1594f092-06f7-4f8b-be0d-8bdad30e5d5b",
@@ -11413,6 +11384,35 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "job_posted_at": "2026-03-23T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-affordable-land-scaping-services-an0p_yneovry1g9iaaaaaa==",
+    "job_title": "Entry-Level Data Analyst (Remote – Training Provided)",
+    "employer_name": "Affordable land scaping services",
+    "job_city": "Tucker",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://www.careers-page.com/affordable-land-scaping-services/job/7X49W69X",
+    "job_posted_at_datetime_utc": "2026-03-23T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "d8691983c94d30dc31383ba3b7dc2b9ef2e82f708a0b737d88dc78d6e92c52de",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
     "job_posted_at": "2026-03-23T00:00:00.000Z"
   },
   {
