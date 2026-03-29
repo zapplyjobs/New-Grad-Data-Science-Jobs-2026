@@ -231,35 +231,6 @@
     "job_posted_at": "2026-03-28T12:09:33.401Z"
   },
   {
-    "job_id": "workday-boston-dynamics-R2581",
-    "job_title": "Machine Learning Engineer, Large Scale Behavior Cloning",
-    "employer_name": "Boston Dynamics",
-    "job_city": "Waltham Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Machine-Learning-Engineer--Large-Scale-Behavior-Cloning_R2581",
-    "job_posted_at_datetime_utc": "2026-03-28T12:05:35.154Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "61326f29d3f279e2a675a2bdc526357866fce757bf83e2b2c6e6b57812ce0de0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-28T12:05:35.154Z"
-  },
-  {
     "job_id": "workday-boston-dynamics-R2182",
     "job_title": "Teleoperations Research Engineer, Atlas",
     "employer_name": "Boston Dynamics",
@@ -388,6 +359,35 @@
     "tags": {
       "employment": "entry_level",
       "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-28T12:05:35.154Z"
+  },
+  {
+    "job_id": "workday-boston-dynamics-R2581",
+    "job_title": "Machine Learning Engineer, Large Scale Behavior Cloning",
+    "employer_name": "Boston Dynamics",
+    "job_city": "Waltham Office",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Machine-Learning-Engineer--Large-Scale-Behavior-Cloning_R2581",
+    "job_posted_at_datetime_utc": "2026-03-28T12:05:35.154Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "61326f29d3f279e2a675a2bdc526357866fce757bf83e2b2c6e6b57812ce0de0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
         "data_science"
       ],
       "locations": [
@@ -1140,6 +1140,36 @@
     "job_posted_at": "2026-03-28T11:46:37.155Z"
   },
   {
+    "job_id": "ashby-whatnot-3926a4a7-e441-4ea6-9726-5c22bfe6c025",
+    "job_title": "Machine Learning, Content and Navigation",
+    "employer_name": "Whatnot",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/3926a4a7-e441-4ea6-9726-5c22bfe6c025/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:35.063Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "78790a85675f0d4b5113a377a5a5d4964cd22e23f5c915c50b1e8a1108d6e208",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:35.063Z"
+  },
+  {
     "job_id": "ashby-whatnot-11162b1e-e7c9-432d-8ef6-6e89d28b3078",
     "job_title": "Machine Learning Platform Engineer",
     "employer_name": "Whatnot",
@@ -1343,36 +1373,6 @@
         "on_site"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:35.063Z"
-  },
-  {
-    "job_id": "ashby-whatnot-3926a4a7-e441-4ea6-9726-5c22bfe6c025",
-    "job_title": "Machine Learning, Content and Navigation",
-    "employer_name": "Whatnot",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/3926a4a7-e441-4ea6-9726-5c22bfe6c025/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:35.063Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "78790a85675f0d4b5113a377a5a5d4964cd22e23f5c915c50b1e8a1108d6e208",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -2705,6 +2705,35 @@
     "job_posted_at": "2026-03-28T11:46:16.848Z"
   },
   {
+    "job_id": "lever-spotify-3738dd16-b387-4daa-bed7-312b2be39418",
+    "job_title": "Research Scientist - Music",
+    "employer_name": "Spotify",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/spotify/3738dd16-b387-4daa-bed7-312b2be39418/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.283Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a8bb7743e66329503f715a3b773124606396597c10b88c4dd72858e9f4344222",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:16.283Z"
+  },
+  {
     "job_id": "lever-spotify-e200d025-4cff-4eb8-afa4-6680e31c43a2",
     "job_title": "Machine Learning Engineer",
     "employer_name": "Spotify",
@@ -2751,35 +2780,6 @@
       "employment": "entry_level",
       "domains": [
         "ai",
-        "data_science"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:16.283Z"
-  },
-  {
-    "job_id": "lever-spotify-3738dd16-b387-4daa-bed7-312b2be39418",
-    "job_title": "Research Scientist - Music",
-    "employer_name": "Spotify",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/spotify/3738dd16-b387-4daa-bed7-312b2be39418/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.283Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a8bb7743e66329503f715a3b773124606396597c10b88c4dd72858e9f4344222",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
         "data_science"
       ],
       "locations": [
@@ -3837,18 +3837,18 @@
     "job_posted_at": "2026-03-27T11:37:18-04:00"
   },
   {
-    "job_id": "greenhouse-spacex-8330557002",
+    "job_id": "greenhouse-spacex-8328629002",
     "job_title": "NDE Engineer",
     "employer_name": "SpaceX",
-    "job_city": "Cape Canaveral",
-    "job_state": "FL",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8330557002?gh_jid=8330557002",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8328629002?gh_jid=8328629002",
     "job_posted_at_datetime_utc": "2026-03-27T11:37:18-04:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "ae7c386cc0486248656b6b14cf53053a872ffaf96777fa57cba1d31d921bc22a",
+    "fingerprint": "ee81b234e8f24bbc4f996baa777d87d7d2ac0aff27c41202838133b509fbfeec",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3865,18 +3865,18 @@
     "job_posted_at": "2026-03-27T11:37:18-04:00"
   },
   {
-    "job_id": "greenhouse-spacex-8328629002",
+    "job_id": "greenhouse-spacex-8330557002",
     "job_title": "NDE Engineer",
     "employer_name": "SpaceX",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
+    "job_city": "Cape Canaveral",
+    "job_state": "FL",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8328629002?gh_jid=8328629002",
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8330557002?gh_jid=8330557002",
     "job_posted_at_datetime_utc": "2026-03-27T11:37:18-04:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "ee81b234e8f24bbc4f996baa777d87d7d2ac0aff27c41202838133b509fbfeec",
+    "fingerprint": "ae7c386cc0486248656b6b14cf53053a872ffaf96777fa57cba1d31d921bc22a",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4467,6 +4467,35 @@
     "job_posted_at": "2026-03-27T07:03:51.141Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0235656",
+    "job_title": "Machine Learning Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Machine-Learning-Engineer_R0235656",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.897Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2b242fc5848ce1b3da78245d04e77e6ab79bf15813f47051cfc1cb868961fcc0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:36.897Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0236323",
     "job_title": "AI Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -4682,35 +4711,6 @@
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:36.897Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235656",
-    "job_title": "Machine Learning Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "3 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Machine-Learning-Engineer_R0235656",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.897Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2b242fc5848ce1b3da78245d04e77e6ab79bf15813f47051cfc1cb868961fcc0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
         "data_science"
       ],
       "locations": [
@@ -4946,34 +4946,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-27T07:03:36.896Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0236723",
-    "job_title": "National Security and Intelligence Research Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Alexandria-VA/National-Security-and-Intelligence-Research-Analyst_R0236723",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.895Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "87777593df0ac9b273dac944e37d96884b8da66eaad4a9857d20a3f3129b12e0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:36.895Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0229274",
@@ -5299,6 +5271,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "950a3cadeac917dbc2f9c1dd8056136dd7d4f24a7c2f5aba20785c5e93d3b9a1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:36.895Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0236723",
+    "job_title": "National Security and Intelligence Research Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Alexandria-VA/National-Security-and-Intelligence-Research-Analyst_R0236723",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.895Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "87777593df0ac9b273dac944e37d96884b8da66eaad4a9857d20a3f3129b12e0",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7456,18 +7456,18 @@
     "job_posted_at": "2026-03-26T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-86f502be-5599-491e-95c1-c26a69733466",
-    "job_title": "Language Data Scientist, Alexa AI",
-    "employer_name": "Amazon.com LLC",
-    "job_city": "Seattle",
+    "job_id": "amazon-1f3e292f-158a-4d17-a47f-74c3ad761c14",
+    "job_title": "Applied Scientist - Agentic AI, Amazon Fulfillment Technology",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "Bellevue",
     "job_state": "WA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10377559/language-data-scientist-alexa-ai",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10377632/applied-scientist-agentic-ai-amazon-fulfillment-technology",
     "job_posted_at_datetime_utc": "2026-03-26T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "bfd749c32baa5d046197b56bd982c76f512d1ed0d1694ae2b4a20a7a7e29bcb6",
+    "fingerprint": "e7f79de9a059caf126298e1b57aa0702208f46f333e4369a7ed9865eb647a1ac",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7487,18 +7487,18 @@
     "job_posted_at": "2026-03-26T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-1f3e292f-158a-4d17-a47f-74c3ad761c14",
-    "job_title": "Applied Scientist - Agentic AI, Amazon Fulfillment Technology",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "Bellevue",
+    "job_id": "amazon-86f502be-5599-491e-95c1-c26a69733466",
+    "job_title": "Language Data Scientist, Alexa AI",
+    "employer_name": "Amazon.com LLC",
+    "job_city": "Seattle",
     "job_state": "WA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10377632/applied-scientist-agentic-ai-amazon-fulfillment-technology",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10377559/language-data-scientist-alexa-ai",
     "job_posted_at_datetime_utc": "2026-03-26T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "e7f79de9a059caf126298e1b57aa0702208f46f333e4369a7ed9865eb647a1ac",
+    "fingerprint": "bfd749c32baa5d046197b56bd982c76f512d1ed0d1694ae2b4a20a7a7e29bcb6",
     "tags": {
       "employment": "entry_level",
       "domains": [
