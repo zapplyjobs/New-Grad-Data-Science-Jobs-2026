@@ -1,5 +1,64 @@
 [
   {
+    "job_id": "workday-vanguard-176256",
+    "job_title": "Data Analyst - Assets and Cash Flow",
+    "employer_name": "Vanguard",
+    "job_city": "Malvern",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Analyst---Assets-and-Cash-Flow_176256",
+    "job_posted_at_datetime_utc": "2026-03-30T20:34:25.461Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "da76cf9633919142ee057c1a4d82ef8f18c438170a448d768d14f6f647179964",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-30T20:34:25.461Z"
+  },
+  {
+    "job_id": "sr-Visa-744000117737677",
+    "job_title": "Data Scientist, AI/ML – Visa Consulting and Analytics",
+    "employer_name": "Visa",
+    "job_city": "Ashburn",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.smartrecruiters.com/Visa/744000117737677",
+    "job_posted_at_datetime_utc": "2026-03-30T20:28:44.825Z",
+    "job_employment_type": "full-time",
+    "salary": null,
+    "fingerprint": "4b6de32f51b3e7c11279373e32d93039efd1ce4640a909c6c19a060335646f1a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "smartrecruiters",
+    "job_posted_at": "2026-03-30T20:28:44.825Z"
+  },
+  {
     "job_id": "workday-boeing-JR2026501493",
     "job_title": "Entry Level Data Analyst",
     "employer_name": "Boeing",
@@ -327,6 +386,7 @@
       "employment": "entry_level",
       "domains": [
         "data_science",
+        "hardware",
         "product"
       ],
       "locations": [
@@ -780,7 +840,7 @@
     "job_id": "js-the-mitre-corporation-8bcq0brqysdusrr7aaaaaa==",
     "job_title": "Internships in Data Science, Math, Statistics or Operations Research",
     "employer_name": "The MITRE Corporation",
-    "job_city": "McLean",
+    "job_city": "Unknown",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -788,7 +848,7 @@
     "job_posted_at_datetime_utc": "2026-03-28T23:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "8acd65d9bdaa919903e1bb735728f0c42b3d6d2cb9b3b72c624a5b142256dea6",
+    "fingerprint": "46a0e00ada43ef77c65b94d7915cb4ccf95e88080665ed54f7f0a5be8d145be7",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1915,6 +1975,36 @@
     "job_posted_at": "2026-03-28T11:46:37.155Z"
   },
   {
+    "job_id": "ashby-whatnot-fc9888be-75e6-47f3-891f-814a666cfe0a",
+    "job_title": "Machine Learning Engineer, Content and Navigation",
+    "employer_name": "Whatnot",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/fc9888be-75e6-47f3-891f-814a666cfe0a/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:35.063Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "71ae9c06275fe573f12ecca2da713fdfb0565910f4aff7028266c725d3184145",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:35.063Z"
+  },
+  {
     "job_id": "ashby-whatnot-cee7e839-d88d-4782-8e55-82de2e9ad87e",
     "job_title": "Machine Learning Platform Engineer",
     "employer_name": "Whatnot",
@@ -2118,36 +2208,6 @@
         "on_site"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:35.063Z"
-  },
-  {
-    "job_id": "ashby-whatnot-fc9888be-75e6-47f3-891f-814a666cfe0a",
-    "job_title": "Machine Learning Engineer, Content and Navigation",
-    "employer_name": "Whatnot",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/fc9888be-75e6-47f3-891f-814a666cfe0a/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:35.063Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "71ae9c06275fe573f12ecca2da713fdfb0565910f4aff7028266c725d3184145",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -2606,35 +2666,6 @@
     "job_posted_at": "2026-03-28T11:46:27.796Z"
   },
   {
-    "job_id": "ashby-openai-888ad3a1-d534-4f3a-9464-e351ea64fd8b",
-    "job_title": "People Data Automation Analyst",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/888ad3a1-d534-4f3a-9464-e351ea64fd8b/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.795Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "efa3360ec83fa03c6d803fbae6443dc15f19ff86aaa71b33ed94323aada4b10c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.795Z"
-  },
-  {
     "job_id": "ashby-openai-60d3700b-ba82-4fa6-a6bb-7b2b67070510",
     "job_title": "Researcher, Synthetic RL",
     "employer_name": "OpenAI",
@@ -2664,18 +2695,18 @@
     "job_posted_at": "2026-03-28T11:46:27.795Z"
   },
   {
-    "job_id": "ashby-openai-bcbe08e3-9593-431d-bc99-37e35e035742",
-    "job_title": "Researcher, Health AI",
+    "job_id": "ashby-openai-888ad3a1-d534-4f3a-9464-e351ea64fd8b",
+    "job_title": "People Data Automation Analyst",
     "employer_name": "OpenAI",
     "job_city": "San Francisco",
     "job_state": "",
     "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/bcbe08e3-9593-431d-bc99-37e35e035742/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/888ad3a1-d534-4f3a-9464-e351ea64fd8b/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.795Z",
     "job_employment_type": "FullTime",
     "salary": null,
-    "fingerprint": "0df5951174844ec1b4488cc7afc3d724c91dd188c8b02c3762269a2db597eeda",
+    "fingerprint": "efa3360ec83fa03c6d803fbae6443dc15f19ff86aaa71b33ed94323aada4b10c",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2683,105 +2714,14 @@
       ],
       "locations": [
         "us",
-        "on_site"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
-  },
-  {
-    "job_id": "ashby-openai-4e60d650-47a7-44fb-8031-02976c7ddc55",
-    "job_title": "TLM, Machine Learning, Integrity",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/4e60d650-47a7-44fb-8031-02976c7ddc55/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "605b83215ba62351777e702420a73b554ca539cee2b4645b8dcbc839a39f1749",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
+        "remote"
       ],
       "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
     "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
-  },
-  {
-    "job_id": "ashby-openai-020b2aae-8be0-408c-ab49-20eefa8541af",
-    "job_title": "Research Engineer / Research Scientist - Foundations Retrieval IC",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/020b2aae-8be0-408c-ab49-20eefa8541af/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "663b791b884004639d51beb55a17a3fc7a4f7a1e6092ee42f538ef2a6720b01f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
-  },
-  {
-    "job_id": "ashby-openai-7e198d81-34e0-48b6-b64e-a501a75f9d53",
-    "job_title": "Research Engineer/Research Scientist, RL/Reasoning",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/7e198d81-34e0-48b6-b64e-a501a75f9d53/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "53222447a0661dc538e87e7088cc1f8204bef3fee928a3fc589fe0e300ad92d7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
+    "job_posted_at": "2026-03-28T11:46:27.795Z"
   },
   {
     "job_id": "ashby-openai-1f37ae5b-791a-4505-9575-183cc4bb9d5e",
@@ -2946,6 +2886,126 @@
     "job_employment_type": "FullTime",
     "salary": null,
     "fingerprint": "c2fabc1910aef68ef4f9bb76a72a8f4241236aed0f96cb15443173d52ab6becc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
+    "job_id": "ashby-openai-bcbe08e3-9593-431d-bc99-37e35e035742",
+    "job_title": "Researcher, Health AI",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/bcbe08e3-9593-431d-bc99-37e35e035742/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "0df5951174844ec1b4488cc7afc3d724c91dd188c8b02c3762269a2db597eeda",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
+    "job_id": "ashby-openai-4e60d650-47a7-44fb-8031-02976c7ddc55",
+    "job_title": "TLM, Machine Learning, Integrity",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/4e60d650-47a7-44fb-8031-02976c7ddc55/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "605b83215ba62351777e702420a73b554ca539cee2b4645b8dcbc839a39f1749",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
+    "job_id": "ashby-openai-020b2aae-8be0-408c-ab49-20eefa8541af",
+    "job_title": "Research Engineer / Research Scientist - Foundations Retrieval IC",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/020b2aae-8be0-408c-ab49-20eefa8541af/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "663b791b884004639d51beb55a17a3fc7a4f7a1e6092ee42f538ef2a6720b01f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
+    "job_id": "ashby-openai-7e198d81-34e0-48b6-b64e-a501a75f9d53",
+    "job_title": "Research Engineer/Research Scientist, RL/Reasoning",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/7e198d81-34e0-48b6-b64e-a501a75f9d53/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "53222447a0661dc538e87e7088cc1f8204bef3fee928a3fc589fe0e300ad92d7",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3480,6 +3540,35 @@
     "job_posted_at": "2026-03-28T11:46:16.848Z"
   },
   {
+    "job_id": "lever-spotify-3738dd16-b387-4daa-bed7-312b2be39418",
+    "job_title": "Research Scientist - Music",
+    "employer_name": "Spotify",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/spotify/3738dd16-b387-4daa-bed7-312b2be39418/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.283Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a8bb7743e66329503f715a3b773124606396597c10b88c4dd72858e9f4344222",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:16.283Z"
+  },
+  {
     "job_id": "lever-spotify-e200d025-4cff-4eb8-afa4-6680e31c43a2",
     "job_title": "Machine Learning Engineer",
     "employer_name": "Spotify",
@@ -3526,35 +3615,6 @@
       "employment": "entry_level",
       "domains": [
         "ai",
-        "data_science"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:16.283Z"
-  },
-  {
-    "job_id": "lever-spotify-3738dd16-b387-4daa-bed7-312b2be39418",
-    "job_title": "Research Scientist - Music",
-    "employer_name": "Spotify",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/spotify/3738dd16-b387-4daa-bed7-312b2be39418/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.283Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a8bb7743e66329503f715a3b773124606396597c10b88c4dd72858e9f4344222",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
         "data_science"
       ],
       "locations": [
@@ -3868,18 +3928,18 @@
     "job_posted_at": "2026-03-27T20:15:58-04:00"
   },
   {
-    "job_id": "greenhouse-andurilindustries-4695436007",
+    "job_id": "greenhouse-andurilindustries-4780416007",
     "job_title": "Research Scientist",
     "employer_name": "Anduril",
-    "job_city": "Huntsville",
+    "job_city": "Broomfield",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4695436007?gh_jid=4695436007",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4780416007?gh_jid=4780416007",
     "job_posted_at_datetime_utc": "2026-03-27T20:15:58-04:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "565375afc0859696abbd51f7b51671de3cf9b8a634501f2683b1d35ef15036fb",
+    "fingerprint": "44bd78119344b53066574aba21a180503a6efc65da8fb4298b4a6ac887276b5f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3896,18 +3956,18 @@
     "job_posted_at": "2026-03-27T20:15:58-04:00"
   },
   {
-    "job_id": "greenhouse-andurilindustries-4780416007",
+    "job_id": "greenhouse-andurilindustries-4695436007",
     "job_title": "Research Scientist",
     "employer_name": "Anduril",
-    "job_city": "Broomfield",
+    "job_city": "Huntsville",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4780416007?gh_jid=4780416007",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4695436007?gh_jid=4695436007",
     "job_posted_at_datetime_utc": "2026-03-27T20:15:58-04:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "44bd78119344b53066574aba21a180503a6efc65da8fb4298b4a6ac887276b5f",
+    "fingerprint": "565375afc0859696abbd51f7b51671de3cf9b8a634501f2683b1d35ef15036fb",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3952,62 +4012,6 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-03-27T20:15:58-04:00"
-  },
-  {
-    "job_id": "greenhouse-spacex-8402995002",
-    "job_title": "Business Analyst (Starlink Growth)",
-    "employer_name": "SpaceX",
-    "job_city": "Hawthorne",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8402995002?gh_jid=8402995002",
-    "job_posted_at_datetime_utc": "2026-03-27T19:52:15-04:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "41a39eb76a7f8dcc8985fcfc296746c776b9e8907f95ac79db80fa4fefa2fc3e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-27T19:52:15-04:00"
-  },
-  {
-    "job_id": "greenhouse-spacex-8403125002",
-    "job_title": "Business Analyst (Starlink Growth)",
-    "employer_name": "SpaceX",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8403125002?gh_jid=8403125002",
-    "job_posted_at_datetime_utc": "2026-03-27T19:50:59-04:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f871168db8c0bc1c73be743d36bf0ac0e863bf17a5d300dee577458b4fbfbb2f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-27T19:50:59-04:00"
   },
   {
     "job_id": "greenhouse-spacex-8243150002",
@@ -4151,6 +4155,34 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-03-27T16:39:33-04:00"
+  },
+  {
+    "job_id": "workday-vanguard-175404",
+    "job_title": "Data Analyst, Specialist",
+    "employer_name": "Vanguard",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Analyst--Specialist_175404-1",
+    "job_posted_at_datetime_utc": "2026-03-27T20:34:25.461Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "003fdca8b828c1be4f6926a08b21d5a742da028bfdf43d28d82451e83ae47936",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T20:34:25.461Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0232203",
@@ -4549,34 +4581,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-27T11:37:18-04:00"
-  },
-  {
-    "job_id": "greenhouse-spacex-8403134002",
-    "job_title": "Business Analyst (Starlink Growth)",
-    "employer_name": "SpaceX",
-    "job_city": "Bastrop",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8403134002?gh_jid=8403134002",
-    "job_posted_at_datetime_utc": "2026-03-27T11:37:18-04:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "33b0f183e69ff696cf217ae8993bd444e16fc6a36d9d5cf2a5f8a5014f51896e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
@@ -5056,6 +5060,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "51528b28c6d8cd6bfd90b286cfc38bf6605793ca6fad8f6c11b95f6698fc388a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:04:41.463Z"
+  },
+  {
+    "job_id": "workday-johnson-controls-WD30259404",
+    "job_title": "Business Intelligence Analyst",
+    "employer_name": "Johnson Controls",
+    "job_city": "San Jose-Costa Rica",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/San-Jose-San-Jose-Costa-Rica/Business-Intelligence-Analyst_WD30259404",
+    "job_posted_at_datetime_utc": "2026-03-27T07:04:41.463Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6ee0c87a29b60e510962d3ed9f6c71695a04d2ceb51fa774954a6b06a8325372",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6206,6 +6238,34 @@
     "job_posted_at": "2026-03-27T07:03:36.894Z"
   },
   {
+    "job_id": "workday-caci-323789",
+    "job_title": "Expert Biotechnology Intelligence Analyst",
+    "employer_name": "CACI",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Charlottesville/Expert-Biotechnology-Intelligence-Analyst_323789",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:28.363Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ad68dcdba416210051b6a22f942108933527a1bb68d7b5c3af16ea0ebfc86047",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:28.363Z"
+  },
+  {
     "job_id": "workday-caci-323085",
     "job_title": "Data Scientist Level 3",
     "employer_name": "CACI",
@@ -6227,6 +6287,34 @@
         "us"
       ],
       "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:28.363Z"
+  },
+  {
+    "job_id": "workday-caci-321608",
+    "job_title": "Biometrics Intelligence Analyst",
+    "employer_name": "CACI",
+    "job_city": "US VA McLean",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-McLean/Biometrics-Intelligence-Analyst_321608",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:28.363Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cb5cbea5982b5231a4a2dd4fdb1026e0ff9855907578bb60b67e2fdb93843c96",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -8201,18 +8289,18 @@
     "job_posted_at": "2026-03-26T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-1f3e292f-158a-4d17-a47f-74c3ad761c14",
-    "job_title": "Applied Scientist - Agentic AI, Amazon Fulfillment Technology",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "Bellevue",
+    "job_id": "amazon-86f502be-5599-491e-95c1-c26a69733466",
+    "job_title": "Language Data Scientist, Alexa AI",
+    "employer_name": "Amazon.com LLC",
+    "job_city": "Seattle",
     "job_state": "WA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10377632/applied-scientist-agentic-ai-amazon-fulfillment-technology",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10377559/language-data-scientist-alexa-ai",
     "job_posted_at_datetime_utc": "2026-03-26T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "e7f79de9a059caf126298e1b57aa0702208f46f333e4369a7ed9865eb647a1ac",
+    "fingerprint": "bfd749c32baa5d046197b56bd982c76f512d1ed0d1694ae2b4a20a7a7e29bcb6",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8232,18 +8320,18 @@
     "job_posted_at": "2026-03-26T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-86f502be-5599-491e-95c1-c26a69733466",
-    "job_title": "Language Data Scientist, Alexa AI",
-    "employer_name": "Amazon.com LLC",
-    "job_city": "Seattle",
+    "job_id": "amazon-1f3e292f-158a-4d17-a47f-74c3ad761c14",
+    "job_title": "Applied Scientist - Agentic AI, Amazon Fulfillment Technology",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "Bellevue",
     "job_state": "WA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10377559/language-data-scientist-alexa-ai",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10377632/applied-scientist-agentic-ai-amazon-fulfillment-technology",
     "job_posted_at_datetime_utc": "2026-03-26T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "bfd749c32baa5d046197b56bd982c76f512d1ed0d1694ae2b4a20a7a7e29bcb6",
+    "fingerprint": "e7f79de9a059caf126298e1b57aa0702208f46f333e4369a7ed9865eb647a1ac",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9174,6 +9262,34 @@
     "job_posted_at": "2026-03-25T07:04:43.429Z"
   },
   {
+    "job_id": "workday-guidehouse-36766",
+    "job_title": "Business Intelligence Analyst",
+    "employer_name": "Guidehouse",
+    "job_city": "DC, Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---DC-Washington/Business-Intelligence-Analyst_36766",
+    "job_posted_at_datetime_utc": "2026-03-25T07:04:43.429Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1e50f91087358f956e813261c9fc25aab3b6bde9f7fd1730fef9f686452bec22",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-25T07:04:43.429Z"
+  },
+  {
     "job_id": "workday-general-motors-JR-202605491",
     "job_title": "CAE Vehicle Optimization and Machine Learning Engineer",
     "employer_name": "General Motors",
@@ -9259,6 +9375,34 @@
     "job_posted_at": "2026-03-25T07:03:28.363Z"
   },
   {
+    "job_id": "workday-caci-318914",
+    "job_title": "Intelligence Analyst",
+    "employer_name": "CACI",
+    "job_city": "US NM Albuquerque",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-NM-Albuquerque/Intelligence-Analyst_318914",
+    "job_posted_at_datetime_utc": "2026-03-25T07:03:28.363Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2943d8f4f8230547657522e2d8de0323e43e8f61dafcd2f9a984b9e0f7cf930e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-25T07:03:28.363Z"
+  },
+  {
     "job_id": "workday-vanguard-174107",
     "job_title": "Data Analyst, Specialist",
     "employer_name": "Vanguard",
@@ -9315,6 +9459,34 @@
     "job_posted_at": "2026-03-25T07:01:35.266Z"
   },
   {
+    "job_id": "workday-northrop-grumman-R10224581",
+    "job_title": "Talent Intelligence Analyst 2/3",
+    "employer_name": "Northrop Grumman",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/Talent-Intelligence-Analyst-2-3_R10224581",
+    "job_posted_at_datetime_utc": "2026-03-25T07:00:23.752Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ce80c37821d80f9aa5353c42469714ec46583800a677ac6859d59071467cb183",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-25T07:00:23.752Z"
+  },
+  {
     "job_id": "greenhouse-coreweave-4651388006",
     "job_title": "Forward Deployed Engineer",
     "employer_name": "CoreWeave",
@@ -9359,6 +9531,35 @@
     "tags": {
       "employment": "entry_level",
       "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-03-24T21:01:24-04:00"
+  },
+  {
+    "job_id": "greenhouse-waymo-7569449",
+    "job_title": "Business Intelligence Analyst",
+    "employer_name": "Waymo",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7569449",
+    "job_posted_at_datetime_utc": "2026-03-24T21:01:24-04:00",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "642595d3cd586d854f2ad3a057c5a7fc1afb358a8eccb587f4950d807f61f197",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "product",
         "data_science"
       ],
       "locations": [
@@ -9488,14 +9689,14 @@
     "job_posted_at": "2026-03-24T21:01:24-04:00"
   },
   {
-    "job_id": "greenhouse-waymo-7429791",
+    "job_id": "greenhouse-waymo-7429811",
     "job_title": "Machine Learning Engineer - Mapping",
     "employer_name": "Waymo",
     "job_city": "Mountain View",
     "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7429791",
+    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7429811",
     "job_posted_at_datetime_utc": "2026-03-24T21:01:24-04:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -9517,14 +9718,14 @@
     "job_posted_at": "2026-03-24T21:01:24-04:00"
   },
   {
-    "job_id": "greenhouse-waymo-7429811",
+    "job_id": "greenhouse-waymo-7429791",
     "job_title": "Machine Learning Engineer - Mapping",
     "employer_name": "Waymo",
     "job_city": "Mountain View",
     "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7429811",
+    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7429791",
     "job_posted_at_datetime_utc": "2026-03-24T21:01:24-04:00",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -11014,6 +11215,62 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-24T07:03:28.364Z"
+  },
+  {
+    "job_id": "workday-caci-323704",
+    "job_title": "All-Source Intelligence Analyst - Foreign Ground Forces (Army S&T)",
+    "employer_name": "CACI",
+    "job_city": "US VA Charlottesville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Charlottesville/All-Source-Intelligence-Analyst---Foreign-Ground-Forces--Army-S-T-_323704",
+    "job_posted_at_datetime_utc": "2026-03-24T07:03:28.364Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "903d99dd060e6aa7d81c5ef178b83b2c19893cdb1a322e36a22dfb99b27b20db",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-24T07:03:28.364Z"
+  },
+  {
+    "job_id": "workday-aig-JR2505772",
+    "job_title": "Cyber Threat Intelligence Analyst",
+    "employer_name": "AIG",
+    "job_city": "4 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://aig.wd1.myworkdayjobs.com/AIG/job/NC-Charlotte/Cyber-Threat-Intelligence-Analyst_JR2505772",
+    "job_posted_at_datetime_utc": "2026-03-24T07:03:17.490Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5538693bcf8127a737b2d6eb6eb79c78f38d15795661f20d42f6430d9d68766c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-24T07:03:17.490Z"
   },
   {
     "job_id": "workday-morgan-stanley-PT-JR032448",
