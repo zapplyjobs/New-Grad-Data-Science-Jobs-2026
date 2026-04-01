@@ -2193,7 +2193,7 @@
     "job_id": "js-the-mitre-corporation-zb2vfyalzubggpujaaaaaa==",
     "job_title": "Internships in Data Science, Math, Statistics or Operations Research",
     "employer_name": "The MITRE Corporation",
-    "job_city": "Unknown",
+    "job_city": "McLean",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -2201,7 +2201,7 @@
     "job_posted_at_datetime_utc": "2026-03-31T23:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "46a0e00ada43ef77c65b94d7915cb4ccf95e88080665ed54f7f0a5be8d145be7",
+    "fingerprint": "8acd65d9bdaa919903e1bb735728f0c42b3d6d2cb9b3b72c624a5b142256dea6",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -12255,63 +12255,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-25T20:48:14.761Z"
-  },
-  {
-    "job_id": "greenhouse-anthropic-5103788008",
-    "job_title": "Research Scientist, Frontier Red Team (Emerging Risks)",
-    "employer_name": "Anthropic",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5103788008",
-    "job_posted_at_datetime_utc": "2026-03-25T16:42:35-04:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fae881699580ff19e3113366df850b296e8f95836d6302faf76fbf673ce38617",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-25T16:42:35-04:00"
-  },
-  {
-    "job_id": "greenhouse-sofi-7677692003",
-    "job_title": "Data Scientist",
-    "employer_name": "SoFi",
-    "job_city": "(CA - San Francisco; NY - New York City; UT - Salt Lake City; FL",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://sofi.com/careers/job/7677692003?gh_jid=7677692003",
-    "job_posted_at_datetime_utc": "2026-03-25T16:36:45-04:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "92154f63e139a7705b2c8913b27d64c5f38646c7d0c5a7d849ac3c7459a768be",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-25T16:36:45-04:00"
   }
 ]
