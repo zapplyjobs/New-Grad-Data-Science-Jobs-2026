@@ -4148,6 +4148,37 @@
     "job_posted_at": "2026-03-31T00:00:00.000Z"
   },
   {
+    "job_id": "amazon-561ba0af-04d6-4e54-a1cd-11649e8efc90",
+    "job_title": "Applied Scientist, Artificial General Intelligence, AGI Data Services",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10380074/applied-scientist-artificial-general-intelligence-agi-data-services",
+    "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d167ee3273ba6de4ea053ed4c393ee5d4311cfefd6df533693064a0c1a0d89ba",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "job_posted_at": "2026-03-31T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-a39dc870-1a4e-41f3-86c2-1c8ade8f9c90",
     "job_title": "Applied Scientist, Artificial General Intelligence, AGI Data Services",
     "employer_name": "Amazon.com Services LLC",
@@ -4187,37 +4218,6 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://www.amazon.jobs/en/jobs/10380075/applied-scientist-artificial-general-intelligence-agi-data-services",
-    "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d167ee3273ba6de4ea053ed4c393ee5d4311cfefd6df533693064a0c1a0d89ba",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "job_posted_at": "2026-03-31T00:00:00.000Z"
-  },
-  {
-    "job_id": "amazon-561ba0af-04d6-4e54-a1cd-11649e8efc90",
-    "job_title": "Applied Scientist, Artificial General Intelligence, AGI Data Services",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10380074/applied-scientist-artificial-general-intelligence-agi-data-services",
     "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -7173,6 +7173,126 @@
     "job_posted_at": "2026-03-28T11:46:27.795Z"
   },
   {
+    "job_id": "ashby-openai-4e60d650-47a7-44fb-8031-02976c7ddc55",
+    "job_title": "TLM, Machine Learning, Integrity",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/4e60d650-47a7-44fb-8031-02976c7ddc55/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "605b83215ba62351777e702420a73b554ca539cee2b4645b8dcbc839a39f1749",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
+    "job_id": "ashby-openai-020b2aae-8be0-408c-ab49-20eefa8541af",
+    "job_title": "Research Engineer / Research Scientist - Foundations Retrieval IC",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/020b2aae-8be0-408c-ab49-20eefa8541af/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "663b791b884004639d51beb55a17a3fc7a4f7a1e6092ee42f538ef2a6720b01f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
+    "job_id": "ashby-openai-7e198d81-34e0-48b6-b64e-a501a75f9d53",
+    "job_title": "Research Engineer/Research Scientist, RL/Reasoning",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/7e198d81-34e0-48b6-b64e-a501a75f9d53/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "53222447a0661dc538e87e7088cc1f8204bef3fee928a3fc589fe0e300ad92d7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
+    "job_id": "ashby-openai-1f37ae5b-791a-4505-9575-183cc4bb9d5e",
+    "job_title": "Data Scientist, Support",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/1f37ae5b-791a-4505-9575-183cc4bb9d5e/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "a3b285acac346555bc59171c0ef6f07241b55c4c0123a4420c2fc7b982bb2f85",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "operations",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
     "job_id": "ashby-openai-2560ed50-5535-42b8-b069-9ebc28ce7493",
     "job_title": "Researcher, Robustness & Safety Training",
     "employer_name": "OpenAI",
@@ -7342,126 +7462,6 @@
       "locations": [
         "us",
         "on_site"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
-  },
-  {
-    "job_id": "ashby-openai-4e60d650-47a7-44fb-8031-02976c7ddc55",
-    "job_title": "TLM, Machine Learning, Integrity",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/4e60d650-47a7-44fb-8031-02976c7ddc55/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "605b83215ba62351777e702420a73b554ca539cee2b4645b8dcbc839a39f1749",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
-  },
-  {
-    "job_id": "ashby-openai-020b2aae-8be0-408c-ab49-20eefa8541af",
-    "job_title": "Research Engineer / Research Scientist - Foundations Retrieval IC",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/020b2aae-8be0-408c-ab49-20eefa8541af/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "663b791b884004639d51beb55a17a3fc7a4f7a1e6092ee42f538ef2a6720b01f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
-  },
-  {
-    "job_id": "ashby-openai-7e198d81-34e0-48b6-b64e-a501a75f9d53",
-    "job_title": "Research Engineer/Research Scientist, RL/Reasoning",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/7e198d81-34e0-48b6-b64e-a501a75f9d53/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "53222447a0661dc538e87e7088cc1f8204bef3fee928a3fc589fe0e300ad92d7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
-  },
-  {
-    "job_id": "ashby-openai-1f37ae5b-791a-4505-9575-183cc4bb9d5e",
-    "job_title": "Data Scientist, Support",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/1f37ae5b-791a-4505-9575-183cc4bb9d5e/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "a3b285acac346555bc59171c0ef6f07241b55c4c0123a4420c2fc7b982bb2f85",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "operations",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
       ],
       "experience": "senior_level",
       "special": []
@@ -8016,6 +8016,35 @@
     "job_posted_at": "2026-03-28T11:46:16.848Z"
   },
   {
+    "job_id": "lever-spotify-3738dd16-b387-4daa-bed7-312b2be39418",
+    "job_title": "Research Scientist - Music",
+    "employer_name": "Spotify",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.lever.co/spotify/3738dd16-b387-4daa-bed7-312b2be39418/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.283Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a8bb7743e66329503f715a3b773124606396597c10b88c4dd72858e9f4344222",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:16.283Z"
+  },
+  {
     "job_id": "lever-spotify-e200d025-4cff-4eb8-afa4-6680e31c43a2",
     "job_title": "Machine Learning Engineer",
     "employer_name": "Spotify",
@@ -8062,35 +8091,6 @@
       "employment": "entry_level",
       "domains": [
         "ai",
-        "data_science"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:16.283Z"
-  },
-  {
-    "job_id": "lever-spotify-3738dd16-b387-4daa-bed7-312b2be39418",
-    "job_title": "Research Scientist - Music",
-    "employer_name": "Spotify",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/spotify/3738dd16-b387-4daa-bed7-312b2be39418/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:16.283Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a8bb7743e66329503f715a3b773124606396597c10b88c4dd72858e9f4344222",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
         "data_science"
       ],
       "locations": [
@@ -10006,62 +10006,6 @@
     "job_posted_at": "2026-03-27T07:03:36.897Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0236582",
-    "job_title": "Operations Research Specialist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Honolulu",
-    "job_state": "HI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Operations-Research-Specialist_R0236582",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.896Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a6ba633724420fd60ae5134fa8f8ed0cd5b2b268aeb9ccc6b1b260c42659fc52",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:36.896Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234802",
-    "job_title": "Research Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Monterey",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Monterey-CA/Research-Scientist_R0234802",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.896Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3f151867f4ac034eb29fcdf8296d7b31797905fd0638e3dd9c4115d5b874b128",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:36.896Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0236639",
     "job_title": "AI & ML Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -10202,6 +10146,62 @@
     "job_posted_at": "2026-03-27T07:03:36.896Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0236582",
+    "job_title": "Operations Research Specialist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Honolulu",
+    "job_state": "HI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Operations-Research-Specialist_R0236582",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.896Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a6ba633724420fd60ae5134fa8f8ed0cd5b2b268aeb9ccc6b1b260c42659fc52",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:36.896Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234802",
+    "job_title": "Research Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Monterey",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Monterey-CA/Research-Scientist_R0234802",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.896Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3f151867f4ac034eb29fcdf8296d7b31797905fd0638e3dd9c4115d5b874b128",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:36.896Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0235233",
     "job_title": "Data Scientist",
     "employer_name": "Booz Allen Hamilton",
@@ -10280,6 +10280,35 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-27T07:03:36.895Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0229274",
+    "job_title": "Secure AI Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fort Meade",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Secure-AI-Engineer_R0229274",
+    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.895Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5c4125b5f6a38da49bd3385ea2a95240d2422ebae654c2309e1b5c6836e204fc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -10645,35 +10674,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-27T07:03:36.895Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0229274",
-    "job_title": "Secure AI Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fort Meade",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Secure-AI-Engineer_R0229274",
-    "job_posted_at_datetime_utc": "2026-03-27T07:03:36.895Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5c4125b5f6a38da49bd3385ea2a95240d2422ebae654c2309e1b5c6836e204fc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
