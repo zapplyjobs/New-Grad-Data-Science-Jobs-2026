@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "workday-guidehouse-38032",
+    "job_title": "Data Scientist",
+    "employer_name": "Guidehouse",
+    "job_city": "MD, Baltimore",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Baltimore/Data-Scientist_38032",
+    "job_posted_at_datetime_utc": "2026-04-03T17:03:35.533Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a59de547e05243024d7ea8e904658b501ec845f4ea587fe8d4b5537195d9e1a1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T17:03:35.533Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0237118",
     "job_title": "All-Source Intelligence Analyst",
     "employer_name": "Booz Allen Hamilton",
@@ -1767,36 +1795,6 @@
     "job_posted_at": "2026-04-01T20:44:31.095Z"
   },
   {
-    "job_id": "ashby-openai-ecf1abec-898c-4acb-a984-42858836a1ff",
-    "job_title": "Machine Learning Engineer, Integrity",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/ecf1abec-898c-4acb-a984-42858836a1ff/application",
-    "job_posted_at_datetime_utc": "2026-04-01T20:44:30.728Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "9c1e35b311115b4e5bf37b0a7f218b77a82383ae0dd0d5ff4934863d29984259",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-04-01T20:44:30.728Z"
-  },
-  {
     "job_id": "ashby-openai-4476b271-4987-4bd4-aa1e-0e68ea683b10",
     "job_title": "Research Scientist / Research Engineer — Early Career Cohort",
     "employer_name": "OpenAI",
@@ -1813,6 +1811,36 @@
       "employment": "entry_level",
       "domains": [
         "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-04-01T20:44:30.728Z"
+  },
+  {
+    "job_id": "ashby-openai-ecf1abec-898c-4acb-a984-42858836a1ff",
+    "job_title": "Machine Learning Engineer, Integrity",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/ecf1abec-898c-4acb-a984-42858836a1ff/application",
+    "job_posted_at_datetime_utc": "2026-04-01T20:44:30.728Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "9c1e35b311115b4e5bf37b0a7f218b77a82383ae0dd0d5ff4934863d29984259",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
         "data_science"
       ],
       "locations": [
@@ -5046,34 +5074,6 @@
     "job_posted_at": "2026-03-31T16:47:58.646Z"
   },
   {
-    "job_id": "greenhouse-oscar-7594388",
-    "job_title": "Data Scientist I",
-    "employer_name": "Oscar Health",
-    "job_city": "Los Angeles",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "http://www.hioscar.com/careers/7594388?gh_jid=7594388",
-    "job_posted_at_datetime_utc": "2026-03-31T11:06:22-04:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ec60e36748b0fc38453a33101b0ffc7c51540aeba00b33566107215aca53d98e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-31T11:06:22-04:00"
-  },
-  {
     "job_id": "greenhouse-oscar-7594392",
     "job_title": "Data Scientist I",
     "employer_name": "Oscar Health",
@@ -5114,6 +5114,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5dc9176bf68ca731aaef77bc967a89bce3a18ccf8bf37cd3c78c293ef2435fff",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-03-31T11:06:22-04:00"
+  },
+  {
+    "job_id": "greenhouse-oscar-7594388",
+    "job_title": "Data Scientist I",
+    "employer_name": "Oscar Health",
+    "job_city": "Los Angeles",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "http://www.hioscar.com/careers/7594388?gh_jid=7594388",
+    "job_posted_at_datetime_utc": "2026-03-31T11:06:22-04:00",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ec60e36748b0fc38453a33101b0ffc7c51540aeba00b33566107215aca53d98e",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5564,34 +5592,6 @@
     "job_posted_at": "2026-03-31T07:03:43.603Z"
   },
   {
-    "job_id": "workday-general-motors-JR-202606171",
-    "job_title": "Vehicle Safety Data Analyst",
-    "employer_name": "General Motors",
-    "job_city": "Warren",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Vehicle-Safety-Data-Analyst_JR-202606171-1",
-    "job_posted_at_datetime_utc": "2026-03-31T07:03:26.322Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4d7f6274a294ad186b883404950d2592537244e76a49e6f72324a7f34a270fe0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:03:26.322Z"
-  },
-  {
     "job_id": "workday-general-motors-JR-202606571",
     "job_title": "Cost Engineer – Data Analytics",
     "employer_name": "General Motors",
@@ -5613,6 +5613,34 @@
         "us"
       ],
       "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:03:26.322Z"
+  },
+  {
+    "job_id": "workday-general-motors-JR-202606171",
+    "job_title": "Vehicle Safety Data Analyst",
+    "employer_name": "General Motors",
+    "job_city": "Warren",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Vehicle-Safety-Data-Analyst_JR-202606171-1",
+    "job_posted_at_datetime_utc": "2026-03-31T07:03:26.322Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4d7f6274a294ad186b883404950d2592537244e76a49e6f72324a7f34a270fe0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -5767,14 +5795,14 @@
     "job_posted_at": "2026-03-31T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-561ba0af-04d6-4e54-a1cd-11649e8efc90",
+    "job_id": "amazon-a39dc870-1a4e-41f3-86c2-1c8ade8f9c90",
     "job_title": "Applied Scientist, Artificial General Intelligence, AGI Data Services",
     "employer_name": "Amazon.com Services LLC",
     "job_city": "Boston",
     "job_state": "MA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10380074/applied-scientist-artificial-general-intelligence-agi-data-services",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10380078/applied-scientist-artificial-general-intelligence-agi-data-services",
     "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -5798,14 +5826,14 @@
     "job_posted_at": "2026-03-31T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-a39dc870-1a4e-41f3-86c2-1c8ade8f9c90",
+    "job_id": "amazon-561ba0af-04d6-4e54-a1cd-11649e8efc90",
     "job_title": "Applied Scientist, Artificial General Intelligence, AGI Data Services",
     "employer_name": "Amazon.com Services LLC",
     "job_city": "Boston",
     "job_state": "MA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10380078/applied-scientist-artificial-general-intelligence-agi-data-services",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10380074/applied-scientist-artificial-general-intelligence-agi-data-services",
     "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -6839,36 +6867,6 @@
     "job_posted_at": "2026-03-29T18:25:58.406Z"
   },
   {
-    "job_id": "ashby-cursor-6171cf55-7b93-494d-b334-daf91448dbfd",
-    "job_title": "Data Scientist, Agents",
-    "employer_name": "Cursor",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/cursor/6171cf55-7b93-494d-b334-daf91448dbfd/application",
-    "job_posted_at_datetime_utc": "2026-03-29T18:25:57.789Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "70c76c7a01a4331a2b80420d084d53c6de57f6192535c1ee04239b3bd7244d78",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-29T18:25:57.789Z"
-  },
-  {
     "job_id": "ashby-cursor-cd4bad0a-e2f6-4a8d-9b57-ce1780efedae",
     "job_title": "Research Scientist",
     "employer_name": "Cursor",
@@ -6910,6 +6908,36 @@
     "job_employment_type": "FullTime",
     "salary": null,
     "fingerprint": "7c97a7db1b022fc6dfd85c04266552794c51a49853c0f794cba443a85380dabe",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-29T18:25:57.789Z"
+  },
+  {
+    "job_id": "ashby-cursor-6171cf55-7b93-494d-b334-daf91448dbfd",
+    "job_title": "Data Scientist, Agents",
+    "employer_name": "Cursor",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/cursor/6171cf55-7b93-494d-b334-daf91448dbfd/application",
+    "job_posted_at_datetime_utc": "2026-03-29T18:25:57.789Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "70c76c7a01a4331a2b80420d084d53c6de57f6192535c1ee04239b3bd7244d78",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7612,6 +7640,40 @@
     "job_posted_at": "2026-03-28T11:46:45.319Z"
   },
   {
+    "job_id": "lever-zoox-c46a94c6-d1a5-4961-b0ed-560e8a450cc4",
+    "job_title": "Reliability Data Analyst",
+    "employer_name": "Zoox",
+    "job_city": "Foster City",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/zoox/c46a94c6-d1a5-4961-b0ed-560e8a450cc4/apply",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:37.975Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 155000,
+      "max": 186000,
+      "currency": "USD",
+      "interval": "per-year-salary"
+    },
+    "fingerprint": "d165aeb60678b3de52c44cb03a29c20db1efcfb692ab17e3a0cca8f1f654ac16",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "hybrid",
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-03-28T11:46:37.975Z"
+  },
+  {
     "job_id": "lever-zoox-55e51bf3-68ee-40d4-a1c5-5196e0e2d100",
     "job_title": "Machine Learning Engineer - 3D Sensor Simulation",
     "employer_name": "Zoox",
@@ -7892,40 +7954,6 @@
     "job_posted_at": "2026-03-28T11:46:37.975Z"
   },
   {
-    "job_id": "lever-zoox-c46a94c6-d1a5-4961-b0ed-560e8a450cc4",
-    "job_title": "Reliability Data Analyst",
-    "employer_name": "Zoox",
-    "job_city": "Foster City",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/zoox/c46a94c6-d1a5-4961-b0ed-560e8a450cc4/apply",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:37.975Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 155000,
-      "max": 186000,
-      "currency": "USD",
-      "interval": "per-year-salary"
-    },
-    "fingerprint": "d165aeb60678b3de52c44cb03a29c20db1efcfb692ab17e3a0cca8f1f654ac16",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "hybrid",
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-28T11:46:37.975Z"
-  },
-  {
     "job_id": "lever-zoox-effea729-8202-4fa0-aa0f-b786671502e8",
     "job_title": "Machine Learning Engineer - 3D Vision Perception",
     "employer_name": "Zoox",
@@ -8131,95 +8159,6 @@
     "job_posted_at": "2026-03-28T11:46:37.155Z"
   },
   {
-    "job_id": "ashby-whatnot-6a049f6e-25b5-4306-bfea-eda08ce3b16a",
-    "job_title": "Data Scientist, Product Analytics",
-    "employer_name": "Whatnot",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/6a049f6e-25b5-4306-bfea-eda08ce3b16a/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:35.063Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "4eca79e962e2ec1cd1063d9eeb3dd61f34618f1a6a4afd346193a22e391d69ae",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "product"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:35.063Z"
-  },
-  {
-    "job_id": "ashby-whatnot-938e7bf7-4960-419e-aabf-caf45232171b",
-    "job_title": "Data Engineer",
-    "employer_name": "Whatnot",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/938e7bf7-4960-419e-aabf-caf45232171b/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:35.063Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "a492ad985e1da8c33a09377032f42b280df84c3b775ef7bfa0c8a9487a4e4c37",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:35.063Z"
-  },
-  {
-    "job_id": "ashby-whatnot-fc9888be-75e6-47f3-891f-814a666cfe0a",
-    "job_title": "Machine Learning Engineer, Content and Navigation",
-    "employer_name": "Whatnot",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/fc9888be-75e6-47f3-891f-814a666cfe0a/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:35.063Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "71ae9c06275fe573f12ecca2da713fdfb0565910f4aff7028266c725d3184145",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:35.063Z"
-  },
-  {
     "job_id": "ashby-whatnot-cee7e839-d88d-4782-8e55-82de2e9ad87e",
     "job_title": "Machine Learning Platform Engineer",
     "employer_name": "Whatnot",
@@ -8364,6 +8303,95 @@
         "remote"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:35.063Z"
+  },
+  {
+    "job_id": "ashby-whatnot-6a049f6e-25b5-4306-bfea-eda08ce3b16a",
+    "job_title": "Data Scientist, Product Analytics",
+    "employer_name": "Whatnot",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/6a049f6e-25b5-4306-bfea-eda08ce3b16a/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:35.063Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "4eca79e962e2ec1cd1063d9eeb3dd61f34618f1a6a4afd346193a22e391d69ae",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "product"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:35.063Z"
+  },
+  {
+    "job_id": "ashby-whatnot-938e7bf7-4960-419e-aabf-caf45232171b",
+    "job_title": "Data Engineer",
+    "employer_name": "Whatnot",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/938e7bf7-4960-419e-aabf-caf45232171b/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:35.063Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "a492ad985e1da8c33a09377032f42b280df84c3b775ef7bfa0c8a9487a4e4c37",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:35.063Z"
+  },
+  {
+    "job_id": "ashby-whatnot-fc9888be-75e6-47f3-891f-814a666cfe0a",
+    "job_title": "Machine Learning Engineer, Content and Navigation",
+    "employer_name": "Whatnot",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/fc9888be-75e6-47f3-891f-814a666cfe0a/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:35.063Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "71ae9c06275fe573f12ecca2da713fdfb0565910f4aff7028266c725d3184145",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -8851,6 +8879,125 @@
     "job_posted_at": "2026-03-28T11:46:27.795Z"
   },
   {
+    "job_id": "ashby-openai-2560ed50-5535-42b8-b069-9ebc28ce7493",
+    "job_title": "Researcher, Robustness & Safety Training",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/2560ed50-5535-42b8-b069-9ebc28ce7493/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "e602cd6e432e9616856f72b04f438758da17d3a2c9e8a386a0795bd39492cae4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
+    "job_id": "ashby-openai-fc5bbc77-a30c-4e7a-9acc-8a2e748545b4",
+    "job_title": "Data Engineer, Analytics",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/fc5bbc77-a30c-4e7a-9acc-8a2e748545b4/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "61733eec79e205dd8a7c18a45c9443e5071961dd2cd6af635fee5b3612b309be",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
+    "job_id": "ashby-openai-5f0c6579-0bfb-4a06-8a43-1dd371499e10",
+    "job_title": "Research Scientist",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/5f0c6579-0bfb-4a06-8a43-1dd371499e10/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "a3d264e2cba689341630a660fdce3af85aaf336e84dffcb85542a4d6c1a68cc7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
+    "job_id": "ashby-openai-d44c9f70-4aef-45a4-a36a-54fb65663ccb",
+    "job_title": "Research Engineer, Applied AI Engineering",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/d44c9f70-4aef-45a4-a36a-54fb65663ccb/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "2db450994add4fe2d5ab9d9ed28bba7e86fde5015fbf8d3b97653ba42988467d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:27.794Z"
+  },
+  {
     "job_id": "ashby-openai-1c516e9f-c97d-4a40-8529-9871dac615a5",
     "job_title": "Research Engineer / Research Scientist, Post-Training",
     "employer_name": "OpenAI",
@@ -9030,125 +9177,6 @@
     "job_posted_at": "2026-03-28T11:46:27.794Z"
   },
   {
-    "job_id": "ashby-openai-2560ed50-5535-42b8-b069-9ebc28ce7493",
-    "job_title": "Researcher, Robustness & Safety Training",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/2560ed50-5535-42b8-b069-9ebc28ce7493/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "e602cd6e432e9616856f72b04f438758da17d3a2c9e8a386a0795bd39492cae4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
-  },
-  {
-    "job_id": "ashby-openai-fc5bbc77-a30c-4e7a-9acc-8a2e748545b4",
-    "job_title": "Data Engineer, Analytics",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/fc5bbc77-a30c-4e7a-9acc-8a2e748545b4/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "61733eec79e205dd8a7c18a45c9443e5071961dd2cd6af635fee5b3612b309be",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
-  },
-  {
-    "job_id": "ashby-openai-5f0c6579-0bfb-4a06-8a43-1dd371499e10",
-    "job_title": "Research Scientist",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/5f0c6579-0bfb-4a06-8a43-1dd371499e10/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "a3d264e2cba689341630a660fdce3af85aaf336e84dffcb85542a4d6c1a68cc7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
-  },
-  {
-    "job_id": "ashby-openai-d44c9f70-4aef-45a4-a36a-54fb65663ccb",
-    "job_title": "Research Engineer, Applied AI Engineering",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/d44c9f70-4aef-45a4-a36a-54fb65663ccb/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:27.794Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "2db450994add4fe2d5ab9d9ed28bba7e86fde5015fbf8d3b97653ba42988467d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:27.794Z"
-  },
-  {
     "job_id": "ashby-perplexity-768efd34-3854-4c9b-9686-2a128ab35405",
     "job_title": "Data Scientist/Engineer – Online Metrics",
     "employer_name": "Perplexity",
@@ -9178,35 +9206,6 @@
     "job_posted_at": "2026-03-28T11:46:27.634Z"
   },
   {
-    "job_id": "ashby-notion-655b047b-5e58-4b0c-82f0-8c16b2c03318",
-    "job_title": "Data Engineer, Go-To-Market",
-    "employer_name": "Notion",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/notion/655b047b-5e58-4b0c-82f0-8c16b2c03318/application",
-    "job_posted_at_datetime_utc": "2026-03-28T11:46:26.735Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "56913e34c7ffaafc875586378d036bbdd73a1f1f4f1ab4fd2442ba91c6eb1f7c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-28T11:46:26.735Z"
-  },
-  {
     "job_id": "ashby-notion-4d1bce46-3cb1-4a26-b6c6-ac9b02ee413d",
     "job_title": "Data Engineer, Finance",
     "employer_name": "Notion",
@@ -9229,6 +9228,35 @@
         "on_site"
       ],
       "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-28T11:46:26.735Z"
+  },
+  {
+    "job_id": "ashby-notion-655b047b-5e58-4b0c-82f0-8c16b2c03318",
+    "job_title": "Data Engineer, Go-To-Market",
+    "employer_name": "Notion",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/notion/655b047b-5e58-4b0c-82f0-8c16b2c03318/application",
+    "job_posted_at_datetime_utc": "2026-03-28T11:46:26.735Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "56913e34c7ffaafc875586378d036bbdd73a1f1f4f1ab4fd2442ba91c6eb1f7c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
