@@ -1652,35 +1652,6 @@
     "job_posted_at": "2026-04-02T08:02:18.463Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0232125",
-    "job_title": "Splunk Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "6 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Reston-VA/SIEM-Data-Onboarding-Engineer_R0232125",
-    "job_posted_at_datetime_utc": "2026-04-02T08:02:18.462Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dfeb8514172359b7bf4e2786b55a98c791194b9c9e8afa05e903b53e58ddaccc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T08:02:18.462Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0233774",
     "job_title": "Data Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -1758,6 +1729,35 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T08:02:18.462Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0232125",
+    "job_title": "Splunk Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "6 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Reston-VA/SIEM-Data-Onboarding-Engineer_R0232125",
+    "job_posted_at_datetime_utc": "2026-04-02T08:02:18.462Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dfeb8514172359b7bf4e2786b55a98c791194b9c9e8afa05e903b53e58ddaccc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
@@ -6812,34 +6812,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-03-30T14:34:51.422Z"
-  },
-  {
-    "job_id": "workday-vanguard-175288",
-    "job_title": "Data Analyst, Specialist",
-    "employer_name": "Vanguard",
-    "job_city": "4 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Analyst--Specialist_175288-1",
-    "job_posted_at_datetime_utc": "2026-03-30T07:20:39.775Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6d9edd146a333489a30846c5134a7e801c1a4aab72f966d81e53d2c04ff3e5c2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T07:20:39.775Z"
   },
   {
     "job_id": "eightfold-aexp-40425286",
