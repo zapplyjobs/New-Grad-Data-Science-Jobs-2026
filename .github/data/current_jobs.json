@@ -1711,34 +1711,6 @@
     "job_posted_at": "2026-04-02T08:16:12.758Z"
   },
   {
-    "job_id": "workday-boeing-JR2026502776",
-    "job_title": "Engineering Data Scientist (Entry-Level or Associate)",
-    "employer_name": "Boeing",
-    "job_city": "Seal Beach",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Engineering-Data-Scientist--Entry-Level-or-Associate-_JR2026502776-1",
-    "job_posted_at_datetime_utc": "2026-04-02T08:02:20.036Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bffe440c9d2aa2355d29fb9d651d17946bb33216b19d97f6b6d447e7f3256f2b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T08:02:20.036Z"
-  },
-  {
     "job_id": "workday-boeing-JR2026502766",
     "job_title": "Reliability Data Analytics Engineer (Associate or Experienced)",
     "employer_name": "Boeing",
@@ -1760,6 +1732,34 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T08:02:20.036Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026502776",
+    "job_title": "Engineering Data Scientist (Entry-Level or Associate)",
+    "employer_name": "Boeing",
+    "job_city": "Seal Beach",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Engineering-Data-Scientist--Entry-Level-or-Associate-_JR2026502776-1",
+    "job_posted_at_datetime_utc": "2026-04-02T08:02:20.036Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bffe440c9d2aa2355d29fb9d651d17946bb33216b19d97f6b6d447e7f3256f2b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -3479,34 +3479,6 @@
     "job_posted_at": "2026-04-01T07:04:02.850Z"
   },
   {
-    "job_id": "workday-guidehouse-36511",
-    "job_title": "Emergency Management Strategy and Analytics Consultant",
-    "employer_name": "Guidehouse",
-    "job_city": "TX, Denton",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-Denton/Emergency-Management-Strategy-and-Analytics-Consultant_36511",
-    "job_posted_at_datetime_utc": "2026-04-01T07:03:58.879Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fad5cb402d23e8cb1084a2886a30f83cc1c9e489de6806ea68daa0504e1cac9e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:03:58.879Z"
-  },
-  {
     "job_id": "workday-guidehouse-37478",
     "job_title": "Data Analytics, BI, & Automation Developer",
     "employer_name": "Guidehouse",
@@ -3523,6 +3495,34 @@
       "employment": "entry_level",
       "domains": [
         "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:03:58.879Z"
+  },
+  {
+    "job_id": "workday-guidehouse-36511",
+    "job_title": "Emergency Management Strategy and Analytics Consultant",
+    "employer_name": "Guidehouse",
+    "job_city": "TX, Denton",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-Denton/Emergency-Management-Strategy-and-Analytics-Consultant_36511",
+    "job_posted_at_datetime_utc": "2026-04-01T07:03:58.879Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fad5cb402d23e8cb1084a2886a30f83cc1c9e489de6806ea68daa0504e1cac9e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
         "data_science"
       ],
       "locations": [
@@ -3649,6 +3649,34 @@
     "job_posted_at": "2026-04-01T07:03:09.950Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0235068",
+    "job_title": "Bioinformatics Specialist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Bioinformatics-Specialist_R0235068",
+    "job_posted_at_datetime_utc": "2026-04-01T07:02:50.674Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d268beeec6f042a98e61edb7059ee0f46a2075c3ccf6912cf505681050a38491",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:02:50.674Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0236968",
     "job_title": "Data Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -3717,34 +3745,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7f8c2f5da2f84255e06427b6140b6b6f77271644ee8d20f5e4971dc9214c6c18",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:02:50.674Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235068",
-    "job_title": "Bioinformatics Specialist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Bioinformatics-Specialist_R0235068",
-    "job_posted_at_datetime_utc": "2026-04-01T07:02:50.674Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d268beeec6f042a98e61edb7059ee0f46a2075c3ccf6912cf505681050a38491",
     "tags": {
       "employment": "entry_level",
       "domains": [
