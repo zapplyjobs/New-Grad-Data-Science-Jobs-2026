@@ -7823,34 +7823,5 @@
     "_source": "aggregator",
     "_original_source": "amazon",
     "job_posted_at": "2026-03-29T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-hiringzycto-nlhvzihubdkrtfblaaaaaa==",
-    "job_title": "Junior Data Analyst – No Experience Required",
-    "employer_name": "Hiring.zycto",
-    "job_city": "Francis E. Warren AFB",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://hiring.zycto.com/jobs/junior-data-analyst-no-experience-required/",
-    "job_posted_at_datetime_utc": "2026-03-28T23:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "cd99fb2343f800bc222670001af6ef2bb9f8867c1ffa4dd08f8fca84105ff336",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-28T23:00:00.000Z"
   }
 ]
