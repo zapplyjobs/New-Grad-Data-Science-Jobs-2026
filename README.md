@@ -136,7 +136,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Oscar Health** | Data Scientist I | Los Angeles | 4d | [<img src="images/apply.png" width="75" alt="Apply">](http://www.hioscar.com/careers/7594388?gh_jid=7594388) |
 | 🏢 **Oscar Health** | Data Scientist I | New York | 4d | [<img src="images/apply.png" width="75" alt="Apply">](http://www.hioscar.com/careers/7592274?gh_jid=7592274) |
 | 🏢 **Oscar Health** | Data Scientist I | Tempe | 4d | [<img src="images/apply.png" width="75" alt="Apply">](http://www.hioscar.com/careers/7594392?gh_jid=7594392) |
-| 🏢 **Toast** | Analytics Engineer | Remote | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.toasttab.com/jobs?gh_jid=7553301) |
+| 🏢 **Toast** | Analytics Engineer | Remote | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.toasttab.com/jobs?gh_jid=7553301) |
 | 🏢 **Spotify** | Machine Learning Engineer | New York, NY | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/e68ad741-4c4e-4b06-ae11-9cf1e36dd40f/apply) |
 | 🏢 **Warner Bros. Discovery** | Machine Learning Engineer I | NY New York 30 Hu... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Machine-Learning-Engineer-I_R000103943) |
 | 🏢 **The Hartford** | Actuarial and Data Science Model Validation | 2 Locations | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Actuarial-and-Data-Science-Model-Validation_R2624655) |
@@ -178,9 +178,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **EMCOR Group, Inc.** | Business Data Analyst, Construction; Entry Level | Baltimore | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/3ya8tbzkJ4hWczj59HMX7K) |
 | 🏢 **Bosch Group** | Master Data Analyst | Lincolnshire, IL | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000118609598) |
 | 🏢 **Leidos** | Intelligence Analyst | Hampton, VA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Hampton-VA/Intelligence-Analyst_R-00179937) |
-| 🏢 **Booz Allen Hamilton** | All-Source Intelligence Analyst | Wright Patterson ... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Wright-Patterson-AFB-OH/All-Source-Intelligence-Analyst_R0237118) |
 | 🏢 **Booz Allen Hamilton** | Signals Intelligence Analyst | Buckley AFB, CO | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Buckley-AFB-CO/Signals-Intelligence-Analyst_R0237169) |
 | 🏢 **Booz Allen Hamilton** | Data Analyst | Beavercreek, OH | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Data-Analyst_R0237162) |
+| 🏢 **Booz Allen Hamilton** | All-Source Intelligence Analyst | Wright Patterson ... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Wright-Patterson-AFB-OH/All-Source-Intelligence-Analyst_R0237118) |
 | 🏢 **AIG** | Cyber Threat Intelligence Analyst | 4 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://aig.wd1.myworkdayjobs.com/AIG/job/NC-Charlotte/Cyber-Threat-Intelligence-Analyst_JR2505772) |
 | 🏢 **SpaceX** | Intelligence Analyst | Hawthorne, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8487602002?gh_jid=8487602002) |
 | 🏢 **Allium** | Blockchain Research Analyst | New York | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/allium/46da49f4-3b4e-43fd-97b1-039407f7d621/application) |
