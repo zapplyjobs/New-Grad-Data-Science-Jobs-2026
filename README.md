@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-267-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-100-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-268-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-101-blue?style=flat&logo=building)
 ![Data Scientist](https://img.shields.io/badge/Data_Scientist-126-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -192,6 +192,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **RTX** | ServiceNow Data Analyst | TX-REMOTE | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-REMOTE/ServiceNow-Data-Analyst_01834699) |
 | 🏢 **Leidos** | Intelligence Analyst SME | Bethesda, MD | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Intelligence-Analyst-SME_R-00179924) |
 | 🏢 **Ameriprise Financial** | Quantitative  Analyst | Boston | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Boston-Massachusetts/Quantitative--Analyst_R26_0822-1) |
+| 🏢 **Sonimus** | Remote Data Analyst - Entry-Level with Paid Training | Burnsville | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://us.jobrapido.com/jobpreview/4393792919375446016) |
 | 🏢 **Waymo** | Business Intelligence Analyst | Mountain View, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7569449) |
 | 🏢 **Guidehouse** | Data Analytics Consultant | AL, Huntsville | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Huntsville/Data-Analytics-Consultant_37316) |
 | 🏢 **Intel** | Foundry New Product Data Analyst | 4 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Foundry-New-Product-Data-Analyst_JR0282358) |
@@ -247,8 +248,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Experian** | Data Engineer - Healthcare (Remote) | United States | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000118624497) |
 | 🏢 **KBR** | System/Data Engineer | Chantilly | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/System-Data-Engineer_R2121388) |
 | 🏢 **Guidehouse** | Databricks Data Engineer | VA, Arlington | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Databricks-Data-Engineer_36141-1) |
-| 🏢 **Booz Allen Hamilton** | Data Engineer | Fayetteville, NC | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/Data-Engineer_R0236980) |
 | 🏢 **Booz Allen Hamilton** | Data Engineer | Beavercreek, OH | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Data-Engineer_R0237099) |
+| 🏢 **Booz Allen Hamilton** | Data Engineer | Fayetteville, NC | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/Data-Engineer_R0236980) |
 | 🏢 **Amazon.com LLC** | Data Engineer, Seller Partner Trust and Store Integrity Science | Seattle, WA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10383223/data-engineer-seller-partner-trust-and-store-integrity-science) |
 | 🏢 **Northrop Grumman** | 2026 Associate Data Engineer/Data Engineer | California-San Diego | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2026-Associate-Data-Engineer-Data-Engineer_R10220516) |
 | 🏢 **Merck & Co.** | Specialist, Data Engineer (Hybrid - Rahway, NJ) | New Jersey - Rahway | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Specialist--Data-Engineer--Hybrid---Rahway--NJ-_R390759-2) |
@@ -373,7 +374,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 267 current opportunities from 100 companies**
+**🎯 268 current opportunities from 101 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
