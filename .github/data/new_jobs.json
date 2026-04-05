@@ -2487,36 +2487,6 @@
     "job_posted_at": "2026-04-01T20:44:31.095Z"
   },
   {
-    "job_id": "ashby-openai-ecf1abec-898c-4acb-a984-42858836a1ff",
-    "job_title": "Machine Learning Engineer, Integrity",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/ecf1abec-898c-4acb-a984-42858836a1ff/application",
-    "job_posted_at_datetime_utc": "2026-04-01T20:44:30.728Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "9c1e35b311115b4e5bf37b0a7f218b77a82383ae0dd0d5ff4934863d29984259",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-04-01T20:44:30.728Z"
-  },
-  {
     "job_id": "ashby-openai-4476b271-4987-4bd4-aa1e-0e68ea683b10",
     "job_title": "Research Scientist / Research Engineer — Early Career Cohort",
     "employer_name": "OpenAI",
@@ -2533,6 +2503,36 @@
       "employment": "entry_level",
       "domains": [
         "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-04-01T20:44:30.728Z"
+  },
+  {
+    "job_id": "ashby-openai-ecf1abec-898c-4acb-a984-42858836a1ff",
+    "job_title": "Machine Learning Engineer, Integrity",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/ecf1abec-898c-4acb-a984-42858836a1ff/application",
+    "job_posted_at_datetime_utc": "2026-04-01T20:44:30.728Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "9c1e35b311115b4e5bf37b0a7f218b77a82383ae0dd0d5ff4934863d29984259",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
         "data_science"
       ],
       "locations": [
@@ -5376,6 +5376,35 @@
     "job_posted_at": "2026-04-01T02:16:32.748Z"
   },
   {
+    "job_id": "js-jobsultant-solutions-yvpfgfrffp85a5tqaaaaaa==",
+    "job_title": "Data Analyst - Entry Level (Remote)",
+    "employer_name": "Jobsultant Solutions",
+    "job_city": "Charlotte",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/30vrATe8fuKVJhmTCjpDWp",
+    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "1d33e24026d68e28227ff3577057ef86dfae16f0dcafcd0cc9cc816eee55c8c3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-01T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-31c8b958-d5dd-498d-bedb-b4f81b34e0e5",
     "job_title": "Big Data Engineer",
     "employer_name": "Amazon.com Services LLC",
@@ -5467,35 +5496,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "job_posted_at": "2026-04-01T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-jobsultant-solutions-yvpfgfrffp85a5tqaaaaaa==",
-    "job_title": "Data Analyst - Entry Level (Remote)",
-    "employer_name": "Jobsultant Solutions",
-    "job_city": "Charlotte",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/30vrATe8fuKVJhmTCjpDWp",
-    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "1d33e24026d68e28227ff3577057ef86dfae16f0dcafcd0cc9cc816eee55c8c3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
     "job_posted_at": "2026-04-01T00:00:00.000Z"
   },
   {
@@ -7671,6 +7671,36 @@
     "job_posted_at": "2026-03-29T18:25:58.406Z"
   },
   {
+    "job_id": "ashby-cursor-6171cf55-7b93-494d-b334-daf91448dbfd",
+    "job_title": "Data Scientist, Agents",
+    "employer_name": "Cursor",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/cursor/6171cf55-7b93-494d-b334-daf91448dbfd/application",
+    "job_posted_at_datetime_utc": "2026-03-29T18:25:57.789Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "70c76c7a01a4331a2b80420d084d53c6de57f6192535c1ee04239b3bd7244d78",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-03-29T18:25:57.789Z"
+  },
+  {
     "job_id": "ashby-cursor-cd4bad0a-e2f6-4a8d-9b57-ce1780efedae",
     "job_title": "Research Scientist",
     "employer_name": "Cursor",
@@ -7712,36 +7742,6 @@
     "job_employment_type": "FullTime",
     "salary": null,
     "fingerprint": "7c97a7db1b022fc6dfd85c04266552794c51a49853c0f794cba443a85380dabe",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-03-29T18:25:57.789Z"
-  },
-  {
-    "job_id": "ashby-cursor-6171cf55-7b93-494d-b334-daf91448dbfd",
-    "job_title": "Data Scientist, Agents",
-    "employer_name": "Cursor",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/cursor/6171cf55-7b93-494d-b334-daf91448dbfd/application",
-    "job_posted_at_datetime_utc": "2026-03-29T18:25:57.789Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "70c76c7a01a4331a2b80420d084d53c6de57f6192535c1ee04239b3bd7244d78",
     "tags": {
       "employment": "entry_level",
       "domains": [
