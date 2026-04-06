@@ -69,12 +69,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Exact Sciences** | Research Scientist, NGS Product Development | CA - San Diego | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---San-Diego/Research-Scientist--NGS-Product-Development_R26-12507) |
-| 🏢 **DeepMind** | Research Scientist | Mountain View, US | 45m | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/deepmind/jobs/7655786) |
-| 🏢 **Leidos** | GEOINT Innovation Data Scientist - TS/SCI required | Alexandria, VA | 55m | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/GEOINT-Innovation-Data-Scientist_R-00179056) |
+| 🏢 **Exact Sciences** | Research Scientist, NGS Product Development | CA - San Diego | 25m | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---San-Diego/Research-Scientist--NGS-Product-Development_R26-12507) |
+| 🏢 **DeepMind** | Research Scientist | Mountain View, US | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/deepmind/jobs/7655786) |
+| 🏢 **Leidos** | GEOINT Innovation Data Scientist - TS/SCI required | Alexandria, VA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/GEOINT-Innovation-Data-Scientist_R-00179056) |
 | 🏢 **Motorola Solutions** | Data Scientist | Richardson, TX | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Richardson-TX-TX145/Data-Scientist_R62829) |
-| 🏢 **TransUnion** | Data Scientist - Insurance | Chicago | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Data-Scientist---Insurance_19039694) |
-| 🏢 **Handshake** | Machine Learning Engineer I | San Francisco, CA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/handshake/dd1fd4fc-6f6d-4a3d-8c54-dd91ed48dd70/application) |
+| 🏢 **TransUnion** | Data Scientist - Insurance | Chicago | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Data-Scientist---Insurance_19039694) |
+| 🏢 **Handshake** | Machine Learning Engineer I | San Francisco, CA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/handshake/dd1fd4fc-6f6d-4a3d-8c54-dd91ed48dd70/application) |
 | 🏢 **F5** | Data Scientist | 2 Locations | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Dublin/Senior-Data-Scientist_RP1036188) |
 | 🏢 **Zoom** | Research Scientist | Seattle | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Research-Scientist_R18240-1) |
 | 🏢 **Zoom** | Machine Learning Engineer, Responsible AI | Seattle | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Staff-Machine-Learning-Engineer--Responsible-AI_R18413-1) |
@@ -109,8 +109,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Glean** | Machine Learning Engineer, Search Quality | San Francisco Bay... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/gleanwork/jobs/4006735005) |
 | 🏢 **Waabi** | Research Scientist, Simulation Agents | Remote | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/waabi/48a13158-5489-4fac-8643-2d4e2fdc410e/apply) |
 | 🏢 **Parafin** | Data Scientist, Underwriting | San Francisco, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/parafin/92807f0c-0c67-4516-bbf2-dc809516de14/application) |
-| 🏢 **OpenAI** | Machine Learning Engineer, Integrity | San Francisco | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/ecf1abec-898c-4acb-a984-42858836a1ff/application) |
 | 🏢 **OpenAI** | Research Scientist / Research Engineer — Early Career Cohort | San Francisco | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/4476b271-4987-4bd4-aa1e-0e68ea683b10/application) |
+| 🏢 **OpenAI** | Machine Learning Engineer, Integrity | San Francisco | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/ecf1abec-898c-4acb-a984-42858836a1ff/application) |
 | 🏢 **Handshake** | AI Research Scientist | San Francisco, CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/handshake/b40c221b-c4e9-482a-b0e0-3a0182f054eb/application) |
 | 🏢 **Cape** | Data Scientist | New York, NY | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/cape/28a221f6-59b3-4777-8c29-3611188e395f/application) |
 | 🏢 **Baseten** | Post-Training Research Scientist | San Francisco | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/baseten/7c9d2bb0-ac03-4a3c-86c3-cf720cd314e8/application) |
@@ -241,10 +241,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Experian** | Data Engineer - Healthcare (Remote) | United States | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000118624497) |
 | 🏢 **KBR** | System/Data Engineer | Chantilly | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/System-Data-Engineer_R2121388) |
 | 🏢 **Guidehouse** | Databricks Data Engineer | VA, Arlington | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Databricks-Data-Engineer_36141-1) |
-| 🏢 **Booz Allen Hamilton** | Data Engineer | Beavercreek, OH | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Data-Engineer_R0237099) |
 | 🏢 **Booz Allen Hamilton** | Data Engineer | Fayetteville, NC | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/Data-Engineer_R0236980) |
+| 🏢 **Booz Allen Hamilton** | Data Engineer | Beavercreek, OH | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Data-Engineer_R0237099) |
 | 🏢 **Amazon.com LLC** | Data Engineer, Seller Partner Trust and Store Integrity Science | Seattle, WA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10383223/data-engineer-seller-partner-trust-and-store-integrity-science) |
-| 🏢 **Northrop Grumman** | 2026 Associate Data Engineer/Data Engineer | California-San Diego | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2026-Associate-Data-Engineer-Data-Engineer_R10220516) |
+| 🏢 **Northrop Grumman** | 2026 Associate Data Engineer/Data Engineer | California-San Diego | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2026-Associate-Data-Engineer-Data-Engineer_R10220516) |
 | 🏢 **Merck & Co.** | Specialist, Data Engineer (Hybrid - Rahway, NJ) | New Jersey - Rahway | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Specialist--Data-Engineer--Hybrid---Rahway--NJ-_R390759-2) |
 | 🏢 **NVIDIA** | Security Data Engineer | 2 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Security-Data-Engineer_JR2014905) |
 | 🏢 **Baseten** | Data Engineer | San Francisco | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/baseten/c2ba6c50-d282-4478-98e9-668f94facde8/application) |
@@ -268,7 +268,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **The Hartford** | Business Intelligence Manage - Employee Benefits | 5 Locations | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT--Home-Office/EB-Business-Intelligence-Manager--T7-_R2624690) |
+| 🏢 **The Hartford** | Business Intelligence Manage - Employee Benefits | 5 Locations | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT--Home-Office/EB-Business-Intelligence-Manager--T7-_R2624690) |
 | 🏢 **AIG** | Data Business Intelligence (BI) & Power BI Analyst | 5 Locations | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://aig.wd1.myworkdayjobs.com/AIG/job/TX-Dallas/Data-Business-Intelligence--BI----Power-BI-Analyst_JR2505279) |
 | 🏢 **Guidehouse** | Data Visualization Analyst | 8 Locations | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---GA-Atlanta/Data-Visualization-Analyst_35928) |
 | 🏢 **Caterpillar** | Power BI Reporting Analyst | Mossville | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Senior-Business-Intelligence-Analyst_R0000349209) |
