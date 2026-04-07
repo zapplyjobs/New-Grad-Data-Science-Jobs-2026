@@ -3781,18 +3781,18 @@
     "job_posted_at": "2026-04-01T20:44:13.732Z"
   },
   {
-    "job_id": "ashby-baseten-7c9d2bb0-ac03-4a3c-86c3-cf720cd314e8",
-    "job_title": "Post-Training Research Scientist",
+    "job_id": "ashby-baseten-c2ba6c50-d282-4478-98e9-668f94facde8",
+    "job_title": "Data Engineer",
     "employer_name": "Baseten",
     "job_city": "San Francisco",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/baseten/7c9d2bb0-ac03-4a3c-86c3-cf720cd314e8/application",
+    "job_apply_link": "https://jobs.ashbyhq.com/baseten/c2ba6c50-d282-4478-98e9-668f94facde8/application",
     "job_posted_at_datetime_utc": "2026-04-01T20:44:13.611Z",
     "job_employment_type": "FullTime",
     "salary": null,
-    "fingerprint": "37b03ae5cf586f18de53cfef778abb73889866e6f488e3135597883cacd69e8b",
+    "fingerprint": "35ae956cffd97f89e984572545fa740499b3ae6b3ecb86181f978d7975c8e1e0",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3810,18 +3810,18 @@
     "job_posted_at": "2026-04-01T20:44:13.611Z"
   },
   {
-    "job_id": "ashby-baseten-c2ba6c50-d282-4478-98e9-668f94facde8",
-    "job_title": "Data Engineer",
+    "job_id": "ashby-baseten-7c9d2bb0-ac03-4a3c-86c3-cf720cd314e8",
+    "job_title": "Post-Training Research Scientist",
     "employer_name": "Baseten",
     "job_city": "San Francisco",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/baseten/c2ba6c50-d282-4478-98e9-668f94facde8/application",
+    "job_apply_link": "https://jobs.ashbyhq.com/baseten/7c9d2bb0-ac03-4a3c-86c3-cf720cd314e8/application",
     "job_posted_at_datetime_utc": "2026-04-01T20:44:13.611Z",
     "job_employment_type": "FullTime",
     "salary": null,
-    "fingerprint": "35ae956cffd97f89e984572545fa740499b3ae6b3ecb86181f978d7975c8e1e0",
+    "fingerprint": "37b03ae5cf586f18de53cfef778abb73889866e6f488e3135597883cacd69e8b",
     "tags": {
       "employment": "entry_level",
       "domains": [
