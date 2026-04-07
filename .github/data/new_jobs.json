@@ -1,5 +1,61 @@
 [
   {
+    "job_id": "greenhouse-spacex-8494810002",
+    "job_title": "Data Scientist (Starlink)",
+    "employer_name": "SpaceX",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8494810002?gh_jid=8494810002",
+    "job_posted_at_datetime_utc": "2026-04-07T09:55:21-04:00",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9872bc14573ca4f9f8a1e335662b2efca989b741364eddcd9afc4280b8d1cb4a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-07T09:55:21-04:00"
+  },
+  {
+    "job_id": "greenhouse-spacex-8494787002",
+    "job_title": "Data Engineer (Starlink)",
+    "employer_name": "SpaceX",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8494787002?gh_jid=8494787002",
+    "job_posted_at_datetime_utc": "2026-04-07T09:55:20-04:00",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8eda26f8a36d8841ede9253213f8a06df0471b539d6c832fc715c7849beff552",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-07T09:55:20-04:00"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0237244",
     "job_title": "AI/ML Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -1918,6 +1974,34 @@
     "job_posted_at": "2026-04-03T07:02:25.535Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0237169",
+    "job_title": "Signals Intelligence Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Buckley AFB",
+    "job_state": "CO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Buckley-AFB-CO/Signals-Intelligence-Analyst_R0237169",
+    "job_posted_at_datetime_utc": "2026-04-03T07:01:56.215Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ab5efd1a9bf885080c22a5cccb747200f7885e2ef0a49a7a2f562f0d13c20106",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:01:56.215Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0237099",
     "job_title": "Data Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -2031,34 +2115,6 @@
     "job_posted_at": "2026-04-03T07:01:56.215Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0237169",
-    "job_title": "Signals Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Buckley AFB",
-    "job_state": "CO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Buckley-AFB-CO/Signals-Intelligence-Analyst_R0237169",
-    "job_posted_at_datetime_utc": "2026-04-03T07:01:56.215Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ab5efd1a9bf885080c22a5cccb747200f7885e2ef0a49a7a2f562f0d13c20106",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:01:56.215Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0237137",
     "job_title": "Data Scientist",
     "employer_name": "Booz Allen Hamilton",
@@ -2144,34 +2200,6 @@
     "job_posted_at": "2026-04-03T07:01:50.330Z"
   },
   {
-    "job_id": "workday-aig-JR2505279",
-    "job_title": "Data Business Intelligence (BI) & Power BI Analyst",
-    "employer_name": "AIG",
-    "job_city": "5 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://aig.wd1.myworkdayjobs.com/AIG/job/TX-Dallas/Data-Business-Intelligence--BI----Power-BI-Analyst_JR2505279",
-    "job_posted_at_datetime_utc": "2026-04-03T07:01:36.347Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4ae99a8be4f8967ad5842357e99ae7298e6df7a9ff77ec8e9bfd39c4ae6cc738",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:01:36.347Z"
-  },
-  {
     "job_id": "workday-aig-JR2505772",
     "job_title": "Cyber Threat Intelligence Analyst",
     "employer_name": "AIG",
@@ -2188,6 +2216,34 @@
       "employment": "entry_level",
       "domains": [
         "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:01:36.347Z"
+  },
+  {
+    "job_id": "workday-aig-JR2505279",
+    "job_title": "Data Business Intelligence (BI) & Power BI Analyst",
+    "employer_name": "AIG",
+    "job_city": "5 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://aig.wd1.myworkdayjobs.com/AIG/job/TX-Dallas/Data-Business-Intelligence--BI----Power-BI-Analyst_JR2505279",
+    "job_posted_at_datetime_utc": "2026-04-03T07:01:36.347Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4ae99a8be4f8967ad5842357e99ae7298e6df7a9ff77ec8e9bfd39c4ae6cc738",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
         "data_science"
       ],
       "locations": [
@@ -3400,6 +3456,34 @@
     "job_posted_at": "2026-04-02T07:01:56.215Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0237061",
+    "job_title": "Data Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Beavercreek",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Data-Analyst_R0237061",
+    "job_posted_at_datetime_utc": "2026-04-02T07:01:56.215Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f865d1a60d0135a4df87fff636be3d21b75db6ff74e657bf37081ada3058487f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:01:56.215Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0237041",
     "job_title": "All-Source Cyber Intelligence Analyst",
     "employer_name": "Booz Allen Hamilton",
@@ -3449,34 +3533,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T07:01:56.215Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237061",
-    "job_title": "Data Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Beavercreek",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Data-Analyst_R0237061",
-    "job_posted_at_datetime_utc": "2026-04-02T07:01:56.215Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f865d1a60d0135a4df87fff636be3d21b75db6ff74e657bf37081ada3058487f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
