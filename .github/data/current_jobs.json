@@ -1,5 +1,64 @@
 [
   {
+    "job_id": "workday-booz-allen-hamilton-R0237244",
+    "job_title": "AI/ML Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Norfolk",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Norfolk-VA/AI-ML-Engineer_R0237244",
+    "job_posted_at_datetime_utc": "2026-04-07T13:43:07.965Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "16570e7a347129b1e6c1422cc117a13f5fc62f1ab2956da78061c0e8c1484562",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T13:43:07.965Z"
+  },
+  {
+    "job_id": "sr-Visa-744000119124351",
+    "job_title": "Associate Data Scientist, New College Grad - 2026",
+    "employer_name": "Visa",
+    "job_city": "Foster City",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.smartrecruiters.com/Visa/744000119124351",
+    "job_posted_at_datetime_utc": "2026-04-07T13:41:47.112Z",
+    "job_employment_type": "full-time",
+    "salary": null,
+    "fingerprint": "9187d2851d5f6d555c51ece637266fd521f12963d2fdcc653c284198506a4d93",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "smartrecruiters",
+    "job_posted_at": "2026-04-07T13:41:47.112Z"
+  },
+  {
     "job_id": "lever-tri-894d2075-8720-4ab8-930e-8569a9319875",
     "job_title": "Machine Learning Research Scientist, Robotics VLAs Post-Training and Adaptation",
     "employer_name": "Toyota Research Institute",
@@ -1859,34 +1918,6 @@
     "job_posted_at": "2026-04-03T07:02:25.535Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0237137",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Scientist_R0237137",
-    "job_posted_at_datetime_utc": "2026-04-03T07:01:56.215Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6575aa53265ead8a219a697290777bf8b4d62d6cb22df7ef2eba97c7501e8b2b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:01:56.215Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0237099",
     "job_title": "Data Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -2012,6 +2043,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ab5efd1a9bf885080c22a5cccb747200f7885e2ef0a49a7a2f562f0d13c20106",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:01:56.215Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237137",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Scientist_R0237137",
+    "job_posted_at_datetime_utc": "2026-04-03T07:01:56.215Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6575aa53265ead8a219a697290777bf8b4d62d6cb22df7ef2eba97c7501e8b2b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3284,6 +3343,35 @@
     "job_posted_at": "2026-04-02T07:01:58.059Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0232125",
+    "job_title": "Splunk Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "6 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Reston-VA/SIEM-Data-Onboarding-Engineer_R0232125",
+    "job_posted_at_datetime_utc": "2026-04-02T07:01:56.215Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dfeb8514172359b7bf4e2786b55a98c791194b9c9e8afa05e903b53e58ddaccc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:01:56.215Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0237027",
     "job_title": "Data Analyst",
     "employer_name": "Booz Allen Hamilton",
@@ -3305,6 +3393,34 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:01:56.215Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237041",
+    "job_title": "All-Source Cyber Intelligence Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Cyber-Intelligence-Analyst_R0237041",
+    "job_posted_at_datetime_utc": "2026-04-02T07:01:56.215Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "25255c3346c4bd421012d033445cc49aecf16e83fef1d92d1d7576fa3c7103fa",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -3361,63 +3477,6 @@
         "us"
       ],
       "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T07:01:56.215Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237041",
-    "job_title": "All-Source Cyber Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Cyber-Intelligence-Analyst_R0237041",
-    "job_posted_at_datetime_utc": "2026-04-02T07:01:56.215Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "25255c3346c4bd421012d033445cc49aecf16e83fef1d92d1d7576fa3c7103fa",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T07:01:56.215Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0232125",
-    "job_title": "Splunk Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "6 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Reston-VA/SIEM-Data-Onboarding-Engineer_R0232125",
-    "job_posted_at_datetime_utc": "2026-04-02T07:01:56.215Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dfeb8514172359b7bf4e2786b55a98c791194b9c9e8afa05e903b53e58ddaccc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
