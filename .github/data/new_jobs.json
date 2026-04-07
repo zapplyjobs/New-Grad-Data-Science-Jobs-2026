@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "workday-morgan-stanley-JR032325",
+    "job_title": "Data Analytics - Business Solutions Group - Associate",
+    "employer_name": "Morgan Stanley",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Data-Analytics---Business-Solutions-Group---Associate_JR032325",
+    "job_posted_at_datetime_utc": "2026-04-07T23:21:52.410Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "07775f4296ba5b7e01608b34dac8ede55bdfab0a9e80c4055874aad77a966200",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T23:21:52.410Z"
+  },
+  {
     "job_id": "sr-AbbVie-3743990012497365",
     "job_title": "Associate Data Analyst",
     "employer_name": "AbbVie",
@@ -1030,7 +1058,7 @@
   },
   {
     "job_id": "eightfold-aexp-41203199",
-    "job_title": "Data Engineer",
+    "job_title": "Data Engineer I - CETS",
     "employer_name": "American Express",
     "job_city": "Phoenix",
     "job_state": "",
@@ -1040,7 +1068,7 @@
     "job_posted_at_datetime_utc": "2026-04-07T00:02:09.552Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "b17bd7d69996e79828aff3201d4a25b7fd257260fa24c0efcecd31427e5d72ac",
+    "fingerprint": "2d8e164f82d385f86661e6e7a0297c2ae488809220f9f95b2164988e6ec15c60",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7556,35 +7584,6 @@
     "job_posted_at": "2026-04-01T02:16:32.748Z"
   },
   {
-    "job_id": "js-jobsultant-solutions-yvpfgfrffp85a5tqaaaaaa==",
-    "job_title": "Data Analyst - Entry Level (Remote)",
-    "employer_name": "Jobsultant Solutions",
-    "job_city": "Charlotte",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/30vrATe8fuKVJhmTCjpDWp",
-    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "1d33e24026d68e28227ff3577057ef86dfae16f0dcafcd0cc9cc816eee55c8c3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-01T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-31c8b958-d5dd-498d-bedb-b4f81b34e0e5",
     "job_title": "Big Data Engineer",
     "employer_name": "Amazon.com Services LLC",
@@ -7679,6 +7678,35 @@
     "job_posted_at": "2026-04-01T00:00:00.000Z"
   },
   {
+    "job_id": "js-jobsultant-solutions-yvpfgfrffp85a5tqaaaaaa==",
+    "job_title": "Data Analyst - Entry Level (Remote)",
+    "employer_name": "Jobsultant Solutions",
+    "job_city": "Charlotte",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/30vrATe8fuKVJhmTCjpDWp",
+    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "1d33e24026d68e28227ff3577057ef86dfae16f0dcafcd0cc9cc816eee55c8c3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-01T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-643ec781-2954-41e9-80b4-1cbcbda1d3a4",
     "job_title": "Product Test Engineer - Machine Learning Hardware, RRL Technical Engineering",
     "employer_name": "re:Cycle Reverse Logistics LLC",
@@ -7707,35 +7735,5 @@
     "_source": "aggregator",
     "_original_source": "amazon",
     "job_posted_at": "2026-04-01T00:00:00.000Z"
-  },
-  {
-    "job_id": "lever-tri-6f67ad25-840f-4cd2-9b10-b31455ed9233",
-    "job_title": "Machine Learning Research Scientist, Adaptive Behavioral Systems",
-    "employer_name": "Toyota Research Institute",
-    "job_city": "Los Altos",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/tri/6f67ad25-840f-4cd2-9b10-b31455ed9233/apply",
-    "job_posted_at_datetime_utc": "2026-03-31T23:17:09.280Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e4caa62232eae629268b62f7cf63e426ce7af2a4048e36e0f8be5895351d4139",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "hybrid",
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-03-31T23:17:09.280Z"
   }
 ]
