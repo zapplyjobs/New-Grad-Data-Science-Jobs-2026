@@ -1,5 +1,63 @@
 [
   {
+    "job_id": "workday-dell-technologies-R287601",
+    "job_title": "Advisory AI Data Specialist (FDE Unit)",
+    "employer_name": "Dell Technologies",
+    "job_city": "Texas, United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://dell.wd1.myworkdayjobs.com/External/job/Remote---Texas-United-States/Advisory-AI-Data-Specialist--FDE-Unit-_R287601-1",
+    "job_posted_at_datetime_utc": "2026-04-08T20:17:52.078Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "59c03daa0d1febe351c6df6298169180c992186d5ab615c077ebd8e475f996f8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T20:17:52.078Z"
+  },
+  {
+    "job_id": "workday-ameriprise-financial-R26_1223",
+    "job_title": "Associate Investment Research Analyst - Structured Products",
+    "employer_name": "Ameriprise Financial",
+    "job_city": "Minneapolis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Associate-Investment-Research-Analyst---Structured-Products_R26_1223-1",
+    "job_posted_at_datetime_utc": "2026-04-08T20:16:49.572Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4a9ac2428871ad9fda6b247b3a93bd31c42099555d9c25a465ac5ae551259ef3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T20:16:49.572Z"
+  },
+  {
     "job_id": "workday-ameriprise-financial-R26_1222",
     "job_title": "Investment Research Analyst - Structured Products",
     "employer_name": "Ameriprise Financial",
@@ -880,34 +938,6 @@
     "job_posted_at": "2026-04-08T12:54:33.026Z"
   },
   {
-    "job_id": "workday-leidos-R-00179032",
-    "job_title": "Maritime Intelligence Analyst",
-    "employer_name": "Leidos",
-    "job_city": "Suitland",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Suitland-MD/Maritime-Intelligence-Analyst_R-00179032",
-    "job_posted_at_datetime_utc": "2026-04-08T12:19:14.525Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7b54986ffec9408148ea9db01ed928a0186759ccf2fabbb27ba0128caba6d730",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T12:19:14.525Z"
-  },
-  {
     "job_id": "workday-leidos-R-00177833",
     "job_title": "Maritime Intelligence Analyst and Watch Stander",
     "employer_name": "Leidos",
@@ -929,6 +959,34 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T12:19:14.525Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00179032",
+    "job_title": "Maritime Intelligence Analyst",
+    "employer_name": "Leidos",
+    "job_city": "Suitland",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Suitland-MD/Maritime-Intelligence-Analyst_R-00179032",
+    "job_posted_at_datetime_utc": "2026-04-08T12:19:14.525Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7b54986ffec9408148ea9db01ed928a0186759ccf2fabbb27ba0128caba6d730",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -3115,6 +3173,35 @@
     "job_posted_at": "2026-04-06T07:05:02.283Z"
   },
   {
+    "job_id": "js-the-mitre-corporation-8q9c3a5nlu06oioyaaaaaa==",
+    "job_title": "Internships in Data Science, Math, Statistics or Operations Research",
+    "employer_name": "The MITRE Corporation",
+    "job_city": "McLean",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.mitre.org/us/en/job/R115478/Internships-in-Data-Science-Math-Statistics-or-Operations-Research",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "8acd65d9bdaa919903e1bb735728f0c42b3d6d2cb9b3b72c624a5b142256dea6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-3c5b23ae-0239-4c3b-a503-cd23fdef652f",
     "job_title": "Applied Scientist, AWS Applied AI Solutions Core Services",
     "employer_name": "Amazon Web Services, Inc.",
@@ -3144,35 +3231,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-the-mitre-corporation-8q9c3a5nlu06oioyaaaaaa==",
-    "job_title": "Internships in Data Science, Math, Statistics or Operations Research",
-    "employer_name": "The MITRE Corporation",
-    "job_city": "McLean",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.mitre.org/us/en/job/R115478/Internships-in-Data-Science-Math-Statistics-or-Operations-Research",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "8acd65d9bdaa919903e1bb735728f0c42b3d6d2cb9b3b72c624a5b142256dea6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
     "job_posted_at": "2026-04-06T00:00:00.000Z"
   },
   {
@@ -3952,34 +4010,6 @@
     "job_posted_at": "2026-04-03T07:01:56.215Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0237169",
-    "job_title": "Signals Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Buckley AFB",
-    "job_state": "CO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Buckley-AFB-CO/Signals-Intelligence-Analyst_R0237169",
-    "job_posted_at_datetime_utc": "2026-04-03T07:01:56.215Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ab5efd1a9bf885080c22a5cccb747200f7885e2ef0a49a7a2f562f0d13c20106",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:01:56.215Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0237099",
     "job_title": "Data Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -4086,6 +4116,34 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:01:56.215Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237169",
+    "job_title": "Signals Intelligence Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Buckley AFB",
+    "job_state": "CO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Buckley-AFB-CO/Signals-Intelligence-Analyst_R0237169",
+    "job_posted_at_datetime_utc": "2026-04-03T07:01:56.215Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ab5efd1a9bf885080c22a5cccb747200f7885e2ef0a49a7a2f562f0d13c20106",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -5405,35 +5463,6 @@
     "job_posted_at": "2026-04-02T07:01:56.215Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0232125",
-    "job_title": "Splunk Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "6 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Reston-VA/SIEM-Data-Onboarding-Engineer_R0232125",
-    "job_posted_at_datetime_utc": "2026-04-02T07:01:56.215Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dfeb8514172359b7bf4e2786b55a98c791194b9c9e8afa05e903b53e58ddaccc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T07:01:56.215Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0237061",
     "job_title": "Data Analyst",
     "employer_name": "Booz Allen Hamilton",
@@ -5483,6 +5512,35 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:01:56.215Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0232125",
+    "job_title": "Splunk Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "6 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Reston-VA/SIEM-Data-Onboarding-Engineer_R0232125",
+    "job_posted_at_datetime_utc": "2026-04-02T07:01:56.215Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dfeb8514172359b7bf4e2786b55a98c791194b9c9e8afa05e903b53e58ddaccc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
@@ -5869,36 +5927,6 @@
     "job_posted_at": "2026-04-01T20:44:31.095Z"
   },
   {
-    "job_id": "ashby-openai-ecf1abec-898c-4acb-a984-42858836a1ff",
-    "job_title": "Machine Learning Engineer, Integrity",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/ecf1abec-898c-4acb-a984-42858836a1ff/application",
-    "job_posted_at_datetime_utc": "2026-04-01T20:44:30.728Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "9c1e35b311115b4e5bf37b0a7f218b77a82383ae0dd0d5ff4934863d29984259",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-04-01T20:44:30.728Z"
-  },
-  {
     "job_id": "ashby-openai-4476b271-4987-4bd4-aa1e-0e68ea683b10",
     "job_title": "Research Scientist / Research Engineer — Early Career Cohort",
     "employer_name": "OpenAI",
@@ -5915,6 +5943,36 @@
       "employment": "entry_level",
       "domains": [
         "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-04-01T20:44:30.728Z"
+  },
+  {
+    "job_id": "ashby-openai-ecf1abec-898c-4acb-a984-42858836a1ff",
+    "job_title": "Machine Learning Engineer, Integrity",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/ecf1abec-898c-4acb-a984-42858836a1ff/application",
+    "job_posted_at_datetime_utc": "2026-04-01T20:44:30.728Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "9c1e35b311115b4e5bf37b0a7f218b77a82383ae0dd0d5ff4934863d29984259",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
         "data_science"
       ],
       "locations": [
