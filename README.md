@@ -164,7 +164,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Morgan Stanley** | Data Analytics - Business Solutions Group - Associate | New York | 39m | [<img src="images/apply.png" width="75" alt="Apply">](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Data-Analytics---Business-Solutions-Group---Associate_JR032325) |
+| 🏢 **Morgan Stanley** | Data Analytics - Business Solutions Group - Associate | New York | 54m | [<img src="images/apply.png" width="75" alt="Apply">](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Data-Analytics---Business-Solutions-Group---Associate_JR032325) |
 | 🏢 **AbbVie** | Associate Data Analyst | Tempe, AZ | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012497365) |
 | 🏢 **Rover** | Business Analyst - Operations Analytics | Seattle | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/rover/d5af1fac-9748-4177-88fa-077b433b7b03/apply) |
 | 🏢 **Thermo Fisher Scientific** | Global Security Operations Center - Intelligence Analyst | Waltham | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Waltham-Massachusetts-USA/Global-Security-Operations-Center---Intelligence-Analyst_R-01348024-1) |
@@ -237,7 +237,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **KBR** | Data Engineer | Camarillo | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Camarillo-California/Data-Engineer_R2121517) |
 | 🏢 **SpaceX** | Data Engineer (Starlink) | Redmond, WA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8494787002?gh_jid=8494787002) |
 | 🏢 **Proofpoint** | SPAM Data Engineer | Sunnyvale, CA | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Sunnyvale-CA/SPAM-Data-Engineer_R13983-1) |
-| 🏢 **American Express** | Data Engineer I - CETS | Phoenix | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://aexp.eightfold.ai/careers/job/41203199) |
+| 🏢 **American Express** | Data Engineer I - CETS | Phoenix | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://aexp.eightfold.ai/careers/job/41203199) |
 | 🏢 **Amazon.com Services LLC** | Data Engineer, Data Platform Management, Grocery Management Tech | Austin, TX | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10385439/data-engineer-data-platform-management-grocery-management-tech) |
 | 🏢 **Booz Allen Hamilton** | Data Engineer | Albuquerque, NM | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Albuquerque-NM/Data-Engineer_R0237241) |
 | 🏢 **CACI** | Data Engineer | US PA Philadelphia | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-PA-Philadelphia/Data-Engineer_324531-1) |
@@ -271,7 +271,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Visa** | Analyst, Business Intelligence | Austin, TX | 21m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Visa/744000119248871) |
+| 🏢 **Visa** | Analyst, Business Intelligence | Austin, TX | 36m | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Visa/744000119248871) |
 | 🏢 **The Hartford** | Business Intelligence Manage - Employee Benefits | 5 Locations | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT--Home-Office/EB-Business-Intelligence-Manager--T7-_R2624690) |
 | 🏢 **AIG** | Data Business Intelligence (BI) & Power BI Analyst | 5 Locations | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://aig.wd1.myworkdayjobs.com/AIG/job/TX-Dallas/Data-Business-Intelligence--BI----Power-BI-Analyst_JR2505279) |
 | 🏢 **Guidehouse** | Data Visualization Analyst | 8 Locations | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---GA-Atlanta/Data-Visualization-Analyst_35928) |
@@ -289,7 +289,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | 🏢 **Guidehouse** | AI Engineer (full-stack) | Remote | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/AI-Engineer--full-stack-_36934) |
 | 🏢 **Sigma Computing** | Technical Recruiter - AI Engineering | San Francisco, CA | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/sigmacomputing/jobs/7691794003) |
-| 🏢 **CACI** | AI/ML Engineer | US MD Aberdeen Pr... | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/AI-ML-Engineer_324560) |
+| 🏢 **CACI** | AI/ML Engineer | US MD Aberdeen Pr... | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/AI-ML-Engineer_324560) |
 | 🏢 **Booz Allen Hamilton** | AI and ML Engineer | Norfolk, VA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Norfolk-VA/AI-and-ML-Engineer_R0237255) |
 | 🏢 **Booz Allen Hamilton** | AI and ML Engineer | Washington, DC | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/AI-and-ML-Engineer_R0237256) |
 | 🏢 **Booz Allen Hamilton** | AI/ML Engineer | Washington, DC | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/AI-ML-Engineer_R0237245-1) |
