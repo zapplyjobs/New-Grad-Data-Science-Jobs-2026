@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "workday-northrop-grumman-R10223994",
+    "job_title": "Governance and Business Intelligence Officer",
+    "employer_name": "Northrop Grumman",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/Australia-Symonston/Governance-and-Business-Intelligence-Officer_R10223994",
+    "job_posted_at_datetime_utc": "2026-04-08T23:04:25.296Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f7b4572bb722b3d687b88c6d7065a62a3078c8723d4a13dbebf860cb34f70d9b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T23:04:25.296Z"
+  },
+  {
     "job_id": "greenhouse-oscar-7793815",
     "job_title": "Associate, Operations Data Analytics",
     "employer_name": "Oscar Health",
@@ -2664,6 +2692,35 @@
     "job_posted_at": "2026-04-07T00:02:09.552Z"
   },
   {
+    "job_id": "js-tech-consulting-zyugben3_y3hfdkfaaaaaa==",
+    "job_title": "Junior Data Analyst Consultant",
+    "employer_name": "Tech Consulting",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jaabz.com/jobs/171986-junior-data-analyst",
+    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "46b8a1d797e6c59cbf4e243bcf59923dcfff400c0b16582164217e1c28e9b86d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-07T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-42eec001-e921-45d8-aed4-03ec30bad787",
     "job_title": "Data Engineer, Data Platform Management, Grocery Management Tech",
     "employer_name": "Amazon.com Services LLC",
@@ -2724,35 +2781,6 @@
     },
     "_source": "aggregator",
     "_original_source": "netflix",
-    "job_posted_at": "2026-04-07T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-tech-consulting-zyugben3_y3hfdkfaaaaaa==",
-    "job_title": "Junior Data Analyst Consultant",
-    "employer_name": "Tech Consulting",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jaabz.com/jobs/171986-junior-data-analyst",
-    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "46b8a1d797e6c59cbf4e243bcf59923dcfff400c0b16582164217e1c28e9b86d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
     "job_posted_at": "2026-04-07T00:00:00.000Z"
   },
   {
@@ -3720,6 +3748,35 @@
     "job_posted_at": "2026-04-06T07:05:02.283Z"
   },
   {
+    "job_id": "js-the-mitre-corporation-8q9c3a5nlu06oioyaaaaaa==",
+    "job_title": "Internships in Data Science, Math, Statistics or Operations Research",
+    "employer_name": "The MITRE Corporation",
+    "job_city": "McLean",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.mitre.org/us/en/job/R115478/Internships-in-Data-Science-Math-Statistics-or-Operations-Research",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "8acd65d9bdaa919903e1bb735728f0c42b3d6d2cb9b3b72c624a5b142256dea6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-3c5b23ae-0239-4c3b-a503-cd23fdef652f",
     "job_title": "Applied Scientist, AWS Applied AI Solutions Core Services",
     "employer_name": "Amazon Web Services, Inc.",
@@ -3749,35 +3806,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-the-mitre-corporation-8q9c3a5nlu06oioyaaaaaa==",
-    "job_title": "Internships in Data Science, Math, Statistics or Operations Research",
-    "employer_name": "The MITRE Corporation",
-    "job_city": "McLean",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.mitre.org/us/en/job/R115478/Internships-in-Data-Science-Math-Statistics-or-Operations-Research",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "8acd65d9bdaa919903e1bb735728f0c42b3d6d2cb9b3b72c624a5b142256dea6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
     "job_posted_at": "2026-04-06T00:00:00.000Z"
   },
   {
@@ -3897,6 +3925,35 @@
     "job_posted_at": "2026-04-05T00:00:00.000Z"
   },
   {
+    "job_id": "workday-zoom-R18413",
+    "job_title": "Machine Learning Engineer, Responsible AI",
+    "employer_name": "Zoom",
+    "job_city": "Seattle",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Staff-Machine-Learning-Engineer--Responsible-AI_R18413-1",
+    "job_posted_at_datetime_utc": "2026-04-04T20:05:38.872Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fe112918c636941e0a3521834fb9c9b1aad65abc73b833ec2d42ff3dfaa54cc6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-04T20:05:38.872Z"
+  },
+  {
     "job_id": "workday-zoom-R17822",
     "job_title": "AI Engineer",
     "employer_name": "Zoom",
@@ -3941,35 +3998,6 @@
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-04T20:05:38.872Z"
-  },
-  {
-    "job_id": "workday-zoom-R18413",
-    "job_title": "Machine Learning Engineer, Responsible AI",
-    "employer_name": "Zoom",
-    "job_city": "Seattle",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Staff-Machine-Learning-Engineer--Responsible-AI_R18413-1",
-    "job_posted_at_datetime_utc": "2026-04-04T20:05:38.872Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fe112918c636941e0a3521834fb9c9b1aad65abc73b833ec2d42ff3dfaa54cc6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
         "data_science"
       ],
       "locations": [
@@ -6010,35 +6038,6 @@
     "job_posted_at": "2026-04-02T07:01:56.215Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0232125",
-    "job_title": "Splunk Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "6 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Reston-VA/SIEM-Data-Onboarding-Engineer_R0232125",
-    "job_posted_at_datetime_utc": "2026-04-02T07:01:56.215Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dfeb8514172359b7bf4e2786b55a98c791194b9c9e8afa05e903b53e58ddaccc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T07:01:56.215Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0237061",
     "job_title": "Data Analyst",
     "employer_name": "Booz Allen Hamilton",
@@ -6088,6 +6087,35 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:01:56.215Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0232125",
+    "job_title": "Splunk Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "6 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Reston-VA/SIEM-Data-Onboarding-Engineer_R0232125",
+    "job_posted_at_datetime_utc": "2026-04-02T07:01:56.215Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dfeb8514172359b7bf4e2786b55a98c791194b9c9e8afa05e903b53e58ddaccc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
@@ -6181,18 +6209,18 @@
     "job_posted_at": "2026-04-02T01:42:57.005Z"
   },
   {
-    "job_id": "js-broward-health-j7vosbdbpsphy9zzaaaaaa==",
-    "job_title": "Data Analyst-Entry Level-Internal Staffing-FT 9a-530p-BHC-27986",
-    "employer_name": "Broward Health",
-    "job_city": "Fort Lauderdale",
+    "job_id": "js-cosmoquick-nishrcwgr-xg-tmzaaaaaa==",
+    "job_title": "Fresher Data Analyst Jobs in Baltimore",
+    "employer_name": "Cosmoquick",
+    "job_city": "Baltimore",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/58X4qYcLELJt4zNeGLxMtc",
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/55wOOvdxDbncFQmuQou3x",
     "job_posted_at_datetime_utc": "2026-04-02T00:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "a599098fb234dbf5b411a3bdf5f58b39e5f690b5e125a61438455afe8609f8d2",
+    "fingerprint": "ce041e37981b198ee118af8bf027ae7aab99741fd6255d08ca7047b88af6351b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6239,18 +6267,18 @@
     "job_posted_at": "2026-04-02T00:00:00.000Z"
   },
   {
-    "job_id": "js-cosmoquick-nishrcwgr-xg-tmzaaaaaa==",
-    "job_title": "Fresher Data Analyst Jobs in Baltimore",
-    "employer_name": "Cosmoquick",
-    "job_city": "Baltimore",
+    "job_id": "js-broward-health-j7vosbdbpsphy9zzaaaaaa==",
+    "job_title": "Data Analyst-Entry Level-Internal Staffing-FT 9a-530p-BHC-27986",
+    "employer_name": "Broward Health",
+    "job_city": "Fort Lauderdale",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/55wOOvdxDbncFQmuQou3x",
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/58X4qYcLELJt4zNeGLxMtc",
     "job_posted_at_datetime_utc": "2026-04-02T00:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "ce041e37981b198ee118af8bf027ae7aab99741fd6255d08ca7047b88af6351b",
+    "fingerprint": "a599098fb234dbf5b411a3bdf5f58b39e5f690b5e125a61438455afe8609f8d2",
     "tags": {
       "employment": "entry_level",
       "domains": [
