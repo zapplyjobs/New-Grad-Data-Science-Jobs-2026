@@ -1,5 +1,91 @@
 [
   {
+    "job_id": "workday-southwest-airlines-R-2025-61980",
+    "job_title": "Learning Data Analyst",
+    "employer_name": "Southwest Airlines",
+    "job_city": "Dallas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Learning-Data-Analyst_R-2025-61980",
+    "job_posted_at_datetime_utc": "2026-04-08T21:03:12.808Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9571b0ab974f97c297b6ec61b8f0810df1229d41b8beeade05d161d435c0aa9f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T21:03:12.808Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237416",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fayetteville",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/Data-Scientist_R0237416-1",
+    "job_posted_at_datetime_utc": "2026-04-08T20:59:57.403Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "43345ee76e10937ffc30f5045b529b6e6b0d0299871ccc64b1d00123c3fe9f55",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T20:59:57.403Z"
+  },
+  {
+    "job_id": "ashby-openai-1ab4cab9-509b-49a0-b11e-06403e56cea1",
+    "job_title": "Data Engineer, Finance",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/1ab4cab9-509b-49a0-b11e-06403e56cea1/application",
+    "job_posted_at_datetime_utc": "2026-04-08T20:56:29.094Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "dad2d4acae1314c40b593a7cde7f2bf3a2f8d5eaa24dd42f7417e8bf42c6ce38",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-04-08T20:56:29.094Z"
+  },
+  {
     "job_id": "workday-leidos-R-00180342",
     "job_title": "Maritime Intelligence Analyst",
     "employer_name": "Leidos",
@@ -26,34 +112,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-08T20:51:13.713Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237409",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fayetteville",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/Data-Engineer_R0237409",
-    "job_posted_at_datetime_utc": "2026-04-08T20:49:23.040Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "933ddd0e58c82d347d7becb7a98899847e309ee003ab2577d604579b9d44e2e2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T20:49:23.040Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0237399",
@@ -2894,34 +2952,6 @@
     "job_posted_at": "2026-04-06T07:07:39.187Z"
   },
   {
-    "job_id": "workday-leidos-R-00172451",
-    "job_title": "Intelligence Analyst",
-    "employer_name": "Leidos",
-    "job_city": "Hampton",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Hampton-VA/Intelligence-Analyst_R-00172451",
-    "job_posted_at_datetime_utc": "2026-04-06T07:07:18.441Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "90179867ec6c740013638b1232cfd9a0ca005ef26e414faa0bd6fcf0c3830c13",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:07:18.441Z"
-  },
-  {
     "job_id": "workday-leidos-R-00179056",
     "job_title": "GEOINT Innovation Data Scientist - TS/SCI required",
     "employer_name": "Leidos",
@@ -2943,6 +2973,34 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:07:18.441Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00172451",
+    "job_title": "Intelligence Analyst",
+    "employer_name": "Leidos",
+    "job_city": "Hampton",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Hampton-VA/Intelligence-Analyst_R-00172451",
+    "job_posted_at_datetime_utc": "2026-04-06T07:07:18.441Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "90179867ec6c740013638b1232cfd9a0ca005ef26e414faa0bd6fcf0c3830c13",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -3492,6 +3550,35 @@
     "job_posted_at": "2026-04-05T04:02:08.066Z"
   },
   {
+    "job_id": "workday-zoom-R18413",
+    "job_title": "Machine Learning Engineer, Responsible AI",
+    "employer_name": "Zoom",
+    "job_city": "Seattle",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Staff-Machine-Learning-Engineer--Responsible-AI_R18413-1",
+    "job_posted_at_datetime_utc": "2026-04-04T20:05:38.872Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fe112918c636941e0a3521834fb9c9b1aad65abc73b833ec2d42ff3dfaa54cc6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-04T20:05:38.872Z"
+  },
+  {
     "job_id": "workday-zoom-R17822",
     "job_title": "AI Engineer",
     "employer_name": "Zoom",
@@ -3536,35 +3623,6 @@
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-04T20:05:38.872Z"
-  },
-  {
-    "job_id": "workday-zoom-R18413",
-    "job_title": "Machine Learning Engineer, Responsible AI",
-    "employer_name": "Zoom",
-    "job_city": "Seattle",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Staff-Machine-Learning-Engineer--Responsible-AI_R18413-1",
-    "job_posted_at_datetime_utc": "2026-04-04T20:05:38.872Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fe112918c636941e0a3521834fb9c9b1aad65abc73b833ec2d42ff3dfaa54cc6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
         "data_science"
       ],
       "locations": [
@@ -4152,6 +4210,34 @@
     "job_posted_at": "2026-04-03T07:01:56.215Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0237169",
+    "job_title": "Signals Intelligence Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Buckley AFB",
+    "job_state": "CO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Buckley-AFB-CO/Signals-Intelligence-Analyst_R0237169",
+    "job_posted_at_datetime_utc": "2026-04-03T07:01:56.215Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ab5efd1a9bf885080c22a5cccb747200f7885e2ef0a49a7a2f562f0d13c20106",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:01:56.215Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0237099",
     "job_title": "Data Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -4258,34 +4344,6 @@
         "us"
       ],
       "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:01:56.215Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237169",
-    "job_title": "Signals Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Buckley AFB",
-    "job_state": "CO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Buckley-AFB-CO/Signals-Intelligence-Analyst_R0237169",
-    "job_posted_at_datetime_utc": "2026-04-03T07:01:56.215Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ab5efd1a9bf885080c22a5cccb747200f7885e2ef0a49a7a2f562f0d13c20106",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
