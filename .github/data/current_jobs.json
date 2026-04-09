@@ -5928,34 +5928,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-02T15:17:43.298Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0232808",
-    "job_title": "Platform and Databricks DevOps Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Ashburn",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Ashburn-VA/Platform-and-Databricks-DevOps-Engineer_R0232808",
-    "job_posted_at_datetime_utc": "2026-04-02T14:17:06.986Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "aa445c3e20ae5d177b7ab88daeef12bcff155988e9d4bb4bbc8db02a23ad328e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T14:17:06.986Z"
   }
 ]
