@@ -1,5 +1,64 @@
 [
   {
+    "job_id": "workday-dell-technologies-R290035",
+    "job_title": "Data Scientist",
+    "employer_name": "Dell Technologies",
+    "job_city": "Round Rock",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/Data-Scientist_R290035-1",
+    "job_posted_at_datetime_utc": "2026-04-09T19:15:55.014Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "32184c8d0dd967e68229f8b4401690d01569653929e53db04ffa2d4c4ee06c59",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-09T19:15:55.014Z"
+  },
+  {
+    "job_id": "sr-Visa-744000119685442",
+    "job_title": "Data Scientist, Predictive Fraud Intelligence",
+    "employer_name": "Visa",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.smartrecruiters.com/Visa/744000119685442",
+    "job_posted_at_datetime_utc": "2026-04-09T19:12:04.286Z",
+    "job_employment_type": "full-time",
+    "salary": null,
+    "fingerprint": "99a40e6a2976971a8d067f5b6bcd565cfe84b3b7445fdbcd34112bf94bde86f2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science",
+        "finance"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "smartrecruiters",
+    "job_posted_at": "2026-04-09T19:12:04.286Z"
+  },
+  {
     "job_id": "greenhouse-reddit-7793615",
     "job_title": "Machine Learning Engineer",
     "employer_name": "Reddit",
@@ -289,15 +348,15 @@
     "job_id": "workday-vanguard-176351",
     "job_title": "Data Analyst, Specialist",
     "employer_name": "Vanguard",
-    "job_city": "3 Locations",
-    "job_state": "",
+    "job_city": "Malvern",
+    "job_state": "PA",
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Analyst--Specialist_176351-1",
     "job_posted_at_datetime_utc": "2026-04-09T16:47:32.146Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "003fdca8b828c1be4f6926a08b21d5a742da028bfdf43d28d82451e83ae47936",
+    "fingerprint": "610e54f045f6c7fe55e73af624f3994de54a6050c4a89b46ec7b5a62c70a0833",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -983,34 +1042,6 @@
     "job_posted_at": "2026-04-08T23:49:50.381Z"
   },
   {
-    "job_id": "workday-northrop-grumman-R10223994",
-    "job_title": "Governance and Business Intelligence Officer",
-    "employer_name": "Northrop Grumman",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/Australia-Symonston/Governance-and-Business-Intelligence-Officer_R10223994",
-    "job_posted_at_datetime_utc": "2026-04-08T23:04:25.296Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f7b4572bb722b3d687b88c6d7065a62a3078c8723d4a13dbebf860cb34f70d9b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T23:04:25.296Z"
-  },
-  {
     "job_id": "greenhouse-oscar-7793815",
     "job_title": "Associate, Operations Data Analytics",
     "employer_name": "Oscar Health",
@@ -1212,7 +1243,7 @@
     "job_id": "workday-salesforce-JR329145",
     "job_title": "Software Engineer - Machine Learning Infrastructure, Slack",
     "employer_name": "Salesforce",
-    "job_city": "4 Locations",
+    "job_city": "Washington Seattle",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -1220,7 +1251,7 @@
     "job_posted_at_datetime_utc": "2026-04-08T21:50:14.977Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "e229d0455d7410bc1b6e531f14e09cdec724016d5d9d5b1e16415b2af91b9bf3",
+    "fingerprint": "6473f2fde0ef96235114a2980cc839df31ddac599255d5c6a3fdd04b3f34ef9c",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1757,15 +1788,15 @@
     "job_id": "workday-booz-allen-hamilton-R0237400",
     "job_title": "Data Engineer",
     "employer_name": "Booz Allen Hamilton",
-    "job_city": "2 Locations",
-    "job_state": "",
+    "job_city": "Honolulu",
+    "job_state": "HI",
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Engineer_R0237400",
     "job_posted_at_datetime_utc": "2026-04-08T19:17:46.090Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "233e3207ccc1ea7886f35f506f7b9915b1127110c00386a8a9529a4c9aec85b0",
+    "fingerprint": "f959a583d212ea4f052d5b1fe1a4ee2745b27ce70a56b72940e9e9a66fa7bce7",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2999,7 +3030,7 @@
     "job_id": "workday-snap-R0044344",
     "job_title": "Electrical System Power Modeling Engineer, Level 5",
     "employer_name": "Snap",
-    "job_city": "2 Locations",
+    "job_city": "Los Angeles California",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -3007,7 +3038,7 @@
     "job_posted_at_datetime_utc": "2026-04-07T07:08:24.041Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "54020614d692d524a3522bca65ad63e756282a9700bf3de71a8d185d35f58ff9",
+    "fingerprint": "c101831d7cf27326244955189dabcefed67e76fc8ea2ddcc76af8b2b1090b3b9",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3027,15 +3058,15 @@
     "job_id": "workday-proofpoint-R13983",
     "job_title": "SPAM Data Engineer",
     "employer_name": "Proofpoint",
-    "job_city": "8 Locations",
-    "job_state": "",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Sunnyvale-CA/SPAM-Data-Engineer_R13983-1",
     "job_posted_at_datetime_utc": "2026-04-07T07:07:35.666Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "94e7262a2198d99a1014e47954084191e0ee5cc959497224901bff0589c94c43",
+    "fingerprint": "8ebe950e351508dc9064b5ed4dba40a423830a9c24c66cce68e0bd60cabf6f68",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3250,34 +3281,6 @@
     "job_posted_at": "2026-04-07T07:06:31.511Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0236267",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Data-Engineer_R0236267",
-    "job_posted_at_datetime_utc": "2026-04-07T07:05:32.360Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "233e3207ccc1ea7886f35f506f7b9915b1127110c00386a8a9529a4c9aec85b0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:05:32.360Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0237281",
     "job_title": "Data Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -3441,6 +3444,34 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:05:32.360Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0236267",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Data-Engineer_R0236267",
+    "job_posted_at_datetime_utc": "2026-04-07T07:05:32.360Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e83e03339e8a15806d97108b4470a50e4c4217b2d6f13923f9350ad3c344a2cc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
@@ -4118,15 +4149,15 @@
     "job_id": "workday-the-hartford-R2624690",
     "job_title": "Business Intelligence Manage - Employee Benefits",
     "employer_name": "The Hartford",
-    "job_city": "5 Locations",
-    "job_state": "",
+    "job_city": "Hartford",
+    "job_state": "CT",
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT--Home-Office/EB-Business-Intelligence-Manager--T7-_R2624690",
     "job_posted_at_datetime_utc": "2026-04-06T07:08:42.571Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "7055801e6f0141659f08b422ac073c1d363485a30f41233d008cd26c7d217103",
+    "fingerprint": "0dcfe35b3587391029a4f432757a16edc0d1eab62f815217e8513fe5230f501a",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4734,39 +4765,10 @@
     "job_posted_at": "2026-04-06T00:00:00.000Z"
   },
   {
-    "job_id": "js-sonimus-iasspo9oyhqc5ovjaaaaaa==",
-    "job_title": "Entry-Level Operations Data Analyst — Dashboards & KPIs",
-    "employer_name": "Sonimus",
-    "job_city": "Saginaw",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/5szOHb2mJys3bS1VwrURZ",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "b478980f0a5dc6e3f7e8e98c8e498a140b919f47909f590fed9e480747855e6f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
     "job_id": "js-cewit-1nuytk6buadzddkxaaaaaa==",
     "job_title": "Entry-Level Remote Data Analyst at cewit New York, NY",
     "employer_name": "cewit",
-    "job_city": "",
+    "job_city": "New York",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": true,
@@ -4774,7 +4776,7 @@
     "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "5e44425535cdce3cc88758d94053397cbe5e0a8552843feb03a1a64bb252c9f8",
+    "fingerprint": "76bd048a5720aa19be0c70bd4de8de2406df29594bbf49f28eee96dc2b515637",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4824,6 +4826,35 @@
     "job_posted_at": "2026-04-06T00:00:00.000Z"
   },
   {
+    "job_id": "js-sonimus-iasspo9oyhqc5ovjaaaaaa==",
+    "job_title": "Entry-Level Operations Data Analyst — Dashboards & KPIs",
+    "employer_name": "Sonimus",
+    "job_city": "Saginaw",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/5szOHb2mJys3bS1VwrURZ",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "b478980f0a5dc6e3f7e8e98c8e498a140b919f47909f590fed9e480747855e6f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-bd7391b3-efa8-45d4-ac24-f15e40f7bb5d",
     "job_title": "Data Scientist, Central Learning Solutions - Technology",
     "employer_name": "Amazon.com Services LLC",
@@ -4855,38 +4886,10 @@
     "job_posted_at": "2026-04-06T00:00:00.000Z"
   },
   {
-    "job_id": "workday-f5-RP1036188",
-    "job_title": "Data Scientist",
-    "employer_name": "F5",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Dublin/Senior-Data-Scientist_RP1036188",
-    "job_posted_at_datetime_utc": "2026-04-05T07:04:21.493Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ff55398f78f25b69bbcb487e2a759c513206b3ddf630920c529277faf25ad808",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-05T07:04:21.493Z"
-  },
-  {
     "job_id": "workday-cisco-2006514",
     "job_title": "Data Engineer (Hybrid)",
     "employer_name": "Cisco",
-    "job_city": "2 Locations",
+    "job_city": "RTP North Carolina US",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -4894,7 +4897,7 @@
     "job_posted_at_datetime_utc": "2026-04-05T04:02:08.066Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "1ee74ef725f0e27198a8d894eeea12baa27687acab9ae40498fb10ec45cc4582",
+    "fingerprint": "827892524cada4534b99c6aabd1ee826a5957966ed52c4f4569a8fd4bbb4b966",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4938,35 +4941,6 @@
     "_source": "aggregator",
     "_original_source": "jsearch",
     "job_posted_at": "2026-04-05T00:00:00.000Z"
-  },
-  {
-    "job_id": "workday-zoom-R18413",
-    "job_title": "Machine Learning Engineer, Responsible AI",
-    "employer_name": "Zoom",
-    "job_city": "Seattle",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Staff-Machine-Learning-Engineer--Responsible-AI_R18413-1",
-    "job_posted_at_datetime_utc": "2026-04-04T20:05:38.872Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fe112918c636941e0a3521834fb9c9b1aad65abc73b833ec2d42ff3dfaa54cc6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-04T20:05:38.872Z"
   },
   {
     "job_id": "workday-zoom-R17822",
@@ -5026,6 +5000,35 @@
     "job_posted_at": "2026-04-04T20:05:38.872Z"
   },
   {
+    "job_id": "workday-zoom-R18413",
+    "job_title": "Machine Learning Engineer, Responsible AI",
+    "employer_name": "Zoom",
+    "job_city": "Seattle",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Staff-Machine-Learning-Engineer--Responsible-AI_R18413-1",
+    "job_posted_at_datetime_utc": "2026-04-04T20:05:38.872Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fe112918c636941e0a3521834fb9c9b1aad65abc73b833ec2d42ff3dfaa54cc6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-04T20:05:38.872Z"
+  },
+  {
     "job_id": "workday-zoom-R18533",
     "job_title": "Data Engineer",
     "employer_name": "Zoom",
@@ -5057,7 +5060,7 @@
     "job_id": "workday-cisco-2010815",
     "job_title": "Data Scientist Hybrid",
     "employer_name": "Cisco",
-    "job_city": "4 Locations",
+    "job_city": "San Jose California US",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -5065,7 +5068,7 @@
     "job_posted_at_datetime_utc": "2026-04-04T07:05:48.393Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "077a4bd0eeb2196b8649669a950b9a72a977e2b8c003e084ac2f34a7e6efb0bb",
+    "fingerprint": "4ca5cf4403cde79fc7ab2dc67d4ee5249653d9fedb0ff21062b3c55c04178efb",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5628,34 +5631,6 @@
     "job_posted_at": "2026-04-03T07:01:56.215Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0236980",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fayetteville",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/Data-Engineer_R0236980",
-    "job_posted_at_datetime_utc": "2026-04-03T07:01:56.215Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "933ddd0e58c82d347d7becb7a98899847e309ee003ab2577d604579b9d44e2e2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:01:56.215Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0237169",
     "job_title": "Signals Intelligence Analyst",
     "employer_name": "Booz Allen Hamilton",
@@ -5769,6 +5744,34 @@
     "job_posted_at": "2026-04-03T07:01:56.215Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0236980",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fayetteville",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/Data-Engineer_R0236980",
+    "job_posted_at_datetime_utc": "2026-04-03T07:01:56.215Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "933ddd0e58c82d347d7becb7a98899847e309ee003ab2577d604579b9d44e2e2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:01:56.215Z"
+  },
+  {
     "job_id": "workday-caci-324223",
     "job_title": "GIS Analyst",
     "employer_name": "CACI",
@@ -5800,7 +5803,7 @@
     "job_id": "workday-caci-324341",
     "job_title": "AI/ML Engineer",
     "employer_name": "CACI",
-    "job_city": "2 Locations",
+    "job_city": "US CO Aurora",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -5808,7 +5811,7 @@
     "job_posted_at_datetime_utc": "2026-04-03T07:01:50.330Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "c5aa5546a990e96285887104c2a5713c787a5316451564b0db8c4afc49df4c2c",
+    "fingerprint": "884dccc421b2b2753bfdc476d4d8793cf713718623587996483a9ed45272177f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5829,7 +5832,7 @@
     "job_id": "workday-aig-JR2505772",
     "job_title": "Cyber Threat Intelligence Analyst",
     "employer_name": "AIG",
-    "job_city": "4 Locations",
+    "job_city": "NC Charlotte",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -5837,7 +5840,7 @@
     "job_posted_at_datetime_utc": "2026-04-03T07:01:36.347Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "5538693bcf8127a737b2d6eb6eb79c78f38d15795661f20d42f6430d9d68766c",
+    "fingerprint": "58fc28f40fe7592fbe762479105f4bc19c4f717abfefb567bb93bca96b02f96c",
     "tags": {
       "employment": "entry_level",
       "domains": [
