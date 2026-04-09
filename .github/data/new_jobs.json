@@ -1867,64 +1867,6 @@
     "job_posted_at": "2026-04-08T00:00:00.000Z"
   },
   {
-    "job_id": "js-jobsultant-solutions-yvpfgfrffp85a5tqaaaaaa==",
-    "job_title": "Data Analyst - Entry Level (Remote)",
-    "employer_name": "Jobsultant Solutions",
-    "job_city": "Charlotte",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/30vrATe8fuKVJhmTCjpDWp",
-    "job_posted_at_datetime_utc": "2026-04-07T23:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "1d33e24026d68e28227ff3577057ef86dfae16f0dcafcd0cc9cc816eee55c8c3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-07T23:00:00.000Z"
-  },
-  {
-    "job_id": "js-bigdatakbcom-llaoau9xxy3_n8vkaaaaaa==",
-    "job_title": "Data Analyst Remote Jobs Entry Level Jobs For Freshers at BigDataKB.com Lititz, PA",
-    "employer_name": "BigDataKB.com",
-    "job_city": "Lititz",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "http://bullchic.com/job-listing/job/data-analyst-remote-jobs-entry-level-jobs-for-freshers-at-bigdatakbcom-lititz-pa-bEtWdjIxMmtkWkliYXdtTGJ5dExBZlRyVGc9PQ==",
-    "job_posted_at_datetime_utc": "2026-04-07T23:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "81294a775f308a0dfb28fa4f938faa35ac359aba998d921daaed824a7ebc488b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-07T23:00:00.000Z"
-  },
-  {
     "job_id": "lever-rover-d5af1fac-9748-4177-88fa-077b433b7b03",
     "job_title": "Business Analyst - Operations Analytics",
     "employer_name": "Rover",
@@ -2897,6 +2839,64 @@
     "job_posted_at": "2026-04-07T00:02:09.552Z"
   },
   {
+    "job_id": "js-jobsultant-solutions-yvpfgfrffp85a5tqaaaaaa==",
+    "job_title": "Data Analyst - Entry Level (Remote)",
+    "employer_name": "Jobsultant Solutions",
+    "job_city": "Charlotte",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/30vrATe8fuKVJhmTCjpDWp",
+    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "1d33e24026d68e28227ff3577057ef86dfae16f0dcafcd0cc9cc816eee55c8c3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-07T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-bigdatakbcom-llaoau9xxy3_n8vkaaaaaa==",
+    "job_title": "Data Analyst Remote Jobs Entry Level Jobs For Freshers at BigDataKB.com Lititz, PA",
+    "employer_name": "BigDataKB.com",
+    "job_city": "Lititz",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "http://bullchic.com/job-listing/job/data-analyst-remote-jobs-entry-level-jobs-for-freshers-at-bigdatakbcom-lititz-pa-bEtWdjIxMmtkWkliYXdtTGJ5dExBZlRyVGc9PQ==",
+    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "81294a775f308a0dfb28fa4f938faa35ac359aba998d921daaed824a7ebc488b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-07T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-42eec001-e921-45d8-aed4-03ec30bad787",
     "job_title": "Data Engineer, Data Platform Management, Grocery Management Tech",
     "employer_name": "Amazon.com Services LLC",
@@ -2957,35 +2957,6 @@
     },
     "_source": "aggregator",
     "_original_source": "netflix",
-    "job_posted_at": "2026-04-07T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-sonimus-iasspo9oyhqc5ovjaaaaaa==",
-    "job_title": "Entry-Level Operations Data Analyst — Dashboards & KPIs",
-    "employer_name": "Sonimus",
-    "job_city": "Saginaw",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/5szOHb2mJys3bS1VwrURZ",
-    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "b478980f0a5dc6e3f7e8e98c8e498a140b919f47909f590fed9e480747855e6f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
     "job_posted_at": "2026-04-07T00:00:00.000Z"
   },
   {
@@ -3532,34 +3503,6 @@
     "job_posted_at": "2026-04-06T07:07:39.187Z"
   },
   {
-    "job_id": "workday-leidos-R-00172451",
-    "job_title": "Intelligence Analyst",
-    "employer_name": "Leidos",
-    "job_city": "Hampton",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Hampton-VA/Intelligence-Analyst_R-00172451",
-    "job_posted_at_datetime_utc": "2026-04-06T07:07:18.441Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "90179867ec6c740013638b1232cfd9a0ca005ef26e414faa0bd6fcf0c3830c13",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:07:18.441Z"
-  },
-  {
     "job_id": "workday-leidos-R-00179056",
     "job_title": "GEOINT Innovation Data Scientist - TS/SCI required",
     "employer_name": "Leidos",
@@ -3581,6 +3524,34 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:07:18.441Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00172451",
+    "job_title": "Intelligence Analyst",
+    "employer_name": "Leidos",
+    "job_city": "Hampton",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Hampton-VA/Intelligence-Analyst_R-00172451",
+    "job_posted_at_datetime_utc": "2026-04-06T07:07:18.441Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "90179867ec6c740013638b1232cfd9a0ca005ef26e414faa0bd6fcf0c3830c13",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -3982,18 +3953,18 @@
     "job_posted_at": "2026-04-06T07:05:02.283Z"
   },
   {
-    "job_id": "js-the-mitre-corporation-8q9c3a5nlu06oioyaaaaaa==",
-    "job_title": "Internships in Data Science, Math, Statistics or Operations Research",
-    "employer_name": "The MITRE Corporation",
-    "job_city": "McLean",
+    "job_id": "js-sonimus-iasspo9oyhqc5ovjaaaaaa==",
+    "job_title": "Entry-Level Operations Data Analyst — Dashboards & KPIs",
+    "employer_name": "Sonimus",
+    "job_city": "Saginaw",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://careers.mitre.org/us/en/job/R115478/Internships-in-Data-Science-Math-Statistics-or-Operations-Research",
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/5szOHb2mJys3bS1VwrURZ",
     "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "8acd65d9bdaa919903e1bb735728f0c42b3d6d2cb9b3b72c624a5b142256dea6",
+    "fingerprint": "b478980f0a5dc6e3f7e8e98c8e498a140b919f47909f590fed9e480747855e6f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4040,6 +4011,35 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-the-mitre-corporation-8q9c3a5nlu06oioyaaaaaa==",
+    "job_title": "Internships in Data Science, Math, Statistics or Operations Research",
+    "employer_name": "The MITRE Corporation",
+    "job_city": "McLean",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.mitre.org/us/en/job/R115478/Internships-in-Data-Science-Math-Statistics-or-Operations-Research",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "8acd65d9bdaa919903e1bb735728f0c42b3d6d2cb9b3b72c624a5b142256dea6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
     "job_posted_at": "2026-04-06T00:00:00.000Z"
   },
   {
@@ -4159,6 +4159,34 @@
     "job_posted_at": "2026-04-05T00:00:00.000Z"
   },
   {
+    "job_id": "workday-zoom-R18240",
+    "job_title": "Research Scientist",
+    "employer_name": "Zoom",
+    "job_city": "Seattle",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Research-Scientist_R18240-1",
+    "job_posted_at_datetime_utc": "2026-04-04T20:05:38.872Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6fbbbb56e2e9797c284702dbc1f445bda724b899dd2b555223ca2494d5f08377",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-04T20:05:38.872Z"
+  },
+  {
     "job_id": "workday-zoom-R18413",
     "job_title": "Machine Learning Engineer, Responsible AI",
     "employer_name": "Zoom",
@@ -4210,34 +4238,6 @@
         "us"
       ],
       "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-04T20:05:38.872Z"
-  },
-  {
-    "job_id": "workday-zoom-R18240",
-    "job_title": "Research Scientist",
-    "employer_name": "Zoom",
-    "job_city": "Seattle",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Research-Scientist_R18240-1",
-    "job_posted_at_datetime_utc": "2026-04-04T20:05:38.872Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6fbbbb56e2e9797c284702dbc1f445bda724b899dd2b555223ca2494d5f08377",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -4847,34 +4847,6 @@
     "job_posted_at": "2026-04-03T07:01:56.215Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0237169",
-    "job_title": "Signals Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Buckley AFB",
-    "job_state": "CO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Buckley-AFB-CO/Signals-Intelligence-Analyst_R0237169",
-    "job_posted_at_datetime_utc": "2026-04-03T07:01:56.215Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ab5efd1a9bf885080c22a5cccb747200f7885e2ef0a49a7a2f562f0d13c20106",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:01:56.215Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0237099",
     "job_title": "Data Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -4981,6 +4953,34 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:01:56.215Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237169",
+    "job_title": "Signals Intelligence Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Buckley AFB",
+    "job_state": "CO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Buckley-AFB-CO/Signals-Intelligence-Analyst_R0237169",
+    "job_posted_at_datetime_utc": "2026-04-03T07:01:56.215Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ab5efd1a9bf885080c22a5cccb747200f7885e2ef0a49a7a2f562f0d13c20106",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -5248,35 +5248,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "job_posted_at": "2026-04-03T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-sonimus-cxb9skjrfy7ubaglaaaaaa==",
-    "job_title": "Remote Data Analyst - Entry-Level with Paid Training",
-    "employer_name": "Sonimus",
-    "job_city": "Burnsville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://us.jobrapido.com/jobpreview/4393792919375446016",
-    "job_posted_at_datetime_utc": "2026-04-03T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "b1bf49b4d8c4d2ffce3e176a3b7377225dd43e613f404436c4f854e62391e6d1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
     "job_posted_at": "2026-04-03T00:00:00.000Z"
   },
   {
@@ -5928,35 +5899,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-02T13:07:08.332Z"
-  },
-  {
-    "job_id": "sr-Visa-744000118404157",
-    "job_title": "Data Scientist",
-    "employer_name": "Visa",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.smartrecruiters.com/Visa/744000118404157",
-    "job_posted_at_datetime_utc": "2026-04-02T12:42:11.030Z",
-    "job_employment_type": "full-time",
-    "salary": null,
-    "fingerprint": "b6cade4ae131ce3f9ea3b1fa02698b4fcb55c084969cd3a2611a5c0c60e13cb4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "product",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-04-02T12:42:11.030Z"
   }
 ]
