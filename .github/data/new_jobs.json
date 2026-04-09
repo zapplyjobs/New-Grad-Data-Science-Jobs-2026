@@ -2936,34 +2936,6 @@
     "job_posted_at": "2026-04-07T07:07:35.666Z"
   },
   {
-    "job_id": "workday-kbr-R2121507",
-    "job_title": "Operations Research Analyst",
-    "employer_name": "KBR",
-    "job_city": "Beavercreek",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Operations-Research-Analyst_R2121507",
-    "job_posted_at_datetime_utc": "2026-04-07T07:07:13.617Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cd6c0886ab755072a8d8da39c8a8ee322ad80e20e7ad017e10c4a46d8e578936",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:07:13.617Z"
-  },
-  {
     "job_id": "workday-kbr-R2121515",
     "job_title": "Data Engineer",
     "employer_name": "KBR",
@@ -3013,6 +2985,34 @@
         "us"
       ],
       "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:07:13.617Z"
+  },
+  {
+    "job_id": "workday-kbr-R2121507",
+    "job_title": "Operations Research Analyst",
+    "employer_name": "KBR",
+    "job_city": "Beavercreek",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Operations-Research-Analyst_R2121507",
+    "job_posted_at_datetime_utc": "2026-04-07T07:07:13.617Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cd6c0886ab755072a8d8da39c8a8ee322ad80e20e7ad017e10c4a46d8e578936",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -3132,6 +3132,62 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-07T07:06:31.511Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0236267",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Data-Engineer_R0236267",
+    "job_posted_at_datetime_utc": "2026-04-07T07:05:32.360Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "233e3207ccc1ea7886f35f506f7b9915b1127110c00386a8a9529a4c9aec85b0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:05:32.360Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237281",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fort Walton Beach",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/Data-Engineer_R0237281",
+    "job_posted_at_datetime_utc": "2026-04-07T07:05:32.360Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5b381a448f59b15d0a72668c564184e79d870e36c8f15953eb46b7f4d85f45ce",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:05:32.360Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0237252",
@@ -3269,62 +3325,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:05:32.360Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0236267",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Data-Engineer_R0236267",
-    "job_posted_at_datetime_utc": "2026-04-07T07:05:32.360Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "233e3207ccc1ea7886f35f506f7b9915b1127110c00386a8a9529a4c9aec85b0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:05:32.360Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237281",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fort Walton Beach",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/Data-Engineer_R0237281",
-    "job_posted_at_datetime_utc": "2026-04-07T07:05:32.360Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5b381a448f59b15d0a72668c564184e79d870e36c8f15953eb46b7f4d85f45ce",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -4139,34 +4139,6 @@
     "job_posted_at": "2026-04-06T07:07:39.187Z"
   },
   {
-    "job_id": "workday-leidos-R-00179056",
-    "job_title": "GEOINT Innovation Data Scientist - TS/SCI required",
-    "employer_name": "Leidos",
-    "job_city": "Alexandria",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/GEOINT-Innovation-Data-Scientist_R-00179056",
-    "job_posted_at_datetime_utc": "2026-04-06T07:07:18.441Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4174684ca405798bbdb598963ad0b5fec6b32a6198e2324b08ddf121fd4c6f3c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:07:18.441Z"
-  },
-  {
     "job_id": "workday-leidos-R-00172451",
     "job_title": "Intelligence Analyst",
     "employer_name": "Leidos",
@@ -4188,6 +4160,34 @@
         "us"
       ],
       "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:07:18.441Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00179056",
+    "job_title": "GEOINT Innovation Data Scientist - TS/SCI required",
+    "employer_name": "Leidos",
+    "job_city": "Alexandria",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/GEOINT-Innovation-Data-Scientist_R-00179056",
+    "job_posted_at_datetime_utc": "2026-04-06T07:07:18.441Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4174684ca405798bbdb598963ad0b5fec6b32a6198e2324b08ddf121fd4c6f3c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -4420,34 +4420,6 @@
     "job_posted_at": "2026-04-06T07:05:35.976Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0237241",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Albuquerque",
-    "job_state": "NM",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Albuquerque-NM/Data-Engineer_R0237241",
-    "job_posted_at_datetime_utc": "2026-04-06T07:05:31.224Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7002249bd85994cd6d4ee27a586a7f49e68ce5d199be013f6917c94533a93d3d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:05:31.224Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0227894",
     "job_title": "Data Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -4469,6 +4441,34 @@
         "us"
       ],
       "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:05:31.224Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237241",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Albuquerque",
+    "job_state": "NM",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Albuquerque-NM/Data-Engineer_R0237241",
+    "job_posted_at_datetime_utc": "2026-04-06T07:05:31.224Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7002249bd85994cd6d4ee27a586a7f49e68ce5d199be013f6917c94533a93d3d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -4824,6 +4824,35 @@
     "job_posted_at": "2026-04-05T00:00:00.000Z"
   },
   {
+    "job_id": "workday-zoom-R18413",
+    "job_title": "Machine Learning Engineer, Responsible AI",
+    "employer_name": "Zoom",
+    "job_city": "Seattle",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Staff-Machine-Learning-Engineer--Responsible-AI_R18413-1",
+    "job_posted_at_datetime_utc": "2026-04-04T20:05:38.872Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fe112918c636941e0a3521834fb9c9b1aad65abc73b833ec2d42ff3dfaa54cc6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-04T20:05:38.872Z"
+  },
+  {
     "job_id": "workday-zoom-R17822",
     "job_title": "AI Engineer",
     "employer_name": "Zoom",
@@ -4868,35 +4897,6 @@
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-04T20:05:38.872Z"
-  },
-  {
-    "job_id": "workday-zoom-R18413",
-    "job_title": "Machine Learning Engineer, Responsible AI",
-    "employer_name": "Zoom",
-    "job_city": "Seattle",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Staff-Machine-Learning-Engineer--Responsible-AI_R18413-1",
-    "job_posted_at_datetime_utc": "2026-04-04T20:05:38.872Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fe112918c636941e0a3521834fb9c9b1aad65abc73b833ec2d42ff3dfaa54cc6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
         "data_science"
       ],
       "locations": [
@@ -6245,64 +6245,5 @@
     "_source": "aggregator",
     "_original_source": "lever",
     "job_posted_at": "2026-04-02T19:05:38.162Z"
-  },
-  {
-    "job_id": "ashby-openai-577e6673-0a4a-491b-9a0d-facbdd3bdf3c",
-    "job_title": "Applied AI Engineer, Codex Core Agent",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/577e6673-0a4a-491b-9a0d-facbdd3bdf3c/application",
-    "job_posted_at_datetime_utc": "2026-04-02T18:33:27.893Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "0e03b7380f5756b9a5037e6329383a56b7c70b7818f9d25f96b5e5bd01eed4bb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-04-02T18:33:27.893Z"
-  },
-  {
-    "job_id": "ashby-allium-46da49f4-3b4e-43fd-97b1-039407f7d621",
-    "job_title": "Blockchain Research Analyst",
-    "employer_name": "Allium",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/allium/46da49f4-3b4e-43fd-97b1-039407f7d621/application",
-    "job_posted_at_datetime_utc": "2026-04-02T18:33:08.037Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "5eb108d770b3e6386198d06e3b464a50fdc3bc561b53bc1375d369c5d40112b5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-04-02T18:33:08.037Z"
   }
 ]
