@@ -223,7 +223,7 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -280,7 +280,7 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -308,7 +308,7 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -576,6 +576,37 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-04-09T00:14:32.300Z"
+  },
+  {
+    "job_id": "amazon-19f3b24d-93ef-480b-b417-a112c3d20605",
+    "job_title": "Applied Scientist, Ads Measurement Science",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10387384/applied-scientist-ads-measurement-science",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f145d9ed7cc80f97899a3aef2029499762055432c528487cde830c25cd3e550b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
   },
   {
     "job_id": "amazon-b218c171-7447-4fd8-bd6f-dac52143e28d",
@@ -1828,7 +1859,7 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -4388,35 +4419,6 @@
     "job_posted_at": "2026-04-06T07:05:02.283Z"
   },
   {
-    "job_id": "js-the-mitre-corporation-8q9c3a5nlu06oioyaaaaaa==",
-    "job_title": "Internships in Data Science, Math, Statistics or Operations Research",
-    "employer_name": "The MITRE Corporation",
-    "job_city": "McLean",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.mitre.org/us/en/job/R115478/Internships-in-Data-Science-Math-Statistics-or-Operations-Research",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "8acd65d9bdaa919903e1bb735728f0c42b3d6d2cb9b3b72c624a5b142256dea6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-3c5b23ae-0239-4c3b-a503-cd23fdef652f",
     "job_title": "Applied Scientist, AWS Applied AI Solutions Core Services",
     "employer_name": "Amazon Web Services, Inc.",
@@ -4446,6 +4448,35 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-the-mitre-corporation-8q9c3a5nlu06oioyaaaaaa==",
+    "job_title": "Internships in Data Science, Math, Statistics or Operations Research",
+    "employer_name": "The MITRE Corporation",
+    "job_city": "McLean",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.mitre.org/us/en/job/R115478/Internships-in-Data-Science-Math-Statistics-or-Operations-Research",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "8acd65d9bdaa919903e1bb735728f0c42b3d6d2cb9b3b72c624a5b142256dea6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
     "job_posted_at": "2026-04-06T00:00:00.000Z"
   },
   {
@@ -4594,35 +4625,6 @@
     "job_posted_at": "2026-04-05T00:00:00.000Z"
   },
   {
-    "job_id": "workday-zoom-R18413",
-    "job_title": "Machine Learning Engineer, Responsible AI",
-    "employer_name": "Zoom",
-    "job_city": "Seattle",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Staff-Machine-Learning-Engineer--Responsible-AI_R18413-1",
-    "job_posted_at_datetime_utc": "2026-04-04T20:05:38.872Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fe112918c636941e0a3521834fb9c9b1aad65abc73b833ec2d42ff3dfaa54cc6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-04T20:05:38.872Z"
-  },
-  {
     "job_id": "workday-zoom-R17822",
     "job_title": "AI Engineer",
     "employer_name": "Zoom",
@@ -4667,6 +4669,35 @@
     "tags": {
       "employment": "entry_level",
       "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-04T20:05:38.872Z"
+  },
+  {
+    "job_id": "workday-zoom-R18413",
+    "job_title": "Machine Learning Engineer, Responsible AI",
+    "employer_name": "Zoom",
+    "job_city": "Seattle",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Staff-Machine-Learning-Engineer--Responsible-AI_R18413-1",
+    "job_posted_at_datetime_utc": "2026-04-04T20:05:38.872Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fe112918c636941e0a3521834fb9c9b1aad65abc73b833ec2d42ff3dfaa54cc6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
         "data_science"
       ],
       "locations": [
@@ -5282,34 +5313,6 @@
     "job_posted_at": "2026-04-03T07:01:56.215Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0237169",
-    "job_title": "Signals Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Buckley AFB",
-    "job_state": "CO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Buckley-AFB-CO/Signals-Intelligence-Analyst_R0237169",
-    "job_posted_at_datetime_utc": "2026-04-03T07:01:56.215Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ab5efd1a9bf885080c22a5cccb747200f7885e2ef0a49a7a2f562f0d13c20106",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:01:56.215Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0237099",
     "job_title": "Data Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -5416,6 +5419,34 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:01:56.215Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237169",
+    "job_title": "Signals Intelligence Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Buckley AFB",
+    "job_state": "CO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Buckley-AFB-CO/Signals-Intelligence-Analyst_R0237169",
+    "job_posted_at_datetime_utc": "2026-04-03T07:01:56.215Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ab5efd1a9bf885080c22a5cccb747200f7885e2ef0a49a7a2f562f0d13c20106",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -6162,33 +6193,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-04-02T12:34:52-04:00"
-  },
-  {
-    "job_id": "workday-northrop-grumman-R10220516",
-    "job_title": "2026 Associate Data Engineer/Data Engineer",
-    "employer_name": "Northrop Grumman",
-    "job_city": "California-San Diego",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2026-Associate-Data-Engineer-Data-Engineer_R10220516",
-    "job_posted_at_datetime_utc": "2026-04-02T16:08:58.725Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4767251be6a31fc57972b7e2e80ada7e088976d1bb4217dac12345dd839c959b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T16:08:58.725Z"
   }
 ]
