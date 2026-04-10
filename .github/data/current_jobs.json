@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "workday-johnson-&-johnson-R-068672",
+    "job_title": "Experienced Statistical Programmer",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Experienced-Statistical-Programmer_R-068672-1",
+    "job_posted_at_datetime_utc": "2026-04-10T21:50:06.472Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "63d0d0eb03ad5c773432136f6157b60625251e45243d1222091dd7e46a0ce5c1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-10T21:50:06.472Z"
+  },
+  {
     "job_id": "workday-abbott-31144379",
     "job_title": "Junior Data Engineer",
     "employer_name": "Abbott",
@@ -744,35 +772,6 @@
     "job_posted_at": "2026-04-10T00:47:02.393Z"
   },
   {
-    "job_id": "workday-boston-dynamics-R2182",
-    "job_title": "Teleoperations Research Engineer, Atlas",
-    "employer_name": "Boston Dynamics",
-    "job_city": "Waltham Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Teleoperations-Research-Scientist--Atlas_R2182",
-    "job_posted_at_datetime_utc": "2026-04-10T00:47:02.392Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a1483d897f3d7e75f927cbafb38fd571fdbbacd8f0e88837feea8cf844370cd0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-10T00:47:02.392Z"
-  },
-  {
     "job_id": "workday-boston-dynamics-R1807",
     "job_title": "Research Scientist, Atlas Behavior Learning",
     "employer_name": "Boston Dynamics",
@@ -816,6 +815,35 @@
     "tags": {
       "employment": "entry_level",
       "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-10T00:47:02.392Z"
+  },
+  {
+    "job_id": "workday-boston-dynamics-R2182",
+    "job_title": "Teleoperations Research Engineer, Atlas",
+    "employer_name": "Boston Dynamics",
+    "job_city": "Waltham Office",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Teleoperations-Research-Scientist--Atlas_R2182",
+    "job_posted_at_datetime_utc": "2026-04-10T00:47:02.392Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a1483d897f3d7e75f927cbafb38fd571fdbbacd8f0e88837feea8cf844370cd0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
         "data_science"
       ],
       "locations": [
@@ -881,6 +909,37 @@
         "us"
       ],
       "experience": "unknown",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "job_posted_at": "2026-04-10T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-b8746169-092a-4cbb-830d-5e568f62a338",
+    "job_title": "Applied Scientist, Sponsored Products Off-Search Auction",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10389008/applied-scientist-sponsored-products-off-search-auction",
+    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2ba1305e783c8835c6e3920321384dd51a4c36ea6cf37a5bcc5be0da5a8bc4d9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": [
         "faang",
         "fortune500"
@@ -3029,34 +3088,6 @@
     "job_posted_at": "2026-04-08T07:10:23.302Z"
   },
   {
-    "job_id": "workday-guidehouse-38083",
-    "job_title": "Data Analyst - Databricks",
-    "employer_name": "Guidehouse",
-    "job_city": "VA, Arlington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Data-Analyst---Databricks_38083",
-    "job_posted_at_datetime_utc": "2026-04-08T07:10:15.612Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b2f05de17bf52350aabea8ef18d462385a77189bc70fb1d7c481d91a99b9ab40",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:10:15.612Z"
-  },
-  {
     "job_id": "workday-guidehouse-37316",
     "job_title": "Data Analytics Consultant",
     "employer_name": "Guidehouse",
@@ -3078,6 +3109,34 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:10:15.612Z"
+  },
+  {
+    "job_id": "workday-guidehouse-38083",
+    "job_title": "Data Analyst - Databricks",
+    "employer_name": "Guidehouse",
+    "job_city": "VA, Arlington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Data-Analyst---Databricks_38083",
+    "job_posted_at_datetime_utc": "2026-04-08T07:10:15.612Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b2f05de17bf52350aabea8ef18d462385a77189bc70fb1d7c481d91a99b9ab40",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -3768,6 +3827,35 @@
     "job_posted_at": "2026-04-08T00:30:09-04:00"
   },
   {
+    "job_id": "js-dhalite-inc-hlb1p3w1kgtgftpjaaaaaa==",
+    "job_title": "Entry level Data Analyst",
+    "employer_name": "Dhalite Inc.",
+    "job_city": "Detroit",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.dice.com/job-detail/b71a3ee3-40f9-46f0-b947-c5c2cdb41662",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "cd62c65749a2a38c0b54aae3e757a8c5637d7039b36119ffbbd06e19c547579b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-c135b8d2-ba47-4116-a49c-6b7e58788c8e",
     "job_title": "Applied Scientist, Device Team, AWS Center for Quantum Computing",
     "employer_name": "Amazon Development Center U.S., Inc.",
@@ -3827,35 +3915,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-dhalite-inc-hlb1p3w1kgtgftpjaaaaaa==",
-    "job_title": "Entry level Data Analyst",
-    "employer_name": "Dhalite Inc.",
-    "job_city": "Detroit",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.dice.com/job-detail/b71a3ee3-40f9-46f0-b947-c5c2cdb41662",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "cd62c65749a2a38c0b54aae3e757a8c5637d7039b36119ffbbd06e19c547579b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
     "job_posted_at": "2026-04-08T00:00:00.000Z"
   },
   {
@@ -4550,6 +4609,35 @@
     "job_posted_at": "2026-04-07T07:06:31.511Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0237244",
+    "job_title": "AI/ML Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Norfolk",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Norfolk-VA/AI-ML-Engineer_R0237244",
+    "job_posted_at_datetime_utc": "2026-04-07T07:05:32.360Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "16570e7a347129b1e6c1422cc117a13f5fc62f1ab2956da78061c0e8c1484562",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:05:32.360Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0236267",
     "job_title": "Data Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -4702,35 +4790,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ac5714ca0df1910e17b92bbd9f21516eba0ff5a0ab749aa74df5c613ccac369c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:05:32.360Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237244",
-    "job_title": "AI/ML Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Norfolk",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Norfolk-VA/AI-ML-Engineer_R0237244",
-    "job_posted_at_datetime_utc": "2026-04-07T07:05:32.360Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "16570e7a347129b1e6c1422cc117a13f5fc62f1ab2956da78061c0e8c1484562",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6090,6 +6149,64 @@
     "job_posted_at": "2026-04-06T07:00:21.722Z"
   },
   {
+    "job_id": "js-cewit-1nuytk6buadzddkxaaaaaa==",
+    "job_title": "Entry-Level Remote Data Analyst at cewit New York, NY",
+    "employer_name": "cewit",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://tietalent.com/en/jobs/p-656856469/united-states-entry-level-remote-data-analyst-at-cewit-new-york-ny",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "5e44425535cdce3cc88758d94053397cbe5e0a8552843feb03a1a64bb252c9f8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-sonimus-iasspo9oyhqc5ovjaaaaaa==",
+    "job_title": "Entry-Level Operations Data Analyst — Dashboards & KPIs",
+    "employer_name": "Sonimus",
+    "job_city": "Saginaw",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/5szOHb2mJys3bS1VwrURZ",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "b478980f0a5dc6e3f7e8e98c8e498a140b919f47909f590fed9e480747855e6f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-3c5b23ae-0239-4c3b-a503-cd23fdef652f",
     "job_title": "Applied Scientist, AWS Applied AI Solutions Core Services",
     "employer_name": "Amazon Web Services, Inc.",
@@ -6122,35 +6239,6 @@
     "job_posted_at": "2026-04-06T00:00:00.000Z"
   },
   {
-    "job_id": "js-cewit-1nuytk6buadzddkxaaaaaa==",
-    "job_title": "Entry-Level Remote Data Analyst at cewit New York, NY",
-    "employer_name": "cewit",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://tietalent.com/en/jobs/p-656856469/united-states-entry-level-remote-data-analyst-at-cewit-new-york-ny",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "5e44425535cdce3cc88758d94053397cbe5e0a8552843feb03a1a64bb252c9f8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
     "job_id": "js-the-mitre-corporation-8q9c3a5nlu06oioyaaaaaa==",
     "job_title": "Internships in Data Science, Math, Statistics or Operations Research",
     "employer_name": "The MITRE Corporation",
@@ -6163,35 +6251,6 @@
     "job_employment_type": "FULL-TIME",
     "salary": null,
     "fingerprint": "46a0e00ada43ef77c65b94d7915cb4ccf95e88080665ed54f7f0a5be8d145be7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-sonimus-iasspo9oyhqc5ovjaaaaaa==",
-    "job_title": "Entry-Level Operations Data Analyst — Dashboards & KPIs",
-    "employer_name": "Sonimus",
-    "job_city": "Saginaw",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/5szOHb2mJys3bS1VwrURZ",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "b478980f0a5dc6e3f7e8e98c8e498a140b919f47909f590fed9e480747855e6f",
     "tags": {
       "employment": "entry_level",
       "domains": [
