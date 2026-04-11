@@ -8,7 +8,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/truveta/jobs/5841941004",
-    "job_posted_at_datetime_utc": "2026-04-11T13:38:48-04:00",
+    "job_posted_at_datetime_utc": "2026-04-11T17:38:48.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "54d1eda57387f3972713111ae176f72bf7d12888132032f65f3a46416af52ada",
@@ -25,7 +25,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-11T13:38:48-04:00"
+    "job_posted_at": "2026-04-11T17:38:48.000Z"
   },
   {
     "job_id": "workday-trimble-R51795",
@@ -295,7 +295,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5184594008",
-    "job_posted_at_datetime_utc": "2026-04-10T15:52:57-04:00",
+    "job_posted_at_datetime_utc": "2026-04-10T19:52:57.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "af6edc0ac9d6c0337448bad7423311bfd733a30dc497e09d8acac7df1d60377c",
@@ -313,7 +313,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-10T15:52:57-04:00"
+    "job_posted_at": "2026-04-10T19:52:57.000Z"
   },
   {
     "job_id": "greenhouse-imc-4832698101",
@@ -324,7 +324,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.eu.greenhouse.io/imc/jobs/4832698101",
-    "job_posted_at_datetime_utc": "2026-04-10T15:00:00-04:00",
+    "job_posted_at_datetime_utc": "2026-04-10T19:00:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "03deda3b69eea8dcada7069ded7ec1365d4d365c9ec0a4899c987a4e4f3266a1",
@@ -341,7 +341,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-10T15:00:00-04:00"
+    "job_posted_at": "2026-04-10T19:00:00.000Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0237570",
@@ -752,7 +752,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/maintainx/jobs/5104776007",
-    "job_posted_at_datetime_utc": "2026-04-10T10:58:14-04:00",
+    "job_posted_at_datetime_utc": "2026-04-10T14:58:14.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a4436a5f08ca618dde8e2105d66aff328d9e72e0a043542e3965baf5ee67251f",
@@ -769,7 +769,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-10T10:58:14-04:00"
+    "job_posted_at": "2026-04-10T14:58:14.000Z"
   },
   {
     "job_id": "sr-VeoliaEnvironnementSA-744000119983228",
@@ -809,7 +809,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/hackerrank/jobs/7793404",
-    "job_posted_at_datetime_utc": "2026-04-10T07:37:39-04:00",
+    "job_posted_at_datetime_utc": "2026-04-10T11:37:39.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "88f99f28106bc8deff91d54c826cc26c882dfce63850157ac608113c17c334cc",
@@ -828,7 +828,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-10T07:37:39-04:00"
+    "job_posted_at": "2026-04-10T11:37:39.000Z"
   },
   {
     "job_id": "workday-johnson-&-johnson-R-065345",
@@ -1288,7 +1288,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/hackerrank/jobs/7793399",
-    "job_posted_at_datetime_utc": "2026-04-09T15:54:59-04:00",
+    "job_posted_at_datetime_utc": "2026-04-09T19:54:59.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5b5c5dc105a1d5abc90563461d0876110fe12a73a7af033ebc21f01dae6c94fe",
@@ -1307,7 +1307,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-09T15:54:59-04:00"
+    "job_posted_at": "2026-04-09T19:54:59.000Z"
   },
   {
     "job_id": "workday-thermo-fisher-scientific-R-01347700",
@@ -1434,7 +1434,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/reddit/jobs/7793615",
-    "job_posted_at_datetime_utc": "2026-04-09T15:02:36-04:00",
+    "job_posted_at_datetime_utc": "2026-04-09T19:02:36.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ec24862349febe2e26a4406e25e840c51cf4f603c9b7bf0f3d38f3791f17c526",
@@ -1452,7 +1452,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-09T15:02:36-04:00"
+    "job_posted_at": "2026-04-09T19:02:36.000Z"
   },
   {
     "job_id": "ashby-handshake-febd5f62-4394-47de-851f-2fb0e884fca0",
@@ -1493,7 +1493,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/reddit/jobs/7793604",
-    "job_posted_at_datetime_utc": "2026-04-09T14:56:09-04:00",
+    "job_posted_at_datetime_utc": "2026-04-09T18:56:09.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "8a932e51540b7d7aa37d5ba155eab58526a7b9d72e83384c68d714fdbd100ff1",
@@ -1511,7 +1511,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-09T14:56:09-04:00"
+    "job_posted_at": "2026-04-09T18:56:09.000Z"
   },
   {
     "job_id": "greenhouse-astranis-4667482006",
@@ -1522,7 +1522,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/astranis/jobs/4667482006",
-    "job_posted_at_datetime_utc": "2026-04-09T14:37:36-04:00",
+    "job_posted_at_datetime_utc": "2026-04-09T18:37:36.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "58939b3b8bb35c98ade73f9133469da2681e5fc8699ddde1ca7897fd5a1d1d65",
@@ -1539,7 +1539,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-09T14:37:36-04:00"
+    "job_posted_at": "2026-04-09T18:37:36.000Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0237467",
@@ -1637,7 +1637,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/figureai/jobs/4671712006",
-    "job_posted_at_datetime_utc": "2026-04-09T11:23:45-04:00",
+    "job_posted_at_datetime_utc": "2026-04-09T15:23:45.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "62b24c285cb6bd6795e4df6d9fefe221fadd6a6b46b2770545036787c8cd80d2",
@@ -1655,7 +1655,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-09T11:23:45-04:00"
+    "job_posted_at": "2026-04-09T15:23:45.000Z"
   },
   {
     "job_id": "greenhouse-figureai-4671707006",
@@ -1666,7 +1666,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/figureai/jobs/4671707006",
-    "job_posted_at_datetime_utc": "2026-04-09T11:19:20-04:00",
+    "job_posted_at_datetime_utc": "2026-04-09T15:19:20.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3fddcba62f3c836e85d51e8c2a492fbfbb50093016fed061670631d73b6e1856",
@@ -1684,7 +1684,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-09T11:19:20-04:00"
+    "job_posted_at": "2026-04-09T15:19:20.000Z"
   },
   {
     "job_id": "greenhouse-figureai-4671704006",
@@ -1695,7 +1695,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/figureai/jobs/4671704006",
-    "job_posted_at_datetime_utc": "2026-04-09T11:16:59-04:00",
+    "job_posted_at_datetime_utc": "2026-04-09T15:16:59.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1f873ae41490daea81b6ee68f1547ac9ad8b9c332c67d48c0d2a2e4f64741a9b",
@@ -1713,7 +1713,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-09T11:16:59-04:00"
+    "job_posted_at": "2026-04-09T15:16:59.000Z"
   },
   {
     "job_id": "greenhouse-figureai-4671703006",
@@ -1724,7 +1724,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/figureai/jobs/4671703006",
-    "job_posted_at_datetime_utc": "2026-04-09T11:10:37-04:00",
+    "job_posted_at_datetime_utc": "2026-04-09T15:10:37.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4462684aebaa0af490a171b4449aa128ab145e48ee3ed88eb5c6df017581f2b4",
@@ -1742,7 +1742,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-09T11:10:37-04:00"
+    "job_posted_at": "2026-04-09T15:10:37.000Z"
   },
   {
     "job_id": "greenhouse-figureai-4671699006",
@@ -1753,7 +1753,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/figureai/jobs/4671699006",
-    "job_posted_at_datetime_utc": "2026-04-09T11:08:07-04:00",
+    "job_posted_at_datetime_utc": "2026-04-09T15:08:07.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "199fe92879a4df8b1ad13a0498ceeacf725a02d94de6c7bb7d8ed2df065c3d34",
@@ -1771,7 +1771,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-09T11:08:07-04:00"
+    "job_posted_at": "2026-04-09T15:08:07.000Z"
   },
   {
     "job_id": "workday-zoom-R18793",
@@ -1870,7 +1870,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/drweng/jobs/7797373",
-    "job_posted_at_datetime_utc": "2026-04-09T09:45:00-04:00",
+    "job_posted_at_datetime_utc": "2026-04-09T13:45:00.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f7668be48cfe6b169a10183b0aa9d5f26c7c8528f80f28fa12449a4954948c5a",
@@ -1888,7 +1888,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-09T09:45:00-04:00"
+    "job_posted_at": "2026-04-09T13:45:00.000Z"
   },
   {
     "job_id": "greenhouse-waymo-7788473",
@@ -1899,7 +1899,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7788473",
-    "job_posted_at_datetime_utc": "2026-04-09T08:35:03-04:00",
+    "job_posted_at_datetime_utc": "2026-04-09T12:35:03.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7c3a5a7b4f46fe3dedefaa671525514b17f47237f6c096092d04d27ee9ad3217",
@@ -1917,7 +1917,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-09T08:35:03-04:00"
+    "job_posted_at": "2026-04-09T12:35:03.000Z"
   },
   {
     "job_id": "greenhouse-hackerrank-7780916",
@@ -1928,7 +1928,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/hackerrank/jobs/7780916",
-    "job_posted_at_datetime_utc": "2026-04-09T05:54:02-04:00",
+    "job_posted_at_datetime_utc": "2026-04-09T09:54:02.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3a775cadbba50ba9ed3bcf37f24fba308948c9128239609bdc683b87f6c412eb",
@@ -1947,7 +1947,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-09T05:54:02-04:00"
+    "job_posted_at": "2026-04-09T09:54:02.000Z"
   },
   {
     "job_id": "eightfold-aexp-41064452",
@@ -2620,7 +2620,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "http://www.hioscar.com/careers/7793815?gh_jid=7793815",
-    "job_posted_at_datetime_utc": "2026-04-08T18:25:16-04:00",
+    "job_posted_at_datetime_utc": "2026-04-08T22:25:16.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4153c1036a159a586c3d815d1ef49e4a4df5a33583987e23894d704e6fda9b22",
@@ -2637,35 +2637,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-08T18:25:16-04:00"
-  },
-  {
-    "job_id": "greenhouse-oscar-7793812",
-    "job_title": "Associate, Operations Data Analytics",
-    "employer_name": "Oscar Health",
-    "job_city": "Tempe",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "http://www.hioscar.com/careers/7793812?gh_jid=7793812",
-    "job_posted_at_datetime_utc": "2026-04-08T18:25:15-04:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f493133414254759302c549608bb92bc973d0a06887f193eb12e87fc5040fa4a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-08T18:25:15-04:00"
+    "job_posted_at": "2026-04-08T22:25:16.000Z"
   },
   {
     "job_id": "greenhouse-oscar-7793749",
@@ -2676,7 +2648,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "http://www.hioscar.com/careers/7793749?gh_jid=7793749",
-    "job_posted_at_datetime_utc": "2026-04-08T18:25:15-04:00",
+    "job_posted_at_datetime_utc": "2026-04-08T22:25:15.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7691b428acd6819de6ed55ed6c274dac40bd491fd2d3d5694585922432628fee",
@@ -2693,7 +2665,35 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-08T18:25:15-04:00"
+    "job_posted_at": "2026-04-08T22:25:15.000Z"
+  },
+  {
+    "job_id": "greenhouse-oscar-7793812",
+    "job_title": "Associate, Operations Data Analytics",
+    "employer_name": "Oscar Health",
+    "job_city": "Tempe",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "http://www.hioscar.com/careers/7793812?gh_jid=7793812",
+    "job_posted_at_datetime_utc": "2026-04-08T22:25:15.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f493133414254759302c549608bb92bc973d0a06887f193eb12e87fc5040fa4a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-08T22:25:15.000Z"
   },
   {
     "job_id": "greenhouse-oscar-7793813",
@@ -2704,7 +2704,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "http://www.hioscar.com/careers/7793813?gh_jid=7793813",
-    "job_posted_at_datetime_utc": "2026-04-08T18:25:14-04:00",
+    "job_posted_at_datetime_utc": "2026-04-08T22:25:14.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "9d84a723dbd111a3835b9c242dc53c02bb2da39ef04a27c429d56f22e46eb58c",
@@ -2721,7 +2721,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-08T18:25:14-04:00"
+    "job_posted_at": "2026-04-08T22:25:14.000Z"
   },
   {
     "job_id": "greenhouse-oscar-7656538",
@@ -2790,7 +2790,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/biohub/jobs/7793658",
-    "job_posted_at_datetime_utc": "2026-04-08T17:09:58-04:00",
+    "job_posted_at_datetime_utc": "2026-04-08T21:09:58.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0f046cdbd2696dc5527b81d6e2a0ebdeeda80f8666cc9e975c8de2ed85cf1252",
@@ -2809,7 +2809,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-08T17:09:58-04:00"
+    "job_posted_at": "2026-04-08T21:09:58.000Z"
   },
   {
     "job_id": "workday-southwest-airlines-R-2025-61980",
@@ -2848,7 +2848,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/biohub/jobs/7793644",
-    "job_posted_at_datetime_utc": "2026-04-08T17:01:09-04:00",
+    "job_posted_at_datetime_utc": "2026-04-08T21:01:09.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "9cbd45fdb409c605b38c8948832c76dbcf34d286f368b3900172014deb18f5bf",
@@ -2867,7 +2867,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-08T17:01:09-04:00"
+    "job_posted_at": "2026-04-08T21:01:09.000Z"
   },
   {
     "job_id": "ashby-openai-1ab4cab9-509b-49a0-b11e-06403e56cea1",
@@ -2936,7 +2936,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boards.greenhouse.io/point72/jobs/8466850002?gh_jid=8466850002",
-    "job_posted_at_datetime_utc": "2026-04-08T16:23:44-04:00",
+    "job_posted_at_datetime_utc": "2026-04-08T20:22:13.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4b28666adb4fdeea6f5100f6cb166133ed5d97e86dde2d07cbbbe7d22b8c72f4",
@@ -2954,7 +2954,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-08T16:23:44-04:00"
+    "job_posted_at": "2026-04-08T20:22:13.000Z"
   },
   {
     "job_id": "workday-boston-dynamics-R2636",
@@ -3108,7 +3108,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boards.greenhouse.io/appliedintuition/jobs/4676438005?gh_jid=4676438005",
-    "job_posted_at_datetime_utc": "2026-04-08T11:42:25-04:00",
+    "job_posted_at_datetime_utc": "2026-04-08T15:42:25.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ab16739cf26eeb80f3516ff8dc7fbfa6084823aa8e0ccf7859d8ebe405a80ae5",
@@ -3127,7 +3127,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-08T11:42:25-04:00"
+    "job_posted_at": "2026-04-08T15:42:25.000Z"
   },
   {
     "job_id": "workday-caci-324608",
@@ -3498,34 +3498,6 @@
     "job_posted_at": "2026-04-08T07:09:58.257Z"
   },
   {
-    "job_id": "workday-general-motors-JR-202607319",
-    "job_title": "Business Intelligence Data Analyst - GPSC",
-    "employer_name": "General Motors",
-    "job_city": "Warren",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Business-Intelligence-Data-Analyst---GPSC_JR-202607319",
-    "job_posted_at_datetime_utc": "2026-04-08T07:09:54.017Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dcba6f2dc787d22abd9ca2557bf753ccfa711ecf134db4c370f3e4d11f57d283",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:09:54.017Z"
-  },
-  {
     "job_id": "workday-general-motors-JR-202605491",
     "job_title": "CAE Vehicle Optimization and Machine Learning Engineer",
     "employer_name": "General Motors",
@@ -3542,6 +3514,34 @@
       "employment": "entry_level",
       "domains": [
         "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:09:54.017Z"
+  },
+  {
+    "job_id": "workday-general-motors-JR-202607319",
+    "job_title": "Business Intelligence Data Analyst - GPSC",
+    "employer_name": "General Motors",
+    "job_city": "Warren",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Business-Intelligence-Data-Analyst---GPSC_JR-202607319",
+    "job_posted_at_datetime_utc": "2026-04-08T07:09:54.017Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dcba6f2dc787d22abd9ca2557bf753ccfa711ecf134db4c370f3e4d11f57d283",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
         "data_science"
       ],
       "locations": [
@@ -3610,6 +3610,146 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-08T07:09:28.781Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237027",
+    "job_title": "Data Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Camp Lejeune",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Camp-Lejeune-NC/Data-Analyst_R0237027",
+    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4202530d9a246d1be54024761a5a47334c7d7a55e9303b1a552ebc7257999736",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:09:05.849Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235465",
+    "job_title": "Energy All-Source Intelligence Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0235465",
+    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "528c783f3010bdd1ed34d8e992458b558a8cae7e936271b55b7c274c53c27505",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:09:05.849Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235469",
+    "job_title": "Energy All-Source Intelligence Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0235469",
+    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "528c783f3010bdd1ed34d8e992458b558a8cae7e936271b55b7c274c53c27505",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:09:05.849Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235463",
+    "job_title": "Energy All-Source Intelligence Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0235463",
+    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "528c783f3010bdd1ed34d8e992458b558a8cae7e936271b55b7c274c53c27505",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:09:05.849Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237320",
+    "job_title": "Human Capital Data Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Chantilly",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Human-Capital-Data-Analyst_R0237320",
+    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "157fda429f5d4a5d33f5abfb033d57ff8e7ac820fa88d402032406e9699faf55",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:09:05.849Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0237416",
@@ -3765,146 +3905,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f959a583d212ea4f052d5b1fe1a4ee2745b27ce70a56b72940e9e9a66fa7bce7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:09:05.849Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237027",
-    "job_title": "Data Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Camp Lejeune",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Camp-Lejeune-NC/Data-Analyst_R0237027",
-    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4202530d9a246d1be54024761a5a47334c7d7a55e9303b1a552ebc7257999736",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:09:05.849Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235465",
-    "job_title": "Energy All-Source Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0235465",
-    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "528c783f3010bdd1ed34d8e992458b558a8cae7e936271b55b7c274c53c27505",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:09:05.849Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235469",
-    "job_title": "Energy All-Source Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0235469",
-    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "528c783f3010bdd1ed34d8e992458b558a8cae7e936271b55b7c274c53c27505",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:09:05.849Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235463",
-    "job_title": "Energy All-Source Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0235463",
-    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "528c783f3010bdd1ed34d8e992458b558a8cae7e936271b55b7c274c53c27505",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:09:05.849Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237320",
-    "job_title": "Human Capital Data Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Chantilly",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Human-Capital-Data-Analyst_R0237320",
-    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "157fda429f5d4a5d33f5abfb033d57ff8e7ac820fa88d402032406e9699faf55",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -4101,7 +4101,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/biohub/jobs/7747518",
-    "job_posted_at_datetime_utc": "2026-04-08T00:34:24-04:00",
+    "job_posted_at_datetime_utc": "2026-04-08T04:34:24.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "58ec20c5bc9ad12648bd6306fed38b2377dcbe090b21e9cec43536de3452dd3c",
@@ -4120,7 +4120,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-08T00:34:24-04:00"
+    "job_posted_at": "2026-04-08T04:34:24.000Z"
   },
   {
     "job_id": "greenhouse-biohub-7747522",
@@ -4131,7 +4131,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/biohub/jobs/7747522",
-    "job_posted_at_datetime_utc": "2026-04-08T00:30:09-04:00",
+    "job_posted_at_datetime_utc": "2026-04-08T04:30:09.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b6c124a309ac86b713752f4667851fa37d07b0f6e4dcc07b3c5c54bf607ddf48",
@@ -4150,7 +4150,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-08T00:30:09-04:00"
+    "job_posted_at": "2026-04-08T04:30:09.000Z"
   },
   {
     "job_id": "amazon-c135b8d2-ba47-4116-a49c-6b7e58788c8e",
@@ -4516,7 +4516,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8494810002?gh_jid=8494810002",
-    "job_posted_at_datetime_utc": "2026-04-07T09:55:21-04:00",
+    "job_posted_at_datetime_utc": "2026-04-07T13:55:21.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "9872bc14573ca4f9f8a1e335662b2efca989b741364eddcd9afc4280b8d1cb4a",
@@ -4533,7 +4533,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-07T09:55:21-04:00"
+    "job_posted_at": "2026-04-07T13:55:21.000Z"
   },
   {
     "job_id": "greenhouse-spacex-8494787002",
@@ -4544,7 +4544,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boards.greenhouse.io/spacex/jobs/8494787002?gh_jid=8494787002",
-    "job_posted_at_datetime_utc": "2026-04-07T09:55:20-04:00",
+    "job_posted_at_datetime_utc": "2026-04-07T13:55:20.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "8eda26f8a36d8841ede9253213f8a06df0471b539d6c832fc715c7849beff552",
@@ -4561,7 +4561,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-07T09:55:20-04:00"
+    "job_posted_at": "2026-04-07T13:55:20.000Z"
   },
   {
     "job_id": "sr-Visa-744000119124351",
