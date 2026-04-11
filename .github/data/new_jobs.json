@@ -2008,34 +2008,6 @@
     "job_posted_at": "2026-04-09T07:49:09.765Z"
   },
   {
-    "job_id": "workday-general-motors-JR-202606171",
-    "job_title": "Vehicle Safety Data Analyst",
-    "employer_name": "General Motors",
-    "job_city": "Warren",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Vehicle-Safety-Data-Analyst_JR-202606171-1",
-    "job_posted_at_datetime_utc": "2026-04-09T07:48:13.517Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4d7f6274a294ad186b883404950d2592537244e76a49e6f72324a7f34a270fe0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-09T07:48:13.517Z"
-  },
-  {
     "job_id": "workday-general-motors-JR-202522575",
     "job_title": "Connected Vehicle Researcher – Vehicle Data Analytics",
     "employer_name": "General Motors",
@@ -2057,6 +2029,34 @@
         "us"
       ],
       "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-09T07:48:13.517Z"
+  },
+  {
+    "job_id": "workday-general-motors-JR-202606171",
+    "job_title": "Vehicle Safety Data Analyst",
+    "employer_name": "General Motors",
+    "job_city": "Warren",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Vehicle-Safety-Data-Analyst_JR-202606171-1",
+    "job_posted_at_datetime_utc": "2026-04-09T07:48:13.517Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4d7f6274a294ad186b883404950d2592537244e76a49e6f72324a7f34a270fe0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
       "special": []
     },
     "_source": "aggregator",
@@ -4125,6 +4125,64 @@
     "job_posted_at": "2026-04-08T00:30:09-04:00"
   },
   {
+    "job_id": "js-dhalite-inc-hlb1p3w1kgtgftpjaaaaaa==",
+    "job_title": "Entry level Data Analyst",
+    "employer_name": "Dhalite Inc.",
+    "job_city": "Detroit",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.dice.com/job-detail/b71a3ee3-40f9-46f0-b947-c5c2cdb41662",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "cd62c65749a2a38c0b54aae3e757a8c5637d7039b36119ffbbd06e19c547579b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-emcor-group-inc-ay8ly5lqlhglxx1paaaaaa==",
+    "job_title": "Business Data Analyst, Construction; Entry Level",
+    "employer_name": "EMCOR Group, Inc.",
+    "job_city": "Baltimore",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/3ya8tbzkJ4hWczj59HMX7K",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "20c52b24c649dbb11091e0f2b5679172cbe056cbff73a06087a3c40caf1eb2ff",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-c135b8d2-ba47-4116-a49c-6b7e58788c8e",
     "job_title": "Applied Scientist, Device Team, AWS Center for Quantum Computing",
     "employer_name": "Amazon Development Center U.S., Inc.",
@@ -4184,64 +4242,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-dhalite-inc-hlb1p3w1kgtgftpjaaaaaa==",
-    "job_title": "Entry level Data Analyst",
-    "employer_name": "Dhalite Inc.",
-    "job_city": "Detroit",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.dice.com/job-detail/b71a3ee3-40f9-46f0-b947-c5c2cdb41662",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "cd62c65749a2a38c0b54aae3e757a8c5637d7039b36119ffbbd06e19c547579b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-emcor-group-inc-ay8ly5lqlhglxx1paaaaaa==",
-    "job_title": "Business Data Analyst, Construction; Entry Level",
-    "employer_name": "EMCOR Group, Inc.",
-    "job_city": "Baltimore",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/3ya8tbzkJ4hWczj59HMX7K",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "20c52b24c649dbb11091e0f2b5679172cbe056cbff73a06087a3c40caf1eb2ff",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
     "job_posted_at": "2026-04-08T00:00:00.000Z"
   },
   {
@@ -4766,34 +4766,6 @@
     "job_posted_at": "2026-04-07T07:07:35.666Z"
   },
   {
-    "job_id": "workday-kbr-R2121507",
-    "job_title": "Operations Research Analyst",
-    "employer_name": "KBR",
-    "job_city": "Beavercreek",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Operations-Research-Analyst_R2121507",
-    "job_posted_at_datetime_utc": "2026-04-07T07:07:13.617Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cd6c0886ab755072a8d8da39c8a8ee322ad80e20e7ad017e10c4a46d8e578936",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:07:13.617Z"
-  },
-  {
     "job_id": "workday-kbr-R2121515",
     "job_title": "Data Engineer",
     "employer_name": "KBR",
@@ -4843,6 +4815,34 @@
         "us"
       ],
       "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:07:13.617Z"
+  },
+  {
+    "job_id": "workday-kbr-R2121507",
+    "job_title": "Operations Research Analyst",
+    "employer_name": "KBR",
+    "job_city": "Beavercreek",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Operations-Research-Analyst_R2121507",
+    "job_posted_at_datetime_utc": "2026-04-07T07:07:13.617Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cd6c0886ab755072a8d8da39c8a8ee322ad80e20e7ad017e10c4a46d8e578936",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -6532,6 +6532,35 @@
     "job_posted_at": "2026-04-06T07:00:21.722Z"
   },
   {
+    "job_id": "js-cewit-1nuytk6buadzddkxaaaaaa==",
+    "job_title": "Entry-Level Remote Data Analyst at cewit New York, NY",
+    "employer_name": "cewit",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://tietalent.com/en/jobs/p-656856469/united-states-entry-level-remote-data-analyst-at-cewit-new-york-ny",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "5e44425535cdce3cc88758d94053397cbe5e0a8552843feb03a1a64bb252c9f8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-3c5b23ae-0239-4c3b-a503-cd23fdef652f",
     "job_title": "Applied Scientist, AWS Applied AI Solutions Core Services",
     "employer_name": "Amazon Web Services, Inc.",
@@ -6561,35 +6590,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-cewit-1nuytk6buadzddkxaaaaaa==",
-    "job_title": "Entry-Level Remote Data Analyst at cewit New York, NY",
-    "employer_name": "cewit",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://tietalent.com/en/jobs/p-656856469/united-states-entry-level-remote-data-analyst-at-cewit-new-york-ny",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "5e44425535cdce3cc88758d94053397cbe5e0a8552843feb03a1a64bb252c9f8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
     "job_posted_at": "2026-04-06T00:00:00.000Z"
   },
   {
@@ -6739,35 +6739,6 @@
     "job_posted_at": "2026-04-05T00:00:00.000Z"
   },
   {
-    "job_id": "workday-zoom-R18413",
-    "job_title": "Machine Learning Engineer, Responsible AI",
-    "employer_name": "Zoom",
-    "job_city": "Seattle",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Staff-Machine-Learning-Engineer--Responsible-AI_R18413-1",
-    "job_posted_at_datetime_utc": "2026-04-04T20:05:38.872Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fe112918c636941e0a3521834fb9c9b1aad65abc73b833ec2d42ff3dfaa54cc6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-04T20:05:38.872Z"
-  },
-  {
     "job_id": "workday-zoom-R17822",
     "job_title": "AI Engineer",
     "employer_name": "Zoom",
@@ -6812,6 +6783,35 @@
     "tags": {
       "employment": "entry_level",
       "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-04T20:05:38.872Z"
+  },
+  {
+    "job_id": "workday-zoom-R18413",
+    "job_title": "Machine Learning Engineer, Responsible AI",
+    "employer_name": "Zoom",
+    "job_city": "Seattle",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Staff-Machine-Learning-Engineer--Responsible-AI_R18413-1",
+    "job_posted_at_datetime_utc": "2026-04-04T20:05:38.872Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fe112918c636941e0a3521834fb9c9b1aad65abc73b833ec2d42ff3dfaa54cc6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
         "data_science"
       ],
       "locations": [
