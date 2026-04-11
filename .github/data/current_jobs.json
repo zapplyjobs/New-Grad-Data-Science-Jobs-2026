@@ -889,34 +889,6 @@
     "job_posted_at": "2026-04-10T00:47:02.393Z"
   },
   {
-    "job_id": "workday-boston-dynamics-R2027",
-    "job_title": "Research Scientist, VLA Models - Atlas",
-    "employer_name": "Boston Dynamics",
-    "job_city": "Waltham Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Staff-Research-Scientist_R2027",
-    "job_posted_at_datetime_utc": "2026-04-10T00:47:02.392Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5ea216bfa9dfd011e85e193171b5e97ef347dbc5f749993d1005a9706cb2c5e7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-10T00:47:02.392Z"
-  },
-  {
     "job_id": "workday-boston-dynamics-R2182",
     "job_title": "Teleoperations Research Engineer, Atlas",
     "employer_name": "Boston Dynamics",
@@ -958,6 +930,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e36923e8319fb81927001a298d5bed9fab79c6f53e0314b47eaf1e2d26e07703",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-10T00:47:02.392Z"
+  },
+  {
+    "job_id": "workday-boston-dynamics-R2027",
+    "job_title": "Research Scientist, VLA Models - Atlas",
+    "employer_name": "Boston Dynamics",
+    "job_city": "Waltham Office",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Staff-Research-Scientist_R2027",
+    "job_posted_at_datetime_utc": "2026-04-10T00:47:02.392Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5ea216bfa9dfd011e85e193171b5e97ef347dbc5f749993d1005a9706cb2c5e7",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2406,14 +2406,14 @@
     "job_posted_at": "2026-04-09T07:36:58.678Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0237497",
+    "job_id": "workday-booz-allen-hamilton-R0236926",
     "job_title": "All-Source Intelligence Analyst",
     "employer_name": "Booz Allen Hamilton",
     "job_city": "Washington",
     "job_state": "DC",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0237497",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0236926",
     "job_posted_at_datetime_utc": "2026-04-09T07:36:28.054Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -2434,14 +2434,14 @@
     "job_posted_at": "2026-04-09T07:36:28.054Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0236926",
+    "job_id": "workday-booz-allen-hamilton-R0237497",
     "job_title": "All-Source Intelligence Analyst",
     "employer_name": "Booz Allen Hamilton",
     "job_city": "Washington",
     "job_state": "DC",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0236926",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0237497",
     "job_posted_at_datetime_utc": "2026-04-09T07:36:28.054Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -3584,6 +3584,62 @@
     "job_posted_at": "2026-04-08T07:09:28.781Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0235465",
+    "job_title": "Energy All-Source Intelligence Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0235465",
+    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "528c783f3010bdd1ed34d8e992458b558a8cae7e936271b55b7c274c53c27505",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:09:05.849Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235469",
+    "job_title": "Energy All-Source Intelligence Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0235469",
+    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "528c783f3010bdd1ed34d8e992458b558a8cae7e936271b55b7c274c53c27505",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:09:05.849Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0235463",
     "job_title": "Energy All-Source Intelligence Analyst",
     "employer_name": "Booz Allen Hamilton",
@@ -3837,62 +3893,6 @@
     "job_posted_at": "2026-04-08T07:09:05.849Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0235465",
-    "job_title": "Energy All-Source Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0235465",
-    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "528c783f3010bdd1ed34d8e992458b558a8cae7e936271b55b7c274c53c27505",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:09:05.849Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235469",
-    "job_title": "Energy All-Source Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0235469",
-    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "528c783f3010bdd1ed34d8e992458b558a8cae7e936271b55b7c274c53c27505",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:09:05.849Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0237278",
     "job_title": "Data Analyst",
     "employer_name": "Booz Allen Hamilton",
@@ -4125,35 +4125,6 @@
     "job_posted_at": "2026-04-08T00:30:09-04:00"
   },
   {
-    "job_id": "js-dhalite-inc-hlb1p3w1kgtgftpjaaaaaa==",
-    "job_title": "Entry level Data Analyst",
-    "employer_name": "Dhalite Inc.",
-    "job_city": "Detroit",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.dice.com/job-detail/b71a3ee3-40f9-46f0-b947-c5c2cdb41662",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "cd62c65749a2a38c0b54aae3e757a8c5637d7039b36119ffbbd06e19c547579b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-c135b8d2-ba47-4116-a49c-6b7e58788c8e",
     "job_title": "Applied Scientist, Device Team, AWS Center for Quantum Computing",
     "employer_name": "Amazon Development Center U.S., Inc.",
@@ -4213,6 +4184,35 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-dhalite-inc-hlb1p3w1kgtgftpjaaaaaa==",
+    "job_title": "Entry level Data Analyst",
+    "employer_name": "Dhalite Inc.",
+    "job_city": "Detroit",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.dice.com/job-detail/b71a3ee3-40f9-46f0-b947-c5c2cdb41662",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "cd62c65749a2a38c0b54aae3e757a8c5637d7039b36119ffbbd06e19c547579b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
     "job_posted_at": "2026-04-08T00:00:00.000Z"
   },
   {
@@ -4935,62 +4935,6 @@
     "job_posted_at": "2026-04-07T07:06:31.511Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0236267",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Data-Engineer_R0236267",
-    "job_posted_at_datetime_utc": "2026-04-07T07:05:32.360Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e83e03339e8a15806d97108b4470a50e4c4217b2d6f13923f9350ad3c344a2cc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:05:32.360Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237281",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fort Walton Beach",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/Data-Engineer_R0237281",
-    "job_posted_at_datetime_utc": "2026-04-07T07:05:32.360Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5b381a448f59b15d0a72668c564184e79d870e36c8f15953eb46b7f4d85f45ce",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:05:32.360Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0237252",
     "job_title": "Intelligence Analyst",
     "employer_name": "Booz Allen Hamilton",
@@ -5126,6 +5070,62 @@
         "us"
       ],
       "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:05:32.360Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0236267",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Data-Engineer_R0236267",
+    "job_posted_at_datetime_utc": "2026-04-07T07:05:32.360Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e83e03339e8a15806d97108b4470a50e4c4217b2d6f13923f9350ad3c344a2cc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:05:32.360Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237281",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fort Walton Beach",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/Data-Engineer_R0237281",
+    "job_posted_at_datetime_utc": "2026-04-07T07:05:32.360Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5b381a448f59b15d0a72668c564184e79d870e36c8f15953eb46b7f4d85f45ce",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
@@ -6503,6 +6503,38 @@
     "job_posted_at": "2026-04-06T07:00:21.722Z"
   },
   {
+    "job_id": "amazon-3c5b23ae-0239-4c3b-a503-cd23fdef652f",
+    "job_title": "Applied Scientist, AWS Applied AI Solutions Core Services",
+    "employer_name": "Amazon Web Services, Inc.",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10384422/applied-scientist-aws-applied-ai-solutions-core-services",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4cb6df5e686c52436bada6c307aa120833b2ca989cafea89d31b0f349b9aa096",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
     "job_id": "js-cewit-1nuytk6buadzddkxaaaaaa==",
     "job_title": "Entry-Level Remote Data Analyst at cewit New York, NY",
     "employer_name": "cewit",
@@ -6558,38 +6590,6 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
-    "job_id": "amazon-3c5b23ae-0239-4c3b-a503-cd23fdef652f",
-    "job_title": "Applied Scientist, AWS Applied AI Solutions Core Services",
-    "employer_name": "Amazon Web Services, Inc.",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10384422/applied-scientist-aws-applied-ai-solutions-core-services",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4cb6df5e686c52436bada6c307aa120833b2ca989cafea89d31b0f349b9aa096",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
     "job_posted_at": "2026-04-06T00:00:00.000Z"
   },
   {
@@ -6710,35 +6710,6 @@
     "job_posted_at": "2026-04-05T00:00:00.000Z"
   },
   {
-    "job_id": "workday-zoom-R18413",
-    "job_title": "Machine Learning Engineer, Responsible AI",
-    "employer_name": "Zoom",
-    "job_city": "Seattle",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Staff-Machine-Learning-Engineer--Responsible-AI_R18413-1",
-    "job_posted_at_datetime_utc": "2026-04-04T20:05:38.872Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fe112918c636941e0a3521834fb9c9b1aad65abc73b833ec2d42ff3dfaa54cc6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-04T20:05:38.872Z"
-  },
-  {
     "job_id": "workday-zoom-R17822",
     "job_title": "AI Engineer",
     "employer_name": "Zoom",
@@ -6783,6 +6754,35 @@
     "tags": {
       "employment": "entry_level",
       "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-04T20:05:38.872Z"
+  },
+  {
+    "job_id": "workday-zoom-R18413",
+    "job_title": "Machine Learning Engineer, Responsible AI",
+    "employer_name": "Zoom",
+    "job_city": "Seattle",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Staff-Machine-Learning-Engineer--Responsible-AI_R18413-1",
+    "job_posted_at_datetime_utc": "2026-04-04T20:05:38.872Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fe112918c636941e0a3521834fb9c9b1aad65abc73b833ec2d42ff3dfaa54cc6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
         "data_science"
       ],
       "locations": [
