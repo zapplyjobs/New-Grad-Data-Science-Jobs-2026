@@ -25,6 +25,18 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "python",
+        "sql"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": "Required Skills      Undergraduate or graduate level educational in clinical research, data analysis, clinical informatics or related field.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-11T17:38:48.000Z"
   },
   {
@@ -54,6 +66,30 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "data integration",
+        "data lake",
+        "data modeling",
+        "data science",
+        "etl",
+        "go",
+        "https",
+        "less",
+        "machine learning",
+        "python",
+        "regression",
+        "sql",
+        "xgboost"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Drive Innovation as our Next Data Engineer / Scientist (Predictive Analytics)!",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-11T07:39:37.785Z"
   },
   {
@@ -82,6 +118,28 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "data analysis",
+        "data architecture",
+        "data integration",
+        "data lake",
+        "data pipeline",
+        "data quality",
+        "etl",
+        "https",
+        "less",
+        "python",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Drive Innovation as our Next Data Engineer (Product Growth Focus)!",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-11T07:39:37.785Z"
   },
   {
@@ -111,6 +169,26 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "ci/cd",
+        "computer science",
+        "dashboards",
+        "data analysis",
+        "data pipeline",
+        "data quality",
+        "docker",
+        "machine learning",
+        "python",
+        "robotics"
+      ],
+      "sponsors_visa": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "As seen at CES 2026, Atlas is the humanoid robot transforming what's possible in real-world manipulation and mobility.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-11T07:36:03.651Z"
   },
   {
@@ -141,6 +219,28 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "asana",
+        "c++",
+        "clickhouse",
+        "concurrency",
+        "distributed systems",
+        "https",
+        "kubernetes",
+        "networking",
+        "observability",
+        "openai",
+        "python",
+        "rust"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": "The Scaling team designs, builds, and operates critical infrastructure that enables research at OpenAI.",
+      "is_remote": true
+    },
     "job_posted_at": "2026-04-11T00:55:07.116Z"
   },
   {
@@ -170,6 +270,17 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "data science",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Basic Qualifications • Must be a full-time student pursuing an accredited degree program in Data Science, Math, Statistics, Operations Research or related disciplines.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-11T00:00:00.000Z"
   },
   {
@@ -199,6 +310,34 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "bash",
+        "c++",
+        "dashboards",
+        "data pipeline",
+        "data quality",
+        "data science",
+        "data visualization",
+        "erp",
+        "java",
+        "mes",
+        "powershell",
+        "python",
+        "snowflake",
+        "spc",
+        "sql",
+        "statistical process control",
+        "statistics",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Primary Function of Position The Operations Data Scientist plays a critical role in transforming how manufacturing teams see and understand their operations by building and operating data pipelines, m…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T21:55:29.341Z"
   },
   {
@@ -227,6 +366,31 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "data modeling",
+        "data quality",
+        "data science",
+        "gcp",
+        "https",
+        "less",
+        "process improvement",
+        "project management",
+        "python",
+        "r",
+        "reporting",
+        "spring",
+        "statistical analysis",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T21:50:06.472Z"
   },
   {
@@ -255,6 +419,31 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "api",
+        "computer science",
+        "dashboards",
+        "data architecture",
+        "data pipeline",
+        "data quality",
+        "data science",
+        "databricks",
+        "elt",
+        "etl",
+        "http",
+        "pyspark",
+        "python",
+        "sql",
+        "workday"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Abbott is a global healthcare leader that helps people live more fully at all stages of life.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T21:17:16.981Z"
   },
   {
@@ -284,6 +473,27 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "data science",
+        "design patterns",
+        "embedded systems",
+        "kubernetes",
+        "machine learning",
+        "neural network",
+        "python",
+        "pytorch",
+        "reinforcement learning",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Reinforcement Learning AI Engineer The Opportunity : Booz Allen is seeking an innovative and experience d AI developer spe cia lizing in reinforcement learning to join our growing team for Space solut…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T20:29:41.512Z"
   },
   {
@@ -313,6 +523,30 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "c++",
+        "cad",
+        "cam",
+        "cnc",
+        "computer science",
+        "data architecture",
+        "data modeling",
+        "java",
+        "less",
+        "plc",
+        "project management",
+        "python",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Manufacturing Systems and Simulation MP&P Engineer – Data Engineering Company: The Boeing Company A t Boeing, we innovate and collaborate to make the world a better place.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T20:02:42.633Z"
   },
   {
@@ -342,6 +576,28 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "anthropic",
+        "api",
+        "business intelligence",
+        "computer science",
+        "data science",
+        "forecasting",
+        "gpt",
+        "multimodal",
+        "python",
+        "reporting",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": "Anthropic’s mission is to create reliable, interpretable, and steerable AI systems.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T19:52:57.000Z"
   },
   {
@@ -370,6 +626,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "bash",
+        "computer science",
+        "data pipeline",
+        "docker",
+        "hadoop",
+        "java",
+        "kafka",
+        "kubernetes",
+        "python",
+        "spark",
+        "sql",
+        "unix",
+        "zsh"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": "Polar Operations LLC (d/b/a IMC Markets) is seeking a Data Engineer in Chicago, IL.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T19:00:00.000Z"
   },
   {
@@ -398,6 +678,28 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "c#",
+        "c++",
+        "data science",
+        "databricks",
+        "embedded systems",
+        "hadoop",
+        "java",
+        "langchain",
+        "llm",
+        "machine learning",
+        "python",
+        "spark"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "AI and ML Engineer The Opportunity: Design and implement effective AI solution architecture utilizing approaches of various AI technologies and met hods to address Marine Corps operational needs.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T18:46:07.706Z"
   },
   {
@@ -426,6 +728,14 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "All-Source Intelligence Analyst The Opportunity : With all the information available today, it takes a skilled all-source analyst to know how to find and interpret the best data to give their clients…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T18:32:47.319Z"
   },
   {
@@ -454,6 +764,25 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "dashboards",
+        "data analysis",
+        "data governance",
+        "jira",
+        "oracle",
+        "power bi",
+        "reporting",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Description: The Role Do you want to make a difference in our customers’ lives and be part of a highly collaborative, cross-functional team committed to improving the value of our platform offerin…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T18:19:45.802Z"
   },
   {
@@ -483,6 +812,34 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "apache",
+        "ci/cd",
+        "cybersecurity",
+        "data lake",
+        "data pipeline",
+        "devsecops",
+        "hive",
+        "kafka",
+        "kubernetes",
+        "linux",
+        "logstash",
+        "machine learning",
+        "python",
+        "routing",
+        "snowflake",
+        "windows",
+        "zero trust"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Data Analytics Platform Engineer The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there’s more structured and unstructured data available t…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T18:18:59.243Z"
   },
   {
@@ -512,6 +869,34 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "apache",
+        "ci/cd",
+        "cybersecurity",
+        "data lake",
+        "data pipeline",
+        "devsecops",
+        "hive",
+        "kafka",
+        "kubernetes",
+        "linux",
+        "logstash",
+        "machine learning",
+        "python",
+        "routing",
+        "snowflake",
+        "windows",
+        "zero trust"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Data Analytics Platform Engineer The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there’s more structured and unstructured data available t…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T18:18:59.243Z"
   },
   {
@@ -540,6 +925,17 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Core Responsibilities Engages with internal partners to understand business strategy, questions and goals.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T17:32:32.560Z"
   },
   {
@@ -571,6 +967,19 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "pytorch",
+        "reinforcement learning",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Are you passionate about pushing the boundaries of AI at the intersection of the digital and physical worlds?",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T17:05:35.113Z"
   },
   {
@@ -599,6 +1008,30 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "business intelligence",
+        "data analysis",
+        "data quality",
+        "data science",
+        "data visualization",
+        "machine learning",
+        "python",
+        "r",
+        "regression",
+        "reporting",
+        "sql",
+        "stakeholder management",
+        "statistics",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Client Experience Analytics (CxA) is looking for a talented Data Analyst, Senior Specialist to join our team!",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T16:55:37.546Z"
   },
   {
@@ -627,6 +1060,28 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "api",
+        "data integration",
+        "data pipeline",
+        "data visualization",
+        "databricks",
+        "python",
+        "reporting",
+        "snowflake",
+        "spark",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Health Care Quality Data Specialist The Opportunity : As quality data spe cia list, you love diving into data and turning it into meaningful insights.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T16:52:15.924Z"
   },
   {
@@ -655,6 +1110,22 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "computer vision",
+        "large language model",
+        "machine learning",
+        "multimodal",
+        "reinforcement learning",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": "In order to set you up for success as a Research Scientist at Google DeepMind, we look for the following skills and experience:     PhD in Computer Science, Statistics, or a related field.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T12:14:17-04:00"
   },
   {
@@ -683,6 +1154,21 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "abaqus",
+        "analytics",
+        "ansys",
+        "fea",
+        "finite element analysis",
+        "wafer"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Virtually every electronic device in the world is produced using our technologies.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T15:56:33.983Z"
   },
   {
@@ -712,6 +1198,19 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
+    "enrichment": {
+      "required_skills": [
+        "change management",
+        "erp",
+        "routing",
+        "sap"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "The Master Data Analyst is responsible for the accurate creation, maintenance, and execution of master data transactions within SAP to support daily business operations.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T15:54:38.644Z"
   },
   {
@@ -742,6 +1241,24 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "business intelligence",
+        "dashboards",
+        "data modeling",
+        "erp",
+        "power bi",
+        "reporting",
+        "sap",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Location: Remote - North Carolina, United States Job ID: R0123510 Date Posted: 2026-04-10 Company Name: HITACHI ENERGY USA INC Profession (Job Category): Data Analytics/Business Intelligence Job Sched…",
+      "is_remote": true
+    },
     "job_posted_at": "2026-04-10T15:43:01.380Z"
   },
   {
@@ -770,6 +1287,28 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "cisco",
+        "data science",
+        "feature engineering",
+        "machine learning",
+        "natural language processing",
+        "nlp",
+        "python",
+        "r",
+        "reporting",
+        "scalability",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "The application window is expected to close on: 04/30/2026 Job posting may be removed earlier if the position is filled or if a sufficient number of applications are received .",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T15:29:28.498Z"
   },
   {
@@ -798,6 +1337,23 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "business intelligence",
+        "computer science",
+        "salesforce",
+        "scalability",
+        "sql",
+        "statistics",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": "Bachelor's degree in Economics, Commerce, Analytics, Engineering, Computer Science, Statistics, Mathematics, or a similar field       4+ years of professional experience as a Business Intelligence Ana",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T14:58:14.000Z"
   },
   {
@@ -827,6 +1383,16 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
+    "enrichment": {
+      "required_skills": [
+        "process improvement"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Position Purpose: This position is responsible for ensuring the proper processing of Supplier and Customer related documents in a timely and satisfactory manner.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T14:28:12.964Z"
   },
   {
@@ -857,6 +1423,17 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "data pipeline",
+        "llm"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": "HackerRank helps companies like NVIDIA, Amazon, and Microsoft hire and upskill the next generation of developers based on skills, not pedigree.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T11:37:39.000Z"
   },
   {
@@ -885,6 +1462,29 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "dashboards",
+        "data analysis",
+        "data visualization",
+        "https",
+        "iso 9001",
+        "less",
+        "power bi",
+        "python",
+        "r",
+        "scalability",
+        "statistical analysis",
+        "statistical process control",
+        "statistics",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T04:03:32.626Z"
   },
   {
@@ -915,6 +1515,25 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "elasticsearch",
+        "embeddings",
+        "fine-tuning",
+        "kafka",
+        "kubernetes",
+        "postgres",
+        "python",
+        "rag",
+        "redis",
+        "terraform"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": "What We’re Looking For  • Strong track record of shipping ML systems into production • Experience with ranking, recommendation, search, matching, or marketplace problems • Good judgment on model desig…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T00:55:33.395Z"
   },
   {
@@ -943,6 +1562,20 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "machine learning",
+        "python",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "As an AI Research Scientist, Large Scale Behavior Cloning on the Atlas team, you will drive the development of scalable, generalizable behavior models that enable our humanoid robot to master complex…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T00:47:02.393Z"
   },
   {
@@ -972,6 +1605,20 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "machine learning",
+        "python",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "The Atlas team at Boston Dynamics is pushing the limits of robotic mobility and manipulation.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T00:47:02.392Z"
   },
   {
@@ -1000,6 +1647,21 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "machine learning",
+        "python",
+        "pytorch",
+        "reinforcement learning",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Are you passionate about using machine learning to drive robot behavior?",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T00:47:02.392Z"
   },
   {
@@ -1028,6 +1690,22 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "machine learning",
+        "multimodal",
+        "python",
+        "pytorch",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "As a VLA Research Scientist on the Atlas team, you will architect, train, and deploy the large-scale behavior models that enable high-performance dexterous manipulation on Atlas.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T00:47:02.392Z"
   },
   {
@@ -1059,6 +1737,33 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "business intelligence",
+        "data lake",
+        "data modeling",
+        "data pipeline",
+        "data quality",
+        "data warehouse",
+        "etl",
+        "https",
+        "iam",
+        "lambda",
+        "machine learning",
+        "redshift",
+        "reporting",
+        "s3",
+        "spark",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Come build the future of entertainment with us.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T00:00:00.000Z"
   },
   {
@@ -1090,6 +1795,30 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "data quality",
+        "data warehouse",
+        "https",
+        "java",
+        "large language model",
+        "llm",
+        "machine learning",
+        "multimodal",
+        "oracle",
+        "python",
+        "root cause analysis",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "The Artificial General Intelligence (AGI) team is seeking a dedicated, skilled, and innovative Applied Scientist with a robust background in machine learning, statistics, quality assurance, auditing m…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T00:00:00.000Z"
   },
   {
@@ -1121,6 +1850,30 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "data quality",
+        "data warehouse",
+        "https",
+        "java",
+        "large language model",
+        "llm",
+        "machine learning",
+        "multimodal",
+        "oracle",
+        "python",
+        "root cause analysis",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "The Artificial General Intelligence (AGI) team is seeking a dedicated, skilled, and innovative Applied Scientist with a robust background in machine learning, statistics, quality assurance, auditing m…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T00:00:00.000Z"
   },
   {
@@ -1152,6 +1905,30 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "data quality",
+        "data warehouse",
+        "https",
+        "java",
+        "large language model",
+        "llm",
+        "machine learning",
+        "multimodal",
+        "oracle",
+        "python",
+        "root cause analysis",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "The Artificial General Intelligence (AGI) team is seeking a dedicated, skilled, and innovative Applied Scientist with a robust background in machine learning, statistics, quality assurance, auditing m…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T00:00:00.000Z"
   },
   {
@@ -1183,6 +1960,30 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "data quality",
+        "data warehouse",
+        "https",
+        "java",
+        "large language model",
+        "llm",
+        "machine learning",
+        "multimodal",
+        "oracle",
+        "python",
+        "root cause analysis",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "The Artificial General Intelligence (AGI) team is seeking a dedicated, skilled, and innovative Applied Scientist with a robust background in machine learning, statistics, quality assurance, auditing m…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T00:00:00.000Z"
   },
   {
@@ -1214,6 +2015,29 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "a/b testing",
+        "c++",
+        "deep learning",
+        "event-driven",
+        "fine-tuning",
+        "https",
+        "java",
+        "large language model",
+        "llm",
+        "machine learning",
+        "palo alto",
+        "python",
+        "rag",
+        "reinforcement learning"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "The Sponsored Products and Brands (SPB) team at Amazon Ads is re-imagining the advertising landscape through state-of-the-art generative AI technologies, revolutionizing how millions of customers disc…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T00:00:00.000Z"
   },
   {
@@ -1245,6 +2069,29 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "data analysis",
+        "data modeling",
+        "deep learning",
+        "https",
+        "machine learning",
+        "matlab",
+        "natural language processing",
+        "perl",
+        "python",
+        "r",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Come be a part of a rapidly expanding $35 billion-dollar global business.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T00:00:00.000Z"
   },
   {
@@ -1276,6 +2123,26 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "data warehouse",
+        "deep learning",
+        "https",
+        "java",
+        "machine learning",
+        "oracle",
+        "python",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Prime Video is a first-stop entertainment destination offering customers a vast collection of premium programming in one app available across thousands of devices.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T00:00:00.000Z"
   },
   {
@@ -1306,6 +2173,22 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "data science",
+        "data visualization",
+        "r",
+        "shell",
+        "shell scripting",
+        "statistics",
+        "unix"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Basic Qualification • Must have a Bachelor’s, Master’s or PhD degree in Data Science, Artificial Intelligence, Math, Statistics or a related degree/program • Knowledge of how retrieve data from databa…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T23:00:00.000Z"
   },
   {
@@ -1336,6 +2219,17 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "fine-tuning",
+        "llm"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": "You have built and shipped agentic or conversational AI systems in production, not just prototypes.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T19:54:59.000Z"
   },
   {
@@ -1364,6 +2258,20 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "gmp",
+        "good manufacturing",
+        "http",
+        "project management",
+        "root cause analysis"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Work Schedule First Shift (Days) Environmental Conditions Adherence to all Good Manufacturing Practices (GMP) Safety Standards, Laboratory Setting, Office Job Description This is a fully onsite role b…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T19:40:14.156Z"
   },
   {
@@ -1393,6 +2301,22 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "excel",
+        "linear",
+        "python",
+        "reporting",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "NBCU Local Chicago is seeking a Research Analyst to support our research, sales and integrated marketing teams.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T19:26:08.872Z"
   },
   {
@@ -1421,6 +2345,25 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "data science",
+        "docker",
+        "git",
+        "langchain",
+        "llm",
+        "neural network",
+        "python",
+        "rag"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Data Scientist Data Science is all about breaking new ground to enable businesses to answer their most urgent questions.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T19:15:55.014Z"
   },
   {
@@ -1452,6 +2395,28 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "data science",
+        "deep learning",
+        "feature engineering",
+        "hadoop",
+        "hive",
+        "llm",
+        "machine learning",
+        "python",
+        "spark",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "As part of Visa Predictive Fraud Intelligence team (PFI), you will leverage cutting-edge technologies to perform statistical profiling, inference, classification, clustering and predictive analysis.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T19:12:04.286Z"
   },
   {
@@ -1481,6 +2446,31 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "computer science",
+        "data science",
+        "docker",
+        "google cloud",
+        "google cloud platform",
+        "https",
+        "kubeflow",
+        "kubernetes",
+        "machine learning",
+        "natural language processing",
+        "pandas",
+        "python",
+        "pytorch",
+        "sql",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": "Reddit is a community of communities.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T19:02:36.000Z"
   },
   {
@@ -1511,6 +2501,17 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "https",
+        "machine learning"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": "Qualifications  We're looking for people who have:   - A current enrollment in or a completed PhD in machine learning or a closely related field   - Deep expertise in at least one area of machine lear…",
+      "is_remote": true
+    },
     "job_posted_at": "2026-04-09T19:01:59.383Z"
   },
   {
@@ -1540,6 +2541,33 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "apache",
+        "apache spark",
+        "arm",
+        "aws",
+        "cassandra",
+        "computer science",
+        "elasticsearch",
+        "feature engineering",
+        "gcp",
+        "https",
+        "machine learning",
+        "natural language processing",
+        "neural network",
+        "pyspark",
+        "python",
+        "spark",
+        "sql",
+        "xgboost"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": "Reddit is a community of communities.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T18:56:09.000Z"
   },
   {
@@ -1568,6 +2596,29 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data analysis",
+        "data visualization",
+        "excel",
+        "google sheets",
+        "hris",
+        "looker",
+        "pivot tables",
+        "python",
+        "sql",
+        "statistics",
+        "tableau",
+        "vendor management",
+        "workday"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": "3-5 years of experience in Total Rewards, Compensation, or People Analytics   Strong analytical and quantitative skills — you are comfortable working with large datasets and drawing meaningful conclus",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T18:37:36.000Z"
   },
   {
@@ -1596,6 +2647,25 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c#",
+        "c++",
+        "data analysis",
+        "data science",
+        "java",
+        "machine learning",
+        "perl",
+        "python",
+        "spring",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "University, Data Scientist The Opportunity: Are you excited at the prospect of unlocking the secrets held by a data set?",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T18:05:38.194Z"
   },
   {
@@ -1626,6 +2696,29 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "computer vision",
+        "data pipeline",
+        "deep learning",
+        "excel",
+        "machine learning",
+        "python",
+        "pytorch",
+        "robotics",
+        "scalability",
+        "shell",
+        "shell scripting",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "The Future Forward AI Research group within Intuitive Surgical has an immediate opening in Sunnyvale, CA for a Machine Learning Engineer with focus on Computer Vision, Deep Learning, Generative AI and…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T17:18:13.930Z"
   },
   {
@@ -1655,6 +2748,28 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "dashboards",
+        "design patterns",
+        "java",
+        "llm",
+        "machine learning",
+        "nlp",
+        "python",
+        "rag",
+        "sql",
+        "system design",
+        "zoom"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "What you can expect Join Zoom AI Vertical team, start from the Zoom enterprise-level products; and drive innovation, development in AI-integrated projects.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T15:37:00.783Z"
   },
   {
@@ -1684,6 +2799,20 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "deep learning",
+        "multimodal",
+        "python",
+        "pytorch",
+        "transformers"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": "Experience designing and training deep learning models for vision, language, or multimodal systems   Strong understanding of modern model architectures (e.g., transformers and related approaches)   Ex",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T15:23:45.000Z"
   },
   {
@@ -1713,6 +2842,19 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "deep learning",
+        "python",
+        "pytorch",
+        "reinforcement learning"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": "Experience developing and applying reinforcement learning algorithms in complex environments   Strong understanding of RL fundamentals (e.g., policy optimization, value methods, model-based RL)   Expe",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T15:19:20.000Z"
   },
   {
@@ -1742,6 +2884,21 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "deep learning",
+        "llm",
+        "multimodal",
+        "python",
+        "pytorch",
+        "transformers"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": "Experience training large-scale foundation models or working on pretraining for LLMs or multimodal systems   Strong understanding of modern deep learning architectures, especially transformers   Exper",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T15:16:59.000Z"
   },
   {
@@ -1771,6 +2928,19 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "deep learning",
+        "multimodal",
+        "python",
+        "pytorch"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": "Experience training large-scale models on video data or other high-dimensional sequential modalities   Strong understanding of modern deep learning architectures for video, vision, or multimodal syste",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T15:10:37.000Z"
   },
   {
@@ -1800,6 +2970,19 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "deep learning",
+        "multimodal",
+        "python",
+        "pytorch"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": "Experience training and deploying generative models (diffusion, autoregressive, or related approaches) at scale   Strong understanding of modern deep learning techniques for vision and/or multimodal s",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T15:08:07.000Z"
   },
   {
@@ -1828,6 +3011,37 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "a/b testing",
+        "analytics",
+        "computer science",
+        "dashboards",
+        "data analysis",
+        "data modeling",
+        "data science",
+        "hubspot",
+        "large language model",
+        "machine learning",
+        "marketo",
+        "pandas",
+        "python",
+        "pytorch",
+        "salesforce",
+        "scikit-learn",
+        "sql",
+        "statistical analysis",
+        "statistics",
+        "tableau",
+        "tensorflow",
+        "zoom"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "What you can expect This role will drive revenue growth through sophisticated data analysis, predictive modeling, and AI-powered insights.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T14:53:00.505Z"
   },
   {
@@ -1857,6 +3071,34 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "ci/cd",
+        "computer science",
+        "data science",
+        "deep learning",
+        "design patterns",
+        "devops",
+        "git",
+        "machine learning",
+        "neural network",
+        "observability",
+        "python",
+        "rag",
+        "scikit-learn",
+        "statistics",
+        "system design",
+        "tensorflow",
+        "wafer"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Virtually every electronic device in the world is produced using our technologies.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T14:50:38.961Z"
   },
   {
@@ -1888,6 +3130,23 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
+    "enrichment": {
+      "required_skills": [
+        "ci/cd",
+        "computer science",
+        "deep learning",
+        "k8s",
+        "llm",
+        "nlp",
+        "pytorch",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": "About you  • Master’s or PhD in Computer Science (or equivalent proven track record).",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T14:48:27.055Z"
   },
   {
@@ -1917,6 +3176,23 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "functional programming",
+        "https",
+        "java",
+        "linux",
+        "python",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": "A minimum of 2+ years’ experience using Python, Java, C++, and can work comfortably in multiple programming languages   A track record of working directly with end customers, scoping and delivering pr",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T13:45:00.000Z"
   },
   {
@@ -1946,6 +3222,29 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "bigquery",
+        "business intelligence",
+        "dashboards",
+        "data analysis",
+        "data pipeline",
+        "data science",
+        "data studio",
+        "data visualization",
+        "looker",
+        "redshift",
+        "reporting",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T12:35:03.000Z"
   },
   {
@@ -1976,6 +3275,17 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "data pipeline",
+        "multimodal"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": "You have shipped ML systems in production that real users and real businesses depend on   You have deep intuition for where precision leaks happen and how to find them systematically, not by luck   Yo",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T09:54:02.000Z"
   },
   {
@@ -2004,6 +3314,14 @@
     },
     "_source": "aggregator",
     "_original_source": "eightfold",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T09:42:05.138Z"
   },
   {
@@ -2033,6 +3351,28 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "azure",
+        "azure devops",
+        "dashboards",
+        "data analysis",
+        "data governance",
+        "data integration",
+        "devops",
+        "power bi",
+        "project management",
+        "regression",
+        "reporting",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Title Solutions Specialist, Data Analytics (Nashville, TN or Cambridge, MA) Job Description The Solutions Specialist, Data Analytics supports end-to-end analytics and reporting solution activities…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T07:49:55.571Z"
   },
   {
@@ -2062,6 +3402,33 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "apache",
+        "c++",
+        "computer science",
+        "computer vision",
+        "data science",
+        "deep learning",
+        "infrared",
+        "linux",
+        "machine learning",
+        "matlab",
+        "neural network",
+        "python",
+        "pytorch",
+        "radar",
+        "sensor fusion",
+        "tensorflow",
+        "transformers"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Serve as an AI/ML Engineer with a specialty in Computer Vision for the Contested Autonomy and Navigation Branch in Huntsville, AL .",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T07:49:09.765Z"
   },
   {
@@ -2090,6 +3457,19 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "data science",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Description Hybrid: This position is located in Warren, MI & requires an employee to be onsite 3-4 times per week.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T07:48:13.517Z"
   },
   {
@@ -2118,6 +3498,23 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data visualization",
+        "databricks",
+        "llm",
+        "power bi",
+        "python",
+        "reporting",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Description The Role: GM’s Product Safety Data Analytics team is looking for a data analyst who thrives on finding meaningful signals in messy, high-volume data.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T07:48:13.517Z"
   },
   {
@@ -2147,7 +3544,79 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "analytics",
+        "apache",
+        "apache airflow",
+        "ci/cd",
+        "computer science",
+        "crm",
+        "cybersecurity",
+        "data integration",
+        "data lake",
+        "data modeling",
+        "data quality",
+        "data science",
+        "dbt",
+        "github",
+        "gitlab",
+        "gitlab ci",
+        "jenkins",
+        "machine learning",
+        "python",
+        "redshift",
+        "salesforce",
+        "snowflake",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations.",
+      "is_remote": true
+    },
     "job_posted_at": "2026-04-09T07:47:43.938Z"
+  },
+  {
+    "job_id": "workday-caci-324690",
+    "job_title": "ELINT/Radar Systems (Ground Surveillance)",
+    "employer_name": "CACI",
+    "job_city": "US VA Charlottesville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Charlottesville/ELINT-Radar-Systems--Ground-Surveillance-_324690",
+    "job_posted_at_datetime_utc": "2026-04-09T07:47:12.239Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1a759ab4485d1af9d4803370a606f266d93c9f3f63f8ead8321ff2e63fe2f1b2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "radar",
+        "signal processing"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: ELINT/Radar Systems (Ground Surveillance) Job Category: Engineering Time Type: Full time Minimum Clearance Required to Start: TS/SCI Employee Type: Regular Percentage of Travel Required: Up…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:47:12.239Z"
   },
   {
     "job_id": "workday-caci-318528",
@@ -2176,34 +3645,20 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-09T07:47:12.239Z"
-  },
-  {
-    "job_id": "workday-caci-324690",
-    "job_title": "ELINT/Radar Systems (Ground Surveillance)",
-    "employer_name": "CACI",
-    "job_city": "US VA Charlottesville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Charlottesville/ELINT-Radar-Systems--Ground-Surveillance-_324690",
-    "job_posted_at_datetime_utc": "2026-04-09T07:47:12.239Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1a759ab4485d1af9d4803370a606f266d93c9f3f63f8ead8321ff2e63fe2f1b2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "electro-optical",
+        "java",
+        "lidar",
+        "python"
       ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: Expert Geospatial Intelligence Analyst Job Category: Intelligence Time Type: Full time Minimum Clearance Required to Start: TS/SCI Employee Type: Regular Percentage of Travel Required: Up t…",
+      "is_remote": false
     },
-    "_source": "aggregator",
-    "_original_source": "workday",
     "job_posted_at": "2026-04-09T07:47:12.239Z"
   },
   {
@@ -2233,6 +3688,41 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "cloudformation",
+        "cloudwatch",
+        "data analysis",
+        "data pipeline",
+        "data quality",
+        "data science",
+        "deep learning",
+        "design patterns",
+        "ec2",
+        "etl",
+        "iam",
+        "jupyter",
+        "jupyter notebook",
+        "lambda",
+        "machine learning",
+        "pandas",
+        "pyspark",
+        "python",
+        "pytorch",
+        "rds",
+        "reinforcement learning",
+        "s3",
+        "supervised learning",
+        "tensorflow",
+        "vpc"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "The successful candidate will: Bring strong proficiency and understanding of the AWS cloud platform and services, including (but not limited to) AWS SageMaker, AWS Lambda, Amazon S3, Step Functions, E…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T07:39:42.078Z"
   },
   {
@@ -2261,6 +3751,19 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "gmp",
+        "http",
+        "project management",
+        "root cause analysis"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description This is a fully onsite role based at our GMP Lab in Middleton, WI.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T07:39:34.466Z"
   },
   {
@@ -2290,6 +3793,36 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "computer science",
+        "data modeling",
+        "data science",
+        "deep learning",
+        "gcp",
+        "hive",
+        "kubernetes",
+        "langchain",
+        "machine learning",
+        "matlab",
+        "neural network",
+        "python",
+        "pytorch",
+        "ray",
+        "scikit-learn",
+        "spark",
+        "sql",
+        "statistics",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "TransUnion's Job Applicant Privacy Notice Personal Information We Collect Your Privacy Choices We'd Love to See: Advisors, Data Science & Analytics for various & unanticipated worksites throughout the…",
+      "is_remote": true
+    },
     "job_posted_at": "2026-04-09T07:39:26.075Z"
   },
   {
@@ -2318,6 +3851,30 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "dashboards",
+        "data analysis",
+        "data quality",
+        "data science",
+        "databricks",
+        "docker",
+        "forecasting",
+        "git",
+        "http",
+        "machine learning",
+        "pyspark",
+        "python",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "RELOCATION ASSISTANCE: No relocation assistance available CLEARANCE REQUIRED FOR START: No CLEARANCE TYPE: None TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have incredi…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T07:38:47.837Z"
   },
   {
@@ -2347,6 +3904,21 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "data modeling",
+        "data science",
+        "machine learning",
+        "r"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Family : Data Science & Analysis (ESA) Travel Required : Up to 10% Clearance Required : Active Top Secret SCI with Polygraph What You Will Do : The Technical SETA will provide support in the execu…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T07:37:49.178Z"
   },
   {
@@ -2375,6 +3947,18 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data science",
+        "fault tolerance"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Family : Data Science & Analysis (ESA) Travel Required : Up to 10% Clearance Required : Active Top Secret SCI with Polygraph What You Will Do : The Technical SETA will provide support in the execu…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T07:37:49.178Z"
   },
   {
@@ -2403,6 +3987,31 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "azure",
+        "computer science",
+        "dashboards",
+        "data analysis",
+        "data science",
+        "data visualization",
+        "databricks",
+        "machine learning",
+        "power bi",
+        "python",
+        "qlik",
+        "reporting",
+        "statistics",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Family : Data Science Consulting Travel Required : Up to 10% Clearance Required : Ability to Obtain Public Trust What You Will Do : The Guidehouse Technology AI & Data team is seeking a Senior Con…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T07:37:49.178Z"
   },
   {
@@ -2431,6 +4040,34 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "analytics",
+        "api",
+        "dashboards",
+        "data analysis",
+        "data pipeline",
+        "databricks",
+        "elt",
+        "etl",
+        "git",
+        "github",
+        "hive",
+        "looker",
+        "python",
+        "reporting",
+        "spark",
+        "sql",
+        "statistical analysis",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Ibotta is seeking a Decision Scientist, Product Analytics to join our innovative team and contribute to our mission to Make Every Purchase Rewarding.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T07:37:33.377Z"
   },
   {
@@ -2460,35 +4097,24 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-09T07:36:58.678Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0236926",
-    "job_title": "All-Source Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0236926",
-    "job_posted_at_datetime_utc": "2026-04-09T07:36:28.054Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "011be940a51462409046acbe704d7034f9583de06039991e541d2a0fc60cb032",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "data governance",
+        "data integration",
+        "data pipeline",
+        "elt",
+        "etl",
+        "rag"
       ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Within the Forward Deployment Engineering (FDE) Unit , the Advisory AI Data Specialist is the data expert who makes customer data ready for AI and GenAI workloads.",
+      "is_remote": true
     },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-09T07:36:28.054Z"
+    "job_posted_at": "2026-04-09T07:36:58.678Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0237497",
@@ -2516,6 +4142,54 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "All-Source Intelligence Analyst The Opportunity: Do you find yourself constantly looking for more and better information?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:36:28.054Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0236926",
+    "job_title": "All-Source Intelligence Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0236926",
+    "job_posted_at_datetime_utc": "2026-04-09T07:36:28.054Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "011be940a51462409046acbe704d7034f9583de06039991e541d2a0fc60cb032",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "All-Source Intelligence Analyst The Opportunity : Do you find yourself constantly looking for more and better information?",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T07:36:28.054Z"
   },
   {
@@ -2545,6 +4219,38 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "airflow",
+        "api",
+        "ci/cd",
+        "crm",
+        "data pipeline",
+        "deep learning",
+        "docker",
+        "feature engineering",
+        "https",
+        "kubeflow",
+        "kubernetes",
+        "machine learning",
+        "python",
+        "pytorch",
+        "salesforce",
+        "scalability",
+        "scikit-learn",
+        "snowflake",
+        "spark",
+        "sql",
+        "tensorflow",
+        "xgboost"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T07:02:06.858Z"
   },
   {
@@ -2575,6 +4281,17 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
+    "enrichment": {
+      "required_skills": [
+        "adas",
+        "multimodal"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "As a part of the global research, our AI research in Pittsburgh focuses on Multimodal Foundation Models, AI-based Sensing, Driving assistance, agentic AI, and efficient GenAI.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T00:14:32.300Z"
   },
   {
@@ -2606,6 +4323,25 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer vision",
+        "data science",
+        "https",
+        "java",
+        "linux",
+        "natural language processing",
+        "nlp",
+        "python",
+        "unix"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "The Ads Measurement Science team in the Measurement, Ad Tech, and Data Science (MADS) team of Amazon Ads serves a centralized role developing solutions for a multitude of performance measurement produ…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T00:00:00.000Z"
   },
   {
@@ -2638,6 +4374,20 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "https",
+        "oscilloscope",
+        "python",
+        "r"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Amazon's Center for Quantum Computing in Pasadena, CA, is looking to hire a Hardware Development Engineer.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T00:00:00.000Z"
   },
   {
@@ -2666,6 +4416,23 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "business intelligence",
+        "dashboards",
+        "data visualization",
+        "excel",
+        "google sheets",
+        "looker",
+        "reporting",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": "3+ years of technical work experience using analytical tools and writing analytical reports   2+ years demonstrated ability to work with large datasets and distill analyses into relevant insights with",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T22:25:16.000Z"
   },
   {
@@ -2694,6 +4461,23 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "business intelligence",
+        "dashboards",
+        "data visualization",
+        "excel",
+        "google sheets",
+        "looker",
+        "reporting",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": "3+ years of technical work experience using analytical tools and writing analytical reports   2+ years demonstrated ability to work with large datasets and distill analyses into relevant insights with",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T22:25:15.000Z"
   },
   {
@@ -2722,6 +4506,23 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "business intelligence",
+        "dashboards",
+        "data visualization",
+        "excel",
+        "google sheets",
+        "looker",
+        "reporting",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": "3+ years of technical work experience using analytical tools and writing analytical reports   2+ years demonstrated ability to work with large datasets and distill analyses into relevant insights with",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T22:25:15.000Z"
   },
   {
@@ -2750,6 +4551,23 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "business intelligence",
+        "dashboards",
+        "data visualization",
+        "excel",
+        "google sheets",
+        "looker",
+        "reporting",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": "3+ years of technical work experience using analytical tools and writing analytical reports   2+ years demonstrated ability to work with large datasets and distill analyses into relevant insights with",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T22:25:14.000Z"
   },
   {
@@ -2779,6 +4597,26 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "business intelligence",
+        "dashboards",
+        "data visualization",
+        "excel",
+        "google sheets",
+        "looker",
+        "pandas",
+        "python",
+        "r",
+        "reporting",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": "3+ years experience in SQL, with the ability to filter, aggregate, and build CTEs, or proficiency in R or Python, including experience with Pandas, for loops, and statistical tests3+ years of technica",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T18:24:00-04:00"
   },
   {
@@ -2808,6 +4646,17 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
+    "enrichment": {
+      "required_skills": [
+        "fda",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "The Associate Data Analyst is responsible for executing all of the reporting, in partnership with internal and external stakeholders.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T22:14:55.295Z"
   },
   {
@@ -2838,6 +4687,23 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "apache",
+        "apache spark",
+        "dask",
+        "docker",
+        "kubernetes",
+        "pytorch",
+        "ray",
+        "spark"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": "Hands-on experience with PyTorch, including custom training loops, distributed training, or low-level performance work.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T21:09:58.000Z"
   },
   {
@@ -2866,6 +4732,27 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "business intelligence",
+        "data analysis",
+        "data integration",
+        "data visualization",
+        "excel",
+        "https",
+        "python",
+        "qlik",
+        "reporting",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Department: SWA University Our Company Promise We are committed to provide our Employees a stable work environment with equal opportunity for learning and personal growth.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T21:03:12.808Z"
   },
   {
@@ -2896,6 +4783,17 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "deep learning"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": "PhD in computer science or a related field, or equivalent experience   Significant experience building and scaling deep learning systems, ideally in research-driven environments   Strong engineering a",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T21:01:09.000Z"
   },
   {
@@ -2926,6 +4824,28 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "analytics",
+        "asana",
+        "etl",
+        "excel",
+        "hadoop",
+        "https",
+        "java",
+        "openai",
+        "python",
+        "s3",
+        "scala",
+        "spark"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": "The Finance Data team is embedded within the CFO Org and is responsible for building internal data products that scale analytics across business teams and drive efficiencies in our daily operations.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T20:56:29.094Z"
   },
   {
@@ -2954,6 +4874,14 @@
     },
     "_source": "aggregator",
     "_original_source": "eightfold",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T20:48:38.436Z"
   },
   {
@@ -2983,6 +4911,25 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "business intelligence",
+        "data quality",
+        "data science",
+        "https",
+        "llm",
+        "multimodal",
+        "numpy",
+        "pandas",
+        "python",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": "Point72’s Intelligence and Surveillance team sets the industry standard for intelligence driven analysis by proactively identifying, monitoring, and assessing various sources of risk using proprietary…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T20:22:13.000Z"
   },
   {
@@ -3011,6 +4958,22 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "data pipeline",
+        "linux",
+        "machine learning",
+        "python",
+        "regression",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Boston Dynamics is seeking a highly organized Technical Trainer to design, deliver, and manage training and documentation for the Atlas Data Operations (ADOPS) team and external product operators.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T19:43:47.797Z"
   },
   {
@@ -3040,6 +5003,27 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data science",
+        "data visualization",
+        "looker",
+        "machine learning",
+        "matplotlib",
+        "numpy",
+        "pandas",
+        "python",
+        "sql",
+        "statistics",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": "Who You Are   You have 3+ years experience in a similar data science role   You are interested in supporting the growth of a maturing platform, building the foundation for the future of Spotify Advert…",
+      "is_remote": true
+    },
     "job_posted_at": "2026-04-08T18:31:37.800Z"
   },
   {
@@ -3069,6 +5053,37 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "api gateway",
+        "c++",
+        "computer science",
+        "deep learning",
+        "distributed systems",
+        "envoy",
+        "fault tolerance",
+        "go",
+        "golang",
+        "grpc",
+        "http",
+        "istio",
+        "kubernetes",
+        "linux",
+        "llm",
+        "machine learning",
+        "networking",
+        "python",
+        "red hat",
+        "routing",
+        "rust"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Summary At Red Hat we believe the future of AI is open and we are on a mission to bring the power of open-source LLMs and vLLM to every enterprise.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T18:07:48.232Z"
   },
   {
@@ -3127,6 +5142,27 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data architecture",
+        "data pipeline",
+        "data quality",
+        "data science",
+        "https",
+        "java",
+        "python",
+        "r",
+        "reporting",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": "Twitch is the world’s biggest live streaming service, with global communities built around gaming, entertainment, music, sports, cooking, and more.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T12:07:36-04:00"
   },
   {
@@ -3156,6 +5192,17 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cybersecurity",
+        "program management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Title: Intelligence Analyst – All Source Intelligence Belong.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T15:45:28.013Z"
   },
   {
@@ -3186,6 +5233,16 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "cfr"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": "Applied Intuition pay ranges reflect the minimum and maximum intended target base salary for new hire salaries for the position.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T15:42:25.000Z"
   },
   {
@@ -3214,6 +5271,14 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: Intelligence Analyst Job Category: Intelligence Time Type: Full time Minimum Clearance Required to Start: TS/SCI Employee Type: Regular Percentage of Travel Required: Up to 10% Type of Trav…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T13:56:00.899Z"
   },
   {
@@ -3242,6 +5307,20 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "excel",
+        "requirements gathering",
+        "system design",
+        "visio"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Description Position is only open to work in the Columbus, GA office.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T13:33:07.290Z"
   },
   {
@@ -3272,6 +5351,21 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "business intelligence",
+        "dashboards",
+        "data analysis",
+        "data quality",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "The Business Intelligence Analyst will support the delivery of data analysis, reporting, and analytical solutions for teams focused on operations and solutions in high-volume payment environments.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T13:19:40.360Z"
   },
   {
@@ -3300,6 +5394,28 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data science",
+        "deep learning",
+        "docker",
+        "flask",
+        "looker",
+        "machine learning",
+        "natural language processing",
+        "nlp",
+        "pandas",
+        "python",
+        "statistics",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Description: Note: Fidelity will not provide immigration sponsorship for this position.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T12:54:33.026Z"
   },
   {
@@ -3328,6 +5444,28 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data science",
+        "deep learning",
+        "docker",
+        "flask",
+        "looker",
+        "machine learning",
+        "natural language processing",
+        "nlp",
+        "pandas",
+        "python",
+        "statistics",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Description: Note: Fidelity will not provide immigration sponsorship for this position.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T12:54:33.026Z"
   },
   {
@@ -3356,6 +5494,16 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Tasking: Collects, analyzes, interprets, evaluates and integrates complex data from multiple sources in assessing the relevance and significance of developments in his/her assigned area(s), and in pre…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T07:10:51.210Z"
   },
   {
@@ -3385,6 +5533,17 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "python",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Leidos is actively hiring for a Geospatial Data Analyst to join our team out of St.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T07:10:51.210Z"
   },
   {
@@ -3413,6 +5572,19 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "confluence",
+        "excel",
+        "jira",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Accelerate Your Career in National Security with Leidos!",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T07:10:51.209Z"
   },
   {
@@ -3441,6 +5613,16 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "General program information and/or position overview: In support of the Critical Infrastructure Protection team, the intelligence analyst shall communicate effectively orally and in writing, to includ…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T07:10:51.209Z"
   },
   {
@@ -3470,6 +5652,22 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "change management",
+        "data quality",
+        "lean six sigma",
+        "process improvement",
+        "root cause analysis",
+        "sap",
+        "six sigma"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Location: Mount Pleasant, Pennsylvania, United States of America Job ID: R0084234 Date Posted: 2025-09-29 Company Name: HITACHI ENERGY USA INC Profession (Job Category): Quality Management Job Schedul…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T07:10:23.302Z"
   },
   {
@@ -3498,6 +5696,38 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "azure",
+        "business intelligence",
+        "ci/cd",
+        "dashboards",
+        "data integration",
+        "data quality",
+        "data science",
+        "data visualization",
+        "databricks",
+        "elt",
+        "etl",
+        "machine learning",
+        "microsoft sql server",
+        "pyspark",
+        "python",
+        "qlik",
+        "reporting",
+        "snowflake",
+        "sql",
+        "sql server",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Family : Data Science Consulting Travel Required : Up to 10% Clearance Required : Ability to Obtain Public Trust What You Will Do: Our consultants on the Defense & Security AI & Data team help cli…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T07:10:15.612Z"
   },
   {
@@ -3526,6 +5756,23 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data pipeline",
+        "data science",
+        "data visualization",
+        "power bi",
+        "python",
+        "r",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Family : Data Science Consulting Travel Required : None Clearance Required : Active Secret What You Will Do : Guidehouse is seeking a Data Analytics Consultant who will provide data solutions (ana…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T07:10:15.612Z"
   },
   {
@@ -3554,6 +5801,17 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "reporting",
+        "vendor management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Description: The Role As a Market Data Analyst (MDA) reporting to the Market Data Manager within the Investment Information Services (IIS) organization, you will play a key role in supporting the…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T07:09:58.257Z"
   },
   {
@@ -3582,6 +5840,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "azure",
+        "business intelligence",
+        "computer science",
+        "dashboards",
+        "data architecture",
+        "data governance",
+        "data modeling",
+        "databricks",
+        "gcp",
+        "looker",
+        "power bi",
+        "python",
+        "qlik",
+        "reporting",
+        "snowflake",
+        "spark",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Description The Role The Business Intelligence Data Analyst is a pivotal role within the Global Purchasing & Supply Chain - Strategy & Innovation team, operating in a hybrid work environment.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T07:09:54.017Z"
   },
   {
@@ -3611,6 +5898,24 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "abaqus",
+        "data science",
+        "linear",
+        "machine learning",
+        "matlab",
+        "move",
+        "python",
+        "root cause analysis",
+        "vba"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Description At General Motors, our product teams are redefining mobility.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T07:09:54.017Z"
   },
   {
@@ -3640,6 +5945,23 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "data governance",
+        "data integration",
+        "data pipeline",
+        "elt",
+        "etl",
+        "rag"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Advisory AI Data Specialist (FDE Unit) Job Posting Advisory AI Data Specialist (FDE Unit) Within the Forward Deployment Engineering (FDE) Unit , the Advisory AI Data Specialist is the data expert who…",
+      "is_remote": true
+    },
     "job_posted_at": "2026-04-08T07:09:35.935Z"
   },
   {
@@ -3668,7 +5990,182 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "dashboards",
+        "data analysis",
+        "data science",
+        "excel",
+        "power bi",
+        "python",
+        "snowflake",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Career Area: Technology, Digital and Data Job Description: Your Work Shapes the World at Caterpillar Inc.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T07:09:28.781Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235465",
+    "job_title": "Energy All-Source Intelligence Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0235465",
+    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "528c783f3010bdd1ed34d8e992458b558a8cae7e936271b55b7c274c53c27505",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Energy All-Source Intelligence Analyst The Opportunity: With all of the information available today, it takes a skilled all-source analyst to know how to find and interpret the best data to give their…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:09:05.849Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235469",
+    "job_title": "Energy All-Source Intelligence Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0235469",
+    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "528c783f3010bdd1ed34d8e992458b558a8cae7e936271b55b7c274c53c27505",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Energy All-Source Intelligence Analyst The Opportunity: With all of the information available today, it takes a skilled all-source analyst to know how to find and interpret the best data to give their…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:09:05.849Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235463",
+    "job_title": "Energy All-Source Intelligence Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0235463",
+    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "528c783f3010bdd1ed34d8e992458b558a8cae7e936271b55b7c274c53c27505",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Energy All-Source Intelligence Analyst The Opportunity: With all of the information available today, it takes a skilled all-source analyst to know how to find and interpret the best data to give their…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:09:05.849Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237320",
+    "job_title": "Human Capital Data Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Chantilly",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Human-Capital-Data-Analyst_R0237320",
+    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "157fda429f5d4a5d33f5abfb033d57ff8e7ac820fa88d402032406e9699faf55",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "dashboards",
+        "data analysis",
+        "data governance",
+        "data visualization",
+        "excel",
+        "natural language processing",
+        "pivot tables",
+        "python",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Human Capital Data Analyst The Opportunity: As Data Analyst, you love diving into data and turning it into meaningful insights.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:09:05.849Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0237416",
@@ -3696,6 +6193,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "analytics",
+        "aws",
+        "computer science",
+        "data analysis",
+        "data science",
+        "data visualization",
+        "databricks",
+        "dbt",
+        "devops",
+        "etl",
+        "hadoop",
+        "hive",
+        "kafka",
+        "machine learning",
+        "natural language processing",
+        "power bi",
+        "qlik",
+        "spark",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Data Scientist The Opportunity: Ever-expanding technologies like IoT, machine learning, and artificial intelligence are generating more structured and unstructured data than ever before.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T07:09:05.849Z"
   },
   {
@@ -3724,6 +6250,37 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "aws",
+        "data science",
+        "data visualization",
+        "databricks",
+        "elt",
+        "etl",
+        "git",
+        "hadoop",
+        "hive",
+        "kafka",
+        "machine learning",
+        "power bi",
+        "python",
+        "qlik",
+        "r",
+        "reporting",
+        "scala",
+        "spark",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Data Engineer The Opportunity : Ever-expanding technology like IoT, machine learning, and artifi cia l intelligence means that there’s more structured and unstructured data available today than ever b…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T07:09:05.849Z"
   },
   {
@@ -3752,6 +6309,16 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Defense Critical Infrastructure Intelligence Analyst The Opportunity : Do you find yourself constantly looking for more and better information?",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T07:09:05.849Z"
   },
   {
@@ -3781,6 +6348,16 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "All Source Intelligence Analyst The Opportunity: Our clients need skilled analysts to turn reams of data into actionable intelligence for our government and military every day.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T07:09:05.849Z"
   },
   {
@@ -3809,6 +6386,44 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "aws",
+        "azure",
+        "c++",
+        "cassandra",
+        "databricks",
+        "elt",
+        "etl",
+        "google cloud",
+        "hadoop",
+        "hive",
+        "java",
+        "kafka",
+        "linux",
+        "machine learning",
+        "microsoft azure",
+        "mongodb",
+        "mysql",
+        "python",
+        "redshift",
+        "reporting",
+        "scala",
+        "shell",
+        "shell scripting",
+        "snowflake",
+        "spark",
+        "sql",
+        "unix"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Databricks Data Engineer The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there’s more structured and unstructured data available today tha…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T07:09:05.849Z"
   },
   {
@@ -3837,6 +6452,30 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "c++",
+        "dashboards",
+        "data governance",
+        "data quality",
+        "data visualization",
+        "databricks",
+        "java",
+        "lean",
+        "lean six sigma",
+        "process improvement",
+        "python",
+        "six sigma",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Data Engineer The Opportunity: As a data engineer at Booz Allen, you’ll help build advanced technology solutions and implement data engineering activities on some of the most mission-driven projects i…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T07:09:05.849Z"
   },
   {
@@ -3865,118 +6504,30 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:09:05.849Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235465",
-    "job_title": "Energy All-Source Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0235465",
-    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "528c783f3010bdd1ed34d8e992458b558a8cae7e936271b55b7c274c53c27505",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "data analysis",
+        "data visualization",
+        "excel",
+        "machine learning",
+        "power bi",
+        "pyspark",
+        "python",
+        "r",
+        "spark",
+        "sql",
+        "statistical analysis",
+        "statistics",
+        "tableau"
       ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Data Analyst The Opportunity: As a Data Analyst, you enjoy diving into data and turning it into meaningful insights.",
+      "is_remote": false
     },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:09:05.849Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235469",
-    "job_title": "Energy All-Source Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0235469",
-    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "528c783f3010bdd1ed34d8e992458b558a8cae7e936271b55b7c274c53c27505",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:09:05.849Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235463",
-    "job_title": "Energy All-Source Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0235463",
-    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "528c783f3010bdd1ed34d8e992458b558a8cae7e936271b55b7c274c53c27505",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:09:05.849Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237320",
-    "job_title": "Human Capital Data Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Chantilly",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Human-Capital-Data-Analyst_R0237320",
-    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "157fda429f5d4a5d33f5abfb033d57ff8e7ac820fa88d402032406e9699faf55",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
     "job_posted_at": "2026-04-08T07:09:05.849Z"
   },
   {
@@ -4005,6 +6556,34 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "dashboards",
+        "data analysis",
+        "data science",
+        "data visualization",
+        "databricks",
+        "devops",
+        "etl",
+        "jupyter",
+        "jupyter notebook",
+        "kanban",
+        "machine learning",
+        "power bi",
+        "python",
+        "r",
+        "scrum",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Data Analyst The Opportunity: As data analyst, you love diving into data and turning it into meaningful insights.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T07:09:05.849Z"
   },
   {
@@ -4034,6 +6613,16 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "About Our Company Working at Columbia Threadneedle Investments you'll find growth and career opportunities across all of our businesses.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T07:08:24.447Z"
   },
   {
@@ -4063,6 +6652,16 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "About Our Company Working at Columbia Threadneedle Investments you'll find growth and career opportunities across all of our businesses.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T07:08:24.447Z"
   },
   {
@@ -4091,6 +6690,39 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "azure",
+        "azure devops",
+        "business intelligence",
+        "ci/cd",
+        "computer science",
+        "dashboards",
+        "data architecture",
+        "data pipeline",
+        "data quality",
+        "data science",
+        "dbt",
+        "devops",
+        "elt",
+        "etl",
+        "fiber",
+        "github",
+        "network engineering",
+        "power bi",
+        "python",
+        "reporting",
+        "snowflake",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Company Description Zayo provides mission-critical bandwidth to the world’s most impactful companies, fueling the innovations that are transforming our society.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T07:01:20.859Z"
   },
   {
@@ -4121,6 +6753,33 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "aws",
+        "azure",
+        "crm",
+        "distributed systems",
+        "gcp",
+        "https",
+        "infrastructure as code",
+        "kubernetes",
+        "llm",
+        "machine learning",
+        "observability",
+        "ray",
+        "salesforce",
+        "scalability",
+        "sdk",
+        "slack",
+        "spark"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T07:01:12.014Z"
   },
   {
@@ -4149,6 +6808,37 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "a/b testing",
+        "analytics",
+        "classification",
+        "computer science",
+        "data science",
+        "data visualization",
+        "forecasting",
+        "hadoop",
+        "hive",
+        "https",
+        "machine learning",
+        "numpy",
+        "pandas",
+        "process improvement",
+        "python",
+        "regression",
+        "risk management",
+        "sklearn",
+        "sql",
+        "statistical analysis",
+        "statistics",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "The Company PayPal has been revolutionizing commerce globally for more than 25 years.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T07:00:28.539Z"
   },
   {
@@ -4179,6 +6869,17 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "deep learning"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": "PhD in computer science or a related field, or equivalent experience   Significant experience building and scaling deep learning systems, ideally in research-driven environments   Strong engineering a",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T04:34:24.000Z"
   },
   {
@@ -4209,6 +6910,23 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "apache",
+        "apache spark",
+        "dask",
+        "docker",
+        "kubernetes",
+        "pytorch",
+        "ray",
+        "spark"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": "Hands-on experience with PyTorch, including custom training loops, distributed training, or low-level performance work.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T04:30:09.000Z"
   },
   {
@@ -4240,6 +6958,22 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "amazon web services",
+        "c++",
+        "https",
+        "java",
+        "python",
+        "tls"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "The Amazon Web Services Center for Quantum Computing (CQC) in Pasadena, CA, is looking to hire an Applied Scientist.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T00:00:00.000Z"
   },
   {
@@ -4271,6 +7005,26 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "data analysis",
+        "https",
+        "java",
+        "large language model",
+        "llm",
+        "machine learning",
+        "python",
+        "statistical analysis",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "About Sponsored Products and Brands The Sponsored Products and Brands team at Amazon Ads is re-imagining the advertising landscape through generative AI technologies, revolutionizing how millions of c…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T00:00:00.000Z"
   },
   {
@@ -4300,6 +7054,20 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data analysis",
+        "data science",
+        "data visualization",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Required Qualification  • Bachelor s degree in Data Science, Computer Science, Statistics, Information Systems, or a related field.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T00:00:00.000Z"
   },
   {
@@ -4329,6 +7097,21 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "excel",
+        "microsoft office",
+        "power bi",
+        "root cause analysis",
+        "statistical analysis"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Position: Business Data Analyst, Construction.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T00:00:00.000Z"
   },
   {
@@ -4358,6 +7141,22 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data visualization",
+        "power bi",
+        "python",
+        "sql",
+        "statistics",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Required Qualifications  • Bachelor's degree in a related field such as Mathematics, Statistics, Economics, or Computer Science  • Strong analytical and problem-solving skills  • Proficiency in SQL, P…",
+      "is_remote": true
+    },
     "job_posted_at": "2026-04-08T00:00:00.000Z"
   },
   {
@@ -4389,6 +7188,20 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data lake",
+        "data quality",
+        "data science",
+        "data warehouse"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "The Central Learning Solutions - Technology team builds state-of-the-art Artificial Intelligence (AI) solutions for enhancing leadership and associate development within the organization.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T00:00:00.000Z"
   },
   {
@@ -4419,6 +7232,21 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "data visualization",
+        "dbt",
+        "looker",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Your Qualifications:   At least 4 years experience working cross-functionally with complex datasets to support organizational decision making.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T19:17:24.532Z"
   },
   {
@@ -4449,6 +7277,14 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T13:53:16-04:00"
   },
   {
@@ -4506,6 +7342,16 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
+    "enrichment": {
+      "required_skills": [
+        "soc"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Our Bosch Research team occupies a critical position between academic research and product development, distinguishing us from many other companies.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T15:42:30.812Z"
   },
   {
@@ -4536,6 +7382,16 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
+    "enrichment": {
+      "required_skills": [
+        "data science"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "To ensure that Visa’s payment technology is truly available to everyone, everywhere requires the success of our key bank or merchant partners and internal business units.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T15:18:13.420Z"
   },
   {
@@ -4564,6 +7420,32 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "data science",
+        "data visualization",
+        "hadoop",
+        "hive",
+        "kafka",
+        "machine learning",
+        "mysql",
+        "natural language processing",
+        "nlp",
+        "plotly",
+        "python",
+        "r",
+        "seaborn",
+        "spark",
+        "sql",
+        "vault"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Data Scientist The Opportunity: As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine le…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T15:00:58.093Z"
   },
   {
@@ -4592,6 +7474,19 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "data science",
+        "machine learning"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Bachelor’s degree in computer science, data science, physics, mathematics, or a STEM discipline   1+ years of data/software engineering experience (internship experience is applicable)   Experience in",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T13:55:21.000Z"
   },
   {
@@ -4620,6 +7515,19 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "data science",
+        "machine learning"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Bachelor’s degree in computer science, data science, physics, mathematics, or a STEM discipline   1+ years of data/software engineering experience (internship experience is applicable)   Experience in",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T13:55:20.000Z"
   },
   {
@@ -4650,6 +7558,25 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "dashboards",
+        "data analysis",
+        "data governance",
+        "data science",
+        "hive",
+        "llm",
+        "machine learning",
+        "python",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "The Global Data Science team at Visa leverages our rich data - spanning over 3 billion card accounts and 100 billion transactions per year- and other third-party data sources to solve meaningful busin…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T13:41:47.112Z"
   },
   {
@@ -4681,6 +7608,22 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
+    "enrichment": {
+      "required_skills": [
+        "computer vision",
+        "deep learning",
+        "machine learning",
+        "multimodal",
+        "pytorch",
+        "reinforcement learning",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": "in Robotics, Machine Learning, Computer Vision, or related field , or equivalent applied research experience.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T12:17:50.539Z"
   },
   {
@@ -4709,6 +7652,21 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cgmp",
+        "excel",
+        "gmp",
+        "good manufacturing",
+        "https",
+        "routing"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Work Schedule First Shift (Days) Environmental Conditions Adherence to all Good Manufacturing Practices (GMP) Safety Standards Job Description Join Us as an Associate Research Scientist – Make an Impa…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T07:39:34.469Z"
   },
   {
@@ -4738,6 +7696,27 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "computer science",
+        "computer vision",
+        "data science",
+        "databricks",
+        "deep learning",
+        "embedded systems",
+        "machine learning",
+        "python",
+        "pytorch",
+        "statistical analysis",
+        "transformers"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "We are seeking a Computer Vision Data Scientist with a few years of accomplished image analysis experience to develop imaging algorithms for veterinary clinical instrument platforms.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T07:37:38.319Z"
   },
   {
@@ -4766,6 +7745,33 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "angular",
+        "aws",
+        "azure",
+        "computer science",
+        "continuous delivery",
+        "continuous integration",
+        "devops",
+        "git",
+        "html5",
+        "java",
+        "jenkins",
+        "jira",
+        "message queue",
+        "networking",
+        "project management",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "About GlobalFoundries GlobalFoundries (GF) is a leading full-service semiconductor foundry providing a unique combination of design, development, and fabrication services to some of the world’s most i…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T07:37:16.382Z"
   },
   {
@@ -4794,6 +7800,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "api",
+        "computer science",
+        "dashboards",
+        "data analysis",
+        "data architecture",
+        "data science",
+        "data visualization",
+        "etl",
+        "https",
+        "machine learning",
+        "numpy",
+        "pandas",
+        "power bi",
+        "python",
+        "risk management",
+        "sql",
+        "statistics",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Overview The Business Solutions Group (BSG) sits within Morgan Stanley’s Institutional Securities Group (ISG) and drives cross-business transformation initiatives focused on operational efficiency, da…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T07:09:55.045Z"
   },
   {
@@ -4822,6 +7857,19 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "capa",
+        "https",
+        "project management",
+        "root cause analysis"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Work Schedule Standard (Mon-Fri) Environmental Conditions Laboratory Setting, Some degree of PPE (Personal Protective Equipment) required (safety glasses, gowning, gloves, lab coat, ear plugs etc.) Jo…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T07:08:51.326Z"
   },
   {
@@ -4850,6 +7898,21 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cybersecurity",
+        "data science",
+        "linux",
+        "networking",
+        "perl",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "We protect how people, data, and AI agents connect across email, cloud, and collaboration tools.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T07:07:35.666Z"
   },
   {
@@ -4878,6 +7941,46 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "c#",
+        "c++",
+        "computer science",
+        "cybersecurity",
+        "data pipeline",
+        "data science",
+        "data visualization",
+        "design patterns",
+        "etl",
+        "hadoop",
+        "hive",
+        "java",
+        "jupyter",
+        "jupyter notebook",
+        "linux",
+        "machine learning",
+        "mongodb",
+        "neo4j",
+        "program management",
+        "python",
+        "r",
+        "scala",
+        "spark",
+        "sql",
+        "sql server",
+        "statistical analysis",
+        "statistics",
+        "vmware",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "KBR’s National Security Solutions team provides high-end engineering and advanced technology solutions to our customers in the intelligence and national security communities.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T07:07:13.617Z"
   },
   {
@@ -4906,6 +8009,46 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "c#",
+        "c++",
+        "computer science",
+        "cybersecurity",
+        "data pipeline",
+        "data science",
+        "data visualization",
+        "design patterns",
+        "etl",
+        "hadoop",
+        "hive",
+        "java",
+        "jupyter",
+        "jupyter notebook",
+        "linux",
+        "machine learning",
+        "mongodb",
+        "neo4j",
+        "program management",
+        "python",
+        "r",
+        "scala",
+        "spark",
+        "sql",
+        "sql server",
+        "statistical analysis",
+        "statistics",
+        "vmware",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "KBR’s National Security Solutions team provides high-end engineering and advanced technology solutions to our customers in the intelligence and national security communities.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T07:07:13.617Z"
   },
   {
@@ -4934,6 +8077,24 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "cybersecurity",
+        "java",
+        "jmp",
+        "matlab",
+        "program management",
+        "python",
+        "r",
+        "vba"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Title: Operations Research Analyst Belong.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T07:07:13.617Z"
   },
   {
@@ -4962,6 +8123,24 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data science",
+        "deep learning",
+        "https",
+        "machine learning",
+        "project management",
+        "sql",
+        "statistical analysis",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Innovate in Charlotte Thank you for dedicating your time and talent to Lowe’s.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T07:07:08.601Z"
   },
   {
@@ -4990,6 +8169,23 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "dashboards",
+        "data governance",
+        "data pipeline",
+        "power bi",
+        "python",
+        "reporting",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Family : Data Engineering & Architecture Consulting Travel Required : None Clearance Required : Active Secret What You Will Do : The Data Engineer will join a dynamic team supporting a global impl…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T07:06:46.929Z"
   },
   {
@@ -5048,6 +8244,40 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "analytics",
+        "aws",
+        "computer science",
+        "data pipeline",
+        "data quality",
+        "data science",
+        "data visualization",
+        "data warehouse",
+        "databricks",
+        "dbt",
+        "elt",
+        "etl",
+        "event-driven",
+        "feature engineering",
+        "git",
+        "github",
+        "looker",
+        "machine learning",
+        "python",
+        "reporting",
+        "scala",
+        "spark",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Ibotta is seeking an Analytics Engineer, Feature Engineering to join our innovative Core Data & Analytics team and contribute to our mission to Make Every Purchase Rewarding.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T07:06:31.511Z"
   },
   {
@@ -5076,6 +8306,41 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "aws",
+        "cassandra",
+        "data analysis",
+        "data warehouse",
+        "databricks",
+        "elt",
+        "etl",
+        "hadoop",
+        "hive",
+        "kafka",
+        "linux",
+        "machine learning",
+        "mongodb",
+        "mysql",
+        "postgres",
+        "python",
+        "redshift",
+        "reporting",
+        "shell",
+        "shell scripting",
+        "snowflake",
+        "spark",
+        "sql",
+        "unix"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Data Engineer The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there’s more structured and unstructured data available today than ever befo…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T07:05:32.360Z"
   },
   {
@@ -5104,6 +8369,22 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "data science",
+        "data visualization",
+        "databricks",
+        "machine learning",
+        "natural language processing",
+        "qlik"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Data Engineer The Opportunity : As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine le…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T07:05:32.360Z"
   },
   {
@@ -5132,6 +8413,16 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Intelligence Analyst The Opportunity : As a defense mission professional, you ask questions others don’t.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T07:05:32.360Z"
   },
   {
@@ -5160,6 +8451,16 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Intelligence Analyst The Opportunity : As a defense mission professional, you ask questions others don’t.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T07:05:32.360Z"
   },
   {
@@ -5188,6 +8489,30 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data analysis",
+        "data pipeline",
+        "data science",
+        "jmp",
+        "machine learning",
+        "pandas",
+        "playwright",
+        "python",
+        "qlik",
+        "r",
+        "seaborn",
+        "sql",
+        "statistical analysis",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Data Scientist The Opportunity: As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine le…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T07:05:32.360Z"
   },
   {
@@ -5217,6 +8542,29 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "c#",
+        "c++",
+        "data science",
+        "databricks",
+        "embedded systems",
+        "hadoop",
+        "java",
+        "langchain",
+        "llm",
+        "machine learning",
+        "python",
+        "rust",
+        "spark"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "AI/ML Engineer The Opportunity: Design and implement effective AI solution architecture utilizing approaches of various AI technologies and methods to address Marine Corps operational needs.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T07:05:32.360Z"
   },
   {
@@ -5246,6 +8594,28 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "c#",
+        "c++",
+        "data science",
+        "databricks",
+        "embedded systems",
+        "hadoop",
+        "java",
+        "langchain",
+        "llm",
+        "machine learning",
+        "python",
+        "spark"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "AI/ML Engineer The Opportunity : Design and implement effective AI solution architecture utilizing approaches of various AI technologies and met hods to address Marine Corps operational needs.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T07:05:32.360Z"
   },
   {
@@ -5274,6 +8644,28 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "c#",
+        "c++",
+        "data science",
+        "databricks",
+        "embedded systems",
+        "hadoop",
+        "java",
+        "langchain",
+        "llm",
+        "machine learning",
+        "python",
+        "spark"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "AI and ML Engineer The Opportunity : Design and implement effective AI solution architecture utilizing approaches of various AI technologies and met hods to address Marine Corps operational needs.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T07:05:32.360Z"
   },
   {
@@ -5303,6 +8695,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "apache",
+        "apache spark",
+        "api",
+        "aws",
+        "azure",
+        "ci/cd",
+        "computer science",
+        "data science",
+        "deep learning",
+        "docker",
+        "gcp",
+        "git",
+        "kubeflow",
+        "kubernetes",
+        "machine learning",
+        "mlflow",
+        "python",
+        "r",
+        "spark",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: AI/ML Engineer Job Category: Engineering Time Type: Full time Minimum Clearance Required to Start: Secret Employee Type: Regular Percentage of Travel Required: Up to 10% Type of Travel: Con…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T07:05:24.234Z"
   },
   {
@@ -5332,6 +8753,17 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "https",
+        "microsoft office"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Work Schedule Weekend nights Environmental Conditions Office Job Description As part of the Thermo Fisher Scientific team, you’ll discover meaningful work that makes a positive impact on a global scal…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T07:01:27.754Z"
   },
   {
@@ -5360,6 +8792,22 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "embedded systems",
+        "express",
+        "firmware",
+        "python",
+        "soc",
+        "statistical analysis"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Snap Inc is a technology company.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T07:01:02.189Z"
   },
   {
@@ -5388,6 +8836,39 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "azure",
+        "computer science",
+        "crm",
+        "data analysis",
+        "data pipeline",
+        "data quality",
+        "data science",
+        "data visualization",
+        "databricks",
+        "deep learning",
+        "etl",
+        "machine learning",
+        "power bi",
+        "process improvement",
+        "python",
+        "pytorch",
+        "r",
+        "sql",
+        "statistical analysis",
+        "statistics",
+        "tableau",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description As part of the Thermo Fisher Scientific team, you’ll discover meaningful work that makes a positive impact on a global…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T05:00:32.188Z"
   },
   {
@@ -5418,6 +8899,18 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "django",
+        "python",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": "What We’re Looking For   - Strong backend engineering skills (ex.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T02:33:59.021Z"
   },
   {
@@ -5446,6 +8939,14 @@
     },
     "_source": "aggregator",
     "_original_source": "eightfold",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T00:02:09.552Z"
   },
   {
@@ -5478,6 +8979,23 @@
     },
     "_source": "aggregator",
     "_original_source": "netflix",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data analysis",
+        "java",
+        "less",
+        "machine learning",
+        "python",
+        "scala",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Qualifications:  Advanced degree (PhD or Master’s) in Computer Science, Statistics, Mathematics, or related quantitative field.",
+      "is_remote": true
+    },
     "job_posted_at": "2026-04-07T00:00:00.000Z"
   },
   {
@@ -5509,6 +9027,27 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "business intelligence",
+        "data integration",
+        "data modeling",
+        "data pipeline",
+        "etl",
+        "java",
+        "jira",
+        "pyspark",
+        "python",
+        "reporting",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Amazon's Worldwide Grocery Stores-Grocery Tech Foundation team is seeking an experienced Data Engineer to lead medium to large cross-functional strategic initiatives that support WWGS strategic goals.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T00:00:00.000Z"
   },
   {
@@ -5538,6 +9077,26 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "azure",
+        "data science",
+        "data visualization",
+        "keras",
+        "machine learning",
+        "python",
+        "r",
+        "scala",
+        "scikit-learn",
+        "spark",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Required Qualifications • Industry experience in predictive modeling, data science and analysis.",
+      "is_remote": true
+    },
     "job_posted_at": "2026-04-07T00:00:00.000Z"
   },
   {
@@ -5567,6 +9126,14 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Data Analyst Remote Jobs Entry Level Jobs For Freshers job at BigDataKB.com.",
+      "is_remote": true
+    },
     "job_posted_at": "2026-04-07T00:00:00.000Z"
   },
   {
@@ -5596,6 +9163,14 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: Junior Data Analyst (**Immediate Joining**)Location: [Anywhere in USA]Experience: 1–3 yearsEmployment Type: Full-TimeAre you excited about taking your technical career to new heights with a…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T00:00:00.000Z"
   },
   {
@@ -5625,6 +9200,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "c++",
+        "ci/cd",
+        "computer science",
+        "data architecture",
+        "data modeling",
+        "data science",
+        "deep learning",
+        "docker",
+        "git",
+        "http",
+        "integration testing",
+        "machine learning",
+        "numpy",
+        "pandas",
+        "python",
+        "pytorch",
+        "sklearn",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "RELOCATION ASSISTANCE: Relocation assistance may be available CLEARANCE REQUIRED FOR START: Yes CLEARANCE TYPE: Top Secret TRAVEL: Yes, 25% of the Time Description At Northrop Grumman, our employees h…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T23:44:39.912Z"
   },
   {
@@ -5654,6 +9258,14 @@
     },
     "_source": "aggregator",
     "_original_source": "eightfold",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T22:01:49.943Z"
   },
   {
@@ -5683,6 +9295,28 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "dashboards",
+        "data analysis",
+        "data governance",
+        "data modeling",
+        "data quality",
+        "data visualization",
+        "dsp",
+        "power bi",
+        "reporting",
+        "sap",
+        "sql",
+        "sql server"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "The Customer Master Data & Analytics Analyst , within the Finance Shared Services (FSS) organization, supports the Order to Cash (OTC) process by executing established data governance, data quality, a…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T20:27:34.646Z"
   },
   {
@@ -5711,6 +9345,28 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "data analysis",
+        "data governance",
+        "data lake",
+        "data modeling",
+        "data quality",
+        "databricks",
+        "etl",
+        "jupyter",
+        "jupyter notebook",
+        "python",
+        "sql",
+        "statistical analysis"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Logistics Data Analyst The Opportunity : The Data Analyst will work with a team to provide high-quality service to our customers in managing a portfolio of systems.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T19:31:02.376Z"
   },
   {
@@ -5739,6 +9395,32 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "aws",
+        "azure",
+        "business intelligence",
+        "dashboards",
+        "data integration",
+        "data lake",
+        "data modeling",
+        "data visualization",
+        "elt",
+        "etl",
+        "power bi",
+        "project management",
+        "reporting",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Enterprise Reporting Data Scientist The Opportunity: The Business Analytics team sit s within Booz Allen’s CIO organization.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T19:17:27.253Z"
   },
   {
@@ -5797,6 +9479,24 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "computer science",
+        "erp",
+        "machine learning",
+        "natural language processing",
+        "pytorch",
+        "reporting",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: AI Data Specialist Job Category: Information Technology Time Type: Full time Minimum Clearance Required to Start: None Employee Type: Regular Percentage of Travel Required: None Type of Tra…",
+      "is_remote": true
+    },
     "job_posted_at": "2026-04-06T17:56:50.030Z"
   },
   {
@@ -5825,6 +9525,24 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "excel",
+        "forecasting",
+        "pandas",
+        "python",
+        "regression",
+        "snowflake",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": "Qsight is a high-growth division of Guidepoint focused on building market-leading data intelligence and market research solutions for the healthcare industry.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T12:50:11-04:00"
   },
   {
@@ -5855,6 +9573,21 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "change management",
+        "dashboards",
+        "data quality",
+        "program management",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Position Purpose: As a member of our team, you will be working on a wide range of operational and technical issues across municipal and industrial water utility operations, hazardous waste management…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T16:30:01.801Z"
   },
   {
@@ -5883,6 +9616,14 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T11:14:41-04:00"
   },
   {
@@ -5911,6 +9652,43 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "aws",
+        "azure",
+        "c++",
+        "cassandra",
+        "databricks",
+        "elt",
+        "etl",
+        "google cloud",
+        "hadoop",
+        "hive",
+        "java",
+        "kafka",
+        "linux",
+        "machine learning",
+        "mongodb",
+        "mysql",
+        "python",
+        "redshift",
+        "reporting",
+        "scala",
+        "shell",
+        "shell scripting",
+        "snowflake",
+        "spark",
+        "sql",
+        "unix"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Data Engineer The Opportunity : Ever-expanding technology like IoT, machine learning, and artifi cia l intelligence means that there’s more structured and unstructured data available today than ever b…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T14:29:08.955Z"
   },
   {
@@ -5939,6 +9717,27 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "aws",
+        "data analysis",
+        "data quality",
+        "excel",
+        "python",
+        "shell",
+        "shell scripting",
+        "sql",
+        "unix",
+        "visio"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Description: IT Data Analyst Note: Fidelity is not providing immigration sponsorship for this position The Data Analyst will be required to work across different groups within the Market Data orga…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T14:17:53.023Z"
   },
   {
@@ -5969,6 +9768,33 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "azure",
+        "classification",
+        "computer science",
+        "data analysis",
+        "data science",
+        "feature engineering",
+        "gcp",
+        "http",
+        "machine learning",
+        "neural network",
+        "nlp",
+        "notion",
+        "python",
+        "pytorch",
+        "regression",
+        "sql",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": "Handshake is the career network for the AI economy.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T14:03:30.131Z"
   },
   {
@@ -5997,6 +9823,16 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "parcel"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: GIS Analyst Job Category: Information Technology Time Type: Full time Minimum Clearance Required to Start: DOJ MBI Employee Type: Regular Percentage of Travel Required: Up to 10% Type of Tr…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T07:47:12.240Z"
   },
   {
@@ -6025,6 +9861,23 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "computer vision",
+        "deep learning",
+        "express",
+        "large language model",
+        "machine learning",
+        "multimodal",
+        "natural language processing"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "The Opportunity Adobe Research is looking for research scientists in Generative AI to join a world-class research team.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T07:46:45.915Z"
   },
   {
@@ -6053,6 +9906,26 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "ci/cd",
+        "data modeling",
+        "data pipeline",
+        "data visualization",
+        "devsecops",
+        "git",
+        "python",
+        "requirements gathering",
+        "typescript"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Data Engineer The Opportunity: Booz Allen is seeking a Data Engineer or Data Scientist to support mission-critical projects leveraging Palantir Foundry.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T07:36:28.055Z"
   },
   {
@@ -6083,6 +9956,52 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "api",
+        "aws",
+        "azure",
+        "data analysis",
+        "data governance",
+        "data modeling",
+        "data quality",
+        "data science",
+        "data visualization",
+        "databricks",
+        "etl",
+        "excel",
+        "gcp",
+        "git",
+        "github",
+        "https",
+        "jupyter",
+        "keras",
+        "langchain",
+        "large language model",
+        "llm",
+        "machine learning",
+        "nlp",
+        "numpy",
+        "observability",
+        "openai",
+        "pandas",
+        "python",
+        "pytorch",
+        "s3",
+        "scikit-learn",
+        "sdk",
+        "spark",
+        "sql",
+        "statistics",
+        "tensorflow"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description The Clinical Research Group (CRG) of Thermo Fisher Scientific delivers industry-leading clinical trial services to phar…",
+      "is_remote": true
+    },
     "job_posted_at": "2026-04-06T07:08:44.390Z"
   },
   {
@@ -6111,6 +10030,20 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "data pipeline",
+        "mbse",
+        "networking",
+        "program management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Date Posted: 2026-04-06 Country: United States of America Location: US-MA-TEWKSBURY-TB2 ~ 50 Apple Hill Dr ~ SUDBURY BLDG, Tewksbury Tb2 200 Sudbury Position Role Type: Onsite U.S.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T07:08:21.069Z"
   },
   {
@@ -6139,6 +10072,42 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "cameo",
+        "confluence",
+        "data analysis",
+        "data science",
+        "data visualization",
+        "devsecops",
+        "feature engineering",
+        "https",
+        "jira",
+        "jupyter",
+        "machine learning",
+        "matlab",
+        "mbse",
+        "mysql",
+        "numpy",
+        "python",
+        "radar",
+        "rf",
+        "scalability",
+        "scikit-learn",
+        "scipy",
+        "simulink",
+        "sql",
+        "sysml",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Date Posted: 2026-03-30 Country: United States of America Location: US-TX-PLANO-465 ~ 465 Independence Pkwy ~ INDEPENDENCE Position Role Type: Onsite U.S.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T07:08:21.069Z"
   },
   {
@@ -6167,6 +10136,18 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "confluence",
+        "jira",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Take Your Career to New Heights with Leidos!",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T07:07:18.441Z"
   },
   {
@@ -6195,6 +10176,33 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "api",
+        "dashboards",
+        "data analysis",
+        "data science",
+        "data visualization",
+        "devops",
+        "git",
+        "github",
+        "machine learning",
+        "microservices",
+        "natural language processing",
+        "nlp",
+        "postgresql",
+        "python",
+        "sql",
+        "statistical analysis",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "The Leidos Geospatial Mission Solutions Portfolio is seeking a GEOINT Innovation Data Scientist to join our team in Alexandria, VA.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T07:07:18.441Z"
   },
   {
@@ -6223,6 +10231,22 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data analysis",
+        "labview",
+        "matlab",
+        "mechatronics",
+        "python",
+        "wafer"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Virtually every electronic device in the world is produced using our technologies.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T07:07:09.454Z"
   },
   {
@@ -6251,6 +10275,19 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "matlab",
+        "python",
+        "wafer"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Virtually every electronic device in the world is produced using our technologies.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T07:07:09.454Z"
   },
   {
@@ -6279,6 +10316,24 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data pipeline",
+        "data science",
+        "data visualization",
+        "etl",
+        "power bi",
+        "python",
+        "r",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Family : Data Science Consulting Travel Required : None Clearance Required : Active Secret What You Will Do : Guidehouse is seeking a Data Analytics Consultant who will provide data solutions (ana…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T07:06:39.230Z"
   },
   {
@@ -6307,6 +10362,25 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data science",
+        "excel",
+        "https",
+        "less",
+        "llm",
+        "machine learning",
+        "multimodal",
+        "nlp",
+        "spring"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T07:06:34.837Z"
   },
   {
@@ -6336,6 +10410,24 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "cybersecurity",
+        "data science",
+        "https",
+        "large language model",
+        "llm",
+        "machine learning",
+        "python",
+        "workday"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Our teams empower organizations across the globe to create, secure, and run applications that enhance how we experience our evolving digital world.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T07:06:19.152Z"
   },
   {
@@ -6364,6 +10456,24 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "arm",
+        "data analysis",
+        "excel",
+        "gmp",
+        "jmp",
+        "microsoft office",
+        "process improvement",
+        "python",
+        "r"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Help us change lives At Exact Sciences, we’re helping change how the world prevents, detects and guides treatment for cancer.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T07:06:05.676Z"
   },
   {
@@ -6392,6 +10502,23 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "data governance",
+        "data integration",
+        "data pipeline",
+        "elt",
+        "etl",
+        "rag"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Advisory AI Data Specialist (FDE Unit) Within the Forward Deployment Engineering (FDE) Unit , the Advisory AI Data Specialist is the data expert who makes customer data ready for AI and GenAI workload…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T07:05:59.174Z"
   },
   {
@@ -6420,6 +10547,25 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "business intelligence",
+        "dashboards",
+        "data pipeline",
+        "data visualization",
+        "excel",
+        "forecasting",
+        "power bi",
+        "project management",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "From our comprehensive portfolio of solutions to our flexible, global workplace, we empower careers, foster collaboration, and build solutions that help keep the world moving safely .",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T07:05:35.976Z"
   },
   {
@@ -6448,6 +10594,39 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "api",
+        "aws",
+        "cdk",
+        "cloudformation",
+        "data governance",
+        "data integration",
+        "data modeling",
+        "data pipeline",
+        "data quality",
+        "docker",
+        "elt",
+        "etl",
+        "kubernetes",
+        "machine learning",
+        "postgresql",
+        "process improvement",
+        "pyspark",
+        "python",
+        "reporting",
+        "restful",
+        "scalability",
+        "terraform"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Data Engineer The Opportunity : Ever-expanding technology like IoT, machine learning, and artifi cia l intelligence means that there’s more structured and unstructured data available today than ever b…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T07:05:31.224Z"
   },
   {
@@ -6476,6 +10655,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "aws",
+        "computer science",
+        "dashboards",
+        "data pipeline",
+        "data science",
+        "devsecops",
+        "docker",
+        "gitlab",
+        "large language model",
+        "machine learning",
+        "natural language processing",
+        "numpy",
+        "pandas",
+        "process improvement",
+        "pyspark",
+        "python",
+        "scalability",
+        "spark"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: Data Engineer Job Category: Science Time Type: Full time Minimum Clearance Required to Start: TS/SCI with Polygraph Employee Type: Regular Percentage of Travel Required: Up to 10% Type of T…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T07:05:20.777Z"
   },
   {
@@ -6505,6 +10713,19 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data analysis",
+        "jupyter",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: Data Scientist and Geospatial Analyst Job Category: Science Time Type: Full time Minimum Clearance Required to Start: TS/SCI Employee Type: Regular Percentage of Travel Required: Up to 10%…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T07:05:20.777Z"
   },
   {
@@ -6533,6 +10754,32 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "computer science",
+        "data science",
+        "deep learning",
+        "fine-tuning",
+        "forecasting",
+        "large language model",
+        "llm",
+        "machine learning",
+        "python",
+        "pytorch",
+        "rag",
+        "scikit-learn",
+        "sql",
+        "statistics",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T07:05:04.858Z"
   },
   {
@@ -6561,6 +10808,29 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "a/b testing",
+        "analytics",
+        "computer science",
+        "dashboards",
+        "databricks",
+        "distributed systems",
+        "express",
+        "git",
+        "photoshop",
+        "power bi",
+        "python",
+        "sql",
+        "statistics",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "The Opportunity Project Graph is a new creative system that gives artists and designers real control and customization over their workflows at scale.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T07:05:02.283Z"
   },
   {
@@ -6589,6 +10859,27 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "business intelligence",
+        "data governance",
+        "excel",
+        "oracle",
+        "reporting",
+        "sap",
+        "snowflake",
+        "sql",
+        "value stream",
+        "vendor management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Mgr Business Intelligence - GC07BE We’re determined to make a difference and are proud to be an insurance company that goes well beyond coverages and policies.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T07:01:27.419Z"
   },
   {
@@ -6617,6 +10908,31 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "business intelligence",
+        "c++",
+        "computer science",
+        "data science",
+        "hive",
+        "java",
+        "microsoft office",
+        "process improvement",
+        "python",
+        "r",
+        "risk management",
+        "spark",
+        "sql",
+        "statistical analysis",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "TransUnion's Job Applicant Privacy Notice Personal Information We Collect Your Privacy Choices What We'll Bring: At TransUnion, we strive to build an environment where our associates are in the driver…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T07:01:24.980Z"
   },
   {
@@ -6645,6 +10961,24 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "business intelligence",
+        "dashboards",
+        "data analysis",
+        "data pipeline",
+        "large language model",
+        "llm",
+        "machine learning",
+        "rag"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T07:00:21.722Z"
   },
   {
@@ -6677,6 +11011,26 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "c++",
+        "data science",
+        "data warehouse",
+        "https",
+        "java",
+        "large language model",
+        "multimodal",
+        "oracle",
+        "python",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "As part of the AWS Applied AI Solutions Core Services organization, we're advancing the frontier of geospatial intelligence and AI-powered spatial reasoning.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T00:00:00.000Z"
   },
   {
@@ -6706,6 +11060,24 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data science",
+        "data visualization",
+        "excel",
+        "power bi",
+        "sql",
+        "statistical analysis",
+        "statistics",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Qualifications Bachelors degree in a related field (e.g.",
+      "is_remote": true
+    },
     "job_posted_at": "2026-04-06T00:00:00.000Z"
   },
   {
@@ -6735,6 +11107,17 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "A leading technology firm is hiring an Entry-Level Business Operations Analyst to enhance operational performance in the United States.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T00:00:00.000Z"
   },
   {
@@ -6766,6 +11149,20 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "a/b testing",
+        "data science",
+        "machine learning",
+        "statistical analysis",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "The Central Learning Solutions (CLS) - Science team builds state-of-the-art Artificial Intelligence (AI) solutions for enhancing leadership and associate development within the organization.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T00:00:00.000Z"
   },
   {
@@ -6794,6 +11191,28 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "business intelligence",
+        "cisco",
+        "data governance",
+        "data pipeline",
+        "data quality",
+        "data warehouse",
+        "elt",
+        "etl",
+        "oracle",
+        "reporting",
+        "scalability",
+        "snowflake"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "The application window is expected to close on: 04/27/2026 Job posting may be removed earlier if the position is filled or if a sufficient number of applications are received .",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-05T04:02:08.066Z"
   },
   {
@@ -6823,120 +11242,17 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "microsoft office"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Qualifications: • Bachelor's degree or equivalent experience.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-05T00:00:00.000Z"
-  },
-  {
-    "job_id": "workday-zoom-R18413",
-    "job_title": "Machine Learning Engineer, Responsible AI",
-    "employer_name": "Zoom",
-    "job_city": "Seattle",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Staff-Machine-Learning-Engineer--Responsible-AI_R18413-1",
-    "job_posted_at_datetime_utc": "2026-04-04T20:05:38.872Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fe112918c636941e0a3521834fb9c9b1aad65abc73b833ec2d42ff3dfaa54cc6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-04T20:05:38.872Z"
-  },
-  {
-    "job_id": "workday-zoom-R17822",
-    "job_title": "AI Engineer",
-    "employer_name": "Zoom",
-    "job_city": "Seattle",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Software-Development-Engineer---Zoom-AI-API-Suite_R17822-1",
-    "job_posted_at_datetime_utc": "2026-04-04T20:05:38.872Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dbb30b24aa12dc0facbb6c31f798ee2fd5859799359b8bb97e1fbd90d95bc518",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-04T20:05:38.872Z"
-  },
-  {
-    "job_id": "workday-zoom-R18240",
-    "job_title": "Research Scientist",
-    "employer_name": "Zoom",
-    "job_city": "Seattle",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Research-Scientist_R18240-1",
-    "job_posted_at_datetime_utc": "2026-04-04T20:05:38.872Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6fbbbb56e2e9797c284702dbc1f445bda724b899dd2b555223ca2494d5f08377",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-04T20:05:38.872Z"
-  },
-  {
-    "job_id": "workday-zoom-R18533",
-    "job_title": "Data Engineer",
-    "employer_name": "Zoom",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Data-Engineer---Digital-Marketing_R18533-1",
-    "job_posted_at_datetime_utc": "2026-04-04T20:05:38.872Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "93c381b3004bc2f1b06ff05562cbb2c85843df2d71220fa8546cff912bcf231e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-04T20:05:38.872Z"
   }
 ]
