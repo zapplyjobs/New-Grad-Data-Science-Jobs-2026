@@ -214,7 +214,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Tech Consulting** | Junior Data Analyst Consultant |  | Unknown | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jaabz.com/jobs/171986-junior-data-analyst) |
 | 🏢 **AbbVie** | Customer Master Data Analyst |  | North Chicago, IL | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012473656) |
 | 🏢 **Guidepoint** | Healthcare Data Analyst | ✅ Sponsor | New York | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8433429002) |
-| 🏢 **Veolia Environnement SA** | Data Analyst |  | Beaumont, TX | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000118903727) |
+| 🏢 **Veolia Environnement SA** | Data Analyst |  | Beaumont, TX | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000118903727) |
 | 🏢 **Fidelity Investments** | IT Data Analyst |  | Merrimack, NH | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Merrimack-NH/IT-Data-Analyst_2125627) |
 | 🏢 **RTX** | Sustainment Data Analyst |  | MA-TEWKSBURY-TB2 | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/LTAMDS-Sustainment-Data-Analyst_01828705) |
 | 🏢 **Johnson & Johnson** | PostDoc Immunology Computational Biology |  | Spring House | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Spring-House-Pennsylvania-United-States-of-America/PostDoc-Immunology-Computational-Biology_R-053631-1) |
@@ -277,8 +277,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Booz Allen Hamilton** | Reinforcement Learning AI Engineer |  | Colorado Springs, CO | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/Reinforcement-Learning-AI-Engineer_R0237547) |
 | 🏢 **Booz Allen Hamilton** | AI and ML Engineer |  | Washington, DC + 1 more | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/AI-and-ML-Engineer_R0237570) |
+| 🏢 **Booz Allen Hamilton** | Reinforcement Learning AI Engineer |  | Colorado Springs, CO | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/Reinforcement-Learning-AI-Engineer_R0237547) |
 | 🏢 **Handshake** | Machine Learning PhDs - AI Trainer | ✅ Sponsor | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/handshake/febd5f62-4394-47de-851f-2fb0e884fca0/application) |
 | 🏢 **Zoom** | AI Engineer |  | San Jose | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/AI-Engineer_R18265-1) |
 | 🏢 **Figure AI** | Helix AI Engineer, Modeling |  | San Jose, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4671712006) |
