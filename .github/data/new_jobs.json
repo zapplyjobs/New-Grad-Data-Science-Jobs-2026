@@ -709,6 +709,45 @@
     "job_posted_at": "2026-04-10T11:37:39.000Z"
   },
   {
+    "job_id": "workday-vanguard-176208",
+    "job_title": "Data Analyst, Specialist",
+    "employer_name": "Vanguard",
+    "job_city": "Malvern",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Analyst--Specialist_176208-1",
+    "job_posted_at_datetime_utc": "2026-04-10T07:06:52.781Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "610e54f045f6c7fe55e73af624f3994de54a6050c4a89b46ec7b5a62c70a0833",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Core Responsibilities Engages with internal partners to understand business strategy, questions and goals.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:06:52.781Z"
+  },
+  {
     "job_id": "workday-vanguard-176351",
     "job_title": "Data Analyst, Specialist",
     "employer_name": "Vanguard",
@@ -756,45 +795,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Client Experience Analytics (CxA) is looking for a talented Data Analyst, Senior Specialist to join our team!",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:06:52.781Z"
-  },
-  {
-    "job_id": "workday-vanguard-176208",
-    "job_title": "Data Analyst, Specialist",
-    "employer_name": "Vanguard",
-    "job_city": "Malvern",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Analyst--Specialist_176208-1",
-    "job_posted_at_datetime_utc": "2026-04-10T07:06:52.781Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "610e54f045f6c7fe55e73af624f3994de54a6050c4a89b46ec7b5a62c70a0833",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Core Responsibilities Engages with internal partners to understand business strategy, questions and goals.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T07:06:52.781Z"
@@ -5875,6 +5875,51 @@
     "job_posted_at": "2026-04-08T07:05:05.096Z"
   },
   {
+    "job_id": "workday-guidehouse-37316",
+    "job_title": "Data Analytics Consultant",
+    "employer_name": "Guidehouse",
+    "job_city": "AL, Huntsville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Huntsville/Data-Analytics-Consultant_37316",
+    "job_posted_at_datetime_utc": "2026-04-08T07:04:57.296Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3eb3f6ba53f2ba7b09419ccd7a71354aa6890376f03af548700a9335612aa5c1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data pipeline",
+        "data science",
+        "data visualization",
+        "power bi",
+        "python",
+        "r",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Family : Data Science Consulting Travel Required : None Clearance Required : Active Secret What You Will Do : Guidehouse is seeking a Data Analytics Consultant who will provide data solutions (ana…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:04:57.296Z"
+  },
+  {
     "job_id": "workday-guidehouse-38083",
     "job_title": "Data Analyst - Databricks",
     "employer_name": "Guidehouse",
@@ -5930,51 +5975,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Job Family : Data Science Consulting Travel Required : Up to 10% Clearance Required : Ability to Obtain Public Trust What You Will Do: Our consultants on the Defense & Security AI & Data team help cli…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:04:57.296Z"
-  },
-  {
-    "job_id": "workday-guidehouse-37316",
-    "job_title": "Data Analytics Consultant",
-    "employer_name": "Guidehouse",
-    "job_city": "AL, Huntsville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Huntsville/Data-Analytics-Consultant_37316",
-    "job_posted_at_datetime_utc": "2026-04-08T07:04:57.296Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3eb3f6ba53f2ba7b09419ccd7a71354aa6890376f03af548700a9335612aa5c1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "data pipeline",
-        "data science",
-        "data visualization",
-        "power bi",
-        "python",
-        "r",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Job Family : Data Science Consulting Travel Required : None Clearance Required : Active Secret What You Will Do : Guidehouse is seeking a Data Analytics Consultant who will provide data solutions (ana…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T07:04:57.296Z"
@@ -8402,113 +8402,6 @@
     "job_posted_at": "2026-04-07T07:04:33.806Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0236267",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Data-Engineer_R0236267",
-    "job_posted_at_datetime_utc": "2026-04-07T07:03:52.798Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e83e03339e8a15806d97108b4470a50e4c4217b2d6f13923f9350ad3c344a2cc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "aws",
-        "cassandra",
-        "data analysis",
-        "data warehouse",
-        "databricks",
-        "elt",
-        "etl",
-        "hadoop",
-        "hive",
-        "kafka",
-        "linux",
-        "machine learning",
-        "mongodb",
-        "mysql",
-        "postgres",
-        "python",
-        "redshift",
-        "reporting",
-        "shell",
-        "shell scripting",
-        "snowflake",
-        "spark",
-        "sql",
-        "unix"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Data Engineer The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there’s more structured and unstructured data available today than ever befo…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T07:03:52.798Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237281",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fort Walton Beach",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/Data-Engineer_R0237281",
-    "job_posted_at_datetime_utc": "2026-04-07T07:03:52.798Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5b381a448f59b15d0a72668c564184e79d870e36c8f15953eb46b7f4d85f45ce",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "data science",
-        "data visualization",
-        "databricks",
-        "machine learning",
-        "natural language processing",
-        "qlik"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Data Engineer The Opportunity : As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine le…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T07:03:52.798Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0237252",
     "job_title": "Intelligence Analyst",
     "employer_name": "Booz Allen Hamilton",
@@ -8735,6 +8628,113 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "AI/ML Engineer The Opportunity : Design and implement effective AI solution architecture utilizing approaches of various AI technologies and met hods to address Marine Corps operational needs.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T07:03:52.798Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0236267",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Data-Engineer_R0236267",
+    "job_posted_at_datetime_utc": "2026-04-07T07:03:52.798Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e83e03339e8a15806d97108b4470a50e4c4217b2d6f13923f9350ad3c344a2cc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "aws",
+        "cassandra",
+        "data analysis",
+        "data warehouse",
+        "databricks",
+        "elt",
+        "etl",
+        "hadoop",
+        "hive",
+        "kafka",
+        "linux",
+        "machine learning",
+        "mongodb",
+        "mysql",
+        "postgres",
+        "python",
+        "redshift",
+        "reporting",
+        "shell",
+        "shell scripting",
+        "snowflake",
+        "spark",
+        "sql",
+        "unix"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Data Engineer The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there’s more structured and unstructured data available today than ever befo…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T07:03:52.798Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237281",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fort Walton Beach",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/Data-Engineer_R0237281",
+    "job_posted_at_datetime_utc": "2026-04-07T07:03:52.798Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5b381a448f59b15d0a72668c564184e79d870e36c8f15953eb46b7f4d85f45ce",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "data science",
+        "data visualization",
+        "databricks",
+        "machine learning",
+        "natural language processing",
+        "qlik"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Data Engineer The Opportunity : As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine le…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-07T07:03:52.798Z"
