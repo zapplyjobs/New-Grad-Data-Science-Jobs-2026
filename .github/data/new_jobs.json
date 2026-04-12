@@ -4226,44 +4226,6 @@
     "job_posted_at": "2026-04-09T07:36:58.678Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0236926",
-    "job_title": "All-Source Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0236926",
-    "job_posted_at_datetime_utc": "2026-04-09T07:36:28.054Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "011be940a51462409046acbe704d7034f9583de06039991e541d2a0fc60cb032",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "All-Source Intelligence Analyst The Opportunity : Do you find yourself constantly looking for more and better information?",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:36:28.054Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0237497",
     "job_title": "All-Source Intelligence Analyst",
     "employer_name": "Booz Allen Hamilton",
@@ -4297,6 +4259,44 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "All-Source Intelligence Analyst The Opportunity: Do you find yourself constantly looking for more and better information?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:36:28.054Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0236926",
+    "job_title": "All-Source Intelligence Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0236926",
+    "job_posted_at_datetime_utc": "2026-04-09T07:36:28.054Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "011be940a51462409046acbe704d7034f9583de06039991e541d2a0fc60cb032",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "All-Source Intelligence Analyst The Opportunity : Do you find yourself constantly looking for more and better information?",
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T07:36:28.054Z"
@@ -5924,53 +5924,6 @@
     "job_posted_at": "2026-04-08T07:09:58.257Z"
   },
   {
-    "job_id": "workday-general-motors-JR-202605491",
-    "job_title": "CAE Vehicle Optimization and Machine Learning Engineer",
-    "employer_name": "General Motors",
-    "job_city": "Warren",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/CAE-Vehicle-Optimization-and-Machine-Learning-Engineer_JR-202605491",
-    "job_posted_at_datetime_utc": "2026-04-08T07:09:54.017Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fa3ddccd30a534cc281bcf37f1f9de73d4e39d162758af7dbbad55f66d764fd2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "abaqus",
-        "data science",
-        "linear",
-        "machine learning",
-        "matlab",
-        "move",
-        "python",
-        "root cause analysis",
-        "vba"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Job Description At General Motors, our product teams are redefining mobility.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:09:54.017Z"
-  },
-  {
     "job_id": "workday-general-motors-JR-202607319",
     "job_title": "Business Intelligence Data Analyst - GPSC",
     "employer_name": "General Motors",
@@ -6023,6 +5976,53 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Job Description The Role The Business Intelligence Data Analyst is a pivotal role within the Global Purchasing & Supply Chain - Strategy & Innovation team, operating in a hybrid work environment.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:09:54.017Z"
+  },
+  {
+    "job_id": "workday-general-motors-JR-202605491",
+    "job_title": "CAE Vehicle Optimization and Machine Learning Engineer",
+    "employer_name": "General Motors",
+    "job_city": "Warren",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/CAE-Vehicle-Optimization-and-Machine-Learning-Engineer_JR-202605491",
+    "job_posted_at_datetime_utc": "2026-04-08T07:09:54.017Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fa3ddccd30a534cc281bcf37f1f9de73d4e39d162758af7dbbad55f66d764fd2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "abaqus",
+        "data science",
+        "linear",
+        "machine learning",
+        "matlab",
+        "move",
+        "python",
+        "root cause analysis",
+        "vba"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Description At General Motors, our product teams are redefining mobility.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T07:09:54.017Z"
@@ -6119,199 +6119,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T07:09:28.781Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237416",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fayetteville",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/Data-Scientist_R0237416-1",
-    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "43345ee76e10937ffc30f5045b529b6e6b0d0299871ccc64b1d00123c3fe9f55",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "airflow",
-        "analytics",
-        "aws",
-        "computer science",
-        "data analysis",
-        "data science",
-        "data visualization",
-        "databricks",
-        "dbt",
-        "devops",
-        "etl",
-        "hadoop",
-        "hive",
-        "kafka",
-        "machine learning",
-        "natural language processing",
-        "power bi",
-        "qlik",
-        "spark",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Data Scientist The Opportunity: Ever-expanding technologies like IoT, machine learning, and artificial intelligence are generating more structured and unstructured data than ever before.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:09:05.849Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237409",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fayetteville",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/Data-Engineer_R0237409",
-    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "933ddd0e58c82d347d7becb7a98899847e309ee003ab2577d604579b9d44e2e2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "aws",
-        "data science",
-        "data visualization",
-        "databricks",
-        "elt",
-        "etl",
-        "git",
-        "hadoop",
-        "hive",
-        "kafka",
-        "machine learning",
-        "power bi",
-        "python",
-        "qlik",
-        "r",
-        "reporting",
-        "scala",
-        "spark",
-        "sql",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Data Engineer The Opportunity : Ever-expanding technology like IoT, machine learning, and artifi cia l intelligence means that there’s more structured and unstructured data available today than ever b…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:09:05.849Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237399",
-    "job_title": "Defense Critical Infrastructure Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Defense-Critical-Infrastructure-Intelligence-Analyst_R0237399",
-    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b88336ccb6f2e8e864775031e0b09f994edb24767c986e6329c7fba884e87471",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Defense Critical Infrastructure Intelligence Analyst The Opportunity : Do you find yourself constantly looking for more and better information?",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:09:05.849Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237396",
-    "job_title": "All Source Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0237396",
-    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "603820bfb6a85c8b1b920131a4de2ca30f0520b030102b5450729e2a454229aa",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "All Source Intelligence Analyst The Opportunity: Our clients need skilled analysts to turn reams of data into actionable intelligence for our government and military every day.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:09:05.849Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0237405",
@@ -6635,6 +6442,199 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Human Capital Data Analyst The Opportunity: As Data Analyst, you love diving into data and turning it into meaningful insights.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:09:05.849Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237416",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fayetteville",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/Data-Scientist_R0237416-1",
+    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "43345ee76e10937ffc30f5045b529b6e6b0d0299871ccc64b1d00123c3fe9f55",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "analytics",
+        "aws",
+        "computer science",
+        "data analysis",
+        "data science",
+        "data visualization",
+        "databricks",
+        "dbt",
+        "devops",
+        "etl",
+        "hadoop",
+        "hive",
+        "kafka",
+        "machine learning",
+        "natural language processing",
+        "power bi",
+        "qlik",
+        "spark",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Data Scientist The Opportunity: Ever-expanding technologies like IoT, machine learning, and artificial intelligence are generating more structured and unstructured data than ever before.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:09:05.849Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237409",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fayetteville",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/Data-Engineer_R0237409",
+    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "933ddd0e58c82d347d7becb7a98899847e309ee003ab2577d604579b9d44e2e2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "aws",
+        "data science",
+        "data visualization",
+        "databricks",
+        "elt",
+        "etl",
+        "git",
+        "hadoop",
+        "hive",
+        "kafka",
+        "machine learning",
+        "power bi",
+        "python",
+        "qlik",
+        "r",
+        "reporting",
+        "scala",
+        "spark",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Data Engineer The Opportunity : Ever-expanding technology like IoT, machine learning, and artifi cia l intelligence means that there’s more structured and unstructured data available today than ever b…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:09:05.849Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237399",
+    "job_title": "Defense Critical Infrastructure Intelligence Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Defense-Critical-Infrastructure-Intelligence-Analyst_R0237399",
+    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b88336ccb6f2e8e864775031e0b09f994edb24767c986e6329c7fba884e87471",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Defense Critical Infrastructure Intelligence Analyst The Opportunity : Do you find yourself constantly looking for more and better information?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:09:05.849Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237396",
+    "job_title": "All Source Intelligence Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0237396",
+    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "603820bfb6a85c8b1b920131a4de2ca30f0520b030102b5450729e2a454229aa",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "All Source Intelligence Analyst The Opportunity: Our clients need skilled analysts to turn reams of data into actionable intelligence for our government and military every day.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T07:09:05.849Z"
@@ -8352,6 +8352,113 @@
     "job_posted_at": "2026-04-07T07:06:31.511Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0236267",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Data-Engineer_R0236267",
+    "job_posted_at_datetime_utc": "2026-04-07T07:05:32.360Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e83e03339e8a15806d97108b4470a50e4c4217b2d6f13923f9350ad3c344a2cc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "aws",
+        "cassandra",
+        "data analysis",
+        "data warehouse",
+        "databricks",
+        "elt",
+        "etl",
+        "hadoop",
+        "hive",
+        "kafka",
+        "linux",
+        "machine learning",
+        "mongodb",
+        "mysql",
+        "postgres",
+        "python",
+        "redshift",
+        "reporting",
+        "shell",
+        "shell scripting",
+        "snowflake",
+        "spark",
+        "sql",
+        "unix"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Data Engineer The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there’s more structured and unstructured data available today than ever befo…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T07:05:32.360Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237281",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fort Walton Beach",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/Data-Engineer_R0237281",
+    "job_posted_at_datetime_utc": "2026-04-07T07:05:32.360Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5b381a448f59b15d0a72668c564184e79d870e36c8f15953eb46b7f4d85f45ce",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "data science",
+        "data visualization",
+        "databricks",
+        "machine learning",
+        "natural language processing",
+        "qlik"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Data Engineer The Opportunity : As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine le…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T07:05:32.360Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0237252",
     "job_title": "Intelligence Analyst",
     "employer_name": "Booz Allen Hamilton",
@@ -8578,113 +8685,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "AI/ML Engineer The Opportunity : Design and implement effective AI solution architecture utilizing approaches of various AI technologies and met hods to address Marine Corps operational needs.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T07:05:32.360Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0236267",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Data-Engineer_R0236267",
-    "job_posted_at_datetime_utc": "2026-04-07T07:05:32.360Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e83e03339e8a15806d97108b4470a50e4c4217b2d6f13923f9350ad3c344a2cc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "aws",
-        "cassandra",
-        "data analysis",
-        "data warehouse",
-        "databricks",
-        "elt",
-        "etl",
-        "hadoop",
-        "hive",
-        "kafka",
-        "linux",
-        "machine learning",
-        "mongodb",
-        "mysql",
-        "postgres",
-        "python",
-        "redshift",
-        "reporting",
-        "shell",
-        "shell scripting",
-        "snowflake",
-        "spark",
-        "sql",
-        "unix"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Data Engineer The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there’s more structured and unstructured data available today than ever befo…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T07:05:32.360Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237281",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fort Walton Beach",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/Data-Engineer_R0237281",
-    "job_posted_at_datetime_utc": "2026-04-07T07:05:32.360Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5b381a448f59b15d0a72668c564184e79d870e36c8f15953eb46b7f4d85f45ce",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "data science",
-        "data visualization",
-        "databricks",
-        "machine learning",
-        "natural language processing",
-        "qlik"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Data Engineer The Opportunity : As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine le…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-07T07:05:32.360Z"
