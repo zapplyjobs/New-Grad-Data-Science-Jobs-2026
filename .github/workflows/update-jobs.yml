@@ -58,10 +58,10 @@ jobs:
       env:
         DISCORD_TEAM_TOKEN: ${{ secrets.DISCORD_TEAM_TOKEN }}
         DISCORD_ALERT_CHANNEL_ID: "1477002891234512916"
-        REPO_NAME: New-Grad-Data-Science-Jobs-2026
+        REPO_NAME: New-Grad-Jobs-2026
       run: |
         mkdir -p .github/data
-        export CURR_COUNT=$(grep -o "Active_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+        export CURR_COUNT=$(node -e "try{const d=JSON.parse(require('fs').readFileSync('.github/data/current_jobs.json','utf8'));console.log(Array.isArray(d)?d.length:0)}catch(e){console.log(0)}")
         node -e "
           const fs = require('fs');
           const https = require('https');
@@ -92,7 +92,7 @@ jobs:
       run: |
         echo "Job collection completed"
         if [ -f "README.md" ]; then
-          JOB_COUNT=$(grep -o "Active_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+          JOB_COUNT=$(node -e "try{const d=JSON.parse(require('fs').readFileSync('.github/data/current_jobs.json','utf8'));console.log(Array.isArray(d)?d.length:0)}catch(e){console.log(0)}")
           echo "Total positions: $JOB_COUNT"
         fi
 
@@ -131,9 +131,9 @@ jobs:
 
             git add README.md .github/data/current_jobs.json .github/data/new_jobs.json .github/data/last_count.json .github/data/run_metrics.json .github/logs/ || true
 
-            JOB_COUNT=$(grep -o "Active_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+            JOB_COUNT=$(node -e "try{const d=JSON.parse(require('fs').readFileSync('.github/data/current_jobs.json','utf8'));console.log(Array.isArray(d)?d.length:0)}catch(e){console.log(0)}")
 
-            COMMIT_MSG="Update jobs - $(date +'%Y-%m-%d %H:%M UTC') | Found $JOB_COUNT data science positions"
+            COMMIT_MSG="Update jobs - $(date +'%Y-%m-%d %H:%M UTC') | Found $JOB_COUNT positions"
 
             if ! git commit -m "$COMMIT_MSG"; then
               echo "Commit failed, may already be committed"
@@ -162,12 +162,12 @@ jobs:
         echo "" >> $GITHUB_STEP_SUMMARY
 
         if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
-          JOB_COUNT=$(grep -o "Active_Jobs-[0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+          JOB_COUNT=$(node -e "try{const d=JSON.parse(require('fs').readFileSync('.github/data/current_jobs.json','utf8'));console.log(Array.isArray(d)?d.length:0)}catch(e){console.log(0)}")
 
-          echo "Successfully updated data science job board" >> $GITHUB_STEP_SUMMARY
+          echo "Successfully updated new grad job board" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "### Today's Update:" >> $GITHUB_STEP_SUMMARY
-          echo "- **$JOB_COUNT total data science positions** from centralized aggregator" >> $GITHUB_STEP_SUMMARY
+          echo "- **$JOB_COUNT total positions** from centralized aggregator" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "**Next update**: In ~15 minutes" >> $GITHUB_STEP_SUMMARY
         else
@@ -175,3 +175,4 @@ jobs:
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "**Next check**: In ~15 minutes" >> $GITHUB_STEP_SUMMARY
         fi
+
