@@ -184,7 +184,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Amazon Development Center U.S., Inc.** | Quantum Hardware Engineer, Amazon's Center for Quantum Computing, Device Team |  | Pasadena, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10386852/quantum-hardware-engineer-amazon-s-center-for-quantum-computing-device-team) |
 | 🏢 **Oscar Health** | Associate, Operations Data Analytics | ✅ Sponsor | Atlanta + 3 more | 3d | [<img src="images/apply.png" width="75" alt="Apply">](http://www.hioscar.com/careers/7793815?gh_jid=7793815) |
 | 🏢 **Oscar Health** | Associate, Data Analytics | ✅ Sponsor | Dallas | 3d | [<img src="images/apply.png" width="75" alt="Apply">](http://www.hioscar.com/careers/7656538?gh_jid=7656538) |
-| 🏢 **AbbVie** | Associate Data Analyst |  | Tempe, AZ | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012521091) |
+| 🏢 **AbbVie** | Associate Data Analyst |  | Tempe, AZ | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012521091) |
 | 🏢 **Southwest Airlines** | Learning Data Analyst |  | Dallas | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Learning-Data-Analyst_R-2025-61980) |
 | 🏢 **American Express** | Data Analyst - Issues & Event Management |  | Sandy | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://aexp.eightfold.ai/careers/job/40748650) |
 | 🏢 **Point72** | Business Intelligence Analyst | ✅ Sponsor | Stamford, CT | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8466850002?gh_jid=8466850002) |
@@ -294,7 +294,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Guidehouse** | AI Engineer (full-stack) |  | Remote | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/AI-Engineer--full-stack-_36934) |
 | 🏢 **Booz Allen Hamilton** | AI/ML Engineer |  | Washington, DC + 1 more | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/AI-ML-Engineer_R0237245-1) |
 | 🏢 **CACI** | AI/ML Engineer |  | MD Aberdeen Provi... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/AI-ML-Engineer_324560) |
-| 🏢 **American Express** | AI Engineer I - Agentic AI |  | New York | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://aexp.eightfold.ai/careers/job/40193954) |
+| 🏢 **American Express** | AI Engineer I - Agentic AI |  | New York | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://aexp.eightfold.ai/careers/job/40193954) |
 | 🏢 **Thermo Fisher Scientific** | AI Engineer (North Carolina) |  | Remote | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/AI-Engineer_R-01328367) |
 
 <p align="center">Apply for more jobs at</p>
