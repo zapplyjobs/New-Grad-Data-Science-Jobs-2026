@@ -277,8 +277,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Booz Allen Hamilton** | AI and ML Engineer |  | Washington, DC + 1 more | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/AI-and-ML-Engineer_R0237570) |
 | 🏢 **Booz Allen Hamilton** | Reinforcement Learning AI Engineer |  | Colorado Springs, CO | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/Reinforcement-Learning-AI-Engineer_R0237547) |
+| 🏢 **Booz Allen Hamilton** | AI and ML Engineer |  | Washington, DC + 1 more | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/AI-and-ML-Engineer_R0237570) |
 | 🏢 **Handshake** | Machine Learning PhDs - AI Trainer | ✅ Sponsor | Remote | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/handshake/febd5f62-4394-47de-851f-2fb0e884fca0/application) |
 | 🏢 **Zoom** | AI Engineer |  | San Jose | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/AI-Engineer_R18265-1) |
 | 🏢 **Figure AI** | Helix AI Engineer, Modeling |  | San Jose, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4671712006) |
