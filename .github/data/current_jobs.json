@@ -46,6 +46,51 @@
     "job_posted_at": "2026-04-13T00:00:00.000Z"
   },
   {
+    "job_id": "js-virtual-vj6pb9shqj5z3lzyaaaaaa==",
+    "job_title": "Entry-Level Data Analyst",
+    "employer_name": "Virtual",
+    "job_city": "Shelton",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/16S6cUzlWfgQ03GjCRBHVl",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "eccd7f5e7fd8c1ec78fab80271c531c90e13a8f123979f8a8342266b87355a87",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data analysis",
+        "excel",
+        "sap",
+        "sql",
+        "statistics",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Required Qualifications  • Bachelor’s degree in Data Analytics, Statistics, Business, Economics, or a related field.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-bb12c430-18a8-4e0b-89ac-0c240aa5495a",
     "job_title": "Data Engineer, Risk Operations, Success, & Engagement Business Intelligence",
     "employer_name": "Amazon.com Services LLC",
@@ -107,51 +152,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Title: Data Engineer Organization Overview: In Kindle, authors are at the center of everything we do.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-virtual-vj6pb9shqj5z3lzyaaaaaa==",
-    "job_title": "Entry-Level Data Analyst",
-    "employer_name": "Virtual",
-    "job_city": "Shelton",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/16S6cUzlWfgQ03GjCRBHVl",
-    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "eccd7f5e7fd8c1ec78fab80271c531c90e13a8f123979f8a8342266b87355a87",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "data analysis",
-        "excel",
-        "sap",
-        "sql",
-        "statistics",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Required Qualifications  • Bachelor’s degree in Data Analytics, Statistics, Business, Economics, or a related field.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-12T00:00:00.000Z"
@@ -1201,56 +1201,6 @@
     "job_posted_at": "2026-04-10T07:03:54.012Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0237547",
-    "job_title": "Reinforcement Learning AI Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Colorado Springs",
-    "job_state": "CO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/Reinforcement-Learning-AI-Engineer_R0237547",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e1387ff394764efe74e3d649167bfa73ad231118b634d8cf52182a984ef98265",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "data science",
-        "design patterns",
-        "embedded systems",
-        "kubernetes",
-        "machine learning",
-        "neural network",
-        "python",
-        "pytorch",
-        "reinforcement learning",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Reinforcement Learning AI Engineer The Opportunity : Booz Allen is seeking an innovative and experience d AI developer spe cia lizing in reinforcement learning to join our growing team for Space solut…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:03:52.797Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0237574",
     "job_title": "All-Source Intelligence Analyst",
     "employer_name": "Booz Allen Hamilton",
@@ -1496,6 +1446,56 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Health Care Quality Data Specialist The Opportunity : As quality data spe cia list, you love diving into data and turning it into meaningful insights.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:03:52.797Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237547",
+    "job_title": "Reinforcement Learning AI Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Colorado Springs",
+    "job_state": "CO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/Reinforcement-Learning-AI-Engineer_R0237547",
+    "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e1387ff394764efe74e3d649167bfa73ad231118b634d8cf52182a984ef98265",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "data science",
+        "design patterns",
+        "embedded systems",
+        "kubernetes",
+        "machine learning",
+        "neural network",
+        "python",
+        "pytorch",
+        "reinforcement learning",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Reinforcement Learning AI Engineer The Opportunity : Booz Allen is seeking an innovative and experience d AI developer spe cia lizing in reinforcement learning to join our growing team for Space solut…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T07:03:52.797Z"
@@ -1826,18 +1826,18 @@
     "job_posted_at": "2026-04-10T00:47:02.392Z"
   },
   {
-    "job_id": "js-the-mitre-corporation-pvo8gofvs-qqkn-gaaaaaa==",
-    "job_title": "Internships in Data Science, Math, Statistics or Operations Research",
-    "employer_name": "The MITRE Corporation",
-    "job_city": "Unknown",
+    "job_id": "js-fast-foster-care-h5xa-dmilybbb-xgaaaaaa==",
+    "job_title": "Remote Data Analyst - Entry Level with Growth Opportunities",
+    "employer_name": "Fast Foster Care",
+    "job_city": "Denver",
     "job_state": "",
     "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.mitre.org/us/en/job/R115478/Internships-in-Data-Science-Math-Statistics-or-Operations-Research",
+    "job_is_remote": true,
+    "job_apply_link": "https://www.whatjobs.com/jobs/remote-data-analyst-entry/denver-colorado-2?id=2626215602",
     "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "46a0e00ada43ef77c65b94d7915cb4ccf95e88080665ed54f7f0a5be8d145be7",
+    "fingerprint": "0a499e1cae060a45b93b77ea7152233954f05b05a63508c054b95284609f160b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1845,7 +1845,7 @@
       ],
       "locations": [
         "us",
-        "on_site"
+        "remote"
       ],
       "experience": "unknown",
       "special": []
@@ -1854,14 +1854,17 @@
     "_original_source": "jsearch",
     "enrichment": {
       "required_skills": [
-        "data science",
-        "statistics"
+        "data visualization",
+        "power bi",
+        "python",
+        "sql",
+        "tableau"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": "Basic Qualifications • Must be a full-time student pursuing an accredited degree program in Data Science, Math, Statistics, Operations Research or related disciplines.",
-      "is_remote": false
+      "summary_line": "A dynamic organization is seeking an entry-level Virtual Data Analyst to join their team.",
+      "is_remote": true
     },
     "job_posted_at": "2026-04-10T00:00:00.000Z"
   },
@@ -2144,60 +2147,6 @@
     "job_posted_at": "2026-04-10T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-b8746169-092a-4cbb-830d-5e568f62a338",
-    "job_title": "Applied Scientist, Sponsored Products Off-Search Auction",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10389008/applied-scientist-sponsored-products-off-search-auction",
-    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2ba1305e783c8835c6e3920321384dd51a4c36ea6cf37a5bcc5be0da5a8bc4d9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "a/b testing",
-        "c++",
-        "deep learning",
-        "event-driven",
-        "fine-tuning",
-        "https",
-        "java",
-        "large language model",
-        "llm",
-        "machine learning",
-        "palo alto",
-        "python",
-        "rag",
-        "reinforcement learning"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "The Sponsored Products and Brands (SPB) team at Amazon Ads is re-imagining the advertising landscape through state-of-the-art generative AI technologies, revolutionizing how millions of customers disc…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-f8210bfd-31a8-46c1-9621-3cf597cfbeea",
     "job_title": "Data Scientist , Amazon Business",
     "employer_name": "Amazon.com Services LLC",
@@ -2252,18 +2201,18 @@
     "job_posted_at": "2026-04-10T00:00:00.000Z"
   },
   {
-    "job_id": "js-fast-foster-care-h5xa-dmilybbb-xgaaaaaa==",
-    "job_title": "Remote Data Analyst - Entry Level with Growth Opportunities",
-    "employer_name": "Fast Foster Care",
-    "job_city": "Denver",
+    "job_id": "js-the-mitre-corporation-pvo8gofvs-qqkn-gaaaaaa==",
+    "job_title": "Internships in Data Science, Math, Statistics or Operations Research",
+    "employer_name": "The MITRE Corporation",
+    "job_city": "Unknown",
     "job_state": "",
     "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://www.whatjobs.com/jobs/remote-data-analyst-entry/denver-colorado-2?id=2626215602",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.mitre.org/us/en/job/R115478/Internships-in-Data-Science-Math-Statistics-or-Operations-Research",
     "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "0a499e1cae060a45b93b77ea7152233954f05b05a63508c054b95284609f160b",
+    "fingerprint": "46a0e00ada43ef77c65b94d7915cb4ccf95e88080665ed54f7f0a5be8d145be7",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2271,7 +2220,7 @@
       ],
       "locations": [
         "us",
-        "remote"
+        "on_site"
       ],
       "experience": "unknown",
       "special": []
@@ -2280,17 +2229,68 @@
     "_original_source": "jsearch",
     "enrichment": {
       "required_skills": [
-        "data visualization",
-        "power bi",
-        "python",
-        "sql",
-        "tableau"
+        "data science",
+        "statistics"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": "A dynamic organization is seeking an entry-level Virtual Data Analyst to join their team.",
-      "is_remote": true
+      "summary_line": "Basic Qualifications • Must be a full-time student pursuing an accredited degree program in Data Science, Math, Statistics, Operations Research or related disciplines.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-b8746169-092a-4cbb-830d-5e568f62a338",
+    "job_title": "Applied Scientist, Sponsored Products Off-Search Auction",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10389008/applied-scientist-sponsored-products-off-search-auction",
+    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2ba1305e783c8835c6e3920321384dd51a4c36ea6cf37a5bcc5be0da5a8bc4d9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "a/b testing",
+        "c++",
+        "deep learning",
+        "event-driven",
+        "fine-tuning",
+        "https",
+        "java",
+        "large language model",
+        "llm",
+        "machine learning",
+        "palo alto",
+        "python",
+        "rag",
+        "reinforcement learning"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "The Sponsored Products and Brands (SPB) team at Amazon Ads is re-imagining the advertising landscape through state-of-the-art generative AI technologies, revolutionizing how millions of customers disc…",
+      "is_remote": false
     },
     "job_posted_at": "2026-04-10T00:00:00.000Z"
   },
@@ -4495,6 +4495,53 @@
     "job_posted_at": "2026-04-09T00:14:32.300Z"
   },
   {
+    "job_id": "js-cewit-1nuytk6buadzddkxaaaaaa==",
+    "job_title": "Entry-Level Remote Data Analyst at cewit New York, NY",
+    "employer_name": "cewit",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://tietalent.com/en/jobs/p-656856469/united-states-entry-level-remote-data-analyst-at-cewit-new-york-ny",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "5e44425535cdce3cc88758d94053397cbe5e0a8552843feb03a1a64bb252c9f8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data science",
+        "data visualization",
+        "excel",
+        "power bi",
+        "sql",
+        "statistical analysis",
+        "statistics",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Qualifications Bachelors degree in a related field (e.g.",
+      "is_remote": true
+    },
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-19f3b24d-93ef-480b-b417-a112c3d20605",
     "job_title": "Applied Scientist, Ads Measurement Science",
     "employer_name": "Amazon.com Services LLC",
@@ -4587,53 +4634,6 @@
       "is_simple_apply": false,
       "summary_line": "Amazon's Center for Quantum Computing in Pasadena, CA, is looking to hire a Hardware Development Engineer.",
       "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-cewit-1nuytk6buadzddkxaaaaaa==",
-    "job_title": "Entry-Level Remote Data Analyst at cewit New York, NY",
-    "employer_name": "cewit",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://tietalent.com/en/jobs/p-656856469/united-states-entry-level-remote-data-analyst-at-cewit-new-york-ny",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "5e44425535cdce3cc88758d94053397cbe5e0a8552843feb03a1a64bb252c9f8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "data science",
-        "data visualization",
-        "excel",
-        "power bi",
-        "sql",
-        "statistical analysis",
-        "statistics",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Qualifications Bachelors degree in a related field (e.g.",
-      "is_remote": true
     },
     "job_posted_at": "2026-04-09T00:00:00.000Z"
   },
@@ -6315,176 +6315,6 @@
     "job_posted_at": "2026-04-08T07:04:14.443Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0237405",
-    "job_title": "Databricks Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Ashburn",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Ashburn-VA/Databricks-Data-Engineer_R0237405",
-    "job_posted_at_datetime_utc": "2026-04-08T07:03:52.798Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e467fd534a64be9459613a502adf4e92ce211d20618d9b1e3169ceeaf3794fd9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "aws",
-        "azure",
-        "c++",
-        "cassandra",
-        "databricks",
-        "elt",
-        "etl",
-        "google cloud",
-        "hadoop",
-        "hive",
-        "java",
-        "kafka",
-        "linux",
-        "machine learning",
-        "microsoft azure",
-        "mongodb",
-        "mysql",
-        "python",
-        "redshift",
-        "reporting",
-        "scala",
-        "shell",
-        "shell scripting",
-        "snowflake",
-        "spark",
-        "sql",
-        "unix"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Databricks Data Engineer The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there’s more structured and unstructured data available today tha…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:03:52.798Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237400",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Honolulu",
-    "job_state": "HI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Engineer_R0237400",
-    "job_posted_at_datetime_utc": "2026-04-08T07:03:52.798Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f959a583d212ea4f052d5b1fe1a4ee2745b27ce70a56b72940e9e9a66fa7bce7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "c++",
-        "dashboards",
-        "data governance",
-        "data quality",
-        "data visualization",
-        "databricks",
-        "java",
-        "lean",
-        "lean six sigma",
-        "process improvement",
-        "python",
-        "six sigma",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Data Engineer The Opportunity: As a data engineer at Booz Allen, you’ll help build advanced technology solutions and implement data engineering activities on some of the most mission-driven projects i…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:03:52.798Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237027",
-    "job_title": "Data Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Camp Lejeune",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Camp-Lejeune-NC/Data-Analyst_R0237027",
-    "job_posted_at_datetime_utc": "2026-04-08T07:03:52.798Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4202530d9a246d1be54024761a5a47334c7d7a55e9303b1a552ebc7257999736",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "data analysis",
-        "data visualization",
-        "excel",
-        "machine learning",
-        "power bi",
-        "pyspark",
-        "python",
-        "r",
-        "spark",
-        "sql",
-        "statistical analysis",
-        "statistics",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Data Analyst The Opportunity: As a Data Analyst, you enjoy diving into data and turning it into meaningful insights.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:03:52.798Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0235465",
     "job_title": "Energy All-Source Intelligence Analyst",
     "employer_name": "Booz Allen Hamilton",
@@ -6834,6 +6664,176 @@
     "job_posted_at": "2026-04-08T07:03:52.798Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0237405",
+    "job_title": "Databricks Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Ashburn",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Ashburn-VA/Databricks-Data-Engineer_R0237405",
+    "job_posted_at_datetime_utc": "2026-04-08T07:03:52.798Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e467fd534a64be9459613a502adf4e92ce211d20618d9b1e3169ceeaf3794fd9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "aws",
+        "azure",
+        "c++",
+        "cassandra",
+        "databricks",
+        "elt",
+        "etl",
+        "google cloud",
+        "hadoop",
+        "hive",
+        "java",
+        "kafka",
+        "linux",
+        "machine learning",
+        "microsoft azure",
+        "mongodb",
+        "mysql",
+        "python",
+        "redshift",
+        "reporting",
+        "scala",
+        "shell",
+        "shell scripting",
+        "snowflake",
+        "spark",
+        "sql",
+        "unix"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Databricks Data Engineer The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there’s more structured and unstructured data available today tha…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:03:52.798Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237400",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Honolulu",
+    "job_state": "HI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Engineer_R0237400",
+    "job_posted_at_datetime_utc": "2026-04-08T07:03:52.798Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f959a583d212ea4f052d5b1fe1a4ee2745b27ce70a56b72940e9e9a66fa7bce7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "c++",
+        "dashboards",
+        "data governance",
+        "data quality",
+        "data visualization",
+        "databricks",
+        "java",
+        "lean",
+        "lean six sigma",
+        "process improvement",
+        "python",
+        "six sigma",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Data Engineer The Opportunity: As a data engineer at Booz Allen, you’ll help build advanced technology solutions and implement data engineering activities on some of the most mission-driven projects i…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:03:52.798Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237027",
+    "job_title": "Data Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Camp Lejeune",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Camp-Lejeune-NC/Data-Analyst_R0237027",
+    "job_posted_at_datetime_utc": "2026-04-08T07:03:52.798Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4202530d9a246d1be54024761a5a47334c7d7a55e9303b1a552ebc7257999736",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "data analysis",
+        "data visualization",
+        "excel",
+        "machine learning",
+        "power bi",
+        "pyspark",
+        "python",
+        "r",
+        "spark",
+        "sql",
+        "statistical analysis",
+        "statistics",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Data Analyst The Opportunity: As a Data Analyst, you enjoy diving into data and turning it into meaningful insights.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:03:52.798Z"
+  },
+  {
     "job_id": "workday-ameriprise-financial-R26_1223",
     "job_title": "Associate Investment Research Analyst - Structured Products",
     "employer_name": "Ameriprise Financial",
@@ -7177,6 +7177,93 @@
     "job_posted_at": "2026-04-08T04:30:09.000Z"
   },
   {
+    "job_id": "js-emcor-group-inc-ay8ly5lqlhglxx1paaaaaa==",
+    "job_title": "Business Data Analyst, Construction; Entry Level",
+    "employer_name": "EMCOR Group, Inc.",
+    "job_city": "Baltimore",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/3ya8tbzkJ4hWczj59HMX7K",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "20c52b24c649dbb11091e0f2b5679172cbe056cbff73a06087a3c40caf1eb2ff",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "excel",
+        "microsoft office",
+        "power bi",
+        "root cause analysis",
+        "statistical analysis"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Position: Business Data Analyst, Construction.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-dhalite-inc-hlb1p3w1kgtgftpjaaaaaa==",
+    "job_title": "Entry level Data Analyst",
+    "employer_name": "Dhalite Inc.",
+    "job_city": "Detroit",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.dice.com/job-detail/b71a3ee3-40f9-46f0-b947-c5c2cdb41662",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "cd62c65749a2a38c0b54aae3e757a8c5637d7039b36119ffbbd06e19c547579b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data analysis",
+        "data science",
+        "data visualization",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Required Qualification  • Bachelor s degree in Data Science, Computer Science, Statistics, Information Systems, or a related field.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-c135b8d2-ba47-4116-a49c-6b7e58788c8e",
     "job_title": "Applied Scientist, Device Team, AWS Center for Quantum Computing",
     "employer_name": "Amazon Development Center U.S., Inc.",
@@ -7270,93 +7357,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "About Sponsored Products and Brands The Sponsored Products and Brands team at Amazon Ads is re-imagining the advertising landscape through generative AI technologies, revolutionizing how millions of c…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-dhalite-inc-hlb1p3w1kgtgftpjaaaaaa==",
-    "job_title": "Entry level Data Analyst",
-    "employer_name": "Dhalite Inc.",
-    "job_city": "Detroit",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.dice.com/job-detail/b71a3ee3-40f9-46f0-b947-c5c2cdb41662",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "cd62c65749a2a38c0b54aae3e757a8c5637d7039b36119ffbbd06e19c547579b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "data analysis",
-        "data science",
-        "data visualization",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Required Qualification  • Bachelor s degree in Data Science, Computer Science, Statistics, Information Systems, or a related field.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-emcor-group-inc-ay8ly5lqlhglxx1paaaaaa==",
-    "job_title": "Business Data Analyst, Construction; Entry Level",
-    "employer_name": "EMCOR Group, Inc.",
-    "job_city": "Baltimore",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/3ya8tbzkJ4hWczj59HMX7K",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "20c52b24c649dbb11091e0f2b5679172cbe056cbff73a06087a3c40caf1eb2ff",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "excel",
-        "microsoft office",
-        "power bi",
-        "root cause analysis",
-        "statistical analysis"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Position: Business Data Analyst, Construction.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T00:00:00.000Z"
