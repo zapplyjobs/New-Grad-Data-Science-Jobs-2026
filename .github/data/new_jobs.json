@@ -1741,6 +1741,36 @@
     "job_posted_at": "2026-04-13T00:00:00.000Z"
   },
   {
+    "job_id": "js-philadelphia-phillies-903uidtwyiydglqeaaaaaa==",
+    "job_title": "Associate Software Engineer, Data Engineering",
+    "employer_name": "Philadelphia Phillies",
+    "job_city": "Philadelphia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/3aUtm3AWn0kQ4Xyh8PK1hd",
+    "job_posted_at_datetime_utc": "2026-04-12T23:00:00.000Z",
+    "job_employment_type": "PART-TIME",
+    "salary": null,
+    "fingerprint": "5f33f74de2b92ecc092126932958f2214f7f1d546c9b852da35b14c3cb48fe44",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-12T23:00:00.000Z"
+  },
+  {
     "job_id": "amazon-bb12c430-18a8-4e0b-89ac-0c240aa5495a",
     "job_title": "Data Engineer, Risk Operations, Success, & Engagement Business Intelligence",
     "employer_name": "Amazon.com Services LLC",
@@ -3032,57 +3062,6 @@
     "job_posted_at": "2026-04-10T07:02:38.943Z"
   },
   {
-    "job_id": "workday-trimble-R54035",
-    "job_title": "Data Engineer - Customer Insights & Analytics",
-    "employer_name": "Trimble",
-    "job_city": "CO, Westminster",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Data-Engineer--Customer-Insights---Analytics_R54035",
-    "job_posted_at_datetime_utc": "2026-04-10T07:02:32.269Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9db3a691b3b4d95381f73aeb5375535c91baf2ff8ca97cdaa1db9785a5cd59c5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "computer science",
-        "data analysis",
-        "data architecture",
-        "data integration",
-        "data lake",
-        "data pipeline",
-        "data quality",
-        "etl",
-        "https",
-        "less",
-        "python",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Drive Innovation as our Next Data Engineer (Product Growth Focus)!",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:02:32.269Z"
-  },
-  {
     "job_id": "workday-trimble-R51795",
     "job_title": "Machine Learning Data Scientist",
     "employer_name": "Trimble",
@@ -3132,6 +3111,57 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Drive Innovation as our Next Data Engineer / Scientist (Predictive Analytics)!",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:02:32.269Z"
+  },
+  {
+    "job_id": "workday-trimble-R54035",
+    "job_title": "Data Engineer - Customer Insights & Analytics",
+    "employer_name": "Trimble",
+    "job_city": "CO, Westminster",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Data-Engineer--Customer-Insights---Analytics_R54035",
+    "job_posted_at_datetime_utc": "2026-04-10T07:02:32.269Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9db3a691b3b4d95381f73aeb5375535c91baf2ff8ca97cdaa1db9785a5cd59c5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "data analysis",
+        "data architecture",
+        "data integration",
+        "data lake",
+        "data pipeline",
+        "data quality",
+        "etl",
+        "https",
+        "less",
+        "python",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Drive Innovation as our Next Data Engineer (Product Growth Focus)!",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T07:02:32.269Z"
@@ -7732,6 +7762,73 @@
     "job_posted_at": "2026-04-08T07:04:14.443Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0237405",
+    "job_title": "Databricks Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Ashburn",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Ashburn-VA/Databricks-Data-Engineer_R0237405",
+    "job_posted_at_datetime_utc": "2026-04-08T07:03:52.798Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e467fd534a64be9459613a502adf4e92ce211d20618d9b1e3169ceeaf3794fd9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "aws",
+        "azure",
+        "c++",
+        "cassandra",
+        "databricks",
+        "elt",
+        "etl",
+        "google cloud",
+        "hadoop",
+        "hive",
+        "java",
+        "kafka",
+        "linux",
+        "machine learning",
+        "microsoft azure",
+        "mongodb",
+        "mysql",
+        "python",
+        "redshift",
+        "reporting",
+        "scala",
+        "shell",
+        "shell scripting",
+        "snowflake",
+        "spark",
+        "sql",
+        "unix"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Databricks Data Engineer The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there’s more structured and unstructured data available today tha…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:03:52.798Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0237400",
     "job_title": "Data Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -8190,73 +8287,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "All Source Intelligence Analyst The Opportunity: Our clients need skilled analysts to turn reams of data into actionable intelligence for our government and military every day.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:03:52.798Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237405",
-    "job_title": "Databricks Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Ashburn",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Ashburn-VA/Databricks-Data-Engineer_R0237405",
-    "job_posted_at_datetime_utc": "2026-04-08T07:03:52.798Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e467fd534a64be9459613a502adf4e92ce211d20618d9b1e3169ceeaf3794fd9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "aws",
-        "azure",
-        "c++",
-        "cassandra",
-        "databricks",
-        "elt",
-        "etl",
-        "google cloud",
-        "hadoop",
-        "hive",
-        "java",
-        "kafka",
-        "linux",
-        "machine learning",
-        "microsoft azure",
-        "mongodb",
-        "mysql",
-        "python",
-        "redshift",
-        "reporting",
-        "scala",
-        "shell",
-        "shell scripting",
-        "snowflake",
-        "spark",
-        "sql",
-        "unix"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Databricks Data Engineer The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there’s more structured and unstructured data available today tha…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T07:03:52.798Z"
