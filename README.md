@@ -69,7 +69,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Amazon.com Services LLC** | Data Scientist |  | New York, NY | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10389245/data-scientist) |
+| 🏢 **Amazon.com Services LLC** | Data Scientist |  | New York, NY | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10389245/data-scientist) |
 | 🏢 **Boston Dynamics** | Machine Learning Engineer, Large Scale Behavior Cloning | ✅ Sponsor | Waltham | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Machine-Learning-Engineer--Large-Scale-Behavior-Cloning_R2581) |
 | 🏢 **Intuitive** | Operations Data Scientist |  | Blacksburg, VA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000120063898) |
 | 🏢 **Anthropic** | Data Scientist, Finance Forecasting | ✅ Sponsor | San Francisco, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5184594008) |
@@ -81,7 +81,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cisco** | Data Scientist |  | Austin, US | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Austin-Texas-US/Data-Scientist_2011311-1) |
 | 🏢 **Mercor** | Machine Learning Engineer, Marketplace |  | San Francisco | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/mercor/73a9f1c6-3c62-4c49-b65d-e5f6a3549d95/application) |
 | 🏢 **Boston Dynamics** | AI Research Scientist, Large Scale Behavior Cloning |  | Waltham | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/AI-Research-Scientist--Large-Scale-Behavior-Cloning_R1974) |
-| 🏢 **Boston Dynamics** | Research Scientist, Atlas Behavior Learning |  | Waltham | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Research-Scientist--Atlas-Behavior-Learning_R1807) |
+| 🏢 **Boston Dynamics** | Research Scientist, VLA Models - Atlas |  | Waltham | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Staff-Research-Scientist_R2027) |
 | 🏢 **Amazon.com Services LLC** | Applied Scientist, Artificial General Intelligence, AGI Data Services |  | Boston, MA + 3 more | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10389051/applied-scientist-artificial-general-intelligence-agi-data-services) |
 | 🏢 **Amazon.com Services LLC** | Applied Scientist, Sponsored Products Off-Search Auction |  | Seattle, WA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10389008/applied-scientist-sponsored-products-off-search-auction) |
 | 🏢 **The MITRE Corporation** | Internships in Data Science, Math, Statistics or Operations Research |  | Unknown | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115478/Internships-in-Data-Science-Math-Statistics-or-Operations-Research) |
