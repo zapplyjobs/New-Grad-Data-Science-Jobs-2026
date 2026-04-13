@@ -2311,18 +2311,18 @@
     "job_posted_at": "2026-04-10T00:47:02.392Z"
   },
   {
-    "job_id": "js-the-mitre-corporation-pvo8gofvs-qqkn-gaaaaaa==",
-    "job_title": "Internships in Data Science, Math, Statistics or Operations Research",
-    "employer_name": "The MITRE Corporation",
-    "job_city": "Unknown",
+    "job_id": "js-fast-foster-care-h5xa-dmilybbb-xgaaaaaa==",
+    "job_title": "Remote Data Analyst - Entry Level with Growth Opportunities",
+    "employer_name": "Fast Foster Care",
+    "job_city": "Denver",
     "job_state": "",
     "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.mitre.org/us/en/job/R115478/Internships-in-Data-Science-Math-Statistics-or-Operations-Research",
+    "job_is_remote": true,
+    "job_apply_link": "https://www.whatjobs.com/jobs/remote-data-analyst-entry/denver-colorado-2?id=2626215602",
     "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "46a0e00ada43ef77c65b94d7915cb4ccf95e88080665ed54f7f0a5be8d145be7",
+    "fingerprint": "0a499e1cae060a45b93b77ea7152233954f05b05a63508c054b95284609f160b",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2330,7 +2330,7 @@
       ],
       "locations": [
         "us",
-        "on_site"
+        "remote"
       ],
       "experience": "unknown",
       "special": []
@@ -2339,14 +2339,17 @@
     "_original_source": "jsearch",
     "enrichment": {
       "required_skills": [
-        "data science",
-        "statistics"
+        "data visualization",
+        "power bi",
+        "python",
+        "sql",
+        "tableau"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": "Basic Qualifications • Must be a full-time student pursuing an accredited degree program in Data Science, Math, Statistics, Operations Research or related disciplines.",
-      "is_remote": false
+      "summary_line": "A dynamic organization is seeking an entry-level Virtual Data Analyst to join their team.",
+      "is_remote": true
     },
     "job_posted_at": "2026-04-10T00:00:00.000Z"
   },
@@ -2629,60 +2632,6 @@
     "job_posted_at": "2026-04-10T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-f8210bfd-31a8-46c1-9621-3cf597cfbeea",
-    "job_title": "Data Scientist , Amazon Business",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10388060/data-scientist-amazon-business",
-    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1336d8f9ca50aff8c4613aecc3820f441e3d3ef18fc3bf3871c55c7fc1d1112c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "data analysis",
-        "data modeling",
-        "deep learning",
-        "https",
-        "machine learning",
-        "matlab",
-        "natural language processing",
-        "perl",
-        "python",
-        "r",
-        "sql",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Come be a part of a rapidly expanding $35 billion-dollar global business.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-b8746169-092a-4cbb-830d-5e568f62a338",
     "job_title": "Applied Scientist, Sponsored Products Off-Search Auction",
     "employer_name": "Amazon.com Services LLC",
@@ -2737,18 +2686,18 @@
     "job_posted_at": "2026-04-10T00:00:00.000Z"
   },
   {
-    "job_id": "js-fast-foster-care-h5xa-dmilybbb-xgaaaaaa==",
-    "job_title": "Remote Data Analyst - Entry Level with Growth Opportunities",
-    "employer_name": "Fast Foster Care",
-    "job_city": "Denver",
+    "job_id": "js-the-mitre-corporation-pvo8gofvs-qqkn-gaaaaaa==",
+    "job_title": "Internships in Data Science, Math, Statistics or Operations Research",
+    "employer_name": "The MITRE Corporation",
+    "job_city": "Unknown",
     "job_state": "",
     "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://www.whatjobs.com/jobs/remote-data-analyst-entry/denver-colorado-2?id=2626215602",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.mitre.org/us/en/job/R115478/Internships-in-Data-Science-Math-Statistics-or-Operations-Research",
     "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "0a499e1cae060a45b93b77ea7152233954f05b05a63508c054b95284609f160b",
+    "fingerprint": "46a0e00ada43ef77c65b94d7915cb4ccf95e88080665ed54f7f0a5be8d145be7",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2756,7 +2705,7 @@
       ],
       "locations": [
         "us",
-        "remote"
+        "on_site"
       ],
       "experience": "unknown",
       "special": []
@@ -2765,17 +2714,68 @@
     "_original_source": "jsearch",
     "enrichment": {
       "required_skills": [
-        "data visualization",
-        "power bi",
-        "python",
-        "sql",
-        "tableau"
+        "data science",
+        "statistics"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": "A dynamic organization is seeking an entry-level Virtual Data Analyst to join their team.",
-      "is_remote": true
+      "summary_line": "Basic Qualifications • Must be a full-time student pursuing an accredited degree program in Data Science, Math, Statistics, Operations Research or related disciplines.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-f8210bfd-31a8-46c1-9621-3cf597cfbeea",
+    "job_title": "Data Scientist , Amazon Business",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10388060/data-scientist-amazon-business",
+    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1336d8f9ca50aff8c4613aecc3820f441e3d3ef18fc3bf3871c55c7fc1d1112c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "data analysis",
+        "data modeling",
+        "deep learning",
+        "https",
+        "machine learning",
+        "matlab",
+        "natural language processing",
+        "perl",
+        "python",
+        "r",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Come be a part of a rapidly expanding $35 billion-dollar global business.",
+      "is_remote": false
     },
     "job_posted_at": "2026-04-10T00:00:00.000Z"
   },
@@ -7632,104 +7632,6 @@
     "job_posted_at": "2026-04-08T04:30:09.000Z"
   },
   {
-    "job_id": "amazon-c135b8d2-ba47-4116-a49c-6b7e58788c8e",
-    "job_title": "Applied Scientist, Device Team, AWS Center for Quantum Computing",
-    "employer_name": "Amazon Development Center U.S., Inc.",
-    "job_city": "Pasadena",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10386670/applied-scientist-device-team-aws-center-for-quantum-computing",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "307c6032e9a3b25f04bd6236d3e5c7870d468eca100207bb9d44dc7f301b6ef5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "amazon web services",
-        "c++",
-        "https",
-        "java",
-        "python",
-        "tls"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "The Amazon Web Services Center for Quantum Computing (CQC) in Pasadena, CA, is looking to hire an Applied Scientist.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
-    "job_id": "amazon-ef8562eb-cdcd-47cc-a5f9-8a6e9117a387",
-    "job_title": "Applied Scientist, Sponsored Products",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10385985/applied-scientist-sponsored-products",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "470ddf330c86479564b4513993d9ab9cce1de5837c5c553e3fe72f5568819d8b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "data analysis",
-        "https",
-        "java",
-        "large language model",
-        "llm",
-        "machine learning",
-        "python",
-        "statistical analysis",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "About Sponsored Products and Brands The Sponsored Products and Brands team at Amazon Ads is re-imagining the advertising landscape through generative AI technologies, revolutionizing how millions of c…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
     "job_id": "js-dhalite-inc-hlb1p3w1kgtgftpjaaaaaa==",
     "job_title": "Entry level Data Analyst",
     "employer_name": "Dhalite Inc.",
@@ -7859,6 +7761,104 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Position: Business Data Analyst, Construction.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-c135b8d2-ba47-4116-a49c-6b7e58788c8e",
+    "job_title": "Applied Scientist, Device Team, AWS Center for Quantum Computing",
+    "employer_name": "Amazon Development Center U.S., Inc.",
+    "job_city": "Pasadena",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10386670/applied-scientist-device-team-aws-center-for-quantum-computing",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "307c6032e9a3b25f04bd6236d3e5c7870d468eca100207bb9d44dc7f301b6ef5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "amazon web services",
+        "c++",
+        "https",
+        "java",
+        "python",
+        "tls"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "The Amazon Web Services Center for Quantum Computing (CQC) in Pasadena, CA, is looking to hire an Applied Scientist.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-ef8562eb-cdcd-47cc-a5f9-8a6e9117a387",
+    "job_title": "Applied Scientist, Sponsored Products",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10385985/applied-scientist-sponsored-products",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "470ddf330c86479564b4513993d9ab9cce1de5837c5c553e3fe72f5568819d8b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "data analysis",
+        "https",
+        "java",
+        "large language model",
+        "llm",
+        "machine learning",
+        "python",
+        "statistical analysis",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "About Sponsored Products and Brands The Sponsored Products and Brands team at Amazon Ads is re-imagining the advertising landscape through generative AI technologies, revolutionizing how millions of c…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T00:00:00.000Z"
@@ -9661,55 +9661,6 @@
     "job_posted_at": "2026-04-07T00:02:09.552Z"
   },
   {
-    "job_id": "netflix-790315228907",
-    "job_title": "Machine Learning Scientist 5 - Ad Ranking",
-    "employer_name": "Netflix",
-    "job_city": "USA - Remote",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790315228907",
-    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4678440470fc2f852e7b8957a643964e214841a9d1f287653802a428272289e2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "netflix",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "data analysis",
-        "java",
-        "less",
-        "machine learning",
-        "python",
-        "scala",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Qualifications:  Advanced degree (PhD or Master’s) in Computer Science, Statistics, Mathematics, or related quantitative field.",
-      "is_remote": true
-    },
-    "job_posted_at": "2026-04-07T00:00:00.000Z"
-  },
-  {
     "job_id": "js-jobsultant-solutions-yvpfgfrffp85a5tqaaaaaa==",
     "job_title": "Data Analyst - Entry Level (Remote)",
     "employer_name": "Jobsultant Solutions",
@@ -9754,6 +9705,55 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Required Qualifications • Industry experience in predictive modeling, data science and analysis.",
+      "is_remote": true
+    },
+    "job_posted_at": "2026-04-07T00:00:00.000Z"
+  },
+  {
+    "job_id": "netflix-790315228907",
+    "job_title": "Machine Learning Scientist 5 - Ad Ranking",
+    "employer_name": "Netflix",
+    "job_city": "USA - Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790315228907",
+    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4678440470fc2f852e7b8957a643964e214841a9d1f287653802a428272289e2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "netflix",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data analysis",
+        "java",
+        "less",
+        "machine learning",
+        "python",
+        "scala",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Qualifications:  Advanced degree (PhD or Master’s) in Computer Science, Statistics, Mathematics, or related quantitative field.",
       "is_remote": true
     },
     "job_posted_at": "2026-04-07T00:00:00.000Z"
@@ -10209,51 +10209,5 @@
       "is_remote": true
     },
     "job_posted_at": "2026-04-06T17:56:50.030Z"
-  },
-  {
-    "job_id": "greenhouse-guidepoint-8433429002",
-    "job_title": "Healthcare Data Analyst",
-    "employer_name": "Guidepoint",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/guidepoint/jobs/8433429002",
-    "job_posted_at_datetime_utc": "2026-04-06T12:50:11-04:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "656cf63f35f3aa1a72508ed8f613e732f6de12dab0b42ffa874e165d69b546c2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "excel",
-        "forecasting",
-        "pandas",
-        "python",
-        "regression",
-        "snowflake",
-        "sql",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": "Qsight is a high-growth division of Guidepoint focused on building market-leading data intelligence and market research solutions for the healthcare industry.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-06T12:50:11-04:00"
   }
 ]
