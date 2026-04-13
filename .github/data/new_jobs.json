@@ -1,5 +1,120 @@
 [
   {
+    "job_id": "workday-the-hartford-R2624916",
+    "job_title": "Data Scientist Economist",
+    "employer_name": "The Hartford",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/New-York-NY/Data-Scientist-Economist_R2624916",
+    "job_posted_at_datetime_utc": "2026-04-13T21:22:43.148Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bc4545896a9779768ae2008baa156419e676958190dada28424c590cf56b0530",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T21:22:43.148Z"
+  },
+  {
+    "job_id": "workday-intel-JR0282890",
+    "job_title": "Foundry Automation ML Engineer",
+    "employer_name": "Intel",
+    "job_city": "US",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Foundry-Automation-ML-Engineer_JR0282890-1",
+    "job_posted_at_datetime_utc": "2026-04-13T21:20:52.286Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a0f6940bf42b2b451c26456fee517055394e5b467bb963411b66154711d5f384",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T21:20:52.286Z"
+  },
+  {
+    "job_id": "workday-intel-JR0282358",
+    "job_title": "Foundry New Product Data Analyst",
+    "employer_name": "Intel",
+    "job_city": "US Arizona Phoenix",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Foundry-New-Product-Data-Analyst_JR0282358",
+    "job_posted_at_datetime_utc": "2026-04-13T21:20:52.286Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a67aae35710809cdd4b74a41224a6dfd2e0c40375561198939fe606c250a930c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T21:20:52.286Z"
+  },
+  {
+    "job_id": "greenhouse-stripe-7809414",
+    "job_title": "Data Scientist",
+    "employer_name": "Stripe",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7809414",
+    "job_posted_at_datetime_utc": "2026-04-13T21:02:29.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0c361792244c0ae61d2599a6a114c9a1d988b129504dbbe8f2e9c2de409c3df6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "unicorn"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-13T21:02:29.000Z"
+  },
+  {
     "job_id": "workday-hitachi-R0126424",
     "job_title": "Power Systems Research Scientist",
     "employer_name": "Hitachi",
@@ -586,48 +701,6 @@
     "job_posted_at": "2026-04-13T18:37:52.549Z"
   },
   {
-    "job_id": "greenhouse-kikoff-4209451009",
-    "job_title": "Marketing Data Scientist",
-    "employer_name": "Kikoff",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/kikoff/jobs/4209451009",
-    "job_posted_at_datetime_utc": "2026-04-13T18:29:53.006Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "201a08d7cd0014199b7b3200f874a8932abad5b48028eb2eac8770829bcab5f7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "data science",
-        "python",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "2+ years in data science or analytics, with at least 2 years in marketing or growth contexts   Expert SQL and strong Python; deep familiarity with experimentation design and causal inference methods  ",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T18:29:53.006Z"
-  },
-  {
     "job_id": "greenhouse-kikoff-4157504009",
     "job_title": "Data Scientist",
     "employer_name": "Kikoff",
@@ -668,6 +741,48 @@
       "possible_sponsor": true,
       "is_simple_apply": true,
       "summary_line": "Bachelors’ or above in quantitative discipline: Statistics, Applied Mathematics, Economics, Computer Science, Engineering, or related field     A minimum of 2 years of work experience in analytics    ",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T18:29:53.006Z"
+  },
+  {
+    "job_id": "greenhouse-kikoff-4209451009",
+    "job_title": "Marketing Data Scientist",
+    "employer_name": "Kikoff",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/kikoff/jobs/4209451009",
+    "job_posted_at_datetime_utc": "2026-04-13T18:29:53.006Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "201a08d7cd0014199b7b3200f874a8932abad5b48028eb2eac8770829bcab5f7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data science",
+        "python",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "2+ years in data science or analytics, with at least 2 years in marketing or growth contexts   Expert SQL and strong Python; deep familiarity with experimentation design and causal inference methods  ",
       "is_remote": false
     },
     "job_posted_at": "2026-04-13T18:29:53.006Z"
@@ -876,57 +991,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-13T17:28:23.647Z"
-  },
-  {
-    "job_id": "ashby-rilla-fad15157-b4cc-44ff-92b7-4afd4fe3388e",
-    "job_title": "AI Engineer",
-    "employer_name": "Rilla",
-    "job_city": "New York City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/rilla/fad15157-b4cc-44ff-92b7-4afd4fe3388e/application",
-    "job_posted_at_datetime_utc": "2026-04-13T16:52:19.551Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "54bb32f662ce364314eb0654ecb3fb2f35534a002e345d20a70967729a0b2393",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "fastapi",
-        "llm",
-        "openai",
-        "postgresql",
-        "python",
-        "pytorch",
-        "redis",
-        "s3",
-        "typescript"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": true,
-      "summary_line": "Successful candidates with competing offers will receive matching and competitive offers.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T16:52:19.551Z"
   },
   {
     "job_id": "workday-blackrock-R258156",
@@ -7587,6 +7651,92 @@
     "job_posted_at": "2026-04-08T07:04:14.443Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0235463",
+    "job_title": "Energy All-Source Intelligence Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0235463",
+    "job_posted_at_datetime_utc": "2026-04-08T07:03:52.798Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "528c783f3010bdd1ed34d8e992458b558a8cae7e936271b55b7c274c53c27505",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Energy All-Source Intelligence Analyst The Opportunity: With all of the information available today, it takes a skilled all-source analyst to know how to find and interpret the best data to give their…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:03:52.798Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237320",
+    "job_title": "Human Capital Data Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Chantilly",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Human-Capital-Data-Analyst_R0237320",
+    "job_posted_at_datetime_utc": "2026-04-08T07:03:52.798Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "157fda429f5d4a5d33f5abfb033d57ff8e7ac820fa88d402032406e9699faf55",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "dashboards",
+        "data analysis",
+        "data governance",
+        "data visualization",
+        "excel",
+        "natural language processing",
+        "pivot tables",
+        "python",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Human Capital Data Analyst The Opportunity: As Data Analyst, you love diving into data and turning it into meaningful insights.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:03:52.798Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0237416",
     "job_title": "Data Scientist",
     "employer_name": "Booz Allen Hamilton",
@@ -8031,92 +8181,6 @@
     "job_posted_at": "2026-04-08T07:03:52.798Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0235463",
-    "job_title": "Energy All-Source Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0235463",
-    "job_posted_at_datetime_utc": "2026-04-08T07:03:52.798Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "528c783f3010bdd1ed34d8e992458b558a8cae7e936271b55b7c274c53c27505",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Energy All-Source Intelligence Analyst The Opportunity: With all of the information available today, it takes a skilled all-source analyst to know how to find and interpret the best data to give their…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:03:52.798Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237320",
-    "job_title": "Human Capital Data Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Chantilly",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Human-Capital-Data-Analyst_R0237320",
-    "job_posted_at_datetime_utc": "2026-04-08T07:03:52.798Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "157fda429f5d4a5d33f5abfb033d57ff8e7ac820fa88d402032406e9699faf55",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "dashboards",
-        "data analysis",
-        "data governance",
-        "data visualization",
-        "excel",
-        "natural language processing",
-        "pivot tables",
-        "python",
-        "sql",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Human Capital Data Analyst The Opportunity: As Data Analyst, you love diving into data and turning it into meaningful insights.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:03:52.798Z"
-  },
-  {
     "job_id": "workday-ameriprise-financial-R26_1223",
     "job_title": "Associate Investment Research Analyst - Structured Products",
     "employer_name": "Ameriprise Financial",
@@ -8483,52 +8547,6 @@
     "job_posted_at": "2026-04-08T07:00:41.770Z"
   },
   {
-    "job_id": "workday-guidehouse-37316",
-    "job_title": "Data Analytics Consultant",
-    "employer_name": "Guidehouse",
-    "job_city": "AL, Huntsville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Huntsville/Data-Analytics-Consultant_37316",
-    "job_posted_at_datetime_utc": "2026-04-08T07:00:34.668Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3eb3f6ba53f2ba7b09419ccd7a71354aa6890376f03af548700a9335612aa5c1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "data pipeline",
-        "data science",
-        "data visualization",
-        "power bi",
-        "python",
-        "r",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Family : Data Science Consulting Travel Required : None Clearance Required : Active Secret What You Will Do : Guidehouse is seeking a Data Analytics Consultant who will provide data solutions (ana…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:00:34.668Z"
-  },
-  {
     "job_id": "workday-guidehouse-38083",
     "job_title": "Data Analyst - Databricks",
     "employer_name": "Guidehouse",
@@ -8585,6 +8603,52 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Family : Data Science Consulting Travel Required : Up to 10% Clearance Required : Ability to Obtain Public Trust What You Will Do: Our consultants on the Defense & Security AI & Data team help cli…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:00:34.668Z"
+  },
+  {
+    "job_id": "workday-guidehouse-37316",
+    "job_title": "Data Analytics Consultant",
+    "employer_name": "Guidehouse",
+    "job_city": "AL, Huntsville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Huntsville/Data-Analytics-Consultant_37316",
+    "job_posted_at_datetime_utc": "2026-04-08T07:00:34.668Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3eb3f6ba53f2ba7b09419ccd7a71354aa6890376f03af548700a9335612aa5c1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data pipeline",
+        "data science",
+        "data visualization",
+        "power bi",
+        "python",
+        "r",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Family : Data Science Consulting Travel Required : None Clearance Required : Active Secret What You Will Do : Guidehouse is seeking a Data Analytics Consultant who will provide data solutions (ana…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T07:00:34.668Z"
