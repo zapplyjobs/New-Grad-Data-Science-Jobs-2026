@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "greenhouse-labelbox-5101375007",
+    "job_title": "Forward Deployed Research Scientist",
+    "employer_name": "Labelbox",
+    "job_city": "San Francisco Bay Area",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/labelbox/jobs/5101375007",
+    "job_posted_at_datetime_utc": "2026-04-13T23:17:35.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e03a63334b6823f76f211f08a6364247653eec2a0e4fc730ae7badaef3dad2a3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-13T23:17:35.000Z"
+  },
+  {
     "job_id": "workday-the-hartford-R2624916",
     "job_title": "Data Scientist Economist",
     "employer_name": "The Hartford",
@@ -10538,6 +10566,53 @@
     "job_posted_at": "2026-04-07T07:01:27.754Z"
   },
   {
+    "job_id": "workday-kbr-R2121507",
+    "job_title": "Operations Research Analyst",
+    "employer_name": "KBR",
+    "job_city": "Beavercreek",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Operations-Research-Analyst_R2121507",
+    "job_posted_at_datetime_utc": "2026-04-07T07:01:03.244Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cd6c0886ab755072a8d8da39c8a8ee322ad80e20e7ad017e10c4a46d8e578936",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "cybersecurity",
+        "java",
+        "jmp",
+        "matlab",
+        "program management",
+        "python",
+        "r",
+        "vba"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Title: Operations Research Analyst Belong.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T07:01:03.244Z"
+  },
+  {
     "job_id": "workday-kbr-R2121515",
     "job_title": "Data Engineer",
     "employer_name": "KBR",
@@ -10671,53 +10746,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "KBR’s National Security Solutions team provides high-end engineering and advanced technology solutions to our customers in the intelligence and national security communities.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T07:01:03.244Z"
-  },
-  {
-    "job_id": "workday-kbr-R2121507",
-    "job_title": "Operations Research Analyst",
-    "employer_name": "KBR",
-    "job_city": "Beavercreek",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Operations-Research-Analyst_R2121507",
-    "job_posted_at_datetime_utc": "2026-04-07T07:01:03.244Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cd6c0886ab755072a8d8da39c8a8ee322ad80e20e7ad017e10c4a46d8e578936",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "cybersecurity",
-        "java",
-        "jmp",
-        "matlab",
-        "program management",
-        "python",
-        "r",
-        "vba"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Title: Operations Research Analyst Belong.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-07T07:01:03.244Z"
@@ -11297,64 +11325,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-07T00:00:00.000Z"
-  },
-  {
-    "job_id": "workday-northrop-grumman-R10218634",
-    "job_title": "Data Scientist – Machine Learning and Predictive Analytics",
-    "employer_name": "Northrop Grumman",
-    "job_city": "California-San Diego",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Data-Scientist---Machine-Learning-and-Predictive-Analytics_R10218634",
-    "job_posted_at_datetime_utc": "2026-04-06T23:44:39.912Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "859124e8bd0e139bfe488efd173c252d91ada5a3dc80cf10043d022341eee865",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "c++",
-        "ci/cd",
-        "computer science",
-        "data architecture",
-        "data modeling",
-        "data science",
-        "deep learning",
-        "docker",
-        "git",
-        "http",
-        "integration testing",
-        "machine learning",
-        "numpy",
-        "pandas",
-        "python",
-        "pytorch",
-        "sklearn",
-        "sql",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "RELOCATION ASSISTANCE: Relocation assistance may be available CLEARANCE REQUIRED FOR START: Yes CLEARANCE TYPE: Top Secret TRAVEL: Yes, 25% of the Time Description At Northrop Grumman, our employees h…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-06T23:44:39.912Z"
   }
 ]
