@@ -69,7 +69,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Amazon.com Services LLC** | Data Scientist |  | New York, NY | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10389245/data-scientist) |
+| 🏢 **Amazon.com Services LLC** | Data Scientist |  | New York, NY | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10389245/data-scientist) |
 | 🏢 **Boston Dynamics** | Machine Learning Engineer, Large Scale Behavior Cloning | ✅ Sponsor | Waltham | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Machine-Learning-Engineer--Large-Scale-Behavior-Cloning_R2581) |
 | 🏢 **Intuitive** | Operations Data Scientist |  | Blacksburg, VA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000120063898) |
 | 🏢 **Anthropic** | Data Scientist, Finance Forecasting | ✅ Sponsor | San Francisco, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5184594008) |
@@ -94,7 +94,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Booz Allen Hamilton** | University, Data Scientist |  | Washington, DC | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University--Data-Scientist_R0237467) |
 | 🏢 **Intuitive** | Machine Learning Engineer |  | Sunnyvale, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000119667109) |
 | 🏢 **Zoom** | Data Scientist Marketing |  | San Jose | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Data-Scientist-Marketing_R18793-1) |
-| 🏢 **HackerRank** | Machine Learning Engineer, Integrity | ✅ Sponsor | CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/hackerrank/jobs/7780916) |
+| 🏢 **HackerRank** | Machine Learning Engineer, Integrity | ✅ Sponsor | CA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/hackerrank/jobs/7780916) |
 | 🏢 **Vanguard** | Machine Learning Engineer, Specialist |  | Malvern, PA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Machine-Learning-Engineer--Specialist_176134-1) |
 | 🏢 **Thermo Fisher Scientific** | Associate Research Scientist - Small Molecule, Technical Project Manager (GMP) |  | Middleton | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Associate-Research-Scientist---Small-Molecule--Technical-Project-Manager--GMP-_R-01346937) |
 | 🏢 **TransUnion** | Advisor, Data Science & Analytics |  | US | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Remote---US/Advisor--Data-Science---Analytics_19040204-1) |
