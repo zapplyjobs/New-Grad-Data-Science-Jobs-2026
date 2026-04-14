@@ -71,6 +71,27 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "data science",
+        "pandas",
+        "python",
+        "regression",
+        "scikit-learn",
+        "sql",
+        "statistical analysis",
+        "statistics",
+        "supervised learning"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Basic Qualifications: - Bachelor's degree or above in a quantitative field such as statistics, mathematics, data science, business analytics, economics, finance, engineering, or computer science - Exp…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-14T00:00:00.000Z"
   },
   {
@@ -4015,50 +4036,6 @@
     "job_posted_at": "2026-04-10T00:00:00.000Z"
   },
   {
-    "job_id": "js-fast-foster-care-h5xa-dmilybbb-xgaaaaaa==",
-    "job_title": "Remote Data Analyst - Entry Level with Growth Opportunities",
-    "employer_name": "Fast Foster Care",
-    "job_city": "Denver",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://www.whatjobs.com/jobs/remote-data-analyst-entry/denver-colorado-2?id=2626215602",
-    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "0a499e1cae060a45b93b77ea7152233954f05b05a63508c054b95284609f160b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "data visualization",
-        "power bi",
-        "python",
-        "sql",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "A dynamic organization is seeking an entry-level Virtual Data Analyst to join their team.",
-      "is_remote": true
-    },
-    "job_posted_at": "2026-04-10T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-b8746169-092a-4cbb-830d-5e568f62a338",
     "job_title": "Applied Scientist, Sponsored Products Off-Search Auction",
     "employer_name": "Amazon.com Services LLC",
@@ -4110,6 +4087,50 @@
       "is_simple_apply": false,
       "summary_line": "The Sponsored Products and Brands (SPB) team at Amazon Ads is re-imagining the advertising landscape through state-of-the-art generative AI technologies, revolutionizing how millions of customers disc…",
       "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-fast-foster-care-h5xa-dmilybbb-xgaaaaaa==",
+    "job_title": "Remote Data Analyst - Entry Level with Growth Opportunities",
+    "employer_name": "Fast Foster Care",
+    "job_city": "Denver",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://www.whatjobs.com/jobs/remote-data-analyst-entry/denver-colorado-2?id=2626215602",
+    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "0a499e1cae060a45b93b77ea7152233954f05b05a63508c054b95284609f160b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "data visualization",
+        "power bi",
+        "python",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "A dynamic organization is seeking an entry-level Virtual Data Analyst to join their team.",
+      "is_remote": true
     },
     "job_posted_at": "2026-04-10T00:00:00.000Z"
   },
@@ -6439,6 +6460,38 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "aws",
+        "data science",
+        "data visualization",
+        "databricks",
+        "elt",
+        "etl",
+        "git",
+        "hadoop",
+        "hive",
+        "kafka",
+        "machine learning",
+        "power bi",
+        "python",
+        "qlik",
+        "r",
+        "reporting",
+        "scala",
+        "spark",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Data Engineer The Opportunity : Ever-expanding technology like IoT, machine learning, and artifi cia l intelligence means that there’s more structured and unstructured data available today than ever b…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T00:47:31.652Z"
   },
   {
@@ -9181,6 +9234,58 @@
     "job_posted_at": "2026-04-08T00:00:00.000Z"
   },
   {
+    "job_id": "amazon-ef8562eb-cdcd-47cc-a5f9-8a6e9117a387",
+    "job_title": "Applied Scientist, Sponsored Products",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10385985/applied-scientist-sponsored-products",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "470ddf330c86479564b4513993d9ab9cce1de5837c5c553e3fe72f5568819d8b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "data analysis",
+        "https",
+        "java",
+        "large language model",
+        "llm",
+        "machine learning",
+        "python",
+        "statistical analysis",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "About Sponsored Products and Brands The Sponsored Products and Brands team at Amazon Ads is re-imagining the advertising landscape through generative AI technologies, revolutionizing how millions of c…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
     "job_id": "js-ark-solutions-ogs29p6lqr3xrvstaaaaaa==",
     "job_title": "Virtual Data Analyst / Entry level (Remote)",
     "employer_name": "Ark Solutions",
@@ -9315,58 +9420,6 @@
       "is_simple_apply": false,
       "summary_line": "Qualifications Bachelors degree in a related field (e.g.",
       "is_remote": true
-    },
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
-    "job_id": "amazon-ef8562eb-cdcd-47cc-a5f9-8a6e9117a387",
-    "job_title": "Applied Scientist, Sponsored Products",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10385985/applied-scientist-sponsored-products",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "470ddf330c86479564b4513993d9ab9cce1de5837c5c553e3fe72f5568819d8b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "data analysis",
-        "https",
-        "java",
-        "large language model",
-        "llm",
-        "machine learning",
-        "python",
-        "statistical analysis",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "About Sponsored Products and Brands The Sponsored Products and Brands team at Amazon Ads is re-imagining the advertising landscape through generative AI technologies, revolutionizing how millions of c…",
-      "is_remote": false
     },
     "job_posted_at": "2026-04-08T00:00:00.000Z"
   },
