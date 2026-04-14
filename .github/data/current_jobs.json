@@ -1,5 +1,34 @@
 [
   {
+    "job_id": "workday-marvell-2601154",
+    "job_title": "AI/ML Data Engineer",
+    "employer_name": "Marvell",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-ML-Data-Engineer_2601154-1",
+    "job_posted_at_datetime_utc": "2026-04-14T15:45:34.823Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "996e8ea95f952cd47921f2310225b7219935c3f319d365192d39ce082753ce9c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T15:45:34.823Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0237702",
     "job_title": "Databricks Platform Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -26,6 +55,36 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "aws",
+        "azure",
+        "cloudformation",
+        "data architecture",
+        "data governance",
+        "data lake",
+        "data pipeline",
+        "data quality",
+        "data visualization",
+        "data warehouse",
+        "databricks",
+        "gcp",
+        "kafka",
+        "machine learning",
+        "mlflow",
+        "power bi",
+        "spark",
+        "sql",
+        "terraform"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Databricks Platform Engineer The Opportunity As a Databricks data engineer, you’ll use your skills to help implement data engineering activities on some of the most mission-driven projects in the indu…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-14T15:33:00.331Z"
   },
   {
@@ -55,6 +114,46 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "c#",
+        "c++",
+        "classification",
+        "computer science",
+        "computer vision",
+        "data science",
+        "ec2",
+        "hugging face",
+        "java",
+        "keras",
+        "lambda",
+        "langchain",
+        "large language model",
+        "linux",
+        "machine learning",
+        "natural language processing",
+        "neural network",
+        "nlp",
+        "openai",
+        "pandas",
+        "python",
+        "pytorch",
+        "reinforcement learning",
+        "rf",
+        "s3",
+        "scikit-learn",
+        "statistical analysis",
+        "tensorflow",
+        "transformers"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: AI/ML Engineer Job Category: Engineering Time Type: Full time Minimum Clearance Required to Start: TS/SCI with Polygraph Employee Type: Regular Percentage of Travel Required: Up to 10% Type…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-14T15:32:51.622Z"
   },
   {
@@ -650,6 +749,22 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "machine learning",
+        "matlab",
+        "python",
+        "r",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Basic Qualifications: - 2+ years of data scientist experience - 3+ years of data querying languages (e.g.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-14T00:00:00.000Z"
   },
   {
@@ -9163,45 +9278,6 @@
     "job_posted_at": "2026-04-08T07:01:12.014Z"
   },
   {
-    "job_id": "workday-leidos-R-00177833",
-    "job_title": "Maritime Intelligence Analyst and Watch Stander",
-    "employer_name": "Leidos",
-    "job_city": "Suitland",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Suitland-MD/Maritime-Intelligence-Analyst-and-Watch-Stander_R-00177833",
-    "job_posted_at_datetime_utc": "2026-04-08T07:01:11.865Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "de3db73822447f8ceb3e66e1dfe8890376a6996a63914d4f2a48378714d032c3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Tasking: Collects, analyzes, interprets, evaluates and integrates complex data from multiple sources in assessing the relevance and significance of developments in his/her assigned area(s), and in pre…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:01:11.865Z"
-  },
-  {
     "job_id": "workday-leidos-R-00172485",
     "job_title": "Intelligence Analyst",
     "employer_name": "Leidos",
@@ -9239,6 +9315,45 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Accelerate Your Career in National Security with Leidos!",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:01:11.865Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00177833",
+    "job_title": "Maritime Intelligence Analyst and Watch Stander",
+    "employer_name": "Leidos",
+    "job_city": "Suitland",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Suitland-MD/Maritime-Intelligence-Analyst-and-Watch-Stander_R-00177833",
+    "job_posted_at_datetime_utc": "2026-04-08T07:01:11.865Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "de3db73822447f8ceb3e66e1dfe8890376a6996a63914d4f2a48378714d032c3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Tasking: Collects, analyzes, interprets, evaluates and integrates complex data from multiple sources in assessing the relevance and significance of developments in his/her assigned area(s), and in pre…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T07:01:11.865Z"
