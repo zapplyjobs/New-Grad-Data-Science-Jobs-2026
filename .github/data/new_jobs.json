@@ -25,6 +25,35 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "azure",
+        "computer science",
+        "dashboards",
+        "data analysis",
+        "data pipeline",
+        "data science",
+        "data visualization",
+        "erp",
+        "lean",
+        "matlab",
+        "mes",
+        "power bi",
+        "python",
+        "r",
+        "spc",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Date Posted: 2026-04-14 Country: United States of America Location: US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 Position Role Type: Onsite U.S.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-14T13:20:41.860Z"
   },
   {
@@ -274,6 +303,50 @@
     "job_posted_at": "2026-04-13T21:22:43.148Z"
   },
   {
+    "job_id": "workday-intel-JR0282358",
+    "job_title": "Foundry New Product Data Analyst",
+    "employer_name": "Intel",
+    "job_city": "US Arizona Phoenix",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Foundry-New-Product-Data-Analyst_JR0282358",
+    "job_posted_at_datetime_utc": "2026-04-13T21:20:52.286Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a67aae35710809cdd4b74a41224a6dfd2e0c40375561198939fe606c250a930c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "dashboards",
+        "data quality",
+        "process improvement",
+        "sap",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Details: Job Description: Owns planning of a more complex supply chain link.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T21:20:52.286Z"
+  },
+  {
     "job_id": "workday-intel-JR0282890",
     "job_title": "Foundry Automation ML Engineer",
     "employer_name": "Intel",
@@ -329,50 +402,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Details: Job Description: Intel Foundry Automation (IFA) is looking for a highly motivated ML Engineer who is passionate about Productizing AI powered end-to-end solutions for its Silicon factorie…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T21:20:52.286Z"
-  },
-  {
-    "job_id": "workday-intel-JR0282358",
-    "job_title": "Foundry New Product Data Analyst",
-    "employer_name": "Intel",
-    "job_city": "US Arizona Phoenix",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Foundry-New-Product-Data-Analyst_JR0282358",
-    "job_posted_at_datetime_utc": "2026-04-13T21:20:52.286Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a67aae35710809cdd4b74a41224a6dfd2e0c40375561198939fe606c250a930c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "dashboards",
-        "data quality",
-        "process improvement",
-        "sap",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Details: Job Description: Owns planning of a more complex supply chain link.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-13T21:20:52.286Z"
@@ -2022,6 +2051,47 @@
     "job_posted_at": "2026-04-12T23:00:00.000Z"
   },
   {
+    "job_id": "js-the-mitre-corporation-xfc1nxba_fyzrmwgaaaaaa==",
+    "job_title": "Internships in Data Science, Math, Statistics or Operations Research",
+    "employer_name": "The MITRE Corporation",
+    "job_city": "McLean",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.mitre.org/us/en/job/R115478/Internships-in-Data-Science-Math-Statistics-or-Operations-Research",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "8acd65d9bdaa919903e1bb735728f0c42b3d6d2cb9b3b72c624a5b142256dea6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "data science",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Basic Qualifications • Must be a full-time student pursuing an accredited degree program in Data Science, Math, Statistics, Operations Research or related disciplines.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-bb12c430-18a8-4e0b-89ac-0c240aa5495a",
     "job_title": "Data Engineer, Risk Operations, Success, & Engagement Business Intelligence",
     "employer_name": "Amazon.com Services LLC",
@@ -2084,47 +2154,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Title: Data Engineer Organization Overview: In Kindle, authors are at the center of everything we do.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-the-mitre-corporation-xfc1nxba_fyzrmwgaaaaaa==",
-    "job_title": "Internships in Data Science, Math, Statistics or Operations Research",
-    "employer_name": "The MITRE Corporation",
-    "job_city": "McLean",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.mitre.org/us/en/job/R115478/Internships-in-Data-Science-Math-Statistics-or-Operations-Research",
-    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "8acd65d9bdaa919903e1bb735728f0c42b3d6d2cb9b3b72c624a5b142256dea6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "data science",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Basic Qualifications • Must be a full-time student pursuing an accredited degree program in Data Science, Math, Statistics, Operations Research or related disciplines.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-12T00:00:00.000Z"
@@ -8020,6 +8049,126 @@
     "job_posted_at": "2026-04-08T07:04:14.443Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0237405",
+    "job_title": "Databricks Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Ashburn",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Ashburn-VA/Databricks-Data-Engineer_R0237405",
+    "job_posted_at_datetime_utc": "2026-04-08T07:03:52.798Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e467fd534a64be9459613a502adf4e92ce211d20618d9b1e3169ceeaf3794fd9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "aws",
+        "azure",
+        "c++",
+        "cassandra",
+        "databricks",
+        "elt",
+        "etl",
+        "google cloud",
+        "hadoop",
+        "hive",
+        "java",
+        "kafka",
+        "linux",
+        "machine learning",
+        "microsoft azure",
+        "mongodb",
+        "mysql",
+        "python",
+        "redshift",
+        "reporting",
+        "scala",
+        "shell",
+        "shell scripting",
+        "snowflake",
+        "spark",
+        "sql",
+        "unix"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Databricks Data Engineer The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there’s more structured and unstructured data available today tha…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:03:52.798Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237400",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Honolulu",
+    "job_state": "HI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Engineer_R0237400",
+    "job_posted_at_datetime_utc": "2026-04-08T07:03:52.798Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f959a583d212ea4f052d5b1fe1a4ee2745b27ce70a56b72940e9e9a66fa7bce7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "c++",
+        "dashboards",
+        "data governance",
+        "data quality",
+        "data visualization",
+        "databricks",
+        "java",
+        "lean",
+        "lean six sigma",
+        "process improvement",
+        "python",
+        "six sigma",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Data Engineer The Opportunity: As a data engineer at Booz Allen, you’ll help build advanced technology solutions and implement data engineering activities on some of the most mission-driven projects i…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:03:52.798Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0237027",
     "job_title": "Data Analyst",
     "employer_name": "Booz Allen Hamilton",
@@ -8365,126 +8514,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "All Source Intelligence Analyst The Opportunity: Our clients need skilled analysts to turn reams of data into actionable intelligence for our government and military every day.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:03:52.798Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237405",
-    "job_title": "Databricks Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Ashburn",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Ashburn-VA/Databricks-Data-Engineer_R0237405",
-    "job_posted_at_datetime_utc": "2026-04-08T07:03:52.798Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e467fd534a64be9459613a502adf4e92ce211d20618d9b1e3169ceeaf3794fd9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "aws",
-        "azure",
-        "c++",
-        "cassandra",
-        "databricks",
-        "elt",
-        "etl",
-        "google cloud",
-        "hadoop",
-        "hive",
-        "java",
-        "kafka",
-        "linux",
-        "machine learning",
-        "microsoft azure",
-        "mongodb",
-        "mysql",
-        "python",
-        "redshift",
-        "reporting",
-        "scala",
-        "shell",
-        "shell scripting",
-        "snowflake",
-        "spark",
-        "sql",
-        "unix"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Databricks Data Engineer The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there’s more structured and unstructured data available today tha…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:03:52.798Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237400",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Honolulu",
-    "job_state": "HI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Engineer_R0237400",
-    "job_posted_at_datetime_utc": "2026-04-08T07:03:52.798Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f959a583d212ea4f052d5b1fe1a4ee2745b27ce70a56b72940e9e9a66fa7bce7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "c++",
-        "dashboards",
-        "data governance",
-        "data quality",
-        "data visualization",
-        "databricks",
-        "java",
-        "lean",
-        "lean six sigma",
-        "process improvement",
-        "python",
-        "six sigma",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Data Engineer The Opportunity: As a data engineer at Booz Allen, you’ll help build advanced technology solutions and implement data engineering activities on some of the most mission-driven projects i…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T07:03:52.798Z"
@@ -9799,55 +9828,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-07T13:55:20.000Z"
-  },
-  {
-    "job_id": "sr-Visa-744000119124351",
-    "job_title": "Associate Data Scientist, New College Grad - 2026",
-    "employer_name": "Visa",
-    "job_city": "Foster City",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.smartrecruiters.com/Visa/744000119124351",
-    "job_posted_at_datetime_utc": "2026-04-07T13:41:47.112Z",
-    "job_employment_type": "full-time",
-    "salary": null,
-    "fingerprint": "9187d2851d5f6d555c51ece637266fd521f12963d2fdcc653c284198506a4d93",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "dashboards",
-        "data analysis",
-        "data governance",
-        "data science",
-        "hive",
-        "llm",
-        "machine learning",
-        "python",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "The Global Data Science team at Visa leverages our rich data - spanning over 3 billion card accounts and 100 billion transactions per year- and other third-party data sources to solve meaningful busin…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T13:41:47.112Z"
   }
 ]
