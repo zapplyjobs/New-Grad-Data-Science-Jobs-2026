@@ -3758,50 +3758,6 @@
     "job_posted_at": "2026-04-10T00:47:02.392Z"
   },
   {
-    "job_id": "js-fast-foster-care-h5xa-dmilybbb-xgaaaaaa==",
-    "job_title": "Remote Data Analyst - Entry Level with Growth Opportunities",
-    "employer_name": "Fast Foster Care",
-    "job_city": "Denver",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://www.whatjobs.com/jobs/remote-data-analyst-entry/denver-colorado-2?id=2626215602",
-    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "0a499e1cae060a45b93b77ea7152233954f05b05a63508c054b95284609f160b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "data visualization",
-        "power bi",
-        "python",
-        "sql",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "A dynamic organization is seeking an entry-level Virtual Data Analyst to join their team.",
-      "is_remote": true
-    },
-    "job_posted_at": "2026-04-10T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-32be6abb-fc61-47a7-8434-c072474631ea",
     "job_title": "Data Engineer, PV Prime Video TV - Tech",
     "employer_name": "Amazon.com Services LLC",
@@ -4136,6 +4092,50 @@
       "is_simple_apply": false,
       "summary_line": "The Sponsored Products and Brands (SPB) team at Amazon Ads is re-imagining the advertising landscape through state-of-the-art generative AI technologies, revolutionizing how millions of customers disc…",
       "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-fast-foster-care-h5xa-dmilybbb-xgaaaaaa==",
+    "job_title": "Remote Data Analyst - Entry Level with Growth Opportunities",
+    "employer_name": "Fast Foster Care",
+    "job_city": "Denver",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://www.whatjobs.com/jobs/remote-data-analyst-entry/denver-colorado-2?id=2626215602",
+    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "0a499e1cae060a45b93b77ea7152233954f05b05a63508c054b95284609f160b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "data visualization",
+        "power bi",
+        "python",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "A dynamic organization is seeking an entry-level Virtual Data Analyst to join their team.",
+      "is_remote": true
     },
     "job_posted_at": "2026-04-10T00:00:00.000Z"
   },
@@ -9191,6 +9191,106 @@
     "job_posted_at": "2026-04-08T04:30:09.000Z"
   },
   {
+    "job_id": "amazon-c135b8d2-ba47-4116-a49c-6b7e58788c8e",
+    "job_title": "Applied Scientist, Device Team, AWS Center for Quantum Computing",
+    "employer_name": "Amazon Development Center U.S., Inc.",
+    "job_city": "Pasadena",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10386670/applied-scientist-device-team-aws-center-for-quantum-computing",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "307c6032e9a3b25f04bd6236d3e5c7870d468eca100207bb9d44dc7f301b6ef5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "amazon web services",
+        "c++",
+        "https",
+        "java",
+        "python",
+        "tls"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "The Amazon Web Services Center for Quantum Computing (CQC) in Pasadena, CA, is looking to hire an Applied Scientist.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-ef8562eb-cdcd-47cc-a5f9-8a6e9117a387",
+    "job_title": "Applied Scientist, Sponsored Products",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10385985/applied-scientist-sponsored-products",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "470ddf330c86479564b4513993d9ab9cce1de5837c5c553e3fe72f5568819d8b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "data analysis",
+        "https",
+        "java",
+        "large language model",
+        "llm",
+        "machine learning",
+        "python",
+        "statistical analysis",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "About Sponsored Products and Brands The Sponsored Products and Brands team at Amazon Ads is re-imagining the advertising landscape through generative AI technologies, revolutionizing how millions of c…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
     "job_id": "js-emcor-group-inc-ay8ly5lqlhglxx1paaaaaa==",
     "job_title": "Business Data Analyst, Construction; Entry Level",
     "employer_name": "EMCOR Group, Inc.",
@@ -9324,106 +9424,6 @@
       "is_simple_apply": false,
       "summary_line": "Qualifications Bachelors degree in a related field (e.g.",
       "is_remote": true
-    },
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
-    "job_id": "amazon-c135b8d2-ba47-4116-a49c-6b7e58788c8e",
-    "job_title": "Applied Scientist, Device Team, AWS Center for Quantum Computing",
-    "employer_name": "Amazon Development Center U.S., Inc.",
-    "job_city": "Pasadena",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10386670/applied-scientist-device-team-aws-center-for-quantum-computing",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "307c6032e9a3b25f04bd6236d3e5c7870d468eca100207bb9d44dc7f301b6ef5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "amazon web services",
-        "c++",
-        "https",
-        "java",
-        "python",
-        "tls"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "The Amazon Web Services Center for Quantum Computing (CQC) in Pasadena, CA, is looking to hire an Applied Scientist.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
-    "job_id": "amazon-ef8562eb-cdcd-47cc-a5f9-8a6e9117a387",
-    "job_title": "Applied Scientist, Sponsored Products",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10385985/applied-scientist-sponsored-products",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "470ddf330c86479564b4513993d9ab9cce1de5837c5c553e3fe72f5568819d8b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "data analysis",
-        "https",
-        "java",
-        "large language model",
-        "llm",
-        "machine learning",
-        "python",
-        "statistical analysis",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "About Sponsored Products and Brands The Sponsored Products and Brands team at Amazon Ads is re-imagining the advertising landscape through generative AI technologies, revolutionizing how millions of c…",
-      "is_remote": false
     },
     "job_posted_at": "2026-04-08T00:00:00.000Z"
   },
