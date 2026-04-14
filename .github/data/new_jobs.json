@@ -1,5 +1,34 @@
 [
   {
+    "job_id": "ashby-crusoe-b4c946a9-6ea4-4f73-83a5-79868fcaa851",
+    "job_title": "Strategic Sourcing Data Analyst",
+    "employer_name": "Crusoe",
+    "job_city": "Denver",
+    "job_state": "CO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/crusoe/b4c946a9-6ea4-4f73-83a5-79868fcaa851/application",
+    "job_posted_at_datetime_utc": "2026-04-14T19:42:10.360Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "bcabe57c0ebf12d6529b0f4420e8547ed07ad6a61c7b429f2ea9bcda57447d01",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-04-14T19:42:10.360Z"
+  },
+  {
     "job_id": "workday-nvidia-JR2010010",
     "job_title": "Research Scientist, Circuits - PhD New College Grad 2026",
     "employer_name": "NVIDIA",
