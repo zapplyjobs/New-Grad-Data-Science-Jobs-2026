@@ -5547,6 +5547,50 @@
     "job_posted_at": "2026-04-10T00:47:02.393Z"
   },
   {
+    "job_id": "workday-boston-dynamics-R2182",
+    "job_title": "Teleoperations Research Engineer, Atlas",
+    "employer_name": "Boston Dynamics",
+    "job_city": "Waltham Office",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Teleoperations-Research-Scientist--Atlas_R2182",
+    "job_posted_at_datetime_utc": "2026-04-10T00:47:02.392Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a1483d897f3d7e75f927cbafb38fd571fdbbacd8f0e88837feea8cf844370cd0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "machine learning",
+        "python",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "The Atlas team at Boston Dynamics is pushing the limits of robotic mobility and manipulation.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T00:47:02.392Z"
+  },
+  {
     "job_id": "workday-boston-dynamics-R1807",
     "job_title": "Research Scientist, Atlas Behavior Learning",
     "employer_name": "Boston Dynamics",
@@ -5631,50 +5675,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "As a VLA Research Scientist on the Atlas team, you will architect, train, and deploy the large-scale behavior models that enable high-performance dexterous manipulation on Atlas.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T00:47:02.392Z"
-  },
-  {
-    "job_id": "workday-boston-dynamics-R2182",
-    "job_title": "Teleoperations Research Engineer, Atlas",
-    "employer_name": "Boston Dynamics",
-    "job_city": "Waltham Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Teleoperations-Research-Scientist--Atlas_R2182",
-    "job_posted_at_datetime_utc": "2026-04-10T00:47:02.392Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a1483d897f3d7e75f927cbafb38fd571fdbbacd8f0e88837feea8cf844370cd0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "machine learning",
-        "python",
-        "robotics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "The Atlas team at Boston Dynamics is pushing the limits of robotic mobility and manipulation.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T00:47:02.392Z"
@@ -10712,324 +10712,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T07:01:11.865Z"
-  },
-  {
-    "job_id": "workday-hitachi-R0084234",
-    "job_title": "Data Quality Engineer",
-    "employer_name": "Hitachi",
-    "job_city": "Mount Pleasant",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Mount-Pleasant-Pennsylvania-United-States-of-America/Quality-Engineer_R0084234",
-    "job_posted_at_datetime_utc": "2026-04-08T07:00:41.770Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8aff22ff9aae23e6ccfd01642b77f219be189595b58e99bf83efbfa7a2850b7f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "change management",
-        "data quality",
-        "lean six sigma",
-        "process improvement",
-        "root cause analysis",
-        "sap",
-        "six sigma"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Location: Mount Pleasant, Pennsylvania, United States of America Job ID: R0084234 Date Posted: 2025-09-29 Company Name: HITACHI ENERGY USA INC Profession (Job Category): Quality Management Job Schedul…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:00:41.770Z"
-  },
-  {
-    "job_id": "workday-guidehouse-38083",
-    "job_title": "Data Analyst - Databricks",
-    "employer_name": "Guidehouse",
-    "job_city": "VA, Arlington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Data-Analyst---Databricks_38083",
-    "job_posted_at_datetime_utc": "2026-04-08T07:00:34.668Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b2f05de17bf52350aabea8ef18d462385a77189bc70fb1d7c481d91a99b9ab40",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "azure",
-        "business intelligence",
-        "ci/cd",
-        "dashboards",
-        "data integration",
-        "data quality",
-        "data science",
-        "data visualization",
-        "databricks",
-        "elt",
-        "etl",
-        "machine learning",
-        "microsoft sql server",
-        "pyspark",
-        "python",
-        "qlik",
-        "reporting",
-        "snowflake",
-        "sql",
-        "sql server",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Family : Data Science Consulting Travel Required : Up to 10% Clearance Required : Ability to Obtain Public Trust What You Will Do: Our consultants on the Defense & Security AI & Data team help cli…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:00:34.668Z"
-  },
-  {
-    "job_id": "workday-guidehouse-37316",
-    "job_title": "Data Analytics Consultant",
-    "employer_name": "Guidehouse",
-    "job_city": "AL, Huntsville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---AL-Huntsville/Data-Analytics-Consultant_37316",
-    "job_posted_at_datetime_utc": "2026-04-08T07:00:34.668Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3eb3f6ba53f2ba7b09419ccd7a71354aa6890376f03af548700a9335612aa5c1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "data pipeline",
-        "data science",
-        "data visualization",
-        "power bi",
-        "python",
-        "r",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Family : Data Science Consulting Travel Required : None Clearance Required : Active Secret What You Will Do : Guidehouse is seeking a Data Analytics Consultant who will provide data solutions (ana…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:00:34.668Z"
-  },
-  {
-    "job_id": "workday-paypal-R0136256",
-    "job_title": "Data Scientist",
-    "employer_name": "PayPal",
-    "job_city": "Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://paypal.wd1.myworkdayjobs.com/jobs/job/Chicago-Illinois-United-States-of-America/Data-Scientist_R0136256",
-    "job_posted_at_datetime_utc": "2026-04-08T07:00:28.539Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cae04e5704c5c2b2f4db71a7ed4ea0b005dcd2cbd2696cfa7e779c0a625213d7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "a/b testing",
-        "analytics",
-        "classification",
-        "computer science",
-        "data science",
-        "data visualization",
-        "forecasting",
-        "hadoop",
-        "hive",
-        "https",
-        "machine learning",
-        "numpy",
-        "pandas",
-        "process improvement",
-        "python",
-        "regression",
-        "risk management",
-        "sklearn",
-        "sql",
-        "statistical analysis",
-        "statistics",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "The Company PayPal has been revolutionizing commerce globally for more than 25 years.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:00:28.539Z"
-  },
-  {
-    "job_id": "workday-general-motors-JR-202605491",
-    "job_title": "CAE Vehicle Optimization and Machine Learning Engineer",
-    "employer_name": "General Motors",
-    "job_city": "Warren",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/CAE-Vehicle-Optimization-and-Machine-Learning-Engineer_JR-202605491",
-    "job_posted_at_datetime_utc": "2026-04-08T07:00:19.470Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fa3ddccd30a534cc281bcf37f1f9de73d4e39d162758af7dbbad55f66d764fd2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "abaqus",
-        "data science",
-        "linear",
-        "machine learning",
-        "matlab",
-        "move",
-        "python",
-        "root cause analysis",
-        "vba"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Description At General Motors, our product teams are redefining mobility.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:00:19.470Z"
-  },
-  {
-    "job_id": "workday-general-motors-JR-202607319",
-    "job_title": "Business Intelligence Data Analyst - GPSC",
-    "employer_name": "General Motors",
-    "job_city": "Warren",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Business-Intelligence-Data-Analyst---GPSC_JR-202607319",
-    "job_posted_at_datetime_utc": "2026-04-08T07:00:19.469Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dcba6f2dc787d22abd9ca2557bf753ccfa711ecf134db4c370f3e4d11f57d283",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "azure",
-        "business intelligence",
-        "computer science",
-        "dashboards",
-        "data architecture",
-        "data governance",
-        "data modeling",
-        "databricks",
-        "gcp",
-        "looker",
-        "power bi",
-        "python",
-        "qlik",
-        "reporting",
-        "snowflake",
-        "spark",
-        "sql",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Description The Role The Business Intelligence Data Analyst is a pivotal role within the Global Purchasing & Supply Chain - Strategy & Innovation team, operating in a hybrid work environment.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:00:19.469Z"
   }
 ]
