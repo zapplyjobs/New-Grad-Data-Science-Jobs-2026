@@ -143,9 +143,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **FLIR Systems** | AI Solution Analyst |  | Huntsville, AL | 14m | [<img src="images/apply.png" width="75" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/AI-Solution-Analyst_REQ33421) |
+| 🏢 **FLIR Systems** | AI Solution Analyst |  | Huntsville, AL | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/AI-Solution-Analyst_REQ33421) |
 | 🏢 **Booz Allen Hamilton** | Open-Source Research Analyst, Junior | ✅ Sponsor | McLean, VA + 1 more | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0233753) |
-| 🏢 **Leidos** | Intelligence Analyst | ✅ Sponsor | Marysville, CA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Marysville-CA/Intelligence-Analyst_R-00180334-1) |
+| 🏢 **Leidos** | Intelligence Analyst | ✅ Sponsor | Marysville, CA | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Marysville-CA/Intelligence-Analyst_R-00180334-1) |
 | 🏢 **Snowflake** | Analyst, Finance Analytics & AI | ✅ Sponsor | CA-Menlo Park | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/snowflake/71a365de-a30e-496c-beaa-422722e0dc62/application) |
 | 🏢 **Crusoe** | Strategic Sourcing Data Analyst | ✅ Sponsor | Denver, CO | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/crusoe/b4c946a9-6ea4-4f73-83a5-79868fcaa851/application) |
 | 🏢 **CACI** | Data Analytics/Reporting SME | ✅ Sponsor | Remote | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Data-Analytics-Reporting-SME_324870-1) |
@@ -254,7 +254,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Amazon.com Services LLC** | Machine Learning Data Linguist, Alexa AI | ✅ Sponsor | Seattle, WA | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10392286/machine-learning-data-linguist-alexa-ai) |
+| 🏢 **Amazon.com Services LLC** | Machine Learning Data Linguist, Alexa AI | ✅ Sponsor | Seattle, WA | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10392286/machine-learning-data-linguist-alexa-ai) |
 | 🏢 **Booz Allen Hamilton** | AI & ML Engineer | ✅ Sponsor | McLean, VA | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI---ML-Engineer_R0237334) |
 | 🏢 **Snowflake** | Software Engineer (AI Engineer - Dev Exp / IC1) | ✅ Sponsor | WA-Bellevue | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/snowflake/bed7fa9d-f8a4-4c7f-ad1a-59883a43b6fe/application) |
 | 🏢 **CACI** | AI/ML Engineer | ✅ Sponsor | CO Aurora | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Aurora/AI-ML-Engineer_324341) |
