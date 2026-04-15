@@ -25,6 +25,38 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "arm",
+        "aws",
+        "azure",
+        "azure devops",
+        "ci/cd",
+        "cloudformation",
+        "cloudwatch",
+        "data pipeline",
+        "devops",
+        "git",
+        "github",
+        "github actions",
+        "iam",
+        "integration testing",
+        "lambda",
+        "oop",
+        "project management",
+        "python",
+        "rds",
+        "s3",
+        "snowflake"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Career Area: Technology, Digital and Data Job Description: Your Work Shapes the World at Caterpillar Inc.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-15T22:02:39.009Z"
   },
   {
@@ -9790,239 +9822,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7793815",
-    "job_title": "Associate, Operations Data Analytics",
-    "employer_name": "Oscar Health",
-    "job_city": "Atlanta",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "http://www.hioscar.com/careers/7793815?gh_jid=7793815",
-    "job_posted_at_datetime_utc": "2026-04-08T22:25:16.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4153c1036a159a586c3d815d1ef49e4a4df5a33583987e23894d704e6fda9b22",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "dashboards",
-        "data visualization",
-        "excel",
-        "google sheets",
-        "looker",
-        "reporting",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": null,
-      "is_simple_apply": true,
-      "summary_line": "3+ years of technical work experience using analytical tools and writing analytical reports   2+ years demonstrated ability to work with large datasets and distill analyses into relevant insights with",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T22:25:16.000Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7793749",
-    "job_title": "Associate, Operations Data Analytics",
-    "employer_name": "Oscar Health",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "http://www.hioscar.com/careers/7793749?gh_jid=7793749",
-    "job_posted_at_datetime_utc": "2026-04-08T22:25:15.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7691b428acd6819de6ed55ed6c274dac40bd491fd2d3d5694585922432628fee",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "dashboards",
-        "data visualization",
-        "excel",
-        "google sheets",
-        "looker",
-        "reporting",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": null,
-      "is_simple_apply": true,
-      "summary_line": "3+ years of technical work experience using analytical tools and writing analytical reports   2+ years demonstrated ability to work with large datasets and distill analyses into relevant insights with",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T22:25:15.000Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7793812",
-    "job_title": "Associate, Operations Data Analytics",
-    "employer_name": "Oscar Health",
-    "job_city": "Tempe",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "http://www.hioscar.com/careers/7793812?gh_jid=7793812",
-    "job_posted_at_datetime_utc": "2026-04-08T22:25:15.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f493133414254759302c549608bb92bc973d0a06887f193eb12e87fc5040fa4a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "dashboards",
-        "data visualization",
-        "excel",
-        "google sheets",
-        "looker",
-        "reporting",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": null,
-      "is_simple_apply": true,
-      "summary_line": "3+ years of technical work experience using analytical tools and writing analytical reports   2+ years demonstrated ability to work with large datasets and distill analyses into relevant insights with",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T22:25:15.000Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7793813",
-    "job_title": "Associate, Operations Data Analytics",
-    "employer_name": "Oscar Health",
-    "job_city": "Dallas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "http://www.hioscar.com/careers/7793813?gh_jid=7793813",
-    "job_posted_at_datetime_utc": "2026-04-08T22:25:14.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9d84a723dbd111a3835b9c242dc53c02bb2da39ef04a27c429d56f22e46eb58c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "dashboards",
-        "data visualization",
-        "excel",
-        "google sheets",
-        "looker",
-        "reporting",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": null,
-      "is_simple_apply": true,
-      "summary_line": "3+ years of technical work experience using analytical tools and writing analytical reports   2+ years demonstrated ability to work with large datasets and distill analyses into relevant insights with",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T22:25:14.000Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7656538",
-    "job_title": "Associate, Data Analytics",
-    "employer_name": "Oscar Health",
-    "job_city": "Dallas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "http://www.hioscar.com/careers/7656538?gh_jid=7656538",
-    "job_posted_at_datetime_utc": "2026-04-08T18:24:00-04:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "39d613791ee2e4918ed8feaa06e49105fd893052f20519ed29c7ce3dd78452c1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "operations",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "dashboards",
-        "data visualization",
-        "excel",
-        "google sheets",
-        "looker",
-        "pandas",
-        "python",
-        "r",
-        "reporting",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": null,
-      "is_simple_apply": true,
-      "summary_line": "3+ years experience in SQL, with the ability to filter, aggregate, and build CTEs, or proficiency in R or Python, including experience with Pandas, for loops, and statistical tests3+ years of technica",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T18:24:00-04:00"
   }
 ]
