@@ -8702,18 +8702,18 @@
     "job_posted_at": "2026-04-08T22:25:16.000Z"
   },
   {
-    "job_id": "greenhouse-oscar-7793812",
+    "job_id": "greenhouse-oscar-7793749",
     "job_title": "Associate, Operations Data Analytics",
     "employer_name": "Oscar Health",
-    "job_city": "Tempe",
+    "job_city": "New York",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "http://www.hioscar.com/careers/7793812?gh_jid=7793812",
+    "job_apply_link": "http://www.hioscar.com/careers/7793749?gh_jid=7793749",
     "job_posted_at_datetime_utc": "2026-04-08T22:25:15.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "f493133414254759302c549608bb92bc973d0a06887f193eb12e87fc5040fa4a",
+    "fingerprint": "7691b428acd6819de6ed55ed6c274dac40bd491fd2d3d5694585922432628fee",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -8748,18 +8748,18 @@
     "job_posted_at": "2026-04-08T22:25:15.000Z"
   },
   {
-    "job_id": "greenhouse-oscar-7793749",
+    "job_id": "greenhouse-oscar-7793812",
     "job_title": "Associate, Operations Data Analytics",
     "employer_name": "Oscar Health",
-    "job_city": "New York",
+    "job_city": "Tempe",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "http://www.hioscar.com/careers/7793749?gh_jid=7793749",
+    "job_apply_link": "http://www.hioscar.com/careers/7793812?gh_jid=7793812",
     "job_posted_at_datetime_utc": "2026-04-08T22:25:15.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "7691b428acd6819de6ed55ed6c274dac40bd491fd2d3d5694585922432628fee",
+    "fingerprint": "f493133414254759302c549608bb92bc973d0a06887f193eb12e87fc5040fa4a",
     "tags": {
       "employment": "entry_level",
       "domains": [
