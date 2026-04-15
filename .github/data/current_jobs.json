@@ -26,6 +26,21 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "c++",
+        "linux",
+        "python",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": "Work with product managers, consultants and client services teams to understand, prioritize and effectively execute requirements   Build robust production pipelines and automate validation and QA of n…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-15T21:27:54.992Z"
   },
   {
@@ -1480,6 +1495,28 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "aws",
+        "business intelligence",
+        "data lake",
+        "data visualization",
+        "data warehouse",
+        "python",
+        "redshift",
+        "reporting",
+        "scala",
+        "spark"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Are you driven by the excitement of unraveling intricate data puzzles?",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-15T00:00:00.000Z"
   },
   {
