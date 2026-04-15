@@ -284,6 +284,30 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "cadence",
+        "data modeling",
+        "data pipeline",
+        "dbt",
+        "embeddings",
+        "excel",
+        "github",
+        "llm",
+        "python",
+        "reporting",
+        "snowflake",
+        "sql",
+        "waterfall"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "MUST-HAVE  AI-assisted development — You have used an LLM coding assistant (CoCo, Cursor, GitHub Copilot, Claude, or equivalent) as your primary development tool — not an occasional helper, not a code…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-14T20:07:39.535Z"
   },
   {
