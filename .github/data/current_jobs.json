@@ -26,6 +26,26 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "data science",
+        "fine-tuning",
+        "large language model",
+        "llm",
+        "machine learning",
+        "python",
+        "reinforcement learning",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Details: Job Description: We are seeking an Applied Machine Learning Engineer (LLMs & RL) to join our team, focused on fine-tuning large language models (LLMs).",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-15T20:52:33.349Z"
   },
   {
@@ -55,6 +75,26 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "data science",
+        "deep learning",
+        "langchain",
+        "llm",
+        "machine learning",
+        "nlp",
+        "python",
+        "pytorch",
+        "rag"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "About you   • You are fluent in English • You hold a PhD / master in AI / data science.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-15T20:36:57.294Z"
   },
   {
@@ -145,7 +185,7 @@
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0237887",
-    "job_title": "Data Analyst",
+    "job_title": "Health Data Analyst",
     "employer_name": "Booz Allen Hamilton",
     "job_city": "Bethesda",
     "job_state": "MD",
@@ -155,7 +195,7 @@
     "job_posted_at_datetime_utc": "2026-04-15T20:05:23.284Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "0860a7785fe370e4761fe960ec358d3b8c4af26129654545dfdb16369112e8b5",
+    "fingerprint": "97d827186c8fafbe3cfc75f01d2a417462632bdba2f648f5782f0d0741c1b095",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6018,22 +6058,21 @@
     "job_posted_at": "2026-04-10T07:03:54.012Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0237547",
-    "job_title": "Reinforcement Learning AI Engineer",
+    "job_id": "workday-booz-allen-hamilton-R0237527",
+    "job_title": "Health Care Quality Data Specialist",
     "employer_name": "Booz Allen Hamilton",
-    "job_city": "Colorado Springs",
-    "job_state": "CO",
+    "job_city": "Bethesda",
+    "job_state": "MD",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/Reinforcement-Learning-AI-Engineer_R0237547",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Bethesda-MD/Health-Care-Quality-Data-Specialist_R0237527-1",
     "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "e1387ff394764efe74e3d649167bfa73ad231118b634d8cf52182a984ef98265",
+    "fingerprint": "171e876357254f36c1ef4267b0a27a5dec9dc9d65820af312684c49842aa1164",
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "ai",
         "data_science"
       ],
       "locations": [
@@ -6046,24 +6085,25 @@
     "_original_source": "workday",
     "enrichment": {
       "required_skills": [
-        "c++",
-        "computer science",
-        "data science",
-        "design patterns",
-        "embedded systems",
-        "kubernetes",
-        "machine learning",
-        "neural network",
+        "agile",
+        "analytics",
+        "api",
+        "data integration",
+        "data pipeline",
+        "data visualization",
+        "databricks",
         "python",
-        "pytorch",
-        "reinforcement learning",
-        "tensorflow"
+        "reporting",
+        "snowflake",
+        "spark",
+        "sql",
+        "statistics"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "Reinforcement Learning AI Engineer The Opportunity : Booz Allen is seeking an innovative and experience d AI developer spe cia lizing in reinforcement learning to join our growing team for Space solut…",
+      "summary_line": "Health Care Quality Data Specialist The Opportunity : As quality data spe cia list, you love diving into data and turning it into meaningful insights.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T07:03:52.797Z"
@@ -6127,21 +6167,22 @@
     "job_posted_at": "2026-04-10T07:03:52.797Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0237527",
-    "job_title": "Health Care Quality Data Specialist",
+    "job_id": "workday-booz-allen-hamilton-R0237547",
+    "job_title": "Reinforcement Learning AI Engineer",
     "employer_name": "Booz Allen Hamilton",
-    "job_city": "Bethesda",
-    "job_state": "MD",
+    "job_city": "Colorado Springs",
+    "job_state": "CO",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Bethesda-MD/Health-Care-Quality-Data-Specialist_R0237527-1",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/Reinforcement-Learning-AI-Engineer_R0237547",
     "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "171e876357254f36c1ef4267b0a27a5dec9dc9d65820af312684c49842aa1164",
+    "fingerprint": "e1387ff394764efe74e3d649167bfa73ad231118b634d8cf52182a984ef98265",
     "tags": {
       "employment": "entry_level",
       "domains": [
+        "ai",
         "data_science"
       ],
       "locations": [
@@ -6154,25 +6195,24 @@
     "_original_source": "workday",
     "enrichment": {
       "required_skills": [
-        "agile",
-        "analytics",
-        "api",
-        "data integration",
-        "data pipeline",
-        "data visualization",
-        "databricks",
+        "c++",
+        "computer science",
+        "data science",
+        "design patterns",
+        "embedded systems",
+        "kubernetes",
+        "machine learning",
+        "neural network",
         "python",
-        "reporting",
-        "snowflake",
-        "spark",
-        "sql",
-        "statistics"
+        "pytorch",
+        "reinforcement learning",
+        "tensorflow"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "Health Care Quality Data Specialist The Opportunity : As quality data spe cia list, you love diving into data and turning it into meaningful insights.",
+      "summary_line": "Reinforcement Learning AI Engineer The Opportunity : Booz Allen is seeking an innovative and experience d AI developer spe cia lizing in reinforcement learning to join our growing team for Space solut…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T07:03:52.797Z"
@@ -9900,145 +9940,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T22:14:55.295Z"
-  },
-  {
-    "job_id": "greenhouse-biohub-7793658",
-    "job_title": "Machine Learning Engineer , AI",
-    "employer_name": "Chan Zuckerberg Biohub",
-    "job_city": "Redwood City",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/biohub/jobs/7793658",
-    "job_posted_at_datetime_utc": "2026-04-08T21:09:58.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0f046cdbd2696dc5527b81d6e2a0ebdeeda80f8666cc9e975c8de2ed85cf1252",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "hybrid"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "apache",
-        "apache spark",
-        "dask",
-        "docker",
-        "kubernetes",
-        "pytorch",
-        "ray",
-        "spark"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Hands-on experience with PyTorch, including custom training loops, distributed training, or low-level performance work.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T21:09:58.000Z"
-  },
-  {
-    "job_id": "workday-southwest-airlines-R-2025-61980",
-    "job_title": "Learning Data Analyst",
-    "employer_name": "Southwest Airlines",
-    "job_city": "Dallas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Learning-Data-Analyst_R-2025-61980",
-    "job_posted_at_datetime_utc": "2026-04-08T21:03:12.808Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9571b0ab974f97c297b6ec61b8f0810df1229d41b8beeade05d161d435c0aa9f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "business intelligence",
-        "data analysis",
-        "data integration",
-        "data visualization",
-        "excel",
-        "https",
-        "python",
-        "qlik",
-        "reporting",
-        "sql",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Department: SWA University Our Company Promise We are committed to provide our Employees a stable work environment with equal opportunity for learning and personal growth.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T21:03:12.808Z"
-  },
-  {
-    "job_id": "greenhouse-biohub-7793644",
-    "job_title": "Research Scientist, AI",
-    "employer_name": "Chan Zuckerberg Biohub",
-    "job_city": "Redwood City",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/biohub/jobs/7793644",
-    "job_posted_at_datetime_utc": "2026-04-08T21:01:09.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9cbd45fdb409c605b38c8948832c76dbcf34d286f368b3900172014deb18f5bf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "hybrid"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "deep learning"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "PhD in computer science or a related field, or equivalent experience   Significant experience building and scaling deep learning systems, ideally in research-driven environments   Strong engineering a",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T21:01:09.000Z"
   }
 ]
