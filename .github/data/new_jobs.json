@@ -1802,64 +1802,6 @@
     "job_posted_at": "2026-04-14T13:20:41.860Z"
   },
   {
-    "job_id": "workday-motorola-solutions-R63860",
-    "job_title": "Machine Learning Engineer",
-    "employer_name": "Motorola Solutions",
-    "job_city": "Los Angeles",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Machine-Learning-Engineer_R63860",
-    "job_posted_at_datetime_utc": "2026-04-14T03:04:49.963Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0665e7328afb441d423eb7f47b1e5018720fe1ddc92f957f2531aa5092d6d8e3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "classification",
-        "computer science",
-        "data pipeline",
-        "dsp",
-        "embedded systems",
-        "firmware",
-        "machine learning",
-        "matlab",
-        "networking",
-        "python",
-        "pytorch",
-        "r",
-        "real-time systems",
-        "rf",
-        "scikit-learn",
-        "signal processing",
-        "tensorflow",
-        "unsupervised learning"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T03:04:49.963Z"
-  },
-  {
     "job_id": "greenhouse-spacex-8391768002",
     "job_title": "Data Engineer (Direct To Cell)",
     "employer_name": "SpaceX",
@@ -2222,49 +2164,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-13T23:17:35.000Z"
-  },
-  {
-    "job_id": "workday-the-hartford-R2624916",
-    "job_title": "Data Scientist Economist",
-    "employer_name": "The Hartford",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/New-York-NY/Data-Scientist-Economist_R2624916",
-    "job_posted_at_datetime_utc": "2026-04-13T21:22:43.148Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bc4545896a9779768ae2008baa156419e676958190dada28424c590cf56b0530",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "computer science",
-        "data science",
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Economist - UZ07BE We’re determined to make a difference and are proud to be an insurance company that goes well beyond coverages and policies.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T21:22:43.148Z"
   },
   {
     "job_id": "workday-intel-JR0282890",
@@ -2709,63 +2608,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-13T19:32:37.501Z"
-  },
-  {
-    "job_id": "workday-micron-JR96229",
-    "job_title": "Silicon System AI Engineer",
-    "employer_name": "Micron",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Silicon-System-AI-Engineer_JR96229-1",
-    "job_posted_at_datetime_utc": "2026-04-13T19:22:12.837Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bacb02d9fa1c72fb40924d038edbfdf0ee96f09260709e49dacc72d8d1d2ba9f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "angularjs",
-        "data analysis",
-        "data science",
-        "etl",
-        "hadoop",
-        "hive",
-        "javascript",
-        "machine learning",
-        "mes",
-        "pyspark",
-        "python",
-        "r",
-        "spark",
-        "sql",
-        "statistics",
-        "supervised learning",
-        "tableau",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Micron Technology is a world leader in innovating memory and storage solutions that accelerate the transformation of information into intelligence, inspiring the world to learn, communicate and advanc…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T19:22:12.837Z"
   },
   {
     "job_id": "workday-flir-systems-REQ20046",
@@ -3222,59 +3064,6 @@
     "job_posted_at": "2026-04-13T16:10:59.262Z"
   },
   {
-    "job_id": "workday-leidos-R-00180663",
-    "job_title": "Journeyman Data Analyst",
-    "employer_name": "Leidos",
-    "job_city": "Bethesda",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Journeyman-Data-Analyst_R-00180663-1",
-    "job_posted_at_datetime_utc": "2026-04-13T15:58:44.583Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0040a971b64a4f896f19d68994d2868c15d4deb7c84a58333edf4816f91c599d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "confluence",
-        "dashboards",
-        "data analysis",
-        "data visualization",
-        "etl",
-        "excel",
-        "jira",
-        "large language model",
-        "machine learning",
-        "natural language processing",
-        "power bi",
-        "python",
-        "sql",
-        "tableau",
-        "vba"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Description Leidos has a new and exciting opportunity for a Journeyman Data Analyst our Intel Sector Analysis Solutions Business Area (ASBA) .",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T15:58:44.583Z"
-  },
-  {
     "job_id": "sr-llnl-3743990012572896",
     "job_title": "P6 Scheduler/Data Analyst",
     "employer_name": "LLNL",
@@ -3374,57 +3163,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-13T15:25:28.294Z"
-  },
-  {
-    "job_id": "workday-rtx-01835697",
-    "job_title": "Data Analytics Specialist - 1st Shift (Onsite)",
-    "employer_name": "RTX",
-    "job_city": "TX-GRAND PRAIRIE-1177 ~ 1177 N Great SW Pkwy ~ 1177 GREAT SW",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-GRAND-PRAIRIE-1177--1177-N-Great-SW-Pkwy--1177-GREAT-SW/Data-Analytics-Specialist---1st-Shift--Onsite-_01835697",
-    "job_posted_at_datetime_utc": "2026-04-13T15:24:23.916Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "481b605b2a0c3be0e5291cece56a8efa33513c62d0697717e72b0a8f05804f5a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "dashboards",
-        "excel",
-        "https",
-        "oracle",
-        "power bi",
-        "process improvement",
-        "qlik",
-        "risk management",
-        "sap",
-        "sql",
-        "tableau",
-        "vba"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Date Posted: 2026-04-13 Country: United States of America Location: US-TX-GRAND PRAIRIE-1177 ~ 1177 N Great SW Pkwy ~ 1177 GREAT SW Position Role Type: Onsite U.S.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T15:24:23.916Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0237614",
@@ -3530,64 +3268,6 @@
     "job_posted_at": "2026-04-13T14:37:25.307Z"
   },
   {
-    "job_id": "workday-leidos-R-00180637",
-    "job_title": "Data Scientist",
-    "employer_name": "Leidos",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Data-Scientist_R-00180637",
-    "job_posted_at_datetime_utc": "2026-04-13T14:36:14.729Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "de7392a050f0fdb6d5e9618d0946beed59bc10d7ddb4eae65afa6574fccc84c5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "aws",
-        "computer science",
-        "data architecture",
-        "data science",
-        "data visualization",
-        "git",
-        "hugging face",
-        "machine learning",
-        "matplotlib",
-        "natural language processing",
-        "nlp",
-        "plotly",
-        "python",
-        "seaborn",
-        "sql",
-        "statistics",
-        "tableau",
-        "tensorflow",
-        "unsupervised learning"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Leidos has a new and exciting opportunity for a Data Scientist in our Intel Sector Analysis Solutions Business Area (ASBA) .",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T14:36:14.729Z"
-  },
-  {
     "job_id": "workday-abbott-31142395",
     "job_title": "Data Coordinator, Microbiology Lab (1st shift) - Sturgis, MI Plant",
     "employer_name": "Abbott",
@@ -3675,6 +3355,326 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-13T13:03:00.000Z"
+  },
+  {
+    "job_id": "workday-the-hartford-R2624916",
+    "job_title": "Data Scientist Economist",
+    "employer_name": "The Hartford",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/New-York-NY/Data-Scientist-Economist_R2624916",
+    "job_posted_at_datetime_utc": "2026-04-13T07:01:49.675Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bc4545896a9779768ae2008baa156419e676958190dada28424c590cf56b0530",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "data science",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Economist - UZ07BE We’re determined to make a difference and are proud to be an insurance company that goes well beyond coverages and policies.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T07:01:49.675Z"
+  },
+  {
+    "job_id": "workday-rtx-01835697",
+    "job_title": "Data Analytics Specialist - 1st Shift (Onsite)",
+    "employer_name": "RTX",
+    "job_city": "TX-GRAND PRAIRIE-1177 ~ 1177 N Great SW Pkwy ~ 1177 GREAT SW",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-GRAND-PRAIRIE-1177--1177-N-Great-SW-Pkwy--1177-GREAT-SW/Data-Analytics-Specialist---1st-Shift--Onsite-_01835697",
+    "job_posted_at_datetime_utc": "2026-04-13T07:01:28.839Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "481b605b2a0c3be0e5291cece56a8efa33513c62d0697717e72b0a8f05804f5a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "dashboards",
+        "excel",
+        "https",
+        "oracle",
+        "power bi",
+        "process improvement",
+        "qlik",
+        "risk management",
+        "sap",
+        "sql",
+        "tableau",
+        "vba"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Date Posted: 2026-04-13 Country: United States of America Location: US-TX-GRAND PRAIRIE-1177 ~ 1177 N Great SW Pkwy ~ 1177 GREAT SW Position Role Type: Onsite U.S.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T07:01:28.839Z"
+  },
+  {
+    "job_id": "workday-motorola-solutions-R63860",
+    "job_title": "Machine Learning Engineer",
+    "employer_name": "Motorola Solutions",
+    "job_city": "Los Angeles",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Machine-Learning-Engineer_R63860",
+    "job_posted_at_datetime_utc": "2026-04-13T07:00:48.462Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0665e7328afb441d423eb7f47b1e5018720fe1ddc92f957f2531aa5092d6d8e3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "classification",
+        "computer science",
+        "data pipeline",
+        "dsp",
+        "embedded systems",
+        "firmware",
+        "machine learning",
+        "matlab",
+        "networking",
+        "python",
+        "pytorch",
+        "r",
+        "real-time systems",
+        "rf",
+        "scikit-learn",
+        "signal processing",
+        "tensorflow",
+        "unsupervised learning"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T07:00:48.462Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00180663",
+    "job_title": "Journeyman Data Analyst",
+    "employer_name": "Leidos",
+    "job_city": "Bethesda",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Journeyman-Data-Analyst_R-00180663-1",
+    "job_posted_at_datetime_utc": "2026-04-13T07:00:25.402Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0040a971b64a4f896f19d68994d2868c15d4deb7c84a58333edf4816f91c599d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "confluence",
+        "dashboards",
+        "data analysis",
+        "data visualization",
+        "etl",
+        "excel",
+        "jira",
+        "large language model",
+        "machine learning",
+        "natural language processing",
+        "power bi",
+        "python",
+        "sql",
+        "tableau",
+        "vba"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Description Leidos has a new and exciting opportunity for a Journeyman Data Analyst our Intel Sector Analysis Solutions Business Area (ASBA) .",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T07:00:25.402Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00180637",
+    "job_title": "Data Scientist",
+    "employer_name": "Leidos",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Data-Scientist_R-00180637",
+    "job_posted_at_datetime_utc": "2026-04-13T07:00:25.402Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "de7392a050f0fdb6d5e9618d0946beed59bc10d7ddb4eae65afa6574fccc84c5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "aws",
+        "computer science",
+        "data architecture",
+        "data science",
+        "data visualization",
+        "git",
+        "hugging face",
+        "machine learning",
+        "matplotlib",
+        "natural language processing",
+        "nlp",
+        "plotly",
+        "python",
+        "seaborn",
+        "sql",
+        "statistics",
+        "tableau",
+        "tensorflow",
+        "unsupervised learning"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Leidos has a new and exciting opportunity for a Data Scientist in our Intel Sector Analysis Solutions Business Area (ASBA) .",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T07:00:25.402Z"
+  },
+  {
+    "job_id": "workday-micron-JR96229",
+    "job_title": "Silicon System AI Engineer",
+    "employer_name": "Micron",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Silicon-System-AI-Engineer_JR96229-1",
+    "job_posted_at_datetime_utc": "2026-04-13T07:00:10.954Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bacb02d9fa1c72fb40924d038edbfdf0ee96f09260709e49dacc72d8d1d2ba9f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "angularjs",
+        "data analysis",
+        "data science",
+        "etl",
+        "hadoop",
+        "hive",
+        "javascript",
+        "machine learning",
+        "mes",
+        "pyspark",
+        "python",
+        "r",
+        "spark",
+        "sql",
+        "statistics",
+        "supervised learning",
+        "tableau",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Micron Technology is a world leader in innovating memory and storage solutions that accelerate the transformation of information into intelligence, inspiring the world to learn, communicate and advanc…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T07:00:10.954Z"
   },
   {
     "job_id": "amazon-126e2f14-7f4e-4a14-8428-0cb628176c78",
@@ -5061,95 +5061,6 @@
     "job_posted_at": "2026-04-10T07:03:34.286Z"
   },
   {
-    "job_id": "workday-nvidia-JR2016032",
-    "job_title": "Research Scientist, Generative AI for Physical AI - PhD New College Grad 2026",
-    "employer_name": "NVIDIA",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032",
-    "job_posted_at_datetime_utc": "2026-04-10T07:01:40.239Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b46e6b9ccfc9c7abfdd2c0a7bb94fa97f9d8c3d4d7f88a50875f25982709bb87",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "pytorch",
-        "reinforcement learning",
-        "robotics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Are you passionate about pushing the boundaries of AI at the intersection of the digital and physical worlds?",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:01:40.239Z"
-  },
-  {
-    "job_id": "workday-kla-2635292",
-    "job_title": "Research Scientist (Vibration modeling)",
-    "employer_name": "KLA",
-    "job_city": "Ann Arbor",
-    "job_state": "MI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Research-Scientist--Vibration-modeling-_2635292-1",
-    "job_posted_at_datetime_utc": "2026-04-10T07:01:00.619Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "31fa5c9475d5c7efaf75642694e7d7f3bccefdefae980ee116ae13975fbc08e8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "abaqus",
-        "analytics",
-        "ansys",
-        "fea",
-        "finite element analysis",
-        "wafer"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Virtually every electronic device in the world is produced using our technologies.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:01:00.619Z"
-  },
-  {
     "job_id": "workday-vanguard-176208",
     "job_title": "Data Analyst, Specialist",
     "employer_name": "Vanguard",
@@ -5348,6 +5259,51 @@
     "job_posted_at": "2026-04-10T07:00:57.789Z"
   },
   {
+    "job_id": "workday-nvidia-JR2016032",
+    "job_title": "Research Scientist, Generative AI for Physical AI - PhD New College Grad 2026",
+    "employer_name": "NVIDIA",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032",
+    "job_posted_at_datetime_utc": "2026-04-10T07:00:54.791Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b46e6b9ccfc9c7abfdd2c0a7bb94fa97f9d8c3d4d7f88a50875f25982709bb87",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "pytorch",
+        "reinforcement learning",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Are you passionate about pushing the boundaries of AI at the intersection of the digital and physical worlds?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:00:54.791Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-068672",
     "job_title": "Experienced Statistical Programmer",
     "employer_name": "Johnson & Johnson",
@@ -5400,6 +5356,50 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T07:00:33.080Z"
+  },
+  {
+    "job_id": "workday-kla-2635292",
+    "job_title": "Research Scientist (Vibration modeling)",
+    "employer_name": "KLA",
+    "job_city": "Ann Arbor",
+    "job_state": "MI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Research-Scientist--Vibration-modeling-_2635292-1",
+    "job_posted_at_datetime_utc": "2026-04-10T07:00:22.928Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "31fa5c9475d5c7efaf75642694e7d7f3bccefdefae980ee116ae13975fbc08e8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "abaqus",
+        "analytics",
+        "ansys",
+        "fea",
+        "finite element analysis",
+        "wafer"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Virtually every electronic device in the world is produced using our technologies.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:00:22.928Z"
   },
   {
     "job_id": "workday-johnson-&-johnson-R-065345",
@@ -7739,116 +7739,6 @@
     "job_posted_at": "2026-04-09T07:01:58.822Z"
   },
   {
-    "job_id": "workday-northrop-grumman-R10229090",
-    "job_title": "Data Scientist: Insights & Intelligence - Level 3",
-    "employer_name": "Northrop Grumman",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/Data-Scientist--Insights---Intelligence---Level-3_R10229090",
-    "job_posted_at_datetime_utc": "2026-04-09T07:01:27.938Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dcbd7a1dcd467b1d198ea941c5a7260d0595c25092bd580064ec47c19548a483",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "dashboards",
-        "data analysis",
-        "data quality",
-        "data science",
-        "databricks",
-        "docker",
-        "forecasting",
-        "git",
-        "http",
-        "machine learning",
-        "pyspark",
-        "python",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "RELOCATION ASSISTANCE: No relocation assistance available CLEARANCE REQUIRED FOR START: No CLEARANCE TYPE: None TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have incredi…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:01:27.938Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00177556",
-    "job_title": "Computer Vision AI/ML Engineer",
-    "employer_name": "Leidos",
-    "job_city": "Huntsville",
-    "job_state": "AL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Computer-Vision-AI-ML-Engineer_R-00177556",
-    "job_posted_at_datetime_utc": "2026-04-09T07:01:11.864Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2a138bcf585b07ef879ef5305e49c4d8aa8fc4d829e36503f8998ef39692f106",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "apache",
-        "c++",
-        "computer science",
-        "computer vision",
-        "data science",
-        "deep learning",
-        "infrared",
-        "linux",
-        "machine learning",
-        "matlab",
-        "neural network",
-        "python",
-        "pytorch",
-        "radar",
-        "sensor fusion",
-        "tensorflow",
-        "transformers"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Serve as an AI/ML Engineer with a specialty in Computer Vision for the Contested Autonomy and Navigation Branch in Huntsville, AL .",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:01:11.864Z"
-  },
-  {
     "job_id": "workday-vanguard-176134",
     "job_title": "Machine Learning Engineer, Specialist",
     "employer_name": "Vanguard",
@@ -7972,6 +7862,59 @@
       "is_remote": true
     },
     "job_posted_at": "2026-04-09T07:00:49.173Z"
+  },
+  {
+    "job_id": "workday-northrop-grumman-R10229090",
+    "job_title": "Data Scientist: Insights & Intelligence - Level 3",
+    "employer_name": "Northrop Grumman",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/Data-Scientist--Insights---Intelligence---Level-3_R10229090",
+    "job_posted_at_datetime_utc": "2026-04-09T07:00:47.169Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dcbd7a1dcd467b1d198ea941c5a7260d0595c25092bd580064ec47c19548a483",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "dashboards",
+        "data analysis",
+        "data quality",
+        "data science",
+        "databricks",
+        "docker",
+        "forecasting",
+        "git",
+        "http",
+        "machine learning",
+        "pyspark",
+        "python",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "RELOCATION ASSISTANCE: No relocation assistance available CLEARANCE REQUIRED FOR START: No CLEARANCE TYPE: None TRAVEL: Yes, 10% of the Time Description At Northrop Grumman, our employees have incredi…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:00:47.169Z"
   },
   {
     "job_id": "workday-guidehouse-38258",
@@ -8174,6 +8117,63 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T07:00:33.744Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00177556",
+    "job_title": "Computer Vision AI/ML Engineer",
+    "employer_name": "Leidos",
+    "job_city": "Huntsville",
+    "job_state": "AL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Computer-Vision-AI-ML-Engineer_R-00177556",
+    "job_posted_at_datetime_utc": "2026-04-09T07:00:25.402Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2a138bcf585b07ef879ef5305e49c4d8aa8fc4d829e36503f8998ef39692f106",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "apache",
+        "c++",
+        "computer science",
+        "computer vision",
+        "data science",
+        "deep learning",
+        "infrared",
+        "linux",
+        "machine learning",
+        "matlab",
+        "neural network",
+        "python",
+        "pytorch",
+        "radar",
+        "sensor fusion",
+        "tensorflow",
+        "transformers"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Serve as an AI/ML Engineer with a specialty in Computer Vision for the Contested Autonomy and Navigation Branch in Huntsville, AL .",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T07:00:25.402Z"
   },
   {
     "job_id": "workday-ibotta-R-102339",
@@ -9731,986 +9731,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T07:19:23.276Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00180291",
-    "job_title": "Geospatial Data Analyst",
-    "employer_name": "Leidos",
-    "job_city": "St. Louis",
-    "job_state": "MO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Geospatial-Data-Analyst_R-00180291",
-    "job_posted_at_datetime_utc": "2026-04-08T07:10:51.210Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5657a8dbc08132d94ffdd10279b797f728b51674f60fabf3811e7accd634ae12",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "python",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Leidos is actively hiring for a Geospatial Data Analyst to join our team out of St.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:10:51.210Z"
-  },
-  {
-    "job_id": "workday-fidelity-investments-2125706",
-    "job_title": "Market Data Analyst",
-    "employer_name": "Fidelity Investments",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Boston-MA/Market-Data-Analyst_2125706",
-    "job_posted_at_datetime_utc": "2026-04-08T07:09:58.257Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "651b8df41ceed011c4fe94733d7747a21ced57fbebb5b56e6e02af1e9cfa8062",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "reporting",
-        "vendor management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Description: The Role As a Market Data Analyst (MDA) reporting to the Market Data Manager within the Investment Information Services (IIS) organization, you will play a key role in supporting the…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:09:58.257Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237278",
-    "job_title": "Data Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "San Antonio",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Antonio-TX/Data-Analyst_R0237278",
-    "job_posted_at_datetime_utc": "2026-04-08T07:09:05.849Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "695b913672d8f2ce1ea0c7e5938b1d586632c8956076852eafdf9f6601ca7d99",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "dashboards",
-        "data analysis",
-        "data science",
-        "data visualization",
-        "databricks",
-        "devops",
-        "etl",
-        "jupyter",
-        "jupyter notebook",
-        "kanban",
-        "machine learning",
-        "power bi",
-        "python",
-        "r",
-        "scrum",
-        "sql",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Data Analyst The Opportunity: As data analyst, you love diving into data and turning it into meaningful insights.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:09:05.849Z"
-  },
-  {
-    "job_id": "workday-dell-technologies-R287601",
-    "job_title": "Advisory AI Data Specialist (FDE Unit)",
-    "employer_name": "Dell Technologies",
-    "job_city": "Texas, United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://dell.wd1.myworkdayjobs.com/External/job/Remote---Texas-United-States/Advisory-AI-Data-Specialist--FDE-Unit-_R287601-1",
-    "job_posted_at_datetime_utc": "2026-04-08T07:04:20.309Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "59c03daa0d1febe351c6df6298169180c992186d5ab615c077ebd8e475f996f8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "computer science",
-        "data governance",
-        "data integration",
-        "data pipeline",
-        "elt",
-        "etl",
-        "rag"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Advisory AI Data Specialist (FDE Unit) Job Posting Advisory AI Data Specialist (FDE Unit) Within the Forward Deployment Engineering (FDE) Unit , the Advisory AI Data Specialist is the data expert who…",
-      "is_remote": true
-    },
-    "job_posted_at": "2026-04-08T07:04:20.309Z"
-  },
-  {
-    "job_id": "workday-caterpillar-R0000361224",
-    "job_title": "Data Scientist",
-    "employer_name": "Caterpillar",
-    "job_city": "Peoria",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Peoria-Illinois/Data-Scientist_R0000361224",
-    "job_posted_at_datetime_utc": "2026-04-08T07:04:14.443Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "88411c27cfd46b790d3b0e393d897fd54d6fc560c2b0acb7e8ce4ac6b9995a97",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "dashboards",
-        "data analysis",
-        "data science",
-        "excel",
-        "power bi",
-        "python",
-        "snowflake",
-        "sql",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Career Area: Technology, Digital and Data Job Description: Your Work Shapes the World at Caterpillar Inc.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:04:14.443Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237416",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fayetteville",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/Data-Scientist_R0237416-1",
-    "job_posted_at_datetime_utc": "2026-04-08T07:03:52.798Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "43345ee76e10937ffc30f5045b529b6e6b0d0299871ccc64b1d00123c3fe9f55",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "airflow",
-        "analytics",
-        "aws",
-        "computer science",
-        "data analysis",
-        "data science",
-        "data visualization",
-        "databricks",
-        "dbt",
-        "devops",
-        "etl",
-        "hadoop",
-        "hive",
-        "kafka",
-        "machine learning",
-        "natural language processing",
-        "power bi",
-        "qlik",
-        "spark",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Data Scientist The Opportunity: Ever-expanding technologies like IoT, machine learning, and artificial intelligence are generating more structured and unstructured data than ever before.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:03:52.798Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237399",
-    "job_title": "Defense Critical Infrastructure Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Defense-Critical-Infrastructure-Intelligence-Analyst_R0237399",
-    "job_posted_at_datetime_utc": "2026-04-08T07:03:52.798Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b88336ccb6f2e8e864775031e0b09f994edb24767c986e6329c7fba884e87471",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Defense Critical Infrastructure Intelligence Analyst The Opportunity : Do you find yourself constantly looking for more and better information?",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:03:52.798Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237396",
-    "job_title": "All Source Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0237396",
-    "job_posted_at_datetime_utc": "2026-04-08T07:03:52.798Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "603820bfb6a85c8b1b920131a4de2ca30f0520b030102b5450729e2a454229aa",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "All Source Intelligence Analyst The Opportunity: Our clients need skilled analysts to turn reams of data into actionable intelligence for our government and military every day.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:03:52.798Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237405",
-    "job_title": "Databricks Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Ashburn",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Ashburn-VA/Databricks-Data-Engineer_R0237405",
-    "job_posted_at_datetime_utc": "2026-04-08T07:03:52.798Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e467fd534a64be9459613a502adf4e92ce211d20618d9b1e3169ceeaf3794fd9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "aws",
-        "azure",
-        "c++",
-        "cassandra",
-        "databricks",
-        "elt",
-        "etl",
-        "google cloud",
-        "hadoop",
-        "hive",
-        "java",
-        "kafka",
-        "linux",
-        "machine learning",
-        "microsoft azure",
-        "mongodb",
-        "mysql",
-        "python",
-        "redshift",
-        "reporting",
-        "scala",
-        "shell",
-        "shell scripting",
-        "snowflake",
-        "spark",
-        "sql",
-        "unix"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Databricks Data Engineer The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there’s more structured and unstructured data available today tha…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:03:52.798Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237400",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Honolulu",
-    "job_state": "HI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Engineer_R0237400",
-    "job_posted_at_datetime_utc": "2026-04-08T07:03:52.798Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f959a583d212ea4f052d5b1fe1a4ee2745b27ce70a56b72940e9e9a66fa7bce7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "c++",
-        "dashboards",
-        "data governance",
-        "data quality",
-        "data visualization",
-        "databricks",
-        "java",
-        "lean",
-        "lean six sigma",
-        "process improvement",
-        "python",
-        "six sigma",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Data Engineer The Opportunity: As a data engineer at Booz Allen, you’ll help build advanced technology solutions and implement data engineering activities on some of the most mission-driven projects i…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:03:52.798Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235465",
-    "job_title": "Energy All-Source Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0235465",
-    "job_posted_at_datetime_utc": "2026-04-08T07:03:52.798Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "528c783f3010bdd1ed34d8e992458b558a8cae7e936271b55b7c274c53c27505",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Energy All-Source Intelligence Analyst The Opportunity: With all of the information available today, it takes a skilled all-source analyst to know how to find and interpret the best data to give their…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:03:52.798Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235469",
-    "job_title": "Energy All-Source Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0235469",
-    "job_posted_at_datetime_utc": "2026-04-08T07:03:52.798Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "528c783f3010bdd1ed34d8e992458b558a8cae7e936271b55b7c274c53c27505",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Energy All-Source Intelligence Analyst The Opportunity: With all of the information available today, it takes a skilled all-source analyst to know how to find and interpret the best data to give their…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:03:52.798Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235463",
-    "job_title": "Energy All-Source Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0235463",
-    "job_posted_at_datetime_utc": "2026-04-08T07:03:52.798Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "528c783f3010bdd1ed34d8e992458b558a8cae7e936271b55b7c274c53c27505",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Energy All-Source Intelligence Analyst The Opportunity: With all of the information available today, it takes a skilled all-source analyst to know how to find and interpret the best data to give their…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:03:52.798Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237320",
-    "job_title": "Human Capital Data Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Chantilly",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Human-Capital-Data-Analyst_R0237320",
-    "job_posted_at_datetime_utc": "2026-04-08T07:03:52.798Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "157fda429f5d4a5d33f5abfb033d57ff8e7ac820fa88d402032406e9699faf55",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "dashboards",
-        "data analysis",
-        "data governance",
-        "data visualization",
-        "excel",
-        "natural language processing",
-        "pivot tables",
-        "python",
-        "sql",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Human Capital Data Analyst The Opportunity: As Data Analyst, you love diving into data and turning it into meaningful insights.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:03:52.798Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237027",
-    "job_title": "Data Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Camp Lejeune",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Camp-Lejeune-NC/Data-Analyst_R0237027",
-    "job_posted_at_datetime_utc": "2026-04-08T07:03:52.798Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4202530d9a246d1be54024761a5a47334c7d7a55e9303b1a552ebc7257999736",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "data analysis",
-        "data visualization",
-        "excel",
-        "machine learning",
-        "power bi",
-        "pyspark",
-        "python",
-        "r",
-        "spark",
-        "sql",
-        "statistical analysis",
-        "statistics",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Data Analyst The Opportunity: As a Data Analyst, you enjoy diving into data and turning it into meaningful insights.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:03:52.798Z"
-  },
-  {
-    "job_id": "workday-ameriprise-financial-R26_1223",
-    "job_title": "Associate Investment Research Analyst - Structured Products",
-    "employer_name": "Ameriprise Financial",
-    "job_city": "Minneapolis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Associate-Investment-Research-Analyst---Structured-Products_R26_1223-1",
-    "job_posted_at_datetime_utc": "2026-04-08T07:03:19.254Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4a9ac2428871ad9fda6b247b3a93bd31c42099555d9c25a465ac5ae551259ef3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "About Our Company Working at Columbia Threadneedle Investments you'll find growth and career opportunities across all of our businesses.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:03:19.254Z"
-  },
-  {
-    "job_id": "workday-ameriprise-financial-R26_1222",
-    "job_title": "Investment Research Analyst - Structured Products",
-    "employer_name": "Ameriprise Financial",
-    "job_city": "Minneapolis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Investment-Research-Analyst---Structured-Products_R26_1222-1",
-    "job_posted_at_datetime_utc": "2026-04-08T07:03:19.254Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2fba715418e10431cac99daab21e45abca38630029df86bf34a92d35482673d0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "About Our Company Working at Columbia Threadneedle Investments you'll find growth and career opportunities across all of our businesses.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:03:19.254Z"
-  },
-  {
-    "job_id": "workday-zayo-R0016284",
-    "job_title": "Data Analytics Engineer - Network Data Solutions",
-    "employer_name": "Zayo",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://zayo.wd1.myworkdayjobs.com/Zayo_Careers/job/United-States/Data-Analytics-Engineer---Network-Data-Solutions_R0016284",
-    "job_posted_at_datetime_utc": "2026-04-08T07:01:20.859Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "53dd0ba6c3e40af41d6fc7a6a04bd337d54dc6c1b9b5fb4725ce14f2369b4d20",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "azure",
-        "azure devops",
-        "business intelligence",
-        "ci/cd",
-        "computer science",
-        "dashboards",
-        "data architecture",
-        "data pipeline",
-        "data quality",
-        "data science",
-        "dbt",
-        "devops",
-        "elt",
-        "etl",
-        "fiber",
-        "github",
-        "network engineering",
-        "power bi",
-        "python",
-        "reporting",
-        "snowflake",
-        "sql",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Company Description Zayo provides mission-critical bandwidth to the world’s most impactful companies, fueling the innovations that are transforming our society.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:01:20.859Z"
-  },
-  {
-    "job_id": "workday-salesforce-JR329145",
-    "job_title": "Software Engineer (Multiple Levels) - Machine Learning Infrastructure, Slack",
-    "employer_name": "Salesforce",
-    "job_city": "Washington Seattle",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Senior-Staff-Software-Engineer--Machine-Learning-Infrastructure--Slack_JR329145",
-    "job_posted_at_datetime_utc": "2026-04-08T07:01:12.014Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "49cd7fd962b04ca42186c0f5a3584696c7cc9cf250fa267cadfaf9e2bdc6bc9d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "airflow",
-        "aws",
-        "azure",
-        "crm",
-        "distributed systems",
-        "gcp",
-        "https",
-        "infrastructure as code",
-        "kubernetes",
-        "llm",
-        "machine learning",
-        "observability",
-        "ray",
-        "salesforce",
-        "scalability",
-        "sdk",
-        "slack",
-        "spark"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:01:12.014Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00177833",
-    "job_title": "Maritime Intelligence Analyst and Watch Stander",
-    "employer_name": "Leidos",
-    "job_city": "Suitland",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Suitland-MD/Maritime-Intelligence-Analyst-and-Watch-Stander_R-00177833",
-    "job_posted_at_datetime_utc": "2026-04-08T07:01:11.865Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "de3db73822447f8ceb3e66e1dfe8890376a6996a63914d4f2a48378714d032c3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Tasking: Collects, analyzes, interprets, evaluates and integrates complex data from multiple sources in assessing the relevance and significance of developments in his/her assigned area(s), and in pre…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:01:11.865Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00180342",
-    "job_title": "Maritime Intelligence Analyst",
-    "employer_name": "Leidos",
-    "job_city": "Suitland",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Suitland-MD/Maritime-Intelligence-Analyst_R-00180342-1",
-    "job_posted_at_datetime_utc": "2026-04-08T07:01:11.865Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7b54986ffec9408148ea9db01ed928a0186759ccf2fabbb27ba0128caba6d730",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "General program information and/or position overview: In support of the Critical Infrastructure Protection team, the intelligence analyst shall communicate effectively orally and in writing, to includ…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:01:11.865Z"
   }
 ]
