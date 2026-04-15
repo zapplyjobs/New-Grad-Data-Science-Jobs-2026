@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Active Jobs](https://img.shields.io/badge/Active_Jobs-201-brightgreen?style=flat&logo=briefcase)
+![Active Jobs](https://img.shields.io/badge/Active_Jobs-200-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-88-blue?style=flat&logo=building)
-![Data Scientist](https://img.shields.io/badge/Data_Scientist-83-red?style=flat&logo=star)
+![Data Scientist](https://img.shields.io/badge/Data_Scientist-82-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -69,9 +69,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Booz Allen Hamilton** | Data Scientist |  | Camp Lejeune, NC + 5 more | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Camp-Lejeune-NC/Data-Scientist_R0237867) |
-| 🏢 **CACI** | Data Scientist for Analytics (Engineer/Scientist Support) |  | CA Norco | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-CA-Norco/Data-Scientist-for-Analytics--Engineer-Scientist-Support-_323962) |
-| 🏢 **Fidelity Investments** | Data Scientist | ✅ Sponsor | Boston, MA | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Boston-MA/Associate-Data-Scientist_2124703) |
+| 🏢 **Booz Allen Hamilton** | Data Scientist | ✅ Sponsor | Camp Lejeune, NC + 5 more | 24m | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Camp-Lejeune-NC/Data-Scientist_R0237867) |
+| 🏢 **CACI** | Data Scientist for Analytics (Engineer/Scientist Support) | ✅ Sponsor | CA Norco | 24m | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-CA-Norco/Data-Scientist-for-Analytics--Engineer-Scientist-Support-_323962) |
+| 🏢 **Fidelity Investments** | Data Scientist | ✅ Sponsor | Boston, MA | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Boston-MA/Associate-Data-Scientist_2124703) |
 | 🏢 **Thermo Fisher Scientific** | Associate Research Scientist - Small Molecule (Device Team) |  | Middleton | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Associate-Research-Scientist---Small-Molecule--Device-Team-_R-01346607) |
 | 🏢 **ClickUp** | Growth Machine Learning Engineer | ✅ Sponsor | United States | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/clickup/30044ca8-927b-462a-b5dd-d49c1134481d/application) |
 | 🏢 **Booz Allen Hamilton** | Machine Learning Engineer | ✅ Sponsor | McLean, VA | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Machine-Learning-Engineer_R0235347) |
@@ -131,7 +131,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Bosch Group** | AI Research Scientist - GenAI | ✅ Sponsor | Pittsburgh, PA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000119485987) |
 | 🏢 **Chan Zuckerberg Biohub** | Machine Learning Engineer , AI | ✅ Sponsor | Redwood City, CA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/7793658) |
 | 🏢 **Chan Zuckerberg Biohub** | Research Scientist, AI | ✅ Sponsor | Redwood City, CA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/7793644) |
-| 🏢 **Spotify** | Data Scientist - AdCo Product Insights | ✅ Sponsor | New York, NY | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/spotify/1a78f396-2295-4fa0-8c44-9a6cdd21b1b9/apply) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -143,18 +142,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Vanguard** | Data Analyst, Specialist |  | Malvern, PA + 2 more | 6m | [<img src="images/apply.png" width="75" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Analyst--Specialist_176661-1) |
-| 🏢 **Guidehouse** | Data Analyst/FM Product Consultant |  | VA McLean | 8m | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Data-Analyst-FM-Product-Consultant_34667) |
-| 🏢 **Booz Allen Hamilton** | All-Source Intelligence Analyst | ✅ Sponsor | Washington, DC + 3 more | 34m | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0237873) |
+| 🏢 **Vanguard** | Data Analyst, Specialist | ✅ Sponsor | Malvern, PA + 2 more | 21m | [<img src="images/apply.png" width="75" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Analyst--Specialist_176661-1) |
+| 🏢 **Guidehouse** | Data Analyst/FM Product Consultant | ✅ Sponsor | VA McLean | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Data-Analyst-FM-Product-Consultant_34667) |
+| 🏢 **Booz Allen Hamilton** | All-Source Intelligence Analyst | ✅ Sponsor | Washington, DC + 3 more | 50m | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0237873) |
 | 🏢 **CACI** | Counterintelligence Analyst | ✅ Sponsor | NC Fort Bragg | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-NC-Fort-Bragg/Counterintelligence-Analyst_324939) |
 | 🏢 **ASML** | Data Analyst | ✅ Sponsor | San Jose, CA + 1 more | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Data-Analyst_J-00339242) |
-| 🏢 **Booz Allen Hamilton** | Open-Source Research Analyst, Junior | ✅ Sponsor | McLean, VA + 2 more | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0237806) |
-| 🏢 **FLIR Systems** | AI Solution Analyst |  | Huntsville, AL | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/AI-Solution-Analyst_REQ33421) |
+| 🏢 **Booz Allen Hamilton** | Open-Source Research Analyst, Junior | ✅ Sponsor | McLean, VA + 2 more | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0237806) |
+| 🏢 **FLIR Systems** | AI Solution Analyst |  | Huntsville, AL | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/AI-Solution-Analyst_REQ33421) |
 | 🏢 **Leidos** | Intelligence Analyst | ✅ Sponsor | Marysville, CA | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Marysville-CA/Intelligence-Analyst_R-00180334-1) |
 | 🏢 **The MITRE Corporation** | Operations Research Analyst, Associate |  | McLean | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R115705/Operations-Research-Analyst-Associate) |
 | 🏢 **Snowflake** | Analyst, Finance Analytics & AI | ✅ Sponsor | CA-Menlo Park | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/snowflake/71a365de-a30e-496c-beaa-422722e0dc62/application) |
-| 🏢 **Crusoe** | Strategic Sourcing Data Analyst | ✅ Sponsor | Denver, CO | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/crusoe/b4c946a9-6ea4-4f73-83a5-79868fcaa851/application) |
-| 🏢 **CACI** | Data Analytics/Reporting SME | ✅ Sponsor | Remote | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Data-Analytics-Reporting-SME_324870-1) |
+| 🏢 **Crusoe** | Strategic Sourcing Data Analyst | ✅ Sponsor | Denver, CO | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/crusoe/b4c946a9-6ea4-4f73-83a5-79868fcaa851/application) |
+| 🏢 **CACI** | Data Analytics/Reporting SME | ✅ Sponsor | Remote | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Data-Analytics-Reporting-SME_324870-1) |
 | 🏢 **Guidehouse** | Data Analyst | ✅ Sponsor | VA Arlington + 1 more | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Data-Analyst_38439) |
 | 🏢 **Workday Inc** | Prism Reporting & Analytics Consultant | ✅ Sponsor | GA Atlanta | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Senior-Reporting-and-Analytics-Consultant---Prism_JR-0103116) |
 | 🏢 **Booz Allen Hamilton** | Databricks Platform Engineer | ✅ Sponsor | Ashburn, VA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Ashburn-VA/Databricks-Platform-Engineer_R0237702) |
@@ -183,7 +182,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Boston Dynamics** | Teleoperations Research Engineer, Atlas | ✅ Sponsor | Waltham | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Teleoperations-Research-Scientist--Atlas_R2182) |
 | 🏢 **Fast Foster Care** | Remote Data Analyst - Entry Level with Growth Opportunities |  | Denver | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.whatjobs.com/jobs/remote-data-analyst-entry/denver-colorado-2?id=2626215602) |
 | 🏢 **NBCUniversal** | Research Analyst, NBCU Local Chicago | ✅ Sponsor | Chicago | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000119687092) |
-| 🏢 **Astranis** | Total Rewards & Analytics Analyst |  | San Francisco | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4667482006) |
+| 🏢 **Astranis** | Total Rewards & Analytics Analyst |  | San Francisco | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4667482006) |
 | 🏢 **D.E. Shaw** | Software Engineer - Cumberland/FICCO Tools Engineering | ✅ Sponsor | Chicago | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/7797373) |
 | 🏢 **Waymo** | Business Intelligence Analyst / Data Analyst (SQL) | ✅ Sponsor | Mountain View, CA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7788473) |
 | 🏢 **American Express** | Analyst - Data Analytics Digital Lounge Services | ✅ Sponsor | New York | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://aexp.eightfold.ai/careers/job/41064452) |
@@ -211,7 +210,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Booz Allen Hamilton** | Data Engineer | ✅ Sponsor | Washington, DC + 2 more | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Data-Engineer_R0237794) |
+| 🏢 **Booz Allen Hamilton** | Data Engineer | ✅ Sponsor | Washington, DC + 2 more | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Data-Engineer_R0237794) |
 | 🏢 **Red Bull** | Data Engineer | ✅ Sponsor | Santa Monica, CA | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000120810737) |
 | 🏢 **Leidos** | Journeyman Data Engineer | ✅ Sponsor | Alexandria, VA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Journeyman-Data-Engineer_R-00180212) |
 | 🏢 **Capital One** | Data Engineer | ✅ Sponsor | McLean, VA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Data-Engineer_R240349-1) |
@@ -252,7 +251,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Guidehouse** | AI Engineer (full-stack) | ✅ Sponsor | Remote | 33m | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/AI-Engineer--full-stack-_38263) |
+| 🏢 **Guidehouse** | AI Engineer (full-stack) | ✅ Sponsor | Remote | 48m | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/AI-Engineer--full-stack-_38263) |
 | 🏢 **Amazon.com Services LLC** | Machine Learning Data Linguist, Alexa AI | ✅ Sponsor | Seattle, WA | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10392286/machine-learning-data-linguist-alexa-ai) |
 | 🏢 **Booz Allen Hamilton** | AI & ML Engineer | ✅ Sponsor | McLean, VA | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI---ML-Engineer_R0237334) |
 | 🏢 **Snowflake** | Software Engineer (AI Engineer - Dev Exp / IC1) | ✅ Sponsor | WA-Bellevue | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/snowflake/bed7fa9d-f8a4-4c7f-ad1a-59883a43b6fe/application) |
@@ -325,7 +324,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 201 current opportunities from 88 companies**
+**🎯 200 current opportunities from 88 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 

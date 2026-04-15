@@ -25,6 +25,31 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "a/b testing",
+        "analytics",
+        "aws",
+        "business intelligence",
+        "dashboards",
+        "data analysis",
+        "data quality",
+        "forecasting",
+        "github",
+        "python",
+        "reporting",
+        "scalability",
+        "sql",
+        "stakeholder management",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Leads advanced data analysis initiatives to support business strategy and decision‑making.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-15T18:24:40.841Z"
   },
   {
@@ -53,6 +78,27 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "dashboards",
+        "data analysis",
+        "data visualization",
+        "databricks",
+        "power bi",
+        "project management",
+        "qlik",
+        "reporting",
+        "scrum"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Family : Data Engineering & Architecture Consulting, Data Management (DTA) Travel Required : Up to 10% Clearance Required : Ability to Obtain Secret What You Will Do : Guidehouse is currently seek…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-15T18:22:28.873Z"
   },
   {
@@ -81,6 +127,34 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "aws",
+        "azure",
+        "data analysis",
+        "data pipeline",
+        "data visualization",
+        "feature engineering",
+        "machine learning",
+        "power bi",
+        "pyspark",
+        "python",
+        "r",
+        "regression",
+        "spark",
+        "sql",
+        "statistical analysis",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Data Scientist The Opportunity: As a Data Scientist, you have a passion for going beyond simple analysis to build predictive models and algorithms.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-15T18:21:17.256Z"
   },
   {
@@ -109,6 +183,23 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data analysis",
+        "matlab",
+        "process improvement",
+        "python",
+        "radar",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: Data Scientist for Analytics (Engineer/Scientist Support) Job Category: Information Technology Time Type: Full time Minimum Clearance Required to Start: Secret Employee Type: Regular Percen…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-15T18:21:09.271Z"
   },
   {
@@ -9847,56 +9938,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T19:43:47.797Z"
-  },
-  {
-    "job_id": "lever-spotify-1a78f396-2295-4fa0-8c44-9a6cdd21b1b9",
-    "job_title": "Data Scientist - AdCo Product Insights",
-    "employer_name": "Spotify",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.lever.co/spotify/1a78f396-2295-4fa0-8c44-9a6cdd21b1b9/apply",
-    "job_posted_at_datetime_utc": "2026-04-08T18:31:37.800Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4a561b63ab206a1b1750498bd4fc2c8336147c0cf6480c4cc24dc26d55340ebe",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "remote",
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "data science",
-        "data visualization",
-        "looker",
-        "machine learning",
-        "matplotlib",
-        "numpy",
-        "pandas",
-        "python",
-        "sql",
-        "statistics",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": "Who You Are   You have 3+ years experience in a similar data science role   You are interested in supporting the growth of a maturing platform, building the foundation for the future of Spotify Advert…",
-      "is_remote": true
-    },
-    "job_posted_at": "2026-04-08T18:31:37.800Z"
   }
 ]
