@@ -1,5 +1,34 @@
 [
   {
+    "job_id": "greenhouse-brex-8366850002",
+    "job_title": "Data Engineer",
+    "employer_name": "Brex",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.brex.com/careers/8366850002?gh_jid=8366850002",
+    "job_posted_at_datetime_utc": "2026-04-16T19:32:38.424Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f1dc5cfc25e7e76499e7193869404f33fcf6f4a42da99492d45308966e2d989b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "finance",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-16T19:32:38.424Z"
+  },
+  {
     "job_id": "workday-vanguard-174157",
     "job_title": "Data Scientist, Specialist",
     "employer_name": "Vanguard",
@@ -25,6 +54,32 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "data pipeline",
+        "data science",
+        "hadoop",
+        "machine learning",
+        "power bi",
+        "python",
+        "r",
+        "reporting",
+        "scikit-learn",
+        "spark",
+        "sql",
+        "statistics",
+        "tableau",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Responsibilities: Develops complex queries and performs extensive programming to access, transform, and prepare data for statistical modeling.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-16T19:10:21.316Z"
   },
   {
@@ -3574,6 +3629,153 @@
     "job_posted_at": "2026-04-14T07:22:10.858Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0235347",
+    "job_title": "Machine Learning Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Machine-Learning-Engineer_R0235347",
+    "job_posted_at_datetime_utc": "2026-04-14T07:22:10.858Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8a1ff09b4542d6315452db8e0b1418803a5d827cdd600fbccf0cfb90cbd58b09",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer vision",
+        "data science",
+        "deep learning",
+        "java",
+        "langchain",
+        "llm",
+        "machine learning",
+        "python",
+        "pytorch",
+        "rust",
+        "scikit-learn",
+        "tensorflow",
+        "unsupervised learning"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Machine Learning Engineer The Opportunity: As a programmer, you know that machine learning is critical to understanding and processing massive datasets.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:22:10.858Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0233753",
+    "job_title": "Open-Source Research Analyst, Junior",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0233753",
+    "job_posted_at_datetime_utc": "2026-04-14T07:22:10.858Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bf1fe9c962e99bb4a495263b1ee18b918f4b171957f38f572a42b35ee661bcb4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "change management",
+        "process improvement"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Open-Source Research Analyst, Junior The Opportunity: Are you passionate about helping organizations successfully implement change and advance their operations?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:22:10.858Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237334",
+    "job_title": "AI & ML Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI---ML-Engineer_R0237334",
+    "job_posted_at_datetime_utc": "2026-04-14T07:22:10.858Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5656b9f4c69ea3bee2c2a0d9d852703ed98e247773b94817cc2fdb9975566ba6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "apache",
+        "apache spark",
+        "aws",
+        "azure",
+        "data science",
+        "databricks",
+        "flask",
+        "gcp",
+        "git",
+        "llm",
+        "machine learning",
+        "python",
+        "requirements gathering",
+        "spark"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "AI & ML Engineer The Opportunity : As an experience d engineer, you know that machine learning ( ML ) is critical to understanding and processing massive datasets.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:22:10.858Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0237702",
     "job_title": "Databricks Platform Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -3825,153 +4027,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Cyber Data Analyst The Opportunity: As cyber data analyst, you love diving into data and turning it into meaningful insights.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T07:22:10.858Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235347",
-    "job_title": "Machine Learning Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Machine-Learning-Engineer_R0235347",
-    "job_posted_at_datetime_utc": "2026-04-14T07:22:10.858Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8a1ff09b4542d6315452db8e0b1418803a5d827cdd600fbccf0cfb90cbd58b09",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer vision",
-        "data science",
-        "deep learning",
-        "java",
-        "langchain",
-        "llm",
-        "machine learning",
-        "python",
-        "pytorch",
-        "rust",
-        "scikit-learn",
-        "tensorflow",
-        "unsupervised learning"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Machine Learning Engineer The Opportunity: As a programmer, you know that machine learning is critical to understanding and processing massive datasets.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T07:22:10.858Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0233753",
-    "job_title": "Open-Source Research Analyst, Junior",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0233753",
-    "job_posted_at_datetime_utc": "2026-04-14T07:22:10.858Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bf1fe9c962e99bb4a495263b1ee18b918f4b171957f38f572a42b35ee661bcb4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "change management",
-        "process improvement"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Open-Source Research Analyst, Junior The Opportunity: Are you passionate about helping organizations successfully implement change and advance their operations?",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T07:22:10.858Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237334",
-    "job_title": "AI & ML Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI---ML-Engineer_R0237334",
-    "job_posted_at_datetime_utc": "2026-04-14T07:22:10.858Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5656b9f4c69ea3bee2c2a0d9d852703ed98e247773b94817cc2fdb9975566ba6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "apache",
-        "apache spark",
-        "aws",
-        "azure",
-        "data science",
-        "databricks",
-        "flask",
-        "gcp",
-        "git",
-        "llm",
-        "machine learning",
-        "python",
-        "requirements gathering",
-        "spark"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "AI & ML Engineer The Opportunity : As an experience d engineer, you know that machine learning ( ML ) is critical to understanding and processing massive datasets.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T07:22:10.858Z"
@@ -4538,48 +4593,6 @@
     "job_posted_at": "2026-04-14T00:01:57.802Z"
   },
   {
-    "job_id": "js-teksystems-ttgodsytrwhbmwtoaaaaaa==",
-    "job_title": "Data Specialist (Entry Level)",
-    "employer_name": "TEKsystems",
-    "job_city": "Waukegan",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.teksystems.com/us/en/job/JP-005959101/Data-Specialist-Entry-Level",
-    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
-    "job_employment_type": "CONTRACTOR",
-    "salary": null,
-    "fingerprint": "c9da2ef55edd211acf58cef634a14f42c1efaf8275985d0c61d5a262a1b4ed4f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "excel",
-        "pivot tables",
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Required Qualifications • Bachelor’s degree (or in progress) in Information Technology, Information Systems, Business, Finance, or a related field • 6+ months of professional experience heavily focuse…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-40bf8604-dfec-4e21-8aee-1f0b675d0a97",
     "job_title": "Machine Learning Engineer, Sponsored Products Off-Search Sourcing and Relevance",
     "employer_name": "Amazon.com Services LLC",
@@ -4764,6 +4777,48 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Basic Qualifications: - Bachelor's degree or above in a quantitative field such as statistics, mathematics, data science, business analytics, economics, finance, engineering, or computer science - Exp…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-teksystems-ttgodsytrwhbmwtoaaaaaa==",
+    "job_title": "Data Specialist (Entry Level)",
+    "employer_name": "TEKsystems",
+    "job_city": "Waukegan",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.teksystems.com/us/en/job/JP-005959101/Data-Specialist-Entry-Level",
+    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
+    "job_employment_type": "CONTRACTOR",
+    "salary": null,
+    "fingerprint": "c9da2ef55edd211acf58cef634a14f42c1efaf8275985d0c61d5a262a1b4ed4f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "pivot tables",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Required Qualifications • Bachelor’s degree (or in progress) in Information Technology, Information Systems, Business, Finance, or a related field • 6+ months of professional experience heavily focuse…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T00:00:00.000Z"
@@ -6262,6 +6317,59 @@
     "job_posted_at": "2026-04-13T07:00:30.745Z"
   },
   {
+    "job_id": "workday-leidos-R-00180663",
+    "job_title": "Journeyman Data Analyst",
+    "employer_name": "Leidos",
+    "job_city": "Bethesda",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Journeyman-Data-Analyst_R-00180663-1",
+    "job_posted_at_datetime_utc": "2026-04-13T07:00:25.402Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0040a971b64a4f896f19d68994d2868c15d4deb7c84a58333edf4816f91c599d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "confluence",
+        "dashboards",
+        "data analysis",
+        "data visualization",
+        "etl",
+        "excel",
+        "jira",
+        "large language model",
+        "machine learning",
+        "natural language processing",
+        "power bi",
+        "python",
+        "sql",
+        "tableau",
+        "vba"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Description Leidos has a new and exciting opportunity for a Journeyman Data Analyst our Intel Sector Analysis Solutions Business Area (ASBA) .",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T07:00:25.402Z"
+  },
+  {
     "job_id": "workday-leidos-R-00180637",
     "job_title": "Data Scientist",
     "employer_name": "Leidos",
@@ -6315,59 +6423,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Leidos has a new and exciting opportunity for a Data Scientist in our Intel Sector Analysis Solutions Business Area (ASBA) .",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T07:00:25.402Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00180663",
-    "job_title": "Journeyman Data Analyst",
-    "employer_name": "Leidos",
-    "job_city": "Bethesda",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Journeyman-Data-Analyst_R-00180663-1",
-    "job_posted_at_datetime_utc": "2026-04-13T07:00:25.402Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0040a971b64a4f896f19d68994d2868c15d4deb7c84a58333edf4816f91c599d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "confluence",
-        "dashboards",
-        "data analysis",
-        "data visualization",
-        "etl",
-        "excel",
-        "jira",
-        "large language model",
-        "machine learning",
-        "natural language processing",
-        "power bi",
-        "python",
-        "sql",
-        "tableau",
-        "vba"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Description Leidos has a new and exciting opportunity for a Journeyman Data Analyst our Intel Sector Analysis Solutions Business Area (ASBA) .",
       "is_remote": false
     },
     "job_posted_at": "2026-04-13T07:00:25.402Z"
@@ -6492,46 +6547,6 @@
     "job_posted_at": "2026-04-13T07:00:10.954Z"
   },
   {
-    "job_id": "js-unison-infrastructure-4r0vw3zi2zxuqtssaaaaaa==",
-    "job_title": "Data Analyst (Entry-Level / Early Career) - UK",
-    "employer_name": "Unison Infrastructure",
-    "job_city": "Bristol",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.whatjobs.com/jobs/data-analyst-entry-level-early/bristol-virginia?id=2634953082",
-    "job_posted_at_datetime_utc": "2026-04-13T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "55ecf3e8ac26f62915d2c92361eceefdb1481f34c8b729806987f1d1cd66b3e7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "data quality"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Unison is a telecom and renewables infrastructure investment firm funded in partnership with Ardian - the global investment house based in Paris with over $150 billion in assets under management.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-126e2f14-7f4e-4a14-8428-0cb628176c78",
     "job_title": "Data Scientist",
     "employer_name": "Amazon.com Services LLC",
@@ -6630,6 +6645,46 @@
     "job_posted_at": "2026-04-13T00:00:00.000Z"
   },
   {
+    "job_id": "js-unison-infrastructure-4r0vw3zi2zxuqtssaaaaaa==",
+    "job_title": "Data Analyst (Entry-Level / Early Career) - UK",
+    "employer_name": "Unison Infrastructure",
+    "job_city": "Bristol",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.whatjobs.com/jobs/data-analyst-entry-level-early/bristol-virginia?id=2634953082",
+    "job_posted_at_datetime_utc": "2026-04-13T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "55ecf3e8ac26f62915d2c92361eceefdb1481f34c8b729806987f1d1cd66b3e7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "data quality"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Unison is a telecom and renewables infrastructure investment firm funded in partnership with Ardian - the global investment house based in Paris with over $150 billion in assets under management.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T00:00:00.000Z"
+  },
+  {
     "job_id": "js-arsenault-v1x2ytmr-p0dl8msaaaaaa==",
     "job_title": "Data Analyst (Entry Level)",
     "employer_name": "Arsenault",
@@ -6721,56 +6776,6 @@
     "job_posted_at": "2026-04-12T23:00:00.000Z"
   },
   {
-    "job_id": "js-jobsultant-solutions-yvpfgfrffp85a5tqaaaaaa==",
-    "job_title": "Data Analyst - Entry Level (Remote)",
-    "employer_name": "Jobsultant Solutions",
-    "job_city": "Charlotte",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/30vrATe8fuKVJhmTCjpDWp",
-    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "1d33e24026d68e28227ff3577057ef86dfae16f0dcafcd0cc9cc816eee55c8c3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "azure",
-        "data science",
-        "data visualization",
-        "keras",
-        "machine learning",
-        "python",
-        "r",
-        "scala",
-        "scikit-learn",
-        "spark",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Required Qualifications • Industry experience in predictive modeling, data science and analysis.",
-      "is_remote": true
-    },
-    "job_posted_at": "2026-04-12T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-bb12c430-18a8-4e0b-89ac-0c240aa5495a",
     "job_title": "Data Engineer, Risk Operations, Success, & Engagement Business Intelligence",
     "employer_name": "Amazon.com Services LLC",
@@ -6834,6 +6839,56 @@
       "is_simple_apply": false,
       "summary_line": "Title: Data Engineer Organization Overview: In Kindle, authors are at the center of everything we do.",
       "is_remote": false
+    },
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-jobsultant-solutions-yvpfgfrffp85a5tqaaaaaa==",
+    "job_title": "Data Analyst - Entry Level (Remote)",
+    "employer_name": "Jobsultant Solutions",
+    "job_city": "Charlotte",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/30vrATe8fuKVJhmTCjpDWp",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "1d33e24026d68e28227ff3577057ef86dfae16f0dcafcd0cc9cc816eee55c8c3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "azure",
+        "data science",
+        "data visualization",
+        "keras",
+        "machine learning",
+        "python",
+        "r",
+        "scala",
+        "scikit-learn",
+        "spark",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Required Qualifications • Industry experience in predictive modeling, data science and analysis.",
+      "is_remote": true
     },
     "job_posted_at": "2026-04-12T00:00:00.000Z"
   },
@@ -7742,6 +7797,57 @@
     "job_posted_at": "2026-04-10T07:03:54.012Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0237547",
+    "job_title": "Reinforcement Learning AI Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Colorado Springs",
+    "job_state": "CO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/Reinforcement-Learning-AI-Engineer_R0237547",
+    "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e1387ff394764efe74e3d649167bfa73ad231118b634d8cf52182a984ef98265",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "data science",
+        "design patterns",
+        "embedded systems",
+        "kubernetes",
+        "machine learning",
+        "neural network",
+        "python",
+        "pytorch",
+        "reinforcement learning",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Reinforcement Learning AI Engineer The Opportunity : Booz Allen is seeking an innovative and experience d AI developer spe cia lizing in reinforcement learning to join our growing team for Space solut…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:03:52.797Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0237533",
     "job_title": "Data Analytics Platform Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -7795,57 +7901,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Data Analytics Platform Engineer The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there’s more structured and unstructured data available t…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:03:52.797Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237547",
-    "job_title": "Reinforcement Learning AI Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Colorado Springs",
-    "job_state": "CO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/Reinforcement-Learning-AI-Engineer_R0237547",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e1387ff394764efe74e3d649167bfa73ad231118b634d8cf52182a984ef98265",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "data science",
-        "design patterns",
-        "embedded systems",
-        "kubernetes",
-        "machine learning",
-        "neural network",
-        "python",
-        "pytorch",
-        "reinforcement learning",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Reinforcement Learning AI Engineer The Opportunity : Booz Allen is seeking an innovative and experience d AI developer spe cia lizing in reinforcement learning to join our growing team for Space solut…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T07:03:52.797Z"
@@ -8494,51 +8549,6 @@
     "job_posted_at": "2026-04-10T00:47:02.393Z"
   },
   {
-    "job_id": "workday-boston-dynamics-R2027",
-    "job_title": "Research Scientist, VLA Models - Atlas",
-    "employer_name": "Boston Dynamics",
-    "job_city": "Waltham Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Staff-Research-Scientist_R2027",
-    "job_posted_at_datetime_utc": "2026-04-10T00:47:02.392Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5ea216bfa9dfd011e85e193171b5e97ef347dbc5f749993d1005a9706cb2c5e7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "machine learning",
-        "multimodal",
-        "python",
-        "pytorch",
-        "robotics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "As a VLA Research Scientist on the Atlas team, you will architect, train, and deploy the large-scale behavior models that enable high-performance dexterous manipulation on Atlas.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T00:47:02.392Z"
-  },
-  {
     "job_id": "workday-boston-dynamics-R2182",
     "job_title": "Teleoperations Research Engineer, Atlas",
     "employer_name": "Boston Dynamics",
@@ -8622,6 +8632,51 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Are you passionate about using machine learning to drive robot behavior?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T00:47:02.392Z"
+  },
+  {
+    "job_id": "workday-boston-dynamics-R2027",
+    "job_title": "Research Scientist, VLA Models - Atlas",
+    "employer_name": "Boston Dynamics",
+    "job_city": "Waltham Office",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Staff-Research-Scientist_R2027",
+    "job_posted_at_datetime_utc": "2026-04-10T00:47:02.392Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5ea216bfa9dfd011e85e193171b5e97ef347dbc5f749993d1005a9706cb2c5e7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "machine learning",
+        "multimodal",
+        "python",
+        "pytorch",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "As a VLA Research Scientist on the Atlas team, you will architect, train, and deploy the large-scale behavior models that enable high-performance dexterous manipulation on Atlas.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T00:47:02.392Z"
@@ -9147,48 +9202,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T19:54:59.000Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01347700",
-    "job_title": "Associate Research Scientist - Cell and Gene Therapy",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Middleton",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Associate-Research-Scientist---Cell-and-Gene-Therapy_R-01347700",
-    "job_posted_at_datetime_utc": "2026-04-09T19:40:14.156Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c64172d4c994b056a25a0107dd84e61ec461ac62c8f53bf8294dc063b3347e98",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "gmp",
-        "good manufacturing",
-        "http",
-        "project management",
-        "root cause analysis"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Work Schedule First Shift (Days) Environmental Conditions Adherence to all Good Manufacturing Practices (GMP) Safety Standards, Laboratory Setting, Office Job Description This is a fully onsite role b…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T19:40:14.156Z"
   }
 ]
