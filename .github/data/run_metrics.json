@@ -1,8 +1,9 @@
 {
-  "timestamp": "2026-04-16T19:45:25.000Z",
-  "all_jobs_version": "1a9a542d08b0928f7795a7456ba8253681e4e652",
-  "total_fetched": 38610,
-  "after_14day_filter": 13920,
-  "after_tag_filter": 186,
-  "final_count": 186
+  "timestamp": "2026-04-16T20:00:25.545Z",
+  "all_jobs_version": "38574f6b76cebb5d1f69c04c02c1e86970f5f22b",
+  "total_fetched": 0,
+  "after_14day_filter": 0,
+  "after_tag_filter": 0,
+  "final_count": 0,
+  "error": "HTTP 429: Too Many Requests"
 }
