@@ -2980,164 +2980,6 @@
     "job_posted_at": "2026-04-14T07:22:20.883Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0237762",
-    "job_title": "Software Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Charlottesville",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charlottesville-VA/Software-Data-Engineer_R0237762",
-    "job_posted_at_datetime_utc": "2026-04-14T07:22:10.858Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a81bd0967568d0924c9f24d65e3aa7b19232d71c4cbaa35b5c65bbc097b83c1e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "amazon web services",
-        "aws",
-        "etl",
-        "helm",
-        "java",
-        "kubernetes",
-        "python",
-        "react",
-        "rust",
-        "s3",
-        "scrum",
-        "spring",
-        "terraform",
-        "typescript"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Software Data Engineer The Opportunity: Seeking a Software Data Engineer to support our D efense customer supporting the planning, managing, and executing operations across the electromagnetic spectru…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T07:22:10.858Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237702",
-    "job_title": "Databricks Platform Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Ashburn",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Ashburn-VA/Databricks-Platform-Engineer_R0237702",
-    "job_posted_at_datetime_utc": "2026-04-14T07:22:10.858Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6496b5497ea89afbb8efc4c6b52f7189cf8a6e046c7796e07aafebff40652c4b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "aws",
-        "azure",
-        "cloudformation",
-        "data architecture",
-        "data governance",
-        "data lake",
-        "data pipeline",
-        "data quality",
-        "data visualization",
-        "data warehouse",
-        "databricks",
-        "gcp",
-        "kafka",
-        "machine learning",
-        "mlflow",
-        "power bi",
-        "spark",
-        "sql",
-        "terraform"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Databricks Platform Engineer The Opportunity As a Databricks data engineer, you’ll use your skills to help implement data engineering activities on some of the most mission-driven projects in the indu…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T07:22:10.858Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237748",
-    "job_title": "Operations Research Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Langley AFB",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Langley-AFB-VA/Operations-Research-Analyst_R0237748",
-    "job_posted_at_datetime_utc": "2026-04-14T07:22:10.858Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5fe6a126577900bca79ba05f6414764817842acee3101f649f7732654f3bd160",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "data modeling",
-        "excel",
-        "matlab",
-        "python",
-        "r",
-        "reporting",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Operations Research Analyst The Opportunity : As an operations analyst, you’re passionate about exploring the root cause of an issue and then analyzing, reporting, and developing recommendations for a…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T07:22:10.858Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0237694",
     "job_title": "Data Scientist",
     "employer_name": "Booz Allen Hamilton",
@@ -3436,18 +3278,18 @@
     "job_posted_at": "2026-04-14T07:22:10.858Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0237794",
-    "job_title": "Data Engineer",
+    "job_id": "workday-booz-allen-hamilton-R0237762",
+    "job_title": "Software Data Engineer",
     "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
+    "job_city": "Charlottesville",
+    "job_state": "VA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Data-Engineer_R0237794",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charlottesville-VA/Software-Data-Engineer_R0237762",
     "job_posted_at_datetime_utc": "2026-04-14T07:22:10.858Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "0c582816b952038d2336690ba4ba03325c7b1020e62c9457cd30b6a7af1d2090",
+    "fingerprint": "a81bd0967568d0924c9f24d65e3aa7b19232d71c4cbaa35b5c65bbc097b83c1e",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3464,36 +3306,131 @@
     "enrichment": {
       "required_skills": [
         "agile",
-        "analytics",
+        "amazon web services",
         "aws",
-        "azure",
-        "bitbucket",
-        "databricks",
-        "elt",
         "etl",
-        "github",
-        "gitlab",
-        "google cloud",
-        "hadoop",
-        "hive",
+        "helm",
         "java",
-        "kafka",
-        "linux",
-        "machine learning",
+        "kubernetes",
         "python",
-        "reporting",
-        "scala",
-        "shell",
-        "shell scripting",
-        "spark",
-        "sql",
-        "unix"
+        "react",
+        "rust",
+        "s3",
+        "scrum",
+        "spring",
+        "terraform",
+        "typescript"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "Data Engineer The Opportunity : Ever-expanding technology like IoT, machine learning, and artifi cia l intelligence means that there’s more structured and unstructured data available today than ever b…",
+      "summary_line": "Software Data Engineer The Opportunity: Seeking a Software Data Engineer to support our D efense customer supporting the planning, managing, and executing operations across the electromagnetic spectru…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:22:10.858Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237702",
+    "job_title": "Databricks Platform Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Ashburn",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Ashburn-VA/Databricks-Platform-Engineer_R0237702",
+    "job_posted_at_datetime_utc": "2026-04-14T07:22:10.858Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6496b5497ea89afbb8efc4c6b52f7189cf8a6e046c7796e07aafebff40652c4b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "aws",
+        "azure",
+        "cloudformation",
+        "data architecture",
+        "data governance",
+        "data lake",
+        "data pipeline",
+        "data quality",
+        "data visualization",
+        "data warehouse",
+        "databricks",
+        "gcp",
+        "kafka",
+        "machine learning",
+        "mlflow",
+        "power bi",
+        "spark",
+        "sql",
+        "terraform"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Databricks Platform Engineer The Opportunity As a Databricks data engineer, you’ll use your skills to help implement data engineering activities on some of the most mission-driven projects in the indu…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:22:10.858Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237748",
+    "job_title": "Operations Research Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Langley AFB",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Langley-AFB-VA/Operations-Research-Analyst_R0237748",
+    "job_posted_at_datetime_utc": "2026-04-14T07:22:10.858Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5fe6a126577900bca79ba05f6414764817842acee3101f649f7732654f3bd160",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data modeling",
+        "excel",
+        "matlab",
+        "python",
+        "r",
+        "reporting",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Operations Research Analyst The Opportunity : As an operations analyst, you’re passionate about exploring the root cause of an issue and then analyzing, reporting, and developing recommendations for a…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T07:22:10.858Z"
@@ -9156,59 +9093,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T18:05:38.194Z"
-  },
-  {
-    "job_id": "sr-Intuitive-744000119667109",
-    "job_title": "Machine Learning Engineer",
-    "employer_name": "Intuitive",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.smartrecruiters.com/Intuitive/744000119667109",
-    "job_posted_at_datetime_utc": "2026-04-09T17:18:13.930Z",
-    "job_employment_type": "full-time",
-    "salary": null,
-    "fingerprint": "8c93dbef0ba7170d5157087720dbf59c839aef69ac7678cfe0d746b3ed1f63e9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "computer vision",
-        "data pipeline",
-        "deep learning",
-        "excel",
-        "machine learning",
-        "python",
-        "pytorch",
-        "robotics",
-        "scalability",
-        "shell",
-        "shell scripting",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "The Future Forward AI Research group within Intuitive Surgical has an immediate opening in Sunnyvale, CA for a Machine Learning Engineer with focus on Computer Vision, Deep Learning, Generative AI and…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T17:18:13.930Z"
   }
 ]
