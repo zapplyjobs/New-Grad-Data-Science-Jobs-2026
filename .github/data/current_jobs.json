@@ -1,5 +1,62 @@
 [
   {
+    "job_id": "workday-zoom-R17822",
+    "job_title": "AI Engineer",
+    "employer_name": "Zoom",
+    "job_city": "Seattle",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Software-Development-Engineer---Zoom-AI-API-Suite_R17822-1",
+    "job_posted_at_datetime_utc": "2026-04-16T03:52:40.331Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dbb30b24aa12dc0facbb6c31f798ee2fd5859799359b8bb97e1fbd90d95bc518",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T03:52:40.331Z"
+  },
+  {
+    "job_id": "workday-zoom-R18240",
+    "job_title": "Research Scientist",
+    "employer_name": "Zoom",
+    "job_city": "Seattle",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Research-Scientist_R18240-1",
+    "job_posted_at_datetime_utc": "2026-04-16T03:52:40.331Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6fbbbb56e2e9797c284702dbc1f445bda724b899dd2b555223ca2494d5f08377",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T03:52:40.331Z"
+  },
+  {
     "job_id": "amazon-1021853c-b3db-4fb1-8392-b5a488d5d964",
     "job_title": "Applied Scientist, Amazon Prime, Prime AI/ML Science",
     "employer_name": "Amazon.com Services LLC",
@@ -3412,6 +3469,35 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T13:20:41.860Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01348024",
+    "job_title": "Global Security Operations Center - Intelligence Analyst",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Waltham",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Waltham-Massachusetts-USA/Global-Security-Operations-Center---Intelligence-Analyst_R-01348024-1",
+    "job_posted_at_datetime_utc": "2026-04-14T03:51:59.896Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9af0342301e847620cdf7273552d9b760f0728168ae6499515525b0a68633f9f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T03:51:59.896Z"
   },
   {
     "job_id": "greenhouse-spacex-8391768002",
