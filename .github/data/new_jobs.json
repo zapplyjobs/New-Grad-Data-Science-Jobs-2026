@@ -1,5 +1,62 @@
 [
   {
+    "job_id": "workday-flir-systems-C20388",
+    "job_title": "Research Scientist",
+    "employer_name": "FLIR Systems",
+    "job_city": "Durham, NC",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Durham-NC-TDY/Research-Scientist---Neuroscience_C20388-1",
+    "job_posted_at_datetime_utc": "2026-04-16T18:56:42.735Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1001470d50e2a2290a9b5da62f3c8995a04f4c59765fd9eb059a74b542522d08",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T18:56:42.735Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237971",
+    "job_title": "Enterprise Cybersecurity Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Data-Scientist_R0237971",
+    "job_posted_at_datetime_utc": "2026-04-16T18:55:54.164Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "db015d8d4f9e843a79909b94bd56c5a4fdfe1689915acbe9f2ae065bf9b193be",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T18:55:54.164Z"
+  },
+  {
     "job_id": "workday-caterpillar-R0000363098",
     "job_title": "Data Scientist - Procurement Operations",
     "employer_name": "Caterpillar",
@@ -25,6 +82,22 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "dashboards",
+        "machine learning",
+        "power bi",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Career Area: Technology, Digital and Data Job Description: Your Work Shapes the World at Caterpillar Inc.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-16T18:41:59.288Z"
   },
   {
@@ -925,6 +998,19 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "continuous deployment",
+        "data analysis",
+        "machine learning"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Basic Qualifications: - Bachelor's degree or above in Science, Technology, Engineering, or Mathematics (STEM) - 3+ years of machine learning/statistical modeling data analysis tools and techniques - E…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-16T00:00:00.000Z"
   },
   {
@@ -976,6 +1062,37 @@
       "summary_line": "Basic Qualifications: - Master's degree in computer science, mathematics, statistics, machine learning or equivalent quantitative field - Experience programming in Java, C++, Python or related languag…",
       "is_remote": false
     },
+    "job_posted_at": "2026-04-16T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-adf7ee93-6cfc-4c25-9a30-7e763f76a92d",
+    "job_title": "Applied Scientist, Amazon Private Brands",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10394064/applied-scientist-amazon-private-brands",
+    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f26fd22c47f168e1591a261310ba42002212163b95b29e15eb2f29a18e48f891",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
     "job_posted_at": "2026-04-16T00:00:00.000Z"
   },
   {
@@ -4936,48 +5053,6 @@
     "job_posted_at": "2026-04-13T18:57:47.418Z"
   },
   {
-    "job_id": "greenhouse-kikoff-4209451009",
-    "job_title": "Marketing Data Scientist",
-    "employer_name": "Kikoff",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/kikoff/jobs/4209451009",
-    "job_posted_at_datetime_utc": "2026-04-13T18:29:53.006Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "201a08d7cd0014199b7b3200f874a8932abad5b48028eb2eac8770829bcab5f7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "data science",
-        "python",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "2+ years in data science or analytics, with at least 2 years in marketing or growth contexts   Expert SQL and strong Python; deep familiarity with experimentation design and causal inference methods  ",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T18:29:53.006Z"
-  },
-  {
     "job_id": "greenhouse-kikoff-4157504009",
     "job_title": "Data Scientist",
     "employer_name": "Kikoff",
@@ -5018,6 +5093,48 @@
       "possible_sponsor": true,
       "is_simple_apply": true,
       "summary_line": "Bachelors’ or above in quantitative discipline: Statistics, Applied Mathematics, Economics, Computer Science, Engineering, or related field     A minimum of 2 years of work experience in analytics    ",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T18:29:53.006Z"
+  },
+  {
+    "job_id": "greenhouse-kikoff-4209451009",
+    "job_title": "Marketing Data Scientist",
+    "employer_name": "Kikoff",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/kikoff/jobs/4209451009",
+    "job_posted_at_datetime_utc": "2026-04-13T18:29:53.006Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "201a08d7cd0014199b7b3200f874a8932abad5b48028eb2eac8770829bcab5f7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data science",
+        "python",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "2+ years in data science or analytics, with at least 2 years in marketing or growth contexts   Expert SQL and strong Python; deep familiarity with experimentation design and causal inference methods  ",
       "is_remote": false
     },
     "job_posted_at": "2026-04-13T18:29:53.006Z"
@@ -9073,156 +9190,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T19:15:55.014Z"
-  },
-  {
-    "job_id": "sr-Visa-744000119685442",
-    "job_title": "Data Scientist, Predictive Fraud Intelligence",
-    "employer_name": "Visa",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.smartrecruiters.com/Visa/744000119685442",
-    "job_posted_at_datetime_utc": "2026-04-09T19:12:04.286Z",
-    "job_employment_type": "full-time",
-    "salary": null,
-    "fingerprint": "99a40e6a2976971a8d067f5b6bcd565cfe84b3b7445fdbcd34112bf94bde86f2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science",
-        "finance"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "computer science",
-        "data science",
-        "deep learning",
-        "feature engineering",
-        "hadoop",
-        "hive",
-        "llm",
-        "machine learning",
-        "python",
-        "spark",
-        "sql",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "As part of Visa Predictive Fraud Intelligence team (PFI), you will leverage cutting-edge technologies to perform statistical profiling, inference, classification, clustering and predictive analysis.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T19:12:04.286Z"
-  },
-  {
-    "job_id": "greenhouse-reddit-7793615",
-    "job_title": "Machine Learning Engineer",
-    "employer_name": "Reddit",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/reddit/jobs/7793615",
-    "job_posted_at_datetime_utc": "2026-04-09T19:02:36.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ec24862349febe2e26a4406e25e840c51cf4f603c9b7bf0f3d38f3791f17c526",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "aws",
-        "computer science",
-        "data science",
-        "docker",
-        "google cloud",
-        "google cloud platform",
-        "https",
-        "kubeflow",
-        "kubernetes",
-        "machine learning",
-        "natural language processing",
-        "pandas",
-        "python",
-        "pytorch",
-        "sql",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Reddit is a community of communities.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T19:02:36.000Z"
-  },
-  {
-    "job_id": "ashby-handshake-febd5f62-4394-47de-851f-2fb0e884fca0",
-    "job_title": "Machine Learning PhDs - AI Trainer",
-    "employer_name": "Handshake",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/handshake/febd5f62-4394-47de-851f-2fb0e884fca0/application",
-    "job_posted_at_datetime_utc": "2026-04-09T19:01:59.383Z",
-    "job_employment_type": "Contract",
-    "salary": null,
-    "fingerprint": "6eac8a5134d06c4d2a5fdda9b7016f1f44a6634fa0e4a262f473ef712a78c98f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "https",
-        "machine learning"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": null,
-      "is_simple_apply": true,
-      "summary_line": "Qualifications  We're looking for people who have:   - A current enrollment in or a completed PhD in machine learning or a closely related field   - Deep expertise in at least one area of machine lear…",
-      "is_remote": true
-    },
-    "job_posted_at": "2026-04-09T19:01:59.383Z"
   }
 ]
