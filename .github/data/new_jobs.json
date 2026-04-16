@@ -26,6 +26,32 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "aws",
+        "azure",
+        "ci/cd",
+        "computer science",
+        "data pipeline",
+        "data science",
+        "deep learning",
+        "docker",
+        "etl",
+        "gcp",
+        "kubernetes",
+        "llm",
+        "machine learning",
+        "nlp",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Consultant ML Engineer Data Science is all about breaking new ground to enable businesses to answer their most urgent questions.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-16T21:49:20.846Z"
   },
   {
@@ -1841,6 +1867,26 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "business intelligence",
+        "dashboards",
+        "data modeling",
+        "data visualization",
+        "power bi",
+        "python",
+        "r",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Are you ready to transform data into decisions?",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-15T23:00:00.000Z"
   },
   {
