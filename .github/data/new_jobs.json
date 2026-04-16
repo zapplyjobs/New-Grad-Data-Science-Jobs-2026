@@ -1821,48 +1821,6 @@
     "job_posted_at": "2026-04-15T03:27:28.371Z"
   },
   {
-    "job_id": "workday-leidos-R-00180334",
-    "job_title": "Intelligence Analyst",
-    "employer_name": "Leidos",
-    "job_city": "Marysville",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Marysville-CA/Intelligence-Analyst_R-00180334-1",
-    "job_posted_at_datetime_utc": "2026-04-15T01:00:47.553Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d14a6d9567fff7392ad8f1654a7a64374dcfec071c936474ecffb646659a4f8a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "confluence",
-        "excel",
-        "jira",
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Accelerate Your Career in National Security with Leidos!",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T01:00:47.553Z"
-  },
-  {
     "job_id": "amazon-44271877-1e74-41de-b6fa-ec39bdaacaa5",
     "job_title": "Data Engineer, PXT PeopleInsight",
     "employer_name": "Amazon.com Services LLC",
@@ -2206,61 +2164,6 @@
     "job_posted_at": "2026-04-14T21:21:04.660Z"
   },
   {
-    "job_id": "workday-guidehouse-38181",
-    "job_title": "Data Scientist",
-    "employer_name": "Guidehouse",
-    "job_city": "VA, Arlington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Data-Scientist_38181",
-    "job_posted_at_datetime_utc": "2026-04-14T21:04:53.007Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "370625cf7d0ee9d6593dc3d7d7615272e91330b9e03ead867a40784786082fe1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "azure",
-        "data governance",
-        "data integration",
-        "data science",
-        "data visualization",
-        "databricks",
-        "elt",
-        "etl",
-        "excel",
-        "microsoft sql server",
-        "power bi",
-        "process improvement",
-        "project management",
-        "snowflake",
-        "sql",
-        "sql server"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Family : Data Science Consulting Travel Required : Up to 10% Clearance Required : Ability to Obtain Public Trust What You Will Do : Guidehouse is seeking a Data Scientist to join our AI & Data Def…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T21:04:53.007Z"
-  },
-  {
     "job_id": "ashby-snowflake-71a365de-a30e-496c-beaa-422722e0dc62",
     "job_title": "Analyst, Finance Analytics & AI",
     "employer_name": "Snowflake",
@@ -2370,48 +2273,6 @@
     "job_posted_at": "2026-04-14T19:42:10.360Z"
   },
   {
-    "job_id": "workday-nvidia-JR2010010",
-    "job_title": "Research Scientist, Circuits - PhD New College Grad 2026",
-    "employer_name": "NVIDIA",
-    "job_city": "US CA Santa Clara",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Research-Scientist--Circuits---New-College-Grad-2026_JR2010010",
-    "job_posted_at_datetime_utc": "2026-04-14T19:07:25.448Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dbce8d9400dcfda879dbdc880f2b0b315adc7027ca0cdbd722224b0e6acdcaeb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "photonics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "We are now looking for a Research Scientist for Circuits.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T19:07:25.448Z"
-  },
-  {
     "job_id": "workday-caci-324870",
     "job_title": "Data Analytics/Reporting SME",
     "employer_name": "CACI",
@@ -2465,56 +2326,6 @@
       "is_remote": true
     },
     "job_posted_at": "2026-04-14T18:32:29.231Z"
-  },
-  {
-    "job_id": "workday-guidehouse-38439",
-    "job_title": "Data Analyst",
-    "employer_name": "Guidehouse",
-    "job_city": "US VA Arlington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Data-Analyst_38439",
-    "job_posted_at_datetime_utc": "2026-04-14T16:45:28.409Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "91cb35a4536cc05c067ba1529aa9ca7d24d1938089593d4a0429818ef6a10547",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "azure",
-        "data analysis",
-        "data science",
-        "data visualization",
-        "databricks",
-        "machine learning",
-        "power bi",
-        "python",
-        "qlik",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Family : Data Engineering & Architecture Consulting, Data Science Consulting Travel Required : Up to 10% Clearance Required : Ability to Obtain Public Trust What You Will Do : The Guidehouse Techn…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T16:45:28.409Z"
   },
   {
     "job_id": "workday-caci-324869",
@@ -2626,196 +2437,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T16:33:58.192Z"
-  },
-  {
-    "job_id": "workday-workday-inc-JR-0103116",
-    "job_title": "Prism Reporting & Analytics Consultant",
-    "employer_name": "Workday Inc",
-    "job_city": "GA Atlanta",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Senior-Reporting-and-Analytics-Consultant---Prism_JR-0103116",
-    "job_posted_at_datetime_utc": "2026-04-14T16:21:31.693Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "955bd33b369208658160f59eaff5ecc57cf5fec89208036bf9d772b6f4e137d1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "api",
-        "data governance",
-        "data modeling",
-        "reporting",
-        "workday"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Your work days are brighter here.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T16:21:31.693Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00180212",
-    "job_title": "Journeyman Data Engineer",
-    "employer_name": "Leidos",
-    "job_city": "Alexandria",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Journeyman-Data-Engineer_R-00180212",
-    "job_posted_at_datetime_utc": "2026-04-14T16:19:31.592Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "45f954709e0f7c7a91f17fd4f0e729253140d73f8b274ee0577768e03c053f7c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "airflow",
-        "analytics",
-        "api",
-        "aws",
-        "azure",
-        "ci/cd",
-        "computer science",
-        "data governance",
-        "data pipeline",
-        "data science",
-        "devsecops",
-        "docker",
-        "elt",
-        "etl",
-        "feature engineering",
-        "gcp",
-        "java",
-        "kafka",
-        "kubernetes",
-        "python",
-        "spark"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "This Department of War enterprise data and analytics program delivers mission-critical capabilities that enable leaders across the Department to make faster, better-informed decisions using trusted da…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T16:19:31.592Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01343632",
-    "job_title": "Research Scientist - Bioanalytical R&D - LCMS",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Richmond",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Richmond-Virginia-USA/Research-Scientist_R-01343632-1",
-    "job_posted_at_datetime_utc": "2026-04-14T16:09:49.029Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c82c0da5033ba901998dec0ed9868501201bcbd1fe903bd4abccf8d55ec5ce10",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "fda",
-        "gmp",
-        "good manufacturing",
-        "http",
-        "project management",
-        "reporting",
-        "root cause analysis"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Work Schedule Standard (Mon-Fri) Environmental Conditions Laboratory Setting Job Description Position : Research Scientist Location : Richmond, VA - 8700 Quioccasin Road Department: Chromatography Sci…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T16:09:49.029Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01339929",
-    "job_title": "Research Scientist - Bioanalytical R&D - LCMS",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Richmond",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Richmond-Virginia-USA/Research-Scientist---Bioanalytical-R-D---LCMS_R-01339929",
-    "job_posted_at_datetime_utc": "2026-04-14T16:09:49.029Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c82c0da5033ba901998dec0ed9868501201bcbd1fe903bd4abccf8d55ec5ce10",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "capa",
-        "project management",
-        "root cause analysis"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Work Schedule Standard (Mon-Fri) Environmental Conditions Laboratory Setting, Office, Some degree of PPE (Personal Protective Equipment) required (safety glasses, gowning, gloves, lab coat, ear plugs…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T16:09:49.029Z"
   },
   {
     "job_id": "workday-capital-one-R240349",
@@ -3540,6 +3161,136 @@
     "job_posted_at": "2026-04-14T14:06:51.950Z"
   },
   {
+    "job_id": "workday-workday-inc-JR-0103116",
+    "job_title": "Prism Reporting & Analytics Consultant",
+    "employer_name": "Workday Inc",
+    "job_city": "GA Atlanta",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Senior-Reporting-and-Analytics-Consultant---Prism_JR-0103116",
+    "job_posted_at_datetime_utc": "2026-04-14T07:03:08.099Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "955bd33b369208658160f59eaff5ecc57cf5fec89208036bf9d772b6f4e137d1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "api",
+        "data governance",
+        "data modeling",
+        "reporting",
+        "workday"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Your work days are brighter here.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:03:08.099Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01343632",
+    "job_title": "Research Scientist - Bioanalytical R&D - LCMS",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Richmond",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Richmond-Virginia-USA/Research-Scientist_R-01343632-1",
+    "job_posted_at_datetime_utc": "2026-04-14T07:02:20.891Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c82c0da5033ba901998dec0ed9868501201bcbd1fe903bd4abccf8d55ec5ce10",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "fda",
+        "gmp",
+        "good manufacturing",
+        "http",
+        "project management",
+        "reporting",
+        "root cause analysis"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Work Schedule Standard (Mon-Fri) Environmental Conditions Laboratory Setting Job Description Position : Research Scientist Location : Richmond, VA - 8700 Quioccasin Road Department: Chromatography Sci…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:02:20.891Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01339929",
+    "job_title": "Research Scientist - Bioanalytical R&D - LCMS",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Richmond",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Richmond-Virginia-USA/Research-Scientist---Bioanalytical-R-D---LCMS_R-01339929",
+    "job_posted_at_datetime_utc": "2026-04-14T07:02:20.891Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c82c0da5033ba901998dec0ed9868501201bcbd1fe903bd4abccf8d55ec5ce10",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "capa",
+        "project management",
+        "root cause analysis"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Work Schedule Standard (Mon-Fri) Environmental Conditions Laboratory Setting, Office, Some degree of PPE (Personal Protective Equipment) required (safety glasses, gowning, gloves, lab coat, ear plugs…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:02:20.891Z"
+  },
+  {
     "job_id": "workday-rtx-01837185",
     "job_title": "Manufacturing Data Analytics Engineer",
     "employer_name": "RTX",
@@ -3548,7 +3299,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Manufacturing-Data-Analytics-Engineer_01837185",
-    "job_posted_at_datetime_utc": "2026-04-14T13:20:41.860Z",
+    "job_posted_at_datetime_utc": "2026-04-14T07:01:59.789Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "11c4b1aded5a33db262d5088e99b2b69d08beeb2be4c947934787b1381dad689",
@@ -3594,25 +3345,66 @@
       "summary_line": "Date Posted: 2026-04-14 Country: United States of America Location: US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 Position Role Type: Onsite U.S.",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-14T13:20:41.860Z"
+    "job_posted_at": "2026-04-14T07:01:59.789Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01348024",
-    "job_title": "Global Security Operations Center - Intelligence Analyst",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Waltham",
+    "job_id": "workday-nvidia-JR2010010",
+    "job_title": "Research Scientist, Circuits - PhD New College Grad 2026",
+    "employer_name": "NVIDIA",
+    "job_city": "US CA Santa Clara",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Waltham-Massachusetts-USA/Global-Security-Operations-Center---Intelligence-Analyst_R-01348024-1",
-    "job_posted_at_datetime_utc": "2026-04-14T03:51:59.896Z",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Research-Scientist--Circuits---New-College-Grad-2026_JR2010010",
+    "job_posted_at_datetime_utc": "2026-04-14T07:01:27.720Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "9af0342301e847620cdf7273552d9b760f0728168ae6499515525b0a68633f9f",
+    "fingerprint": "dbce8d9400dcfda879dbdc880f2b0b315adc7027ca0cdbd722224b0e6acdcaeb",
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "faang"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "photonics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "We are now looking for a Research Scientist for Circuits.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:01:27.720Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00180334",
+    "job_title": "Intelligence Analyst",
+    "employer_name": "Leidos",
+    "job_city": "Marysville",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Marysville-CA/Intelligence-Analyst_R-00180334-1",
+    "job_posted_at_datetime_utc": "2026-04-14T07:00:58.430Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d14a6d9567fff7392ad8f1654a7a64374dcfec071c936474ecffb646659a4f8a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
         "data_science"
       ],
       "locations": [
@@ -3625,17 +3417,184 @@
     "_original_source": "workday",
     "enrichment": {
       "required_skills": [
-        "https",
-        "microsoft office"
+        "confluence",
+        "excel",
+        "jira",
+        "reporting"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "Work Schedule Weekend nights Environmental Conditions Office Job Description As part of the Thermo Fisher Scientific team, you’ll discover meaningful work that makes a positive impact on a global scal…",
+      "summary_line": "Accelerate Your Career in National Security with Leidos!",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-14T03:51:59.896Z"
+    "job_posted_at": "2026-04-14T07:00:58.430Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00180212",
+    "job_title": "Journeyman Data Engineer",
+    "employer_name": "Leidos",
+    "job_city": "Alexandria",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Journeyman-Data-Engineer_R-00180212",
+    "job_posted_at_datetime_utc": "2026-04-14T07:00:58.429Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "45f954709e0f7c7a91f17fd4f0e729253140d73f8b274ee0577768e03c053f7c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "airflow",
+        "analytics",
+        "api",
+        "aws",
+        "azure",
+        "ci/cd",
+        "computer science",
+        "data governance",
+        "data pipeline",
+        "data science",
+        "devsecops",
+        "docker",
+        "elt",
+        "etl",
+        "feature engineering",
+        "gcp",
+        "java",
+        "kafka",
+        "kubernetes",
+        "python",
+        "spark"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "This Department of War enterprise data and analytics program delivers mission-critical capabilities that enable leaders across the Department to make faster, better-informed decisions using trusted da…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:00:58.429Z"
+  },
+  {
+    "job_id": "workday-guidehouse-38181",
+    "job_title": "Data Scientist",
+    "employer_name": "Guidehouse",
+    "job_city": "VA, Arlington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Data-Scientist_38181",
+    "job_posted_at_datetime_utc": "2026-04-14T07:00:25.013Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "370625cf7d0ee9d6593dc3d7d7615272e91330b9e03ead867a40784786082fe1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "azure",
+        "data governance",
+        "data integration",
+        "data science",
+        "data visualization",
+        "databricks",
+        "elt",
+        "etl",
+        "excel",
+        "microsoft sql server",
+        "power bi",
+        "process improvement",
+        "project management",
+        "snowflake",
+        "sql",
+        "sql server"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Family : Data Science Consulting Travel Required : Up to 10% Clearance Required : Ability to Obtain Public Trust What You Will Do : Guidehouse is seeking a Data Scientist to join our AI & Data Def…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:00:25.013Z"
+  },
+  {
+    "job_id": "workday-guidehouse-38439",
+    "job_title": "Data Analyst",
+    "employer_name": "Guidehouse",
+    "job_city": "US VA Arlington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Data-Analyst_38439",
+    "job_posted_at_datetime_utc": "2026-04-14T07:00:25.013Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "91cb35a4536cc05c067ba1529aa9ca7d24d1938089593d4a0429818ef6a10547",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "azure",
+        "data analysis",
+        "data science",
+        "data visualization",
+        "databricks",
+        "machine learning",
+        "power bi",
+        "python",
+        "qlik",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Family : Data Engineering & Architecture Consulting, Data Science Consulting Travel Required : Up to 10% Clearance Required : Ability to Obtain Public Trust What You Will Do : The Guidehouse Techn…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:00:25.013Z"
   },
   {
     "job_id": "greenhouse-spacex-8391768002",
@@ -4616,51 +4575,6 @@
     "job_posted_at": "2026-04-13T13:03:00.000Z"
   },
   {
-    "job_id": "workday-hitachi-R0126424",
-    "job_title": "Power Systems Research Scientist",
-    "employer_name": "Hitachi",
-    "job_city": "Santa Clara",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Power-Systems-Research-Scientist_R0126424-1",
-    "job_posted_at_datetime_utc": "2026-04-13T07:21:55.351Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "de879bddd987b35a26ea8370f3e025ca49f002367c10cb43648df3beebe6bc9e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "html",
-        "http",
-        "https",
-        "matlab",
-        "python",
-        "simulink"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Location: Santa Clara, California, United States Job ID: R0126424 Date Posted: 2026-04-13 Company Name: HITACHI AMERICA, LTD.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T07:21:55.351Z"
-  },
-  {
     "job_id": "workday-intel-JR0282890",
     "job_title": "Foundry Automation ML Engineer",
     "employer_name": "Intel",
@@ -4719,68 +4633,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-13T07:21:50.465Z"
-  },
-  {
-    "job_id": "workday-guidehouse-38389",
-    "job_title": "AI/ML Data Scientist",
-    "employer_name": "Guidehouse",
-    "job_city": "US VA Arlington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/AI-ML-Data-Scientist_38389",
-    "job_posted_at_datetime_utc": "2026-04-13T07:21:46.977Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8ecbb528bc56a869c25c0bb9b99589527182d449e38ae2c0854d1e5f576fe3a6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "api",
-        "aws",
-        "computer science",
-        "dashboards",
-        "data lake",
-        "data science",
-        "databricks",
-        "machine learning",
-        "multimodal",
-        "natural language processing",
-        "nlp",
-        "pandas",
-        "python",
-        "pytorch",
-        "reporting",
-        "s3",
-        "scikit-learn",
-        "spark",
-        "sql",
-        "statistics",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Family : Data Science Consulting Travel Required : Up to 25% Clearance Required : Ability to Obtain Public Trust What You Will Do : Partner with stakeholders to define and deliver AI/analytics use…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T07:21:46.977Z"
   },
   {
     "job_id": "workday-flir-systems-REQ20046",
@@ -5191,6 +5043,47 @@
     "job_posted_at": "2026-04-13T07:20:18.228Z"
   },
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01348024",
+    "job_title": "Global Security Operations Center - Intelligence Analyst",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Waltham",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Waltham-Massachusetts-USA/Global-Security-Operations-Center---Intelligence-Analyst_R-01348024-1",
+    "job_posted_at_datetime_utc": "2026-04-13T07:02:20.892Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9af0342301e847620cdf7273552d9b760f0728168ae6499515525b0a68633f9f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "https",
+        "microsoft office"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Work Schedule Weekend nights Environmental Conditions Office Job Description As part of the Thermo Fisher Scientific team, you’ll discover meaningful work that makes a positive impact on a global scal…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T07:02:20.892Z"
+  },
+  {
     "job_id": "workday-the-hartford-R2624916",
     "job_title": "Data Scientist Economist",
     "employer_name": "The Hartford",
@@ -5343,6 +5236,51 @@
     "job_posted_at": "2026-04-13T07:00:48.462Z"
   },
   {
+    "job_id": "workday-hitachi-R0126424",
+    "job_title": "Power Systems Research Scientist",
+    "employer_name": "Hitachi",
+    "job_city": "Santa Clara",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Power-Systems-Research-Scientist_R0126424-1",
+    "job_posted_at_datetime_utc": "2026-04-13T07:00:30.745Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "de879bddd987b35a26ea8370f3e025ca49f002367c10cb43648df3beebe6bc9e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "html",
+        "http",
+        "https",
+        "matlab",
+        "python",
+        "simulink"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Location: Santa Clara, California, United States Job ID: R0126424 Date Posted: 2026-04-13 Company Name: HITACHI AMERICA, LTD.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T07:00:30.745Z"
+  },
+  {
     "job_id": "workday-leidos-R-00180663",
     "job_title": "Journeyman Data Analyst",
     "employer_name": "Leidos",
@@ -5452,6 +5390,68 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-13T07:00:25.402Z"
+  },
+  {
+    "job_id": "workday-guidehouse-38389",
+    "job_title": "AI/ML Data Scientist",
+    "employer_name": "Guidehouse",
+    "job_city": "US VA Arlington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/AI-ML-Data-Scientist_38389",
+    "job_posted_at_datetime_utc": "2026-04-13T07:00:25.014Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8ecbb528bc56a869c25c0bb9b99589527182d449e38ae2c0854d1e5f576fe3a6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "api",
+        "aws",
+        "computer science",
+        "dashboards",
+        "data lake",
+        "data science",
+        "databricks",
+        "machine learning",
+        "multimodal",
+        "natural language processing",
+        "nlp",
+        "pandas",
+        "python",
+        "pytorch",
+        "reporting",
+        "s3",
+        "scikit-learn",
+        "spark",
+        "sql",
+        "statistics",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Family : Data Science Consulting Travel Required : Up to 25% Clearance Required : Ability to Obtain Public Trust What You Will Do : Partner with stakeholders to define and deliver AI/analytics use…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T07:00:25.014Z"
   },
   {
     "job_id": "workday-micron-JR96229",
@@ -6070,47 +6070,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-11T03:17:24.541Z"
-  },
-  {
-    "job_id": "workday-kbr-R2121585",
-    "job_title": "Intelligence Analyst – All Source Intelligence",
-    "employer_name": "KBR",
-    "job_city": "Beavercreek",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Intelligence-Analyst---All-Source-Intelligence_R2121585",
-    "job_posted_at_datetime_utc": "2026-04-10T23:03:51.162Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "470211341afb4f34532e0ed96e405329abd7bb9de1313b20ffadccee02960102",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cybersecurity",
-        "program management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Title: Intelligence Analyst – All Source Intelligence Belong.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T23:03:51.162Z"
   },
   {
     "job_id": "sr-Intuitive-744000120063898",
@@ -7260,58 +7219,45 @@
     "job_posted_at": "2026-04-10T07:00:54.791Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-068672",
-    "job_title": "Experienced Statistical Programmer",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "2 Locations",
+    "job_id": "workday-kbr-R2121585",
+    "job_title": "Intelligence Analyst – All Source Intelligence",
+    "employer_name": "KBR",
+    "job_city": "Beavercreek",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Experienced-Statistical-Programmer_R-068672-1",
-    "job_posted_at_datetime_utc": "2026-04-10T07:00:33.080Z",
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Intelligence-Analyst---All-Source-Intelligence_R2121585",
+    "job_posted_at_datetime_utc": "2026-04-10T07:00:51.212Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "63d0d0eb03ad5c773432136f6157b60625251e45243d1222091dd7e46a0ce5c1",
+    "fingerprint": "470211341afb4f34532e0ed96e405329abd7bb9de1313b20ffadccee02960102",
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "data_science"
+        "data_science",
+        "operations"
       ],
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "senior_level",
       "special": []
     },
     "_source": "aggregator",
     "_original_source": "workday",
     "enrichment": {
       "required_skills": [
-        "analytics",
-        "computer science",
-        "data modeling",
-        "data quality",
-        "data science",
-        "gcp",
-        "https",
-        "less",
-        "process improvement",
-        "project management",
-        "python",
-        "r",
-        "reporting",
-        "spring",
-        "statistical analysis",
-        "statistics"
+        "cybersecurity",
+        "program management"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal.",
+      "summary_line": "Title: Intelligence Analyst – All Source Intelligence Belong.",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-10T07:00:33.080Z"
+    "job_posted_at": "2026-04-10T07:00:51.212Z"
   },
   {
     "job_id": "workday-kla-2635292",
@@ -7356,6 +7302,60 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T07:00:22.928Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-068672",
+    "job_title": "Experienced Statistical Programmer",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Experienced-Statistical-Programmer_R-068672-1",
+    "job_posted_at_datetime_utc": "2026-04-10T07:00:19.017Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "63d0d0eb03ad5c773432136f6157b60625251e45243d1222091dd7e46a0ce5c1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "data modeling",
+        "data quality",
+        "data science",
+        "gcp",
+        "https",
+        "less",
+        "process improvement",
+        "project management",
+        "python",
+        "r",
+        "reporting",
+        "spring",
+        "statistical analysis",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:00:19.017Z"
   },
   {
     "job_id": "workday-johnson-&-johnson-R-065345",
@@ -7503,51 +7503,6 @@
     "job_posted_at": "2026-04-10T00:47:02.393Z"
   },
   {
-    "job_id": "workday-boston-dynamics-R2027",
-    "job_title": "Research Scientist, VLA Models - Atlas",
-    "employer_name": "Boston Dynamics",
-    "job_city": "Waltham Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Staff-Research-Scientist_R2027",
-    "job_posted_at_datetime_utc": "2026-04-10T00:47:02.392Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5ea216bfa9dfd011e85e193171b5e97ef347dbc5f749993d1005a9706cb2c5e7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "machine learning",
-        "multimodal",
-        "python",
-        "pytorch",
-        "robotics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "As a VLA Research Scientist on the Atlas team, you will architect, train, and deploy the large-scale behavior models that enable high-performance dexterous manipulation on Atlas.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T00:47:02.392Z"
-  },
-  {
     "job_id": "workday-boston-dynamics-R2182",
     "job_title": "Teleoperations Research Engineer, Atlas",
     "employer_name": "Boston Dynamics",
@@ -7631,6 +7586,51 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Are you passionate about using machine learning to drive robot behavior?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T00:47:02.392Z"
+  },
+  {
+    "job_id": "workday-boston-dynamics-R2027",
+    "job_title": "Research Scientist, VLA Models - Atlas",
+    "employer_name": "Boston Dynamics",
+    "job_city": "Waltham Office",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Staff-Research-Scientist_R2027",
+    "job_posted_at_datetime_utc": "2026-04-10T00:47:02.392Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5ea216bfa9dfd011e85e193171b5e97ef347dbc5f749993d1005a9706cb2c5e7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "machine learning",
+        "multimodal",
+        "python",
+        "pytorch",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "As a VLA Research Scientist on the Atlas team, you will architect, train, and deploy the large-scale behavior models that enable high-performance dexterous manipulation on Atlas.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T00:47:02.392Z"
@@ -9310,332 +9310,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T09:42:05.138Z"
-  },
-  {
-    "job_id": "workday-dell-technologies-R287599",
-    "job_title": "Advisory AI Data Specialist (FDE Unit)",
-    "employer_name": "Dell Technologies",
-    "job_city": "Illinois, United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://dell.wd1.myworkdayjobs.com/External/job/Remote---Illinois-United-States/Advisory-AI-Data-Specialist--FDE-Unit-_R287599-1",
-    "job_posted_at_datetime_utc": "2026-04-09T07:04:20.309Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "95c9f321d5c3cce00071e94a10c76d05188180eaafdaf7260218b623a117e2a9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "computer science",
-        "data governance",
-        "data integration",
-        "data pipeline",
-        "elt",
-        "etl",
-        "rag"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Within the Forward Deployment Engineering (FDE) Unit , the Advisory AI Data Specialist is the data expert who makes customer data ready for AI and GenAI workloads.",
-      "is_remote": true
-    },
-    "job_posted_at": "2026-04-09T07:04:20.309Z"
-  },
-  {
-    "job_id": "workday-crowdstrike-R28144",
-    "job_title": "Data Engineer, Go To Market (Remote)",
-    "employer_name": "CrowdStrike",
-    "job_city": "Remote",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Data-Engineer--Sales-Data-Domain--Remote-_R28144",
-    "job_posted_at_datetime_utc": "2026-04-09T07:04:13.143Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "590fe18df19c150c78a4a8c2919b0ecb4274ec6e584d5a9b558d21cdde67a4a6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "airflow",
-        "analytics",
-        "apache",
-        "apache airflow",
-        "ci/cd",
-        "computer science",
-        "crm",
-        "cybersecurity",
-        "data integration",
-        "data lake",
-        "data modeling",
-        "data quality",
-        "data science",
-        "dbt",
-        "github",
-        "gitlab",
-        "gitlab ci",
-        "jenkins",
-        "machine learning",
-        "python",
-        "redshift",
-        "salesforce",
-        "snowflake",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations.",
-      "is_remote": true
-    },
-    "job_posted_at": "2026-04-09T07:04:13.143Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237497",
-    "job_title": "All-Source Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0237497",
-    "job_posted_at_datetime_utc": "2026-04-09T07:03:52.797Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "011be940a51462409046acbe704d7034f9583de06039991e541d2a0fc60cb032",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "All-Source Intelligence Analyst The Opportunity: Do you find yourself constantly looking for more and better information?",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:03:52.797Z"
-  },
-  {
-    "job_id": "workday-caci-318528",
-    "job_title": "Expert Geospatial Intelligence Analyst",
-    "employer_name": "CACI",
-    "job_city": "US NC Fort Bragg",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-NC-Fort-Bragg/Expert-Geospatial-Intelligence-Analyst_318528-1",
-    "job_posted_at_datetime_utc": "2026-04-09T07:03:43.577Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "883695239f12ad9f000caed639a33a9049ffd1263230b8f8b742905d1b7480e3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "electro-optical",
-        "java",
-        "lidar",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Title: Expert Geospatial Intelligence Analyst Job Category: Intelligence Time Type: Full time Minimum Clearance Required to Start: TS/SCI Employee Type: Regular Percentage of Travel Required: Up t…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:03:43.577Z"
-  },
-  {
-    "job_id": "workday-caci-324690",
-    "job_title": "ELINT/Radar Systems (Ground Surveillance)",
-    "employer_name": "CACI",
-    "job_city": "US VA Charlottesville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Charlottesville/ELINT-Radar-Systems--Ground-Surveillance-_324690",
-    "job_posted_at_datetime_utc": "2026-04-09T07:03:43.576Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1a759ab4485d1af9d4803370a606f266d93c9f3f63f8ead8321ff2e63fe2f1b2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "radar",
-        "signal processing"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Title: ELINT/Radar Systems (Ground Surveillance) Job Category: Engineering Time Type: Full time Minimum Clearance Required to Start: TS/SCI Employee Type: Regular Percentage of Travel Required: Up…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:03:43.576Z"
-  },
-  {
-    "job_id": "workday-thermo-fisher-scientific-R-01346937",
-    "job_title": "Associate Research Scientist - Small Molecule, Technical Project Manager (GMP)",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Middleton",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Middleton-Wisconsin-USA/Associate-Research-Scientist---Small-Molecule--Technical-Project-Manager--GMP-_R-01346937",
-    "job_posted_at_datetime_utc": "2026-04-09T07:02:31.143Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bce76b0957046faef99c9e5156e0d36686c253cddceca2ec29bc03c6bc166438",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "gmp",
-        "http",
-        "project management",
-        "root cause analysis"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description This is a fully onsite role based at our GMP Lab in Middleton, WI.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:02:31.143Z"
-  },
-  {
-    "job_id": "workday-philips-578461",
-    "job_title": "Solutions Specialist, Data Analytics (Nashville, TN or Cambridge, MA)",
-    "employer_name": "Philips",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Solutions-Specialist--Data-Analytics--Nashville--TN-or-Cambridge--MA-_578461",
-    "job_posted_at_datetime_utc": "2026-04-09T07:01:58.822Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c212fe499570aeb7ed1530e44ced0b6347c92b53d9fefe24374630c3802422fa",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "azure",
-        "azure devops",
-        "dashboards",
-        "data analysis",
-        "data governance",
-        "data integration",
-        "devops",
-        "power bi",
-        "project management",
-        "regression",
-        "reporting",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Title Solutions Specialist, Data Analytics (Nashville, TN or Cambridge, MA) Job Description The Solutions Specialist, Data Analytics supports end-to-end analytics and reporting solution activities…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T07:01:58.822Z"
   }
 ]
