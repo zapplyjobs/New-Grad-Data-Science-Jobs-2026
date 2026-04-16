@@ -147,55 +147,6 @@
     "job_posted_at": "2026-04-16T04:32:04.281Z"
   },
   {
-    "job_id": "workday-zoom-R18240",
-    "job_title": "Research Scientist",
-    "employer_name": "Zoom",
-    "job_city": "Seattle",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Research-Scientist_R18240-1",
-    "job_posted_at_datetime_utc": "2026-04-16T03:52:40.331Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6fbbbb56e2e9797c284702dbc1f445bda724b899dd2b555223ca2494d5f08377",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "distributed systems",
-        "hugging face",
-        "large language model",
-        "llm",
-        "machine learning",
-        "python",
-        "pytorch",
-        "reinforcement learning",
-        "transformers",
-        "zoom"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "What you can expect As a Research Scientist on Zoom’s GenAI Science Team, you will play a key role in advancing and applying large language model (LLM) research to enhance AI Companion features such a…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-16T03:52:40.331Z"
-  },
-  {
     "job_id": "workday-zoom-R17822",
     "job_title": "AI Engineer",
     "employer_name": "Zoom",
@@ -240,6 +191,55 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "What you can expect AI systems are rapidly evolving from single-model endpoints into intelligent agents capable of reasoning, planning, and executing complex tasks across tools and data sources.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-16T03:52:40.331Z"
+  },
+  {
+    "job_id": "workday-zoom-R18240",
+    "job_title": "Research Scientist",
+    "employer_name": "Zoom",
+    "job_city": "Seattle",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Research-Scientist_R18240-1",
+    "job_posted_at_datetime_utc": "2026-04-16T03:52:40.331Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6fbbbb56e2e9797c284702dbc1f445bda724b899dd2b555223ca2494d5f08377",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "distributed systems",
+        "hugging face",
+        "large language model",
+        "llm",
+        "machine learning",
+        "python",
+        "pytorch",
+        "reinforcement learning",
+        "transformers",
+        "zoom"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "What you can expect As a Research Scientist on Zoom’s GenAI Science Team, you will play a key role in advancing and applying large language model (LLM) research to enhance AI Companion features such a…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-16T03:52:40.331Z"
@@ -1858,46 +1858,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Basic Qualifications: - 3+ years of building machine learning models for business application experience - PhD, or Master's degree and 6+ years of applied research experience - Experience programming…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-cosmoquick-nishrcwgr-xg-tmzaaaaaa==",
-    "job_title": "Fresher Data Analyst Jobs in Baltimore",
-    "employer_name": "Cosmoquick",
-    "job_city": "Baltimore",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/55wOOvdxDbncFQmuQou3x",
-    "job_posted_at_datetime_utc": "2026-04-15T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "ce041e37981b198ee118af8bf027ae7aab99741fd6255d08ca7047b88af6351b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "cybersecurity"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Fresher Data Analyst positions available in Location: Baltimore.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-15T00:00:00.000Z"
@@ -3740,6 +3700,46 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T00:01:57.802Z"
+  },
+  {
+    "job_id": "js-cosmoquick-nishrcwgr-xg-tmzaaaaaa==",
+    "job_title": "Fresher Data Analyst Jobs in Baltimore",
+    "employer_name": "Cosmoquick",
+    "job_city": "Baltimore",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/55wOOvdxDbncFQmuQou3x",
+    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "ce041e37981b198ee118af8bf027ae7aab99741fd6255d08ca7047b88af6351b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "cybersecurity"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Fresher Data Analyst positions available in Location: Baltimore.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T00:00:00.000Z"
   },
   {
     "job_id": "amazon-40bf8604-dfec-4e21-8aee-1f0b675d0a97",
@@ -5613,6 +5613,46 @@
     "job_posted_at": "2026-04-13T07:00:10.954Z"
   },
   {
+    "job_id": "js-unison-infrastructure-4r0vw3zi2zxuqtssaaaaaa==",
+    "job_title": "Data Analyst (Entry-Level / Early Career) - UK",
+    "employer_name": "Unison Infrastructure",
+    "job_city": "Bristol",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.whatjobs.com/jobs/data-analyst-entry-level-early/bristol-virginia?id=2634953082",
+    "job_posted_at_datetime_utc": "2026-04-13T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "55ecf3e8ac26f62915d2c92361eceefdb1481f34c8b729806987f1d1cd66b3e7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "data quality"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Unison is a telecom and renewables infrastructure investment firm funded in partnership with Ardian - the global investment house based in Paris with over $150 billion in assets under management.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-126e2f14-7f4e-4a14-8428-0cb628176c78",
     "job_title": "Data Scientist",
     "employer_name": "Amazon.com Services LLC",
@@ -5711,46 +5751,6 @@
     "job_posted_at": "2026-04-13T00:00:00.000Z"
   },
   {
-    "job_id": "js-unison-infrastructure-4r0vw3zi2zxuqtssaaaaaa==",
-    "job_title": "Data Analyst (Entry-Level / Early Career) - UK",
-    "employer_name": "Unison Infrastructure",
-    "job_city": "Bristol",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.whatjobs.com/jobs/data-analyst-entry-level-early/bristol-virginia?id=2634953082",
-    "job_posted_at_datetime_utc": "2026-04-13T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "55ecf3e8ac26f62915d2c92361eceefdb1481f34c8b729806987f1d1cd66b3e7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "data quality"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Unison is a telecom and renewables infrastructure investment firm funded in partnership with Ardian - the global investment house based in Paris with over $150 billion in assets under management.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T00:00:00.000Z"
-  },
-  {
     "job_id": "js-arsenault-v1x2ytmr-p0dl8msaaaaaa==",
     "job_title": "Data Analyst (Entry Level)",
     "employer_name": "Arsenault",
@@ -5842,6 +5842,56 @@
     "job_posted_at": "2026-04-12T23:00:00.000Z"
   },
   {
+    "job_id": "js-jobsultant-solutions-yvpfgfrffp85a5tqaaaaaa==",
+    "job_title": "Data Analyst - Entry Level (Remote)",
+    "employer_name": "Jobsultant Solutions",
+    "job_city": "Charlotte",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/30vrATe8fuKVJhmTCjpDWp",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "1d33e24026d68e28227ff3577057ef86dfae16f0dcafcd0cc9cc816eee55c8c3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "azure",
+        "data science",
+        "data visualization",
+        "keras",
+        "machine learning",
+        "python",
+        "r",
+        "scala",
+        "scikit-learn",
+        "spark",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Required Qualifications • Industry experience in predictive modeling, data science and analysis.",
+      "is_remote": true
+    },
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-bb12c430-18a8-4e0b-89ac-0c240aa5495a",
     "job_title": "Data Engineer, Risk Operations, Success, & Engagement Business Intelligence",
     "employer_name": "Amazon.com Services LLC",
@@ -5905,56 +5955,6 @@
       "is_simple_apply": false,
       "summary_line": "Title: Data Engineer Organization Overview: In Kindle, authors are at the center of everything we do.",
       "is_remote": false
-    },
-    "job_posted_at": "2026-04-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-jobsultant-solutions-yvpfgfrffp85a5tqaaaaaa==",
-    "job_title": "Data Analyst - Entry Level (Remote)",
-    "employer_name": "Jobsultant Solutions",
-    "job_city": "Charlotte",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/30vrATe8fuKVJhmTCjpDWp",
-    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "1d33e24026d68e28227ff3577057ef86dfae16f0dcafcd0cc9cc816eee55c8c3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "azure",
-        "data science",
-        "data visualization",
-        "keras",
-        "machine learning",
-        "python",
-        "r",
-        "scala",
-        "scikit-learn",
-        "spark",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Required Qualifications • Industry experience in predictive modeling, data science and analysis.",
-      "is_remote": true
     },
     "job_posted_at": "2026-04-12T00:00:00.000Z"
   },
@@ -6813,57 +6813,6 @@
     "job_posted_at": "2026-04-10T07:03:54.012Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0237547",
-    "job_title": "Reinforcement Learning AI Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Colorado Springs",
-    "job_state": "CO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/Reinforcement-Learning-AI-Engineer_R0237547",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e1387ff394764efe74e3d649167bfa73ad231118b634d8cf52182a984ef98265",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "data science",
-        "design patterns",
-        "embedded systems",
-        "kubernetes",
-        "machine learning",
-        "neural network",
-        "python",
-        "pytorch",
-        "reinforcement learning",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Reinforcement Learning AI Engineer The Opportunity : Booz Allen is seeking an innovative and experience d AI developer spe cia lizing in reinforcement learning to join our growing team for Space solut…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:03:52.797Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0237533",
     "job_title": "Data Analytics Platform Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -6917,6 +6866,57 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Data Analytics Platform Engineer The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there’s more structured and unstructured data available t…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:03:52.797Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237547",
+    "job_title": "Reinforcement Learning AI Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Colorado Springs",
+    "job_state": "CO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/Reinforcement-Learning-AI-Engineer_R0237547",
+    "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e1387ff394764efe74e3d649167bfa73ad231118b634d8cf52182a984ef98265",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "data science",
+        "design patterns",
+        "embedded systems",
+        "kubernetes",
+        "machine learning",
+        "neural network",
+        "python",
+        "pytorch",
+        "reinforcement learning",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Reinforcement Learning AI Engineer The Opportunity : Booz Allen is seeking an innovative and experience d AI developer spe cia lizing in reinforcement learning to join our growing team for Space solut…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T07:03:52.797Z"
@@ -9241,58 +9241,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T13:45:00.000Z"
-  },
-  {
-    "job_id": "greenhouse-waymo-7788473",
-    "job_title": "Business Intelligence Analyst / Data Analyst (SQL)",
-    "employer_name": "Waymo",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7788473",
-    "job_posted_at_datetime_utc": "2026-04-09T12:35:03.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7c3a5a7b4f46fe3dedefaa671525514b17f47237f6c096092d04d27ee9ad3217",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "bigquery",
-        "business intelligence",
-        "dashboards",
-        "data analysis",
-        "data pipeline",
-        "data science",
-        "data studio",
-        "data visualization",
-        "looker",
-        "redshift",
-        "reporting",
-        "sql",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T12:35:03.000Z"
   }
 ]
