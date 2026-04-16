@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "workday-booz-allen-hamilton-R0237928",
+    "job_title": "Software Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Software-Data-Engineer_R0237928",
+    "job_posted_at_datetime_utc": "2026-04-16T15:19:39.629Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "922cc6b75e53f9fba2e3e411d31cc8ef6132b3a63e48e6ca028d936c0a52908b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T15:19:39.629Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0237925",
     "job_title": "Intelligence Analyst",
     "employer_name": "Booz Allen Hamilton",
@@ -2779,6 +2807,153 @@
     "job_posted_at": "2026-04-14T07:22:20.883Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0235347",
+    "job_title": "Machine Learning Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Machine-Learning-Engineer_R0235347",
+    "job_posted_at_datetime_utc": "2026-04-14T07:22:10.858Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8a1ff09b4542d6315452db8e0b1418803a5d827cdd600fbccf0cfb90cbd58b09",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer vision",
+        "data science",
+        "deep learning",
+        "java",
+        "langchain",
+        "llm",
+        "machine learning",
+        "python",
+        "pytorch",
+        "rust",
+        "scikit-learn",
+        "tensorflow",
+        "unsupervised learning"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Machine Learning Engineer The Opportunity: As a programmer, you know that machine learning is critical to understanding and processing massive datasets.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:22:10.858Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0233753",
+    "job_title": "Open-Source Research Analyst, Junior",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0233753",
+    "job_posted_at_datetime_utc": "2026-04-14T07:22:10.858Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bf1fe9c962e99bb4a495263b1ee18b918f4b171957f38f572a42b35ee661bcb4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "change management",
+        "process improvement"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Open-Source Research Analyst, Junior The Opportunity: Are you passionate about helping organizations successfully implement change and advance their operations?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:22:10.858Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237334",
+    "job_title": "AI & ML Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI---ML-Engineer_R0237334",
+    "job_posted_at_datetime_utc": "2026-04-14T07:22:10.858Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5656b9f4c69ea3bee2c2a0d9d852703ed98e247773b94817cc2fdb9975566ba6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "apache",
+        "apache spark",
+        "aws",
+        "azure",
+        "data science",
+        "databricks",
+        "flask",
+        "gcp",
+        "git",
+        "llm",
+        "machine learning",
+        "python",
+        "requirements gathering",
+        "spark"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "AI & ML Engineer The Opportunity : As an experience d engineer, you know that machine learning ( ML ) is critical to understanding and processing massive datasets.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:22:10.858Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0237794",
     "job_title": "Data Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -3146,153 +3321,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Cyber Data Analyst The Opportunity: As cyber data analyst, you love diving into data and turning it into meaningful insights.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T07:22:10.858Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235347",
-    "job_title": "Machine Learning Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Machine-Learning-Engineer_R0235347",
-    "job_posted_at_datetime_utc": "2026-04-14T07:22:10.858Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8a1ff09b4542d6315452db8e0b1418803a5d827cdd600fbccf0cfb90cbd58b09",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer vision",
-        "data science",
-        "deep learning",
-        "java",
-        "langchain",
-        "llm",
-        "machine learning",
-        "python",
-        "pytorch",
-        "rust",
-        "scikit-learn",
-        "tensorflow",
-        "unsupervised learning"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Machine Learning Engineer The Opportunity: As a programmer, you know that machine learning is critical to understanding and processing massive datasets.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T07:22:10.858Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0233753",
-    "job_title": "Open-Source Research Analyst, Junior",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0233753",
-    "job_posted_at_datetime_utc": "2026-04-14T07:22:10.858Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bf1fe9c962e99bb4a495263b1ee18b918f4b171957f38f572a42b35ee661bcb4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "change management",
-        "process improvement"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Open-Source Research Analyst, Junior The Opportunity: Are you passionate about helping organizations successfully implement change and advance their operations?",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T07:22:10.858Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237334",
-    "job_title": "AI & ML Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI---ML-Engineer_R0237334",
-    "job_posted_at_datetime_utc": "2026-04-14T07:22:10.858Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5656b9f4c69ea3bee2c2a0d9d852703ed98e247773b94817cc2fdb9975566ba6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "apache",
-        "apache spark",
-        "aws",
-        "azure",
-        "data science",
-        "databricks",
-        "flask",
-        "gcp",
-        "git",
-        "llm",
-        "machine learning",
-        "python",
-        "requirements gathering",
-        "spark"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "AI & ML Engineer The Opportunity : As an experience d engineer, you know that machine learning ( ML ) is critical to understanding and processing massive datasets.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T07:22:10.858Z"
@@ -7055,6 +7083,57 @@
     "job_posted_at": "2026-04-10T07:03:54.012Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0237547",
+    "job_title": "Reinforcement Learning AI Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Colorado Springs",
+    "job_state": "CO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/Reinforcement-Learning-AI-Engineer_R0237547",
+    "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e1387ff394764efe74e3d649167bfa73ad231118b634d8cf52182a984ef98265",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "data science",
+        "design patterns",
+        "embedded systems",
+        "kubernetes",
+        "machine learning",
+        "neural network",
+        "python",
+        "pytorch",
+        "reinforcement learning",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Reinforcement Learning AI Engineer The Opportunity : Booz Allen is seeking an innovative and experience d AI developer spe cia lizing in reinforcement learning to join our growing team for Space solut…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:03:52.797Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0237533",
     "job_title": "Data Analytics Platform Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -7108,57 +7187,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Data Analytics Platform Engineer The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there’s more structured and unstructured data available t…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:03:52.797Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237547",
-    "job_title": "Reinforcement Learning AI Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Colorado Springs",
-    "job_state": "CO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/Reinforcement-Learning-AI-Engineer_R0237547",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e1387ff394764efe74e3d649167bfa73ad231118b634d8cf52182a984ef98265",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "data science",
-        "design patterns",
-        "embedded systems",
-        "kubernetes",
-        "machine learning",
-        "neural network",
-        "python",
-        "pytorch",
-        "reinforcement learning",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Reinforcement Learning AI Engineer The Opportunity : Booz Allen is seeking an innovative and experience d AI developer spe cia lizing in reinforcement learning to join our growing team for Space solut…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T07:03:52.797Z"
@@ -9011,137 +9039,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T15:37:00.783Z"
-  },
-  {
-    "job_id": "greenhouse-figureai-4671712006",
-    "job_title": "Helix AI Engineer, Modeling",
-    "employer_name": "Figure AI",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/figureai/jobs/4671712006",
-    "job_posted_at_datetime_utc": "2026-04-09T15:23:45.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "62b24c285cb6bd6795e4df6d9fefe221fadd6a6b46b2770545036787c8cd80d2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "deep learning",
-        "multimodal",
-        "python",
-        "pytorch",
-        "transformers"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": "Experience designing and training deep learning models for vision, language, or multimodal systems   Strong understanding of modern model architectures (e.g., transformers and related approaches)   Ex",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T15:23:45.000Z"
-  },
-  {
-    "job_id": "greenhouse-figureai-4671707006",
-    "job_title": "Helix AI Engineer, Reinforcement Learning",
-    "employer_name": "Figure AI",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/figureai/jobs/4671707006",
-    "job_posted_at_datetime_utc": "2026-04-09T15:19:20.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3fddcba62f3c836e85d51e8c2a492fbfbb50093016fed061670631d73b6e1856",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "deep learning",
-        "python",
-        "pytorch",
-        "reinforcement learning"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": "Experience developing and applying reinforcement learning algorithms in complex environments   Strong understanding of RL fundamentals (e.g., policy optimization, value methods, model-based RL)   Expe",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T15:19:20.000Z"
-  },
-  {
-    "job_id": "greenhouse-figureai-4671704006",
-    "job_title": "Helix AI Engineer, Pretraining",
-    "employer_name": "Figure AI",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/figureai/jobs/4671704006",
-    "job_posted_at_datetime_utc": "2026-04-09T15:16:59.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1f873ae41490daea81b6ee68f1547ac9ad8b9c332c67d48c0d2a2e4f64741a9b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "deep learning",
-        "llm",
-        "multimodal",
-        "python",
-        "pytorch",
-        "transformers"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": "Experience training large-scale foundation models or working on pretraining for LLMs or multimodal systems   Strong understanding of modern deep learning architectures, especially transformers   Exper",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T15:16:59.000Z"
   }
 ]
