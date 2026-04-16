@@ -1,34 +1,5 @@
 [
   {
-    "job_id": "ashby-modal-06617175-0149-44c3-be5f-e73fa49b250a",
-    "job_title": "Data Engineer",
-    "employer_name": "Modal",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/modal/06617175-0149-44c3-be5f-e73fa49b250a/application",
-    "job_posted_at_datetime_utc": "2026-04-16T22:50:26.097Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "7bd92a9ec16a710034ba0dd64e0fb5b98709c3bb8920938441196aafe14b84a6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-04-16T22:50:26.097Z"
-  },
-  {
     "job_id": "workday-caci-324969",
     "job_title": "Counterintelligence Analyst",
     "employer_name": "CACI",
@@ -37,7 +8,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-NC-Fort-Bragg/Counterintelligence-Analyst_324969",
-    "job_posted_at_datetime_utc": "2026-04-16T22:34:50.062Z",
+    "job_posted_at_datetime_utc": "2026-04-16T22:51:11.885Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e4430d2e7a50adef3120d992ea104dde1055c670edcb1113ca1a0cce7837308f",
@@ -67,7 +38,7 @@
       "summary_line": "Job Title: Counterintelligence Analyst Job Category: Intelligence Time Type: Full time Minimum Clearance Required to Start: TS/SCI with Polygraph Employee Type: Regular Percentage of Travel Required:…",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-16T22:34:50.062Z"
+    "job_posted_at": "2026-04-16T22:51:11.885Z"
   },
   {
     "job_id": "workday-caci-324970",
@@ -78,7 +49,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-KY-Fort-Campbell/Counterintelligence-Analyst_324970",
-    "job_posted_at_datetime_utc": "2026-04-16T22:34:50.062Z",
+    "job_posted_at_datetime_utc": "2026-04-16T22:51:11.885Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "503035f1829977dfe8b17a49436b9d3fdd9d723c33abc3e7001b3a5f06e1ee05",
@@ -108,7 +79,7 @@
       "summary_line": "Job Title: Counterintelligence Analyst Job Category: Intelligence Time Type: Full time Minimum Clearance Required to Start: TS/SCI with Polygraph Employee Type: Regular Percentage of Travel Required:…",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-16T22:34:50.062Z"
+    "job_posted_at": "2026-04-16T22:51:11.885Z"
   },
   {
     "job_id": "workday-abbott-31147891",
@@ -119,7 +90,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Data-Engineer_31147891-1",
-    "job_posted_at_datetime_utc": "2026-04-16T22:34:40.104Z",
+    "job_posted_at_datetime_utc": "2026-04-16T22:51:02.179Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "2c7d2386ecae31c52c8e8e65c75a63b56e21145f97ba42848f0f4fb77a292264",
@@ -171,30 +142,29 @@
       "summary_line": "Abbott is a global healthcare leader that helps people live more fully at all stages of life.",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-16T22:34:40.104Z"
+    "job_posted_at": "2026-04-16T22:51:02.179Z"
   },
   {
-    "job_id": "ashby-cartesia-121f8551-28d4-4447-a713-4638f88ce273",
-    "job_title": "Data Quality Operations Analyst (Contract)",
-    "employer_name": "Cartesia",
-    "job_city": "*HQ - San Francisco",
-    "job_state": "CA",
+    "job_id": "ashby-modal-06617175-0149-44c3-be5f-e73fa49b250a",
+    "job_title": "Data Engineer",
+    "employer_name": "Modal",
+    "job_city": "New York",
+    "job_state": "",
     "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/cartesia/121f8551-28d4-4447-a713-4638f88ce273/application",
-    "job_posted_at_datetime_utc": "2026-04-16T22:14:34.529Z",
-    "job_employment_type": "Contract",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/modal/06617175-0149-44c3-be5f-e73fa49b250a/application",
+    "job_posted_at_datetime_utc": "2026-04-16T22:50:26.097Z",
+    "job_employment_type": "FullTime",
     "salary": null,
-    "fingerprint": "849714e5d1a602960fbf90b575d43694c705f84f969fbfdaebf6aa20fba10621",
+    "fingerprint": "7bd92a9ec16a710034ba0dd64e0fb5b98709c3bb8920938441196aafe14b84a6",
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "operations",
         "data_science"
       ],
       "locations": [
         "us",
-        "remote"
+        "on_site"
       ],
       "experience": "unknown",
       "special": []
@@ -203,16 +173,20 @@
     "_original_source": "ashby",
     "enrichment": {
       "required_skills": [
-        "vendor management"
+        "dbt",
+        "postgres",
+        "python",
+        "snowflake",
+        "sql"
       ],
       "sponsors_visa": null,
-      "visa_question_present": true,
+      "visa_question_present": false,
       "possible_sponsor": true,
       "is_simple_apply": true,
-      "summary_line": "What You Bring   - Exceptional attention to detail and a highly organized approach to reviewing large volumes of data.",
-      "is_remote": true
+      "summary_line": "WHAT YOU SHOULD HAVE   - SQL fluency, Python proficiency   - Professional experience with at least 3 of the following tools: Snowflake, dbt, dlt, Modal, Hex, Posthog, Segment   - Broad interest in goi…",
+      "is_remote": false
     },
-    "job_posted_at": "2026-04-16T22:14:34.529Z"
+    "job_posted_at": "2026-04-16T22:50:26.097Z"
   },
   {
     "job_id": "workday-salesforce-JR338891",
@@ -223,7 +197,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Data-Engineer---MTS-SMTS_JR338891-1",
-    "job_posted_at_datetime_utc": "2026-04-16T22:05:34.674Z",
+    "job_posted_at_datetime_utc": "2026-04-16T22:23:17.105Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "bec953bdfe27a98de0b406d5cb1d582248b70443e65b31901bdd3a854a8720eb",
@@ -279,7 +253,48 @@
       "summary_line": "To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-16T22:05:34.674Z"
+    "job_posted_at": "2026-04-16T22:23:17.105Z"
+  },
+  {
+    "job_id": "ashby-cartesia-121f8551-28d4-4447-a713-4638f88ce273",
+    "job_title": "Data Quality Operations Analyst (Contract)",
+    "employer_name": "Cartesia",
+    "job_city": "*HQ - San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/cartesia/121f8551-28d4-4447-a713-4638f88ce273/application",
+    "job_posted_at_datetime_utc": "2026-04-16T22:14:34.529Z",
+    "job_employment_type": "Contract",
+    "salary": null,
+    "fingerprint": "849714e5d1a602960fbf90b575d43694c705f84f969fbfdaebf6aa20fba10621",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "operations",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "vendor management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": "What You Bring   - Exceptional attention to detail and a highly organized approach to reviewing large volumes of data.",
+      "is_remote": true
+    },
+    "job_posted_at": "2026-04-16T22:14:34.529Z"
   },
   {
     "job_id": "workday-dell-technologies-R290025",
@@ -5304,48 +5319,6 @@
     "job_posted_at": "2026-04-14T00:01:57.802Z"
   },
   {
-    "job_id": "js-teksystems-ttgodsytrwhbmwtoaaaaaa==",
-    "job_title": "Data Specialist (Entry Level)",
-    "employer_name": "TEKsystems",
-    "job_city": "Waukegan",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.teksystems.com/us/en/job/JP-005959101/Data-Specialist-Entry-Level",
-    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
-    "job_employment_type": "CONTRACTOR",
-    "salary": null,
-    "fingerprint": "c9da2ef55edd211acf58cef634a14f42c1efaf8275985d0c61d5a262a1b4ed4f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "excel",
-        "pivot tables",
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Required Qualifications • Bachelor’s degree (or in progress) in Information Technology, Information Systems, Business, Finance, or a related field • 6+ months of professional experience heavily focuse…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-40bf8604-dfec-4e21-8aee-1f0b675d0a97",
     "job_title": "Machine Learning Engineer, Sponsored Products Off-Search Sourcing and Relevance",
     "employer_name": "Amazon.com Services LLC",
@@ -5530,6 +5503,48 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Basic Qualifications: - Bachelor's degree or above in a quantitative field such as statistics, mathematics, data science, business analytics, economics, finance, engineering, or computer science - Exp…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-teksystems-ttgodsytrwhbmwtoaaaaaa==",
+    "job_title": "Data Specialist (Entry Level)",
+    "employer_name": "TEKsystems",
+    "job_city": "Waukegan",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.teksystems.com/us/en/job/JP-005959101/Data-Specialist-Entry-Level",
+    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
+    "job_employment_type": "CONTRACTOR",
+    "salary": null,
+    "fingerprint": "c9da2ef55edd211acf58cef634a14f42c1efaf8275985d0c61d5a262a1b4ed4f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "pivot tables",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Required Qualifications • Bachelor’s degree (or in progress) in Information Technology, Information Systems, Business, Finance, or a related field • 6+ months of professional experience heavily focuse…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T00:00:00.000Z"
@@ -7258,46 +7273,6 @@
     "job_posted_at": "2026-04-13T07:00:10.954Z"
   },
   {
-    "job_id": "js-unison-infrastructure-4r0vw3zi2zxuqtssaaaaaa==",
-    "job_title": "Data Analyst (Entry-Level / Early Career) - UK",
-    "employer_name": "Unison Infrastructure",
-    "job_city": "Bristol",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.whatjobs.com/jobs/data-analyst-entry-level-early/bristol-virginia?id=2634953082",
-    "job_posted_at_datetime_utc": "2026-04-13T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "55ecf3e8ac26f62915d2c92361eceefdb1481f34c8b729806987f1d1cd66b3e7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "data quality"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Unison is a telecom and renewables infrastructure investment firm funded in partnership with Ardian - the global investment house based in Paris with over $150 billion in assets under management.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-126e2f14-7f4e-4a14-8428-0cb628176c78",
     "job_title": "Data Scientist",
     "employer_name": "Amazon.com Services LLC",
@@ -7396,6 +7371,46 @@
     "job_posted_at": "2026-04-13T00:00:00.000Z"
   },
   {
+    "job_id": "js-unison-infrastructure-4r0vw3zi2zxuqtssaaaaaa==",
+    "job_title": "Data Analyst (Entry-Level / Early Career) - UK",
+    "employer_name": "Unison Infrastructure",
+    "job_city": "Bristol",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.whatjobs.com/jobs/data-analyst-entry-level-early/bristol-virginia?id=2634953082",
+    "job_posted_at_datetime_utc": "2026-04-13T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "55ecf3e8ac26f62915d2c92361eceefdb1481f34c8b729806987f1d1cd66b3e7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "data quality"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Unison is a telecom and renewables infrastructure investment firm funded in partnership with Ardian - the global investment house based in Paris with over $150 billion in assets under management.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T00:00:00.000Z"
+  },
+  {
     "job_id": "js-arsenault-v1x2ytmr-p0dl8msaaaaaa==",
     "job_title": "Data Analyst (Entry Level)",
     "employer_name": "Arsenault",
@@ -7487,56 +7502,6 @@
     "job_posted_at": "2026-04-12T23:00:00.000Z"
   },
   {
-    "job_id": "js-jobsultant-solutions-chiel0-6yhvb9ma7aaaaaa==",
-    "job_title": "Data Analyst - Entry Level (Remote)",
-    "employer_name": "Jobsultant Solutions",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://www.jobleads.com/us/job/data-analyst-entry-level-remote--buffalo--efdf68a55a699c75ee157bdc00069ad7f",
-    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "db60c07ad00a4ffe2b03e7cf65906c88b6bf888ec6f3ed60dac05e2770230b55",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "azure",
-        "data science",
-        "data visualization",
-        "keras",
-        "machine learning",
-        "python",
-        "r",
-        "scala",
-        "scikit-learn",
-        "spark",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Qualifications: • Industry experience in predictive modeling, data science and analysis.",
-      "is_remote": true
-    },
-    "job_posted_at": "2026-04-12T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-bb12c430-18a8-4e0b-89ac-0c240aa5495a",
     "job_title": "Data Engineer, Risk Operations, Success, & Engagement Business Intelligence",
     "employer_name": "Amazon.com Services LLC",
@@ -7600,6 +7565,56 @@
       "is_simple_apply": false,
       "summary_line": "Title: Data Engineer Organization Overview: In Kindle, authors are at the center of everything we do.",
       "is_remote": false
+    },
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-jobsultant-solutions-chiel0-6yhvb9ma7aaaaaa==",
+    "job_title": "Data Analyst - Entry Level (Remote)",
+    "employer_name": "Jobsultant Solutions",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://www.jobleads.com/us/job/data-analyst-entry-level-remote--buffalo--efdf68a55a699c75ee157bdc00069ad7f",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "db60c07ad00a4ffe2b03e7cf65906c88b6bf888ec6f3ed60dac05e2770230b55",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "azure",
+        "data science",
+        "data visualization",
+        "keras",
+        "machine learning",
+        "python",
+        "r",
+        "scala",
+        "scikit-learn",
+        "spark",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Qualifications: • Industry experience in predictive modeling, data science and analysis.",
+      "is_remote": true
     },
     "job_posted_at": "2026-04-12T00:00:00.000Z"
   },
