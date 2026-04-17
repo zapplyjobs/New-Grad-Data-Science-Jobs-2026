@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Active Jobs](https://img.shields.io/badge/Active_Jobs-199-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-86-blue?style=flat&logo=building)
+![Active Jobs](https://img.shields.io/badge/Active_Jobs-198-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-85-blue?style=flat&logo=building)
 ![Data Scientist](https://img.shields.io/badge/Data_Scientist-78-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -69,7 +69,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Guidehouse** | AI / Machine Learning Engineer | 🏢 Sponsor Employer | IN Indianapolis | 25m | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IN-Indianapolis/AI---Machine-Learning-Engineer_38348) |
+| 🏢 **Guidehouse** | AI / Machine Learning Engineer | 🏢 Sponsor Employer | IN Indianapolis | 40m | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IN-Indianapolis/AI---Machine-Learning-Engineer_38348) |
 | 🏢 **Adobe** | Applied Scientist 3 | 🏢 Sponsor Employer | San Jose | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Applied-Scientist-3_R166850) |
 | 🏢 **Guidehouse** | Bioinformatics Scientist | 🏢 Sponsor Employer | MD, Baltimore | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Baltimore/Bioinformatics-Scientist_38617-1) |
 | 🏢 **Booz Allen Hamilton** | Artificial Intelligence and Machine Learning Engineer | 🏢 Sponsor Employer | Fort Meade, MD | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Artificial-Intelligence-and-Machine-Learning-Engineer_R0238072) |
@@ -77,14 +77,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **NVIDIA** | OEM Business Data Scientist | 🏢 Sponsor Employer | CA Santa Clara | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/OEM-Business-Data-Scientist_JR2016481) |
 | 🏢 **Cisco** | Data Scientist- Hardware Quality (Hybrid) | 🏢 Sponsor Employer | San Jose, US | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Data-Scientist--Hardware-Quality--Hybrid-_2005431) |
 | 🏢 **Exact Sciences** | Associate Research Scientist I | 🏢 Sponsor Employer | WI - Madison | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Associate-Research-Scientist-I_R26-12949) |
-| 🏢 **Amazon Web Services, Inc.** | Machine Learning Engineer , Data & Machine Learning (DML) | 🏢 Sponsor Employer | Arlington, VA | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10394708/machine-learning-engineer-data-machine-learning-dml) |
-| 🏢 **Amazon Web Services, Inc.** | Machine Learning Engineer, Data & Machine Learning (DML) | 🏢 Sponsor Employer | Arlington, VA + 1 more | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10394704/machine-learning-engineer-data-machine-learning-dml) |
-| 🏢 **Dell Technologies** | Consultant, Machine Learning Engineer | 🏢 Sponsor Employer | Round Rock | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/Consultant--Machine-Learning-Engineer_R290025) |
+| 🏢 **Amazon Web Services, Inc.** | Machine Learning Engineer , Data & Machine Learning (DML) | 🏢 Sponsor Employer | Arlington, VA | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10394708/machine-learning-engineer-data-machine-learning-dml) |
+| 🏢 **Amazon Web Services, Inc.** | Machine Learning Engineer, Data & Machine Learning (DML) | 🏢 Sponsor Employer | Arlington, VA + 1 more | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10394713/machine-learning-engineer-data-machine-learning-dml) |
+| 🏢 **Dell Technologies** | Consultant, Machine Learning Engineer | 🏢 Sponsor Employer | Round Rock | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://dell.wd1.myworkdayjobs.com/External/job/Round-Rock-Texas-United-States/Consultant--Machine-Learning-Engineer_R290025) |
 | 🏢 **FIS** | Data Scientist I, FIS University Program | 🏢 Sponsor Employer | GA ATL 201 STE 900 | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-GA-ATL-201-STE-900/Data-Scientist-I--FIS-University-Program_JR0306451) |
 | 🏢 **Adobe** | Machine Learning Engineer | 🏢 Sponsor Employer | San Jose | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer_R167868) |
 | 🏢 **Vanguard** | Data Scientist, Specialist | 🏢 Sponsor Employer | Malvern, PA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Scientist--Specialist_174157-1) |
-| 🏢 **FLIR Systems** | Research Scientist |  | Durham, NC, NC | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Durham-NC-TDY/Research-Scientist---Neuroscience_C20388-1) |
-| 🏢 **Booz Allen Hamilton** | Enterprise Cybersecurity Data Scientist | 🏢 Sponsor Employer | McLean, VA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Data-Scientist_R0237971) |
+| 🏢 **FLIR Systems** | Research Scientist |  | Durham, NC, NC | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Durham-NC-TDY/Research-Scientist---Neuroscience_C20388-1) |
+| 🏢 **Booz Allen Hamilton** | Enterprise Cybersecurity Data Scientist | 🏢 Sponsor Employer | McLean, VA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Data-Scientist_R0237971) |
 | 🏢 **Caterpillar** | Data Scientist - Procurement Operations | 🏢 Sponsor Employer | Mossville | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Mossville-Illinois/Data-Scientist---Procurement-Operations_R0000363098) |
 | 🏢 **Exact Sciences** | Research Scientist | 🏢 Sponsor Employer | CA - San Diego | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---San-Diego/Research-Scientist_R26-12086) |
 | 🏢 **Guidehouse** | Data Scientist | 🏢 Sponsor Employer | VA Arlington + 1 more | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Data-Scientist_37873) |
@@ -140,8 +140,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Leidos** | Intelligence Analyst | 🏢 Sponsor Employer | Hampton, VA + 1 more | 24m | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Hampton-VA/Intelligence-Analyst_R-00172451) |
-| 🏢 **Guidehouse** | Technical Data Analyst (Border Security) | 🏢 Sponsor Employer | DC, Washington | 49m | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---DC-Washington/Technical-Data-Analyst--Border-Security-_38211) |
+| 🏢 **Leidos** | Intelligence Analyst | 🏢 Sponsor Employer | Hampton, VA + 1 more | 39m | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Hampton-VA/Intelligence-Analyst_R-00172451) |
+| 🏢 **Guidehouse** | Technical Data Analyst (Border Security) | 🏢 Sponsor Employer | DC, Washington | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---DC-Washington/Technical-Data-Analyst--Border-Security-_38211) |
 | 🏢 **Booz Allen Hamilton** | Data Analyst | 🏢 Sponsor Employer | San Antonio, TX + 1 more | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Antonio-TX/Data-Analyst_R0238097) |
 | 🏢 **Booz Allen Hamilton** | All-Source Intelligence Analyst | 🏢 Sponsor Employer | Washington, DC + 2 more | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/All-Source-Intelligence-Analyst_R0237497) |
 | 🏢 **RTX** | Intelligence Analyst | 🏢 Sponsor Employer | CO-BUCKLEY-SFB-CUST | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-BUCKLEY-SFB-CUST--18500-E-6th-Ave--BUCKLEY-SFB-External-Site/Intelligence-Analyst_01838558) |
@@ -154,7 +154,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Guidehouse** | Business Data Analyst | 🏢 Sponsor Employer | VA, Falls Church | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Falls-Church/Business-Data-Analyst_38161) |
 | 🏢 **State Street** | Markets Capital Optimization Analyst, Officer | 🏢 Sponsor Employer | Boston | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Markets-Capital-Optimization-Analyst--Officer_R-788670) |
 | 🏢 **Guidehouse** | Emergency Management Strategy and Analytics Consultant | 🏢 Sponsor Employer | Remote | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Emergency-Management-Strategy-and-Analytics-Consultant_38523) |
-| 🏢 **CACI** | Counterintelligence Analyst | 🏢 Sponsor Employer | NC Fort Bragg + 1 more | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-NC-Fort-Bragg/Counterintelligence-Analyst_324969) |
+| 🏢 **CACI** | Counterintelligence Analyst | 🏢 Sponsor Employer | NC Fort Bragg + 1 more | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-NC-Fort-Bragg/Counterintelligence-Analyst_324969) |
 | 🏢 **Cartesia** | Data Quality Operations Analyst (Contract) | ✅ Sponsors Visa | * | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/cartesia/121f8551-28d4-4447-a713-4638f88ce273/application) |
 | 🏢 **CACI** | Signals Analyst | 🏢 Sponsor Employer | MD Aberdeen Provi... | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/Signals-Analyst_325020) |
 | 🏢 **CACI** | SIGINT/UAS Data Analyst | 🏢 Sponsor Employer | CO Denver | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/SIGINT-UAS-Data-Analyst_325019) |
@@ -206,14 +206,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **NVIDIA** | Systems Data Engineer | 🏢 Sponsor Employer | CA Santa Clara | 24m | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Data-Engineer_JR1999730) |
-| 🏢 **Guidehouse** | Data Engineer | 🏢 Sponsor Employer | VA McLean + 1 more | 25m | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Data-Engineer_38300) |
-| 🏢 **Guidehouse** | Data Engineer (Border Security) | 🏢 Sponsor Employer | DC, Washington | 49m | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---DC-Washington/Data-Engineer--Border-Security-_38352) |
-| 🏢 **Booz Allen Hamilton** | Data Engineer | 🏢 Sponsor Employer | Fort Belvoir, VA + 2 more | 50m | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Belvoir-VA/Zero-Trust-Information-Systems-Security-Engineer_R0236817) |
-| 🏢 **Abbott** | Data Engineer | 🏢 Sponsor Employer | Illinois - Abbott... | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Data-Engineer_31147891-1) |
-| 🏢 **Modal** | Data Engineer | 🏢 Sponsor Employer | New York | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/modal/06617175-0149-44c3-be5f-e73fa49b250a/application) |
+| 🏢 **NVIDIA** | Systems Data Engineer | 🏢 Sponsor Employer | CA Santa Clara | 39m | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Data-Engineer_JR1999730) |
+| 🏢 **Guidehouse** | Data Engineer | 🏢 Sponsor Employer | VA McLean + 1 more | 40m | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Data-Engineer_38300) |
+| 🏢 **Guidehouse** | Data Engineer (Border Security) | 🏢 Sponsor Employer | DC, Washington | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---DC-Washington/Data-Engineer--Border-Security-_38352) |
+| 🏢 **Booz Allen Hamilton** | Data Engineer | 🏢 Sponsor Employer | Fort Belvoir, VA + 2 more | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Belvoir-VA/Zero-Trust-Information-Systems-Security-Engineer_R0236817) |
+| 🏢 **Abbott** | Data Engineer | 🏢 Sponsor Employer | Illinois - Abbott... | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Data-Engineer_31147891-1) |
+| 🏢 **Modal** | Data Engineer | 🏢 Sponsor Employer | New York | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/modal/06617175-0149-44c3-be5f-e73fa49b250a/application) |
 | 🏢 **Salesforce** | Data Engineer - MTS/SMTS | 🏢 Sponsor Employer | Seattle, WA | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Data-Engineer---MTS-SMTS_JR338891-1) |
-| 🏢 **Anduril** | Data Engineer, Air Dominance & Strike | ✅ Sponsors Visa | Costa Mesa | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5111264007?gh_jid=5111264007) |
+| 🏢 **Anduril** | Data Engineer, Air Dominance & Strike | ✅ Sponsors Visa | Costa Mesa | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5111264007?gh_jid=5111264007) |
 | 🏢 **Brex** | Data Engineer | ✅ Sponsors Visa | San Francisco + 1 more | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.brex.com/careers/8366850002?gh_jid=8366850002) |
 | 🏢 **Booz Allen Hamilton** | Software Data Engineer | 🏢 Sponsor Employer | McLean, VA + 1 more | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Software-Data-Engineer_R0237928) |
 | 🏢 **Leidos** | Data Engineer | 🏢 Sponsor Employer | 3 Locations | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Canberra-Australian-Capital-Territory-Australia/Data-Engineer_R-00181009-1) |
@@ -229,7 +229,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **BlackRock** | Data Engineer, Associate | 🏢 Sponsor Employer | New York, NY | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/New-York-NY/Associate--Data-Engineer---Engineer-III_R258156) |
 | 🏢 **Philadelphia Phillies** | Associate Software Engineer, Data Engineering |  | Philadelphia | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/3aUtm3AWn0kQ4Xyh8PK1hd) |
 | 🏢 **Amazon.com Services LLC** | Data Engineer, Risk Operations, Success, & Engagement Business Intelligence | 🏢 Sponsor Employer | Charleston, SC | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10389179/data-engineer-risk-operations-success-engagement-business-intelligence) |
-| 🏢 **IMC Trading** | Data Engineer | ✅ Sponsors Visa | Chicago | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4832698101) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -257,7 +256,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|------|----------|--------|----------|
 | 🏢 **Torc Robotics** | ML Engineer, I - Acceleration Team | ✅ Sponsors Visa | Ann Arbor, MI | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/torcrobotics/jobs/8492425002) |
 | 🏢 **Zoom** | AI Engineer - Agent | 🏢 Sponsor Employer | Seattle | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/AI-Engineer---Agent_R18923-1) |
-| 🏢 **Booz Allen Hamilton** | Machine Learning Research Engineer | 🏢 Sponsor Employer | Springfield, VA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Springfield-VA/Machine-Learning-Research-Engineer_R0237994) |
+| 🏢 **Booz Allen Hamilton** | Machine Learning Research Engineer | 🏢 Sponsor Employer | Springfield, VA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Springfield-VA/Machine-Learning-Research-Engineer_R0237994) |
 | 🏢 **NVIDIA** | Software Engineer, Machine Learning Inference - New College Grad 2026 | 🏢 Sponsor Employer | US, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Machine-Learning-Inference---New-College-Grad-2026_JR2016276-1) |
 | 🏢 **Zoom** | AI Engineer | 🏢 Sponsor Employer | Seattle | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Software-Development-Engineer---Zoom-AI-API-Suite_R17822-1) |
 | 🏢 **Guidehouse** | AI Engineer (full-stack) | 🏢 Sponsor Employer | Remote | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/AI-Engineer--full-stack-_38263) |
@@ -322,7 +321,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 199 current opportunities from 86 companies**
+**🎯 198 current opportunities from 85 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
