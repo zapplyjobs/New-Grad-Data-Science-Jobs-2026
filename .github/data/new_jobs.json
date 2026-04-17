@@ -1822,6 +1822,48 @@
     "job_posted_at": "2026-04-16T03:52:40.331Z"
   },
   {
+    "job_id": "js-robert-half-fohvl_duvf6uvdouaaaaaa==",
+    "job_title": "Data Analyst - Entry",
+    "employer_name": "Robert Half",
+    "job_city": "Mendota Heights",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.roberthalf.com/us/en/job/mendota-heights-mn/data-analyst-entry/02310-0013420743-usen",
+    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a2b4589d9b272937d3707ee0071699d385b058d9f37e5c84d80a90d4cbcc9227",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "process improvement",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Are you detail-oriented, analytical, and passionate about data accuracy and process improvement?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-16T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-0b02a608-57f7-4eef-84ae-8dabde7fd7b0",
     "job_title": "Machine Learning Engineer, WWPS ProServe Delivery Team",
     "employer_name": "Amazon Web Services, Inc.",
@@ -2006,48 +2048,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Basic Qualifications: - 1+ years of data querying languages (e.g.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-16T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-robert-half-fohvl_duvf6uvdouaaaaaa==",
-    "job_title": "Data Analyst - Entry",
-    "employer_name": "Robert Half",
-    "job_city": "Mendota Heights",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.roberthalf.com/us/en/job/mendota-heights-mn/data-analyst-entry/02310-0013420743-usen",
-    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a2b4589d9b272937d3707ee0071699d385b058d9f37e5c84d80a90d4cbcc9227",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "excel",
-        "process improvement",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Are you detail-oriented, analytical, and passionate about data accuracy and process improvement?",
       "is_remote": false
     },
     "job_posted_at": "2026-04-16T00:00:00.000Z"
@@ -2993,6 +2993,107 @@
     "job_posted_at": "2026-04-15T07:21:23.469Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0236395",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Data-Scientist_R0236395",
+    "job_posted_at_datetime_utc": "2026-04-15T07:21:23.468Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "03ba9ddec149ca196e05b8d4c35a0f9dd81f072a3cfd3f32d698485b6c257db9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "data science",
+        "data visualization",
+        "hadoop",
+        "hive",
+        "kafka",
+        "machine learning",
+        "mysql",
+        "natural language processing",
+        "plotly",
+        "python",
+        "r",
+        "seaborn",
+        "spark",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Data Scientist The Opportunity: As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine le…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T07:21:23.468Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237843",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Honolulu",
+    "job_state": "HI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Engineer_R0237843",
+    "job_posted_at_datetime_utc": "2026-04-15T07:21:23.468Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f959a583d212ea4f052d5b1fe1a4ee2745b27ce70a56b72940e9e9a66fa7bce7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "data modeling",
+        "data pipeline",
+        "data visualization",
+        "devsecops",
+        "git",
+        "python",
+        "requirements gathering",
+        "typescript"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Data Engineer The Opportunity : Booz Allen is seeking a Data Engineer or Data Scientist to support mission-critical projects leveraging Palantir Foundry.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T07:21:23.468Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0237900",
     "job_title": "Data Scientist",
     "employer_name": "Booz Allen Hamilton",
@@ -3219,107 +3320,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "All-Source Intelligence Analyst The Opportunity: Do you find yourself constantly looking for more and better information?",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T07:21:23.468Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0236395",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Data-Scientist_R0236395",
-    "job_posted_at_datetime_utc": "2026-04-15T07:21:23.468Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "03ba9ddec149ca196e05b8d4c35a0f9dd81f072a3cfd3f32d698485b6c257db9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "data science",
-        "data visualization",
-        "hadoop",
-        "hive",
-        "kafka",
-        "machine learning",
-        "mysql",
-        "natural language processing",
-        "plotly",
-        "python",
-        "r",
-        "seaborn",
-        "spark",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Data Scientist The Opportunity: As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine le…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T07:21:23.468Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237843",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Honolulu",
-    "job_state": "HI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Engineer_R0237843",
-    "job_posted_at_datetime_utc": "2026-04-15T07:21:23.468Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f959a583d212ea4f052d5b1fe1a4ee2745b27ce70a56b72940e9e9a66fa7bce7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "data modeling",
-        "data pipeline",
-        "data visualization",
-        "devsecops",
-        "git",
-        "python",
-        "requirements gathering",
-        "typescript"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Data Engineer The Opportunity : Booz Allen is seeking a Data Engineer or Data Scientist to support mission-critical projects leveraging Palantir Foundry.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-15T07:21:23.468Z"
@@ -3573,6 +3573,51 @@
     "job_posted_at": "2026-04-15T07:00:44.150Z"
   },
   {
+    "job_id": "js-affordable-land-scaping-services-i08ch67n1qmf0pz8aaaaaa==",
+    "job_title": "Entry-Level Data Analyst",
+    "employer_name": "Affordable land scaping services",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://tucker.us.expertini.com/job/entry-level-data-analyst-tucker-affordable-land-scap-3697321/",
+    "job_posted_at_datetime_utc": "2026-04-15T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "2666206f1a39a0f1f1f588fe92489ac090cfab915ead805696905c8503dd3478",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data analysis",
+        "excel",
+        "sql",
+        "statistics",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Qualifications:  - Bachelor's degree in a related field such as mathematics, statistics, or computer science  - Strong analytical and critical thinking skills  - Proficiency in data analysis tools suc…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-2e8f49d9-0fb6-4827-852d-174c21b87a59",
     "job_title": "Machine Learning Data Linguist, Alexa AI",
     "employer_name": "Amazon.com Services LLC",
@@ -3659,51 +3704,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Basic Qualifications: - 3+ years of building machine learning models for business application experience - PhD, or Master's degree and 6+ years of applied research experience - Experience programming…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-affordable-land-scaping-services-i08ch67n1qmf0pz8aaaaaa==",
-    "job_title": "Entry-Level Data Analyst",
-    "employer_name": "Affordable land scaping services",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://tucker.us.expertini.com/job/entry-level-data-analyst-tucker-affordable-land-scap-3697321/",
-    "job_posted_at_datetime_utc": "2026-04-15T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "2666206f1a39a0f1f1f588fe92489ac090cfab915ead805696905c8503dd3478",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "data analysis",
-        "excel",
-        "sql",
-        "statistics",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Qualifications:  - Bachelor's degree in a related field such as mathematics, statistics, or computer science  - Strong analytical and critical thinking skills  - Proficiency in data analysis tools suc…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-15T00:00:00.000Z"
@@ -4587,203 +4587,6 @@
     "job_posted_at": "2026-04-14T07:21:34.997Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0237748",
-    "job_title": "Operations Research Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Langley AFB",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Langley-AFB-VA/Operations-Research-Analyst_R0237748",
-    "job_posted_at_datetime_utc": "2026-04-14T07:21:23.469Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5fe6a126577900bca79ba05f6414764817842acee3101f649f7732654f3bd160",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "data modeling",
-        "excel",
-        "matlab",
-        "python",
-        "r",
-        "reporting",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Operations Research Analyst The Opportunity : As an operations analyst, you’re passionate about exploring the root cause of an issue and then analyzing, reporting, and developing recommendations for a…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T07:21:23.469Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237694",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Tampa",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Tampa-FL/Data-Scientist_R0237694",
-    "job_posted_at_datetime_utc": "2026-04-14T07:21:23.469Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9ecdacff1c9dcad366b2662f36bfe2b79070d204ec02fd92b92e39124c586435",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "data science",
-        "data visualization",
-        "hadoop",
-        "hive",
-        "kafka",
-        "machine learning",
-        "mysql",
-        "natural language processing",
-        "nlp",
-        "plotly",
-        "python",
-        "qlik",
-        "seaborn",
-        "spark",
-        "sql",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Data Scientist The Opportunity: As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine le…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T07:21:23.469Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235523",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Monterey",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Monterey-CA/Data-Scientist_R0235523",
-    "job_posted_at_datetime_utc": "2026-04-14T07:21:23.469Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "116200a34ee190872550ff0ca19f6b773e2464cc3dd6dbb55e23c187ab8b5090",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "dashboards",
-        "data analysis",
-        "data pipeline",
-        "data quality",
-        "data science",
-        "data visualization",
-        "machine learning",
-        "power bi",
-        "python",
-        "qlik",
-        "r",
-        "reporting",
-        "sql",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Data Scientist The Opportunity: As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine le…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T07:21:23.469Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0233426",
-    "job_title": "Cyber Data Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Chantilly",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Cyber-Data-Analyst_R0233426",
-    "job_posted_at_datetime_utc": "2026-04-14T07:21:23.469Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8f52944b64580d27fc6f038396e90ee77d611352978ce73d51149abdbb853f1e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "etl",
-        "powershell",
-        "python",
-        "shell",
-        "shell scripting",
-        "splunk"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Cyber Data Analyst The Opportunity: As cyber data analyst, you love diving into data and turning it into meaningful insights.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T07:21:23.469Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0235347",
     "job_title": "Machine Learning Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -4985,6 +4788,203 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Databricks Platform Engineer The Opportunity As a Databricks data engineer, you’ll use your skills to help implement data engineering activities on some of the most mission-driven projects in the indu…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:21:23.469Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237748",
+    "job_title": "Operations Research Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Langley AFB",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Langley-AFB-VA/Operations-Research-Analyst_R0237748",
+    "job_posted_at_datetime_utc": "2026-04-14T07:21:23.469Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5fe6a126577900bca79ba05f6414764817842acee3101f649f7732654f3bd160",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data modeling",
+        "excel",
+        "matlab",
+        "python",
+        "r",
+        "reporting",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Operations Research Analyst The Opportunity : As an operations analyst, you’re passionate about exploring the root cause of an issue and then analyzing, reporting, and developing recommendations for a…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:21:23.469Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237694",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Tampa",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Tampa-FL/Data-Scientist_R0237694",
+    "job_posted_at_datetime_utc": "2026-04-14T07:21:23.469Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9ecdacff1c9dcad366b2662f36bfe2b79070d204ec02fd92b92e39124c586435",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "data science",
+        "data visualization",
+        "hadoop",
+        "hive",
+        "kafka",
+        "machine learning",
+        "mysql",
+        "natural language processing",
+        "nlp",
+        "plotly",
+        "python",
+        "qlik",
+        "seaborn",
+        "spark",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Data Scientist The Opportunity: As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine le…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:21:23.469Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235523",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Monterey",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Monterey-CA/Data-Scientist_R0235523",
+    "job_posted_at_datetime_utc": "2026-04-14T07:21:23.469Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "116200a34ee190872550ff0ca19f6b773e2464cc3dd6dbb55e23c187ab8b5090",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "dashboards",
+        "data analysis",
+        "data pipeline",
+        "data quality",
+        "data science",
+        "data visualization",
+        "machine learning",
+        "power bi",
+        "python",
+        "qlik",
+        "r",
+        "reporting",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Data Scientist The Opportunity: As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine le…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:21:23.469Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0233426",
+    "job_title": "Cyber Data Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Chantilly",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Cyber-Data-Analyst_R0233426",
+    "job_posted_at_datetime_utc": "2026-04-14T07:21:23.469Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8f52944b64580d27fc6f038396e90ee77d611352978ce73d51149abdbb853f1e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "etl",
+        "powershell",
+        "python",
+        "shell",
+        "shell scripting",
+        "splunk"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Cyber Data Analyst The Opportunity: As cyber data analyst, you love diving into data and turning it into meaningful insights.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T07:21:23.469Z"
@@ -5348,6 +5348,56 @@
     "job_posted_at": "2026-04-14T07:00:44.151Z"
   },
   {
+    "job_id": "workday-guidehouse-38439",
+    "job_title": "Data Analyst",
+    "employer_name": "Guidehouse",
+    "job_city": "US VA Arlington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Data-Analyst_38439",
+    "job_posted_at_datetime_utc": "2026-04-14T07:00:25.013Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "91cb35a4536cc05c067ba1529aa9ca7d24d1938089593d4a0429818ef6a10547",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "azure",
+        "data analysis",
+        "data science",
+        "data visualization",
+        "databricks",
+        "machine learning",
+        "power bi",
+        "python",
+        "qlik",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Family : Data Engineering & Architecture Consulting, Data Science Consulting Travel Required : Up to 10% Clearance Required : Ability to Obtain Public Trust What You Will Do : The Guidehouse Techn…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:00:25.013Z"
+  },
+  {
     "job_id": "workday-guidehouse-38181",
     "job_title": "Data Scientist",
     "employer_name": "Guidehouse",
@@ -5403,56 +5453,6 @@
     "job_posted_at": "2026-04-14T07:00:25.013Z"
   },
   {
-    "job_id": "workday-guidehouse-38439",
-    "job_title": "Data Analyst",
-    "employer_name": "Guidehouse",
-    "job_city": "US VA Arlington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Data-Analyst_38439",
-    "job_posted_at_datetime_utc": "2026-04-14T07:00:25.013Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "91cb35a4536cc05c067ba1529aa9ca7d24d1938089593d4a0429818ef6a10547",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "azure",
-        "data analysis",
-        "data science",
-        "data visualization",
-        "databricks",
-        "machine learning",
-        "power bi",
-        "python",
-        "qlik",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Family : Data Engineering & Architecture Consulting, Data Science Consulting Travel Required : Up to 10% Clearance Required : Ability to Obtain Public Trust What You Will Do : The Guidehouse Techn…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T07:00:25.013Z"
-  },
-  {
     "job_id": "greenhouse-spacex-8391768002",
     "job_title": "Data Engineer (Direct To Cell)",
     "employer_name": "SpaceX",
@@ -5494,6 +5494,48 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T00:01:57.802Z"
+  },
+  {
+    "job_id": "js-teksystems-ttgodsytrwhbmwtoaaaaaa==",
+    "job_title": "Data Specialist (Entry Level)",
+    "employer_name": "TEKsystems",
+    "job_city": "Waukegan",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.teksystems.com/us/en/job/JP-005959101/Data-Specialist-Entry-Level",
+    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
+    "job_employment_type": "CONTRACTOR",
+    "salary": null,
+    "fingerprint": "c9da2ef55edd211acf58cef634a14f42c1efaf8275985d0c61d5a262a1b4ed4f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "pivot tables",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Required Qualifications • Bachelor’s degree (or in progress) in Information Technology, Information Systems, Business, Finance, or a related field • 6+ months of professional experience heavily focuse…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T00:00:00.000Z"
   },
   {
     "job_id": "amazon-40bf8604-dfec-4e21-8aee-1f0b675d0a97",
@@ -5680,48 +5722,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Basic Qualifications: - Bachelor's degree or above in a quantitative field such as statistics, mathematics, data science, business analytics, economics, finance, engineering, or computer science - Exp…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-teksystems-ttgodsytrwhbmwtoaaaaaa==",
-    "job_title": "Data Specialist (Entry Level)",
-    "employer_name": "TEKsystems",
-    "job_city": "Waukegan",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.teksystems.com/us/en/job/JP-005959101/Data-Specialist-Entry-Level",
-    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
-    "job_employment_type": "CONTRACTOR",
-    "salary": null,
-    "fingerprint": "c9da2ef55edd211acf58cef634a14f42c1efaf8275985d0c61d5a262a1b4ed4f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "excel",
-        "pivot tables",
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Required Qualifications • Bachelor’s degree (or in progress) in Information Technology, Information Systems, Business, Finance, or a related field • 6+ months of professional experience heavily focuse…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T00:00:00.000Z"
@@ -6718,47 +6718,6 @@
     "job_posted_at": "2026-04-13T07:20:41.882Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0234113",
-    "job_title": "Open-Source Research Analyst, Junior",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0234113",
-    "job_posted_at_datetime_utc": "2026-04-13T07:20:39.213Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bf1fe9c962e99bb4a495263b1ee18b918f4b171957f38f572a42b35ee661bcb4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "change management",
-        "process improvement"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Open-Source Research Analyst, Junior The Opportunity: Are you passionate about helping organizations successfully implement change and advance their operations?",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T07:20:39.213Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0237650",
     "job_title": "Data Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -6821,6 +6780,47 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Data Engineer The Opportunity : Ever-expanding technology like IoT, machine learning, and artifi cia l intelligence means that there’s more structured and unstructured data available today than ever b…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T07:20:39.213Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0234113",
+    "job_title": "Open-Source Research Analyst, Junior",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0234113",
+    "job_posted_at_datetime_utc": "2026-04-13T07:20:39.213Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bf1fe9c962e99bb4a495263b1ee18b918f4b171957f38f572a42b35ee661bcb4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "change management",
+        "process improvement"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Open-Source Research Analyst, Junior The Opportunity: Are you passionate about helping organizations successfully implement change and advance their operations?",
       "is_remote": false
     },
     "job_posted_at": "2026-04-13T07:20:39.213Z"
@@ -7450,6 +7450,87 @@
     "job_posted_at": "2026-04-13T07:00:10.954Z"
   },
   {
+    "job_id": "js-unison-infrastructure-4r0vw3zi2zxuqtssaaaaaa==",
+    "job_title": "Data Analyst (Entry-Level / Early Career) - UK",
+    "employer_name": "Unison Infrastructure",
+    "job_city": "Bristol",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.whatjobs.com/jobs/data-analyst-entry-level-early/bristol-virginia?id=2634953082",
+    "job_posted_at_datetime_utc": "2026-04-13T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "55ecf3e8ac26f62915d2c92361eceefdb1481f34c8b729806987f1d1cd66b3e7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "data quality"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Unison is a telecom and renewables infrastructure investment firm funded in partnership with Ardian - the global investment house based in Paris with over $150 billion in assets under management.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-arsenault-v1x2ytmr-p0dl8msaaaaaa==",
+    "job_title": "Data Analyst (Entry Level)",
+    "employer_name": "Arsenault",
+    "job_city": "Philadelphia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobleads.com/us/job/data-analyst-entry-level--philadelphia--e546acd9105ea4004ce8636f77ca811e6",
+    "job_posted_at_datetime_utc": "2026-04-13T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "ad7473e5d3343d970c2fcf0782aa5bf57b4216294764ee825b670d11af56db6d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "microsoft office"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Qualifications: • Bachelor's degree or equivalent experience.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-126e2f14-7f4e-4a14-8428-0cb628176c78",
     "job_title": "Data Scientist",
     "employer_name": "Amazon.com Services LLC",
@@ -7548,87 +7629,6 @@
     "job_posted_at": "2026-04-13T00:00:00.000Z"
   },
   {
-    "job_id": "js-unison-infrastructure-4r0vw3zi2zxuqtssaaaaaa==",
-    "job_title": "Data Analyst (Entry-Level / Early Career) - UK",
-    "employer_name": "Unison Infrastructure",
-    "job_city": "Bristol",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.whatjobs.com/jobs/data-analyst-entry-level-early/bristol-virginia?id=2634953082",
-    "job_posted_at_datetime_utc": "2026-04-13T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "55ecf3e8ac26f62915d2c92361eceefdb1481f34c8b729806987f1d1cd66b3e7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "data quality"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Unison is a telecom and renewables infrastructure investment firm funded in partnership with Ardian - the global investment house based in Paris with over $150 billion in assets under management.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-arsenault-v1x2ytmr-p0dl8msaaaaaa==",
-    "job_title": "Data Analyst (Entry Level)",
-    "employer_name": "Arsenault",
-    "job_city": "Philadelphia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobleads.com/us/job/data-analyst-entry-level--philadelphia--e546acd9105ea4004ce8636f77ca811e6",
-    "job_posted_at_datetime_utc": "2026-04-13T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "ad7473e5d3343d970c2fcf0782aa5bf57b4216294764ee825b670d11af56db6d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "excel",
-        "microsoft office"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Qualifications: • Bachelor's degree or equivalent experience.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T00:00:00.000Z"
-  },
-  {
     "job_id": "js-philadelphia-phillies-903uidtwyiydglqeaaaaaa==",
     "job_title": "Associate Software Engineer, Data Engineering",
     "employer_name": "Philadelphia Phillies",
@@ -7677,6 +7677,56 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-12T23:00:00.000Z"
+  },
+  {
+    "job_id": "js-jobsultant-solutions-yvpfgfrffp85a5tqaaaaaa==",
+    "job_title": "Data Analyst - Entry Level (Remote)",
+    "employer_name": "Jobsultant Solutions",
+    "job_city": "Charlotte",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/30vrATe8fuKVJhmTCjpDWp",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "1d33e24026d68e28227ff3577057ef86dfae16f0dcafcd0cc9cc816eee55c8c3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "azure",
+        "data science",
+        "data visualization",
+        "keras",
+        "machine learning",
+        "python",
+        "r",
+        "scala",
+        "scikit-learn",
+        "spark",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Required Qualifications • Industry experience in predictive modeling, data science and analysis.",
+      "is_remote": true
+    },
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
   },
   {
     "job_id": "amazon-bb12c430-18a8-4e0b-89ac-0c240aa5495a",
@@ -7742,56 +7792,6 @@
       "is_simple_apply": false,
       "summary_line": "Title: Data Engineer Organization Overview: In Kindle, authors are at the center of everything we do.",
       "is_remote": false
-    },
-    "job_posted_at": "2026-04-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-jobsultant-solutions-yvpfgfrffp85a5tqaaaaaa==",
-    "job_title": "Data Analyst - Entry Level (Remote)",
-    "employer_name": "Jobsultant Solutions",
-    "job_city": "Charlotte",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/30vrATe8fuKVJhmTCjpDWp",
-    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "1d33e24026d68e28227ff3577057ef86dfae16f0dcafcd0cc9cc816eee55c8c3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "azure",
-        "data science",
-        "data visualization",
-        "keras",
-        "machine learning",
-        "python",
-        "r",
-        "scala",
-        "scikit-learn",
-        "spark",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Required Qualifications • Industry experience in predictive modeling, data science and analysis.",
-      "is_remote": true
     },
     "job_posted_at": "2026-04-12T00:00:00.000Z"
   },
