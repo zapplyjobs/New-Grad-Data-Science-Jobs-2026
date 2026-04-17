@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "workday-adobe-R164613",
+    "job_title": "Research Scientist/Engineer - Photoshop",
+    "employer_name": "Adobe",
+    "job_city": "Seattle",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Research-Scientist-Engineer_R164613",
+    "job_posted_at_datetime_utc": "2026-04-17T19:31:57.859Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "152b006e569d079f5c20452e203436ea0e37ad4c16839ad6817f7194bda5c7bb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T19:31:57.859Z"
+  },
+  {
     "job_id": "workday-intel-JR0282937",
     "job_title": "Supply Business Intelligence Analyst",
     "employer_name": "Intel",
@@ -25,6 +53,30 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "business intelligence",
+        "computer science",
+        "dashboards",
+        "data modeling",
+        "data pipeline",
+        "data visualization",
+        "power bi",
+        "python",
+        "reporting",
+        "snowflake",
+        "sql",
+        "statistics",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Details: Job Description: The Role and Impact As a Supply BI Analyst, you will transform complex supply, demand and financial data into actionable insights that drive business decisions.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-17T19:21:35.133Z"
   },
   {
@@ -54,6 +106,44 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "api",
+        "aws",
+        "ci/cd",
+        "computer science",
+        "computer vision",
+        "data science",
+        "design patterns",
+        "devsecops",
+        "event-driven",
+        "fastapi",
+        "flask",
+        "graphql",
+        "infrastructure as code",
+        "java",
+        "kafka",
+        "kubernetes",
+        "lidar",
+        "llm",
+        "multimodal",
+        "python",
+        "rabbitmq",
+        "rag",
+        "rest",
+        "sql",
+        "terraform",
+        "typescript",
+        "vector database"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "AI Engineer The Opportunity: As an experienced AI engineer, you know that AI systems are critical to understanding and processing massive datasets in an organization.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-17T19:20:20.109Z"
   },
   {
@@ -83,6 +173,25 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "computer science",
+        "distributed systems",
+        "fine-tuning",
+        "machine learning",
+        "pytorch",
+        "ray",
+        "robotics",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-17T19:03:14.000Z"
   },
   {
@@ -1709,51 +1818,6 @@
     "job_posted_at": "2026-04-17T03:44:59.252Z"
   },
   {
-    "job_id": "amazon-f94872c5-92ab-4f95-a682-02d2e9bb8a81",
-    "job_title": "Machine Learning Engineer , Data & Machine Learning (DML)",
-    "employer_name": "Amazon Web Services, Inc.",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10394708/machine-learning-engineer-data-machine-learning-dml",
-    "job_posted_at_datetime_utc": "2026-04-17T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "967ee423e0fd72146f1ee55a2a4164c78d28a3868192ceaf7d9cfd024d0fa499",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "continuous deployment",
-        "data analysis",
-        "machine learning"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Basic Qualifications: - Bachelor's degree or above in Science, Technology, Engineering, or Mathematics (STEM) - Experience in professional software engineering & best practices for the full software d…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-17T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-f15e5ade-74e3-4f63-b306-d75997444de8",
     "job_title": "Machine Learning Engineer, Data & Machine Learning (DML)",
     "employer_name": "Amazon Web Services, Inc.",
@@ -1794,6 +1858,51 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Basic Qualifications: - Bachelor's degree or above in Science, Technology, Engineering, or Mathematics (STEM), or experience working in Science, Technology, Engineering, or Mathematics (STEM) - 3+ yea…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-17T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-f94872c5-92ab-4f95-a682-02d2e9bb8a81",
+    "job_title": "Machine Learning Engineer , Data & Machine Learning (DML)",
+    "employer_name": "Amazon Web Services, Inc.",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10394708/machine-learning-engineer-data-machine-learning-dml",
+    "job_posted_at_datetime_utc": "2026-04-17T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "967ee423e0fd72146f1ee55a2a4164c78d28a3868192ceaf7d9cfd024d0fa499",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "continuous deployment",
+        "data analysis",
+        "machine learning"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Basic Qualifications: - Bachelor's degree or above in Science, Technology, Engineering, or Mathematics (STEM) - Experience in professional software engineering & best practices for the full software d…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-17T00:00:00.000Z"
@@ -4611,6 +4720,107 @@
     "job_posted_at": "2026-04-15T07:21:23.469Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0236395",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Data-Scientist_R0236395",
+    "job_posted_at_datetime_utc": "2026-04-15T07:21:23.468Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "03ba9ddec149ca196e05b8d4c35a0f9dd81f072a3cfd3f32d698485b6c257db9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "data science",
+        "data visualization",
+        "hadoop",
+        "hive",
+        "kafka",
+        "machine learning",
+        "mysql",
+        "natural language processing",
+        "plotly",
+        "python",
+        "r",
+        "seaborn",
+        "spark",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Data Scientist The Opportunity: As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine le…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T07:21:23.468Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237843",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Honolulu",
+    "job_state": "HI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Engineer_R0237843",
+    "job_posted_at_datetime_utc": "2026-04-15T07:21:23.468Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f959a583d212ea4f052d5b1fe1a4ee2745b27ce70a56b72940e9e9a66fa7bce7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "data modeling",
+        "data pipeline",
+        "data visualization",
+        "devsecops",
+        "git",
+        "python",
+        "requirements gathering",
+        "typescript"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Data Engineer The Opportunity : Booz Allen is seeking a Data Engineer or Data Scientist to support mission-critical projects leveraging Palantir Foundry.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T07:21:23.468Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0237900",
     "job_title": "Data Scientist",
     "employer_name": "Booz Allen Hamilton",
@@ -4798,107 +5008,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Data Scientist The Opportunity: As a Data Scientist, you have a passion for going beyond simple analysis to build predictive models and algorithms.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T07:21:23.468Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0236395",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Data-Scientist_R0236395",
-    "job_posted_at_datetime_utc": "2026-04-15T07:21:23.468Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "03ba9ddec149ca196e05b8d4c35a0f9dd81f072a3cfd3f32d698485b6c257db9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "data science",
-        "data visualization",
-        "hadoop",
-        "hive",
-        "kafka",
-        "machine learning",
-        "mysql",
-        "natural language processing",
-        "plotly",
-        "python",
-        "r",
-        "seaborn",
-        "spark",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Data Scientist The Opportunity: As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine le…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T07:21:23.468Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237843",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Honolulu",
-    "job_state": "HI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Engineer_R0237843",
-    "job_posted_at_datetime_utc": "2026-04-15T07:21:23.468Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f959a583d212ea4f052d5b1fe1a4ee2745b27ce70a56b72940e9e9a66fa7bce7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "data modeling",
-        "data pipeline",
-        "data visualization",
-        "devsecops",
-        "git",
-        "python",
-        "requirements gathering",
-        "typescript"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Data Engineer The Opportunity : Booz Allen is seeking a Data Engineer or Data Scientist to support mission-critical projects leveraging Palantir Foundry.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-15T07:21:23.468Z"
@@ -6302,102 +6411,6 @@
     "job_posted_at": "2026-04-14T07:21:34.997Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0235523",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Monterey",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Monterey-CA/Data-Scientist_R0235523",
-    "job_posted_at_datetime_utc": "2026-04-14T07:21:23.469Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "116200a34ee190872550ff0ca19f6b773e2464cc3dd6dbb55e23c187ab8b5090",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "dashboards",
-        "data analysis",
-        "data pipeline",
-        "data quality",
-        "data science",
-        "data visualization",
-        "machine learning",
-        "power bi",
-        "python",
-        "qlik",
-        "r",
-        "reporting",
-        "sql",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Data Scientist The Opportunity: As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine le…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T07:21:23.469Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0233426",
-    "job_title": "Cyber Data Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Chantilly",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Cyber-Data-Analyst_R0233426",
-    "job_posted_at_datetime_utc": "2026-04-14T07:21:23.469Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8f52944b64580d27fc6f038396e90ee77d611352978ce73d51149abdbb853f1e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "etl",
-        "powershell",
-        "python",
-        "shell",
-        "shell scripting",
-        "splunk"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Cyber Data Analyst The Opportunity: As cyber data analyst, you love diving into data and turning it into meaningful insights.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T07:21:23.469Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0235347",
     "job_title": "Machine Learning Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -6700,6 +6713,102 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Data Scientist The Opportunity: As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine le…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:21:23.469Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235523",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Monterey",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Monterey-CA/Data-Scientist_R0235523",
+    "job_posted_at_datetime_utc": "2026-04-14T07:21:23.469Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "116200a34ee190872550ff0ca19f6b773e2464cc3dd6dbb55e23c187ab8b5090",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "dashboards",
+        "data analysis",
+        "data pipeline",
+        "data quality",
+        "data science",
+        "data visualization",
+        "machine learning",
+        "power bi",
+        "python",
+        "qlik",
+        "r",
+        "reporting",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Data Scientist The Opportunity: As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine le…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:21:23.469Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0233426",
+    "job_title": "Cyber Data Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Chantilly",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Cyber-Data-Analyst_R0233426",
+    "job_posted_at_datetime_utc": "2026-04-14T07:21:23.469Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8f52944b64580d27fc6f038396e90ee77d611352978ce73d51149abdbb853f1e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "etl",
+        "powershell",
+        "python",
+        "shell",
+        "shell scripting",
+        "splunk"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Cyber Data Analyst The Opportunity: As cyber data analyst, you love diving into data and turning it into meaningful insights.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T07:21:23.469Z"
