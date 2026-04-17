@@ -25,6 +25,27 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "cisco",
+        "computer science",
+        "data modeling",
+        "data pipeline",
+        "data science",
+        "data visualization",
+        "python",
+        "r",
+        "statistical analysis",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "The application window is expected to close on: 05/25/2026 Job posting may be removed earlier if the position is filled or if a sufficient number of applications are received .",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-17T07:21:36.814Z"
   },
   {
