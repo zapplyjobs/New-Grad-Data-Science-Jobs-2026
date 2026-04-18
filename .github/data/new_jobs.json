@@ -222,6 +222,139 @@
     "job_posted_at": "2026-04-18T09:34:41.799Z"
   },
   {
+    "job_id": "workday-boston-dynamics-R2182",
+    "job_title": "Teleoperations Research Engineer, Atlas",
+    "employer_name": "Boston Dynamics",
+    "job_city": "Waltham Office",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Teleoperations-Research-Scientist--Atlas_R2182",
+    "job_posted_at_datetime_utc": "2026-04-18T09:32:54.726Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a1483d897f3d7e75f927cbafb38fd571fdbbacd8f0e88837feea8cf844370cd0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "machine learning",
+        "python",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "The Atlas team at Boston Dynamics is pushing the limits of robotic mobility and manipulation.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-18T09:32:54.726Z"
+  },
+  {
+    "job_id": "workday-boston-dynamics-R1807",
+    "job_title": "Research Scientist, Atlas Behavior Learning",
+    "employer_name": "Boston Dynamics",
+    "job_city": "Waltham Office",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Research-Scientist--Atlas-Behavior-Learning_R1807",
+    "job_posted_at_datetime_utc": "2026-04-18T09:32:54.726Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e36923e8319fb81927001a298d5bed9fab79c6f53e0314b47eaf1e2d26e07703",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "machine learning",
+        "python",
+        "pytorch",
+        "reinforcement learning",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Are you passionate about using machine learning to drive robot behavior?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-18T09:32:54.726Z"
+  },
+  {
+    "job_id": "workday-boston-dynamics-R2027",
+    "job_title": "Research Scientist, VLA Models - Atlas",
+    "employer_name": "Boston Dynamics",
+    "job_city": "Waltham Office",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Staff-Research-Scientist_R2027",
+    "job_posted_at_datetime_utc": "2026-04-18T09:32:54.726Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5ea216bfa9dfd011e85e193171b5e97ef347dbc5f749993d1005a9706cb2c5e7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "machine learning",
+        "multimodal",
+        "python",
+        "pytorch",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "As a VLA Research Scientist on the Atlas team, you will architect, train, and deploy the large-scale behavior models that enable high-performance dexterous manipulation on Atlas.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-18T09:32:54.726Z"
+  },
+  {
     "job_id": "workday-boston-dynamics-R1974",
     "job_title": "AI Research Scientist, Large Scale Behavior Cloning",
     "employer_name": "Boston Dynamics",
@@ -357,139 +490,6 @@
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "As seen at CES 2026, Atlas is the humanoid robot transforming what's possible in real-world manipulation and mobility.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-18T09:32:54.726Z"
-  },
-  {
-    "job_id": "workday-boston-dynamics-R2182",
-    "job_title": "Teleoperations Research Engineer, Atlas",
-    "employer_name": "Boston Dynamics",
-    "job_city": "Waltham Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Teleoperations-Research-Scientist--Atlas_R2182",
-    "job_posted_at_datetime_utc": "2026-04-18T09:32:54.726Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a1483d897f3d7e75f927cbafb38fd571fdbbacd8f0e88837feea8cf844370cd0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "machine learning",
-        "python",
-        "robotics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "The Atlas team at Boston Dynamics is pushing the limits of robotic mobility and manipulation.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-18T09:32:54.726Z"
-  },
-  {
-    "job_id": "workday-boston-dynamics-R1807",
-    "job_title": "Research Scientist, Atlas Behavior Learning",
-    "employer_name": "Boston Dynamics",
-    "job_city": "Waltham Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Research-Scientist--Atlas-Behavior-Learning_R1807",
-    "job_posted_at_datetime_utc": "2026-04-18T09:32:54.726Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e36923e8319fb81927001a298d5bed9fab79c6f53e0314b47eaf1e2d26e07703",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "machine learning",
-        "python",
-        "pytorch",
-        "reinforcement learning",
-        "robotics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Are you passionate about using machine learning to drive robot behavior?",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-18T09:32:54.726Z"
-  },
-  {
-    "job_id": "workday-boston-dynamics-R2027",
-    "job_title": "Research Scientist, VLA Models - Atlas",
-    "employer_name": "Boston Dynamics",
-    "job_city": "Waltham Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Staff-Research-Scientist_R2027",
-    "job_posted_at_datetime_utc": "2026-04-18T09:32:54.726Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5ea216bfa9dfd011e85e193171b5e97ef347dbc5f749993d1005a9706cb2c5e7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "machine learning",
-        "multimodal",
-        "python",
-        "pytorch",
-        "robotics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "As a VLA Research Scientist on the Atlas team, you will architect, train, and deploy the large-scale behavior models that enable high-performance dexterous manipulation on Atlas.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-18T09:32:54.726Z"
@@ -1170,58 +1170,6 @@
     "job_posted_at": "2026-04-17T18:20:54.307Z"
   },
   {
-    "job_id": "workday-guidehouse-38211",
-    "job_title": "Technical Data Analyst (Border Security)",
-    "employer_name": "Guidehouse",
-    "job_city": "DC, Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---DC-Washington/Technical-Data-Analyst--Border-Security-_38211",
-    "job_posted_at_datetime_utc": "2026-04-17T17:56:27.916Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6b1bf2a8c908cdaef3522b1e0accc4be0cb41a65446d964be52fdb5266cf5a33",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "dashboards",
-        "data governance",
-        "data integration",
-        "data quality",
-        "data science",
-        "data visualization",
-        "databricks",
-        "power bi",
-        "python",
-        "r",
-        "reporting",
-        "sql",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Family : Data Science Consulting Travel Required : None Clearance Required : Active Public Trust What You Will Do : The Technical Data Analyst will join a dynamic team supporting U.S Federal borde…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-17T17:56:27.916Z"
-  },
-  {
     "job_id": "workday-guidehouse-38352",
     "job_title": "Data Engineer (Border Security)",
     "employer_name": "Guidehouse",
@@ -1269,6 +1217,58 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Family : Data Engineering & Architecture Consulting Travel Required : Up to 25% Clearance Required : Active Public Trust What You Will Do : The Border Security Data Engineer will join a dynamic te…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-17T17:56:27.916Z"
+  },
+  {
+    "job_id": "workday-guidehouse-38211",
+    "job_title": "Technical Data Analyst (Border Security)",
+    "employer_name": "Guidehouse",
+    "job_city": "DC, Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---DC-Washington/Technical-Data-Analyst--Border-Security-_38211",
+    "job_posted_at_datetime_utc": "2026-04-17T17:56:27.916Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6b1bf2a8c908cdaef3522b1e0accc4be0cb41a65446d964be52fdb5266cf5a33",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "business intelligence",
+        "dashboards",
+        "data governance",
+        "data integration",
+        "data quality",
+        "data science",
+        "data visualization",
+        "databricks",
+        "power bi",
+        "python",
+        "r",
+        "reporting",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Family : Data Science Consulting Travel Required : None Clearance Required : Active Public Trust What You Will Do : The Technical Data Analyst will join a dynamic team supporting U.S Federal borde…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-17T17:56:27.916Z"
@@ -3923,6 +3923,53 @@
     "job_posted_at": "2026-04-16T09:33:25.958Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0237994",
+    "job_title": "Machine Learning Research Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Springfield",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Springfield-VA/Machine-Learning-Research-Engineer_R0237994",
+    "job_posted_at_datetime_utc": "2026-04-16T09:33:25.957Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a713ec9d02e34e4bcf6d6d104e32810e7e47aa53c544ce1b123443dbf4974e07",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "computer vision",
+        "deep learning",
+        "machine learning",
+        "multimodal",
+        "pytorch",
+        "supervised learning"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Machine Learning Research Engineer The Opportunity: As an experienced engineer, you know that machine learning is critical to understanding and processing massive datasets.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-16T09:33:25.957Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0237971",
     "job_title": "Enterprise Cybersecurity Data Scientist",
     "employer_name": "Booz Allen Hamilton",
@@ -3985,23 +4032,21 @@
     "job_posted_at": "2026-04-16T09:33:25.957Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0237994",
-    "job_title": "Machine Learning Research Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Springfield",
-    "job_state": "VA",
+    "job_id": "workday-caci-324969",
+    "job_title": "Counterintelligence Analyst",
+    "employer_name": "CACI",
+    "job_city": "US NC Fort Bragg",
+    "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Springfield-VA/Machine-Learning-Research-Engineer_R0237994",
-    "job_posted_at_datetime_utc": "2026-04-16T09:33:25.957Z",
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-NC-Fort-Bragg/Counterintelligence-Analyst_324969",
+    "job_posted_at_datetime_utc": "2026-04-16T09:33:11.942Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "a713ec9d02e34e4bcf6d6d104e32810e7e47aa53c544ce1b123443dbf4974e07",
+    "fingerprint": "e4430d2e7a50adef3120d992ea104dde1055c670edcb1113ca1a0cce7837308f",
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "software",
-        "ai",
         "data_science"
       ],
       "locations": [
@@ -4014,22 +4059,59 @@
     "_original_source": "workday",
     "enrichment": {
       "required_skills": [
-        "computer science",
-        "computer vision",
-        "deep learning",
-        "machine learning",
-        "multimodal",
-        "pytorch",
-        "supervised learning"
+        "information security",
+        "reporting",
+        "risk management"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "Machine Learning Research Engineer The Opportunity: As an experienced engineer, you know that machine learning is critical to understanding and processing massive datasets.",
+      "summary_line": "Job Title: Counterintelligence Analyst Job Category: Intelligence Time Type: Full time Minimum Clearance Required to Start: TS/SCI with Polygraph Employee Type: Regular Percentage of Travel Required:…",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-16T09:33:25.957Z"
+    "job_posted_at": "2026-04-16T09:33:11.942Z"
+  },
+  {
+    "job_id": "workday-caci-324970",
+    "job_title": "Counterintelligence Analyst",
+    "employer_name": "CACI",
+    "job_city": "US KY Fort Campbell",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-KY-Fort-Campbell/Counterintelligence-Analyst_324970",
+    "job_posted_at_datetime_utc": "2026-04-16T09:33:11.942Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "503035f1829977dfe8b17a49436b9d3fdd9d723c33abc3e7001b3a5f06e1ee05",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "information security",
+        "reporting",
+        "risk management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: Counterintelligence Analyst Job Category: Intelligence Time Type: Full time Minimum Clearance Required to Start: TS/SCI with Polygraph Employee Type: Regular Percentage of Travel Required:…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-16T09:33:11.942Z"
   },
   {
     "job_id": "workday-caci-325020",
@@ -4169,88 +4251,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Title: AI/ML Engineer Job Category: Engineering Time Type: Full time Minimum Clearance Required to Start: Secret Employee Type: Regular Percentage of Travel Required: Up to 10% Type of Travel: Con…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-16T09:33:11.942Z"
-  },
-  {
-    "job_id": "workday-caci-324969",
-    "job_title": "Counterintelligence Analyst",
-    "employer_name": "CACI",
-    "job_city": "US NC Fort Bragg",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-NC-Fort-Bragg/Counterintelligence-Analyst_324969",
-    "job_posted_at_datetime_utc": "2026-04-16T09:33:11.942Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e4430d2e7a50adef3120d992ea104dde1055c670edcb1113ca1a0cce7837308f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "information security",
-        "reporting",
-        "risk management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Title: Counterintelligence Analyst Job Category: Intelligence Time Type: Full time Minimum Clearance Required to Start: TS/SCI with Polygraph Employee Type: Regular Percentage of Travel Required:…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-16T09:33:11.942Z"
-  },
-  {
-    "job_id": "workday-caci-324970",
-    "job_title": "Counterintelligence Analyst",
-    "employer_name": "CACI",
-    "job_city": "US KY Fort Campbell",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-KY-Fort-Campbell/Counterintelligence-Analyst_324970",
-    "job_posted_at_datetime_utc": "2026-04-16T09:33:11.942Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "503035f1829977dfe8b17a49436b9d3fdd9d723c33abc3e7001b3a5f06e1ee05",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "information security",
-        "reporting",
-        "risk management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Title: Counterintelligence Analyst Job Category: Intelligence Time Type: Full time Minimum Clearance Required to Start: TS/SCI with Polygraph Employee Type: Regular Percentage of Travel Required:…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-16T09:33:11.942Z"
