@@ -9643,19 +9643,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "computer science",
-        "machine learning",
-        "python",
-        "reinforcement learning",
-        "statistics",
-        "tensorflow"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": true,
-      "summary_line": "A highly collaborative, fast-growing team at Internal Alpha Capture (IAC), Point72 is developing AI-driven equity trading signals that leverage rigorous research, state-of-the-art machine learning met…",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:34.130Z"
@@ -9689,23 +9682,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "computer science",
-        "deep learning",
-        "forecasting",
-        "machine learning",
-        "natural language processing",
-        "python",
-        "pytorch",
-        "r",
-        "statistics",
-        "tensorflow"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": true,
-      "summary_line": "PhD or PhD candidate in machine learning, computer science, statistics, or a related field   Experience with sequential modeling and time series forecasting using deep learning   Experience with deep ",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:34.130Z"
@@ -9738,21 +9720,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "feature engineering",
-        "machine learning",
-        "numpy",
-        "pandas",
-        "python",
-        "regression",
-        "scikit-learn",
-        "statistics"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": true,
-      "summary_line": "Cubist Systematic Strategies, an affiliate of Point72, deploys systematic, computer-driven trading strategies across multiple liquid asset classes, including equities, futures and foreign exchange.",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:34.130Z"
@@ -9785,16 +9758,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "ci/cd",
-        "python",
-        "statistics"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": true,
-      "summary_line": "PhD or Master’s degree in Economics, Finance, Statistics, Mathematics, Physics, or other quantitative discipline   2+ years of experience developing statistical and fundamental alpha signals, risk fac",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:34.130Z"
@@ -9827,18 +9796,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "aws",
-        "c++",
-        "computer science",
-        "python",
-        "statistics"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": true,
-      "summary_line": "Master's degree or higher in a quantitative field such as Finance, Mathematics, Statistics, Computer Science, or a related discipline.",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:34.130Z"
@@ -9871,21 +9834,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "computer science",
-        "data analysis",
-        "machine learning",
-        "nlp",
-        "prompt engineering",
-        "python",
-        "sql",
-        "statistics"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": true,
-      "summary_line": "Bachelors, MS, or PhD in machine learning, computer science, statistics, or other quantitative discipline.",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:34.129Z"
@@ -9918,23 +9872,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "data quality",
-        "data science",
-        "llm",
-        "multimodal",
-        "numpy",
-        "pandas",
-        "prompt engineering",
-        "python",
-        "sql"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "Point72’s Intelligence and Surveillance team sets the industry standard for intelligence driven analysis by proactively identifying, monitoring, and assessing various sources of risk using proprietary…",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:34.129Z"
@@ -9971,7 +9914,7 @@
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": true,
-      "summary_line": "3-6 years of experience in credit research or trading on the buy-side or sell-side, ideally as a desk analyst or trader.",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:34.129Z"
@@ -10003,20 +9946,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "airflow",
-        "aws",
-        "computer science",
-        "linux",
-        "python",
-        "sql",
-        "statistics"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": true,
-      "summary_line": "Masters in Financial Engineering, Statistics, Computer Science or other disciplines involving rigorous quantitative analysis   Strong programming skills in Python and SQL   Experience working with AWS",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:34.129Z"
@@ -10049,21 +9984,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "c#",
-        "c++",
-        "computer science",
-        "java",
-        "matlab",
-        "perl",
-        "python",
-        "r"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": true,
-      "summary_line": "Cubist Systematic Strategies, an affiliate of Point72, deploys systematic, computer-driven trading strategies across multiple liquid asset classes, including equities, futures and foreign exchange.",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:34.129Z"
@@ -10097,24 +10023,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "computer science",
-        "deep learning",
-        "hadoop",
-        "llm",
-        "machine learning",
-        "natural language processing",
-        "reinforcement learning",
-        "spark",
-        "sql",
-        "statistics",
-        "vault"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime.",
+      "summary_line": null,
       "is_remote": true
     },
     "job_posted_at": "2026-04-20T01:57:33.923Z"
@@ -10147,24 +10061,12 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "enrichment": {
-      "required_skills": [
-        "computer science",
-        "deep learning",
-        "hadoop",
-        "llm",
-        "machine learning",
-        "natural language processing",
-        "reinforcement learning",
-        "spark",
-        "sql",
-        "statistics",
-        "vault"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime.",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:33.923Z"
@@ -24740,56 +24642,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T15:20:58.217Z"
-  },
-  {
-    "job_id": "workday-yahoo-JR0026990",
-    "job_title": "Data Engineer - AI Semantic Analytics",
-    "employer_name": "Yahoo",
-    "job_city": "United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ouryahoo.wd5.myworkdayjobs.com/careers/job/United-States-of-America/Data-Engineer---AI-Semantic-Analytics_JR0026990-1",
-    "job_posted_at_datetime_utc": "2026-04-14T15:10:10.543Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "170e1adcb61457bbb9e9d535ee1150cc8e93e7dc0116db68138c4659deac8e3b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "bigquery",
-        "computer science",
-        "data modeling",
-        "data science",
-        "github",
-        "html",
-        "mcp",
-        "redshift",
-        "reporting",
-        "snowflake",
-        "spark",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "It takes powerful technology to connect our brands and partners with an audience of hundreds of millions of people.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T15:10:10.543Z"
   }
 ]
