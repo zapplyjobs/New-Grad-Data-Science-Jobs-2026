@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Active Jobs](https://img.shields.io/badge/Active_Jobs-523-brightgreen?style=flat&logo=briefcase)
+![Active Jobs](https://img.shields.io/badge/Active_Jobs-522-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-176-blue?style=flat&logo=building)
-![Data Scientist](https://img.shields.io/badge/Data_Scientist-247-red?style=flat&logo=star)
+![Data Scientist](https://img.shields.io/badge/Data_Scientist-246-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -70,7 +70,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
 | 🏢 **Airbnb** | Machine Learning Engineer, Customer Support Engineering | ✅ Sponsors Visa | Remote | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.airbnb.com/positions/7826337?gh_jid=7826337) |
-| 🏢 **Labelbox** | Forward Deployed Research Scientist | 🏢 Sponsor Employer | San Francisco Bay... | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/labelbox/jobs/5101375007) |
+| 🏢 **Labelbox** | Forward Deployed Research Scientist | 🏢 Sponsor Employer | San Francisco Bay... | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/labelbox/jobs/5101375007) |
 | 🏢 **Comcast** | Data Scientist | 🏢 Sponsor Employer | Philadelphia, 170... | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Data-Scientist_R435597) |
 | 🏢 **Booz Allen Hamilton** | Data Scientist | 🏢 Sponsor Employer | Arlington, VA + 5 more | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Scientist_R0238207) |
 | 🏢 **Stripe** | Data Scientist | ✅ Sponsors Visa | Seattle, WA | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7809414) |
@@ -235,7 +235,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Johnson & Johnson** | Postdoc Data Science Oncology | 🏢 Sponsor Employer | 3 Locations | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Spring-House-Pennsylvania-United-States-of-America/Postdoc-Data-Science-Oncology_R-054137) |
 | 🏢 **CACI** | Data Scientist (AI/ML) | 🏢 Sponsor Employer | CO Denver | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Data-Scientist--AI-ML-_324869) |
 | 🏢 **Visa** | Data Scientist | 🏢 Sponsor Employer | Foster City, CA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Visa/744000120758602) |
-| 🏢 **Salesforce** | Research Scientist - Salesforce AI Research | 🏢 Sponsor Employer | California Palo Alto | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Research-Scientist---Salesforce-AI-Research_JR313254) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -248,7 +247,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
 | 🏢 **Intel** | DARC Reporting and Data Analyst | 🏢 Sponsor Employer | Oregon Hillsboro | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/DARC-Reporting-and-Data-Analyst_JR0282368-1) |
-| 🏢 **xAI** | Data Analyst - Physical Infrastructure | ✅ Sponsors Visa | Memphis, TN | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5112514007) |
+| 🏢 **xAI** | Data Analyst - Physical Infrastructure | ✅ Sponsors Visa | Memphis, TN | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xai/jobs/5112514007) |
 | 🏢 **Caterpillar** | Data Analyst | 🏢 Sponsor Employer | Chicago Illinois | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Chicago-Illinois/Data-Analyst_R0000364117) |
 | 🏢 **Booz Allen Hamilton** | Signals Intelligence Analyst | 🏢 Sponsor Employer | Buckley AFB, CO | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Buckley-AFB-CO/Signals-Intelligence-Analyst_R0238201) |
 | 🏢 **SpaceX** | NDE Engineer |  | Hawthorne, CA | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8512827002?gh_jid=8512827002) |
@@ -256,9 +255,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Warner Bros. Discovery** | Analyst, Commerce - CNN Data Analytics, Science & Insights | 🏢 Sponsor Employer | NY New York 30 Hu... | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Analyst--Commerce---CNN-Data-Analytics--Science---Insights_R000101055) |
 | 🏢 **CrowdStrike** | Intelligence Analyst - Digital Risk Monitoring (Remote) | 🏢 Sponsor Employer | Remote | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Intelligence-Analyst---Digital-Risk-Monitoring--Remote-_R28531) |
 | 🏢 **Boeing** | Systems and Data Analyst | 🏢 Sponsor Employer | Seattle, WA | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Systems-and-Data-Analyst_JR2026505310-1) |
-| 🏢 **NBCUniversal** | Peacock Customer Journey, Decision Sciences Internships – Academic Year | 🏢 Sponsor Employer | New York, NY | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000121847727) |
-| 🏢 **Guidehouse** | Operations Research Analyst | 🏢 Sponsor Employer | TX, San Antonio | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Operations-Research-Analyst_35332) |
-| 🏢 **Comcast** | Analyst 3, Data Analytics & Business Intelligence | 🏢 Sponsor Employer | Philadelphia, 170... | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Analyst-3--Data-Analytics---Business-Intelligence_R434042-1) |
+| 🏢 **NBCUniversal** | Peacock Customer Journey, Decision Sciences Internships – Academic Year | 🏢 Sponsor Employer | New York, NY | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000121847727) |
+| 🏢 **Guidehouse** | Operations Research Analyst | 🏢 Sponsor Employer | TX, San Antonio | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Operations-Research-Analyst_35332) |
+| 🏢 **Comcast** | Analyst 3, Data Analytics & Business Intelligence | 🏢 Sponsor Employer | Philadelphia, 170... | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Analyst-3--Data-Analytics---Business-Intelligence_R434042-1) |
 | 🏢 **Snowflake** | Analyst, Finance Analytics & AI | ✅ Sponsors Visa | CA-Menlo Park | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/snowflake/b241904d-7d42-41f0-9674-82e53d964846/application) |
 | 🏢 **Life.Church (YouVersion)** | Data Analyst | ✅ Sponsors Visa | Edmond, OK | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.lever.co/life/e03ce24d-e4f5-4b5a-b3e3-9552852ea8ed/apply) |
 | 🏢 **Cursor** | Data Engineer, Analytics | 🏢 Sponsor Employer | San Francisco | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/cursor/546cbbe0-2afb-48f4-a935-aea10c25d797/application) |
@@ -421,7 +420,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Boeing** | Experienced Business Intelligence Developer | 🏢 Sponsor Employer | Tukwila, WA | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Experienced-Business-Intelligence-Developer_JR2026506501-1) |
+| 🏢 **Boeing** | Experienced Business Intelligence Developer | 🏢 Sponsor Employer | Tukwila, WA | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Experienced-Business-Intelligence-Developer_JR2026506501-1) |
 | 🏢 **T-Mobile** | Analyst, Business Intelligence | 🏢 Sponsor Employer | New York | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://tmobile.wd1.myworkdayjobs.com/External/job/New-York-New-York/Analyst--Business-Intelligence_REQ352240) |
 | 🏢 **Booz Allen Hamilton** | Data Visualization Specialist | 🏢 Sponsor Employer | Norfolk, VA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Norfolk-VA/Data-Visualization-Specialist_R0238000) |
 | 🏢 **Disney** | Mgr, Business Intelligence | 🏢 Sponsor Employer | Orlando, FL | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Mgr--Business-Intelligence_10147460) |
@@ -547,7 +546,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 523 current opportunities from 176 companies**
+**🎯 522 current opportunities from 176 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
