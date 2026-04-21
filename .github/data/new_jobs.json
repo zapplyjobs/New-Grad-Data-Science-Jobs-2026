@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "workday-thermo-fisher-scientific-R-01340743",
+    "job_title": "Data Scientist, Ai Infrastructure and MCP (onsite)",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Grand Island New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Grand-Island-New-York-USA/Data-Scientist--Ai-Infrastructure-and-Agent--onsite-_R-01340743-1",
+    "job_posted_at_datetime_utc": "2026-04-21T18:48:34.261Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "513863b1fd182b282e4e1e2b408a75378fcf267fc579701f4b3dfc596997ce27",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T18:48:34.261Z"
+  },
+  {
     "job_id": "workday-guidehouse-38698",
     "job_title": "Cleared Data Scientist",
     "employer_name": "Guidehouse",
@@ -5646,6 +5674,239 @@
     "job_posted_at": "2026-04-20T01:57:51.590Z"
   },
   {
+    "job_id": "greenhouse-waymo-7309064",
+    "job_title": "Research Scientist, Prediction & Planning",
+    "employer_name": "Waymo",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7309064",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:51.204Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "74457c6ca04a69ba2b068b1ac3aa0bd083edd77c1e70d1442b37c6d520086d26",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "deep learning",
+        "machine learning",
+        "python",
+        "pytorch",
+        "reinforcement learning",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": "Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:51.204Z"
+  },
+  {
+    "job_id": "greenhouse-waymo-7469425",
+    "job_title": "Research Scientist, RL for Autonomous Planning & World Modeling",
+    "employer_name": "Waymo",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7469425",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:51.204Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "44b8e1ae30689eefcd44cbbc632d522b6cbd4800799de192cc27ba2642bd9b52",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "machine learning",
+        "reinforcement learning",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:51.204Z"
+  },
+  {
+    "job_id": "greenhouse-waymo-7467839",
+    "job_title": "Applied Research Scientist, 3D Object Detection  (PhD New Grad)",
+    "employer_name": "Waymo",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7467839",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:51.204Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e707e77e95f0a3a76dcba3f14089243b0f05dda81088a29276e1c6801f21687a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "computer vision",
+        "deep learning",
+        "machine learning",
+        "python",
+        "pytorch",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:51.204Z"
+  },
+  {
+    "job_id": "greenhouse-waymo-7788473",
+    "job_title": "Business Intelligence Analyst / Data Analyst (SQL)",
+    "employer_name": "Waymo",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7788473",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:51.204Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7c3a5a7b4f46fe3dedefaa671525514b17f47237f6c096092d04d27ee9ad3217",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "bigquery",
+        "business intelligence",
+        "dashboards",
+        "data analysis",
+        "data science",
+        "data studio",
+        "data visualization",
+        "looker",
+        "redshift",
+        "reporting",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:51.204Z"
+  },
+  {
+    "job_id": "greenhouse-waymo-6608598",
+    "job_title": "Data Scientist",
+    "employer_name": "Waymo",
+    "job_city": "Mountain View",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=6608598",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:51.204Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ec6faf6c6fd07e8ee5b4226e4bf31c284478e4fe6bab606e1930237df63a2aec",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "data science",
+        "deep learning",
+        "machine learning",
+        "python",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:51.204Z"
+  },
+  {
     "job_id": "greenhouse-waymo-7539786",
     "job_title": "Machine Learning Engineer, 3D Object Detection  (PhD New Grad)",
     "employer_name": "Waymo",
@@ -6058,239 +6319,6 @@
         "python",
         "pytorch",
         "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:51.204Z"
-  },
-  {
-    "job_id": "greenhouse-waymo-7309064",
-    "job_title": "Research Scientist, Prediction & Planning",
-    "employer_name": "Waymo",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7309064",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:51.204Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "74457c6ca04a69ba2b068b1ac3aa0bd083edd77c1e70d1442b37c6d520086d26",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "deep learning",
-        "machine learning",
-        "python",
-        "pytorch",
-        "reinforcement learning",
-        "robotics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": "Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:51.204Z"
-  },
-  {
-    "job_id": "greenhouse-waymo-7469425",
-    "job_title": "Research Scientist, RL for Autonomous Planning & World Modeling",
-    "employer_name": "Waymo",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7469425",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:51.204Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "44b8e1ae30689eefcd44cbbc632d522b6cbd4800799de192cc27ba2642bd9b52",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "machine learning",
-        "reinforcement learning",
-        "robotics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:51.204Z"
-  },
-  {
-    "job_id": "greenhouse-waymo-7467839",
-    "job_title": "Applied Research Scientist, 3D Object Detection  (PhD New Grad)",
-    "employer_name": "Waymo",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7467839",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:51.204Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e707e77e95f0a3a76dcba3f14089243b0f05dda81088a29276e1c6801f21687a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "computer vision",
-        "deep learning",
-        "machine learning",
-        "python",
-        "pytorch",
-        "robotics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:51.204Z"
-  },
-  {
-    "job_id": "greenhouse-waymo-7788473",
-    "job_title": "Business Intelligence Analyst / Data Analyst (SQL)",
-    "employer_name": "Waymo",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7788473",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:51.204Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7c3a5a7b4f46fe3dedefaa671525514b17f47237f6c096092d04d27ee9ad3217",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "bigquery",
-        "business intelligence",
-        "dashboards",
-        "data analysis",
-        "data science",
-        "data studio",
-        "data visualization",
-        "looker",
-        "redshift",
-        "reporting",
-        "sql",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:51.204Z"
-  },
-  {
-    "job_id": "greenhouse-waymo-6608598",
-    "job_title": "Data Scientist",
-    "employer_name": "Waymo",
-    "job_city": "Mountain View",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=6608598",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:51.204Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ec6faf6c6fd07e8ee5b4226e4bf31c284478e4fe6bab606e1930237df63a2aec",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "data science",
-        "deep learning",
-        "machine learning",
-        "python",
-        "sql",
-        "statistics"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -7277,107 +7305,6 @@
     "job_posted_at": "2026-04-20T01:57:46.459Z"
   },
   {
-    "job_id": "ashby-openai-7e198d81-34e0-48b6-b64e-a501a75f9d53",
-    "job_title": "Research Engineer/Research Scientist, RL/Reasoning",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/7e198d81-34e0-48b6-b64e-a501a75f9d53/application",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:46.459Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "53222447a0661dc538e87e7088cc1f8204bef3fee928a3fc589fe0e300ad92d7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "agents",
-        "asana",
-        "machine learning",
-        "openai",
-        "reinforcement learning"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "The RL and Reasoning team drives the core reasoning paradigm and has created groundbreaking innovations such as o1 and o3.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:46.459Z"
-  },
-  {
-    "job_id": "ashby-openai-1f37ae5b-791a-4505-9575-183cc4bb9d5e",
-    "job_title": "Data Scientist, Support",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/1f37ae5b-791a-4505-9575-183cc4bb9d5e/application",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:46.459Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "a3b285acac346555bc59171c0ef6f07241b55c4c0123a4420c2fc7b982bb2f85",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "operations",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "asana",
-        "business intelligence",
-        "cadence",
-        "chatgpt",
-        "dashboards",
-        "data science",
-        "jupyter",
-        "looker",
-        "openai",
-        "prettier",
-        "python",
-        "reporting",
-        "routing",
-        "sql",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "The User Operations team is central to ensuring that our customers' experience with our products is nothing short of exceptional.",
-      "is_remote": true
-    },
-    "job_posted_at": "2026-04-20T01:57:46.459Z"
-  },
-  {
     "job_id": "ashby-openai-1c516e9f-c97d-4a40-8529-9871dac615a5",
     "job_title": "Research Engineer / Research Scientist, Post-Training",
     "employer_name": "OpenAI",
@@ -7563,18 +7490,18 @@
     "job_posted_at": "2026-04-20T01:57:46.459Z"
   },
   {
-    "job_id": "ashby-openai-4476b271-4987-4bd4-aa1e-0e68ea683b10",
-    "job_title": "Research Scientist / Research Engineer — Early Career Cohort",
+    "job_id": "ashby-openai-7e198d81-34e0-48b6-b64e-a501a75f9d53",
+    "job_title": "Research Engineer/Research Scientist, RL/Reasoning",
     "employer_name": "OpenAI",
     "job_city": "San Francisco",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/4476b271-4987-4bd4-aa1e-0e68ea683b10/application",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:46.458Z",
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/7e198d81-34e0-48b6-b64e-a501a75f9d53/application",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:46.459Z",
     "job_employment_type": "FullTime",
     "salary": null,
-    "fingerprint": "59331d02447cd487fa65d40476471df66a8c602f6d6a76da7a1168416bf6f4cf",
+    "fingerprint": "53222447a0661dc538e87e7088cc1f8204bef3fee928a3fc589fe0e300ad92d7",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -7592,17 +7519,76 @@
     "_original_source": "ashby",
     "enrichment": {
       "required_skills": [
-        "linear",
-        "statistics"
+        "agents",
+        "asana",
+        "machine learning",
+        "openai",
+        "reinforcement learning"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "The RL and Reasoning team drives the core reasoning paradigm and has created groundbreaking innovations such as o1 and o3.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:46.459Z"
+  },
+  {
+    "job_id": "ashby-openai-1f37ae5b-791a-4505-9575-183cc4bb9d5e",
+    "job_title": "Data Scientist, Support",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/1f37ae5b-791a-4505-9575-183cc4bb9d5e/application",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:46.459Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "a3b285acac346555bc59171c0ef6f07241b55c4c0123a4420c2fc7b982bb2f85",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "operations",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "asana",
+        "business intelligence",
+        "cadence",
+        "chatgpt",
+        "dashboards",
+        "data science",
+        "jupyter",
+        "looker",
+        "openai",
+        "prettier",
+        "python",
+        "reporting",
+        "routing",
+        "sql",
+        "tableau"
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
       "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": "Minimum Qualifications   - Demonstrated exceptional mathematical or algorithmic problem-solving ability   - Strong ability to reason about complex technical or mathematical systems   - Comfort with li…",
-      "is_remote": false
+      "is_simple_apply": false,
+      "summary_line": "The User Operations team is central to ensuring that our customers' experience with our products is nothing short of exceptional.",
+      "is_remote": true
     },
-    "job_posted_at": "2026-04-20T01:57:46.458Z"
+    "job_posted_at": "2026-04-20T01:57:46.459Z"
   },
   {
     "job_id": "ashby-openai-2560ed50-5535-42b8-b069-9ebc28ce7493",
@@ -7792,6 +7778,48 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "OpenAI is at the forefront of artificial intelligence, driving innovation and shaping the future with cutting-edge research.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:46.458Z"
+  },
+  {
+    "job_id": "ashby-openai-4476b271-4987-4bd4-aa1e-0e68ea683b10",
+    "job_title": "Research Scientist / Research Engineer — Early Career Cohort",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/4476b271-4987-4bd4-aa1e-0e68ea683b10/application",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:46.458Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "59331d02447cd487fa65d40476471df66a8c602f6d6a76da7a1168416bf6f4cf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "linear",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": "Minimum Qualifications   - Demonstrated exceptional mathematical or algorithmic problem-solving ability   - Strong ability to reason about complex technical or mathematical systems   - Comfort with li…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:46.458Z"
@@ -10395,6 +10423,44 @@
     "job_posted_at": "2026-04-20T01:57:34.439Z"
   },
   {
+    "job_id": "greenhouse-point72-7045987002",
+    "job_title": "Cubist Quantitative Researcher",
+    "employer_name": "Point72",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7045987002?gh_jid=7045987002",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:34.130Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "81a86858c72487e4a5347786b0b0a342ef110b419e358449bb9ec85bde52a2d5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:34.130Z"
+  },
+  {
     "job_id": "greenhouse-point72-7829230002",
     "job_title": "Data Engineer",
     "employer_name": "Point72",
@@ -10985,44 +11051,6 @@
         "us"
       ],
       "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:34.130Z"
-  },
-  {
-    "job_id": "greenhouse-point72-7045987002",
-    "job_title": "Cubist Quantitative Researcher",
-    "employer_name": "Point72",
-    "job_city": "Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7045987002?gh_jid=7045987002",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:34.130Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "81a86858c72487e4a5347786b0b0a342ef110b419e358449bb9ec85bde52a2d5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
       "special": []
     },
     "_source": "aggregator",
@@ -12599,6 +12627,53 @@
     "job_posted_at": "2026-04-20T01:57:29.933Z"
   },
   {
+    "job_id": "greenhouse-imc-4699252101",
+    "job_title": "Machine Learning Researcher",
+    "employer_name": "IMC Trading",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.eu.greenhouse.io/imc/jobs/4699252101",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:29.140Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4c1bb949dbe57aaf8a499ab955f0cc28d24b411fb3735ecd9f66ef16e4a3457e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "deep learning",
+        "feature engineering",
+        "machine learning",
+        "python",
+        "pytorch",
+        "statistics",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": null,
+      "is_simple_apply": true,
+      "summary_line": "IMC Trading is seeking quantitative researchers with a proven track record to apply state-of-the-art machine learning & deep learning to solve challenging trading problems.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:29.140Z"
+  },
+  {
     "job_id": "greenhouse-imc-4660792101",
     "job_title": "Quantitative Researcher - Data Curation",
     "employer_name": "IMC Trading",
@@ -12780,53 +12855,6 @@
       "possible_sponsor": null,
       "is_simple_apply": true,
       "summary_line": "We are deploying machine learning directly onto custom hardware – and we want you to help drive it from the ground up.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:29.140Z"
-  },
-  {
-    "job_id": "greenhouse-imc-4699252101",
-    "job_title": "Machine Learning Researcher",
-    "employer_name": "IMC Trading",
-    "job_city": "Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.eu.greenhouse.io/imc/jobs/4699252101",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:29.140Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4c1bb949dbe57aaf8a499ab955f0cc28d24b411fb3735ecd9f66ef16e4a3457e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "deep learning",
-        "feature engineering",
-        "machine learning",
-        "python",
-        "pytorch",
-        "statistics",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": null,
-      "is_simple_apply": true,
-      "summary_line": "IMC Trading is seeking quantitative researchers with a proven track record to apply state-of-the-art machine learning & deep learning to solve challenging trading problems.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:29.140Z"
@@ -13466,6 +13494,7 @@
     "_original_source": "greenhouse",
     "enrichment": {
       "required_skills": [
+        "agents",
         "deep learning",
         "fine-tuning",
         "multimodal",
@@ -13645,7 +13674,6 @@
     "enrichment": {
       "required_skills": [
         "deep learning",
-        "llm",
         "multimodal",
         "python",
         "pytorch",
@@ -13914,7 +13942,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
-      "possible_sponsor": null,
+      "possible_sponsor": true,
       "is_simple_apply": true,
       "summary_line": "Must possess a Bachelor's degree in computer science, economics, mathematics, physics, statistics, or another qualifying field   Minimum of two years' work experience involving the development of quan",
       "is_remote": false
@@ -13951,11 +13979,16 @@
     "_original_source": "greenhouse",
     "enrichment": {
       "required_skills": [
+        "agentic",
+        "agents",
         "docker",
         "elasticsearch",
+        "genai",
         "kubernetes",
         "langchain",
         "llm",
+        "mcp",
+        "model context protocol",
         "python",
         "rag",
         "salesforce",
@@ -16172,6 +16205,106 @@
     "job_posted_at": "2026-04-20T01:57:19.512Z"
   },
   {
+    "job_id": "greenhouse-anthropic-4952079008",
+    "job_title": "Machine Learning Systems Engineer, Research Tools",
+    "employer_name": "Anthropic",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4952079008",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:18.179Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ccbc6bba6dccfdb664b093c6b2022abf7067a1b36c31b27e3e973642595235e3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "anthropic",
+        "computer science",
+        "data pipeline",
+        "distributed systems",
+        "gpt",
+        "large language model",
+        "machine learning",
+        "multimodal",
+        "python",
+        "slack"
+      ],
+      "sponsors_visa": true,
+      "visa_question_present": true,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Anthropic’s mission is to create reliable, interpretable, and steerable AI systems.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:18.179Z"
+  },
+  {
+    "job_id": "greenhouse-anthropic-4952051008",
+    "job_title": "Machine Learning Systems Engineer, RL Engineering",
+    "employer_name": "Anthropic",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4952051008",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:18.179Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e52ea031d87df880a37ffcee7dfbbe19c1bcdf9beea34f730a43d2096b9106c4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "anthropic",
+        "computer science",
+        "distributed systems",
+        "gpt",
+        "llm",
+        "machine learning",
+        "multimodal",
+        "python",
+        "reinforcement learning",
+        "slack"
+      ],
+      "sponsors_visa": true,
+      "visa_question_present": true,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Anthropic’s mission is to create reliable, interpretable, and steerable AI systems.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:18.179Z"
+  },
+  {
     "job_id": "greenhouse-anthropic-4613568008",
     "job_title": "Research Engineer, Machine Learning (Reinforcement Learning)",
     "employer_name": "Anthropic",
@@ -16516,106 +16649,6 @@
     "job_posted_at": "2026-04-20T01:57:18.179Z"
   },
   {
-    "job_id": "greenhouse-anthropic-4952079008",
-    "job_title": "Machine Learning Systems Engineer, Research Tools",
-    "employer_name": "Anthropic",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4952079008",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:18.179Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ccbc6bba6dccfdb664b093c6b2022abf7067a1b36c31b27e3e973642595235e3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "anthropic",
-        "computer science",
-        "data pipeline",
-        "distributed systems",
-        "gpt",
-        "large language model",
-        "machine learning",
-        "multimodal",
-        "python",
-        "slack"
-      ],
-      "sponsors_visa": true,
-      "visa_question_present": true,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Anthropic’s mission is to create reliable, interpretable, and steerable AI systems.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:18.179Z"
-  },
-  {
-    "job_id": "greenhouse-anthropic-4952051008",
-    "job_title": "Machine Learning Systems Engineer, RL Engineering",
-    "employer_name": "Anthropic",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4952051008",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:18.179Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e52ea031d87df880a37ffcee7dfbbe19c1bcdf9beea34f730a43d2096b9106c4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "anthropic",
-        "computer science",
-        "distributed systems",
-        "gpt",
-        "llm",
-        "machine learning",
-        "multimodal",
-        "python",
-        "reinforcement learning",
-        "slack"
-      ],
-      "sponsors_visa": true,
-      "visa_question_present": true,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Anthropic’s mission is to create reliable, interpretable, and steerable AI systems.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:18.179Z"
-  },
-  {
     "job_id": "greenhouse-anthropic-4532887008",
     "job_title": "[Expression of Interest] Research Scientist / Engineer, Honesty",
     "employer_name": "Anthropic",
@@ -16895,47 +16928,6 @@
     "job_posted_at": "2026-04-20T01:57:18.178Z"
   },
   {
-    "job_id": "greenhouse-appliedintuition-4676438005",
-    "job_title": "Embedded AI Engineer – Android Automotive (On-Device Intelligence)",
-    "employer_name": "Applied Intuition",
-    "job_city": "Sunnyvale",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/appliedintuition/jobs/4676438005?gh_jid=4676438005",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:18.044Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ab16739cf26eeb80f3516ff8dc7fbfa6084823aa8e0ccf7859d8ebe405a80ae5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "cfr"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Applied Intuition pay ranges reflect the minimum and maximum intended target base salary for new hire salaries for the position.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:18.044Z"
-  },
-  {
     "job_id": "greenhouse-appliedintuition-4620154005",
     "job_title": "People Data Analyst",
     "employer_name": "Applied Intuition",
@@ -17156,6 +17148,47 @@
         "software",
         "ai",
         "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "cfr"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Applied Intuition pay ranges reflect the minimum and maximum intended target base salary for new hire salaries for the position.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:18.044Z"
+  },
+  {
+    "job_id": "greenhouse-appliedintuition-4676438005",
+    "job_title": "Embedded AI Engineer – Android Automotive (On-Device Intelligence)",
+    "employer_name": "Applied Intuition",
+    "job_city": "Sunnyvale",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/appliedintuition/jobs/4676438005?gh_jid=4676438005",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:18.044Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ab16739cf26eeb80f3516ff8dc7fbfa6084823aa8e0ccf7859d8ebe405a80ae5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science",
+        "hardware"
       ],
       "locations": [
         "us"
@@ -20811,98 +20844,6 @@
     "job_posted_at": "2026-04-17T07:01:27.714Z"
   },
   {
-    "job_id": "workday-guidehouse-37419",
-    "job_title": "Microsoft Office Data Specialist",
-    "employer_name": "Guidehouse",
-    "job_city": "VA, Arlington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Microsoft-Office-Data-Specialist_37419",
-    "job_posted_at_datetime_utc": "2026-04-17T07:01:12.842Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "42e1a65412ba3fe505e2eabfe511bb7f4a8928f6ccec659c4d6d65c99851ba49",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "data science",
-        "devops",
-        "devsecops",
-        "matlab",
-        "microsoft office",
-        "microsoft teams",
-        "power bi",
-        "python",
-        "r",
-        "reporting",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Family : Data Science & Analysis (ESA) Travel Required : Up to 10% Clearance Required : Active Secret What You Will Do: As the Microsoft Office Data Specialist, you will assist our clients with re…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-17T07:01:12.842Z"
-  },
-  {
-    "job_id": "workday-guidehouse-38161",
-    "job_title": "Business Data Analyst",
-    "employer_name": "Guidehouse",
-    "job_city": "VA, Falls Church",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Falls-Church/Business-Data-Analyst_38161",
-    "job_posted_at_datetime_utc": "2026-04-17T07:01:12.842Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1baa5d7f041e68e8cfe80bee0b0683dbbea8a31f101294eb41d4b579bf285dd2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "generative ai",
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Family : Operational Effectiveness Consulting Travel Required : Up to 10% Clearance Required : Ability to Obtain Public Trust What You Will Do: The Business Analyst supports system-level and enter…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-17T07:01:12.842Z"
-  },
-  {
     "job_id": "workday-guidehouse-38348",
     "job_title": "AI / Machine Learning Engineer",
     "employer_name": "Guidehouse",
@@ -21166,6 +21107,98 @@
     "job_posted_at": "2026-04-17T07:01:12.842Z"
   },
   {
+    "job_id": "workday-guidehouse-37419",
+    "job_title": "Microsoft Office Data Specialist",
+    "employer_name": "Guidehouse",
+    "job_city": "VA, Arlington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Microsoft-Office-Data-Specialist_37419",
+    "job_posted_at_datetime_utc": "2026-04-17T07:01:12.842Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "42e1a65412ba3fe505e2eabfe511bb7f4a8928f6ccec659c4d6d65c99851ba49",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "data science",
+        "devops",
+        "devsecops",
+        "matlab",
+        "microsoft office",
+        "microsoft teams",
+        "power bi",
+        "python",
+        "r",
+        "reporting",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Family : Data Science & Analysis (ESA) Travel Required : Up to 10% Clearance Required : Active Secret What You Will Do: As the Microsoft Office Data Specialist, you will assist our clients with re…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-17T07:01:12.842Z"
+  },
+  {
+    "job_id": "workday-guidehouse-38161",
+    "job_title": "Business Data Analyst",
+    "employer_name": "Guidehouse",
+    "job_city": "VA, Falls Church",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Falls-Church/Business-Data-Analyst_38161",
+    "job_posted_at_datetime_utc": "2026-04-17T07:01:12.842Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1baa5d7f041e68e8cfe80bee0b0683dbbea8a31f101294eb41d4b579bf285dd2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "generative ai",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Family : Operational Effectiveness Consulting Travel Required : Up to 10% Clearance Required : Ability to Obtain Public Trust What You Will Do: The Business Analyst supports system-level and enter…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-17T07:01:12.842Z"
+  },
+  {
     "job_id": "workday-fidelity-investments-2127827",
     "job_title": "Fixed Income Private Credit Research Analyst",
     "employer_name": "Fidelity Investments",
@@ -21408,50 +21441,6 @@
     "job_posted_at": "2026-04-17T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-02c75221-7844-4388-b0f3-6836148dc811",
-    "job_title": "Machine Learning Engineer, Data & Machine Learning (DML)",
-    "employer_name": "Amazon Web Services, Inc.",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10394713/machine-learning-engineer-data-machine-learning-dml",
-    "job_posted_at_datetime_utc": "2026-04-17T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0acf6f8ce34c1fc49216c3d9f65d7824aedd97d00f2daec1527d7b8c93810178",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "machine learning"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Basic Qualifications: - Bachelor's degree or above in Science, Technology, Engineering, or Mathematics (STEM) - Experience in professional software engineering & best practices for the full software d…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-17T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-f15e5ade-74e3-4f63-b306-d75997444de8",
     "job_title": "Machine Learning Engineer, Data & Machine Learning (DML)",
     "employer_name": "Amazon Web Services, Inc.",
@@ -21491,6 +21480,50 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Basic Qualifications: - Bachelor's degree or above in Science, Technology, Engineering, or Mathematics (STEM), or experience working in Science, Technology, Engineering, or Mathematics (STEM) - 3+ yea…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-17T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-02c75221-7844-4388-b0f3-6836148dc811",
+    "job_title": "Machine Learning Engineer, Data & Machine Learning (DML)",
+    "employer_name": "Amazon Web Services, Inc.",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10394713/machine-learning-engineer-data-machine-learning-dml",
+    "job_posted_at_datetime_utc": "2026-04-17T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0acf6f8ce34c1fc49216c3d9f65d7824aedd97d00f2daec1527d7b8c93810178",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "machine learning"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Basic Qualifications: - Bachelor's degree or above in Science, Technology, Engineering, or Mathematics (STEM) - Experience in professional software engineering & best practices for the full software d…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-17T00:00:00.000Z"
@@ -24364,96 +24397,6 @@
     "job_posted_at": "2026-04-15T07:01:55.590Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0237900",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Stafford",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Stafford-VA/Data-Scientist_R0237900",
-    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.589Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ddb8ee801826921f9535297faed66fd38a49b27f0c48397644b27227cadb4a86",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "data science",
-        "data visualization",
-        "hadoop",
-        "hive",
-        "kafka",
-        "machine learning",
-        "mysql",
-        "natural language processing",
-        "plotly",
-        "python",
-        "r",
-        "seaborn",
-        "spark",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Data Scientist The Opportunity: As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine le…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T07:01:55.589Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237893",
-    "job_title": "All-Source Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Wright Patterson AFB",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Wright-Patterson-AFB-OH/All-Source-Intelligence-Analyst_R0237893",
-    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.589Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8c8e03c69491bc86548125e15d682e90db8d6abf06c175a9696f6e1d7afcf7e5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "All-Source Intelligence Analyst The Opportunity: Critical decisions are made every single day in our government.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T07:01:55.589Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0237867",
     "job_title": "Data Scientist",
     "employer_name": "Booz Allen Hamilton",
@@ -24551,6 +24494,96 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Data Engineer The Opportunity : Booz Allen is seeking a Data Engineer or Data Scientist to support mission-critical projects leveraging Palantir Foundry.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T07:01:55.589Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237900",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Stafford",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Stafford-VA/Data-Scientist_R0237900",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.589Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ddb8ee801826921f9535297faed66fd38a49b27f0c48397644b27227cadb4a86",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "data science",
+        "data visualization",
+        "hadoop",
+        "hive",
+        "kafka",
+        "machine learning",
+        "mysql",
+        "natural language processing",
+        "plotly",
+        "python",
+        "r",
+        "seaborn",
+        "spark",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Data Scientist The Opportunity: As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine le…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T07:01:55.589Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237893",
+    "job_title": "All-Source Intelligence Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Wright Patterson AFB",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Wright-Patterson-AFB-OH/All-Source-Intelligence-Analyst_R0237893",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.589Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8c8e03c69491bc86548125e15d682e90db8d6abf06c175a9696f6e1d7afcf7e5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "All-Source Intelligence Analyst The Opportunity: Critical decisions are made every single day in our government.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-15T07:01:55.589Z"
