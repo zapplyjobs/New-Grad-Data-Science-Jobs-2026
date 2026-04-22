@@ -26,6 +26,18 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "cybersecurity",
+        "risk management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Bachelor’s degree in a related field (e.g., Security Management, Intelligence Studies).",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-22T22:28:59.000Z"
   },
   {
@@ -55,6 +67,18 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "cybersecurity",
+        "risk management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Bachelor’s degree in a related field (e.g., Security Management, Intelligence Studies).",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-22T22:28:57.000Z"
   },
   {
@@ -2343,6 +2367,63 @@
     "job_posted_at": "2026-04-22T11:47:16.771Z"
   },
   {
+    "job_id": "js-nbcuniversal-tbceluff5o1xy7spaaaaaa==",
+    "job_title": "Data Science & Analytics Internships",
+    "employer_name": "NBCUniversal",
+    "job_city": "California",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobleads.com/us/job/data-science-analytics-internships-academic-year--california--e0d27ef504410ecac3d399b1066c6fdba",
+    "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "99e867c8e16728074e9d7a22e86905910de43683769d4d8f9e44f529991200e3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "dashboards",
+        "data analysis",
+        "data modeling",
+        "databricks",
+        "excel",
+        "looker",
+        "machine learning",
+        "power bi",
+        "python",
+        "r",
+        "reporting",
+        "sap",
+        "spark",
+        "sql",
+        "statistics",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Basic Requirements  • Must be actively enrolled in a degree‑granting program at an accredited institution for the entire duration of the program (September 2026 through April 2027).",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-22T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-5c1b335d-ad7f-4b44-9371-7af8f709088c",
     "job_title": "Data Engineer, AMZL Orbit Data Engineering",
     "employer_name": "Amazon.com Services LLC",
@@ -2480,63 +2561,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Basic Qualifications: - 3+ years of cloud architecture and solution implementation experience - Knowledge of the primary aws services (ec2, elb, rds, route53 & s3) - Experience implementing AWS servic…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-22T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-nbcuniversal-tbceluff5o1xy7spaaaaaa==",
-    "job_title": "Data Science & Analytics Internships",
-    "employer_name": "NBCUniversal",
-    "job_city": "California",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobleads.com/us/job/data-science-analytics-internships-academic-year--california--e0d27ef504410ecac3d399b1066c6fdba",
-    "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "99e867c8e16728074e9d7a22e86905910de43683769d4d8f9e44f529991200e3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "dashboards",
-        "data analysis",
-        "data modeling",
-        "databricks",
-        "excel",
-        "looker",
-        "machine learning",
-        "power bi",
-        "python",
-        "r",
-        "reporting",
-        "sap",
-        "spark",
-        "sql",
-        "statistics",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Basic Requirements  • Must be actively enrolled in a degree‑granting program at an accredited institution for the entire duration of the program (September 2026 through April 2027).",
       "is_remote": false
     },
     "job_posted_at": "2026-04-22T00:00:00.000Z"
@@ -5028,6 +5052,57 @@
     "job_posted_at": "2026-04-20T18:20:13.073Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0229008",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fort Meade",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Data-Scientist_R0229008",
+    "job_posted_at_datetime_utc": "2026-04-20T18:20:13.072Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "04f3f110e0a8b1dbb56b8a0113941038eadb971a34d24305aeb276239fbb4695",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data analysis",
+        "data science",
+        "data visualization",
+        "etl",
+        "linux",
+        "machine learning",
+        "matlab",
+        "natural language processing",
+        "python",
+        "r",
+        "statistics",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Data Scientist The Opportunity: As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine le…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T18:20:13.072Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0238151",
     "job_title": "Machine Learning Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -5077,57 +5152,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Machine Learning Engineer The Opportunity: As a programmer, you know that machine learning (ML) is critical to understanding and processing massive datasets.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T18:20:13.072Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0229008",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fort Meade",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Data-Scientist_R0229008",
-    "job_posted_at_datetime_utc": "2026-04-20T18:20:13.072Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "04f3f110e0a8b1dbb56b8a0113941038eadb971a34d24305aeb276239fbb4695",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "data analysis",
-        "data science",
-        "data visualization",
-        "etl",
-        "linux",
-        "machine learning",
-        "matlab",
-        "natural language processing",
-        "python",
-        "r",
-        "statistics",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Data Scientist The Opportunity: As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine le…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T18:20:13.072Z"
@@ -5517,7 +5541,7 @@
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": true,
-      "is_simple_apply": true,
+      "is_simple_apply": false,
       "summary_line": "Who You Are     You have strong SQL skills and deep experience with data modeling and warehouse design   You have experience building and operating batch data pipelines at scale using tools such as Sc…",
       "is_remote": true
     },
@@ -6110,170 +6134,6 @@
     "job_posted_at": "2026-04-20T07:11:17.796Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0238164",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Beavercreek",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Data-Engineer_R0238164",
-    "job_posted_at_datetime_utc": "2026-04-20T07:11:15.704Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e7279b5d4e3362fc8e8ceb4c34dcf026beca6a7028eaaeb65b0bb8891f3f2c38",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "data science",
-        "data visualization",
-        "databricks",
-        "machine learning",
-        "natural language processing",
-        "qlik"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Data Engineer The Opportunity: As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine lea…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T07:11:15.704Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0238161",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Scientist_R0238161",
-    "job_posted_at_datetime_utc": "2026-04-20T07:11:15.704Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6575aa53265ead8a219a697290777bf8b4d62d6cb22df7ef2eba97c7501e8b2b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "Natural Language Processing",
-        "data analysis",
-        "data science",
-        "data visualization",
-        "hadoop",
-        "hive",
-        "kafka",
-        "machine learning",
-        "mysql",
-        "natural language processing",
-        "plotly",
-        "python",
-        "r",
-        "seaborn",
-        "spark",
-        "sql",
-        "vault"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Data Scientist The Opportunity: As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine le…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T07:11:15.704Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0236267",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Data-Engineer_R0236267",
-    "job_posted_at_datetime_utc": "2026-04-20T07:11:15.704Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e83e03339e8a15806d97108b4470a50e4c4217b2d6f13923f9350ad3c344a2cc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "PostgreSQL",
-        "agile",
-        "analytics",
-        "aws",
-        "cassandra",
-        "data analysis",
-        "data warehouse",
-        "databricks",
-        "elt",
-        "etl",
-        "hadoop",
-        "hive",
-        "kafka",
-        "linux",
-        "machine learning",
-        "mongodb",
-        "mysql",
-        "python",
-        "redshift",
-        "reporting",
-        "shell",
-        "shell scripting",
-        "snowflake",
-        "spark",
-        "sql",
-        "unix"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Data Engineer The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there’s more structured and unstructured data available today than ever befo…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T07:11:15.704Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0238207",
     "job_title": "Data Scientist",
     "employer_name": "Booz Allen Hamilton",
@@ -6513,6 +6373,170 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Data Engineer The Opportunity : As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine le…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T07:11:15.704Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0238164",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Beavercreek",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Data-Engineer_R0238164",
+    "job_posted_at_datetime_utc": "2026-04-20T07:11:15.704Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e7279b5d4e3362fc8e8ceb4c34dcf026beca6a7028eaaeb65b0bb8891f3f2c38",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "data science",
+        "data visualization",
+        "databricks",
+        "machine learning",
+        "natural language processing",
+        "qlik"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Data Engineer The Opportunity: As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine lea…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T07:11:15.704Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0238161",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Scientist_R0238161",
+    "job_posted_at_datetime_utc": "2026-04-20T07:11:15.704Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6575aa53265ead8a219a697290777bf8b4d62d6cb22df7ef2eba97c7501e8b2b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "Natural Language Processing",
+        "data analysis",
+        "data science",
+        "data visualization",
+        "hadoop",
+        "hive",
+        "kafka",
+        "machine learning",
+        "mysql",
+        "natural language processing",
+        "plotly",
+        "python",
+        "r",
+        "seaborn",
+        "spark",
+        "sql",
+        "vault"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Data Scientist The Opportunity: As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine le…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T07:11:15.704Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0236267",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Data-Engineer_R0236267",
+    "job_posted_at_datetime_utc": "2026-04-20T07:11:15.704Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e83e03339e8a15806d97108b4470a50e4c4217b2d6f13923f9350ad3c344a2cc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "PostgreSQL",
+        "agile",
+        "analytics",
+        "aws",
+        "cassandra",
+        "data analysis",
+        "data warehouse",
+        "databricks",
+        "elt",
+        "etl",
+        "hadoop",
+        "hive",
+        "kafka",
+        "linux",
+        "machine learning",
+        "mongodb",
+        "mysql",
+        "python",
+        "redshift",
+        "reporting",
+        "shell",
+        "shell scripting",
+        "snowflake",
+        "spark",
+        "sql",
+        "unix"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Data Engineer The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there’s more structured and unstructured data available today than ever befo…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T07:11:15.704Z"
@@ -6838,6 +6862,7 @@
     "_original_source": "workday",
     "enrichment": {
       "required_skills": [
+        "Natural Language Processing",
         "agile",
         "analytics",
         "aws",
@@ -6849,7 +6874,6 @@
         "machine learning",
         "multimodal",
         "natural language processing",
-        "nlp",
         "pandas",
         "python",
         "pytorch",
@@ -6910,7 +6934,7 @@
         "tableau"
       ],
       "sponsors_visa": null,
-      "visa_question_present": false,
+      "visa_question_present": true,
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Life.Church wants to make a lasting difference in your life, in our community, and in the world.",
@@ -6948,13 +6972,13 @@
     "_original_source": "lever",
     "enrichment": {
       "required_skills": [
+        "Natural Language Processing",
         "agentic",
         "computer science",
         "deep learning",
         "fine-tuning",
         "llm",
         "machine learning",
-        "nlp",
         "project management",
         "python",
         "pytorch",
@@ -7500,10 +7524,10 @@
     "_original_source": "lever",
     "enrichment": {
       "required_skills": [
+        "Natural Language Processing",
         "computer science",
         "llm",
         "machine learning",
-        "nlp",
         "numpy",
         "python",
         "pytorch"
@@ -10147,6 +10171,53 @@
     "job_posted_at": "2026-04-20T01:57:47.561Z"
   },
   {
+    "job_id": "ashby-openai-577e6673-0a4a-491b-9a0d-facbdd3bdf3c",
+    "job_title": "Applied AI Engineer, Codex Core Agent",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/577e6673-0a4a-491b-9a0d-facbdd3bdf3c/application",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:46.461Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "0e03b7380f5756b9a5037e6329383a56b7c70b7818f9d25f96b5e5bd01eed4bb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "agents",
+        "asana",
+        "fine-tuning",
+        "llm",
+        "machine learning",
+        "openai",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": "About the Team The Codex Core Agent team builds the kernel of Codex.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:46.461Z"
+  },
+  {
     "job_id": "ashby-openai-1ab4cab9-509b-49a0-b11e-06403e56cea1",
     "job_title": "Data Engineer, Finance",
     "employer_name": "OpenAI",
@@ -10193,53 +10264,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "The Finance Data team is embedded within the CFO Org and is responsible for building internal data products that scale analytics across business teams and drive efficiencies in our daily operations.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:46.461Z"
-  },
-  {
-    "job_id": "ashby-openai-577e6673-0a4a-491b-9a0d-facbdd3bdf3c",
-    "job_title": "Applied AI Engineer, Codex Core Agent",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/577e6673-0a4a-491b-9a0d-facbdd3bdf3c/application",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:46.461Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "0e03b7380f5756b9a5037e6329383a56b7c70b7818f9d25f96b5e5bd01eed4bb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "agents",
-        "asana",
-        "fine-tuning",
-        "llm",
-        "machine learning",
-        "openai",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": "About the Team The Codex Core Agent team builds the kernel of Codex.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:46.461Z"
@@ -10531,6 +10555,146 @@
     "job_posted_at": "2026-04-20T01:57:46.460Z"
   },
   {
+    "job_id": "ashby-openai-60d3700b-ba82-4fa6-a6bb-7b2b67070510",
+    "job_title": "Researcher, Synthetic RL",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/60d3700b-ba82-4fa6-a6bb-7b2b67070510/application",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:46.459Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "e71fa19e2234f8960e64250081ccdff9d1c419f80528b56f40a48131b2eebe05",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "asana",
+        "machine learning",
+        "openai",
+        "reinforcement learning",
+        "statistical analysis"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": "The Synthetic RL team develops reinforcement learning methods that leverage synthetic data, environments, and feedback to train and evaluate frontier AI models.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:46.459Z"
+  },
+  {
+    "job_id": "ashby-openai-1c516e9f-c97d-4a40-8529-9871dac615a5",
+    "job_title": "Research Engineer / Research Scientist, Post-Training",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/1c516e9f-c97d-4a40-8529-9871dac615a5/application",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:46.459Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "c2fabc1910aef68ef4f9bb76a72a8f4241236aed0f96cb15443173d52ab6becc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "asana",
+        "chatgpt",
+        "machine learning",
+        "openai",
+        "reinforcement learning"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": "The Post-Training team is responsible for training and improving pre-trained models to be deployed into ChatGPT, the API, and potential future products.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:46.459Z"
+  },
+  {
+    "job_id": "ashby-openai-ecf1abec-898c-4acb-a984-42858836a1ff",
+    "job_title": "Machine Learning Engineer, Integrity",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/ecf1abec-898c-4acb-a984-42858836a1ff/application",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:46.459Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "9c1e35b311115b4e5bf37b0a7f218b77a82383ae0dd0d5ff4934863d29984259",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "asana",
+        "computer science",
+        "data science",
+        "deep learning",
+        "fine-tuning",
+        "machine learning",
+        "openai",
+        "pytorch",
+        "tensorflow",
+        "transformers"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "The Integrity team at OpenAI is dedicated to ensuring that our cutting-edge technology is not only revolutionary, but also secure from a myriad of adversarial threats.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:46.459Z"
+  },
+  {
     "job_id": "ashby-openai-bcbe08e3-9593-431d-bc99-37e35e035742",
     "job_title": "Researcher, Health AI",
     "employer_name": "OpenAI",
@@ -10717,146 +10881,6 @@
       "is_simple_apply": false,
       "summary_line": "The User Operations team is central to ensuring that our customers' experience with our products is nothing short of exceptional.",
       "is_remote": true
-    },
-    "job_posted_at": "2026-04-20T01:57:46.459Z"
-  },
-  {
-    "job_id": "ashby-openai-60d3700b-ba82-4fa6-a6bb-7b2b67070510",
-    "job_title": "Researcher, Synthetic RL",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/60d3700b-ba82-4fa6-a6bb-7b2b67070510/application",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:46.459Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "e71fa19e2234f8960e64250081ccdff9d1c419f80528b56f40a48131b2eebe05",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "asana",
-        "machine learning",
-        "openai",
-        "reinforcement learning",
-        "statistical analysis"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": "The Synthetic RL team develops reinforcement learning methods that leverage synthetic data, environments, and feedback to train and evaluate frontier AI models.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:46.459Z"
-  },
-  {
-    "job_id": "ashby-openai-1c516e9f-c97d-4a40-8529-9871dac615a5",
-    "job_title": "Research Engineer / Research Scientist, Post-Training",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/1c516e9f-c97d-4a40-8529-9871dac615a5/application",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:46.459Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "c2fabc1910aef68ef4f9bb76a72a8f4241236aed0f96cb15443173d52ab6becc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "asana",
-        "chatgpt",
-        "machine learning",
-        "openai",
-        "reinforcement learning"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": "The Post-Training team is responsible for training and improving pre-trained models to be deployed into ChatGPT, the API, and potential future products.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:46.459Z"
-  },
-  {
-    "job_id": "ashby-openai-ecf1abec-898c-4acb-a984-42858836a1ff",
-    "job_title": "Machine Learning Engineer, Integrity",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/ecf1abec-898c-4acb-a984-42858836a1ff/application",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:46.459Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "9c1e35b311115b4e5bf37b0a7f218b77a82383ae0dd0d5ff4934863d29984259",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "asana",
-        "computer science",
-        "data science",
-        "deep learning",
-        "fine-tuning",
-        "machine learning",
-        "openai",
-        "pytorch",
-        "tensorflow",
-        "transformers"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "The Integrity team at OpenAI is dedicated to ensuring that our cutting-edge technology is not only revolutionary, but also secure from a myriad of adversarial threats.",
-      "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:46.459Z"
   },
@@ -13735,327 +13759,6 @@
     "job_posted_at": "2026-04-20T01:57:34.439Z"
   },
   {
-    "job_id": "greenhouse-point72-7661997002",
-    "job_title": "NLP / AI Engineer",
-    "employer_name": "Point72",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7661997002?gh_jid=7661997002",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:34.130Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bd67b88c6a597cd63376499b5a11c44349bbbf41fa9593f492be46ebed5fc71d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "data science",
-        "github",
-        "nlp",
-        "python",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": "Bachelor, Master’s or PhD graduate or candidate in computer science or another quantitative discipline   Experience in NLP, particularly LLMs.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:34.130Z"
-  },
-  {
-    "job_id": "greenhouse-point72-7906984002",
-    "job_title": "Quantitative Researcher",
-    "employer_name": "Point72",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7906984002?gh_jid=7906984002",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:34.130Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ae17a0e427f86bd2ecd179abe21399e4152597a2da9845a5b2f0d2f77407a31b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "aws",
-        "c++",
-        "computer science",
-        "data science",
-        "feature engineering",
-        "linux",
-        "python",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": "Bachelor’s degree or higher in mathematics, statistics, computer science, or similar quantitative discipline   3+ years of work experience in systematic alpha research in equities using high frequency",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:34.130Z"
-  },
-  {
-    "job_id": "greenhouse-point72-8023550002",
-    "job_title": "Quantitative Researcher - Machine Learning",
-    "employer_name": "Point72",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/8023550002?gh_jid=8023550002",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:34.130Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f9a15bd4d396b2194a2ff9857f92cbab43307d6fd285135c57ed0229c7243194",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science",
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "machine learning",
-        "python",
-        "reinforcement learning",
-        "statistics",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": "A highly collaborative, fast-growing team at Internal Alpha Capture (IAC), Point72 is developing AI-driven equity trading signals that leverage rigorous research, state-of-the-art machine learning met…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:34.130Z"
-  },
-  {
-    "job_id": "greenhouse-point72-7297513002",
-    "job_title": "Quantitative Researcher - Machine Learning",
-    "employer_name": "Point72",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7297513002?gh_jid=7297513002",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:34.130Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f9a15bd4d396b2194a2ff9857f92cbab43307d6fd285135c57ed0229c7243194",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science",
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "deep learning",
-        "forecasting",
-        "machine learning",
-        "natural language processing",
-        "python",
-        "pytorch",
-        "r",
-        "statistics",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": "PhD or PhD candidate in machine learning, computer science, statistics, or a related field   Experience with sequential modeling and time series forecasting using deep learning   Experience with deep ",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:34.130Z"
-  },
-  {
-    "job_id": "greenhouse-point72-7297612002",
-    "job_title": "Quantitative Researcher - Macro",
-    "employer_name": "Point72",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7297612002?gh_jid=7297612002",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:34.130Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "60ea6b99e2fdcbaf9f0f5b0b6daf1a580a13bea84b96022439e20e31564f4289",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "feature engineering",
-        "machine learning",
-        "numpy",
-        "pandas",
-        "python",
-        "regression",
-        "scikit-learn",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": "Cubist Systematic Strategies, an affiliate of Point72, deploys systematic, computer-driven trading strategies across multiple liquid asset classes, including equities, futures and foreign exchange.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:34.130Z"
-  },
-  {
-    "job_id": "greenhouse-point72-7297625002",
-    "job_title": "Quantitative Researcher - Systematic Credit",
-    "employer_name": "Point72",
-    "job_city": "Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7297625002?gh_jid=7297625002",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:34.130Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e8fed01342a0f7cc22cb270b2322c36dbfd7c46af8716a7a35d671266c23f65c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "ci/cd",
-        "python",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": "PhD or Master’s degree in Economics, Finance, Statistics, Mathematics, Physics, or other quantitative discipline   2+ years of experience developing statistical and fundamental alpha signals, risk fac",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:34.130Z"
-  },
-  {
-    "job_id": "greenhouse-point72-7297643002",
-    "job_title": "Quantitative Researcher, Trading Research",
-    "employer_name": "Point72",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7297643002?gh_jid=7297643002",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:34.130Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6e646d8a0c7497bda8b8a97b06809873ab79b46ed03bbdde2d576a47b9161ff9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "aws",
-        "c++",
-        "computer science",
-        "python",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": "Master's degree or higher in a quantitative field such as Finance, Mathematics, Statistics, Computer Science, or a related discipline.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:34.130Z"
-  },
-  {
     "job_id": "greenhouse-point72-7045987002",
     "job_title": "Cubist Quantitative Researcher",
     "employer_name": "Point72",
@@ -14498,6 +14201,327 @@
       "possible_sponsor": true,
       "is_simple_apply": true,
       "summary_line": "MS or PhD in physics, engineering, statistics, applied math, quantitative finance, or other quantitative fields with a strong foundation in statistics   4+ years of experience in quantitative research",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:34.130Z"
+  },
+  {
+    "job_id": "greenhouse-point72-7661997002",
+    "job_title": "NLP / AI Engineer",
+    "employer_name": "Point72",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7661997002?gh_jid=7661997002",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:34.130Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bd67b88c6a597cd63376499b5a11c44349bbbf41fa9593f492be46ebed5fc71d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data science",
+        "github",
+        "nlp",
+        "python",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": "Bachelor, Master’s or PhD graduate or candidate in computer science or another quantitative discipline   Experience in NLP, particularly LLMs.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:34.130Z"
+  },
+  {
+    "job_id": "greenhouse-point72-7906984002",
+    "job_title": "Quantitative Researcher",
+    "employer_name": "Point72",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7906984002?gh_jid=7906984002",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:34.130Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ae17a0e427f86bd2ecd179abe21399e4152597a2da9845a5b2f0d2f77407a31b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "c++",
+        "computer science",
+        "data science",
+        "feature engineering",
+        "linux",
+        "python",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": "Bachelor’s degree or higher in mathematics, statistics, computer science, or similar quantitative discipline   3+ years of work experience in systematic alpha research in equities using high frequency",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:34.130Z"
+  },
+  {
+    "job_id": "greenhouse-point72-8023550002",
+    "job_title": "Quantitative Researcher - Machine Learning",
+    "employer_name": "Point72",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/8023550002?gh_jid=8023550002",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:34.130Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f9a15bd4d396b2194a2ff9857f92cbab43307d6fd285135c57ed0229c7243194",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science",
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "machine learning",
+        "python",
+        "reinforcement learning",
+        "statistics",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": "A highly collaborative, fast-growing team at Internal Alpha Capture (IAC), Point72 is developing AI-driven equity trading signals that leverage rigorous research, state-of-the-art machine learning met…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:34.130Z"
+  },
+  {
+    "job_id": "greenhouse-point72-7297513002",
+    "job_title": "Quantitative Researcher - Machine Learning",
+    "employer_name": "Point72",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7297513002?gh_jid=7297513002",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:34.130Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f9a15bd4d396b2194a2ff9857f92cbab43307d6fd285135c57ed0229c7243194",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science",
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "deep learning",
+        "forecasting",
+        "machine learning",
+        "natural language processing",
+        "python",
+        "pytorch",
+        "r",
+        "statistics",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": "PhD or PhD candidate in machine learning, computer science, statistics, or a related field   Experience with sequential modeling and time series forecasting using deep learning   Experience with deep ",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:34.130Z"
+  },
+  {
+    "job_id": "greenhouse-point72-7297612002",
+    "job_title": "Quantitative Researcher - Macro",
+    "employer_name": "Point72",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7297612002?gh_jid=7297612002",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:34.130Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "60ea6b99e2fdcbaf9f0f5b0b6daf1a580a13bea84b96022439e20e31564f4289",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "feature engineering",
+        "machine learning",
+        "numpy",
+        "pandas",
+        "python",
+        "regression",
+        "scikit-learn",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": "Cubist Systematic Strategies, an affiliate of Point72, deploys systematic, computer-driven trading strategies across multiple liquid asset classes, including equities, futures and foreign exchange.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:34.130Z"
+  },
+  {
+    "job_id": "greenhouse-point72-7297625002",
+    "job_title": "Quantitative Researcher - Systematic Credit",
+    "employer_name": "Point72",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7297625002?gh_jid=7297625002",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:34.130Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e8fed01342a0f7cc22cb270b2322c36dbfd7c46af8716a7a35d671266c23f65c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "ci/cd",
+        "python",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": "PhD or Master’s degree in Economics, Finance, Statistics, Mathematics, Physics, or other quantitative discipline   2+ years of experience developing statistical and fundamental alpha signals, risk fac",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:34.130Z"
+  },
+  {
+    "job_id": "greenhouse-point72-7297643002",
+    "job_title": "Quantitative Researcher, Trading Research",
+    "employer_name": "Point72",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7297643002?gh_jid=7297643002",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:34.130Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6e646d8a0c7497bda8b8a97b06809873ab79b46ed03bbdde2d576a47b9161ff9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "c++",
+        "computer science",
+        "python",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": "Master's degree or higher in a quantitative field such as Finance, Mathematics, Statistics, Computer Science, or a related discipline.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:34.130Z"
@@ -15713,48 +15737,6 @@
     "job_posted_at": "2026-04-20T01:57:30.478Z"
   },
   {
-    "job_id": "greenhouse-janestreet-6558007002",
-    "job_title": "Data Engineer",
-    "employer_name": "Jane Street",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/janestreet/jobs/6558007002",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:30.274Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7fca97ec9c6ee25e1f0b4a16289b5611aedc120cb0ed928174b280cae5abb225",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "pandas",
-        "python",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Have strong programming skills in any language (Python a plus); you write clear, correct, and maintainable code   Proficient with SQL or DataFrame libraries like pandas or Polars   Intellectually curi",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:30.274Z"
-  },
-  {
     "job_id": "greenhouse-janestreet-8056588002",
     "job_title": "Machine Learning Educator",
     "employer_name": "Jane Street",
@@ -16129,6 +16111,48 @@
     "job_posted_at": "2026-04-20T01:57:30.274Z"
   },
   {
+    "job_id": "greenhouse-janestreet-6558007002",
+    "job_title": "Data Engineer",
+    "employer_name": "Jane Street",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/janestreet/jobs/6558007002",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:30.274Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7fca97ec9c6ee25e1f0b4a16289b5611aedc120cb0ed928174b280cae5abb225",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "pandas",
+        "python",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Have strong programming skills in any language (Python a plus); you write clear, correct, and maintainable code   Proficient with SQL or DataFrame libraries like pandas or Polars   Intellectually curi",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:30.274Z"
+  },
+  {
     "job_id": "greenhouse-jumptrading-7773688",
     "job_title": "Applied AI Engineer (AI Adoption)",
     "employer_name": "Jump Trading",
@@ -16171,92 +16195,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:29.933Z"
-  },
-  {
-    "job_id": "greenhouse-imc-4660792101",
-    "job_title": "Quantitative Researcher - Data Curation",
-    "employer_name": "IMC Trading",
-    "job_city": "Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.eu.greenhouse.io/imc/jobs/4660792101",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:29.140Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "48132a903a1e46c34c90ccc37e0de497bbea8729d57940c33d3823bb24d5a5e6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "data quality",
-        "machine learning",
-        "python",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": null,
-      "is_simple_apply": true,
-      "summary_line": "We are seeking a highly analytical and detail-oriented Quantitative Researcher to join our dynamic research team.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:29.140Z"
-  },
-  {
-    "job_id": "greenhouse-imc-4382558101",
-    "job_title": "Quantitative Researcher – Equities",
-    "employer_name": "IMC Trading",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.eu.greenhouse.io/imc/jobs/4382558101",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:29.140Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0892b49c71d713f7abd2284b1b50b63b5442feb082658e67cb5de1048cffd112",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "data analysis",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": null,
-      "is_simple_apply": true,
-      "summary_line": "IMC is looking for experienced quantitative researchers to develop high-frequency, low-latency equity trading strategies and predictive models.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:29.140Z"
   },
   {
     "job_id": "greenhouse-imc-4832698101",
@@ -16401,6 +16339,92 @@
       "possible_sponsor": null,
       "is_simple_apply": true,
       "summary_line": "IMC Trading is seeking quantitative researchers with a proven track record to apply state-of-the-art machine learning & deep learning to solve challenging trading problems.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:29.140Z"
+  },
+  {
+    "job_id": "greenhouse-imc-4660792101",
+    "job_title": "Quantitative Researcher - Data Curation",
+    "employer_name": "IMC Trading",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.eu.greenhouse.io/imc/jobs/4660792101",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:29.140Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "48132a903a1e46c34c90ccc37e0de497bbea8729d57940c33d3823bb24d5a5e6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "data quality",
+        "machine learning",
+        "python",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": null,
+      "is_simple_apply": true,
+      "summary_line": "We are seeking a highly analytical and detail-oriented Quantitative Researcher to join our dynamic research team.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:29.140Z"
+  },
+  {
+    "job_id": "greenhouse-imc-4382558101",
+    "job_title": "Quantitative Researcher – Equities",
+    "employer_name": "IMC Trading",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.eu.greenhouse.io/imc/jobs/4382558101",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:29.140Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0892b49c71d713f7abd2284b1b50b63b5442feb082658e67cb5de1048cffd112",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data analysis",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": null,
+      "is_simple_apply": true,
+      "summary_line": "IMC is looking for experienced quantitative researchers to develop high-frequency, low-latency equity trading strategies and predictive models.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:29.140Z"
@@ -18755,57 +18779,6 @@
     "job_posted_at": "2026-04-20T01:57:25.351Z"
   },
   {
-    "job_id": "greenhouse-contentful-7544101",
-    "job_title": "Analytics Engineer",
-    "employer_name": "Contentful",
-    "job_city": "Denver",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/contentful/jobs/7544101",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:23.380Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "689701d6d0babc483f42d3ff5790e9d3592c7df59a78fdb154dbc8339ce74b4a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "airflow",
-        "analytics",
-        "data modeling",
-        "dbt",
-        "etl",
-        "networking",
-        "observability",
-        "salesforce",
-        "scalability",
-        "snowflake",
-        "sql",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": true,
-      "summary_line": "We’re looking for an experienced Analytics Engineer to help build the next generation of Contentful’s analytics foundation, powering Insight 360, our unified Snowflake-based data platform.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:23.380Z"
-  },
-  {
     "job_id": "greenhouse-contentful-7548713",
     "job_title": "Data Scientist",
     "employer_name": "Contentful",
@@ -18862,6 +18835,57 @@
       "possible_sponsor": null,
       "is_simple_apply": true,
       "summary_line": "We are looking for a Data Scientist who will turn data into insights and build models that drive meaningful business outcomes.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:23.380Z"
+  },
+  {
+    "job_id": "greenhouse-contentful-7544101",
+    "job_title": "Analytics Engineer",
+    "employer_name": "Contentful",
+    "job_city": "Denver",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/contentful/jobs/7544101",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:23.380Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "689701d6d0babc483f42d3ff5790e9d3592c7df59a78fdb154dbc8339ce74b4a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "analytics",
+        "data modeling",
+        "dbt",
+        "etl",
+        "networking",
+        "observability",
+        "salesforce",
+        "scalability",
+        "snowflake",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": true,
+      "summary_line": "We’re looking for an experienced Analytics Engineer to help build the next generation of Contentful’s analytics foundation, powering Insight 360, our unified Snowflake-based data platform.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:23.380Z"
@@ -19669,104 +19693,6 @@
     "job_posted_at": "2026-04-20T01:57:19.512Z"
   },
   {
-    "job_id": "greenhouse-anthropic-4952079008",
-    "job_title": "Machine Learning Systems Engineer, Research Tools",
-    "employer_name": "Anthropic",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4952079008",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:18.179Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ccbc6bba6dccfdb664b093c6b2022abf7067a1b36c31b27e3e973642595235e3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "anthropic",
-        "computer science",
-        "distributed systems",
-        "gpt",
-        "machine learning",
-        "multimodal",
-        "python",
-        "slack"
-      ],
-      "sponsors_visa": true,
-      "visa_question_present": true,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Anthropic’s mission is to create reliable, interpretable, and steerable AI systems.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:18.179Z"
-  },
-  {
-    "job_id": "greenhouse-anthropic-4952051008",
-    "job_title": "Machine Learning Systems Engineer, RL Engineering",
-    "employer_name": "Anthropic",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4952051008",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:18.179Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e52ea031d87df880a37ffcee7dfbbe19c1bcdf9beea34f730a43d2096b9106c4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "anthropic",
-        "computer science",
-        "distributed systems",
-        "gpt",
-        "llm",
-        "machine learning",
-        "multimodal",
-        "python",
-        "reinforcement learning",
-        "slack"
-      ],
-      "sponsors_visa": true,
-      "visa_question_present": true,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Anthropic’s mission is to create reliable, interpretable, and steerable AI systems.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:18.179Z"
-  },
-  {
     "job_id": "greenhouse-anthropic-4613568008",
     "job_title": "Research Engineer, Machine Learning (Reinforcement Learning)",
     "employer_name": "Anthropic",
@@ -20155,6 +20081,104 @@
     "job_posted_at": "2026-04-20T01:57:18.179Z"
   },
   {
+    "job_id": "greenhouse-anthropic-4952079008",
+    "job_title": "Machine Learning Systems Engineer, Research Tools",
+    "employer_name": "Anthropic",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4952079008",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:18.179Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ccbc6bba6dccfdb664b093c6b2022abf7067a1b36c31b27e3e973642595235e3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "anthropic",
+        "computer science",
+        "distributed systems",
+        "gpt",
+        "machine learning",
+        "multimodal",
+        "python",
+        "slack"
+      ],
+      "sponsors_visa": true,
+      "visa_question_present": true,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Anthropic’s mission is to create reliable, interpretable, and steerable AI systems.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:18.179Z"
+  },
+  {
+    "job_id": "greenhouse-anthropic-4952051008",
+    "job_title": "Machine Learning Systems Engineer, RL Engineering",
+    "employer_name": "Anthropic",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4952051008",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:18.179Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e52ea031d87df880a37ffcee7dfbbe19c1bcdf9beea34f730a43d2096b9106c4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "anthropic",
+        "computer science",
+        "distributed systems",
+        "gpt",
+        "llm",
+        "machine learning",
+        "multimodal",
+        "python",
+        "reinforcement learning",
+        "slack"
+      ],
+      "sponsors_visa": true,
+      "visa_question_present": true,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Anthropic’s mission is to create reliable, interpretable, and steerable AI systems.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:18.179Z"
+  },
+  {
     "job_id": "greenhouse-anthropic-5068226008",
     "job_title": "Applied AI Engineer, Beneficial Deployments",
     "employer_name": "Anthropic",
@@ -20392,47 +20416,6 @@
     "job_posted_at": "2026-04-20T01:57:18.178Z"
   },
   {
-    "job_id": "greenhouse-appliedintuition-4676438005",
-    "job_title": "Embedded AI Engineer – Android Automotive (On-Device Intelligence)",
-    "employer_name": "Applied Intuition",
-    "job_city": "Sunnyvale",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/appliedintuition/jobs/4676438005?gh_jid=4676438005",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:18.044Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ab16739cf26eeb80f3516ff8dc7fbfa6084823aa8e0ccf7859d8ebe405a80ae5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "cfr"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Applied Intuition pay ranges reflect the minimum and maximum intended target base salary for new hire salaries for the position.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:18.044Z"
-  },
-  {
     "job_id": "greenhouse-appliedintuition-4620154005",
     "job_title": "People Data Analyst",
     "employer_name": "Applied Intuition",
@@ -20653,6 +20636,47 @@
         "software",
         "ai",
         "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "cfr"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Applied Intuition pay ranges reflect the minimum and maximum intended target base salary for new hire salaries for the position.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:18.044Z"
+  },
+  {
+    "job_id": "greenhouse-appliedintuition-4676438005",
+    "job_title": "Embedded AI Engineer – Android Automotive (On-Device Intelligence)",
+    "employer_name": "Applied Intuition",
+    "job_city": "Sunnyvale",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/appliedintuition/jobs/4676438005?gh_jid=4676438005",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:18.044Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ab16739cf26eeb80f3516ff8dc7fbfa6084823aa8e0ccf7859d8ebe405a80ae5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science",
+        "hardware"
       ],
       "locations": [
         "us"
@@ -21980,6 +22004,52 @@
     "job_posted_at": "2026-04-20T01:57:09.483Z"
   },
   {
+    "job_id": "js-ark-solutions-ogs29p6lqr3xrvstaaaaaa==",
+    "job_title": "Virtual Data Analyst / Entry level (Remote)",
+    "employer_name": "Ark Solutions",
+    "job_city": "Philadelphia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/6eiWperWMFKMVPVZCJxEbf",
+    "job_posted_at_datetime_utc": "2026-04-20T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "4bfce94615d7c11125c7aecd3e016f297dd4b876631782a6ec9934b33c8eed50",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data visualization",
+        "power bi",
+        "python",
+        "sql",
+        "statistics",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Required Qualifications  • Bachelor's degree in a related field such as Mathematics, Statistics, Economics, or Computer Science  • Strong analytical and problem-solving skills  • Proficiency in SQL, P…",
+      "is_remote": true
+    },
+    "job_posted_at": "2026-04-20T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-fa934e85-b13b-4b5a-af27-bcfbb15b5b27",
     "job_title": "Data Engineer, Content And Data Platform",
     "employer_name": "Amazon.com Services LLC",
@@ -22217,52 +22287,6 @@
     "job_posted_at": "2026-04-20T00:00:00.000Z"
   },
   {
-    "job_id": "js-ark-solutions-ogs29p6lqr3xrvstaaaaaa==",
-    "job_title": "Virtual Data Analyst / Entry level (Remote)",
-    "employer_name": "Ark Solutions",
-    "job_city": "Philadelphia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/6eiWperWMFKMVPVZCJxEbf",
-    "job_posted_at_datetime_utc": "2026-04-20T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "4bfce94615d7c11125c7aecd3e016f297dd4b876631782a6ec9934b33c8eed50",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "data visualization",
-        "power bi",
-        "python",
-        "sql",
-        "statistics",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Required Qualifications  • Bachelor's degree in a related field such as Mathematics, Statistics, Economics, or Computer Science  • Strong analytical and problem-solving skills  • Proficiency in SQL, P…",
-      "is_remote": true
-    },
-    "job_posted_at": "2026-04-20T00:00:00.000Z"
-  },
-  {
     "job_id": "js-nbcuniversal-81scbfcnmpi9ow4haaaaaa==",
     "job_title": "Data Science & Analytics Internships – Academic Year",
     "employer_name": "NBCUniversal",
@@ -22427,50 +22451,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-18T10:20:25.465Z"
-  },
-  {
-    "job_id": "workday-boston-dynamics-R2182",
-    "job_title": "Teleoperations Research Engineer, Atlas",
-    "employer_name": "Boston Dynamics",
-    "job_city": "Waltham Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Teleoperations-Research-Scientist--Atlas_R2182",
-    "job_posted_at_datetime_utc": "2026-04-18T09:32:54.726Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a1483d897f3d7e75f927cbafb38fd571fdbbacd8f0e88837feea8cf844370cd0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "machine learning",
-        "python",
-        "robotics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "The Atlas team at Boston Dynamics is pushing the limits of robotic mobility and manipulation.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-18T09:32:54.726Z"
   },
   {
     "job_id": "workday-boston-dynamics-R1807",
@@ -22698,6 +22678,50 @@
     "job_posted_at": "2026-04-18T09:32:54.726Z"
   },
   {
+    "job_id": "workday-boston-dynamics-R2182",
+    "job_title": "Teleoperations Research Engineer, Atlas",
+    "employer_name": "Boston Dynamics",
+    "job_city": "Waltham Office",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Teleoperations-Research-Scientist--Atlas_R2182",
+    "job_posted_at_datetime_utc": "2026-04-18T09:32:54.726Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a1483d897f3d7e75f927cbafb38fd571fdbbacd8f0e88837feea8cf844370cd0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "machine learning",
+        "python",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "The Atlas team at Boston Dynamics is pushing the limits of robotic mobility and manipulation.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-18T09:32:54.726Z"
+  },
+  {
     "job_id": "workday-applied-materials-R2618071",
     "job_title": "Data Analyst NCG/Early Career",
     "employer_name": "Applied Materials",
@@ -22825,12 +22849,12 @@
     "_original_source": "smartrecruiters",
     "enrichment": {
       "required_skills": [
+        "Natural Language Processing",
         "agentic",
         "c++",
         "computer science",
         "fine-tuning",
         "llm",
-        "nlp",
         "python",
         "rag",
         "reinforcement learning"
@@ -23599,196 +23623,6 @@
     "job_posted_at": "2026-04-17T07:01:57.768Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0238124",
-    "job_title": "AI Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "San Antonio",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Antonio-TX/AI-Engineer_R0238124",
-    "job_posted_at_datetime_utc": "2026-04-17T07:01:55.588Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b7da5612676762b3047b7f38db3abddecd7bc0cf99a24e8cac119cbe1da0b0dc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "analytics",
-        "aws",
-        "ci/cd",
-        "computer science",
-        "computer vision",
-        "data science",
-        "design patterns",
-        "devsecops",
-        "event-driven",
-        "fastapi",
-        "flask",
-        "graphql",
-        "infrastructure as code",
-        "java",
-        "kafka",
-        "kubernetes",
-        "lidar",
-        "multimodal",
-        "python",
-        "rabbitmq",
-        "rag",
-        "rest",
-        "sql",
-        "terraform",
-        "typescript"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "AI Engineer The Opportunity: As an experienced AI engineer, you know that AI systems are critical to understanding and processing massive datasets in an organization.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-17T07:01:55.588Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0236817",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fort Belvoir",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Belvoir-VA/Zero-Trust-Information-Systems-Security-Engineer_R0236817",
-    "job_posted_at_datetime_utc": "2026-04-17T07:01:55.588Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7f8c2f5da2f84255e06427b6140b6b6f77271644ee8d20f5e4971dc9214c6c18",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "ansible",
-        "azure",
-        "azure devops",
-        "cybersecurity",
-        "devops",
-        "devsecops",
-        "dhcp",
-        "dns",
-        "firewalls",
-        "gitlab",
-        "http",
-        "ids",
-        "incident response",
-        "ips",
-        "kibana",
-        "linux",
-        "logstash",
-        "network security",
-        "networking",
-        "nist",
-        "observability",
-        "powershell",
-        "puppet",
-        "python",
-        "siem",
-        "splunk",
-        "terraform",
-        "vulnerability assessment",
-        "windows",
-        "zero trust"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Zero Trust Information Systems Security Engineer The Opportunity: Are you looking for an opportunity to share your experience in system security engineering to help our country and assist our clients…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-17T07:01:55.588Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0238097",
-    "job_title": "Data Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "San Antonio",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Antonio-TX/Data-Analyst_R0238097",
-    "job_posted_at_datetime_utc": "2026-04-17T07:01:55.588Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "695b913672d8f2ce1ea0c7e5938b1d586632c8956076852eafdf9f6601ca7d99",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "dashboards",
-        "data analysis",
-        "data science",
-        "data visualization",
-        "databricks",
-        "devops",
-        "etl",
-        "jupyter",
-        "kanban",
-        "machine learning",
-        "power bi",
-        "python",
-        "r",
-        "scrum",
-        "sql",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Data Analyst The Opportunity: As data analyst, you love diving into data and turning it into meaningful insights.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-17T07:01:55.588Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0238000",
     "job_title": "Data Visualization Specialist",
     "employer_name": "Booz Allen Hamilton",
@@ -23976,6 +23810,196 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "C5ISRT Intelligence Analyst The Opportunity: Our clients need skilled analysts to turn reams of data into actionable intelligence for our government and military every day.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-17T07:01:55.588Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0238124",
+    "job_title": "AI Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "San Antonio",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Antonio-TX/AI-Engineer_R0238124",
+    "job_posted_at_datetime_utc": "2026-04-17T07:01:55.588Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b7da5612676762b3047b7f38db3abddecd7bc0cf99a24e8cac119cbe1da0b0dc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "analytics",
+        "aws",
+        "ci/cd",
+        "computer science",
+        "computer vision",
+        "data science",
+        "design patterns",
+        "devsecops",
+        "event-driven",
+        "fastapi",
+        "flask",
+        "graphql",
+        "infrastructure as code",
+        "java",
+        "kafka",
+        "kubernetes",
+        "lidar",
+        "multimodal",
+        "python",
+        "rabbitmq",
+        "rag",
+        "rest",
+        "sql",
+        "terraform",
+        "typescript"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "AI Engineer The Opportunity: As an experienced AI engineer, you know that AI systems are critical to understanding and processing massive datasets in an organization.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-17T07:01:55.588Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0236817",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fort Belvoir",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Belvoir-VA/Zero-Trust-Information-Systems-Security-Engineer_R0236817",
+    "job_posted_at_datetime_utc": "2026-04-17T07:01:55.588Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7f8c2f5da2f84255e06427b6140b6b6f77271644ee8d20f5e4971dc9214c6c18",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "ansible",
+        "azure",
+        "azure devops",
+        "cybersecurity",
+        "devops",
+        "devsecops",
+        "dhcp",
+        "dns",
+        "firewalls",
+        "gitlab",
+        "http",
+        "ids",
+        "incident response",
+        "ips",
+        "kibana",
+        "linux",
+        "logstash",
+        "network security",
+        "networking",
+        "nist",
+        "observability",
+        "powershell",
+        "puppet",
+        "python",
+        "siem",
+        "splunk",
+        "terraform",
+        "vulnerability assessment",
+        "windows",
+        "zero trust"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Zero Trust Information Systems Security Engineer The Opportunity: Are you looking for an opportunity to share your experience in system security engineering to help our country and assist our clients…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-17T07:01:55.588Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0238097",
+    "job_title": "Data Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "San Antonio",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Antonio-TX/Data-Analyst_R0238097",
+    "job_posted_at_datetime_utc": "2026-04-17T07:01:55.588Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "695b913672d8f2ce1ea0c7e5938b1d586632c8956076852eafdf9f6601ca7d99",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "dashboards",
+        "data analysis",
+        "data science",
+        "data visualization",
+        "databricks",
+        "devops",
+        "etl",
+        "jupyter",
+        "kanban",
+        "machine learning",
+        "power bi",
+        "python",
+        "r",
+        "scrum",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Data Analyst The Opportunity: As data analyst, you love diving into data and turning it into meaningful insights.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-17T07:01:55.588Z"
@@ -26208,64 +26232,6 @@
     "job_posted_at": "2026-04-16T07:01:47.832Z"
   },
   {
-    "job_id": "workday-caci-324560",
-    "job_title": "AI/ML Engineer",
-    "employer_name": "CACI",
-    "job_city": "US MD Aberdeen Proving Ground",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/AI-ML-Engineer_324560",
-    "job_posted_at_datetime_utc": "2026-04-16T07:01:47.832Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dabe7697a028619386bac225f586d112b212e1b1954d3a2d7f0d3d385196e1cf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "apache",
-        "apache spark",
-        "aws",
-        "azure",
-        "ci/cd",
-        "computer science",
-        "data science",
-        "deep learning",
-        "docker",
-        "gcp",
-        "git",
-        "kubeflow",
-        "kubernetes",
-        "machine learning",
-        "mlflow",
-        "python",
-        "r",
-        "spark",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Title: AI/ML Engineer Job Category: Engineering Time Type: Full time Minimum Clearance Required to Start: Secret Employee Type: Regular Percentage of Travel Required: Up to 10% Type of Travel: Con…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-16T07:01:47.832Z"
-  },
-  {
     "job_id": "workday-caci-325020",
     "job_title": "Signals Analyst",
     "employer_name": "CACI",
@@ -26344,6 +26310,64 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Title: SIGINT/UAS Data Analyst Job Category: Intelligence Time Type: Full time Minimum Clearance Required to Start: TS/SCI Employee Type: Regular Percentage of Travel Required: Up to 10% Type of T…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-16T07:01:47.832Z"
+  },
+  {
+    "job_id": "workday-caci-324560",
+    "job_title": "AI/ML Engineer",
+    "employer_name": "CACI",
+    "job_city": "US MD Aberdeen Proving Ground",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Aberdeen-Proving-Ground/AI-ML-Engineer_324560",
+    "job_posted_at_datetime_utc": "2026-04-16T07:01:47.832Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dabe7697a028619386bac225f586d112b212e1b1954d3a2d7f0d3d385196e1cf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "apache",
+        "apache spark",
+        "aws",
+        "azure",
+        "ci/cd",
+        "computer science",
+        "data science",
+        "deep learning",
+        "docker",
+        "gcp",
+        "git",
+        "kubeflow",
+        "kubernetes",
+        "machine learning",
+        "mlflow",
+        "python",
+        "r",
+        "spark",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: AI/ML Engineer Job Category: Engineering Time Type: Full time Minimum Clearance Required to Start: Secret Employee Type: Regular Percentage of Travel Required: Up to 10% Type of Travel: Con…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-16T07:01:47.832Z"
@@ -26869,6 +26893,131 @@
     "job_posted_at": "2026-04-16T03:52:40.331Z"
   },
   {
+    "job_id": "js-robert-half-fohvl_duvf6uvdouaaaaaa==",
+    "job_title": "Data Analyst - Entry",
+    "employer_name": "Robert Half",
+    "job_city": "Mendota Heights",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.roberthalf.com/us/en/job/mendota-heights-mn/data-analyst-entry/02310-0013420743-usen",
+    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a2b4589d9b272937d3707ee0071699d385b058d9f37e5c84d80a90d4cbcc9227",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "process improvement",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Are you detail-oriented, analytical, and passionate about data accuracy and process improvement?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-16T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-affordable-land-scaping-services-i08ch67n1qmf0pz8aaaaaa==",
+    "job_title": "Entry-Level Data Analyst",
+    "employer_name": "Affordable land scaping services",
+    "job_city": "Georgia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://tucker.us.expertini.com/job/entry-level-data-analyst-tucker-affordable-land-scap-3697321/",
+    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "2666206f1a39a0f1f1f588fe92489ac090cfab915ead805696905c8503dd3478",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data analysis",
+        "excel",
+        "sql",
+        "statistics",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Qualifications:  - Bachelor's degree in a related field such as mathematics, statistics, or computer science  - Strong analytical and critical thinking skills  - Proficiency in data analysis tools suc…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-16T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-sonimus-llc-np5pld0k7qvpdx9laaaaaa==",
+    "job_title": "Remote Data Analyst - Entry-Level with Paid Training",
+    "employer_name": "SONIMUS LLC",
+    "job_city": "Frankfort",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://www.whatjobs.com/jobs/remote-data-analyst-entry-level/frankfort-kentucky?id=2641100131",
+    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "bba09a0a141f1f76487b1fc6c75b97f9596fee98842c70499e4d108b2e7a7122",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "A technology company is seeking individuals for a full-time remote position in the United States.",
+      "is_remote": true
+    },
+    "job_posted_at": "2026-04-16T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-0b02a608-57f7-4eef-84ae-8dabde7fd7b0",
     "job_title": "Machine Learning Engineer, WWPS ProServe Delivery Team",
     "employer_name": "Amazon Web Services, Inc.",
@@ -27057,131 +27206,6 @@
     "job_posted_at": "2026-04-16T00:00:00.000Z"
   },
   {
-    "job_id": "js-robert-half-fohvl_duvf6uvdouaaaaaa==",
-    "job_title": "Data Analyst - Entry",
-    "employer_name": "Robert Half",
-    "job_city": "Mendota Heights",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.roberthalf.com/us/en/job/mendota-heights-mn/data-analyst-entry/02310-0013420743-usen",
-    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a2b4589d9b272937d3707ee0071699d385b058d9f37e5c84d80a90d4cbcc9227",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "excel",
-        "process improvement",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Are you detail-oriented, analytical, and passionate about data accuracy and process improvement?",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-16T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-affordable-land-scaping-services-i08ch67n1qmf0pz8aaaaaa==",
-    "job_title": "Entry-Level Data Analyst",
-    "employer_name": "Affordable land scaping services",
-    "job_city": "Georgia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://tucker.us.expertini.com/job/entry-level-data-analyst-tucker-affordable-land-scap-3697321/",
-    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "2666206f1a39a0f1f1f588fe92489ac090cfab915ead805696905c8503dd3478",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "data analysis",
-        "excel",
-        "sql",
-        "statistics",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Qualifications:  - Bachelor's degree in a related field such as mathematics, statistics, or computer science  - Strong analytical and critical thinking skills  - Proficiency in data analysis tools suc…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-16T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-sonimus-llc-np5pld0k7qvpdx9laaaaaa==",
-    "job_title": "Remote Data Analyst - Entry-Level with Paid Training",
-    "employer_name": "SONIMUS LLC",
-    "job_city": "Frankfort",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://www.whatjobs.com/jobs/remote-data-analyst-entry-level/frankfort-kentucky?id=2641100131",
-    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "bba09a0a141f1f76487b1fc6c75b97f9596fee98842c70499e4d108b2e7a7122",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "A technology company is seeking individuals for a full-time remote position in the United States.",
-      "is_remote": true
-    },
-    "job_posted_at": "2026-04-16T00:00:00.000Z"
-  },
-  {
     "job_id": "js-robert-half-p9cv5h7lhptkera9aaaaaa==",
     "job_title": "Data Analyst - Entry",
     "employer_name": "Robert Half",
@@ -27300,47 +27324,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-16T00:00:00.000Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00178584",
-    "job_title": "Signals Analyst",
-    "employer_name": "Leidos",
-    "job_city": "Annapolis Junction",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/TechSIGINT-Signals-Analyst_R-00178584",
-    "job_posted_at_datetime_utc": "2026-04-15T23:04:03.394Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c9473efffea0a75258be061a2ac21ccfd1a6dd34f7f37a17547191878e5e2898",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "computer science",
-        "linux",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Leidos has a new and exciting opportunity for a FISINT Signals Analyst in our Intelligence Sector, Cyber & Analytics Business Area (CABA) .",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T23:04:03.394Z"
   }
 ]
