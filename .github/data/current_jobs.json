@@ -25,6 +25,43 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "apache",
+        "apache kafka",
+        "api",
+        "api design",
+        "aws",
+        "cdk",
+        "cloudformation",
+        "dashboards",
+        "dynamodb",
+        "ec2",
+        "ecs",
+        "eks",
+        "elt",
+        "etl",
+        "iam",
+        "infrastructure as code",
+        "kafka",
+        "lambda",
+        "mongodb",
+        "network security",
+        "rds",
+        "scalability",
+        "sns",
+        "sqs",
+        "system design",
+        "terraform"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "AWS Streaming Data Engineer The Opportunity : As an AWS Streaming Data Engineer, you can resolve a problem with a complete end-to-end streaming solution in a fast, agile environment.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-22T18:32:39.274Z"
   },
   {
@@ -54,6 +91,21 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "datadog",
+        "excel",
+        "google sheets",
+        "reporting",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": "1–3 years of experience in a data analyst or similar role   Experience working with SQL to extract and manipulate data   Familiarity with BI tools for dashboarding and reporting   Comfortable working ",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-22T18:22:59.000Z"
   },
   {
