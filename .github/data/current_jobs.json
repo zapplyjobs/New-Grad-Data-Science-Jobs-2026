@@ -11070,7 +11070,7 @@
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": true,
-      "summary_line": "The Synthetic RL team develops reinforcement learning methods that leverage synthetic data, environments, and feedback to train and evaluate frontier AI models.",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:46.459Z"
@@ -11297,7 +11297,7 @@
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": true,
-      "summary_line": "Minimum Qualifications   - Demonstrated exceptional mathematical or algorithmic problem-solving ability   - Strong ability to reason about complex technical or mathematical systems   - Comfort with li…",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:46.458Z"
@@ -11341,7 +11341,7 @@
       "visa_question_present": false,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "The Safety Systems team https://openai.com/safety/safety-systems is responsible for various safety work to ensure our best models can be safely deployed to the real world to benefit the society and is…",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:46.458Z"
@@ -11395,7 +11395,7 @@
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "The Applied team works across research, engineering, product, and design to bring OpenAI’s technology to consumers and businesses.",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:46.458Z"
@@ -11438,7 +11438,7 @@
       "visa_question_present": false,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "By applying to this role, you will be considered for Research Scientist roles across all teams at OpenAI.",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:46.458Z"
@@ -11489,7 +11489,7 @@
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "OpenAI is at the forefront of artificial intelligence, driving innovation and shaping the future with cutting-edge research.",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:46.458Z"
@@ -11544,7 +11544,7 @@
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": true,
-      "summary_line": "SKILLS YOU'LL NEED TO BRING:   - You've spent 3+ years as a data engineer building core datasets and supporting business verticals as needed, ideally in product and business areas with high data volum…",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:46.274Z"
@@ -11598,7 +11598,7 @@
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": true,
-      "summary_line": "SKILLS YOU'LL NEED TO BRING:   - You've spent 4+ years as a data engineer building core datasets and supporting business verticals as needed, ideally in product and business areas with high data volum…",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:46.274Z"
@@ -11642,7 +11642,7 @@
       "visa_question_present": true,
       "possible_sponsor": null,
       "is_simple_apply": true,
-      "summary_line": "3+ years of experience writing high-performance, well-tested, production-quality code.",
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:45.454Z"
