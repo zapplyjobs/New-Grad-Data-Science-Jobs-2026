@@ -6826,6 +6826,162 @@
     "job_posted_at": "2026-04-21T07:10:47.146Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0238246",
+    "job_title": "All-Source Intelligence Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Wright Patterson AFB",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Wright-Patterson-AFB-OH/All-Source-Intelligence-Analyst_R0238246",
+    "job_posted_at_datetime_utc": "2026-04-21T07:10:35.689Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8c8e03c69491bc86548125e15d682e90db8d6abf06c175a9696f6e1d7afcf7e5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-21T07:10:35.689Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0238245",
+    "job_title": "All-Source Intelligence Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Wright Patterson AFB",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Wright-Patterson-AFB-OH/All-Source-Intelligence-Analyst_R0238245",
+    "job_posted_at_datetime_utc": "2026-04-21T07:10:35.689Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8c8e03c69491bc86548125e15d682e90db8d6abf06c175a9696f6e1d7afcf7e5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-21T07:10:35.689Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0238244",
+    "job_title": "All-Source Intelligence Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Wright Patterson AFB",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Wright-Patterson-AFB-OH/All-Source-Intelligence-Analyst_R0238244",
+    "job_posted_at_datetime_utc": "2026-04-21T07:10:35.689Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8c8e03c69491bc86548125e15d682e90db8d6abf06c175a9696f6e1d7afcf7e5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-21T07:10:35.689Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0238258",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fort Walton Beach",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/Data-Engineer_R0238258",
+    "job_posted_at_datetime_utc": "2026-04-21T07:10:35.689Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5b381a448f59b15d0a72668c564184e79d870e36c8f15953eb46b7f4d85f45ce",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "data science",
+        "data visualization",
+        "databricks",
+        "machine learning",
+        "natural language processing",
+        "qlik"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-21T07:10:35.689Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0238243",
     "job_title": "All-Source Intelligence Analyst",
     "employer_name": "Booz Allen Hamilton",
@@ -7011,162 +7167,6 @@
     "job_posted_at": "2026-04-21T07:10:35.689Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0238246",
-    "job_title": "All-Source Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Wright Patterson AFB",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Wright-Patterson-AFB-OH/All-Source-Intelligence-Analyst_R0238246",
-    "job_posted_at_datetime_utc": "2026-04-21T07:10:35.689Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8c8e03c69491bc86548125e15d682e90db8d6abf06c175a9696f6e1d7afcf7e5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-21T07:10:35.689Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0238245",
-    "job_title": "All-Source Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Wright Patterson AFB",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Wright-Patterson-AFB-OH/All-Source-Intelligence-Analyst_R0238245",
-    "job_posted_at_datetime_utc": "2026-04-21T07:10:35.689Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8c8e03c69491bc86548125e15d682e90db8d6abf06c175a9696f6e1d7afcf7e5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-21T07:10:35.689Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0238244",
-    "job_title": "All-Source Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Wright Patterson AFB",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Wright-Patterson-AFB-OH/All-Source-Intelligence-Analyst_R0238244",
-    "job_posted_at_datetime_utc": "2026-04-21T07:10:35.689Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8c8e03c69491bc86548125e15d682e90db8d6abf06c175a9696f6e1d7afcf7e5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-21T07:10:35.689Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0238258",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fort Walton Beach",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/Data-Engineer_R0238258",
-    "job_posted_at_datetime_utc": "2026-04-21T07:10:35.689Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5b381a448f59b15d0a72668c564184e79d870e36c8f15953eb46b7f4d85f45ce",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "data science",
-        "data visualization",
-        "databricks",
-        "machine learning",
-        "natural language processing",
-        "qlik"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-21T07:10:35.689Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0238307",
     "job_title": "Counterproliferation All-Source Intelligence Analyst",
     "employer_name": "Booz Allen Hamilton",
@@ -7202,45 +7202,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-21T07:10:35.688Z"
-  },
-  {
-    "job_id": "workday-caci-325109",
-    "job_title": "Medical Intelligence Analyst",
-    "employer_name": "CACI",
-    "job_city": "US MD Frederick",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Frederick/Medical-Intelligence-Analyst_325109",
-    "job_posted_at_datetime_utc": "2026-04-21T07:10:25.778Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "61126bcd3f370526c84708ff952b4cfdab3d441ee9750088da9df5d3c7cfa470",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "information security"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-21T07:10:25.778Z"
   },
   {
     "job_id": "workday-caci-325060",
@@ -7349,6 +7310,45 @@
         "statistical analysis",
         "tensorflow",
         "transformers"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-21T07:10:25.778Z"
+  },
+  {
+    "job_id": "workday-caci-325109",
+    "job_title": "Medical Intelligence Analyst",
+    "employer_name": "CACI",
+    "job_city": "US MD Frederick",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Frederick/Medical-Intelligence-Analyst_325109",
+    "job_posted_at_datetime_utc": "2026-04-21T07:10:25.778Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "61126bcd3f370526c84708ff952b4cfdab3d441ee9750088da9df5d3c7cfa470",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "information security"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -11567,228 +11567,6 @@
     "job_posted_at": "2026-04-20T01:58:29.795Z"
   },
   {
-    "job_id": "ashby-whatnot-3926a4a7-e441-4ea6-9726-5c22bfe6c025",
-    "job_title": "Machine Learning, Content and Navigation",
-    "employer_name": "Whatnot",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/3926a4a7-e441-4ea6-9726-5c22bfe6c025/application",
-    "job_posted_at_datetime_utc": "2026-04-20T01:58:29.590Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "78790a85675f0d4b5113a377a5a5d4964cd22e23f5c915c50b1e8a1108d6e208",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "feature engineering",
-        "html",
-        "machine learning",
-        "natural language processing",
-        "python",
-        "spring",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:58:29.590Z"
-  },
-  {
-    "job_id": "ashby-whatnot-11162b1e-e7c9-432d-8ef6-6e89d28b3078",
-    "job_title": "Machine Learning Platform Engineer",
-    "employer_name": "Whatnot",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/11162b1e-e7c9-432d-8ef6-6e89d28b3078/application",
-    "job_posted_at_datetime_utc": "2026-04-20T01:58:29.590Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "7448aca79a6ccc115e6f514f1fd8981665eab5e5e351f3ed116e7b28a7fb6f0d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "apache",
-        "apache kafka",
-        "aws",
-        "computer science",
-        "datadog",
-        "dynamodb",
-        "ec2",
-        "ecs",
-        "eks",
-        "elasticsearch",
-        "grafana",
-        "html",
-        "kafka",
-        "lambda",
-        "large language model",
-        "machine learning",
-        "postgresql",
-        "python",
-        "redis",
-        "s3",
-        "sagemaker",
-        "spring",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:58:29.590Z"
-  },
-  {
-    "job_id": "ashby-whatnot-fc9888be-75e6-47f3-891f-814a666cfe0a",
-    "job_title": "Machine Learning Engineer, Content and Navigation",
-    "employer_name": "Whatnot",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/fc9888be-75e6-47f3-891f-814a666cfe0a/application",
-    "job_posted_at_datetime_utc": "2026-04-20T01:58:29.590Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "71ae9c06275fe573f12ecca2da713fdfb0565910f4aff7028266c725d3184145",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "feature engineering",
-        "html",
-        "machine learning",
-        "natural language processing",
-        "python",
-        "spring",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:58:29.590Z"
-  },
-  {
-    "job_id": "ashby-whatnot-cee7e839-d88d-4782-8e55-82de2e9ad87e",
-    "job_title": "Machine Learning Infrastructure Engineer",
-    "employer_name": "Whatnot",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/cee7e839-d88d-4782-8e55-82de2e9ad87e/application",
-    "job_posted_at_datetime_utc": "2026-04-20T01:58:29.590Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "588dd07f5132ab476ab4911b171e34cf4da12f9f4b116ffc8bbd350518dc7f77",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "apache",
-        "apache kafka",
-        "aws",
-        "computer science",
-        "datadog",
-        "dynamodb",
-        "ec2",
-        "ecs",
-        "eks",
-        "elasticsearch",
-        "grafana",
-        "html",
-        "kafka",
-        "lambda",
-        "large language model",
-        "machine learning",
-        "postgresql",
-        "python",
-        "redis",
-        "s3",
-        "sagemaker",
-        "spring",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:58:29.590Z"
-  },
-  {
     "job_id": "ashby-whatnot-9fd6fef1-619f-48dd-97b0-c91063432df3",
     "job_title": "Data Engineer",
     "employer_name": "Whatnot",
@@ -12005,6 +11783,228 @@
         "spark",
         "spring",
         "sql",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:58:29.590Z"
+  },
+  {
+    "job_id": "ashby-whatnot-3926a4a7-e441-4ea6-9726-5c22bfe6c025",
+    "job_title": "Machine Learning, Content and Navigation",
+    "employer_name": "Whatnot",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/3926a4a7-e441-4ea6-9726-5c22bfe6c025/application",
+    "job_posted_at_datetime_utc": "2026-04-20T01:58:29.590Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "78790a85675f0d4b5113a377a5a5d4964cd22e23f5c915c50b1e8a1108d6e208",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "feature engineering",
+        "html",
+        "machine learning",
+        "natural language processing",
+        "python",
+        "spring",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:58:29.590Z"
+  },
+  {
+    "job_id": "ashby-whatnot-11162b1e-e7c9-432d-8ef6-6e89d28b3078",
+    "job_title": "Machine Learning Platform Engineer",
+    "employer_name": "Whatnot",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/11162b1e-e7c9-432d-8ef6-6e89d28b3078/application",
+    "job_posted_at_datetime_utc": "2026-04-20T01:58:29.590Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "7448aca79a6ccc115e6f514f1fd8981665eab5e5e351f3ed116e7b28a7fb6f0d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "apache",
+        "apache kafka",
+        "aws",
+        "computer science",
+        "datadog",
+        "dynamodb",
+        "ec2",
+        "ecs",
+        "eks",
+        "elasticsearch",
+        "grafana",
+        "html",
+        "kafka",
+        "lambda",
+        "large language model",
+        "machine learning",
+        "postgresql",
+        "python",
+        "redis",
+        "s3",
+        "sagemaker",
+        "spring",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:58:29.590Z"
+  },
+  {
+    "job_id": "ashby-whatnot-fc9888be-75e6-47f3-891f-814a666cfe0a",
+    "job_title": "Machine Learning Engineer, Content and Navigation",
+    "employer_name": "Whatnot",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/fc9888be-75e6-47f3-891f-814a666cfe0a/application",
+    "job_posted_at_datetime_utc": "2026-04-20T01:58:29.590Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "71ae9c06275fe573f12ecca2da713fdfb0565910f4aff7028266c725d3184145",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "feature engineering",
+        "html",
+        "machine learning",
+        "natural language processing",
+        "python",
+        "spring",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:58:29.590Z"
+  },
+  {
+    "job_id": "ashby-whatnot-cee7e839-d88d-4782-8e55-82de2e9ad87e",
+    "job_title": "Machine Learning Infrastructure Engineer",
+    "employer_name": "Whatnot",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/cee7e839-d88d-4782-8e55-82de2e9ad87e/application",
+    "job_posted_at_datetime_utc": "2026-04-20T01:58:29.590Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "588dd07f5132ab476ab4911b171e34cf4da12f9f4b116ffc8bbd350518dc7f77",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "apache",
+        "apache kafka",
+        "aws",
+        "computer science",
+        "datadog",
+        "dynamodb",
+        "ec2",
+        "ecs",
+        "eks",
+        "elasticsearch",
+        "grafana",
+        "html",
+        "kafka",
+        "lambda",
+        "large language model",
+        "machine learning",
+        "postgresql",
+        "python",
+        "redis",
+        "s3",
+        "sagemaker",
+        "spring",
         "statistics"
       ],
       "sponsors_visa": null,
@@ -12622,95 +12622,6 @@
     "job_posted_at": "2026-04-20T01:57:51.590Z"
   },
   {
-    "job_id": "greenhouse-waymo-7309064",
-    "job_title": "Research Scientist, Prediction & Planning",
-    "employer_name": "Waymo",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7309064",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:51.204Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "74457c6ca04a69ba2b068b1ac3aa0bd083edd77c1e70d1442b37c6d520086d26",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "deep learning",
-        "machine learning",
-        "python",
-        "pytorch",
-        "reinforcement learning",
-        "robotics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:51.204Z"
-  },
-  {
-    "job_id": "greenhouse-waymo-7469425",
-    "job_title": "Research Scientist, RL for Autonomous Planning & World Modeling",
-    "employer_name": "Waymo",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7469425",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:51.204Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "44b8e1ae30689eefcd44cbbc632d522b6cbd4800799de192cc27ba2642bd9b52",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "machine learning",
-        "reinforcement learning",
-        "robotics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:51.204Z"
-  },
-  {
     "job_id": "greenhouse-waymo-7467839",
     "job_title": "Applied Research Scientist, 3D Object Detection  (PhD New Grad)",
     "employer_name": "Waymo",
@@ -13278,6 +13189,95 @@
     "job_posted_at": "2026-04-20T01:57:51.204Z"
   },
   {
+    "job_id": "greenhouse-waymo-7309064",
+    "job_title": "Research Scientist, Prediction & Planning",
+    "employer_name": "Waymo",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7309064",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:51.204Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "74457c6ca04a69ba2b068b1ac3aa0bd083edd77c1e70d1442b37c6d520086d26",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "deep learning",
+        "machine learning",
+        "python",
+        "pytorch",
+        "reinforcement learning",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:51.204Z"
+  },
+  {
+    "job_id": "greenhouse-waymo-7469425",
+    "job_title": "Research Scientist, RL for Autonomous Planning & World Modeling",
+    "employer_name": "Waymo",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=7469425",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:51.204Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "44b8e1ae30689eefcd44cbbc632d522b6cbd4800799de192cc27ba2642bd9b52",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "machine learning",
+        "reinforcement learning",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:51.204Z"
+  },
+  {
     "job_id": "greenhouse-waymo-7090492",
     "job_title": "Machine Learning Engineer, Mapping",
     "employer_name": "Waymo",
@@ -13816,6 +13816,53 @@
     "job_posted_at": "2026-04-20T01:57:47.561Z"
   },
   {
+    "job_id": "ashby-openai-577e6673-0a4a-491b-9a0d-facbdd3bdf3c",
+    "job_title": "Applied AI Engineer, Codex Core Agent",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/577e6673-0a4a-491b-9a0d-facbdd3bdf3c/application",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:46.461Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "0e03b7380f5756b9a5037e6329383a56b7c70b7818f9d25f96b5e5bd01eed4bb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "agents",
+        "asana",
+        "fine-tuning",
+        "llm",
+        "machine learning",
+        "openai",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:46.461Z"
+  },
+  {
     "job_id": "ashby-openai-1ab4cab9-509b-49a0-b11e-06403e56cea1",
     "job_title": "Data Engineer, Finance",
     "employer_name": "OpenAI",
@@ -13861,53 +13908,6 @@
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:46.461Z"
-  },
-  {
-    "job_id": "ashby-openai-577e6673-0a4a-491b-9a0d-facbdd3bdf3c",
-    "job_title": "Applied AI Engineer, Codex Core Agent",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/577e6673-0a4a-491b-9a0d-facbdd3bdf3c/application",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:46.461Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "0e03b7380f5756b9a5037e6329383a56b7c70b7818f9d25f96b5e5bd01eed4bb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "agents",
-        "asana",
-        "fine-tuning",
-        "llm",
-        "machine learning",
-        "openai",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
       "summary_line": null,
       "is_remote": false
     },
@@ -14200,107 +14200,6 @@
     "job_posted_at": "2026-04-20T01:57:46.460Z"
   },
   {
-    "job_id": "ashby-openai-7e198d81-34e0-48b6-b64e-a501a75f9d53",
-    "job_title": "Research Engineer/Research Scientist, RL/Reasoning",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/7e198d81-34e0-48b6-b64e-a501a75f9d53/application",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:46.459Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "53222447a0661dc538e87e7088cc1f8204bef3fee928a3fc589fe0e300ad92d7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "agents",
-        "asana",
-        "machine learning",
-        "openai",
-        "reinforcement learning"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:46.459Z"
-  },
-  {
-    "job_id": "ashby-openai-1f37ae5b-791a-4505-9575-183cc4bb9d5e",
-    "job_title": "Data Scientist, Support",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/1f37ae5b-791a-4505-9575-183cc4bb9d5e/application",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:46.459Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "a3b285acac346555bc59171c0ef6f07241b55c4c0123a4420c2fc7b982bb2f85",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "operations",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "asana",
-        "business intelligence",
-        "cadence",
-        "chatgpt",
-        "dashboards",
-        "data science",
-        "jupyter",
-        "looker",
-        "openai",
-        "prettier",
-        "python",
-        "reporting",
-        "routing",
-        "sql",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": true
-    },
-    "job_posted_at": "2026-04-20T01:57:46.459Z"
-  },
-  {
     "job_id": "ashby-openai-60d3700b-ba82-4fa6-a6bb-7b2b67070510",
     "job_title": "Researcher, Synthetic RL",
     "employer_name": "OpenAI",
@@ -14530,18 +14429,18 @@
     "job_posted_at": "2026-04-20T01:57:46.459Z"
   },
   {
-    "job_id": "ashby-openai-4476b271-4987-4bd4-aa1e-0e68ea683b10",
-    "job_title": "Research Scientist / Research Engineer — Early Career Cohort",
+    "job_id": "ashby-openai-7e198d81-34e0-48b6-b64e-a501a75f9d53",
+    "job_title": "Research Engineer/Research Scientist, RL/Reasoning",
     "employer_name": "OpenAI",
     "job_city": "San Francisco",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/4476b271-4987-4bd4-aa1e-0e68ea683b10/application",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:46.458Z",
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/7e198d81-34e0-48b6-b64e-a501a75f9d53/application",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:46.459Z",
     "job_employment_type": "FullTime",
     "salary": null,
-    "fingerprint": "59331d02447cd487fa65d40476471df66a8c602f6d6a76da7a1168416bf6f4cf",
+    "fingerprint": "53222447a0661dc538e87e7088cc1f8204bef3fee928a3fc589fe0e300ad92d7",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -14559,52 +14458,11 @@
     "_original_source": "ashby",
     "enrichment": {
       "required_skills": [
-        "linear",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:46.458Z"
-  },
-  {
-    "job_id": "ashby-openai-2560ed50-5535-42b8-b069-9ebc28ce7493",
-    "job_title": "Researcher, Robustness & Safety Training",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/2560ed50-5535-42b8-b069-9ebc28ce7493/application",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:46.458Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "e602cd6e432e9616856f72b04f438758da17d3a2c9e8a386a0795bd39492cae4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
+        "agents",
         "asana",
-        "computer science",
-        "deep learning",
         "machine learning",
-        "openai"
+        "openai",
+        "reinforcement learning"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -14613,7 +14471,63 @@
       "summary_line": null,
       "is_remote": false
     },
-    "job_posted_at": "2026-04-20T01:57:46.458Z"
+    "job_posted_at": "2026-04-20T01:57:46.459Z"
+  },
+  {
+    "job_id": "ashby-openai-1f37ae5b-791a-4505-9575-183cc4bb9d5e",
+    "job_title": "Data Scientist, Support",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/1f37ae5b-791a-4505-9575-183cc4bb9d5e/application",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:46.459Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "a3b285acac346555bc59171c0ef6f07241b55c4c0123a4420c2fc7b982bb2f85",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "operations",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "asana",
+        "business intelligence",
+        "cadence",
+        "chatgpt",
+        "dashboards",
+        "data science",
+        "jupyter",
+        "looker",
+        "openai",
+        "prettier",
+        "python",
+        "reporting",
+        "routing",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": true
+    },
+    "job_posted_at": "2026-04-20T01:57:46.459Z"
   },
   {
     "job_id": "ashby-openai-fc5bbc77-a30c-4e7a-9acc-8a2e748545b4",
@@ -14756,6 +14670,92 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:46.458Z"
+  },
+  {
+    "job_id": "ashby-openai-4476b271-4987-4bd4-aa1e-0e68ea683b10",
+    "job_title": "Research Scientist / Research Engineer — Early Career Cohort",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/4476b271-4987-4bd4-aa1e-0e68ea683b10/application",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:46.458Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "59331d02447cd487fa65d40476471df66a8c602f6d6a76da7a1168416bf6f4cf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "linear",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:46.458Z"
+  },
+  {
+    "job_id": "ashby-openai-2560ed50-5535-42b8-b069-9ebc28ce7493",
+    "job_title": "Researcher, Robustness & Safety Training",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/2560ed50-5535-42b8-b069-9ebc28ce7493/application",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:46.458Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "e602cd6e432e9616856f72b04f438758da17d3a2c9e8a386a0795bd39492cae4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "asana",
+        "computer science",
+        "deep learning",
+        "machine learning",
+        "openai"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": null,
@@ -15679,6 +15679,104 @@
     "job_posted_at": "2026-04-20T01:57:43.241Z"
   },
   {
+    "job_id": "ashby-handshake-dd1fd4fc-6f6d-4a3d-8c54-dd91ed48dd70",
+    "job_title": "Machine Learning Engineer I",
+    "employer_name": "Handshake",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/handshake/dd1fd4fc-6f6d-4a3d-8c54-dd91ed48dd70/application",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:40.828Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "52bbe84a9f4bb120958cd0b7d57793b0f076682109d4a532202f41b0b5455bee",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "Natural Language Processing",
+        "aws",
+        "azure",
+        "classification",
+        "computer science",
+        "data analysis",
+        "data science",
+        "embedding",
+        "feature engineering",
+        "gcp",
+        "machine learning",
+        "notion",
+        "python",
+        "pytorch",
+        "regression",
+        "sql",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": null,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:40.828Z"
+  },
+  {
+    "job_id": "ashby-handshake-febd5f62-4394-47de-851f-2fb0e884fca0",
+    "job_title": "Machine Learning PhDs - AI Trainer",
+    "employer_name": "Handshake",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.ashbyhq.com/handshake/febd5f62-4394-47de-851f-2fb0e884fca0/application",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:40.828Z",
+    "job_employment_type": "Contract",
+    "salary": null,
+    "fingerprint": "6eac8a5134d06c4d2a5fdda9b7016f1f44a6634fa0e4a262f473ef712a78c98f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "machine learning"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": null,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": true
+    },
+    "job_posted_at": "2026-04-20T01:57:40.828Z"
+  },
+  {
     "job_id": "ashby-handshake-b40c221b-c4e9-482a-b0e0-3a0182f054eb",
     "job_title": "AI Research Scientist",
     "employer_name": "Handshake",
@@ -15774,104 +15872,6 @@
       "is_simple_apply": true,
       "summary_line": null,
       "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:40.828Z"
-  },
-  {
-    "job_id": "ashby-handshake-dd1fd4fc-6f6d-4a3d-8c54-dd91ed48dd70",
-    "job_title": "Machine Learning Engineer I",
-    "employer_name": "Handshake",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/handshake/dd1fd4fc-6f6d-4a3d-8c54-dd91ed48dd70/application",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:40.828Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "52bbe84a9f4bb120958cd0b7d57793b0f076682109d4a532202f41b0b5455bee",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "Natural Language Processing",
-        "aws",
-        "azure",
-        "classification",
-        "computer science",
-        "data analysis",
-        "data science",
-        "embedding",
-        "feature engineering",
-        "gcp",
-        "machine learning",
-        "notion",
-        "python",
-        "pytorch",
-        "regression",
-        "sql",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": null,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:40.828Z"
-  },
-  {
-    "job_id": "ashby-handshake-febd5f62-4394-47de-851f-2fb0e884fca0",
-    "job_title": "Machine Learning PhDs - AI Trainer",
-    "employer_name": "Handshake",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.ashbyhq.com/handshake/febd5f62-4394-47de-851f-2fb0e884fca0/application",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:40.828Z",
-    "job_employment_type": "Contract",
-    "salary": null,
-    "fingerprint": "6eac8a5134d06c4d2a5fdda9b7016f1f44a6634fa0e4a262f473ef712a78c98f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "machine learning"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": null,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": true
     },
     "job_posted_at": "2026-04-20T01:57:40.828Z"
   },
@@ -19214,6 +19214,48 @@
     "job_posted_at": "2026-04-20T01:57:31.152Z"
   },
   {
+    "job_id": "greenhouse-kikoff-4209451009",
+    "job_title": "Marketing Data Scientist",
+    "employer_name": "Kikoff",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/kikoff/jobs/4209451009",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:30.533Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "201a08d7cd0014199b7b3200f874a8932abad5b48028eb2eac8770829bcab5f7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data science",
+        "python",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:30.533Z"
+  },
+  {
     "job_id": "greenhouse-kikoff-4157504009",
     "job_title": "Data Scientist",
     "employer_name": "Kikoff",
@@ -19253,48 +19295,6 @@
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:30.533Z"
-  },
-  {
-    "job_id": "greenhouse-kikoff-4209451009",
-    "job_title": "Marketing Data Scientist",
-    "employer_name": "Kikoff",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/kikoff/jobs/4209451009",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:30.533Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "201a08d7cd0014199b7b3200f874a8932abad5b48028eb2eac8770829bcab5f7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "data science",
-        "python",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
       "summary_line": null,
       "is_remote": false
     },
@@ -21228,6 +21228,47 @@
     "job_posted_at": "2026-04-20T01:57:27.115Z"
   },
   {
+    "job_id": "greenhouse-doordashusa-7450028",
+    "job_title": "Analytics Engineer, GTM Data Infrastructure",
+    "employer_name": "DoorDash",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7450028",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:27.114Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a3028ec3cb2e9d3fd7fb378a4608f63684e81f06b477791947024a17379b0a11",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [
+        "unicorn"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "excel"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:27.114Z"
+  },
+  {
     "job_id": "greenhouse-doordashusa-6333591",
     "job_title": "Machine Learning Engineer, Computer Vision",
     "employer_name": "DoorDash",
@@ -21306,47 +21347,6 @@
       "visa_question_present": true,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:27.114Z"
-  },
-  {
-    "job_id": "greenhouse-doordashusa-7450028",
-    "job_title": "Analytics Engineer, GTM Data Infrastructure",
-    "employer_name": "DoorDash",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/7450028",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:27.114Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a3028ec3cb2e9d3fd7fb378a4608f63684e81f06b477791947024a17379b0a11",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [
-        "unicorn"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "excel"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
       "summary_line": null,
       "is_remote": false
     },
@@ -22677,6 +22677,90 @@
     "job_posted_at": "2026-04-20T01:57:21.764Z"
   },
   {
+    "job_id": "greenhouse-biohub-7793644",
+    "job_title": "Research Scientist, AI",
+    "employer_name": "Chan Zuckerberg Biohub",
+    "job_city": "Redwood City",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/biohub/jobs/7793644",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:20.566Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9cbd45fdb409c605b38c8948832c76dbcf34d286f368b3900172014deb18f5bf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "hybrid"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "deep learning"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:20.566Z"
+  },
+  {
+    "job_id": "greenhouse-biohub-7747518",
+    "job_title": "Research Scientist, AI",
+    "employer_name": "Chan Zuckerberg Biohub",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/biohub/jobs/7747518",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:20.566Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "58ec20c5bc9ad12648bd6306fed38b2377dcbe090b21e9cec43536de3452dd3c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "hybrid"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "deep learning"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:20.566Z"
+  },
+  {
     "job_id": "greenhouse-biohub-7480425",
     "job_title": "Data Scientist, Imaging x AI/ML",
     "employer_name": "Chan Zuckerberg Biohub",
@@ -22808,90 +22892,6 @@
         "pytorch",
         "ray",
         "spark"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:20.566Z"
-  },
-  {
-    "job_id": "greenhouse-biohub-7793644",
-    "job_title": "Research Scientist, AI",
-    "employer_name": "Chan Zuckerberg Biohub",
-    "job_city": "Redwood City",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/biohub/jobs/7793644",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:20.566Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9cbd45fdb409c605b38c8948832c76dbcf34d286f368b3900172014deb18f5bf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "hybrid"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "deep learning"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:20.566Z"
-  },
-  {
-    "job_id": "greenhouse-biohub-7747518",
-    "job_title": "Research Scientist, AI",
-    "employer_name": "Chan Zuckerberg Biohub",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/biohub/jobs/7747518",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:20.566Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "58ec20c5bc9ad12648bd6306fed38b2377dcbe090b21e9cec43536de3452dd3c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "hybrid"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "deep learning"
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
@@ -23294,6 +23294,104 @@
     "job_posted_at": "2026-04-20T01:57:19.512Z"
   },
   {
+    "job_id": "greenhouse-anthropic-4952079008",
+    "job_title": "Machine Learning Systems Engineer, Research Tools",
+    "employer_name": "Anthropic",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4952079008",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:18.179Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ccbc6bba6dccfdb664b093c6b2022abf7067a1b36c31b27e3e973642595235e3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "anthropic",
+        "computer science",
+        "distributed systems",
+        "gpt",
+        "machine learning",
+        "multimodal",
+        "python",
+        "slack"
+      ],
+      "sponsors_visa": true,
+      "visa_question_present": true,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:18.179Z"
+  },
+  {
+    "job_id": "greenhouse-anthropic-4952051008",
+    "job_title": "Machine Learning Systems Engineer, RL Engineering",
+    "employer_name": "Anthropic",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4952051008",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:18.179Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e52ea031d87df880a37ffcee7dfbbe19c1bcdf9beea34f730a43d2096b9106c4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "anthropic",
+        "computer science",
+        "distributed systems",
+        "gpt",
+        "llm",
+        "machine learning",
+        "multimodal",
+        "python",
+        "reinforcement learning",
+        "slack"
+      ],
+      "sponsors_visa": true,
+      "visa_question_present": true,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:18.179Z"
+  },
+  {
     "job_id": "greenhouse-anthropic-4613568008",
     "job_title": "Research Engineer, Machine Learning (Reinforcement Learning)",
     "employer_name": "Anthropic",
@@ -23682,104 +23780,6 @@
     "job_posted_at": "2026-04-20T01:57:18.179Z"
   },
   {
-    "job_id": "greenhouse-anthropic-4952079008",
-    "job_title": "Machine Learning Systems Engineer, Research Tools",
-    "employer_name": "Anthropic",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4952079008",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:18.179Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ccbc6bba6dccfdb664b093c6b2022abf7067a1b36c31b27e3e973642595235e3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "anthropic",
-        "computer science",
-        "distributed systems",
-        "gpt",
-        "machine learning",
-        "multimodal",
-        "python",
-        "slack"
-      ],
-      "sponsors_visa": true,
-      "visa_question_present": true,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:18.179Z"
-  },
-  {
-    "job_id": "greenhouse-anthropic-4952051008",
-    "job_title": "Machine Learning Systems Engineer, RL Engineering",
-    "employer_name": "Anthropic",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4952051008",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:18.179Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e52ea031d87df880a37ffcee7dfbbe19c1bcdf9beea34f730a43d2096b9106c4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "anthropic",
-        "computer science",
-        "distributed systems",
-        "gpt",
-        "llm",
-        "machine learning",
-        "multimodal",
-        "python",
-        "reinforcement learning",
-        "slack"
-      ],
-      "sponsors_visa": true,
-      "visa_question_present": true,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:18.179Z"
-  },
-  {
     "job_id": "greenhouse-anthropic-5068226008",
     "job_title": "Applied AI Engineer, Beneficial Deployments",
     "employer_name": "Anthropic",
@@ -24015,47 +24015,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:18.178Z"
-  },
-  {
-    "job_id": "greenhouse-appliedintuition-4677060005",
-    "job_title": "Software Engineer - AI Engineering",
-    "employer_name": "Applied Intuition",
-    "job_city": "Sunnyvale",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/appliedintuition/jobs/4677060005?gh_jid=4677060005",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:18.044Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c2e310f12cca1a7d42e9cc17d85dd45a7d00c84c17c11d5b751f7e9a808130cf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "cfr"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:18.044Z"
   },
   {
     "job_id": "greenhouse-appliedintuition-4676438005",
@@ -24295,6 +24254,47 @@
       "visa_question_present": false,
       "possible_sponsor": true,
       "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:18.044Z"
+  },
+  {
+    "job_id": "greenhouse-appliedintuition-4677060005",
+    "job_title": "Software Engineer - AI Engineering",
+    "employer_name": "Applied Intuition",
+    "job_city": "Sunnyvale",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/appliedintuition/jobs/4677060005?gh_jid=4677060005",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:18.044Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c2e310f12cca1a7d42e9cc17d85dd45a7d00c84c17c11d5b751f7e9a808130cf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "cfr"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
       "summary_line": null,
       "is_remote": false
     },
@@ -26187,6 +26187,139 @@
     "job_posted_at": "2026-04-18T10:20:25.465Z"
   },
   {
+    "job_id": "workday-boston-dynamics-R1807",
+    "job_title": "Research Scientist, Atlas Behavior Learning",
+    "employer_name": "Boston Dynamics",
+    "job_city": "Waltham Office",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Research-Scientist--Atlas-Behavior-Learning_R1807",
+    "job_posted_at_datetime_utc": "2026-04-18T09:32:54.726Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e36923e8319fb81927001a298d5bed9fab79c6f53e0314b47eaf1e2d26e07703",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "machine learning",
+        "python",
+        "pytorch",
+        "reinforcement learning",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-18T09:32:54.726Z"
+  },
+  {
+    "job_id": "workday-boston-dynamics-R2027",
+    "job_title": "Research Scientist, VLA Models - Atlas",
+    "employer_name": "Boston Dynamics",
+    "job_city": "Waltham Office",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Staff-Research-Scientist_R2027",
+    "job_posted_at_datetime_utc": "2026-04-18T09:32:54.726Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5ea216bfa9dfd011e85e193171b5e97ef347dbc5f749993d1005a9706cb2c5e7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "machine learning",
+        "multimodal",
+        "python",
+        "pytorch",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-18T09:32:54.726Z"
+  },
+  {
+    "job_id": "workday-boston-dynamics-R1974",
+    "job_title": "AI Research Scientist, Large Scale Behavior Cloning",
+    "employer_name": "Boston Dynamics",
+    "job_city": "Waltham Office",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/AI-Research-Scientist--Large-Scale-Behavior-Cloning_R1974",
+    "job_posted_at_datetime_utc": "2026-04-18T09:32:54.726Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b9c3482bf8f70f9e06be80b72cfca3ca2709b34c6a0644ba16c60d3c46b266d8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agents",
+        "c++",
+        "computer science",
+        "machine learning",
+        "python",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-18T09:32:54.726Z"
+  },
+  {
     "job_id": "workday-boston-dynamics-R2636",
     "job_title": "Technical Trainer, Atlas Data Operations",
     "employer_name": "Boston Dynamics",
@@ -26307,139 +26440,6 @@
     "_original_source": "workday",
     "enrichment": {
       "required_skills": [
-        "c++",
-        "computer science",
-        "machine learning",
-        "python",
-        "robotics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-18T09:32:54.726Z"
-  },
-  {
-    "job_id": "workday-boston-dynamics-R1807",
-    "job_title": "Research Scientist, Atlas Behavior Learning",
-    "employer_name": "Boston Dynamics",
-    "job_city": "Waltham Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Research-Scientist--Atlas-Behavior-Learning_R1807",
-    "job_posted_at_datetime_utc": "2026-04-18T09:32:54.726Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e36923e8319fb81927001a298d5bed9fab79c6f53e0314b47eaf1e2d26e07703",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "machine learning",
-        "python",
-        "pytorch",
-        "reinforcement learning",
-        "robotics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-18T09:32:54.726Z"
-  },
-  {
-    "job_id": "workday-boston-dynamics-R2027",
-    "job_title": "Research Scientist, VLA Models - Atlas",
-    "employer_name": "Boston Dynamics",
-    "job_city": "Waltham Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Staff-Research-Scientist_R2027",
-    "job_posted_at_datetime_utc": "2026-04-18T09:32:54.726Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5ea216bfa9dfd011e85e193171b5e97ef347dbc5f749993d1005a9706cb2c5e7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "machine learning",
-        "multimodal",
-        "python",
-        "pytorch",
-        "robotics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-18T09:32:54.726Z"
-  },
-  {
-    "job_id": "workday-boston-dynamics-R1974",
-    "job_title": "AI Research Scientist, Large Scale Behavior Cloning",
-    "employer_name": "Boston Dynamics",
-    "job_city": "Waltham Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/AI-Research-Scientist--Large-Scale-Behavior-Cloning_R1974",
-    "job_posted_at_datetime_utc": "2026-04-18T09:32:54.726Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b9c3482bf8f70f9e06be80b72cfca3ca2709b34c6a0644ba16c60d3c46b266d8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agents",
         "c++",
         "computer science",
         "machine learning",
@@ -27251,6 +27251,92 @@
     "job_posted_at": "2026-04-17T07:01:57.768Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0238065",
+    "job_title": "Data Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Honolulu",
+    "job_state": "HI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Analyst_R0238065-1",
+    "job_posted_at_datetime_utc": "2026-04-17T07:01:55.588Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6f05d520e0f2123a3575ed817e54060847b4a4afef5aff80a7c57889a65185ad",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "dashboards",
+        "data analysis",
+        "data science",
+        "data visualization",
+        "forecasting",
+        "machine learning",
+        "python",
+        "r",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-17T07:01:55.588Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0238079",
+    "job_title": "C5ISRT Intelligence Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/C5ISRT-Intelligence-Analyst_R0238079",
+    "job_posted_at_datetime_utc": "2026-04-17T07:01:55.588Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "545898547800e8d14b469260c7c195fdd6005c06c953ac6dad54472c9426736f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cybersecurity"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-17T07:01:55.588Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0238124",
     "job_title": "AI Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -27546,92 +27632,6 @@
     "job_posted_at": "2026-04-17T07:01:55.588Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0238065",
-    "job_title": "Data Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Honolulu",
-    "job_state": "HI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Analyst_R0238065-1",
-    "job_posted_at_datetime_utc": "2026-04-17T07:01:55.588Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6f05d520e0f2123a3575ed817e54060847b4a4afef5aff80a7c57889a65185ad",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "dashboards",
-        "data analysis",
-        "data science",
-        "data visualization",
-        "forecasting",
-        "machine learning",
-        "python",
-        "r",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-17T07:01:55.588Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0238079",
-    "job_title": "C5ISRT Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/C5ISRT-Intelligence-Analyst_R0238079",
-    "job_posted_at_datetime_utc": "2026-04-17T07:01:55.588Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "545898547800e8d14b469260c7c195fdd6005c06c953ac6dad54472c9426736f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cybersecurity"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-17T07:01:55.588Z"
-  },
-  {
     "job_id": "workday-the-hartford-R2624884",
     "job_title": "AI/ML Engineer, EB Applied AI and Analytics",
     "employer_name": "The Hartford",
@@ -27779,50 +27779,6 @@
     "job_posted_at": "2026-04-17T07:01:28.730Z"
   },
   {
-    "job_id": "workday-adobe-R166850",
-    "job_title": "Applied Scientist 3",
-    "employer_name": "Adobe",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Applied-Scientist-3_R166850",
-    "job_posted_at_datetime_utc": "2026-04-17T07:01:27.714Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d25b7c307eb3101f0d57cfcc88b4e96c2b9fac15500571906cdb3470ffe08acf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "express",
-        "fine-tuning",
-        "generative ai",
-        "machine learning",
-        "python",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-17T07:01:27.714Z"
-  },
-  {
     "job_id": "workday-adobe-R164613",
     "job_title": "Research Scientist/Engineer - Photoshop",
     "employer_name": "Adobe",
@@ -27857,6 +27813,50 @@
         "photoshop",
         "python",
         "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-17T07:01:27.714Z"
+  },
+  {
+    "job_id": "workday-adobe-R166850",
+    "job_title": "Applied Scientist 3",
+    "employer_name": "Adobe",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Applied-Scientist-3_R166850",
+    "job_posted_at_datetime_utc": "2026-04-17T07:01:27.714Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d25b7c307eb3101f0d57cfcc88b4e96c2b9fac15500571906cdb3470ffe08acf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "express",
+        "fine-tuning",
+        "generative ai",
+        "machine learning",
+        "python",
+        "scalability"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -28055,57 +28055,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-17T07:00:22.154Z"
-  },
-  {
-    "job_id": "workday-guidehouse-37419",
-    "job_title": "Microsoft Office Data Specialist",
-    "employer_name": "Guidehouse",
-    "job_city": "VA, Arlington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Microsoft-Office-Data-Specialist_37419",
-    "job_posted_at_datetime_utc": "2026-04-17T07:00:20.060Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "42e1a65412ba3fe505e2eabfe511bb7f4a8928f6ccec659c4d6d65c99851ba49",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "data science",
-        "devops",
-        "devsecops",
-        "matlab",
-        "microsoft office",
-        "microsoft teams",
-        "power bi",
-        "python",
-        "r",
-        "reporting",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-17T07:00:20.060Z"
   },
   {
     "job_id": "workday-guidehouse-38348",
@@ -28468,6 +28417,57 @@
       "required_skills": [
         "microsoft office",
         "oracle"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-17T07:00:20.060Z"
+  },
+  {
+    "job_id": "workday-guidehouse-37419",
+    "job_title": "Microsoft Office Data Specialist",
+    "employer_name": "Guidehouse",
+    "job_city": "VA, Arlington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Microsoft-Office-Data-Specialist_37419",
+    "job_posted_at_datetime_utc": "2026-04-17T07:00:20.060Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "42e1a65412ba3fe505e2eabfe511bb7f4a8928f6ccec659c4d6d65c99851ba49",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "data science",
+        "devops",
+        "devsecops",
+        "matlab",
+        "microsoft office",
+        "microsoft teams",
+        "power bi",
+        "python",
+        "r",
+        "reporting",
+        "tableau"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
