@@ -2423,6 +2423,21 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data science",
+        "python",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": true
+    },
     "job_posted_at": "2026-04-27T01:04:35.953Z"
   },
   {
@@ -2451,6 +2466,38 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "azure",
+        "bigquery",
+        "business intelligence",
+        "computer science",
+        "crm",
+        "dashboards",
+        "data analysis",
+        "data governance",
+        "data warehouse",
+        "elt",
+        "erp",
+        "etl",
+        "excel",
+        "forecasting",
+        "gcp",
+        "machine learning",
+        "power bi",
+        "python",
+        "reporting",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-27T01:04:35.753Z"
   },
   {
@@ -2479,6 +2526,31 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "a/b testing",
+        "airflow",
+        "analytics",
+        "apache",
+        "apache airflow",
+        "aws",
+        "computer science",
+        "data science",
+        "kubernetes",
+        "machine learning",
+        "real-time systems",
+        "routing",
+        "spark",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-27T01:04:35.419Z"
   },
   {
@@ -2507,6 +2579,27 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "a/b testing",
+        "computer science",
+        "databricks",
+        "machine learning",
+        "python",
+        "pytorch",
+        "scikit-learn",
+        "snowflake",
+        "spark",
+        "statistics",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-27T01:04:35.419Z"
   },
   {
@@ -2535,7 +2628,74 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "a/b testing",
+        "computer science",
+        "databricks",
+        "machine learning",
+        "python",
+        "pytorch",
+        "scikit-learn",
+        "snowflake",
+        "spark",
+        "statistics",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-27T01:04:35.419Z"
+  },
+  {
+    "job_id": "lever-zoox-effea729-8202-4fa0-aa0f-b786671502e8",
+    "job_title": "Machine Learning Engineer - 3D Vision Perception",
+    "employer_name": "Zoox",
+    "job_city": "Foster City",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/zoox/effea729-8202-4fa0-aa0f-b786671502e8/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T01:04:35.211Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 189000,
+      "max": 258000,
+      "currency": "USD",
+      "interval": "per-year-salary"
+    },
+    "fingerprint": "ffacc012063696c7f85c6426788ce5a90b4a0fa35101089ef09c6268048205b2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "hybrid",
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "enrichment": {
+      "required_skills": [
+        "machine learning"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T01:04:35.211Z"
   },
   {
     "job_id": "lever-zoox-50b011cc-1023-4d9a-b8be-c938e2c12f13",
@@ -2570,6 +2730,22 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "deep learning",
+        "machine learning",
+        "python",
+        "sensor fusion"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-27T01:04:35.211Z"
   },
   {
@@ -2605,98 +2781,25 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "computer vision",
+        "deep learning",
+        "numpy",
+        "python",
+        "pytorch",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-27T01:04:35.211Z"
-  },
-  {
-    "job_id": "lever-zoox-effea729-8202-4fa0-aa0f-b786671502e8",
-    "job_title": "Machine Learning Engineer - 3D Vision Perception",
-    "employer_name": "Zoox",
-    "job_city": "Foster City",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/zoox/effea729-8202-4fa0-aa0f-b786671502e8/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T01:04:35.211Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 189000,
-      "max": 258000,
-      "currency": "USD",
-      "interval": "per-year-salary"
-    },
-    "fingerprint": "ffacc012063696c7f85c6426788ce5a90b4a0fa35101089ef09c6268048205b2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "hybrid",
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T01:04:35.211Z"
-  },
-  {
-    "job_id": "lever-whoop-eb8c541a-5a7a-4e4c-b061-4c1696e40f7e",
-    "job_title": "Business Analytics Manager (Finance)",
-    "employer_name": "WHOOP",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/whoop/eb8c541a-5a7a-4e4c-b061-4c1696e40f7e/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T01:04:34.313Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b9dfdeb8186f18975417d46c45c196e8817b724304d1c93eeb469cf500c1148e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T01:04:34.313Z"
-  },
-  {
-    "job_id": "lever-whoop-5004092c-501a-4c93-9ac5-d903012c2a9c",
-    "job_title": "Business Analytics Manager (Lifecycle Marketing)",
-    "employer_name": "WHOOP",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/whoop/5004092c-501a-4c93-9ac5-d903012c2a9c/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T01:04:34.313Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "206a77af75c93bcee0812216e5ece0d763cbbc7af617751a0baa3b6479cf5cfc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T01:04:34.313Z"
   },
   {
     "job_id": "lever-whoop-020c5140-80fb-4a76-9eb2-f726f93dd514",
@@ -2725,6 +2828,106 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "dbt",
+        "snowflake",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T01:04:34.313Z"
+  },
+  {
+    "job_id": "lever-whoop-eb8c541a-5a7a-4e4c-b061-4c1696e40f7e",
+    "job_title": "Business Analytics Manager (Finance)",
+    "employer_name": "WHOOP",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/whoop/eb8c541a-5a7a-4e4c-b061-4c1696e40f7e/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T01:04:34.313Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b9dfdeb8186f18975417d46c45c196e8817b724304d1c93eeb469cf500c1148e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "dbt",
+        "snowflake",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T01:04:34.313Z"
+  },
+  {
+    "job_id": "lever-whoop-5004092c-501a-4c93-9ac5-d903012c2a9c",
+    "job_title": "Business Analytics Manager (Lifecycle Marketing)",
+    "employer_name": "WHOOP",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/whoop/5004092c-501a-4c93-9ac5-d903012c2a9c/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T01:04:34.313Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "206a77af75c93bcee0812216e5ece0d763cbbc7af617751a0baa3b6479cf5cfc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "enrichment": {
+      "required_skills": [
+        "a/b testing",
+        "analytics",
+        "crm",
+        "dbt",
+        "snowflake",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-27T01:04:34.313Z"
   },
   {
@@ -2755,6 +2958,28 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data governance",
+        "data modeling",
+        "data quality",
+        "dimensional modeling",
+        "gdpr",
+        "hris",
+        "power bi",
+        "reporting",
+        "sql",
+        "workday",
+        "zero trust"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-27T01:04:33.497Z"
   },
   {
@@ -2785,6 +3010,20 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "python",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": null,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-27T01:04:31.497Z"
   },
   {
@@ -2817,6 +3056,19 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data science",
+        "genai"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": null,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": true
+    },
     "job_posted_at": "2026-04-27T01:04:31.012Z"
   },
   {
@@ -2846,6 +3098,22 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "data analysis",
+        "machine learning",
+        "python",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-27T01:04:30.999Z"
   },
   {
@@ -2875,6 +3143,19 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "java",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": null,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-27T01:04:30.999Z"
   },
   {
@@ -2904,6 +3185,23 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "data science",
+        "distributed systems",
+        "machine learning",
+        "python",
+        "pytorch",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": null,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-27T01:04:30.998Z"
   },
   {
@@ -2932,6 +3230,32 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "analytics",
+        "bigquery",
+        "computer science",
+        "dashboards",
+        "data analysis",
+        "data modeling",
+        "data science",
+        "data visualization",
+        "data warehouse",
+        "numpy",
+        "pandas",
+        "power bi",
+        "python",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-27T01:04:30.440Z"
   },
   {
@@ -2966,6 +3290,28 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
+    "enrichment": {
+      "required_skills": [
+        "a/b testing",
+        "computer science",
+        "data science",
+        "databricks",
+        "feature engineering",
+        "go",
+        "linear",
+        "machine learning",
+        "pyspark",
+        "python",
+        "regression",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-27T01:04:30.354Z"
   },
   {
@@ -2996,6 +3342,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "Natural Language Processing",
+        "c++",
+        "ci/cd",
+        "figma",
+        "generative ai",
+        "machine learning",
+        "observability",
+        "python",
+        "pytorch",
+        "rag",
+        "scikit-learn",
+        "spark",
+        "tensorflow",
+        "xgboost"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-27T01:04:30.056Z"
   },
   {
@@ -5284,6 +5654,47 @@
     "job_posted_at": "2026-04-25T00:23:57.000Z"
   },
   {
+    "job_id": "js-sonimus-iasspo9oyhqc5ovjaaaaaa==",
+    "job_title": "Entry-Level Operations Data Analyst — Dashboards & KPIs",
+    "employer_name": "Sonimus",
+    "job_city": "Saginaw",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/5szOHb2mJys3bS1VwrURZ",
+    "job_posted_at_datetime_utc": "2026-04-25T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "b478980f0a5dc6e3f7e8e98c8e498a140b919f47909f590fed9e480747855e6f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-25T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-2495e6bf-2cec-42aa-b841-c7f2da72e420",
     "job_title": "Software Development Engineer - Machine Learning Prime Video Recommendations, Prime Video Personalization and Discovery",
     "employer_name": "Amazon.com Services LLC",
@@ -5372,47 +5783,6 @@
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-25T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-sonimus-iasspo9oyhqc5ovjaaaaaa==",
-    "job_title": "Entry-Level Operations Data Analyst — Dashboards & KPIs",
-    "employer_name": "Sonimus",
-    "job_city": "Saginaw",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/5szOHb2mJys3bS1VwrURZ",
-    "job_posted_at_datetime_utc": "2026-04-25T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "b478980f0a5dc6e3f7e8e98c8e498a140b919f47909f590fed9e480747855e6f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "excel",
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": null,
       "is_remote": false
@@ -10335,6 +10705,158 @@
     "job_posted_at": "2026-04-23T07:18:23.699Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0238503",
+    "job_title": "Computer Vision AI Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Computer-Vision-AI-Engineer_R0238503",
+    "job_posted_at_datetime_utc": "2026-04-23T07:18:23.698Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f0e19727bf654b891d8ff08b64c270d20faef66cbadee7002c9c73b7ac39c442",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "computer vision",
+        "data science",
+        "deep learning",
+        "design patterns",
+        "embedded systems",
+        "kubernetes",
+        "machine learning",
+        "python",
+        "sensor fusion"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-23T07:18:23.698Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0238506",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Edgewood",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Edgewood-MD/Data-Scientist_R0238506-1",
+    "job_posted_at_datetime_utc": "2026-04-23T07:18:23.698Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a66a0ed346ff3581c82febd4f4a2963111cd026df38058da292fa3d19fc2f06a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "Natural Language Processing",
+        "data analysis",
+        "data science",
+        "data visualization",
+        "hadoop",
+        "hive",
+        "kafka",
+        "machine learning",
+        "mysql",
+        "natural language processing",
+        "python",
+        "r",
+        "spark"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-23T07:18:23.698Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0238504",
+    "job_title": "Computer Vision AI Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Computer-Vision-AI-Engineer_R0238504",
+    "job_posted_at_datetime_utc": "2026-04-23T07:18:23.698Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f0e19727bf654b891d8ff08b64c270d20faef66cbadee7002c9c73b7ac39c442",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "computer vision",
+        "data science",
+        "deep learning",
+        "design patterns",
+        "embedded systems",
+        "kubernetes",
+        "machine learning",
+        "python",
+        "rust",
+        "sensor fusion"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-23T07:18:23.698Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0237547",
     "job_title": "Reinforcement Learning AI Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -10622,158 +11144,6 @@
         "power bi",
         "project management",
         "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-23T07:18:23.698Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0238503",
-    "job_title": "Computer Vision AI Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Computer-Vision-AI-Engineer_R0238503",
-    "job_posted_at_datetime_utc": "2026-04-23T07:18:23.698Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f0e19727bf654b891d8ff08b64c270d20faef66cbadee7002c9c73b7ac39c442",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "computer vision",
-        "data science",
-        "deep learning",
-        "design patterns",
-        "embedded systems",
-        "kubernetes",
-        "machine learning",
-        "python",
-        "sensor fusion"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-23T07:18:23.698Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0238506",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Edgewood",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Edgewood-MD/Data-Scientist_R0238506-1",
-    "job_posted_at_datetime_utc": "2026-04-23T07:18:23.698Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a66a0ed346ff3581c82febd4f4a2963111cd026df38058da292fa3d19fc2f06a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "Natural Language Processing",
-        "data analysis",
-        "data science",
-        "data visualization",
-        "hadoop",
-        "hive",
-        "kafka",
-        "machine learning",
-        "mysql",
-        "natural language processing",
-        "python",
-        "r",
-        "spark"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-23T07:18:23.698Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0238504",
-    "job_title": "Computer Vision AI Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Computer-Vision-AI-Engineer_R0238504",
-    "job_posted_at_datetime_utc": "2026-04-23T07:18:23.698Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f0e19727bf654b891d8ff08b64c270d20faef66cbadee7002c9c73b7ac39c442",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "computer vision",
-        "data science",
-        "deep learning",
-        "design patterns",
-        "embedded systems",
-        "kubernetes",
-        "machine learning",
-        "python",
-        "rust",
-        "sensor fusion"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -11303,56 +11673,6 @@
     "job_posted_at": "2026-04-23T00:28:38.528Z"
   },
   {
-    "job_id": "js-philadelphia-phillies-903uidtwyiydglqeaaaaaa==",
-    "job_title": "Associate Software Engineer, Data Engineering",
-    "employer_name": "Philadelphia Phillies",
-    "job_city": "Philadelphia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/3aUtm3AWn0kQ4Xyh8PK1hd",
-    "job_posted_at_datetime_utc": "2026-04-23T00:00:00.000Z",
-    "job_employment_type": "PART-TIME",
-    "salary": null,
-    "fingerprint": "5f33f74de2b92ecc092126932958f2214f7f1d546c9b852da35b14c3cb48fe44",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "PostgreSQL",
-        "computer science",
-        "data modeling",
-        "elt",
-        "etl",
-        "go",
-        "mysql",
-        "python",
-        "sql",
-        "typescript"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-23T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-9b711f70-b038-45cf-8915-868d02c4c9f1",
     "job_title": "Machine Learning Engineer , Data & Machine Learning (DML)",
     "employer_name": "Amazon Web Services, Inc.",
@@ -11438,6 +11758,56 @@
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-23T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-philadelphia-phillies-903uidtwyiydglqeaaaaaa==",
+    "job_title": "Associate Software Engineer, Data Engineering",
+    "employer_name": "Philadelphia Phillies",
+    "job_city": "Philadelphia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/3aUtm3AWn0kQ4Xyh8PK1hd",
+    "job_posted_at_datetime_utc": "2026-04-23T00:00:00.000Z",
+    "job_employment_type": "PART-TIME",
+    "salary": null,
+    "fingerprint": "5f33f74de2b92ecc092126932958f2214f7f1d546c9b852da35b14c3cb48fe44",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "PostgreSQL",
+        "computer science",
+        "data modeling",
+        "elt",
+        "etl",
+        "go",
+        "mysql",
+        "python",
+        "sql",
+        "typescript"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": null,
       "is_remote": false
@@ -14682,6 +15052,19 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "matlab",
+        "python",
+        "r"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-22T00:30:52.172Z"
   },
   {
@@ -14710,6 +15093,30 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "classification",
+        "computer science",
+        "data analysis",
+        "data science",
+        "deep learning",
+        "machine learning",
+        "python",
+        "r",
+        "scala",
+        "spark",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-22T00:29:10.559Z"
   },
   {
@@ -14739,7 +15146,73 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "classification",
+        "computer science",
+        "data analysis",
+        "data science",
+        "deep learning",
+        "machine learning",
+        "python",
+        "r",
+        "scala",
+        "spark",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-22T00:29:10.559Z"
+  },
+  {
+    "job_id": "js-penn-state-university-ihecni8htbdijjhoaaaaaa==",
+    "job_title": "Part-Time Summer Data Analyst",
+    "employer_name": "Penn State University",
+    "job_city": "University Park",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://us.trabajo.org/job-4111-8790aace1863959e95ba7afe76fdd08a",
+    "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z",
+    "job_employment_type": "PART-TIME",
+    "salary": null,
+    "fingerprint": "d2c33ad90c94981db056f2a36353eaf464b0e265da4f730bf19e577df78f7661",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "reporting",
+        "statistics",
+        "workday"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-22T00:00:00.000Z"
   },
   {
     "job_id": "amazon-5c1b335d-ad7f-4b44-9371-7af8f709088c",
@@ -14970,48 +15443,6 @@
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-22T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-penn-state-university-ihecni8htbdijjhoaaaaaa==",
-    "job_title": "Part-Time Summer Data Analyst",
-    "employer_name": "Penn State University",
-    "job_city": "University Park",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://us.trabajo.org/job-4111-8790aace1863959e95ba7afe76fdd08a",
-    "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z",
-    "job_employment_type": "PART-TIME",
-    "salary": null,
-    "fingerprint": "d2c33ad90c94981db056f2a36353eaf464b0e265da4f730bf19e577df78f7661",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "reporting",
-        "statistics",
-        "workday"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": null,
       "is_remote": false
@@ -17384,18 +17815,60 @@
     "job_posted_at": "2026-04-21T00:29:10.560Z"
   },
   {
-    "job_id": "js-nbcuniversal-dywgxlvbv7sm6ha5aaaaaa==",
-    "job_title": "Data Science & Analytics Internships – Academic Year",
-    "employer_name": "NBCUniversal",
-    "job_city": "New York",
+    "job_id": "js-compass-strategy-solutions-llc-jxymfmfntp0elg9yaaaaaa==",
+    "job_title": "Data Analyst Supporting the US Attorney's Office",
+    "employer_name": "Compass Strategy Solutions, LLC",
+    "job_city": "Boston",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.smartrecruiters.com/NBCUniversal3/744000121842607-data-science-analytics-internships-academic-year",
+    "job_apply_link": "https://www.builtinboston.com/job/data-analyst-supporting-us-attorney-s-office/9117667",
     "job_posted_at_datetime_utc": "2026-04-21T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
+    "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "a127ea758d3d3347a6de5cae8818210c0a46bb4cbd678802d4cd0ac8a9b90fda",
+    "fingerprint": "f1894a027e760c67a010044c4933e35eeeb43943c8a3b2559de761151474dfdc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "legal"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "microsoft office"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-21T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-affordable-land-scaping-services-i08ch67n1qmf0pz8aaaaaa==",
+    "job_title": "Entry-Level Data Analyst",
+    "employer_name": "Affordable land scaping services",
+    "job_city": "Georgia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://tucker.us.expertini.com/job/entry-level-data-analyst-tucker-affordable-land-scap-3697321/",
+    "job_posted_at_datetime_utc": "2026-04-21T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "2666206f1a39a0f1f1f588fe92489ac090cfab915ead805696905c8503dd3478",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -17412,28 +17885,54 @@
     "_original_source": "jsearch",
     "enrichment": {
       "required_skills": [
-        "analytics",
-        "aws",
-        "cyber security",
-        "dashboards",
+        "computer science",
         "data analysis",
-        "data modeling",
-        "data science",
-        "databricks",
         "excel",
-        "generative ai",
-        "looker",
-        "machine learning",
-        "networking",
-        "power bi",
-        "python",
-        "r",
-        "reporting",
-        "sap",
-        "spark",
         "sql",
         "statistics",
         "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-21T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-robert-half-fohvl_duvf6uvdouaaaaaa==",
+    "job_title": "Data Analyst - Entry",
+    "employer_name": "Robert Half",
+    "job_city": "Mendota Heights",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.roberthalf.com/us/en/job/mendota-heights-mn/data-analyst-entry/02310-0013420743-usen",
+    "job_posted_at_datetime_utc": "2026-04-21T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a2b4589d9b272937d3707ee0071699d385b058d9f37e5c84d80a90d4cbcc9227",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "process improvement",
+        "sql"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -17538,60 +18037,18 @@
     "job_posted_at": "2026-04-21T00:00:00.000Z"
   },
   {
-    "job_id": "js-compass-strategy-solutions-llc-jxymfmfntp0elg9yaaaaaa==",
-    "job_title": "Data Analyst Supporting the US Attorney's Office",
-    "employer_name": "Compass Strategy Solutions, LLC",
-    "job_city": "Boston",
+    "job_id": "js-nbcuniversal-dywgxlvbv7sm6ha5aaaaaa==",
+    "job_title": "Data Science & Analytics Internships – Academic Year",
+    "employer_name": "NBCUniversal",
+    "job_city": "New York",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.builtinboston.com/job/data-analyst-supporting-us-attorney-s-office/9117667",
+    "job_apply_link": "https://jobs.smartrecruiters.com/NBCUniversal3/744000121842607-data-science-analytics-internships-academic-year",
     "job_posted_at_datetime_utc": "2026-04-21T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
+    "job_employment_type": "INTERNSHIP",
     "salary": null,
-    "fingerprint": "f1894a027e760c67a010044c4933e35eeeb43943c8a3b2559de761151474dfdc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "legal"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "excel",
-        "microsoft office"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-21T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-robert-half-fohvl_duvf6uvdouaaaaaa==",
-    "job_title": "Data Analyst - Entry",
-    "employer_name": "Robert Half",
-    "job_city": "Mendota Heights",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.roberthalf.com/us/en/job/mendota-heights-mn/data-analyst-entry/02310-0013420743-usen",
-    "job_posted_at_datetime_utc": "2026-04-21T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a2b4589d9b272937d3707ee0071699d385b058d9f37e5c84d80a90d4cbcc9227",
+    "fingerprint": "a127ea758d3d3347a6de5cae8818210c0a46bb4cbd678802d4cd0ac8a9b90fda",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -17608,58 +18065,32 @@
     "_original_source": "jsearch",
     "enrichment": {
       "required_skills": [
-        "excel",
-        "process improvement",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-21T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-affordable-land-scaping-services-i08ch67n1qmf0pz8aaaaaa==",
-    "job_title": "Entry-Level Data Analyst",
-    "employer_name": "Affordable land scaping services",
-    "job_city": "Georgia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://tucker.us.expertini.com/job/entry-level-data-analyst-tucker-affordable-land-scap-3697321/",
-    "job_posted_at_datetime_utc": "2026-04-21T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "2666206f1a39a0f1f1f588fe92489ac090cfab915ead805696905c8503dd3478",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
+        "analytics",
+        "aws",
+        "cyber security",
+        "dashboards",
         "data analysis",
+        "data modeling",
+        "data science",
+        "databricks",
         "excel",
+        "generative ai",
+        "looker",
+        "machine learning",
+        "networking",
+        "power bi",
+        "python",
+        "r",
+        "reporting",
+        "sap",
+        "spark",
         "sql",
         "statistics",
         "tableau"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
-      "possible_sponsor": null,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": null,
       "is_remote": false
@@ -19948,54 +20379,6 @@
     "job_posted_at": "2026-04-20T07:02:13.087Z"
   },
   {
-    "job_id": "workday-capital-one-R240877",
-    "job_title": "Principal Associate, Data Science - US Card",
-    "employer_name": "Capital One",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Principal-Associate--Data-Science---US-Card_R240877",
-    "job_posted_at_datetime_utc": "2026-04-20T07:02:13.086Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d1a7590b5a4d5ca7e3f4eeeca2232ab2cd67edcb78c75fa71ae18780d9d0e5fb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "classification",
-        "computer science",
-        "data science",
-        "deep learning",
-        "machine learning",
-        "python",
-        "r",
-        "scala",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T07:02:13.086Z"
-  },
-  {
     "job_id": "workday-capital-one-R228940",
     "job_title": "Principal Associate, Data Scientist - LLM Customization Team",
     "employer_name": "Capital One",
@@ -20044,6 +20427,54 @@
         "scala",
         "statistics",
         "supervised learning"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T07:02:13.086Z"
+  },
+  {
+    "job_id": "workday-capital-one-R240877",
+    "job_title": "Principal Associate, Data Science - US Card",
+    "employer_name": "Capital One",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Principal-Associate--Data-Science---US-Card_R240877",
+    "job_posted_at_datetime_utc": "2026-04-20T07:02:13.086Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d1a7590b5a4d5ca7e3f4eeeca2232ab2cd67edcb78c75fa71ae18780d9d0e5fb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "classification",
+        "computer science",
+        "data science",
+        "deep learning",
+        "machine learning",
+        "python",
+        "r",
+        "scala",
+        "statistics"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
