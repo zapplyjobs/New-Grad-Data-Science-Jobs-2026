@@ -20,6 +20,7 @@ module.exports = {
   // Branding text
   title: 'Data Science Jobs 2026',
   tagline: '',  // No tagline for SEO repos
+  jobCountBadgeLabel: 'Data Science Jobs',
 
   // Description paragraphs (with template variables)
   descriptionLine1: '🚀 Data science, analytics, and ML jobs for new graduates, updated in real time.',
