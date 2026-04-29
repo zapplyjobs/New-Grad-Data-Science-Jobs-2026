@@ -9,7 +9,7 @@
     "job_is_remote": false,
     "job_location": "GA Atlanta + 12 more",
     "job_apply_link": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Senior-Reporting-and-Analytics-Consultant---Prism_JR-0103116",
-    "job_posted_at_datetime_utc": "2026-04-29T17:12:05.082Z",
+    "job_posted_at_datetime_utc": "2026-04-29T17:26:03.316Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "955bd33b369208658160f59eaff5ecc57cf5fec89208036bf9d772b6f4e137d1",
@@ -26,7 +26,22 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-29T17:12:05.082Z"
+    "enrichment": {
+      "required_skills": [
+        "agents",
+        "analytics",
+        "data governance",
+        "data modeling",
+        "reporting",
+        "workday"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-29T17:26:03.316Z"
   },
   {
     "job_id": "workday-fidelity-investments-2124554",
@@ -38,7 +53,7 @@
     "job_is_remote": false,
     "job_location": "Westlake, TX",
     "job_apply_link": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Data-Engineer_2124554-1",
-    "job_posted_at_datetime_utc": "2026-04-29T17:08:10.354Z",
+    "job_posted_at_datetime_utc": "2026-04-29T17:22:26.080Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0a9e210ff6bb5a2387e975db125d3c459d4de4c83ec4559cf86d259ffa485829",
@@ -55,7 +70,34 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-29T17:08:10.354Z"
+    "enrichment": {
+      "required_skills": [
+        "angular",
+        "computer science",
+        "continuous delivery",
+        "continuous integration",
+        "data integration",
+        "data visualization",
+        "devops",
+        "distributed systems",
+        "ecs",
+        "elt",
+        "etl",
+        "java",
+        "kafka",
+        "kubernetes",
+        "oracle",
+        "python",
+        "snowflake",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-29T17:22:26.080Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0238826",
@@ -67,7 +109,7 @@
     "job_is_remote": false,
     "job_location": "Washington, DC",
     "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Data-Scientist_R0238826",
-    "job_posted_at_datetime_utc": "2026-04-29T17:07:12.412Z",
+    "job_posted_at_datetime_utc": "2026-04-29T17:21:08.167Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6d2a6d095e84e4c42252ccbe33e64b2dfee971c4288054d9c757842010684cca",
@@ -84,7 +126,24 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-29T17:07:12.412Z"
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "data science",
+        "data visualization",
+        "machine learning",
+        "natural language processing",
+        "python",
+        "r",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-29T17:21:08.167Z"
   },
   {
     "job_id": "greenhouse-nextdoor-7264954",
@@ -96,7 +155,7 @@
     "job_is_remote": false,
     "job_location": "San Francisco, CA",
     "job_apply_link": "https://about.nextdoor.com/careers-list/?gh_jid=7264954",
-    "job_posted_at_datetime_utc": "2026-04-29T17:06:51.026Z",
+    "job_posted_at_datetime_utc": "2026-04-29T17:20:42.421Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a743cbedabd2dafc96de97c007c80987cb704918c1900e8d2bc1a925bfeb3e8d",
@@ -114,7 +173,24 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-29T17:06:51.026Z"
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data science",
+        "deep learning",
+        "java",
+        "machine learning",
+        "networking",
+        "python",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-29T17:20:42.421Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0238969",
@@ -1887,6 +1963,35 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-28T21:42:39.261Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01351139",
+    "job_title": "Associate Research Scientist, Forced Degradation",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Collegeville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Collegeville, Pennsylvania, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Collegeville-Pennsylvania-USA/Associate-Research-Specialist--Forced-Degradation_R-01351139",
+    "job_posted_at_datetime_utc": "2026-04-28T20:06:14.319Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a07fc0d0a8367715cded9ec2d96bc5d071219ab177973401400d4d91120b2bdd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-28T20:06:14.319Z"
   },
   {
     "job_id": "lever-thinkahead-1ebcedcb-82ba-4d19-ac88-aa73a812dd81",
@@ -6683,6 +6788,60 @@
     "job_posted_at": "2026-04-27T07:23:00.165Z"
   },
   {
+    "job_id": "workday-guidehouse-38372",
+    "job_title": "Data Engineer",
+    "employer_name": "Guidehouse",
+    "job_city": "TX, San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US - TX, San Antonio",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Data-Engineer_38372",
+    "job_posted_at_datetime_utc": "2026-04-27T07:22:24.008Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "239095fd618b8aced49310dd8a032ab63d82ec30b25f013249a5c9ef5d8ba22d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "apache",
+        "apache spark",
+        "azure",
+        "computer science",
+        "data lake",
+        "data quality",
+        "data science",
+        "databricks",
+        "elt",
+        "etl",
+        "python",
+        "scala",
+        "snowflake",
+        "spark",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T07:22:24.008Z"
+  },
+  {
     "job_id": "workday-guidehouse-38787",
     "job_title": "Data Engineer",
     "employer_name": "Guidehouse",
@@ -6790,60 +6949,6 @@
         "risk management",
         "sql",
         "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T07:22:24.008Z"
-  },
-  {
-    "job_id": "workday-guidehouse-38372",
-    "job_title": "Data Engineer",
-    "employer_name": "Guidehouse",
-    "job_city": "TX, San Antonio",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US - TX, San Antonio",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Data-Engineer_38372",
-    "job_posted_at_datetime_utc": "2026-04-27T07:22:24.008Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "239095fd618b8aced49310dd8a032ab63d82ec30b25f013249a5c9ef5d8ba22d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "apache",
-        "apache spark",
-        "azure",
-        "computer science",
-        "data lake",
-        "data quality",
-        "data science",
-        "databricks",
-        "elt",
-        "etl",
-        "python",
-        "scala",
-        "snowflake",
-        "spark",
-        "sql"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -7407,6 +7512,56 @@
     "job_posted_at": "2026-04-27T07:21:12.010Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0238750",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Indian Head",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Indian Head, MD",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Indian-Head-MD/Data-Scientist_R0238750",
+    "job_posted_at_datetime_utc": "2026-04-27T07:21:12.009Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bfa0b874ea11032ec06275f2b97c0f47d80bd0bf2b22dbf4f0e1631ebec0035b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "Natural Language Processing",
+        "data analysis",
+        "data science",
+        "data visualization",
+        "machine learning",
+        "natural language processing",
+        "plotly",
+        "python",
+        "r",
+        "seaborn",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T07:21:12.009Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0238770",
     "job_title": "Logistic Operations Research & Systems Analyst",
     "employer_name": "Booz Allen Hamilton",
@@ -7487,56 +7642,6 @@
         "analytics",
         "data science",
         "etl",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T07:21:12.009Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0238750",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Indian Head",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Indian Head, MD",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Indian-Head-MD/Data-Scientist_R0238750",
-    "job_posted_at_datetime_utc": "2026-04-27T07:21:12.009Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bfa0b874ea11032ec06275f2b97c0f47d80bd0bf2b22dbf4f0e1631ebec0035b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "Natural Language Processing",
-        "data analysis",
-        "data science",
-        "data visualization",
-        "machine learning",
-        "natural language processing",
-        "plotly",
-        "python",
-        "r",
-        "seaborn",
-        "sql",
         "statistics"
       ],
       "sponsors_visa": null,
@@ -7985,6 +8090,120 @@
     "job_posted_at": "2026-04-27T02:59:37.422Z"
   },
   {
+    "job_id": "ashby-whatnot-9fd6fef1-619f-48dd-97b0-c91063432df3",
+    "job_title": "Data Engineer",
+    "employer_name": "Whatnot",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Francisco, CA",
+    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/9fd6fef1-619f-48dd-97b0-c91063432df3/application",
+    "job_posted_at_datetime_utc": "2026-04-27T02:59:34.956Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "a492ad985e1da8c33a09377032f42b280df84c3b775ef7bfa0c8a9487a4e4c37",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "analytics",
+        "bigquery",
+        "ci/cd",
+        "data architecture",
+        "data quality",
+        "dbt",
+        "event-driven",
+        "html",
+        "kafka",
+        "observability",
+        "python",
+        "redshift",
+        "scalability",
+        "snowflake",
+        "spark",
+        "sql",
+        "vault"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:59:34.956Z"
+  },
+  {
+    "job_id": "ashby-whatnot-938e7bf7-4960-419e-aabf-caf45232171b",
+    "job_title": "Data Engineer",
+    "employer_name": "Whatnot",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Francisco, CA",
+    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/938e7bf7-4960-419e-aabf-caf45232171b/application",
+    "job_posted_at_datetime_utc": "2026-04-27T02:59:34.956Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "a492ad985e1da8c33a09377032f42b280df84c3b775ef7bfa0c8a9487a4e4c37",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "analytics",
+        "bigquery",
+        "ci/cd",
+        "data architecture",
+        "data quality",
+        "dbt",
+        "event-driven",
+        "html",
+        "kafka",
+        "observability",
+        "python",
+        "redshift",
+        "scalability",
+        "snowflake",
+        "spark",
+        "sql",
+        "vault"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:59:34.956Z"
+  },
+  {
     "job_id": "ashby-whatnot-ab093aed-b59a-4efa-a451-0a88e0e084ed",
     "job_title": "Data Scientist, Product Analytics",
     "employer_name": "Whatnot",
@@ -8321,120 +8540,6 @@
     "job_posted_at": "2026-04-27T02:59:34.956Z"
   },
   {
-    "job_id": "ashby-whatnot-9fd6fef1-619f-48dd-97b0-c91063432df3",
-    "job_title": "Data Engineer",
-    "employer_name": "Whatnot",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Francisco, CA",
-    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/9fd6fef1-619f-48dd-97b0-c91063432df3/application",
-    "job_posted_at_datetime_utc": "2026-04-27T02:59:34.956Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "a492ad985e1da8c33a09377032f42b280df84c3b775ef7bfa0c8a9487a4e4c37",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "airflow",
-        "analytics",
-        "bigquery",
-        "ci/cd",
-        "data architecture",
-        "data quality",
-        "dbt",
-        "event-driven",
-        "html",
-        "kafka",
-        "observability",
-        "python",
-        "redshift",
-        "scalability",
-        "snowflake",
-        "spark",
-        "sql",
-        "vault"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:59:34.956Z"
-  },
-  {
-    "job_id": "ashby-whatnot-938e7bf7-4960-419e-aabf-caf45232171b",
-    "job_title": "Data Engineer",
-    "employer_name": "Whatnot",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Francisco, CA",
-    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/938e7bf7-4960-419e-aabf-caf45232171b/application",
-    "job_posted_at_datetime_utc": "2026-04-27T02:59:34.956Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "a492ad985e1da8c33a09377032f42b280df84c3b775ef7bfa0c8a9487a4e4c37",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "airflow",
-        "analytics",
-        "bigquery",
-        "ci/cd",
-        "data architecture",
-        "data quality",
-        "dbt",
-        "event-driven",
-        "html",
-        "kafka",
-        "observability",
-        "python",
-        "redshift",
-        "scalability",
-        "snowflake",
-        "spark",
-        "sql",
-        "vault"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:59:34.956Z"
-  },
-  {
     "job_id": "ashby-ramp-d204e136-2749-42de-82b4-88a0dd352090",
     "job_title": "Applied AI Engineer",
     "employer_name": "Ramp",
@@ -8568,6 +8673,60 @@
     "job_posted_at": "2026-04-27T02:59:08.695Z"
   },
   {
+    "job_id": "ashby-notion-4d1bce46-3cb1-4a26-b6c6-ac9b02ee413d",
+    "job_title": "Data Engineer, Finance",
+    "employer_name": "Notion",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Francisco, California",
+    "job_apply_link": "https://jobs.ashbyhq.com/notion/4d1bce46-3cb1-4a26-b6c6-ac9b02ee413d/application",
+    "job_posted_at_datetime_utc": "2026-04-27T02:59:06.901Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "bbed6e77e8b4f9fd4f18318073d982d67d286bb4d80be87ef9b586b4f9618caf",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "azure",
+        "dimensional modeling",
+        "gcp",
+        "hive",
+        "java",
+        "netsuite",
+        "python",
+        "redshift",
+        "reporting",
+        "salesforce",
+        "scala",
+        "snowflake",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:59:06.901Z"
+  },
+  {
     "job_id": "ashby-notion-655b047b-5e58-4b0c-82f0-8c16b2c03318",
     "job_title": "Data Engineer, Go-To-Market",
     "employer_name": "Notion",
@@ -8613,60 +8772,6 @@
         "snowflake",
         "sql",
         "zendesk"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:59:06.901Z"
-  },
-  {
-    "job_id": "ashby-notion-4d1bce46-3cb1-4a26-b6c6-ac9b02ee413d",
-    "job_title": "Data Engineer, Finance",
-    "employer_name": "Notion",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Francisco, California",
-    "job_apply_link": "https://jobs.ashbyhq.com/notion/4d1bce46-3cb1-4a26-b6c6-ac9b02ee413d/application",
-    "job_posted_at_datetime_utc": "2026-04-27T02:59:06.901Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "bbed6e77e8b4f9fd4f18318073d982d67d286bb4d80be87ef9b586b4f9618caf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "azure",
-        "dimensional modeling",
-        "gcp",
-        "hive",
-        "java",
-        "netsuite",
-        "python",
-        "redshift",
-        "reporting",
-        "salesforce",
-        "scala",
-        "snowflake",
-        "sql"
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
@@ -8725,6 +8830,52 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-27T02:59:03.854Z"
+  },
+  {
+    "job_id": "ashby-openai-577e6673-0a4a-491b-9a0d-facbdd3bdf3c",
+    "job_title": "Applied AI Engineer, Codex Core Agent",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Francisco",
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/577e6673-0a4a-491b-9a0d-facbdd3bdf3c/application",
+    "job_posted_at_datetime_utc": "2026-04-27T02:59:03.853Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "0e03b7380f5756b9a5037e6329383a56b7c70b7818f9d25f96b5e5bd01eed4bb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "agents",
+        "asana",
+        "fine-tuning",
+        "llm",
+        "machine learning",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:59:03.853Z"
   },
   {
     "job_id": "ashby-openai-be4e1098-f7ac-46f4-babe-44ef08f47fcb",
@@ -8857,52 +9008,6 @@
         "reporting",
         "sql",
         "threat modeling"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:59:03.853Z"
-  },
-  {
-    "job_id": "ashby-openai-577e6673-0a4a-491b-9a0d-facbdd3bdf3c",
-    "job_title": "Applied AI Engineer, Codex Core Agent",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Francisco",
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/577e6673-0a4a-491b-9a0d-facbdd3bdf3c/application",
-    "job_posted_at_datetime_utc": "2026-04-27T02:59:03.853Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "0e03b7380f5756b9a5037e6329383a56b7c70b7818f9d25f96b5e5bd01eed4bb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "agents",
-        "asana",
-        "fine-tuning",
-        "llm",
-        "machine learning",
-        "python"
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
@@ -9097,6 +9202,61 @@
       "is_remote": true
     },
     "job_posted_at": "2026-04-27T02:59:03.852Z"
+  },
+  {
+    "job_id": "ashby-openai-1f37ae5b-791a-4505-9575-183cc4bb9d5e",
+    "job_title": "Data Scientist, Support",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "San Francisco",
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/1f37ae5b-791a-4505-9575-183cc4bb9d5e/application",
+    "job_posted_at_datetime_utc": "2026-04-27T02:59:03.851Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "a3b285acac346555bc59171c0ef6f07241b55c4c0123a4420c2fc7b982bb2f85",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "operations",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "asana",
+        "business intelligence",
+        "cadence",
+        "chatgpt",
+        "dashboards",
+        "data science",
+        "jupyter",
+        "looker",
+        "prettier",
+        "python",
+        "reporting",
+        "routing",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": true
+    },
+    "job_posted_at": "2026-04-27T02:59:03.851Z"
   },
   {
     "job_id": "ashby-openai-2560ed50-5535-42b8-b069-9ebc28ce7493",
@@ -9508,61 +9668,6 @@
       "is_simple_apply": false,
       "summary_line": null,
       "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:59:03.851Z"
-  },
-  {
-    "job_id": "ashby-openai-1f37ae5b-791a-4505-9575-183cc4bb9d5e",
-    "job_title": "Data Scientist, Support",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "San Francisco",
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/1f37ae5b-791a-4505-9575-183cc4bb9d5e/application",
-    "job_posted_at_datetime_utc": "2026-04-27T02:59:03.851Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "a3b285acac346555bc59171c0ef6f07241b55c4c0123a4420c2fc7b982bb2f85",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "operations",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "asana",
-        "business intelligence",
-        "cadence",
-        "chatgpt",
-        "dashboards",
-        "data science",
-        "jupyter",
-        "looker",
-        "prettier",
-        "python",
-        "reporting",
-        "routing",
-        "sql",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": true
     },
     "job_posted_at": "2026-04-27T02:59:03.851Z"
   },
@@ -10837,52 +10942,6 @@
     "job_posted_at": "2026-04-27T02:58:20.702Z"
   },
   {
-    "job_id": "greenhouse-waymo-6608598",
-    "job_title": "Data Scientist",
-    "employer_name": "Waymo",
-    "job_city": "Mountain View",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Mountain View, California, USA",
-    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=6608598",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:20.701Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ec6faf6c6fd07e8ee5b4226e4bf31c284478e4fe6bab606e1930237df63a2aec",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "data science",
-        "deep learning",
-        "machine learning",
-        "python",
-        "sql",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:20.701Z"
-  },
-  {
     "job_id": "greenhouse-waymo-7467839",
     "job_title": "Applied Research Scientist, 3D Object Detection  (PhD New Grad)",
     "employer_name": "Waymo",
@@ -10971,6 +11030,52 @@
         "reporting",
         "sql",
         "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:20.701Z"
+  },
+  {
+    "job_id": "greenhouse-waymo-6608598",
+    "job_title": "Data Scientist",
+    "employer_name": "Waymo",
+    "job_city": "Mountain View",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Mountain View, California, USA",
+    "job_apply_link": "https://careers.withwaymo.com/jobs?gh_jid=6608598",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:20.701Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ec6faf6c6fd07e8ee5b4226e4bf31c284478e4fe6bab606e1930237df63a2aec",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "data science",
+        "deep learning",
+        "machine learning",
+        "python",
+        "sql",
+        "statistics"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -11537,6 +11642,184 @@
     "job_posted_at": "2026-04-27T02:58:19.329Z"
   },
   {
+    "job_id": "greenhouse-scm-712340",
+    "job_title": "Quantitative Research Analyst",
+    "employer_name": "Stevens Capital Management",
+    "job_city": "Radnor",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Radnor, PA",
+    "job_apply_link": "https://job-boards.greenhouse.io/scm/jobs/712340",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:19.056Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2d4a33f864bf356a71fd79ee1504a77bb0def276cdc356f5d20ade1cee4d7e8c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "data analysis",
+        "python",
+        "r",
+        "regression",
+        "statistical analysis",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:19.056Z"
+  },
+  {
+    "job_id": "greenhouse-scm-4833309",
+    "job_title": "Quantitative Research Analyst - Jersey City, NJ",
+    "employer_name": "Stevens Capital Management",
+    "job_city": "Jersey City",
+    "job_state": "NJ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Jersey City, NJ",
+    "job_apply_link": "https://job-boards.greenhouse.io/scm/jobs/4833309",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:19.056Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4c03c3ee41d9304d503136ad97576bb9d1d071ab088a163314da736365d24fdb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "data analysis",
+        "python",
+        "r",
+        "regression",
+        "statistical analysis",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:19.056Z"
+  },
+  {
+    "job_id": "greenhouse-scm-3891358",
+    "job_title": "Quantitative Research Analyst - Remote",
+    "employer_name": "Stevens Capital Management",
+    "job_city": "Radnor",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Radnor, PA",
+    "job_apply_link": "https://job-boards.greenhouse.io/scm/jobs/3891358",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:19.056Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8d31fd619a32d6ec2605fab56c606f7d11a14788a0e7495d60a90bc7df833161",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "data analysis",
+        "python",
+        "r",
+        "regression",
+        "statistical analysis",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:19.056Z"
+  },
+  {
+    "job_id": "greenhouse-scm-1659323",
+    "job_title": "Quantitative Research Developer",
+    "employer_name": "Stevens Capital Management",
+    "job_city": "Radnor",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Radnor, PA",
+    "job_apply_link": "https://job-boards.greenhouse.io/scm/jobs/1659323",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:19.056Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "aeb67130cee67576e2ec146541c6db27a4f2f1489012d2f0c759c76c59c0d480",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:19.056Z"
+  },
+  {
     "job_id": "greenhouse-scm-4833303",
     "job_title": "Quantitative Research Developer - Jersey City, NJ",
     "employer_name": "Stevens Capital Management",
@@ -11732,184 +12015,6 @@
       "required_skills": [
         "c++",
         "computer science",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:19.056Z"
-  },
-  {
-    "job_id": "greenhouse-scm-712340",
-    "job_title": "Quantitative Research Analyst",
-    "employer_name": "Stevens Capital Management",
-    "job_city": "Radnor",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Radnor, PA",
-    "job_apply_link": "https://job-boards.greenhouse.io/scm/jobs/712340",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:19.056Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2d4a33f864bf356a71fd79ee1504a77bb0def276cdc356f5d20ade1cee4d7e8c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "data analysis",
-        "python",
-        "r",
-        "regression",
-        "statistical analysis",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:19.056Z"
-  },
-  {
-    "job_id": "greenhouse-scm-4833309",
-    "job_title": "Quantitative Research Analyst - Jersey City, NJ",
-    "employer_name": "Stevens Capital Management",
-    "job_city": "Jersey City",
-    "job_state": "NJ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Jersey City, NJ",
-    "job_apply_link": "https://job-boards.greenhouse.io/scm/jobs/4833309",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:19.056Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4c03c3ee41d9304d503136ad97576bb9d1d071ab088a163314da736365d24fdb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "data analysis",
-        "python",
-        "r",
-        "regression",
-        "statistical analysis",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:19.056Z"
-  },
-  {
-    "job_id": "greenhouse-scm-3891358",
-    "job_title": "Quantitative Research Analyst - Remote",
-    "employer_name": "Stevens Capital Management",
-    "job_city": "Radnor",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Radnor, PA",
-    "job_apply_link": "https://job-boards.greenhouse.io/scm/jobs/3891358",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:19.056Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8d31fd619a32d6ec2605fab56c606f7d11a14788a0e7495d60a90bc7df833161",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "data analysis",
-        "python",
-        "r",
-        "regression",
-        "statistical analysis",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:19.056Z"
-  },
-  {
-    "job_id": "greenhouse-scm-1659323",
-    "job_title": "Quantitative Research Developer",
-    "employer_name": "Stevens Capital Management",
-    "job_city": "Radnor",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Radnor, PA",
-    "job_apply_link": "https://job-boards.greenhouse.io/scm/jobs/1659323",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:19.056Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "aeb67130cee67576e2ec146541c6db27a4f2f1489012d2f0c759c76c59c0d480",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "c++",
         "python"
       ],
       "sponsors_visa": null,
@@ -13190,449 +13295,6 @@
     "job_posted_at": "2026-04-27T02:58:16.954Z"
   },
   {
-    "job_id": "greenhouse-point72-8466850002",
-    "job_title": "Business Intelligence Analyst",
-    "employer_name": "Point72",
-    "job_city": "Stamford",
-    "job_state": "CT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Stamford, CT",
-    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/8466850002?gh_jid=8466850002",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.944Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4b28666adb4fdeea6f5100f6cb166133ed5d97e86dde2d07cbbbe7d22b8c72f4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "legal",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "data quality",
-        "data science",
-        "llm",
-        "multimodal",
-        "numpy",
-        "pandas",
-        "prompt engineering",
-        "python",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:16.944Z"
-  },
-  {
-    "job_id": "greenhouse-point72-7605647002",
-    "job_title": "Credit Research Analyst, Global Macro",
-    "employer_name": "Point72",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York",
-    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7605647002?gh_jid=7605647002",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.944Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "13ea0fdd1632c779ab07e5097fd25096c0b36b67f81887a1658d07695235574b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:16.944Z"
-  },
-  {
-    "job_id": "greenhouse-point72-7045938002",
-    "job_title": "Cubist Data Scientist",
-    "employer_name": "Point72",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York",
-    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7045938002?gh_jid=7045938002",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.944Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fad8fab32511a219b9c97b3b4878e3c2a397759e3a828a51c28bbafd8dd95b76",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "airflow",
-        "aws",
-        "computer science",
-        "linux",
-        "python",
-        "sql",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:16.944Z"
-  },
-  {
-    "job_id": "greenhouse-point72-7318005002",
-    "job_title": "Cubist Quantitative Researcher",
-    "employer_name": "Point72",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York",
-    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7318005002?gh_jid=7318005002",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.944Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b9345c4dc275279e5ad54de8d027de5d5777cc7b23323cda782d7ccb79049d0b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "c#",
-        "c++",
-        "computer science",
-        "java",
-        "matlab",
-        "perl",
-        "python",
-        "r"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:16.944Z"
-  },
-  {
-    "job_id": "greenhouse-point72-7045987002",
-    "job_title": "Cubist Quantitative Researcher",
-    "employer_name": "Point72",
-    "job_city": "Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Chicago, New York, Seattle ",
-    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7045987002?gh_jid=7045987002",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.944Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "81a86858c72487e4a5347786b0b0a342ef110b419e358449bb9ec85bde52a2d5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "data analysis",
-        "data science",
-        "python",
-        "sql",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:16.944Z"
-  },
-  {
-    "job_id": "greenhouse-point72-7829230002",
-    "job_title": "Data Engineer",
-    "employer_name": "Point72",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York",
-    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7829230002?gh_jid=7829230002",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.944Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ad71d89fc064de4c4640658709c9f1de318a9070f265d8b1ece1dfcb7965ea11",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "computer science",
-        "data science",
-        "linux",
-        "pandas",
-        "python",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:16.944Z"
-  },
-  {
-    "job_id": "greenhouse-point72-8448917002",
-    "job_title": "Data Engineer, Knowledge Graph",
-    "employer_name": "Point72",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, NY",
-    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/8448917002?gh_jid=8448917002",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.944Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5091339ed7b94291ddf1e4a1e5d6a10ddea19b2a26bc25d699ea23be6d4fbb0e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "change management",
-        "data integration",
-        "data modeling",
-        "data science",
-        "excel",
-        "neo4j",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:16.944Z"
-  },
-  {
-    "job_id": "greenhouse-point72-7667745002",
-    "job_title": "Data Engineer, Proprietary Research",
-    "employer_name": "Point72",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, NY",
-    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7667745002?gh_jid=7667745002",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.944Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8936ae4c282d435ecc914426c32dcaa5ade259c2d85ed76b05c1d7ef20cdacd9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "data science",
-        "project management",
-        "python",
-        "scala",
-        "spark",
-        "switching"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:16.944Z"
-  },
-  {
-    "job_id": "greenhouse-point72-8372544002",
-    "job_title": "Data Scientist",
-    "employer_name": "Point72",
-    "job_city": "Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Chicago, New York",
-    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/8372544002?gh_jid=8372544002",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.944Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "22768cc707d99458bd6ba476ff79a1ebbce57df79cfe70bea606cc44faaf636b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "data science",
-        "python",
-        "sql",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:16.944Z"
-  },
-  {
-    "job_id": "greenhouse-point72-7297561002",
-    "job_title": "Equity Quantitative Researcher",
-    "employer_name": "Point72",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York",
-    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7297561002?gh_jid=7297561002",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.944Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7fecae73cf2d4cc31cb2db52ea32f878c647a26409dad59c6313ec4da0ca6519",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "linear",
-        "python",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:16.944Z"
-  },
-  {
     "job_id": "greenhouse-point72-8389431002",
     "job_title": "Fund Flow Quantitative Researcher",
     "employer_name": "Point72",
@@ -14136,28 +13798,27 @@
     "job_posted_at": "2026-04-27T02:58:16.944Z"
   },
   {
-    "job_id": "greenhouse-pinterest-6121450",
-    "job_title": "Machine Learning Engineer, Core Engineering",
-    "employer_name": "Pinterest",
-    "job_city": "San Francisco",
-    "job_state": "CA",
+    "job_id": "greenhouse-point72-8466850002",
+    "job_title": "Business Intelligence Analyst",
+    "employer_name": "Point72",
+    "job_city": "Stamford",
+    "job_state": "CT",
     "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; Remote, US",
-    "job_apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=6121450",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.725Z",
+    "job_is_remote": false,
+    "job_location": "Stamford, CT",
+    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/8466850002?gh_jid=8466850002",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.944Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "b0b1326aa7c1c1dbc3253abd29ca5cfffcfb6f036f17a5d3399ea672c7629067",
+    "fingerprint": "4b28666adb4fdeea6f5100f6cb166133ed5d97e86dde2d07cbbbe7d22b8c72f4",
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "ai",
+        "legal",
         "data_science"
       ],
       "locations": [
-        "us",
-        "remote"
+        "us"
       ],
       "experience": "mid_level",
       "special": []
@@ -14166,25 +13827,418 @@
     "_original_source": "greenhouse",
     "enrichment": {
       "required_skills": [
-        "computer science",
-        "deep learning",
-        "hadoop",
+        "business intelligence",
+        "data quality",
+        "data science",
         "llm",
-        "machine learning",
-        "natural language processing",
-        "reinforcement learning",
-        "spark",
-        "sql",
-        "statistics",
-        "vault"
+        "multimodal",
+        "numpy",
+        "pandas",
+        "prompt engineering",
+        "python",
+        "sql"
       ],
       "sponsors_visa": null,
-      "visa_question_present": false,
+      "visa_question_present": true,
       "is_simple_apply": false,
       "summary_line": null,
-      "is_remote": true
+      "is_remote": false
     },
-    "job_posted_at": "2026-04-27T02:58:16.725Z"
+    "job_posted_at": "2026-04-27T02:58:16.944Z"
+  },
+  {
+    "job_id": "greenhouse-point72-7605647002",
+    "job_title": "Credit Research Analyst, Global Macro",
+    "employer_name": "Point72",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York",
+    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7605647002?gh_jid=7605647002",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.944Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "13ea0fdd1632c779ab07e5097fd25096c0b36b67f81887a1658d07695235574b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:16.944Z"
+  },
+  {
+    "job_id": "greenhouse-point72-7045938002",
+    "job_title": "Cubist Data Scientist",
+    "employer_name": "Point72",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York",
+    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7045938002?gh_jid=7045938002",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.944Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fad8fab32511a219b9c97b3b4878e3c2a397759e3a828a51c28bbafd8dd95b76",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "aws",
+        "computer science",
+        "linux",
+        "python",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:16.944Z"
+  },
+  {
+    "job_id": "greenhouse-point72-7045987002",
+    "job_title": "Cubist Quantitative Researcher",
+    "employer_name": "Point72",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Chicago, New York, Seattle ",
+    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7045987002?gh_jid=7045987002",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.944Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "81a86858c72487e4a5347786b0b0a342ef110b419e358449bb9ec85bde52a2d5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data analysis",
+        "data science",
+        "python",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:16.944Z"
+  },
+  {
+    "job_id": "greenhouse-point72-7318005002",
+    "job_title": "Cubist Quantitative Researcher",
+    "employer_name": "Point72",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York",
+    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7318005002?gh_jid=7318005002",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.944Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b9345c4dc275279e5ad54de8d027de5d5777cc7b23323cda782d7ccb79049d0b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "c#",
+        "c++",
+        "computer science",
+        "java",
+        "matlab",
+        "perl",
+        "python",
+        "r"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:16.944Z"
+  },
+  {
+    "job_id": "greenhouse-point72-7829230002",
+    "job_title": "Data Engineer",
+    "employer_name": "Point72",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York",
+    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7829230002?gh_jid=7829230002",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.944Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ad71d89fc064de4c4640658709c9f1de318a9070f265d8b1ece1dfcb7965ea11",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "data science",
+        "linux",
+        "pandas",
+        "python",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:16.944Z"
+  },
+  {
+    "job_id": "greenhouse-point72-8448917002",
+    "job_title": "Data Engineer, Knowledge Graph",
+    "employer_name": "Point72",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York, NY",
+    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/8448917002?gh_jid=8448917002",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.944Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5091339ed7b94291ddf1e4a1e5d6a10ddea19b2a26bc25d699ea23be6d4fbb0e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "change management",
+        "data integration",
+        "data modeling",
+        "data science",
+        "excel",
+        "neo4j",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:16.944Z"
+  },
+  {
+    "job_id": "greenhouse-point72-7667745002",
+    "job_title": "Data Engineer, Proprietary Research",
+    "employer_name": "Point72",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York, NY",
+    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7667745002?gh_jid=7667745002",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.944Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8936ae4c282d435ecc914426c32dcaa5ade259c2d85ed76b05c1d7ef20cdacd9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "data science",
+        "project management",
+        "python",
+        "scala",
+        "spark",
+        "switching"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:16.944Z"
+  },
+  {
+    "job_id": "greenhouse-point72-8372544002",
+    "job_title": "Data Scientist",
+    "employer_name": "Point72",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Chicago, New York",
+    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/8372544002?gh_jid=8372544002",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.944Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "22768cc707d99458bd6ba476ff79a1ebbce57df79cfe70bea606cc44faaf636b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data science",
+        "python",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:16.944Z"
+  },
+  {
+    "job_id": "greenhouse-point72-7297561002",
+    "job_title": "Equity Quantitative Researcher",
+    "employer_name": "Point72",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York",
+    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7297561002?gh_jid=7297561002",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.944Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7fecae73cf2d4cc31cb2db52ea32f878c647a26409dad59c6313ec4da0ca6519",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "linear",
+        "python",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:16.944Z"
   },
   {
     "job_id": "greenhouse-pinterest-6121543",
@@ -14233,6 +14287,57 @@
       "is_simple_apply": false,
       "summary_line": null,
       "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:16.725Z"
+  },
+  {
+    "job_id": "greenhouse-pinterest-6121450",
+    "job_title": "Machine Learning Engineer, Core Engineering",
+    "employer_name": "Pinterest",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; Remote, US",
+    "job_apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=6121450",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.725Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b0b1326aa7c1c1dbc3253abd29ca5cfffcfb6f036f17a5d3399ea672c7629067",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "deep learning",
+        "hadoop",
+        "llm",
+        "machine learning",
+        "natural language processing",
+        "reinforcement learning",
+        "spark",
+        "sql",
+        "statistics",
+        "vault"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": true
     },
     "job_posted_at": "2026-04-27T02:58:16.725Z"
   },
@@ -15138,110 +15243,6 @@
     "job_posted_at": "2026-04-27T02:58:12.402Z"
   },
   {
-    "job_id": "lever-zoox-c73446f6-3e66-4e3d-a694-f768e86038e9",
-    "job_title": "Data Engineer",
-    "employer_name": "Zoox",
-    "job_city": "Foster City",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Foster City, CA",
-    "job_apply_link": "https://jobs.lever.co/zoox/c73446f6-3e66-4e3d-a694-f768e86038e9/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:12.136Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 180000,
-      "max": 230000,
-      "currency": "USD",
-      "interval": "per-year-salary"
-    },
-    "fingerprint": "2b92ca35415e4fe635d8f866ce5529a667b68beff3966c3b65d03802c37b5da4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "hybrid",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "enrichment": {
-      "required_skills": [
-        "airflow",
-        "data modeling",
-        "hadoop",
-        "kafka",
-        "spark",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:12.136Z"
-  },
-  {
-    "job_id": "lever-zoox-9ab192af-3480-40a7-9ff3-f81061ac6301",
-    "job_title": "Data Scientist - Perception Verification and Validation",
-    "employer_name": "Zoox",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Boston, MA",
-    "job_apply_link": "https://jobs.lever.co/zoox/9ab192af-3480-40a7-9ff3-f81061ac6301/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:12.136Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 167000,
-      "max": 228000,
-      "currency": "USD",
-      "interval": "per-year-salary"
-    },
-    "fingerprint": "d341718690dd1128453c88bb4b2a3c9bd94f110bfbe8bc8788838696ecc6bc11",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "hybrid",
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "computer vision",
-        "data analysis",
-        "data visualization",
-        "python",
-        "scala",
-        "spark",
-        "sql",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:12.136Z"
-  },
-  {
     "job_id": "lever-zoox-55e51bf3-68ee-40d4-a1c5-5196e0e2d100",
     "job_title": "Machine Learning Engineer - 3D Sensor Simulation",
     "employer_name": "Zoox",
@@ -15636,6 +15637,110 @@
       "sponsors_visa": null,
       "visa_question_present": true,
       "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:12.136Z"
+  },
+  {
+    "job_id": "lever-zoox-c73446f6-3e66-4e3d-a694-f768e86038e9",
+    "job_title": "Data Engineer",
+    "employer_name": "Zoox",
+    "job_city": "Foster City",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Foster City, CA",
+    "job_apply_link": "https://jobs.lever.co/zoox/c73446f6-3e66-4e3d-a694-f768e86038e9/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:12.136Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 180000,
+      "max": 230000,
+      "currency": "USD",
+      "interval": "per-year-salary"
+    },
+    "fingerprint": "2b92ca35415e4fe635d8f866ce5529a667b68beff3966c3b65d03802c37b5da4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "hybrid",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "data modeling",
+        "hadoop",
+        "kafka",
+        "spark",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:12.136Z"
+  },
+  {
+    "job_id": "lever-zoox-9ab192af-3480-40a7-9ff3-f81061ac6301",
+    "job_title": "Data Scientist - Perception Verification and Validation",
+    "employer_name": "Zoox",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Boston, MA",
+    "job_apply_link": "https://jobs.lever.co/zoox/9ab192af-3480-40a7-9ff3-f81061ac6301/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:12.136Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 167000,
+      "max": 228000,
+      "currency": "USD",
+      "interval": "per-year-salary"
+    },
+    "fingerprint": "d341718690dd1128453c88bb4b2a3c9bd94f110bfbe8bc8788838696ecc6bc11",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "hybrid",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "computer vision",
+        "data analysis",
+        "data visualization",
+        "python",
+        "scala",
+        "spark",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
       "summary_line": null,
       "is_remote": false
     },
@@ -16377,92 +16482,6 @@
     "job_posted_at": "2026-04-27T02:58:10.728Z"
   },
   {
-    "job_id": "greenhouse-imc-4660792101",
-    "job_title": "Quantitative Researcher - Data Curation",
-    "employer_name": "IMC Trading",
-    "job_city": "Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Chicago, United States",
-    "job_apply_link": "https://job-boards.eu.greenhouse.io/imc/jobs/4660792101",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:10.471Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "48132a903a1e46c34c90ccc37e0de497bbea8729d57940c33d3823bb24d5a5e6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "data quality",
-        "machine learning",
-        "python",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:10.471Z"
-  },
-  {
-    "job_id": "greenhouse-imc-4382558101",
-    "job_title": "Quantitative Researcher – Equities",
-    "employer_name": "IMC Trading",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, United States",
-    "job_apply_link": "https://job-boards.eu.greenhouse.io/imc/jobs/4382558101",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:10.471Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0892b49c71d713f7abd2284b1b50b63b5442feb082658e67cb5de1048cffd112",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "data analysis",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:10.471Z"
-  },
-  {
     "job_id": "greenhouse-imc-4713602101",
     "job_title": "Hardware Machine Learning Engineer",
     "employer_name": "IMC Trading",
@@ -16548,6 +16567,92 @@
         "pytorch",
         "statistics",
         "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:10.471Z"
+  },
+  {
+    "job_id": "greenhouse-imc-4660792101",
+    "job_title": "Quantitative Researcher - Data Curation",
+    "employer_name": "IMC Trading",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Chicago, United States",
+    "job_apply_link": "https://job-boards.eu.greenhouse.io/imc/jobs/4660792101",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:10.471Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "48132a903a1e46c34c90ccc37e0de497bbea8729d57940c33d3823bb24d5a5e6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "data quality",
+        "machine learning",
+        "python",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:10.471Z"
+  },
+  {
+    "job_id": "greenhouse-imc-4382558101",
+    "job_title": "Quantitative Researcher – Equities",
+    "employer_name": "IMC Trading",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York, United States",
+    "job_apply_link": "https://job-boards.eu.greenhouse.io/imc/jobs/4382558101",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:10.471Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0892b49c71d713f7abd2284b1b50b63b5442feb082658e67cb5de1048cffd112",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data analysis",
+        "python"
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
@@ -17219,136 +17324,6 @@
     "job_posted_at": "2026-04-27T02:58:09.248Z"
   },
   {
-    "job_id": "greenhouse-figureai-4660876006",
-    "job_title": "Helix AI Engineer, Tooling",
-    "employer_name": "Figure AI",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://job-boards.greenhouse.io/figureai/jobs/4660876006",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:09.235Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "17fac41375db513c94f663d94e1251dac0324a70e25440b5fb6b25a3e50b2818",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "react",
-        "robotics",
-        "typescript"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:09.235Z"
-  },
-  {
-    "job_id": "greenhouse-figureai-4431092006",
-    "job_title": "Helix AI Engineer, Training Infrastructure",
-    "employer_name": "Figure AI",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://job-boards.greenhouse.io/figureai/jobs/4431092006",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:09.235Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6a9c06569030b4375e8d50072c8341a7cc529b7c7823bc9a4fa00e6f452ea95b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "neural network",
-        "python",
-        "pytorch",
-        "robotics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:09.235Z"
-  },
-  {
-    "job_id": "greenhouse-figureai-4671703006",
-    "job_title": "Helix AI Engineer, Video Pretraining",
-    "employer_name": "Figure AI",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://job-boards.greenhouse.io/figureai/jobs/4671703006",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:09.235Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4462684aebaa0af490a171b4449aa128ab145e48ee3ed88eb5c6df017581f2b4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "deep learning",
-        "multimodal",
-        "python",
-        "pytorch"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:09.235Z"
-  },
-  {
     "job_id": "greenhouse-figureai-4590702006",
     "job_title": "Data Quality Analyst",
     "employer_name": "Figure AI",
@@ -17690,6 +17665,136 @@
         "pytorch",
         "reinforcement learning",
         "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:09.235Z"
+  },
+  {
+    "job_id": "greenhouse-figureai-4660876006",
+    "job_title": "Helix AI Engineer, Tooling",
+    "employer_name": "Figure AI",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://job-boards.greenhouse.io/figureai/jobs/4660876006",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:09.235Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "17fac41375db513c94f663d94e1251dac0324a70e25440b5fb6b25a3e50b2818",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "react",
+        "robotics",
+        "typescript"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:09.235Z"
+  },
+  {
+    "job_id": "greenhouse-figureai-4431092006",
+    "job_title": "Helix AI Engineer, Training Infrastructure",
+    "employer_name": "Figure AI",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://job-boards.greenhouse.io/figureai/jobs/4431092006",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:09.235Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6a9c06569030b4375e8d50072c8341a7cc529b7c7823bc9a4fa00e6f452ea95b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "neural network",
+        "python",
+        "pytorch",
+        "robotics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:09.235Z"
+  },
+  {
+    "job_id": "greenhouse-figureai-4671703006",
+    "job_title": "Helix AI Engineer, Video Pretraining",
+    "employer_name": "Figure AI",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://job-boards.greenhouse.io/figureai/jobs/4671703006",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:09.235Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4462684aebaa0af490a171b4449aa128ab145e48ee3ed88eb5c6df017581f2b4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "deep learning",
+        "multimodal",
+        "python",
+        "pytorch"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -18157,6 +18262,47 @@
     "job_posted_at": "2026-04-27T02:58:08.610Z"
   },
   {
+    "job_id": "greenhouse-deepmind-7576917",
+    "job_title": "Research Scientist, Safety and Alignment for Humanoid Robotics",
+    "employer_name": "DeepMind",
+    "job_city": "New York City",
+    "job_state": "US",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York City, New York, US",
+    "job_apply_link": "https://job-boards.greenhouse.io/deepmind/jobs/7576917",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:08.606Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c5447ac7d4608e3634a887b96a19fcad669c794e129aa9b0ede45093f43e410f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "machine learning",
+        "reinforcement learning"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:08.606Z"
+  },
+  {
     "job_id": "greenhouse-deepmind-7450900",
     "job_title": "Research Scientist, Gemini Information Tasks",
     "employer_name": "DeepMind",
@@ -18492,47 +18638,6 @@
     "job_posted_at": "2026-04-27T02:58:08.606Z"
   },
   {
-    "job_id": "greenhouse-deepmind-7576917",
-    "job_title": "Research Scientist, Safety and Alignment for Humanoid Robotics",
-    "employer_name": "DeepMind",
-    "job_city": "New York City",
-    "job_state": "US",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York City, New York, US",
-    "job_apply_link": "https://job-boards.greenhouse.io/deepmind/jobs/7576917",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:08.606Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c5447ac7d4608e3634a887b96a19fcad669c794e129aa9b0ede45093f43e410f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "machine learning",
-        "reinforcement learning"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:08.606Z"
-  },
-  {
     "job_id": "greenhouse-databricks-8335860002",
     "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
     "employer_name": "Databricks",
@@ -18595,104 +18700,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-27T02:58:08.421Z"
-  },
-  {
-    "job_id": "greenhouse-drweng-7696484",
-    "job_title": "Platform Engineer, C/FICCO",
-    "employer_name": "D.E. Shaw",
-    "job_city": "Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Chicago",
-    "job_apply_link": "https://job-boards.greenhouse.io/drweng/jobs/7696484",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:08.315Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a9a0fb105909e27d25bfd9ee081ff9ac1e26f0588dc7976f5f611d31f9ee5609",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "ansible",
-        "aws",
-        "ci/cd",
-        "grafana",
-        "kubernetes",
-        "linux",
-        "observability",
-        "prometheus",
-        "python",
-        "reporting",
-        "terraform",
-        "tls",
-        "websockets"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:08.315Z"
-  },
-  {
-    "job_id": "greenhouse-drweng-7650182",
-    "job_title": "Quantitative Researcher",
-    "employer_name": "D.E. Shaw",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York",
-    "job_apply_link": "https://job-boards.greenhouse.io/drweng/jobs/7650182",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:08.315Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "da36a873b648f090204a80748326e8b1ad2d699020296e23e5ec938d3f8d94bd",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "data analysis",
-        "excel",
-        "machine learning",
-        "python",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:08.315Z"
   },
   {
     "job_id": "greenhouse-drweng-7728094",
@@ -18818,6 +18825,104 @@
       "required_skills": [
         "computer science",
         "linux",
+        "python",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:08.315Z"
+  },
+  {
+    "job_id": "greenhouse-drweng-7696484",
+    "job_title": "Platform Engineer, C/FICCO",
+    "employer_name": "D.E. Shaw",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Chicago",
+    "job_apply_link": "https://job-boards.greenhouse.io/drweng/jobs/7696484",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:08.315Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a9a0fb105909e27d25bfd9ee081ff9ac1e26f0588dc7976f5f611d31f9ee5609",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "ansible",
+        "aws",
+        "ci/cd",
+        "grafana",
+        "kubernetes",
+        "linux",
+        "observability",
+        "prometheus",
+        "python",
+        "reporting",
+        "terraform",
+        "tls",
+        "websockets"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:08.315Z"
+  },
+  {
+    "job_id": "greenhouse-drweng-7650182",
+    "job_title": "Quantitative Researcher",
+    "employer_name": "D.E. Shaw",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York",
+    "job_apply_link": "https://job-boards.greenhouse.io/drweng/jobs/7650182",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:08.315Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "da36a873b648f090204a80748326e8b1ad2d699020296e23e5ec938d3f8d94bd",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "data analysis",
+        "excel",
+        "machine learning",
         "python",
         "statistics"
       ],
@@ -20075,6 +20180,160 @@
     "job_posted_at": "2026-04-27T02:58:06.345Z"
   },
   {
+    "job_id": "greenhouse-anthropic-4952079008",
+    "job_title": "Machine Learning Systems Engineer, Research Tools",
+    "employer_name": "Anthropic",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "job_apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4952079008",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:05.956Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ccbc6bba6dccfdb664b093c6b2022abf7067a1b36c31b27e3e973642595235e3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "anthropic",
+        "computer science",
+        "distributed systems",
+        "gpt",
+        "machine learning",
+        "multimodal",
+        "python",
+        "slack"
+      ],
+      "sponsors_visa": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:05.956Z"
+  },
+  {
+    "job_id": "greenhouse-anthropic-4952051008",
+    "job_title": "Machine Learning Systems Engineer, RL Engineering",
+    "employer_name": "Anthropic",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "job_apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4952051008",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:05.956Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e52ea031d87df880a37ffcee7dfbbe19c1bcdf9beea34f730a43d2096b9106c4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "anthropic",
+        "computer science",
+        "distributed systems",
+        "gpt",
+        "llm",
+        "machine learning",
+        "multimodal",
+        "python",
+        "reinforcement learning",
+        "slack"
+      ],
+      "sponsors_visa": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:05.956Z"
+  },
+  {
+    "job_id": "greenhouse-anthropic-4613568008",
+    "job_title": "Research Engineer, Machine Learning (Reinforcement Learning)",
+    "employer_name": "Anthropic",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Francisco, CA | New York City, NY",
+    "job_apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4613568008",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:05.956Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fcb071da50d4bde0bc76fc737aa202e29c3aa1e9c194350aceda0dfeb8325e8b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "agents",
+        "anthropic",
+        "c++",
+        "computer science",
+        "distributed systems",
+        "gpt",
+        "kubernetes",
+        "llm",
+        "machine learning",
+        "multimodal",
+        "python",
+        "pytorch",
+        "reinforcement learning",
+        "rust",
+        "tensorflow"
+      ],
+      "sponsors_visa": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:05.956Z"
+  },
+  {
     "job_id": "greenhouse-anthropic-5074815008",
     "job_title": "Research Engineer/Research Scientist, Audio",
     "employer_name": "Anthropic",
@@ -20350,160 +20609,6 @@
         "gpt",
         "machine learning",
         "multimodal"
-      ],
-      "sponsors_visa": true,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:05.956Z"
-  },
-  {
-    "job_id": "greenhouse-anthropic-4952079008",
-    "job_title": "Machine Learning Systems Engineer, Research Tools",
-    "employer_name": "Anthropic",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "job_apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4952079008",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:05.956Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ccbc6bba6dccfdb664b093c6b2022abf7067a1b36c31b27e3e973642595235e3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "anthropic",
-        "computer science",
-        "distributed systems",
-        "gpt",
-        "machine learning",
-        "multimodal",
-        "python",
-        "slack"
-      ],
-      "sponsors_visa": true,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:05.956Z"
-  },
-  {
-    "job_id": "greenhouse-anthropic-4952051008",
-    "job_title": "Machine Learning Systems Engineer, RL Engineering",
-    "employer_name": "Anthropic",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "job_apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4952051008",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:05.956Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e52ea031d87df880a37ffcee7dfbbe19c1bcdf9beea34f730a43d2096b9106c4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "anthropic",
-        "computer science",
-        "distributed systems",
-        "gpt",
-        "llm",
-        "machine learning",
-        "multimodal",
-        "python",
-        "reinforcement learning",
-        "slack"
-      ],
-      "sponsors_visa": true,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:05.956Z"
-  },
-  {
-    "job_id": "greenhouse-anthropic-4613568008",
-    "job_title": "Research Engineer, Machine Learning (Reinforcement Learning)",
-    "employer_name": "Anthropic",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Francisco, CA | New York City, NY",
-    "job_apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/4613568008",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:05.956Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fcb071da50d4bde0bc76fc737aa202e29c3aa1e9c194350aceda0dfeb8325e8b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "agents",
-        "anthropic",
-        "c++",
-        "computer science",
-        "distributed systems",
-        "gpt",
-        "kubernetes",
-        "llm",
-        "machine learning",
-        "multimodal",
-        "python",
-        "pytorch",
-        "reinforcement learning",
-        "rust",
-        "tensorflow"
       ],
       "sponsors_visa": true,
       "visa_question_present": true,
@@ -20798,47 +20903,6 @@
     "job_posted_at": "2026-04-27T02:58:05.955Z"
   },
   {
-    "job_id": "greenhouse-appliedintuition-4676438005",
-    "job_title": "Embedded AI Engineer – Android Automotive (On-Device Intelligence)",
-    "employer_name": "Applied Intuition",
-    "job_city": "Sunnyvale",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Sunnyvale, California, United States",
-    "job_apply_link": "https://boards.greenhouse.io/appliedintuition/jobs/4676438005?gh_jid=4676438005",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:05.933Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ab16739cf26eeb80f3516ff8dc7fbfa6084823aa8e0ccf7859d8ebe405a80ae5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "cfr"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:05.933Z"
-  },
-  {
     "job_id": "greenhouse-appliedintuition-4620154005",
     "job_title": "People Data Analyst",
     "employer_name": "Applied Intuition",
@@ -21060,6 +21124,47 @@
         "software",
         "ai",
         "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "cfr"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:05.933Z"
+  },
+  {
+    "job_id": "greenhouse-appliedintuition-4676438005",
+    "job_title": "Embedded AI Engineer – Android Automotive (On-Device Intelligence)",
+    "employer_name": "Applied Intuition",
+    "job_city": "Sunnyvale",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Sunnyvale, California, United States",
+    "job_apply_link": "https://boards.greenhouse.io/appliedintuition/jobs/4676438005?gh_jid=4676438005",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:05.933Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ab16739cf26eeb80f3516ff8dc7fbfa6084823aa8e0ccf7859d8ebe405a80ae5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science",
+        "hardware"
       ],
       "locations": [
         "us"
@@ -23254,6 +23359,53 @@
     "job_posted_at": "2026-04-27T01:04:58.245Z"
   },
   {
+    "job_id": "ashby-openai-e71cf565-4b21-4b0d-bf45-b22e58ca95eb",
+    "job_title": "Data Scientist, Infrastructure",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Francisco",
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/e71cf565-4b21-4b0d-bf45-b22e58ca95eb/application",
+    "job_posted_at_datetime_utc": "2026-04-27T01:04:58.244Z",
+    "job_employment_type": "FullTime",
+    "salary": null,
+    "fingerprint": "46e2eaab59c79745e65b699d7f423096778acfdb71856c067a130c893ab8bac7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "senior_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "Natural Language Processing",
+        "asana",
+        "dashboards",
+        "forecasting",
+        "generative ai",
+        "python",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T01:04:58.244Z"
+  },
+  {
     "job_id": "ashby-openai-579e2994-ec43-4869-8ad1-8cda8088f74b",
     "job_title": "Data Scientist, Product",
     "employer_name": "OpenAI",
@@ -23289,53 +23441,6 @@
         "asana",
         "chatgpt",
         "dashboards",
-        "generative ai",
-        "python",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T01:04:58.244Z"
-  },
-  {
-    "job_id": "ashby-openai-e71cf565-4b21-4b0d-bf45-b22e58ca95eb",
-    "job_title": "Data Scientist, Infrastructure",
-    "employer_name": "OpenAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Francisco",
-    "job_apply_link": "https://jobs.ashbyhq.com/openai/e71cf565-4b21-4b0d-bf45-b22e58ca95eb/application",
-    "job_posted_at_datetime_utc": "2026-04-27T01:04:58.244Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "46e2eaab59c79745e65b699d7f423096778acfdb71856c067a130c893ab8bac7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "senior_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "Natural Language Processing",
-        "asana",
-        "dashboards",
-        "forecasting",
         "generative ai",
         "python",
         "sql"
@@ -27453,6 +27558,53 @@
     "job_posted_at": "2026-04-27T00:28:24.639Z"
   },
   {
+    "job_id": "greenhouse-datacamp-7067243",
+    "job_title": "Curriculum Manager - Data Science and AI",
+    "employer_name": "DataCamp",
+    "job_city": "Belgium; Portugal; United Kingdom; United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Belgium; Portugal; United Kingdom; United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/datacamp/jobs/7067243",
+    "job_posted_at_datetime_utc": "2026-04-27T00:28:23.735Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6e5d6c58a933c843d9fa324272efd58b188bb727b90f1eb9b2682ebbb5539029",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "product",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "aws",
+        "computer science",
+        "data science",
+        "hugging face",
+        "machine learning",
+        "python",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T00:28:23.735Z"
+  },
+  {
     "job_id": "greenhouse-datacamp-7531007",
     "job_title": "Curriculum Manager - Data Science and AI",
     "employer_name": "DataCamp",
@@ -27556,53 +27708,6 @@
     "job_is_remote": false,
     "job_location": "Belgium; Portugal; United Kingdom; United States",
     "job_apply_link": "https://job-boards.greenhouse.io/datacamp/jobs/7261637",
-    "job_posted_at_datetime_utc": "2026-04-27T00:28:23.735Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6e5d6c58a933c843d9fa324272efd58b188bb727b90f1eb9b2682ebbb5539029",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "product",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "aws",
-        "computer science",
-        "data science",
-        "hugging face",
-        "machine learning",
-        "python",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T00:28:23.735Z"
-  },
-  {
-    "job_id": "greenhouse-datacamp-7067243",
-    "job_title": "Curriculum Manager - Data Science and AI",
-    "employer_name": "DataCamp",
-    "job_city": "Belgium; Portugal; United Kingdom; United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Belgium; Portugal; United Kingdom; United States",
-    "job_apply_link": "https://job-boards.greenhouse.io/datacamp/jobs/7067243",
     "job_posted_at_datetime_utc": "2026-04-27T00:28:23.735Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -30165,64 +30270,6 @@
     "job_posted_at": "2026-04-24T07:06:41.928Z"
   },
   {
-    "job_id": "workday-thermo-fisher-scientific-R-01351066",
-    "job_title": "Business Intelligence & Analytics Manager",
-    "employer_name": "Thermo Fisher Scientific",
-    "job_city": "Greenville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Greenville, North Carolina, USA",
-    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Greenville-North-Carolina-USA/Business-Intelligence---Analytics-Manager_R-01351066",
-    "job_posted_at_datetime_utc": "2026-04-24T07:06:25.444Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7c607ee846989d1a9816fac55c33015e6b5875e6ed7c2e13112ab0321e031ad7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "business intelligence",
-        "computer science",
-        "dashboards",
-        "data integration",
-        "data modeling",
-        "erp",
-        "excel",
-        "hadoop",
-        "hive",
-        "perl",
-        "power bi",
-        "python",
-        "reporting",
-        "requirements gathering",
-        "sap",
-        "spark",
-        "sql",
-        "tableau",
-        "vba"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-24T07:06:25.444Z"
-  },
-  {
     "job_id": "workday-thermo-fisher-scientific-R-01351122",
     "job_title": "Research Scientist - Large Molecule",
     "employer_name": "Thermo Fisher Scientific",
@@ -30308,6 +30355,64 @@
         "machine learning",
         "program management",
         "project management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-24T07:06:25.444Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01351066",
+    "job_title": "Business Intelligence & Analytics Manager",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Greenville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Greenville, North Carolina, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Greenville-North-Carolina-USA/Business-Intelligence---Analytics-Manager_R-01351066",
+    "job_posted_at_datetime_utc": "2026-04-24T07:06:25.444Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7c607ee846989d1a9816fac55c33015e6b5875e6ed7c2e13112ab0321e031ad7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "business intelligence",
+        "computer science",
+        "dashboards",
+        "data integration",
+        "data modeling",
+        "erp",
+        "excel",
+        "hadoop",
+        "hive",
+        "perl",
+        "power bi",
+        "python",
+        "reporting",
+        "requirements gathering",
+        "sap",
+        "spark",
+        "sql",
+        "tableau",
+        "vba"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -36571,64 +36676,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-22T18:22:59.000Z"
-  },
-  {
-    "job_id": "greenhouse-captivation-5196927008",
-    "job_title": "Data Scientist 2 - Python/R/TensorFlow/SQL/Tableau",
-    "employer_name": "Captivation",
-    "job_city": "Annapolis Junction",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Annapolis Junction, MD",
-    "job_apply_link": "https://job-boards.greenhouse.io/captivation/jobs/5196927008",
-    "job_posted_at_datetime_utc": "2026-04-22T17:39:30.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7ed09d6a8415a398694e64bbd174aad7221bfb27cb64190d4733993a59ec5881",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "computer science",
-        "dashboards",
-        "data analysis",
-        "data visualization",
-        "machine learning",
-        "matlab",
-        "matplotlib",
-        "mongodb",
-        "numpy",
-        "pandas",
-        "postgresql",
-        "python",
-        "r",
-        "regression",
-        "scikit-learn",
-        "sql",
-        "statistical analysis",
-        "statistics",
-        "tableau",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-22T17:39:30.000Z"
   }
 ]
