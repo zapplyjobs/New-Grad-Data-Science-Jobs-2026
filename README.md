@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-837-brightgreen?style=flat&logo=briefcase)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-835-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-224-blue?style=flat&logo=building)
-![Data Scientist](https://img.shields.io/badge/Data_Scientist-427-red?style=flat&logo=star)
+![Data Scientist](https://img.shields.io/badge/Data_Scientist-426-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -77,13 +77,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Amazon.com Services LLC** | Applied Scientist, Speed + AI | Bellevue, WA | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10408753/applied-scientist-speed-ai) |
 | 🏢 **EliseAI** | Junior Research Scientist | San Francisco | 19h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/eliseai/0fb4a3ab-1472-4180-8f0c-9f898260f3bd/application) |
 | 🏢 **Apple** | Data & Analytics Engineer, AiDP | Austin Metro Area | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200660032/data-analytics-engineer-aidp) |
-| 🏢 **Booz Allen Hamilton** | Data Scientist | Lexington Park, M... | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-Park-MD/Data-Scientist_R0239095) |
-| 🏢 **Booz Allen Hamilton** | Data Scientist | Dayton, OH + 2 more | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/Data-Scientist_R0239093) |
+| 🏢 **Booz Allen Hamilton** | Data Scientist | Lexington Park, M... | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-Park-MD/Data-Scientist_R0239095) |
+| 🏢 **Booz Allen Hamilton** | Data Scientist | Dayton, OH + 2 more | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/Data-Scientist_R0239093) |
 | 🏢 **Leidos** | Machine Learning Engineer | Beavercreek, OH | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Beavercreek-OH/Machine-Learning-Engineer_R-00181757) |
 | 🏢 **Google** | Research Scientist, Visual Data and Generative Research | United States | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/80173821608239814) |
-| 🏢 **CACI** | Data Scientist | VA Fort Belvoir | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Fort-Belvoir/Data-Scientist_325060) |
+| 🏢 **CACI** | Data Scientist | VA Fort Belvoir | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Fort-Belvoir/Data-Scientist_325060) |
 | 🏢 **Figma** | Manager, Data Science - AI Product | San Francisco, CA... | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5983820004?gh_jid=5983820004) |
-| 🏢 **CACI** | Machine Learning Engineer (Clearance Sponsorship) | VA Chantilly | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Chantilly/Machine-Learning-Engineer--Clearance-Sponsorship-_325560) |
+| 🏢 **CACI** | Machine Learning Engineer (Clearance Sponsorship) | VA Chantilly | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Chantilly/Machine-Learning-Engineer--Clearance-Sponsorship-_325560) |
 | 🏢 **Trimble** | Marketing Analytics Engineer | CO, Westminster | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Marketing-Analytics-Engineer_R55737) |
 | 🏢 **Bumble** | Data Scientist | TX Austin | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/bumbleinc/21fc13e7-7d9c-4bd7-8e74-96923157cbb4/apply) |
 | 🏢 **Trimble** | Machine Learning Data Scientist | CO Westminster + ... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Data-Engineer-Scientist_R51795-1) |
@@ -281,8 +281,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | 🏢 **Booz Allen Hamilton** | Open-Source Research Analyst, Junior | McLean, VA | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0237806) |
-| 🏢 **CACI** | Signals Analyst | CO Denver | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Signals-Analyst_323044) |
-| 🏢 **Citi** | Enterprise Risk Reporting Data Analyst, Assistant Vice President | New York New York... | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Enterprise-Risk-Reporting-Data-Analyst--Assistant-Vice-President_26957774) |
+| 🏢 **CACI** | Signals Analyst | CO Denver | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Signals-Analyst_323044) |
+| 🏢 **Citi** | Enterprise Risk Reporting Data Analyst, Assistant Vice President | New York New York... | 4h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Enterprise-Risk-Reporting-Data-Analyst--Assistant-Vice-President_26957774) |
 | 🏢 **Roku** | Analyst, Revenue Analytics & Insights | New York, New York | 4h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://www.weareroku.com/jobs/7676018?gh_jid=7676018) |
 | 🏢 **KBR** | Operations Research Analyst | Hampton, Virginia | 5h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Hampton-Virginia/Operations-Research-Analyst_R2120350) |
 | 🏢 **CACI** | Data Analyst | VA Chantilly | 5h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Chantilly/Data-Analyst_323725) |
@@ -295,9 +295,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **AbbVie** | SAP Security Business Systems Consultant | North Chicago, IL | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012916995) |
 | 🏢 **Warner Bros. Discovery** | Analyst, Commerce - CNN Data Analytics, Science & Insights | NY New York 30 Hu... | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Analyst--Commerce---CNN-Data-Analytics--Science---Insights_R000101055) |
 | 🏢 **Booz Allen Hamilton** | Operations Research Analyst | Langley AFB, VA | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Langley-AFB-VA/Operations-Research-Analyst_R0239115) |
-| 🏢 **Vanguard** | Data Analyst, Specialist | Malvern, PA | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Analyst--Specialist_175423-1) |
-| 🏢 **Fidelity Investments** | Manager, Data Analytics and Insights | Westlake, TX + 1 ... | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Manager--Data-Analytics-and-Insights_2128094-1) |
-| 🏢 **Booz Allen Hamilton** | Open-Source Research Analyst, Junior | McLean, VA | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0239102) |
+| 🏢 **Vanguard** | Data Analyst, Specialist | Malvern, PA | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Analyst--Specialist_175423-1) |
+| 🏢 **Fidelity Investments** | Manager, Data Analytics and Insights | Westlake, TX + 1 ... | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Manager--Data-Analytics-and-Insights_2128094-1) |
+| 🏢 **Booz Allen Hamilton** | Open-Source Research Analyst, Junior | McLean, VA | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0239102) |
 | 🏢 **Warner Bros. Discovery** | Research Analyst (Temporary) | 2 Locations | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-230-Park-Avenue-South/Research-Analyst--Temporary-_R000104782) |
 | 🏢 **OpenAI** | Researcher, Agentic Post-Training | San Francisco | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/4acc3515-887f-4bc9-8c2a-00f36ae480c3/application) |
 | 🏢 **Vanguard** | Data Analyst, Product & Distribution Strategy Analytics | Malvern, PA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Analyst--Product---Distribution-Strategy-Analytics_176458-1) |
@@ -431,7 +431,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Oscar Health** | Associate, Operations Data Analytics | Atlanta, Georgia,... | 6d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7793815?gh_jid=7793815) |
 | 🏢 **Oscar Health** | Associate, Operations Data Analytics | Dallas, Texas, Un... | 6d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7793813?gh_jid=7793813) |
 | 🏢 **Oscar Health** | Associate, Operations Data Analytics | Tempe, Arizona, U... | 6d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7793812?gh_jid=7793812) |
-| 🏢 **Match Group** | Product Analyst | New York, New York | 6d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/matchgroup/5ebb103e-5c81-4772-aef5-0bf767f52157/apply) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -528,7 +527,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **AbbVie** | Manager, Market Access Data Strategy and Business Intelligence | Mettawa, IL | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990012910042) |
 | 🏢 **Comcast** | Analyst, Enterprise Business Intelligence | Philadelphia, 170... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Analyst--Enterprise-Business-Intelligence_R436375) |
 | 🏢 **Cisco** | Business Intelligence Manager | New York, New Yor... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/New-York-New-York-US/Business-Intelligence-Manager_2013786) |
-| 🏢 **NBCUniversal** | Reporting Analyst | North Hollywood, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000123538059) |
+| 🏢 **NBCUniversal** | Reporting Analyst | North Hollywood, CA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000123538059) |
 | 🏢 **AIG** | Data Business Intelligence (BI) & Power BI Analyst | TX Dallas + 4 more | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://aig.wd1.myworkdayjobs.com/AIG/job/TX-Dallas/Data-Business-Intelligence--BI----Power-BI-Analyst_JR2505279) |
 | 🏢 **Vanguard** | Fund Financial & Regulatory Reporting Analyst, Specialist | Malvern, PA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Fund-Financial---Regulatory-Reporting-Analyst--Specialist_177357-1) |
 | 🏢 **Amazon.com Services LLC** | Business Intelligence Engineer, WHS Data | Bellevue, WA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10404814/business-intelligence-engineer-whs-data) |
@@ -695,7 +694,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 837 current opportunities from 224 companies**
+**🎯 835 current opportunities from 224 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
