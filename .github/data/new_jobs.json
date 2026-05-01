@@ -35388,7 +35388,7 @@
     "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "San Francisco, CA • New York, NY • United States",
+    "job_location": "San Francisco, CA ��� New York, NY • United States",
     "job_apply_link": "https://boards.greenhouse.io/figma/jobs/5551532004?gh_jid=5551532004",
     "job_posted_at_datetime_utc": "2026-04-27T01:04:30.056Z",
     "job_employment_type": "FULLTIME",
@@ -39373,95 +39373,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-24T19:16:51.531Z"
-  },
-  {
-    "job_id": "greenhouse-imc-4832703101",
-    "job_title": "Quantitative Researcher",
-    "employer_name": "IMC Trading",
-    "job_city": "Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Chicago, United States",
-    "job_apply_link": "https://job-boards.eu.greenhouse.io/imc/jobs/4832703101",
-    "job_posted_at_datetime_utc": "2026-04-24T19:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e81a27e806d9b1ee15f2ae100de214e4c3da91d958c5f3a66e7f3b20f024f595",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "data analysis",
-        "forecasting",
-        "git",
-        "linear",
-        "numpy",
-        "pandas",
-        "python",
-        "scipy",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-24T19:00:00.000Z"
-  },
-  {
-    "job_id": "greenhouse-imc-4832704101",
-    "job_title": "Quantitative Researcher",
-    "employer_name": "IMC Trading",
-    "job_city": "Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Chicago, United States",
-    "job_apply_link": "https://job-boards.eu.greenhouse.io/imc/jobs/4832704101",
-    "job_posted_at_datetime_utc": "2026-04-24T19:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e81a27e806d9b1ee15f2ae100de214e4c3da91d958c5f3a66e7f3b20f024f595",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-24T19:00:00.000Z"
   }
 ]
