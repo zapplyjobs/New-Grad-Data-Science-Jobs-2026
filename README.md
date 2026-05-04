@@ -68,7 +68,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Cursor** | Data Scientist, Growth | San Francisco | 6h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/cursor/71ffd8e7-6da4-4671-a52d-00ba434d119f/application) |
+| 🏢 **Cursor** | Data Scientist, Growth | San Francisco | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/cursor/71ffd8e7-6da4-4671-a52d-00ba434d119f/application) |
 | 🏢 **Google** | Research Scientist, Gate Design and Measurement, Quantum AI | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/137662836112270022) |
 | 🏢 **Google** | Research Data Scientist, Brand Advertising, YouTube Ads | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/93507782728131270) |
 | 🏢 **Google** | Research Scientist, Robotics, Embodied AI, DeepMind | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/72149688827945670) |
@@ -120,7 +120,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **ByteDance** | Research Scientist in Speech Foundation Model – Graduates - Seed - PhD | San Jose, CA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.bytedance.com/en/position/7623545981743286533/detail) |
 | 🏢 **TikTok** | Machine Learning Engineer - Global E-Commerce Content Recommendation | San Jose, CA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lifeattiktok.com/search/7623531261580036405) |
 | 🏢 **Bank of America** | Data Scientist | Charlotte, NC | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/New-York/Data-Scientist_23022413) |
-| 🏢 **Bank of America** | Data Scientist 1 - Client Protection | Boston, MA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Charlotte/Data-Scientist-I---Client-Protection_26004726) |
+| 🏢 **Bank of America** | Data Scientist 1 | Charlotte, NC | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/New-York/Data-Scientist-I_25030183-1) |
 | 🏢 **PNC Financial Services** | Data Scientist | Houston, TX | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data-Scientist---Corporate---Institutional-Banking_R216795-1) |
 | 🏢 **Figma** | Data Scientist, Core Data -  PhD (2026) | New York, NY • Un... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004) |
 | 🏢 **Amazon.com Services LLC** | Data Scientist, SCOT Forecasting and Labs - CIV Team | Bellevue, WA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10408409/data-scientist-scot-forecasting-and-labs-civ-team) |
@@ -289,8 +289,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Booz Allen Hamilton** | Software Data Engineer | Charlottesville, VA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charlottesville-VA/Software-Data-Engineer_R0237762) |
 | 🏢 **Booz Allen Hamilton** | Data Engineer | Fort Belvoir, VA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Belvoir-VA/Zero-Trust-Information-Systems-Security-Engineer_R0236817) |
 | 🏢 **Booz Allen Hamilton** | Data Engineer | Chantilly, VA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Data-Engineer_R0239091) |
-| 🏢 **TikTok** | Data Engineer - E-commerce | Seattle, WA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lifeattiktok.com/search/7534818364393654535) |
 | 🏢 **TikTok** | Data Engineer - E-commerce - BS/MS | San Jose, CA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lifeattiktok.com/search/7534817408415861000) |
+| 🏢 **TikTok** | Data Engineer - E-commerce | Seattle, WA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lifeattiktok.com/search/7534818364393654535) |
 | 🏢 **Goldman Sachs** | Data Engineer | United States | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://higher.gs.com/roles/169292) |
 | 🏢 **FloQast** | Solutions Data Engineer | San Jose, California | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/floqast/85d4bd83-6958-42d9-93bf-2a5f7581fff2/apply) |
 | 🏢 **Fidelity Investments** | Data Engineer | Westlake, TX | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Data-Engineer_2124554-1) |
@@ -363,9 +363,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Booz Allen Hamilton** | AI Engineer | Arlington, VA + 1... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/AI-Engineer_R0239119) |
 | 🏢 **Zoom** | AI Engineer | Seattle | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Software-Development-Engineer---Zoom-AI-API-Suite_R17822-1) |
 | 🏢 **SentinelOne** | AI/ML Engineer | United States | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.sentinelone.com/jobs/7671593003?gh_jid=7671593003) |
+| 🏢 **Fortinet** | Applied AI Engineer - AI Agent | Sunnyvale, CA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22125) |
 | 🏢 **ByteDance** | Machine Learning Graduate - 2026 Start | Seattle, WA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.bytedance.com/en/position/7542674819873081608/detail) |
 | 🏢 **Goldman Sachs** | Asset & Wealth Management - AI Engineer - Associate | Salt Lake City, UT | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://higher.gs.com/roles/163086) |
-| 🏢 **Fortinet** | Applied AI Engineer - AI Agent | Sunnyvale, CA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22125) |
 | 🏢 **Deloitte** | Associate GenAI Engineer | Mt. Juliet, TN | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Technology-US-Associate-GenAI-Engineer/340568) |
 | 🏢 **Whatnot** | Software Engineer, Machine Learning Infrastructure | San Francisco, CA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/whatnot/5b592753-40a8-405e-8ced-35c311ff1354/application) |
 | 🏢 **Baker Hughes** | AI Engineer | Houston, TX | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-HOUSTON---6760-Concord-Park/AI-Engineer_R163615-1) |
