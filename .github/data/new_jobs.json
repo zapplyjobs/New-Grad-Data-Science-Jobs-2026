@@ -1364,7 +1364,7 @@
     "job_location": "United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556863207",
     "job_posted_at_datetime_utc": "2026-05-01T21:26:05.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "8fd4f6790db25a1a05307bdda743db1bee7781bd157f03b8d05cac447a2eb836",
     "tags": {
@@ -1671,19 +1671,19 @@
     "job_posted_at": "2026-05-01T17:28:37.000Z"
   },
   {
-    "job_id": "greenhouse-axon-7722070003",
+    "job_id": "greenhouse-axon-7718641003",
     "job_title": "Travel & Expense Data Analyst",
     "employer_name": "Axon",
-    "job_city": "New York",
-    "job_state": "NY",
+    "job_city": "Scottsdale",
+    "job_state": "AZ",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "New York, New York, United States",
-    "job_apply_link": "https://job-boards.greenhouse.io/axon/jobs/7722070003",
+    "job_location": "Scottsdale, Arizona, United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/axon/jobs/7718641003",
     "job_posted_at_datetime_utc": "2026-05-01T17:28:35.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "c7a77912100d82c1bf029d0ac6234a4b4607f340c021371dfc1141a00a901c60",
+    "fingerprint": "7ab9d39534baaeb21f88e9bcf95c6695cce38bd90476108daf8f79ad3d3ed82f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1713,19 +1713,19 @@
     "job_posted_at": "2026-05-01T17:28:35.000Z"
   },
   {
-    "job_id": "greenhouse-axon-7718641003",
+    "job_id": "greenhouse-axon-7722070003",
     "job_title": "Travel & Expense Data Analyst",
     "employer_name": "Axon",
-    "job_city": "Scottsdale",
-    "job_state": "AZ",
+    "job_city": "New York",
+    "job_state": "NY",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Scottsdale, Arizona, United States",
-    "job_apply_link": "https://job-boards.greenhouse.io/axon/jobs/7718641003",
+    "job_location": "New York, New York, United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/axon/jobs/7722070003",
     "job_posted_at_datetime_utc": "2026-05-01T17:28:35.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "7ab9d39534baaeb21f88e9bcf95c6695cce38bd90476108daf8f79ad3d3ed82f",
+    "fingerprint": "c7a77912100d82c1bf029d0ac6234a4b4607f340c021371dfc1141a00a901c60",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3986,6 +3986,52 @@
     "job_posted_at": "2026-05-01T00:00:00.000Z"
   },
   {
+    "job_id": "amazon-8c0ebf7a-851e-4610-9700-ef70fdf88c7b",
+    "job_title": "Applied Scientist",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Seattle, WA",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10408899/applied-scientist",
+    "job_posted_at_datetime_utc": "2026-05-01T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5f02e77aca46aedcc04babb651d64a667d57b903c0a5e5f0afc49f98cbba8272",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "java",
+        "machine learning",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-01T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-24e7cdc5-6e9f-420c-8637-9e5daefc35f0",
     "job_title": "Applied Scientist, Speed + AI",
     "employer_name": "Amazon.com Services LLC",
@@ -4024,52 +4070,6 @@
         "oracle",
         "python",
         "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T00:00:00.000Z"
-  },
-  {
-    "job_id": "amazon-8c0ebf7a-851e-4610-9700-ef70fdf88c7b",
-    "job_title": "Applied Scientist",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Seattle, WA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10408899/applied-scientist",
-    "job_posted_at_datetime_utc": "2026-05-01T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5f02e77aca46aedcc04babb651d64a667d57b903c0a5e5f0afc49f98cbba8272",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "java",
-        "machine learning",
-        "python"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -5638,55 +5638,6 @@
     "job_posted_at": "2026-04-30T07:06:16.869Z"
   },
   {
-    "job_id": "workday-trimble-R54035",
-    "job_title": "Data Engineer - Customer Insights & Analytics",
-    "employer_name": "Trimble",
-    "job_city": "CO, Westminster",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US - CO, Westminster",
-    "job_apply_link": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Data-Engineer--Customer-Insights---Analytics_R54035",
-    "job_posted_at_datetime_utc": "2026-04-30T07:06:14.919Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9db3a691b3b4d95381f73aeb5375535c91baf2ff8ca97cdaa1db9785a5cd59c5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "computer science",
-        "data analysis",
-        "data architecture",
-        "data integration",
-        "data pipeline",
-        "data quality",
-        "etl",
-        "python",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:06:14.919Z"
-  },
-  {
     "job_id": "workday-trimble-R55737",
     "job_title": "Marketing Analytics Engineer",
     "employer_name": "Trimble",
@@ -5781,6 +5732,55 @@
         "regression",
         "sql",
         "xgboost"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:06:14.919Z"
+  },
+  {
+    "job_id": "workday-trimble-R54035",
+    "job_title": "Data Engineer - Customer Insights & Analytics",
+    "employer_name": "Trimble",
+    "job_city": "CO, Westminster",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US - CO, Westminster",
+    "job_apply_link": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Data-Engineer--Customer-Insights---Analytics_R54035",
+    "job_posted_at_datetime_utc": "2026-04-30T07:06:14.919Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9db3a691b3b4d95381f73aeb5375535c91baf2ff8ca97cdaa1db9785a5cd59c5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "data analysis",
+        "data architecture",
+        "data integration",
+        "data pipeline",
+        "data quality",
+        "etl",
+        "python",
+        "sql"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -6762,256 +6762,6 @@
     "job_posted_at": "2026-04-30T07:02:37.007Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0239102",
-    "job_title": "Open-Source Research Analyst, Junior",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "McLean, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0239102",
-    "job_posted_at_datetime_utc": "2026-04-30T07:02:37.006Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bf1fe9c962e99bb4a495263b1ee18b918f4b171957f38f572a42b35ee661bcb4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "change management",
-        "process improvement"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:02:37.006Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0239100",
-    "job_title": "Open-Source Research Analyst, Junior",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "McLean, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0239100",
-    "job_posted_at_datetime_utc": "2026-04-30T07:02:37.006Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bf1fe9c962e99bb4a495263b1ee18b918f4b171957f38f572a42b35ee661bcb4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "change management",
-        "process improvement"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:02:37.006Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0239091",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Chantilly",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Chantilly, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Data-Engineer_R0239091",
-    "job_posted_at_datetime_utc": "2026-04-30T07:02:37.006Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a60f485d75387f02f56c5a6e61a196c6ee32df295253a032badfa2bceb309cfe",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "argocd",
-        "aws",
-        "computer science",
-        "data quality",
-        "distributed systems",
-        "elasticsearch",
-        "etl",
-        "grafana",
-        "helm",
-        "kafka",
-        "kubernetes",
-        "postgresql",
-        "prometheus",
-        "python",
-        "rds",
-        "reporting",
-        "scala",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:02:37.006Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0239090",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Chantilly",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Chantilly, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Data-Engineer_R0239090",
-    "job_posted_at_datetime_utc": "2026-04-30T07:02:37.006Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a60f485d75387f02f56c5a6e61a196c6ee32df295253a032badfa2bceb309cfe",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "argocd",
-        "aws",
-        "computer science",
-        "data quality",
-        "distributed systems",
-        "elasticsearch",
-        "etl",
-        "grafana",
-        "helm",
-        "java",
-        "kafka",
-        "kubernetes",
-        "postgresql",
-        "python",
-        "rds",
-        "reporting",
-        "scala",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:02:37.006Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0239070",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Chantilly",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Chantilly, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Data-Engineer_R0239070",
-    "job_posted_at_datetime_utc": "2026-04-30T07:02:37.006Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a60f485d75387f02f56c5a6e61a196c6ee32df295253a032badfa2bceb309cfe",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "ansible",
-        "aws",
-        "etl",
-        "java",
-        "kafka",
-        "postgresql",
-        "python",
-        "scala",
-        "sql",
-        "terraform"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:02:37.006Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0239119",
     "job_title": "AI Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -7307,6 +7057,256 @@
     "job_posted_at": "2026-04-30T07:02:37.006Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0239102",
+    "job_title": "Open-Source Research Analyst, Junior",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "McLean, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0239102",
+    "job_posted_at_datetime_utc": "2026-04-30T07:02:37.006Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bf1fe9c962e99bb4a495263b1ee18b918f4b171957f38f572a42b35ee661bcb4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "change management",
+        "process improvement"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:02:37.006Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239100",
+    "job_title": "Open-Source Research Analyst, Junior",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "McLean, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Open-Source-Research-Analyst--Junior_R0239100",
+    "job_posted_at_datetime_utc": "2026-04-30T07:02:37.006Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bf1fe9c962e99bb4a495263b1ee18b918f4b171957f38f572a42b35ee661bcb4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "change management",
+        "process improvement"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:02:37.006Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239091",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Chantilly",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Chantilly, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Data-Engineer_R0239091",
+    "job_posted_at_datetime_utc": "2026-04-30T07:02:37.006Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a60f485d75387f02f56c5a6e61a196c6ee32df295253a032badfa2bceb309cfe",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "argocd",
+        "aws",
+        "computer science",
+        "data quality",
+        "distributed systems",
+        "elasticsearch",
+        "etl",
+        "grafana",
+        "helm",
+        "kafka",
+        "kubernetes",
+        "postgresql",
+        "prometheus",
+        "python",
+        "rds",
+        "reporting",
+        "scala",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:02:37.006Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239090",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Chantilly",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Chantilly, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Data-Engineer_R0239090",
+    "job_posted_at_datetime_utc": "2026-04-30T07:02:37.006Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a60f485d75387f02f56c5a6e61a196c6ee32df295253a032badfa2bceb309cfe",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "argocd",
+        "aws",
+        "computer science",
+        "data quality",
+        "distributed systems",
+        "elasticsearch",
+        "etl",
+        "grafana",
+        "helm",
+        "java",
+        "kafka",
+        "kubernetes",
+        "postgresql",
+        "python",
+        "rds",
+        "reporting",
+        "scala",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:02:37.006Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239070",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Chantilly",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Chantilly, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Data-Engineer_R0239070",
+    "job_posted_at_datetime_utc": "2026-04-30T07:02:37.006Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a60f485d75387f02f56c5a6e61a196c6ee32df295253a032badfa2bceb309cfe",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "ansible",
+        "aws",
+        "etl",
+        "java",
+        "kafka",
+        "postgresql",
+        "python",
+        "scala",
+        "sql",
+        "terraform"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:02:37.006Z"
+  },
+  {
     "job_id": "workday-applied-materials-R2519741",
     "job_title": "Business Intelligence Analyst",
     "employer_name": "Applied Materials",
@@ -7535,7 +7535,7 @@
     "job_location": "United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556855477",
     "job_posted_at_datetime_utc": "2026-04-30T05:09:12.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6cc06f455112eb75802e76c138f9e433d987d42d18d3326d0c597afb79542a6a",
     "tags": {
@@ -7651,123 +7651,6 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-04-30T04:17:03.128Z"
-  },
-  {
-    "job_id": "simplify-0ec61d69-3f31-4ff6-9ea0-9dd4d1818bd2",
-    "job_title": "AI/ML Engineer",
-    "employer_name": "SentinelOne",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://www.sentinelone.com/jobs/7671593003?gh_jid=7671593003",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "71626181155c2c2e52ae0e4e4824698ad17922f1e7e5d9f4cca73ce23a3a2fda",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-87c4798f-208e-4f29-895a-37bcfe8f6e0f",
-    "job_title": "Machine Learning Engineer - Search Ads",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7623166667125508357",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6e3f6cb7f09f3952364ba557946dadc7da129ee1afe55c08508302a00429cbcb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-f1916feb-f156-4153-baa5-e26c75d5ae6f",
-    "job_title": "Research Scientist in Large Language Model - LLM",
-    "employer_name": "ByteDance",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://jobs.bytedance.com/en/position/7623536303630469381/detail",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7673d74ab46330fa820dd5ca51f3991f8cdc1a6fd7333c70ac7e69186ea71ae6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
   },
   {
     "job_id": "simplify-e766517d-2d35-42da-a646-5d0b5173939c",
@@ -8189,6 +8072,123 @@
     "job_posted_at": "2026-04-30T03:45:27.046Z"
   },
   {
+    "job_id": "simplify-0ec61d69-3f31-4ff6-9ea0-9dd4d1818bd2",
+    "job_title": "AI/ML Engineer",
+    "employer_name": "SentinelOne",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://www.sentinelone.com/jobs/7671593003?gh_jid=7671593003",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "71626181155c2c2e52ae0e4e4824698ad17922f1e7e5d9f4cca73ce23a3a2fda",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-87c4798f-208e-4f29-895a-37bcfe8f6e0f",
+    "job_title": "Machine Learning Engineer - Search Ads",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7623166667125508357",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6e3f6cb7f09f3952364ba557946dadc7da129ee1afe55c08508302a00429cbcb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-f1916feb-f156-4153-baa5-e26c75d5ae6f",
+    "job_title": "Research Scientist in Large Language Model - LLM",
+    "employer_name": "ByteDance",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://jobs.bytedance.com/en/position/7623536303630469381/detail",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7673d74ab46330fa820dd5ca51f3991f8cdc1a6fd7333c70ac7e69186ea71ae6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
     "job_id": "simplify-60b9363a-e707-4818-b0d5-65727a253199",
     "job_title": "General Hire – Research Scientist - Monetization Technology - PhD",
     "employer_name": "TikTok",
@@ -8264,238 +8264,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-30T03:45:27.045Z"
-  },
-  {
-    "job_id": "simplify-dbc1b4ce-18c5-46c3-a223-dde10ddb51f0",
-    "job_title": "Research Scientist Graduate - Compute Platform - Database Acceleration",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7631070662808160565",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.891Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ea578d7d10dcbbe51b122398695ac02ed65665c476a785ce315f126c4f5fd1df",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-04-30T03:45:26.891Z"
-  },
-  {
-    "job_id": "simplify-7f7df86f-b755-44f7-b66d-492960736e29",
-    "job_title": "Research Scientist - Multimodal Generative AI - Intelligent Creation",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7631001669631789365",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.891Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3bdb658b082df4395457101cfbb39991853c03ae1045608d017104f679f4c5b1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-04-30T03:45:26.891Z"
-  },
-  {
-    "job_id": "simplify-3430c8dc-b361-418e-b760-bb4b8464dcab",
-    "job_title": "Graduate Machine Learning Engineer - TikTok Recommendation Live",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7542584919815325960",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.891Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "da919a3267111807e18a0e52d83caf3dc6ce2c2cdf27b79b05ad7294e26be132",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-04-30T03:45:26.891Z"
-  },
-  {
-    "job_id": "simplify-bbc379c0-51e1-4215-ac1f-d18e1fc7c9f8",
-    "job_title": "Graduate Machine Learning Engineer - Data Search TikTok",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7515277586445322503",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.891Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f31a4bbadad13dae12cfbea08c04fcb44078f01a489ab7e4a35f857f90871c97",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:26.891Z"
-  },
-  {
-    "job_id": "simplify-31eb6244-17eb-4001-baa0-179014ac8dd3",
-    "job_title": "General Hire – Machine Learning Scientist Graduate - TikTok Recommendation",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7516697794956478738",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.891Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8e363f5f5adaf65894b28c0148aa8e14568deb5c2762529be72da96c08e32569",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:26.891Z"
-  },
-  {
-    "job_id": "simplify-f6f93c70-242c-4186-a7d2-07dd6a45694b",
-    "job_title": "Machine Learning Engineer Graduate",
-    "employer_name": "TikTok",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Seattle, WA",
-    "job_apply_link": "https://lifeattiktok.com/search/7534641634584185095",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.891Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6b44ac7978589b7918ebafad2d70414218eac2befe81c128989ee38a935aa8b5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-04-30T03:45:26.891Z"
-  },
-  {
-    "job_id": "simplify-d125b509-7258-4a04-9220-92198ed2d7e5",
-    "job_title": "Machine Learning Engineer Graduate - Multiple Teams",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7534641209890588946",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.891Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "107fefe9decfc6a91cde11fa9840f6de33479b5968d90c9a7443301d3b24041e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-04-30T03:45:26.891Z"
   },
   {
     "job_id": "simplify-ef45c2bb-b429-4621-a49e-6d2ab5d3abac",
@@ -8869,6 +8637,238 @@
     "job_posted_at": "2026-04-30T03:45:26.891Z"
   },
   {
+    "job_id": "simplify-dbc1b4ce-18c5-46c3-a223-dde10ddb51f0",
+    "job_title": "Research Scientist Graduate - Compute Platform - Database Acceleration",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7631070662808160565",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.891Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ea578d7d10dcbbe51b122398695ac02ed65665c476a785ce315f126c4f5fd1df",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-04-30T03:45:26.891Z"
+  },
+  {
+    "job_id": "simplify-7f7df86f-b755-44f7-b66d-492960736e29",
+    "job_title": "Research Scientist - Multimodal Generative AI - Intelligent Creation",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7631001669631789365",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.891Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3bdb658b082df4395457101cfbb39991853c03ae1045608d017104f679f4c5b1",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-04-30T03:45:26.891Z"
+  },
+  {
+    "job_id": "simplify-3430c8dc-b361-418e-b760-bb4b8464dcab",
+    "job_title": "Graduate Machine Learning Engineer - TikTok Recommendation Live",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7542584919815325960",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.891Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "da919a3267111807e18a0e52d83caf3dc6ce2c2cdf27b79b05ad7294e26be132",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-04-30T03:45:26.891Z"
+  },
+  {
+    "job_id": "simplify-bbc379c0-51e1-4215-ac1f-d18e1fc7c9f8",
+    "job_title": "Graduate Machine Learning Engineer - Data Search TikTok",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7515277586445322503",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.891Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f31a4bbadad13dae12cfbea08c04fcb44078f01a489ab7e4a35f857f90871c97",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:26.891Z"
+  },
+  {
+    "job_id": "simplify-31eb6244-17eb-4001-baa0-179014ac8dd3",
+    "job_title": "General Hire – Machine Learning Scientist Graduate - TikTok Recommendation",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7516697794956478738",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.891Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8e363f5f5adaf65894b28c0148aa8e14568deb5c2762529be72da96c08e32569",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:26.891Z"
+  },
+  {
+    "job_id": "simplify-f6f93c70-242c-4186-a7d2-07dd6a45694b",
+    "job_title": "Machine Learning Engineer Graduate",
+    "employer_name": "TikTok",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Seattle, WA",
+    "job_apply_link": "https://lifeattiktok.com/search/7534641634584185095",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.891Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6b44ac7978589b7918ebafad2d70414218eac2befe81c128989ee38a935aa8b5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-04-30T03:45:26.891Z"
+  },
+  {
+    "job_id": "simplify-d125b509-7258-4a04-9220-92198ed2d7e5",
+    "job_title": "Machine Learning Engineer Graduate - Multiple Teams",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7534641209890588946",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.891Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "107fefe9decfc6a91cde11fa9840f6de33479b5968d90c9a7443301d3b24041e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-04-30T03:45:26.891Z"
+  },
+  {
     "job_id": "simplify-d33c2cef-c9c3-4278-84bb-9a774be0c76e",
     "job_title": "Systems Data Analyst",
     "employer_name": "Charles Schwab",
@@ -8897,6 +8897,69 @@
     "_source": "aggregator",
     "_original_source": "simplify",
     "job_posted_at": "2026-04-30T03:45:26.891Z"
+  },
+  {
+    "job_id": "simplify-1e397c92-8682-482b-bcf4-ae906960e06c",
+    "job_title": "Machine Learning Engineer - CV/NLP/Multimodal LLM - Tiktok Trust and Safety",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7517108164819454216",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8477c6e448f5fd76fb297b3c0fe574707f6804b2b87970662af46c13d6f9f10f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science",
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-04-30T03:45:26.890Z"
+  },
+  {
+    "job_id": "simplify-09185862-96c9-4f8a-960b-c8ac4dae6765",
+    "job_title": "Machine Learning Engineer Graduate - 2026 Start and BS/MS",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7534982208201984274",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "60764cee661464f138c46f1d334bb18235eab95e311595345e5aafcaad17f235",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-04-30T03:45:26.890Z"
   },
   {
     "job_id": "simplify-e588b02e-4d59-46a5-8574-a4d7f18fba99",
@@ -10412,69 +10475,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "49b115ef12e1a06ccc1a6c39e310a5f4e387a2b321448e76d912470a389fcef1",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-04-30T03:45:26.890Z"
-  },
-  {
-    "job_id": "simplify-1e397c92-8682-482b-bcf4-ae906960e06c",
-    "job_title": "Machine Learning Engineer - CV/NLP/Multimodal LLM - Tiktok Trust and Safety",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7517108164819454216",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8477c6e448f5fd76fb297b3c0fe574707f6804b2b87970662af46c13d6f9f10f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science",
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-04-30T03:45:26.890Z"
-  },
-  {
-    "job_id": "simplify-09185862-96c9-4f8a-960b-c8ac4dae6765",
-    "job_title": "Machine Learning Engineer Graduate - 2026 Start and BS/MS",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7534982208201984274",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "60764cee661464f138c46f1d334bb18235eab95e311595345e5aafcaad17f235",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -12563,72 +12563,6 @@
     "job_posted_at": "2026-04-29T07:02:48.916Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0238124",
-    "job_title": "AI Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "San Antonio",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Antonio, TX",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Antonio-TX/AI-Engineer_R0238124",
-    "job_posted_at_datetime_utc": "2026-04-29T07:02:37.007Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b7da5612676762b3047b7f38db3abddecd7bc0cf99a24e8cac119cbe1da0b0dc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "analytics",
-        "aws",
-        "ci/cd",
-        "computer science",
-        "computer vision",
-        "data science",
-        "design patterns",
-        "devsecops",
-        "event-driven",
-        "fastapi",
-        "flask",
-        "graphql",
-        "infrastructure as code",
-        "java",
-        "kafka",
-        "kubernetes",
-        "lidar",
-        "multimodal",
-        "python",
-        "rabbitmq",
-        "rag",
-        "rest",
-        "sql",
-        "terraform",
-        "typescript"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-29T07:02:37.007Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0238164",
     "job_title": "Data Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -13063,6 +12997,72 @@
     "_original_source": "workday",
     "enrichment": {
       "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-29T07:02:37.007Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0238124",
+    "job_title": "AI Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "San Antonio",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Antonio, TX",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Antonio-TX/AI-Engineer_R0238124",
+    "job_posted_at_datetime_utc": "2026-04-29T07:02:37.007Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b7da5612676762b3047b7f38db3abddecd7bc0cf99a24e8cac119cbe1da0b0dc",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "analytics",
+        "aws",
+        "ci/cd",
+        "computer science",
+        "computer vision",
+        "data science",
+        "design patterns",
+        "devsecops",
+        "event-driven",
+        "fastapi",
+        "flask",
+        "graphql",
+        "infrastructure as code",
+        "java",
+        "kafka",
+        "kubernetes",
+        "lidar",
+        "multimodal",
+        "python",
+        "rabbitmq",
+        "rag",
+        "rest",
+        "sql",
+        "terraform",
+        "typescript"
+      ],
       "sponsors_visa": null,
       "visa_question_present": false,
       "is_simple_apply": false,
@@ -16388,6 +16388,61 @@
     "job_posted_at": "2026-04-28T07:02:52.970Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0235069",
+    "job_title": "Bioinformatics Specialist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Atlanta, GA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Bioinformatics-Specialist_R0235069",
+    "job_posted_at_datetime_utc": "2026-04-28T07:02:37.007Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d268beeec6f042a98e61edb7059ee0f46a2075c3ccf6912cf505681050a38491",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "azure",
+        "data analysis",
+        "data science",
+        "databricks",
+        "devsecops",
+        "linux",
+        "machine learning",
+        "power bi",
+        "python",
+        "r",
+        "shell",
+        "splunk",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-28T07:02:37.007Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0237975",
     "job_title": "Palantir Data Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -16743,61 +16798,6 @@
         "spark",
         "sql",
         "sql server"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-28T07:02:37.007Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235069",
-    "job_title": "Bioinformatics Specialist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Atlanta, GA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Bioinformatics-Specialist_R0235069",
-    "job_posted_at_datetime_utc": "2026-04-28T07:02:37.007Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d268beeec6f042a98e61edb7059ee0f46a2075c3ccf6912cf505681050a38491",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "azure",
-        "data analysis",
-        "data science",
-        "databricks",
-        "devsecops",
-        "linux",
-        "machine learning",
-        "power bi",
-        "python",
-        "r",
-        "shell",
-        "splunk",
-        "sql",
-        "tableau"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -17316,116 +17316,6 @@
     "job_posted_at": "2026-04-28T07:00:16.746Z"
   },
   {
-    "job_id": "workday-capital-one-R240002",
-    "job_title": "Manager, Data Scientist",
-    "employer_name": "Capital One",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "McLean, VA + 1 more",
-    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist_R240002",
-    "job_posted_at_datetime_utc": "2026-04-28T07:00:14.518Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9e91535c44f8f410d0626cec2295a878debd248ab8a28001c1a64c450fdf9aa0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "classification",
-        "computer science",
-        "cybersecurity",
-        "data analysis",
-        "data science",
-        "deep learning",
-        "machine learning",
-        "python",
-        "r",
-        "risk management",
-        "scala",
-        "spark",
-        "sql",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-28T07:00:14.518Z"
-  },
-  {
-    "job_id": "workday-capital-one-R240848",
-    "job_title": "Principal Associate, Data Scientist - Model Risk Office",
-    "employer_name": "Capital One",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "McLean, VA + 1 more",
-    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Principal-Associate--Data-Scientist---Model-Risk-Office_R240848-1",
-    "job_posted_at_datetime_utc": "2026-04-28T07:00:14.518Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dbc1a1e78befedaee8368c2350c3fbaa4a877faf4cf0b94c252b8d3be2a78fcb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "classification",
-        "computer science",
-        "data science",
-        "deep learning",
-        "kubeflow",
-        "machine learning",
-        "pyspark",
-        "python",
-        "r",
-        "risk management",
-        "scala",
-        "spark",
-        "sql",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-28T07:00:14.518Z"
-  },
-  {
     "job_id": "workday-capital-one-R241370",
     "job_title": "Senior Associate, Data Scientist - Audit Data Science",
     "employer_name": "Capital One",
@@ -17602,6 +17492,116 @@
     "job_posted_at": "2026-04-28T07:00:14.518Z"
   },
   {
+    "job_id": "workday-capital-one-R240002",
+    "job_title": "Manager, Data Scientist",
+    "employer_name": "Capital One",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "McLean, VA + 1 more",
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist_R240002",
+    "job_posted_at_datetime_utc": "2026-04-28T07:00:14.518Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9e91535c44f8f410d0626cec2295a878debd248ab8a28001c1a64c450fdf9aa0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "classification",
+        "computer science",
+        "cybersecurity",
+        "data analysis",
+        "data science",
+        "deep learning",
+        "machine learning",
+        "python",
+        "r",
+        "risk management",
+        "scala",
+        "spark",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-28T07:00:14.518Z"
+  },
+  {
+    "job_id": "workday-capital-one-R240848",
+    "job_title": "Principal Associate, Data Scientist - Model Risk Office",
+    "employer_name": "Capital One",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "McLean, VA + 1 more",
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Principal-Associate--Data-Scientist---Model-Risk-Office_R240848-1",
+    "job_posted_at_datetime_utc": "2026-04-28T07:00:14.518Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dbc1a1e78befedaee8368c2350c3fbaa4a877faf4cf0b94c252b8d3be2a78fcb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "classification",
+        "computer science",
+        "data science",
+        "deep learning",
+        "kubeflow",
+        "machine learning",
+        "pyspark",
+        "python",
+        "r",
+        "risk management",
+        "scala",
+        "spark",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-28T07:00:14.518Z"
+  },
+  {
     "job_id": "lever-plaid-69986fe5-5b47-4d9d-bd2a-beb94e021f1c",
     "job_title": "Analytics Engineer",
     "employer_name": "Plaid",
@@ -17753,54 +17753,6 @@
     "job_posted_at": "2026-04-28T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-e329d2a7-9acb-4be5-8345-5757993cc682",
-    "job_title": "Applied Science Manager - Match & Affordances, Amazon Robotics",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Seattle, WA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10406269/applied-science-manager-match-affordances-amazon-robotics",
-    "job_posted_at_datetime_utc": "2026-04-28T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c966b7a946c0d227017a1f1609f4fe0b885da519ac0a370d336bb4987fdbde8e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "computer vision",
-        "deep learning",
-        "machine learning",
-        "pytorch",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-28T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-c708a421-0fe9-4953-b1aa-47177b89338e",
     "job_title": "Applied Scientist - GenAI, International Seller Growth",
     "employer_name": "Amazon.com Services LLC",
@@ -17884,6 +17836,54 @@
         "c++",
         "java",
         "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-28T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-e329d2a7-9acb-4be5-8345-5757993cc682",
+    "job_title": "Applied Science Manager - Match & Affordances, Amazon Robotics",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Seattle, WA",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10406269/applied-science-manager-match-affordances-amazon-robotics",
+    "job_posted_at_datetime_utc": "2026-04-28T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c966b7a946c0d227017a1f1609f4fe0b885da519ac0a370d336bb4987fdbde8e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "computer vision",
+        "deep learning",
+        "machine learning",
+        "pytorch",
+        "tensorflow"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
