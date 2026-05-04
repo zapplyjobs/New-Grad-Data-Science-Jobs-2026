@@ -20079,54 +20079,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-27T20:17:13.015Z"
-  },
-  {
-    "job_id": "greenhouse-trace3-7833761",
-    "job_title": "Delivery Engineer   Splunk (W2PE)",
-    "employer_name": "Trace3",
-    "job_city": "Denver",
-    "job_state": "CO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Denver, Colorado, United States",
-    "job_apply_link": "https://job-boards.greenhouse.io/trace3/jobs/7833761",
-    "job_posted_at_datetime_utc": "2026-04-27T20:02:10.983Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "674fecd972b2b2343bc5c4b8177a350875f7cc261edffbdaace9f00dae852a96",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        ".net",
-        "analytics",
-        "bash",
-        "computer science",
-        "java",
-        "python",
-        "splunk",
-        "unix",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T20:02:10.983Z"
   }
 ]
