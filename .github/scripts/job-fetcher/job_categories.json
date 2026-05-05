@@ -1,0 +1,79 @@
+{
+  "data_scientist": {
+    "title": "Data Scientist",
+    "emoji": "🔬",
+    "keywords": [
+      "data scientist",
+      "data science",
+      "machine learning engineer",
+      "applied scientist",
+      "research scientist",
+      "data science engineer",
+      "analytics engineer",
+      "scientist"
+    ]
+  },
+  "data_analyst": {
+    "title": "Data Analyst",
+    "emoji": "📊",
+    "keywords": [
+      "data analyst",
+      "business analyst",
+      "analytics analyst",
+      "marketing analyst",
+      "operations analyst",
+      "financial analyst",
+      "product analyst",
+      "business intelligence analyst",
+      "statistician",
+      "analytics"
+    ]
+  },
+  "data_engineer": {
+    "title": "Data Engineer",
+    "emoji": "🔧",
+    "keywords": [
+      "data engineer",
+      "etl engineer",
+      "pipeline engineer",
+      "data infrastructure",
+      "data platform",
+      "data warehouse engineer",
+      "big data engineer",
+      "data architect"
+    ]
+  },
+  "business_intelligence": {
+    "title": "Business Intelligence",
+    "emoji": "📈",
+    "keywords": [
+      "business intelligence",
+      "bi developer",
+      "tableau",
+      "power bi",
+      "looker",
+      "reporting analyst",
+      "dashboard developer",
+      "bi analyst",
+      "data visualization"
+    ]
+  },
+  "machine_learning": {
+    "title": "Machine Learning",
+    "emoji": "🤖",
+    "keywords": [
+      "machine learning",
+      "ml engineer",
+      "ai engineer",
+      "artificial intelligence",
+      "deep learning",
+      "computer vision",
+      "nlp",
+      "llm",
+      "natural language processing",
+      "mlops",
+      "applied machine learning",
+      "reinforcement learning"
+    ]
+  }
+}
