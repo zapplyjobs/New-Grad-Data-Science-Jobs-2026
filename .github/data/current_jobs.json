@@ -1,18 +1,18 @@
 [
   {
-    "job_id": "workday-boeing-JR2026508860",
-    "job_title": "Systems and Data Analyst (Mid-Level or Senior)",
-    "employer_name": "Boeing",
-    "job_city": "San Antonio",
-    "job_state": "TX",
+    "job_id": "workday-adobe-R165453",
+    "job_title": "Applied Scientist",
+    "employer_name": "Adobe",
+    "job_city": "San Jose",
+    "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "USA - San Antonio, TX",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---San-Antonio-TX/Systems-and-Data-Analyst--Mid-Level-or-Senior-_JR2026508860",
-    "job_posted_at_datetime_utc": "2026-05-06T02:46:58.794Z",
+    "job_location": "San Jose",
+    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Machine-Learning-Engineer_R165453-1",
+    "job_posted_at_datetime_utc": "2026-05-06T03:16:55.078Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "5199730304f40714fc905e8f02d0715e8d7854d677821c29ee3c5e1b29adce32",
+    "fingerprint": "ec9941281148dce4c6535d234d6d818a7e3280537eab7e2132486d3e243d946e",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -27,21 +27,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "process improvement",
-        "sap",
-        "system design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-06T02:46:58.794Z"
+    "job_posted_at": "2026-05-06T03:16:55.078Z"
   },
   {
     "job_id": "workday-caci-325754",
@@ -5234,6 +5220,52 @@
     "job_posted_at": "2026-05-04T00:00:00.000Z"
   },
   {
+    "job_id": "amazon-f339852a-0ada-4e8a-9b8e-dc1683cef08f",
+    "job_title": "Applied Scientist, Customer Behavior Analytics",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Seattle, WA",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10410096/applied-scientist-customer-behavior-analytics",
+    "job_posted_at_datetime_utc": "2026-05-04T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c44d449ddd203e9cecc0f53ef9db2a5beb4f4101b5b266ef893fdb22e3a54962",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "java",
+        "machine learning",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-04T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-3b1c6303-b2e5-4afa-b5f7-3e7711cedd07",
     "job_title": "Applied Scientist, AWS Marketplace & Partner Services",
     "employer_name": "Amazon Web Services, Inc.",
@@ -5268,52 +5300,6 @@
       "required_skills": [
         "c++",
         "computer science",
-        "java",
-        "machine learning",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-04T00:00:00.000Z"
-  },
-  {
-    "job_id": "amazon-f339852a-0ada-4e8a-9b8e-dc1683cef08f",
-    "job_title": "Applied Scientist, Customer Behavior Analytics",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Seattle, WA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10410096/applied-scientist-customer-behavior-analytics",
-    "job_posted_at_datetime_utc": "2026-05-04T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c44d449ddd203e9cecc0f53ef9db2a5beb4f4101b5b266ef893fdb22e3a54962",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "c++",
         "java",
         "machine learning",
         "python"
@@ -7308,55 +7294,6 @@
     "job_posted_at": "2026-05-01T15:02:23.494Z"
   },
   {
-    "job_id": "greenhouse-roku-7555263",
-    "job_title": "Software Engineer, Machine Learning",
-    "employer_name": "Roku",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, California",
-    "job_apply_link": "https://www.weareroku.com/jobs/7555263?gh_jid=7555263",
-    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f99bf1db9c5b82e46a175fd2861bdb667a6cc3fa05ce1fb94c5e4c5a1e35851d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "deep learning",
-        "firmware",
-        "machine learning",
-        "python",
-        "pytorch",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T14:34:08.645Z"
-  },
-  {
     "job_id": "greenhouse-roku-7676018",
     "job_title": "Analyst, Revenue Analytics & Insights",
     "employer_name": "Roku",
@@ -7400,6 +7337,55 @@
         "salesforce",
         "sql",
         "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-01T14:34:08.645Z"
+  },
+  {
+    "job_id": "greenhouse-roku-7555263",
+    "job_title": "Software Engineer, Machine Learning",
+    "employer_name": "Roku",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, California",
+    "job_apply_link": "https://www.weareroku.com/jobs/7555263?gh_jid=7555263",
+    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f99bf1db9c5b82e46a175fd2861bdb667a6cc3fa05ce1fb94c5e4c5a1e35851d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "deep learning",
+        "firmware",
+        "machine learning",
+        "python",
+        "pytorch",
+        "tensorflow"
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
@@ -14104,129 +14090,6 @@
     "job_posted_at": "2026-04-30T03:45:26.891Z"
   },
   {
-    "job_id": "simplify-0fb303dc-84aa-40cc-8e77-f66f910edbf9",
-    "job_title": "Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7550798923146250504",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7d17ea5c35197f84ac33456e87f2b04fbebdcf5aed28fc8bd5ce03ef6dbd7262",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-04-30T03:45:26.890Z"
-  },
-  {
-    "job_id": "simplify-5029e644-9df4-432e-882b-0a8a91ab4113",
-    "job_title": "Research Scientist Graduate - Computational Imaging-Pico - 2026 Start",
-    "employer_name": "ByteDance",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://jobs.bytedance.com/en/position/7538578181957044487/detail",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "581511c8c6c29c14fcdb11ed3e073d030090f83d7fb02bfe1037910160a1fcb3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-04-30T03:45:26.890Z"
-  },
-  {
-    "job_id": "simplify-84345942-cc20-441c-9dad-503a0bac0a74",
-    "job_title": "Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance - 2026 Start",
-    "employer_name": "ByteDance",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Seattle, WA",
-    "job_apply_link": "https://jobs.bytedance.com/en/position/7536338508719573266/detail",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "de379cc8d4a746dc57ad073f7f7c3271b56a591df10d3e9063a82b4dc7c60423",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-04-30T03:45:26.890Z"
-  },
-  {
-    "job_id": "simplify-3e2cc8e9-e1d6-45c1-8ff9-ebd06fbe964c",
-    "job_title": "Graduate Research Scientist - Ecommerce Recommendation - PhD",
-    "employer_name": "ByteDance",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://jobs.bytedance.com/en/position/7515575670019606802/detail",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4b8c8401dd05a004af056aae9cd66e5b5f27913bb3197076f2ce7537c1b297f6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-04-30T03:45:26.890Z"
-  },
-  {
     "job_id": "simplify-b9117230-d8fa-458c-adf0-016715e8e2cc",
     "job_title": "Graduate Machine Learning Engineer - E-Commerce Supply Chain & Logistics",
     "employer_name": "ByteDance",
@@ -15698,6 +15561,129 @@
     "job_posted_at": "2026-04-30T03:45:26.890Z"
   },
   {
+    "job_id": "simplify-0fb303dc-84aa-40cc-8e77-f66f910edbf9",
+    "job_title": "Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7550798923146250504",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7d17ea5c35197f84ac33456e87f2b04fbebdcf5aed28fc8bd5ce03ef6dbd7262",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-04-30T03:45:26.890Z"
+  },
+  {
+    "job_id": "simplify-5029e644-9df4-432e-882b-0a8a91ab4113",
+    "job_title": "Research Scientist Graduate - Computational Imaging-Pico - 2026 Start",
+    "employer_name": "ByteDance",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://jobs.bytedance.com/en/position/7538578181957044487/detail",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "581511c8c6c29c14fcdb11ed3e073d030090f83d7fb02bfe1037910160a1fcb3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-04-30T03:45:26.890Z"
+  },
+  {
+    "job_id": "simplify-84345942-cc20-441c-9dad-503a0bac0a74",
+    "job_title": "Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance - 2026 Start",
+    "employer_name": "ByteDance",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Seattle, WA",
+    "job_apply_link": "https://jobs.bytedance.com/en/position/7536338508719573266/detail",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "de379cc8d4a746dc57ad073f7f7c3271b56a591df10d3e9063a82b4dc7c60423",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-04-30T03:45:26.890Z"
+  },
+  {
+    "job_id": "simplify-3e2cc8e9-e1d6-45c1-8ff9-ebd06fbe964c",
+    "job_title": "Graduate Research Scientist - Ecommerce Recommendation - PhD",
+    "employer_name": "ByteDance",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://jobs.bytedance.com/en/position/7515575670019606802/detail",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:26.890Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4b8c8401dd05a004af056aae9cd66e5b5f27913bb3197076f2ce7537c1b297f6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-04-30T03:45:26.890Z"
+  },
+  {
     "job_id": "apple-200660358",
     "job_title": "Machine Learning - Data Scientist",
     "employer_name": "Apple",
@@ -16922,52 +16908,6 @@
     "job_posted_at": "2026-04-29T16:11:35.000Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0238164",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Beavercreek",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Beavercreek, OH",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Data-Engineer_R0238164",
-    "job_posted_at_datetime_utc": "2026-04-29T16:03:56.443Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e7279b5d4e3362fc8e8ceb4c34dcf026beca6a7028eaaeb65b0bb8891f3f2c38",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "data science",
-        "data visualization",
-        "databricks",
-        "machine learning",
-        "natural language processing",
-        "qlik"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-29T16:03:56.443Z"
-  },
-  {
     "job_id": "workday-leidos-R-00182021",
     "job_title": "Applied Machine Learning Engineer (NLP/AI)",
     "employer_name": "Leidos",
@@ -17766,72 +17706,6 @@
     "job_posted_at": "2026-04-29T07:02:48.916Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0238124",
-    "job_title": "AI Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "San Antonio",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Antonio, TX + 1 more",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Antonio-TX/AI-Engineer_R0238124",
-    "job_posted_at_datetime_utc": "2026-04-29T07:02:37.007Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b7da5612676762b3047b7f38db3abddecd7bc0cf99a24e8cac119cbe1da0b0dc",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "analytics",
-        "aws",
-        "ci/cd",
-        "computer science",
-        "computer vision",
-        "data science",
-        "design patterns",
-        "devsecops",
-        "event-driven",
-        "fastapi",
-        "flask",
-        "graphql",
-        "infrastructure as code",
-        "java",
-        "kafka",
-        "kubernetes",
-        "lidar",
-        "multimodal",
-        "python",
-        "rabbitmq",
-        "rag",
-        "rest",
-        "sql",
-        "terraform",
-        "typescript"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-29T07:02:37.007Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0235649",
     "job_title": "Agentic AI Machine Learning Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -17893,22 +17767,23 @@
     "job_posted_at": "2026-04-29T07:02:37.007Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0239004",
-    "job_title": "Counterproliferation All-Source Intelligence Analyst",
+    "job_id": "workday-booz-allen-hamilton-R0238124",
+    "job_title": "AI Engineer",
     "employer_name": "Booz Allen Hamilton",
-    "job_city": "Reston",
-    "job_state": "VA",
+    "job_city": "San Antonio",
+    "job_state": "TX",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Reston, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Reston-VA/Counterproliferation-All-Source-Intelligence-Analyst_R0239004-1",
+    "job_location": "San Antonio, TX + 1 more",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Antonio-TX/AI-Engineer_R0238124",
     "job_posted_at_datetime_utc": "2026-04-29T07:02:37.007Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "797180d9df630e06c1df94152c02cc2d953b105c2b1fb2b272fbc1dc460abeb7",
+    "fingerprint": "b7da5612676762b3047b7f38db3abddecd7bc0cf99a24e8cac119cbe1da0b0dc",
     "tags": {
       "employment": "entry_level",
       "domains": [
+        "ai",
         "data_science"
       ],
       "locations": [
@@ -17921,7 +17796,34 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "enrichment": {
-      "required_skills": [],
+      "required_skills": [
+        "agentic",
+        "analytics",
+        "aws",
+        "ci/cd",
+        "computer science",
+        "computer vision",
+        "data science",
+        "design patterns",
+        "devsecops",
+        "event-driven",
+        "fastapi",
+        "flask",
+        "graphql",
+        "infrastructure as code",
+        "java",
+        "kafka",
+        "kubernetes",
+        "lidar",
+        "multimodal",
+        "python",
+        "rabbitmq",
+        "rag",
+        "rest",
+        "sql",
+        "terraform",
+        "typescript"
+      ],
       "sponsors_visa": null,
       "visa_question_present": false,
       "is_simple_apply": false,
@@ -18126,19 +18028,19 @@
     "job_posted_at": "2026-04-29T07:02:37.007Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0238165",
-    "job_title": "Data Engineer",
+    "job_id": "workday-booz-allen-hamilton-R0239004",
+    "job_title": "Counterproliferation All-Source Intelligence Analyst",
     "employer_name": "Booz Allen Hamilton",
-    "job_city": "Beavercreek",
-    "job_state": "OH",
+    "job_city": "Reston",
+    "job_state": "VA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Beavercreek, OH",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Data-Engineer_R0238165",
+    "job_location": "Reston, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Reston-VA/Counterproliferation-All-Source-Intelligence-Analyst_R0239004-1",
     "job_posted_at_datetime_utc": "2026-04-29T07:02:37.007Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "e7279b5d4e3362fc8e8ceb4c34dcf026beca6a7028eaaeb65b0bb8891f3f2c38",
+    "fingerprint": "797180d9df630e06c1df94152c02cc2d953b105c2b1fb2b272fbc1dc460abeb7",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -18154,15 +18056,7 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "data science",
-        "data visualization",
-        "databricks",
-        "machine learning",
-        "natural language processing",
-        "qlik"
-      ],
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
       "is_simple_apply": false,
