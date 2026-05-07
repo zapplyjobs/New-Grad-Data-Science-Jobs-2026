@@ -68,11 +68,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Apple** | Machine Learning Engineer, Search & Knowledge Quality | Santa Clara | 33m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200659181/machine-learning-engineer-search-knowledge-quality) |
+| 🏢 **Anthropic** | Data Scientist, Supply | San Francisco, CA... | 14m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5212119008) |
+| 🏢 **Apple** | Machine Learning Engineer, Search & Knowledge Quality | Santa Clara | 48m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200659181/machine-learning-engineer-search-knowledge-quality) |
 | 🏢 **ServiceNow** | Machine Learning Engineer, GAI Search Platform - Moveworks | Mountain View, CA... | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000125181170) |
 | 🏢 **Oscar Health** | Analytics Engineer I | New York, New Yor... | 4h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7872595?gh_jid=7872595) |
 | 🏢 **Amazon.com Services LLC** | Data Scientist, WW Ops FP&A | Bellevue, WA | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10413691/data-scientist-ww-ops-fp-a) |
-| 🏢 **Apple** | Data Scientist | San Diego | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200661978/data-scientist) |
+| 🏢 **Apple** | Data Scientist | San Diego | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200661978/data-scientist) |
 | 🏢 **Apple** | Biomedical Data Science Engineer - Health Technologies | San Diego | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200661942/biomedical-data-science-engineer-health-technologies) |
 | 🏢 **Microsoft** | Multidisciplinary Manager, Industry Solutions Engineering (ISE) / Data Science | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556652525) |
 | 🏢 **Google** | Research Scientist, World Models, DeepMind | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/123625679324357318) |
@@ -134,7 +135,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Applied Materials** | 2026 NCG - Data Scientist (Masters) | Santa ClaraCA + 1... | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-NCG---Data-Scientist--Masters-_R2618394) |
 | 🏢 **EliseAI** | Junior Research Scientist | San Francisco | 6d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/eliseai/0fb4a3ab-1472-4180-8f0c-9f898260f3bd/application) |
 | 🏢 **Figma** | Manager, Data Science - AI Product | San Francisco, CA... | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5983820004?gh_jid=5983820004) |
-| 🏢 **Bumble** | Data Scientist | Austin, TX | 6d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/bumbleinc/21fc13e7-7d9c-4bd7-8e74-96923157cbb4/apply) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -149,10 +149,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **SoFi** | Communications Manager, Financial Technology | United States | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://sofi.com/careers/job/7722398003?gh_jid=7722398003) |
 | 🏢 **Stripe** | Risk & Control Health Data Analyst | Remote | 5h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7577621) |
 | 🏢 **JP Morgan Chase** | Client Data Analyst | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740918) |
-| 🏢 **Susquehanna International Group (SIG)** | HR Data Analyst - Operations Analyst Program | Ardmore, PA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10604/job?mobile=true&needsRedirect=false) |
 | 🏢 **Veeva Systems** | Marketing Analytics - Data Analyst - Adp | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/veeva/28c47d34-3ad6-4485-85a9-686b4239b9ea/apply) |
 | 🏢 **Susquehanna International Group (SIG)** | Quantitative Researcher - Master's: 2026 | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/9438/job?mobile=true&needsRedirect=false) |
 | 🏢 **Susquehanna International Group (SIG)** | Quantitative Researcher - PhD: 2026 | Ardmore, PA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/9435/job?mobile=true&needsRedirect=false) |
+| 🏢 **Susquehanna International Group (SIG)** | Quantitative Researcher - Master's: 2026 | Ardmore, PA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/9437/job?mobile=true&needsRedirect=false) |
 | 🏢 **Vanguard** | Data Analyst, Specialist | Malvern, PA + 1 more | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Analyst--Specialist_174107-1) |
 | 🏢 **Amazon.com Services LLC** | Applied Science Manager, Sponsored Products and Brands | New York, NY | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10412277/applied-science-manager-sponsored-products-and-brands) |
 | 🏢 **Oscar Health** | Associate, Provider Data Analytics | Atlanta, Georgia,... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7895869?gh_jid=7895869) |
