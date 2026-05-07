@@ -29,6 +29,20 @@
     },
     "_source": "aggregator",
     "_original_source": "microsoft",
+    "enrichment": {
+      "required_skills": [
+        "agents",
+        "analytics",
+        "computer science",
+        "machine learning",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-07T21:51:49.000Z"
   },
   {
@@ -63,6 +77,17 @@
     },
     "_source": "aggregator",
     "_original_source": "apple",
+    "enrichment": {
+      "required_skills": [
+        "data science",
+        "machine learning"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-07T21:46:23.094Z"
   },
   {
@@ -4356,6 +4381,39 @@
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
   {
+    "job_id": "amazon-93b92467-2d61-4650-83f6-05d9f36c35e2",
+    "job_title": "Data Engineer, AIR DABI (Data Analytics and Business Intelligence)",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bellevue, WA",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10411675/data-engineer-air-dabi-data-analytics-and-business-intelligence",
+    "job_posted_at_datetime_utc": "2026-05-05T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d4102d6613cc7df0aab391d297dcd1c5a9ca12836ff933bef6ce0f72f343c46f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "job_posted_at": "2026-05-05T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-11d5c696-134e-41e1-b36a-993e5f3b77fd",
     "job_title": "C/C++ Hardware / Software Co-Design SDE, Machine Learning Acceleration Systems",
     "employer_name": "Annapurna Labs (U.S.) Inc.",
@@ -7850,57 +7908,6 @@
     "job_posted_at": "2026-05-02T05:59:05.654Z"
   },
   {
-    "job_id": "greenhouse-oscar-7825277",
-    "job_title": "Associate, Data Analytics (Tempe, AZ - Hybrid)",
-    "employer_name": "Oscar Health",
-    "job_city": "Tempe",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Tempe, Arizona, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7825277?gh_jid=7825277",
-    "job_posted_at_datetime_utc": "2026-05-02T00:17:52.402Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "13869653c252555027a616e98a2d78367e0fcb105035f6166b3ec7015f275b03",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "dashboards",
-        "data visualization",
-        "excel",
-        "google sheets",
-        "looker",
-        "pandas",
-        "python",
-        "r",
-        "reporting",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T00:17:52.402Z"
-  },
-  {
     "job_id": "greenhouse-oscar-7825290",
     "job_title": "Associate, Data Analytics (Atlanta, GA- Remote)",
     "employer_name": "Oscar Health",
@@ -8016,6 +8023,57 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3d5e65a7c2a7775116a148a3fed791bcadbd6a37b1497de5ec53161f98599296",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "healthcare",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "business intelligence",
+        "dashboards",
+        "data visualization",
+        "excel",
+        "google sheets",
+        "looker",
+        "pandas",
+        "python",
+        "r",
+        "reporting",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-02T00:17:52.402Z"
+  },
+  {
+    "job_id": "greenhouse-oscar-7825277",
+    "job_title": "Associate, Data Analytics (Tempe, AZ - Hybrid)",
+    "employer_name": "Oscar Health",
+    "job_city": "Tempe",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Tempe, Arizona, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7825277?gh_jid=7825277",
+    "job_posted_at_datetime_utc": "2026-05-02T00:17:52.402Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "13869653c252555027a616e98a2d78367e0fcb105035f6166b3ec7015f275b03",
     "tags": {
       "employment": "entry_level",
       "domains": [
