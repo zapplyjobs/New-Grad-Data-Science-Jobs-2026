@@ -363,7 +363,7 @@
       "locations": [
         "us"
       ],
-      "experience": "mid_level",
+      "experience": "unknown",
       "special": [
         "faang"
       ],
@@ -466,19 +466,19 @@
     "job_posted_at": "2026-05-06T11:31:20.923Z"
   },
   {
-    "job_id": "simplify-0ac266eb-5e2b-4207-afed-bffe81fd1d2b",
-    "job_title": "Data Visualization Associate",
+    "job_id": "simplify-4c9bab09-16cf-4d9a-a679-a8263a8d1b74",
+    "job_title": "Client Data Analyst",
     "employer_name": "JP Morgan Chase",
     "job_city": "United States",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706210",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740918",
     "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "f3d89e94710fe1a2516b022d0082289441b8217daf0bf7da1e19a825a5a6f4a6",
+    "fingerprint": "206e8d78f28c2976599086874c0625cc1ade088db53c046a9f4c4f6ea6156a27",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -504,19 +504,19 @@
     "job_posted_at": "2026-05-06T11:31:20.571Z"
   },
   {
-    "job_id": "simplify-4c9bab09-16cf-4d9a-a679-a8263a8d1b74",
-    "job_title": "Client Data Analyst",
+    "job_id": "simplify-0ac266eb-5e2b-4207-afed-bffe81fd1d2b",
+    "job_title": "Data Visualization Associate",
     "employer_name": "JP Morgan Chase",
     "job_city": "United States",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740918",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706210",
     "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "206e8d78f28c2976599086874c0625cc1ade088db53c046a9f4c4f6ea6156a27",
+    "fingerprint": "f3d89e94710fe1a2516b022d0082289441b8217daf0bf7da1e19a825a5a6f4a6",
     "tags": {
       "employment": "entry_level",
       "domains": [
