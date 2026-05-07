@@ -96,7 +96,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Reddit** | Data Scientist | San Francisco, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7871499) |
 | 🏢 **Entegris** | Research Scientist, Analytical R&D | Aurora, IL | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Research-Scientist--Analytical-R-D_REQ-11623) |
 | 🏢 **Booz Allen Hamilton** | Agentic AI Machine Learning Engineer | Washington, DC + ... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Agentic-AI-Machine-Learning-Engineer_R0235651) |
-| 🏢 **Trimble** | Data/Analytics Engineer | CO Westminster + ... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Data-Analytics-Engineer_R55276) |
+| 🏢 **Trimble** | Data/Analytics Engineer | CO Westminster + ... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Data-Analytics-Engineer_R55276) |
 | 🏢 **Cursor** | Data Scientist, Performance and Reliability | San Francisco | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/cursor/e46dd189-16d2-4a0f-bfb8-207eb403f92f/application) |
 | 🏢 **Amazon.com Services LLC** | Data Scientist, AWS Security | Arlington, VA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10411974/data-scientist-aws-security) |
 | 🏢 **Amazon Development Center U.S., Inc.** | Data Scientist, AWS Quick Data | Santa Clara, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10411927/data-scientist-aws-quick-data) |
@@ -155,10 +155,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | 🏢 **JP Morgan Chase** | Client Data Analyst | United States | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740918) |
+| 🏢 **Susquehanna International Group (SIG)** | Quantitative Researcher - Master's: 2026 | Ardmore, PA | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/9437/job?mobile=true&needsRedirect=false) |
+| 🏢 **Susquehanna International Group (SIG)** | HR Data Analyst - Operations Analyst Program | Ardmore, PA | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10604/job?mobile=true&needsRedirect=false) |
 | 🏢 **Veeva Systems** | Marketing Analytics - Data Analyst - Adp | United States | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/veeva/28c47d34-3ad6-4485-85a9-686b4239b9ea/apply) |
 | 🏢 **Susquehanna International Group (SIG)** | Quantitative Researcher - Master's: 2026 | United States | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/9438/job?mobile=true&needsRedirect=false) |
-| 🏢 **Susquehanna International Group (SIG)** | Quantitative Researcher - PhD: 2026 | Ardmore, PA | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/9435/job?mobile=true&needsRedirect=false) |
-| 🏢 **Susquehanna International Group (SIG)** | Quantitative Researcher - Master's: 2026 | Ardmore, PA | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/9437/job?mobile=true&needsRedirect=false) |
 | 🏢 **Vanguard** | Data Analyst, Specialist | Malvern, PA + 1 more | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Analyst--Specialist_174107-1) |
 | 🏢 **Amazon.com Services LLC** | Applied Science Manager, Sponsored Products and Brands | New York, NY | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10412277/applied-science-manager-sponsored-products-and-brands) |
 | 🏢 **Oscar Health** | Associate, Provider Data Analytics | Atlanta, Georgia,... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7895869?gh_jid=7895869) |
@@ -234,7 +234,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Eight Sleep** | Clinical Data Engineer | Boston Area | 9h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/eightsleep/63be4811-838b-4075-8828-718603c11eba/application) |
+| 🏢 **Eight Sleep** | Clinical Data Engineer | Boston Area | 10h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/eightsleep/63be4811-838b-4075-8828-718603c11eba/application) |
 | 🏢 **Leidos** | Data Engineer | Sterling, VA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Sterling-VA/Data-Engineer_R-00182598) |
 | 🏢 **Booz Allen Hamilton** | Data Engineer and Application Developer | Camp H.M. Smith, HI | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Camp-HM-Smith-HI/Data-Engineer-and-Application-Developer_R0239378) |
 | 🏢 **Booz Allen Hamilton** | Data Engineer and Application Developer | Camp H.M. Smith, HI | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Camp-HM-Smith-HI/Data-Engineer-and-Application-Developer_R0239377) |
@@ -293,8 +293,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Apple** | Machine Learning Research Engineer - NLP,  Input Experience | Cupertino | 4h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200651071/machine-learning-research-engineer-nlp-input-experience) |
-| 🏢 **HubSpot** | AI Engineer (AIMS Martek) | USA | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.hubspot.com/careers/jobs/7453272?gh_jid=7453272) |
+| 🏢 **Apple** | Machine Learning Research Engineer - NLP,  Input Experience | Cupertino | 5h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200651071/machine-learning-research-engineer-nlp-input-experience) |
+| 🏢 **HubSpot** | AI Engineer (AIMS Martek) | USA | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.hubspot.com/careers/jobs/7453272?gh_jid=7453272) |
 | 🏢 **DoorDash** | Software Engineer, Machine Learning - Fraud | Sunnyvale, CA; Sa... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/5516835) |
 | 🏢 **JP Morgan Chase** | 2026 Machine Learning Center of Excellence – Summer Associate - NLP | United States | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210664814) |
 | 🏢 **Pendo** | AI Engineer | New York, NY | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/pendo/jobs/8533491002) |
