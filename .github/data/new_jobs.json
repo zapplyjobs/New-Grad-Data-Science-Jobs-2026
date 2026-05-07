@@ -1,5 +1,38 @@
 [
   {
+    "job_id": "greenhouse-stripe-7577621",
+    "job_title": "Risk & Control Health Data Analyst",
+    "employer_name": "Stripe",
+    "job_city": "US-Remote",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "US-Remote",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7577621",
+    "job_posted_at_datetime_utc": "2026-05-07T12:31:37.459Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5a3f1d36f19310ecd3d6f9cfe36cb93efe20196306c17dfa1e280ccf65495d21",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "senior_level",
+      "special": [
+        "unicorn"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-07T12:31:37.459Z"
+  },
+  {
     "job_id": "apple-200651071",
     "job_title": "Machine Learning Research Engineer - NLP,  Input Experience",
     "employer_name": "Apple",
