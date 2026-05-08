@@ -32,18 +32,6 @@
     },
     "_source": "aggregator",
     "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [
-        "computer vision",
-        "llm",
-        "machine learning"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-07T23:57:53.834Z"
   },
   {
@@ -75,36 +63,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "airflow",
-        "analytics",
-        "apache",
-        "apache airflow",
-        "aws",
-        "azure",
-        "bigquery",
-        "computer science",
-        "data lake",
-        "data science",
-        "databricks",
-        "dbt",
-        "dimensional modeling",
-        "elt",
-        "etl",
-        "gcp",
-        "python",
-        "redshift",
-        "s3",
-        "snowflake",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-07T23:45:49.381Z"
   },
   {
@@ -136,36 +94,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "airflow",
-        "analytics",
-        "apache",
-        "apache airflow",
-        "aws",
-        "azure",
-        "bigquery",
-        "computer science",
-        "data lake",
-        "data science",
-        "databricks",
-        "dbt",
-        "dimensional modeling",
-        "elt",
-        "etl",
-        "gcp",
-        "python",
-        "redshift",
-        "s3",
-        "snowflake",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-07T23:45:49.381Z"
   },
   {
@@ -198,23 +126,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "apache",
-        "apache spark",
-        "dask",
-        "docker",
-        "kubernetes",
-        "pytorch",
-        "ray",
-        "spark"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-07T22:45:56.166Z"
   },
   {
@@ -247,18 +158,6 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
-    "enrichment": {
-      "required_skills": [
-        "genai",
-        "generative ai",
-        "llm"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-07T22:42:00.696Z"
   },
   {
@@ -272,7 +171,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864459",
     "job_posted_at_datetime_utc": "2026-05-07T21:51:49.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "5b61cc0638fa83b88eefbc4bb8b4fd54bc2dfdeaabf7970e3a0d18149060b122",
     "tags": {
@@ -291,20 +190,6 @@
     },
     "_source": "aggregator",
     "_original_source": "microsoft",
-    "enrichment": {
-      "required_skills": [
-        "agents",
-        "analytics",
-        "computer science",
-        "machine learning",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-07T21:51:49.000Z"
   },
   {
@@ -339,17 +224,6 @@
     },
     "_source": "aggregator",
     "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [
-        "data science",
-        "machine learning"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-07T21:46:23.094Z"
   },
   {
@@ -381,17 +255,6 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "change management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-07T20:12:44.232Z"
   },
   {
@@ -426,16 +289,6 @@
     },
     "_source": "aggregator",
     "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [
-        "analytics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-07T19:37:29.911Z"
   },
   {
@@ -467,27 +320,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "anthropic",
-        "computer science",
-        "dashboards",
-        "data science",
-        "data visualization",
-        "gpt",
-        "multimodal",
-        "python",
-        "reporting",
-        "routing",
-        "sql"
-      ],
-      "sponsors_visa": true,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-07T18:16:13.000Z"
   },
   {
@@ -523,17 +355,6 @@
     },
     "_source": "aggregator",
     "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [
-        "llm",
-        "machine learning"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-07T17:42:36.589Z"
   },
   {
@@ -564,31 +385,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "computer science",
-        "dashboards",
-        "data analysis",
-        "data science",
-        "forecasting",
-        "linear",
-        "machine learning",
-        "neural network",
-        "python",
-        "regression",
-        "reporting",
-        "sql",
-        "statistics",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-07T16:31:12.000Z"
   },
   {
@@ -622,23 +418,6 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "business intelligence",
-        "data science",
-        "genai",
-        "generative ai",
-        "llm",
-        "machine learning",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-07T16:14:07.374Z"
   },
   {
@@ -672,16 +451,6 @@
     },
     "_source": "aggregator",
     "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [
-        "data science"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-07T14:47:59.879Z"
   },
   {
@@ -712,22 +481,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "azure",
-        "data science",
-        "dbt",
-        "gcp",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-07T13:55:18.000Z"
   },
   {
@@ -761,22 +514,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "dashboards",
-        "data analysis",
-        "data visualization",
-        "llm",
-        "reporting",
-        "risk management",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": true
-    },
     "job_posted_at": "2026-05-07T12:31:37.459Z"
   },
   {
@@ -812,19 +549,6 @@
     },
     "_source": "aggregator",
     "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [
-        "Natural Language Processing",
-        "machine learning",
-        "multimodal",
-        "natural language processing"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-07T01:01:35.798Z"
   },
   {
@@ -859,21 +583,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "c#",
-        "c++",
-        "computer science",
-        "design patterns",
-        "java",
-        "perl"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-07T00:00:00.000Z"
   },
   {
@@ -908,21 +617,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "machine learning",
-        "matlab",
-        "python",
-        "r",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-07T00:00:00.000Z"
   },
   {
@@ -957,14 +651,6 @@
     },
     "_source": "aggregator",
     "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-06T22:18:01.196Z"
   },
   {
@@ -998,34 +684,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "Node.js",
-        "aws",
-        "azure",
-        "crm",
-        "data science",
-        "gcp",
-        "generative ai",
-        "git",
-        "hubspot",
-        "java",
-        "langchain",
-        "openai",
-        "prompt engineering",
-        "python",
-        "rag",
-        "rest",
-        "restful",
-        "scalability",
-        "transformers"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": true
-    },
     "job_posted_at": "2026-05-06T22:01:32.977Z"
   },
   {
@@ -1060,14 +718,6 @@
     },
     "_source": "aggregator",
     "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-06T21:57:30.767Z"
   },
   {
@@ -1102,16 +752,6 @@
     },
     "_source": "aggregator",
     "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [
-        "data science"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-06T20:43:44.269Z"
   },
   {
@@ -1143,33 +783,6 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "chatgpt",
-        "dashboards",
-        "data analysis",
-        "data science",
-        "etl",
-        "fda",
-        "firmware",
-        "gcp",
-        "machine learning",
-        "numpy",
-        "pandas",
-        "python",
-        "signal processing",
-        "snowflake",
-        "sql",
-        "supervised learning"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": true
-    },
     "job_posted_at": "2026-05-06T20:11:37.679Z"
   },
   {
@@ -1205,16 +818,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "excel"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-06T16:16:43.676Z"
   },
   {
@@ -1228,7 +831,7 @@
     "job_location": "United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556652525",
     "job_posted_at_datetime_utc": "2026-05-06T13:54:49.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7fc63e40901d9dac3d79000702050e338e7c530d008c98ca2a3a378e5d3ce3eb",
     "tags": {
@@ -1241,7 +844,7 @@
       "locations": [
         "us"
       ],
-      "experience": "mid_level",
+      "experience": "unknown",
       "special": [
         "faang"
       ],
@@ -1249,19 +852,6 @@
     },
     "_source": "aggregator",
     "_original_source": "microsoft",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "data science",
-        "reporting",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-06T13:54:49.000Z"
   },
   {
@@ -1294,14 +884,6 @@
     },
     "_source": "aggregator",
     "_original_source": "google",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-06T11:47:15.586Z"
   },
   {
@@ -1333,14 +915,6 @@
     },
     "_source": "aggregator",
     "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-06T11:31:20.923Z"
   },
   {
@@ -1371,14 +945,6 @@
     },
     "_source": "aggregator",
     "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-06T11:31:20.571Z"
   },
   {
@@ -1409,54 +975,7 @@
     },
     "_source": "aggregator",
     "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-06T11:31:20.571Z"
-  },
-  {
-    "job_id": "simplify-469bcd26-46bc-44f8-8e7a-d8e8eff93e82",
-    "job_title": "HR Data Analyst - Operations Analyst Program",
-    "employer_name": "Susquehanna International Group (SIG)",
-    "job_city": "Ardmore",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ardmore, PA",
-    "job_apply_link": "https://careers-sig.icims.com/jobs/10604/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a6565a5ca7d9e416cfef308603e7e07bb4f32f84211dadc8ade2f1f946a1c457",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-06T11:31:20.570Z"
   },
   {
     "job_id": "simplify-5a05b3b2-2805-4fa2-9f98-6346f0932a5d",
@@ -1486,14 +1005,6 @@
     },
     "_source": "aggregator",
     "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-06T11:31:20.570Z"
   },
   {
@@ -1525,14 +1036,6 @@
     },
     "_source": "aggregator",
     "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-06T11:31:20.570Z"
   },
   {
@@ -1564,14 +1067,6 @@
     },
     "_source": "aggregator",
     "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-06T11:31:20.570Z"
   },
   {
@@ -1603,14 +1098,37 @@
     },
     "_source": "aggregator",
     "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+    "job_posted_at": "2026-05-06T11:31:20.570Z"
+  },
+  {
+    "job_id": "simplify-469bcd26-46bc-44f8-8e7a-d8e8eff93e82",
+    "job_title": "HR Data Analyst - Operations Analyst Program",
+    "employer_name": "Susquehanna International Group (SIG)",
+    "job_city": "Ardmore",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ardmore, PA",
+    "job_apply_link": "https://careers-sig.icims.com/jobs/10604/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a6565a5ca7d9e416cfef308603e7e07bb4f32f84211dadc8ade2f1f946a1c457",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
     },
+    "_source": "aggregator",
+    "_original_source": "simplify",
     "job_posted_at": "2026-05-06T11:31:20.570Z"
   },
   {
@@ -1641,17 +1159,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-06T04:47:28.439Z"
   },
   {
@@ -1682,28 +1189,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "computer vision",
-        "deep learning",
-        "excel",
-        "express",
-        "fine-tuning",
-        "generative ai",
-        "machine learning",
-        "multimodal",
-        "natural language processing",
-        "pytorch",
-        "reinforcement learning",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-06T03:16:55.078Z"
   },
   {
@@ -1737,20 +1222,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "forecasting",
-        "java",
-        "machine learning",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-06T00:00:00.000Z"
   },
   {
@@ -1784,20 +1255,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "machine learning",
-        "python",
-        "r",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-06T00:00:00.000Z"
   },
   {
@@ -1831,21 +1288,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "Natural Language Processing",
-        "analytics",
-        "c++",
-        "java",
-        "machine learning",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-06T00:00:00.000Z"
   },
   {
@@ -1878,14 +1320,6 @@
     },
     "_source": "aggregator",
     "_original_source": "eightfold",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-06T00:00:00.000Z"
   },
   {
@@ -1916,18 +1350,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "computer science",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T22:47:10.107Z"
   },
   {
@@ -1958,29 +1380,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "api",
-        "azure",
-        "data modeling",
-        "data science",
-        "data visualization",
-        "git",
-        "jira",
-        "python",
-        "r",
-        "sql",
-        "statistical analysis",
-        "statistics",
-        "svn"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T21:47:41.829Z"
   },
   {
@@ -2012,22 +1411,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "excel",
-        "lean",
-        "process improvement",
-        "project management",
-        "six sigma",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T20:57:00.000Z"
   },
   {
@@ -2059,22 +1442,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "excel",
-        "lean",
-        "process improvement",
-        "project management",
-        "six sigma",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T20:56:59.000Z"
   },
   {
@@ -2106,22 +1473,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "excel",
-        "lean",
-        "process improvement",
-        "project management",
-        "six sigma",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T20:56:58.000Z"
   },
   {
@@ -2153,22 +1504,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "excel",
-        "lean",
-        "process improvement",
-        "project management",
-        "six sigma",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T20:56:57.000Z"
   },
   {
@@ -2199,36 +1534,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "c++",
-        "computer vision",
-        "data science",
-        "deep learning",
-        "gitlab",
-        "java",
-        "jira",
-        "lidar",
-        "linux",
-        "machine learning",
-        "matlab",
-        "project management",
-        "python",
-        "pytorch",
-        "radar",
-        "rf",
-        "scikit-learn",
-        "signal processing",
-        "statistics",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T20:48:03.139Z"
   },
   {
@@ -2259,28 +1564,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "change management",
-        "data analysis",
-        "data quality",
-        "databricks",
-        "genai",
-        "machine learning",
-        "numpy",
-        "pandas",
-        "python",
-        "sql",
-        "statistical analysis",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T20:47:47.987Z"
   },
   {
@@ -2311,28 +1594,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "azure",
-        "computer science",
-        "data science",
-        "databricks",
-        "devops",
-        "infrastructure as code",
-        "machine learning",
-        "python",
-        "snowflake",
-        "sql",
-        "statistics",
-        "terraform"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T20:47:47.987Z"
   },
   {
@@ -2363,23 +1624,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "change management",
-        "data governance",
-        "elt",
-        "etl",
-        "jira",
-        "reporting",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T20:47:39.837Z"
   },
   {
@@ -2411,22 +1655,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "business intelligence",
-        "dashboards",
-        "data analysis",
-        "data warehouse",
-        "process improvement",
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": true
-    },
     "job_posted_at": "2026-05-05T20:32:51.654Z"
   },
   {
@@ -2458,33 +1686,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "analytics",
-        "computer science",
-        "data science",
-        "embedding",
-        "excel",
-        "genai",
-        "github",
-        "hive",
-        "langchain",
-        "llm",
-        "machine learning",
-        "openai",
-        "python",
-        "spark",
-        "sql",
-        "statistics",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T20:03:17.419Z"
   },
   {
@@ -2516,39 +1717,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "aws",
-        "c++",
-        "cassandra",
-        "cloudformation",
-        "databricks",
-        "devsecops",
-        "docker",
-        "eks",
-        "hadoop",
-        "hive",
-        "java",
-        "kafka",
-        "kubernetes",
-        "machine learning",
-        "mongodb",
-        "mysql",
-        "python",
-        "redshift",
-        "scala",
-        "snowflake",
-        "spark",
-        "sql",
-        "terraform"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T19:47:27.760Z"
   },
   {
@@ -2581,23 +1749,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "go",
-        "java",
-        "machine learning",
-        "python",
-        "pytorch",
-        "tensorflow",
-        "transformers",
-        "xgboost"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": true
-    },
     "job_posted_at": "2026-05-05T19:46:57.812Z"
   },
   {
@@ -2628,29 +1779,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "Natural Language Processing",
-        "analytics",
-        "data science",
-        "deep learning",
-        "docker",
-        "flask",
-        "looker",
-        "machine learning",
-        "natural language processing",
-        "pandas",
-        "python",
-        "sagemaker",
-        "statistics",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T19:32:51.024Z"
   },
   {
@@ -2682,39 +1810,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "aws",
-        "c++",
-        "cassandra",
-        "cloudformation",
-        "databricks",
-        "devsecops",
-        "docker",
-        "eks",
-        "hadoop",
-        "hive",
-        "java",
-        "kafka",
-        "kubernetes",
-        "machine learning",
-        "mongodb",
-        "mysql",
-        "python",
-        "redshift",
-        "scala",
-        "snowflake",
-        "spark",
-        "sql",
-        "terraform"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T19:32:21.053Z"
   },
   {
@@ -2746,39 +1841,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "aws",
-        "c++",
-        "cassandra",
-        "cloudformation",
-        "databricks",
-        "devsecops",
-        "docker",
-        "eks",
-        "hadoop",
-        "hive",
-        "java",
-        "kafka",
-        "kubernetes",
-        "machine learning",
-        "mongodb",
-        "mysql",
-        "python",
-        "redshift",
-        "scala",
-        "snowflake",
-        "spark",
-        "sql",
-        "terraform"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T19:32:21.053Z"
   },
   {
@@ -2809,20 +1871,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "data science",
-        "data visualization",
-        "machine learning",
-        "natural language processing"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T19:32:21.053Z"
   },
   {
@@ -2853,21 +1901,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "data science",
-        "data visualization",
-        "databricks",
-        "machine learning",
-        "natural language processing"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T19:32:21.053Z"
   },
   {
@@ -2900,19 +1933,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "machine learning",
-        "python",
-        "pytorch"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T19:31:45.340Z"
   },
   {
@@ -2943,17 +1963,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "process improvement"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T19:17:39.675Z"
   },
   {
@@ -2985,28 +1994,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "classification",
-        "computer science",
-        "dask",
-        "data science",
-        "deep learning",
-        "embeddings",
-        "machine learning",
-        "python",
-        "spark",
-        "sql",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T19:02:13.112Z"
   },
   {
@@ -3037,51 +2024,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "aws",
-        "azure",
-        "cassandra",
-        "cloudformation",
-        "databricks",
-        "dynamodb",
-        "ec2",
-        "elt",
-        "etl",
-        "google cloud",
-        "hadoop",
-        "hive",
-        "iam",
-        "java",
-        "kafka",
-        "lambda",
-        "linux",
-        "machine learning",
-        "mongodb",
-        "mysql",
-        "python",
-        "rds",
-        "redshift",
-        "reporting",
-        "s3",
-        "scala",
-        "shell",
-        "shell scripting",
-        "snowflake",
-        "sns",
-        "spark",
-        "sql",
-        "sqs",
-        "unix"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T18:47:38.651Z"
   },
   {
@@ -3112,27 +2054,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "dashboards",
-        "data visualization",
-        "data warehouse",
-        "erp",
-        "excel",
-        "power bi",
-        "qlik",
-        "reporting",
-        "sql",
-        "tableau",
-        "vba"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T18:32:26.476Z"
   },
   {
@@ -3163,32 +2084,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "aws",
-        "azure",
-        "data analysis",
-        "data visualization",
-        "feature engineering",
-        "machine learning",
-        "power bi",
-        "pyspark",
-        "python",
-        "r",
-        "regression",
-        "spark",
-        "sql",
-        "statistical analysis",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T18:32:26.476Z"
   },
   {
@@ -3219,45 +2114,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "aws",
-        "azure",
-        "bitbucket",
-        "cassandra",
-        "databricks",
-        "elt",
-        "etl",
-        "github",
-        "gitlab",
-        "google cloud",
-        "hadoop",
-        "hive",
-        "java",
-        "kafka",
-        "linux",
-        "machine learning",
-        "mongodb",
-        "mysql",
-        "python",
-        "redshift",
-        "reporting",
-        "scala",
-        "shell",
-        "shell scripting",
-        "snowflake",
-        "spark",
-        "sql",
-        "unix"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T18:17:14.379Z"
   },
   {
@@ -3289,17 +2145,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "llm",
-        "transformers"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T18:03:44.000Z"
   },
   {
@@ -3330,17 +2175,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "radar",
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T17:47:49.468Z"
   },
   {
@@ -3372,25 +2206,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "devops",
-        "generative ai",
-        "kubernetes",
-        "linux",
-        "llm",
-        "networking",
-        "python",
-        "red hat",
-        "scalability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T17:33:22.778Z"
   },
   {
@@ -3422,27 +2237,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "agents",
-        "aws",
-        "azure",
-        "cloudformation",
-        "computer science",
-        "gcp",
-        "infrastructure as code",
-        "java",
-        "machine learning",
-        "python",
-        "workday"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T17:19:31.052Z"
   },
   {
@@ -3474,20 +2268,6 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "asana",
-        "data science",
-        "machine learning",
-        "python",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T16:58:58.756Z"
   },
   {
@@ -3518,30 +2298,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "apache",
-        "apache spark",
-        "data analysis",
-        "data science",
-        "data visualization",
-        "fine-tuning",
-        "hadoop",
-        "large language model",
-        "llm",
-        "machine learning",
-        "model context protocol",
-        "natural language processing",
-        "python",
-        "spark",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T16:47:24.420Z"
   },
   {
@@ -3574,23 +2330,6 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "enrichment": {
-      "required_skills": [
-        "aws",
-        "distributed systems",
-        "gcp",
-        "machine learning",
-        "python",
-        "pytorch",
-        "ray",
-        "scala"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T16:46:32.904Z"
   },
   {
@@ -3621,30 +2360,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "data analysis",
-        "data visualization",
-        "excel",
-        "machine learning",
-        "power bi",
-        "pyspark",
-        "python",
-        "r",
-        "spark",
-        "sql",
-        "statistical analysis",
-        "statistics",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T16:32:32.935Z"
   },
   {
@@ -3675,19 +2390,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "machine learning",
-        "python",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T16:23:05.000Z"
   },
   {
@@ -3718,25 +2420,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "data analysis",
-        "forecasting",
-        "fortran",
-        "java",
-        "labview",
-        "matlab",
-        "radar",
-        "statistics",
-        "system design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T15:52:46.012Z"
   },
   {
@@ -3768,27 +2451,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "data science",
-        "hadoop",
-        "hive",
-        "machine learning",
-        "python",
-        "pytorch",
-        "scikit-learn",
-        "spark",
-        "sql",
-        "statistics",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T15:49:23.000Z"
   },
   {
@@ -3821,24 +2483,6 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "deep learning",
-        "machine learning",
-        "natural language processing",
-        "reinforcement learning",
-        "robotics",
-        "scalability",
-        "statistics",
-        "supervised learning"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T15:40:29.318Z"
   },
   {
@@ -3869,14 +2513,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T15:32:00.798Z"
   },
   {
@@ -3907,35 +2543,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "apache",
-        "apache spark",
-        "aws",
-        "azure",
-        "business intelligence",
-        "data analysis",
-        "data quality",
-        "etl",
-        "google cloud",
-        "hadoop",
-        "kafka",
-        "python",
-        "redshift",
-        "regression",
-        "reporting",
-        "scala",
-        "scalability",
-        "spark",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T15:21:47.440Z"
   },
   {
@@ -3966,31 +2573,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "azure",
-        "computer science",
-        "dashboards",
-        "data analysis",
-        "data science",
-        "data visualization",
-        "databricks",
-        "machine learning",
-        "power bi",
-        "python",
-        "qlik",
-        "reporting",
-        "statistics",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T15:04:15.356Z"
   },
   {
@@ -4022,25 +2604,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "computer science",
-        "data governance",
-        "data science",
-        "genai",
-        "generative ai",
-        "machine learning",
-        "program management",
-        "project management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T14:50:55.195Z"
   },
   {
@@ -4071,36 +2634,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "Natural Language Processing",
-        "aws",
-        "data analysis",
-        "deep learning",
-        "docker",
-        "fine-tuning",
-        "git",
-        "keras",
-        "kubernetes",
-        "langchain",
-        "llamaindex",
-        "llm",
-        "machine learning",
-        "natural language processing",
-        "python",
-        "pytorch",
-        "rag",
-        "regression",
-        "sagemaker",
-        "statistics",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T14:47:28.887Z"
   },
   {
@@ -4132,20 +2665,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cybersecurity",
-        "data pipeline",
-        "data science",
-        "nist",
-        "risk management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T14:47:28.887Z"
   },
   {
@@ -4177,36 +2696,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "Natural Language Processing",
-        "agentic",
-        "agents",
-        "aws",
-        "azure",
-        "computer vision",
-        "data science",
-        "deep learning",
-        "docker",
-        "grafana",
-        "kafka",
-        "kubernetes",
-        "langchain",
-        "llama",
-        "llamaindex",
-        "llm",
-        "machine learning",
-        "pytorch",
-        "reinforcement learning",
-        "signal processing",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T14:47:28.887Z"
   },
   {
@@ -4237,38 +2726,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "aws",
-        "azure",
-        "cassandra",
-        "google cloud",
-        "hadoop",
-        "hive",
-        "java",
-        "kafka",
-        "linux",
-        "machine learning",
-        "microservices",
-        "microsoft azure",
-        "mysql",
-        "python",
-        "redshift",
-        "scala",
-        "shell",
-        "shell scripting",
-        "snowflake",
-        "spark",
-        "sql",
-        "unix"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T14:17:42.676Z"
   },
   {
@@ -4300,14 +2757,6 @@
     },
     "_source": "aggregator",
     "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T14:08:22.000Z"
   },
   {
@@ -4339,17 +2788,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "machine learning",
-        "microsoft office"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T14:05:16.078Z"
   },
   {
@@ -4384,14 +2822,6 @@
     },
     "_source": "aggregator",
     "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T12:42:30.891Z"
   },
   {
@@ -4423,30 +2853,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "computer science",
-        "css",
-        "data modeling",
-        "data pipeline",
-        "data quality",
-        "dbt",
-        "docker",
-        "etl",
-        "git",
-        "html",
-        "javascript",
-        "kubernetes",
-        "python",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": true
-    },
     "job_posted_at": "2026-05-05T11:20:54.315Z"
   },
   {
@@ -4477,32 +2883,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "business intelligence",
-        "computer science",
-        "dashboards",
-        "data analysis",
-        "data architecture",
-        "data governance",
-        "data integration",
-        "data pipeline",
-        "data quality",
-        "data science",
-        "data visualization",
-        "etl",
-        "python",
-        "reporting",
-        "snowflake",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T06:06:00.343Z"
   },
   {
@@ -4534,20 +2914,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "confluence",
-        "jira",
-        "reporting",
-        "sql",
-        "teamcenter"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T03:23:55.000Z"
   },
   {
@@ -4579,16 +2945,6 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "data science"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T00:00:02.031Z"
   },
   {
@@ -4622,24 +2978,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "computer science",
-        "data modeling",
-        "etl",
-        "oracle",
-        "python",
-        "redshift",
-        "scala",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
   {
@@ -4673,22 +3011,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "data modeling",
-        "etl",
-        "genai",
-        "llm",
-        "python",
-        "scala",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
   {
@@ -4720,19 +3042,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "c#",
-        "c++",
-        "design patterns",
-        "java"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
   {
@@ -4766,21 +3075,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "machine learning",
-        "matlab",
-        "python",
-        "r",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
   {
@@ -4814,21 +3108,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "machine learning",
-        "matlab",
-        "python",
-        "r",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
   {
@@ -4862,21 +3141,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "machine learning",
-        "matlab",
-        "python",
-        "r",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
   {
@@ -4910,21 +3174,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "machine learning",
-        "matlab",
-        "python",
-        "r",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
   {
@@ -4959,16 +3208,6 @@
     },
     "_source": "aggregator",
     "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [
-        "performance testing"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
   {
@@ -5002,20 +3241,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "data modeling",
-        "etl",
-        "scala",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
   {
@@ -5048,14 +3273,6 @@
     },
     "_source": "aggregator",
     "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T23:01:51.186Z"
   },
   {
@@ -5086,20 +3303,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amd",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "dashboards",
-        "embedded systems",
-        "excel",
-        "program management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T22:08:00.000Z"
   },
   {
@@ -5135,14 +3338,6 @@
     },
     "_source": "aggregator",
     "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T21:01:34.324Z"
   },
   {
@@ -5175,39 +3370,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "airflow",
-        "analytics",
-        "aws",
-        "azure",
-        "bigquery",
-        "computer science",
-        "data governance",
-        "data modeling",
-        "data quality",
-        "data science",
-        "data warehouse",
-        "gcp",
-        "git",
-        "machine learning",
-        "observability",
-        "python",
-        "redshift",
-        "reporting",
-        "scala",
-        "snowflake",
-        "spark",
-        "sql",
-        "statistics",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T19:44:45.956Z"
   },
   {
@@ -5239,33 +3401,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "analytics",
-        "computer science",
-        "data science",
-        "embedding",
-        "excel",
-        "genai",
-        "github",
-        "hive",
-        "langchain",
-        "llm",
-        "machine learning",
-        "openai",
-        "python",
-        "spark",
-        "sql",
-        "statistics",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T19:44:23.681Z"
   },
   {
@@ -5300,14 +3435,6 @@
     },
     "_source": "aggregator",
     "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T19:25:14.340Z"
   },
   {
@@ -5338,29 +3465,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "business intelligence",
-        "cybersecurity",
-        "data analysis",
-        "forecasting",
-        "hadoop",
-        "machine learning",
-        "networking",
-        "reporting",
-        "sql",
-        "sql server",
-        "statistics",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T19:09:55.767Z"
   },
   {
@@ -5392,25 +3496,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "c++",
-        "computer science",
-        "data science",
-        "fine-tuning",
-        "llm",
-        "machine learning",
-        "python",
-        "reinforcement learning",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T17:39:06.593Z"
   },
   {
@@ -5442,23 +3527,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "agents",
-        "feature engineering",
-        "fine-tuning",
-        "machine learning",
-        "python",
-        "reinforcement learning",
-        "scalability",
-        "system design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T17:35:21.000Z"
   },
   {
@@ -5489,29 +3557,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "airflow",
-        "analytics",
-        "dashboards",
-        "data architecture",
-        "data pipeline",
-        "data quality",
-        "elt",
-        "etl",
-        "machine learning",
-        "observability",
-        "python",
-        "reporting",
-        "scalability",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T17:31:27.000Z"
   },
   {
@@ -5542,22 +3587,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "data analysis",
-        "matlab",
-        "process improvement",
-        "python",
-        "radar",
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T16:04:50.333Z"
   },
   {
@@ -5589,19 +3618,6 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "dashboards",
-        "data analysis",
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T15:52:23.698Z"
   },
   {
@@ -5633,17 +3649,6 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
-    "enrichment": {
-      "required_skills": [
-        "change management",
-        "process improvement"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T15:31:55.317Z"
   },
   {
@@ -5674,18 +3679,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "babel",
-        "information security",
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T15:05:40.891Z"
   },
   {
@@ -5716,29 +3709,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "analytics",
-        "c#",
-        "c++",
-        "computer science",
-        "deep learning",
-        "excel",
-        "github",
-        "java",
-        "javascript",
-        "machine learning",
-        "python",
-        "risk management",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T14:18:30.955Z"
   },
   {
@@ -5774,14 +3744,6 @@
     },
     "_source": "aggregator",
     "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T13:17:56.037Z"
   },
   {
@@ -5812,40 +3774,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "apache",
-        "apache spark",
-        "aws",
-        "azure",
-        "business intelligence",
-        "cassandra",
-        "data architecture",
-        "data modeling",
-        "data pipeline",
-        "etl",
-        "google cloud",
-        "hadoop",
-        "high availability",
-        "kafka",
-        "mongodb",
-        "mysql",
-        "postgresql",
-        "python",
-        "redshift",
-        "reporting",
-        "s3",
-        "scala",
-        "spark",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T10:18:05.682Z"
   },
   {
@@ -5876,21 +3804,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "data science",
-        "forecasting",
-        "machine learning",
-        "reporting",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T10:18:05.682Z"
   },
   {
@@ -5922,30 +3835,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "computer science",
-        "data science",
-        "hadoop",
-        "machine learning",
-        "power bi",
-        "python",
-        "r",
-        "reporting",
-        "scikit-learn",
-        "spark",
-        "sql",
-        "statistics",
-        "tableau",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T10:18:05.682Z"
   },
   {
@@ -5976,18 +3865,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "data governance",
-        "go"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T09:31:48.492Z"
   },
   {
@@ -6018,26 +3895,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "dashboards",
-        "data analysis",
-        "data visualization",
-        "databricks",
-        "power bi",
-        "project management",
-        "qlik",
-        "reporting",
-        "scrum"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T09:31:48.492Z"
   },
   {
@@ -6068,29 +3925,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "analytics",
-        "business intelligence",
-        "computer science",
-        "dashboards",
-        "etl",
-        "large language model",
-        "llm",
-        "power bi",
-        "python",
-        "r",
-        "reporting",
-        "sap",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T09:17:10.934Z"
   },
   {
@@ -6122,35 +3956,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "Natural Language Processing",
-        "agentic",
-        "agents",
-        "airflow",
-        "c++",
-        "computer science",
-        "computer vision",
-        "deep learning",
-        "distributed systems",
-        "github",
-        "kubeflow",
-        "linux",
-        "llm",
-        "machine learning",
-        "openai",
-        "python",
-        "pytorch",
-        "r",
-        "ray",
-        "spring"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T09:17:10.934Z"
   },
   {
@@ -6181,36 +3986,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "airflow",
-        "analytics",
-        "aws",
-        "azure",
-        "ci/cd",
-        "computer science",
-        "data governance",
-        "data pipeline",
-        "data science",
-        "devsecops",
-        "docker",
-        "elt",
-        "etl",
-        "feature engineering",
-        "gcp",
-        "java",
-        "kafka",
-        "kubernetes",
-        "python",
-        "spark"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T08:47:38.288Z"
   },
   {
@@ -6241,18 +4016,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "linux",
-        "reporting",
-        "vpn"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T07:02:20.596Z"
   },
   {
@@ -6283,33 +4046,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "airflow",
-        "apache",
-        "aws",
-        "cloudformation",
-        "data governance",
-        "data modeling",
-        "dbt",
-        "devops",
-        "etl",
-        "iam",
-        "lambda",
-        "machine learning",
-        "python",
-        "s3",
-        "sql",
-        "terraform",
-        "waterfall"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T07:02:20.596Z"
   },
   {
@@ -6340,35 +4076,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "airflow",
-        "analytics",
-        "aws",
-        "computer science",
-        "data analysis",
-        "data science",
-        "data visualization",
-        "databricks",
-        "dbt",
-        "devops",
-        "etl",
-        "hadoop",
-        "hive",
-        "kafka",
-        "machine learning",
-        "natural language processing",
-        "power bi",
-        "qlik",
-        "spark",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T07:02:20.596Z"
   },
   {
@@ -6399,18 +4106,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "change management",
-        "process improvement"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T07:02:20.595Z"
   },
   {
@@ -6441,18 +4136,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "change management",
-        "process improvement"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T07:02:20.595Z"
   },
   {
@@ -6484,31 +4167,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "c++",
-        "computer vision",
-        "data science",
-        "deep learning",
-        "generative ai",
-        "java",
-        "langchain",
-        "machine learning",
-        "mcp",
-        "python",
-        "pytorch",
-        "rust",
-        "scikit-learn",
-        "tensorflow",
-        "unsupervised learning"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T07:02:20.595Z"
   },
   {
@@ -6539,25 +4197,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "data governance",
-        "data visualization",
-        "databricks",
-        "elt",
-        "etl",
-        "machine learning",
-        "process improvement",
-        "pyspark",
-        "unity"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T07:02:20.595Z"
   },
   {
@@ -6588,25 +4227,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "data governance",
-        "data visualization",
-        "databricks",
-        "elt",
-        "etl",
-        "machine learning",
-        "process improvement",
-        "pyspark",
-        "unity"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T07:02:20.595Z"
   },
   {
@@ -6637,20 +4257,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "aws",
-        "azure",
-        "google cloud",
-        "machine learning"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T07:02:20.595Z"
   },
   {
@@ -6682,36 +4288,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "analytics",
-        "c++",
-        "computer science",
-        "data science",
-        "distributed systems",
-        "event-driven",
-        "express",
-        "fine-tuning",
-        "generative ai",
-        "java",
-        "kafka",
-        "llm",
-        "machine learning",
-        "microservices",
-        "multimodal",
-        "observability",
-        "python",
-        "scalability",
-        "spark",
-        "system design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T07:02:18.824Z"
   },
   {
@@ -6742,54 +4318,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agents",
-        "analytics",
-        "api",
-        "azure",
-        "bigquery",
-        "business intelligence",
-        "computer science",
-        "crm",
-        "cybersecurity",
-        "data governance",
-        "data quality",
-        "data science",
-        "data visualization",
-        "data warehouse",
-        "databricks",
-        "embeddings",
-        "fastapi",
-        "forecasting",
-        "google cloud",
-        "langchain",
-        "llm",
-        "looker",
-        "machine learning",
-        "microsoft azure",
-        "microsoft office",
-        "next.js",
-        "power bi",
-        "prompt engineering",
-        "python",
-        "regression",
-        "routing",
-        "salesforce",
-        "snowflake",
-        "sql",
-        "statistics",
-        "tableau",
-        "threat modeling",
-        "vault",
-        "workday"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T07:02:12.538Z"
   },
   {
@@ -6820,22 +4348,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agents",
-        "analytics",
-        "data governance",
-        "data quality",
-        "etl",
-        "reporting",
-        "sap"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T07:02:11.692Z"
   },
   {
@@ -6866,22 +4378,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agents",
-        "analytics",
-        "data governance",
-        "data quality",
-        "etl",
-        "reporting",
-        "sap"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T07:02:11.692Z"
   },
   {
@@ -6912,29 +4408,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "classification",
-        "computer science",
-        "data analysis",
-        "data science",
-        "deep learning",
-        "machine learning",
-        "python",
-        "r",
-        "risk management",
-        "scala",
-        "spark",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T07:02:08.882Z"
   },
   {
@@ -6966,35 +4439,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "Natural Language Processing",
-        "analytics",
-        "aws",
-        "classification",
-        "computer science",
-        "data science",
-        "deep learning",
-        "genai",
-        "generative ai",
-        "hugging face",
-        "llamaindex",
-        "llm",
-        "machine learning",
-        "observability",
-        "python",
-        "pytorch",
-        "r",
-        "scala",
-        "sql",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T07:02:08.882Z"
   },
   {
@@ -7026,17 +4470,6 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "data science",
-        "forecasting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T03:16:36.706Z"
   },
   {
@@ -7070,20 +4503,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "computer science",
-        "data modeling",
-        "etl",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T00:00:00.000Z"
   },
   {
@@ -7117,19 +4536,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "java",
-        "machine learning",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T00:00:00.000Z"
   },
   {
@@ -7163,20 +4569,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "java",
-        "machine learning",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T00:00:00.000Z"
   },
   {
@@ -7210,18 +4602,6 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "java",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-04T00:00:00.000Z"
   },
   {
@@ -7256,17 +4636,6 @@
     },
     "_source": "aggregator",
     "_original_source": "apple",
-    "enrichment": {
-      "required_skills": [
-        "machine learning",
-        "reinforcement learning"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-03T13:38:58.097Z"
   },
   {
@@ -7300,14 +4669,6 @@
     },
     "_source": "aggregator",
     "_original_source": "google",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-03T09:11:43.838Z"
   },
   {
@@ -7340,14 +4701,6 @@
     },
     "_source": "aggregator",
     "_original_source": "google",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-03T09:11:43.838Z"
   },
   {
@@ -7380,14 +4733,6 @@
     },
     "_source": "aggregator",
     "_original_source": "google",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-03T09:11:43.838Z"
   },
   {
@@ -7421,14 +4766,6 @@
     },
     "_source": "aggregator",
     "_original_source": "google",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-03T09:11:43.838Z"
   },
   {
@@ -7460,14 +4797,6 @@
     },
     "_source": "aggregator",
     "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-02T13:35:12.432Z"
   },
   {
@@ -7498,17 +4827,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "data science"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-02T13:31:02.772Z"
   },
   {
@@ -7540,24 +4858,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "computer science",
-        "distributed systems",
-        "fine-tuning",
-        "machine learning",
-        "pytorch",
-        "ray",
-        "robotics",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-02T13:31:01.782Z"
   },
   {
@@ -7588,24 +4888,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "deep learning",
-        "linear",
-        "linux",
-        "machine learning",
-        "neural network",
-        "python",
-        "pytorch",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-02T13:31:00.888Z"
   },
   {
@@ -7636,20 +4918,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "machine learning",
-        "python",
-        "sql",
-        "statistics"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-02T13:31:00.053Z"
   },
   {
@@ -7680,124 +4948,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "dashboards",
-        "data architecture",
-        "power bi",
-        "process improvement",
-        "python",
-        "reporting",
-        "risk management",
-        "servicenow",
-        "six sigma",
-        "snowflake",
-        "sql",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-02T13:30:59.638Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7793815",
-    "job_title": "Associate, Operations Data Analytics",
-    "employer_name": "Oscar Health",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Atlanta, Georgia, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7793815?gh_jid=7793815",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:56.963Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4153c1036a159a586c3d815d1ef49e4a4df5a33583987e23894d704e6fda9b22",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "dashboards",
-        "data visualization",
-        "excel",
-        "google sheets",
-        "looker",
-        "reporting",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:56.963Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7793813",
-    "job_title": "Associate, Operations Data Analytics",
-    "employer_name": "Oscar Health",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Dallas, Texas, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7793813?gh_jid=7793813",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:56.963Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9d84a723dbd111a3835b9c242dc53c02bb2da39ef04a27c429d56f22e46eb58c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "dashboards",
-        "data visualization",
-        "excel",
-        "google sheets",
-        "looker",
-        "reporting",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-02T13:30:56.963Z"
   },
   {
     "job_id": "greenhouse-oscar-7793812",
@@ -7827,23 +4978,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "dashboards",
-        "data visualization",
-        "excel",
-        "google sheets",
-        "looker",
-        "reporting",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-02T13:30:56.963Z"
   },
   {
@@ -7874,23 +5008,66 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "dashboards",
-        "data visualization",
-        "excel",
-        "google sheets",
-        "looker",
-        "reporting",
-        "sql"
+    "job_posted_at": "2026-05-02T13:30:56.963Z"
+  },
+  {
+    "job_id": "greenhouse-oscar-7793815",
+    "job_title": "Associate, Operations Data Analytics",
+    "employer_name": "Oscar Health",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Atlanta, Georgia, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7793815?gh_jid=7793815",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:56.963Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4153c1036a159a586c3d815d1ef49e4a4df5a33583987e23894d704e6fda9b22",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
       ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
     },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-02T13:30:56.963Z"
+  },
+  {
+    "job_id": "greenhouse-oscar-7793813",
+    "job_title": "Associate, Operations Data Analytics",
+    "employer_name": "Oscar Health",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Dallas, Texas, United States",
+    "job_apply_link": "http://www.hioscar.com/careers/7793813?gh_jid=7793813",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:56.963Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9d84a723dbd111a3835b9c242dc53c02bb2da39ef04a27c429d56f22e46eb58c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
     "job_posted_at": "2026-05-02T13:30:56.963Z"
   },
   {
@@ -7923,16 +5100,6 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "vendor management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": true
-    },
     "job_posted_at": "2026-05-02T13:30:50.227Z"
   },
   {
@@ -7964,17 +5131,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-02T13:30:49.367Z"
   },
   {
@@ -8006,25 +5162,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "data analysis",
-        "forecasting",
-        "git",
-        "linear",
-        "numpy",
-        "pandas",
-        "python",
-        "scipy",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-02T13:30:49.367Z"
   },
   {
@@ -8060,20 +5197,6 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "data science",
-        "python",
-        "sql",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-02T13:30:47.510Z"
   },
   {
@@ -8110,27 +5233,6 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
-    "enrichment": {
-      "required_skills": [
-        "a/b testing",
-        "analytics",
-        "dashboards",
-        "data analysis",
-        "data science",
-        "data visualization",
-        "python",
-        "r",
-        "spark",
-        "sql",
-        "statistics",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-02T13:30:46.245Z"
   },
   {
@@ -8161,28 +5263,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "airflow",
-        "analytics",
-        "business intelligence",
-        "ci/cd",
-        "data governance",
-        "data modeling",
-        "data quality",
-        "data warehouse",
-        "dbt",
-        "python",
-        "snowflake",
-        "spark",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-02T05:59:05.654Z"
   },
   {
@@ -8214,26 +5294,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "dashboards",
-        "data visualization",
-        "excel",
-        "google sheets",
-        "looker",
-        "pandas",
-        "python",
-        "r",
-        "reporting",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-02T00:17:52.402Z"
   },
   {
@@ -8265,26 +5325,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "dashboards",
-        "data visualization",
-        "excel",
-        "google sheets",
-        "looker",
-        "pandas",
-        "python",
-        "r",
-        "reporting",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-02T00:17:52.402Z"
   },
   {
@@ -8316,26 +5356,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "dashboards",
-        "data visualization",
-        "excel",
-        "google sheets",
-        "looker",
-        "pandas",
-        "python",
-        "r",
-        "reporting",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-02T00:17:52.402Z"
   },
   {
@@ -8367,26 +5387,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "dashboards",
-        "data visualization",
-        "excel",
-        "google sheets",
-        "looker",
-        "pandas",
-        "python",
-        "r",
-        "reporting",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-02T00:17:52.402Z"
   },
   {
@@ -8420,25 +5420,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "airflow",
-        "computer science",
-        "deep learning",
-        "llm",
-        "machine learning",
-        "python",
-        "pytorch",
-        "reinforcement learning",
-        "spark",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-02T00:17:43.042Z"
   },
   {
@@ -8470,23 +5451,6 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
-    "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "dashboards",
-        "data governance",
-        "forecasting",
-        "power bi",
-        "reporting",
-        "sql",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T22:43:53.377Z"
   },
   {
@@ -8511,7 +5475,7 @@
       "locations": [
         "us"
       ],
-      "experience": "mid_level",
+      "experience": "unknown",
       "special": [
         "faang"
       ],
@@ -8519,25 +5483,6 @@
     },
     "_source": "aggregator",
     "_original_source": "microsoft",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "azure",
-        "computer science",
-        "data science",
-        "excel",
-        "forecasting",
-        "power bi",
-        "python",
-        "r",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T21:26:05.000Z"
   },
   {
@@ -8568,21 +5513,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "computer science",
-        "data science",
-        "python",
-        "sql",
-        "statistics"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T19:38:59.000Z"
   },
   {
@@ -8614,16 +5544,6 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
-    "enrichment": {
-      "required_skills": [
-        "signal processing"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T18:53:15.563Z"
   },
   {
@@ -8657,24 +5577,6 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "clean architecture",
-        "devops",
-        "embedding",
-        "go",
-        "java",
-        "python",
-        "scalability",
-        "stakeholder management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T18:43:21.601Z"
   },
   {
@@ -8706,20 +5608,6 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "asana",
-        "dashboards",
-        "forecasting",
-        "python",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": true
-    },
     "job_posted_at": "2026-05-01T17:36:23.014Z"
   },
   {
@@ -8751,14 +5639,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T17:28:37.000Z"
   },
   {
@@ -8790,14 +5670,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T17:28:37.000Z"
   },
   {
@@ -8829,14 +5701,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T17:28:35.000Z"
   },
   {
@@ -8868,14 +5732,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T17:28:35.000Z"
   },
   {
@@ -8907,14 +5763,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T17:28:34.000Z"
   },
   {
@@ -8946,23 +5794,6 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "business intelligence",
-        "computer science",
-        "d3",
-        "data analysis",
-        "react",
-        "reporting",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T16:32:30.933Z"
   },
   {
@@ -8994,23 +5825,6 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "business intelligence",
-        "computer science",
-        "d3",
-        "data analysis",
-        "react",
-        "reporting",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": true
-    },
     "job_posted_at": "2026-05-01T16:02:09.835Z"
   },
   {
@@ -9042,19 +5856,6 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "data modeling",
-        "data quality",
-        "machine learning"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T15:42:16.372Z"
   },
   {
@@ -9086,25 +5887,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "Natural Language Processing",
-        "computer science",
-        "deep learning",
-        "machine learning",
-        "natural language processing",
-        "python",
-        "pytorch",
-        "scalability",
-        "tensorflow",
-        "zoom"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T15:05:59.642Z"
   },
   {
@@ -9138,6 +5920,36 @@
     "job_posted_at": "2026-05-01T15:02:23.494Z"
   },
   {
+    "job_id": "greenhouse-roku-7676018",
+    "job_title": "Analyst, Revenue Analytics & Insights",
+    "employer_name": "Roku",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York, New York",
+    "job_apply_link": "https://www.weareroku.com/jobs/7676018?gh_jid=7676018",
+    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6113738185a0672c3ba6e1deac6a82117f310a1a7503c6a087a158deeb462e7d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-01T14:34:08.645Z"
+  },
+  {
     "job_id": "greenhouse-roku-7555263",
     "job_title": "Software Engineer, Machine Learning",
     "employer_name": "Roku",
@@ -9167,76 +5979,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "deep learning",
-        "firmware",
-        "machine learning",
-        "python",
-        "pytorch",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T14:34:08.645Z"
-  },
-  {
-    "job_id": "greenhouse-roku-7676018",
-    "job_title": "Analyst, Revenue Analytics & Insights",
-    "employer_name": "Roku",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, New York",
-    "job_apply_link": "https://www.weareroku.com/jobs/7676018?gh_jid=7676018",
-    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6113738185a0672c3ba6e1deac6a82117f310a1a7503c6a087a158deeb462e7d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "crm",
-        "dashboards",
-        "data analysis",
-        "data quality",
-        "data visualization",
-        "data warehouse",
-        "forecasting",
-        "python",
-        "regression",
-        "reporting",
-        "salesforce",
-        "sql",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T14:34:08.645Z"
   },
   {
@@ -9267,14 +6009,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T14:34:08.645Z"
   },
   {
@@ -9305,14 +6039,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T14:34:01.311Z"
   },
   {
@@ -9344,28 +6070,6 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "dashboards",
-        "data visualization",
-        "dynamodb",
-        "power bi",
-        "python",
-        "redshift",
-        "reporting",
-        "snowflake",
-        "sql",
-        "statistical analysis",
-        "swift",
-        "tableau"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T13:47:44.173Z"
   },
   {
@@ -9396,20 +6100,6 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "data governance",
-        "data modeling",
-        "excel",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T13:45:18.000Z"
   },
   {
@@ -9441,28 +6131,6 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "amazon web services",
-        "analytics",
-        "dashboards",
-        "data visualization",
-        "dynamodb",
-        "power bi",
-        "python",
-        "reporting",
-        "snowflake",
-        "sql",
-        "statistical analysis",
-        "swift",
-        "tableau"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T13:41:51.357Z"
   },
   {
@@ -9494,35 +6162,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "agents",
-        "aws",
-        "azure",
-        "c++",
-        "ci/cd",
-        "computer science",
-        "distributed systems",
-        "gcp",
-        "go",
-        "java",
-        "kubernetes",
-        "llm",
-        "machine learning",
-        "observability",
-        "prompt engineering",
-        "python",
-        "rust",
-        "typescript",
-        "zoom"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T07:39:11.992Z"
   },
   {
@@ -9553,42 +6192,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "airflow",
-        "analytics",
-        "apache",
-        "apache airflow",
-        "apache spark",
-        "aws",
-        "azure",
-        "business intelligence",
-        "data modeling",
-        "data quality",
-        "databricks",
-        "etl",
-        "gcp",
-        "hadoop",
-        "high availability",
-        "java",
-        "mysql",
-        "oracle",
-        "postgresql",
-        "python",
-        "redshift",
-        "scala",
-        "scalability",
-        "snowflake",
-        "spark",
-        "sql",
-        "sql server"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T07:06:18.079Z"
   },
   {
@@ -9619,27 +6222,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "data quality",
-        "data science",
-        "generative ai",
-        "machine learning",
-        "python",
-        "pytorch",
-        "scalability",
-        "scikit-learn",
-        "stakeholder management",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T07:06:18.079Z"
   },
   {
@@ -9671,33 +6253,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "analytics",
-        "aws",
-        "azure",
-        "computer science",
-        "data science",
-        "gcp",
-        "genai",
-        "generative ai",
-        "langchain",
-        "llm",
-        "machine learning",
-        "openai",
-        "prompt engineering",
-        "python",
-        "pytorch",
-        "rag",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T07:05:36.240Z"
   },
   {
@@ -9728,26 +6283,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "crm",
-        "dashboards",
-        "data analysis",
-        "data visualization",
-        "etl",
-        "excel",
-        "forecasting",
-        "power bi",
-        "reporting",
-        "salesforce"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T07:05:33.634Z"
   },
   {
@@ -9780,31 +6315,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "business intelligence",
-        "computer science",
-        "dashboards",
-        "data modeling",
-        "databricks",
-        "microsoft office",
-        "performance testing",
-        "power bi",
-        "project management",
-        "pyspark",
-        "reporting",
-        "sap",
-        "spark",
-        "sql",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T07:04:37.667Z"
   },
   {
@@ -9835,25 +6345,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "c++",
-        "cybersecurity",
-        "java",
-        "jmp",
-        "matlab",
-        "program management",
-        "python",
-        "r",
-        "vba"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T07:04:06.553Z"
   },
   {
@@ -9884,24 +6375,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "business intelligence",
-        "data modeling",
-        "data science",
-        "data visualization",
-        "machine learning",
-        "python",
-        "sql",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T07:03:41.044Z"
   },
   {
@@ -9932,20 +6405,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data governance",
-        "data quality",
-        "observability",
-        "pyspark",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T07:03:41.043Z"
   },
   {
@@ -9976,33 +6435,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "analytics",
-        "business intelligence",
-        "dashboards",
-        "data analysis",
-        "data governance",
-        "data modeling",
-        "data quality",
-        "excel",
-        "jira",
-        "llm",
-        "oracle",
-        "program management",
-        "project management",
-        "reporting",
-        "risk management",
-        "sql",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T07:03:02.030Z"
   },
   {
@@ -10034,47 +6466,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "Natural Language Processing",
-        "airflow",
-        "aws",
-        "azure",
-        "ci/cd",
-        "deep learning",
-        "distributed systems",
-        "docker",
-        "gcp",
-        "generative ai",
-        "hadoop",
-        "hive",
-        "hugging face",
-        "kubernetes",
-        "langchain",
-        "llamaindex",
-        "llm",
-        "machine learning",
-        "mlflow",
-        "natural language processing",
-        "pandas",
-        "pyspark",
-        "python",
-        "pytorch",
-        "rag",
-        "risk management",
-        "scalability",
-        "scikit-learn",
-        "spark",
-        "system design",
-        "tensorflow",
-        "transformers"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T07:03:02.029Z"
   },
   {
@@ -10105,20 +6496,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "abaqus",
-        "analytics",
-        "ansys",
-        "fea",
-        "finite element analysis"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T07:02:41.843Z"
   },
   {
@@ -10149,38 +6526,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "business intelligence",
-        "computer science",
-        "dashboards",
-        "data modeling",
-        "data quality",
-        "data warehouse",
-        "dimensional modeling",
-        "dynamics 365",
-        "elt",
-        "erp",
-        "etl",
-        "mes",
-        "oracle",
-        "oracle erp",
-        "power bi",
-        "python",
-        "reporting",
-        "sap",
-        "snowflake",
-        "sql",
-        "system design",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T07:02:39.254Z"
   },
   {
@@ -10211,27 +6556,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "computer science",
-        "data analysis",
-        "data governance",
-        "data lake",
-        "data modeling",
-        "data quality",
-        "databricks",
-        "etl",
-        "jupyter",
-        "python",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T07:02:37.005Z"
   },
   {
@@ -10263,28 +6587,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "Natural Language Processing",
-        "analytics",
-        "change management",
-        "computer science",
-        "data governance",
-        "data science",
-        "devops",
-        "embedding",
-        "forecasting",
-        "generative ai",
-        "llm",
-        "python",
-        "sap"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T07:02:34.559Z"
   },
   {
@@ -10315,36 +6617,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "aws",
-        "azure",
-        "business intelligence",
-        "ci/cd",
-        "computer science",
-        "dashboards",
-        "data analysis",
-        "data governance",
-        "data modeling",
-        "data quality",
-        "databricks",
-        "gcp",
-        "incident response",
-        "power bi",
-        "reporting",
-        "sql",
-        "stakeholder management",
-        "statistics",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T07:02:34.559Z"
   },
   {
@@ -10376,25 +6648,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "agents",
-        "analytics",
-        "azure",
-        "bigquery",
-        "databricks",
-        "python",
-        "react",
-        "risk management",
-        "snowflake"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T07:02:30.785Z"
   },
   {
@@ -10425,18 +6678,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "reporting",
-        "signal processing"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T07:02:29.879Z"
   },
   {
@@ -10467,30 +6708,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "cybersecurity",
-        "dashboards",
-        "data analysis",
-        "data governance",
-        "data integration",
-        "data quality",
-        "data visualization",
-        "elt",
-        "etl",
-        "forecasting",
-        "observability",
-        "power bi",
-        "reporting",
-        "root cause analysis"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T07:02:29.879Z"
   },
   {
@@ -10521,27 +6738,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "computer science",
-        "data analysis",
-        "data architecture",
-        "data science",
-        "dcs",
-        "llm",
-        "machine learning",
-        "python",
-        "r",
-        "splunk",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T07:02:29.879Z"
   },
   {
@@ -10572,36 +6768,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "Natural Language Processing",
-        "aws",
-        "azure",
-        "data analysis",
-        "data science",
-        "data visualization",
-        "deep learning",
-        "google cloud",
-        "hadoop",
-        "hive",
-        "kafka",
-        "machine learning",
-        "mysql",
-        "natural language processing",
-        "plotly",
-        "python",
-        "r",
-        "seaborn",
-        "spark",
-        "sql",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T07:02:20.596Z"
   },
   {
@@ -10632,28 +6798,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "ci/cd",
-        "data science",
-        "deep learning",
-        "docker",
-        "fine-tuning",
-        "git",
-        "kafka",
-        "kubernetes",
-        "linux",
-        "machine learning",
-        "python",
-        "reinforcement learning",
-        "spark"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T07:02:20.596Z"
   },
   {
@@ -10684,28 +6828,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "classification",
-        "computer science",
-        "data science",
-        "deep learning",
-        "machine learning",
-        "python",
-        "r",
-        "scala",
-        "spark",
-        "sql",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T07:02:08.882Z"
   },
   {
@@ -10737,37 +6859,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "PostgreSQL",
-        "agentic",
-        "agents",
-        "agile",
-        "analytics",
-        "aws",
-        "azure",
-        "computer science",
-        "deep learning",
-        "elasticsearch",
-        "express",
-        "fine-tuning",
-        "generative ai",
-        "java",
-        "llm",
-        "machine learning",
-        "mysql",
-        "python",
-        "pytorch",
-        "redis",
-        "snowflake",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T07:02:03.858Z"
   },
   {
@@ -10798,31 +6889,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agents",
-        "azure",
-        "business intelligence",
-        "change management",
-        "computer science",
-        "computer vision",
-        "databricks",
-        "deep learning",
-        "generative ai",
-        "machine learning",
-        "project management",
-        "python",
-        "pytorch",
-        "rag",
-        "regression",
-        "root cause analysis"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-01T07:02:02.687Z"
   }
 ]
