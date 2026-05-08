@@ -317,7 +317,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864459",
     "job_posted_at_datetime_utc": "2026-05-07T21:51:49.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "5b61cc0638fa83b88eefbc4bb8b4fd54bc2dfdeaabf7970e3a0d18149060b122",
     "tags": {
@@ -1434,19 +1434,19 @@
     "job_posted_at": "2026-05-06T11:31:20.923Z"
   },
   {
-    "job_id": "simplify-0ac266eb-5e2b-4207-afed-bffe81fd1d2b",
-    "job_title": "Data Visualization Associate",
+    "job_id": "simplify-4c9bab09-16cf-4d9a-a679-a8263a8d1b74",
+    "job_title": "Client Data Analyst",
     "employer_name": "JP Morgan Chase",
     "job_city": "United States",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706210",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740918",
     "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "f3d89e94710fe1a2516b022d0082289441b8217daf0bf7da1e19a825a5a6f4a6",
+    "fingerprint": "206e8d78f28c2976599086874c0625cc1ade088db53c046a9f4c4f6ea6156a27",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1472,19 +1472,19 @@
     "job_posted_at": "2026-05-06T11:31:20.571Z"
   },
   {
-    "job_id": "simplify-4c9bab09-16cf-4d9a-a679-a8263a8d1b74",
-    "job_title": "Client Data Analyst",
+    "job_id": "simplify-0ac266eb-5e2b-4207-afed-bffe81fd1d2b",
+    "job_title": "Data Visualization Associate",
     "employer_name": "JP Morgan Chase",
     "job_city": "United States",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740918",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706210",
     "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "206e8d78f28c2976599086874c0625cc1ade088db53c046a9f4c4f6ea6156a27",
+    "fingerprint": "f3d89e94710fe1a2516b022d0082289441b8217daf0bf7da1e19a825a5a6f4a6",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -9228,55 +9228,6 @@
     "job_posted_at": "2026-05-01T15:02:23.494Z"
   },
   {
-    "job_id": "greenhouse-roku-7555263",
-    "job_title": "Software Engineer, Machine Learning",
-    "employer_name": "Roku",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, California",
-    "job_apply_link": "https://www.weareroku.com/jobs/7555263?gh_jid=7555263",
-    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f99bf1db9c5b82e46a175fd2861bdb667a6cc3fa05ce1fb94c5e4c5a1e35851d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "deep learning",
-        "firmware",
-        "machine learning",
-        "python",
-        "pytorch",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T14:34:08.645Z"
-  },
-  {
     "job_id": "greenhouse-roku-7676018",
     "job_title": "Analyst, Revenue Analytics & Insights",
     "employer_name": "Roku",
@@ -9320,6 +9271,55 @@
         "salesforce",
         "sql",
         "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-01T14:34:08.645Z"
+  },
+  {
+    "job_id": "greenhouse-roku-7555263",
+    "job_title": "Software Engineer, Machine Learning",
+    "employer_name": "Roku",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, California",
+    "job_apply_link": "https://www.weareroku.com/jobs/7555263?gh_jid=7555263",
+    "job_posted_at_datetime_utc": "2026-05-01T14:34:08.645Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f99bf1db9c5b82e46a175fd2861bdb667a6cc3fa05ce1fb94c5e4c5a1e35851d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "deep learning",
+        "firmware",
+        "machine learning",
+        "python",
+        "pytorch",
+        "tensorflow"
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
