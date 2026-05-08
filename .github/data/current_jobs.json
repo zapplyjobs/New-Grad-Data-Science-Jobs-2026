@@ -99,6 +99,37 @@
     "job_posted_at": "2026-05-08T15:46:48.267Z"
   },
   {
+    "job_id": "lever-spotify-8ab5051b-81e0-4705-b640-c73c5eba3607",
+    "job_title": "Data Scientist - Advertising",
+    "employer_name": "Spotify",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "New York, NY",
+    "job_apply_link": "https://jobs.lever.co/spotify/8ab5051b-81e0-4705-b640-c73c5eba3607/apply",
+    "job_posted_at_datetime_utc": "2026-05-08T15:19:25.241Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "41f78b5bfae13606d886119582cb9ff7a7c4cdd58c9a1b74694e6d5f411d71f4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "remote",
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-05-08T15:19:25.241Z"
+  },
+  {
     "job_id": "greenhouse-capco-7908493",
     "job_title": "Junior AI Engineer",
     "employer_name": "Capco",
@@ -1482,7 +1513,7 @@
     "job_location": "United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556652525",
     "job_posted_at_datetime_utc": "2026-05-06T13:54:49.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7fc63e40901d9dac3d79000702050e338e7c530d008c98ca2a3a378e5d3ce3eb",
     "tags": {
