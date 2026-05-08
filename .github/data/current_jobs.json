@@ -1,5 +1,39 @@
 [
   {
+    "job_id": "greenhouse-airbnb-7708224",
+    "job_title": "Machine Learning Engineer, Relevance and Personalization",
+    "employer_name": "Airbnb",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://careers.airbnb.com/positions/7708224?gh_jid=7708224",
+    "job_posted_at_datetime_utc": "2026-05-08T21:39:54.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c12e3263deb0393e5c8e9dabc6b44b4a0f6a178b2874d6211859d3972392dcb2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "unicorn"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-08T21:39:54.000Z"
+  },
+  {
     "job_id": "workday-crowdstrike-R28733",
     "job_title": "Intelligence Analyst - Falcon Recon (Remote)",
     "employer_name": "CrowdStrike",
@@ -28,6 +62,28 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "cadence",
+        "cybersecurity",
+        "incident response",
+        "networking",
+        "process improvement",
+        "python"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-08T21:32:33.405Z"
   },
   {
@@ -68,11 +124,17 @@
         "reporting",
         "sql"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T21:17:42.710Z"
   },
@@ -119,11 +181,17 @@
         "sql",
         "statistics"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T21:03:03.863Z"
   },
@@ -179,11 +247,17 @@
         "sql",
         "tensorflow"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T21:02:29.274Z"
   },
@@ -229,11 +303,17 @@
         "spark",
         "statistics"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:35:13.809Z"
   },
@@ -293,11 +373,17 @@
         "statistics",
         "tableau"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:09:48.069Z"
   },
@@ -347,11 +433,17 @@
         "snowflake",
         "sql"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:09:45.751Z"
   },
@@ -399,11 +491,17 @@
         "sql",
         "zoom"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": false,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:09:32.268Z"
   },
@@ -446,11 +544,17 @@
         "risk management",
         "statistics"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:09:16.652Z"
   },
@@ -493,11 +597,17 @@
         "etl",
         "reporting"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:09:16.649Z"
   },
@@ -544,11 +654,17 @@
         "sql",
         "tableau"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:09:09.823Z"
   },
@@ -585,11 +701,17 @@
         "data analysis",
         "reporting"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:08:38.175Z"
   },
@@ -662,13 +784,63 @@
         "sql",
         "statistics"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:08:09.776Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00182069",
+    "job_title": "Beacon Intelligence Analyst Event - TS/SCI with Polygraph required",
+    "employer_name": "Leidos",
+    "job_city": "Reston",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Reston, VA",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Beacon-Intelligence-Analyst-Event---TS-SCI-with-Polygraph-required_R-00182069",
+    "job_posted_at_datetime_utc": "2026-05-08T20:07:39.277Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6fc9d11c119517163bf9433cb2e829bec4e31c34215b7e0dd73390ef7e9e4f67",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:07:39.277Z"
   },
   {
     "job_id": "workday-leidos-R-00182861",
@@ -720,11 +892,17 @@
         "splunk",
         "terraform"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "phd",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:07:39.277Z"
   },
@@ -761,11 +939,17 @@
         "go",
         "sap"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:07:39.277Z"
   },
@@ -819,49 +1003,17 @@
         "rag",
         "tensorflow"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-08T20:07:39.277Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00182069",
-    "job_title": "Beacon Intelligence Analyst Event - TS/SCI with Polygraph required",
-    "employer_name": "Leidos",
-    "job_city": "Reston",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Reston, VA",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Beacon-Intelligence-Analyst-Event---TS-SCI-with-Polygraph-required_R-00182069",
-    "job_posted_at_datetime_utc": "2026-05-08T20:07:39.277Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6fc9d11c119517163bf9433cb2e829bec4e31c34215b7e0dd73390ef7e9e4f67",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "phd",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:07:39.277Z"
   },
@@ -902,11 +1054,17 @@
         "statistics",
         "workday"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": false,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:07:22.554Z"
   },
@@ -946,11 +1104,17 @@
       "required_skills": [
         "agentic"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:07:09.322Z"
   },
@@ -1085,11 +1249,17 @@
         "statistical analysis",
         "statistics"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:07:01.395Z"
   },
@@ -1146,11 +1316,17 @@
         "tensorflow",
         "unsupervised learning"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:07:01.395Z"
   },
@@ -1207,11 +1383,17 @@
         "sql",
         "sql server"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:07:01.395Z"
   },
@@ -1255,11 +1437,17 @@
         "statistical analysis",
         "statistics"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:06:54.795Z"
   },
@@ -1318,11 +1506,17 @@
         "sql",
         "terraform"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:06:44.107Z"
   },
@@ -1486,11 +1680,17 @@
         "project management",
         "tableau"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:06:20.677Z"
   },
@@ -1726,11 +1926,17 @@
         "spark",
         "tensorflow"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:05:59.375Z"
   },
@@ -1779,11 +1985,17 @@
         "sql",
         "statistics"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:05:59.375Z"
   },
@@ -1837,11 +2049,17 @@
         "tensorflow",
         "transformers"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:05:59.375Z"
   },
@@ -1895,11 +2113,17 @@
         "tensorflow",
         "transformers"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:05:59.375Z"
   },
@@ -2131,11 +2355,17 @@
         "six sigma",
         "sql"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:05:48.507Z"
   },
@@ -2179,13 +2409,49 @@
         "requirements gathering",
         "typescript"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:05:48.507Z"
+  },
+  {
+    "job_id": "workday-caci-325833",
+    "job_title": "SIGINT Analysts (OP/Electronic Intelligence – ELINT)",
+    "employer_name": "CACI",
+    "job_city": "US NC Fort Bragg",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US NC Fort Bragg",
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-NC-Fort-Bragg/SIGINT-Analysts--OP-Electronic-Intelligence---ELINT-_325833",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:40.076Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "babfcffb3c20d0f8857280c8214b6062c03613540d51b6a96bf756ae10db5a4d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:05:40.076Z"
   },
   {
     "job_id": "workday-caci-325902",
@@ -2318,42 +2584,18 @@
         "reporting",
         "tensorflow"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": true
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
     },
-    "job_posted_at": "2026-05-08T20:05:40.076Z"
-  },
-  {
-    "job_id": "workday-caci-325833",
-    "job_title": "SIGINT Analysts (OP/Electronic Intelligence – ELINT)",
-    "employer_name": "CACI",
-    "job_city": "US NC Fort Bragg",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US NC Fort Bragg",
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-NC-Fort-Bragg/SIGINT-Analysts--OP-Electronic-Intelligence---ELINT-_325833",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:40.076Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "babfcffb3c20d0f8857280c8214b6062c03613540d51b6a96bf756ae10db5a4d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
     "job_posted_at": "2026-05-08T20:05:40.076Z"
   },
   {
@@ -2393,11 +2635,17 @@
         "statistics",
         "workday"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:05:25.554Z"
   },
@@ -2563,11 +2811,17 @@
         "sql",
         "statistics"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 17,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T19:32:29.000Z"
   },
@@ -2609,11 +2863,17 @@
         "computer vision",
         "machine learning"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T18:45:47.291Z"
   },
@@ -2657,11 +2917,20 @@
         "spark",
         "tensorflow"
       ],
+      "nice_to_have_skills": [
+        "airflow",
+        "unity"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "phd",
+      "experience_level_from_desc": null,
+      "question_count": 15,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T18:10:53.000Z"
   },
@@ -2705,11 +2974,20 @@
         "spark",
         "tensorflow"
       ],
+      "nice_to_have_skills": [
+        "airflow",
+        "unity"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "phd",
+      "experience_level_from_desc": null,
+      "question_count": 15,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T18:10:53.000Z"
   },
@@ -2753,11 +3031,20 @@
         "spark",
         "tensorflow"
       ],
+      "nice_to_have_skills": [
+        "airflow",
+        "unity"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "phd",
+      "experience_level_from_desc": null,
+      "question_count": 15,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T18:10:52.000Z"
   },
@@ -2820,11 +3107,17 @@
         "system design",
         "transformers"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": 1,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T18:02:43.935Z"
   },
@@ -2867,11 +3160,17 @@
         "salesforce",
         "scalability"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": 18,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T17:41:57.000Z"
   },
@@ -2922,11 +3221,17 @@
         "reporting",
         "sql"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": true,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 24,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T16:16:55.767Z"
   },
@@ -2966,11 +3271,17 @@
         "snowflake",
         "sql"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 2,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T15:46:48.267Z"
   },
@@ -3013,11 +3324,17 @@
         "mcp",
         "statistics"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": true
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 1,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T15:19:25.241Z"
   },
@@ -3078,11 +3395,17 @@
         "reporting",
         "tensorflow"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 16,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T14:31:44.000Z"
   },
@@ -3123,11 +3446,17 @@
         "computer vision",
         "machine learning"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T04:21:00.863Z"
   },
@@ -3172,11 +3501,23 @@
         "scala",
         "sql"
       ],
+      "nice_to_have_skills": [
+        "aws",
+        "iam",
+        "lambda",
+        "redshift",
+        "s3"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T00:00:00.000Z"
   },
@@ -3221,11 +3562,17 @@
         "java",
         "perl"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T00:00:00.000Z"
   },
@@ -3268,11 +3615,17 @@
         "llm",
         "machine learning"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-07T23:57:53.834Z"
   },
@@ -3329,11 +3682,32 @@
         "snowflake",
         "sql"
       ],
+      "nice_to_have_skills": [
+        "apache spark",
+        "cloudformation",
+        "docker",
+        "google cloud",
+        "hris",
+        "kubernetes",
+        "looker",
+        "oracle",
+        "power bi",
+        "reporting",
+        "spark",
+        "tableau",
+        "terraform",
+        "workday"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 21,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-07T23:45:49.381Z"
   },
@@ -3390,11 +3764,32 @@
         "snowflake",
         "sql"
       ],
+      "nice_to_have_skills": [
+        "apache spark",
+        "cloudformation",
+        "docker",
+        "google cloud",
+        "hris",
+        "kubernetes",
+        "looker",
+        "oracle",
+        "power bi",
+        "reporting",
+        "spark",
+        "tableau",
+        "terraform",
+        "workday"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 21,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-07T23:45:49.381Z"
   },
@@ -3439,11 +3834,17 @@
         "ray",
         "spark"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 15,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-07T22:45:56.166Z"
   },
@@ -3483,11 +3884,17 @@
         "generative ai",
         "llm"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-07T22:42:00.696Z"
   },
@@ -3502,7 +3909,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864459",
     "job_posted_at_datetime_utc": "2026-05-07T21:51:49.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5b61cc0638fa83b88eefbc4bb8b4fd54bc2dfdeaabf7970e3a0d18149060b122",
     "tags": {
@@ -3529,11 +3936,17 @@
         "machine learning",
         "statistics"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-07T21:51:49.000Z"
   },
@@ -3574,11 +3987,17 @@
         "data science",
         "machine learning"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-07T21:46:23.094Z"
   },
@@ -3616,11 +4035,17 @@
         "analytics",
         "change management"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-07T20:12:44.232Z"
   },
@@ -3660,11 +4085,17 @@
       "required_skills": [
         "analytics"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-07T19:37:29.911Z"
   },
@@ -3712,11 +4143,17 @@
         "routing",
         "sql"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": true,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 20,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-07T18:16:13.000Z"
   },
@@ -3758,11 +4195,17 @@
         "llm",
         "machine learning"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-07T17:42:36.589Z"
   },
@@ -3813,11 +4256,17 @@
         "statistics",
         "tableau"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 27,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-07T16:31:12.000Z"
   },
@@ -3863,11 +4312,17 @@
         "machine learning",
         "scalability"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-07T16:14:07.374Z"
   },
@@ -3906,11 +4361,17 @@
       "required_skills": [
         "data science"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-07T14:47:59.879Z"
   },
@@ -3952,11 +4413,21 @@
         "gcp",
         "sql"
       ],
+      "nice_to_have_skills": [
+        "google cloud",
+        "google cloud platform",
+        "reporting"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": 13,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-07T13:55:18.000Z"
   },
@@ -4001,11 +4472,17 @@
         "risk management",
         "sql"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": true
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 17,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-07T12:31:37.459Z"
   },
@@ -4046,11 +4523,17 @@
         "reporting",
         "sql"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": true
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": 3,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-07T10:09:46.457Z"
   },
@@ -4094,11 +4577,17 @@
         "multimodal",
         "natural language processing"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-07T01:01:35.798Z"
   },
@@ -4143,11 +4632,17 @@
         "java",
         "perl"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-07T00:00:00.000Z"
   },
@@ -4192,11 +4687,20 @@
         "r",
         "sql"
       ],
+      "nice_to_have_skills": [
+        "genai",
+        "perl"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "masters",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-07T00:00:00.000Z"
   },
@@ -4234,11 +4738,17 @@
     "_original_source": "apple",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T22:18:01.196Z"
   },
@@ -4295,11 +4805,17 @@
         "scalability",
         "transformers"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": true
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 23,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T22:01:32.977Z"
   },
@@ -4337,11 +4853,17 @@
     "_original_source": "apple",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T21:57:30.767Z"
   },
@@ -4412,11 +4934,17 @@
       "required_skills": [
         "data science"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T20:43:44.269Z"
   },
@@ -4470,11 +4998,17 @@
         "sql",
         "supervised learning"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": true
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 20,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T20:11:37.679Z"
   },
@@ -4725,11 +5259,17 @@
         "jira",
         "reporting"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T20:07:39.278Z"
   },
@@ -4799,13 +5339,49 @@
         "program management",
         "tableau"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T20:07:30.228Z"
+  },
+  {
+    "job_id": "workday-guidehouse-39095",
+    "job_title": "Data Engineer",
+    "employer_name": "Guidehouse",
+    "job_city": "MD, Aberdeen",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US - MD, Aberdeen",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Aberdeen/Data-Engineer_39095",
+    "job_posted_at_datetime_utc": "2026-05-06T20:07:01.395Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3628bbc43e3eec611529e6fa806e287f26ca3e609f165fd56f0f06313aeeadd2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:07:01.395Z"
   },
   {
     "job_id": "workday-guidehouse-38581",
@@ -4844,42 +5420,18 @@
         "r",
         "reporting"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
-    "job_posted_at": "2026-05-06T20:07:01.395Z"
-  },
-  {
-    "job_id": "workday-guidehouse-39095",
-    "job_title": "Data Engineer",
-    "employer_name": "Guidehouse",
-    "job_city": "MD, Aberdeen",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US - MD, Aberdeen",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Aberdeen/Data-Engineer_39095",
-    "job_posted_at_datetime_utc": "2026-05-06T20:07:01.395Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3628bbc43e3eec611529e6fa806e287f26ca3e609f165fd56f0f06313aeeadd2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
     "job_posted_at": "2026-05-06T20:07:01.395Z"
   },
   {
@@ -5052,11 +5604,17 @@
         "tensorflow",
         "unsupervised learning"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T20:05:48.509Z"
   },
@@ -5251,11 +5809,17 @@
         "python",
         "sql"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T20:05:48.508Z"
   },
@@ -5479,11 +6043,17 @@
       "required_skills": [
         "excel"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 15,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T16:16:43.676Z"
   },
@@ -5526,11 +6096,17 @@
         "reporting",
         "statistics"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T13:54:49.000Z"
   },
@@ -5566,11 +6142,17 @@
     "_original_source": "google",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "masters",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T11:47:15.586Z"
   },
@@ -5605,51 +6187,19 @@
     "_original_source": "simplify",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T11:31:20.923Z"
-  },
-  {
-    "job_id": "simplify-4c9bab09-16cf-4d9a-a679-a8263a8d1b74",
-    "job_title": "Client Data Analyst",
-    "employer_name": "JP Morgan Chase",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740918",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "206e8d78f28c2976599086874c0625cc1ade088db53c046a9f4c4f6ea6156a27",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-06T11:31:20.571Z"
   },
   {
     "job_id": "simplify-0ac266eb-5e2b-4207-afed-bffe81fd1d2b",
@@ -5681,28 +6231,34 @@
     "_original_source": "simplify",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T11:31:20.571Z"
   },
   {
-    "job_id": "simplify-5a05b3b2-2805-4fa2-9f98-6346f0932a5d",
-    "job_title": "Marketing Analytics - Data Analyst - Adp",
-    "employer_name": "Veeva Systems",
+    "job_id": "simplify-4c9bab09-16cf-4d9a-a679-a8263a8d1b74",
+    "job_title": "Client Data Analyst",
+    "employer_name": "JP Morgan Chase",
     "job_city": "United States",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "United States",
-    "job_apply_link": "https://jobs.lever.co/veeva/28c47d34-3ad6-4485-85a9-686b4239b9ea/apply",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740918",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "49f51869c2f18ce0b5d91a8ee8c2499c9363e4e81e22ac8f988d5f19883e17ad",
+    "fingerprint": "206e8d78f28c2976599086874c0625cc1ade088db53c046a9f4c4f6ea6156a27",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -5719,13 +6275,19 @@
     "_original_source": "simplify",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
-    "job_posted_at": "2026-05-06T11:31:20.570Z"
+    "job_posted_at": "2026-05-06T11:31:20.571Z"
   },
   {
     "job_id": "simplify-2c8a8540-5e12-4c83-8a05-c9ef56450081",
@@ -5758,11 +6320,17 @@
     "_original_source": "simplify",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T11:31:20.570Z"
   },
@@ -5797,11 +6365,17 @@
     "_original_source": "simplify",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T11:31:20.570Z"
   },
@@ -5836,11 +6410,17 @@
     "_original_source": "simplify",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T11:31:20.570Z"
   },
@@ -5875,11 +6455,61 @@
     "_original_source": "simplify",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T11:31:20.570Z"
+  },
+  {
+    "job_id": "simplify-5a05b3b2-2805-4fa2-9f98-6346f0932a5d",
+    "job_title": "Marketing Analytics - Data Analyst - Adp",
+    "employer_name": "Veeva Systems",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://jobs.lever.co/veeva/28c47d34-3ad6-4485-85a9-686b4239b9ea/apply",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "49f51869c2f18ce0b5d91a8ee8c2499c9363e4e81e22ac8f988d5f19883e17ad",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T11:31:20.570Z"
   },
@@ -5922,11 +6552,23 @@
         "machine learning",
         "python"
       ],
+      "nice_to_have_skills": [
+        "computer science",
+        "deep learning",
+        "robotics",
+        "statistical analysis",
+        "statistics"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "masters",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T00:00:00.000Z"
   },
@@ -5969,11 +6611,21 @@
         "r",
         "statistics"
       ],
+      "nice_to_have_skills": [
+        "Natural Language Processing",
+        "classification",
+        "regression"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "masters",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T00:00:00.000Z"
   },
@@ -6017,11 +6669,26 @@
         "machine learning",
         "python"
       ],
+      "nice_to_have_skills": [
+        "agentic",
+        "computer science",
+        "data science",
+        "fine-tuning",
+        "llm",
+        "prompt engineering",
+        "rag",
+        "statistics"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "masters",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T00:00:00.000Z"
   },
@@ -6057,11 +6724,17 @@
     "_original_source": "eightfold",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "masters",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T00:00:00.000Z"
   },
@@ -6104,11 +6777,19 @@
         "six sigma",
         "sql"
       ],
+      "nice_to_have_skills": [
+        "lean six sigma"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 12,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T20:57:00.000Z"
   },
@@ -6151,11 +6832,19 @@
         "six sigma",
         "sql"
       ],
+      "nice_to_have_skills": [
+        "lean six sigma"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 12,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T20:56:59.000Z"
   },
@@ -6198,11 +6887,19 @@
         "six sigma",
         "sql"
       ],
+      "nice_to_have_skills": [
+        "lean six sigma"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 12,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T20:56:58.000Z"
   },
@@ -6245,11 +6942,19 @@
         "six sigma",
         "sql"
       ],
+      "nice_to_have_skills": [
+        "lean six sigma"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 12,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T20:56:57.000Z"
   },
@@ -6298,11 +7003,17 @@
         "statistics",
         "svn"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T20:07:39.278Z"
   },
@@ -6358,11 +7069,17 @@
         "statistics",
         "windows"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T20:07:39.278Z"
   },
@@ -6410,11 +7127,17 @@
         "statistics",
         "terraform"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T20:07:01.396Z"
   },
@@ -6462,11 +7185,17 @@
         "statistical analysis",
         "tableau"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T20:07:01.395Z"
   },
@@ -6509,11 +7238,17 @@
         "reporting",
         "sql"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T20:06:52.338Z"
   },
@@ -6551,11 +7286,17 @@
         "computer science",
         "python"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T20:05:40.077Z"
   },
@@ -6603,11 +7344,17 @@
         "reinforcement learning",
         "scalability"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T20:05:17.438Z"
   },
@@ -6661,11 +7408,17 @@
         "statistics",
         "tableau"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T20:03:17.419Z"
   },
@@ -6725,11 +7478,17 @@
         "sql",
         "terraform"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T19:47:27.760Z"
   },
@@ -6774,11 +7533,34 @@
         "transformers",
         "xgboost"
       ],
+      "nice_to_have_skills": [
+        "agentic",
+        "airflow",
+        "bigquery",
+        "computer science",
+        "distributed systems",
+        "embedding",
+        "feature engineering",
+        "fine-tuning",
+        "kafka",
+        "llm",
+        "multimodal",
+        "rag",
+        "ray",
+        "real-time systems",
+        "redis",
+        "spark"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": true
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 13,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T19:46:57.812Z"
   },
@@ -6827,11 +7609,17 @@
         "statistics",
         "tableau"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T19:32:51.024Z"
   },
@@ -6891,11 +7679,17 @@
         "sql",
         "terraform"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T19:32:21.053Z"
   },
@@ -6955,11 +7749,17 @@
         "sql",
         "terraform"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T19:32:21.053Z"
   },
@@ -6999,11 +7799,17 @@
         "machine learning",
         "natural language processing"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T19:32:21.053Z"
   },
@@ -7044,11 +7850,17 @@
         "machine learning",
         "natural language processing"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T19:32:21.053Z"
   },
@@ -7089,11 +7901,20 @@
         "python",
         "pytorch"
       ],
+      "nice_to_have_skills": [
+        "fine-tuning",
+        "reporting"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 17,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T19:31:45.340Z"
   },
@@ -7130,11 +7951,17 @@
         "data analysis",
         "process improvement"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T19:17:39.675Z"
   },
@@ -7183,11 +8010,17 @@
         "sql",
         "statistics"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T19:02:13.112Z"
   },
@@ -7258,11 +8091,17 @@
         "sqs",
         "unix"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T18:47:38.651Z"
   },
@@ -7309,11 +8148,17 @@
         "tableau",
         "vba"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T18:32:26.476Z"
   },
@@ -7365,11 +8210,17 @@
         "statistical analysis",
         "tableau"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T18:32:26.476Z"
   },
@@ -7434,11 +8285,17 @@
         "sql",
         "unix"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T18:17:14.379Z"
   },
@@ -7476,11 +8333,25 @@
         "llm",
         "transformers"
       ],
+      "nice_to_have_skills": [
+        "agentic",
+        "analytics",
+        "fine-tuning",
+        "langchain",
+        "llamaindex",
+        "salesforce",
+        "spark"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T18:03:44.000Z"
   },
@@ -7517,11 +8388,17 @@
         "radar",
         "reporting"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T17:47:49.468Z"
   },
@@ -7567,11 +8444,17 @@
         "red hat",
         "scalability"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T17:33:22.778Z"
   },
@@ -7619,11 +8502,17 @@
         "python",
         "workday"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T17:19:31.052Z"
   },
@@ -7664,11 +8553,17 @@
         "python",
         "sql"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 11,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T16:58:58.756Z"
   },
@@ -7718,11 +8613,17 @@
         "spark",
         "sql"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T16:47:24.420Z"
   },
@@ -7767,11 +8668,17 @@
         "ray",
         "scala"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 3,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T16:46:32.904Z"
   },
@@ -7821,11 +8728,17 @@
         "statistics",
         "tableau"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T16:32:32.935Z"
   },
@@ -7864,11 +8777,17 @@
         "python",
         "statistics"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": 17,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T16:23:05.000Z"
   },
@@ -7913,11 +8832,17 @@
         "statistics",
         "system design"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T15:52:46.012Z"
   },
@@ -7965,11 +8890,17 @@
         "statistics",
         "tensorflow"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 14,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T15:49:23.000Z"
   },
@@ -8015,11 +8946,17 @@
         "statistics",
         "supervised learning"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T15:40:29.318Z"
   },
@@ -8053,11 +8990,17 @@
     "_original_source": "workday",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "masters",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T15:32:00.798Z"
   },
@@ -8112,11 +9055,17 @@
         "spark",
         "sql"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T15:21:47.440Z"
   },
@@ -8167,11 +9116,17 @@
         "statistics",
         "tableau"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T15:04:15.356Z"
   },
@@ -8217,11 +9172,17 @@
         "program management",
         "project management"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T14:50:55.195Z"
   },
@@ -8277,11 +9238,17 @@
         "statistics",
         "tensorflow"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T14:47:28.887Z"
   },
@@ -8322,11 +9289,17 @@
         "nist",
         "risk management"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T14:47:28.887Z"
   },
@@ -8383,11 +9356,17 @@
         "signal processing",
         "tensorflow"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T14:47:28.887Z"
   },
@@ -8445,11 +9424,17 @@
         "sql",
         "unix"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T14:17:42.676Z"
   },
@@ -8484,11 +9469,17 @@
     "_original_source": "simplify",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T14:08:22.000Z"
   },
@@ -8526,11 +9517,17 @@
         "machine learning",
         "microsoft office"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T14:05:16.078Z"
   },
@@ -8568,11 +9565,17 @@
     "_original_source": "apple",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T12:42:30.891Z"
   },
@@ -8623,11 +9626,17 @@
         "python",
         "sql"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": true
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T11:20:54.315Z"
   },
@@ -8668,11 +9677,17 @@
         "sql",
         "teamcenter"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 18,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T03:23:55.000Z"
   },
@@ -8709,11 +9724,17 @@
       "required_skills": [
         "data science"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T00:00:02.031Z"
   },
@@ -8760,11 +9781,28 @@
         "scala",
         "sql"
       ],
+      "nice_to_have_skills": [
+        "analytics",
+        "aws",
+        "hadoop",
+        "hive",
+        "iam",
+        "lambda",
+        "reporting",
+        "s3",
+        "spark",
+        "tableau"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
@@ -8809,11 +9847,27 @@
         "scala",
         "sql"
       ],
+      "nice_to_have_skills": [
+        "aws",
+        "business intelligence",
+        "data warehouse",
+        "hadoop",
+        "iam",
+        "lambda",
+        "redshift",
+        "reporting",
+        "s3"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
@@ -8853,11 +9907,20 @@
         "design patterns",
         "java"
       ],
+      "nice_to_have_skills": [
+        "computer science",
+        "firmware"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
@@ -8901,11 +9964,20 @@
         "r",
         "sql"
       ],
+      "nice_to_have_skills": [
+        "genai",
+        "perl"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "masters",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
@@ -8949,11 +10021,19 @@
         "r",
         "sql"
       ],
+      "nice_to_have_skills": [
+        "genai"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "masters",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
@@ -8997,11 +10077,19 @@
         "r",
         "sql"
       ],
+      "nice_to_have_skills": [
+        "perl"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
@@ -9045,11 +10133,19 @@
         "r",
         "sql"
       ],
+      "nice_to_have_skills": [
+        "perl"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
@@ -9089,11 +10185,17 @@
       "required_skills": [
         "performance testing"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
@@ -9136,11 +10238,38 @@
         "scala",
         "sql"
       ],
+      "nice_to_have_skills": [
+        "amazon web services",
+        "analytics",
+        "api",
+        "aws",
+        "cloudwatch",
+        "data lake",
+        "data quality",
+        "data science",
+        "data warehouse",
+        "elt",
+        "encryption",
+        "genai",
+        "lambda",
+        "python",
+        "redshift",
+        "s3",
+        "sagemaker",
+        "sns",
+        "spark",
+        "sqs"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
@@ -9176,11 +10305,17 @@
     "_original_source": "simplify",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T23:01:51.186Z"
   },
@@ -9220,11 +10355,17 @@
         "excel",
         "program management"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T22:08:00.000Z"
   },
@@ -9263,11 +10404,17 @@
     "_original_source": "apple",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T21:01:34.324Z"
   },
@@ -9319,11 +10466,17 @@
         "snowflake",
         "sql"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T20:09:05.646Z"
   },
@@ -9369,11 +10522,17 @@
         "reporting",
         "scrum"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T20:07:01.396Z"
   },
@@ -9434,11 +10593,17 @@
         "statistics",
         "tensorflow"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "associates",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T19:44:45.956Z"
   },
@@ -9492,11 +10657,17 @@
         "statistics",
         "tableau"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T19:44:23.681Z"
   },
@@ -9534,11 +10705,17 @@
     "_original_source": "apple",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T19:25:14.340Z"
   },
@@ -9587,11 +10764,17 @@
         "statistics",
         "tableau"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T19:09:55.767Z"
   },
@@ -9637,11 +10820,17 @@
         "reinforcement learning",
         "statistics"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T17:39:06.593Z"
   },
@@ -9685,11 +10874,17 @@
         "scalability",
         "system design"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 12,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T17:35:21.000Z"
   },
@@ -9738,11 +10933,17 @@
         "scalability",
         "sql"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": 12,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T17:31:27.000Z"
   },
@@ -9784,11 +10985,17 @@
         "radar",
         "reporting"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T16:04:50.333Z"
   },
@@ -9828,11 +11035,17 @@
         "data analysis",
         "reporting"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T15:52:23.698Z"
   },
@@ -9870,11 +11083,17 @@
         "change management",
         "process improvement"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T15:31:55.317Z"
   },
@@ -9912,11 +11131,17 @@
         "information security",
         "reporting"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "associates",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T15:05:40.891Z"
   },
@@ -9965,11 +11190,17 @@
         "risk management",
         "statistics"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "masters",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T14:18:30.955Z"
   },
@@ -10008,11 +11239,17 @@
     "_original_source": "apple",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T13:17:56.037Z"
   },
@@ -10072,11 +11309,17 @@
         "spark",
         "sql"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T10:18:05.682Z"
   },
@@ -10117,11 +11360,17 @@
         "reporting",
         "statistics"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T10:18:05.682Z"
   },
@@ -10172,11 +11421,17 @@
         "tableau",
         "tensorflow"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T10:18:05.682Z"
   },
@@ -10214,11 +11469,17 @@
         "data governance",
         "go"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T09:31:48.492Z"
   },
@@ -10264,11 +11525,17 @@
         "reporting",
         "scrum"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T09:31:48.492Z"
   },
@@ -10324,11 +11591,17 @@
         "ray",
         "spring"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T09:17:10.934Z"
   },
@@ -10377,11 +11650,17 @@
         "sap",
         "sql"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T09:17:10.934Z"
   },
@@ -10437,11 +11716,17 @@
         "python",
         "spark"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T08:47:38.288Z"
   },
@@ -10479,11 +11764,17 @@
         "reporting",
         "vpn"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T07:02:20.596Z"
   },
@@ -10536,11 +11827,17 @@
         "terraform",
         "waterfall"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T07:02:20.596Z"
   },
@@ -10595,11 +11892,17 @@
         "spark",
         "tableau"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T07:02:20.596Z"
   },
@@ -10637,11 +11940,17 @@
         "change management",
         "process improvement"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T07:02:20.595Z"
   },
@@ -10693,11 +12002,17 @@
         "tensorflow",
         "unsupervised learning"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T07:02:20.595Z"
   },
@@ -10742,11 +12057,17 @@
         "pyspark",
         "unity"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T07:02:20.595Z"
   },
@@ -10791,11 +12112,17 @@
         "pyspark",
         "unity"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T07:02:20.595Z"
   },
@@ -10835,11 +12162,17 @@
         "google cloud",
         "machine learning"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T07:02:20.595Z"
   },
@@ -10896,11 +12229,17 @@
         "spark",
         "system design"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T07:02:18.824Z"
   },
@@ -10974,11 +12313,17 @@
         "vault",
         "workday"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T07:02:12.538Z"
   },
@@ -11020,11 +12365,17 @@
         "reporting",
         "sap"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T07:02:11.692Z"
   },
@@ -11066,13 +12417,78 @@
         "reporting",
         "sap"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T07:02:11.692Z"
+  },
+  {
+    "job_id": "workday-capital-one-R241726",
+    "job_title": "Manager, Data Scientist - Credit Review",
+    "employer_name": "Capital One",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "McLean, VA + 5 more",
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist---Credit-Review_R241726-1",
+    "job_posted_at_datetime_utc": "2026-05-04T07:02:08.882Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6fb310e480c94c510aee65698ae00c54a1e495b9cb4930065912a2ce1c3c1b5c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "classification",
+        "computer science",
+        "data analysis",
+        "data science",
+        "deep learning",
+        "machine learning",
+        "python",
+        "r",
+        "risk management",
+        "scala",
+        "spark",
+        "statistics"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-04T07:02:08.882Z"
   },
   {
     "job_id": "workday-capital-one-R239958",
@@ -11126,64 +12542,17 @@
         "sql",
         "statistics"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-04T07:02:08.882Z"
-  },
-  {
-    "job_id": "workday-capital-one-R241726",
-    "job_title": "Manager, Data Scientist - Credit Review",
-    "employer_name": "Capital One",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "McLean, VA + 5 more",
-    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist---Credit-Review_R241726-1",
-    "job_posted_at_datetime_utc": "2026-05-04T07:02:08.882Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6fb310e480c94c510aee65698ae00c54a1e495b9cb4930065912a2ce1c3c1b5c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "classification",
-        "computer science",
-        "data analysis",
-        "data science",
-        "deep learning",
-        "machine learning",
-        "python",
-        "r",
-        "risk management",
-        "scala",
-        "spark",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T07:02:08.882Z"
   },
@@ -11221,11 +12590,17 @@
         "data science",
         "forecasting"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T03:16:36.706Z"
   },
@@ -11268,11 +12643,27 @@
         "etl",
         "statistics"
       ],
+      "nice_to_have_skills": [
+        "analytics",
+        "aws",
+        "hadoop",
+        "hive",
+        "oracle",
+        "redshift",
+        "reporting",
+        "spark",
+        "tableau"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T00:00:00.000Z"
   },
@@ -11314,11 +12705,19 @@
         "machine learning",
         "python"
       ],
+      "nice_to_have_skills": [
+        "deep learning"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "masters",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T00:00:00.000Z"
   },
@@ -11361,11 +12760,23 @@
         "machine learning",
         "python"
       ],
+      "nice_to_have_skills": [
+        "Natural Language Processing",
+        "agentic",
+        "agents",
+        "amazon web services",
+        "aws"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "phd",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T00:00:00.000Z"
   },
@@ -11406,11 +12817,21 @@
         "java",
         "python"
       ],
+      "nice_to_have_skills": [
+        "linux",
+        "r",
+        "unix"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "masters",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T00:00:00.000Z"
   },
@@ -11451,11 +12872,17 @@
         "machine learning",
         "reinforcement learning"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-03T13:38:58.097Z"
   },
@@ -11492,11 +12919,17 @@
     "_original_source": "google",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-03T09:11:43.838Z"
   },
@@ -11532,11 +12965,17 @@
     "_original_source": "google",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "masters",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-03T09:11:43.838Z"
   },
@@ -11572,11 +13011,17 @@
     "_original_source": "google",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-03T09:11:43.838Z"
   },
@@ -11613,11 +13058,17 @@
     "_original_source": "google",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "masters",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-03T09:11:43.838Z"
   },
@@ -11652,11 +13103,17 @@
     "_original_source": "simplify",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T13:35:12.432Z"
   },
@@ -11693,11 +13150,24 @@
         "computer science",
         "data science"
       ],
+      "nice_to_have_skills": [
+        "analytics",
+        "forecasting",
+        "kubernetes",
+        "machine learning",
+        "neural network",
+        "python"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 16,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T13:31:02.772Z"
   },
@@ -11742,11 +13212,17 @@
         "robotics",
         "tensorflow"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 16,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T13:31:01.782Z"
   },
@@ -11790,11 +13266,17 @@
         "pytorch",
         "tensorflow"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 20,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T13:31:00.888Z"
   },
@@ -11834,11 +13316,22 @@
         "sql",
         "statistics"
       ],
+      "nice_to_have_skills": [
+        "analytics",
+        "data analysis",
+        "data science",
+        "data visualization"
+      ],
       "sponsors_visa": false,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": 22,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T13:31:00.053Z"
   },
@@ -11887,11 +13380,17 @@
         "sql",
         "tableau"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 27,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T13:30:59.638Z"
   },
@@ -11934,11 +13433,21 @@
         "reporting",
         "sql"
       ],
+      "nice_to_have_skills": [
+        "dbt",
+        "git",
+        "python"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": 12,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T13:30:56.963Z"
   },
@@ -11981,11 +13490,21 @@
         "reporting",
         "sql"
       ],
+      "nice_to_have_skills": [
+        "dbt",
+        "git",
+        "python"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": 12,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T13:30:56.963Z"
   },
@@ -12028,11 +13547,21 @@
         "reporting",
         "sql"
       ],
+      "nice_to_have_skills": [
+        "dbt",
+        "git",
+        "python"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": 12,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T13:30:56.963Z"
   },
@@ -12075,11 +13604,21 @@
         "reporting",
         "sql"
       ],
+      "nice_to_have_skills": [
+        "dbt",
+        "git",
+        "python"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": 12,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T13:30:56.963Z"
   },
@@ -12117,11 +13656,17 @@
       "required_skills": [
         "vendor management"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": true
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 12,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T13:30:50.227Z"
   },
@@ -12167,11 +13712,17 @@
         "scipy",
         "statistics"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "phd",
+      "experience_level_from_desc": null,
+      "question_count": 9,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T13:30:49.367Z"
   },
@@ -12209,11 +13760,17 @@
         "data analysis",
         "statistics"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 9,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T13:30:49.367Z"
   },
@@ -12258,11 +13815,17 @@
         "sql",
         "statistics"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 3,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T13:30:47.510Z"
   },
@@ -12315,11 +13878,17 @@
         "statistics",
         "tableau"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 1,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T13:30:46.245Z"
   },
@@ -12367,11 +13936,17 @@
         "spark",
         "sql"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": null,
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T05:59:05.654Z"
   },
@@ -12418,11 +13993,19 @@
         "reporting",
         "sql"
       ],
+      "nice_to_have_skills": [
+        "analytics"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 12,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T00:17:52.402Z"
   },
@@ -12469,11 +14052,19 @@
         "reporting",
         "sql"
       ],
+      "nice_to_have_skills": [
+        "analytics"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 12,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T00:17:52.402Z"
   },
@@ -12520,11 +14111,19 @@
         "reporting",
         "sql"
       ],
+      "nice_to_have_skills": [
+        "analytics"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 12,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T00:17:52.402Z"
   },
@@ -12571,11 +14170,19 @@
         "reporting",
         "sql"
       ],
+      "nice_to_have_skills": [
+        "analytics"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 12,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T00:17:52.402Z"
   },
@@ -12623,11 +14230,17 @@
         "spark",
         "statistics"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 15,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T00:17:43.042Z"
   },
@@ -12671,11 +14284,17 @@
         "sql",
         "tableau"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-01T22:43:53.377Z"
   }
