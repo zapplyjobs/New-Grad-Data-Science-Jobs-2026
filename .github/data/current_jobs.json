@@ -1,5 +1,67 @@
 [
   {
+    "job_id": "greenhouse-andurilindustries-4918732007",
+    "job_title": "People Data Analytics Engineer",
+    "employer_name": "Anduril",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Boston, Massachusetts, United States",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4918732007?gh_jid=4918732007",
+    "job_posted_at_datetime_utc": "2026-05-07T23:45:49.381Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1217ab865e34f25f330cf801a64fcc55fb9bcde6954f611ba37d795d4da8420c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "operations",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-07T23:45:49.381Z"
+  },
+  {
+    "job_id": "greenhouse-andurilindustries-4859842007",
+    "job_title": "People Data Analytics Engineer",
+    "employer_name": "Anduril",
+    "job_city": "Costa Mesa",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Costa Mesa, California, United States",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4859842007?gh_jid=4859842007",
+    "job_posted_at_datetime_utc": "2026-05-07T23:45:49.381Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "799fcfe17091455c0429e2a65d462c576c35deec37e36f9528d4dc32d2dc6f7f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "operations",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-07T23:45:49.381Z"
+  },
+  {
     "job_id": "greenhouse-biohub-7793658",
     "job_title": "Machine Learning Engineer, AI",
     "employer_name": "Chan Zuckerberg Biohub",
@@ -1175,19 +1237,19 @@
     "job_posted_at": "2026-05-06T11:31:20.923Z"
   },
   {
-    "job_id": "simplify-0ac266eb-5e2b-4207-afed-bffe81fd1d2b",
-    "job_title": "Data Visualization Associate",
+    "job_id": "simplify-4c9bab09-16cf-4d9a-a679-a8263a8d1b74",
+    "job_title": "Client Data Analyst",
     "employer_name": "JP Morgan Chase",
     "job_city": "United States",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706210",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740918",
     "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "f3d89e94710fe1a2516b022d0082289441b8217daf0bf7da1e19a825a5a6f4a6",
+    "fingerprint": "206e8d78f28c2976599086874c0625cc1ade088db53c046a9f4c4f6ea6156a27",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -1213,19 +1275,19 @@
     "job_posted_at": "2026-05-06T11:31:20.571Z"
   },
   {
-    "job_id": "simplify-4c9bab09-16cf-4d9a-a679-a8263a8d1b74",
-    "job_title": "Client Data Analyst",
+    "job_id": "simplify-0ac266eb-5e2b-4207-afed-bffe81fd1d2b",
+    "job_title": "Data Visualization Associate",
     "employer_name": "JP Morgan Chase",
     "job_city": "United States",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740918",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706210",
     "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "206e8d78f28c2976599086874c0625cc1ade088db53c046a9f4c4f6ea6156a27",
+    "fingerprint": "f3d89e94710fe1a2516b022d0082289441b8217daf0bf7da1e19a825a5a6f4a6",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6918,6 +6980,52 @@
     "job_posted_at": "2026-05-04T00:00:00.000Z"
   },
   {
+    "job_id": "amazon-f339852a-0ada-4e8a-9b8e-dc1683cef08f",
+    "job_title": "Applied Scientist, Customer Behavior Analytics",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Seattle, WA",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10410096/applied-scientist-customer-behavior-analytics",
+    "job_posted_at_datetime_utc": "2026-05-04T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c44d449ddd203e9cecc0f53ef9db2a5beb4f4101b5b266ef893fdb22e3a54962",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "java",
+        "machine learning",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-04T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-3b1c6303-b2e5-4afa-b5f7-3e7711cedd07",
     "job_title": "Applied Scientist, AWS Marketplace & Partner Services",
     "employer_name": "Amazon Web Services, Inc.",
@@ -6952,52 +7060,6 @@
       "required_skills": [
         "c++",
         "computer science",
-        "java",
-        "machine learning",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-04T00:00:00.000Z"
-  },
-  {
-    "job_id": "amazon-f339852a-0ada-4e8a-9b8e-dc1683cef08f",
-    "job_title": "Applied Scientist, Customer Behavior Analytics",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Seattle, WA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10410096/applied-scientist-customer-behavior-analytics",
-    "job_posted_at_datetime_utc": "2026-05-04T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c44d449ddd203e9cecc0f53ef9db2a5beb4f4101b5b266ef893fdb22e3a54962",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "c++",
         "java",
         "machine learning",
         "python"
@@ -10738,281 +10800,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-05-01T00:09:27.317Z"
-  },
-  {
-    "job_id": "sr-AbbVie-3743990012916995",
-    "job_title": "SAP Security Business Systems Consultant",
-    "employer_name": "AbbVie",
-    "job_city": "North Chicago",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "North Chicago, IL",
-    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990012916995",
-    "job_posted_at_datetime_utc": "2026-05-01T00:00:07.320Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "e2a575cbbc8c805387b76c9d121adc792a44c6075de22ae2bf9ed55cf0abddea",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "enrichment": {
-      "required_skills": [
-        "change management",
-        "cybersecurity",
-        "process improvement",
-        "sap",
-        "servicenow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T00:00:07.320Z"
-  },
-  {
-    "job_id": "amazon-0def1fdd-6382-4960-b4ea-de52b9905fc9",
-    "job_title": "C/C++ Hardware / Software Co-Design SDE, Machine Learning Acceleration Systems",
-    "employer_name": "Annapurna Labs (U.S.) Inc.",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Cupertino, CA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10409017/c-c-hardware-software-co-design-sde-machine-learning-acceleration-systems",
-    "job_posted_at_datetime_utc": "2026-05-01T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "aa6865e2351cb48158f219b0da159f7626281fb8acdb6870ea91a1781261beb9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "c#",
-        "c++",
-        "design patterns",
-        "java"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T00:00:00.000Z"
-  },
-  {
-    "job_id": "amazon-24e7cdc5-6e9f-420c-8637-9e5daefc35f0",
-    "job_title": "Applied Scientist, Speed + AI",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Bellevue, WA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10408753/applied-scientist-speed-ai",
-    "job_posted_at_datetime_utc": "2026-05-01T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4fc33f49f2469fd25c7dc87298e2b02709cc8a7cf403b5d3603fdc64e72bf3da",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "data warehouse",
-        "java",
-        "oracle",
-        "python",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T00:00:00.000Z"
-  },
-  {
-    "job_id": "amazon-e4047a27-a873-4b2c-a6e4-c8ee5f023878",
-    "job_title": "Applied Science Manager, Sponsored Products",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, NY",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10408559/applied-science-manager-sponsored-products",
-    "job_posted_at_datetime_utc": "2026-05-01T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6984d35a1764af070e4865306f39a4b4efb05c109ac764fc6aa713270c309959",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "data science",
-        "generative ai",
-        "machine learning",
-        "reinforcement learning",
-        "statistical analysis"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-01T00:00:00.000Z"
-  },
-  {
-    "job_id": "sr-AbbVie-3743990012910042",
-    "job_title": "Manager, Market Access Data Strategy and Business Intelligence",
-    "employer_name": "AbbVie",
-    "job_city": "Mettawa",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Mettawa, IL",
-    "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990012910042",
-    "job_posted_at_datetime_utc": "2026-04-30T23:50:22.471Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "a5ba9e97f046d8916ffa17618c7b1a85ba6806c061e02b1b2809ff9d3c5a1ca0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "business intelligence",
-        "data architecture",
-        "data quality",
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T23:50:22.471Z"
-  },
-  {
-    "job_id": "ashby-eliseai-0fb4a3ab-1472-4180-8f0c-9f898260f3bd",
-    "job_title": "Junior Research Scientist",
-    "employer_name": "EliseAI",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Francisco",
-    "job_apply_link": "https://jobs.ashbyhq.com/eliseai/0fb4a3ab-1472-4180-8f0c-9f898260f3bd/application",
-    "job_posted_at_datetime_utc": "2026-04-30T23:48:52.549Z",
-    "job_employment_type": "full_time",
-    "salary": null,
-    "fingerprint": "d57032692b347ce531450a62a67dc64a596df02f55d15e3b670684df59b72387",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "data modeling",
-        "machine learning",
-        "python",
-        "r",
-        "statistical analysis"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T23:48:52.549Z"
   }
 ]
