@@ -1,5 +1,135 @@
 [
   {
+    "job_id": "greenhouse-unity3d-7906590",
+    "job_title": "Machine Learning Engineer, Offline Infrastructure (Entry-Level / New Grad PhD)",
+    "employer_name": "Unity",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Francisco, CA, USA",
+    "job_apply_link": "https://unity.com/careers/positions/7906590?gh_jid=7906590",
+    "job_posted_at_datetime_utc": "2026-05-08T18:10:53.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cf717f8a3d93a5d55aa4626b2f923ec5b73692068a78192f307e5f84eba78b26",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-08T18:10:53.000Z"
+  },
+  {
+    "job_id": "greenhouse-unity3d-7906593",
+    "job_title": "Machine Learning Engineer, Offline Infrastructure (Entry-Level / New Grad PhD)",
+    "employer_name": "Unity",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bellevue, WA, USA",
+    "job_apply_link": "https://unity.com/careers/positions/7906593?gh_jid=7906593",
+    "job_posted_at_datetime_utc": "2026-05-08T18:10:53.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "757617ea755a3f7c3e1b9398379a2eaa3807d77b97cf707afa1807cc3983a95a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-08T18:10:53.000Z"
+  },
+  {
+    "job_id": "greenhouse-unity3d-7902260",
+    "job_title": "Machine Learning Engineer, Offline Infrastructure (Entry-Level / New Grad PhD)",
+    "employer_name": "Unity",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Mountain View, CA, USA",
+    "job_apply_link": "https://unity.com/careers/positions/7902260?gh_jid=7902260",
+    "job_posted_at_datetime_utc": "2026-05-08T18:10:52.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "eea6343c0214e55df5d5ad07080534635e841d13234e67083722f0fe81fd330c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-08T18:10:52.000Z"
+  },
+  {
+    "job_id": "lever-matchgroup-b35b9af9-3055-4aed-b40c-18936566afa4",
+    "job_title": "Machine Learning Engineer, Trust & Safety",
+    "employer_name": "Match Group",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York, New York",
+    "job_apply_link": "https://jobs.lever.co/matchgroup/b35b9af9-3055-4aed-b40c-18936566afa4/apply",
+    "job_posted_at_datetime_utc": "2026-05-08T18:02:43.935Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 150000,
+      "max": 198000,
+      "currency": "USD",
+      "interval": "per-year-salary"
+    },
+    "fingerprint": "d11560e30b343f2cff2cd6ab0f032b3ead1c7f4dbe56af0ee6513013d888f84d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "hybrid",
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-05-08T18:02:43.935Z"
+  },
+  {
     "job_id": "greenhouse-anaplan-8538805002",
     "job_title": "Associate GTM AI Engineer",
     "employer_name": "Anaplan",
@@ -28,6 +158,22 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "agents",
+        "analytics",
+        "chatgpt",
+        "crm",
+        "reporting",
+        "salesforce",
+        "scalability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-08T17:41:57.000Z"
   },
   {
@@ -334,19 +480,19 @@
     "job_posted_at": "2026-05-07T23:57:53.834Z"
   },
   {
-    "job_id": "greenhouse-andurilindustries-4918732007",
+    "job_id": "greenhouse-andurilindustries-4859842007",
     "job_title": "People Data Analytics Engineer",
     "employer_name": "Anduril",
-    "job_city": "Boston",
-    "job_state": "MA",
+    "job_city": "Costa Mesa",
+    "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Boston, Massachusetts, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4918732007?gh_jid=4918732007",
+    "job_location": "Costa Mesa, California, United States",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4859842007?gh_jid=4859842007",
     "job_posted_at_datetime_utc": "2026-05-07T23:45:49.381Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "1217ab865e34f25f330cf801a64fcc55fb9bcde6954f611ba37d795d4da8420c",
+    "fingerprint": "799fcfe17091455c0429e2a65d462c576c35deec37e36f9528d4dc32d2dc6f7f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -395,19 +541,19 @@
     "job_posted_at": "2026-05-07T23:45:49.381Z"
   },
   {
-    "job_id": "greenhouse-andurilindustries-4859842007",
+    "job_id": "greenhouse-andurilindustries-4918732007",
     "job_title": "People Data Analytics Engineer",
     "employer_name": "Anduril",
-    "job_city": "Costa Mesa",
-    "job_state": "CA",
+    "job_city": "Boston",
+    "job_state": "MA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Costa Mesa, California, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4859842007?gh_jid=4859842007",
+    "job_location": "Boston, Massachusetts, United States",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4918732007?gh_jid=4918732007",
     "job_posted_at_datetime_utc": "2026-05-07T23:45:49.381Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "799fcfe17091455c0429e2a65d462c576c35deec37e36f9528d4dc32d2dc6f7f",
+    "fingerprint": "1217ab865e34f25f330cf801a64fcc55fb9bcde6954f611ba37d795d4da8420c",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -559,7 +705,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864459",
     "job_posted_at_datetime_utc": "2026-05-07T21:51:49.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "5b61cc0638fa83b88eefbc4bb8b4fd54bc2dfdeaabf7970e3a0d18149060b122",
     "tags": {
@@ -1573,7 +1719,7 @@
       "locations": [
         "us"
       ],
-      "experience": "mid_level",
+      "experience": "unknown",
       "special": [
         "faang"
       ],
@@ -1752,45 +1898,6 @@
     "job_posted_at": "2026-05-06T11:31:20.571Z"
   },
   {
-    "job_id": "simplify-6adb7270-df23-45cc-bb13-68784e42c0d5",
-    "job_title": "Quantitative Researcher - Master's: 2026",
-    "employer_name": "Susquehanna International Group (SIG)",
-    "job_city": "Ardmore",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ardmore, PA",
-    "job_apply_link": "https://careers-sig.icims.com/jobs/9437/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b19c79c86d3087e8da0bae685c1a5f48b48879a1eab89252b2d55098fe371c42",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-06T11:31:20.570Z"
-  },
-  {
     "job_id": "simplify-469bcd26-46bc-44f8-8e7a-d8e8eff93e82",
     "job_title": "HR Data Analyst - Operations Analyst Program",
     "employer_name": "Susquehanna International Group (SIG)",
@@ -1920,6 +2027,45 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "bf7b7f73fe639d389996efaf15a37e16f28bf81258ab3e1707847436ce52ade4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-06T11:31:20.570Z"
+  },
+  {
+    "job_id": "simplify-6adb7270-df23-45cc-bb13-68784e42c0d5",
+    "job_title": "Quantitative Researcher - Master's: 2026",
+    "employer_name": "Susquehanna International Group (SIG)",
+    "job_city": "Ardmore",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ardmore, PA",
+    "job_apply_link": "https://careers-sig.icims.com/jobs/9437/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b19c79c86d3087e8da0bae685c1a5f48b48879a1eab89252b2d55098fe371c42",
     "tags": {
       "employment": "entry_level",
       "domains": [
