@@ -3503,7 +3503,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864459",
     "job_posted_at_datetime_utc": "2026-05-07T21:51:49.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "5b61cc0638fa83b88eefbc4bb8b4fd54bc2dfdeaabf7970e3a0d18149060b122",
     "tags": {
