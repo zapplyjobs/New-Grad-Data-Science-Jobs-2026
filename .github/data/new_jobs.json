@@ -903,37 +903,6 @@
     "job_posted_at": "2026-05-08T20:08:38.175Z"
   },
   {
-    "job_id": "workday-snap-R0045402",
-    "job_title": "Machine Learning Engineer, Level 4, Ads Platform",
-    "employer_name": "Snap",
-    "job_city": "Palo Alto California",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Palo Alto California + 4 more",
-    "job_apply_link": "https://wd1.myworkdaysite.com/snap/job/Palo-Alto-California/Machine-Learning-Engineer--Level-4--Ads-Platform_R0045402-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:32.603Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d5f943cd04dc83304ebdd4b4e032ed71ae9c20585b2f0d9c4ad8a6fe9a3ca5c7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:08:32.603Z"
-  },
-  {
     "job_id": "workday-morgan-stanley-PT-JR035070",
     "job_title": "Data Analyst - US Banks Analytics, Assistant Vice President",
     "employer_name": "Morgan Stanley",
@@ -1578,50 +1547,6 @@
     "job_posted_at": "2026-05-08T20:06:44.107Z"
   },
   {
-    "job_id": "workday-fidelity-investments-2128801",
-    "job_title": "Technical Research Analyst",
-    "employer_name": "Fidelity Investments",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Boston, MA",
-    "job_apply_link": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Boston-MA/Technical-Research-Analyst_2128801",
-    "job_posted_at_datetime_utc": "2026-05-08T20:06:42.521Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9c35651c9f8045125ee79862717bff7f54fccd45fda4abbc0fd05a5d2aea3701",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:06:42.521Z"
-  },
-  {
     "job_id": "workday-exact-sciences-R26-12609",
     "job_title": "Research Scientist",
     "employer_name": "Exact Sciences",
@@ -1667,60 +1592,6 @@
       "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:06:23.846Z"
-  },
-  {
-    "job_id": "workday-entrust-R004093",
-    "job_title": "Mgr, Data Analytics",
-    "employer_name": "Entrust",
-    "job_city": "Shakopee, MN",
-    "job_state": "MN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Shakopee, MN",
-    "job_apply_link": "https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/United-States---Shakopee-MN-GHQ/Mgr--Data-Analytics_R004093",
-    "job_posted_at_datetime_utc": "2026-05-08T20:06:20.677Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "98b5f6c738e5fea1d3c569b341d3092f0bb9869183814f20d045f3bea0e79985",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "business intelligence",
-        "dashboards",
-        "data visualization",
-        "excel",
-        "forecasting",
-        "power bi",
-        "project management",
-        "tableau"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:06:20.677Z"
   },
   {
     "job_id": "workday-citi-26934055",
@@ -2202,29 +2073,28 @@
     "job_posted_at": "2026-05-08T20:05:59.375Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0239632",
-    "job_title": "Bioinformatics Business Analyst",
+    "job_id": "workday-booz-allen-hamilton-R0237400",
+    "job_title": "Data Engineer",
     "employer_name": "Booz Allen Hamilton",
-    "job_city": "Atlanta",
-    "job_state": "GA",
+    "job_city": "Honolulu",
+    "job_state": "HI",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Atlanta, GA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Bioinformatics-Business-Analyst_R0239632",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:48.508Z",
+    "job_location": "Honolulu, HI",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Engineer_R0237400",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:48.507Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "ebaf04ebfd388fbe45caf1965d4b51afa3a0224252980cb7f4916a16fe76f0db",
+    "fingerprint": "f959a583d212ea4f052d5b1fe1a4ee2745b27ce70a56b72940e9e9a66fa7bce7",
     "tags": {
       "employment": "entry_level",
       "domains": [
-        "data_science",
-        "operations"
+        "data_science"
       ],
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "mid_level",
       "special": [],
       "tag_engine_version": 3
     },
@@ -2234,13 +2104,18 @@
       "required_skills": [
         "agile",
         "analytics",
-        "azure",
-        "azure devops",
-        "data science",
-        "devops",
-        "jira",
-        "kanban",
-        "scrum",
+        "c++",
+        "dashboards",
+        "data governance",
+        "data quality",
+        "data visualization",
+        "databricks",
+        "java",
+        "lean",
+        "lean six sigma",
+        "process improvement",
+        "python",
+        "six sigma",
         "sql"
       ],
       "nice_to_have_skills": [],
@@ -2255,22 +2130,22 @@
       "question_count": null,
       "summary_line": null
     },
-    "job_posted_at": "2026-05-08T20:05:48.508Z"
+    "job_posted_at": "2026-05-08T20:05:48.507Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0239616",
+    "job_id": "workday-booz-allen-hamilton-R0237843",
     "job_title": "Data Engineer",
     "employer_name": "Booz Allen Hamilton",
-    "job_city": "Chantilly",
-    "job_state": "VA",
+    "job_city": "Honolulu",
+    "job_state": "HI",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Chantilly, VA + 1 more",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Data-Engineer_R0239616-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:48.508Z",
+    "job_location": "Honolulu, HI",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Engineer_R0237843",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:48.507Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "a60f485d75387f02f56c5a6e61a196c6ee32df295253a032badfa2bceb309cfe",
+    "fingerprint": "f959a583d212ea4f052d5b1fe1a4ee2745b27ce70a56b72940e9e9a66fa7bce7",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -2287,75 +2162,15 @@
     "_original_source": "workday",
     "enrichment": {
       "required_skills": [
+        "agile",
         "analytics",
-        "argocd",
-        "computer science",
-        "data quality",
-        "distributed systems",
-        "elasticsearch",
-        "grafana",
-        "helm",
-        "kafka",
-        "kubernetes",
-        "postgresql",
-        "prometheus",
-        "python",
-        "reporting",
-        "scala",
-        "sql"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:05:48.508Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0239427",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Washington, DC",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Data-Scientist_R0239427",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:48.508Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6d2a6d095e84e4c42252ccbe33e64b2dfee971c4288054d9c757842010684cca",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "data science",
+        "data modeling",
         "data visualization",
-        "machine learning",
-        "natural language processing",
+        "devsecops",
+        "git",
         "python",
-        "r",
-        "sql"
+        "requirements gathering",
+        "typescript"
       ],
       "nice_to_have_skills": [],
       "sponsors_visa": null,
@@ -2365,11 +2180,11 @@
       "is_remote": false,
       "has_description": true,
       "min_degree": "bachelors",
-      "experience_level_from_desc": null,
+      "experience_level_from_desc": "entry_level",
       "question_count": null,
       "summary_line": null
     },
-    "job_posted_at": "2026-05-08T20:05:48.508Z"
+    "job_posted_at": "2026-05-08T20:05:48.507Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0239669",
@@ -2496,120 +2311,6 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "senior",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:05:48.507Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237400",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Honolulu",
-    "job_state": "HI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Honolulu, HI",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Engineer_R0237400",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:48.507Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f959a583d212ea4f052d5b1fe1a4ee2745b27ce70a56b72940e9e9a66fa7bce7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "c++",
-        "dashboards",
-        "data governance",
-        "data quality",
-        "data visualization",
-        "databricks",
-        "java",
-        "lean",
-        "lean six sigma",
-        "process improvement",
-        "python",
-        "six sigma",
-        "sql"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:05:48.507Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237843",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Honolulu",
-    "job_state": "HI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Honolulu, HI",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Engineer_R0237843",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:48.507Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f959a583d212ea4f052d5b1fe1a4ee2745b27ce70a56b72940e9e9a66fa7bce7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "data modeling",
-        "data visualization",
-        "devsecops",
-        "git",
-        "python",
-        "requirements gathering",
-        "typescript"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
       "question_count": null,
       "summary_line": null
     },
@@ -2763,109 +2464,6 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:05:40.076Z"
-  },
-  {
-    "job_id": "workday-caci-323983",
-    "job_title": "AI Data Specialist",
-    "employer_name": "CACI",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Remote",
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/AI-Data-Specialist_323983-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:40.076Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e0f0e2a09d56728619e5aae09cd166e2eccf843d2bdc84a601fc7962e1db0a0c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "computer science",
-        "erp",
-        "machine learning",
-        "natural language processing",
-        "pytorch",
-        "reporting",
-        "tensorflow"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": true,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:05:40.076Z"
-  },
-  {
-    "job_id": "workday-caci-325833",
-    "job_title": "SIGINT Analysts (OP/Electronic Intelligence – ELINT)",
-    "employer_name": "CACI",
-    "job_city": "US NC Fort Bragg",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US NC Fort Bragg",
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-NC-Fort-Bragg/SIGINT-Analysts--OP-Electronic-Intelligence---ELINT-_325833",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:40.076Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "babfcffb3c20d0f8857280c8214b6062c03613540d51b6a96bf756ae10db5a4d",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "css",
-        "information security",
-        "reporting"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "associates",
-      "experience_level_from_desc": "senior",
       "question_count": null,
       "summary_line": null
     },
@@ -3085,67 +2683,6 @@
       "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:05:17.438Z"
-  },
-  {
-    "job_id": "workday-ameriprise-financial-R26_1511",
-    "job_title": "Data, Analytics & Reporting Analyst -  Investment Consultancy & Oversight and Multi-Manager Solutions",
-    "employer_name": "Ameriprise Financial",
-    "job_city": "Boston Massachusetts",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Boston Massachusetts + 2 more",
-    "job_apply_link": "https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Boston-Massachusetts/Data--Analytics---Reporting-Analyst_R26_1511-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:07.155Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3903d19eaabf09e04a0b342162b3e08b0ca23fe60172fd163491e67e263cd434",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "azure",
-        "computer science",
-        "dashboards",
-        "data analysis",
-        "data quality",
-        "data science",
-        "machine learning",
-        "process improvement",
-        "python",
-        "r",
-        "reporting",
-        "risk management",
-        "sql",
-        "statistics"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:05:07.155Z"
   },
   {
     "job_id": "greenhouse-airbnb-7904127",
@@ -4410,7 +3947,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864459",
     "job_posted_at_datetime_utc": "2026-05-07T21:51:49.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5b61cc0638fa83b88eefbc4bb8b4fd54bc2dfdeaabf7970e3a0d18149060b122",
     "tags": {
@@ -5039,6 +4576,469 @@
     "job_posted_at": "2026-05-07T10:09:46.457Z"
   },
   {
+    "job_id": "workday-snap-R0045402",
+    "job_title": "Machine Learning Engineer, Level 4, Ads Platform",
+    "employer_name": "Snap",
+    "job_city": "Palo Alto California",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Palo Alto California + 4 more",
+    "job_apply_link": "https://wd1.myworkdaysite.com/snap/job/Palo-Alto-California/Machine-Learning-Engineer--Level-4--Ads-Platform_R0045402-1",
+    "job_posted_at_datetime_utc": "2026-05-07T08:02:28.004Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d5f943cd04dc83304ebdd4b4e032ed71ae9c20585b2f0d9c4ad8a6fe9a3ca5c7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T08:02:28.004Z"
+  },
+  {
+    "job_id": "workday-fidelity-investments-2128801",
+    "job_title": "Technical Research Analyst",
+    "employer_name": "Fidelity Investments",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Boston, MA",
+    "job_apply_link": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Boston-MA/Technical-Research-Analyst_2128801",
+    "job_posted_at_datetime_utc": "2026-05-07T08:01:58.164Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9c35651c9f8045125ee79862717bff7f54fccd45fda4abbc0fd05a5d2aea3701",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-07T08:01:58.164Z"
+  },
+  {
+    "job_id": "workday-caci-325833",
+    "job_title": "SIGINT Analysts (OP/Electronic Intelligence – ELINT)",
+    "employer_name": "CACI",
+    "job_city": "US NC Fort Bragg",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US NC Fort Bragg",
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-NC-Fort-Bragg/SIGINT-Analysts--OP-Electronic-Intelligence---ELINT-_325833",
+    "job_posted_at_datetime_utc": "2026-05-07T08:01:55.672Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "babfcffb3c20d0f8857280c8214b6062c03613540d51b6a96bf756ae10db5a4d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "css",
+        "information security",
+        "reporting"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "associates",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-07T08:01:55.672Z"
+  },
+  {
+    "job_id": "workday-caci-323983",
+    "job_title": "AI Data Specialist",
+    "employer_name": "CACI",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Remote",
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/AI-Data-Specialist_323983-1",
+    "job_posted_at_datetime_utc": "2026-05-07T08:01:55.671Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e0f0e2a09d56728619e5aae09cd166e2eccf843d2bdc84a601fc7962e1db0a0c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "computer science",
+        "erp",
+        "machine learning",
+        "natural language processing",
+        "pytorch",
+        "reporting",
+        "tensorflow"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-07T08:01:55.671Z"
+  },
+  {
+    "job_id": "workday-entrust-R004093",
+    "job_title": "Mgr, Data Analytics",
+    "employer_name": "Entrust",
+    "job_city": "Shakopee, MN",
+    "job_state": "MN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Shakopee, MN",
+    "job_apply_link": "https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/United-States---Shakopee-MN-GHQ/Mgr--Data-Analytics_R004093",
+    "job_posted_at_datetime_utc": "2026-05-07T08:01:46.779Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "98b5f6c738e5fea1d3c569b341d3092f0bb9869183814f20d045f3bea0e79985",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "business intelligence",
+        "dashboards",
+        "data visualization",
+        "excel",
+        "forecasting",
+        "power bi",
+        "project management",
+        "tableau"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-07T08:01:46.779Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239632",
+    "job_title": "Bioinformatics Business Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Atlanta, GA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Bioinformatics-Business-Analyst_R0239632",
+    "job_posted_at_datetime_utc": "2026-05-07T08:01:31.308Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ebaf04ebfd388fbe45caf1965d4b51afa3a0224252980cb7f4916a16fe76f0db",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "azure",
+        "azure devops",
+        "data science",
+        "devops",
+        "jira",
+        "kanban",
+        "scrum",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-07T08:01:31.308Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239616",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Chantilly",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Chantilly, VA + 1 more",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Data-Engineer_R0239616-1",
+    "job_posted_at_datetime_utc": "2026-05-07T08:01:31.308Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a60f485d75387f02f56c5a6e61a196c6ee32df295253a032badfa2bceb309cfe",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "argocd",
+        "computer science",
+        "data quality",
+        "distributed systems",
+        "elasticsearch",
+        "grafana",
+        "helm",
+        "kafka",
+        "kubernetes",
+        "postgresql",
+        "prometheus",
+        "python",
+        "reporting",
+        "scala",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-07T08:01:31.308Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239427",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Washington, DC",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Data-Scientist_R0239427",
+    "job_posted_at_datetime_utc": "2026-05-07T08:01:31.308Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6d2a6d095e84e4c42252ccbe33e64b2dfee971c4288054d9c757842010684cca",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "data science",
+        "data visualization",
+        "machine learning",
+        "natural language processing",
+        "python",
+        "r",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-07T08:01:31.308Z"
+  },
+  {
+    "job_id": "workday-ameriprise-financial-R26_1511",
+    "job_title": "Data, Analytics & Reporting Analyst -  Investment Consultancy & Oversight and Multi-Manager Solutions",
+    "employer_name": "Ameriprise Financial",
+    "job_city": "Boston Massachusetts",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Boston Massachusetts + 2 more",
+    "job_apply_link": "https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Boston-Massachusetts/Data--Analytics---Reporting-Analyst_R26_1511-1",
+    "job_posted_at_datetime_utc": "2026-05-07T08:01:15.402Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3903d19eaabf09e04a0b342162b3e08b0ca23fe60172fd163491e67e263cd434",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "azure",
+        "computer science",
+        "dashboards",
+        "data analysis",
+        "data quality",
+        "data science",
+        "machine learning",
+        "process improvement",
+        "python",
+        "r",
+        "reporting",
+        "risk management",
+        "sql",
+        "statistics"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-07T08:01:15.402Z"
+  },
+  {
     "job_id": "workday-visa-REF081770W",
     "job_title": "Associate Data Scientist, New College Grad - 2026",
     "employer_name": "Visa",
@@ -5199,6 +5199,29 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "fine-tuning",
+        "machine learning",
+        "prompt engineering",
+        "python",
+        "reinforcement learning",
+        "transformers"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-07T07:49:13.759Z"
   },
   {
@@ -6070,107 +6093,6 @@
     "job_posted_at": "2026-05-06T21:57:30.767Z"
   },
   {
-    "job_id": "workday-state-street-R-786142",
-    "job_title": "AI Engineer / Senior Platform Support Assistant Vice President",
-    "employer_name": "State Street",
-    "job_city": "Quincy Massachusetts",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Quincy Massachusetts + 1 more",
-    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/AI-Engineer---Senior-Platform-Support-Officer_R-786142-1",
-    "job_posted_at_datetime_utc": "2026-05-06T20:48:06.389Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "49eaa8a1cd4f6fa4baefa999524b75734e149eedf7e2897c1ef621d83ff39704",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agents",
-        "aks",
-        "analytics",
-        "api",
-        "arm",
-        "aws",
-        "azure",
-        "azure devops",
-        "bash",
-        "bedrock",
-        "change management",
-        "ci/cd",
-        "cloudformation",
-        "cloudwatch",
-        "computer science",
-        "dashboards",
-        "data governance",
-        "databricks",
-        "devops",
-        "docker",
-        "eks",
-        "embeddings",
-        "fine-tuning",
-        "generative ai",
-        "git",
-        "github",
-        "github actions",
-        "gpt",
-        "grafana",
-        "iam",
-        "infrastructure as code",
-        "jenkins",
-        "kubernetes",
-        "lambda",
-        "llm",
-        "machine learning",
-        "mlflow",
-        "networking",
-        "oauth",
-        "observability",
-        "openai",
-        "powershell",
-        "prompt engineering",
-        "python",
-        "rag",
-        "rest",
-        "retrieval augmented generation",
-        "root cause analysis",
-        "s3",
-        "sagemaker",
-        "site reliability engineering",
-        "spark",
-        "sre",
-        "terraform",
-        "unity"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:48:06.389Z"
-  },
-  {
     "job_id": "apple-200642063",
     "job_title": "ML Data Science Manager, ISE Analytics and User Studies",
     "employer_name": "Apple",
@@ -6283,75 +6205,6 @@
       "summary_line": null
     },
     "job_posted_at": "2026-05-06T20:11:37.679Z"
-  },
-  {
-    "job_id": "workday-usaa-R0117435",
-    "job_title": "Data Scientist I",
-    "employer_name": "USAA",
-    "job_city": "CENTS",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Charlotte, NC - CENTS",
-    "job_apply_link": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Charlotte-NC---CENTS/Data-Scientist-I_R0117435",
-    "job_posted_at_datetime_utc": "2026-05-06T20:08:53.799Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "58dff9688f6e99eb13c969b60253650c09b96a3e17620f79cadd2d2e65bdf4fb",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "airflow",
-        "analytics",
-        "apache",
-        "apache airflow",
-        "aws",
-        "ci/cd",
-        "computer science",
-        "data warehouse",
-        "etl",
-        "git",
-        "lambda",
-        "machine learning",
-        "matplotlib",
-        "pyspark",
-        "python",
-        "redshift",
-        "risk management",
-        "s3",
-        "seaborn",
-        "shell",
-        "shell scripting",
-        "statistics",
-        "unix"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:08:53.799Z"
   },
   {
     "job_id": "workday-guidehouse-38581",
@@ -6476,961 +6329,6 @@
       "summary_line": null
     },
     "job_posted_at": "2026-05-06T20:07:01.395Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0239439",
-    "job_title": "Consolidated Data Analytics Platform Elastic Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fort Meade",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Fort Meade, MD + 4 more",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Consolidated-Data-Analytics-Platform-Elastic-Engineer_R0239439",
-    "job_posted_at_datetime_utc": "2026-05-06T20:05:48.509Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5dc6c9c58dd3be0cbb54d53e697096858cb5750d3266865c6dc0a3658bb16273",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "dashboards",
-        "docker",
-        "ecs",
-        "elasticsearch",
-        "kafka",
-        "kibana",
-        "kubernetes",
-        "linux",
-        "logstash",
-        "networking",
-        "nist",
-        "pki",
-        "ssh",
-        "tls",
-        "unix",
-        "zero trust"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:05:48.509Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0239423",
-    "job_title": "Consolidated Data Analytics Platform Systems Administrator",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fort Meade",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Fort Meade, MD + 3 more",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Consolidated-Data-Analytics-Platform-Systems-Administrator_R0239423",
-    "job_posted_at_datetime_utc": "2026-05-06T20:05:48.509Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a2dcd2635c774a405f04eff84bc4ad500f462da9b428191eb541e08ea3c4eb34",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "ansible",
-        "bash",
-        "centos",
-        "docker",
-        "edr",
-        "endpoint detection",
-        "firewalls",
-        "iam",
-        "kubernetes",
-        "linux",
-        "networking",
-        "python",
-        "rhel",
-        "siem",
-        "splunk",
-        "ubuntu",
-        "zero trust"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:05:48.509Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0239429",
-    "job_title": "Consolidated Data Analytics Platform Kubernetes Administrator",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fort Meade",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Fort Meade, MD + 3 more",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Consolidated-Data-Analytics-Platform-Kubernetes-Administrator_R0239429",
-    "job_posted_at_datetime_utc": "2026-05-06T20:05:48.509Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bb23b845cdecff3f31778794f47a2964e6ae3c5351a976b0936b134c96ec14c9",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "azure",
-        "continuous deployment",
-        "cybersecurity",
-        "data integration",
-        "devsecops",
-        "docker",
-        "eks",
-        "github",
-        "kubernetes",
-        "linux",
-        "python",
-        "shell",
-        "terraform"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:05:48.509Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235685",
-    "job_title": "Machine Learning Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Norfolk",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Norfolk, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Norfolk-VA/Machine-Learning-Engineer_R0235685",
-    "job_posted_at_datetime_utc": "2026-05-06T20:05:48.509Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e6f750d180c7e50e49a4f069adadba4c62dddbc614162015cb703ebcd5f23326",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "c++",
-        "computer vision",
-        "data science",
-        "deep learning",
-        "generative ai",
-        "java",
-        "langchain",
-        "machine learning",
-        "mcp",
-        "python",
-        "pytorch",
-        "rust",
-        "scikit-learn",
-        "tensorflow",
-        "unsupervised learning"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:05:48.509Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0239413",
-    "job_title": "AI Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fort Belvoir",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Fort Belvoir, VA + 1 more",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Belvoir-VA/AI-Engineer_R0239413-1",
-    "job_posted_at_datetime_utc": "2026-05-06T20:05:48.509Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "212f1903b9afc2f7471fbcc9002a82877c171b0c3f64d3a853cf3ed9090de41a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "aws",
-        "azure",
-        "devops",
-        "distributed systems",
-        "docker",
-        "elasticsearch",
-        "embeddings",
-        "fine-tuning",
-        "gcp",
-        "kafka",
-        "kubernetes",
-        "langchain",
-        "llamaindex",
-        "llm",
-        "machine learning",
-        "python",
-        "rag"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:05:48.509Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0239396",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Arlington, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Scientist_R0239396",
-    "job_posted_at_datetime_utc": "2026-05-06T20:05:48.509Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6575aa53265ead8a219a697290777bf8b4d62d6cb22df7ef2eba97c7501e8b2b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "Natural Language Processing",
-        "data analysis",
-        "data science",
-        "data visualization",
-        "databricks",
-        "hadoop",
-        "hive",
-        "kafka",
-        "machine learning",
-        "mysql",
-        "natural language processing",
-        "plotly",
-        "python",
-        "r",
-        "seaborn",
-        "spark",
-        "sql"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:05:48.509Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0239475",
-    "job_title": "Agentic AI Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Washington, DC + 1 more",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Agentic-AI-Engineer_R0239475",
-    "job_posted_at_datetime_utc": "2026-05-06T20:05:48.508Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2317392d5f67777c9a1a518f6b20433602f09621102e20cba55ef83600252862",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "agents",
-        "android",
-        "aws",
-        "azure",
-        "design patterns",
-        "docker",
-        "fine-tuning",
-        "genai",
-        "grafana",
-        "hugging face",
-        "kubernetes",
-        "langchain",
-        "llama",
-        "llamaindex",
-        "llm",
-        "mcp",
-        "model context protocol",
-        "neo4j",
-        "pytorch",
-        "rag",
-        "react",
-        "statistics",
-        "tensorflow"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:05:48.508Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0239450",
-    "job_title": "Consolidated Data Analytics Platform Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fort Meade",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Fort Meade, MD + 3 more",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Consolidated-Data-Analytics-Platform-Engineer_R0239450",
-    "job_posted_at_datetime_utc": "2026-05-06T20:05:48.508Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "deacba4e5512128d5d2aa805163adf9dbb545210f762e108558d0dc56f2ca1e0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "bash",
-        "cybersecurity",
-        "firewalls",
-        "kubernetes",
-        "linux",
-        "machine learning",
-        "perl",
-        "powershell",
-        "python",
-        "splunk",
-        "unix",
-        "windows"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:05:48.508Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0239448",
-    "job_title": "Consolidated Data Analytics Platform Brokering Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fort Meade",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Fort Meade, MD + 3 more",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Consolidated-Data-Analytics-Platform-Brokering-Engineer_R0239448-1",
-    "job_posted_at_datetime_utc": "2026-05-06T20:05:48.508Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bb230505d9e65ca5b7aab357014865f466ab43e8b9e0a9c4deeb2b452bd63f99",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "ansible",
-        "apache",
-        "aws",
-        "bash",
-        "cybersecurity",
-        "encryption",
-        "grafana",
-        "high availability",
-        "kafka",
-        "kubernetes",
-        "observability",
-        "puppet",
-        "python",
-        "risk management",
-        "terraform"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:05:48.508Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0239444",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Washington, DC",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Data-Scientist_R0239444",
-    "job_posted_at_datetime_utc": "2026-05-06T20:05:48.508Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6d2a6d095e84e4c42252ccbe33e64b2dfee971c4288054d9c757842010684cca",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "bitbucket",
-        "ci/cd",
-        "data science",
-        "devops",
-        "etl",
-        "git",
-        "github",
-        "gitlab",
-        "jenkins",
-        "kibana",
-        "llm",
-        "machine learning",
-        "plotly",
-        "power bi",
-        "python",
-        "r",
-        "rag",
-        "seaborn",
-        "sql",
-        "statistical analysis",
-        "tableau"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:05:48.508Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237162",
-    "job_title": "Data Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Beavercreek",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Beavercreek, OH",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Data-Analyst_R0237162",
-    "job_posted_at_datetime_utc": "2026-05-06T20:05:48.508Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f865d1a60d0135a4df87fff636be3d21b75db6ff74e657bf37081ada3058487f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "dashboards",
-        "data analysis",
-        "data quality",
-        "data visualization",
-        "python",
-        "sql"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:05:48.508Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235634",
-    "job_title": "Machine Learning Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "McLean, VA + 2 more",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Machine-Learning-Engineer_R0235634",
-    "job_posted_at_datetime_utc": "2026-05-06T20:05:48.508Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8a1ff09b4542d6315452db8e0b1418803a5d827cdd600fbccf0cfb90cbd58b09",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "c++",
-        "computer vision",
-        "data science",
-        "deep learning",
-        "generative ai",
-        "java",
-        "langchain",
-        "machine learning",
-        "mcp",
-        "python",
-        "pytorch",
-        "scikit-learn",
-        "tensorflow",
-        "unsupervised learning"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:05:48.508Z"
-  },
-  {
-    "job_id": "workday-caci-325774",
-    "job_title": "Splunk Data Analyst",
-    "employer_name": "CACI",
-    "job_city": "US MD Laurel",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US MD Laurel",
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Laurel/Splunk-Data-Analyst_325774",
-    "job_posted_at_datetime_utc": "2026-05-06T20:05:40.077Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "683bebf152a15af0934966d60e319f037e0f44ebff4996c6d65d45326d3af193",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "dashboards",
-        "data analysis",
-        "etl",
-        "python",
-        "splunk"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "senior",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:05:40.077Z"
-  },
-  {
-    "job_id": "workday-caci-325771",
-    "job_title": "Data Scientist",
-    "employer_name": "CACI",
-    "job_city": "US GA Warner Robins",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US GA Warner Robins",
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-GA-Warner-Robins/Data-Scientist_325771",
-    "job_posted_at_datetime_utc": "2026-05-06T20:05:40.077Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1b94d0dd5b1006c8a707c031dc5c85807a8dd426267537d94c61fa03904bab53",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "data analysis",
-        "data science",
-        "etl",
-        "kubernetes",
-        "machine learning",
-        "natural language processing",
-        "pyspark",
-        "python",
-        "pytorch",
-        "r",
-        "sql",
-        "supervised learning",
-        "tensorflow",
-        "vba"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:05:40.077Z"
-  },
-  {
-    "job_id": "workday-applied-materials-R2619012",
-    "job_title": "Reliability Analytics Engineer IV - (E4)",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Santa Clara,CA",
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Reliability-Analytics-Engineer-IV----E4-_R2619012",
-    "job_posted_at_datetime_utc": "2026-05-06T20:05:20.744Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9d1a5a99694b94ecdd7d00d81b932fd1c6ca832cac44e621d42246d65112535b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "mil-std",
-        "root cause analysis"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:05:20.744Z"
-  },
-  {
-    "job_id": "workday-applied-materials-R2618356",
-    "job_title": "Data Scientist/Analytics V",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Santa Clara,CA",
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist-Analytics-V_R2618356",
-    "job_posted_at_datetime_utc": "2026-05-06T20:05:20.744Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3f1706c2064d05f5b80179d5b90be1826c85243308db388c243b8dbdc233c22a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "data analysis",
-        "matlab",
-        "php",
-        "program management",
-        "python",
-        "sql"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:05:20.744Z"
   },
   {
     "job_id": "greenhouse-doordashusa-5516835",
@@ -7938,6 +6836,1131 @@
       "summary_line": null
     },
     "job_posted_at": "2026-05-06T11:31:20.570Z"
+  },
+  {
+    "job_id": "workday-state-street-R-786142",
+    "job_title": "AI Engineer / Senior Platform Support Assistant Vice President",
+    "employer_name": "State Street",
+    "job_city": "Quincy Massachusetts",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Quincy Massachusetts + 1 more",
+    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/AI-Engineer---Senior-Platform-Support-Officer_R-786142-1",
+    "job_posted_at_datetime_utc": "2026-05-06T08:02:42.438Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "49eaa8a1cd4f6fa4baefa999524b75734e149eedf7e2897c1ef621d83ff39704",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agents",
+        "aks",
+        "analytics",
+        "api",
+        "arm",
+        "aws",
+        "azure",
+        "azure devops",
+        "bash",
+        "bedrock",
+        "change management",
+        "ci/cd",
+        "cloudformation",
+        "cloudwatch",
+        "computer science",
+        "dashboards",
+        "data governance",
+        "databricks",
+        "devops",
+        "docker",
+        "eks",
+        "embeddings",
+        "fine-tuning",
+        "generative ai",
+        "git",
+        "github",
+        "github actions",
+        "gpt",
+        "grafana",
+        "iam",
+        "infrastructure as code",
+        "jenkins",
+        "kubernetes",
+        "lambda",
+        "llm",
+        "machine learning",
+        "mlflow",
+        "networking",
+        "oauth",
+        "observability",
+        "openai",
+        "powershell",
+        "prompt engineering",
+        "python",
+        "rag",
+        "rest",
+        "retrieval augmented generation",
+        "root cause analysis",
+        "s3",
+        "sagemaker",
+        "site reliability engineering",
+        "spark",
+        "sre",
+        "terraform",
+        "unity"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T08:02:42.438Z"
+  },
+  {
+    "job_id": "workday-usaa-R0117435",
+    "job_title": "Data Scientist I",
+    "employer_name": "USAA",
+    "job_city": "CENTS",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Charlotte, NC - CENTS",
+    "job_apply_link": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Charlotte-NC---CENTS/Data-Scientist-I_R0117435",
+    "job_posted_at_datetime_utc": "2026-05-06T08:02:26.393Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "58dff9688f6e99eb13c969b60253650c09b96a3e17620f79cadd2d2e65bdf4fb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "airflow",
+        "analytics",
+        "apache",
+        "apache airflow",
+        "aws",
+        "ci/cd",
+        "computer science",
+        "data warehouse",
+        "etl",
+        "git",
+        "lambda",
+        "machine learning",
+        "matplotlib",
+        "pyspark",
+        "python",
+        "redshift",
+        "risk management",
+        "s3",
+        "seaborn",
+        "shell",
+        "shell scripting",
+        "statistics",
+        "unix"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T08:02:26.393Z"
+  },
+  {
+    "job_id": "workday-caci-325774",
+    "job_title": "Splunk Data Analyst",
+    "employer_name": "CACI",
+    "job_city": "US MD Laurel",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US MD Laurel",
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Laurel/Splunk-Data-Analyst_325774",
+    "job_posted_at_datetime_utc": "2026-05-06T08:01:55.672Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "683bebf152a15af0934966d60e319f037e0f44ebff4996c6d65d45326d3af193",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "dashboards",
+        "data analysis",
+        "etl",
+        "python",
+        "splunk"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T08:01:55.672Z"
+  },
+  {
+    "job_id": "workday-caci-325771",
+    "job_title": "Data Scientist",
+    "employer_name": "CACI",
+    "job_city": "US GA Warner Robins",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US GA Warner Robins",
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-GA-Warner-Robins/Data-Scientist_325771",
+    "job_posted_at_datetime_utc": "2026-05-06T08:01:55.672Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1b94d0dd5b1006c8a707c031dc5c85807a8dd426267537d94c61fa03904bab53",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "data analysis",
+        "data science",
+        "etl",
+        "kubernetes",
+        "machine learning",
+        "natural language processing",
+        "pyspark",
+        "python",
+        "pytorch",
+        "r",
+        "sql",
+        "supervised learning",
+        "tensorflow",
+        "vba"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T08:01:55.672Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2618356",
+    "job_title": "Data Scientist/Analytics V",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Santa Clara,CA",
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist-Analytics-V_R2618356",
+    "job_posted_at_datetime_utc": "2026-05-06T08:01:31.807Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3f1706c2064d05f5b80179d5b90be1826c85243308db388c243b8dbdc233c22a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data analysis",
+        "matlab",
+        "php",
+        "program management",
+        "python",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T08:01:31.807Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2619012",
+    "job_title": "Reliability Analytics Engineer IV - (E4)",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Santa Clara,CA",
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Reliability-Analytics-Engineer-IV----E4-_R2619012",
+    "job_posted_at_datetime_utc": "2026-05-06T08:01:31.806Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9d1a5a99694b94ecdd7d00d81b932fd1c6ca832cac44e621d42246d65112535b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "mil-std",
+        "root cause analysis"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T08:01:31.806Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237162",
+    "job_title": "Data Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Beavercreek",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Beavercreek, OH",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Data-Analyst_R0237162",
+    "job_posted_at_datetime_utc": "2026-05-06T08:01:31.309Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f865d1a60d0135a4df87fff636be3d21b75db6ff74e657bf37081ada3058487f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "dashboards",
+        "data analysis",
+        "data quality",
+        "data visualization",
+        "python",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T08:01:31.309Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235634",
+    "job_title": "Machine Learning Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "McLean, VA + 2 more",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Machine-Learning-Engineer_R0235634",
+    "job_posted_at_datetime_utc": "2026-05-06T08:01:31.309Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8a1ff09b4542d6315452db8e0b1418803a5d827cdd600fbccf0cfb90cbd58b09",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "c++",
+        "computer vision",
+        "data science",
+        "deep learning",
+        "generative ai",
+        "java",
+        "langchain",
+        "machine learning",
+        "mcp",
+        "python",
+        "pytorch",
+        "scikit-learn",
+        "tensorflow",
+        "unsupervised learning"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T08:01:31.309Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239475",
+    "job_title": "Agentic AI Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Washington, DC + 1 more",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Agentic-AI-Engineer_R0239475",
+    "job_posted_at_datetime_utc": "2026-05-06T08:01:31.309Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2317392d5f67777c9a1a518f6b20433602f09621102e20cba55ef83600252862",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "agents",
+        "android",
+        "aws",
+        "azure",
+        "design patterns",
+        "docker",
+        "fine-tuning",
+        "genai",
+        "grafana",
+        "hugging face",
+        "kubernetes",
+        "langchain",
+        "llama",
+        "llamaindex",
+        "llm",
+        "mcp",
+        "model context protocol",
+        "neo4j",
+        "pytorch",
+        "rag",
+        "react",
+        "statistics",
+        "tensorflow"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T08:01:31.309Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239450",
+    "job_title": "Consolidated Data Analytics Platform Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fort Meade",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Fort Meade, MD + 3 more",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Consolidated-Data-Analytics-Platform-Engineer_R0239450",
+    "job_posted_at_datetime_utc": "2026-05-06T08:01:31.309Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "deacba4e5512128d5d2aa805163adf9dbb545210f762e108558d0dc56f2ca1e0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "bash",
+        "cybersecurity",
+        "firewalls",
+        "kubernetes",
+        "linux",
+        "machine learning",
+        "perl",
+        "powershell",
+        "python",
+        "splunk",
+        "unix",
+        "windows"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T08:01:31.309Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239448",
+    "job_title": "Consolidated Data Analytics Platform Brokering Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fort Meade",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Fort Meade, MD + 3 more",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Consolidated-Data-Analytics-Platform-Brokering-Engineer_R0239448-1",
+    "job_posted_at_datetime_utc": "2026-05-06T08:01:31.309Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bb230505d9e65ca5b7aab357014865f466ab43e8b9e0a9c4deeb2b452bd63f99",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "ansible",
+        "apache",
+        "aws",
+        "bash",
+        "cybersecurity",
+        "encryption",
+        "grafana",
+        "high availability",
+        "kafka",
+        "kubernetes",
+        "observability",
+        "puppet",
+        "python",
+        "risk management",
+        "terraform"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T08:01:31.309Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239444",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Washington, DC",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Data-Scientist_R0239444",
+    "job_posted_at_datetime_utc": "2026-05-06T08:01:31.309Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6d2a6d095e84e4c42252ccbe33e64b2dfee971c4288054d9c757842010684cca",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "bitbucket",
+        "ci/cd",
+        "data science",
+        "devops",
+        "etl",
+        "git",
+        "github",
+        "gitlab",
+        "jenkins",
+        "kibana",
+        "llm",
+        "machine learning",
+        "plotly",
+        "power bi",
+        "python",
+        "r",
+        "rag",
+        "seaborn",
+        "sql",
+        "statistical analysis",
+        "tableau"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T08:01:31.309Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239439",
+    "job_title": "Consolidated Data Analytics Platform Elastic Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fort Meade",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Fort Meade, MD + 4 more",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Consolidated-Data-Analytics-Platform-Elastic-Engineer_R0239439",
+    "job_posted_at_datetime_utc": "2026-05-06T08:01:31.309Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5dc6c9c58dd3be0cbb54d53e697096858cb5750d3266865c6dc0a3658bb16273",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "dashboards",
+        "docker",
+        "ecs",
+        "elasticsearch",
+        "kafka",
+        "kibana",
+        "kubernetes",
+        "linux",
+        "logstash",
+        "networking",
+        "nist",
+        "pki",
+        "ssh",
+        "tls",
+        "unix",
+        "zero trust"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T08:01:31.309Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239423",
+    "job_title": "Consolidated Data Analytics Platform Systems Administrator",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fort Meade",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Fort Meade, MD + 3 more",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Consolidated-Data-Analytics-Platform-Systems-Administrator_R0239423",
+    "job_posted_at_datetime_utc": "2026-05-06T08:01:31.309Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a2dcd2635c774a405f04eff84bc4ad500f462da9b428191eb541e08ea3c4eb34",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "ansible",
+        "bash",
+        "centos",
+        "docker",
+        "edr",
+        "endpoint detection",
+        "firewalls",
+        "iam",
+        "kubernetes",
+        "linux",
+        "networking",
+        "python",
+        "rhel",
+        "siem",
+        "splunk",
+        "ubuntu",
+        "zero trust"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T08:01:31.309Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239429",
+    "job_title": "Consolidated Data Analytics Platform Kubernetes Administrator",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fort Meade",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Fort Meade, MD + 3 more",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Meade-MD/Consolidated-Data-Analytics-Platform-Kubernetes-Administrator_R0239429",
+    "job_posted_at_datetime_utc": "2026-05-06T08:01:31.309Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bb23b845cdecff3f31778794f47a2964e6ae3c5351a976b0936b134c96ec14c9",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "azure",
+        "continuous deployment",
+        "cybersecurity",
+        "data integration",
+        "devsecops",
+        "docker",
+        "eks",
+        "github",
+        "kubernetes",
+        "linux",
+        "python",
+        "shell",
+        "terraform"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T08:01:31.309Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235685",
+    "job_title": "Machine Learning Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Norfolk",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Norfolk, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Norfolk-VA/Machine-Learning-Engineer_R0235685",
+    "job_posted_at_datetime_utc": "2026-05-06T08:01:31.309Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e6f750d180c7e50e49a4f069adadba4c62dddbc614162015cb703ebcd5f23326",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "c++",
+        "computer vision",
+        "data science",
+        "deep learning",
+        "generative ai",
+        "java",
+        "langchain",
+        "machine learning",
+        "mcp",
+        "python",
+        "pytorch",
+        "rust",
+        "scikit-learn",
+        "tensorflow",
+        "unsupervised learning"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T08:01:31.309Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239413",
+    "job_title": "AI Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fort Belvoir",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Fort Belvoir, VA + 1 more",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Belvoir-VA/AI-Engineer_R0239413-1",
+    "job_posted_at_datetime_utc": "2026-05-06T08:01:31.309Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "212f1903b9afc2f7471fbcc9002a82877c171b0c3f64d3a853cf3ed9090de41a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "aws",
+        "azure",
+        "devops",
+        "distributed systems",
+        "docker",
+        "elasticsearch",
+        "embeddings",
+        "fine-tuning",
+        "gcp",
+        "kafka",
+        "kubernetes",
+        "langchain",
+        "llamaindex",
+        "llm",
+        "machine learning",
+        "python",
+        "rag"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T08:01:31.309Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239396",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Arlington, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Scientist_R0239396",
+    "job_posted_at_datetime_utc": "2026-05-06T08:01:31.309Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6575aa53265ead8a219a697290777bf8b4d62d6cb22df7ef2eba97c7501e8b2b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "Natural Language Processing",
+        "data analysis",
+        "data science",
+        "data visualization",
+        "databricks",
+        "hadoop",
+        "hive",
+        "kafka",
+        "machine learning",
+        "mysql",
+        "natural language processing",
+        "plotly",
+        "python",
+        "r",
+        "seaborn",
+        "spark",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T08:01:31.309Z"
   },
   {
     "job_id": "workday-visa-REF080626W",
@@ -9126,54 +9149,6 @@
     "job_posted_at": "2026-05-05T20:06:52.338Z"
   },
   {
-    "job_id": "workday-caci-325754",
-    "job_title": "Data Scientist",
-    "employer_name": "CACI",
-    "job_city": "US CO Denver",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US CO Denver",
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Data-Scientist_325754",
-    "job_posted_at_datetime_utc": "2026-05-05T20:05:40.077Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f12cc0b5ccc22ef5c89c818bbcb867ffe58ca5d5483a377dbbf4487da01759e2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "computer science",
-        "python"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-05T20:05:40.077Z"
-  },
-  {
     "job_id": "workday-visa-REF081828W",
     "job_title": "Data Scientist, AI/ML– Visa Consulting and Analytics",
     "employer_name": "Visa",
@@ -9236,76 +9211,6 @@
       "summary_line": null
     },
     "job_posted_at": "2026-05-05T20:03:17.419Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0239378",
-    "job_title": "Data Engineer and Application Developer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Camp H.M. Smith",
-    "job_state": "HI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Camp H.M. Smith, HI",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Camp-HM-Smith-HI/Data-Engineer-and-Application-Developer_R0239378",
-    "job_posted_at_datetime_utc": "2026-05-05T19:47:27.760Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "70ca191e6e4dd5c9058cea9fd4ab6b5b06e1c241ad4ba9caeb511a3946b6a12b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "aws",
-        "c++",
-        "cassandra",
-        "cloudformation",
-        "databricks",
-        "devsecops",
-        "docker",
-        "eks",
-        "hadoop",
-        "hive",
-        "java",
-        "kafka",
-        "kubernetes",
-        "machine learning",
-        "mongodb",
-        "mysql",
-        "python",
-        "redshift",
-        "scala",
-        "snowflake",
-        "spark",
-        "sql",
-        "terraform"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-05T19:47:27.760Z"
   },
   {
     "job_id": "greenhouse-reddit-7131932",
@@ -9437,247 +9342,6 @@
       "summary_line": null
     },
     "job_posted_at": "2026-05-05T19:32:51.024Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0239377",
-    "job_title": "Data Engineer and Application Developer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Camp H.M. Smith",
-    "job_state": "HI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Camp H.M. Smith, HI",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Camp-HM-Smith-HI/Data-Engineer-and-Application-Developer_R0239377",
-    "job_posted_at_datetime_utc": "2026-05-05T19:32:21.053Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "70ca191e6e4dd5c9058cea9fd4ab6b5b06e1c241ad4ba9caeb511a3946b6a12b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "aws",
-        "c++",
-        "cassandra",
-        "cloudformation",
-        "databricks",
-        "devsecops",
-        "docker",
-        "eks",
-        "hadoop",
-        "hive",
-        "java",
-        "kafka",
-        "kubernetes",
-        "machine learning",
-        "mongodb",
-        "mysql",
-        "python",
-        "redshift",
-        "scala",
-        "snowflake",
-        "spark",
-        "sql",
-        "terraform"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-05T19:32:21.053Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0239376",
-    "job_title": "Data Engineer and Application Developer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Camp H.M. Smith",
-    "job_state": "HI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Camp H.M. Smith, HI",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Camp-HM-Smith-HI/Data-Engineer-and-Application-Developer_R0239376",
-    "job_posted_at_datetime_utc": "2026-05-05T19:32:21.053Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "70ca191e6e4dd5c9058cea9fd4ab6b5b06e1c241ad4ba9caeb511a3946b6a12b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "aws",
-        "c++",
-        "cassandra",
-        "cloudformation",
-        "databricks",
-        "devsecops",
-        "docker",
-        "eks",
-        "hadoop",
-        "hive",
-        "java",
-        "kafka",
-        "kubernetes",
-        "machine learning",
-        "mongodb",
-        "mysql",
-        "python",
-        "redshift",
-        "scala",
-        "snowflake",
-        "spark",
-        "sql",
-        "terraform"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-05T19:32:21.053Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0239370",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Beavercreek",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Beavercreek, OH",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Data-Engineer_R0239370",
-    "job_posted_at_datetime_utc": "2026-05-05T19:32:21.053Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e7279b5d4e3362fc8e8ceb4c34dcf026beca6a7028eaaeb65b0bb8891f3f2c38",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "data science",
-        "data visualization",
-        "machine learning",
-        "natural language processing"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-05T19:32:21.053Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0239369",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Beavercreek",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Beavercreek, OH",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Data-Engineer_R0239369",
-    "job_posted_at_datetime_utc": "2026-05-05T19:32:21.053Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e7279b5d4e3362fc8e8ceb4c34dcf026beca6a7028eaaeb65b0bb8891f3f2c38",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "data science",
-        "data visualization",
-        "databricks",
-        "machine learning",
-        "natural language processing"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-05T19:32:21.053Z"
   },
   {
     "job_id": "greenhouse-andurilindustries-4998882007",
@@ -9840,87 +9504,6 @@
     "job_posted_at": "2026-05-05T19:02:13.112Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0239368",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Bremerton",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Bremerton, WA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Bremerton-WA/Data-Engineer_R0239368",
-    "job_posted_at_datetime_utc": "2026-05-05T18:47:38.651Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a526c8db2555fbab45c0c0829315d9697c61b77d0f49330148612b46d407162a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "aws",
-        "azure",
-        "cassandra",
-        "cloudformation",
-        "databricks",
-        "dynamodb",
-        "ec2",
-        "elt",
-        "etl",
-        "google cloud",
-        "hadoop",
-        "hive",
-        "iam",
-        "java",
-        "kafka",
-        "lambda",
-        "linux",
-        "machine learning",
-        "mongodb",
-        "mysql",
-        "python",
-        "rds",
-        "redshift",
-        "reporting",
-        "s3",
-        "scala",
-        "shell",
-        "shell scripting",
-        "snowflake",
-        "sns",
-        "spark",
-        "sql",
-        "sqs",
-        "unix"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-05T18:47:38.651Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0232783",
     "job_title": "Data Visualization Analyst",
     "employer_name": "Booz Allen Hamilton",
@@ -9976,143 +9559,6 @@
       "summary_line": null
     },
     "job_posted_at": "2026-05-05T18:32:26.476Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237867",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Camp Lejeune",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Camp Lejeune, NC",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Camp-Lejeune-NC/Data-Scientist_R0237867",
-    "job_posted_at_datetime_utc": "2026-05-05T18:32:26.476Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1584458c04c9e10c98d443678e6d147c76d7830cdb0db42e3d0ebd611e188710",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "aws",
-        "azure",
-        "data analysis",
-        "data visualization",
-        "feature engineering",
-        "machine learning",
-        "power bi",
-        "pyspark",
-        "python",
-        "r",
-        "regression",
-        "spark",
-        "sql",
-        "statistical analysis",
-        "tableau"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-05T18:32:26.476Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0239353",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fort Belvoir",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Fort Belvoir, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Belvoir-VA/Data-Engineer_R0239353",
-    "job_posted_at_datetime_utc": "2026-05-05T18:17:14.379Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7f8c2f5da2f84255e06427b6140b6b6f77271644ee8d20f5e4971dc9214c6c18",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "aws",
-        "azure",
-        "bitbucket",
-        "cassandra",
-        "databricks",
-        "elt",
-        "etl",
-        "github",
-        "gitlab",
-        "google cloud",
-        "hadoop",
-        "hive",
-        "java",
-        "kafka",
-        "linux",
-        "machine learning",
-        "mongodb",
-        "mysql",
-        "python",
-        "redshift",
-        "reporting",
-        "scala",
-        "shell",
-        "shell scripting",
-        "snowflake",
-        "spark",
-        "sql",
-        "unix"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-05T18:17:14.379Z"
   },
   {
     "job_id": "greenhouse-pendo-8533491002",
@@ -10336,66 +9782,6 @@
     "job_posted_at": "2026-05-05T16:58:58.756Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0236797",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "McLean, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Scientist_R0236797",
-    "job_posted_at_datetime_utc": "2026-05-05T16:47:24.420Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b404562bd8349f1f3b5b865c4ee0dac9e2dbe2cdafc4571764662c6ddbf0bd2e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "apache",
-        "apache spark",
-        "data analysis",
-        "data science",
-        "data visualization",
-        "fine-tuning",
-        "hadoop",
-        "large language model",
-        "llm",
-        "machine learning",
-        "model context protocol",
-        "natural language processing",
-        "python",
-        "spark",
-        "sql"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-05T16:47:24.420Z"
-  },
-  {
     "job_id": "lever-spotify-57247883-9d9f-44cb-aabc-d63553da53c2",
     "job_title": "Machine Learning Engineer - Subscriptions",
     "employer_name": "Spotify",
@@ -10451,66 +9837,6 @@
     "job_posted_at": "2026-05-05T16:46:32.904Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0239338",
-    "job_title": "Data Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Camp Lejeune",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Camp Lejeune, NC",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Camp-Lejeune-NC/Data-Analyst_R0239338",
-    "job_posted_at_datetime_utc": "2026-05-05T16:32:32.935Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4202530d9a246d1be54024761a5a47334c7d7a55e9303b1a552ebc7257999736",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "data analysis",
-        "data visualization",
-        "excel",
-        "machine learning",
-        "power bi",
-        "pyspark",
-        "python",
-        "r",
-        "spark",
-        "sql",
-        "statistical analysis",
-        "statistics",
-        "tableau"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-05T16:32:32.935Z"
-  },
-  {
     "job_id": "greenhouse-lyft-8536085002",
     "job_title": "Data Scientist, Algorithms, Optimization - Fulfillment",
     "employer_name": "Lyft",
@@ -10558,61 +9884,6 @@
       "summary_line": null
     },
     "job_posted_at": "2026-05-05T16:23:05.000Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026490878",
-    "job_title": "Atmospheric Scientist (Associate or Mid-Level)",
-    "employer_name": "Boeing",
-    "job_city": "Kirtland AFB",
-    "job_state": "NM",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Kirtland AFB, NM + 1 more",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kirtland-AFB-NM/Atmospheric-Scientist--Associate-or-Mid-Level-_JR2026490878-1",
-    "job_posted_at_datetime_utc": "2026-05-05T15:52:46.012Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "105c47de52207d8bdfc9d405022cff465c337cbd6955068b7e49338be88552c3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "data analysis",
-        "forecasting",
-        "fortran",
-        "java",
-        "labview",
-        "matlab",
-        "radar",
-        "statistics",
-        "system design"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-05T15:52:46.012Z"
   },
   {
     "job_id": "greenhouse-reddit-7871499",
@@ -10729,50 +10000,6 @@
     "job_posted_at": "2026-05-05T15:40:29.318Z"
   },
   {
-    "job_id": "workday-entegris-REQ-11623",
-    "job_title": "Research Scientist, Analytical R&D",
-    "employer_name": "Entegris",
-    "job_city": "Aurora",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Aurora, IL",
-    "job_apply_link": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Research-Scientist--Analytical-R-D_REQ-11623",
-    "job_posted_at_datetime_utc": "2026-05-05T15:32:00.798Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f68b4e43287a967a98c451027c7541dc53db1898c05dddb05ec6d056748c5e3c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "masters",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-05T15:32:00.798Z"
-  },
-  {
     "job_id": "workday-guidehouse-36810",
     "job_title": "Data Analyst",
     "employer_name": "Guidehouse",
@@ -10832,190 +10059,6 @@
       "summary_line": null
     },
     "job_posted_at": "2026-05-05T15:04:15.356Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0232485",
-    "job_title": "AI and ML Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Annapolis Junction",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Annapolis Junction, MD",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/AI-and-ML-Engineer_R0232485",
-    "job_posted_at_datetime_utc": "2026-05-05T14:47:28.887Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0d2b499e2b268777d95ec9c5f5da69dd88fe5733a928ae2c0f0fd4ba6230d3e2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "Natural Language Processing",
-        "aws",
-        "data analysis",
-        "deep learning",
-        "docker",
-        "fine-tuning",
-        "git",
-        "keras",
-        "kubernetes",
-        "langchain",
-        "llamaindex",
-        "llm",
-        "machine learning",
-        "natural language processing",
-        "python",
-        "pytorch",
-        "rag",
-        "regression",
-        "sagemaker",
-        "statistics",
-        "tensorflow"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-05T14:47:28.887Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0226438",
-    "job_title": "Artificial Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Herndon",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Herndon, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Herndon-VA/Artificial-Intelligence-Security-Analyst_R0226438",
-    "job_posted_at_datetime_utc": "2026-05-05T14:47:28.887Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ab53f5001efa445e5f32f080351acd2755709c613f0be60795f14e3cf3b7c4e3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cybersecurity",
-        "data pipeline",
-        "data science",
-        "nist",
-        "risk management"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "senior",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-05T14:47:28.887Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235651",
-    "job_title": "Agentic AI Machine Learning Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Washington, DC + 4 more",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Agentic-AI-Machine-Learning-Engineer_R0235651",
-    "job_posted_at_datetime_utc": "2026-05-05T14:47:28.887Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fae98e9a8ce2c68bb846a9d092a0024af5b9c25a35d0af1cf814baa4e6e47f8b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "Natural Language Processing",
-        "agentic",
-        "agents",
-        "aws",
-        "azure",
-        "computer vision",
-        "data science",
-        "deep learning",
-        "docker",
-        "grafana",
-        "kafka",
-        "kubernetes",
-        "langchain",
-        "llama",
-        "llamaindex",
-        "llm",
-        "machine learning",
-        "pytorch",
-        "reinforcement learning",
-        "signal processing",
-        "tensorflow"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-05T14:47:28.887Z"
   },
   {
     "job_id": "workday-capital-one-R240349",
@@ -11288,6 +10331,986 @@
     "job_posted_at": "2026-05-05T11:20:54.315Z"
   },
   {
+    "job_id": "workday-entegris-REQ-11623",
+    "job_title": "Research Scientist, Analytical R&D",
+    "employer_name": "Entegris",
+    "job_city": "Aurora",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Aurora, IL",
+    "job_apply_link": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Research-Scientist--Analytical-R-D_REQ-11623",
+    "job_posted_at_datetime_utc": "2026-05-05T08:01:58.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f68b4e43287a967a98c451027c7541dc53db1898c05dddb05ec6d056748c5e3c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "masters",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-05T08:01:58.048Z"
+  },
+  {
+    "job_id": "workday-caci-325754",
+    "job_title": "Data Scientist",
+    "employer_name": "CACI",
+    "job_city": "US CO Denver",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US CO Denver",
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Data-Scientist_325754",
+    "job_posted_at_datetime_utc": "2026-05-05T08:01:55.672Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f12cc0b5ccc22ef5c89c818bbcb867ffe58ca5d5483a377dbbf4487da01759e2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "python"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-05T08:01:55.672Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239378",
+    "job_title": "Data Engineer and Application Developer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Camp H.M. Smith",
+    "job_state": "HI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Camp H.M. Smith, HI",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Camp-HM-Smith-HI/Data-Engineer-and-Application-Developer_R0239378",
+    "job_posted_at_datetime_utc": "2026-05-05T08:01:31.310Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "70ca191e6e4dd5c9058cea9fd4ab6b5b06e1c241ad4ba9caeb511a3946b6a12b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "aws",
+        "c++",
+        "cassandra",
+        "cloudformation",
+        "databricks",
+        "devsecops",
+        "docker",
+        "eks",
+        "hadoop",
+        "hive",
+        "java",
+        "kafka",
+        "kubernetes",
+        "machine learning",
+        "mongodb",
+        "mysql",
+        "python",
+        "redshift",
+        "scala",
+        "snowflake",
+        "spark",
+        "sql",
+        "terraform"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-05T08:01:31.310Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239377",
+    "job_title": "Data Engineer and Application Developer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Camp H.M. Smith",
+    "job_state": "HI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Camp H.M. Smith, HI",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Camp-HM-Smith-HI/Data-Engineer-and-Application-Developer_R0239377",
+    "job_posted_at_datetime_utc": "2026-05-05T08:01:31.310Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "70ca191e6e4dd5c9058cea9fd4ab6b5b06e1c241ad4ba9caeb511a3946b6a12b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "aws",
+        "c++",
+        "cassandra",
+        "cloudformation",
+        "databricks",
+        "devsecops",
+        "docker",
+        "eks",
+        "hadoop",
+        "hive",
+        "java",
+        "kafka",
+        "kubernetes",
+        "machine learning",
+        "mongodb",
+        "mysql",
+        "python",
+        "redshift",
+        "scala",
+        "snowflake",
+        "spark",
+        "sql",
+        "terraform"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-05T08:01:31.310Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239376",
+    "job_title": "Data Engineer and Application Developer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Camp H.M. Smith",
+    "job_state": "HI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Camp H.M. Smith, HI",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Camp-HM-Smith-HI/Data-Engineer-and-Application-Developer_R0239376",
+    "job_posted_at_datetime_utc": "2026-05-05T08:01:31.310Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "70ca191e6e4dd5c9058cea9fd4ab6b5b06e1c241ad4ba9caeb511a3946b6a12b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "aws",
+        "c++",
+        "cassandra",
+        "cloudformation",
+        "databricks",
+        "devsecops",
+        "docker",
+        "eks",
+        "hadoop",
+        "hive",
+        "java",
+        "kafka",
+        "kubernetes",
+        "machine learning",
+        "mongodb",
+        "mysql",
+        "python",
+        "redshift",
+        "scala",
+        "snowflake",
+        "spark",
+        "sql",
+        "terraform"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-05T08:01:31.310Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239370",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Beavercreek",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Beavercreek, OH",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Data-Engineer_R0239370",
+    "job_posted_at_datetime_utc": "2026-05-05T08:01:31.310Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e7279b5d4e3362fc8e8ceb4c34dcf026beca6a7028eaaeb65b0bb8891f3f2c38",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "data science",
+        "data visualization",
+        "machine learning",
+        "natural language processing"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-05T08:01:31.310Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239369",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Beavercreek",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Beavercreek, OH",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Data-Engineer_R0239369",
+    "job_posted_at_datetime_utc": "2026-05-05T08:01:31.310Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e7279b5d4e3362fc8e8ceb4c34dcf026beca6a7028eaaeb65b0bb8891f3f2c38",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "data science",
+        "data visualization",
+        "databricks",
+        "machine learning",
+        "natural language processing"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-05T08:01:31.310Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239368",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Bremerton",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bremerton, WA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Bremerton-WA/Data-Engineer_R0239368",
+    "job_posted_at_datetime_utc": "2026-05-05T08:01:31.310Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a526c8db2555fbab45c0c0829315d9697c61b77d0f49330148612b46d407162a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "aws",
+        "azure",
+        "cassandra",
+        "cloudformation",
+        "databricks",
+        "dynamodb",
+        "ec2",
+        "elt",
+        "etl",
+        "google cloud",
+        "hadoop",
+        "hive",
+        "iam",
+        "java",
+        "kafka",
+        "lambda",
+        "linux",
+        "machine learning",
+        "mongodb",
+        "mysql",
+        "python",
+        "rds",
+        "redshift",
+        "reporting",
+        "s3",
+        "scala",
+        "shell",
+        "shell scripting",
+        "snowflake",
+        "sns",
+        "spark",
+        "sql",
+        "sqs",
+        "unix"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-05T08:01:31.310Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237867",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Camp Lejeune",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Camp Lejeune, NC",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Camp-Lejeune-NC/Data-Scientist_R0237867",
+    "job_posted_at_datetime_utc": "2026-05-05T08:01:31.310Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1584458c04c9e10c98d443678e6d147c76d7830cdb0db42e3d0ebd611e188710",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "aws",
+        "azure",
+        "data analysis",
+        "data visualization",
+        "feature engineering",
+        "machine learning",
+        "power bi",
+        "pyspark",
+        "python",
+        "r",
+        "regression",
+        "spark",
+        "sql",
+        "statistical analysis",
+        "tableau"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-05T08:01:31.310Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239353",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fort Belvoir",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Fort Belvoir, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Belvoir-VA/Data-Engineer_R0239353",
+    "job_posted_at_datetime_utc": "2026-05-05T08:01:31.310Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7f8c2f5da2f84255e06427b6140b6b6f77271644ee8d20f5e4971dc9214c6c18",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "aws",
+        "azure",
+        "bitbucket",
+        "cassandra",
+        "databricks",
+        "elt",
+        "etl",
+        "github",
+        "gitlab",
+        "google cloud",
+        "hadoop",
+        "hive",
+        "java",
+        "kafka",
+        "linux",
+        "machine learning",
+        "mongodb",
+        "mysql",
+        "python",
+        "redshift",
+        "reporting",
+        "scala",
+        "shell",
+        "shell scripting",
+        "snowflake",
+        "spark",
+        "sql",
+        "unix"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-05T08:01:31.310Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239338",
+    "job_title": "Data Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Camp Lejeune",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Camp Lejeune, NC",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Camp-Lejeune-NC/Data-Analyst_R0239338",
+    "job_posted_at_datetime_utc": "2026-05-05T08:01:31.310Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4202530d9a246d1be54024761a5a47334c7d7a55e9303b1a552ebc7257999736",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "data analysis",
+        "data visualization",
+        "excel",
+        "machine learning",
+        "power bi",
+        "pyspark",
+        "python",
+        "r",
+        "spark",
+        "sql",
+        "statistical analysis",
+        "statistics",
+        "tableau"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-05T08:01:31.310Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0236797",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "McLean, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Scientist_R0236797",
+    "job_posted_at_datetime_utc": "2026-05-05T08:01:31.310Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b404562bd8349f1f3b5b865c4ee0dac9e2dbe2cdafc4571764662c6ddbf0bd2e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "apache",
+        "apache spark",
+        "data analysis",
+        "data science",
+        "data visualization",
+        "fine-tuning",
+        "hadoop",
+        "large language model",
+        "llm",
+        "machine learning",
+        "model context protocol",
+        "natural language processing",
+        "python",
+        "spark",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-05T08:01:31.310Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0232485",
+    "job_title": "AI and ML Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Annapolis Junction",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Annapolis Junction, MD",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/AI-and-ML-Engineer_R0232485",
+    "job_posted_at_datetime_utc": "2026-05-05T08:01:31.310Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0d2b499e2b268777d95ec9c5f5da69dd88fe5733a928ae2c0f0fd4ba6230d3e2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "Natural Language Processing",
+        "aws",
+        "data analysis",
+        "deep learning",
+        "docker",
+        "fine-tuning",
+        "git",
+        "keras",
+        "kubernetes",
+        "langchain",
+        "llamaindex",
+        "llm",
+        "machine learning",
+        "natural language processing",
+        "python",
+        "pytorch",
+        "rag",
+        "regression",
+        "sagemaker",
+        "statistics",
+        "tensorflow"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-05T08:01:31.310Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0226438",
+    "job_title": "Artificial Intelligence Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Herndon",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Herndon, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Herndon-VA/Artificial-Intelligence-Security-Analyst_R0226438",
+    "job_posted_at_datetime_utc": "2026-05-05T08:01:31.310Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ab53f5001efa445e5f32f080351acd2755709c613f0be60795f14e3cf3b7c4e3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cybersecurity",
+        "data pipeline",
+        "data science",
+        "nist",
+        "risk management"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-05T08:01:31.310Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235651",
+    "job_title": "Agentic AI Machine Learning Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Washington, DC + 4 more",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Agentic-AI-Machine-Learning-Engineer_R0235651",
+    "job_posted_at_datetime_utc": "2026-05-05T08:01:31.310Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fae98e9a8ce2c68bb846a9d092a0024af5b9c25a35d0af1cf814baa4e6e47f8b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "Natural Language Processing",
+        "agentic",
+        "agents",
+        "aws",
+        "azure",
+        "computer vision",
+        "data science",
+        "deep learning",
+        "docker",
+        "grafana",
+        "kafka",
+        "kubernetes",
+        "langchain",
+        "llama",
+        "llamaindex",
+        "llm",
+        "machine learning",
+        "pytorch",
+        "reinforcement learning",
+        "signal processing",
+        "tensorflow"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-05T08:01:31.310Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026490878",
+    "job_title": "Atmospheric Scientist (Associate or Mid-Level)",
+    "employer_name": "Boeing",
+    "job_city": "Kirtland AFB",
+    "job_state": "NM",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Kirtland AFB, NM + 1 more",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kirtland-AFB-NM/Atmospheric-Scientist--Associate-or-Mid-Level-_JR2026490878-1",
+    "job_posted_at_datetime_utc": "2026-05-05T08:01:28.675Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "105c47de52207d8bdfc9d405022cff465c337cbd6955068b7e49338be88552c3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "data analysis",
+        "forecasting",
+        "fortran",
+        "java",
+        "labview",
+        "matlab",
+        "radar",
+        "statistics",
+        "system design"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-05T08:01:28.675Z"
+  },
+  {
     "job_id": "workday-vanguard-177760",
     "job_title": "Data Engineer, Specialist",
     "employer_name": "Vanguard",
@@ -11440,6 +11463,30 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "concurrency",
+        "deep learning",
+        "neural network",
+        "pytorch",
+        "rust",
+        "scalability",
+        "tensorflow"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-05T07:49:13.760Z"
   },
   {
@@ -12393,68 +12440,6 @@
     "job_posted_at": "2026-05-04T21:01:34.324Z"
   },
   {
-    "job_id": "workday-trimble-R55276",
-    "job_title": "Data/Analytics Engineer",
-    "employer_name": "Trimble",
-    "job_city": "US CO Westminster",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US CO Westminster + 1 more",
-    "job_apply_link": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Data-Analytics-Engineer_R55276",
-    "job_posted_at_datetime_utc": "2026-05-04T20:09:05.646Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b3fbd604c25ef53070a3a8175916c0d3b282187ac13b33598ab0e1932661b50e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "business intelligence",
-        "computer science",
-        "dashboards",
-        "data analysis",
-        "data architecture",
-        "data governance",
-        "data integration",
-        "data pipeline",
-        "data quality",
-        "data science",
-        "data visualization",
-        "etl",
-        "python",
-        "reporting",
-        "snowflake",
-        "sql"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-04T20:09:05.646Z"
-  },
-  {
     "job_id": "workday-guidehouse-36116",
     "job_title": "Data Analyst/FM Product Consultant",
     "employer_name": "Guidehouse",
@@ -12922,58 +12907,6 @@
     "job_posted_at": "2026-05-04T17:31:27.000Z"
   },
   {
-    "job_id": "workday-caci-323962",
-    "job_title": "Data Scientist for Analytics (Engineer/Scientist Support)",
-    "employer_name": "CACI",
-    "job_city": "US CA Norco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US CA Norco",
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CA-Norco/Data-Scientist-for-Analytics--Engineer-Scientist-Support-_323962",
-    "job_posted_at_datetime_utc": "2026-05-04T16:04:50.333Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e0ff68a02f3c6672497a989ff162bcae7ad257476ba58d8953dc59b17dde1664",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "data analysis",
-        "matlab",
-        "process improvement",
-        "python",
-        "radar",
-        "reporting"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-04T16:04:50.333Z"
-  },
-  {
     "job_id": "sr-VeoliaEnvironnementSA-744000124462989",
     "job_title": "Data Analytics Manager - Meter & NRW",
     "employer_name": "Veolia Environnement SA",
@@ -13070,54 +13003,6 @@
       "summary_line": null
     },
     "job_posted_at": "2026-05-04T15:31:55.317Z"
-  },
-  {
-    "job_id": "workday-caci-325630",
-    "job_title": "Open-Source Intelligence Analyst",
-    "employer_name": "CACI",
-    "job_city": "US CO Colorado Springs",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US CO Colorado Springs",
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Colorado-Springs/Open-Source-Intelligence-Analyst_325630",
-    "job_posted_at_datetime_utc": "2026-05-04T15:05:40.891Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7e6c3b80451abab6b13d37fcde0a9aa8368290be11f507bad88732435780d164",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "babel",
-        "information security",
-        "reporting"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "associates",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-04T15:05:40.891Z"
   },
   {
     "job_id": "apple-200661334",
@@ -13337,6 +13222,168 @@
       "summary_line": null
     },
     "job_posted_at": "2026-05-04T08:47:38.288Z"
+  },
+  {
+    "job_id": "workday-trimble-R55276",
+    "job_title": "Data/Analytics Engineer",
+    "employer_name": "Trimble",
+    "job_city": "US CO Westminster",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US CO Westminster + 1 more",
+    "job_apply_link": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Data-Analytics-Engineer_R55276",
+    "job_posted_at_datetime_utc": "2026-05-04T08:02:40.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b3fbd604c25ef53070a3a8175916c0d3b282187ac13b33598ab0e1932661b50e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "business intelligence",
+        "computer science",
+        "dashboards",
+        "data analysis",
+        "data architecture",
+        "data governance",
+        "data integration",
+        "data pipeline",
+        "data quality",
+        "data science",
+        "data visualization",
+        "etl",
+        "python",
+        "reporting",
+        "snowflake",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-04T08:02:40.046Z"
+  },
+  {
+    "job_id": "workday-caci-323962",
+    "job_title": "Data Scientist for Analytics (Engineer/Scientist Support)",
+    "employer_name": "CACI",
+    "job_city": "US CA Norco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US CA Norco",
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CA-Norco/Data-Scientist-for-Analytics--Engineer-Scientist-Support-_323962",
+    "job_posted_at_datetime_utc": "2026-05-04T08:01:55.672Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e0ff68a02f3c6672497a989ff162bcae7ad257476ba58d8953dc59b17dde1664",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data analysis",
+        "matlab",
+        "process improvement",
+        "python",
+        "radar",
+        "reporting"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-04T08:01:55.672Z"
+  },
+  {
+    "job_id": "workday-caci-325630",
+    "job_title": "Open-Source Intelligence Analyst",
+    "employer_name": "CACI",
+    "job_city": "US CO Colorado Springs",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US CO Colorado Springs",
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Colorado-Springs/Open-Source-Intelligence-Analyst_325630",
+    "job_posted_at_datetime_utc": "2026-05-04T08:01:55.672Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7e6c3b80451abab6b13d37fcde0a9aa8368290be11f507bad88732435780d164",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "babel",
+        "information security",
+        "reporting"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "associates",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-04T08:01:55.672Z"
   },
   {
     "job_id": "workday-vanguard-177212",
@@ -14642,60 +14689,6 @@
     "job_posted_at": "2026-05-04T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-f339852a-0ada-4e8a-9b8e-dc1683cef08f",
-    "job_title": "Applied Scientist, Customer Behavior Analytics",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Seattle, WA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10410096/applied-scientist-customer-behavior-analytics",
-    "job_posted_at_datetime_utc": "2026-05-04T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c44d449ddd203e9cecc0f53ef9db2a5beb4f4101b5b266ef893fdb22e3a54962",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "java",
-        "machine learning",
-        "python"
-      ],
-      "nice_to_have_skills": [
-        "deep learning"
-      ],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "masters",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-04T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-3b1c6303-b2e5-4afa-b5f7-3e7711cedd07",
     "job_title": "Applied Scientist, AWS Marketplace & Partner Services",
     "employer_name": "Amazon Web Services, Inc.",
@@ -14748,6 +14741,60 @@
       "is_remote": false,
       "has_description": true,
       "min_degree": "phd",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-f339852a-0ada-4e8a-9b8e-dc1683cef08f",
+    "job_title": "Applied Scientist, Customer Behavior Analytics",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Seattle, WA",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10410096/applied-scientist-customer-behavior-analytics",
+    "job_posted_at_datetime_utc": "2026-05-04T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c44d449ddd203e9cecc0f53ef9db2a5beb4f4101b5b266ef893fdb22e3a54962",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "java",
+        "machine learning",
+        "python"
+      ],
+      "nice_to_have_skills": [
+        "deep learning"
+      ],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "masters",
       "experience_level_from_desc": null,
       "question_count": null,
       "summary_line": null
