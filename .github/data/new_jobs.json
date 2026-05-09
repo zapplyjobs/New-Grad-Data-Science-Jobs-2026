@@ -51,8 +51,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": 11,
-      "summary_line": null
+      "question_count": 11
     },
     "job_posted_at": "2026-05-09T15:00:56.806Z"
   },
@@ -101,8 +100,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": 12,
-      "summary_line": null
+      "question_count": 12
     },
     "job_posted_at": "2026-05-09T04:19:29.000Z"
   },
@@ -164,8 +162,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-09T00:00:00.000Z"
   },
@@ -224,8 +221,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T23:32:09.742Z"
   },
@@ -268,8 +264,7 @@
       "has_description": false,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T23:18:54.110Z"
   },
@@ -326,8 +321,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": 9,
-      "summary_line": null
+      "question_count": 9
     },
     "job_posted_at": "2026-05-08T23:00:38.498Z"
   },
@@ -383,8 +377,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": 14,
-      "summary_line": null
+      "question_count": 14
     },
     "job_posted_at": "2026-05-08T22:52:54.588Z"
   },
@@ -442,8 +435,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": 15,
-      "summary_line": null
+      "question_count": 15
     },
     "job_posted_at": "2026-05-08T22:31:48.854Z"
   },
@@ -508,8 +500,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": 17,
-      "summary_line": null
+      "question_count": 17
     },
     "job_posted_at": "2026-05-08T21:39:54.000Z"
   },
@@ -561,8 +552,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T21:32:33.405Z"
   },
@@ -613,8 +603,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T21:17:42.710Z"
   },
@@ -670,8 +659,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "senior",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T21:03:03.863Z"
   },
@@ -736,8 +724,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T21:02:29.274Z"
   },
@@ -792,8 +779,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:35:13.809Z"
   },
@@ -850,8 +836,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:09:32.268Z"
   },
@@ -907,8 +892,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:09:09.823Z"
   },
@@ -954,8 +938,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "senior",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:08:38.175Z"
   },
@@ -1006,8 +989,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:08:09.776Z"
   },
@@ -1070,8 +1052,7 @@
       "has_description": true,
       "min_degree": "phd",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:07:39.277Z"
   },
@@ -1117,8 +1098,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:07:39.277Z"
   },
@@ -1181,8 +1161,7 @@
       "has_description": true,
       "min_degree": "phd",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:07:39.277Z"
   },
@@ -1231,8 +1210,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:07:09.322Z"
   },
@@ -1290,8 +1268,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:07:06.172Z"
   },
@@ -1340,8 +1317,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:07:01.395Z"
   },
@@ -1387,8 +1363,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:06:23.846Z"
   },
@@ -1447,8 +1422,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:06:17.664Z"
   },
@@ -1499,8 +1473,7 @@
       "has_description": true,
       "min_degree": "none",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:06:17.663Z"
   },
@@ -1557,8 +1530,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:06:12.939Z"
   },
@@ -1622,8 +1594,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:05:59.375Z"
   },
@@ -1681,8 +1652,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "senior",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:05:59.375Z"
   },
@@ -1745,8 +1715,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:05:59.375Z"
   },
@@ -1809,8 +1778,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:05:59.375Z"
   },
@@ -1866,8 +1834,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "senior",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:05:59.375Z"
   },
@@ -1926,8 +1893,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:05:48.507Z"
   },
@@ -1980,8 +1946,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:05:48.507Z"
   },
@@ -2026,8 +1991,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:05:48.507Z"
   },
@@ -2110,8 +2074,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "senior",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:05:48.507Z"
   },
@@ -2158,8 +2121,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:05:40.076Z"
   },
@@ -2215,8 +2177,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:05:40.076Z"
   },
@@ -2263,8 +2224,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:05:40.076Z"
   },
@@ -2314,8 +2274,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:05:25.554Z"
   },
@@ -2367,8 +2326,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:05:17.438Z"
   },
@@ -2422,8 +2380,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:05:17.438Z"
   },
@@ -2478,8 +2435,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "senior",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T20:05:17.438Z"
   },
@@ -2533,8 +2489,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": 17,
-      "summary_line": null
+      "question_count": 17
     },
     "job_posted_at": "2026-05-08T19:32:29.000Z"
   },
@@ -2585,8 +2540,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T18:45:47.291Z"
   },
@@ -2642,8 +2596,7 @@
       "has_description": true,
       "min_degree": "phd",
       "experience_level_from_desc": null,
-      "question_count": 15,
-      "summary_line": null
+      "question_count": 15
     },
     "job_posted_at": "2026-05-08T18:10:53.000Z"
   },
@@ -2699,8 +2652,7 @@
       "has_description": true,
       "min_degree": "phd",
       "experience_level_from_desc": null,
-      "question_count": 15,
-      "summary_line": null
+      "question_count": 15
     },
     "job_posted_at": "2026-05-08T18:10:53.000Z"
   },
@@ -2756,8 +2708,7 @@
       "has_description": true,
       "min_degree": "phd",
       "experience_level_from_desc": null,
-      "question_count": 15,
-      "summary_line": null
+      "question_count": 15
     },
     "job_posted_at": "2026-05-08T18:10:52.000Z"
   },
@@ -2829,8 +2780,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": 1,
-      "summary_line": null
+      "question_count": 1
     },
     "job_posted_at": "2026-05-08T18:02:43.935Z"
   },
@@ -2882,8 +2832,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": 18,
-      "summary_line": null
+      "question_count": 18
     },
     "job_posted_at": "2026-05-08T17:41:57.000Z"
   },
@@ -2943,8 +2892,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": 24,
-      "summary_line": null
+      "question_count": 24
     },
     "job_posted_at": "2026-05-08T16:16:55.767Z"
   },
@@ -2993,8 +2941,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": 2,
-      "summary_line": null
+      "question_count": 2
     },
     "job_posted_at": "2026-05-08T15:46:48.267Z"
   },
@@ -3046,8 +2993,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": 1,
-      "summary_line": null
+      "question_count": 1
     },
     "job_posted_at": "2026-05-08T15:19:25.241Z"
   },
@@ -3117,8 +3063,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": 16,
-      "summary_line": null
+      "question_count": 16
     },
     "job_posted_at": "2026-05-08T14:31:44.000Z"
   },
@@ -3168,8 +3113,7 @@
       "has_description": true,
       "min_degree": null,
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T04:21:00.863Z"
   },
@@ -3229,8 +3173,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T00:00:00.000Z"
   },
@@ -3295,8 +3238,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T00:00:00.000Z"
   },
@@ -3353,8 +3295,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T00:00:00.000Z"
   },
@@ -3408,8 +3349,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-08T00:00:00.000Z"
   },
@@ -3461,8 +3401,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T23:57:53.834Z"
   },
@@ -3543,8 +3482,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": 21,
-      "summary_line": null
+      "question_count": 21
     },
     "job_posted_at": "2026-05-07T23:45:49.381Z"
   },
@@ -3625,8 +3563,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": 21,
-      "summary_line": null
+      "question_count": 21
     },
     "job_posted_at": "2026-05-07T23:45:49.381Z"
   },
@@ -3680,8 +3617,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": 15,
-      "summary_line": null
+      "question_count": 15
     },
     "job_posted_at": "2026-05-07T22:45:56.166Z"
   },
@@ -3730,8 +3666,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T22:42:00.696Z"
   },
@@ -3782,8 +3717,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T21:51:49.000Z"
   },
@@ -3833,8 +3767,7 @@
       "has_description": true,
       "min_degree": null,
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T21:46:23.094Z"
   },
@@ -3881,8 +3814,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T20:12:44.232Z"
   },
@@ -3931,8 +3863,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T19:37:29.911Z"
   },
@@ -3989,8 +3920,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": 20,
-      "summary_line": null
+      "question_count": 20
     },
     "job_posted_at": "2026-05-07T18:16:13.000Z"
   },
@@ -4041,8 +3971,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T17:42:36.589Z"
   },
@@ -4102,8 +4031,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": 27,
-      "summary_line": null
+      "question_count": 27
     },
     "job_posted_at": "2026-05-07T16:31:12.000Z"
   },
@@ -4158,8 +4086,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T16:14:07.374Z"
   },
@@ -4207,8 +4134,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T14:47:59.879Z"
   },
@@ -4263,8 +4189,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": 13,
-      "summary_line": null
+      "question_count": 13
     },
     "job_posted_at": "2026-05-07T13:55:18.000Z"
   },
@@ -4318,8 +4243,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": 17,
-      "summary_line": null
+      "question_count": 17
     },
     "job_posted_at": "2026-05-07T12:31:37.459Z"
   },
@@ -4369,8 +4293,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": 3,
-      "summary_line": null
+      "question_count": 3
     },
     "job_posted_at": "2026-05-07T10:09:46.457Z"
   },
@@ -4424,8 +4347,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T08:16:31.066Z"
   },
@@ -4491,8 +4413,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T08:16:31.066Z"
   },
@@ -4558,8 +4479,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T08:16:31.066Z"
   },
@@ -4627,8 +4547,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T08:16:17.315Z"
   },
@@ -4702,8 +4621,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T08:01:58.164Z"
   },
@@ -4750,8 +4668,7 @@
       "has_description": true,
       "min_degree": "associates",
       "experience_level_from_desc": "senior",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T08:01:55.672Z"
   },
@@ -4805,8 +4722,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T08:01:55.671Z"
   },
@@ -4859,8 +4775,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T08:01:46.779Z"
   },
@@ -4915,8 +4830,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T08:01:31.308Z"
   },
@@ -4976,8 +4890,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T08:01:31.308Z"
   },
@@ -5029,8 +4942,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T08:01:31.308Z"
   },
@@ -5090,8 +5002,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T08:01:15.402Z"
   },
@@ -5160,8 +5071,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T07:50:22.971Z"
   },
@@ -5220,8 +5130,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T07:50:14.839Z"
   },
@@ -5276,8 +5185,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T07:49:13.759Z"
   },
@@ -5320,8 +5228,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T07:48:50.272Z"
   },
@@ -5371,8 +5278,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T07:48:35.388Z"
   },
@@ -5434,8 +5340,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T07:48:16.166Z"
   },
@@ -5488,8 +5393,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T07:48:06.428Z"
   },
@@ -5536,8 +5440,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T07:47:35.843Z"
   },
@@ -5584,8 +5487,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T07:47:35.843Z"
   },
@@ -5648,8 +5550,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T07:47:20.897Z"
   },
@@ -5708,8 +5609,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T07:46:51.095Z"
   },
@@ -5761,8 +5661,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T07:32:43.403Z"
   },
@@ -5814,8 +5713,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T07:32:43.402Z"
   },
@@ -5868,8 +5766,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T01:01:35.798Z"
   },
@@ -5923,8 +5820,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T00:00:00.000Z"
   },
@@ -5981,8 +5877,7 @@
       "has_description": true,
       "min_degree": "masters",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T00:00:00.000Z"
   },
@@ -6029,8 +5924,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T22:18:01.196Z"
   },
@@ -6096,8 +5990,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": 23,
-      "summary_line": null
+      "question_count": 23
     },
     "job_posted_at": "2026-05-06T22:01:32.977Z"
   },
@@ -6144,8 +6037,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T21:57:30.767Z"
   },
@@ -6194,8 +6086,7 @@
       "has_description": true,
       "min_degree": null,
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T20:43:44.269Z"
   },
@@ -6258,8 +6149,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": 20,
-      "summary_line": null
+      "question_count": 20
     },
     "job_posted_at": "2026-05-06T20:11:37.679Z"
   },
@@ -6309,8 +6199,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": 15,
-      "summary_line": null
+      "question_count": 15
     },
     "job_posted_at": "2026-05-06T16:16:43.676Z"
   },
@@ -6325,7 +6214,7 @@
     "job_location": "United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556652525",
     "job_posted_at_datetime_utc": "2026-05-06T13:54:49.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7fc63e40901d9dac3d79000702050e338e7c530d008c98ca2a3a378e5d3ce3eb",
     "tags": {
@@ -6362,8 +6251,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T13:54:49.000Z"
   },
@@ -6408,8 +6296,7 @@
       "has_description": true,
       "min_degree": "masters",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T11:47:15.586Z"
   },
@@ -6453,8 +6340,7 @@
       "has_description": false,
       "min_degree": null,
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T11:31:20.923Z"
   },
@@ -6497,8 +6383,7 @@
       "has_description": false,
       "min_degree": null,
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T11:31:20.571Z"
   },
@@ -6541,10 +6426,53 @@
       "has_description": false,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T11:31:20.571Z"
+  },
+  {
+    "job_id": "simplify-469bcd26-46bc-44f8-8e7a-d8e8eff93e82",
+    "job_title": "HR Data Analyst - Operations Analyst Program",
+    "employer_name": "Susquehanna International Group (SIG)",
+    "job_city": "Ardmore",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ardmore, PA",
+    "job_apply_link": "https://careers-sig.icims.com/jobs/10604/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a6565a5ca7d9e416cfef308603e7e07bb4f32f84211dadc8ade2f1f946a1c457",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T11:31:20.570Z"
   },
   {
     "job_id": "simplify-5a05b3b2-2805-4fa2-9f98-6346f0932a5d",
@@ -6585,8 +6513,7 @@
       "has_description": false,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T11:31:20.570Z"
   },
@@ -6630,8 +6557,7 @@
       "has_description": false,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T11:31:20.570Z"
   },
@@ -6675,53 +6601,7 @@
       "has_description": false,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T11:31:20.570Z"
-  },
-  {
-    "job_id": "simplify-469bcd26-46bc-44f8-8e7a-d8e8eff93e82",
-    "job_title": "HR Data Analyst - Operations Analyst Program",
-    "employer_name": "Susquehanna International Group (SIG)",
-    "job_city": "Ardmore",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ardmore, PA",
-    "job_apply_link": "https://careers-sig.icims.com/jobs/10604/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.570Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a6565a5ca7d9e416cfef308603e7e07bb4f32f84211dadc8ade2f1f946a1c457",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": false,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T11:31:20.570Z"
   },
@@ -6765,8 +6645,7 @@
       "has_description": false,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T11:31:20.570Z"
   },
@@ -6816,8 +6695,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T08:16:31.066Z"
   },
@@ -6889,8 +6767,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T08:16:31.066Z"
   },
@@ -6990,8 +6867,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T08:02:42.438Z"
   },
@@ -7059,8 +6935,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T08:02:26.393Z"
   },
@@ -7111,8 +6986,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "senior",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T08:01:55.672Z"
   },
@@ -7171,8 +7045,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T08:01:55.672Z"
   },
@@ -7223,8 +7096,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T08:01:31.807Z"
   },
@@ -7270,8 +7142,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T08:01:31.806Z"
   },
@@ -7323,8 +7194,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T08:01:31.309Z"
   },
@@ -7384,8 +7254,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T08:01:31.309Z"
   },
@@ -7454,8 +7323,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T08:01:31.309Z"
   },
@@ -7513,8 +7381,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T08:01:31.309Z"
   },
@@ -7575,8 +7442,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T08:01:31.309Z"
   },
@@ -7641,8 +7507,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T08:01:31.309Z"
   },
@@ -7703,8 +7568,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T08:01:31.309Z"
   },
@@ -7766,8 +7630,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T08:01:31.309Z"
   },
@@ -7826,8 +7689,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T08:01:31.309Z"
   },
@@ -7888,8 +7750,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T08:01:31.309Z"
   },
@@ -7952,8 +7813,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T08:01:31.309Z"
   },
@@ -8014,8 +7874,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T08:01:31.309Z"
   },
@@ -8068,8 +7927,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T07:50:22.971Z"
   },
@@ -8122,8 +7980,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T07:50:22.971Z"
   },
@@ -8186,8 +8043,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T07:49:49.785Z"
   },
@@ -8254,8 +8110,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T07:49:08.776Z"
   },
@@ -8302,8 +8157,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T07:48:50.273Z"
   },
@@ -8363,8 +8217,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T07:48:50.273Z"
   },
@@ -8429,8 +8282,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "senior",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T07:48:50.271Z"
   },
@@ -8485,8 +8337,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T07:48:47.145Z"
   },
@@ -8535,8 +8386,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T07:48:12.692Z"
   },
@@ -8586,8 +8436,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T07:46:51.095Z"
   },
@@ -8645,8 +8494,7 @@
       "has_description": true,
       "min_degree": "masters",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T00:00:00.000Z"
   },
@@ -8702,8 +8550,7 @@
       "has_description": true,
       "min_degree": "masters",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T00:00:00.000Z"
   },
@@ -8765,8 +8612,7 @@
       "has_description": true,
       "min_degree": "masters",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T00:00:00.000Z"
   },
@@ -8811,8 +8657,7 @@
       "has_description": false,
       "min_degree": "masters",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-06T00:00:00.000Z"
   },
@@ -8866,8 +8711,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": 12,
-      "summary_line": null
+      "question_count": 12
     },
     "job_posted_at": "2026-05-05T20:57:00.000Z"
   },
@@ -8921,8 +8765,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": 12,
-      "summary_line": null
+      "question_count": 12
     },
     "job_posted_at": "2026-05-05T20:56:59.000Z"
   },
@@ -8976,8 +8819,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": 12,
-      "summary_line": null
+      "question_count": 12
     },
     "job_posted_at": "2026-05-05T20:56:58.000Z"
   },
@@ -9031,8 +8873,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": 12,
-      "summary_line": null
+      "question_count": 12
     },
     "job_posted_at": "2026-05-05T20:56:57.000Z"
   },
@@ -9095,8 +8936,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T20:03:17.419Z"
   },
@@ -9167,8 +9007,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": 13,
-      "summary_line": null
+      "question_count": 13
     },
     "job_posted_at": "2026-05-05T19:46:57.812Z"
   },
@@ -9226,8 +9065,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T19:32:51.024Z"
   },
@@ -9280,8 +9118,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": 17,
-      "summary_line": null
+      "question_count": 17
     },
     "job_posted_at": "2026-05-05T19:31:45.340Z"
   },
@@ -9327,8 +9164,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T19:17:39.675Z"
   },
@@ -9386,8 +9222,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T19:02:13.112Z"
   },
@@ -9443,8 +9278,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "senior",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T18:32:26.476Z"
   },
@@ -9499,8 +9333,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": 11,
-      "summary_line": null
+      "question_count": 11
     },
     "job_posted_at": "2026-05-05T18:03:44.000Z"
   },
@@ -9555,8 +9388,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T17:33:22.778Z"
   },
@@ -9613,8 +9445,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T17:19:31.052Z"
   },
@@ -9664,8 +9495,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": 11,
-      "summary_line": null
+      "question_count": 11
     },
     "job_posted_at": "2026-05-05T16:58:58.756Z"
   },
@@ -9719,8 +9549,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": 3,
-      "summary_line": null
+      "question_count": 3
     },
     "job_posted_at": "2026-05-05T16:46:32.904Z"
   },
@@ -9768,8 +9597,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": 17,
-      "summary_line": null
+      "question_count": 17
     },
     "job_posted_at": "2026-05-05T16:23:05.000Z"
   },
@@ -9826,8 +9654,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": 14,
-      "summary_line": null
+      "question_count": 14
     },
     "job_posted_at": "2026-05-05T15:49:23.000Z"
   },
@@ -9882,8 +9709,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T15:40:29.318Z"
   },
@@ -9943,8 +9769,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T15:04:15.356Z"
   },
@@ -10011,8 +9836,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T14:17:42.676Z"
   },
@@ -10056,8 +9880,7 @@
       "has_description": false,
       "min_degree": null,
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T14:08:22.000Z"
   },
@@ -10104,8 +9927,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "senior",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T14:05:16.078Z"
   },
@@ -10152,8 +9974,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T12:42:30.891Z"
   },
@@ -10213,8 +10034,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "senior",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T11:20:54.315Z"
   },
@@ -10271,8 +10091,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T11:16:23.022Z"
   },
@@ -10329,8 +10148,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T08:16:31.067Z"
   },
@@ -10387,8 +10205,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T08:16:31.067Z"
   },
@@ -10440,8 +10257,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T08:16:23.065Z"
   },
@@ -10484,8 +10300,7 @@
       "has_description": true,
       "min_degree": "masters",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T08:01:58.048Z"
   },
@@ -10532,8 +10347,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T08:01:55.672Z"
   },
@@ -10602,8 +10416,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T08:01:31.310Z"
   },
@@ -10672,8 +10485,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T08:01:31.310Z"
   },
@@ -10742,8 +10554,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T08:01:31.310Z"
   },
@@ -10792,8 +10603,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T08:01:31.310Z"
   },
@@ -10843,8 +10653,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T08:01:31.310Z"
   },
@@ -10924,8 +10733,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T08:01:31.310Z"
   },
@@ -10986,8 +10794,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T08:01:31.310Z"
   },
@@ -11061,8 +10868,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T08:01:31.310Z"
   },
@@ -11121,8 +10927,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T08:01:31.310Z"
   },
@@ -11181,8 +10986,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T08:01:31.310Z"
   },
@@ -11247,8 +11051,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T08:01:31.310Z"
   },
@@ -11298,8 +11101,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "senior",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T08:01:31.310Z"
   },
@@ -11365,8 +11167,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T08:01:31.310Z"
   },
@@ -11420,8 +11221,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T08:01:28.675Z"
   },
@@ -11485,8 +11285,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T07:50:17.035Z"
   },
@@ -11541,8 +11340,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T07:50:02.462Z"
   },
@@ -11599,8 +11397,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T07:49:13.760Z"
   },
@@ -11658,8 +11455,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "senior",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T07:48:50.273Z"
   },
@@ -11724,8 +11520,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T07:48:50.273Z"
   },
@@ -11771,8 +11566,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T07:48:12.693Z"
   },
@@ -11822,8 +11616,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": 18,
-      "summary_line": null
+      "question_count": 18
     },
     "job_posted_at": "2026-05-05T03:23:55.000Z"
   },
@@ -11869,8 +11662,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T00:00:02.031Z"
   },
@@ -11937,8 +11729,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
@@ -12002,8 +11793,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
@@ -12055,8 +11845,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
@@ -12112,8 +11901,7 @@
       "has_description": true,
       "min_degree": "masters",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
@@ -12168,8 +11956,7 @@
       "has_description": true,
       "min_degree": "masters",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
@@ -12224,8 +12011,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
@@ -12280,8 +12066,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
@@ -12330,8 +12115,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
@@ -12404,8 +12188,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T00:00:00.000Z"
   },
@@ -12450,8 +12233,7 @@
       "has_description": false,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T23:01:51.186Z"
   },
@@ -12500,8 +12282,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T22:08:00.000Z"
   },
@@ -12549,8 +12330,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T21:01:34.324Z"
   },
@@ -12620,8 +12400,7 @@
       "has_description": true,
       "min_degree": "associates",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T19:44:45.956Z"
   },
@@ -12684,8 +12463,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T19:44:23.681Z"
   },
@@ -12732,8 +12510,7 @@
       "has_description": false,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T19:25:14.340Z"
   },
@@ -12791,8 +12568,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T19:09:55.767Z"
   },
@@ -12847,8 +12623,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T17:39:06.593Z"
   },
@@ -12901,8 +12676,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": 12,
-      "summary_line": null
+      "question_count": 12
     },
     "job_posted_at": "2026-05-04T17:35:21.000Z"
   },
@@ -12960,8 +12734,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": 12,
-      "summary_line": null
+      "question_count": 12
     },
     "job_posted_at": "2026-05-04T17:31:27.000Z"
   },
@@ -13010,8 +12783,7 @@
       "has_description": true,
       "min_degree": null,
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T15:52:23.698Z"
   },
@@ -13058,8 +12830,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T15:31:55.317Z"
   },
@@ -13107,8 +12878,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T13:17:56.037Z"
   },
@@ -13163,8 +12933,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T09:31:48.492Z"
   },
@@ -13229,8 +12998,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T08:47:38.288Z"
   },
@@ -13277,8 +13045,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T08:16:31.067Z"
   },
@@ -13333,8 +13100,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T08:16:31.067Z"
   },
@@ -13395,8 +13161,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T08:02:40.046Z"
   },
@@ -13447,8 +13212,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T08:01:55.672Z"
   },
@@ -13495,8 +13259,7 @@
       "has_description": true,
       "min_degree": "associates",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T08:01:55.672Z"
   },
@@ -13565,8 +13328,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T07:50:17.035Z"
   },
@@ -13616,8 +13378,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T07:50:17.035Z"
   },
@@ -13677,8 +13438,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "senior",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T07:50:17.035Z"
   },
@@ -13743,8 +13503,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T07:47:51.422Z"
   },
@@ -13802,8 +13561,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T07:47:51.422Z"
   },
@@ -13861,8 +13619,7 @@
       "has_description": true,
       "min_degree": "masters",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T07:47:32.388Z"
   },
@@ -13909,8 +13666,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T07:02:20.596Z"
   },
@@ -13972,8 +13728,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T07:02:20.596Z"
   },
@@ -14037,8 +13792,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T07:02:20.596Z"
   },
@@ -14085,8 +13839,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T07:02:20.595Z"
   },
@@ -14147,8 +13900,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T07:02:20.595Z"
   },
@@ -14202,8 +13954,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T07:02:20.595Z"
   },
@@ -14257,8 +14008,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T07:02:20.595Z"
   },
@@ -14307,8 +14057,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T07:02:20.595Z"
   },
@@ -14374,8 +14123,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T07:02:18.824Z"
   },
@@ -14458,8 +14206,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T07:02:12.538Z"
   },
@@ -14510,8 +14257,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T07:02:11.692Z"
   },
@@ -14562,8 +14308,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T07:02:11.692Z"
   },
@@ -14621,8 +14366,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "senior",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T07:02:08.882Z"
   },
@@ -14687,8 +14431,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T07:02:08.882Z"
   },
@@ -14735,8 +14478,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T03:16:36.706Z"
   },
@@ -14798,8 +14540,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T00:00:00.000Z"
   },
@@ -14857,8 +14598,7 @@
       "has_description": true,
       "min_degree": "phd",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T00:00:00.000Z"
   },
@@ -14911,8 +14651,7 @@
       "has_description": true,
       "min_degree": "masters",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T00:00:00.000Z"
   },
@@ -14966,8 +14705,7 @@
       "has_description": true,
       "min_degree": "masters",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-04T00:00:00.000Z"
   },
@@ -15017,8 +14755,7 @@
       "has_description": true,
       "min_degree": null,
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-03T13:38:58.097Z"
   },
@@ -15064,8 +14801,7 @@
       "has_description": false,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-03T09:11:43.838Z"
   },
@@ -15110,8 +14846,7 @@
       "has_description": false,
       "min_degree": "masters",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-03T09:11:43.838Z"
   },
@@ -15156,8 +14891,7 @@
       "has_description": false,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-03T09:11:43.838Z"
   },
@@ -15203,8 +14937,7 @@
       "has_description": false,
       "min_degree": "masters",
       "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
+      "question_count": null
     },
     "job_posted_at": "2026-05-03T09:11:43.838Z"
   }
