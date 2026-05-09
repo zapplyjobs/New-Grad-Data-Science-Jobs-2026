@@ -68,9 +68,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Snorkel AI** | Research Scientist - RL Training | Redwood City, CA ... | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/snorkelai/jobs/5973944004) |
+| 🏢 **Snorkel AI** | Research Scientist - RL Training | Redwood City, CA ... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/snorkelai/jobs/5973944004) |
 | 🏢 **JP Morgan Chase** | Data Scientist Associate | Plano, TX | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728426) |
-| 🏢 **Together AI** | Analytics Engineer — Data Warehouse | San Francisco | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/togetherai/jobs/5101651007) |
+| 🏢 **Together AI** | Analytics Engineer — Data Warehouse | San Francisco | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/togetherai/jobs/5101651007) |
 | 🏢 **OpenAI** | People Data Scientist | San Francisco | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/5a3aa817-6606-4490-b73e-c1bec8ba40ff/application) |
 | 🏢 **Airbnb** | Machine Learning Engineer, Relevance and Personalization | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.airbnb.com/positions/7708224?gh_jid=7708224) |
 | 🏢 **Booz Allen Hamilton** | Artificial Intelligence and Machine Learning Engineer | McLean, VA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Artificial-Intelligence-and-Machine-Learning-Engineer_R0239728) |
@@ -260,7 +260,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Leidos** | Data Engineer | Sterling, VA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Sterling-VA/Data-Engineer_R-00182598) |
 | 🏢 **Anduril** | Product Data Engineer | Costa Mesa, Calif... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5057159007?gh_jid=5057159007) |
 | 🏢 **Amazon.com Services LLC** | Data Engineer I, OTS - Data ANCHOR Team | Austin, TX | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10411487/data-engineer-i-ots-data-anchor-team) |
-| 🏢 **CVS Health** | Associate Data Engineer | Richardson, TX | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Richardson/Associate-Data-Engineer_R0861003) |
+| 🏢 **CVS Health** | Associate Data Engineer | Richardson, TX | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Richardson/Associate-Data-Engineer_R0861003) |
 | 🏢 **Walmart** | Manager, Data Engineering - Workforce Intelligence | Bentonville, AR | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Manager--Data-Engineering---Workforce-Intelligence_R-2492991) |
 | 🏢 **BaseLayer** | Data Engineer | San Francisco | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/baselayer/jobs/5209290008) |
 | 🏢 **Leidos** | Journeyman Data Engineer | Alexandria, VA + ... | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Journeyman-Data-Engineer_R-00180212) |
