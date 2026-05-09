@@ -4237,13 +4237,13 @@
       "nice_to_have_skills": [],
       "sponsors_visa": null,
       "possible_sponsor": true,
-      "visa_question_present": true,
+      "visa_question_present": false,
       "is_simple_apply": false,
       "is_remote": true,
       "has_description": true,
       "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": 17
+      "experience_level_from_desc": "mid_level",
+      "question_count": null
     },
     "job_posted_at": "2026-05-07T12:31:37.459Z"
   },
@@ -4293,7 +4293,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": 3
+      "question_count": 1
     },
     "job_posted_at": "2026-05-07T10:09:46.457Z"
   },
@@ -6214,7 +6214,7 @@
     "job_location": "United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556652525",
     "job_posted_at_datetime_utc": "2026-05-06T13:54:49.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "7fc63e40901d9dac3d79000702050e338e7c530d008c98ca2a3a378e5d3ce3eb",
     "tags": {
