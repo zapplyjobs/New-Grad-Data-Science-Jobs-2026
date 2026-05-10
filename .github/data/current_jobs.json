@@ -1,5 +1,143 @@
 [
   {
+    "job_id": "greenhouse-gusto-7848767",
+    "job_title": "Legal AI Engineer (Contractor)",
+    "employer_name": "Gusto",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "San Francisco, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; United States - Remote",
+    "job_apply_link": "https://job-boards.greenhouse.io/gusto/jobs/7848767",
+    "job_posted_at_datetime_utc": "2026-05-10T21:16:58.152Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a14cda4b30299c6d331c453d965ff0997ae1ef53fb79bfd21b26f2700f8f9dd2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "legal",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote",
+        "hybrid"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-10T21:16:58.152Z"
+  },
+  {
+    "job_id": "greenhouse-databricks-8531838002",
+    "job_title": "AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector",
+    "employer_name": "Databricks",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8531838002",
+    "job_posted_at_datetime_utc": "2026-05-10T21:16:54.836Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "da440d0b502c80db18042f927cd968de1ea897dac8c9b32b746c17ba0c5007eb",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "operations",
+        "software",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [
+        "unicorn"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-10T21:16:54.836Z"
+  },
+  {
+    "job_id": "lever-zoox-9176aa65-14e3-4f9d-98f9-e755e9777d67",
+    "job_title": "Software Engineer - Learned Trajectory Machine Learning Engineer",
+    "employer_name": "Zoox",
+    "job_city": "Foster City",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Foster City, CA",
+    "job_apply_link": "https://jobs.lever.co/zoox/9176aa65-14e3-4f9d-98f9-e755e9777d67/apply",
+    "job_posted_at_datetime_utc": "2026-05-10T21:16:53.927Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 189000,
+      "max": 270000,
+      "currency": "USD",
+      "interval": "per-year-salary"
+    },
+    "fingerprint": "15e787313a82737755fb896356cbfb29e2506119af7c61249ff1ba33a4511119",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "hybrid",
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-05-10T21:16:53.927Z"
+  },
+  {
+    "job_id": "greenhouse-biohub-7658780",
+    "job_title": "Postdoctoral Fellow, Transcription Regulation using Genomics and Machine Learning",
+    "employer_name": "Chan Zuckerberg Biohub",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York, NY (Onsite)",
+    "job_apply_link": "https://job-boards.greenhouse.io/biohub/jobs/7658780",
+    "job_posted_at_datetime_utc": "2026-05-10T21:16:51.570Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2db77359846f12b4eb9ee867da6e834415a7ecd8c760f7dc9c94839048830b8a",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-10T21:16:51.570Z"
+  },
+  {
     "job_id": "google-84953531798168262",
     "job_title": "Research Scientist, Robotics, DeepMind",
     "employer_name": "Google",
@@ -10104,6 +10242,36 @@
       "question_count": null
     },
     "job_posted_at": "2026-05-05T12:42:30.891Z"
+  },
+  {
+    "job_id": "greenhouse-latitude-7893857",
+    "job_title": "GIS Production Analyst (Contractor)",
+    "employer_name": "Latitude AI",
+    "job_city": "Pittsburgh",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Pittsburgh, PA",
+    "job_apply_link": "https://job-boards.greenhouse.io/latitude/jobs/7893857",
+    "job_posted_at_datetime_utc": "2026-05-05T11:59:54.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e875182de5e8bf701b7e748a6a08de22a34003b0deb2729386b9b19209c75c64",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-05T11:59:54.000Z"
   },
   {
     "job_id": "workday-rtx-01842571",

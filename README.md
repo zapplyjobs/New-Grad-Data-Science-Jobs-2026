@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-259-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-91-blue?style=flat&logo=building)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-264-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-95-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -68,6 +68,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| 🏢 **Zoox** | Software Engineer - Learned Trajectory Machine Learning Engineer | Foster City, CA | 14m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/zoox/9176aa65-14e3-4f9d-98f9-e755e9777d67/apply) |
 | 🏢 **Google** | Research Scientist, Robotics, DeepMind | United States | 14h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/84953531798168262) |
 | 🏢 **Google** | Research Scientist, Mechanistic Interpretability, Special Projects | United States | 14h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/124818387447489222) |
 | 🏢 **Google** | Research Scientist, System Qubit Calibration, Benchmarking, Modeling, Quantum | United States | 14h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/126758939571167942) |
@@ -212,6 +213,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Oscar Health** | Associate, Provider Data Analytics | Atlanta, Georgia,... | 5d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7895869?gh_jid=7895869) |
 | 🏢 **Oscar Health** | Associate, Provider Data Analytics | Dallas, Texas, Un... | 5d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7895868?gh_jid=7895868) |
 | 🏢 **Oscar Health** | Associate, Provider Data Analytics | Tempe, Arizona, U... | 5d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7895866?gh_jid=7895866) |
+| 🏢 **Latitude AI** | GIS Production Analyst (Contractor) | Pittsburgh, PA | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/latitude/jobs/7893857) |
 | 🏢 **KBR** | Elint Analyst | Beavercreek Towns... | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/Elint-Analyst_R2122944) |
 | 🏢 **Amazon.com Services LLC** | Data Engineer, AIR DABI (Data Analytics and Business Intelligence) | Bellevue, WA | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10411675/data-engineer-air-dabi-data-analytics-and-business-intelligence) |
 | 🏢 **Apple** | Health Systems Data Quality Engineer | Sunnyvale | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200648750/health-systems-data-quality-engineer) |
@@ -291,6 +293,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| 🏢 **Gusto** | Legal AI Engineer (Contractor) | San Francisco, CA... | 14m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/gusto/jobs/7848767) |
+| 🏢 **Databricks** | AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector | United States | 14m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8531838002) |
+| 🏢 **Chan Zuckerberg Biohub** | Postdoctoral Fellow, Transcription Regulation using Genomics and Machine Learning | New York, NY (Ons... | 14m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/7658780) |
 | 🏢 **CrowdStrike** | Machine Learning Detection Engineer (Remote, East/Central) | 34 Locations | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-VA/Machine-Learning-Detection-Engineer--Remote--East-Central-_R27809) |
 | 🏢 **Anaplan** | Associate GTM AI Engineer | San Francisco, Un... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/anaplan/jobs/8538805002) |
 | 🏢 **Capco** | Junior AI Engineer | Baltimore | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/7908493) |
@@ -366,7 +371,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 259 current opportunities from 91 companies**
+**🎯 264 current opportunities from 95 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
