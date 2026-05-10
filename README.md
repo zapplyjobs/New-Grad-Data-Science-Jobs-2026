@@ -68,9 +68,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Google** | Research Scientist, Robotics, DeepMind | United States | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/84953531798168262) |
-| 🏢 **Google** | Research Scientist, Mechanistic Interpretability, Special Projects | United States | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/124818387447489222) |
-| 🏢 **Google** | Research Scientist, System Qubit Calibration, Benchmarking, Modeling, Quantum | United States | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/126758939571167942) |
+| 🏢 **Google** | Research Scientist, Robotics, DeepMind | United States | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/84953531798168262) |
+| 🏢 **Google** | Research Scientist, Mechanistic Interpretability, Special Projects | United States | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/124818387447489222) |
+| 🏢 **Google** | Research Scientist, System Qubit Calibration, Benchmarking, Modeling, Quantum | United States | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/126758939571167942) |
 | 🏢 **Snorkel AI** | Research Scientist - RL Training | Redwood City, CA ... | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/snorkelai/jobs/5973944004) |
 | 🏢 **JP Morgan Chase** | Data Scientist Associate | Plano, TX | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728426) |
 | 🏢 **Together AI** | Analytics Engineer — Data Warehouse | San Francisco | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/togetherai/jobs/5101651007) |
@@ -293,7 +293,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | 🏢 **CrowdStrike** | Machine Learning Detection Engineer (Remote, East/Central) | 34 Locations | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-VA/Machine-Learning-Detection-Engineer--Remote--East-Central-_R27809) |
 | 🏢 **Anaplan** | Associate GTM AI Engineer | San Francisco, Un... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/anaplan/jobs/8538805002) |
-| 🏢 **Capco** | Junior AI Engineer | Baltimore | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/7908493) |
+| 🏢 **Capco** | Junior AI Engineer | Baltimore | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/7908493) |
 | 🏢 **Apple** | Manager, Machine Learning Infrastructure - SIML | Cupertino | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200661779/manager-machine-learning-infrastructure-siml) |
 | 🏢 **Apple** | Large Machine Learning Model Optimization Engineer, SIML | Seattle | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200626700/large-machine-learning-model-optimization-engineer-siml) |
 | 🏢 **LinkedIn** | Manager, Hirer AI, Machine Learning | Sunnyvale, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000125228129) |
