@@ -754,62 +754,6 @@
     "job_posted_at": "2026-05-08T21:17:42.710Z"
   },
   {
-    "job_id": "workday-keybank-R-38909",
-    "job_title": "Data & Business Intelligence Manager - Client Assurance, Protection & Controls (Commercial Onboarding & Servicing)",
-    "employer_name": "KeyBank",
-    "job_city": "Brooklyn",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Brooklyn, OH",
-    "job_apply_link": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Data---Business-Intelligence-Manager----Loan---Payment--and-Operational-Services--LPOS-_R-38909",
-    "job_posted_at_datetime_utc": "2026-05-08T21:03:03.863Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e62f0e9b6aa1f710145c9f9b1fd6b36150dd3769c3792ee4fee9f4aa9d09a4db",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "business intelligence",
-        "cam",
-        "computer science",
-        "dashboards",
-        "data governance",
-        "data quality",
-        "google cloud",
-        "python",
-        "reporting",
-        "sql",
-        "statistics"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "senior",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-08T21:03:03.863Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0239728",
     "job_title": "Artificial Intelligence and Machine Learning Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -1041,52 +985,6 @@
       "question_count": null
     },
     "job_posted_at": "2026-05-08T20:09:09.823Z"
-  },
-  {
-    "job_id": "workday-rtx-01843787",
-    "job_title": "Intelligence Analyst",
-    "employer_name": "RTX",
-    "job_city": "CO-BUCKLEY-SFB-CUST ~ 18500 E 6th Ave ~ BUCKLEY SFB",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US-CO-BUCKLEY-SFB-CUST ~ 18500 E 6th Ave ~ BUCKLEY SFB",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-BUCKLEY-SFB-CUST--18500-E-6th-Ave--BUCKLEY-SFB-External-Site/Intelligence-Analyst_01843787",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.175Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "365191fda9fb902b7c5a22f26074f08fe7490ce70b0956cf9dffc39833c43c21",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "reporting"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "senior",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-08T20:08:38.175Z"
   },
   {
     "job_id": "workday-morgan-stanley-PT-JR035070",
@@ -2288,167 +2186,6 @@
     "job_posted_at": "2026-05-08T20:05:25.554Z"
   },
   {
-    "job_id": "workday-adobe-R168609",
-    "job_title": "Applied Scientist",
-    "employer_name": "Adobe",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose",
-    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Applied-Scientist_R168609",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:17.438Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ec9941281148dce4c6535d234d6d818a7e3280537eab7e2132486d3e243d946e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "deep learning",
-        "express",
-        "generative ai",
-        "machine learning",
-        "multimodal",
-        "python",
-        "pytorch"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-08T20:05:17.438Z"
-  },
-  {
-    "job_id": "workday-adobe-R168028",
-    "job_title": "Advanced Analytics & Reporting Analyst 3",
-    "employer_name": "Adobe",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose",
-    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Advanced-Analytics---Reporting-Analyst-3_R168028",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:17.438Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "137e96fef30897e4dc78171c9a159c0736ee4fbc4dac189588d3400321639911",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "dashboards",
-        "data modeling",
-        "databricks",
-        "elt",
-        "etl",
-        "express",
-        "power bi",
-        "python",
-        "reporting"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-08T20:05:17.438Z"
-  },
-  {
-    "job_id": "workday-adobe-R166794",
-    "job_title": "Machine Learning Engineer 4",
-    "employer_name": "Adobe",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose",
-    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer-4_R166794",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:17.438Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "05904ea2b111a8d30f24a31bf1c3e0076b9e4a1758ee6e606b27cf04bb16bc58",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "dashboards",
-        "data science",
-        "express",
-        "machine learning",
-        "pyspark",
-        "python",
-        "reporting",
-        "sql",
-        "statistics"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "senior",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-08T20:05:17.438Z"
-  },
-  {
     "job_id": "greenhouse-airbnb-7904127",
     "job_title": "Data Scientist, Platform - Martech",
     "employer_name": "Airbnb",
@@ -3075,6 +2812,269 @@
       "question_count": 16
     },
     "job_posted_at": "2026-05-08T14:31:44.000Z"
+  },
+  {
+    "job_id": "workday-keybank-R-38909",
+    "job_title": "Data & Business Intelligence Manager - Client Assurance, Protection & Controls (Commercial Onboarding & Servicing)",
+    "employer_name": "KeyBank",
+    "job_city": "Brooklyn",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Brooklyn, OH",
+    "job_apply_link": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Data---Business-Intelligence-Manager----Loan---Payment--and-Operational-Services--LPOS-_R-38909",
+    "job_posted_at_datetime_utc": "2026-05-08T07:01:34.834Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e62f0e9b6aa1f710145c9f9b1fd6b36150dd3769c3792ee4fee9f4aa9d09a4db",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "business intelligence",
+        "cam",
+        "computer science",
+        "dashboards",
+        "data governance",
+        "data quality",
+        "google cloud",
+        "python",
+        "reporting",
+        "sql",
+        "statistics"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-08T07:01:34.834Z"
+  },
+  {
+    "job_id": "workday-adobe-R168609",
+    "job_title": "Applied Scientist",
+    "employer_name": "Adobe",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose",
+    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Applied-Scientist_R168609",
+    "job_posted_at_datetime_utc": "2026-05-08T07:01:30.804Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ec9941281148dce4c6535d234d6d818a7e3280537eab7e2132486d3e243d946e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "deep learning",
+        "express",
+        "generative ai",
+        "machine learning",
+        "multimodal",
+        "python",
+        "pytorch"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-08T07:01:30.804Z"
+  },
+  {
+    "job_id": "workday-adobe-R168028",
+    "job_title": "Advanced Analytics & Reporting Analyst 3",
+    "employer_name": "Adobe",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose",
+    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Advanced-Analytics---Reporting-Analyst-3_R168028",
+    "job_posted_at_datetime_utc": "2026-05-08T07:01:30.804Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "137e96fef30897e4dc78171c9a159c0736ee4fbc4dac189588d3400321639911",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "dashboards",
+        "data modeling",
+        "databricks",
+        "elt",
+        "etl",
+        "express",
+        "power bi",
+        "python",
+        "reporting"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-08T07:01:30.804Z"
+  },
+  {
+    "job_id": "workday-adobe-R166794",
+    "job_title": "Machine Learning Engineer 4",
+    "employer_name": "Adobe",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose",
+    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer-4_R166794",
+    "job_posted_at_datetime_utc": "2026-05-08T07:01:30.804Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "05904ea2b111a8d30f24a31bf1c3e0076b9e4a1758ee6e606b27cf04bb16bc58",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "dashboards",
+        "data science",
+        "express",
+        "machine learning",
+        "pyspark",
+        "python",
+        "reporting",
+        "sql",
+        "statistics"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-08T07:01:30.804Z"
+  },
+  {
+    "job_id": "workday-rtx-01843787",
+    "job_title": "Intelligence Analyst",
+    "employer_name": "RTX",
+    "job_city": "CO-BUCKLEY-SFB-CUST ~ 18500 E 6th Ave ~ BUCKLEY SFB",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-CO-BUCKLEY-SFB-CUST ~ 18500 E 6th Ave ~ BUCKLEY SFB",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-BUCKLEY-SFB-CUST--18500-E-6th-Ave--BUCKLEY-SFB-External-Site/Intelligence-Analyst_01843787",
+    "job_posted_at_datetime_utc": "2026-05-08T07:01:24.319Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "365191fda9fb902b7c5a22f26074f08fe7490ce70b0956cf9dffc39833c43c21",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "reporting"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-08T07:01:24.319Z"
   },
   {
     "job_id": "apple-200661779",
@@ -4770,49 +4770,6 @@
     "job_posted_at": "2026-05-07T08:02:28.004Z"
   },
   {
-    "job_id": "workday-fidelity-investments-2128801",
-    "job_title": "Technical Research Analyst",
-    "employer_name": "Fidelity Investments",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Boston, MA",
-    "job_apply_link": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Boston-MA/Technical-Research-Analyst_2128801",
-    "job_posted_at_datetime_utc": "2026-05-07T08:01:58.164Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9c35651c9f8045125ee79862717bff7f54fccd45fda4abbc0fd05a5d2aea3701",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-07T08:01:58.164Z"
-  },
-  {
     "job_id": "workday-caci-325833",
     "job_title": "SIGINT Analysts (OP/Electronic Intelligence – ELINT)",
     "employer_name": "CACI",
@@ -5192,75 +5149,6 @@
       "question_count": null
     },
     "job_posted_at": "2026-05-07T08:01:15.402Z"
-  },
-  {
-    "job_id": "workday-visa-REF081770W",
-    "job_title": "Associate Data Scientist, New College Grad - 2026",
-    "employer_name": "Visa",
-    "job_city": "Foster City, CA",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US - Foster City, CA",
-    "job_apply_link": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Associate-Data-Scientist--New-College-Grad---2026_REF081770W-1",
-    "job_posted_at_datetime_utc": "2026-05-07T07:50:22.971Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9187d2851d5f6d555c51ece637266fd521f12963d2fdcc653c284198506a4d93",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "classification",
-        "computer science",
-        "cybersecurity",
-        "dashboards",
-        "data analysis",
-        "data governance",
-        "data quality",
-        "data science",
-        "excel",
-        "feature engineering",
-        "genai",
-        "generative ai",
-        "hive",
-        "jupyter",
-        "llm",
-        "machine learning",
-        "power bi",
-        "prompt engineering",
-        "python",
-        "regression",
-        "spark",
-        "sql",
-        "statistics",
-        "tableau"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-07T07:50:22.971Z"
   },
   {
     "job_id": "workday-warner-bros.-discovery-R000105204",
@@ -5810,7 +5698,7 @@
     "job_is_remote": false,
     "job_location": "New York New York + 1 more",
     "job_apply_link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Data-Scientist--FCRM-Model-Risk-Governance-Strategy_R_1484079",
-    "job_posted_at_datetime_utc": "2026-05-07T07:32:43.403Z",
+    "job_posted_at_datetime_utc": "2026-05-07T07:02:07.675Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "dcbc9f7e87fda1329028f80465e122f14edd3b178ab2a108603311e5bf7dc692",
@@ -5850,7 +5738,7 @@
       "experience_level_from_desc": "mid_level",
       "question_count": null
     },
-    "job_posted_at": "2026-05-07T07:32:43.403Z"
+    "job_posted_at": "2026-05-07T07:02:07.675Z"
   },
   {
     "job_id": "workday-td-bank-R_1487448",
@@ -5862,7 +5750,7 @@
     "job_is_remote": false,
     "job_location": "Mount Laurel, New Jersey",
     "job_apply_link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Data-Engineer-I--US-_R_1487448",
-    "job_posted_at_datetime_utc": "2026-05-07T07:32:43.402Z",
+    "job_posted_at_datetime_utc": "2026-05-07T07:02:07.674Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "295bac757a51e4d55373e9e618e2fab40fef32a0dedc5c243b6f9078fb1746db",
@@ -5902,7 +5790,119 @@
       "experience_level_from_desc": "entry_level",
       "question_count": null
     },
-    "job_posted_at": "2026-05-07T07:32:43.402Z"
+    "job_posted_at": "2026-05-07T07:02:07.674Z"
+  },
+  {
+    "job_id": "workday-visa-REF081770W",
+    "job_title": "Associate Data Scientist, New College Grad - 2026",
+    "employer_name": "Visa",
+    "job_city": "Foster City, CA",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US - Foster City, CA",
+    "job_apply_link": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Associate-Data-Scientist--New-College-Grad---2026_REF081770W-1",
+    "job_posted_at_datetime_utc": "2026-05-07T07:02:05.202Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9187d2851d5f6d555c51ece637266fd521f12963d2fdcc653c284198506a4d93",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "classification",
+        "computer science",
+        "cybersecurity",
+        "dashboards",
+        "data analysis",
+        "data governance",
+        "data quality",
+        "data science",
+        "excel",
+        "feature engineering",
+        "genai",
+        "generative ai",
+        "hive",
+        "jupyter",
+        "llm",
+        "machine learning",
+        "power bi",
+        "prompt engineering",
+        "python",
+        "regression",
+        "spark",
+        "sql",
+        "statistics",
+        "tableau"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-07T07:02:05.202Z"
+  },
+  {
+    "job_id": "workday-fidelity-investments-2128801",
+    "job_title": "Technical Research Analyst",
+    "employer_name": "Fidelity Investments",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Boston, MA",
+    "job_apply_link": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Boston-MA/Technical-Research-Analyst_2128801",
+    "job_posted_at_datetime_utc": "2026-05-07T07:01:33.591Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9c35651c9f8045125ee79862717bff7f54fccd45fda4abbc0fd05a5d2aea3701",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-07T07:01:33.591Z"
   },
   {
     "job_id": "apple-200651071",
@@ -8066,112 +8066,6 @@
     "job_posted_at": "2026-05-06T08:01:31.309Z"
   },
   {
-    "job_id": "workday-visa-REF080626W",
-    "job_title": "Data Scientist",
-    "employer_name": "Visa",
-    "job_city": "Foster City, CA",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US - Foster City, CA",
-    "job_apply_link": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Scientist_REF080626W",
-    "job_posted_at_datetime_utc": "2026-05-06T07:50:22.971Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8534eec59a5e76050e4b48e4a32cbf0690e985e714be44273b4f42a4f15cb82b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "computer science",
-        "data science",
-        "excel",
-        "python",
-        "r",
-        "sql",
-        "statistics",
-        "tableau"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T07:50:22.971Z"
-  },
-  {
-    "job_id": "workday-visa-REF081617W",
-    "job_title": "Data Scientist - VCS",
-    "employer_name": "Visa",
-    "job_city": "Foster City, CA",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US - Foster City, CA",
-    "job_apply_link": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Scientist---VCS_REF081617W",
-    "job_posted_at_datetime_utc": "2026-05-06T07:50:22.971Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "786fd40010870aa338f4b7b0393682e4c0beb2d866d65445a31db7b6b91241c7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "computer science",
-        "data science",
-        "excel",
-        "python",
-        "r",
-        "sql",
-        "statistics",
-        "tableau"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T07:50:22.971Z"
-  },
-  {
     "job_id": "workday-target-R0000436797",
     "job_title": "Applied Data Scientist - Search Ranking (Applied ML, LLMs, NLP)",
     "employer_name": "Target",
@@ -8626,6 +8520,112 @@
       "question_count": null
     },
     "job_posted_at": "2026-05-06T07:46:51.095Z"
+  },
+  {
+    "job_id": "workday-visa-REF080626W",
+    "job_title": "Data Scientist",
+    "employer_name": "Visa",
+    "job_city": "Foster City, CA",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US - Foster City, CA",
+    "job_apply_link": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Scientist_REF080626W",
+    "job_posted_at_datetime_utc": "2026-05-06T07:02:05.202Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8534eec59a5e76050e4b48e4a32cbf0690e985e714be44273b4f42a4f15cb82b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "data science",
+        "excel",
+        "python",
+        "r",
+        "sql",
+        "statistics",
+        "tableau"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T07:02:05.202Z"
+  },
+  {
+    "job_id": "workday-visa-REF081617W",
+    "job_title": "Data Scientist - VCS",
+    "employer_name": "Visa",
+    "job_city": "Foster City, CA",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US - Foster City, CA",
+    "job_apply_link": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Scientist---VCS_REF081617W",
+    "job_posted_at_datetime_utc": "2026-05-06T07:02:05.202Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "786fd40010870aa338f4b7b0393682e4c0beb2d866d65445a31db7b6b91241c7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "data science",
+        "excel",
+        "python",
+        "r",
+        "sql",
+        "statistics",
+        "tableau"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T07:02:05.202Z"
   },
   {
     "job_id": "amazon-ee298c69-a83a-49ce-89a8-faccf2cbaa17",
@@ -10226,63 +10226,6 @@
     "job_posted_at": "2026-05-05T11:20:54.315Z"
   },
   {
-    "job_id": "workday-adobe-R165453",
-    "job_title": "Applied Scientist",
-    "employer_name": "Adobe",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose",
-    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Machine-Learning-Engineer_R165453-1",
-    "job_posted_at_datetime_utc": "2026-05-05T11:16:23.022Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ec9941281148dce4c6535d234d6d818a7e3280537eab7e2132486d3e243d946e",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "computer vision",
-        "deep learning",
-        "excel",
-        "express",
-        "fine-tuning",
-        "generative ai",
-        "machine learning",
-        "multimodal",
-        "natural language processing",
-        "pytorch",
-        "reinforcement learning",
-        "scalability"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-05T11:16:23.022Z"
-  },
-  {
     "job_id": "workday-guidehouse-39050",
     "job_title": "Foreign Assistance Data Scientist",
     "employer_name": "Guidehouse",
@@ -11359,60 +11302,6 @@
     "job_posted_at": "2026-05-05T08:01:31.310Z"
   },
   {
-    "job_id": "workday-boeing-JR2026490878",
-    "job_title": "Atmospheric Scientist (Associate or Mid-Level)",
-    "employer_name": "Boeing",
-    "job_city": "Kirtland AFB",
-    "job_state": "NM",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Kirtland AFB, NM + 1 more",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kirtland-AFB-NM/Atmospheric-Scientist--Associate-or-Mid-Level-_JR2026490878-1",
-    "job_posted_at_datetime_utc": "2026-05-05T08:01:28.675Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "105c47de52207d8bdfc9d405022cff465c337cbd6955068b7e49338be88552c3",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "data analysis",
-        "forecasting",
-        "fortran",
-        "java",
-        "labview",
-        "matlab",
-        "radar",
-        "statistics",
-        "system design"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-05T08:01:28.675Z"
-  },
-  {
     "job_id": "workday-vanguard-177760",
     "job_title": "Data Engineer, Specialist",
     "employer_name": "Vanguard",
@@ -11756,6 +11645,117 @@
       "question_count": null
     },
     "job_posted_at": "2026-05-05T07:48:12.693Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026490878",
+    "job_title": "Atmospheric Scientist (Associate or Mid-Level)",
+    "employer_name": "Boeing",
+    "job_city": "Kirtland AFB",
+    "job_state": "NM",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Kirtland AFB, NM + 1 more",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kirtland-AFB-NM/Atmospheric-Scientist--Associate-or-Mid-Level-_JR2026490878-1",
+    "job_posted_at_datetime_utc": "2026-05-05T07:01:33.367Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "105c47de52207d8bdfc9d405022cff465c337cbd6955068b7e49338be88552c3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "data analysis",
+        "forecasting",
+        "fortran",
+        "java",
+        "labview",
+        "matlab",
+        "radar",
+        "statistics",
+        "system design"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-05T07:01:33.367Z"
+  },
+  {
+    "job_id": "workday-adobe-R165453",
+    "job_title": "Applied Scientist",
+    "employer_name": "Adobe",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose",
+    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Machine-Learning-Engineer_R165453-1",
+    "job_posted_at_datetime_utc": "2026-05-05T07:01:30.805Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ec9941281148dce4c6535d234d6d818a7e3280537eab7e2132486d3e243d946e",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "computer vision",
+        "deep learning",
+        "excel",
+        "express",
+        "fine-tuning",
+        "generative ai",
+        "machine learning",
+        "multimodal",
+        "natural language processing",
+        "pytorch",
+        "reinforcement learning",
+        "scalability"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-05T07:01:30.805Z"
   },
   {
     "job_id": "greenhouse-andurilindustries-5057159007",
@@ -14249,72 +14249,6 @@
     "job_posted_at": "2026-05-04T07:02:20.595Z"
   },
   {
-    "job_id": "workday-adobe-R167647",
-    "job_title": "Machine Learning Engineer, Express AI Foundations",
-    "employer_name": "Adobe",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose",
-    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer--Express-AI-Foundations_R167647",
-    "job_posted_at_datetime_utc": "2026-05-04T07:02:18.824Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "688beceada0075df2cf63295c9e67a8daf2f23cd65c649692e30eee554bacde0",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "analytics",
-        "c++",
-        "computer science",
-        "data science",
-        "distributed systems",
-        "event-driven",
-        "express",
-        "fine-tuning",
-        "generative ai",
-        "java",
-        "kafka",
-        "llm",
-        "machine learning",
-        "microservices",
-        "multimodal",
-        "observability",
-        "python",
-        "scalability",
-        "spark",
-        "system design"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-04T07:02:18.824Z"
-  },
-  {
     "job_id": "workday-f5-RP1037459",
     "job_title": "AI Sales Intelligence Analyst",
     "employer_name": "F5",
@@ -14623,6 +14557,72 @@
     "job_posted_at": "2026-05-04T07:02:08.882Z"
   },
   {
+    "job_id": "workday-adobe-R167647",
+    "job_title": "Machine Learning Engineer, Express AI Foundations",
+    "employer_name": "Adobe",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose",
+    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer--Express-AI-Foundations_R167647",
+    "job_posted_at_datetime_utc": "2026-05-04T07:01:30.806Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "688beceada0075df2cf63295c9e67a8daf2f23cd65c649692e30eee554bacde0",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "analytics",
+        "c++",
+        "computer science",
+        "data science",
+        "distributed systems",
+        "event-driven",
+        "express",
+        "fine-tuning",
+        "generative ai",
+        "java",
+        "kafka",
+        "llm",
+        "machine learning",
+        "microservices",
+        "multimodal",
+        "observability",
+        "python",
+        "scalability",
+        "spark",
+        "system design"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-04T07:01:30.806Z"
+  },
+  {
     "job_id": "ashby-cursor-71ffd8e7-6da4-4671-a52d-00ba434d119f",
     "job_title": "Data Scientist, Growth",
     "employer_name": "Cursor",
@@ -14732,6 +14732,59 @@
     "job_posted_at": "2026-05-04T00:00:00.000Z"
   },
   {
+    "job_id": "amazon-f339852a-0ada-4e8a-9b8e-dc1683cef08f",
+    "job_title": "Applied Scientist, Customer Behavior Analytics",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Seattle, WA",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10410096/applied-scientist-customer-behavior-analytics",
+    "job_posted_at_datetime_utc": "2026-05-04T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c44d449ddd203e9cecc0f53ef9db2a5beb4f4101b5b266ef893fdb22e3a54962",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "java",
+        "machine learning",
+        "python"
+      ],
+      "nice_to_have_skills": [
+        "deep learning"
+      ],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "masters",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-04T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-3b1c6303-b2e5-4afa-b5f7-3e7711cedd07",
     "job_title": "Applied Scientist, AWS Marketplace & Partner Services",
     "employer_name": "Amazon Web Services, Inc.",
@@ -14784,59 +14837,6 @@
       "is_remote": false,
       "has_description": true,
       "min_degree": "phd",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-04T00:00:00.000Z"
-  },
-  {
-    "job_id": "amazon-f339852a-0ada-4e8a-9b8e-dc1683cef08f",
-    "job_title": "Applied Scientist, Customer Behavior Analytics",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Seattle, WA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10410096/applied-scientist-customer-behavior-analytics",
-    "job_posted_at_datetime_utc": "2026-05-04T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c44d449ddd203e9cecc0f53ef9db2a5beb4f4101b5b266ef893fdb22e3a54962",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "java",
-        "machine learning",
-        "python"
-      ],
-      "nice_to_have_skills": [
-        "deep learning"
-      ],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "masters",
       "experience_level_from_desc": null,
       "question_count": null
     },
