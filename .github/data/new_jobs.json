@@ -3415,19 +3415,19 @@
     "job_posted_at": "2026-05-07T23:57:53.834Z"
   },
   {
-    "job_id": "greenhouse-andurilindustries-4859842007",
+    "job_id": "greenhouse-andurilindustries-4918732007",
     "job_title": "People Data Analytics Engineer",
     "employer_name": "Anduril",
-    "job_city": "Costa Mesa",
-    "job_state": "CA",
+    "job_city": "Boston",
+    "job_state": "MA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Costa Mesa, California, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4859842007?gh_jid=4859842007",
+    "job_location": "Boston, Massachusetts, United States",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4918732007?gh_jid=4918732007",
     "job_posted_at_datetime_utc": "2026-05-07T23:45:49.381Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "799fcfe17091455c0429e2a65d462c576c35deec37e36f9528d4dc32d2dc6f7f",
+    "fingerprint": "1217ab865e34f25f330cf801a64fcc55fb9bcde6954f611ba37d795d4da8420c",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3496,19 +3496,19 @@
     "job_posted_at": "2026-05-07T23:45:49.381Z"
   },
   {
-    "job_id": "greenhouse-andurilindustries-4918732007",
+    "job_id": "greenhouse-andurilindustries-4859842007",
     "job_title": "People Data Analytics Engineer",
     "employer_name": "Anduril",
-    "job_city": "Boston",
-    "job_state": "MA",
+    "job_city": "Costa Mesa",
+    "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Boston, Massachusetts, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4918732007?gh_jid=4918732007",
+    "job_location": "Costa Mesa, California, United States",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4859842007?gh_jid=4859842007",
     "job_posted_at_datetime_utc": "2026-05-07T23:45:49.381Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "1217ab865e34f25f330cf801a64fcc55fb9bcde6954f611ba37d795d4da8420c",
+    "fingerprint": "799fcfe17091455c0429e2a65d462c576c35deec37e36f9528d4dc32d2dc6f7f",
     "tags": {
       "employment": "entry_level",
       "domains": [
