@@ -68,9 +68,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Google** | Research Scientist, Robotics, DeepMind | United States | 13m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/84953531798168262) |
-| 🏢 **Google** | Research Scientist, Mechanistic Interpretability, Special Projects | United States | 13m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/124818387447489222) |
-| 🏢 **Google** | Research Scientist, System Qubit Calibration, Benchmarking, Modeling, Quantum | United States | 13m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/126758939571167942) |
+| 🏢 **Google** | Research Scientist, Robotics, DeepMind | United States | 28m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/84953531798168262) |
+| 🏢 **Google** | Research Scientist, Mechanistic Interpretability, Special Projects | United States | 28m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/124818387447489222) |
+| 🏢 **Google** | Research Scientist, System Qubit Calibration, Benchmarking, Modeling, Quantum | United States | 28m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/126758939571167942) |
 | 🏢 **Snorkel AI** | Research Scientist - RL Training | Redwood City, CA ... | 15h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/snorkelai/jobs/5973944004) |
 | 🏢 **JP Morgan Chase** | Data Scientist Associate | Plano, TX | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728426) |
 | 🏢 **Together AI** | Analytics Engineer — Data Warehouse | San Francisco | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/togetherai/jobs/5101651007) |

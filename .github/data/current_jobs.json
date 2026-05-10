@@ -30,6 +30,23 @@
     },
     "_source": "aggregator",
     "_original_source": "google",
+    "enrichment": {
+      "required_skills": [
+        "agents",
+        "reinforcement learning",
+        "transformers"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "masters",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
     "job_posted_at": "2026-05-10T06:32:13.008Z"
   },
   {
@@ -62,6 +79,22 @@
     },
     "_source": "aggregator",
     "_original_source": "google",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "machine learning"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "masters",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
     "job_posted_at": "2026-05-10T06:32:13.008Z"
   },
   {
@@ -95,6 +128,21 @@
     },
     "_source": "aggregator",
     "_original_source": "google",
+    "enrichment": {
+      "required_skills": [
+        "python"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "masters",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
     "job_posted_at": "2026-05-10T06:32:13.008Z"
   },
   {
@@ -6353,7 +6401,7 @@
     "job_location": "United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556652525",
     "job_posted_at_datetime_utc": "2026-05-06T13:54:49.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7fc63e40901d9dac3d79000702050e338e7c530d008c98ca2a3a378e5d3ce3eb",
     "tags": {
