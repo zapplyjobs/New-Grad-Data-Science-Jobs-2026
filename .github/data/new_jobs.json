@@ -703,57 +703,6 @@
     "job_posted_at": "2026-05-08T21:32:33.405Z"
   },
   {
-    "job_id": "workday-pimco-R106416",
-    "job_title": "Data Analyst, Transaction Management",
-    "employer_name": "PIMCO",
-    "job_city": "Newport Beach",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Newport Beach, CA USA",
-    "job_apply_link": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Data-Analyst--Transaction-Management_R106416",
-    "job_posted_at_datetime_utc": "2026-05-08T21:17:42.710Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8d6de397fcecfde444c2aad551b96f27a8cc1c5bb4c6dcec9d5a6efe1067f0aa",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "dashboards",
-        "data analysis",
-        "data quality",
-        "excel",
-        "python",
-        "reporting",
-        "sql"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-08T21:17:42.710Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0239728",
     "job_title": "Artificial Intelligence and Machine Learning Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -2642,6 +2591,57 @@
     "job_posted_at": "2026-05-08T14:31:44.000Z"
   },
   {
+    "job_id": "workday-pimco-R106416",
+    "job_title": "Data Analyst, Transaction Management",
+    "employer_name": "PIMCO",
+    "job_city": "Newport Beach",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Newport Beach, CA USA",
+    "job_apply_link": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Data-Analyst--Transaction-Management_R106416",
+    "job_posted_at_datetime_utc": "2026-05-08T09:31:15.089Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8d6de397fcecfde444c2aad551b96f27a8cc1c5bb4c6dcec9d5a6efe1067f0aa",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "dashboards",
+        "data analysis",
+        "data quality",
+        "excel",
+        "python",
+        "reporting",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-08T09:31:15.089Z"
+  },
+  {
     "job_id": "workday-leidos-R-00182861",
     "job_title": "Data Scientist SME Automation Specialist",
     "employer_name": "Leidos",
@@ -3415,19 +3415,19 @@
     "job_posted_at": "2026-05-07T23:57:53.834Z"
   },
   {
-    "job_id": "greenhouse-andurilindustries-4918732007",
+    "job_id": "greenhouse-andurilindustries-4859842007",
     "job_title": "People Data Analytics Engineer",
     "employer_name": "Anduril",
-    "job_city": "Boston",
-    "job_state": "MA",
+    "job_city": "Costa Mesa",
+    "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Boston, Massachusetts, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4918732007?gh_jid=4918732007",
+    "job_location": "Costa Mesa, California, United States",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4859842007?gh_jid=4859842007",
     "job_posted_at_datetime_utc": "2026-05-07T23:45:49.381Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "1217ab865e34f25f330cf801a64fcc55fb9bcde6954f611ba37d795d4da8420c",
+    "fingerprint": "799fcfe17091455c0429e2a65d462c576c35deec37e36f9528d4dc32d2dc6f7f",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3496,19 +3496,19 @@
     "job_posted_at": "2026-05-07T23:45:49.381Z"
   },
   {
-    "job_id": "greenhouse-andurilindustries-4859842007",
+    "job_id": "greenhouse-andurilindustries-4918732007",
     "job_title": "People Data Analytics Engineer",
     "employer_name": "Anduril",
-    "job_city": "Costa Mesa",
-    "job_state": "CA",
+    "job_city": "Boston",
+    "job_state": "MA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Costa Mesa, California, United States",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4859842007?gh_jid=4859842007",
+    "job_location": "Boston, Massachusetts, United States",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4918732007?gh_jid=4918732007",
     "job_posted_at_datetime_utc": "2026-05-07T23:45:49.381Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "799fcfe17091455c0429e2a65d462c576c35deec37e36f9528d4dc32d2dc6f7f",
+    "fingerprint": "1217ab865e34f25f330cf801a64fcc55fb9bcde6954f611ba37d795d4da8420c",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -3690,7 +3690,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864459",
     "job_posted_at_datetime_utc": "2026-05-07T21:51:49.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5b61cc0638fa83b88eefbc4bb8b4fd54bc2dfdeaabf7970e3a0d18149060b122",
     "tags": {
@@ -6532,49 +6532,6 @@
     "job_posted_at": "2026-05-06T11:31:20.923Z"
   },
   {
-    "job_id": "simplify-0ac266eb-5e2b-4207-afed-bffe81fd1d2b",
-    "job_title": "Data Visualization Associate",
-    "employer_name": "JP Morgan Chase",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706210",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f3d89e94710fe1a2516b022d0082289441b8217daf0bf7da1e19a825a5a6f4a6",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": false,
-      "min_degree": null,
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T11:31:20.571Z"
-  },
-  {
     "job_id": "simplify-4c9bab09-16cf-4d9a-a679-a8263a8d1b74",
     "job_title": "Client Data Analyst",
     "employer_name": "JP Morgan Chase",
@@ -6612,6 +6569,49 @@
       "is_remote": false,
       "has_description": false,
       "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T11:31:20.571Z"
+  },
+  {
+    "job_id": "simplify-0ac266eb-5e2b-4207-afed-bffe81fd1d2b",
+    "job_title": "Data Visualization Associate",
+    "employer_name": "JP Morgan Chase",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706210",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.571Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f3d89e94710fe1a2516b022d0082289441b8217daf0bf7da1e19a825a5a6f4a6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": null,
       "experience_level_from_desc": null,
       "question_count": null
     },
