@@ -7,7 +7,7 @@ name: Update README Only
 # - Regenerate README without fetching new jobs
 
 on:
-  workflow_dispatch:  # Manual trigger only — push trigger removed (job-fetcher/ paths no longer change via current submodule-based workflow)
+  workflow_dispatch:  # Manual trigger only
 
 jobs:
   update-readme:
@@ -31,9 +31,16 @@ jobs:
         node-version: '22'
 
     - name: Install dependencies
-      run: npm install axios
+      run: |
+        npm install axios
+        cd .github/scripts/shared && npm install
 
     - name: Update README from existing data
+      env:
+        R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+        R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+        R2_ENDPOINT: ${{ secrets.R2_ENDPOINT }}
+        R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
       run: node .github/scripts/job-fetcher/update-readme-only.js
 
     - name: Stash npm changes
@@ -58,23 +65,16 @@ jobs:
       run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-
         git add README.md
-        git commit -m "chore: regenerate README from existing job data
-
-        Updated via update-readme-only workflow
-        No new jobs fetched (existing data refreshed)
-        Triggered by: ${{ github.event_name }}"
-
+        git commit -m "chore: regenerate README from existing job data via update-readme-only workflow"
         git push origin ${{ github.ref_name }}
 
     - name: Create job summary
       run: |
-        echo "## 📝 README Updated!" >> $GITHUB_STEP_SUMMARY
+        echo "## README Updated!" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
-
         if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
-          echo "✅ **README.md regenerated from existing job data**" >> $GITHUB_STEP_SUMMARY
+          echo "**README.md regenerated**" >> $GITHUB_STEP_SUMMARY
         else
-          echo "ℹ️ **No changes to README**" >> $GITHUB_STEP_SUMMARY
+          echo "**No changes to README**" >> $GITHUB_STEP_SUMMARY
         fi
