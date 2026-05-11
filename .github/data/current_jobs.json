@@ -1,5 +1,351 @@
 [
   {
+    "job_id": "ashby-vanta-91ea4caf-3fc4-49a8-841b-76a3c8d157a7",
+    "job_title": "Salesforce Product Manager",
+    "employer_name": "Vanta",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Remote U.S.",
+    "job_apply_link": "https://jobs.ashbyhq.com/vanta/91ea4caf-3fc4-49a8-841b-76a3c8d157a7/application",
+    "job_posted_at_datetime_utc": "2026-05-11T00:49:04.637Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "18be832109ed0c1d7ead488c00bebeb3f8d0ac1a956ee73a2ad45115d083f52d",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "product"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-05-11T00:49:04.637Z"
+  },
+  {
+    "job_id": "ashby-openai-a10fac90-0639-4bfc-92b2-97b094f7edcb",
+    "job_title": "Data Science Manager, Integrity",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Francisco",
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/a10fac90-0639-4bfc-92b2-97b094f7edcb/application",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:52.866Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "4d5a369f1a6d850bf5c85d4de5e606e773bd7619f2288e88304f105a964cd3e6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-05-11T00:48:52.866Z"
+  },
+  {
+    "job_id": "ashby-openai-6df6a3d8-c72b-4e65-acf8-a5d91559533c",
+    "job_title": "Model Policy Manager, Chemical & Biological Risk",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "San Francisco",
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/6df6a3d8-c72b-4e65-acf8-a5d91559533c/application",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:52.866Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "bb2e832b9ffc639b8a553126fb0e9a009cb4dccfcf7affeb71022d096c057118",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-05-11T00:48:52.866Z"
+  },
+  {
+    "job_id": "greenhouse-stripe-7644403",
+    "job_title": "Data Science Manager",
+    "employer_name": "Stripe",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Seattle, WA OR New York, NY OR Remote North America",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7644403",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:36.735Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0076ac4691ec3076096a59d37f9334a8f399739b2d9e87a96c22b7294594f75b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "unicorn"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:36.735Z"
+  },
+  {
+    "job_id": "greenhouse-sofi-7605742003",
+    "job_title": "SOX Data Analytics & AI Manager",
+    "employer_name": "SoFi",
+    "job_city": "Cottonwood Heights",
+    "job_state": "UT",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Cottonwood Heights, Utah, Remote",
+    "job_apply_link": "https://sofi.com/careers/job/7605742003?gh_jid=7605742003",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:35.714Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1eb42483e2c4a6cdccdf7c9cc967b47a5698e38bb510378553f3d0e07438c36c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "finance",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:35.714Z"
+  },
+  {
+    "job_id": "greenhouse-sofi-7601581003",
+    "job_title": "Data Science Manager, Borrow",
+    "employer_name": "SoFi",
+    "job_city": "CA - San Francisco; NY - New York City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "CA - San Francisco; NY - New York City ",
+    "job_apply_link": "https://sofi.com/careers/job/7601581003?gh_jid=7601581003",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:35.713Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fe3b7a43eca2cd0360d810b9d6717a1d39da195ba3f7d29190320f569aa872c2",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:35.713Z"
+  },
+  {
+    "job_id": "greenhouse-datadog-7696093",
+    "job_title": "Manager I, Engineering - Core Analytics",
+    "employer_name": "Datadog",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York, New York, USA",
+    "job_apply_link": "https://careers.datadoghq.com/detail/7696093/?gh_jid=7696093",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:18.816Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c8366f318b766c8caa87b757fac51dabea1eb13d6132fbf3c11f5783fd0a248c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:18.816Z"
+  },
+  {
+    "job_id": "greenhouse-datacamp-7261634",
+    "job_title": "Curriculum Manager - Data Science and AI",
+    "employer_name": "DataCamp",
+    "job_city": "Belgium; Portugal; United Kingdom; United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Belgium; Portugal; United Kingdom; United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/datacamp/jobs/7261634",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:18.762Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6e5d6c58a933c843d9fa324272efd58b188bb727b90f1eb9b2682ebbb5539029",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "product",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:18.762Z"
+  },
+  {
+    "job_id": "greenhouse-datacamp-7067243",
+    "job_title": "Curriculum Manager - Data Science and AI",
+    "employer_name": "DataCamp",
+    "job_city": "Belgium; Portugal; United Kingdom; United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Belgium; Portugal; United Kingdom; United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/datacamp/jobs/7067243",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:18.762Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6e5d6c58a933c843d9fa324272efd58b188bb727b90f1eb9b2682ebbb5539029",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "product",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:18.762Z"
+  },
+  {
+    "job_id": "greenhouse-datacamp-7261637",
+    "job_title": "Curriculum Manager - Data Science and AI",
+    "employer_name": "DataCamp",
+    "job_city": "Belgium; Portugal; United Kingdom; United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Belgium; Portugal; United Kingdom; United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/datacamp/jobs/7261637",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:18.762Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6e5d6c58a933c843d9fa324272efd58b188bb727b90f1eb9b2682ebbb5539029",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "product",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:18.762Z"
+  },
+  {
+    "job_id": "greenhouse-datacamp-7531007",
+    "job_title": "Curriculum Manager - Data Science and AI",
+    "employer_name": "DataCamp",
+    "job_city": "Belgium; Portugal; United Kingdom; United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Belgium; Portugal; United Kingdom; United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/datacamp/jobs/7531007",
+    "job_posted_at_datetime_utc": "2026-05-11T00:48:18.762Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6e5d6c58a933c843d9fa324272efd58b188bb727b90f1eb9b2682ebbb5539029",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "product",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T00:48:18.762Z"
+  },
+  {
     "job_id": "greenhouse-gusto-7848767",
     "job_title": "Legal AI Engineer (Contractor)",
     "employer_name": "Gusto",
