@@ -30,6 +30,36 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "dashboards",
+        "data analysis",
+        "data pipeline",
+        "dbt",
+        "etl",
+        "html",
+        "kubeflow",
+        "lightgbm",
+        "llm",
+        "machine learning",
+        "python",
+        "pytorch",
+        "scikit-learn",
+        "spark",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": 10
+    },
     "job_posted_at": "2026-05-11T01:21:11.278Z"
   },
   {
@@ -61,6 +91,38 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "analytics",
+        "bigquery",
+        "ci/cd",
+        "data architecture",
+        "data modeling",
+        "data quality",
+        "dbt",
+        "html",
+        "kafka",
+        "machine learning",
+        "observability",
+        "python",
+        "redshift",
+        "scalability",
+        "snowflake",
+        "spark",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 12
+    },
     "job_posted_at": "2026-05-11T01:21:11.278Z"
   },
   {
@@ -94,6 +156,36 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "dashboards",
+        "data analysis",
+        "data pipeline",
+        "dbt",
+        "etl",
+        "html",
+        "kubeflow",
+        "lightgbm",
+        "llm",
+        "machine learning",
+        "python",
+        "pytorch",
+        "scikit-learn",
+        "spark",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": 10
+    },
     "job_posted_at": "2026-05-11T01:21:11.278Z"
   },
   {
@@ -126,6 +218,39 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "a/b testing",
+        "analytics",
+        "bigquery",
+        "computer science",
+        "cybersecurity",
+        "dashboards",
+        "data analysis",
+        "data quality",
+        "data visualization",
+        "dbt",
+        "html",
+        "machine learning",
+        "python",
+        "redshift",
+        "snowflake",
+        "spark",
+        "spring",
+        "sql",
+        "statistics"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 12
+    },
     "job_posted_at": "2026-05-11T01:21:11.278Z"
   },
   {
@@ -157,6 +282,38 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "analytics",
+        "bigquery",
+        "ci/cd",
+        "data architecture",
+        "data modeling",
+        "data quality",
+        "dbt",
+        "html",
+        "kafka",
+        "machine learning",
+        "observability",
+        "python",
+        "redshift",
+        "scalability",
+        "snowflake",
+        "spark",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 12
+    },
     "job_posted_at": "2026-05-11T01:21:11.278Z"
   },
   {
@@ -189,6 +346,39 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "a/b testing",
+        "analytics",
+        "bigquery",
+        "computer science",
+        "cybersecurity",
+        "dashboards",
+        "data analysis",
+        "data quality",
+        "data visualization",
+        "dbt",
+        "html",
+        "machine learning",
+        "python",
+        "redshift",
+        "snowflake",
+        "spark",
+        "spring",
+        "sql",
+        "statistics"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 12
+    },
     "job_posted_at": "2026-05-11T01:21:11.278Z"
   },
   {
@@ -221,6 +411,36 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "ci/cd",
+        "dashboards",
+        "github",
+        "github actions",
+        "hipaa",
+        "iso 27001",
+        "observability",
+        "regression",
+        "reporting",
+        "rest",
+        "salesforce",
+        "soap",
+        "soc",
+        "soc 2",
+        "stakeholder management"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T01:21:11.138Z"
   },
   {
@@ -255,6 +475,37 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "computer science",
+        "data analysis",
+        "data modeling",
+        "dbt",
+        "go",
+        "python",
+        "statistics",
+        "typescript"
+      ],
+      "nice_to_have_skills": [
+        "agentic",
+        "agents",
+        "analytics",
+        "llm",
+        "observability",
+        "rag",
+        "snowflake"
+      ],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 17
+    },
     "job_posted_at": "2026-05-11T01:21:10.905Z"
   },
   {
@@ -289,6 +540,33 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "analytics",
+        "computer science",
+        "dashboards",
+        "data science",
+        "dbt",
+        "elt",
+        "pandas",
+        "python",
+        "scikit-learn",
+        "snowflake",
+        "sql",
+        "statistics"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 17
+    },
     "job_posted_at": "2026-05-11T01:21:10.905Z"
   },
   {
@@ -321,6 +599,24 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "arm",
+        "express",
+        "machine learning",
+        "pytorch"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 10
+    },
     "job_posted_at": "2026-05-11T01:21:10.773Z"
   },
   {
@@ -353,6 +649,27 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "Natural Language Processing",
+        "chatgpt",
+        "distributed systems",
+        "machine learning",
+        "neo4j",
+        "python",
+        "pytorch"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "masters",
+      "experience_level_from_desc": null,
+      "question_count": 15
+    },
     "job_posted_at": "2026-05-11T01:21:10.645Z"
   },
   {
@@ -386,6 +703,34 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "agents",
+        "analytics",
+        "computer science",
+        "data science",
+        "dbt",
+        "etl",
+        "pandas",
+        "python",
+        "scikit-learn",
+        "sql",
+        "statistics"
+      ],
+      "nice_to_have_skills": [
+        "bigquery",
+        "snowflake"
+      ],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 18
+    },
     "job_posted_at": "2026-05-11T01:21:09.073Z"
   },
   {
@@ -419,6 +764,38 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "Natural Language Processing",
+        "agentic",
+        "agents",
+        "analytics",
+        "bigquery",
+        "dashboards",
+        "data science",
+        "dbt",
+        "etl",
+        "llm",
+        "looker",
+        "pandas",
+        "python",
+        "reporting",
+        "scikit-learn",
+        "snowflake",
+        "sql",
+        "tableau"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": 18
+    },
     "job_posted_at": "2026-05-11T01:21:09.073Z"
   },
   {
@@ -450,6 +827,29 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "classification",
+        "deep learning",
+        "fine-tuning",
+        "lightgbm",
+        "machine learning",
+        "mlflow",
+        "pytorch",
+        "regression",
+        "statistical analysis"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 14
+    },
     "job_posted_at": "2026-05-11T01:21:08.646Z"
   },
   {
@@ -481,6 +881,29 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "classification",
+        "deep learning",
+        "fine-tuning",
+        "lightgbm",
+        "machine learning",
+        "mlflow",
+        "pytorch",
+        "regression",
+        "statistical analysis"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 14
+    },
     "job_posted_at": "2026-05-11T01:21:08.646Z"
   },
   {
@@ -513,6 +936,27 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "asana",
+        "chatgpt",
+        "embeddings",
+        "fine-tuning",
+        "gpt",
+        "python",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 12
+    },
     "job_posted_at": "2026-05-11T01:21:06.151Z"
   },
   {
@@ -545,6 +989,28 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "Natural Language Processing",
+        "api",
+        "asana",
+        "chatgpt",
+        "dashboards",
+        "generative ai",
+        "python",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 13
+    },
     "job_posted_at": "2026-05-11T01:21:06.150Z"
   },
   {
@@ -577,6 +1043,27 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "Natural Language Processing",
+        "asana",
+        "dashboards",
+        "forecasting",
+        "generative ai",
+        "python",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 12
+    },
     "job_posted_at": "2026-05-11T01:21:06.150Z"
   },
   {
@@ -609,6 +1096,26 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "asana",
+        "event-driven",
+        "forecasting",
+        "python",
+        "risk management",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 12
+    },
     "job_posted_at": "2026-05-11T01:21:06.150Z"
   },
   {
@@ -641,6 +1148,27 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "Natural Language Processing",
+        "agentic",
+        "analytics",
+        "asana",
+        "dashboards",
+        "python",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 12
+    },
     "job_posted_at": "2026-05-11T01:21:06.150Z"
   },
   {
@@ -673,6 +1201,29 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "Natural Language Processing",
+        "agentic",
+        "analytics",
+        "api",
+        "asana",
+        "dashboards",
+        "observability",
+        "python",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 12
+    },
     "job_posted_at": "2026-05-11T01:21:06.150Z"
   },
   {
@@ -705,6 +1256,27 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "asana",
+        "dashboards",
+        "data science",
+        "python",
+        "rails",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 12
+    },
     "job_posted_at": "2026-05-11T01:21:06.150Z"
   },
   {
@@ -737,6 +1309,25 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "Natural Language Processing",
+        "asana",
+        "dashboards",
+        "generative ai",
+        "regression"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 13
+    },
     "job_posted_at": "2026-05-11T01:21:06.150Z"
   },
   {
@@ -768,6 +1359,33 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "analytics",
+        "data modeling",
+        "data quality",
+        "dbt",
+        "hris",
+        "oop",
+        "python",
+        "snowflake",
+        "sql",
+        "workday"
+      ],
+      "nice_to_have_skills": [
+        "notion"
+      ],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": 10
+    },
     "job_posted_at": "2026-05-11T01:20:00.804Z"
   },
   {
@@ -799,6 +1417,28 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data science",
+        "python",
+        "sql",
+        "statistics"
+      ],
+      "nice_to_have_skills": [
+        "forecasting",
+        "looker"
+      ],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 5
+    },
     "job_posted_at": "2026-05-11T01:19:56.561Z"
   },
   {
@@ -831,6 +1471,32 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data governance",
+        "data modeling",
+        "data quality",
+        "dimensional modeling",
+        "gdpr",
+        "hris",
+        "power bi",
+        "reporting",
+        "sql",
+        "workday",
+        "zero trust"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 14
+    },
     "job_posted_at": "2026-05-11T01:19:55.948Z"
   },
   {
@@ -862,6 +1528,27 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "java",
+        "linux",
+        "machine learning",
+        "networking",
+        "python",
+        "pytorch"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 9
+    },
     "job_posted_at": "2026-05-11T01:19:43.617Z"
   },
   {
@@ -893,6 +1580,31 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "computer vision",
+        "deep learning",
+        "fine-tuning",
+        "llm",
+        "machine learning",
+        "multimodal",
+        "python",
+        "pytorch",
+        "robotics",
+        "tensorflow"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 16
+    },
     "job_posted_at": "2026-05-11T01:19:43.331Z"
   },
   {
@@ -924,6 +1636,30 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "agents",
+        "c++",
+        "genai",
+        "generative ai",
+        "machine learning",
+        "python",
+        "pytorch",
+        "reinforcement learning",
+        "robotics",
+        "tensorflow"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 15
+    },
     "job_posted_at": "2026-05-11T01:19:43.331Z"
   },
   {
@@ -956,6 +1692,52 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "airflow",
+        "analytics",
+        "aws",
+        "azure",
+        "ci/cd",
+        "data modeling",
+        "deep learning",
+        "docker",
+        "dynamodb",
+        "embeddings",
+        "fine-tuning",
+        "gcp",
+        "generative ai",
+        "github",
+        "java",
+        "kafka",
+        "kubeflow",
+        "kubernetes",
+        "langchain",
+        "llm",
+        "mlflow",
+        "observability",
+        "opensearch",
+        "python",
+        "rag",
+        "sagemaker",
+        "snowflake",
+        "spark",
+        "sql",
+        "statistics",
+        "system design"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": 14
+    },
     "job_posted_at": "2026-05-11T01:19:42.151Z"
   },
   {
@@ -988,6 +1770,46 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "analytics",
+        "aws",
+        "azure",
+        "bigquery",
+        "ci/cd",
+        "computer science",
+        "data modeling",
+        "docker",
+        "elt",
+        "etl",
+        "fine-tuning",
+        "gcp",
+        "generative ai",
+        "github",
+        "kafka",
+        "kubernetes",
+        "mlflow",
+        "pulumi",
+        "python",
+        "redshift",
+        "sagemaker",
+        "snowflake",
+        "spark",
+        "sql",
+        "terraform"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 14
+    },
     "job_posted_at": "2026-05-11T01:19:42.151Z"
   },
   {
@@ -1019,6 +1841,32 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "Natural Language Processing",
+        "computer science",
+        "fine-tuning",
+        "gpt",
+        "llama",
+        "machine learning",
+        "python",
+        "pytorch",
+        "reinforcement learning",
+        "tensorflow"
+      ],
+      "nice_to_have_skills": [
+        "data modeling"
+      ],
+      "sponsors_visa": false,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": 12
+    },
     "job_posted_at": "2026-05-11T01:19:42.084Z"
   },
   {
