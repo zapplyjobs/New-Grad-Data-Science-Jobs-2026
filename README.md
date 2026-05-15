@@ -76,7 +76,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **The New York Times** | Machine Learning Scientist, Marketing | New York, NY | 22h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4687007005) |
 | 🏢 **Lyft** | Machine Learning Engineer, Lyft Business | New York, NY; San... | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8513769002?gh_jid=8513769002) |
 | 🏢 **Spotify** | Data Scientist - Growth Analytics (Performance Marketing) | New York, NY | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/spotify/063a7916-cd2b-4e61-a332-30364edf5199/apply) |
-| 🏢 **Capital One** | Associate, Data Science | Bangalore, In | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Associate--Data-Science_R242362) |
+| 🏢 **Capital One** | Associate, Data Science | Bangalore, In | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Associate--Data-Science_R242362) |
 | 🏢 **Google** | Data Center Analytics Engineer | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/99640909053731526) |
 | 🏢 **Whatnot** | Data Scientist, Finance | Los Angeles, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/whatnot/c0a67628-5f36-44df-9760-c8b61d99fab6/application) |
 | 🏢 **Voyager Technologies** | Machine Learning Engineer | El Segundo, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4173800009) |
@@ -205,7 +205,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Leidos** | Identity Intelligence Analyst | McLean, VA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Identity-Intelligence-Analyst_R-00183200) |
 | 🏢 **Northrop Grumman** | Data Analytics Manager 2 | Florida | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Data-Analytics-Manager-2_R10232237) |
 | 🏢 **CACI** | Clearance Sponsorship - Statistician | Riverside, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-CA-Riverside/Clearance-Sponsorship---Statistician_326052) |
-| 🏢 **CACI** | Data Analyst | National Harbor, MD | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-National-Harbor/Data-Analyst_326005) |
+| 🏢 **CACI** | Data Analyst | National Harbor, MD | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-National-Harbor/Data-Analyst_326005) |
 | 🏢 **Caterpillar** | Business Intelligence Analyst | Peoria Illinois +... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Peoria-Illinois/Business-Intelligence-Analyst_R0000352428-1) |
 | 🏢 **Amazon.com Services LLC** | Applied Science Manager, Sponsored Products and Brands -- Offsite | New York, NY | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10419280/applied-science-manager-sponsored-products-and-brands-offsite) |
 | 🏢 **Akuna Capital** | Junior Quantitative Researcher - Prediction Markets | Chicago, IL | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://www.akunacapital.com/careers/job/7863348/?gh_jid=7863348) |
@@ -379,7 +379,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Intuitive** | Machine Learning Robotics Engineer | Sunnyvale, CA | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000126558575) |
+| 🏢 **Intuitive** | Machine Learning Robotics Engineer | Sunnyvale, CA | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000126558575) |
 | 🏢 **Whatnot** | Software Engineer, Machine Learning Infrastructure | San Francisco, CA | 21h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/whatnot/221a1379-09e0-4836-a49f-d37f6066731c/application) |
 | 🏢 **Google** | Photonic Engineer, Machine Learning Systems, Platforms | United States | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/118370928571622086) |
 | 🏢 **The New York Times** | ML Ops Engineer, Machine Learning & AI | New York, NY | 22h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4655096005) |
