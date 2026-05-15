@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-740-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-216-blue?style=flat&logo=building)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-738-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-215-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -76,7 +76,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **The New York Times** | Machine Learning Scientist, Marketing | New York, NY | 18h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4687007005) |
 | 🏢 **Lyft** | Machine Learning Engineer, Lyft Business | New York, NY; San... | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8513769002?gh_jid=8513769002) |
 | 🏢 **Spotify** | Data Scientist - Growth Analytics (Performance Marketing) | New York, NY | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/spotify/063a7916-cd2b-4e61-a332-30364edf5199/apply) |
-| 🏢 **Capital One** | Associate, Data Science | Bangalore, In | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Associate--Data-Science_R242362) |
+| 🏢 **Capital One** | Associate, Data Science | Bangalore, In | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Associate--Data-Science_R242362) |
 | 🏢 **Google** | Data Center Analytics Engineer | United States | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/99640909053731526) |
 | 🏢 **Whatnot** | Data Scientist, Finance | Los Angeles, CA | 21h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/whatnot/c0a67628-5f36-44df-9760-c8b61d99fab6/application) |
 | 🏢 **Voyager Technologies** | Machine Learning Engineer | El Segundo, CA | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4173800009) |
@@ -380,13 +380,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Intuitive** | Machine Learning Robotics Engineer | Sunnyvale, CA | 15h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000126558575) |
+| 🏢 **Intuitive** | Machine Learning Robotics Engineer | Sunnyvale, CA | 16h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000126558575) |
 | 🏢 **Whatnot** | Software Engineer, Machine Learning Infrastructure | San Francisco, CA | 17h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/whatnot/221a1379-09e0-4836-a49f-d37f6066731c/application) |
 | 🏢 **Google** | Photonic Engineer, Machine Learning Systems, Platforms | United States | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/118370928571622086) |
 | 🏢 **The New York Times** | ML Ops Engineer, Machine Learning & AI | New York, NY | 18h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4655096005) |
 | 🏢 **The New York Times** | Software Engineer, Machine Learning Platform | New York, NY | 18h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4653129005) |
 | 🏢 **Anthropic** | Research Engineer, Machine Learning (RL Velocity) | Friendly (Travel | 18h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5198108008) |
-| 🏢 **Morningstar** | Product AI Engineer | Chicago | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/AI-Engineer_REQ-055251) |
+| 🏢 **Morningstar** | Product AI Engineer | Chicago | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/AI-Engineer_REQ-055251) |
 | 🏢 **Google** | RTL Design Engineer, Machine Learning Accelerators | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/122119136867164870) |
 | 🏢 **Google** | Partner Solutions Engineer, Machine Learning and Digitization Operations | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/104934232907752134) |
 | 🏢 **TransUnion** | Machine Learning Platform Engineer | Chicago, Illinois | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Machine-Learning-Platform-Engineer_19040380) |
@@ -465,7 +465,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Gusto** | Legal AI Engineer (Contractor) | San Francisco, CA... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/gusto/jobs/7848767) |
 | 🏢 **Chan Zuckerberg Biohub** | Postdoctoral Fellow, Transcription Regulation using Genomics and Machine Learning | New York, NY (Ons... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/7658780) |
 | 🏢 **Anaplan** | Associate GTM AI Engineer | San Francisco, Un... | 6d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/anaplan/jobs/8538805002) |
-| 🏢 **CrowdStrike** | Machine Learning Detection Engineer (Remote, East/Central) | 34 Locations | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-VA/Machine-Learning-Detection-Engineer--Remote--East-Central-_R27809) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -521,7 +520,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 740 current opportunities from 216 companies**
+**🎯 738 current opportunities from 215 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
