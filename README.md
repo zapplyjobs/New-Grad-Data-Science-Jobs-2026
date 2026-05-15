@@ -78,7 +78,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Spotify** | Data Scientist - Growth Analytics (Performance Marketing) | New York, NY | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/spotify/063a7916-cd2b-4e61-a332-30364edf5199/apply) |
 | 🏢 **Capital One** | Associate, Data Science | Bangalore, In | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Associate--Data-Science_R242362) |
 | 🏢 **Google** | Data Center Analytics Engineer | United States | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/99640909053731526) |
-| 🏢 **Whatnot** | Data Scientist, Finance | Los Angeles, CA | 20h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/whatnot/c0a67628-5f36-44df-9760-c8b61d99fab6/application) |
+| 🏢 **Whatnot** | Data Scientist, Finance | Los Angeles, CA | 21h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/whatnot/c0a67628-5f36-44df-9760-c8b61d99fab6/application) |
 | 🏢 **Voyager Technologies** | Machine Learning Engineer | El Segundo, CA | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4173800009) |
 | 🏢 **TWG Global** | Associate AI Data Scientist | Santa Monica, CA | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.workable.com/twgai/j/469F929A47/apply) |
 | 🏢 **NextEra Energy** | Applied Scientist 1 | St Paul, MN | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.nexteraenergy.com/job/St_-Paul-Applied-Scientist-I-MN-55107/1381060800/?ats=successfactors) |
@@ -291,7 +291,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | 🏢 **Booz Allen Hamilton** | Data Engineer | Ford Island, HI | 14h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Ford-Island-HI/Data-Engineer_R0240138) |
-| 🏢 **Booz Allen Hamilton** | Data Engineer | Honolulu, HI | 14h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Engineer_R0240103) |
+| 🏢 **Booz Allen Hamilton** | Data Engineer | Honolulu, HI | 15h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Engineer_R0240103) |
 | 🏢 **The Hartford** | Junior Developer / Data Engineer – AI Platforms | Chicago, IL + 4 more | 15h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Chicago-IL/Junior-Developer---Data-Engineer---AI-Platforms_R2625192) |
 | 🏢 **The New York Times** | Data Engineer, Revenue Technology | New York, NY | 17h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4645686005) |
 | 🏢 **SharkNinja** | Data Platform Administrator | Remote | 17h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4673527006) |
@@ -362,7 +362,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Morningstar** | Business Intelligence Manager | Chicago | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/Principal-Data-Engineer_REQ-052106) |
+| 🏢 **Morningstar** | Business Intelligence Manager | Chicago | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/Principal-Data-Engineer_REQ-052106) |
 | 🏢 **Cencora** | Data Visualization Specialist 1 | United States | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-Idaho/Spec---Data-Visualization-Specialist-I_R267391) |
 | 🏢 **Booz Allen Hamilton** | Power BI Data Visualization Specialist | Melbourne, FL | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Melbourne-FL/Power-BI-Data-Visualization-Specialist_R0239466) |
 | 🏢 **KeyBank** | Regulatory Reporting Analyst, 2052a | 4900 Tiedeman Roa... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/4900-Tiedeman-Road-Brooklyn-OH/Regulatory-Reporting-Analyst--2052a_R-39530) |
