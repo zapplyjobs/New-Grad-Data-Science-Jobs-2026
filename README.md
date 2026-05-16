@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-707-brightgreen?style=flat&logo=briefcase)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-706-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-212-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -96,8 +96,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Figma** | Data Scientist, Core Data -  PhD (2026) | New York, NY • Un... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004) |
 | 🏢 **PNC Financial Services** | Data Scientist | Houston, TX | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data-Scientist---Corporate---Institutional-Banking_R216795-1) |
 | 🏢 **LLNL** | Research Scientist - Computer Vision and Machine Learning | Livermore, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990013125116) |
-| 🏢 **Amazon.com Services LLC** | Applied Scientist, RL post-training, AWS | Seattle, WA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10420019/applied-scientist-rl-post-training-aws) |
-| 🏢 **Amazon.com Services LLC** | Language Data Scientist, Alexa International | Bellevue, WA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10419959/language-data-scientist-alexa-international) |
+| 🏢 **Amazon.com Services LLC** | Applied Scientist, RL post-training, AWS | Seattle, WA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10420019/applied-scientist-rl-post-training-aws) |
+| 🏢 **Amazon.com Services LLC** | Language Data Scientist, Alexa International | Bellevue, WA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10419959/language-data-scientist-alexa-international) |
 | 🏢 **Booz Allen Hamilton** | Data Scientist | Arlington, VA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Scientist_R0240060) |
 | 🏢 **Guidehouse** | Bioinformatics Scientist | MD, Baltimore | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Baltimore/Bioinformatics-Scientist_38617-1) |
 | 🏢 **Stripe** | Data Science Manager, Growth | Seattle, WA OR Ne... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7440963) |
@@ -149,7 +149,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Honeywell** | Information Systems – Recent Grad/Full Time - IT - Cyber Engineer & Data Science | United States | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113580) |
 | 🏢 **Honeywell** | Information Systems - IT - Cyber Engineer & Data Science | United States | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113582) |
 | 🏢 **Labelbox** | Forward Deployed Research Scientist | San Francisco Bay... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/labelbox/jobs/5101375007) |
-| 🏢 **Amazon.com Services LLC** | Machine Learning Engineer, Ad Response Prediction | Seattle, WA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10416638/machine-learning-engineer-ad-response-prediction) |
+| 🏢 **Amazon.com Services LLC** | Machine Learning Engineer, Ad Response Prediction | Seattle, WA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10416638/machine-learning-engineer-ad-response-prediction) |
 | 🏢 **Alchemy** | Data Analytics Engineer | New York | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/alchemy/cdb0fb07-d52a-42d8-b4e6-d037c2afeb10/application) |
 | 🏢 **Suno** | Data Scientist, Content + Social | NYC | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/suno/5f96f2c4-cf09-40e5-8d95-b8e6102bee55/application) |
 | 🏢 **Stripe** | Data Scientist | Seattle, WA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7809414) |
@@ -207,7 +207,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **CACI** | Clearance Sponsorship - Statistician | Riverside, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-CA-Riverside/Clearance-Sponsorship---Statistician_326052) |
 | 🏢 **CACI** | Data Analyst | National Harbor, MD | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-MD-National-Harbor/Data-Analyst_326005) |
 | 🏢 **Caterpillar** | Business Intelligence Analyst | Peoria Illinois +... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Peoria-Illinois/Business-Intelligence-Analyst_R0000352428-1) |
-| 🏢 **Amazon.com Services LLC** | Applied Science Manager, Sponsored Products and Brands -- Offsite | New York, NY | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10419280/applied-science-manager-sponsored-products-and-brands-offsite) |
+| 🏢 **Amazon.com Services LLC** | Applied Science Manager, Sponsored Products and Brands -- Offsite | New York, NY | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10419280/applied-science-manager-sponsored-products-and-brands-offsite) |
 | 🏢 **Akuna Capital** | Junior Quantitative Researcher - Prediction Markets | Chicago, IL | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://www.akunacapital.com/careers/job/7863348/?gh_jid=7863348) |
 | 🏢 **Perr & Knight** | Insurance Data Consultant | Hybrid (CA, FL, N... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/perrknight/3e859c20-3f7a-410e-bf30-97aeb2edd26a/apply) |
 | 🏢 **Lyft** | Data Analyst - Global Growth Luxury Strategy | New York, NY | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8514400002?gh_jid=8514400002) |
@@ -315,7 +315,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Uncountable** | Scientific Data Engineer | United States | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/uncountable/48cbdfbc-c377-49bd-b39b-4c2d77357135/application) |
 | 🏢 **State Street** | Assistant Vice President, Legal Data Engineering | Boston, Massachus... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Assistant-Vice-President--Legal-Data-Engineering_R-790050-1) |
 | 🏢 **BlackRock** | Associate, Snowflake Data Engineer – BTO | New York, NY + 1 ... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/New-York-NY/Associate--Snowflake-Data-Engineer---BTO_R264180) |
-| 🏢 **Amazon.com Services LLC** | AI Data Engineer, Ring/Blink Customer Service Engineering and Insights | Hawthorne, CA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10417500/ai-data-engineer-ring-blink-customer-service-engineering-and-insights) |
+| 🏢 **Amazon.com Services LLC** | AI Data Engineer, Ring/Blink Customer Service Engineering and Insights | Hawthorne, CA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10417500/ai-data-engineer-ring-blink-customer-service-engineering-and-insights) |
 | 🏢 **HPE** | Cloud Data Engineer | San Jose, Califor... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/San-Jose-California-United-States-of-America/Cloud-Data-Engineer_1204339) |
 | 🏢 **HPE (University)** | Cloud Data Engineer | San Jose, Califor... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Data-Engineer_1204339-2) |
 | 🏢 **Whatnot** | Data Engineer | San Francisco, CA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/whatnot/9fd6fef1-619f-48dd-97b0-c91063432df3/application) |
@@ -347,8 +347,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Samba TV** | Data Engineer - Samba Platform | San Francisco, Ca... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/sambatv/48ece6c2-da7e-4804-8941-ffd01746886a/apply) |
 | 🏢 **Anduril** | Data Engineer, Infrastructure FinOps | Costa Mesa, Calif... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5090905007?gh_jid=5090905007) |
 | 🏢 **Akuna Capital** | Software Engineer - Data Engineering | Chicago, IL | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://www.akunacapital.com/careers/job/7496411/?gh_jid=7496411) |
-| 🏢 **Amazon.com Services LLC** | Data Engineer, AMZL Orbit Data Engineering | Bellevue, WA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10416440/data-engineer-amzl-orbit-data-engineering) |
-| 🏢 **Amazon.com Services LLC** | Data Engineer, PXT Central Science | Seattle, WA | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10415447/data-engineer-pxt-central-science) |
+| 🏢 **Amazon.com Services LLC** | Data Engineer, AMZL Orbit Data Engineering | Bellevue, WA | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10416440/data-engineer-amzl-orbit-data-engineering) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -396,7 +395,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Whatnot** | Software Engineer, Machine Learning Infrastructure | San Francisco, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/whatnot/5b592753-40a8-405e-8ced-35c311ff1354/application) |
 | 🏢 **Figma** | Sales AI Engineer | San Francisco, CA... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5991176004?gh_jid=5991176004) |
 | 🏢 **Torc Robotics** | ML Engineer, I - App Engine | Ann Arbor, MI | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/torcrobotics/jobs/8525554002) |
-| 🏢 **Annapurna Labs (U.S.) Inc.** | EMIR Engineer, Annapurna Labs - Cloud Scale Machine Learning | Cupertino, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10419315/emir-engineer-annapurna-labs-cloud-scale-machine-learning) |
+| 🏢 **Annapurna Labs (U.S.) Inc.** | EMIR Engineer, Annapurna Labs - Cloud Scale Machine Learning | Cupertino, CA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10419315/emir-engineer-annapurna-labs-cloud-scale-machine-learning) |
 | 🏢 **AHEAD** | Associate AI Engineer | Chicago, Illinois | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/thinkahead/1ebcedcb-82ba-4d19-ac88-aa73a812dd81/apply) |
 | 🏢 **Apple** | Generative AI Engineer - Camera Algorithms | Cupertino | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200662672/generative-ai-engineer-camera-algorithms) |
 | 🏢 **Hunt Oil Company** | AI Engineer | Dallas, TX | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/839) |
@@ -516,7 +515,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 707 current opportunities from 212 companies**
+**🎯 706 current opportunities from 212 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
@@ -524,6 +523,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: May 15, 2026
+**Last Updated**: May 16, 2026
 
 </div>
