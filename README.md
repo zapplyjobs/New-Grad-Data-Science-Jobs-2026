@@ -110,7 +110,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Intel** | Data Scientist | US, Arizona, Phoenix | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Data-Scientist_JR0283787) |
 | 🏢 **Anthropic** | People Research Scientist | San Francisco, CA... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5113785008) |
 | 🏢 **Captivation** | Data Scientist 2 - Python/R/TensorFlow/SQL/Tableau | Annapolis Junctio... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5196927008) |
-| 🏢 **OpenAI** | Data Scientist, Core Experimentation | Seattle | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/e90a44a7-fc2e-49bf-aec4-d43b9e3d8e92/application) |
+| 🏢 **OpenAI** | Data Scientist, Core Experimentation | Seattle | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/e90a44a7-fc2e-49bf-aec4-d43b9e3d8e92/application) |
 | 🏢 **Nextdoor** | Machine Learning Engineer - New Grad 2026 | San Francisco, CA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://about.nextdoor.com/careers-list/?gh_jid=7264954) |
 | 🏢 **Unity** | Applied Scientist, Vector AI | Mountain View, CA... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://unity.com/careers/positions/7905751?gh_jid=7905751) |
 | 🏢 **Exact Sciences** | Bioinformatics Scientist | San Diego, CA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---San-Diego/Bioinformatics-Scientist_R26-13249) |
@@ -291,7 +291,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | 🏢 **Booz Allen Hamilton** | Data Engineer | Ford Island, HI | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Ford-Island-HI/Data-Engineer_R0240138) |
-| 🏢 **Booz Allen Hamilton** | Data Engineer | Honolulu, HI | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Engineer_R0240103) |
+| 🏢 **Booz Allen Hamilton** | Data Engineer | Honolulu, HI | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Engineer_R0240103) |
 | 🏢 **The Hartford** | Junior Developer / Data Engineer – AI Platforms | Chicago, IL + 4 more | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Chicago-IL/Junior-Developer---Data-Engineer---AI-Platforms_R2625192) |
 | 🏢 **The New York Times** | Data Engineer, Revenue Technology | New York, NY | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4645686005) |
 | 🏢 **SharkNinja** | Data Platform Administrator | Remote | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4673527006) |
