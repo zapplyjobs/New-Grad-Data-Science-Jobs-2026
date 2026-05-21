@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-613-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-224-blue?style=flat&logo=building)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-612-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-223-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -131,10 +131,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Booz Allen Hamilton** | Agentic AI Machine Learning Engineer | Washington, DC + ... | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Agentic-AI-Machine-Learning-Engineer_R0240554) |
 | **CACI** | Machine Learning Engineer (Clearance ... | Chantilly, VA, US | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Chantilly-VA-US/Machine-Learning-Engineer--Clearance-Sponsorship-_325560) |
 | **BlackRock** | Artificial Intelligence & Machine Lea... | New York, NY | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/New-York-NY/Artificial-Intelligence---Machine-Learning-Engineer--Associate_R261707) |
-| **Vertex Pharmaceuticals** | Pharmacology Research Scientist, Ex Vivo | Boston, MA | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Pharmacology-Research-Scientist--Ex-Vivo_REQ-29064) |
-| **Vertex Pharmaceuticals** | Research Scientist, Pain Pharmacology | San Diego, CA | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/San-Diego-CA/Research-Scientist--Pain-Pharmacology_REQ-28910) |
-| **Vertex Pharmaceuticals** | Protein Sciences Research Scientist | Seattle, WA | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Seattle-WA/Protein-Sciences-Research-Scientist_REQ-28792) |
-| **Zayo** | Data Analytics Engineer - Network Dat... | United States | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zayo.wd1.myworkdayjobs.com/Zayo_Careers/job/United-States/Data-Analytics-Engineer---Network-Data-Solutions_R0016284) |
+| **Vertex Pharmaceuticals** | Pharmacology Research Scientist, Ex Vivo | Boston, MA | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Pharmacology-Research-Scientist--Ex-Vivo_REQ-29064) |
+| **Vertex Pharmaceuticals** | Research Scientist, Pain Pharmacology | San Diego, CA | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/San-Diego-CA/Research-Scientist--Pain-Pharmacology_REQ-28910) |
+| **Vertex Pharmaceuticals** | Protein Sciences Research Scientist | Seattle, WA | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Seattle-WA/Protein-Sciences-Research-Scientist_REQ-28792) |
+| **Zayo** | Data Analytics Engineer - Network Dat... | United States | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zayo.wd1.myworkdayjobs.com/Zayo_Careers/job/United-States/Data-Analytics-Engineer---Network-Data-Solutions_R0016284) |
 | **Guidehouse** | AI / Machine Learning Engineer | IN Indianapolis +... | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IN-Indianapolis/AI---Machine-Learning-Engineer_38348) |
 | **Carnegie Mellon University** | Machine Learning Engineer - Autonomy Lab | Pittsburgh, PA + ... | 6h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Machine-Engineer---Autonomy-Lab_2024072) |
 | **Carnegie Mellon University** | Machine Learning Engineer - Secure AI... | Pittsburgh, PA + ... | 6h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Machine-Learning-Engineer---Secure-AI-Lab_2024338-1) |
@@ -142,7 +142,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Boston Dynamics** | Machine Learning Engineer, Large Scal... | Waltham | 6h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Machine-Learning-Engineer--Large-Scale-Behavior-Cloning_R2581) |
 | **Boston Dynamics** | Research Scientist, Reinforcement Lea... | Waltham | 6h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Research-Scientist--Reinforcement-Learning---Atlas-_R2708) |
 | **Asana** | Data Scientist | San Francisco | 6h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://www.asana.com/jobs/apply/7776312?gh_jid=7776312) |
-| **Graphcore** | Research Scientist (Visual Generative... | Cambridge, UK | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/graphcore/jobs/8559604002) |
+| **Graphcore** | Research Scientist (Visual Generative... | Cambridge, UK | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/graphcore/jobs/8559604002) |
 | **Amazon.com Services LLC** | Applied Scientist II, Amazon - Vertic... | Palo Alto, CA | 21h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10426772/applied-scientist-ii-amazon-vertical-ads) |
 | **Waymo** | Applied Research Scientist, Multi-Mod... | Mountain View, CA... | 21h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7948348) |
 | **Nasdaq** | Graduate Data Scientist | Boston, MA | 23h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---Boston---Massachusetts/Data-Scientist---Graduate_R0026144) |
@@ -259,17 +259,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CACI** | Testing Data Analyst | National Harbor, ... | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/National-Harbor-MD-US/Testing-Data-Analyst_326768-1) |
 | **Broadridge** | Data Analyst - Investment products (C... | New York, NY | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://broadridge.wd5.myworkdayjobs.com/Careers/job/New-York-NY/Data-Analyst---Investment-products--CONTRACT--REMOTE_JR1082725) |
 | **AIG** | AI Observability Engineer | Atlanta, GA | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://aig.wd1.myworkdayjobs.com/AIG/job/GA-Atlanta/AI-Observability-Engineer_JR2601747) |
-| **Vertex Pharmaceuticals** | Vertex Fall Co-op 2026, Scientific Wr... | Boston, MA | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Vertex-Fall-Co-op-2026--Scientific-Writing-and-Disease-Area-Communications_REQ-28232-1) |
-| **Vertex Pharmaceuticals** | Vertex Fall Co-op 2026, Predictive an... | San Diego, CA | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/San-Diego-CA/Vertex-Fall-Co-op-2026--Predictive-and-Investigative-Safety-Assessment_REQ-28215-1) |
-| **Vertex Pharmaceuticals** | Vertex Fall Co-op 2026, Protein Sciences | San Diego, CA | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/San-Diego-CA/Vertex-Fall-Co-op-2026--Protein-Sciences_REQ-28168-1) |
+| **Vertex Pharmaceuticals** | Vertex Fall Co-op 2026, Scientific Wr... | Boston, MA | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Vertex-Fall-Co-op-2026--Scientific-Writing-and-Disease-Area-Communications_REQ-28232-1) |
+| **Vertex Pharmaceuticals** | Vertex Fall Co-op 2026, Predictive an... | San Diego, CA | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/San-Diego-CA/Vertex-Fall-Co-op-2026--Predictive-and-Investigative-Safety-Assessment_REQ-28215-1) |
+| **Vertex Pharmaceuticals** | Vertex Fall Co-op 2026, Protein Sciences | San Diego, CA | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/San-Diego-CA/Vertex-Fall-Co-op-2026--Protein-Sciences_REQ-28168-1) |
 | **Intel** | Quantum Computing Measurement Engineer | US, Oregon, Hills... | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Quantum-Computing-Measurement-Engineer_JR0284192) |
 | **Boston Dynamics** | Teleoperations Research Engineer, Atlas | Waltham | 6h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Teleoperations-Research-Scientist--Atlas_R2182) |
 | **Proofpoint** | People Data Analyst | Sunnyvale, CA + 4... | 8h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Sunnyvale-CA/People-Data-Analyst_R14204) |
 | **CVS Health** | Analyst, Medical Economics (Medical E... | North Carolina | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-North-Carolina/Analyst--Medical-Economics--Medical-Expense-Review-_R0920988) |
-| **CVS Health** | Client Financial Analysis & Optimizat... | Work from home, IL | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Client-Financial-Analysis---Optimization-Analyst_R0917520) |
+| **CVS Health** | Client Financial Analysis & Optimizat... | Work from home, IL | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Client-Financial-Analysis---Optimization-Analyst_R0917520) |
 | **JPMorgan Chase** | Quantitative Analytics Associate - Co... | Wilmington, DE, U... | 21h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210748726) |
 | **Anthropic** | Protective Intelligence Analyst | San Francisco, CA... | 21h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5227121008) |
-| **USAA** | Decision Science Analyst I | San Antonio + 1 more | 23h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-IIIII/Decision-Science-Analyst-I_R0116416) |
+| **USAA** | Decision Science Analyst I | San Antonio + 1 more | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-IIIII/Decision-Science-Analyst-I_R0116416) |
 | **Acrisure Innovation** | Data Analyst, Customer Success | Austin, TX | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/acrisureinnovation/jobs/8558844002) |
 | **Accenture Federal Services** | Product Operations Batch Monitoring &... | Arlington, VA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4682843006?gh_jid=4682843006) |
 | **Navan** | Integration Engineer | Bengaluru, IN | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://navan.com/careers/openings?gh_jid=7838997) |
@@ -417,7 +417,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Booz Allen Hamilton** | AI Engineer | San Antonio, TX +... | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Antonio-TX/AI-Engineer_R0238124) |
 | **CACI** | AI/ML Engineer | Aurora CO US + 1 ... | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Aurora-CO-US/AI-ML-Engineer_325181) |
 | **Coupang** | Machine Learning Intern | Mountain View, USA | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://www.coupang.jobs/en/jobs/?gh_jid=7944326) |
-| **Zayo** | Network Automation & AI Engineer Inte... | Denver, CO | 4h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zayo.wd1.myworkdayjobs.com/Zayo_Careers/job/CO---Denver/Network-Automation---AI-Engineer-Intern---WaaS_R0016176) |
+| **Zayo** | Network Automation & AI Engineer Inte... | Denver, CO | 5h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zayo.wd1.myworkdayjobs.com/Zayo_Careers/job/CO---Denver/Network-Automation---AI-Engineer-Intern---WaaS_R0016176) |
 | **SpaceX** | ML Engineer, Surrogate Modeling (Vehi... | Hawthorne, CA | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8559035002?gh_jid=8559035002) |
 | **Etsy** | Software Engineer II, Machine Learning | Brooklyn, New York | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Machine-Learning-Engineer_JR5383-1) |
 | **Zoom** | AI Engineer - Agent Automation | Seattle, WA + 1 more | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/AI-Engineer---Agent-Automation_R17809-1) |
@@ -518,7 +518,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 613 current opportunities from 224 companies**
+**🎯 612 current opportunities from 223 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
