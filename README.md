@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-589-brightgreen?style=flat&logo=briefcase)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-587-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-215-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -271,7 +271,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Anthropic** | Protective Intelligence Analyst | San Francisco, CA... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5227121008) |
 | **USAA** | Decision Science Analyst I | San Antonio + 1 more | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-IIIII/Decision-Science-Analyst-I_R0116416) |
 | **Acrisure Innovation** | Data Analyst, Customer Success | Austin, TX | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/acrisureinnovation/jobs/8558844002) |
-| **Accenture Federal Services** | Product Operations Batch Monitoring &... | Arlington, VA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4682843006?gh_jid=4682843006) |
+| **Accenture Federal Services** | Product Operations Batch Monitoring &... | Arlington, VA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4682843006?gh_jid=4682843006) |
 | **Navan** | Integration Engineer | Bengaluru, IN | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://navan.com/careers/openings?gh_jid=7838997) |
 | **Amazon Development Center U.S., Inc.** | Manager, Applied Science, AWS Center ... | Pasadena, CA | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10426071/manager-applied-science-aws-center-for-quantum-computing) |
 | **Wells Fargo** | Engineering Associate - Data Engineer... | Charlotte, NC | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/ISELIN-NJ/Engineering-Associate---Data-Engineering---Analytics_R-547035) |
@@ -436,7 +436,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Guidehouse** | Technical SETA SME – Machine Learning... | MD, Bethesda | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Technical-SETA-SME---Machine-Learning--Modeling---Simulation_38258) |
 | **Daimler Truck** | Applied AI Engineer - Manufacturing S... | Cleveland, NC US | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Cleveland-NC-US/Software-Engineer---AI---Industrial-Applications_DT-17749) |
 | **Guidehouse** | AI/ML Engineer | VA, Sterling | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Sterling/AI-ML-Engineer_39609) |
-| **Redis** | Applied AI Engineer - Bay Area |  | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/redis/11c6ae5c-d184-41a9-8b5e-d964e0c65867/application) |
+| **Redis** | Applied AI Engineer - Bay Area |  | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/redis/11c6ae5c-d184-41a9-8b5e-d964e0c65867/application) |
 | **CLEAR** | Forward Deployed AI Engineer II | New York, NY, Uni... | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/clear/jobs/7927498) |
 | **CLEAR** | Forward Deployed AI Engineer | New York, NY, Uni... | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/clear/jobs/7927496) |
 | **DoorDash** | Software Engineer, Machine Learning -... | San Francisco, CA... | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/7932109) |
@@ -512,7 +512,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 589 current opportunities from 215 companies**
+**🎯 587 current opportunities from 215 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
