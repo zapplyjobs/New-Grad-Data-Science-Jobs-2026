@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-568-brightgreen?style=flat&logo=briefcase)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-567-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-213-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -337,7 +337,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **KBR** | Data Engineer | Camarillo, Califo... | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Camarillo-California/Data-Engineer_R2121517) |
 | **KBR** | Data Engineer | Honolulu, Hawaii | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Honolulu-Hawaii/Data-Engineer_R2121515) |
 | **CrowdStrike** | Data Engineer, Go To Market (Remote) | Remote, CA | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Data-Engineer--Go-To-Market--Remote-_R28755) |
-| **Intel** | DTCO Data Engineer | US, Texas, Austin | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/DTCO-Data-Engineer_JR0284161-1) |
 | **PlusAI** | Software Engineer Intern - Data Infra... | Santa Clara, CA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/06b808df-85a1-4ddd-863c-3e1cbe61eda9/apply) |
 | **Rocket Lawyer** | Data Engineering Intern (AI & Automat... | Arizona ; Califor... | 3w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlawyer/jobs/5203906008) |
 | **Marmon Holdings** | Data Engineering Intern OR Student Co-Op | Milwaukee, WI | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453) |
@@ -356,11 +355,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | **Cencora** | Data Visualization Specialist 1 | United States | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-Idaho/Spec---Data-Visualization-Specialist-I_R267391) |
 | **Datadog** | Manager I, Engineering - Data Visuali... | New York, New Yor... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.datadoghq.com/detail/7947742/?gh_jid=7947742) |
-| **Red Ventures** | Business Intelligence Manager   Bankrate | United States | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.redventures.com/careers/positions/open?gh_jid=7926187) |
+| **Red Ventures** | Business Intelligence Manager   Bankrate | United States | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.redventures.com/careers/positions/open?gh_jid=7926187) |
 | **Eurofins** | Business Intelligence Intern | Lancaster, PA | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127459559) |
 | **General Motors** | Manager - Business Intelligence | Texas | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---Texas/Manager---Business-Intelligence_JR-202611160) |
 | **Blue Origin** | Business Intelligence Engineer III | Greater Seattle A... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Business-Intelligence-Engineer-III_R63711) |
-| **General Motors** | Manager - Business Intelligence | Warren, Michigan,... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Manager---Business-Intelligence_JR-202611164-1) |
+| **General Motors** | Manager - Business Intelligence | Warren, Michigan,... | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Manager---Business-Intelligence_JR-202611164-1) |
 | **Leidos** | Reporting Analyst | 6314 Remote/Telew... | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Reporting-Analyst_R-00180724) |
 | **Guidehouse** | Data Visualization Specialist | TX, San Antonio | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Data-Visualization-Specialist_35325) |
 | **Guidehouse** | Data Visualization Specialist | TX, San Antonio | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Data-Visualization-Specialist_35326) |
@@ -511,7 +510,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 568 current opportunities from 213 companies**
+**🎯 567 current opportunities from 213 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
