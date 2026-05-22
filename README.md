@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-603-brightgreen?style=flat&logo=briefcase)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-602-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-220-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -366,7 +366,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Guidehouse** | Data Visualization Specialist | TX, San Antonio | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Data-Visualization-Specialist_35325) |
 | **Guidehouse** | Data Visualization Specialist | TX, San Antonio | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---TX-San-Antonio/Data-Visualization-Specialist_35326) |
 | **Guidehouse** | Data Visualization Expert | VA, Springfield | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Springfield/Data-Visualization-Expert_39491) |
-| **KeyBank** | Investor Reporting Analyst II | Overland Park, KS | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Overland-Park-KS/Investor-Reporting-Analyst-II_R-39774) |
+| **KeyBank** | Investor Reporting Analyst II | Overland Park, KS | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Overland-Park-KS/Investor-Reporting-Analyst-II_R-39774) |
 | **National Interstate Insurance** | Data Reporting Analyst | Cincinnati, OH | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Reporting-Analyst_R8975) |
 | **General Motors** | Business Intelligence Engineer – Glob... | Warren, Michigan,... | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Business-Intelligence-Engineer---Global-Manufacturing-Electrical---SDV_JR-202609143) |
 | **Comcast** | Comcast Reporting Analyst Co-op | Philadelphia, PA | 2w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Reporting-Analyst-Co-op_R436182) |
@@ -426,7 +426,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Adobe** | Researcher/ML Engineer | San Jose | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Researcher-ML-Engineer_R169016) |
 | **Booz Allen Hamilton** | Computer Vision AI Engineer | McLean, VA + 4 more | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Computer-Vision-AI-Engineer_R0238503) |
 | **Guidehouse** | AI Engineer | VA McLean + 1 more | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/AI-Engineer_38812) |
-| **Handshake** | Applied AI Engineer, Handshake AI Ent... | San Francisco, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/handshake/b1e63b0f-daa0-48d0-b69d-676576b2c70f/application) |
+| **Handshake** | Applied AI Engineer, Handshake AI Ent... | San Francisco, CA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/handshake/b1e63b0f-daa0-48d0-b69d-676576b2c70f/application) |
 | **Guidewire** | AI Engineer Intern | Philadelphia, PA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Philadelphia-PA/AI-Engineering-Intern_JR_14530) |
 | **Microsoft** | Applied AI Engineer II | Redmond, Washingt... | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556864775) |
 | **Parspec** | Applied AI Engineer Intern | San Mateo, Califo... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/parspec/0a897c21-0df7-40ba-85f2-694bf6678504/application) |
@@ -515,7 +515,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 603 current opportunities from 220 companies**
+**🎯 602 current opportunities from 220 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
