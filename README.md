@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-517-brightgreen?style=flat&logo=briefcase)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-516-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-199-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -350,12 +350,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Accenture Federal Services** | Data Visualization Specialist | Suitland, MD | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4683855006?gh_jid=4683855006) |
 | **Blue Origin** | Business Intelligence Engineer Sr, | Greater Seattle A... | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Business-Intelligence-Engineer-III_R63711) |
 | **Datadog** | Manager I, Engineering - Data Visuali... | New York, New Yor... | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.datadoghq.com/detail/7947742/?gh_jid=7947742) |
-| **Red Ventures** | Business Intelligence Manager   Bankrate | United States | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.redventures.com/careers/positions/open?gh_jid=7926187) |
+| **Red Ventures** | Business Intelligence Manager   Bankrate | United States | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.redventures.com/careers/positions/open?gh_jid=7926187) |
 | **Eurofins** | Business Intelligence Intern | Lancaster, PA | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000127459559) |
 | **Generac** | Sustainability Reporting Analyst | Waukesha, WI - USA | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Waukesha-WI---USA/Sustainability-Reporting-Analyst_JR14426) |
 | **Vanguard** | Fund Financial & Regulatory Reporting... | Malvern, PA | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Fund-Financial---Regulatory-Reporting-Analyst--Specialist_176492) |
 | **General Motors** | Manager - Business Intelligence | Texas | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---Texas/Manager---Business-Intelligence_JR-202611160) |
-| **General Motors** | Manager - Business Intelligence | Warren, Michigan,... | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Manager---Business-Intelligence_JR-202611164-1) |
 | **Comcast** | Comcast Reporting Analyst Co-op | Philadelphia, PA | 2w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Reporting-Analyst-Co-op_R436182) |
 | **RTX** | Stage - Automne - Stagiaire en soutie... | Qc, CA | 3w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne---Stagiaire-en-soutien-numrique-et-intelligence-d-affaires---Internship---Fall---Digital-Support---Business-Intelligence-Intern_01838477) |
 | **Microchip Technology** | Intern - Engineering (Business Intell... | Chandler, AZ | 3w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://microchiphr.wd5.myworkdayjobs.com/External/job/AZ---Chandler/Intern---Engineering--Business-Intelligence-_R1727-26) |
@@ -484,7 +483,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 517 current opportunities from 199 companies**
+**🎯 516 current opportunities from 199 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
