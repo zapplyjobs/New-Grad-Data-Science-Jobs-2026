@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-522-brightgreen?style=flat&logo=briefcase)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-521-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-200-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -130,8 +130,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon.com Services LLC** | Applied Scientist II, Sponsored Produ... | Palo Alto, CA | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10428848/applied-scientist-ii-sponsored-products-autonomous-campaigns) |
 | **Unity** | Machine Learning Engineer, User Under... | Mountain View, CA... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://unity.com/careers/positions/7947300?gh_jid=7947300) |
 | **Apple** | Machine Learning Engineer | Cupertino | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200641514/machine-learning-engineer) |
-| **Microsoft** | Snr Applied Scientist | United States | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556859730) |
-| **NT Concepts** | Data Scientist | Herndon, VA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/ntconcepts/jobs/6003585004) |
+| **Microsoft** | Snr Applied Scientist | United States | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556859730) |
+| **NT Concepts** | Data Scientist | Herndon, VA | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/ntconcepts/jobs/6003585004) |
 | **IDEXX** | Computer Vision Data Scientist | Westbrook, ME | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Computer-Vision-Data-Scientist_J-050855) |
 | **Guidehouse** | Bioinformatics Scientist | MD, Baltimore | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Baltimore/Bioinformatics-Scientist_38617-1) |
 | **Guidehouse** | AI/ML Data Scientist | VA Arlington + 1 ... | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/AI-ML-Data-Scientist_38389) |
@@ -152,7 +152,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AeroVironment** | Machine Learning Engineer III | Centreville, VA +... | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avav.wd1.myworkdayjobs.com/AVAV/job/Centreville-VA/Machine-Learning-Engineer_7437) |
 | **Jabil** | data scientist | St. Petersburg/Ta... | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/data-scientist_J2447396) |
 | **Asana** | Data Scientist | San Francisco | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://www.asana.com/jobs/apply/7776312?gh_jid=7776312) |
-| **Microsoft** | Multidisciplinary Manager, Industry S... | United States | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556652525) |
+| **Microsoft** | Multidisciplinary Manager, Industry S... | United States | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556652525) |
 | **Graphcore** | Research Scientist (Visual Generative... | Cambridge, UK | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/graphcore/jobs/8559604002) |
 | **NVIDIA** | Quantum Error Correction Research Sci... | US, CA, Remote | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628) |
 | **BlackRock** | Artificial Intelligence & Machine Lea... | New York, NY | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/New-York-NY/Artificial-Intelligence---Machine-Learning-Engineer--Associate_R261707) |
@@ -486,7 +486,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 522 current opportunities from 200 companies**
+**🎯 521 current opportunities from 200 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
