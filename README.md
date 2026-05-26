@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-524-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-202-blue?style=flat&logo=building)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-522-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-200-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -421,7 +421,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Honeywell** | Advanced AI Engineer | Charlotte, NC, Un... | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/147735) |
 | **Leidos** | AI Engineer | 6314 Remote/Telew... | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Engineer_R-00175439) |
 | **Guidehouse** | AI Engineer | VA McLean + 1 more | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/AI-Engineer_38812) |
-| **Handshake** | Applied AI Engineer, Handshake AI Ent... | San Francisco, CA | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/handshake/b1e63b0f-daa0-48d0-b69d-676576b2c70f/application) |
 | **Parspec** | Applied AI Engineer Intern | San Mateo, Califo... | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/parspec/0a897c21-0df7-40ba-85f2-694bf6678504/application) |
 | **Red Hat** | Machine Learning Systems Research Int... | Boston | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://redhat.wd5.myworkdayjobs.com/jobs/job/Boston/Machine-Learning-Systems-Research-Intern--PhD--Summer-2026_R-052520) |
 | **PlusAI** | Machine Learning Infrastructure Engin... | Santa Clara, CA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/30dd9b9b-48c8-4777-97f6-8edb30db12e4/apply) |
@@ -487,7 +486,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 524 current opportunities from 202 companies**
+**🎯 522 current opportunities from 200 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
