@@ -18,8 +18,8 @@
 <div align="center">
 
 ![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-471-brightgreen?style=flat&logo=briefcase)
-![Top: Data Analyst](https://img.shields.io/badge/Data_Analyst-178-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-186-blue?style=flat&logo=building)
+![Top: Data Analyst](https://img.shields.io/badge/Data_Analyst-178-purple?style=flat&logo=tag)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
