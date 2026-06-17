@@ -49,3 +49,8 @@ coverage/
 *credential*
 *.key
 *.pem
+
+# Closed-pipe: transient data
+.github/data/current_jobs.json
+.github/data/new_jobs.json
+.github/data/run_metrics.json
