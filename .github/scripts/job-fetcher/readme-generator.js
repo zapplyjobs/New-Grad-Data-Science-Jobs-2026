@@ -9,10 +9,10 @@
 const path = require("path");
 
 // Load repo-specific config
-const config = require(path.join(process.cwd(), '.github/scripts/job-fetcher/config.js'));
+const config = require(path.join(process.cwd(), 'config', 'config.js'));
 
 // Load repo-specific job categories
-const jobCategories = require(path.join(process.cwd(), '.github/scripts/job-fetcher/job_categories.json'));
+const jobCategories = require(path.join(process.cwd(), 'config', 'job_categories.json'));
 
 // Import shared readme generator
 const { createReadmeGenerator } = require(path.join(__dirname, '../consumer/lib/readme-generator.js'));
