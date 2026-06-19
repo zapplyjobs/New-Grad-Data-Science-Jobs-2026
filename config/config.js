@@ -15,10 +15,10 @@ module.exports = {
 
   // Image configuration
   repoPrefix: 'dsj',
-  headingImageAlt: 'Data Science Jobs 2026 - Illustration of people working in data science.',
+  headingImageAlt: 'Data Science Jobs 2027 - Illustration of people working in data science.',
 
   // Branding text
-  title: 'Data Science Jobs 2026',
+  title: 'Data Science Jobs 2027',
   tagline: '',  // No tagline for SEO repos
   jobCountBadgeLabel: 'Data Science Jobs',
 
@@ -31,7 +31,7 @@ module.exports = {
   noteText: '🛠 Help us grow! Add new jobs by submitting an issue! View contributing steps [here](CONTRIBUTING-GUIDE.md).',
 
   // Section headers
-  jobsSectionHeader: 'Fresh Data Science Jobs 2026',
+  jobsSectionHeader: 'Fresh Data Science Jobs 2027',
 
   // Feature flags
   features: {
