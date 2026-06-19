@@ -1,5 +1,5 @@
 /**
- * New-Grad-Data-Science-Jobs-2026 Configuration
+ * New-Grad-Data-Science-Jobs-2027 Configuration
  *
  * Purpose: Per-repo customization for shared job board library
  * Version: 1.0 (2026-02-12)

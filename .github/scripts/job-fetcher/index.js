@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * Main entry point for the job fetcher system - New-Grad-Data-Science-Jobs-2026
+ * Main entry point for the job fetcher system - New-Grad-Data-Science-Jobs-2027
  *
  * Fetches data science jobs from centralized aggregator and generates README.
  * Replaced JSearch direct fetch with aggregator consumer (2026-02-18).
