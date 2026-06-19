@@ -9,8 +9,8 @@
 - Part of the Zapply Jobs ecosystem (zapplyjobs)
 
 ## Related repos
-- All Jobs: github.com/zapplyjobs/New-Grad-Jobs-2026
-- Internships: github.com/zapplyjobs/Internships-2026
+- All Jobs: github.com/zapplyjobs/New-Grad-Jobs-2027
+- Internships: github.com/zapplyjobs/Internships-2027
 
 ## Who maintains this
 Zapply Jobs (zapplyjobs) — automated pipeline with human curation
